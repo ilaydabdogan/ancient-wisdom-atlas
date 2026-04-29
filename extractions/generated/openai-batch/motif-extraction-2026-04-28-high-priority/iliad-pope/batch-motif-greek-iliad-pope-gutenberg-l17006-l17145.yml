@@ -1,0 +1,503 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l17006-l17145
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE SIXTH BATTLE, THE ACTS AND DEATH OF PATROCLUS / BOOK XVII. / ARGUMENT.
+    / THE SEVENTH BATTLE, FOR THE BODY OF PATROCLUS.THE ACTS OF MENELAUS.; lines 17006-17145
+  start: '17006'
+  end: '17145'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Achilles' immortal horses mourn the dead Patroclus and refuse to move until
+    Jove pities and strengthens them. Automedon and Alcimedon manage Achilles' chariot
+    while Hector and Aeneas attempt to seize the horses. Automedon calls for aid,
+    kills Aretus, avoids a spear-cast, and, after Ajax intervenes, strips Aretus'
+    arms and dedicates the act as an offering to Patroclus' shade.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Achilles' horses stand apart from the battle, weep, and refuse Automedon's
+    rein, lash, soothing, and threats.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The horses are described as immortal, exempt from age and death, yet sharing
+    mortal grief.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Jove pities the horses, speaks to them, and promises to give them swiftness
+    and spirit so Automedon may reach the ships safely.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jove breathes spirit into the horses, and they shake off dust and drive the
+    chariot through the battle.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'Automedon and Alcimedon exchange roles: Alcimedon takes the reins while Automedon
+    takes up the fighting task.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hector and Aeneas see Achilles' chariot without Achilles and decide to attack
+    in hopes of taking the horses.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Automedon calls the Ajaces and Atrides for aid against Hector and Aeneas.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Automedon kills Aretus with a javelin that pierces his belt and lower belly.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Automedon strips Aretus' arms and calls the act a sacrifice and offering to
+    Patroclus' shade.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Achilles' immortal horses
+  description: Deathless horses belonging to Achilles that mourn Patroclus and later
+    pull the chariot through battle after Jove strengthens them.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Automedon
+  description: Charioteer associated with Achilles' horses; he later fights from the
+    chariot, calls for aid, kills Aretus, and dedicates the spoil to Patroclus' shade.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Jove
+  description: Divine figure who pities and addresses the horses, then gives them
+    renewed spirit and swiftness.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Alcimedon
+  description: Warrior who takes the reins of the heavenly horses when Automedon yields
+    the chariot seat to him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Patroclus
+  description: Slain companion whose death causes the horses' grief and whose shade
+    receives Automedon's declared offering.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+- id: fig:6
+  name_or_label: Hector
+  description: Trojan leader who wears Achilles' arms and attempts with Aeneas to
+    seize Achilles' chariot and horses.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Aeneas
+  description: Son of Venus who joins Hector in the attempt to capture Achilles' horses.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Aretus
+  description: Trojan warrior who follows Hector and Aeneas and is killed by Automedon.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:9
+  name_or_label: Ajaces
+  description: Warriors called by Automedon for immediate aid and later interposing
+    before the fight closes with swords.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:10
+  name_or_label: Atrides
+  description: Figure called by Automedon along with the Ajaces for aid.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: mourning animal companions
+  assigned_to:
+  - fig:1
+  basis: The horses weep for their slain master and stand immovable in grief.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: immortal beings touched by mortal suffering
+  assigned_to:
+  - fig:1
+  basis: Jove describes the horses as immortal and deathless, yet sharing mortal woe.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: charioteer and warrior
+  assigned_to:
+  - fig:2
+  basis: Automedon first controls the horses, then yields the reins and takes on the
+    fighting task.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: dedicator of offering to the dead
+  assigned_to:
+  - fig:2
+  basis: After killing and stripping Aretus, Automedon names the act an offering to
+    Patroclus' shade.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: divine helper
+  assigned_to:
+  - fig:3
+  basis: Jove pities the horses and gives them spirit and speed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: replacement chariot-driver
+  assigned_to:
+  - fig:4
+  basis: Alcimedon takes the reins and mounts the chariot seat when Automedon descends
+    to fight.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: honored dead companion
+  assigned_to:
+  - fig:5
+  basis: Patroclus' death causes grief, and Automedon dedicates spoils as an offering
+    to his shade.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:8
+  label: would-be captor of heroic horses
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Hector and Aeneas move to attack Achilles' chariot, hoping to win the horses.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: slain opponent
+  assigned_to:
+  - fig:8
+  basis: Aretus is struck by Automedon's javelin and dies.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: summoned allies
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: Automedon calls the Ajaces and Atrides to turn and give aid.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: immortal horses in grief
+  literal_form: Deathless horses weeping, dust-covered, and motionless beside the
+    battlefield.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: heroic chariot without its lord
+  literal_form: Achilles' chariot seen in battle without Achilles, with weak drivers
+    trying to guide it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: spoils as offering to the shade
+  literal_form: Aretus' stripped arms hung on the chariot and named as a sacrifice
+    or offering to Patroclus' shade.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: Achilles' arms worn by Hector
+  literal_form: Achilles' arms in Hector's possession after Patroclus' death.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: The mourning of Achilles' horses
+  summary: Achilles' horses stand away from the fighting, weep for their slain master,
+    and refuse to move under Automedon's control.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jove strengthens the immortal horses
+  summary: Jove pities the immortal horses, reflects on mortal misery, promises that
+    Hector will not take them, and breathes spirit and speed into them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Alcimedon takes the reins
+  summary: Automedon explains that Patroclus once controlled the horses, gives Alcimedon
+    the chariot seat and reins, and takes up the fighting role himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Hector and Aeneas attempt to seize the horses
+  summary: Hector sees Achilles' chariot without its lord and persuades Aeneas to
+    attack in the hope of capturing the horses; other Trojans follow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Automedon calls for aid and kills Aretus
+  summary: Automedon calls allied warriors for help against Hector and Aeneas, throws
+    a javelin that kills Aretus, avoids a counter-spear, and strips the slain man's
+    arms as an offering to Patroclus' shade.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Immortal horses mourning a dead hero
+  taxonomy_refs: []
+  basis: The passage presents Achilles' deathless horses weeping and refusing to move
+    because Patroclus has been slain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The motif label is descriptive and not tied to a supplied taxonomy family.
+- id: motif:2
+  label: Divine restoration of battle-steeds
+  taxonomy_refs: []
+  basis: Jove pities the horses, speaks to them, and breathes renewed spirit and speed
+    into them for battle and escape.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this battle intervention
+    pattern.
+- id: motif:3
+  label: Contest for the hero's chariot and horses
+  taxonomy_refs: []
+  basis: Hector and Aeneas identify Achilles' chariot without its lord and attempt
+    to capture the horses, while Automedon and allies resist.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a local heroic-war pattern rather than a matched taxonomy motif.
+- id: motif:4
+  label: Enemy's death and spoils as offering to the dead
+  taxonomy_refs:
+  - sacrifice
+  basis: Automedon kills Aretus, strips his arms, and explicitly calls the act a sacrifice
+    and offering to Patroclus' shade.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage uses sacrificial language poetically in battle; it is not
+    a formal ritual scene.
+comparison_claims:
+- id: claim:1
+  claim: Automedon's dedication of Aretus' death and stripped arms to Patroclus' shade
+    can be cautiously compared with the supplied sacrifice motif family.
+  claim_level: same_motif
+  target: sacrifice
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage frames the act as a battlefield killing and spoil-taking,
+    not as a structured ritual sacrifice.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17006-17024
+  quote_or_summary: Achilles' horses, grieving Patroclus, weep, stand immovable, trail
+    their manes in the dust, and resist Automedon's attempts to move them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 17025-17049
+  quote_or_summary: Jove looks with pity on the deathless horses, says they were given
+    to mortal man only to share mortal woe, and promises Hector will not be carried
+    by them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: 17050-17061
+  quote_or_summary: Jove breathes excessive spirit into the immortal horses; they
+    shake off dust and carry the chariot through the battle.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 17062-17083
+  quote_or_summary: Alcimedon approaches Automedon; Automedon says no Greek but Alcimedon
+    can restrain the heavenly horses now that Patroclus is dead, and gives him the
+    reins while he takes up fighting.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 17084-17103
+  quote_or_summary: Hector sees Achilles' chariot without its lord and urges Aeneas
+    to join him in attacking its weak drivers; Chromius and Aretus follow, hoping
+    to win the horses.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: 17104-17125
+  quote_or_summary: Automedon asks Alcimedon to keep the horses close, names Hector
+    as the fierce opponent, and calls the Ajaces and Atrides for immediate aid against
+    Hector and Aeneas.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: 17126-17136
+  quote_or_summary: Automedon's javelin passes Aretus' shield, pierces his belt and
+    lower belly, and Aretus falls dead.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: 17137-17145
+  quote_or_summary: Automedon avoids a Trojan spear; the Ajaces interpose; Hector
+    leaves the slain companion; Automedon strips the arms and names them a sacrifice
+    and offering to Patroclus' shade.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Passage actions and figures are clear. Motif labels beyond the explicit sacrifice
+    language are descriptive and require human review for taxonomy alignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; taxonomy reference applied only where the passage explicitly supports sacrificial language.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l17006-l17145
+  passage_sha256=394c82ecd3b552c777ca0bf82a99a5f826a47a6674a78b46bc3f1e7169416603

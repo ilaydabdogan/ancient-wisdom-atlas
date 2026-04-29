@@ -1,0 +1,626 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l476-l658
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: The Ramayan of Valmiki / CONTENTS; lines 476-658
+  start: '476'
+  end: '658'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists canto titles from the later Sundara/Kishkindha transition
+    into Book VI of the Ramayana, followed by appendix and additional-note headings.
+    The titles name episodes involving Hanuman in Lanka, Ravana, Sita, Rama, Vibhishan,
+    the march and war at Lanka, ocean-threatening, omens, a magic head, battles and
+    deaths, medicinal herbs, Lakshman's fall and healing, Indra's car and boon, praise
+    of the Sun, Ravana's death, Sita's restoration, a magic car, departure, return,
+    meeting with Bharat, and consecration.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The contents list a sequence of canto titles involving Hanuman: capture,
+    reply, punishment, the burning of Lanka, fear for Sita, Mount Arishta, Hanuman''s
+    return, a honey feast, tidings, and Rama''s speech.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Book VI titles begin with speeches by Rama, Sugriva, Ravana, Prahasta, Vibhishan,
+    and Indrajit, and include Lanka, a march, Rama's lament, Vibhishan's counsel,
+    Vibhishan's flight, and spies.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:3
+  text: The contents include repeated titles 'Ocean Threatened' and then 'The Omens'
+    and several spy-related titles.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:4
+  text: The contents include titles naming a magic head, Sita's lament, Sarama, preparations,
+    the ascent of Suvela, and Lanka.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:5
+  text: The contents list many battle and death titles, including victories, sallies,
+    night attack, Lakshman's fall and healing, Indra's car, glory to the Sun, the
+    battle, Ravana's death, and laments.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:6
+  text: Postwar titles include Vibhishan consecrated, Sita's joy, the meeting, Sita's
+    disgrace and reply, glory to Vishnu, Sita restored, Dasaratha, Indra's boon, the
+    magic car, departure, return, Bharat consoled, Rama's message, Hanuman's story,
+    meeting with Bharat, and the consecration.
+  category: sequence
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: obs:7
+  text: The appendix and additional notes headings name divine or mythic figures and
+    topics, including Indra, Vishnu, Siva, Apsarases, Vishnu's incarnation as Rama,
+    Kusa and Lava, Parasurama, Yama, Fate, and household gods.
+  category: object
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Hanuman
+  description: Named in titles as captured, replying, returning, and later as the
+    subject of 'Hanuman's Story'.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:10
+- id: fig:2
+  name_or_label: Ravana
+  description: Named in titles as giving speeches, being encouraged, entering the
+    field, dying, and being mourned.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Sita
+  description: Named in titles connected with fear for her, lament, joy, disgrace,
+    reply, and restoration.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:9
+- id: fig:4
+  name_or_label: Rama
+  description: Named in titles as speaker, lamenter, envoy-sender context, message-giver,
+    and associated with the final consecration sequence.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:10
+- id: fig:5
+  name_or_label: Vibhishan
+  description: Named in titles for speech, counsel, flight, lament, and consecration.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: Lakshman
+  description: Named in titles as falling and being healed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Indra
+  description: Named in titles or headings connected with a car and a boon.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:11
+- id: fig:8
+  name_or_label: Vishnu
+  description: Named in headings for glory and for incarnation as Rama.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+  - ev:11
+- id: fig:9
+  name_or_label: Bharat
+  description: Named in postwar return titles as consoled and as meeting Rama's party.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+- id: fig:10
+  name_or_label: Vánars
+  description: Named collectively in titles as chiefs, chieftains, and as alarmed.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: captured-and-returning figure
+  assigned_to:
+  - fig:1
+  basis: The titles explicitly say 'Hanuman Captured' and 'Hanuman's Return'.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: opposing king or war leader
+  assigned_to:
+  - fig:2
+  basis: Ravana is repeatedly named in speech, battle, death, and lament titles.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:3
+  label: woman who laments and is restored
+  assigned_to:
+  - fig:3
+  basis: Titles include Sita's lament, joy, disgrace, reply, and restoration.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:4
+  label: speaker, lamenter, and returning royal figure
+  assigned_to:
+  - fig:4
+  basis: Rama is named in speech, lament, message, and final return/consecration sequence
+    titles.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:10
+- id: role:5
+  label: counselor, fugitive, mourner, and consecrated figure
+  assigned_to:
+  - fig:5
+  basis: Titles name Vibhishan's speech, counsel, flight, lament, and consecration.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+- id: role:6
+  label: fallen and healed warrior
+  assigned_to:
+  - fig:6
+  basis: Titles state 'Lakshman's Fall' and 'Lakshman Healed'.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: divine provider of car and boon
+  assigned_to:
+  - fig:7
+  basis: Titles include 'Indra's Car' and 'Indra's Boon'.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:8
+  label: deity associated with glory and incarnation
+  assigned_to:
+  - fig:8
+  basis: Headings include 'Glory To Vishnu' and 'Vishnu's Incarnation As Rama'.
+  evidence_refs:
+  - ev:9
+  - ev:11
+- id: role:9
+  label: recipient of consolation and reunion
+  assigned_to:
+  - fig:9
+  basis: Titles include 'Bharat Consoled' and 'The Meeting With Bharat'.
+  evidence_refs:
+  - ev:10
+- id: role:10
+  label: collective allied chiefs or troops
+  assigned_to:
+  - fig:10
+  basis: Titles name Vánar chiefs, chieftains, and alarm.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: burning city
+  literal_form: The title 'The Burning Of Lanka'.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountain stage
+  literal_form: Mount Arishta and Suvela as named mountain places in titles.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: threatened ocean
+  literal_form: The repeated title 'Ocean Threatened'.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: omens
+  literal_form: The title 'The Omens'.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: magic head
+  literal_form: The title 'The Magic Head'.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: medicinal herbs
+  literal_form: The title 'The Medicinal Herbs'.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: divine or magic car
+  literal_form: The titles 'Indra's Car' and 'The Magic Car'.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:8
+  label: sun praise
+  literal_form: The title 'Glory To The Sun'.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Hanuman in Lanka and return
+  summary: A contents sequence names Hanuman's capture, reply, punishment, the burning
+    of Lanka, fear for Sita, Mount Arishta, Hanuman's return, a honey feast, tidings,
+    and Rama's speech.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: War counsel, defection, and approach to Lanka
+  summary: Book VI titles list speeches and counsel, Vibhishan's flight, spies, threatened
+    ocean, omens, and descriptions of Vánar chiefs.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:10
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Preparations and ascent near Lanka
+  summary: Titles name a magic head, Sita's lament, Sarama's tidings, preparations,
+    the ascent of Suvela, and Lanka.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Battle sequence and healing
+  summary: The table of contents lists assaults, single combats, night events, victories,
+    deaths, medicinal herbs, Lakshman's fall and healing, Indra's car, glory to the
+    Sun, battle, Ravana's death, and laments.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:10
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Restoration, boon, departure, return, and consecration
+  summary: Final Book VI titles name Vibhishan consecrated, Sita's joy and restoration,
+    divine glory, Dasaratha, Indra's boon, a magic car, departure, return, Bharat
+    consoled, Rama's message, Hanuman's story, meeting with Bharat, and consecration.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: captured hero or envoy returns with tidings
+  taxonomy_refs:
+  - return
+  basis: The contents sequence explicitly pairs 'Hanuman Captured' with later 'Hanuman's
+    Return' and 'The Tidings'.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only canto titles; it does not narrate the capture,
+    escape, or report.
+- id: motif:2
+  label: burning of a hostile city
+  taxonomy_refs: []
+  basis: The title 'The Burning Of Lanka' identifies a city-burning episode within
+    the Hanuman sequence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The title does not describe the cause, scale, or ritual meaning of the
+    fire.
+- id: motif:3
+  label: mountain ascent or mountain way-station
+  taxonomy_refs:
+  - ascent
+  basis: Titles include 'Mount Arishta' and 'The Ascent Of Suvela'.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: Only the titles support the mountain/ascent pattern; no details of action
+    or symbolism are included.
+- id: motif:4
+  label: ocean as obstacle confronted by threat
+  taxonomy_refs: []
+  basis: The repeated title 'Ocean Threatened' indicates a water/ocean episode involving
+    threat or compulsion.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not specify who threatens the ocean or the result.
+- id: motif:5
+  label: omens before conflict
+  taxonomy_refs: []
+  basis: The title 'The Omens' appears in the war-preparation sequence.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The omens themselves are not described.
+- id: motif:6
+  label: fallen warrior healed by medicinal aid
+  taxonomy_refs:
+  - death_rebirth
+  basis: The contents include 'The Medicinal Herbs', 'Lakshman's Fall', and 'Lakshman
+    Healed'.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The title sequence suggests healing after a fall, but the passage does
+    not state death, near-death, or rebirth.
+- id: motif:7
+  label: divine or magical vehicle enabling final movement
+  taxonomy_refs:
+  - departure
+  - return
+  basis: Postwar titles include 'Indra's Car', 'The Magic Car', 'The Departure', and
+    'The Return'.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The table of contents does not state that the cars directly cause the
+    departure or return.
+- id: motif:8
+  label: restoration of Sita after trial-like public exchange
+  taxonomy_refs: []
+  basis: Titles list 'The Meeting', 'Sita's Disgrace', 'Sita's Reply', and 'Sita Restored'.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage does not narrate the nature of the disgrace, reply, or restoration.
+comparison_claims:
+- id: claim:1
+  claim: The contents support a motif-family comparison to return narratives because
+    both 'Hanuman's Return' and the later 'The Return' are explicit title elements.
+  claim_level: same_motif
+  target: motif_families:return
+  evidence_refs:
+  - ev:2
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is an index of titles, not a narrative account of the returns.
+- id: claim:2
+  claim: The titles support a motif-family comparison to ascent patterns through the
+    explicit title 'The Ascent Of Suvela'.
+  claim_level: same_motif
+  target: motif_families:ascent
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No details of the ascent's ritual, military, or symbolic function are
+    present.
+- id: claim:3
+  claim: The sequence 'The Departure' and 'The Return' supports comparison to a departure-return
+    narrative pattern.
+  claim_level: same_function
+  target: motif_families:departure and motif_families:return
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The titles alone do not identify the departing party, route, or full
+    narrative function.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 476-486
+  quote_or_summary: Titles include 'Hanumán Captured', 'Rávan', 'Prahasta’s Questions',
+    'Hanumán’s Reply', 'Vibhishan’s Speech', 'The Punishment', and 'The Burning Of
+    Lanká'.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short title excerpts used.
+- id: ev:2
+  type: quote
+  locator: lines 487-493
+  quote_or_summary: Titles include 'Fear For Sítá', 'Mount Arishta', 'Hanumán’s Return',
+    'The Feast Of Honey', 'The Tidings', and 'Ráma’s Speech'.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short title excerpts used.
+- id: ev:3
+  type: quote
+  locator: lines 494-511
+  quote_or_summary: Book VI opens with titles including 'Ráma’s Speech', 'Sugríva’s
+    Speech', 'Lanká', 'The March', 'Ráma’s Lament', multiple speeches by Rávan, Prahasta,
+    Vibhishan, and Indrajít, and 'Vibhishan’s Flight'.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short title excerpts used.
+- id: ev:4
+  type: quote
+  locator: lines 512-519
+  quote_or_summary: Titles include 'Ráma’s Speech', 'Vibhishan’s Counsel', 'The Spies',
+    and repeated 'Ocean Threatened'.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short title excerpts used.
+- id: ev:5
+  type: quote
+  locator: lines 520-527
+  quote_or_summary: Titles include 'The Omens', 'The Spy’s Return', 'Rávan’s Spies',
+    'The Vánar Chiefs', 'The Chieftains', 'Sárdúla Captured', and 'Sárdúla’s Speech'.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short title excerpts used.
+- id: ev:6
+  type: quote
+  locator: lines 528-537
+  quote_or_summary: Titles include 'The Magic Head', 'Sítá’s Lament', 'Saramá', 'Saramá’s
+    Tidings', 'Malyaván’s Speech', 'Rávan’s Reply', 'Preparations', 'The Ascent Of
+    Suvela', and 'Lanká'.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short title excerpts used.
+- id: ev:7
+  type: quote
+  locator: lines 538-566
+  quote_or_summary: Titles include 'Rávan Attacked', 'Ráma’s Envoy', 'The Sally',
+    'The Single Combats', 'The Night', 'Indrajít’s Victory', 'Indrajít’s Triumph',
+    'Rávan’s Sally', 'Kumbhakarna Roused', 'The Vánars’ Alarm', and several death
+    titles.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short title excerpts used.
+- id: ev:8
+  type: quote
+  locator: lines 567-584
+  quote_or_summary: Titles include 'The Medicinal Herbs', 'The Night Attack', 'Rávan’s
+    Lament', 'Rávan’s Sally', 'Rávan In The Field', 'Lakshman’s Fall', 'Lakshman Healed',
+    'Indra’s Car', 'Glory To The Sun', 'The Battle', 'Rávan’s Death', and related
+    laments.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short title excerpts used.
+- id: ev:9
+  type: quote
+  locator: lines 585-596
+  quote_or_summary: Titles include 'Vibhishan Consecrated', 'Sítá’s Joy', 'The Meeting',
+    'Sítá’s Disgrace', 'Sítá’s Reply', 'Glory To Vishnu', 'Sítá Restored', 'Dasaratha',
+    'Indra’s Boon', 'The Magic Car', and 'The Departure'.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short title excerpts used.
+- id: ev:10
+  type: quote
+  locator: lines 597-603
+  quote_or_summary: Titles include 'The Return', 'Bharat Consoled', 'Ráma’s Message',
+    'Hanumán’s Story', 'The Meeting With Bharat', and 'The Consecration'.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short title excerpts used.
+- id: ev:11
+  type: quote
+  locator: lines 604-658
+  quote_or_summary: Appendix and additional-note headings include 'Rávan Doomed',
+    'Indra', 'Vishnu', 'Siva', 'Apsarases', 'Vishnu’s Incarnation As Ráma', 'Kusa
+    and Lava', 'Parasuráma', 'Yáma', 'Fate', and other named notes and index headings.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short title excerpts used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Confidence is limited because the passage is a contents list. Titles can
+    support identifying named figures, episodes, and broad motif candidates, but not
+    detailed narrative causality or symbolism.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references are limited to provided motif-family and symbol lists where directly supported by title wording.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l476-l658
+  passage_sha256=872432bc32c4ca6700b685302054d72837550e6c37c7b05bc89975d9ec3c2d7f

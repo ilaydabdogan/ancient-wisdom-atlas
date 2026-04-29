@@ -10,73 +10,20 @@ summary:
   text_count: 58
   texts_with_extractions: 58
   texts_without_extractions: 0
-  texts_needing_full_extraction: 26
+  texts_needing_full_extraction: 24
   texts_needing_review_or_normalization: 58
-  extraction_record_count: 3714
-  candidate_motif_count: 17400
-  taxonomy_ref_count: 14088
-  comparison_claim_count: 3341
+  extraction_record_count: 4114
+  candidate_motif_count: 19437
+  taxonomy_ref_count: 15561
+  comparison_claim_count: 3621
   status_counts:
-    dense_draft: 32
+    dense_draft: 34
     developing: 16
-    thin: 10
+    thin: 8
   priority_counts:
-    high: 10
-    medium: 48
+    high: 8
+    medium: 50
 texts:
-- source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
-  source_text_id: hindu.mahabharata.dutt_gutenberg
-  title: Maha-bharata
-  tradition: hindu
-  culture: sanskrit_epic_later_translation
-  region: south_asia
-  date_range: ancient epic source tradition; 1899 public-domain English verse condensation
-  word_count: 51096
-  target_extraction_records: 13
-  coverage_ratio: 0.154
-  status: thin
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: true
-  extraction_record_count: 2
-  generated_record_count: 0
-  needs_review_count: 2
-  reviewed_count: 0
-  candidate_motif_count: 6
-  taxonomy_ref_count: 8
-  comparison_claim_count: 4
-  empty_motif_record_count: 0
-  extraction_paths:
-  - extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml
-  - extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml
-- source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
-  source_text_id: hindu.ramayana.griffith_gutenberg
-  title: The Ramayan of Valmiki
-  tradition: hindu
-  culture: sanskrit_epic_later_translation
-  region: south_asia
-  date_range: ancient epic source tradition; 1870-1874 public-domain English verse
-    translation
-  word_count: 399128
-  target_extraction_records: 40
-  coverage_ratio: 0.1
-  status: thin
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: true
-  extraction_record_count: 4
-  generated_record_count: 0
-  needs_review_count: 4
-  reviewed_count: 0
-  candidate_motif_count: 13
-  taxonomy_ref_count: 9
-  comparison_claim_count: 9
-  empty_motif_record_count: 0
-  extraction_paths:
-  - extractions/hindu/project-gutenberg/ramayana/ramayana-asoka-grove-sita-witness.yml
-  - extractions/hindu/project-gutenberg/ramayana/ramayana-ganga-descent-bhagiratha.yml
-  - extractions/hindu/project-gutenberg/ramayana/ramayana-ocean-threatened-bridge.yml
-  - extractions/hindu/project-gutenberg/ramayana/ramayana-sandals-regency-bharata.yml
 - source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
   source_text_id: indigenous_australian.australian_legendary_tales.parker_gutenberg
   title: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the
@@ -103,31 +50,6 @@ texts:
   extraction_paths:
   - extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-fire-makers.yml
   - extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-origin-narran-lake.yml
-- source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
-  source_text_id: islamic.koran.sale_gutenberg
-  title: The Koran (Al-Qur'an)
-  tradition: islamic
-  culture: arabic_islamic_later_translation
-  region: arabia_west_asia
-  date_range: 7th century source text; 1734 public-domain English translation
-  word_count: 423262
-  target_extraction_records: 40
-  coverage_ratio: 0.05
-  status: thin
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: true
-  extraction_record_count: 2
-  generated_record_count: 0
-  needs_review_count: 2
-  reviewed_count: 0
-  candidate_motif_count: 8
-  taxonomy_ref_count: 9
-  comparison_claim_count: 2
-  empty_motif_record_count: 0
-  extraction_paths:
-  - extractions/islamic/project-gutenberg/koran-sale/koran-sale-adam-names-eblis-garden-direction.yml
-  - extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml
 - source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
   source_text_id: islamic.koran.rodwell_gutenberg
   title: The Koran (Al-Qur'an)
@@ -153,6 +75,31 @@ texts:
   extraction_paths:
   - extractions/islamic/project-gutenberg/koran/koran-rodwell-earthquake-works-judgment.yml
   - extractions/islamic/project-gutenberg/koran/koran-rodwell-recitation-created-man.yml
+- source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  source_text_id: islamic.koran.sale_gutenberg
+  title: The Koran (Al-Qur'an)
+  tradition: islamic
+  culture: arabic_islamic_later_translation
+  region: arabia_west_asia
+  date_range: 7th century source text; 1734 public-domain English translation
+  word_count: 423262
+  target_extraction_records: 40
+  coverage_ratio: 0.05
+  status: thin
+  priority: high
+  needs_full_extraction: true
+  needs_review_or_normalization: true
+  extraction_record_count: 2
+  generated_record_count: 0
+  needs_review_count: 2
+  reviewed_count: 0
+  candidate_motif_count: 8
+  taxonomy_ref_count: 9
+  comparison_claim_count: 2
+  empty_motif_record_count: 0
+  extraction_paths:
+  - extractions/islamic/project-gutenberg/koran-sale/koran-sale-adam-names-eblis-garden-direction.yml
+  - extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml
 - source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
   source_text_id: islamicate_folklore.arabian_nights.lang_gutenberg
   title: The Arabian Nights Entertainments
@@ -3089,39 +3036,161 @@ texts:
   date_range: archaic Greek epic; 1899 public-domain English edition
   word_count: 189111
   target_extraction_records: 40
-  coverage_ratio: 0.925
+  coverage_ratio: 5.3
   status: dense_draft
   priority: medium
   needs_full_extraction: false
   needs_review_or_normalization: true
-  extraction_record_count: 37
-  generated_record_count: 35
-  needs_review_count: 37
+  extraction_record_count: 212
+  generated_record_count: 210
+  needs_review_count: 212
   reviewed_count: 0
-  candidate_motif_count: 152
-  taxonomy_ref_count: 92
-  comparison_claim_count: 43
+  candidate_motif_count: 1127
+  taxonomy_ref_count: 618
+  comparison_claim_count: 190
   empty_motif_record_count: 2
   extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l10054-l10172.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l10174-l10308.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l10310-l10444.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l10446-l10587.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l10589-l10688.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l10691-l10806.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l1079-l1154.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l10808-l10924.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l10926-l11027.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l11029-l11169.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l11171-l11303.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l11305-l11425.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l11427-l11531.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l11533-l11638.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l1156-l1207.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l11640-l11775.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l117-l192.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l11778-l11898.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l11901-l12024.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l12026-l12164.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l1209-l1300.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l12166-l12292.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l12294-l12397.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l12400-l12540.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l12542-l12674.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l12676-l12812.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l12814-l12921.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l12923-l13064.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l1303-l1376.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l13066-l13161.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l13163-l13283.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l13285-l13395.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l13397-l13534.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l13536-l13564.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l13567-l13688.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l13690-l13832.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l1379-l1468.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l13834-l13982.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l13984-l14087.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l14089-l14214.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l14216-l14272.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l14275-l14412.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l14414-l14560.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l14562-l14665.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l14667-l14798.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l1471-l1552.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l14800-l14931.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l14933-l15057.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l15059-l15181.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l15183-l15275.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l15278-l15360.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l15362-l15506.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l15508-l15644.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l1555-l1630.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l15646-l15779.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l15781-l15909.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l15911-l16050.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l16052-l16199.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l16202-l16341.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l1633-l1692.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l16343-l16451.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l16454-l16585.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l16587-l16719.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l16721-l16857.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l16859-l17004.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l1694-l1762.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l17006-l17145.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l17147-l17284.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l17286-l17409.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l17412-l17542.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l17544-l17691.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l1764-l1850.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l17693-l17832.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l17834-l17979.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l17981-l18123.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l18125-l18217.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l18220-l18337.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l18339-l18476.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l18478-l18606.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l1852-l1937.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l18608-l18748.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l18750-l18901.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l18903-l19042.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l19044-l19173.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l19175-l19313.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l19315-l19414.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l1939-l2031.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l19417-l19552.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l195-l286.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l19554-l19691.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l19693-l19817.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l19819-l19969.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l19971-l20111.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l20113-l20221.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l20224-l20361.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l2033-l2057.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l20363-l20504.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l20506-l20643.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l2060-l2206.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l20645-l20779.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l20781-l20906.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l20909-l20966.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l20969-l21070.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l21072-l21199.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l21201-l21342.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l21344-l21448.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l21450-l21585.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l21587-l21727.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l21729-l21864.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l21866-l22001.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l22003-l22136.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l2208-l2344.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l22139-l22276.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l22278-l22424.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l22426-l22569.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l22571-l22712.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l22714-l22855.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l22857-l22974.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l22976-l23120.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l23122-l23268.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l23271-l23326.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l23328-l23452.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l23454-l23581.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l2346-l2470.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l23583-l23696.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l23698-l23815.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l23817-l23945.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l23947-l24048.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l24050-l24166.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l24168-l24311.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l24313-l24477.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l24479-l24617.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l24619-l24768.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l2472-l2614.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l24770-l24894.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l24896-l25075.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l25077-l25187.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l25189-l25329.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l25331-l25485.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l25487-l25616.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l25618-l25679.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l2616-l2756.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l2758-l2898.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l288-l380.yml
@@ -3129,14 +3198,67 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l2972-l3112.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l3114-l3247.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l3249-l3377.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l3379-l3501.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l3503-l3628.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l3631-l3768.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l3770-l3911.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l382-l487.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l3913-l4058.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l4060-l4164.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l4167-l4303.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l4305-l4445.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l4447-l4579.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l4581-l4715.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l4717-l4821.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l4824-l4971.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l489-l584.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l4973-l5106.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l5108-l5241.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l5243-l5356.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l5358-l5482.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l5484-l5534.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l5537-l5682.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l5684-l5812.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l5814-l5955.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l586-l663.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l5957-l6098.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l6101-l6232.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l6234-l6371.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l6373-l6515.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l6517-l6649.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l665-l750.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l6651-l6788.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l6791-l6915.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l68-l115.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l6917-l7060.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l7062-l7192.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l7194-l7338.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l7340-l7487.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l7489-l7553.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l752-l823.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l7556-l7673.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l7675-l7813.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l7815-l7958.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l7960-l8101.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l8103-l8217.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l8220-l8319.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l825-l909.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l8321-l8434.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l8436-l8558.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l8560-l8692.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l8694-l8829.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l8832-l8968.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l8970-l9009.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l9012-l9150.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l911-l995.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l9152-l9280.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l9283-l9389.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l9391-l9475.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l9477-l9612.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l9613-l9742.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l9744-l9875.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l9877-l9925.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l9928-l10052.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/iliad-pope/batch-motif-greek-iliad-pope-gutenberg-l997-l1077.yml
   - extractions/greek/project-gutenberg/iliad/iliad-pope-apollo-plague-divine-vengeance.yml
   - extractions/greek/project-gutenberg/iliad/iliad-pope-hector-fate-lament-death.yml
@@ -3767,6 +3889,284 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l986-l1079.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l9869-l9911.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/myths-legends-ancient-greece-rome-berens/batch-motif-greek-roman-berens-myths-legends-gutenberg-l9913-l10010.yml
+- source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  source_text_id: hindu.mahabharata.dutt_gutenberg
+  title: Maha-bharata
+  tradition: hindu
+  culture: sanskrit_epic_later_translation
+  region: south_asia
+  date_range: ancient epic source tradition; 1899 public-domain English verse condensation
+  word_count: 51096
+  target_extraction_records: 13
+  coverage_ratio: 4.692
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 61
+  generated_record_count: 59
+  needs_review_count: 61
+  reviewed_count: 0
+  candidate_motif_count: 299
+  taxonomy_ref_count: 219
+  comparison_claim_count: 50
+  empty_motif_record_count: 1
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l1038-l1112.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l1115-l1247.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l121-l264.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l1249-l1393.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l1395-l1542.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l1544-l1645.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l1648-l1791.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l1793-l1934.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l1936-l2080.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l2082-l2146.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l2149-l2281.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l2283-l2426.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l2428-l2568.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l2570-l2710.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l266-l412.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l2712-l2852.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l2854-l2990.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l2992-l3137.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l3139-l3283.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l3285-l3374.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l3377-l3529.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l3531-l3676.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l3678-l3819.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l3821-l3930.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l3933-l4068.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l4070-l4214.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l414-l566.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l4216-l4366.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l4368-l4509.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l4511-l4647.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l4649-l4677.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l4680-l4828.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l4830-l4970.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l4972-l5112.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l5114-l5254.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l5256-l5362.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l5365-l5514.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l5516-l5652.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l5654-l5797.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l568-l599.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l5799-l5939.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l5941-l5960.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l5963-l6113.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l602-l743.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l6115-l6263.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l6265-l6356.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l6359-l6481.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l6483-l6627.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l6629-l6716.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l6719-l6801.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l6804-l6889.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l6891-l6967.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l69-l118.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l6969-l7087.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l7089-l7179.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l7181-l7238.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l7240-l7368.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l745-l887.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mahabharata-dutt/batch-motif-hindu-mahabharata-dutt-gutenberg-l889-l1036.yml
+  - extractions/hindu/project-gutenberg/mahabharata/mahabharata-bhishma-oath-bound-fall.yml
+  - extractions/hindu/project-gutenberg/mahabharata/mahabharata-draupadi-council-hall.yml
+- source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  source_text_id: hindu.ramayana.griffith_gutenberg
+  title: The Ramayan of Valmiki
+  tradition: hindu
+  culture: sanskrit_epic_later_translation
+  region: south_asia
+  date_range: ancient epic source tradition; 1870-1874 public-domain English verse
+    translation
+  word_count: 399128
+  target_extraction_records: 40
+  coverage_ratio: 4.25
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 170
+  generated_record_count: 166
+  needs_review_count: 170
+  reviewed_count: 0
+  candidate_motif_count: 782
+  taxonomy_ref_count: 745
+  comparison_claim_count: 96
+  empty_motif_record_count: 2
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l10122-l10301.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l10303-l10413.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l10416-l10589.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l10591-l10743.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l10745-l10818.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l10821-l10989.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l10991-l11149.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l11151-l11309.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l11312-l11443.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l11445-l11509.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l11511-l11685.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l1157-l1236.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l11686-l11862.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l11864-l12031.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l12033-l12081.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l12084-l12187.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l12189-l12347.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l12349-l12521.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l1239-l1399.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l12524-l12698.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l12700-l12861.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l12864-l12981.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l12983-l13145.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l13147-l13320.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l13323-l13448.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l13451-l13616.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l13617-l13788.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l13791-l13922.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l13924-l14045.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l1402-l1576.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l14047-l14217.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l14220-l14326.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l14329-l14415.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l14418-l14504.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l14506-l14679.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l14681-l14760.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l14763-l14933.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l14936-l15107.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l15109-l15265.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l15268-l15433.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l15435-l15520.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l15523-l15656.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l15659-l15786.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l1578-l1625.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l15788-l15957.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l15959-l16110.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l16113-l16273.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l16275-l16414.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l1628-l1746.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l16417-l16587.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l16589-l16666.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l16669-l16814.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l16817-l16964.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l16966-l17020.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l17023-l17199.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l17201-l17374.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l17376-l17479.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l17481-l17609.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l1749-l1894.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l17611-l17766.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l17768-l17920.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l17922-l18072.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l18075-l18216.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l18218-l18358.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l18361-l18525.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l18527-l18693.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l18695-l18867.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l18870-l18969.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l1896-l1945.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l18972-l19059.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l19062-l19231.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l19233-l19377.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l19379-l19551.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l1948-l1948.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l1951-l2125.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l19553-l19673.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l19676-l19768.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l19771-l19906.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l19909-l20004.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l20007-l20169.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l20171-l20343.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l20345-l20494.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l20496-l20619.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l20622-l20786.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l20788-l20845.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l20848-l21017.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l21019-l21132.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l21135-l21308.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l2126-l2229.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l21310-l21424.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l21427-l21513.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l21516-l21593.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l21596-l21735.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l21738-l21906.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l21908-l21927.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l2232-l2371.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l2374-l2464.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l2467-l2611.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l2614-l2614.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l2617-l2782.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l278-l475.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l2783-l2944.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l2946-l3017.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l3020-l3153.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l3155-l3293.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l3295-l3463.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l3465-l3507.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l3510-l3648.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l3650-l3817.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l3820-l3990.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l3993-l4078.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l4081-l4216.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l4218-l4397.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l4399-l4524.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l4527-l4679.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l4681-l4710.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l4713-l4843.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l476-l658.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l4845-l4914.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l4917-l5003.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l5006-l5160.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l5162-l5318.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l5320-l5394.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l5397-l5489.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l5492-l5590.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l5593-l5733.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l5735-l5905.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l5908-l6061.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l6063-l6131.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l6134-l6289.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l6291-l6393.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l6396-l6572.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l6574-l6650.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l661-l687.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l6653-l6822.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l6824-l6999.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l690-l862.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l7001-l7065.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l7068-l7163.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l71-l90.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l7166-l7341.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l7343-l7376.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l7379-l7465.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l7468-l7567.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l7570-l7734.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l7736-l7795.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l7798-l7982.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l7984-l8153.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l8155-l8318.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l8320-l8460.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l8463-l8633.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l8636-l8713.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l864-l991.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l8716-l8895.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l8898-l8983.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l8986-l9065.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l9068-l9216.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l9219-l9310.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l93-l277.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l9313-l9429.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l9432-l9605.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l9607-l9641.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l9644-l9793.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l9795-l9955.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l993-l1155.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l9957-l10120.yml
+  - extractions/hindu/project-gutenberg/ramayana/ramayana-asoka-grove-sita-witness.yml
+  - extractions/hindu/project-gutenberg/ramayana/ramayana-ganga-descent-bhagiratha.yml
+  - extractions/hindu/project-gutenberg/ramayana/ramayana-ocean-threatened-bridge.yml
+  - extractions/hindu/project-gutenberg/ramayana/ramayana-sandals-regency-bharata.yml
 - source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
   source_text_id: japanese.fairy_tales.ozaki_gutenberg
   title: Japanese Fairy Tales

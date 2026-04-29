@@ -1,0 +1,549 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l20645-l20779
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: ARGUMENT. / BOOK XXII. / ARGUMENT. / THE DEATH OF HECTOR.; lines 20645-20779
+  start: '20645'
+  end: '20779'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Hector's cast weapon fails, and he realizes that divine deception and fate
+    have brought him to death. He attacks Achilles, who finds an opening at Hector's
+    throat and wounds him. Hector asks for burial rites and return of his ashes, but
+    Achilles refuses and threatens his corpse with dogs and vultures. Hector foretells
+    Achilles' death by Phoebus and Paris, dies, and his spirit departs to the dark
+    realm. Achilles strips the body, Greek soldiers look on and some deface it, and
+    Achilles orders a triumph while remembering Patroclus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hector's weapon is repelled by a shield and falls to the ground without effect.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hector calls for Deiphobus and finds that Deiphobus is not present.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hector says that heaven wills his death, that Pallas deceived him, and that
+    Jove has deserted him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Hector draws his sword and charges Achilles.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Achilles carries a shining shield and spear, inspects Hector's armor, and
+    strikes through an opening between neck and throat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Hector asks Achilles not to leave his body for dogs, and asks for sepulture,
+    an urn, and rest for his ashes in his country.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Achilles refuses Hector's request and says dogs and vultures will have the
+    corpse, even if Troy offers great ransom and funeral flame.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Hector predicts that fates and angry gods will avenge him through Phoebus
+    and Paris at the Scaean gate.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Hector dies; his spirit leaves the body and travels to the dark realm as a
+    naked, wandering ghost.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Achilles removes the javelin, strips the dead body, and the assembled Greeks
+    view Hector's body; some wound or taunt it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Achilles orders the Greeks to bring Hector's corpse in triumph and to sing
+    that Hector is dead and Ilion is no more.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Hector
+  description: Trojan warrior whose weapon fails, who recognizes fate, is wounded
+    by Achilles, requests burial, foretells vengeance, and dies.
+  role_refs:
+  - role:1
+  - role:10
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Achilles
+  description: Greek warrior who wounds Hector, refuses burial rites for him, strips
+    the body, and commands the Greeks in triumph.
+  role_refs:
+  - role:2
+  - role:11
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Deiphobus
+  description: The absent person whom Hector calls for a spear, though no Deiphobus
+    is there.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Pallas
+  description: Deity whom Hector names as the one who deceived him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Jove and heaven
+  description: Divine power named by Hector and Achilles as willing, deserting, or
+    ordaining the events.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:6
+  name_or_label: Patroclus
+  description: Dead companion of Achilles whose armor Hector wears and whose death
+    motivates Achilles' vengeance and mourning.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:7
+  name_or_label: Phoebus
+  description: Divine figure named by Hector as a future avenger of his death.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Paris
+  description: Figure named by Hector as a future avenger of his death along with
+    Phoebus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Greeks / sons of Greece
+  description: The assembled Greek host that watches Hector's body and is ordered
+    by Achilles to bring it in triumph.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Dardan Priam and Hector's mother
+  description: Hector's parents are invoked as mourners; Achilles imagines Priam and
+    Hector's mother offering ransom for funeral rites.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: doomed combatant
+  assigned_to:
+  - fig:1
+  basis: Hector recognizes that death and fate approach and then fights Achilles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: avenger and killer
+  assigned_to:
+  - fig:2
+  basis: Achilles kills Hector and names vengeance for Patroclus.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: absent summoned helper
+  assigned_to:
+  - fig:3
+  basis: Hector calls for Deiphobus for a spear, but Deiphobus is absent.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: deceiving deity
+  assigned_to:
+  - fig:4
+  basis: Hector explicitly says Pallas deceived him.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: divine authority over fate
+  assigned_to:
+  - fig:5
+  basis: Hector says heaven wills his hour and Jove deserts him; Achilles later speaks
+    of what Jove and heaven ordain.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:6
+  label: slain beloved companion
+  assigned_to:
+  - fig:6
+  basis: Patroclus is described as slain and as the focus of Achilles' vengeance and
+    grief.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:7
+  label: foretold avenger
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Hector foretells that Phoebus and Paris will avenge his fate.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: witnessing and triumphing host
+  assigned_to:
+  - fig:9
+  basis: The Greek host sees Hector's body, and Achilles orders them to bring it in
+    triumph.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: mourning ransom-givers
+  assigned_to:
+  - fig:10
+  basis: Hector asks burial to soothe father and mother; Achilles imagines Priam and
+    the weeping dame offering ransom for funeral flame.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:10
+  label: prophetic dying speaker
+  assigned_to:
+  - fig:1
+  basis: Before dying, Hector predicts Achilles' future death at the Scaean gate.
+  evidence_refs:
+  - ev:5
+- id: role:11
+  label: refuser of funerary rites
+  assigned_to:
+  - fig:2
+  basis: Achilles refuses Hector's plea for sepulture and ransom.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: shield
+  literal_form: heavenly or flaming shield borne in combat
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: spear or javelin
+  literal_form: thrown weapon, Achilles' spear, and reeking javelin removed from Hector's
+    wound
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: sword
+  literal_form: Hector's weighty sword drawn for the final charge
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: vulnerable throat opening
+  literal_form: space between neck and throat where armor permits entry
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: scavenging animals
+  literal_form: dogs, birds, and vultures threatened against Hector's corpse
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: funeral flame, urn, and ashes
+  literal_form: urn for Hector's ashes and funeral flame denied by Achilles
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:10
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:7
+  label: dark realm and dreary coast
+  literal_form: underworld destination of Hector's departing spirit
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: flame imagery around Achilles
+  literal_form: Achilles' shield and figure seem on flame, and flames flash from his
+    eyes in speech
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hector recognizes divine deception and approaching fate
+  summary: After his weapon fails and no helper appears, Hector says heaven wills
+    his death, Pallas deceived him, and Jove has deserted him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Final clash and throat wound
+  summary: Hector charges with his sword while Achilles advances with shield and spear,
+    finds a gap in the armor, and wounds Hector at the throat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Plea for burial and refusal
+  summary: Hector asks that his body not be left for dogs and that burial rites be
+    granted, but Achilles refuses ransom and funeral flame and assigns the corpse
+    to dogs and vultures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:10
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Hector's prophecy and death
+  summary: Hector foretells vengeance by Phoebus and Paris, then dies as his spirit
+    departs to the dark realm as a wandering ghost.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Defacement, mourning, and triumph
+  summary: Achilles strips the body, Greeks view and some deface it, and Achilles
+    orders a triumphal procession while remembering Patroclus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:9
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divinely marked death of the hero
+  taxonomy_refs:
+  - divine_judgment
+  basis: Hector frames his imminent death as heaven's will, Pallas' deception, and
+    Jove's desertion.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage emphasizes divine will and fate, but it does not present a
+    formal judgment scene.
+- id: motif:2
+  label: heroic last stand before death
+  taxonomy_refs: []
+  basis: Hector accepts that he will die but resolves to perish greatly and attacks
+    Achilles with his sword.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a narrative pattern rather than one of the supplied named motif
+    families.
+- id: motif:3
+  label: avenging a slain companion
+  taxonomy_refs: []
+  basis: Achilles kills Hector and explicitly connects the act to Patroclus' death
+    and honor.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this vengeance pattern.
+- id: motif:4
+  label: denied funerary rites and corpse exposure
+  taxonomy_refs: []
+  basis: Hector begs for sepulture, urn, and rest for his ashes; Achilles refuses
+    and threatens the body with dogs and vultures.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage concerns refusal of rites rather than a completed funeral
+    ritual.
+- id: motif:5
+  label: soul's departure to the underworld
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: After Hector dies, his spirit travels to the dark realm and dreary coast
+    as a wandering ghost.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The underworld movement is brief and does not provide a detailed map or
+    staged journey.
+- id: motif:6
+  label: dying prophecy of the slayer's death
+  taxonomy_refs: []
+  basis: Hector, while dying, predicts that Phoebus and Paris will kill Achilles at
+    the Scaean gate.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly corresponds to the dying prophecy
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20645-20662
+  quote_or_summary: Hector's weapon is repelled; he calls for Deiphobus but no helper
+    appears, and he says heaven wills his hour, Pallas deceived him, and Jove deserts
+    him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 20663-20687
+  quote_or_summary: Hector draws his sword and charges; Achilles advances with a radiant
+    shield and spear, finds the gap between neck and throat in Hector's armor, and
+    drives the dart through it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 20688-20706
+  quote_or_summary: Achilles declares vengeance for Patroclus and says Hector will
+    be mangled; Hector pleads not to be left for dogs and asks for sepulture, an urn,
+    and return of his ashes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 20707-20722
+  quote_or_summary: Achilles rejects prayers and ransom, saying Hector's body will
+    go to dogs and vultures and that Priam's wealth will not buy funeral flame.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 20723-20738
+  quote_or_summary: Hector says fates and angry gods will avenge him through Phoebus
+    and Paris at the Scaean gate; then he dies and his spirit goes to the dark realm
+    as a wandering ghost.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 20739-20779
+  quote_or_summary: Achilles says he will follow when Jove and heaven ordain, strips
+    Hector, and addresses the Greeks; some deface the dead, and Achilles commands
+    a triumph while remembering Patroclus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and figures are clear in the passage. Motif taxonomy alignment
+    is cautious because several strong narrative patterns do not map directly to the
+    supplied motif-family list.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Comparison claims were left empty because the passage does not itself establish a specific cross-textual comparison beyond candidate motif-family alignment.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l20645-l20779
+  passage_sha256=8ad1c927f51d62c6f61f31b136e3bf66241f6c68aa74ff1aa537339bed4c4ec8

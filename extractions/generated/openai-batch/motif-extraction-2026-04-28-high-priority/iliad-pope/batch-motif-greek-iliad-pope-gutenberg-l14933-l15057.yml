@@ -1,0 +1,537 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l14933-l15057
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: JUNO DECEIVES JUPITER BY THE GIRDLE OF VENUS. / BOOK XV. / ARGUMENT. / THE
+    FIFTH BATTLE AT THE SHIPS; AND THE ACTS OF AJAX.; lines 14933-15057
+  start: '14933'
+  end: '15057'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Greek and Trojan warriors fight near the ships. Leaders on both sides exhort
+    their men. Several warriors are killed, armor is stripped, the Greeks form a shield-wall
+    around the navy, and Antilochus kills Melanippus before withdrawing from Hector
+    and the pursuing Trojans.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker urges the Argive warriors to decide the conflict, warning that Trojan
+    fire is approaching the vessels.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several named warriors are killed in successive exchanges between Greeks and
+    Trojans.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: Meges strips radiant arms from the fallen Croesmus.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Meges survives Dolops' attack because of a breastplate formerly given to Phyleus
+    by Euphetes.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Spartan king aids Meges by striking Dolops through the shoulder and heart.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hector urges Melanippus to fight hand to hand after Dolops is killed and his
+    arms are being carried away.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Ajax exhorts the Greeks to respect their fame and stand bravely rather than
+    suffer shame.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Greeks gather closely and flank the navy with a formation described as
+    a brazen wall of shields.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The Spartan king urges the son of Nestor to advance and wound a Trojan.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Antilochus advances, throws his lance, kills Melanippus, leaps upon the fallen
+    body, then withdraws when Hector comes to the rescue.
+  category: sequence
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: obs:11
+  text: The Trojans pursue Antilochus with shouts, stones, and darts until he reaches
+    the Greek ranks and turns back toward them.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Argive or Greek warriors
+  description: The warriors addressed near the ships; they respond to exhortations
+    and form ranks around the navy.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: Hector
+  description: Trojan leader whose voice calls Troy onward and who later urges Melanippus
+    and attempts to rescue him.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:10
+- id: fig:3
+  name_or_label: Ajax
+  description: Greek warrior who exhorts the Greeks to courage and shame before battle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Meges
+  description: Greek warrior who kills or wounds in battle, strips Croesmus' arms,
+    and is aided by the Spartan king against Dolops.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Dolops
+  description: Trojan warrior, son of Lampus and of Laomedon's race, who attacks Meges
+    and is killed by the Spartan king.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Spartan king
+  description: A Greek leader who aids Meges and later exhorts the son of Nestor.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:7
+  name_or_label: Melanippus
+  description: Trojan warrior from Hicetaon's line, praised as gallant and young,
+    urged by Hector, and later killed by Antilochus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: fig:8
+  name_or_label: Antilochus, son of Nestor
+  description: Young Greek warrior urged forward by the Spartan king; he kills Melanippus
+    and withdraws from Hector.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:9
+  name_or_label: Jove
+  description: A divine force said to impel the Trojans even while the Greek shield
+    formation stops them.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Phoebus
+  description: A deity named as caring for Polydamas' valued life when he avoids Meges'
+    spear.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: battle exhorter
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:6
+  basis: Speakers urge warriors to courage, decisive action, or attack.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: role:2
+  label: Trojan commander
+  assigned_to:
+  - fig:2
+  basis: Hector calls Troy onward, leads troops, and singles out Melanippus.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: Greek attacker or victor
+  assigned_to:
+  - fig:4
+  - fig:6
+  - fig:8
+  basis: These Greek figures strike enemies, strip arms, or kill opponents.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:9
+- id: role:4
+  label: defensive ship-guard
+  assigned_to:
+  - fig:1
+  basis: The Greeks form close ranks and flank the navy with shields.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: rescuer of fallen ally
+  assigned_to:
+  - fig:2
+  basis: Hector flies to rescue Melanippus after Antilochus kills him.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: fallen Trojan warrior
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: Dolops and Melanippus are both described as falling after Greek attacks.
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: role:7
+  label: withdrawing victor
+  assigned_to:
+  - fig:8
+  basis: Antilochus kills Melanippus, then withdraws when Hector approaches.
+  evidence_refs:
+  - ev:10
+- id: role:8
+  label: divine influence
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: Phoebus is credited with preserving Polydamas, and Jove is said to impel
+    the Trojans.
+  evidence_refs:
+  - ev:2
+  - ev:7
+symbols:
+- id: sym:1
+  label: Trojan fire
+  literal_form: Flames threatening the Greek vessels
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: vessels or navy
+  literal_form: Greek ships at the shore, threatened by fire and protected by ranks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:3
+  label: brazen wall
+  literal_form: Close shield formation around the navy
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: stripped arms of the slain
+  literal_form: Armor taken from fallen warriors as battle spoil
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: protective breastplate
+  literal_form: Golden mail with jointed scales given by Euphetes to Phyleus and worn
+    by Meges
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Warning at the ships
+  summary: A leader addresses the Argive warriors, warning that the Trojans and Hector
+    are bringing fire close to the ships and urging a decisive stand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Exchange of killings and spoils
+  summary: Named warriors on both sides are killed; Meges' spear kills Croesmus after
+    Polydamas avoids it, and Meges takes the fallen warrior's arms.
+  figure_refs:
+  - fig:4
+  - fig:10
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dolops attacks Meges and is slain
+  summary: Dolops strikes Meges' shield, but Meges' inherited breastplate protects
+    him; the Spartan king then kills Dolops.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Hector stirs Melanippus
+  summary: Hector points to Dolops' death and the carrying away of his arms, urging
+    Melanippus to fight at close quarters.
+  figure_refs:
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Greek shield-wall at the navy
+  summary: Ajax exhorts the Greeks to valor; they respond by closing ranks around
+    the ships, with shields touching shields in a brazen wall.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:9
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Antilochus kills Melanippus and retreats
+  summary: After the Spartan king urges him forward, Antilochus throws his lance,
+    kills Melanippus, moves toward the fallen body, and withdraws when Hector and
+    the Trojans pursue.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: threatened burning of the ships
+  taxonomy_refs: []
+  basis: The Greeks are urged to act because Trojan flames are nearing the vessels.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a local battle motif in the passage; no broader taxonomy reference
+    is asserted.
+- id: motif:2
+  label: warrior exhortation before crisis
+  taxonomy_refs: []
+  basis: Multiple leaders use speeches to stir warriors to decisive action, courage,
+    and shame avoidance.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The extraction identifies a repeated narrative function, not a specific
+    cross-cultural motif ID.
+- id: motif:3
+  label: stripping armor from the fallen
+  taxonomy_refs: []
+  basis: The passage shows arms taken from Croesmus and emphasizes the attempt to
+    carry away Dolops' bloody arms.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage treats the action literally as battlefield spoil.
+- id: motif:4
+  label: shield-wall defense of ships
+  taxonomy_refs: []
+  basis: The Greeks gather around the navy with shields touching, described as a brazen
+    wall that stops the Trojans.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The phrase is metaphorical within the battle description; no separate
+    symbolic taxonomy is inferred.
+- id: motif:5
+  label: contest over fallen warrior's body or arms
+  taxonomy_refs: []
+  basis: Antilochus kills Melanippus and leaps upon him, while Hector comes to rescue
+    and the Trojans pursue with missiles.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage implies a contest around the fallen warrior, but the outcome
+    of any recovery or stripping is not completed within the excerpt.
+- id: motif:6
+  label: divine influence in battle
+  taxonomy_refs: []
+  basis: Phoebus is credited with protecting Polydamas, and Jove is said to impel
+    the Trojans against the Greek formation.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: The divine actions are brief references rather than an extended divine
+    scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14933-14948
+  quote_or_summary: Argive warriors are warned that Hector calls Troy onward and that
+    flames are nearing the Greek vessels; they are urged to stake their fate on one
+    decisive fight.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:2
+  type: summary
+  locator: 14949-14966
+  quote_or_summary: The Greeks respond; Schedius, Laodamas, Otus, and Croesmus fall
+    in battle. Polydamas avoids Meges' spear by Phoebus' care, and Meges strips Croesmus'
+    radiant arms.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:3
+  type: summary
+  locator: 14967-14983
+  quote_or_summary: Dolops, son of Lampus and of Laomedon's race, attacks Meges. Meges
+    is protected by a golden breastplate with jointed scales, formerly given to Phyleus
+    by Euphetes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:4
+  type: summary
+  locator: 14984-14991
+  quote_or_summary: The Spartan king stands by Meges and drives a dart through Dolops'
+    shoulder and heart; Dolops falls, and the Greeks rush to spoil the slain.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:5
+  type: summary
+  locator: 14992-15019
+  quote_or_summary: Hector calls on Melanippus, a young Trojan of Hicetaon's line,
+    pointing to Dolops' corpse and the bloody arms being carried away, and urges close
+    combat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:6
+  type: summary
+  locator: 15020-15029
+  quote_or_summary: Ajax exhorts the Greeks to respect their fame and themselves,
+    saying the brave live gloriously or die lamented, while cowardice brings shame.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:7
+  type: summary
+  locator: 15030-15036
+  quote_or_summary: The Greeks take heart, gather thickly, and flank the navy with
+    a brazen wall of shields touching shields, stopping the Trojans though impelled
+    by Jove.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:8
+  type: summary
+  locator: 15037-15044
+  quote_or_summary: The Spartan king urges the son of Nestor to advance with his lance
+    and make a Trojan bleed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:9
+  type: summary
+  locator: 15045-15052
+  quote_or_summary: The son of Nestor rushes forward, throws his lance, and Melanippus
+    receives the dart in his breast and heart; he falls with resounding arms and shield.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:10
+  type: summary
+  locator: 15053-15057
+  quote_or_summary: Antilochus leaps upon the fallen Melanippus, but withdraws when
+    Hector comes to rescue him; Trojans pursue with shouts, stones, and darts until
+    Antilochus reaches the Greek ranks and turns back.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal battle actions and figures are clear in the supplied passage. Candidate
+    motifs are descriptive and local; no external comparison claims were made because
+    the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l14933-l15057
+  passage_sha256=9dad8df0f003bcb47c73357ff5ffddb930ab22095c0a5bdde81aa4fd20fad8bc

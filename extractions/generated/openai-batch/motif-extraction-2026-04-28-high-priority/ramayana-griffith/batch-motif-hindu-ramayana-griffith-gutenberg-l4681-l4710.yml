@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l4681-l4710
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XIX. The Birth Of The Princes. / Canto XXIV. The Spells. / Canto XXV.
+    The Hermitage Of Love. / Canto XXIX. The Celestial Arms.; lines 4681-4710
+  start: '4681'
+  end: '4710'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Personified arms show reverence to Rama, accept his command, and depart.
+    As Rama walks with the holy sage, he asks about a beautiful wood near a mountain,
+    the hermitage there, and the wicked giants who obstruct the sage's sacrifice.
+    Rama declares that he will guard the altars and slay those who would stop the
+    rites.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The arms bow to Rama, circle him reverently, answer affirmatively to his command,
+    and depart as they came.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the arms have flown homeward, Rama questions the holy man while walking.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Rama sees a cloudlike wood near a mountain side and asks the sage about it.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Rama describes the land as pleasant, with glades full of deer and birds singing
+    on sprays.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Rama contrasts the fair land with a past hideous wild.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Rama asks whose pleasant hermitage stands there.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Rama says wicked ones delight in marring and killing holy rites and obstructing
+    the sage's sacrifice.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Rama asks to whom the land belongs, saying the sage's altars are ready there.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Rama states that it is his role to guard the altars and slay the giants who
+    would halt the rites.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: A prince who receives reverence from the arms, questions the holy sage,
+    and declares that he will guard the altars and slay the giants.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+- id: fig:2
+  name_or_label: holy man / holy Sage
+  description: A holy figure addressed by Rama, associated with the sacrifice and
+    ready altars.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: the arms
+  description: Personified arms that bow to Rama, go around him in reverence, answer
+    his command, and fly homeward.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: wicked ones / giants
+  description: Beings described as wicked, foul-hearted, and hostile to holy rites
+    and sacrifice.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:9
+roles:
+- id: role:1
+  label: revered commander
+  assigned_to:
+  - fig:1
+  basis: The arms bow, circumambulate Rama in reverence, and answer his command.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: questioning prince
+  assigned_to:
+  - fig:1
+  basis: Rama, called the prince, asks the holy man about the wood, hermitage, land,
+    and rites.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+- id: role:3
+  label: protector of rites
+  assigned_to:
+  - fig:1
+  basis: Rama says he will guard the altars and slay the giants who would stop the
+    rites.
+  evidence_refs:
+  - ev:9
+- id: role:4
+  label: holy sacrificer or ritual authority
+  assigned_to:
+  - fig:2
+  basis: Rama addresses him as holy Sage and great Saint and refers to his sacrifice
+    and altars.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:5
+  label: obedient personified weapons
+  assigned_to:
+  - fig:3
+  basis: The arms behave as agents who offer reverence, obey Rama's command, and fly
+    away.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: ritual obstructors
+  assigned_to:
+  - fig:4
+  basis: The wicked ones or giants are said to mar holy rites and impede the sacrifice.
+  evidence_refs:
+  - ev:7
+  - ev:9
+symbols:
+- id: sym:1
+  label: personified arms
+  literal_form: arms that bow, respond to command, and fly homeward
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountain-side wood
+  literal_form: cloudlike wood near a mountain side
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: pleasant hermitage
+  literal_form: hermitage in the fair land, associated with holy rites
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: ready altars
+  literal_form: altars ready in the land
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Arms revere Rama and depart
+  summary: The personified arms bow to Rama, circle him reverently, accept his command,
+    and fly homeward.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rama asks about the beautiful wood and hermitage
+  summary: As he walks, Rama asks the holy sage about a cloudlike wood near a mountain,
+    a pleasant hermitage, and the fair land filled with deer and birds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: scene:3
+  label: Rama vows to defend the rites
+  summary: Rama identifies the wicked ones or giants as obstructors of sacrifice and
+    says he will guard the altars and kill those who stop the rites.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: personified divine weapons obey the hero
+  taxonomy_refs: []
+  basis: The arms act as agents who reverence Rama, accept his command, and fly homeward.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage calls them arms and describes their actions, but wider context
+    for their celestial nature lies outside the supplied lines.
+- id: motif:2
+  label: hero as protector of sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: Rama states that he will guard the sage's ready altars and slay giants who
+    would stop the rites.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage gives Rama's declared intention, not the actual combat or
+    protection outcome.
+- id: motif:3
+  label: movement from wild danger to sacred pleasant landscape
+  taxonomy_refs:
+  - departure
+  basis: Rama says the hideous wild is past and asks about the beautiful mountain-side
+    wood and hermitage where rites are threatened.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage suggests transition in landscape, but the broader journey
+    frame is not fully contained in these lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4681-4684
+  quote_or_summary: The arms bow to Rama, go around him in reverence, answer yes to
+    his command, and depart as they came.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4685-4688
+  quote_or_summary: After the arms have flown homeward, the prince begins to question
+    the holy man while walking.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 4689-4692
+  quote_or_summary: "“What cloudlike wood is that which near / The mountain’s side
+    I see appear?”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 4693-4696
+  quote_or_summary: Rama says the place charms him and describes glades with deer
+    and birds singing on every spray.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4697-4700
+  quote_or_summary: Rama says the hideous wild is past and that he greets the fair
+    land with fresh delight.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4701-4703
+  quote_or_summary: Rama asks the holy Sage whose pleasant hermitage this is.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4703-4706
+  quote_or_summary: Rama says wicked ones delight in marring holy rites and impeding
+    the sage's sacrifice with foul heart and evil deed.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4707-4708
+  quote_or_summary: Rama asks to whom the land belongs, where the sage's altars stand
+    ready.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 4709-4710
+  quote_or_summary: Rama says it is his to guard the altars and slay the giants who
+    would stop the rites.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied lines. Motif labels
+    are limited to patterns directly supported by the passage; no external comparative
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. No figure names beyond those present in the passage were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l4681-l4710
+  passage_sha256=d024bae842a9efbe072f29d7da50a26f071447061ee70de375b1e85302221167

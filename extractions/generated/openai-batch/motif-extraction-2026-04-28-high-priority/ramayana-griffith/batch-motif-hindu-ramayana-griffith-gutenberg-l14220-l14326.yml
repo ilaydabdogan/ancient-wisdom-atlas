@@ -1,0 +1,421 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l14220-l14326
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XV. The Preparations. / Canto XVIII. The Sentence. / Canto XXII. Lakshman
+    Calmed. / Canto XXVIII. The Dangers Of The Wood.; lines 14220-14326
+  start: '14220'
+  end: '14326'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“The wood, my love, is full of woes.”"
+  summary: After Sítá has spoken, a duty-minded pious hero tries to soothe her and
+    dissuade her from accompanying him into forest life. He lists dangers of the wilderness,
+    including wild animals, floods, thorns, hunger, cold ground, serpents, insects,
+    and ritual austerities required of forest ascetics, and concludes that the forest
+    is not fit for her.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Sítá has just spoken, and the duty-minded hero remains reluctant because he
+    foresees the hardships of forest life.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hero attempts to soothe Sítá’s grief and speaks in order to shake her
+    firm resolve.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker tells Sítá to remain where she is, continue her duties, and abandon
+    her wish to live in the forest.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The forest is described as a place of trouble, distress, and woe.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: obs:5
+  text: The forest contains lions in mountain caves, torrents, monsters, crocodile-filled
+    floods, wild elephants, thorns, and tangled creepers.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The forest-dweller may sleep on cold ground on gathered leaves and live on
+    scant food such as fallen fruit.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The ascetic in the wood must fast, wear matted hair, wear bark, perform worship
+    to gods and spirits, honor wandering guests, bathe at prescribed times, and bring
+    flowers to the altar.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage describes hunger, black nights, wild winds, swarming serpents,
+    snakes near riverbanks, scorpions, grasshoppers, flies, thorny trees, bushes,
+    and dense grass as forest afflictions.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The speaker says hope and anger must be cast aside and thought applied to
+    penance by those in the wood.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The speaker ends by urging Sítá to give up her purpose, saying that forest
+    life is not fit for her.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sítá
+  description: A woman addressed as Sítá, daughter of a noble line, who has a firm
+    resolve and a wish to live a forest life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the pious hero
+  description: A duty-knowing speaker who tries to soothe Sítá and warns her against
+    forest life.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: the forest ascetic or devotee
+  description: A generalized forest-dweller described as fasting, wearing matted hair
+    and bark, performing worship, bathing rites, and altar offerings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: wild creatures of the wood
+  description: A collective set of dangerous or troublesome beings in the forest,
+    including lions, monsters, crocodiles, elephants, serpents, snakes, scorpions,
+    grasshoppers, and flies.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: resolute would-be forest companion
+  assigned_to:
+  - fig:1
+  basis: Sítá has a firm resolve and a wish to live a forest life, which the speaker
+    tries to change.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: counselor and protective speaker
+  assigned_to:
+  - fig:2
+  basis: The hero soothes Sítá and warns her in detail about forest hardships, urging
+    her to stay behind.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:3
+  label: ascetic forest practitioner
+  assigned_to:
+  - fig:3
+  basis: 'The passage describes obligations of an ascetic or devotee in the wood:
+    fasting, ritual worship, bathing, abstinence, and offerings.'
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: wilderness threats
+  assigned_to:
+  - fig:4
+  basis: Animals, serpents, insects, and other beings are presented as dangers or
+    disturbances to those in the forest.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: perilous forest
+  literal_form: tangled wilderness or wild wood
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: mountain cave
+  literal_form: lion in his mountain cave
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - cave
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: dangerous water
+  literal_form: torrents, treacherous floods, streams, rivers, mud, and crocodiles
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: serpents and snakes
+  literal_form: creeping things, serpents, and snakes near riverbanks
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: thorny vegetation
+  literal_form: thorns, creeper-tangled ways, thorny bushes, trees, and dense grass
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:6
+  label: ascetic bark and matted hair
+  literal_form: matted hair and bark clothing
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: altar flowers
+  literal_form: flowers brought to grace the altar
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sítá’s resolve and the hero’s reluctance
+  summary: After Sítá speaks, the duty-minded hero remains reluctant because he foresees
+    forest woes, and he tries to calm her grief before speaking.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warning against forest life
+  summary: The speaker urges Sítá to remain and abandon her plan, characterizing forest
+    life as distress rather than joy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Catalogue of forest dangers
+  summary: 'The speaker lists dangers of the wood: lions, torrents, monsters, crocodile-filled
+    waters, wild elephants, thorns, and tangled paths.'
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ascetic obligations in the wood
+  summary: The forest-dweller is described as sleeping on leaves, eating little, fasting,
+    wearing matted hair and bark, performing worship, bathing at appointed times,
+    honoring guests, and offering flowers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Night, hunger, serpents, insects, and tangled growth
+  summary: 'The speaker adds further hardships: hunger, dark nights, wild winds, serpents,
+    snakes, scorpions, insects, thorny trees, bushes, and dense grass.'
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Final dissuasion
+  summary: The speaker says those in the wood must set aside hope and anger and apply
+    their thought to penance, then concludes that the forest is no place for Sítá.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: beloved warned against accompanying a forest departure
+  taxonomy_refs:
+  - departure
+  basis: Sítá wishes to live a forest life, while the speaker urges her to remain
+    and describes why the departure would bring suffering.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage presents an attempted dissuasion and warning; it does not
+    narrate the actual departure within the supplied text.
+- id: motif:2
+  label: perilous wilderness as ordeal
+  taxonomy_refs: []
+  basis: The forest is repeatedly characterized by physical dangers, hostile animals,
+    difficult terrain, hunger, cold, darkness, winds, and insects.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a descriptive motif candidate based on the passage’s catalogue
+    of hazards, not a named taxonomy family in the supplied list.
+- id: motif:3
+  label: ascetic discipline in the forest
+  taxonomy_refs:
+  - initiation
+  basis: The passage describes fasting, matted hair, bark clothing, ritual worship,
+    bathing rites, altar offerings, abstinence, and penance as requirements of forest
+    life.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage describes ascetic discipline and ordeal, but it does not explicitly
+    identify a formal initiation rite.
+- id: motif:4
+  label: serpent-infested wilderness path
+  taxonomy_refs: []
+  basis: The forest path is said to be lined with serpents or snakes that act as deadly
+    foes near rivers and on the earth.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The serpent imagery is one element in a larger danger catalogue rather
+    than the sole focus of the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14220-14326; opening narrative of Canto XXVIII
+  quote_or_summary: Sítá has spoken; the duty-minded hero is reluctant because of
+    forest woes, seeks to soothe her tears, and speaks to shake her resolve.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 14220-14326; speech opening
+  quote_or_summary: The speaker addresses Sítá, tells her to remain and pursue her
+    duties, condemns her plan, and calls the forest a place of trouble and distress.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 14220-14326; first catalogue of forest dangers
+  quote_or_summary: The forest contains lions in mountain caves, torrents, monsters,
+    crocodile-filled floods, wild elephants, thorns, tangled creepers, and straying
+    far from streams.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 14220-14326; forest ascetic duties
+  quote_or_summary: The forest-dweller sleeps on leaves, eats little fallen fruit,
+    fasts, wears matted hair and bark, worships gods and spirits, honors guests, bathes
+    at dawn, noon, and sunset, and brings flowers to the altar.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 14220-14326; later catalogue of forest afflictions
+  quote_or_summary: The speaker lists hunger, black nights, wild winds, creeping things,
+    swarming serpents, snakes near riverbanks, scorpions, grasshoppers, flies, thorny
+    trees, bushes, and dense grass.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 14220-14326; closing admonition
+  quote_or_summary: The speaker says hope and anger must be cast aside, thought must
+    be applied to penance, and Sítá should give up her purpose because the forest
+    is no place for her.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied English passage. Motif candidates
+    are conservative and limited to patterns directly described. No comparison claims
+    are made because the passage itself does not support a specific cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external taxonomy IDs or comparisons were added beyond the supplied available taxonomy references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l14220-l14326
+  passage_sha256=da62fd085359d8907a657af4afeb21784e62ebbe0b8e38d14d764061ac70b52e

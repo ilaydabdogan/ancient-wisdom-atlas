@@ -1,0 +1,498 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l10591-l10743
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LXXVI. Debarred From Heaven. / BOOK II. / Canto I. The Heir Apparent.
+    / Canto VI. The City Decorated.; lines 10591-10743
+  start: '10591'
+  end: '10743'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Manthara tries to alarm Queen Kaikeyi by presenting Rama's impending installation
+    as heir as a danger to Kaikeyi and Bharata. Kaikeyi initially rejoices and rewards
+    Manthara with a jewel, saying Rama is like her own son. Manthara rejects this
+    reaction and argues that Rama's rule will subordinate Kaikeyi, Bharata, and their
+    household to Kausalya. Kaikeyi defends Rama's virtue, rightful claim, and affection
+    for his brothers, and expects Bharata to share or later inherit the kingdom.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Manthara tells Kaikeyi that King Dasaratha will make Prince Rama heir associate
+    and frames this as peril for Kaikeyi.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Manthara claims Dasaratha deceives Kaikeyi, sends Bharata away, and gives
+    power to Rama while rivals are absent.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Manthara uses images of a serpent, an unseen stabbing enemy, and consuming
+    flames while warning Kaikeyi.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Kaikeyi reacts joyfully to the news of Rama's succession and gives Manthara
+    a jewel as a reward for the message.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Manthara rejects Kaikeyi's joy and argues that the rule of a rival's son will
+    endanger Kaikeyi and Bharata.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: 'Manthara describes political alignments among the brothers: Lakshmana serves
+    Rama, Shatrughna is bound to Bharata, and Bharata is next in succession after
+    Rama.'
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Manthara says Kausalya will be exalted when Rama is placed on the royal seat,
+    while Kaikeyi will have to serve Kausalya.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Kaikeyi defends Rama as virtuous, grateful, pure, true, and rightly entitled
+    to royal rule.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Kaikeyi says Rama is as dear to her as, or dearer than, her own son and that
+    Bharata will later share or receive the kingdom.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Kaikeyi
+  description: Queen addressed by Manthara; mother of Bharata; initially joyful at
+    Rama's succession and defensive of Rama.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+- id: fig:2
+  name_or_label: Manthara
+  description: Hump-backed maid or slave of Kaikeyi, described as furious, treacherous,
+    and intent on alienating Kaikeyi's love from Rama.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Rama
+  description: Prince to be made heir associate; son of Kausalya; praised by Kaikeyi
+    as virtuous and rightly entitled to rule.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: King Dasaratha
+  description: King said by Manthara to be arranging Rama's installation and to have
+    sent Bharata away.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Bharata
+  description: Kaikeyi's son; described by Manthara as endangered by Rama's succession
+    and next in line after Rama.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: Kausalya
+  description: Mother of Rama, described by Manthara as the queen who will gain wealth,
+    power, and exalted status after Rama's installation.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:7
+  name_or_label: Lakshmana
+  description: Brother aligned with Rama, described as serving Rama's cause with all
+    his soul.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Shatrughna
+  description: Brother described as bound to Bharata in heart and mind.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Sita
+  description: Mentioned indirectly through Sita's friends, whom Manthara says will
+    exult if Rama rules.
+  role_refs: []
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: queen and mother of rival heir
+  assigned_to:
+  - fig:1
+  basis: Kaikeyi is addressed as queen and is linked to Bharata as her son in the
+    succession dispute.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: role:2
+  label: alarming counselor
+  assigned_to:
+  - fig:2
+  basis: Manthara repeatedly warns Kaikeyi that Rama's consecration will bring danger
+    and loss.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: role:3
+  label: heir apparent
+  assigned_to:
+  - fig:3
+  basis: Dasaratha is said to be making Rama heir associate, and Kaikeyi calls Rama
+    the monarch's heir.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:4
+  label: defender of Rama's claim
+  assigned_to:
+  - fig:1
+  basis: Kaikeyi praises Rama's virtues and states that he rightly claims royal sway.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: king arranging succession
+  assigned_to:
+  - fig:4
+  basis: Manthara says King Dasaratha will create Rama heir associate.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: succession rival or alternative heir
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Rama is the immediate heir; Bharata is described as next after Rama and as
+    threatened by Rama's elevation.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:7
+  label: beneficiary royal mother
+  assigned_to:
+  - fig:6
+  basis: Manthara says wealth, power, and security will become Kausalya's when Rama
+    is installed.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:8
+  label: aligned royal brother
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Lakshmana is described as serving Rama, while Shatrughna is bound to Bharata.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: serpent at the breast
+  literal_form: A serpent pressed to the heedless breast, used by Manthara as an image
+    for a trusted but dangerous figure.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: consuming flames
+  literal_form: Flames consuming the speaker, used by Manthara to describe her distress
+    or zeal.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: seas of whelming woe
+  literal_form: Seas engulfing Kaikeyi's state, used by Manthara to frame the danger.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: reward jewel
+  literal_form: A jewel given by Kaikeyi to Manthara as a reward for bringing news.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: royal seat
+  literal_form: The seat on which Rama will be placed by Brahmans when the moon and
+    Pushya meet.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: moon and Pushya conjunction
+  literal_form: The auspicious time when the moon and Pushya meet for Rama's royal
+    installation.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Manthara warns Kaikeyi of Rama's installation
+  summary: Manthara tells Kaikeyi that Dasaratha will make Rama heir associate and
+    frames the event as immediate danger to Kaikeyi and Bharata.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Kaikeyi rewards the messenger
+  summary: Kaikeyi rejoices at Rama's elevation, raises her head from the bed, gives
+    Manthara a jewel, and says Rama is like her own son.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Manthara rebukes Kaikeyi's joy
+  summary: Manthara spurns the gift, calls Kaikeyi blind to danger, and argues that
+    Rama's rule will elevate Kausalya and reduce Kaikeyi and Bharata.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Kaikeyi defends Rama
+  summary: Kaikeyi answers that Rama is virtuous and rightly entitled to rule, that
+    he loves his brothers, and that Bharata will eventually share in or inherit the
+    kingdom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: contested royal succession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage centers on Rama's impending installation as heir, Manthara's
+    claim that Bharata is endangered or displaced, and Kaikeyi's defense of Rama's
+    rightful claim.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage presents persuasion about succession rather than an actual
+    coronation or conflict outcome.
+- id: motif:2
+  label: counselor incites fear against a royal heir
+  taxonomy_refs: []
+  basis: Manthara, described as artful and furious, repeatedly reframes Rama's succession
+    as a threat in order to alter Kaikeyi's affection and judgment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the available list has
+    no precise counselor-intrigue category.
+- id: motif:3
+  label: trusted relation figured as hidden serpent or enemy
+  taxonomy_refs:
+  - serpent
+  basis: Manthara describes Kaikeyi as having cherished a serpent or unseen enemy,
+    applying danger imagery to a trusted royal relationship.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The serpent appears as rhetorical simile rather than as a literal creature
+    in the narrative.
+- id: motif:4
+  label: messenger reward rejected amid ominous counsel
+  taxonomy_refs: []
+  basis: Kaikeyi rewards Manthara with a jewel for welcome news, but Manthara spurns
+    the gift and insists the news signifies danger.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The exchange is courtly and rhetorical; it is not explicitly sacred or
+    ritualized in the passage.
+- id: motif:5
+  label: auspicious royal consecration timing
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Manthara describes Rama being placed by Brahmans on the royal seat when the
+    moon and Pushya meet.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage reports the consecration prospect within Manthara's speech;
+    the ceremony itself is not narrated here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10605-10618
+  quote_or_summary: 'Manthara says: “Peril awaits thee swift and sure” and “King Daśaratha
+    will create / Prince Ráma Heir Associate.”'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 10623-10647
+  quote_or_summary: Manthara claims Dasaratha deceives Kaikeyi, sends her child away,
+    gives wealth and power to Kausalya, and has acted like a serpent or unseen enemy
+    toward Kaikeyi and Bharata.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 10615-10618
+  quote_or_summary: Manthara says her distress is “As though the flames consumed me.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 10654-10667
+  quote_or_summary: Kaikeyi joyfully lifts her head, gives a jewel to the hump-backed
+    slave, thanks her for welcome news, and says Kausalya's son Rama is as her own.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 10670-10688
+  quote_or_summary: Manthara's fury burns; she spurns the gift, calls Kaikeyi blind,
+    describes her state as engulfed in seas of woe, and says a rival's son empowered
+    like death is dangerous.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 10689-10701
+  quote_or_summary: Manthara says Rama must fear Bharata; Lakshmana serves Rama; Shatrughna
+    is bound to Bharata; Bharata is the lawful heir next after Rama.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 10702-10715
+  quote_or_summary: Manthara says Kausalya will be blessed when Brahmans place her
+    son on the royal seat at the moon-Pushya conjunction, while Kaikeyi must serve
+    Kausalya and Bharata will bow to Rama.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 10719-10743
+  quote_or_summary: Kaikeyi replies that Rama, born the monarch's heir and trained
+    by holy fathers, is virtuous and rightly claims royal sway; he will protect brothers
+    and friends, and Bharata will later receive or share the kingdom.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Passage details are explicit, but motif labels beyond royal succession and
+    courtly persuasion are interpretive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit cross-textual or cross-traditional comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l10591-l10743
+  passage_sha256=c36a6c222b79044fed51a09a7521e214eadfff77d2c0c24fcfc494af2311b4a6

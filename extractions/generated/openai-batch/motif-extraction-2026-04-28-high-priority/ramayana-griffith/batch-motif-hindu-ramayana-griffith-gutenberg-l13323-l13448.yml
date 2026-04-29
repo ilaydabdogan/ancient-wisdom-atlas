@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l13323-l13448
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto IX. The Plot. / Canto XV. The Preparations. / Canto XVIII. The Sentence.
+    / Canto XXII. Lakshman Calmed.; lines 13323-13448
+  start: '13323'
+  end: '13448'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Forth to the forest will I go.”"
+  summary: Rama counsels the angry Lakshman to restrain grief and anger, obey duty,
+    stop Rama’s royal consecration, use the prepared ritual materials for Bharat’s
+    enthronement and Rama’s hermit vow, and accept exile to the forest as the work
+    of Fate rather than blaming Kaikeyi or their father.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Rama remains composed while Lakshman is described as furious, glaring-eyed,
+    and panting like a snake.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rama tells Lakshman to restrain anger and grief and remain firm in the path
+    of duty.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Rama instructs Lakshman to use the preparations made for Rama’s heir-rites
+    to grace Bharat’s enthronement instead.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rama says he wishes to resign the consecration and leave the city for the
+    wild wood without delay.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Rama says his banishment will free Kaikeyi from care and allow her to celebrate
+    Bharat’s enthronement.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Rama describes wearing deerskin, bark, and matted hair while wandering in
+    the wood.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Rama repeatedly attributes his exile, Kaikeyi’s change of heart, and the transfer
+    of royal power to Fate.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: Rama commands Lakshman to stop the royal throning rites.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Rama says the urns prepared to pour king-making drops on his head will instead
+    inaugurate his hermit’s vow, and that he will take water in his own hands to sanctify
+    the vow.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Rama tells Lakshman not to think ill of Kaikeyi or their father, but to remember
+    that Fate is lord of all.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: The speaker who resigns his consecration, accepts banishment, and instructs
+    Lakshman to uphold duty.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Lakshman
+  description: Rama’s dear brother, addressed as Sumitra’s son, who is angry and grieving
+    over the blocked consecration.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Bharat
+  description: The one whose throning rites are to be celebrated with items prepared
+    for Rama.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Kaikeyi
+  description: The youngest queen whose actions have blocked Rama’s consecration and
+    promoted Bharat’s enthronement; Rama attributes her change to Fate.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Rama’s father / the king
+  description: The king whose truth in promise, word, and action Rama seeks to preserve
+    and whom Lakshman is told not to blame.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:6
+  name_or_label: Fate
+  description: An impersonal power repeatedly named by Rama as governing exile, sovereignty,
+    joy, pain, life, and death.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: renouncing heir
+  assigned_to:
+  - fig:1
+  basis: Rama resigns the consecration intended for him and orders the royal rites
+    stopped.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:2
+  label: forest exile / hermit-vow taker
+  assigned_to:
+  - fig:1
+  basis: Rama says he will go to the forest, wear ascetic garb, and sanctify a hermit’s
+    vow with water.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: counselor of restraint and duty
+  assigned_to:
+  - fig:1
+  basis: Rama instructs Lakshman to restrain anger and grief and remain in duty’s
+    path.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: angry loyal brother
+  assigned_to:
+  - fig:2
+  basis: Lakshman is described as furious and grieving; Rama addresses and calms him.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: role:5
+  label: replacement king-to-be
+  assigned_to:
+  - fig:3
+  basis: Rama directs that Bharat’s throning rites be graced with the things prepared
+    for Rama.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: queen whose demand displaces the consecration
+  assigned_to:
+  - fig:4
+  basis: Rama says Kaikeyi’s words stayed his consecration and drove him into banishment,
+    though he attributes this to Fate.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: truth-bound father king
+  assigned_to:
+  - fig:5
+  basis: Rama says his father keeps truth in promise, word, and action and should
+    not be feared or blamed.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:8
+  label: overruling destiny
+  assigned_to:
+  - fig:6
+  basis: Rama states that Fate sends him to the wilderness, gives away royal sway,
+    and governs life, death, joy, pain, loss, and gain.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: serpent-like anger
+  literal_form: Lakshman panting like a snake
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: forest wilderness
+  literal_form: wild wood / forest / wilderness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: ascetic clothing
+  literal_form: deerskin, bark, and matted hair
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: consecration urns
+  literal_form: urns prepared to shed king-making drops on Rama’s head
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: vow-sanctifying water
+  literal_form: water taken in Rama’s hands to sanctify the hermit vow
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Fate as ruling power
+  literal_form: Fate described as lord of all and as governing events and states of
+    life
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Rama calms Lakshman
+  summary: Rama, remaining composed, addresses the furious Lakshman and instructs
+    him to restrain grief and anger and follow duty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Transfer of coronation preparations
+  summary: Rama tells Lakshman that the ritual preparations made for Rama’s consecration
+    should now be used for Bharat’s enthronement.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: scene:3
+  label: Acceptance of forest exile
+  summary: Rama resigns the consecration, says he will leave the city for the wild
+    wood, and describes adopting forest ascetic signs.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Explanation by Fate
+  summary: Rama interprets Kaikeyi’s change of heart, the loss of the throne, and
+    all conditions of life as governed by Fate.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: scene:5
+  label: Royal lustration redirected into hermit vow
+  summary: Rama says the urns and lustral waters prepared for royal consecration will
+    instead inaugurate his hermit vow, which he will sanctify with water in his own
+    hands.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: renunciation before enthronement
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: 'The passage centers on a blocked royal consecration: Rama resigns the rite,
+    orders it stopped, and redirects its preparations to Bharat’s enthronement.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage does not narrate Bharat’s actual enthronement, only Rama’s
+    instruction concerning it.
+- id: motif:2
+  label: departure into forest exile
+  taxonomy_refs:
+  - departure
+  basis: Rama states that he will leave the city without delay and go to the wild
+    wood or wilderness, adopting a forest life.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: This excerpt announces and interprets the departure rather than narrating
+    the journey itself.
+- id: motif:3
+  label: ritual transformation from king to hermit
+  taxonomy_refs:
+  - initiation
+  basis: Royal consecration urns and water are reinterpreted as inaugurating Rama’s
+    hermit vow, with ascetic clothing replacing royal status.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is interpretive; the passage explicitly names a
+    vow and lustration but not an initiation ceremony.
+- id: motif:4
+  label: submission to irresistible Fate
+  taxonomy_refs: []
+  basis: Rama repeatedly says Fate gives away royal power, sends him to the wilderness,
+    causes Kaikeyi’s change, and governs life, death, joy, pain, loss, and gain.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy family directly names fate or destiny.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13323-13334
+  quote_or_summary: Rama remains unshaken; Lakshman is furious and panting like a
+    snake; Rama tells him to restrain anger and grief and stay firm in duty.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 13335-13344
+  quote_or_summary: Rama tells Lakshman that the rites and preparations intended for
+    Rama as heir should now be used for Bharat’s throning rites.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 13345-13366
+  quote_or_summary: Rama speaks of protecting a loved woman’s heart, preserving his
+    father’s truth, resigning the consecration, leaving for the wild wood, and enabling
+    Kaikeyi to celebrate Bharat’s enthronement.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 13367-13382
+  quote_or_summary: Rama describes wearing deerskin, bark, and matted hair in the
+    wood; he says he will not grieve the one who approved the counsel, will go to
+    the forest, and that Fate sends him to the wilderness and gives royal sway to
+    others.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 13383-13412
+  quote_or_summary: Rama attributes Kaikeyi’s harsh words, the halted consecration,
+    and his banishment to Fate, and declares that life, death, joy, pain, anger, fear,
+    loss, and gain are all Fate’s work.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 13413-13434
+  quote_or_summary: Rama tells Lakshman to control grief, obey him, halt the throning
+    rites, and use the prepared urns and lustrations not for royal consecration but
+    for his hermit vow, which he will sanctify with water.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 13435-13448
+  quote_or_summary: Rama says forest life may bring more joy than kingship, tells
+    Lakshman not to fear or blame the youngest queen or their father, and concludes
+    that Fate is lord of all.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are candidate-level and should be reviewed, especially the initiation framing
+    of the redirected consecration.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only supplied passage text and metadata were used. No external comparisons were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l13323-l13448
+  passage_sha256=5633bc6afdb9e423db72288b1a00b82c92d5fa5f9b6b33d238459b94402b096e

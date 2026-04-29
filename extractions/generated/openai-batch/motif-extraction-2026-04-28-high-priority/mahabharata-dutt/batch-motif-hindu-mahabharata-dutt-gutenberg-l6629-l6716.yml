@@ -1,0 +1,543 @@
+---
+record_id: batch.motif.hindu-mahabharata-dutt-gutenberg-l6629-l6716
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+passage_locator:
+  label: BOOK XI / SRADDHA / BOOK XII / ASWA-MEDHA; lines 6629-6716
+  start: '6629'
+  end: '6716'
+  translation: Maha-bharata
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Yudhishthir''s aswa-medha: many animals and the
+    sacrificial horse are prepared and immolated, celestial beings attend, priests
+    perform the rite, Draupadi is placed beside the slain horse, the horse''s parts
+    are offered on the altar, Yudhishthir distributes gifts, Vyasa returns the gift
+    of the realm and instructs him to rule, the rite is said to cleanse Yudhishthir''s
+    sins, and Krishna departs for Dwarka.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bulls, steeds, and three hundred other creatures are tied to stakes for the
+    rite.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Deva-rishis, gandharvas, apsaras, kinnaras, kim-purushas, siddhas, Narad,
+    and Chetra-sena are present or active around the rite.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Priests slay the horse according to Vedic rules and place Draupadi beside
+    the dead steed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Priests cook the horse, and Yudhishthir and his brothers inhale the fragrance
+    and smoke.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Parts of the horse are placed on a blazing altar as an offering.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Yudhishthir gives gold to Brahmans and offers his realm and wealth to Vyasa.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Vyasa returns the realm to Yudhishthir and tells him to rule the nations of
+    the earth.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The rite of ablution is said to cleanse Yudhishthir's sins.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Krishna leaves Hastina for Dwarka after the rite and gift-giving.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Yudhishthir
+  description: Kuru monarch who sponsors the aswa-medha, receives the Kuru-land, gives
+    gifts, and is said to have his sins cleansed.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Draupadi
+  description: Named as Queen of yajna and placed beside the slain horse.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Priests and Brahmans
+  description: Ritual officiants who slay and cook the horse, stand in order, receive
+    gifts, and perform offerings.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Vyasa
+  description: Ancient rishi and bard of the Vedas who blesses Yudhishthir, receives
+    but returns the realm, and instructs him to rule.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Krishna
+  description: Yudhishthir's friend who endorses Vyasa's words and later departs for
+    Dwarka.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Yudhishthir's brothers
+  description: Brothers who stand with Yudhishthir and inhale the sacrificial smoke
+    with him.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:7
+  name_or_label: Sacrificial horse
+  description: Noble-breed horse slain in the aswa-medha, cooked, and offered in portions
+    on the altar.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:8
+  name_or_label: Celestial attendees and performers
+  description: Divine or semi-divine beings who view, sing, dance, or stand around
+    the sacred site.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+- id: fig:9
+  name_or_label: Parting monarchs
+  description: Kings who receive gifts from Yudhishthir and bless his name before
+    departing.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: royal sacrificial patron
+  assigned_to:
+  - fig:1
+  basis: Yudhishthir sponsors the aswa-medha and gives extensive gifts connected with
+    the rite.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: Queen of yajna
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly calls Draupadi Queen of yajna and places her beside
+    the slain steed.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ritual officiants
+  assigned_to:
+  - fig:3
+  basis: The priests stand in order, follow Vedic rules, slay and cook the horse,
+    and place offerings on the altar.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: Vedic sage and royal legitimating speaker
+  assigned_to:
+  - fig:4
+  basis: Vyasa blesses the king, returns the realm, and tells Yudhishthir that the
+    gods destined him to rule.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: counselor and departing companion
+  assigned_to:
+  - fig:5
+  basis: Krishna advises obedience to Vyasa's mandate and later leaves for Dwarka.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:6
+  label: purified ruler
+  assigned_to:
+  - fig:1
+  basis: The rite of ablution is said to cleanse Yudhishthir's sins, and he is described
+    as pure and high.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: gift recipients
+  assigned_to:
+  - fig:3
+  basis: Brahmans and priests receive gold and rich dakshina.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: royal kin participating in rite
+  assigned_to:
+  - fig:6
+  basis: Yudhishthir's brothers inhale the sacrificial fragrance and stand with him
+    afterward.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:9
+  label: sacrificial victim
+  assigned_to:
+  - fig:7
+  basis: The horse is slain, cooked, divided, and offered on the altar.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:10
+  label: celestial witnesses and performers
+  assigned_to:
+  - fig:8
+  basis: Divine and semi-divine beings view the feast, sing, dance, and stand around
+    the sacred site.
+  evidence_refs:
+  - ev:1
+- id: role:11
+  label: recipient kings
+  assigned_to:
+  - fig:9
+  basis: Monarchs receive gems, jewels, gold, garments, slaves, and damsels, then
+    bless Yudhishthir.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sacrificial horse
+  literal_form: Slain aswa-medha horse whose body is cooked and offered.
+  associated_figures:
+  - fig:7
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: blazing altar
+  literal_form: Altar on which horse fragments are placed as an offering.
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sacrificial smoke and fragrance
+  literal_form: Smoke and fragrance from the cooked horse inhaled by Yudhishthir and
+    his brothers.
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: royal and priestly gifts
+  literal_form: Gold, dakshina, gems, jewels, garments, slaves, damsels, and the offered
+    realm.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: pure ablution
+  literal_form: Ablution rite said to cleanse Yudhishthir's sins.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Celestial and ritual gathering at the aswa-medha
+  summary: Animals are tied for the rite while divine and semi-divine beings, musicians,
+    sages, and Brahmans gather around the sacred site.
+  figure_refs:
+  - fig:3
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sacrifice of the horse
+  summary: Priests kill the horse according to Vedic rules, place Draupadi beside
+    it, cook it, and offer its parts on the altar while Yudhishthir and his brothers
+    inhale the smoke and fragrance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Gifts and return of the realm
+  summary: Yudhishthir gives gold and offers his realm to Vyasa; Vyasa returns the
+    realm and instructs him to rule, with Krishna supporting the instruction.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Purification and regal display
+  summary: The aswa-medha and ablution are said to bring fame, virtue, and cleansing
+    of sins; Yudhishthir is compared to Indra among celestial beings, and monarchs
+    receive gifts and depart blessing him.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Krishna's departure
+  summary: Krishna, described as faithful to the Pandavas in joy, sorrow, peace, and
+    war, leaves Hastina for Dwarka.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: horse sacrifice as royal rite
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage centers on the aswa-medha in which the horse and other animals
+    are immolated, cooked, and offered by priests for Yudhishthir.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The extraction identifies the motif at passage level and does not infer
+    ritual details beyond those stated.
+- id: motif:2
+  label: sacrifice conferring royal legitimacy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: After the rite, Vyasa returns the realm and tells Yudhishthir the gods destined
+    him to rule; the passage also emphasizes Yudhishthir's fame, virtue, and regal
+    might.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage connects the rite and speeches with kingship, but broader
+    political theology is not inferred.
+- id: motif:3
+  label: ritual gift exchange with renunciant return
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Yudhishthir gives immense wealth and the realm to Vyasa; Vyasa refuses to
+    keep the earthly gift and returns the empire while directing priestly wealth to
+    Brahmans.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The exchange is explicit, but its full ritual or legal meaning is not
+    explained in the passage.
+- id: motif:4
+  label: ritual purification of sin
+  taxonomy_refs: []
+  basis: The passage states that the rite of pure ablution cleanses Yudhishthir's
+    sins.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy reference directly names purification, so no taxonomy
+    ID is assigned.
+- id: motif:5
+  label: divine and celestial witnessing of royal sacrifice
+  taxonomy_refs: []
+  basis: Multiple celestial classes and heavenly figures attend, sing, dance, or observe
+    the sacrificial rite.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents celestial attendance but does not state a separate
+    doctrinal function for it.
+comparison_claims:
+- id: claim:1
+  claim: This passage is a clear instance of the sacrifice motif family, with animals
+    and the aswa-medha horse ritually slain, cooked, and offered.
+  claim_level: same_motif
+  target: sacrifice motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to motif classification and does not compare this
+    episode to any external text.
+- id: claim:2
+  claim: 'The passage uses the sacrifice to support royal legitimacy: Yudhishthir
+    is instructed to rule a divinely destined empire and is displayed in enhanced
+    regal status after the rite.'
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports the function within this episode; no historical
+    claim about actual royal ritual practice is made.
+- id: claim:3
+  claim: 'The gift sequence fits a sacred exchange pattern: the king gives wealth
+    and realm, the sage returns the realm, and priestly recipients receive dakshina.'
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage narrates exchange but does not explicitly theorize reciprocity,
+    obligation, or sacramental economy.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6629-6652
+  quote_or_summary: Bulls, steeds, and three hundred other creatures are tied to stakes;
+    deva-rishis, gandharvas, apsaras, kinnaras, kim-purushas, siddhas, Narad, Chetra-sena,
+    and Vedic pupils attend or perform around the sacred rite.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6653-6664
+  quote_or_summary: In the section titled 'Sacrifice of the Horse,' priests guided
+    by Vedic rules slay the noble horse and place Draupadi, called Queen of yajna,
+    by the slain steed.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6665-6676
+  quote_or_summary: Priests cook the horse; Yudhishthir and his brothers inhale the
+    fragrance and sin-destroying smoke; severed limbs and fragments of the horse are
+    placed on the blazing altar; Vyasa blesses Yudhishthir and the assembled throng.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6677-6684
+  quote_or_summary: Yudhishthir gives countless gold nishkas to Brahmans and offers
+    all his realm and wealth to Vyasa, who returns the earthly gift rather than taking
+    it.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 6685-6696
+  quote_or_summary: Vyasa says, 'Thine is Kuru's ancient empire' and tells Yudhishthir
+    to rule his subjects as father and lord; Krishna says Vyasa speaks wisdom and
+    should be obeyed; Yudhishthir receives the Kuru-land and enriches the priests.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; short quotation included.
+- id: ev:6
+  type: summary
+  locator: lines 6697-6710
+  quote_or_summary: The aswa-medha brings Yudhishthir fame and virtue, the ablution
+    cleanses his sins, he stands among his brothers like Indra among sky-dwellers,
+    monarchs grace his might, and he gives rich gifts to them before they bless him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6711-6716
+  quote_or_summary: Krishna, faithful to Arjun, Bhima, and Yudhishthir, mounts his
+    car with tears and leaves Hastina for sea-girt Dwarka.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main ritual, figures, and gift sequence are explicit. Motif labels beyond
+    sacrifice and royal legitimacy are more interpretive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and supplied taxonomy references; no external comparison texts or ritual details were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-mahabharata-dutt-gutenberg__l6629-l6716
+  passage_sha256=e646e96e3a42afe8b57199953665e76a65f09018b10d8164afc1da0e1ac17ff1

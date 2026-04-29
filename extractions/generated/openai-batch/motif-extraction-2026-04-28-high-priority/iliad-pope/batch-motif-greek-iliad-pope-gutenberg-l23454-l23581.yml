@@ -1,0 +1,452 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l23454-l23581
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE REDEMPTION OF THE BODY OF HECTOR. / CONCLUDING NOTE. / A. POPE / END
+    OF THE ILIAD; lines 23454-23581
+  start: '23454'
+  end: '23581'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes discuss an allegorical explanation of Mentor as a form
+    assumed by Minerva for the wise Ulysses; quote a farewell passage about a sea-wanderer
+    asking after a blind poor singer on Chios; and review scholarly issues concerning
+    Homeric authorship, memory, oral transmission, comparison with the Calmuck Dschungariade,
+    and the ordering of Homeric books by Peisistratus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An allegorical explanation is reported in which Minerva, described as the
+    guardian deity of wise Ulysses, assumes Mentor's form.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A quoted farewell passage asks Origias to remember the speaker when a hapless
+    wanderer from the sea asks which bard sings most sweetly.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The answer requested in the farewell passage identifies the sweetest singer
+    as a blind old poor man dwelling on Chios's rocky shore.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A Naples informant describes a man able to repeat Tasso's Gierusalemme consecutively
+    and in altered orders, and learning Orlando Furioso similarly.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Blind Jamie of Stirling is described as able to repeat any Bible verse after
+    a few minutes' consideration.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage quotes Heeren's statement that the Calmuck Dschungariade is said
+    to surpass Homeric poems in length while standing beneath them in merit, and that
+    national songs may be written down last because they are remembered.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Cicero is cited as saying Peisistratus first disposed the books of Homer in
+    the order in which they are now had.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A scholarly note states that Iliad books 1, 8, and 11 through 22 appear to
+    form the poem's primary organization, described as an Achilles.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Mentor
+  description: A figure whose form is said to be assumed by Minerva in an allegorical
+    explanation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Minerva
+  description: Guardian deity of wise Ulysses, said to assume Mentor's form.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ulysses
+  description: Called wise and associated with Minerva as guardian deity.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Origias
+  description: Addressed in a farewell passage and asked to remember the speaker.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Stranger from the sea
+  description: A hapless wanderer imagined as exploring the isle and asking about
+    the sweetest bard.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Blind old man on Chios
+  description: A poor blind old man said to sing sweetest and dwell on Chios's rocky
+    shore.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Naples reciter of Tasso
+  description: A man described as able to repeat the whole Gierusalemme of Tasso in
+    multiple orders and as proceeding to learn Orlando Furioso.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Blind Jamie
+  description: A poor, uneducated man of Stirling described as able to repeat requested
+    Bible verses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Peisistratus
+  description: Cited as having first arranged the books of Homer in their received
+    order.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Homer
+  description: The poet whose poems, books, and textual organization are discussed
+    in the notes.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: guardian deity
+  assigned_to:
+  - fig:2
+  basis: Minerva is described as the guardian deity of wise Ulysses.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wise protected figure
+  assigned_to:
+  - fig:3
+  basis: Ulysses is called wise and is associated with Minerva's guardianship.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: assumed form
+  assigned_to:
+  - fig:1
+  basis: Mentor's form is said to be assumed by Minerva.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: blind bard
+  assigned_to:
+  - fig:6
+  basis: The quoted passage identifies a blind old poor man on Chios as the sweetest
+    singer.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: hapless wanderer and questioner
+  assigned_to:
+  - fig:5
+  basis: The stranger from the sea is imagined as exploring the isle and asking about
+    its bards.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: prodigious memorizer or reciter
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Both figures are described as able to recite large bodies of text from memory.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: arranger of Homeric books
+  assigned_to:
+  - fig:9
+  basis: Peisistratus is cited as first arranging Homer's books in their received
+    order.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: attributed poet or textual source
+  assigned_to:
+  - fig:10
+  basis: The notes discuss Homeric poems, Homeric books, and a primary organization
+    of the Iliad.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: assumed form
+  literal_form: Mentor's form
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sea
+  literal_form: sea from which the stranger comes
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: books of Homer
+  literal_form: books arranged in a received order
+  associated_figures:
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Minerva assumes Mentor's form
+  summary: A note reports an allegorical explanation that Minerva, guardian deity
+    of wise Ulysses, assumes Mentor's form.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sea-wanderer asks about the sweetest bard
+  summary: A farewell passage imagines a hapless stranger from the sea asking which
+    bard is most pleasing, and receiving the answer that it is a blind poor old man
+    on Chios.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Examples of extraordinary recitation
+  summary: 'The notes recount two examples of exceptional memorization: a Naples man
+    reciting Tasso in varied orders and Blind Jamie recalling Bible verses.'
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Oral national songs and the Dschungariade
+  summary: A quoted scholarly passage compares the length and merit of the Dschungariade
+    with Homer and argues that national songs may remain unwritten because they are
+    remembered.
+  figure_refs:
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Peisistratus arranges Homeric books
+  summary: A note cites Cicero's report that Peisistratus first arranged the books
+    of Homer in their current order.
+  figure_refs:
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: deity assumes a familiar human form as guardian helper
+  taxonomy_refs:
+  - shapeshifter
+  - wisdom
+  basis: The note reports Minerva, guardian deity of wise Ulysses, assuming Mentor's
+    form.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an editorial note summarizing an allegorical explanation, not
+    a narrative episode in the extracted passage.
+- id: motif:2
+  label: blind poor bard remembered as sweetest singer
+  taxonomy_refs: []
+  basis: The quoted farewell passage asks that a blind poor old man on Chios be named
+    as the sweetest singer when a sea-wanderer asks about bards.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a quoted literary excerpt in a note; it is not presented
+    as a mythic narrative.
+- id: motif:3
+  label: extraordinary memory preserves large bodies of authoritative verse
+  taxonomy_refs:
+  - wisdom
+  basis: The notes describe persons able to recite Tasso, Ariosto, or the Bible from
+    memory and then connect such examples to the possibility of combined invention
+    and memory in a simpler age.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The examples are scholarly analogies about memory and oral transmission
+    rather than mythological motifs.
+- id: motif:4
+  label: national songs preserved in memory before writing
+  taxonomy_refs: []
+  basis: The quoted Heeren passage states that national songs may be among the last
+    things committed to writing because they are remembered.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a theory of oral tradition in a scholarly note, not an event within
+    the Iliad narrative.
+- id: motif:5
+  label: ordering an authoritative poetic corpus
+  taxonomy_refs: []
+  basis: Peisistratus is cited as arranging the books of Homer into the received order.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage reports a textual-historical claim rather than a mythic action.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Calmuck Dschungariade with Homeric poems
+    as long national song traditions, saying it surpasses Homer in length but is inferior
+    in merit.
+  claim_level: same_function
+  target: Dschungariade of the Calmucks compared with Homeric poems
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is quoted from Heeren within an editorial note and is
+    not developed through detailed textual evidence in the passage.
+- id: claim:2
+  claim: Modern examples of prodigious recitation are used as analogies for judging
+    the possible extent of memory and invention in an earlier, simpler age.
+  claim_level: same_function
+  target: Modern reciters compared with ancient oral poetic transmission
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage uses analogy rather than direct evidence for ancient performance
+    practice.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23454-23459
+  quote_or_summary: 'A note gives an allegorical explanation: Minerva, guardian deity
+    of wise Ulysses, assumes Mentor''s form.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 23472-23479
+  quote_or_summary: A quoted passage says a 'stranger from the sea' may ask which
+    bard sings sweetest; the answer is 'A blind old man and poor' who dwells on Chios's
+    rocky shore.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 23508-23529
+  quote_or_summary: A Naples informant describes a man able to repeat the whole Gierusalemme
+    of Tasso consecutively or in altered orders, and learning Orlando Furioso in the
+    same manner.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 23529-23539
+  quote_or_summary: Blind Jamie of Stirling is described as able to repeat any requested
+    Bible verse after a few minutes' consideration; the note uses such facts to ask
+    how far memory and invention might develop in a simpler age.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 23540-23546
+  quote_or_summary: 'Heeren is quoted: the Dschungariade of the Calmucks is said to
+    surpass Homer in length while standing beneath it in merit; national songs may
+    be committed to writing last because they are remembered.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short quotation and summary.
+- id: ev:6
+  type: summary
+  locator: 23562-23566
+  quote_or_summary: Cicero is cited as saying Peisistratus first disposed the books
+    of Homer in the order in which they are now possessed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 23568-23570
+  quote_or_summary: A note states that books 1, 8, and 11-22 seem to form the primary
+    organization of the poem, described as an Achilles.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial note section rather than the Iliad narrative
+    itself. Extraction therefore emphasizes reported scholarly claims, quoted literary
+    material, and oral-tradition patterns present in the supplied lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were applied only where directly supported by wording such as Minerva's assumed form, wisdom, and sea/water.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l23454-l23581
+  passage_sha256=7ab53760998bb13e8948db3060db7b82d37d17a9ba4a70ac2164dd2942ed547a

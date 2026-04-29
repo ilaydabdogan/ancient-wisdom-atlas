@@ -1,0 +1,530 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l10416-l10589
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LXXVI. Debarred From Heaven. / BOOK II. / Canto I. The Heir Apparent.
+    / Canto VI. The City Decorated.; lines 10416-10589
+  start: '10416'
+  end: '10589'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Rama and his wife perform devotional preparation before Vishnu/Narayana
+    for the coming consecration. Ayodhya is decorated with banners, flowers, incense,
+    lamps, music, temple activity, and crowds. Townspeople praise King Dasaratha’s
+    decision to install Rama. Villagers gather from all directions. Manthara views
+    the decorated city, asks Rama’s nurse the cause, learns that Rama will be consecrated,
+    becomes angry, and wakes Queen Kaikeyi with warnings of danger.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Rama bathes, withdraws his mind from worldly thoughts, and worships Narayana
+    with his wife.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rama lifts a cup of holy oil, offers into a kindled fire, sips the remnant,
+    and prays for blessing and aid.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Rama and his Videhan wife recline in Vishnu’s chapel on a bed spread with
+    holy grass.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Before dawn Rama rises and orders attendants to adorn his palace for the solemn
+    morning.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Bards, heralds, priests, and Brahmans produce auspicious praise, proclamation,
+    and sound through Ayodhya.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Ayodhya is decorated at temples, streets, crossroads, holy fig-trees, squares,
+    shaded places, shops, mansions, meeting places, and trees with banners and ribbons.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Singers, players, dancing women, flowers, incense, garlands, and lamps contribute
+    to the festal decoration of the city.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Townspeople praise Dasaratha and welcome Rama’s coming anointing as king.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Country people and villagers come from all directions to see Rama’s consecration
+    and crowd Ayodhya.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Manthara sees the decorated city from a terrace, asks Rama’s nurse the reason,
+    learns of Rama’s planned consecration, becomes angry, and goes to wake Queen Kaikeyi.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: Prince preparing for consecration and later identified as the king’s
+    eldest-born to be raised to royal power.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:9
+- id: fig:2
+  name_or_label: Rama’s Videhan wife
+  description: Rama’s large-eyed consort who participates in the vigil and reclines
+    with him in Vishnu’s chapel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Narayana / Vishnu / Madhu’s conquering foe
+  description: The deity to whom Rama directs worship, prayer, praise, and meditation
+    in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: King Dasaratha
+  description: The king praised by the people for choosing Rama and arranging his
+    anointing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Brahmans and priests
+  description: Religious officiants whose voices proclaim the festal day and resound
+    through the streets.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Townspeople and villagers
+  description: People of Ayodhya and surrounding regions who decorate, gather, converse,
+    praise the king, and long to see the rite.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Manthara
+  description: A slave-born handmaid of Queen Kaikeyi who views the city, questions
+    Rama’s nurse, becomes angry, and warns Kaikeyi.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:8
+  name_or_label: Rama’s nurse
+  description: A woman standing nearby who joyfully tells Manthara that Rama will
+    be consecrated.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:9
+  name_or_label: Queen Kaikeyi
+  description: The sleeping queen whom Manthara wakes and addresses with warnings.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: consecration candidate
+  assigned_to:
+  - fig:1
+  basis: The passage says the king will consecrate his eldest-born and raise Prince
+    Rama to royal power.
+  evidence_refs:
+  - ev:9
+- id: role:2
+  label: ritual votary
+  assigned_to:
+  - fig:1
+  basis: Rama bathes, offers into the fire, prays, fasts, and performs morning rites.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: ritual consort
+  assigned_to:
+  - fig:2
+  basis: Rama worships with his wife and reclines with her during the vigil.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: deity petitioned and praised
+  assigned_to:
+  - fig:3
+  basis: Rama worships Narayana, offers to the heavenly sire, and praises Madhu’s
+    conquering foe.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: royal father and legitimating king
+  assigned_to:
+  - fig:4
+  basis: The townspeople say Dasaratha makes his son associate and gives them the
+    sight of Rama anointed king.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: ritual proclaimers
+  assigned_to:
+  - fig:5
+  basis: The priests are asked to raise their voices, and the Brahmans proclaim the
+    festal day through the city.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: approving public witnesses
+  assigned_to:
+  - fig:6
+  basis: The people decorate the city, gather for the rite, and praise the king’s
+    choice of Rama.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:8
+  label: hostile observer and instigator
+  assigned_to:
+  - fig:7
+  basis: After learning of Rama’s consecration, Manthara becomes angry and wakes Kaikeyi
+    with warnings.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:9
+  label: informant
+  assigned_to:
+  - fig:8
+  basis: Rama’s nurse explains to Manthara that Rama will be consecrated in Pushya’s
+    hour.
+  evidence_refs:
+  - ev:9
+- id: role:10
+  label: queen warned of danger
+  assigned_to:
+  - fig:9
+  basis: Manthara approaches the sleeping Kaikeyi and tells her to arise because peril
+    is near.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: kindled fire
+  literal_form: fire used for Rama’s offering
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: holy oil
+  literal_form: brimming cup of holy oil lifted by Rama
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: holy grass bed
+  literal_form: bed spread with holy grass in Vishnu’s chapel
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: holy fig-trees and street trees
+  literal_form: fig-trees at crossroads and trees in streets decorated or used to
+    bear lamps
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: festal banners and ribbons
+  literal_form: banners floating in the wind and ribbons twined round staves
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: flowers, incense, and garlands
+  literal_form: flowers strewn in the royal street, incense fragrance, and garland
+    scent
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: water-cooled and sandal-scented streets
+  literal_form: water cooling the royal street and sandal-scented streams bedewing
+    the city
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Rama’s ritual vigil before consecration
+  summary: Rama and his wife perform worship directed to Narayana/Vishnu, including
+    oil, fire offering, prayer, fasting, and resting in Vishnu’s chapel on holy grass.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ayodhya decorated for the rite
+  summary: The city is adorned with temple activity, banners, ribbons, flowers, incense,
+    garlands, lamps, music, and public festivity.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Public praise of the succession
+  summary: Townspeople praise Dasaratha for associating Rama with royal power and
+    express confidence in Rama’s justice and protection.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Crowds gather from all directions
+  summary: Country people and villagers come from north, south, east, and west to
+    witness Rama’s consecration, filling Ayodhya with noise and movement.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Manthara learns the reason for the celebration
+  summary: Manthara views the decorated city from a terrace, questions Rama’s nurse,
+    and is told that Rama will be consecrated in Pushya’s hour.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:1
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Manthara wakes Kaikeyi
+  summary: Manthara, angered by the news, goes to the sleeping Kaikeyi and tells her
+    to rise because danger is near.
+  figure_refs:
+  - fig:7
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: royal consecration and public legitimation
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage centers on Rama’s impending consecration, priestly proclamation,
+    citywide celebration, public praise of Dasaratha’s choice, and crowds gathering
+    to witness the rite.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The passage presents preparation and public anticipation rather than the
+    completed consecration itself.
+- id: motif:2
+  label: ritual preparation through offering, fasting, and vigil
+  taxonomy_refs:
+  - sacrifice
+  basis: Rama performs bathing, devotional withdrawal, a fire offering, prayer, fasting
+    with his wife, and a chapel vigil before the consecration rite.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The rite described is preparatory and devotional; the later royal anointing
+    is not performed within this passage.
+- id: motif:3
+  label: hostile intervention against announced succession
+  taxonomy_refs: []
+  basis: Manthara learns of Rama’s planned elevation, becomes angry, and wakes Kaikeyi
+    with warnings of danger.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage only begins Manthara’s reaction; later consequences are outside
+    the supplied lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10416-10437
+  quote_or_summary: Rama bathes, worships Narayana with his wife, lifts holy oil,
+    offers into fire, prays, and reclines with his Videhan wife in Vishnu’s chapel
+    on holy grass.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10438-10461
+  quote_or_summary: Before dawn Rama rises, orders the palace adorned, hears bards
+    and heralds, performs morning praise, and priests and Brahmans proclaim the festal
+    day; people hear he and his consort fasted for the rite.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10462-10478
+  quote_or_summary: At dawn Ayodhya is decorated in temples, streets, crossroads,
+    places with holy fig-trees, squares, shaded places, shops, mansions, meeting places,
+    and trees, with banners and ribbons.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10479-10495
+  quote_or_summary: Singers, players, dancing women, children, strewn flowers, incense,
+    garlands, and lamp-bearing trees make the city bright for the coming rite.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 10496-10518
+  quote_or_summary: Gathered people praise Dasaratha for associating his son with
+    rule and say Rama will bring joy, know good and bad, protect his people, act justly,
+    love his brothers, and be seen anointed king.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10519-10536
+  quote_or_summary: Countryfolk and villagers from all directions press toward Rama’s
+    consecration and fill Ayodhya; the crowd’s sound is compared to oceanic thunder
+    and Indra’s city is invoked as a comparison.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 10539-10555
+  quote_or_summary: Manthara, a slave-born handmaid associated with Kaikeyi, mounts
+    a stair to a terrace and sees decorated Ayodhya with cooled streets, flowers,
+    flags, awnings, sandal-scented streams, Brahmans, music, and white temple doors.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 10556-10570
+  quote_or_summary: Manthara asks Rama’s nurse, who stands joyfully in white robes,
+    what causes the citywide signs of delight and whether the king celebrates a triumph.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 10571-10576
+  quote_or_summary: "“Our lord the king to-morrow morn / Will consecrate his eldest-born,
+    / And raise, in Pushya’s favouring hour, / Prince Ráma to the royal power.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quotation.
+- id: ev:10
+  type: summary
+  locator: lines 10577-10589
+  quote_or_summary: After the nurse speaks, rage awakens in Manthara; she goes to
+    the sleeping Kaikeyi and tells her to arise because peril is near and the king’s
+    favor is deceptive.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are limited to available taxonomy where clearly supported. No comparison claims
+    were added because the passage does not itself support a broader comparative claim
+    beyond internal poetic similes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l10416-l10589
+  passage_sha256=54cf689d36ee06ead479ca9208bf2a433c6c44d5038582b07c9ba0bc10711775

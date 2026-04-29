@@ -1,0 +1,528 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l21866-l22001
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: ARGUMENT. / THE DEATH OF HECTOR. / BOOK XXIII. / ARGUMENT.; lines 21866-22001
+  start: '21866'
+  end: '22001'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Achilles conducts funeral games for Patroclus. Ajax and Ulysses wrestle
+    to a draw and Achilles divides the prize. Achilles then sets prizes for a footrace;
+    Oilean Ajax, Ulysses, and Antilochus compete. Ulysses prays to Pallas, who aids
+    him and causes Ajax to fall in filth near Patroclus' pyre. Ulysses wins the urn,
+    Ajax receives the bull, and Antilochus receives the last prize plus gold from
+    Achilles for praising him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Achilles announces a wrestling contest on the level sands and sets a tripod
+    for the victor and a female captive for the loser.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ajax and Ulysses wrestle closely, each unable to overthrow the other decisively.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Achilles stops the wrestling contest and declares that both contestants have
+    won.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Achilles sets prizes for a footrace: a silver urn, a well-fed ox, and half
+    a talent.'
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The silver urn is described as Sidonian workmanship, transported by Tyrian
+    sailors, given through prior owners, and now used to honor Patroclus' funeral
+    rites.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Oilean Ajax, Ulysses, and Nestor's son Antilochus stand for the race.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Ulysses silently prays to Pallas, and Pallas descends to aid him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Pallas causes Ajax to stumble on a slippery place clogged with dung and gore
+    beside Patroclus' pyre.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Ajax complains that a goddess, not Ulysses alone, won the race against him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Greeks laugh after Ajax speaks while covered with dirt and gore.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Antilochus receives the last prize, jokes about older heroes and divine favor,
+    and is awarded an additional gold talent by Achilles.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The passage locates slaughtered victims and fire at Patroclus' pyre.
+  category: setting
+  evidence_refs:
+  - ev:4
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Achilles / Pelides
+  description: Leader who announces contests, sets prizes, stops the wrestling, and
+    awards an additional gold talent.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Ajax / Telamonian Ajax
+  description: Wrestler described as tower-like and strong, matched against Ulysses.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Ulysses
+  description: Contestant renowned for art and caution; wrestles Ajax and later wins
+    the footrace with Pallas' aid.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Oilean Ajax / Ajax son of Oileus
+  description: Racer who leads the race but stumbles after Pallas intervenes, then
+    receives the second prize.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Antilochus / Nestor's son
+  description: Young racer who receives the last prize and an added gold talent after
+    praising Achilles.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: Pallas
+  description: Goddess who answers Ulysses' thought-prayer, gives him force, and overturns
+    Ajax.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Patroclus
+  description: Dead hero whose funeral rites are being honored by the games and whose
+    pyre is near the racecourse.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:8
+  name_or_label: Greeks / host
+  description: Audience who acclaim the race, laugh at Ajax, and admire Antilochus.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: contest organizer and prize giver
+  assigned_to:
+  - fig:1
+  basis: Achilles demands games, announces prizes, divides the wrestling prize, and
+    grants extra gold.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:2
+  label: wrestler
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Ajax and Ulysses rise for the wrestling match and grapple with each other.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: racer
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Ulysses, Oilean Ajax, and Nestor's son stand in line and run the race.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: divinely aided competitor
+  assigned_to:
+  - fig:3
+  basis: Ulysses prays to Pallas, who descends and gives him heavenly force.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: defeated competitor
+  assigned_to:
+  - fig:4
+  basis: Oilean Ajax stumbles, loses the urn, and complains that a goddess opposed
+    him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: witty prize recipient
+  assigned_to:
+  - fig:5
+  basis: Antilochus takes the last prize with a jest and receives extra gold from
+    Achilles.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: divine intervener
+  assigned_to:
+  - fig:6
+  basis: Pallas aids Ulysses and overturns Ajax in the race.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: funeral honoree
+  assigned_to:
+  - fig:7
+  basis: The prizes and games are said to grace Patroclus' funeral rites, and the
+    race passes near his pyre.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:9
+  label: spectating community
+  assigned_to:
+  - fig:8
+  basis: The Greeks acclaim, laugh, and admire contestants during the games.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: tripod prize
+  literal_form: massy tripod valued at twelve oxen
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: female captive prize
+  literal_form: female captive valued at four oxen
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: silver urn
+  literal_form: silver urn of Sidonian workmanship, first prize in the footrace
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ox or bull prize
+  literal_form: well-fed ox or bull assigned as second prize
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: gold talent
+  literal_form: talent of purest gold awarded to Antilochus
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: pyre fire
+  literal_form: fire at Patroclus' pyre fed by slaughtered victims
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:7
+  label: filth of the racecourse
+  literal_form: slimy dung, gore, clay, dirt, and dust on the shore near the pyre
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Wrestling contest
+  summary: Achilles announces prizes for wrestling; Ajax and Ulysses grapple without
+    decisive victory; Achilles stops the contest and gives both men the victory.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Presentation of race prizes
+  summary: Achilles sets out the prizes for a footrace, including the silver urn whose
+    previous transfers are recounted, and states that the prize now honors Patroclus'
+    rites.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Footrace and divine intervention
+  summary: Oilean Ajax, Ulysses, and Antilochus run; Ulysses prays to Pallas, who
+    aids him and makes Ajax fall in a foul place near Patroclus' pyre.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Jest and additional reward
+  summary: Antilochus jokes about older heroes and divine favor; Achilles rewards
+    his praise with a gold talent, and the host admires him.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Funeral games with prizes for a dead hero
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Athletic contests and valuable objects are used to grace Patroclus' funeral
+    rites, and Achilles distributes prizes to competitors.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage presents ritualized
+    prize distribution rather than an explicit doctrinal exchange.
+- id: motif:2
+  label: Divine intervention determines an athletic victory
+  taxonomy_refs:
+  - divine_beloved
+  basis: Ulysses prays to Pallas, receives her aid, and Ajax attributes the victory
+    to Pallas favoring Ulysses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy has no exact athletic-contest intervention category;
+    'divine_beloved' is used only because the passage calls Ulysses the goddess' favourite.
+- id: motif:3
+  label: Contest resolved by shared victory
+  taxonomy_refs: []
+  basis: After Ajax and Ulysses wrestle without decisive outcome, Achilles restrains
+    them and says both have won.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a local contest pattern, not linked to a supplied taxonomy family.
+- id: motif:4
+  label: Sacrificial pyre near athletic rite
+  taxonomy_refs:
+  - sacrifice
+  basis: The racecourse includes the place beside Patroclus' pyre where slaughtered
+    victims fed the fire.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage mentions the sacrificial victims retrospectively and does
+    not narrate the sacrifice itself in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage fits the functional pattern of funeral games: athletic contests
+    and valuable prizes publicly honor a dead hero.'
+  claim_level: same_function
+  target: funeral games honoring the dead
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the function stated in the passage and does
+    not assert historical comparison beyond this text.
+- id: claim:2
+  claim: The race exemplifies a divine-aid-in-contest pattern, in which a god's favor
+    alters the outcome of a human competition.
+  claim_level: same_function
+  target: divine aid in heroic contests
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison remains thematic; no broader corpus examples are provided
+    in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21866-21888
+  quote_or_summary: Achilles calls for wrestlers on the sands, setting a tripod for
+    the victor and a female captive for the loser; Ajax and Ulysses rise and grapple
+    intensely.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 21889-21923
+  quote_or_summary: Ajax and Ulysses each attempt throws; Ajax falls once, then both
+    tumble side by side. Achilles tells them to restrain their vigor and declares
+    that both have won.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 21924-21951
+  quote_or_summary: 'Achilles sets prizes for the race: a silver urn, a well-fed ox,
+    and half a talent. The urn''s Sidonian making and previous transfers are recounted,
+    and it is now used for Patroclus'' funeral rites.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 21952-21987
+  quote_or_summary: Oilean Ajax, Ulysses, and Nestor's son run. Ulysses prays to Pallas,
+    who aids him. Ajax stumbles where the slippery shore is clogged with dung and
+    gore beside Patroclus' pyre, where victims had fed the fire.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 21988-22001
+  quote_or_summary: Ajax, holding the bull, says he lost because a goddess opposed
+    him and Pallas won the day for Ulysses; the Greeks laugh as he sputters dirt and
+    gore.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 22002-22018
+  quote_or_summary: Antilochus takes the last prize with a jest about older heroes
+    and divine favor. Achilles praises his speech and awards him a talent of pure
+    gold; the host admires Nestor's son.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 21980-21983
+  quote_or_summary: '"The self-same place beside Patroclus'' pyre, / Where late the
+    slaughterd victims fed the fire."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The athletic events, prizes, divine intervention, and funeral context are
+    explicit. Taxonomy alignment is approximate for some motif candidates because
+    the supplied taxonomy lacks a specific funeral-games or divine-contest category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Evidence line ranges are approximate subdivisions of the provided stable range.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l21866-l22001
+  passage_sha256=c8ada5d8dd79cab808276184451cdd56694480605b476746d4d9d1a27d6d03ab

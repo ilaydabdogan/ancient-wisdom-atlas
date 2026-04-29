@@ -1,0 +1,550 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l3379-l3501
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE CONTENTION OF ACHILLES AND AGAMEMNON. / BOOK II. / ARGUMENT. / THE TRIAL
+    OF THE ARMY, AND CATALOGUE OF THE FORCES.; lines 3379-3501
+  start: '3379'
+  end: '3501'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: A mighty dragon shot, of dire portent; / From Jove himself the dreadful sign
+    was sent.
+  summary: 'Greek leaders respond to the army''s desire to return home after nine
+    years. A past omen at Aulis is recalled: during sacrifices by a sacred fountain
+    and plane-tree, a serpent devoured eight nestlings and their mother, then was
+    turned to marble. Chalcas interpreted the sign as predicting nine years of toil
+    and Troy''s fall in the tenth. Nestor urges renewed discipline and division by
+    tribes and nations; Agamemnon praises his counsel, laments the quarrel with Achilles,
+    and orders the army to prepare for battle.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Grecian host is described as weeping for the native shore after a stay
+    of nine years.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At Aulis, the Greeks raised altars beside a sacred fountain under a plane-tree,
+    and sacrificial victims burned there.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A mighty dragon or serpent came from the ground and wound itself around the
+    tree.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The serpent devoured eight young birds in a nest and then the mother-bird.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After killing the birds, the serpent was turned to marble and remained as
+    a prodigy on Aulis sands.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Chalcas interpreted the sign as meaning that Greece would toil for as many
+    years as birds were slain, and that Ilion would fall in the tenth year.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Nestor rebukes the Greeks for vain debate and recalls past vows, libations,
+    victims, and engagements.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Nestor reports that Jove sent thunder on the right as a prosperous signal
+    when the Greeks first sailed.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Nestor advises Agamemnon to divide the army by tribes and nations so each
+    leader may call his own troops.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Agamemnon praises Nestor's counsel and says the quarrel with Achilles has
+    harmed the Greek cause.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Agamemnon orders the warriors to eat briefly and then prepare spears, shields,
+    horses, and chariots for battle.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Agamemnon threatens that anyone who stays in the ships out of fear will be
+    mangled by birds and devoured by dogs.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Agamemnon / Atrides / monarch
+  description: The Greek king addressed as monarch and Atrides, who commands the warriors
+    and responds to Nestor.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Grecian host
+  description: The Greek army, weary after nine years and tempted toward return, later
+    called to obey and prepare for combat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: Chalcas
+  description: The reverend prophet who interprets the Aulis sign as a prediction
+    of nine years' toil and Troy's fall in the tenth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Jove
+  description: The god said to have sent the dreadful serpent-sign and a later thunder
+    signal on the right.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:5
+  name_or_label: Mighty dragon / serpent
+  description: A serpent or dragon from the ground that coils around the tree, kills
+    the birds, and is turned to marble.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Mother-bird and eight young birds
+  description: A mother-bird and eight nestlings in the topmost branch of the plane-tree,
+    all slain by the serpent.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Nestor
+  description: An aged counselor who rebukes debate, urges perseverance, and advises
+    organizing the army by tribes and nations.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: Achilles
+  description: A great warrior withdrawn from Greek aid after being provoked by Agamemnon
+    in a dispute over a captive maid.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Captive maid
+  description: A captive woman identified by Agamemnon as the cause of his quarrel
+    with Achilles.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: commander-king
+  assigned_to:
+  - fig:1
+  basis: He gives orders to the warriors and is addressed as monarch and Atrides.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:2
+  label: wavering army
+  assigned_to:
+  - fig:2
+  basis: The host grieves for home and is urged not to flee before Troy falls.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: prophetic interpreter
+  assigned_to:
+  - fig:3
+  basis: Chalcas explains the omen and states its meaning for the duration and outcome
+    of the war.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: divine sender of signs
+  assigned_to:
+  - fig:4
+  basis: The passage says the serpent omen came from Jove and that Jove sent thunder
+    as a prosperous signal.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:5
+  label: omen-creature
+  assigned_to:
+  - fig:5
+  basis: The serpent's actions are treated as a portent sent by Jove and later interpreted
+    by Chalcas.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:6
+  label: omen-victims
+  assigned_to:
+  - fig:6
+  basis: The birds are counted by Chalcas to determine the number of years of Greek
+    toil.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:7
+  label: elder counselor
+  assigned_to:
+  - fig:7
+  basis: Nestor rebukes the army and gives strategic counsel to Agamemnon.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: withdrawn champion
+  assigned_to:
+  - fig:8
+  basis: Agamemnon says Achilles has withdrawn from Greek aid after being provoked
+    by him.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: cause of dispute
+  assigned_to:
+  - fig:9
+  basis: Agamemnon identifies a captive maid as the cause of the quarrel with Achilles.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: serpent omen
+  literal_form: Mighty dragon or serpent winding around the plane-tree and killing
+    the birds
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: sacred fountain
+  literal_form: Fountain's sacred brink at Aulis
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: plane-tree
+  literal_form: Plane-tree shading the altars and holding the birds' nest
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: burning sacrificial victims
+  literal_form: Victims blazing on verdant altars
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: marble prodigy
+  literal_form: The serpent turned to marble on Aulis sands
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: right-side thunder signal
+  literal_form: Thunder rolling on the right when the Greek fleet first sailed
+  associated_figures:
+  - fig:4
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: birds and dogs as dishonorable death agents
+  literal_form: Birds mangling and dogs devouring the fearful deserter
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Army discouraged after nine years
+  summary: The speaker acknowledges the Greek army's grief and desire to return home
+    after a long campaign, but frames return before Troy's destruction as shameful.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Aulis sacrifice and serpent portent
+  summary: At Aulis, beside a sacred fountain and a plane-tree, the Greeks sacrifice;
+    a serpent emerges, coils around the tree, and devours eight nestlings and their
+    mother.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Serpent transformed and omen interpreted
+  summary: The serpent is turned to marble, and Chalcas interprets the number of slain
+    birds as nine years of labor followed by Troy's fall in the tenth year.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Nestor's rebuke and counsel
+  summary: Nestor rebukes fruitless debate, invokes past vows and divine signals,
+    warns against flight, and advises organizing the army by tribes and nations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Agamemnon orders renewed battle
+  summary: Agamemnon praises Nestor, laments the quarrel with Achilles over a captive
+    maid, orders the troops to eat and arm for battle, and threatens cowards with
+    dishonorable death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Divine omen interpreted as a timed war prophecy
+  taxonomy_refs:
+  - divine_judgment
+  basis: A sign sent by Jove is interpreted by Chalcas as predicting nine years of
+    Greek labor and Ilion's fall in the tenth.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage frames the sign as divine and predictive, but the taxonomy
+    label 'divine_judgment' is broader than the specific omen-prophecy scene.
+- id: motif:2
+  label: Serpent as portent-bearing creature
+  taxonomy_refs:
+  - serpent
+  basis: The serpent's violent action against the birds is explicitly called a dreadful
+    sign sent by Jove and becomes the basis of prophecy.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is an omen function rather than a complete independent serpent myth.
+- id: motif:3
+  label: Sacrifice preceding divine sign
+  taxonomy_refs:
+  - sacrifice
+  basis: The Greeks raise altars and burn victims at Aulis, after which the serpent
+    portent appears and is interpreted as divine will.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage does not state that the sacrifices caused the omen; it only
+    places them in sequence and ritual setting.
+- id: motif:4
+  label: Elder wisdom guiding martial order
+  taxonomy_refs:
+  - wisdom
+  basis: Nestor's counsel is praised by Agamemnon, who wishes for ten such sages and
+    accepts strategic advice for organizing the army.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The motif is based on advisory speech and praise of wisdom, not on a separate
+    wisdom tale.
+- id: motif:5
+  label: Broken or endangered war vows renewed through counsel
+  taxonomy_refs:
+  - covenant
+  basis: Nestor recalls leagues, engagements, libations, and victims, rebuking the
+    army for letting vows vanish and urging renewed commitment.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage concerns military vows rather than a formal divine covenant.
+comparison_claims:
+- id: claim:1
+  claim: 'The Aulis episode functions as an omen-and-interpretation pattern: a striking
+    animal event sent by a god is decoded by a seer to forecast the duration and outcome
+    of a collective undertaking.'
+  claim_level: same_function
+  target: divine omen interpreted by seer pattern
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is functional and internal to the passage; no historical
+    relationship to other traditions is asserted.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3379-3397
+  quote_or_summary: The Greeks are described as longing for home and weeping after
+    nine revolving years, though return before Troy's destruction is called shameful.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 3398-3403
+  quote_or_summary: '"Beside a fountain''s sacred brink we raised / Our verdant altars,
+    and the victims blazed"; the plane-tree shades the altars.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 3403-3415
+  quote_or_summary: A mighty dragon or serpent, said to be sent by Jove, comes from
+    the ground, coils around the tree, and kills eight young birds and their mother.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 3416-3419
+  quote_or_summary: After the serpent kills the mother-bird, it does not long survive;
+    it is turned to marble and stands as a prodigy on Aulis sands.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 3420-3432
+  quote_or_summary: 'Chalcas declares the sign to be displayed by Jove: the number
+    of birds slain equals the years of Greek toil, with Ilion''s fall decreed in the
+    tenth.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: lines 3433-3465
+  quote_or_summary: Nestor rebukes vain debate, recalls vows, libations, victims,
+    and engagements, urges Agamemnon to lead, and advises dividing the forces by tribes
+    and nations.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: summary
+  locator: lines 3448-3452
+  quote_or_summary: Nestor says that when the Greek host first sailed, Jove sent a
+    prosperous signal on the right with rolling thunder.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary.
+- id: ev:8
+  type: summary
+  locator: lines 3466-3490
+  quote_or_summary: Agamemnon praises Nestor's wisdom, mentions Achilles' withdrawal
+    after a quarrel over a captive maid, and orders warriors to eat briefly and arm
+    for battle.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary.
+- id: ev:9
+  type: quote
+  locator: lines 3491-3501
+  quote_or_summary: '"Who dares, inglorious, in his ships to stay... / The birds shall
+    mangle, and the dogs devour."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The major figures, omen sequence, prophecy, counsel, and mobilization are
+    explicit. Motif labels are cautious because the supplied taxonomy is broad relative
+    to the passage-level details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external parallels or unsupplied taxonomy IDs added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l3379-l3501
+  passage_sha256=791d0b32ab48745eac3e7902e5f0a6384e597df4c5f314fdb1910ca222b22212

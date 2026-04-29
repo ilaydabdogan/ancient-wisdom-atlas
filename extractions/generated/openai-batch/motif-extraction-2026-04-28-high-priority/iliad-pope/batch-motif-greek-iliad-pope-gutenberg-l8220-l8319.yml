@@ -1,0 +1,438 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l8220-l8319
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE SINGLE COMBAT OF HECTOR AND AJAX. / BOOK VIII. / ARGUMENT. / THE SECOND
+    BATTLE, AND THE DISTRESS OF THE GREEKS.; lines 8220-8319
+  start: '8220'
+  end: '8319'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Let down our golden everlasting chain
+  summary: At dawn Jupiter convenes the gods on Olympus, forbids divine aid to either
+    army, threatens offenders with shame or Tartarus, asserts his supremacy through
+    the image of a cosmic chain, grants Minerva permission to counsel but not arm
+    the Greeks, and travels by chariot to Mount Ida, where he sits at a sacred height
+    and surveys Troy, the Greek camp, and the sea.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The argument states that Jupiter assembles the deities and threatens Tartarus
+    if they assist either side in the battle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The argument states that Jupiter weighs the fates of both armies in balances
+    from Mount Ida and frightens the Greeks with thunder and lightning.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At dawn, Jove convenes the senate of the skies at cloudy Olympus.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jove commands the gods not to enter the forbidden field or give assistance
+    to either side.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Jove says a transgressing god may be driven back wounded and shamed, or thrown
+    into Tartarus with burning chains and locked doors.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Jove describes a golden everlasting chain by which all gods and mortals could
+    try in vain to draw him down, while he could lift gods, ocean, land, and world.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The assembled powers are silent and tremble before Jove.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Minerva acknowledges Jove's might and asks to pity the human condition; she
+    says the gods will refrain from arms but asks that her counsels may move the Greeks.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Jove approves Minerva's request, takes his chariot, and travels with ethereal
+    steeds.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Jove reaches Mount Ida, where his fane and altar are described, releases his
+    steeds, sits on a cloudy point, and surveys the town, tents, and navigable seas.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Jupiter / Jove
+  description: The sire of gods, cloud-compelling god, and Thunderer who convenes
+    the divine council, issues a decree, threatens punishment, asserts supremacy,
+    and travels to Mount Ida.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Minerva / the power of wisdom
+  description: Jove's best-beloved and the power of wisdom who speaks after the gods
+    fall silent and asks to counsel the Greeks without armed aid.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Immortal gods / celestial states
+  description: The assembled divine powers who hear Jove's decree, do not dare reply,
+    and tremble before him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Argives / Greeks
+  description: The mortal army whose slain are mourned by Minerva and whose breasts
+    she asks to move by counsel.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Aurora
+  description: Fair daughter of the dawn who sprinkles the lawn with rosy light at
+    the passage opening.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine sovereign and decree-giver
+  assigned_to:
+  - fig:1
+  basis: Jove convenes the gods, commands them, and declares a fixed decree.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: threatener of divine punishment
+  assigned_to:
+  - fig:1
+  basis: Jove threatens gods who assist either side with shame or confinement in Tartarus.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: supreme cosmic power
+  assigned_to:
+  - fig:1
+  basis: Jove says all gods and mortals could not pull him down by the chain, while
+    he could lift gods, ocean, land, and world.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: wisdom counselor
+  assigned_to:
+  - fig:2
+  basis: The passage calls Minerva the power of wisdom and has her request permission
+    for her counsels to move the Greeks.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: supplicant before Jove
+  assigned_to:
+  - fig:2
+  basis: Minerva acknowledges Jove's might and asks for permission within his decree.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: divine council audience
+  assigned_to:
+  - fig:3
+  basis: The immortal gods are assembled, hear the decree, and are silenced by fear.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:7
+  label: threatened mortal beneficiaries of counsel
+  assigned_to:
+  - fig:4
+  basis: Minerva mourns the slain Argives and asks that her counsels may move them.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: dawn figure
+  assigned_to:
+  - fig:5
+  basis: Aurora appears as the fair daughter of dawn at the beginning of the scene.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Olympus
+  literal_form: cloudy mountain height where the divine senate is convened
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Tartarean gulf
+  literal_form: dark gulf beneath the infernal centre, with burning chains, brazen
+    floors, and locked doors
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: golden everlasting chain
+  literal_form: chain whose embrace holds heaven, earth, and main, used in Jove's
+    speech to display his power
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Mount Ida
+  literal_form: topmost mountain height with fountains, game, fane, altar, and cloudy
+    point where Jove sits
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: fire
+  literal_form: blazing altar and steeds of fire at Jove's sacred place on Ida
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: balances of fate
+  literal_form: balances in which Jupiter weighs the fates of both armies, as stated
+    in the argument
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Dawn council on Olympus
+  summary: At dawn, Jove assembles the immortal gods on Olympus and begins to address
+    them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Decree against divine intervention
+  summary: Jove forbids divine assistance to either side and threatens violators with
+    shame or Tartarus.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Golden chain assertion
+  summary: Jove uses the image of a golden everlasting chain to declare that all gods
+    and mortals cannot overpower him, while he can lift the cosmos.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Minerva's limited request
+  summary: After the gods fall silent, Minerva asks that she may pity the Greeks and
+    guide them by counsel while refraining from armed aid.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Jove on Mount Ida
+  summary: Jove approves Minerva's request, rides to Ida in his chariot, releases
+    his steeds at a sacred site, and surveys the town, tents, and seas.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine council and non-intervention decree
+  taxonomy_refs:
+  - divine_judgment
+  basis: A supreme god assembles the divine powers, issues a binding decree, and forbids
+    intervention in mortal warfare.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy label 'divine_judgment' fits the decreeing and punitive frame,
+    but the passage is specifically about divine non-intervention rather than judgment
+    of human guilt.
+- id: motif:2
+  label: punishment in Tartarus for divine disobedience
+  taxonomy_refs:
+  - divine_judgment
+  basis: Jove threatens disobedient gods with being hurled into the dark Tartarean
+    gulf and fixed with burning chains.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The threatened punishment is directed at gods, not mortals.
+- id: motif:3
+  label: cosmic supremacy displayed through a world-binding chain
+  taxonomy_refs: []
+  basis: Jove describes a golden chain holding heaven, earth, and sea, and claims
+    he could lift gods, ocean, land, and the trembling world by it.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly names a cosmic chain motif.
+- id: motif:4
+  label: wisdom-guidance under prohibition
+  taxonomy_refs:
+  - wisdom
+  basis: Minerva, called the power of wisdom, is forbidden to aid with arms but receives
+    approval for counsel to guide the Greeks.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a limited counsel motif within a war scene, not an extended wisdom
+    teaching passage.
+- id: motif:5
+  label: god enthroned on sacred mountain surveying the world
+  taxonomy_refs:
+  - cosmic_mountain
+  - world_center
+  basis: Jove travels to Ida's topmost height, sits on a cloudy point by his fane
+    and altar, and surveys the town, tents, and seas.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a sacred mountain vantage; broader world-center interpretation
+    should be reviewed.
+- id: motif:6
+  label: weighing the fates of armies
+  taxonomy_refs:
+  - divine_judgment
+  basis: The argument states that Jupiter on Mount Ida weighs in his balances the
+    fates of both sides.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This detail appears in the argument summary rather than the excerpted
+    verse body in this passage range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8226-8241
+  quote_or_summary: 'Argument summary: Jupiter assembles the deities, threatens Tartarus
+    for assistance to either side, weighs the fates of both armies from Mount Ida,
+    frightens the Greeks, and the armies later keep fires through the night.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: quote
+  locator: lines 8246-8251
+  quote_or_summary: Aurora brings rosy dawn; Jove convenes the senate of the skies
+    at cloudy Olympus and begins to speak.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; brief quote/summary.
+- id: ev:3
+  type: summary
+  locator: lines 8253-8270
+  quote_or_summary: Jove decrees that any god who assists either side will be driven
+    back wounded and shamed or thrown into the dark Tartarean gulf with burning chains
+    and locked doors.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: quote
+  locator: lines 8271-8280
+  quote_or_summary: Jove invokes the 'golden everlasting chain' and says all gods
+    and mortals could not drag him down, while he could lift gods, ocean, land, and
+    the trembling world.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; brief quote/summary.
+- id: ev:5
+  type: summary
+  locator: lines 8282-8294
+  quote_or_summary: The powers fall silent; Minerva, the power of wisdom, acknowledges
+    Jove and asks to pity humans, refrain from arms, and guide the Greeks by counsel.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: lines 8296-8315
+  quote_or_summary: Jove approves, takes his chariot, rides with ethereal steeds to
+    Ida, where his fane and altar stand; he releases the steeds, sits on a cloudy
+    point, and surveys town, tents, and seas.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal scene extraction is well supported. Motif labels involving cosmic
+    mountain, world center, and divine judgment require review because the provided
+    taxonomy is broad and the passage does not make explicit comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this scene with another tradition or motif family beyond the supplied taxonomy alignment.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l8220-l8319
+  passage_sha256=300aabc38dfd67ec7c09fa3c72b43511461569d3e73d9e463698461caa80a748

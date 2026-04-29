@@ -1,0 +1,533 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l8463-l8633
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LVIII. Trisanku Cursed. / Canto LIX. The Sons Of Vasishtha. / Canto
+    LXI. Sunahsepha. / Canto LXVII. The Breaking Of The Bow.; lines 8463-8633
+  start: '8463'
+  end: '8633'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: King Janak has a great heavenly bow brought in an iron eight-wheeled chest.
+    He explains that gods and other beings have failed to lift, string, or draw it.
+    At the hermit's prompting, Rama lifts the bow, strings it, and breaks it, causing
+    a terrifying sound and earth-shaking shock. Janak then declares that Sita will
+    be Rama's wife according to his vow that the bride should go to the hero who proved
+    his worth. Envoys travel to Ayodhya to inform Dasaratha, who rejoices and prepares
+    to go to Janak's city.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: King Janak orders the great bow, adorned with flowers and scents, to be brought
+    before the assembly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Five thousand youths move an eight-wheeled iron chest containing the heavenly
+    bow.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Janak states that previous kings and many classes of superhuman beings could
+    not overcome the bow's strength.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hermit tells Rama to look at the bow, and Rama opens the chest and puts
+    his hand on it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Rama raises the weapon by its middle before the court and draws the string
+    until the bow breaks in two.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The breaking of the bow produces a terrifying clang, the earth shakes, and
+    most of the people fall senseless.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Janak declares that Rama has shown peerless might and that Sita shall be Rama's
+    wife.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Janak sends ministers to Ayodhya with news and a request that Dasaratha come
+    to his city.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The envoys tell Dasaratha that Janak had decreed his child would be the prize
+    of valor and that Rama broke the bow in a vast assembly.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Dasaratha rejoices and proposes that he and his court travel to Janak's city.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: King Janak
+  description: King of Videha who preserves the bow, sets the vow concerning Sita,
+    and sends envoys to Ayodhya.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Rama
+  description: Raghu's son who lifts, strings, and breaks the heavenly bow and is
+    declared Sita's bridegroom.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: The hermit / Brahman sage / Visvamitra
+  description: Holy seer who asks for the bow to be produced, tells Rama to behold
+    it, and consents to Janak's message.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Sita
+  description: Janak's child, promised to the hero who wins her by worth, and declared
+    to be Rama's wife.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Five thousand youths / servants
+  description: Janak's attendants who bring the iron chest containing the bow.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Court assembly / people
+  description: The crowd before whom Rama raises and breaks the bow; most fall senseless
+    at the sound.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:7
+  name_or_label: Janak's ministers / envoys
+  description: Messengers sent from Janak to Ayodhya who report Rama's deed and invite
+    Dasaratha.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: Dasaratha
+  description: King of Ayodhya and father of Rama and Lakshman; receives Janak's envoys
+    and prepares to depart.
+  role_refs:
+  - role:1
+  - role:10
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:9
+  name_or_label: Lakshman
+  description: Dasaratha's son, dwelling among the Videhans under Visvamitra's protection.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Vamadeva, Vasishtha, priests, saints, and councillors
+  description: Members of Dasaratha's court consulted when the envoys' message is
+    received.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: king
+  assigned_to:
+  - fig:1
+  - fig:8
+  basis: Janak and Dasaratha are both addressed or described as kings ruling their
+    respective cities or peoples.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:2
+  label: heroic bow-breaker
+  assigned_to:
+  - fig:2
+  basis: Rama lifts, draws, and breaks the bow before the assembled court.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: holy seer and ritual sponsor
+  assigned_to:
+  - fig:3
+  basis: The hermit requests the bow, directs Rama to see it, and his consent is invoked
+    in arranging the marriage message.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:4
+  label: bride promised by vow
+  assigned_to:
+  - fig:4
+  basis: Janak says Sita will be Rama's wife and that his promise was that the bride
+    should be gained by heroic worth.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: father who sets the bridegroom test
+  assigned_to:
+  - fig:1
+  basis: Janak's speech links Sita's marriage to the successful feat with the bow.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: prince
+  assigned_to:
+  - fig:2
+  - fig:9
+  basis: Rama and Lakshman are described as royal sons under Visvamitra's protection.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: bearers of the bow chest
+  assigned_to:
+  - fig:5
+  basis: The youths propel the ponderous eight-wheeled chest into the assembly.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: witnessing assembly
+  assigned_to:
+  - fig:6
+  basis: Rama performs the feat before the thousands of the court and the envoys later
+    emphasize the vast assembly.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:9
+  label: messengers
+  assigned_to:
+  - fig:7
+  basis: Janak sends ministers to Ayodhya, where they deliver his words to Dasaratha.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:10
+  label: father of the victorious prince
+  assigned_to:
+  - fig:8
+  basis: The envoys identify Rama as Dasaratha's son and Dasaratha rejoices for his
+    children.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:11
+  label: royal advisers and priests
+  assigned_to:
+  - fig:10
+  basis: Dasaratha calls priests, saints, lords, and councillors to consider Janak's
+    proposal.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: heavenly bow
+  literal_form: A mighty bow, called heavenly and a treasure from the skies, too strong
+    for kings and superhuman beings, broken by Rama.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: eight-wheeled iron chest
+  literal_form: A ponderous iron chest with eight wheels that holds the heavenly bow.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bow-breaking sound and earth-shock
+  literal_form: An awful clang compared to tempests, accompanied by the shaking of
+    the earth and the collapse of the people.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: suppliant joined palms
+  literal_form: Palm-to-palm gesture used by Janak before the strangers and by the
+    envoys before Dasaratha.
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: flying cars
+  literal_form: Vehicles in which Janak proposes that counsellors carry the news to
+    Ayodhya.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: The bow is brought to Janak's court
+  summary: At the sage's request, Janak orders the decorated bow to be brought; five
+    thousand youths move the iron eight-wheeled chest into the assembly.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Janak describes the impossible bow
+  summary: Janak tells the sage and princes that kings, gods, spirits, and other beings
+    have failed to lift, string, or draw the bow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rama breaks the bow
+  summary: Prompted by the hermit, Rama opens the chest, lifts the bow before the
+    court, draws the string, and breaks the bow, causing a frightening sound and earthquake-like
+    shock.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Janak awards Sita to Rama
+  summary: After the shock passes, Janak praises Rama's deed, declares Sita shall
+    be his wife, and asks permission to send word to Ayodhya.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Envoys report the bow-breaking to Dasaratha
+  summary: Janak's envoys reach Ayodhya, tell Dasaratha of Janak's vow and Rama's
+    bow-breaking, and request that he come with priests and guides.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Dasaratha prepares to travel
+  summary: Dasaratha rejoices, consults priests, saints, and councillors, and announces
+    that they will depart the next day.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Bride won by feat of strength
+  taxonomy_refs:
+  - sacred_marriage
+  basis: Janak's vow makes Sita's marriage depend on the hero who proves his worth
+    by the bow feat, and he declares Sita to be Rama's wife after Rama breaks the
+    bow.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents a royal marriage arranged by a test of valor; the
+    broader sacred significance of the marriage is not elaborated in this excerpt.
+- id: motif:2
+  label: Impossible weapon test identifies the worthy hero
+  taxonomy_refs:
+  - initiation
+  basis: Janak says the bow has defeated kings and superhuman beings, but Rama lifts,
+    strings, and breaks it in public.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly call this an initiation; the label is
+    based on the structure of a public qualifying trial.
+- id: motif:3
+  label: Public feat legitimates royal alliance
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Rama's feat before the assembly leads Janak to affirm his promise and send
+    formal envoys to Dasaratha for the marriage alliance.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage concerns marriage legitimacy and inter-royal alliance rather
+    than coronation or succession.
+- id: motif:4
+  label: Supernatural-scale sign accompanies heroic deed
+  taxonomy_refs: []
+  basis: The bow-breaking produces a storm-like clang, shakes the earth, and overcomes
+    most witnesses.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No available taxonomy reference precisely matches this sign pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8463-8482
+  quote_or_summary: Janak orders the decorated bow brought; five thousand youths propel
+    the ponderous eight-wheeled iron chest that holds it.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8483-8503
+  quote_or_summary: Janak says the bow has been prized by his line, has resisted former
+    kings, and cannot be managed by gods, spirits, bards, snakes, or human prowess.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8504-8531
+  quote_or_summary: The hermit tells Rama to behold the bow; Rama opens the chest,
+    lifts the weapon, draws the string, breaks the bow in two, and the sound shakes
+    the earth and fells the people.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8532-8564
+  quote_or_summary: Janak praises Rama's peerless might, says Sita shall be Rama's
+    wife, and sends ministers to Ayodhya to bring Dasaratha news and invitation.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8565-8611
+  quote_or_summary: Janak's envoys reach Ayodhya and report that his decree made his
+    child the prize of valor; Rama broke the sky-given bow in a vast assembly, so
+    Sita is his by right.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8612-8633
+  quote_or_summary: Dasaratha rejoices, tells his priests and councillors that Janak
+    wishes to marry his daughter to Rama, and announces departure for Janak's city
+    on the next day.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the supplied passage. Motif taxonomy
+    assignment is cautious because the passage gives a heroic marriage test and royal
+    alliance but does not explicitly classify these as sacred marriage, initiation,
+    or royal legitimacy motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another text, tradition, or motif family beyond candidate motif classification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l8463-l8633
+  passage_sha256=0fa87841df5a909e60ebc2cae584c7e875617dc686a95dc62cae0a178f512728

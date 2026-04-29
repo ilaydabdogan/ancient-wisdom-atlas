@@ -1,0 +1,561 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l19417-l19552
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: ARGUMENT. / THE BATTLE OF THE GODS, AND THE ACTS OF ACHILLES. / BOOK XXI.
+    / ARGUMENT.; lines 19417-19552
+  start: '19417'
+  end: '19552'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Book XXI and narrates the Trojans fleeing before
+    Achilles toward Troy and the river Xanthus/Scamander. Achilles enters the river,
+    kills many Trojans, captures twelve youths intended for Patroclus' shade, and
+    encounters Lycaon, a recently ransomed son of Priam, who supplicates him for mercy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The book argument states that Trojans flee before Achilles, some toward the
+    town and others toward the river Scamander.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The river Xanthus divides the fleeing Trojans; some flee toward town while
+    others plunge into the stream.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Saturnia covers part of the rout with mist and clouds.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Warriors and horses drown or struggle in the river as Achilles drives them
+    into the water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Achilles lays aside his lance, enters the flood with his sword, and wounds
+    Trojans in the water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Achilles drags twelve Trojan youths alive to land, binds them with their belts,
+    and sends them to the ships as victims for Patroclus' shade.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Lycaon is identified as a son of Priam whom Achilles had previously captured
+    and sold to Lemnos, after which Lycaon was ransomed and returned home.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Achilles recognizes Lycaon and remarks on the wonder of a captive sold away
+    appearing again on Trojan ground.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Lycaon approaches Achilles' knees in tears, kisses his feet, and uses one
+    hand to stop the spear while pleading.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Lycaon asks Achilles for pity and ransom, recalls having eaten at Achilles'
+    board, and distinguishes himself from Hector through a different mother.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Achilles
+  description: The pursuing Greek hero who drives Trojans into Xanthus, kills in the
+    river, captures twelve youths, and confronts Lycaon.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Trojans
+  description: The fleeing warriors, some driven toward Troy and others into the river,
+    where many are killed or captured.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Xanthus / Scamander
+  description: The river on whose banks and in whose stream the scene occurs; in the
+    argument it later attacks Achilles with its waves.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Saturnia
+  description: The goddess who shrouds part of the fleeing rout with mist and clouds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Patroclus' shade
+  description: The dead Patroclus is named as the shade for whom the twelve captured
+    youths are destined as victims.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Lycaon
+  description: A young son of Priam, formerly captured and sold by Achilles, recently
+    ransomed and returned, now supplicating Achilles for mercy.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: Priam
+  description: Named as Lycaon's father.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:8
+  name_or_label: Laothoe
+  description: Named by Lycaon as his mother, distinct from Hector's mother.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Jove
+  description: Named as the progenitor of Xanthus and, in Lycaon's speech, as the
+    power submitting him again to Achilles.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: fig:10
+  name_or_label: Hector
+  description: Mentioned by Lycaon as the killer of Patroclus and as not sharing Lycaon's
+    mother.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:8
+- id: fig:11
+  name_or_label: Polydore
+  description: Mentioned by Lycaon as a brother already slaughtered, whose fate Lycaon
+    expects to share.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: pursuing slaughterer
+  assigned_to:
+  - fig:1
+  basis: Achilles drives Trojans into the river and wounds them with his sword.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: fleeing warriors and victims
+  assigned_to:
+  - fig:2
+  basis: The Trojans flee toward town and river; many struggle, drown, or are captured.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: river setting and divine water force
+  assigned_to:
+  - fig:3
+  basis: The action is set on Xanthus/Scamander, and the argument states that Scamander
+    attacks Achilles with waves.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: captor of sacrificial victims
+  assigned_to:
+  - fig:1
+  basis: Achilles takes twelve youths alive and sends them as victims to Patroclus'
+    shade.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: divine concealer with mist
+  assigned_to:
+  - fig:4
+  basis: Saturnia shrouds the rout with mist and clouds.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: dead recipient of victims
+  assigned_to:
+  - fig:5
+  basis: The twelve captives are destined to Patroclus' shade.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: returned captive
+  assigned_to:
+  - fig:6
+  basis: Lycaon had been captured, sold to Lemnos, ransomed, and had recently returned.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: suppliant before death
+  assigned_to:
+  - fig:6
+  basis: Lycaon kneels, kisses Achilles' feet, stops the spear, and pleads for pity
+    and ransom.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:9
+  label: father of Lycaon
+  assigned_to:
+  - fig:7
+  basis: Lycaon is called the son of Priam.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:10
+  label: mother of Lycaon
+  assigned_to:
+  - fig:8
+  basis: Lycaon names Laothoe as his mother.
+  evidence_refs:
+  - ev:8
+- id: role:11
+  label: divine source or disposer
+  assigned_to:
+  - fig:9
+  basis: Xanthus is called progeny of Jove; Lycaon says Jove again submits him to
+    Achilles.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:12
+  label: killer of Patroclus
+  assigned_to:
+  - fig:10
+  basis: Lycaon refers to Hector as the one who wrought Patroclus' death.
+  evidence_refs:
+  - ev:8
+- id: role:13
+  label: slain brother
+  assigned_to:
+  - fig:11
+  basis: Lycaon says one spear has already drunk his brother Polydore's blood and
+    expects to succeed him in slaughter.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: river water as battlefield
+  literal_form: Xanthus/Scamander stream, flood, waves, billows, and tide
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: mist and clouds covering flight
+  literal_form: gathered mist and a heap of clouds
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fire driving living creatures into water
+  literal_form: simile of locusts driven from fields by blaze and smoky cloud into
+    flood
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: shade of the dead companion
+  literal_form: Patroclus' shade as the recipient of destined victims
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: knees and feet of supplication
+  literal_form: Lycaon approaches Achilles' knees, kisses his feet, and holds the
+    spear back
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: shades below and grave
+  literal_form: references to the shades, grave, and earth holding the dead
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Trojans divided in flight at Xanthus
+  summary: The Trojans flee before Achilles; some move toward the city, while others
+    are driven into Xanthus, with Saturnia covering part of the flight in mist.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Achilles slaughters in the river
+  summary: Achilles enters the river with his sword as horses and warriors struggle
+    in the waves, reddening the flood with wounds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Twelve captives for Patroclus' shade
+  summary: Achilles takes twelve young Trojans alive, binds them, and has them conveyed
+    to the ships as victims for Patroclus' shade.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Recognition of Lycaon
+  summary: Lycaon, formerly captured and sold by Achilles and recently ransomed, appears
+    again; Achilles recognizes him and speaks of the grave and the shades.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:9
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Lycaon's supplication
+  summary: Lycaon clasps Achilles' knees and feet, holds back the spear, and pleads
+    for pity by invoking ransom, shared food, his parentage, and his difference from
+    Hector.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: captives destined as sacrifice for a dead companion
+  taxonomy_refs:
+  - sacrifice
+  basis: Achilles takes twelve living youths and sends them to the ships as victims
+    for Patroclus' shade.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states the intended sacrificial destination but does not narrate
+    the actual sacrifice in this excerpt.
+- id: motif:2
+  label: heroic slaughter in a river
+  taxonomy_refs: []
+  basis: Achilles drives enemies into Xanthus and kills them within the flood, turning
+    the river red with wounds.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a literal battle scene; any broader symbolic reading of water
+    as purification or chaos is not explicit here.
+- id: motif:3
+  label: divine or supernatural river opposition to hero
+  taxonomy_refs: []
+  basis: The argument states that Scamander attacks Achilles with all his waves, and
+    that other divine figures assist or join the conflict.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The detailed attack by Scamander is only summarized in the book argument
+    within this passage range.
+- id: motif:4
+  label: supplication at the knees before imminent killing
+  taxonomy_refs: []
+  basis: Lycaon approaches Achilles' knees, kisses his feet, stops the spear with
+    one hand, and pleads for mercy.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage excerpt ends during Lycaon's plea, so the immediate outcome
+    is not included here.
+- id: motif:5
+  label: returned captive meets former captor again
+  taxonomy_refs: []
+  basis: Lycaon had been captured and sold by Achilles, returned home after ransom,
+    and is again found by Achilles.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The motif is situational; no explicit taxonomy family is supplied for
+    this pattern.
+- id: motif:6
+  label: mist or cloud covering a rout
+  taxonomy_refs: []
+  basis: Saturnia shrouds part of the fleeing Trojans in gathered mist and clouds.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not elaborate the purpose beyond covering the rout.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19417-19552, book argument
+  quote_or_summary: The argument states that Achilles drives Trojans toward town and
+    Scamander, slaughters them, takes twelve captives for Patroclus' shade, and that
+    Scamander later attacks him with waves while gods intervene.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 19417-19552, Xanthus flight passage
+  quote_or_summary: Xanthus, called immortal progeny of Jove, divides the fleeing
+    Trojans; some flee to town, some enter the stream, while Saturnia shrouds part
+    of the rout in mist and clouds.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 19417-19552, river slaughter passage
+  quote_or_summary: Warriors and horses are driven into Xanthus; Achilles enters with
+    sword, and repeated wounds redden the river as Trojans seek rocks or caverns.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:4
+  type: quote
+  locator: lines 19417-19552, twelve captives passage
+  quote_or_summary: '"Twelve chosen youths he drags alive to land" and sends them
+    as "victims destined to Patroclus shade."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 19417-19552, Lycaon's prior captivity
+  quote_or_summary: Lycaon, son of Priam, had previously been captured by Achilles,
+    sold to Lemnos, ransomed, and returned home only recently.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 19417-19552, Achilles recognizes Lycaon
+  quote_or_summary: Achilles recognizes Lycaon, wonders at seeing the captive again
+    on Trojan ground, and speaks of testing whether the grave and earth can hold him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 19417-19552, Lycaon's supplication gesture
+  quote_or_summary: Lycaon approaches Achilles' knees with tears, kisses his feet,
+    and, while the spear is raised, embraces the feet with one hand and stops the
+    dart with the other.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 19417-19552, Lycaon's plea
+  quote_or_summary: Lycaon asks Achilles for pity and ransom, recalls sharing Ceres'
+    gifts at Achilles' board, names Priam and Laothoe as parents, mentions Polydore's
+    death, and says he is not of Hector's mother.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction uses only the supplied passage. Motif candidates are cautious
+    because several are scene-pattern labels without exact supplied taxonomy references.
+    No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Public-domain Pope translation passage; line range includes the Book XXI argument and the opening river-battle narrative through Lycaon's plea.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l19417-l19552
+  passage_sha256=db0c56937b170b7718bc557f912cc423d0256e21d58ae56bd87b645e35f36de0

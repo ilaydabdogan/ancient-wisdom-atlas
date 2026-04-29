@@ -1,0 +1,505 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l10926-l11027
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE NIGHT-ADVENTURE OF DIOMED AND ULYSSES. / BOOK XI. / ARGUMENT / THE THIRD
+    BATTLE, AND THE ACTS OF AGAMEMNON.; lines 10926-11027
+  start: '10926'
+  end: '11027'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Agamemnon kills and pursues Trojans with great force. Hector is kept safe
+    by Jove and destiny. The routed Trojans flee toward the city past named landmarks.
+    Jove descends on Ida, sends Iris with instructions that Hector should hold back
+    until Agamemnon is wounded and departs, after which Hector will be strengthened
+    to drive the Greeks toward their ships until sunset and night. Iris delivers the
+    command, and Hector rallies the Trojans while the Greeks prepare for renewed fighting.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pisander is thrown from his chariot, pierced in the breast, and dies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pisander's brother leaves the chariot and is mutilated and beheaded while
+    on the ground.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Greeks follow the example of the victorious king, while routed fighters,
+    horses, dust, and chariots fill the battlefield.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Agamemnon's advance is compared to raging fire consuming a forest.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Jove and destiny are said to prolong Hector's life and keep him safe amid
+    battle.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The routed Trojans flee past the tomb of Ilus, wild figs, the beech-tree,
+    and the Scaean gates toward the town.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Trojans' flight is compared to cattle frightened by a lion at night.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Jove descends, shakes the Idaean hills, pours rills down their summits, takes
+    unkindled lightning in his hand, and speaks to Iris.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Jove commands Iris to tell Hector to avoid direct fighting while Agamemnon
+    is active, but to command others until Agamemnon is wounded and departs.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Jove promises that after Agamemnon leaves the field, Hector will be strengthened
+    and the Greeks driven back to their ships until sunset and nightfall.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Iris descends on wind-borne wings, finds Hector near the bulwarks on his chariot,
+    and delivers Jove's message.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: After Iris vanishes, Hector springs from his chariot, takes two lances, moves
+    through the ranks, rallies the Trojans, and renews the fighting spirit.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The Greeks condense their forces and wait for the renewed Trojan assault while
+    the king leads them.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Pisander
+  description: A warrior cast from a chariot and killed by a breast wound.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Pisander's brother
+  description: A warrior who leaps to earth and is dismembered and beheaded.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Atrides / Agamemnon / king of men
+  description: The victorious Greek king who slaughters, pursues the Trojans, approaches
+    the Trojan wall, and leads the Greeks.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+- id: fig:4
+  name_or_label: Greeks
+  description: The army following Agamemnon, later gathering their forces and awaiting
+    renewed war.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:5
+  name_or_label: Trojan train / Trojan ranks
+  description: The routed Trojan forces who flee across the plain and are later rallied
+    by Hector.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:6
+  name_or_label: Hector
+  description: The son of Priam, kept safe by Jove and destiny, then instructed by
+    Iris and active in rallying the Trojans.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: Jove
+  description: The god who preserves Hector, descends on Ida, and sends Iris with
+    commands for Hector.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Iris
+  description: The many-coloured maid with golden wings who carries Jove's command
+    to Hector.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: victorious battlefield leader
+  assigned_to:
+  - fig:3
+  basis: Agamemnon leads the Greeks, kills enemies, pursues the rout, and is the focal
+    point of the Greek line.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+- id: role:2
+  label: divinely protected commander
+  assigned_to:
+  - fig:6
+  basis: Hector is kept safe by Jove and destiny and receives a divine strategy through
+    Iris.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: divine sender of command
+  assigned_to:
+  - fig:7
+  basis: Jove descends, addresses Iris, and dictates the message that governs Hector's
+    conduct in battle.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: pursuing and defending army
+  assigned_to:
+  - fig:4
+  basis: The Greeks pursue after Agamemnon's example and later gather to face the
+    renewed Trojan attack.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:5
+  label: routed and rallied army
+  assigned_to:
+  - fig:5
+  basis: The Trojans flee in disorder and are later brought back to arms by Hector.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:6
+  label: slain warrior
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both Pisander and his brother are killed in the opening action of the passage.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: divine messenger
+  assigned_to:
+  - fig:8
+  basis: Iris is commanded by Jove to carry his word to Hector and does so.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: consuming fire image
+  literal_form: Winds and raging flames rolling over a forest in a battle simile.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: trees and city-approach landmarks
+  literal_form: Wild figs, a beech-tree, the tomb of Ilus, and the Scaean gates mark
+    the route of the Trojan flight.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Idaean hills
+  literal_form: Hills or summits shaken by Jove as he descends.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: unkindled lightning
+  literal_form: Lightning held in Jove's hand before he speaks to Iris.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: golden wings
+  literal_form: Iris's golden wings used in haste to carry Jove's word.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: burning sun and sacred night
+  literal_form: The time limit of Hector's empowered advance is marked by sunset and
+    the extension of night.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Agamemnon's slaughter and Greek pursuit
+  summary: Agamemnon kills named opponents and advances through the battlefield while
+    the Greeks follow and the Trojans are routed amid dust, horses, and chariots.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hector preserved and Trojans driven toward the city
+  summary: Hector remains safe through Jove and destiny, while the routed Trojans
+    flee past named landmarks and Agamemnon continues killing the rearmost fighters.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Jove sends Iris from Ida
+  summary: Jove descends on Ida, takes lightning in hand, and orders Iris to instruct
+    Hector to wait until Agamemnon is wounded and leaves before pressing the Greeks
+    toward their ships.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Iris delivers the command and Hector rallies the Trojans
+  summary: Iris finds Hector at his chariot and repeats Jove's instructions. After
+    she vanishes, Hector arms himself with two lances, moves through the ranks, revives
+    the Trojans, and the Greeks prepare to meet the renewed attack.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divine intervention through messenger in battle
+  taxonomy_refs:
+  - divine_judgment
+  basis: Jove preserves Hector and sends Iris with a conditional command that determines
+    when Hector should avoid or renew direct action.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy label is approximate; the passage shows divine
+    command and battle timing more than explicit moral judgment.
+- id: motif:2
+  label: fate-protected hero
+  taxonomy_refs: []
+  basis: Hector is explicitly said to be safe because Jove and destiny prolong his
+    allotted time.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No closer supplied taxonomy reference is available.
+- id: motif:3
+  label: warrior as consuming fire
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: Agamemnon's destructive advance is compared to winds and raging flames rolling
+    through a forest and leveling all before them.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The fire is a simile for battle destruction, not a literal cosmic conflagration.
+- id: motif:4
+  label: rally of routed army after divine message
+  taxonomy_refs: []
+  basis: After receiving Iris's message, Hector leaps from his chariot, arms himself,
+    moves through the bands, and restores Trojan fighting spirit.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this battle-rally pattern.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Agamemnon's battlefield devastation to a
+    wind-driven forest fire.
+  claim_level: visual_similarity
+  target: destructive fire battle simile
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal poetic simile, not evidence of a distinct mythic
+    fire episode.
+- id: claim:2
+  claim: The passage explicitly compares the routed Trojans to cattle frightened by
+    a roaring lion at night.
+  claim_level: visual_similarity
+  target: predator-and-herd rout simile
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal simile describing panic and pursuit, not a separate
+    animal myth.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10926-10933
+  quote_or_summary: Pisander is killed from the chariot; his brother is dismembered
+    and beheaded; the victorious king moves where the fighting is thickest and the
+    Greeks follow.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10934-10952
+  quote_or_summary: Dust, horses, chariots, and slaughter fill the plain; Agamemnon's
+    rage is compared to fire consuming a forest, and empty cars roll across the field.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 10953-10956
+  quote_or_summary: '"But Jove and destiny prolongd his date. / Safe from the darts,
+    the care of heaven he stood"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 10957-10973
+  quote_or_summary: The Trojans flee past the tomb of Ilus, wild figs, the beech-tree,
+    and the Scaean gates; Agamemnon pursues and kills the hindmost, with a lion-and-cattle
+    simile for the rout.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 10974-10981
+  quote_or_summary: Jove descends, shakes the Idaean hills, sends rills down their
+    summits, takes unkindled lightning, and addresses Iris.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10982-10995
+  quote_or_summary: Jove tells Iris to command Hector to hold back while Agamemnon
+    is fighting, then to attack after Agamemnon is wounded and leaves, driving the
+    Greeks toward their ships until sunset and night.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 10996-11012
+  quote_or_summary: Iris descends on wings, finds Hector by the bulwarks on his chariot,
+    and repeats Jove's command.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 11013-11027
+  quote_or_summary: Iris vanishes; Hector springs from his chariot with two lances,
+    rallies the Trojan bands, and the Greeks condense their forces as the king leads
+    them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Taxonomy matches are partly approximate
+    because the supplied motif list lacks exact labels for battle divine-message and
+    fate-protection patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l10926-l11027
+  passage_sha256=02b67cbb1af8ec9196e802cb51e0deff3cb82f846c97188e40b62508e0e9bb2e

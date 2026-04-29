@@ -1,0 +1,553 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l19819-l19969
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: ARGUMENT. / THE BATTLE OF THE GODS, AND THE ACTS OF ACHILLES. / BOOK XXI.
+    / ARGUMENT.; lines 19819-19969
+  start: '19819'
+  end: '19969'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A river-god calls on Simois to help overwhelm Achilles with flood, rocks,
+    and corpses. Juno summons Vulcan, who attacks the river with fire until it yields
+    and swears not to aid Troy. The gods then enter open conflict: Mars attacks Minerva,
+    Minerva fells him with a boundary stone, and Venus assists the wounded Mars.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaking flood addresses Simois as a brother flood and asks him to help
+    check Achilles.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The flood proposes to swell its waters with fountains, rocks, and dead bodies
+    and to bury Achilles under watery and sandy matter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The river descends on Achilles swollen with gore and the slain, producing
+    foam and blood-colored waves.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Juno sees the danger and calls on Vulcan for aid against the flood.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Juno commands Vulcan to assemble fires, use winds, burn corpses and arms,
+    scorch banks, and dry or burn the river.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Vulcan spreads fire over the plain, consumes the dead, dries the soil, boils
+    the river water, burns reeds and trees, and kills or distresses fish and eels.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The river yields to Vulcan, asks Juno for relief, and swears not to help Troy
+    against its fate.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Juno orders Vulcan to stop, and the streams resume their usual flow.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After the river conflict ends, the gods enter fierce contention with thunder
+    in heaven and groaning earth below.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Jove watches the gods fight with careless eyes.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Mars attacks Minerva and accuses her of driving a mortal to wound a god.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Mars strikes Minerva's shield, described as the aegis of her sire and associated
+    with thunder and forked fire.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Minerva lifts and throws a large black boundary stone fixed from old times,
+    causing Mars to fall across a vast area.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: Minerva taunts the fallen Mars, saying her force surpasses his and that Juno
+    corrects him through Pallas.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:15
+  text: Venus helps the wounded Mars rise and leave the plain while Juno observes.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Achilles
+  description: A mortal chief who advances through the floods and is targeted by the
+    river's attack.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: attacking river or flood
+  description: A divine or personified river that speaks, attacks Achilles with water
+    and gore, and later yields to Vulcan's fire.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Simois
+  description: Addressed as the brother flood of the speaking river and asked to join
+    the attack.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Juno / Saturnia
+  description: Queen of heaven who summons Vulcan, commands the fiery attack, and
+    later orders it to stop.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Vulcan
+  description: The ignipotent god who obeys Juno and attacks the river with fire until
+    recalled.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Jove
+  description: God who watches the divine battle as sport with careless eyes.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Mars / power of battles
+  description: A war god who attacks Minerva and is struck down by her stone.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:8
+  name_or_label: Minerva / Pallas / radiant queen of war
+  description: A warrior goddess who bears the aegis, is attacked by Mars, and defeats
+    him with a boundary stone.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:9
+  name_or_label: Venus / Jove's Cyprian daughter
+  description: A goddess who stoops to assist the wounded Mars from the plain.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: mortal target of divine river attack
+  assigned_to:
+  - fig:1
+  basis: The flood seeks to check the mortal Achilles and bury his arms and bones
+    under water and sand.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: attacking river deity
+  assigned_to:
+  - fig:2
+  basis: The river speaks, swells with blood and the dead, attacks Achilles, and later
+    prays for relief from fire.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:3
+  label: summoned allied river
+  assigned_to:
+  - fig:3
+  basis: Simois is addressed as a brother flood and asked to add waters against Achilles.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: divine commander and mediator
+  assigned_to:
+  - fig:4
+  basis: Juno summons Vulcan, orders him to burn the river, and later tells him to
+    stop.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:5
+  label: fire-wielding divine enforcer
+  assigned_to:
+  - fig:5
+  basis: Vulcan obeys Juno and pours destructive fire over plain, banks, vegetation,
+    and waters.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: detached divine observer
+  assigned_to:
+  - fig:6
+  basis: Jove watches the contending gods with careless eyes.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: defeated war-god aggressor
+  assigned_to:
+  - fig:7
+  basis: Mars initiates an assault on Minerva and is knocked down by her stone.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: victorious warrior goddess
+  assigned_to:
+  - fig:8
+  basis: Minerva withstands Mars's blow, casts the boundary stone, and taunts him
+    after he falls.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:9
+  label: helper of wounded god
+  assigned_to:
+  - fig:9
+  basis: Venus lends Mars her hand and helps him leave the plain.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: flood water
+  literal_form: swollen rivers, dark gulfs, crimson surge, boiling waters, branching
+    streams
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: divine fire
+  literal_form: Vulcan's boundless blaze, fiery blast, running flame, wide conflagration
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: watery tomb
+  literal_form: dark gulfs, sandy mountain, cold rites, watery tomb for Achilles's
+    relics
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: burning vegetation at the riverbank
+  literal_form: sedgy reeds, lotos, tamarisk, elm, cypress, and willows burning or
+    hissing before the fire
+  associated_figures:
+  - fig:5
+  - fig:2
+  taxonomy_refs:
+  - fire
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: aegis shield
+  literal_form: long-resounding shield bearing Jove's thunder and turning bolt and
+    forked fire
+  associated_figures:
+  - fig:8
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: boundary stone
+  literal_form: black, craggy, vast stone marking the limit of neighboring land from
+    eldest times
+  associated_figures:
+  - fig:8
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: River attempts to drown Achilles
+  summary: A personified river calls on Simois to join in flooding Achilles, burying
+    his arms and body, and depriving him of burial rites.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Juno summons Vulcan against the river
+  summary: Juno commands Vulcan to use fire and winds against the river, corpses,
+    arms, banks, and trees.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Fire subdues the river
+  summary: Vulcan's fire dries the plain, boils the waters, burns the riverbanks,
+    harms aquatic life, and forces the river to yield and swear not to help Troy.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: The gods enter open combat
+  summary: After the river conflict, the gods fight; heaven thunders, earth groans,
+    and Jove watches.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Minerva defeats Mars
+  summary: Mars strikes Minerva's aegis, Minerva throws an ancient boundary stone,
+    Mars falls, and Venus helps him away.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: elemental conflict of fire and water
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: The passage centers on Vulcan's fire attacking and overpowering a divine
+    river; flames boil waters, burn banks, and compel the river to yield.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The fire is destructive but localized to the battlefield and river; the
+    passage does not describe literal destruction of the whole world.
+- id: motif:2
+  label: divine parent-child command
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The river describes Vulcan as Saturnia's son, and Juno commands him to engage
+    and later withdraw from the fight.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage emphasizes command and obedience more than family relationship.
+- id: motif:3
+  label: gods' battle shaking heaven and earth
+  taxonomy_refs:
+  - chaos
+  basis: The gods enter fierce contention, celestial arms clash, heaven thunders,
+    and the ground groans beneath them.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The scene suggests cosmic disorder but remains an episode of divine combat
+    rather than a full cosmogonic chaos motif.
+- id: motif:4
+  label: denial of burial by elemental engulfment
+  taxonomy_refs: []
+  basis: The river threatens to bury Achilles under dark gulfs and a sandy mountain
+    so that Greeks cannot gather or inter his bones.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy reference precisely matches this burial-threat pattern.
+- id: motif:5
+  label: war-god overthrown by warrior goddess
+  taxonomy_refs: []
+  basis: Mars attacks Minerva, but Minerva casts a boundary stone and fells him, then
+    taunts him as defeated.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy reference precisely matches this divine combat reversal.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19819-19838
+  quote_or_summary: The speaking flood calls Simois a brother flood and asks him to
+    help check Achilles by swelling waters with fountains, rocks, and dead bodies,
+    leaving Achilles under dark gulfs and a sandy mountain as a watery tomb.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 19839-19848
+  quote_or_summary: The river descends on Achilles, increased with gore and the slain;
+    purple waves foam, blood-colored flood blocks Achilles, and Juno calls for Vulcan's
+    aid.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19849-19862
+  quote_or_summary: Juno commands Vulcan to rise against the flood, assemble fires
+    and winds, burn the red torrent with corpses and arms, drink the flood, devour
+    trees, and scorch the banks.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 19863-19885
+  quote_or_summary: Vulcan spreads a boundless blaze, consumes dead bodies, dries
+    the soil, boils the waters, burns reeds and trees on the margins, and causes fish
+    and eels to gasp or die.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 19886-19917
+  quote_or_summary: The river yields to Vulcan and asks Juno to withdraw the destructive
+    hand; he swears to leave Ilion to fate. Juno orders Vulcan to stop, and the streams
+    resume their bed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 19918-19927
+  quote_or_summary: The gods join fierce contention; ethereal arms clash, heaven thunders,
+    the ground groans, and Jove watches the scene with careless eyes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 19928-19941
+  quote_or_summary: Mars attacks Minerva, accuses her of causing a mortal to wound
+    a god, and strikes her long-resounding shield, the aegis associated with Jove's
+    thunder and forked fire.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 19942-19961
+  quote_or_summary: Minerva casts a vast black boundary stone fixed from old times;
+    Mars falls over seven acres, and Minerva taunts him, saying her force surpasses
+    his and Juno corrects him through Pallas.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 19962-19969
+  quote_or_summary: Venus, called Jove's Cyprian daughter, helps the wounded Mars
+    rise and leave the plain while Juno watches and begins to address Minerva.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Passage details are explicit for figures, actions, elemental symbols, and
+    divine combat. Taxonomy mapping is more tentative because the supplied motif families
+    do not include a precise category for river-fire combat or divine battlefield
+    quarrels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. Comparison claims omitted because the passage does not itself make an external comparative claim.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l19819-l19969
+  passage_sha256=758b1ce46ddc1f8593e61881c0aad2c33063c2564e136f40302145b3acdd6d63

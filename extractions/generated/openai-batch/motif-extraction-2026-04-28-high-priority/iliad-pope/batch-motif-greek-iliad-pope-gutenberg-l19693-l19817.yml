@@ -1,0 +1,543 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l19693-l19817
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: ARGUMENT. / THE BATTLE OF THE GODS, AND THE ACTS OF ACHILLES. / BOOK XXI.
+    / ARGUMENT.; lines 19693-19817
+  start: '19693'
+  end: '19817'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Achilles refuses to stop fighting until Troy and Hector are punished. The
+    river Scamander/Xanthus, angered, attacks him with floods, corpses, and waves.
+    Achilles narrowly escapes by using an uprooted elm as a bridge, then laments that
+    he may die shamefully by drowning rather than by battle as foretold. Neptune and
+    Pallas appear in human form, assure him the river will not be his fate, and urge
+    him onward until Hector dies by his lance. Achilles resumes the fight while the
+    river continues to rage.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Achilles says he will obey the sacred stream only after Troy has paid vengeance
+    and Hector either stains Achilles' lance or sees Achilles fall.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The yellow flood addresses the god of the silver bow and refers to a mandate
+    from Jove that Phoebus defend Troy with sacred arrows until darkness falls.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The river rises, roars, casts heaps of slain onto the coast, tosses dead bodies
+    around the banks, and raises billows as a watery bulwark for fleeing troops.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A deluge overwhelms Achilles; his shield bends under the tide and his footing
+    fails.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Achilles seizes an overhanging elm bough; the tree uproots, falls across the
+    flood, and lets him regain land.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The river pursues Achilles with larger waves, bursts the bank, and follows
+    wherever he turns.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Achilles laments to heaven that drowning would be an ignominious death, unlike
+    the prophesied fall by Phoebus' darts before the Trojan wall.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Neptune and Pallas appear in human form, tell Achilles not to fear, say the
+    river is not fated to kill him, and urge him to keep fighting until Hector's blood
+    smokes on his lance.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After the gods depart, Achilles is filled with new ardor, wades through the
+    spread waters among floating dead and scattered arms, and continues while Xanthus
+    roars.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Achilles
+  description: The chief, son of Peleus, first of men, pursued by the river and urged
+    by gods to continue fighting until Hector dies.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Scamander / Xanthus / the river
+  description: A sacred stream, yellow flood, and bellowing river that speaks, roars,
+    disgorges the slain, raises waves, and tries to destroy Achilles.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: Phoebus / god of the silver bow
+  description: A divine archer addressed by the river as charged by Jove to defend
+    Troy with sacred arrows.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: Jove
+  description: The sire above whose mandate is cited as directing Phoebus to defend
+    Troy; later invoked by Achilles.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Hector
+  description: Guardian of Troy's wall and the opponent whose blood the gods say will
+    smoke on Achilles' lance.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:6
+  name_or_label: Neptune
+  description: The power of ocean who appears in human form to help Achilles and reassure
+    him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Pallas / blue-eyed maid
+  description: A goddess who appears with Neptune to aid Achilles and later fills
+    him with immortal force.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: Thetis
+  description: Achilles' mother, mentioned by Achilles as having prophesied that he
+    would fall by Phoebus' darts before the Trojan wall.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Troy / Trojan forces
+  description: The city and its forces, described as destined for Achilles' vengeance
+    and as fleeing behind their wall.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+roles:
+- id: role:1
+  label: imperiled warrior-hero
+  assigned_to:
+  - fig:1
+  basis: Achilles fights on while pursued and nearly overwhelmed by a divine river.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: personified divine river adversary
+  assigned_to:
+  - fig:2
+  basis: The river speaks, roars, raises waves, and attacks Achilles as a godlike
+    force.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: role:3
+  label: divine archer and defender of Troy
+  assigned_to:
+  - fig:3
+  basis: The river says Phoebus was mandated to use sacred arrows in Troy's defence.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: supreme divine authority
+  assigned_to:
+  - fig:4
+  basis: Jove's mandate is cited as authorizing Phoebus, and Achilles appeals to Jove
+    against drowning.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: destined battlefield opponent
+  assigned_to:
+  - fig:5
+  basis: Achilles frames Hector as the decisive opponent, and the gods forecast Hector's
+    blood on Achilles' lance.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:6
+  label: divine helper
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Neptune and Pallas appear to relieve Achilles, reassure him, and urge him
+    onward.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: prophetic mother
+  assigned_to:
+  - fig:8
+  basis: Achilles says Thetis prophesied his fall by Phoebus' darts before Troy.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: besieged enemy collective
+  assigned_to:
+  - fig:9
+  basis: Troy and its forces are the target of Achilles' vengeance and retreat behind
+    walls.
+  evidence_refs:
+  - ev:1
+  - ev:7
+symbols:
+- id: sym:1
+  label: hostile floodwater
+  literal_form: river flood, billows, deluge, torrent, watery bulwark
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+- id: sym:2
+  label: uprooted elm bridge
+  literal_form: spreading elm uprooted by Achilles' weight and falling across the
+    flood as a bridge
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: silver bow and sacred arrows
+  literal_form: Phoebus' bow and arrows used in defence of Troy and linked to Achilles'
+    foretold death
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: fatal lance
+  literal_form: Achilles' lance, expected either to be stained by Hector or to smoke
+    with Hector's blood
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:5
+  label: floating dead and scattered arms
+  literal_form: corpses, casques, bucklers, and arms floating in the river-spread
+    plain
+  associated_figures:
+  - fig:2
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+scenes:
+- id: scene:1
+  label: Achilles refuses to halt before Troy and Hector are punished
+  summary: Achilles answers the sacred stream that he will obey only after Troy has
+    paid vengeance and Hector's fate is decided.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The river appeals to Phoebus
+  summary: The yellow flood reminds Phoebus of Jove's mandate that he defend Troy
+    with sacred arrows.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:9
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Scamander overwhelms Achilles
+  summary: The river rises, disgorges the slain, protects fleeing troops with waves,
+    and crashes over Achilles until he struggles for footing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: The elm becomes a bridge out of the flood
+  summary: Achilles grabs an elm bough; the tree is uprooted and falls across the
+    water, enabling him to escape the channel.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: The river pursues the fleeing hero
+  summary: Scamander follows Achilles with waves wherever he turns, while Achilles
+    runs and bounds before the tide.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Achilles laments a shameful drowning
+  summary: Tired by the flood, Achilles prays and laments that he may die like a swept-away
+    swain rather than gloriously in battle as foretold.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Neptune and Pallas reassure Achilles
+  summary: Neptune and Pallas appear in human form, promise that the river is not
+    Achilles' fated death, and direct him toward Hector's defeat.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:8
+  label: Achilles resumes combat through the flooded plain
+  summary: Empowered by Pallas, Achilles wades over the flooded plain among floating
+    dead and weapons while Xanthus continues to roar.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: hero opposed by a personified river
+  taxonomy_refs:
+  - chaos
+  basis: The river speaks as a divine being and tries to destroy Achilles with surges,
+    deluges, and pursuing waves.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents an attacking river deity; the broader taxonomy label
+    'chaos' is approximate because the passage does not explicitly frame the river
+    as primordial chaos.
+- id: motif:2
+  label: divine rescue of an imperiled hero
+  taxonomy_refs: []
+  basis: Neptune and Pallas appear in human form, reassure Achilles that the river
+    will not kill him, and send him back into battle.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No specific available motif-family taxonomy reference directly names this
+    intervention pattern.
+- id: motif:3
+  label: hero fears shameful death instead of foretold heroic death
+  taxonomy_refs: []
+  basis: Achilles contrasts drowning like an obscure man swept away by a torrent with
+    his expected battlefield death before Troy by Phoebus' darts.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level pattern of fate, honor, and death mode; it is
+    not mapped to an available taxonomy family here.
+- id: motif:4
+  label: destined duel and vengeance before city walls
+  taxonomy_refs: []
+  basis: Achilles states he will not stop until Troy is punished, and the gods say
+    Hector alone will face his fatal chance and die by Achilles' lance.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: high
+  cautions: The passage states the immediate martial destiny but does not provide
+    a broader comparative label.
+- id: motif:5
+  label: tree used as emergency crossing from flood
+  taxonomy_refs: []
+  basis: An uprooted elm falls across the river and serves as a bridge by which Achilles
+    regains land.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The event is literal and situational; its status as an independent motif
+    requires review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19693-19700
+  quote_or_summary: The river appears in human form; Achilles replies that he will
+    obey only after Troy suffers vengeance and Hector's fate is decided by Achilles'
+    lance or fall.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 19702-19710
+  quote_or_summary: The yellow flood addresses the god of the silver bow, invoking
+    Jove's mandate that Phoebus defend Troy with sacred arrows until Hyperion's fall
+    brings darkness.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19712-19720
+  quote_or_summary: The river rises in rage, roars from its depths, throws dead bodies
+    onto the coast and banks, and raises billows as a watery bulwark protecting those
+    who flee.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 19721-19735
+  quote_or_summary: A deluge crashes over Achilles; he loses footing, seizes an elm,
+    uproots it, and the fallen trunk bridges the flood so he can leap back to land.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 19736-19762
+  quote_or_summary: The river darkens, pursues Achilles with greater waves, bursts
+    the bank, and follows wherever Achilles turns; the action is compared to irrigation
+    water running along channels.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 19764-19790
+  quote_or_summary: Achilles cannot outrun the river, grows tired, looks to heaven,
+    and laments that he may drown ignobly rather than die gloriously by Phoebus' darts
+    before Troy as Thetis foretold.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 19792-19809
+  quote_or_summary: Neptune and Pallas appear in human form, tell Achilles not to
+    fear, declare the river is not fated to kill him, and urge him to fight until
+    Hector's blood is on his lance.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 19811-19817
+  quote_or_summary: After the gods ascend, Achilles is driven by new ardor, wades
+    through the waters among floating dead and glittering arms, while Pallas strengthens
+    him and Xanthus roars.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied passage. Motif labeling is
+    partly interpretive, especially mapping the river attack to the broad available
+    taxonomy family 'chaos'. No comparison claims were added because the passage itself
+    does not establish a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Public-domain text was summarized rather than extensively quoted.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l19693-l19817
+  passage_sha256=f1353c151190c78c5a22ef47a104a1761eb67ce902bcbab1462d047a156a8cae

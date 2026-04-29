@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l14329-l14415
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XV. The Preparations. / Canto XVIII. The Sentence. / Canto XXII. Lakshman
+    Calmed. / Canto XXVIII. The Dangers Of The Wood.; lines 14329-14415
+  start: '14329'
+  end: '14415'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Rama's wife answers his warnings about forest exile. She insists that love
+    makes forest hardships bearable, cites commands, prophecies, prior warnings, and
+    a scriptural rule about marriage lasting into the afterlife, and threatens death
+    if she is left behind. The narrator says Rama is still not persuaded and she weeps.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The lady hears Rama's address with distress and tearful eyes, then replies
+    in soft low accents.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: She says the wood's perils and woes will not be pain to her if she is led
+    by love, and that forest animals will flee when they see Rama.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: She says she must go with Rama because her sire's command ordains it, and
+    that without Rama her heart will break and she will die.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: She says that while Rama is near, even the ruler of the sky cannot wrong her.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: She reports that Brahmans and diviners in her father's palace foretold that
+    she would dwell in the wood.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: She says forest woes disturb those who live there without controlling their
+    senses.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: She reports having heard a begging woman describe the griefs that await in
+    forest life.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: She calls the journey with Rama a pilgrimage, says her spirit will be purified
+    at his side, and says her husband is a god to her.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: She cites a scripture text saying that a woman lawfully joined to a man by
+    her parents with water and holy rites is his wife in this world and in the afterlife.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: She says that if Rama will not take her to the wood, she will die by fire,
+    water, or poison.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The narrator says she beseeches Rama to share his exile, cannot persuade him,
+    is grieved by his answer, and weeps heavily.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: The lady's lord and husband, described by her as mighty, matchless,
+    a hero, and one whose exile leads to the wood.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: The lady / the Videhan, Rama's wife
+  description: Rama's wife, who pleads to accompany him to the wood, cites prophecy
+    and marriage law, threatens death if refused, and weeps when not persuaded.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Truth-declaring Brahmans and diviners
+  description: Religious specialists whom the lady says foretold her future dwelling
+    in the wood and proclaimed an ancient scripture text.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Begging dame
+  description: A woman who begged bread and, in the lady's father's halls, described
+    the griefs of forest life.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Exiled husband and forest guide
+  assigned_to:
+  - fig:1
+  basis: Rama is the husband whom the lady asks to follow into the wood and whose
+    exile she asks to share.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:2
+  label: Devoted wife and petitioner
+  assigned_to:
+  - fig:2
+  basis: She repeatedly pleads to accompany Rama, invokes her status as his wife,
+    and grieves when he is not persuaded.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:3
+  label: Prophetic and scriptural authorities
+  assigned_to:
+  - fig:3
+  basis: The Brahmans and diviners are said to foretell her forest dwelling and to
+    proclaim a scripture text about marriage.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: Witness to forest hardships
+  assigned_to:
+  - fig:4
+  basis: The begging dame is reported as having described the griefs of forest life.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Wood or forest exile
+  literal_form: the wood, forest life, greenwood shade, lonely shade
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+- id: sym:2
+  label: Forest beasts
+  literal_form: tiger, elephant, deer, bull, lion, buffalo, and other silvan beasts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Water
+  literal_form: water used in lawful marriage rites; water named as a possible means
+    of death
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: Fire
+  literal_form: fire named as a possible means of death
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Poisoned draught
+  literal_form: poisoned drink named as a possible means of death
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: The wife answers Rama's warning
+  summary: After hearing Rama's address, his wife replies that forest dangers do not
+    frighten her because of her love, and that animals will flee from Rama.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Prophecy and prior knowledge of forest life
+  summary: She says that her father's command and Brahmanic prophecy require her to
+    accompany Rama, and that she has already heard accounts of forest hardships.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Marriage law, death threat, and grief
+  summary: She invokes a scripture about lawful marriage continuing after death, asks
+    why Rama denies her prayer, threatens death if left behind, and then weeps when
+    he remains unpersuaded.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Wife insists on sharing husband's exile
+  taxonomy_refs:
+  - departure
+  basis: The lady repeatedly asks to follow Rama to the wood and share the exile rather
+    than remain behind.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: The passage presents the departure as marital accompaniment within an
+    exile narrative; it does not by itself give the larger exile context beyond the
+    wife's speech.
+- id: motif:2
+  label: Marriage bond continuing into the afterlife
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The cited scripture says a woman joined to a man by water and holy rites
+    is his wife in this world and in the afterlife.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a religious marriage formula, but broader ritual or
+    theological framing is limited to the wife's quotation.
+- id: motif:3
+  label: Forest life as purifying pilgrimage
+  taxonomy_refs:
+  - initiation
+  - mystical_quest
+  basis: The wife describes following Rama into the greenwood as a pilgrimage that
+    enchants her heart and says her spirit will be purified at his side.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage uses the language of pilgrimage and purification, but the
+    actual journey or transformation is not narrated here.
+- id: motif:4
+  label: Foretold dwelling in the wilderness
+  taxonomy_refs: []
+  basis: The wife reports that Brahmans and diviners foretold that she would dwell
+    in the wood, and she asks that their words now be fulfilled.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The prophecy is reported in speech rather than narrated directly, and
+    no specific omen or sign is described.
+- id: motif:5
+  label: Threatened self-destruction if separated from beloved spouse
+  taxonomy_refs:
+  - divine_beloved
+  basis: She says she cannot live bereft of Rama and threatens fire, water, or poison
+    if he refuses to take her.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: 'The taxonomy reference is approximate: the passage expresses marital
+    devotion and dependence, not necessarily a fully developed divine-beloved pattern.'
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14329-14415
+  quote_or_summary: Rama speaks; the lady hears with distress, tears in her eyes,
+    and answers in soft low accents.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 14329-14415
+  quote_or_summary: "“The perils of the wood... Led by my love I deem not pain”; she
+    says tiger, elephant, deer, bull, lion, buffalo, and other beasts will flee at
+    Rama's sight."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 14329-14415
+  quote_or_summary: She says she must go with Rama because her sire's command ordains
+    it; bereft of him she will die; while he is near, even the ruler of the sky cannot
+    wrong her.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 14329-14415
+  quote_or_summary: She reports that truth-declaring Brahmans and diviners in her
+    father's palace foretold that she would dwell in the wood, and she has longed
+    for that forest life.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 14329-14415
+  quote_or_summary: She says forest woes afflict those with uncontrolled senses, recalls
+    a begging woman who described forest griefs, and calls going with Rama a purifying
+    pilgrimage in which her husband is a god to her.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 14329-14415
+  quote_or_summary: A scripture text says that a woman whom her parents bestow on
+    a man, joined “With water and each holy rite,” is his wife “in this world” and
+    “in the after life.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 14329-14415
+  quote_or_summary: "“To fire or water I will fly, / Or to the poisoned draught, and
+    die.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 14329-14415
+  quote_or_summary: The narrator says she beseeches Rama to share his exile, cannot
+    yet persuade him, is struck with grief by his answer, and weeps heavily.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are candidate-level and should be reviewed, especially the approximate taxonomy
+    mappings for sacred marriage, initiation, mystical quest, and divine beloved.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this material to another tradition or motif family beyond the available candidate motif taxonomy.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l14329-l14415
+  passage_sha256=e87a22e6ce12dbf0bcc9d26a979f031a4e1554388bc15b667462260acd45f2eb

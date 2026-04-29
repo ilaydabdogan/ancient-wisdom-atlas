@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.hindu-mahabharata-dutt-gutenberg-l4649-l4677
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+passage_locator:
+  label: BOOK VII / UDYOGA / BOOK VIII / BHISHMA-BADHA; lines 4649-4677
+  start: '4649'
+  end: '4677'
+  translation: Maha-bharata
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: At gloomy midnight, Karna visits the dying Bhishma, who lies on a bed of
+    arrows. Bhishma speaks of the end of envy and discord at death, reveals that Karna
+    is Pritha's son and was born through the Sun, states that Arjun is Karna's brother,
+    and urges Karna to end the fraternal war. Karna does not heed the warning, and
+    hatred rises in him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The scene occurs during a dark, gloomy midnight after the princes have departed.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bhishma lies alone and dying on a bed of pointed arrows.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Karna comes gently to the dying Bhishma in the midnight darkness.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Bhishma addresses Karna with affection and sadness while close to death.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Bhishma says pride and envy had caused strife, but discord and envy end with
+    departing breath and fleeting life.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Bhishma says Karna is Pritha's son and that the Sun inspired Karna's birth.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Bhishma says Pritha cast Karna away in sorrow and shame, and that a driver,
+    not Karna's father, nursed him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Bhishma says Arjun is Karna's brother and urges Karna not to seek his brother's
+    life-blood or drive his car against him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The narration states that Bhishma's warning is vain and that hatred rises
+    in Karna.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Bhishma
+  description: A chieftain lying alone and dying on a bed of pointed arrows; he speaks
+    to Karna and gives a warning.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Karna
+  description: A noble warrior and archer who visits Bhishma; Bhishma identifies him
+    as Pritha's son and Arjun's brother.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Pritha
+  description: Named by Bhishma as Karna's mother, who bore him while unwedded and
+    cast him away in sorrow and shame.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Sun
+  description: Named by Bhishma as the divine power that inspired Karna's birth.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Arjun
+  description: Named by Bhishma as Karna's brother and as a warrior comparable to
+    Karna in valor and lineage.
+  role_refs:
+  - role:4
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: driver
+  description: The driver who nursed Karna and is explicitly said not to be Karna's
+    father.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: dying elder or chieftain
+  assigned_to:
+  - fig:1
+  basis: Bhishma lies dying on a bed of arrows and speaks with failing breath.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: deathbed revealer and warner
+  assigned_to:
+  - fig:1
+  basis: Bhishma reveals Karna's birth and brotherhood with Arjun and warns him to
+    end the fraternal war.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:3
+  label: recipient of revelation
+  assigned_to:
+  - fig:2
+  basis: Karna is directly addressed by Bhishma and told of his mother, divine birth,
+    and brother.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: brother in fraternal conflict
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Bhishma identifies Arjun as Karna's brother and calls the conflict a fraternal
+    war.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: god-born archer
+  assigned_to:
+  - fig:2
+  basis: Bhishma calls Karna god-born and says no mightier archer treads the earth.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: mother who abandoned child
+  assigned_to:
+  - fig:3
+  basis: Pritha bore Karna while unwedded and cast him away in sorrow and shame.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: divine source of birth
+  assigned_to:
+  - fig:4
+  basis: The Sun is said to have inspired Karna's birth.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: opposed brother
+  assigned_to:
+  - fig:5
+  basis: Bhishma urges Karna not to seek Arjun's life-blood or drive against him.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: foster nurturer
+  assigned_to:
+  - fig:6
+  basis: A driver, not Karna's father, nursed Karna.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: bed of arrows
+  literal_form: bed of pointed arrows
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: midnight darkness
+  literal_form: gloomy midnight and midnight darkness
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Sun birth source
+  literal_form: the Sun inspired Karna's birth
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: war chariot
+  literal_form: car driven against a brother
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Karna visits dying Bhishma at midnight
+  summary: After the princes depart, Bhishma lies dying on a bed of arrows, and Karna
+    comes to him in the darkness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Bhishma reveals Karna's birth and kinship
+  summary: Bhishma tells Karna that he is Pritha's son, that the Sun inspired his
+    birth, that he was cast away and nursed by a driver, and that Arjun is his brother.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Warning rejected by hatred
+  summary: Bhishma urges Karna to end the fraternal war, but the narration says the
+    warning is vain and hatred awakens in Karna.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: deathbed revelation and warning
+  taxonomy_refs:
+  - wisdom
+  basis: A dying Bhishma reveals concealed kinship and offers counsel intended to
+    stop a destructive conflict.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy has only a broad wisdom family; the passage presents
+    warning and revelation but not a formal wisdom teaching cycle.
+- id: motif:2
+  label: divine birth of a hero
+  taxonomy_refs:
+  - sacred_birth
+  - divine_parent_child
+  basis: Karna is identified as Pritha's son, born through the inspiration of the
+    Sun, and called god-born.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a brief retrospective account rather than a full birth
+    narrative.
+- id: motif:3
+  label: abandoned child raised by another household
+  taxonomy_refs:
+  - miraculous_child
+  basis: Bhishma says Pritha cast Karna away and that a driver, not his father, nursed
+    him.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy ref is approximate; the passage states abandonment and foster
+    nurture but does not narrate miraculous infancy beyond divine birth.
+- id: motif:4
+  label: brothers in hostile conflict
+  taxonomy_refs:
+  - sibling_pair
+  basis: Bhishma names Arjun as Karna's brother and calls the war fraternal while
+    urging Karna not to seek his brother's blood.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage emphasizes opposition rather than a cooperative sibling pair.
+- id: motif:5
+  label: vengeful rejection of reconciliation
+  taxonomy_refs: []
+  basis: Bhishma's warning to end the fraternal war is described as vain because hatred
+    rises in Karna.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No specific available taxonomy reference fits this motif exactly.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits a sacred or divine birth motif family because a human mother
+    is named and the Sun is said to inspire Karna's birth.
+  claim_level: same_motif
+  target: sacred_birth / divine_parent_child motif families
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage only reports the birth retrospectively and does not include
+    a full birth episode.
+- id: claim:2
+  claim: The passage fits a sibling-conflict pattern because Karna and Arjun are identified
+    as brothers within a war that Bhishma calls fraternal.
+  claim_level: same_motif
+  target: sibling_pair motif family as hostile fraternal conflict
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The taxonomy label sibling_pair is broad and does not specify hostile
+    brothers; the passage gives only Bhishma's statement within one encounter.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4649-4652
+  quote_or_summary: "“Darker grew the gloomy midnight” and Bhishma lies “On his bed
+    of pointed arrows” alone and dying."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 4653-4658
+  quote_or_summary: Karna comes gently to the dying Bhishma in the midnight darkness;
+    Bhishma hears him, opens his eye, and speaks in love and sadness.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4659-4664
+  quote_or_summary: Bhishma tells Karna that pride and envy filled their hearts with
+    strife, that discord ends as breath departs, and that his dying speech may fail.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 4665-4668
+  quote_or_summary: Bhishma says, “Karna, thou art Pritha's son”; Pritha bore him
+    unwedded, and “the Sun inspired thy birth.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 4669-4670
+  quote_or_summary: Bhishma says Pritha cast Karna away in sorrow and shame, and that
+    a driver, not his father, nursed him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 4671-4672
+  quote_or_summary: Bhishma says, “Arjun is thy brother, Karna,” urges him to end
+    the fraternal war, and not to seek his brother's blood.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 4673-4677
+  quote_or_summary: The narrator says Bhishma's heavenly warning is vain, and that
+    hatred dearer than life-blood awakens in vengeful Karna.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the passage. Motif mapping is limited to
+    the supplied taxonomy and should be reviewed, especially broad mappings such as
+    wisdom and sibling_pair.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external Mahabharata context was added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-mahabharata-dutt-gutenberg__l4649-l4677
+  passage_sha256=3926998cd2886c6b34ac2bebcbac8f1eaf10482bbcc0f35566751a3f1415500d

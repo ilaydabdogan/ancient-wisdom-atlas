@@ -1,0 +1,426 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l16966-l17020
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XXX. The Triumph Of Love. / Canto XXXII. The Gift Of The Treasures.
+    / Canto XXXVII. The Coats Of Bark. / Canto XLVI. The Halt.; lines 16966-17020
+  start: '16966'
+  end: '17020'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The women of Ayodhya lament Rama's exile, condemn Queen Kaikeyi, fear the
+    king's death and the kingdom's ruin, and describe the city as dark, mournful,
+    ritually inactive, commercially closed, and like a dried-up sea.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The city women address their husbands and say that Rama will be their guard
+    and guide and Sita will provide for them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The women say they do not wish to remain in a sad and dreary town under Queen
+    Kaikeyi's rule.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The women accuse Kaikeyi of treacherous sin, lust for rule, casting away her
+    lord and son, and defiling her royal race.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The women swear by their children that they will not dwell as servants in
+    Kaikeyi's realm.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The women predict that the land will be helpless, lordless, godless, cursed
+    by Kaikeyi's guilt, and destroyed.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The women predict that Rama's exile will cause the king to die and ruin to
+    follow.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The women say Rama, Sita, and Lakshman were driven away on a false pretense
+    and that the people have been given to Bharat like cattle driven to slaughter.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: At sunset and nightfall, the women in each house continue to complain at the
+    loss of Rama.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The fires of worship are cold, no sacred text is hummed, and no tale is told
+    in the town.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The women shed tears for Rama as if for a departed son or husband.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Ayodhya's feasting, music, song, dance, merriment, and commerce have ceased.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Ayodhya is compared to a dried-up sea.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: city dames / women of Ayodhya
+  description: Women of the city who lament Rama's loss, address their husbands, condemn
+    Kaikeyi, and weep for Rama.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Rama
+  description: The exiled lord whom the women describe as guard and guide and whose
+    loss causes public mourning.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Sita
+  description: The women say Sita will provide for them; she is named among those
+    driven away with Rama and Lakshman.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Queen Kaikeyi
+  description: Queen accused by the women of treacherous sin, desire for rule, oppressive
+    rule, and guilt bringing ruin on the land.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: king / Rama's sire
+  description: The king, Rama's father, whom the women predict will die because Rama
+    has been forced from home.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Lakshman
+  description: Named with Rama and Sita as having been driven away on a false pretense.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Bharat
+  description: The women say they have been given to Bharat like cattle driven to
+    the shambles.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Ayodhya
+  description: The city or land described as mournful, ritually inactive, commercially
+    closed, and like a dried-up sea.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: mourning citizens
+  assigned_to:
+  - fig:1
+  basis: They lament Rama's loss, speak grief, and shed tears for him.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:2
+  label: exiled lord
+  assigned_to:
+  - fig:2
+  basis: The women state that Rama has been expelled and forced from home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: guard and guide
+  assigned_to:
+  - fig:2
+  basis: The women say Rama shall be their guard and guide.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: companions in exile
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: Sita and Lakshman are named with Rama as driven away.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: condemned queen
+  assigned_to:
+  - fig:4
+  basis: The women accuse Kaikeyi of treachery, lust for rule, oppressive rule, and
+    guilt.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: grieving father-king
+  assigned_to:
+  - fig:5
+  basis: The women predict the king, Rama's sire, will die because Rama is forced
+    to fly from home.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: recipient of transferred rule
+  assigned_to:
+  - fig:7
+  basis: The women say they have been given to Bharat like cattle to slaughter.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: mourning city
+  assigned_to:
+  - fig:8
+  basis: Ayodhya is described with ceased rituals, entertainments, commerce, and the
+    simile of a dried-up sea.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: cold worship fires
+  literal_form: fires of worship all were cold
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: dried-up sea
+  literal_form: Ayodhya was like a dried up sea
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: dark mournful town
+  literal_form: shades of midnight gloom enveloping the mournful town
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: cattle to slaughter comparison
+  literal_form: like cattle to the shambles driven
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Women condemn Kaikeyi and reject life under her rule
+  summary: The city women address their husbands, say they will follow Rama and Sita
+    rather than remain in a joyless town, condemn Kaikeyi, and vow not to live as
+    servants under her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Predicted ruin after Rama's exile
+  summary: The women say Kaikeyi's guilt will make the land helpless and doomed, and
+    they predict that Rama's exile will cause the king's death and the kingdom's ruin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ayodhya at night in public mourning
+  summary: At night, women throughout the city continue grieving Rama; worship fires
+    are cold, recitation and tales cease, tears are shed, festivities and commerce
+    stop, and Ayodhya is compared to a dried-up sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: exile of the rightful lord causing communal grief
+  taxonomy_refs:
+  - departure
+  - royal_legitimacy
+  basis: Rama is described as expelled and forced from home, while the city women
+    mourn him, reject Kaikeyi's rule, and fear ruin after the father's death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage emphasizes public lament and political disorder rather than
+    narrating the actual departure.
+- id: motif:2
+  label: kingdom made desolate by unjust rule
+  taxonomy_refs:
+  - divine_judgment
+  - royal_legitimacy
+  basis: The women attribute the land's coming helplessness, godlessness, curse, and
+    destruction to Kaikeyi's guilt and oppressive hand.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives the women's fearful prediction and lament; it does not
+    independently confirm divine judgment.
+- id: motif:3
+  label: cessation of ritual, festivity, and commerce in mourning
+  taxonomy_refs: []
+  basis: The passage describes cold worship fires, no recitation, no tales, ceased
+    feasting, music, dance, merriment, and closed merchants' stores.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: No specific taxonomy reference among the supplied motif families directly
+    names civic mourning or ritual cessation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16966-16975
+  quote_or_summary: The city women tell their husbands that Rama will be their guard
+    and guide, Sita will provide for them, and they do not wish to remain in the sad,
+    dark town.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 16976-16991
+  quote_or_summary: The women accuse Queen Kaikeyi of treachery and lust for power,
+    say she has cast away her lord and son, and swear not to remain as servants if
+    she reigns.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 16992-17001
+  quote_or_summary: The women say the land will be helpless, lordless, godless, cursed
+    for Kaikeyi's guilt, and destroyed; they predict the king will die because Rama
+    has been forced from home and ruin will follow.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 17002-17009
+  quote_or_summary: The women consider alternatives to remaining, say Rama, Sita,
+    and Lakshman were driven away on a false pretense, and compare being given to
+    Bharat to cattle driven to slaughter.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 17010-17017
+  quote_or_summary: As sunset and night arrive, women in each house continue to lament
+    Rama; worship fires are cold, no text is hummed, no tale is told, and midnight
+    gloom envelops the mournful town.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 17018-17020
+  quote_or_summary: The women, sick at heart, shed tears for Rama as for a departed
+    son or husband, and no child was loved as he was.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 17020-17028
+  quote_or_summary: Ayodhya's feasts, music, song, dance, merriment, and commerce
+    have ceased, and the city is compared to a dried-up sea.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based solely on the supplied passage. Motif mapping is cautious
+    because the passage is mainly civic lament and prediction rather than a complete
+    mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The supplied locator ends at line 17020, but the provided passage text includes content continuing beyond that point in the line numbering implied by the verse; evidence locators follow the supplied text sequence and should be checked against the canonical markdown.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l16966-l17020
+  passage_sha256=3fe3a758123babbaebc94d665989fd373ba14e1dc985af2f8dc6a058c64060de

@@ -1,0 +1,462 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l20113-l20221
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: ARGUMENT. / THE BATTLE OF THE GODS, AND THE ACTS OF ACHILLES. / BOOK XXI.
+    / ARGUMENT.; lines 20113-20221
+  start: '20113'
+  end: '20221'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A Trojan ruler orders the city gates opened for the fleeing Trojans and
+    then barred against Achilles. Phoebus/Apollo protects the retreat, strengthens
+    Agenor, conceals him in cloud, and later assumes Agenor’s appearance, voice, and
+    shape to draw Achilles away while the Trojans enter Troy and shut the gates.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The city gates are opened for fleeing troops and are to be locked after the
+    troops enter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fleeing Trojans are described as thirsty, dusty, panting, fainting, and
+    moving toward the town.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Achilles follows the Trojans with a spear and is described as enraged and
+    intent on war.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Phoebus/Apollo comes down to save Troy and gives divine force to Agenor.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Agenor debates whether to flee, hide near Ida and a cooling flood, or stand
+    and fight Achilles.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Agenor decides it is better to fight publicly for the state and face his fate.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Agenor confronts Achilles with shield and javelin and speaks against Achilles’
+    hope of destroying Troy.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Agenor’s javelin strikes Achilles’ knee armor, but Achilles remains unharmed
+    in divine armor.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Apollo shrouds Agenor in clouds and removes him from mortal view.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Apollo assumes Agenor’s habit, voice, and shape and flees before Achilles,
+    leading Achilles in pursuit near Scamander.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: While Achilles pursues the disguised god, the fleeing troops enter Troy, and
+    the city shuts its gate against Achilles.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: reverend monarch
+  description: A Trojan ruler who gives instructions about opening and locking the
+    city gates.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: fleeing Trojans
+  description: Trojan troops retreating toward the city gates in thirst, dust, and
+    fear.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:11
+- id: fig:3
+  name_or_label: Achilles
+  description: The enraged Greek warrior pursuing the Trojans with his spear and later
+    pursuing Apollo in Agenor’s form.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: fig:4
+  name_or_label: Phoebus / Apollo
+  description: A god who saves Troy, aids Agenor, shrouds him in cloud, and assumes
+    Agenor’s form to draw Achilles away.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: Agenor
+  description: Antenor’s son, described as haughty, bold, brave, and favored by Apollo;
+    he confronts Achilles before being concealed and withdrawn.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+roles:
+- id: role:1
+  label: gate-commanding monarch
+  assigned_to:
+  - fig:1
+  basis: He orders the portals opened for the fleeing troops and the bars locked afterward.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fleeing army
+  assigned_to:
+  - fig:2
+  basis: The Trojans crowd toward the gate and pour into Troy’s walls.
+  evidence_refs:
+  - ev:2
+  - ev:11
+- id: role:3
+  label: pursuing warrior
+  assigned_to:
+  - fig:3
+  basis: Achilles follows with a spear and later pursues the disguised Apollo.
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: role:4
+  label: divine protector
+  assigned_to:
+  - fig:4
+  basis: Apollo comes to save Troy, gives force to Agenor, and covers the retreat.
+  evidence_refs:
+  - ev:4
+  - ev:10
+- id: role:5
+  label: divine disguiser
+  assigned_to:
+  - fig:4
+  basis: Apollo assumes Agenor’s habit, voice, and shape.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: mortal defender
+  assigned_to:
+  - fig:5
+  basis: Agenor chooses to stand and fight for the state, confronts Achilles, and
+    throws a javelin.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: city gates
+  literal_form: opened portals, brazen bars, and the gate of Troy
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:11
+- id: sym:2
+  label: cloud veil
+  literal_form: clouds that shroud Agenor and hide him from mortal view
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:3
+  label: water
+  literal_form: cooling flood and the river Scamander
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: sym:4
+  label: beech
+  literal_form: a beech beside which Apollo sits while aiding Agenor
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: javelin and spear
+  literal_form: Achilles’ spear and Agenor’s lifted javelin
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Opening and closing the gates
+  summary: A Trojan ruler orders the gates opened for the retreating troops and locked
+    once they are inside, while the Trojans crowd toward Troy and Achilles pursues.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Apollo strengthens Agenor
+  summary: Apollo comes to save Troy, gives divine force to Agenor, and stays near
+    a beech while restraining fate through cloud concealment.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Agenor’s deliberation and stand
+  summary: Agenor considers flight, concealment near Ida and water, and eventual return,
+    but decides to stand in public view and fight for Troy.
+  figure_refs:
+  - fig:5
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Agenor confronts Achilles
+  summary: Agenor faces Achilles with shield and javelin, speaks defiance, and strikes
+    Achilles’ knee armor without harming him.
+  figure_refs:
+  - fig:5
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Divine concealment and decoy pursuit
+  summary: Apollo hides Agenor in clouds, assumes Agenor’s appearance, voice, and
+    shape, and leads Achilles away near Scamander while the Trojans enter the city
+    and shut the gate.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:3
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: divine disguise as battlefield decoy
+  taxonomy_refs:
+  - shapeshifter
+  basis: Apollo assumes Agenor’s habit, voice, and shape and flees before Achilles
+    to divert him from the fleeing Trojans.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The transformation is tactical disguise within battle, not a longer metamorphosis
+    narrative.
+- id: motif:2
+  label: divine rescue by concealment in cloud
+  taxonomy_refs: []
+  basis: Apollo shrouds Agenor in clouds, removes him from mortal view, and allows
+    the favored youth to withdraw safely.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: No supplied taxonomy family directly names this concealment motif.
+- id: motif:3
+  label: city gates as refuge from pursuing death
+  taxonomy_refs: []
+  basis: The gates are opened to admit the fleeing troops and then shut against Achilles,
+    who is described as bringing death and desolation.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:11
+  confidence: medium
+  cautions: This is a battlefield refuge pattern; the passage does not frame it as
+    a ritual or cosmological threshold.
+- id: motif:4
+  label: heroic stand against an overwhelming foe
+  taxonomy_refs: []
+  basis: Agenor rejects flight, chooses to fight for the state in public view, confronts
+    Achilles, and casts his javelin.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The stand is immediately altered by divine intervention, limiting the
+    motif to the decision and initial combat.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage instantiates the supplied shapeshifter motif family at the level
+    of divine tactical disguise: Apollo takes Agenor’s habit, voice, and shape to
+    divert Achilles.'
+  claim_level: same_motif
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports only a local disguise episode, not a broad mythic
+    cycle of transformation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 20113-20121
+  quote_or_summary: A ruler commands the gates to be opened for the fleeing throng
+    and the brazen bars locked once the troops are within.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 20122-20129
+  quote_or_summary: The Trojans crowd toward the gate, thirsty, dusty, gasping, panting,
+    and fainting as they labor toward the town.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 20130-20131
+  quote_or_summary: "“Enraged Achilles follows with his spear; / Wild with revenge,
+    insatiable of war.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 20136-20143
+  quote_or_summary: Apollo comes down to save Troy, gives divine force to young Agenor,
+    sits beside a beech in aid of him, and restrains fate while wrapped in clouds.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 20147-20168
+  quote_or_summary: Agenor considers fleeing from Achilles, taking a path to Ida’s
+    forest shades, washing dirt and blood in a cooling flood, and returning to his
+    Trojan friends at night.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 20169-20178
+  quote_or_summary: Agenor reasons that Achilles is swift and deadly but mortal, and
+    decides it is better to fight for the state and meet fate in public view.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 20180-20202
+  quote_or_summary: Agenor stands resolved like a panther, confronts Achilles with
+    his broad shield and lifted javelin, and warns that Troy’s defenders remain strong
+    and many.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 20203-20208
+  quote_or_summary: Agenor throws the javelin with great force; it strikes Achilles’
+    knee armor, but Achilles stands unharmed in ethereal arms and prepares a fatal
+    blow.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 20209-20212
+  quote_or_summary: Apollo shrouds Agenor in clouds, hides him from mortal sight,
+    and lets the favored youth withdraw safely.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 20213-20218
+  quote_or_summary: Apollo assumes Agenor’s habit, voice, and shape, flees in disguise,
+    and draws Achilles in pursuit along the fields and near Scamander.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 20219-20221
+  quote_or_summary: The fleeing troops pour into Troy’s walls in confused joy and
+    fear, and Troy shuts its gate against Achilles.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is direct from the supplied passage. Motif labels beyond
+    the explicit shapeshifter taxonomy are descriptive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unsupported taxonomy references were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l20113-l20221
+  passage_sha256=d701a1b3de09ea9eef990bdb7650184e070731186b43ac0d129dcf69436666fb

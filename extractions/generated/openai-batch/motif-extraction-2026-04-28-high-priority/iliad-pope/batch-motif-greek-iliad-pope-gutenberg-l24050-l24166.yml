@@ -1,0 +1,555 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l24050-l24166
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE REDEMPTION OF THE BODY OF HECTOR. / CONCLUDING NOTE. / A. POPE / END
+    OF THE ILIAD; lines 24050-24166
+  start: '24050'
+  end: '24166'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A sequence of editorial notes discusses Homeric and classical details:
+    Neptune’s chest as compared with the Elgin Marbles; invocations to an all-knowing
+    Muse; the Catalogue of forces and its relation to the Iliad; ship capacities and
+    army size; place names and anachronism; coastal tombs as landmarks; Lycia/Zeleia
+    and Apollo worship; Greek dialects and foreign tongues; crane and snake similes;
+    the epithet and ill-omened birth of Paris; Euripides’ imitation of a Homeric tower-survey
+    scene; and Zeuxis’ picture of Helen.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says Neptune’s chest or torso is remarkable for breadth and massive
+    development in the Elgin Marbles example cited.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Catalogue is described as a portion of the poem sometimes claimed to have
+    separate authorship, though the note argues that historical and internal evidence
+    connect it with the rest of the Iliad.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note reports Thucydides’ view that Boeotian vessels carried about 120
+    men, Philoctetes’ about 50, and that an average of 85 men per ship would yield
+    an army of about 102,000 if 1,200 ships are assumed.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Monuments or tombs are described as often built on the sea-coast and high
+    enough to serve as watch-towers or landmarks.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Zeleia is identified as another name for Lycia, and its inhabitants are described
+    as devoted to Apollo’s worship.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The note states that Greek dialects varied, but Greeks recognized a shared
+    linguistic family; Homer has men of other tongues but no general name for the
+    Greek nation.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The crane passage quoted describes cranes marking the air, flying in varied
+    ranks, and maintaining ordered formation.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The snake passage quoted describes a peasant stepping unwarily near a snake
+    and starting aside after seeing its rising crest, blue neck, and rolling eyes.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Paris is glossed as unlucky or ill-fated, with evils attributed to his being
+    brought up despite omens attending his birth.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The note says Euripides imitated a Homeric scene by having Antigone survey
+    opposing champions from a high tower while a paedagogus describes their insignia
+    and histories.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Zeuxis is said to have appended lines to his picture of Helen as a motto.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The invocation note quotes forms of address to a heavenly or Muse-like addressee
+    who knows what is hidden from ordinary human view.
+  category: speech
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: A quoted parallel describes a group moving in silence while breathing united
+    force with fixed thought.
+  category: action
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: Neptune
+  description: Named as the figure whose chest or torso is compared with a massive
+    sculptural torso in the Elgin Marbles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Homer
+  description: Named as the poet whose Catalogue and scenes are discussed and compared
+    with later epic or dramatic practice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:10
+- id: fig:3
+  name_or_label: Apollo
+  description: Named as the deity worshiped by the inhabitants of Lycia/Zeleia.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Paris
+  description: Glossed as unlucky or ill-fated because evils followed from his being
+    brought up despite omens at his birth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:5
+  name_or_label: Antigone
+  description: In the Euripidean parallel, she surveys opposing champions from a high
+    tower.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:10
+- id: fig:6
+  name_or_label: paedagogus
+  description: In the Euripidean parallel, he describes the warriors’ insignia and
+    histories to Antigone.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+- id: fig:7
+  name_or_label: Helen
+  description: Named as the subject of Zeuxis’ picture to which lines were appended
+    as a motto.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:11
+- id: fig:8
+  name_or_label: Muse or heavenly addressee
+  description: Addressed in quoted invocation material as one from whom nothing is
+    hidden or who knows distant events.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:12
+- id: fig:9
+  name_or_label: snake
+  description: Animal in the quoted simile, shown with rising crest, blue neck, and
+    rolling eyes.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: deity
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Neptune is named in a classical divine comparison, and Apollo is named as
+    the recipient of worship.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: poet and source authority
+  assigned_to:
+  - fig:2
+  basis: The notes discuss Homer’s Catalogue, language, and scenes as poetic material
+    later imitated or compared.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:10
+- id: role:3
+  label: ill-fated figure marked by birth omens
+  assigned_to:
+  - fig:4
+  basis: Paris is explicitly glossed as unlucky or ill-fated because he was brought
+    up despite omens attending his birth.
+  evidence_refs:
+  - ev:9
+- id: role:4
+  label: tower observer
+  assigned_to:
+  - fig:5
+  basis: Antigone is described as surveying opposing champions from a high tower.
+  evidence_refs:
+  - ev:10
+- id: role:5
+  label: describer of warriors
+  assigned_to:
+  - fig:6
+  basis: The paedagogus is described as detailing the warriors’ insignia and histories.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: pictured beauty or artistic subject
+  assigned_to:
+  - fig:7
+  basis: Helen is named as the subject of Zeuxis’ picture.
+  evidence_refs:
+  - ev:11
+- id: role:7
+  label: omniscient invocatory addressee
+  assigned_to:
+  - fig:8
+  basis: The quoted invocation addresses a figure who knows what is hidden or distant.
+  evidence_refs:
+  - ev:12
+- id: role:8
+  label: threatening animal in simile
+  assigned_to:
+  - fig:9
+  basis: The snake is described as startling the peasant with visible threatening
+    features.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: serpent or snake
+  literal_form: A snake with rising crest, blue neck, and rolling eyes in a startle
+    simile.
+  associated_figures:
+  - fig:9
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:8
+- id: sym:2
+  label: coastal tomb as landmark
+  literal_form: A sea-coast monument or tomb high enough to serve as watch-tower or
+    landmark.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: ship or war canoe
+  literal_form: Greek vessels compared in scale and function to Indian or African
+    war canoes.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ordered cranes
+  literal_form: Cranes flying through the air in varied ranks and ordered formation.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: high tower viewpoint
+  literal_form: A high tower from which opposing champions are surveyed.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Commentary on the Catalogue of forces
+  summary: The note discusses the Catalogue as a formal enumeration of forces and
+    argues that its details presuppose connection with the rest of the Iliad.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Snake startle simile
+  summary: A peasant steps unwittingly near a snake, then starts aside after seeing
+    the snake’s crest, neck, and eyes.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:8
+- id: scene:3
+  label: Ill-omened birth of Paris
+  summary: Paris is explained as ill-fated because omens at his birth were disregarded
+    and evils followed from his upbringing.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+- id: scene:4
+  label: Tower survey of warriors in Euripidean parallel
+  summary: Antigone surveys opposing champions from a high tower while a paedagogus
+    identifies their insignia and histories.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:10
+- id: scene:5
+  label: Invocation to knowing Muse or heavenly witness
+  summary: Quoted invocation material addresses a figure who knows hidden or distant
+    matters that ordinary humans know only faintly.
+  figure_refs:
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Epic catalogue of forces
+  taxonomy_refs: []
+  basis: The passage identifies the Catalogue as a formal enumeration of forces in
+    a great warlike epic and notes its later common use in epic poems.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an editorial discussion of epic form rather than a narrative episode.
+- id: motif:2
+  label: Ill-omened birth and ignored warning
+  taxonomy_refs: []
+  basis: Paris is said to have been brought up despite omens at his birth, leading
+    to later evils.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage gives only a brief gloss and does not narrate the omen episode
+    itself.
+- id: motif:3
+  label: Startled encounter with serpent
+  taxonomy_refs:
+  - serpent
+  basis: The quoted simile presents a person unexpectedly encountering a snake and
+    recoiling from its threatening appearance.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The snake passage is quoted as comparative note material, not as the main
+    Homeric narrative in this line range.
+- id: motif:4
+  label: Tomb as watch-tower or landmark
+  taxonomy_refs: []
+  basis: The note describes coastal tomb monuments as serving practical landmark or
+    watch-tower functions.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The note is antiquarian and does not specify a ritual or mythic function
+    beyond monument and landmark.
+- id: motif:5
+  label: Tower survey of enemy champions
+  taxonomy_refs: []
+  basis: The passage describes a scene in which Antigone views opposing champions
+    from a high tower while another figure explains their identities and histories.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The described scene is in Euripides and is presented as an imitation of
+    Homer, not directly quoted from Homer here.
+- id: motif:6
+  label: Invocation to an all-knowing Muse
+  taxonomy_refs:
+  - wisdom
+  basis: The quoted invocation material addresses a Muse or heavenly witness who knows
+    matters hidden from human view.
+  evidence_refs:
+  - ev:12
+  confidence: medium
+  cautions: The passage gives comparative quotation material rather than a full invocation
+    from the Iliad passage itself.
+comparison_claims:
+- id: claim:1
+  claim: The note presents the Homeric Catalogue as a model that made formal enumeration
+    of forces a common practice in later epic poems about great wars.
+  claim_level: same_function
+  target: Later epic catalogues of armies or forces
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states a literary-form comparison but does not analyze
+    specific later texts beyond the general claim.
+- id: claim:2
+  claim: The note says Euripides’ Phoenissae imitates a Homeric scene by placing Antigone
+    on a high tower while a paedagogus describes opposing champions.
+  claim_level: historical_contact
+  target: Euripides, Phoenissae tower-survey scene
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The assertion is from editorial commentary; the passage does not provide
+    the full Homeric or Euripidean passages for direct comparison.
+- id: claim:3
+  claim: The note compares Homeric Greek ships to Indian or African war canoes in
+    size and use, especially with rowers also serving as troops.
+  claim_level: visual_similarity
+  target: Indian or African war canoe
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is ethnographic and technological rather than a mythic
+    motif comparison.
+- id: claim:4
+  claim: The snake image is placed beside a Virgilian passage in Dryden’s translation,
+    suggesting a visual parallel of a person recoiling from a threatening snake.
+  claim_level: visual_similarity
+  target: Dryden’s Virgil snake simile
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The supplied note gives the parallel quotation but does not explicitly
+    explain the relation beyond citation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 24050-24053; note [99]
+  quote_or_summary: Neptune’s chest or torso is compared with the broad, massive torso
+    of Neptune in the Elgin Marbles.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 24061-24083; note [101]
+  quote_or_summary: The Catalogue is discussed as possibly separately authored, but
+    the note argues its names and details show connection with the Iliad; it also
+    says Homer’s example made such catalogues common in war epics.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 24085-24101; note [102]
+  quote_or_summary: The note reports estimates of ship capacities, army size, and
+    compares Homeric ships to Indian or African war canoes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 24111-24114; note [105]
+  quote_or_summary: Monuments were often built on the sea-coast and at height so they
+    could serve as watch-towers or landmarks.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 24116-24118; note [106]
+  quote_or_summary: Zeleia is identified with Lycia, and its inhabitants are described
+    as greatly devoted to Apollo’s worship.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 24120-24127; note [107]
+  quote_or_summary: The note discusses Greek dialect variation, shared Greek linguistic
+    identity, and Homer’s reference to men of other tongues.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 24129-24136; note [108]
+  quote_or_summary: "“The cranes” are described as flying in “varied ranks” and “marshall’d
+    order.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:8
+  type: quote
+  locator: lines 24145-24150; note [110]
+  quote_or_summary: A peasant who has stepped near a snake “starts aside” after seeing
+    its “rising crest, blue neck, and rolling eyes.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:9
+  type: summary
+  locator: lines 24152-24155; note [111]
+  quote_or_summary: Dysparis is explained as unlucky or ill-fated Paris, with evils
+    resulting from his upbringing despite birth omens.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 24157-24162; note [112]
+  quote_or_summary: The note says Euripides imitated Homer by showing Antigone surveying
+    champions from a high tower while a paedagogus describes their insignia and histories.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 24164-24166; note [113]
+  quote_or_summary: Zeuxis is said to have appended lines to his picture of Helen
+    as a motto.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:12
+  type: quote
+  locator: lines 24055-24059; note [100]
+  quote_or_summary: The note quotes invocatory material including “heav’n hides nothing
+    from thy view” and an address to “Musa.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:13
+  type: quote
+  locator: lines 24138-24143; note [109]
+  quote_or_summary: A quoted parallel describes a group “Breathing united force with
+    fixed thought” and moving “on in silence.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied line range is primarily editorial commentary and comparative
+    annotation rather than continuous mythic narrative. Motif candidates are therefore
+    mostly literary-form, simile, and antiquarian patterns drawn directly from the
+    notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy references were applied only where directly supported, especially serpent and wisdom.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l24050-l24166
+  passage_sha256=c18aee0adf73916732b0551c3b88dc71a021142831b2abe2b51a5f1f63f0837f

@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.hindu-mahabharata-dutt-gutenberg-l7240-l7368
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+passage_locator:
+  label: CONCLUSION / TRANSLATOR'S EPILOGUE / ROMESH DUTT. / GLOSSARY OF SANSCRIT
+    WORDS; lines 7240-7368
+  start: '7240'
+  end: '7368'
+  translation: Maha-bharata
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: GLOSSARY OF SANSCRIT WORDS
+  summary: The passage gives Romesh Dutt's dated closing signature, a glossary of
+    Sanskrit words used in the translation, and a brief publisher's epilogue describing
+    Dutt's literary standing and current work in London.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage begins with Romesh Dutt's name, University College, London, and
+    the date 13th August 1898.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A glossary section defines Sanskrit words related to religious rites, sacred
+    ablution, preceptors, offerings, celestial beings, and the horse sacrifice.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The glossary defines several social or religious roles, including a brahmacharin,
+    guru, muni, rishi, and dharma-raja.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: obs:4
+  text: The glossary identifies several classes of supernatural or celestial beings,
+    including gods, titans, celestial nymphs, celestial saints, aerial singers, holy
+    celestial beings, and celestial birds.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: obs:5
+  text: The glossary identifies hostile or liminal beings including asuras, pishachas,
+    rakshasas, and nagas as snake-world dwellers.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: obs:6
+  text: The glossary includes objects used in ritual, status, music, or warfare, such
+    as clarified butter, conch-shell, lyre, bows, gold pieces, and an elephant seat.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: obs:7
+  text: The glossary defines sacred practice terms including initiation into a sacred
+    rite, sacrificial offerings, hymns recited or chanted at sacrifice, penance and
+    fast, and holy rites at river crossings.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: obs:8
+  text: The epilogue says the edition includes Dutt's version of India's great epic
+    and praises his standing in modern Indian literature.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Romesh Dutt
+  description: Named signer of the conclusion and described in the epilogue as translator,
+    writer, lecturer in Indian History at University College, and a prominent figure
+    in modern Indian literature.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:2
+  name_or_label: Deva
+  description: Defined as gods.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Asura
+  description: Defined as titans and enemies of gods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Apsaras and Deva-kanya
+  description: Apsaras are defined as celestial nymphs; Deva-kanya is defined as celestial
+    maid.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Rishi, Muni, and Deva-rishi
+  description: Rishi is defined as a saint or holy man retired from the world; Muni
+    as saint or anchorite; Deva-rishi as celestial saint.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Gandharva
+  description: Defined as a class of aerial beings and celestial singers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Naga
+  description: Defined as a dweller of the snake-world and also as a tribe in Eastern
+    India.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Rakshasa and Pishacha
+  description: Rakshasa is defined as monster or goblin; Pishacha is defined as ghost
+    or goblin.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:9
+  name_or_label: Siddha and Suparna
+  description: Siddha is defined as holy celestial beings; Suparna as celestial bird.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: translator and literary figure
+  assigned_to:
+  - fig:1
+  basis: The epilogue identifies Dutt's translation, writings, and lecturing position.
+  evidence_refs:
+  - ev:8
+- id: role:2
+  label: celestial or divine being
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:6
+  - fig:9
+  basis: The glossary uses terms such as gods, celestial nymphs, celestial maid, aerial
+    beings, celestial singers, holy celestial beings, and celestial bird.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: hostile, monstrous, or ghostly being
+  assigned_to:
+  - fig:3
+  - fig:8
+  basis: Asuras are called enemies of gods; rakshasas and pishachas are defined as
+    monsters, ghosts, or goblins.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:4
+  label: saint, anchorite, or holy teacher
+  assigned_to:
+  - fig:5
+  basis: The glossary defines muni, rishi, deva-rishi, guru, and acharya in relation
+    to sainthood, holiness, anchoretic practice, or preceptorship.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:5
+  label: snake-world dweller
+  assigned_to:
+  - fig:7
+  basis: The glossary defines Naga as a dweller of the snake-world.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: serpent or snake-world
+  literal_form: Naga, defined as dweller of the snake-world.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: sacred tree
+  literal_form: Devadaru is glossed as the heavenly tree or Indian pine; other entries
+    name Indian trees.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: water rite
+  literal_form: Sacred ablution and holy rites at the crossing of rivers.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:4
+  label: sounding conch-shell
+  literal_form: Sankha, sounding conch-shell.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: sacrificial offering substances and rites
+  literal_form: Ajya, ida, homa, yajna, dakshina, pitri-medha, and other terms of
+    offering or sacrifice.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Glossary of Sanskrit ritual and mythic terms
+  summary: The passage presents a lexical catalogue defining Sanskrit terms for rites,
+    offerings, social and sacred roles, supernatural beings, objects, plants, heaven,
+    scripture, and cosmic time.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:2
+  label: Translator's epilogue
+  summary: The epilogue explains the inclusion of Dutt's version of the epic and summarizes
+    praise for his literary and scholarly work.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: sacrifice and sacred offering vocabulary
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The glossary repeatedly defines sacrifice, sacrificial rites, sacrificial
+    offerings, gifts made at sacrifices, hymns used at sacrifice, and offerings to
+    departed ancestors.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a glossary rather than a narrative episode; it supplies motif
+    vocabulary but does not enact a sacrificial scene.
+- id: motif:2
+  label: initiation and ascetic discipline
+  taxonomy_refs:
+  - initiation
+  basis: The passage defines diksha as initiation into a sacred rite and also defines
+    ascetic or disciplinary terms such as brahmacharin, samadhi, and triratra.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The terms are listed lexically and not tied to a specific initiatory narrative
+    in this passage.
+- id: motif:3
+  label: celestial and monstrous beings taxonomy
+  taxonomy_refs: []
+  basis: The glossary names divine, celestial, aerial, ghostly, monstrous, and snake-world
+    beings, including deva, apsaras, gandharva, siddha, asura, rakshasa, pishacha,
+    and naga.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage defines categories of beings but does not describe their actions
+    in a mythic plot.
+- id: motif:4
+  label: heaven, ancestors, and soul vocabulary
+  taxonomy_refs: []
+  basis: The glossary defines pitri-medha as sacrifice and offering due to departed
+    ancestors, purusha as the soul, and swarga as heaven.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The passage contains no afterlife journey, judgment, or narrative movement;
+    it only defines related terms.
+- id: motif:5
+  label: royal and imperial legitimacy through sacrifice
+  taxonomy_refs:
+  - royal_legitimacy
+  - sacrifice
+  basis: The glossary defines dharma-raja as monarch by reason of piety and virtue,
+    rajasuya as imperial sacrifice, and aswamedha as sacrifice of the horse.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: low
+  cautions: The glossary does not narrate a king performing these rites; the association
+    is lexical and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7240-7243
+  quote_or_summary: Romesh Dutt signs from University College, London, dated 13th
+    August 1898.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: summary
+  locator: 7244-7256
+  quote_or_summary: The glossary begins and defines terms including abhishava, abhisheka,
+    acharya, ajya, apsaras, arghya, asura, and aswamedha.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:3
+  type: summary
+  locator: 7258-7275
+  quote_or_summary: The glossary defines brahmacharin, asram, deva, devadaru, deva-kanya,
+    deva-rishi, dharma-raja, diksha, and related entries.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:4
+  type: summary
+  locator: 7277-7291
+  quote_or_summary: The glossary defines gandharva as aerial beings and celestial
+    singers, names sacrificial materials and hymns, and lists several trees, birds,
+    and imaginary beings.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:5
+  type: summary
+  locator: 7293-7303
+  quote_or_summary: The glossary defines muni, naga, pishacha, pitri-medha, purusha,
+    and other terms including departed-ancestor offerings and the soul.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:6
+  type: summary
+  locator: 7305-7323
+  quote_or_summary: The glossary defines rajasuya, rakshasa, rishi, samadhi, sankha,
+    savitri, siddha, suparna, swarga, swasti, and swayamvara.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:7
+  type: summary
+  locator: 7325-7334
+  quote_or_summary: The glossary defines tirtha as holy rites at river crossings,
+    triratra as a three-night penance and fast, veda, yajna, a dharma-victory aphorism,
+    and yuga.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:8
+  type: summary
+  locator: 7336-7368
+  quote_or_summary: The epilogue says the Temple Classics includes Dutt's version
+    of India's great epic, cites praise from R. W. Frazer, and notes Dutt's London
+    residence and lecturing position.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; brief summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is primarily glossary and epilogue, so lexical extraction is
+    strong while motif identification is limited to vocabulary-level evidence. No
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No narrative myth episode is present in this passage; symbols and motifs are therefore lexical rather than scene-based.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-mahabharata-dutt-gutenberg__l7240-l7368
+  passage_sha256=c0a7823c619133a84643b768b66729c442a1382c98a2c530b50f8da59cc70131

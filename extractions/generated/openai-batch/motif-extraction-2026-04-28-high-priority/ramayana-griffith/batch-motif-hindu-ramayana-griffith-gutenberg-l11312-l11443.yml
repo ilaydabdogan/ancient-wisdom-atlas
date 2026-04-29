@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l11312-l11443
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: BOOK II. / Canto I. The Heir Apparent. / Canto VI. The City Decorated. /
+    Canto IX. The Plot.; lines 11312-11443
+  start: '11312'
+  end: '11443'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Kaikeyí presses a harsh request upon the monarch. The monarch is overcome
+    with anguish, collapses, denounces her, and pleads that Ráma not be sent into
+    fourteen years of forest banishment. He praises Ráma’s virtues, obedience, and
+    universal esteem, offers wealth and submission to Kaikeyí, and ends prostrate
+    in grief.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kaikeyí presses the monarch with cruel words and a dire request.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The monarch is distressed, trembles, casts himself on the bare ground, sighs,
+    speaks in anger, and faints.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The monarch addresses Kaikeyí as a traitress and asks what wrong he or Ráma
+    has done.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The monarch compares Kaikeyí to a serpent with a venomous tooth.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The monarch says he will give up life or glory, but not his eldest-born Ráma.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The requested outcome includes Ráma being sent to distant wilds for fourteen
+    years of banishment.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The monarch says Ráma has treated Kaikeyí with sonlike love and obedience
+    comparable to Bharat.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The monarch describes Ráma as pure, gentle, truthful, generous, obedient,
+    loyal, and honored by subjects, teachers, enemies, sages, and gods.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The monarch kneels with his head and lips at Kaikeyí’s feet, asks for compassion,
+    offers her the riches of the land, and begs her to save Ráma.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: At the end of the passage the monarch lies grovelling, senseless with grief,
+    weeping and wailing.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the monarch
+  description: The anguished ruler who responds to Kaikeyí’s request, pleads for Ráma,
+    and collapses in grief.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Kaikeyí
+  description: The queen who presses the dire request and is addressed by the monarch
+    as the one plotting harm against Ráma.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Ráma
+  description: The monarch’s well-loved eldest-born, praised as virtuous and threatened
+    with fourteen years of banishment to the wilds.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Bharat
+  description: A lofty-souled son mentioned as comparable to Ráma in Kaikeyí’s regard
+    and as a standard of sonlike affection toward her.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: anguished ruler
+  assigned_to:
+  - fig:1
+  basis: He trembles, faints, grovels, and speaks as a monarch overcome by grief.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: role:2
+  label: pleading father
+  assigned_to:
+  - fig:1
+  basis: He begs Kaikeyí to spare his eldest-born Ráma and offers wealth and submission.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: demanding queen
+  assigned_to:
+  - fig:2
+  basis: She presses the monarch with cruel words and a dire request affecting Ráma.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: threatened eldest-born son
+  assigned_to:
+  - fig:3
+  basis: The monarch calls Ráma his eldest-born and says the request would send him
+    away for fourteen years.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: virtuous royal son
+  assigned_to:
+  - fig:3
+  basis: The monarch lists Ráma’s truth, purity, obedience, generosity, loyalty, and
+    public esteem.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: comparative son figure
+  assigned_to:
+  - fig:4
+  basis: Bharat is mentioned as one with whom Ráma shared Kaikeyí’s regard and sonlike
+    relationship.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: serpent imagery
+  literal_form: A wild snake confined by charms; a serpent with a venomous tooth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: fire of anger and grief
+  literal_form: The monarch’s eyes burn with fury as if consuming Kaikeyí with fire;
+    later he lies in burning grief.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:3
+  label: water and sea imagery of grief
+  literal_form: The sea-girt land, floods of woe, and the sea of pain.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: supplication at the feet
+  literal_form: The monarch places his head and lips at Kaikeyí’s feet while entreating
+    her.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: The monarch’s shocked collapse
+  summary: After Kaikeyí presses her dire request, the monarch becomes mentally distressed,
+    falls to the ground, sighs, speaks in anger, and faints.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Denunciation and defense of Ráma
+  summary: The monarch denounces Kaikeyí, asks what wrong he or Ráma has done, calls
+    her serpent-like, and refuses to forsake his eldest-born.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Banishment request and praise of Ráma
+  summary: The monarch identifies the demand as sending Ráma to the wilds for fourteen
+    years and praises Ráma’s affection, obedience, and virtues.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Supplication and final grief
+  summary: The monarch begs Kaikeyí for mercy, offers her all the riches of the land,
+    asks her to save Ráma, and lies prostrate in overwhelming sorrow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: contested royal succession and threatened heir
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The monarch frames Kaikeyí’s request as ruin to his line and disgrace to
+    Ikshváku’s ancient race, while defending Ráma, his eldest-born, as uniquely fit
+    and beloved.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents the crisis through the monarch’s speech; it does
+    not narrate the full political cause of the succession conflict.
+- id: motif:2
+  label: enforced departure into wilderness
+  taxonomy_refs:
+  - departure
+  basis: The proposed action is that Ráma be sent to distant wilds for fourteen years
+    of banishment.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage anticipates the banishment but does not yet narrate Ráma’s
+    actual departure.
+- id: motif:3
+  label: father’s plea to save the beloved son
+  taxonomy_refs: []
+  basis: The monarch says he cannot live without Ráma, kneels at Kaikeyí’s feet, offers
+    wealth, and begs her to save his child.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this family without over-interpreting
+    it as divine parent-child or sacrifice.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11312-11323
+  quote_or_summary: Kaikeyí presses the monarch with cruel words and a dire request;
+    the monarch stands in anguish, doubts his senses, and trembles like a deer before
+    a tigress.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11324-11335
+  quote_or_summary: The monarch throws himself on the bare ground, sighs like a wild
+    snake confined by charms, cries shame, faints, and later answers with eyes burning
+    in fury as if with fire.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11336-11359
+  quote_or_summary: The monarch calls Kaikeyí a traitress plotting ruin to his line,
+    asks what wrong he or Ráma has done, compares her to a venomous serpent, and says
+    he will not forsake his eldest-born Ráma.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11384-11399
+  quote_or_summary: The monarch says Ráma and Bharat once held like place with Kaikeyí,
+    asks whether she can endure Ráma being sent to the distant wilds for fourteen
+    years, and says Ráma equals Bharat in sonlike love to her.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11400-11425
+  quote_or_summary: The monarch says no follower can blame Ráma, all creatures feel
+    his gentle soul, he wins subjects, the poor, teachers, and enemies, and he possesses
+    truth, purity, zeal, generosity, loyalty, rectitude, knowledge, and obedience.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 11426-11437
+  quote_or_summary: The monarch asks Kaikeyí for mercy, says he is an old man near
+    death, offers her all the riches of the sea-girt land, places his hands, head,
+    and lips at her feet, and begs her to save Ráma.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 11438-11443
+  quote_or_summary: The monarch grovels on the ground, lies senseless in burning grief,
+    weeps and wails in floods of woe, and strives toward the edge of his sea of pain.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif assignment to royal
+    legitimacy and departure is well supported, while broader comparison claims are
+    left empty pending human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added because the passage itself does not provide enough evidence for historical-contact, inheritance, or cross-tradition claims.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l11312-l11443
+  passage_sha256=19b5f38a4350f18b3221502ae185c0d45f5e9a43364441a28cab58d599a6f613

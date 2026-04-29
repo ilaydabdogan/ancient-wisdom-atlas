@@ -1,0 +1,372 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l12033-l12081
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: BOOK II. / Canto I. The Heir Apparent. / Canto VI. The City Decorated. /
+    Canto IX. The Plot.; lines 12033-12081
+  start: '12033'
+  end: '12081'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The king, distressed and weeping over Rama, rejects praise and falls deeper
+    into despair. Sumantra withdraws respectfully. Kaikeyi, described as skilled in
+    plotting, tells Sumantra that the king is sleepless from joyful thought of his
+    son and orders him to fetch Rama. Sumantra hesitates until the king himself asks
+    for Rama. Believing the king intends Rama's consecration, Sumantra leaves the
+    chamber, passes the guards and a gathered crowd, and proceeds straight ahead.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king is described as sorrowful, weeping, and unable to take comfort from
+    praise.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sumantra hears the king's sad reply, sees his tearful eye, joins his palms
+    reverently, and steps aside.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kaikeyi is explicitly described as skilled in plot and plan.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Kaikeyi tells Sumantra that the king has spent a sleepless night absorbed
+    in joyful thought for Rama and asks him to bring Rama quickly.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Sumantra says he cannot go unless the king declares his will.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The king commands that Rama be brought quickly.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sumantra feels cheered by the thought that the king has planned Rama's consecration.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Sumantra leaves the chamber, hurries straight ahead, briefly looks at the
+    gate guards, and passes through a gathered crowd.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the bard
+  description: A speaker whose sage advice and praise precede the king's anguished
+    response.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the king
+  description: A grieving monarch distressed for Rama, with red weeping eyes, who
+    commands Sumantra to bring Rama.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Sumantra
+  description: The charioteer and sage counselor who responds reverently to the king
+    and is sent to fetch Rama.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Kaikeyi
+  description: A queen or lady described as skilled in plot and plan, who directs
+    Sumantra to bring Rama.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Rama
+  description: The king's beloved son, absent from the scene but the object of grief
+    and the person summoned.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: guards
+  description: Gate guards whom Sumantra briefly sees as he departs.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: gathered crowd
+  description: Men of every class gathered in front who part to let Sumantra pass.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: advising speaker
+  assigned_to:
+  - fig:1
+  basis: The bard's words are described as sage advice addressed to the king.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: grieving monarch
+  assigned_to:
+  - fig:2
+  basis: The king is called a monarch and is shown weeping and despairing for Rama.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: reverent court servant
+  assigned_to:
+  - fig:3
+  basis: Sumantra joins his palms reverently and steps aside before the king.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: messenger sent to summon Rama
+  assigned_to:
+  - fig:3
+  basis: Kaikeyi and then the king instruct Sumantra to bring Rama.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: plotting court figure
+  assigned_to:
+  - fig:4
+  basis: Kaikeyi is described as skilled in plot and plan and speaks to Sumantra while
+    the king is weak with misery.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: beloved son and heir-apparent candidate
+  assigned_to:
+  - fig:5
+  basis: Rama is called the king's dear son and Sumantra believes the king has designed
+    his consecration.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:7
+  label: gate keepers
+  assigned_to:
+  - fig:6
+  basis: They are described as guards who kept the gate.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: public assembly
+  assigned_to:
+  - fig:7
+  basis: The crowd consists of men of every class who part for Sumantra.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: joined palms
+  literal_form: Sumantra's palms applied together in reverence
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: tears and red eyes
+  literal_form: the king's tearful eye and weeping-red eyes
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: gate
+  literal_form: the guarded gate through which Sumantra passes
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: gathered crowd
+  literal_form: men of every class assembled in front and parting for the charioteer
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: The king rejects praise in grief
+  summary: After hearing sage advice, the king says praise only worsens his despair
+    and identifies himself as unworthy of it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Kaikeyi directs Sumantra to summon Rama
+  summary: Sumantra respectfully withdraws as the king struggles to speak; Kaikeyi
+    explains the king's condition as sleepless joy and orders Sumantra to bring Rama,
+    but Sumantra asks for the king's own command.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Sumantra departs believing in consecration
+  summary: After the king asks for Rama, Sumantra thinks the king intends Rama's consecration
+    and leaves the chamber, passing guards and the gathered crowd.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: royal succession or consecration expected
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Sumantra interprets the king's summons of Rama as preparation for Rama's
+    consecration.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage presents Sumantra's inference rather than a completed consecration.
+- id: motif:2
+  label: court intrigue through misleading explanation
+  taxonomy_refs: []
+  basis: Kaikeyi, described as skilled in plot and plan, gives Sumantra an account
+    of the king's state as joyful sleeplessness, while the surrounding narration presents
+    the king as overcome with sorrow and misery.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The broader plot is not included here; the extraction should not infer
+    motives beyond the passage's description of plotting.
+- id: motif:3
+  label: summoning of the absent beloved son
+  taxonomy_refs: []
+  basis: The distressed king and Kaikeyi both direct Sumantra to bring Rama quickly,
+    making the absent Rama the object of the scene's action.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a local narrative pattern rather than a taxonomy-backed motif
+    in the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12033-12046
+  quote_or_summary: The bard's sage advice is followed by the king's deeper sorrow;
+    the weeping monarch says the praise tears his heart and plunges him into despair.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 12047-12054
+  quote_or_summary: Sumantra hears the sad reply, sees the king's tearful eye, joins
+    his palms reverently, and withdraws while the king weakly tries to speak.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 12055-12064
+  quote_or_summary: Kaikeyi, described as skilled in plot and plan, tells Sumantra
+    the king has been sleepless from joyful thought of his son and orders him to bring
+    Rama quickly.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 12065-12068
+  quote_or_summary: Sumantra asks how he can go without the king's declared will;
+    the king says he wishes to see Rama and commands him to bring Rama quickly.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 12069-12075
+  quote_or_summary: The thought cheers Sumantra that the pious king has designed Rama's
+    consecration; delighted, he leaves the calm chamber.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: 12076-12081
+  quote_or_summary: Sumantra hurries straight ahead, glances briefly at the gate guards,
+    and passes through a crowd of men of every class who make way for him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the provided passage. Motif labels
+    are cautious and mostly local; only royal legitimacy maps directly to the supplied
+    taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage alone does not support a specific cross-textual or historical comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l12033-l12081
+  passage_sha256=12a0775d0431d83b1d07edd25f87f40c43e7a200bd2b920c0c68df5e05b75227

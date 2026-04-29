@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l19175-l19313
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE RECONCILIATION OF ACHILLES AND AGAMEMNON. / BOOK XX. / ARGUMENT. / THE
+    BATTLE OF THE GODS, AND THE ACTS OF ACHILLES.; lines 19175-19313
+  start: '19175'
+  end: '19313'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A sea-god rescues the Dardan prince from Achilles by darkening Achilles'
+    sight and carrying the prince away, warning him not to face Achilles before the
+    appointed time. Achilles rallies the Greeks, Hector rallies the Trojans, and Phoebus
+    warns Hector to avoid single combat. Achilles then kills several Trojan warriors,
+    including Polydore; Hector, grieved by Polydore's death, comes forward to confront
+    Achilles.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king of ocean descends into the battle, moves among darts, comes between
+    the warriors, and casts darkness over Achilles' eyes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The god removes the spear from the Dardan prince's shield and throws the weapon
+    at Achilles' feet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The god lifts the Dardan prince and carries him through the sky above warriors
+    and horses to the rear of the battle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The god warns the Dardan prince not to fight Achilles with inferior force,
+    and says Achilles' death has a decreed day.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the god departs, the mist leaves Achilles' sight; Achilles sees his
+    spear before him and the Dardan lord gone, and concludes celestial powers defend
+    that foe.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Achilles calls the Greeks to battle and says he cannot by himself rout whole
+    armies, not even with divine favor.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Hector urges the Trojans to fight and not fear Achilles' boasts.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Phoebus warns Hector from heaven to avoid single combat with Achilles and
+    to remain safer within the massed ranks; Hector obeys.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Achilles attacks Troy's force and kills Iphytion, Demoleon, Hippodamas, and
+    Polydore in succession.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: obs:10
+  text: When Hector sees Polydore slain and covered in blood, sorrow overcomes him
+    and he advances toward Achilles with his javelin.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: king of ocean / godhead
+  description: A divine figure who intervenes in battle, darkens Achilles' eyes, rescues
+    the Dardan prince, and warns him about fate.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Dardan prince / Dardan lord
+  description: A warrior rescued from Achilles and warned not to face him before the
+    proper time.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Achilles / son of Peleus
+  description: Greek champion whose sight is darkened, who rallies the Greeks, and
+    who kills multiple Trojan warriors.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: Greeks
+  description: The army addressed by Achilles and called to fight man to man.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Hector
+  description: Trojan leader who rallies the Trojans, obeys Phoebus' warning, and
+    later advances toward Achilles after Polydore's death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: fig:6
+  name_or_label: Trojans
+  description: The troops addressed by Hector and led into battle.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Phoebus
+  description: Divine figure who warns Hector from heaven to avoid single combat with
+    Achilles.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Iphytion
+  description: A chief descended from Otrynteus and a Naiad mother, killed by Achilles.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Demoleon
+  description: Antenor's offspring, killed by Achilles through the helmet and skull.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Hippodamas
+  description: A Trojan who flees from his chariot and is killed by Achilles' lance.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: Polydore
+  description: Youngest and dearest son of Priam, swift in the race, killed by Achilles
+    after entering the forbidden field.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: divine rescuer and war-intervener
+  assigned_to:
+  - fig:1
+  basis: The figure obscures Achilles' sight, retrieves the weapon, carries the Dardan
+    prince away, and gives a warning.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: rescued threatened warrior
+  assigned_to:
+  - fig:2
+  basis: The Dardan prince is lifted from danger and warned not to meet Achilles prematurely.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Greek champion and attacking warrior
+  assigned_to:
+  - fig:3
+  basis: Achilles rallies the Greeks and then kills several named opponents.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: Trojan leader and responding avenger
+  assigned_to:
+  - fig:5
+  basis: Hector encourages the Trojans and later advances toward Achilles after seeing
+    Polydore slain.
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: role:5
+  label: divine adviser
+  assigned_to:
+  - fig:7
+  basis: Phoebus warns Hector from heaven to avoid single combat with Achilles.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: slain opponent
+  assigned_to:
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  basis: Each named warrior is described as falling to Achilles in the battle sequence.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:7
+  label: army or collective combatants
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The Greeks and Trojans are addressed as collective forces and urged into
+    battle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: battlefield darkness or mist
+  literal_form: Darkness cast over Achilles' eyes and later chased away as mist.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: sky-borne rescue
+  literal_form: The Dardan prince is borne through the sky above warriors and horses.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: fire as martial image
+  literal_form: Achilles speaks of active force or acting fire; Hector's imagined
+    heart and hands are compared with fire and steel; Hector's javelin is like a waving
+    flame.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:9
+- id: sym:4
+  label: water and ocean imagery
+  literal_form: The king of ocean, a Naiad mother of the flood, Hyllus waves, Hermus
+    tides, and ocean hearing the bull's roar are named or evoked.
+  associated_figures:
+  - fig:1
+  - fig:8
+  - fig:10
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: death-darkness
+  literal_form: Darkness wraps Polydore after he is struck and falls.
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Divine rescue from Achilles
+  summary: The king of ocean intervenes between Achilles and the Dardan prince, blinds
+    Achilles with darkness, removes the spear, and carries the prince away through
+    the sky.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Rallying speeches and divine warning
+  summary: Achilles rallies the Greeks, Hector rallies the Trojans, and Phoebus warns
+    Hector to avoid single combat with Achilles.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Achilles' succession of kills
+  summary: Achilles attacks the Trojan force and kills Iphytion, Demoleon, Hippodamas,
+    and Polydore, with detailed descriptions of their falls.
+  figure_refs:
+  - fig:3
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Hector advances after Polydore's death
+  summary: Hector sees Polydore slain, is overcome with sorrow, and comes before Achilles;
+    Achilles recognizes the confrontation as the one he has sought.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:11
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: divine rescue by concealment and removal
+  taxonomy_refs: []
+  basis: A god darkens Achilles' eyes, removes the threatened Dardan prince from the
+    immediate fight, and transports him away through the sky.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage identifies the rescuer by epithet rather than by a fully explicit
+    proper name in the supplied text.
+- id: motif:2
+  label: fated death deferred by divine warning
+  taxonomy_refs: []
+  basis: The god tells the Dardan prince not to anticipate his doom and says Achilles'
+    death has a decreed day that must come later.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not narrate the later fulfillment, only the warning.
+- id: motif:3
+  label: heroic battle fury with catalogue of slain foes
+  taxonomy_refs: []
+  basis: Achilles rallies the Greeks, declares his available force, then kills a sequence
+    of named warriors with individualized details.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a literary battle pattern rather than a named taxonomy item in
+    the supplied list.
+- id: motif:4
+  label: leader drawn into combat by the death of a beloved younger kinsman
+  taxonomy_refs: []
+  basis: Polydore is described as Priam's youngest and dearest son; when Hector sees
+    him slain, sorrow overcomes him and he advances toward Achilles.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage does not explicitly state Hector's kinship relation to Polydore,
+    only his emotional response and Polydore's relation to Priam.
+- id: motif:5
+  label: divine management of mortal single combat
+  taxonomy_refs: []
+  basis: One god rescues the Dardan prince from Achilles, while Phoebus later warns
+    Hector not to attempt single combat with Achilles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage presents two divine interventions but does not explicitly
+    frame them as a unified pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19175-19187
+  quote_or_summary: The king of ocean descends through the fight, interposes, casts
+    darkness over Achilles' eyes, removes the spear, and carries the Dardan prince
+    through the sky to the battle's edge.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 19188-19196
+  quote_or_summary: The god warns the prince not to meet Achilles with inferior force
+    or anticipate his doom, and says Achilles will die on a decreed day.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 19197-19211
+  quote_or_summary: The mist leaves Achilles' sight; he sees his spear and notices
+    the Dardan lord has vanished, concluding that celestial powers defend the foe.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 19212-19230
+  quote_or_summary: Achilles calls the Greeks to man-to-man battle, says no single
+    god can engage such a host alone, and promises all his force and fire for the
+    day.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 19231-19247
+  quote_or_summary: Hector urges the Trojans to war and not to fear Achilles; Phoebus
+    warns him from heaven to shun single combat with Achilles, and Hector obeys by
+    staying in the ranks.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 19248-19265
+  quote_or_summary: Achilles attacks Troy's force, kills Iphytion, and boasts over
+    the slain warrior, whose background includes Otrynteus, a Naiad mother, Tmolus,
+    Hyde, Gygae, Hyllus, and Hermus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 19266-19281
+  quote_or_summary: Achilles kills Demoleon through the helmet and skull; Hippodamas
+    flees from his chariot but is struck by a lance, and his groan is compared to
+    a victim bull at Neptune's shrine.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 19282-19302
+  quote_or_summary: Achilles turns on Polydore, Priam's youngest and dearest son,
+    who entered the forbidden field to show his swiftness; Achilles strikes him, and
+    darkness wraps him as he dies.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:9
+  type: summary
+  locator: 19303-19313
+  quote_or_summary: Hector sees Polydore ghastly in blood, sorrow clouds his sight,
+    and he comes before Achilles with a javelin; Achilles joyfully recognizes the
+    confrontation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are candidate analytical groupings and require human review. No comparison claims
+    were added because the passage itself does not support a specific external comparative
+    claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Taxonomy references were used only for explicit available symbol categories supported by passage imagery; no motif-family taxonomy reference was assigned.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l19175-l19313
+  passage_sha256=57ef684675dadd22c01abf5cc68bbc267e28a1f009e84eef508501043c5e1911

@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l2946-l3017
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto X. Rishyasring Invited. / Canto XI. The Sacrifice Decreed. / Canto
+    XII. The Sacrifice Begun. / Canto XIII. The Sacrifice Finished.; lines 2946-3017
+  start: '2946'
+  end: '3017'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The gods petition Náráyaṇ/Vishnu to be born as King Daśaratha’s offspring
+    through his three queens, divided into four, so that in human form he can slay
+    Rávaṇ. They explain that Rávaṇ’s boon protects him from all living things except
+    man. Vishnu promises to take mortal birth, kill Rávaṇ and his kin, and reign on
+    earth as a human king.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The gods say King Daśaratha has performed a horse sacrifice and longs for
+    sons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The gods ask the deity to be born as Daśaratha’s seed through his three queens
+    and to divide himself into four.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Rávaṇ is described as defying heaven and afflicting gods, bards, saints, spirits,
+    and maidens.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The gods state that Rávaṇ received a boon from the mighty Sire that protected
+    his life from all living things except man.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Vishnu promises to kill Rávaṇ, his ministers, and his kin in battle.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Vishnu says he will reign in the mortal world as a human king and guard the
+    earth.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Gods, saints, nymphs, and minstrels sing hymns asking the champion of the
+    gods to appear as man and slay Rávaṇ.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: King Daśaratha
+  description: A king who has performed the sacrificial killing of the steed and longs
+    for sons; he has three queens.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Suppliant gods
+  description: A collective group who petition Náráyaṇ/Vishnu to take human birth
+    and defeat Rávaṇ.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Náráyaṇ / Vishnu
+  description: The supreme deity addressed by the gods, asked to incarnate in human
+    form, and promising to slay Rávaṇ and reign as a human king.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Rávaṇ
+  description: A fierce fiend and foe of the gods whose boon leaves him vulnerable
+    to man alone.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Brahmá / the mighty Sire
+  description: The divine giver of Rávaṇ’s protective boon, addressed by Vishnu along
+    with the suppliants.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Daśaratha’s three queens
+  description: Three royal women through whom the gods ask the deity to be born as
+    Daśaratha’s offspring.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine petitioners
+  assigned_to:
+  - fig:2
+  basis: They pray to Náráyaṇ/Vishnu and explain the need for him to take human form.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: divine incarnating champion
+  assigned_to:
+  - fig:3
+  basis: He is asked to appear as man and promises to kill Rávaṇ in battle.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:3
+  label: human royal father sought for divine birth
+  assigned_to:
+  - fig:1
+  basis: The gods ask that the deity be born as Daśaratha’s seed.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: boon-protected demon antagonist
+  assigned_to:
+  - fig:4
+  basis: Rávaṇ is described as protected from most beings by a boon and as a tormentor
+    of gods and saints.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: boon-granting deity
+  assigned_to:
+  - fig:5
+  basis: The mighty Sire is said to have granted protection to Rávaṇ after penance.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: royal mothers for divine offspring
+  assigned_to:
+  - fig:6
+  basis: The gods ask that the deity be born through Daśaratha’s three queens.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: sacrificial steed
+  literal_form: The horse or steed slain in Daśaratha’s sacrifice.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fourfold division
+  literal_form: The deity is asked to divide himself into four as Daśaratha’s offspring.
+  associated_figures:
+  - fig:3
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: human form
+  literal_form: The mortal human form requested as the means to defeat Rávaṇ.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: Rávaṇ as thorn and plague
+  literal_form: Rávaṇ is described with the images of a thorn and a plague feared
+    by saints and hermits.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: Gods petition for divine birth
+  summary: The gods describe Daśaratha’s desire for sons and ask Náráyaṇ/Vishnu to
+    be born through the king’s three queens, divided into four, to slay Rávaṇ.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rávaṇ’s boon and vulnerability explained
+  summary: The gods explain that Rávaṇ won a boon through penance that protected him
+    from heavenly and living foes, with man excepted, making human birth necessary
+    for his death.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Vishnu’s vow and heavenly hymn
+  summary: Vishnu promises to kill Rávaṇ and his kin, reign as a human king on earth,
+    and is praised by celestial beings as the champion who will appear as man.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine birth through royal household
+  taxonomy_refs:
+  - sacred_birth
+  - divine_parent_child
+  basis: The gods ask the deity to be born as Daśaratha’s offspring through his three
+    queens.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage announces the birth plan but does not narrate the birth itself.
+- id: motif:2
+  label: deity assumes human form to defeat a protected demon
+  taxonomy_refs:
+  - culture_hero
+  basis: The gods request that Vishnu take human form because Rávaṇ can be killed
+    only by man, and Vishnu promises to slay him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy lacks a specific incarnation motif; the assigned
+    family is approximate.
+- id: motif:3
+  label: horse sacrifice connected to desire for sons
+  taxonomy_refs:
+  - sacrifice
+  - sacred_birth
+  basis: Daśaratha is said to have slain the sacrificial steed while longing for sons,
+    immediately before the request for divine birth as his offspring.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage mentions the sacrifice briefly and does not describe its procedure
+    or outcome in detail.
+- id: motif:4
+  label: ascetic penance wins protective boon
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Rávaṇ is said to have gained the favor of the mighty Sire through long, dire
+    penance and received protection from most living foes.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The exchange is reported in summary by the gods, not narrated directly.
+- id: motif:5
+  label: divine kingship on earth
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Vishnu states that he will reign in the mortal world as a human king and
+    guard the earth.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the promise of rule but does not yet show coronation
+    or royal administration.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2946-2961
+  quote_or_summary: The gods say Daśaratha has slain the sacrificial steed, longs
+    for sons, has three queens, and ask the deity to be born as his seed, divided
+    into four.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2962-2973
+  quote_or_summary: The gods ask the Lord to take man’s nature and slay Rávaṇ, described
+    as a scourge and thorn who defies heaven and afflicts divine and saintly beings.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2980-2995
+  quote_or_summary: The gods explain that Rávaṇ won Brahmá’s favor through severe
+    penance and was protected from all living things except man, so only a man can
+    kill him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2996-3007
+  quote_or_summary: Vishnu tells Brahmá and the suppliants to dismiss fear, promises
+    to kill Rávaṇ and his followers, and says he will reign on earth as a human king.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3008-3017
+  quote_or_summary: Celestial beings sing hymns to the champion of the gods, calling
+    on him to appear as man and slay cruel Rávaṇ, the feared thorn and unstoppable
+    plague.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly identifies figures, petitions, boon logic, and divine-human
+    birth motifs. Taxonomy mapping is partly approximate because no specific incarnation
+    category is supplied. No comparison claims were added because the passage itself
+    does not make an explicit cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; all interpretive motif labels are tied to cited passage evidence.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l2946-l3017
+  passage_sha256=46a3a9c05906f60e2d93cbd2b2ea985a880d6880e9878c285de4f63eb27d4913

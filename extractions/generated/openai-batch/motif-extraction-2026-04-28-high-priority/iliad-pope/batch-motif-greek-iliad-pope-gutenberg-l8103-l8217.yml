@@ -1,0 +1,579 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l8103-l8217
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE EPISODES OF GLAUCUS AND DIOMED, AND OF HECTOR AND ANDROMACHE. / BOOK
+    VII. / ARGUMENT / THE SINGLE COMBAT OF HECTOR AND AJAX.; lines 8103-8217
+  start: '8103'
+  end: '8217'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The Greeks reject the Trojan peace offer but accept a truce for burial.
+    Both sides gather, wash, mourn, and burn their dead. The Greeks build a communal
+    tomb and fortifications near the ships. The gods observe the wall; Poseidon complains
+    that the Greeks built it without consulting gods or making sacrifice, and Zeus
+    foretells that Poseidon will destroy it with waves and sand. The Greeks feast
+    with wine from Lemnos, exchange goods, see Zeus send thunder and red lightning,
+    pour libations, and sleep.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tydides advises the Greeks not to accept the Trojan wealth or the Spartan
+    woman, saying Troy is already near its fall.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Greek chiefs acclaim Tydides' speech, and Agamemnon rejects the peace
+    while granting a truce to tend the dead.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The herald reports in Troy that peace is rejected but a truce is obtained.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Greeks and Trojans search the battlefield among heaps of carnage for the bodies
+    of their dead.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The mourners wash wounds, shed tears, place bodies on cars, and burn the remains
+    on funeral piles.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Greeks raise a general tomb around the dying flames, then build walls,
+    towers, gates, a trench, and defensive piles for the camp and ships.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The gods sit above in a shining circle around Jove and observe the human works
+    with amazement.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Poseidon complains that the Greek wall was built without consulting a god
+    and without sacrificing a victim.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Jove answers that Poseidon will sap the foundations, cover the wall with waves,
+    and let sand alter the shore until the work and its name vanish.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The Greeks slaughter bulls, feast, receive wine from Lemnos, and exchange
+    goods including metal, oxen, and slaves.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Jove displays wrath through red lightning and thunder; the people are frightened
+    and pour libations to Jove before drinking.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Tydides
+  description: Greek speaker who urges rejection of the offered wealth and Spartan
+    woman.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: King of kings
+  description: Greek leader who rejects the peace but grants funeral rites for the
+    dead.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Herald
+  description: Messenger who carries the Greek response to sacred Troy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Greeks
+  description: Army that rejects peace, searches for bodies, burns the dead, builds
+    fortifications, feasts, and pours libations.
+  role_refs:
+  - role:4
+  - role:5
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:10
+  - ev:11
+- id: fig:5
+  name_or_label: Trojans
+  description: People who receive the herald's report, search the plain, gather wood,
+    mourn and burn their dead, and feast within their towers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:10
+- id: fig:6
+  name_or_label: Priam
+  description: Trojan elder or ruler who checks the grief of the mourners during the
+    burial rites.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Jove
+  description: Divine father and thunderer who hears Poseidon's complaint, foretells
+    the wall's destruction, and later sends lightning and thunder.
+  role_refs:
+  - role:7
+  - role:9
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:11
+- id: fig:8
+  name_or_label: Poseidon
+  description: Hoary monarch of the deep and earth-shaking god who complains about
+    the Greek wall and is told he may destroy it.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:9
+  name_or_label: Eunaeus
+  description: Sender of a thousand measures of fragrant wine from Lemnos to the royal
+    tent.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:10
+- id: fig:10
+  name_or_label: Greek and Trojan dead
+  description: Slain warriors whose bodies are searched for, washed, mourned, placed
+    on piles, and burned.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: war counsel speaker
+  assigned_to:
+  - fig:1
+  basis: He rises and urges rejection of the offered settlement.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: commander granting truce
+  assigned_to:
+  - fig:2
+  basis: He rejects peace but permits funeral care for the dead.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: messenger
+  assigned_to:
+  - fig:3
+  basis: He travels to Troy and explains the Greek decision.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: burial party and mourners
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Both sides search for bodies, wash wounds, shed tears, and burn remains.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: fortification builders
+  assigned_to:
+  - fig:4
+  basis: The Greeks build a tomb, walls, towers, gates, trench, and piles.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: grief restrainer
+  assigned_to:
+  - fig:6
+  basis: Priam checks the Trojans' grief during the funeral work.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: divine father among gods
+  assigned_to:
+  - fig:7
+  basis: The gods sit around their father Jove in heaven.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: feasters and offerers
+  assigned_to:
+  - fig:4
+  basis: The Greeks feast, slaughter bulls, and pour libations to Jove.
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: role:9
+  label: thunder-sending deity
+  assigned_to:
+  - fig:7
+  basis: Jove sends red lightning and thunder that frighten the people.
+  evidence_refs:
+  - ev:11
+- id: role:10
+  label: sea and earth-shaking deity
+  assigned_to:
+  - fig:8
+  basis: Poseidon is described as the trident-bearing monarch of the deep whose force
+    can shake the earth and destroy the wall.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:11
+  label: wine supplier
+  assigned_to:
+  - fig:9
+  basis: Eunaeus sends a thousand measures of wine to the royal tent.
+  evidence_refs:
+  - ev:10
+- id: role:12
+  label: honored dead
+  assigned_to:
+  - fig:10
+  basis: The slain are searched for, washed, mourned, and burned with care.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: funeral flames
+  literal_form: flames and funeral piles that consume the dead
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:10
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: general tomb
+  literal_form: a communal tomb raised by the Greeks around the dying flames
+  associated_figures:
+  - fig:4
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Greek wall and trench
+  literal_form: walls, lofty towers, gates, a deep trench, and defensive piles
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: waves and sand erasing the wall
+  literal_form: waves overwhelming the wall and sand changing the shore
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: red lightning and thunder
+  literal_form: red lightnings and deep thunder sent by Jove in the night
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:11
+- id: sym:6
+  label: libations to Jove
+  literal_form: liquid offerings poured to Jove before the bowl is crowned
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:7
+  label: sceptre raised to the sky
+  literal_form: the Greek ruler raises his sceptre toward the sky while invoking Jove
+    as witness
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Greek rejection of peace and granting of funeral truce
+  summary: Tydides urges the Greeks to reject the Trojan offer; the Greek leader rejects
+    peace but allows the dead to be recovered and honored.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Report to Troy
+  summary: The herald returns to Troy and announces that peace has been refused while
+    a truce has been gained.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Collection, mourning, and burning of the dead
+  summary: Greeks and Trojans search the battlefield, identify bodies with difficulty,
+    wash and mourn the dead, and burn them on funeral piles.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:10
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Greek tomb and fortification building
+  summary: Before morning fully breaks, the Greeks raise a communal tomb and build
+    defenses for the camp and ships.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Divine debate over mortal walls
+  summary: The gods observe the Greek works; Poseidon complains that the wall lacks
+    divine consultation and sacrifice, and Jove says it will be destroyed by sea and
+    sand.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Feasting, divine omens, and libations
+  summary: The Greeks feast with bulls and Lemnian wine, exchange goods, are frightened
+    by Jove's lightning and thunder, pour libations, and sleep.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:9
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: truce for burial and funerary burning of warriors
+  taxonomy_refs:
+  - sacrifice
+  basis: The armies suspend hostilities long enough to gather, wash, mourn, and burn
+    the dead with care.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes funerary burning and mourning, not a sacrificial
+    killing; the taxonomy reference is approximate.
+- id: motif:2
+  label: mortal fortification challenged and erased by divine power
+  taxonomy_refs:
+  - divine_judgment
+  basis: Poseidon objects to the Greeks' wall because no god was consulted and no
+    victim was slain; Jove foretells that divine sea power will erase it with waves
+    and sand.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage presents a divine response to human construction, but the
+    actual destruction is foretold rather than occurring within this excerpt.
+- id: motif:3
+  label: thunder and lightning as signs of divine wrath before libation
+  taxonomy_refs:
+  - divine_judgment
+  - sacrifice
+  basis: Jove sends red lightning and thunder that terrify the feasters, who then
+    pour libations to him before drinking.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: The passage explicitly calls the signs wrathful, but does not state a
+    detailed oracle or verbal judgment in this scene.
+- id: motif:4
+  label: feast and exchange after battle labor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Wine from Lemnos is distributed, and the host exchanges metals, oxen, and
+    slaves while feasting after the building work.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The exchange is practical and economic in the passage; its sacred dimension
+    is limited to the surrounding slaughter, feast, and later libations.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8103-8110
+  quote_or_summary: Tydides rises and advises the Greeks to refuse the offered wealth
+    and Spartan woman, asserting that Troy is already tottering toward defeat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8111-8120
+  quote_or_summary: The Greek chiefs acclaim the speech; the Greek ruler tells the
+    herald that he hears Greece's voice, rejects peace, permits funeral flames for
+    the dead, invokes Jove, and raises his sceptre skyward.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8121-8124
+  quote_or_summary: The herald goes to sacred Troy, stands among the princes, and
+    explains that peace is rejected but a truce has been obtained.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8125-8138
+  quote_or_summary: Trojans and Greeks gather wood and search the battlefield at dawn
+    among heaps of carnage, where bodies are hard to identify because of dust and
+    gore.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8139-8149
+  quote_or_summary: The mourners wash wounds, weep, carry the dead on cars, place
+    bodies on piles, burn the remains, and return to Troy or the ships; Priam checks
+    Trojan grief.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8150-8160
+  quote_or_summary: Before morning fully breaks, the Greeks gather around the dying
+    flames, raise a general tomb, and construct walls, towers, gates, a trench, and
+    defensive piles for the camp and ships.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8161-8165
+  quote_or_summary: The gods sit above in a shining circle around Jove and look with
+    amazement at the works of men.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 8166-8177
+  quote_or_summary: Poseidon asks who will honor divine power if the Greeks boast
+    of walls by the sea, noting that they consulted no god and killed no victim, while
+    the god-built abodes of Laomedon may be forgotten.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 8178-8190
+  quote_or_summary: 'Jove replies that Poseidon''s fame is secure and that the Greek
+    work will not survive: Poseidon will undermine the foundations, waves will overwhelm
+    the wall, and sand will change the shore until no trace or name remains.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 8191-8208
+  quote_or_summary: As the sun sets, the Greeks finish the work, slaughter bulls,
+    feast, receive wine from Lemnos sent by Eunaeus, and exchange goods such as brass,
+    iron, oxen, and slaves.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 8209-8217
+  quote_or_summary: All night Greek and Trojan powers feast; Jove shows wrath with
+    red lightning and thunder, frightening all, after which each pours to Jove and
+    libations wet the ground before they sleep.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal events and figures are clear in the supplied passage. Motif taxonomy
+    assignments are cautious because several available taxonomy families only approximate
+    the passage-level patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit cross-tradition comparison; it only contrasts Greek walls with Laomedon's god-built structures within the same narrative world.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l8103-l8217
+  passage_sha256=0be0b153b9dab641da37a0d1906ddf769ad566ddd29cdb8a49e16bec8d904cb1

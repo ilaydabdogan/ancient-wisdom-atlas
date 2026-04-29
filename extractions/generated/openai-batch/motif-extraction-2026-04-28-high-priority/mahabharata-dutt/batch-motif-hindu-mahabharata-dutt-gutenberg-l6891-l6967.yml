@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.hindu-mahabharata-dutt-gutenberg-l6891-l6967
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+passage_locator:
+  label: BOOK XII / ASWA-MEDHA / CONCLUSION / TRANSLATOR'S EPILOGUE; lines 6891-6967
+  start: '6891'
+  end: '6967'
+  translation: Maha-bharata
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The translator explains that the old Epic has been expanded by episodic
+    material but that its leading incidents and characters remain discernible. He
+    describes a plan to recover and present the main story by translating selected
+    original passages and linking them with notes, while condensing the war books
+    more severely because of their prolixity. He states that the work presents an
+    Epic of ninety thousand Sanskrit couplets in about two thousand English couplets.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the old Epic has been altered by unlimited expansion,
+    while the leading incidents and characters remain discernible.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The translator compares the recoverable core of the Epic to immortal marble
+    figures recovered from ancient ruins and displayed in modern European museums.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The translator says he has long wished to exhume the buried Epic from episodical
+    matter and restore it to the modern world.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The translator says the leading narrative forms about one-fourth of the work.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The translator's method is to translate selected original passages about main
+    incidents and link them with short connecting notes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The translator states that, in the presented passages, the poet speaks to
+    the reader rather than the translator.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The translator says the three books describing the actual war require condensation
+    rather than only selected translation.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The war is described as a series of eighteen battles fought on eighteen consecutive
+    days.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The translator says the Epic of ninety thousand Sanskrit couplets is presented
+    in about two thousand English couplets.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: translator-narrator
+  description: The first-person speaker who explains the translation plan and its
+    limits.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: the poet
+  description: The source poet whose narration the translator seeks to preserve in
+    selected passages.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: modern reader / English reader
+  description: The intended audience for the condensed English presentation of the
+    Epic.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: translator and selector
+  assigned_to:
+  - fig:1
+  basis: The speaker describes selecting passages, linking them with notes, translating
+    them, and condensing the war books.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: original narrative voice
+  assigned_to:
+  - fig:2
+  basis: The translator states that the presented passages allow the poet, not the
+    translator, to speak to the reader.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: intended recipient
+  assigned_to:
+  - fig:3
+  basis: The plan is designed to present the Epic to the modern or English reader
+    in acceptable form and limits.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: buried Epic
+  literal_form: An image of the real Epic embedded under episodical matter and needing
+    to be exhumed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: recovered marble figures
+  literal_form: Immortal marble figures recovered from ruins of an ancient world and
+    placed in modern European museums.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: eighteen battles in eighteen days
+  literal_form: The number eighteen applied to the war's battles and consecutive days.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: ninety thousand to two thousand couplets
+  literal_form: A scale contrast between ninety thousand Sanskrit couplets and about
+    two thousand English couplets.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Diagnosis of the expanded Epic
+  summary: The translator describes the old Epic as expanded by foreign or episodical
+    matter while retaining discernible leading incidents and characters.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Plan for selected translation
+  summary: The translator explains that selected original passages about main incidents
+    can be translated in full and connected by short notes to present the main story.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Exception for the war books
+  summary: The translator explains that the war books required severe condensation
+    because the war events were lengthy, repetitive, and had to be narrated day by
+    day.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Final scale of the work
+  summary: The translator concludes by stating the scheme presents a very large Sanskrit
+    Epic in a much shorter English couplet form.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: recovery of a buried ancient work
+  taxonomy_refs: []
+  basis: The passage repeatedly frames the translator's project as exhuming a buried
+    Epic from an overlying mass of episodical matter and restoring it to the modern
+    world.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an editorial and metaphorical pattern in the translator's epilogue,
+    not a mythic narrative event within the Epic.
+- id: motif:2
+  label: preservation through selective transmission
+  taxonomy_refs: []
+  basis: The translator describes preserving the main story by selecting original
+    passages, translating them, and linking them with notes so that the poet's voice
+    remains present.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a textual-transmission pattern rather than a traditional mythological
+    motif.
+- id: motif:3
+  label: structured eighteen-day war
+  taxonomy_refs: []
+  basis: The passage identifies the war as eighteen battles fought on eighteen consecutive
+    days and explains the need to recount each day's work.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The passage gives only editorial description of the war's structure, not
+    the mythic details of the battles themselves.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 6891-6899
+  quote_or_summary: The old Epic has been expanded, but its leading incidents and
+    characters remain discernible, like marble figures recovered from ruins of an
+    ancient world.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: 6899-6904
+  quote_or_summary: The translator says he wished to "exhume this buried Epic" from
+    episodical matter and restore it to the modern world.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 6904-6911
+  quote_or_summary: The leading narrative is said to form about one-fourth of the
+    work, but a complete translation of even that portion would be too long and prolix.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 6915-6928
+  quote_or_summary: The translator proposes translating main-incident passages into
+    English verse and linking them with short notes to present the entire story within
+    acceptable limits.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 6928-6937
+  quote_or_summary: The advantage is that "it is the poet who speaks" to the reader,
+    not the translator, through portions narrating the main incidents.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: 6939-6952
+  quote_or_summary: The translator says most books translate selected passages, but
+    the three war books required departure from this method and condensation.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: 6953-6957
+  quote_or_summary: The war is described as "eighteen battles, fought on eighteen
+    consecutive days," requiring an account of each day's work.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:8
+  type: quote
+  locator: 6964-6967
+  quote_or_summary: The scheme presents "an Epic of ninety thousand Sanscrit couplets
+    in about two thousand English couplets."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a translator's epilogue about method and textual recovery,
+    not a mythic episode. Literal editorial features are clear; motif candidates are
+    limited to textual and structural patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison with an external motif family, pattern, or nearby corpus tradition beyond its own editorial imagery.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-mahabharata-dutt-gutenberg__l6891-l6967
+  passage_sha256=ddd5b8a2cffbd5d40d5283c116f2bd4c54c90dbd7eab1e4cb7ad84b755f8f8e7

@@ -1,0 +1,413 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l19233-l19377
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XXXVII. The Coats Of Bark. / Canto XLVI. The Halt. / Canto XLIX. The
+    Crossing Of The Rivers. / Canto LXII. Dasaratha Consoled.; lines 19233-19377
+  start: '19233'
+  end: '19377'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Daśaratha recounts accidentally shooting a young hermit at the Sarjú shore
+    after mistaking the sound of water for an animal. The dying youth asks that his
+    blind parents be told. Daśaratha brings water to the parents, confesses the killing,
+    and is told that because the act was unwitting and confessed, he lives. The blind
+    parents ask to be guided to their son's body and touch and mourn him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A wounded hermit's son lies pierced by an arrow and speaks while near death.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The youth says he is not a twice-born Brāhman but was born of a Vaiśya father
+    and Śūdra mother.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Daśaratha draws the arrow from the youth's bleeding side, after which the
+    youth dies.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Daśaratha takes a pitcher, fills it from a brook, and goes to the abode of
+    the youth's father.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The aged parents are blind, feeble, seated together, and waiting for their
+    returning child.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: The father says that the parents' lives depend on their son and calls him
+    the eye of the eyeless couple.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Daśaratha identifies himself as a warrior and says he shot toward a sound
+    at the Sarjú shore, thinking an animal was there.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Daśaratha asks the father to pardon his heedless sin.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The father says Daśaratha lives because the act was not planned, while a deliberate
+    attack on a devotee would bring destruction.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The father asks Daśaratha to guide the parents to the place where their son
+    lies dead.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Daśaratha leads the mourning pair to the body, and the parents place their
+    hands on the dead youth.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Daśaratha
+  description: A king and warrior of Raghu's line who recounts accidentally killing
+    the hermit's son with an arrow.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Hermit's son
+  description: A young hermit struck by Daśaratha's arrow near the water; he dies
+    after the arrow is drawn out.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Aged hermit father
+  description: A blind, venerable sage who waits for his son, hears Daśaratha's confession,
+    and asks to be led to the body.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Aged mother
+  description: The blind mother of the dead youth, thirsty and waiting with the father
+    for their son.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+roles:
+- id: role:1
+  label: king-warrior narrator
+  assigned_to:
+  - fig:1
+  basis: Daśaratha names himself as a warrior and is addressed as king and monarch.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: unwitting killer seeking pardon
+  assigned_to:
+  - fig:1
+  basis: He says he mistook a water sound for an animal, killed the son unaware, and
+    asks pardon.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: dying ascetic youth
+  assigned_to:
+  - fig:2
+  basis: The youth is described as a hermit's son or wounded hermit pierced by an
+    arrow and near death.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: dependent child of blind parents
+  assigned_to:
+  - fig:2
+  basis: The father says the parents' lives depend on the son and calls him their
+    eye.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: blind bereaved parent
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The parents are described as aged, feeble, blind, and later mourning at the
+    dead body.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:6
+  label: moral judge of the act
+  assigned_to:
+  - fig:3
+  basis: The father declares the consequences of confession, accidental killing, and
+    deliberate killing of a devotee.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water
+  literal_form: brook, Sarjú shore, water in a pitcher, drinking place
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: arrow
+  literal_form: shaft, dart, arrow that pierces the youth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: blindness and sight
+  literal_form: blind parents and the son called their eye
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: dead body
+  literal_form: breathless clay and slain body touched by the parents
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Death of the wounded hermit's son
+  summary: The wounded youth speaks to Daśaratha, clarifies his birth, and dies after
+    the arrow is drawn from his side.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Approach to the blind parents
+  summary: Daśaratha fills the pitcher with water and reaches the abode where the
+    blind aged parents wait for their son.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Confession of the mistaken shot
+  summary: Daśaratha tells the father that he shot toward the sound of water at the
+    Sarjú shore, mistook it for an animal, found the youth wounded, drew out the arrow,
+    and asks pardon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Judgment of unwitting guilt
+  summary: The father says Daśaratha's confession and lack of intent spare him, while
+    deliberate violence against a devotee would bring ruin.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Parents led to the body
+  summary: Daśaratha leads the mourning blind parents to their son, and they touch
+    and mourn the body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: fatal mistake at the water source
+  taxonomy_refs: []
+  basis: The killing occurs after Daśaratha hears water being stirred at the Sarjú
+    shore and mistakes the sound for an animal at a drinking place.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents an accidental hunting error; no broader cross-cultural
+    comparison is asserted in the passage.
+- id: motif:2
+  label: dependent blind parents lose their only guide
+  taxonomy_refs: []
+  basis: The parents are blind and helpless, and the father says their son is the
+    eye of the eyeless couple and that their lives depend on him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level family-dependence motif, not linked to a supplied
+    taxonomy family.
+- id: motif:3
+  label: confessed unwitting sin mitigates judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The father says Daśaratha lives because he told the tale himself and because
+    the act was not planned; deliberate killing of a devotee would bring destruction.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The judgment is spoken by the hermit father; the passage does not show
+    an explicit divine court or deity rendering judgment.
+- id: motif:4
+  label: mourning parents touch the slain child
+  taxonomy_refs: []
+  basis: The parents are guided to the son's body and place their hands upon him as
+    the father mourns.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage ends during the father's lament and does not include the full
+    outcome.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19233-19263
+  quote_or_summary: The wounded hermit's son speaks near death, says he is not a twice-born
+    Brāhman but born of a Vaiśya father and Śūdra mother, and dies after Daśaratha
+    draws the shaft from his side.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 19272-19282
+  quote_or_summary: Daśaratha takes the pitcher, fills it from the brook, reaches
+    the father's abode, and sees the aged blind pair seated together without anyone
+    to guide them.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 19287-19301
+  quote_or_summary: "“On thee our lives, our all, depend... The eyeless couple’s eye
+    art thou.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 19302-19334
+  quote_or_summary: Daśaratha tells the sage he is a warrior; while hunting at the
+    Sarjú shore he heard a sound like a jar stirring water, thought it was an elephant,
+    shot an arrow, found a wounded hermit, drew the shaft as requested, and asks pardon
+    for killing the son unwittingly.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 19335-19357
+  quote_or_summary: The grieving father says Daśaratha's head would have burst if
+    he had not confessed; deliberate killing of a devotee would bring ruin, but Daśaratha
+    lives because the deed was unplanned.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 19358-19366
+  quote_or_summary: The father asks the king to guide the parents to the place where
+    their son lies dead, wearing a blood-stained hermit's skin, his soul in Yama's
+    domain.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 19367-19377
+  quote_or_summary: Daśaratha leads the mourning pair to the body; the mother and
+    hermit place their hands on the breathless clay, and the father presses the son
+    to his breast and cries out.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for figures, actions, and local motifs. Broader taxonomy
+    mapping is limited because the supplied passage itself does not make comparative
+    claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison beyond local motif identification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l19233-l19377
+  passage_sha256=b4ae44e051ad57b7d193db4abe0a70ed771cc9584b90a9d689131c5c070ed876

@@ -1,0 +1,498 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l10691-l10806
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE NIGHT-ADVENTURE OF DIOMED AND ULYSSES. / BOOK XI. / ARGUMENT / THE THIRD
+    BATTLE, AND THE ACTS OF AGAMEMNON.; lines 10691-10806
+  start: '10691'
+  end: '10806'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The Book XI argument previews Agamemnon arming and leading the Greeks,
+    divine war signals, major woundings and rescues, and Nestor's attempt to move
+    Patroclus toward helping the Greeks. The opening narrative describes dawn, Eris/Discord
+    sent by Jove descending with a blazing torch to rouse the Greek army, Agamemnon
+    putting on elaborate armor decorated with dragons, a Gorgon, and a serpent, Juno
+    and Minerva giving signs of aid to Greece, the army deploying, and Jove raining
+    blood-red drops over the battlefield.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The argument states that Agamemnon arms himself and leads the Grecians to
+    battle while Hector prepares the Trojans.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The argument states that Jupiter, Juno, and Minerva give signals of war.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At dawn, Eris is sent by Jove and carries a blazing torch of discord while
+    descending through the red skies toward the fleet.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Eris takes a high stand on Ulysses' ship and makes a thunderous sound through
+    sea and land.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After Eris sounds the war song, the Greek warriors are alarmed, start to arms,
+    cease wishing to return ingloriously, and desire revenge and combat.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Agamemnon is the first to rise and put on radiant armor before the rest of
+    the host.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Agamemnon's cuirass is said to have once belonged to King Cinyras, who sent
+    it as a friendship-gift after hearing of the Greek host.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Agamemnon's armor includes greaves, a cuirass, a baldric and sword, a shield,
+    a fourfold horse-haired helmet, and two steel javelins.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Decorative figures on Agamemnon's equipment include three glittering dragons,
+    a tremendous Gorgon, and a silver-thonged mimic serpent ending in three heads.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Juno and Minerva promise aid to Greece through thunder and by clashing their
+    arms in the air from the clouds.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Chariots are restrained near the trench and mound, foot soldiers and light-armed
+    fighters rush forward, and squadrons form behind them.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Jove distills red drops of blood over the battlefield before the day's slaughter.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Agamemnon
+  description: The king of men who inspires the host and first arms himself in radiant
+    armor.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Eris / Discord
+  description: A baleful figure sent by Jove, carrying the torch of discord and rousing
+    the Greek army.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Jove / Jupiter
+  description: The god who commands Eris, gives war-related direction in the argument,
+    and rains blood-red drops over the field.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: Juno
+  description: A goddess who gives signs promising aid to Greece.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:5
+  name_or_label: Minerva
+  description: The martial maid who gives signs promising aid to Greece.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:6
+  name_or_label: Grecian warriors
+  description: The Greek host who are roused by Discord and deploy for battle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:7
+  name_or_label: Ulysses
+  description: Named through the ship on which Eris takes her stand; also mentioned
+    in the argument as later resisting Hector with Diomed.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:8
+  name_or_label: King Cinyras
+  description: A king on the Cyprian coast who had sent Agamemnon the cuirass as a
+    gift of friendship.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Hector
+  description: Named in the argument as preparing the Trojans and later making a slaughter
+    after Agamemnon is wounded.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: war-rousing divine agent
+  assigned_to:
+  - fig:2
+  basis: Eris is sent with the torch of discord and makes sounds that stir the warriors
+    to arms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: divine sender
+  assigned_to:
+  - fig:3
+  basis: Jove commands the sending of Eris.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: king and battle leader
+  assigned_to:
+  - fig:1
+  basis: Agamemnon is called the king of men, inspires the host, arms first, and leads
+    the Grecians in the argument.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: divine supporters of Greece
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Juno and Minerva promise Greece aid through thunder and arm-clashing from
+    the clouds.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: omen-giving god
+  assigned_to:
+  - fig:3
+  basis: Jove rains red drops of blood over the field before the slaughter.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: army roused to combat
+  assigned_to:
+  - fig:6
+  basis: The Greeks hear Discord's alarm, start to arms, and move into battle formation.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:7
+  label: royal gift-giver
+  assigned_to:
+  - fig:8
+  basis: Cinyras sends the cuirass as a glorious gift to gain the chief's friendship.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: torch of discord
+  literal_form: A blazing torch carried by Eris as she descends to the fleet.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: blood-red sky and blood rain
+  literal_form: Red skies around Eris' descent and red drops of blood distilled by
+    Jove over the field.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: radiant royal armor
+  literal_form: Agamemnon's greaves, cuirass, sword, shield, helmet, and javelins,
+    described as shining or blazing.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: three glittering dragons
+  literal_form: Three dragon figures rising to the gorget of Agamemnon's cuirass.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Gorgon on the shield
+  literal_form: A tremendous Gorgon frowning on the field of Agamemnon's shield.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: three-headed serpent
+  literal_form: A mimic serpent on a silver thong inside the shield, extending in
+    waves and ending in three heads.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: celestial bow image
+  literal_form: The armor's reflected light is compared to Jove's wondrous bow, a
+    sign to humans in the skies.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: thunder and clashing arms
+  literal_form: Juno and Minerva use thunder and the clash of arms in the air as signs
+    of aid.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dawn and the descent of Discord
+  summary: At dawn, Eris is sent by Jove with a blazing torch, descends through red
+    skies, stands on Ulysses' ship, and rouses the Greek army to combat.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Agamemnon arms before the host
+  summary: Agamemnon rises first and puts on elaborate radiant armor, including a
+    gifted cuirass and equipment decorated with dragons, a Gorgon, and a serpent.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Divine promise of Greek aid
+  summary: Juno and Minerva, from the clouds, use thunder and clashing arms as signs
+    that they aid Greece.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Army deployment and blood omen
+  summary: The Greek forces move into formation near the trench and mound, while Jove
+    rains blood-red drops over the fatal field before the day's slaughter.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Book XI argument preview
+  summary: The prose argument previews Agamemnon leading the Greeks, Hector's later
+    slaughter, wounds to several Greek heroes, rescues, and Patroclus being urged
+    toward intervention.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: divine dispatch of discord to incite battle
+  taxonomy_refs:
+  - chaos
+  basis: Eris/Discord is sent by Jove with a blazing torch, descends to the Greek
+    fleet, and alarms the army into renewed combat desire.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy link to chaos is based on Discord's war-rousing function;
+    the passage does not present a cosmogonic chaos motif.
+- id: motif:2
+  label: royal or heroic arming before battle
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Agamemnon, called king of men, rises first and dresses in conspicuously radiant,
+    symbol-laden armor before leading the host.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage emphasizes martial preparation and status display; it does
+    not explicitly state a legitimacy ritual.
+- id: motif:3
+  label: friendship-gift of prestigious armor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The cuirass is described as a glorious gift sent by Cinyras to gain Agamemnon's
+    friendship after hearing of the Greek host.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The exchange is royal and prestigious, but the passage does not explicitly
+    call the gift sacred.
+- id: motif:4
+  label: divine war omen of blood rain
+  taxonomy_refs:
+  - divine_judgment
+  basis: Jove rains red drops of blood over the fatal field before the slaughter that
+    will stain the day.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The omen is clearly divine and ominous, but the passage frames it as sorrow
+    or foreknowledge rather than explicit judgment.
+- id: motif:5
+  label: serpent imagery on warrior equipment
+  taxonomy_refs: []
+  basis: Agamemnon's armor and shield include dragon figures and a mimic serpent ending
+    in three heads.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a visual symbol motif within equipment description rather than
+    a narrative serpent encounter.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10691-10730
+  quote_or_summary: The argument previews Agamemnon arming and leading the Greeks,
+    Hector and the Trojans, divine signals of war, wounds and rescues, and Patroclus
+    being urged to help.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 10731-10740
+  quote_or_summary: At dawn, "baleful Eris" is sent by Jove, holding "The torch of
+    discord" and descending through red skies toward the fleet.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short quote used.
+- id: ev:3
+  type: summary
+  locator: 10741-10754
+  quote_or_summary: Eris stands on Ulysses' ship, thunders through sea and land, sounds
+    the Orthian song, and the Greek warriors take up arms with renewed desire for
+    combat.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 10757-10784
+  quote_or_summary: 'Agamemnon arms first in radiant equipment: greaves, Cinyras''
+    gifted cuirass, sword, shield with Gorgon and serpent, horse-haired helmet, and
+    two javelins; armor decorations include dragons and a celestial-bow comparison.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 10785-10788
+  quote_or_summary: Juno and Minerva promise aid to Greece with thunder and by clashing
+    their arms in the air from the clouds.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 10789-10806
+  quote_or_summary: Chariots, foot soldiers, light-armed fighters, and squadrons deploy
+    near the trench and mound; Jove rains red drops of blood over the fatal field
+    before the day's slaughter.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is strong for the supplied passage. Motif-family assignments
+    are cautious because several available taxonomy labels only approximately match
+    martial epic scenes and symbols. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Comparison claims are left empty because no explicit cross-tradition or nearby-corpus comparison is made in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l10691-l10806
+  passage_sha256=aaf63424105e7c590e737b0b41768489b36628d5874b642a7918dab689f3c3a4

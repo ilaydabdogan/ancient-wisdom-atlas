@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l8970-l9009
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE SINGLE COMBAT OF HECTOR AND AJAX. / BOOK VIII. / ARGUMENT. / THE SECOND
+    BATTLE, AND THE DISTRESS OF THE GREEKS.; lines 8970-9009
+  start: '8970'
+  end: '9009'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: 'Full hecatombs lay burning on the shore: / The winds to heaven the curling
+    vapours bore.'
+  summary: After a leader speaks, the host applauds, unyokes horses, brings animals,
+    wine, and bread, and burns hecatombs on the shore. The narrator states that the
+    offering does not win divine favor for Priam, his sons, or Troy. The troops sit
+    by many fires before Ilion, described through a moonlit-night simile, while guards,
+    horses, and warriors wait for morning.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A leader speaks, and the surrounding host answers with applause along the
+    shore.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The troops unyoke smoking steeds and fasten headstalls to the chariot side.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sheep, oxen, wine, and bread are brought from the town, and hecatombs burn
+    on the shore.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Smoke or vapors from the burning offerings are carried upward by the winds
+    toward heaven.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that the immortal powers remain angry with Troy and do
+    not grant grace to Priam or his sons.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The troops sit in order around the fires, which illuminate the ground.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A simile compares the many fires to a clear moonlit night with planets, stars,
+    trees, mountains, vales, rocks, and a bright sky.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Many flames burn before Ilion and cast reflected light on Xanthus, walls,
+    spires, and the field.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Each flaming pile is attended by fifty guards; horses neigh over heaps of
+    corn while warriors wait for morning.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the leader
+  description: Unnamed leader who speaks at the beginning of the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the host or troops
+  description: The assembled warriors who applaud, unyoke horses, sit around fires,
+    and wait for morning.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the immortal powers
+  description: Divine powers to whom offerings are made, but whose wrath remains upon
+    Troy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Priam and his sons
+  description: Named Trojan royal figures who do not obtain grace from the immortal
+    powers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Troy or Ilion
+  description: The city described as hated by the immortal powers and as the place
+    before which many flames blaze.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: guards
+  description: Fifty guards attend each flaming pile.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: coursers
+  description: Horses that neigh over heaps of corn.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: speaker
+  assigned_to:
+  - fig:1
+  basis: The figure is introduced as speaking before the host responds.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: assembled army
+  assigned_to:
+  - fig:2
+  basis: The host applauds, manages horses, sits by fires, and waits for morning.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:3
+  label: divine recipients withholding favor
+  assigned_to:
+  - fig:3
+  basis: Offerings are made to the immortal powers, but their wrath remains and their
+    grace is not obtained.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: objects of divine wrath
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Priam, his sons, and Troy are described as not receiving divine grace and
+    as hated by the immortal powers.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: night watch or encamped warriors
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: Warriors and guards remain by the fires through the night awaiting morning.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: burning hecatombs
+  literal_form: sacrificial animals burning on the shore
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fire
+  literal_form: campfires, flaming piles, and burning offerings
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: smoke rising to heaven
+  literal_form: curling vapors borne upward by the winds
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: moonlit sky
+  literal_form: moon, planets, stars, and bright night sky in the simile
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: mountain heads in moonlight
+  literal_form: mountain tops tipped with silver in the simile
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Xanthus lit by firelight
+  literal_form: the river or place named Xanthus glimmering with rays from the fires
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Offerings and encampment after the leader’s speech
+  summary: The leader speaks, the host applauds, horses are unyoked, food and sacrificial
+    animals are brought, and hecatombs burn on the shore.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Divine disfavor toward Troy
+  summary: The narrator states that the offerings do not win favor because the immortal
+    powers remain wrathful toward Troy, Priam, and Priam’s sons.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Night fires before Ilion
+  summary: The troops sit in ordered groups by many fires before Ilion; the fires
+    are compared to moonlit brightness and reflect on Xanthus, walls, spires, and
+    the field while guards, horses, and warriors wait for morning.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacrifice offered to divine powers
+  taxonomy_refs:
+  - sacrifice
+  basis: The army brings sheep, oxen, wine, and bread, and burns hecatombs whose vapors
+    rise toward heaven as offerings to immortal powers.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage emphasizes the rite’s failure to secure divine grace; it does
+    not describe a successful exchange.
+- id: motif:2
+  label: divine wrath against a city and royal house
+  taxonomy_refs:
+  - divine_judgment
+  basis: The immortal powers are said to keep wrath over the Trojan towers and to
+    deny grace to Priam, his sons, and Troy.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage states divine hatred and wrath but does not narrate a specific
+    judgment event within this excerpt.
+- id: motif:3
+  label: watchfires before a besieged city
+  taxonomy_refs: []
+  basis: Many fires blaze before Ilion, with guards attending each pile and warriors
+    waiting for morning.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly names this military-night-watch pattern.
+- id: motif:4
+  label: celestial simile for earthly firelight
+  taxonomy_refs: []
+  basis: The passage compares the army’s many fires to moonlight, planets, stars,
+    and a luminous night sky.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a poetic image rather than a narrative mythic event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8970-8974
+  quote_or_summary: A leader speaks; the surrounding host applauds along the shore,
+    unyokes smoking steeds, and fastens headstalls to chariots.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 8975-8978
+  quote_or_summary: "“Fat sheep and oxen from the town are led, / With generous wine,
+    and all-sustaining bread, / Full hecatombs lay burning on the shore: / The winds
+    to heaven the curling vapours bore.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: summary
+  locator: lines 8979-8984
+  quote_or_summary: The offering is called ungrateful to the immortal powers; their
+    wrath remains over Troy, and Priam, his sons, and Troy do not obtain divine grace.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 8985-9000
+  quote_or_summary: The troops sit in order around fires; a simile describes a clear
+    moonlit night with planets, stars, trees, mountains, vales, rocks, and rejoicing
+    swains.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 9001-9009
+  quote_or_summary: Many flames blaze before Ilion, light Xanthus, reflect on walls
+    and spires, and gild the field; fifty guards attend each pile while horses neigh
+    and warriors await morning.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal actions and images are clear in the passage. Motif classification
+    is limited to the supplied taxonomy and should be reviewed, especially the divine_judgment
+    label and symbolic tagging of mountain and water imagery in a simile.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific cross-textual or cross-traditional comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l8970-l9009
+  passage_sha256=c558ac3c2f8f1e345dc1f8d7c214823a7b41afaeea3a7bc3e6628c4b54723b30

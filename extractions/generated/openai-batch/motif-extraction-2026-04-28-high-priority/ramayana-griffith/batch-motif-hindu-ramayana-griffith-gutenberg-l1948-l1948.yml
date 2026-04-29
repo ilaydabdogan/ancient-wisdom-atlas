@@ -1,0 +1,72 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l1948-l1948
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto IV. The Rhapsodists. / Canto VI. The King. / Canto VII. The Ministers.
+    / Canto IX. Rishyasring.; lines 1948-1948
+  start: '1948'
+  end: '1948'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Canto IX. Rishyasring.
+  summary: The line is a canto heading naming Rishyasring.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a canto heading.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heading names Rishyasring.
+  category: other
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Rishyasring
+  description: Named in the canto heading.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: named canto subject
+  assigned_to:
+  - fig:1
+  basis: Rishyasring is the name supplied in the canto heading.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 1948
+  quote_or_summary: Canto IX. Rishyasring.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage contains only a heading, so extraction is limited to the named
+    title subject; no motif or comparison is supported by this line alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No symbols, scenes, or motifs were inferred from the heading alone.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l1948-l1948
+  passage_sha256=53a6a73b6eac168578d60d60685954a2be43b5213f5578c7ca71197fb91a83e8

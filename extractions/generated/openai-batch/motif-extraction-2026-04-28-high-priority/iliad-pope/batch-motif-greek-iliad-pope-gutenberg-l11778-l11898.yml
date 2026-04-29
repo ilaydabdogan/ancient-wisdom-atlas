@@ -1,0 +1,476 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l11778-l11898
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE THIRD BATTLE, AND THE ACTS OF AGAMEMNON. / BOOK XII. / ARGUMENT. / THE
+    BATTLE AT THE GRECIAN WALL.; lines 11778-11898
+  start: '11778'
+  end: '11898'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Book XII argument and opening narrative: the Trojans press the Greek wall;
+    the narrator notes the wall was raised without due divine honors and will later
+    be destroyed by gods and floodwaters. In the present battle Hector drives the
+    Greeks toward their ships. The ditch and stakes prevent chariot attack, and Polydamas
+    counsels Hector and the allied leaders to leave the horses behind and assault
+    on foot.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The argument states that Hector attempts to force the Greek intrenchments
+    and that the Trojans begin an assault divided into five bodies of foot after Polydamas
+    advises leaving the chariots.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The argument reports an eagle with a serpent in its talons appearing on the
+    left hand of the Trojans, after which Polydamas tries to withdraw them and Hector
+    opposes him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Greek wall and trench are described as ill-fated works because divine
+    powers were neglected and no victim was slain.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In a later time, Neptune, Apollo, Jove, and redirected rivers destroy the
+    wall and carry its ruins to the sea.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the divine flood, the place of the wall is smoothed with sand, no fragment
+    remains visible, and the rivers run again in their old bounds.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the present battle, Hector drives the Greeks close by their ships and is
+    compared to a fierce boar or lion surrounded by hunters and dogs.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The trench is deep and steep, with sharpened stakes below, making it impassable
+    for horses and chariots but possible for foot soldiers to attempt.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Polydamas warns that chariots cannot enter the narrow, staked trench area
+    and that if the Greeks counterattack, the Trojans could be trapped and destroyed
+    there.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Polydamas advises the warriors to lead the horses back, dismount, form a firm
+    array, proceed on foot, and let Hector lead.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Hector
+  description: Trojan leader pressing the attack at the Greek wall; in Polydamas's
+    advice, he is to lead the foot assault.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Polydamas
+  description: Trojan counselor who restrains Hector, evaluates the trench, and advises
+    dismounting for the assault.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Trojans and confederate chiefs
+  description: The attacking army at the Greek wall, including allied leaders from
+    foreign lands addressed by Polydamas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:4
+  name_or_label: Greeks / Grecians
+  description: Defenders near their ships and behind the wall and trench.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Neptune
+  description: God of ocean who wounds the shore with his trident and heaves stones
+    and piles from their foundations during the later destruction of the wall.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Apollo / Phoebus
+  description: God who turns rivers from their accustomed courses in the later destruction
+    of the wall.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Jove / the Thunderer
+  description: God who pours incessant cataracts and rain during the later destruction
+    of the wall; also invoked by Polydamas as the source of Trojan favor if he consents.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:8
+  name_or_label: Eagle with serpent
+  description: 'Omen reported in the argument: an eagle carries a serpent in its talons
+    on the Trojans'' left side.'
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: attacking leader
+  assigned_to:
+  - fig:1
+  basis: Hector approaches the Greek wall, drives the field, exhorts his armies, and
+    is named as leader in the proposed foot assault.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: strategic adviser
+  assigned_to:
+  - fig:2
+  basis: Polydamas identifies the danger of chariots at the trench and gives counsel
+    to dismount and proceed on foot.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: attacking host
+  assigned_to:
+  - fig:3
+  basis: The Trojans assault the Greek wall and are addressed as warriors and allied
+    chiefs by Polydamas.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: defending host
+  assigned_to:
+  - fig:4
+  basis: The Greeks are behind the wall and trench, close by their ships, and are
+    the target of the Trojan attack.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: divine destroyer of mortal works
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Neptune, Apollo, and Jove act through sea, rivers, trident, and rain to erase
+    the Greek wall.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: divine arbiter invoked in battle
+  assigned_to:
+  - fig:7
+  basis: Polydamas frames Trojan success as dependent on Jove's will or consent.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: ominous sign
+  assigned_to:
+  - fig:8
+  basis: The argument says the eagle with a serpent appears as a signal that prompts
+    Polydamas to urge withdrawal.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: serpent in eagle's talons
+  literal_form: serpent held by an eagle
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: floodwaters and rivers
+  literal_form: rivers, cataracts, rain, and sea-waves used to destroy the wall
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Greek wall / bulwark
+  literal_form: mortal defensive wall, rampart, and bulwark raised by the Greeks
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: trench with sharpened stakes
+  literal_form: deep ditch or trench with sharpened stakes below
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: ships
+  literal_form: hollow ships of the Greeks
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: trident
+  literal_form: Neptune's huge trident used to wound the shore
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: chariots and steeds
+  literal_form: Trojan chariots and horses unable to cross the trench
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Argument summary of the assault and omen
+  summary: The introductory argument says Hector attacks the Greek wall, Polydamas
+    first advises leaving the chariots, an eagle carrying a serpent appears on the
+    Trojans' left, Polydamas urges withdrawal, Hector refuses, and the assault eventually
+    reaches the wall and gate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Future divine destruction of the Greek wall
+  summary: The narrator pauses to describe how the wall, built without proper divine
+    honor or sacrifice, will later be destroyed by gods, rivers, rain, and sea until
+    no fragment remains.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Hector presses the Greeks toward the ships
+  summary: While the wall still stands, Hector's fury drives the Greeks back near
+    their ships, and he is compared to a powerful boar or lion surrounded by hunters.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Polydamas counsels a foot assault
+  summary: The horses recoil at the ditch and stakes. Polydamas explains that chariots
+    will be trapped and advises the Trojans to lead the horses away, dismount, form
+    ranks, and follow Hector on foot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine destruction of an impious mortal work
+  taxonomy_refs:
+  - divine_judgment
+  basis: The wall is said to have been raised while the gods' powers were neglected
+    and no victim slain; later Neptune, Apollo, and Jove destroy it through flood,
+    rivers, and sea.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not present a formal trial or explicit spoken sentence
+    of judgment; the judgment pattern is inferred from divine adversity linked to
+    neglected rites.
+- id: motif:2
+  label: flood erasure and restoration of landscape
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: Diverted rivers, rain, and waves overwhelm the wall for nine days, after
+    which the shore is smoothed, no fragment remains, and rivers return to their old
+    bounds.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The flood destroys a battlefield structure rather than renewing a human
+    community; the renewal aspect is limited to restoration of the landscape.
+- id: motif:3
+  label: neglected sacrifice before construction
+  taxonomy_refs:
+  - sacrifice
+  basis: The narrator states that no victim was slain and the gods' powers were neglected
+    when the wall and trenches were made.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage emphasizes the absence of sacrifice rather than narrating
+    a sacrificial act.
+- id: motif:4
+  label: ominous serpent carried by a bird
+  taxonomy_refs: []
+  basis: The argument reports an eagle with a serpent in its talons appearing on the
+    Trojans' left, prompting Polydamas to try to withdraw the army.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The provided passage gives only the argument's summary of the omen, not
+    the full omen scene or its interpretation.
+- id: motif:5
+  label: strategic abandonment of chariots at a boundary obstacle
+  taxonomy_refs: []
+  basis: Polydamas identifies the trench and stakes as impassable for chariots and
+    advises the Trojans to dismount and attack as foot soldiers.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a tactical battle motif rather than one of the supplied mythic
+    motif-family taxonomy entries.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11778-11796
+  quote_or_summary: 'Book XII argument: Hector attacks the Greek intrenchments; Polydamas
+    advises leaving the chariots; an eagle with a serpent appears on the Trojans''
+    left; Polydamas urges withdrawal, Hector opposes him, and the attack continues.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: 11797-11804
+  quote_or_summary: Trojans and Greeks fight at the wall; the wall and trench are
+    called ill-fated because they were made with the gods' powers neglected and no
+    victim slain.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: 11805-11828
+  quote_or_summary: 'In later times Neptune and Apollo, with rivers and Jove''s rain,
+    destroy the wall: waters undermine it, Neptune uses his trident, ruins are swallowed
+    by waves, sand levels the place, and the rivers return to their old courses.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: 11829-11843
+  quote_or_summary: Before that future destruction, the wall still stands; Hector
+    drives the Greeks close by their ships and is likened to a boar or lion resisting
+    hunters and dogs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: 11844-11854
+  quote_or_summary: The Trojan horses stop at the brink of a deep, steep trench whose
+    bottom is bare and thick with sharpened stakes; foot soldiers alone could attempt
+    the passage.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:6
+  type: summary
+  locator: 11855-11883
+  quote_or_summary: Polydamas tells Hector and the allied chiefs that chariots cannot
+    enter the narrow trench without many wounds, warns that a Greek counterattack
+    could trap and destroy the Trojans, and counsels dismounting, leading the horses
+    back, forming ranks, and following Hector on foot if Jove consents.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal battle action and divine destruction are explicit. Motif labels are
+    cautious; the omen is only summarized in the argument rather than narrated in
+    full in this excerpt. No comparison claims were added because the passage itself
+    does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only provided passage text and metadata were used. Taxonomy references were limited to supplied motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l11778-l11898
+  passage_sha256=cf40815c420da574fd464f9d9cfed6d1a2b2b357eec024b103c4f56099398490

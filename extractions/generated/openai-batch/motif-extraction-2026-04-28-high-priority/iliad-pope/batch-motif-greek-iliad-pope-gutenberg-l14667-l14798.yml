@@ -1,0 +1,497 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l14667-l14798
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: JUNO DECEIVES JUPITER BY THE GIRDLE OF VENUS. / BOOK XV. / ARGUMENT. / THE
+    FIFTH BATTLE AT THE SHIPS; AND THE ACTS OF AJAX.; lines 14667-14798
+  start: '14667'
+  end: '14798'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Greek leaders prepare to defend the ships while Apollo leads the Trojan
+    assault with Jupiter's shield. When Apollo shakes the shield, the Greeks panic
+    and are driven back. Hector forbids plunder and urges the Trojans toward the fleet.
+    Apollo levels the trench and wall, opening a road for men, horses, and chariots.
+    Nestor prays to Jove to save the ships; Jove answers with thunder, but the Trojans
+    mistake it as encouragement. Meanwhile Patroclus tends wounded Eurypylus, then
+    leaves to urge Achilles to return to battle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ajax, Teucer, Merion, and Meges command and encourage Greek forces to meet
+    the approaching Trojans and defend the ships and shore.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Apollo leads the battle with a cloud-veiled head and holds Jupiter's enormous
+    shield before him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When Apollo bears the shield unmoved, the battle remains undecided; when he
+    shakes it and shouts, fear seizes the Greeks.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hector leads the slaughter and commands the Trojans not to stop for plunder,
+    threatening death and denial of funeral rites for anyone who lingers or flees.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Apollo pushes down the bank at the trench, creating a road through the ditch
+    for men, horses, and chariots.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Apollo shakes the Greek wall with his hand, and the towers and bulwarks fall.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Greeks pray in despair, and Nestor asks Jove to preserve the ships from
+    flame and save the remains of the Greek force.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Jove answers Nestor's prayer with thunder, but the Trojans interpret the sign
+    as favoring them and attack with renewed force.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Patroclus tends the wounded Eurypylus with healing balms and conversation,
+    then leaves to urge Achilles to return to battle.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Apollo / Phoebus
+  description: A god who leads the Trojan assault, carries Jupiter's shield, fills
+    the Greeks with fear, and destroys the trench and wall.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Hector
+  description: Trojan leader who presses the attack, leads slaughter, and commands
+    the Trojans to advance toward the fleet rather than plunder.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Greek forces
+  description: Defenders at the ships and shore who become dismayed, retreat toward
+    the trench and wall, pray, and continue resisting around the ships.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Trojan forces
+  description: Attackers who advance behind Hector and Apollo, cross the leveled trench,
+    scale the wall, and fight around the ships.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Nestor
+  description: An experienced Greek elder who prays to Jove for the preservation of
+    the ships and Greek survivors.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Jove / Jupiter
+  description: God whose shield is borne by Apollo and who answers Nestor's prayer
+    with thunder.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Patroclus
+  description: Companion of Achilles who tends Eurypylus and then goes to urge Achilles
+    to rejoin the war.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Eurypylus
+  description: A wounded Greek tended by Patroclus in the tent.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Achilles
+  description: Absent warrior whom Patroclus intends to urge back into battle.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine battle leader
+  assigned_to:
+  - fig:1
+  basis: Apollo directly leads the rushing battle before the Trojans.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: supernatural destroyer of defenses
+  assigned_to:
+  - fig:1
+  basis: Apollo levels the trench and wall by direct action.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: human war leader
+  assigned_to:
+  - fig:2
+  basis: Hector leads the slaughter and directs the Trojans toward the fleet.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: besieged defenders
+  assigned_to:
+  - fig:3
+  basis: The Greeks defend the ships and wall, then panic and pray as the assault
+    reaches them.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:5
+  label: attacking host
+  assigned_to:
+  - fig:4
+  basis: The Trojans press forward, cross the opened defenses, and attack at the ships.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:6
+  label: intercessory elder
+  assigned_to:
+  - fig:5
+  basis: Nestor prays to Jove on behalf of the Greeks and their ships.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: divine responder
+  assigned_to:
+  - fig:6
+  basis: Jove gives consent through thunder after Nestor's prayer.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: healer and envoy
+  assigned_to:
+  - fig:7
+  basis: Patroclus treats Eurypylus and then leaves to speak to Achilles.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: wounded companion
+  assigned_to:
+  - fig:8
+  basis: Eurypylus is wounded and cared for by Patroclus.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: needed absent champion
+  assigned_to:
+  - fig:9
+  basis: Patroclus hopes to persuade Achilles to rise in arms again.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Jupiter's shield
+  literal_form: Enormous divine shield held by Apollo and used to terrify the Greeks.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: trench and wall
+  literal_form: Greek defensive works around the ships, including a ditch, mound,
+    towers, and bulwarks.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: ships / fleet
+  literal_form: Greek ships threatened by the Trojan assault and by fire.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: thunder sign
+  literal_form: Peals of thunder from Jove after Nestor's prayer.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: fire threat
+  literal_form: The flame from which Nestor asks Jove to preserve the Greek ships.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: healing balms
+  literal_form: Balms Patroclus applies to wounded Eurypylus.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Apollo leads the Trojan assault
+  summary: Greek chiefs prepare the defense, while Apollo advances before the Trojans
+    with Jupiter's shield and the battle begins at the ships.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Greek panic and Hector's command
+  summary: After Apollo shakes the shield, the Greeks flee or fall; Hector orders
+    the Trojans to press toward the fleet and not stop for plunder.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Apollo opens the defenses
+  summary: Apollo collapses the trench and wall, creating a passage for the Trojan
+    forces and their chariots.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Nestor's prayer and Jove's thunder
+  summary: The Greeks pray in despair; Nestor invokes earlier offerings and asks Jove
+    to save the ships. Jove thunders in response, but the Trojans mistake the sign
+    and attack harder.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Patroclus leaves Eurypylus to seek Achilles
+  summary: Patroclus tends Eurypylus in the tent, sees the Trojan advance, and leaves
+    to urge Achilles to return to battle.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine intervention turns the battle
+  taxonomy_refs: []
+  basis: Apollo's direct leadership and use of Jupiter's shield cause Greek panic
+    and enable the Trojan advance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level motif label rather than one of the supplied taxonomy
+    families.
+- id: motif:2
+  label: supernatural breaching of fortifications
+  taxonomy_refs: []
+  basis: Apollo levels the trench and wall, allowing Trojans, horses, and chariots
+    to pass.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly names this war motif.
+- id: motif:3
+  label: prayer answered by ambiguous divine sign
+  taxonomy_refs: []
+  basis: Nestor prays for rescue; Jove answers with thunder, but the Trojans misread
+    the sign as encouraging their attack.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage reports the sign and its mistaken interpretation but does
+    not elaborate a formal omen system.
+- id: motif:4
+  label: absent champion must be recalled
+  taxonomy_refs:
+  - return
+  basis: Patroclus leaves his wounded friend to urge Achilles to rise in arms and
+    return to the war.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage anticipates an attempt to recall Achilles but does not show
+    Achilles' actual return here.
+- id: motif:5
+  label: healing companion interrupted by battlefield crisis
+  taxonomy_refs: []
+  basis: Patroclus tends Eurypylus with balms and speech, then departs because the
+    battle at the ships has become urgent.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a narrative pattern extracted from this scene, not a supplied
+    taxonomy family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14667-14684
+  quote_or_summary: Greek leaders command the defense; Apollo leads the battle with
+    a cloud-veiled head and holds Jove's shield before him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 14685-14710
+  quote_or_summary: When Apollo shakes the shield and shouts, the Greeks are seized
+    by fear; Hector and the Trojans press behind him and many Greeks are slain.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 14711-14731
+  quote_or_summary: Hector forbids plunder, threatens death and denial of funeral
+    rites, and drives the Trojans toward the fleet.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 14732-14749
+  quote_or_summary: Apollo stands at the trench, pushes down the bank, creates a broad
+    road, then shakes the wall so its towers and bulwarks fall.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 14750-14764
+  quote_or_summary: The Greeks pray in despair; Nestor invokes former offerings and
+    asks Jove to preserve the ships from flame and save the Greek remnant.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 14765-14779
+  quote_or_summary: Jove answers with thunder; the Trojans mistake the sign and renew
+    their attack, climbing the wall and fighting around the ships.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 14780-14798
+  quote_or_summary: Patroclus tends wounded Eurypylus with balms and speech, sees
+    the Trojan advance, and leaves to urge Achilles to return to battle.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are cautious
+    passage-level descriptions; comparison claims are omitted because the passage
+    itself does not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unstated taxonomy IDs were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l14667-l14798
+  passage_sha256=2a5a7adef859a9fb9bc7f14e700cb0a8737248b382ff2edb4d13d12d421e0833

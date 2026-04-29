@@ -1,0 +1,537 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l23817-l23945
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE REDEMPTION OF THE BODY OF HECTOR. / CONCLUDING NOTE. / A. POPE / END
+    OF THE ILIAD; lines 23817-23945
+  start: '23817'
+  end: '23945'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of editorial notes and literary parallels. It mentions
+    a divine oath among the gods, explains a double bowl, recounts Jove’s punishment
+    of Juno and Vulcan’s fall from Olympus to Lemnos, describes the Olympian gods
+    as a political community, discusses Jupiter’s deception and a personified Dream
+    sent by Minerva, and comments on royal regalia such as a sceptre and a divine
+    cup transmitted through heroic lineages.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A will is pronounced among the gods and confirmed by an oath said to shake
+    heaven’s circumference.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A double bowl is explained as a vessel with a cup at both ends.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Jove fastens iron anvils to Juno’s feet and hangs her from the sky after she
+    raises a storm and casts him into sleep.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Vulcan attempts to relieve Juno and is kicked down from Olympus, later associated
+    with Lemnos.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The gods are described as having a political community with hierarchy, ranks,
+    duties, contests for power, public meetings on Olympus, and banquets or festivals.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note says Plato objected to Jupiter’s deception, while another commentator
+    says the supreme father of gods and men could employ a lying spirit to work out
+    his will.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Dream is treated as personified and as the god of dreams; a quoted parallel
+    describes a fraudful Dream sent by Minerva from the skies.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A sceptre is described as a type of the wide dominion of the house of the
+    Atrides and is traced through Hermes.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A golden cup is described as made by divine art and transmitted from Vulcan
+    to Jove, then through Dardanus, Ericthonius, Tros, Ilus, Laomedon, and finally
+    Priam.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the gods
+  description: A collective divine community among whom a will is pronounced and whose
+    polity is described in the notes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Jove / Jupiter
+  description: The supreme father of gods and men; he punishes Juno and Vulcan and
+    is discussed in relation to deception.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: Juno
+  description: A goddess who raises a storm, casts Jove into sleep, and is punished
+    by being hung from the sky with iron anvils fastened to her feet.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Vulcan / Mulciber
+  description: A divine smith figure who attempts to relieve Juno, is kicked down
+    from Olympus, and is named in a quoted Miltonic parallel as Mulciber.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:5
+  name_or_label: Hercules
+  description: Jove’s son; Juno’s storm prevents Jove from aiding him after he takes
+    and pillages Troy.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Dream
+  description: A personified being identified as the god of dreams and described in
+    a quoted parallel as fraudful.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Minerva
+  description: The goddess named as sending a fraudful Dream from the skies in a quoted
+    parallel.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Hermes
+  description: The wealth-giving god through whose hands the sceptre is traced.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: house of the Atrides
+  description: The dynastic house whose wide dominion is represented by the sceptre
+    in the note.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Dardanus-to-Priam royal line
+  description: 'A sequence of possessors of the golden cup: Dardanus, Ericthonius,
+    Tros, Ilus, Laomedon, and Priam.'
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: divine assembly or community
+  assigned_to:
+  - fig:1
+  basis: The notes describe gods receiving a pronounced will and forming a political
+    community with meetings, hierarchy, and banquets.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: punishing divine ruler
+  assigned_to:
+  - fig:2
+  basis: Jove punishes Juno and Vulcan and is called the supreme father of gods and
+    men in a note about deception.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: punished goddess
+  assigned_to:
+  - fig:3
+  basis: Juno is hung from the sky with iron anvils fastened to her feet after obstructing
+    Jove’s aid to Hercules.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: rescuer and fallen god
+  assigned_to:
+  - fig:4
+  basis: Vulcan tries to relieve Juno and is kicked down from Olympus.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine son whose aid is obstructed
+  assigned_to:
+  - fig:5
+  basis: Juno’s storm and induced sleep are said to prevent Jove from aiding Hercules,
+    his son.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: personified deceptive dream
+  assigned_to:
+  - fig:6
+  basis: Dream is capitalized and identified as the god of dreams; the quoted parallel
+    calls it fraudful.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: sender of dream
+  assigned_to:
+  - fig:7
+  basis: The quoted parallel says Dream is sent by Minerva.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: wealth-giving transmitter
+  assigned_to:
+  - fig:8
+  basis: Hermes is named as the wealth-giving god through whom the sceptre is traced.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: dynastic recipients or possessors
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: The sceptre is tied to the Atrides’ dominion, and the golden cup passes through
+    a royal succession ending with Priam.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: heaven-shaking oath
+  literal_form: an oath that shakes heaven’s circumference
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: double bowl
+  literal_form: a vessel with a cup at both ends
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: iron anvils
+  literal_form: iron anvils fastened to Juno’s feet
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Olympus and heaven
+  literal_form: Olympus, the sky, and heaven as elevated divine locations
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: falling star
+  literal_form: a god dropping from the zenith like a falling star in a quoted parallel
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: sceptre of dominion
+  literal_form: a sceptre described as a type of the dominion of the house of the
+    Atrides
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: golden divine cup
+  literal_form: a golden cup framed by divine art and transmitted through gods and
+    kings
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: divine will confirmed by oath
+  summary: A will is pronounced among the gods and confirmed by an oath described
+    as shaking the circumference of heaven.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jove’s punishment and Vulcan’s fall
+  summary: Jove punishes Juno for obstructing aid to Hercules, and Vulcan, attempting
+    to relieve her, is thrown down from Olympus toward Lemnos.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Olympian political community
+  summary: A commentary note describes the gods as a community with hierarchy, ranks,
+    duties, power struggles, public meetings on Olympus, and festivals.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: personified deceptive Dream
+  summary: Dream is treated as a personified god of dreams and is compared with a
+    fraudful Dream sent by Minerva from the skies.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: transmission of royal and divine regalia
+  summary: A sceptre is explained as a sign of Atrid dominion and traced through Hermes;
+    a golden cup is described as passing from divine makers and givers through a Trojan
+    royal line ending with Priam.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divine punishment after obstruction of divine will
+  taxonomy_refs:
+  - divine_judgment
+  basis: Jove punishes Juno for preventing him from aiding Hercules and also throws
+    down Vulcan when he tries to relieve her.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is a commentary note retelling a mythic episode rather than
+    the primary narrative passage itself.
+- id: motif:2
+  label: royal legitimacy through inherited regalia
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The sceptre is explicitly described as a sign of the dominion of the Atrides,
+    and the cup is transmitted through a named royal sequence ending with Priam.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The note interprets the regalia rather than narrating a full enthronement
+    scene.
+- id: motif:3
+  label: sacred exchange of divine gifts
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The golden cup is made by divine art and passed from Vulcan to Jove and then
+    through heroic and royal figures.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage lists transmission of an object; it does not dwell on ritual
+    exchange or reciprocal obligations.
+- id: motif:4
+  label: deceptive dream sent from a deity
+  taxonomy_refs: []
+  basis: Dream is personified and described as fraudful, sent by Minerva from the
+    skies in the quoted parallel; Jupiter’s deception is also discussed nearby.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: No available taxonomy reference precisely matches deceptive dream-sending;
+    this is retained as an unclassified candidate motif.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly aligns the fall of Vulcan/Mulciber from heaven or Olympus
+    with Milton’s retelling in Paradise Lost.
+  claim_level: same_motif
+  target: Milton, Paradise Lost i.738, Mulciber falling from heaven to Lemnos
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is made by the editor through quotation and annotation;
+    it does not establish historical dependence beyond the cited literary parallel.
+- id: claim:2
+  claim: The sceptre of the Atrides is compared functionally with the sceptre of Judah
+    as a sign of supreme or far-reaching dominion.
+  claim_level: same_function
+  target: Genesis xlix.10, sceptre of Judah
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to symbolic function as stated in the note and
+    does not imply a shared origin.
+- id: claim:3
+  claim: The personified Dream is compared with a passage from Quintus Calaber in
+    which Minerva sends a fraudful Dream from the skies.
+  claim_level: same_function
+  target: Quintus Calaber passage quoted in Dyce’s Select Translations
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a short quoted parallel, so the broader narrative
+    context is not available here.
+- id: claim:4
+  claim: The divine assembly is compared by commentary to a political community with
+    hierarchy, rank, meetings, and public festivals.
+  claim_level: same_function
+  target: human political community as described by Grote
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an interpretive analogy in a scholarly note, not a mythic episode
+    narrated in the passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 23817-23819 / note [71]
+  quote_or_summary: "“Pronounced among the gods, and by an oath, / That shook heavns
+    whole circumference, confirmd.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: note [72]
+  quote_or_summary: A double bowl is explained as a vessel with a cup at both ends.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: note [74]
+  quote_or_summary: Juno raises a storm and casts Jove into sleep; Jove punishes her
+    by hanging her from the sky with iron anvils on her feet; Vulcan tries to relieve
+    her and is kicked down from Olympus. The note quotes a Miltonic parallel in which
+    Mulciber falls from heaven to Lemnos like a falling star.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: note [75]
+  quote_or_summary: The gods are said to form “a sort of political community” with
+    hierarchy, ranks and duties, contests for power, meetings in the agora of Olympus,
+    and banquets or festivals.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: note [76]
+  quote_or_summary: The note says Plato was scandalized at Jupiter’s deception, while
+    Coleridge says the supreme father of gods and men could employ a lying spirit
+    to work out his will.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: note [77]
+  quote_or_summary: Dream is said to be capitalized because it is personified as the
+    god of dreams; the note quotes a fraudful Dream sent by Minerva from the skies.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: note [83]
+  quote_or_summary: The sceptre is compared with the sceptre of Judah and described
+    as a type of the wide dominion of the house of the Atrides; it is traced through
+    Hermes, the wealth-giving god.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: note [83]
+  quote_or_summary: A quoted passage describes a golden cup made by divine art, brought
+    by Vulcan to Jove, bestowed on Dardanus, then passed to Ericthonius, Tros, Ilus,
+    Laomedon, and Priam.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied passage is chiefly editorial commentary and quoted parallels
+    rather than continuous Iliad narrative, so motifs are extracted from the notes’
+    explicit summaries and comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only provided passage text and metadata were used. Taxonomy references were limited to the supplied lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l23817-l23945
+  passage_sha256=5b06d7aa7f503c2ba02cb33a02a2fa43b4063e38b5e8f0c090b154c64a5d0480

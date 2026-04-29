@@ -1,0 +1,297 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l21908-l21927
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LXXX. The Way Prepared. / Canto LXXXI. The Assembly. / Canto LXXXII.
+    The Departure. / Canto LXXXIII. The Journey Begun.; lines 21908-21927
+  start: '21908'
+  end: '21927'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“No mansions can our country boast, / And unexpected comes thy host:”"
+  summary: Bharat accepts Sumantra’s advice and commands that the aged king be brought
+    before him. King Guha approaches with his kinsmen, bows to Bharat, and offers
+    lodging and available forest provisions to Bharat’s unexpected host, asking that
+    they rest for the night and continue their journey the next day.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Bharat hears Sumantra’s counsel and agrees to it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bharat commands that the aged king be brought before him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: King Guha is accompanied by kinsmen and rejoices at being summoned.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: King Guha approaches Bharat, bows his head, and speaks to him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Guha says his country lacks mansions and that Bharat’s host has arrived unexpectedly.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Guha offers Bharat all that he has, including lodging.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Nishadas have brought fruit and roots gathered by hand.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Guha mentions woodland fare and stores of fresh and dried meat.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Guha asks that Bharat’s host rest for the night and depart the next day.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bharat
+  description: A prince who agrees to Sumantra’s advice and commands that the aged
+    king be brought before him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sumantra
+  description: The speaker whose counsel Bharat hears and accepts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: King Guha
+  description: A king who comes with kinsmen, bows to Bharat, and offers lodging and
+    provisions.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Guha’s kinsmen
+  description: Kinsmen near King Guha when he rejoices at the summons.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Nishadas
+  description: People who have brought fruit and roots gathered by hand.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Bharat’s host
+  description: A traveling host whose arrival is unexpected and whom Guha invites
+    to rest overnight.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: prince issuing command
+  assigned_to:
+  - fig:1
+  basis: Bharat is called a prince and commands that the aged king be brought before
+    him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: counsel-giver
+  assigned_to:
+  - fig:2
+  basis: Bharat hears and accepts Sumantra’s rede.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: aged king
+  assigned_to:
+  - fig:3
+  basis: Bharat asks for the aged king to be brought, and King Guha appears in response
+    to the summons.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: host offering hospitality
+  assigned_to:
+  - fig:3
+  basis: Guha offers lodging, provisions, and rest for Bharat’s host.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: providers of gathered food
+  assigned_to:
+  - fig:5
+  basis: The Nishadas have brought fruit and roots their hands have sought.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: unexpected traveling guests
+  assigned_to:
+  - fig:6
+  basis: Guha calls the host unexpected and asks that it rest for the night before
+    going on.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: hospitality provisions
+  literal_form: fruit, roots, woodland fare, fresh meat, and dried meat
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: temporary lodging
+  literal_form: lodging offered for the night
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Bharat accepts counsel and summons the king
+  summary: After hearing Sumantra’s advice, Bharat agrees and orders that the aged
+    king be brought before him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Guha offers forest hospitality
+  summary: King Guha approaches Bharat with humility and offers his available lodging
+    and forest provisions to the unexpected host, asking them to rest overnight before
+    departing.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: hospitality to a traveling royal party
+  taxonomy_refs: []
+  basis: Guha receives Bharat’s unexpected host with humility and offers lodging,
+    fruit, roots, woodland fare, and meat for their rest.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents practical hospitality; it does not frame the act
+    as ritual or supernatural.
+- id: motif:2
+  label: pause before departure
+  taxonomy_refs:
+  - departure
+  basis: Guha asks that the host rest for the night and continue on the next day.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The broader journey context is implied by the request to go tomorrow,
+    but the passage itself only covers the overnight pause and proposed departure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 21908-21912
+  quote_or_summary: 'Bharat hears Sumantra’s rede, agrees, and commands: “Go quickly
+    forth ... and bring / Before my face the aged king.”'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 21913-21916
+  quote_or_summary: King Guha, with his kinsmen near, rejoices at the summons, draws
+    nearer, bows his head, and addresses Bharat.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 21917-21920
+  quote_or_summary: 'Guha says his country has no mansions, the host is unexpected,
+    and adds: “what we have I give thee all: / Rest in the lodging of thy thrall.”'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 21921-21924
+  quote_or_summary: Guha says the Nishadas have brought fruit and roots, with woodland
+    fare and stores of fresh and dried meat.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 21925-21927
+  quote_or_summary: Guha asks that Bharat’s host stay and rest for the night, then
+    go on the next day cheered by what they can offer.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly identifies hospitality actions, figures, and provisions.
+    Motif classification is limited because the excerpt contains no explicit comparative
+    framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l21908-l21927
+  passage_sha256=b5ee7bddb8b708795e220e39580616cc18709942242241dcaa94efc27521a317

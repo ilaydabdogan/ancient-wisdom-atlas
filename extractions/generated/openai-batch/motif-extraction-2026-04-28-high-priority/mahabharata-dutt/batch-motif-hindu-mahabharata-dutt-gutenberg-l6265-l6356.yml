@@ -1,0 +1,460 @@
+---
+record_id: batch.motif.hindu-mahabharata-dutt-gutenberg-l6265-l6356
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+passage_locator:
+  label: BOOK X / KARNA-BADHA / BOOK XI / SRADDHA; lines 6265-6356
+  start: '6265'
+  end: '6356'
+  translation: Maha-bharata
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: At the banks of the Ganga, mourners offer sacred water to the dead after
+    battle. Pritha reveals to the Pandava brothers that Karna, slain by Arjun, was
+    her eldest son and was born through the Sun. The Pandavas, especially Yudhishthir,
+    grieve for the brother they unknowingly killed. Yudhishthir and Karna's widow
+    offer water oblations to Karna; the survivors bathe and return sadly to Hastina.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mourners cast off ornaments and make water offerings to slain fathers, husbands,
+    and sons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The rites take place along the shelving banks of the Ganga, described as crowded,
+    wide, and sea-like.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Pritha tells her sons that Karna was her eldest son and that the Sun inspired
+    his birth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pritha identifies Karna as the bowman slain by Arjun and previously regarded
+    as Radha's son, a chariot-driver.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Pandava brothers groan and weep after learning they had slain their brother.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Yudhishthir asks why Pritha hid Karna's birth and lineage.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Yudhishthir says the war's carnage might have been avoided if Karna had stood
+    beside his brothers.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Yudhishthir offers water oblation to Karna, and Karna's widow and the women
+    of his house also offer oblations.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After the rites, the survivors bathe in the sacred river and return to Hastina
+    in grief.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Yudhishthir's sorrowful sigh is compared to a trodden hissing snake.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Pritha
+  description: Mother who reveals that Karna was her eldest son.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Karna
+  description: Peerless warrior slain by Arjun; revealed as Pritha's eldest son and
+    elder brother of the Pandavas; his birth is associated with the Sun.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Pandava brothers
+  description: Pritha's sons who learn that Karna was their brother and mourn him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Yudhishthir
+  description: A Pandava who laments Karna as his elder brother and offers water oblation
+    to him.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Arjun
+  description: Warrior who slew Karna in battle and is named as wielder of gandiva.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:6
+  name_or_label: Surya / the Sun
+  description: Divine solar figure associated with Karna's birth and lustre.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Karna's widow and women of his house
+  description: Women who offer oblations to Karna and weep for him.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Mourners at the Ganga
+  description: Sorrowing wives, mothers, and a large host who perform rites for the
+    slain.
+  role_refs:
+  - role:10
+  - role:11
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: revealer of hidden kinship
+  assigned_to:
+  - fig:1
+  basis: Pritha discloses that Karna was her eldest son.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: mother
+  assigned_to:
+  - fig:1
+  basis: Pritha is addressed as mother by Yudhishthir and said to have borne Karna.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: slain elder brother
+  assigned_to:
+  - fig:2
+  basis: Karna is revealed as the Pandavas' honoured elder and is mourned as a brother
+    slain in battle.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: heroic warrior
+  assigned_to:
+  - fig:2
+  basis: Karna is described as a peerless bowman, leader of the Kuru forces, and mighty
+    warrior.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: solar-born figure
+  assigned_to:
+  - fig:2
+  basis: Pritha says the Sun inspired Karna's birth and that he moved sun-like with
+    rings and armour.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: unknowing kin-slayer and mourner
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The Pandavas weep for the brother they had slain; Yudhishthir laments Karna's
+    death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: ritual offerer
+  assigned_to:
+  - fig:4
+  basis: Yudhishthir makes water oblation to Karna.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: slayer in battle
+  assigned_to:
+  - fig:5
+  basis: Pritha identifies Karna as slain by Arjun in the war.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: divine birth source
+  assigned_to:
+  - fig:6
+  basis: Karna's birth is said to have been inspired by the Sun.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: mourning woman performing oblation
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Women offer sacred water to dead relatives and Karna's widow offers oblations
+    to him.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:11
+  label: funerary ritual participant
+  assigned_to:
+  - fig:8
+  basis: A large host of mourners proceeds to perform the rite at the Ganga.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: sacred water
+  literal_form: Water offered as oblation to the dead
+  associated_figures:
+  - fig:4
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: Ganga river
+  literal_form: Sacred sea-like stream and riverbank where rites and ablutions occur
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: solar birth and radiance
+  literal_form: Sun-inspired birth; Karna shining with Surya's lustre and wearing
+    rings and armour
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: hidden fire image
+  literal_form: Birth and lineage hidden as flaming fire hidden in folded garments
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: hissing snake image
+  literal_form: Yudhishthir's sigh compared to a trodden hissing snake
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Water rites for the battle-dead at the Ganga
+  summary: A large group of mourners gathers at the Ganga and offers sacred water
+    to slain fathers, husbands, and sons.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pritha reveals Karna's birth
+  summary: Pritha tells her sons that Karna, slain by Arjun and known as Radha's son,
+    was actually her eldest son and was born through the Sun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pandava lament for slain kin
+  summary: The Pandavas grieve after learning Karna was their brother; Yudhishthir
+    laments the hidden lineage and imagines that the war might have been avoided.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: scene:4
+  label: Oblations to Karna and departure from the river
+  summary: Yudhishthir and Karna's widow offer oblations to Karna; survivors bathe
+    in the river and return sadly to Hastina.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: funerary water offering to the dead
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Living mourners offer sacred water to dead kin and warriors at the Ganga.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy does not include a specific funerary-rite motif;
+    sacred_exchange is an approximate fit because offerings are made to the dead.
+- id: motif:2
+  label: hidden birth and revealed kinship after fatal conflict
+  taxonomy_refs:
+  - sibling_pair
+  basis: Pritha reveals after Karna's death that he was the Pandavas' elder brother,
+    producing grief over kin-killing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage concerns a larger sibling group rather than only a pair, so
+    the taxonomy reference is approximate.
+- id: motif:3
+  label: divine solar parentage of a hero
+  taxonomy_refs:
+  - divine_parent_child
+  - sacred_birth
+  basis: Karna's birth is said to be inspired by the Sun, and he is described with
+    solar lustre.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states solar involvement but does not narrate the birth episode
+    itself.
+- id: motif:4
+  label: lament over war that might have been avoided by recognized kinship
+  taxonomy_refs:
+  - wisdom
+  basis: Yudhishthir reflects that if Karna had stood with his brothers, the carnage
+    of the Kurus would not have occurred and peace would have prevailed.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a reflective ethical lament rather than a fully developed wisdom
+    teaching in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6265-6276
+  quote_or_summary: Mourners cast off ornaments and offer sacred water to slain fathers,
+    husbands, and sons at the crowded, sorrowful banks of the Ganga.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6277-6292
+  quote_or_summary: Pritha reveals that Karna, slain by Arjun and formerly thought
+    to be Radha's son, was her eldest son; she says the Sun inspired his birth and
+    he shone with Surya's lustre.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6293-6298
+  quote_or_summary: After Pritha speaks, the Pandava brothers groan and weep for the
+    brother they had slain; Yudhishthir begins speaking in sorrow.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6299-6336
+  quote_or_summary: Yudhishthir praises Karna's might, asks why Pritha hid his birth
+    and lineage like fire hidden in garments, grieves for his slain elder brother,
+    and says peace might have prevailed had Karna stood with them.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6337-6356
+  quote_or_summary: Yudhishthir offers water oblation to Karna; Kuru women and Karna's
+    widow grieve and offer oblations; after rites and ablutions, the survivors return
+    to Hastina.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 6295-6296
+  quote_or_summary: "“Hissing forth his sigh of sorrow like a trodden, hissing snake”
+    describes Yudhishthir's grief."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; short quotation used for exact image.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main actions, figures, and relationships are explicit. Motif taxonomy
+    mapping is partly approximate because the available list lacks a precise funerary
+    oblation or hidden-kinship category. No comparison claims were added because the
+    passage itself does not compare this material to another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All observations and motifs are based only on the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-mahabharata-dutt-gutenberg__l6265-l6356
+  passage_sha256=a55d8eeeb2dc6535fca6b9e0f7811b064a6c28dccba67758d2120a476efddefc

@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l13536-l13564
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: ARGUMENT. / THE BATTLE AT THE GRECIAN WALL. / BOOK XIII. / ARGUMENT.; lines
+    13536-13564
+  start: '13536'
+  end: '13564'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: On sounding wings a dexter eagle flew.
+  summary: A right-side eagle appears as an omen attributed to Jove, and the Greeks
+    shout in response. Hector answers with a boastful threat, invoking divine favor
+    and foretelling Greek defeat and a corpse left for birds. He advances like a lion
+    while Trojan and Greek shouts resound through earth, sea, and heaven.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A dexter eagle flies openly on sounding wings.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Grecians interpret the eagle as a glad omen of Jove and shout as it crosses
+    the sky.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The chief of Troy replies after the clamors cease.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hector says the decisive day will end the fame of Greece and Argos.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hector threatens that his opponent's corpse will lie on the shore and feed
+    birds with fat and gore.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Hector moves like a lion, followed by a shouting host.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Trojan and Greek shouts are described as filling the plain and shaking
+    heaven and the throne of Jove.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: dexter eagle
+  description: An eagle flying in open view on sounding wings, treated as Jove's omen.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Grecians
+  description: The Greek forces who rise and shout at the omen.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Hector / chief of Troy
+  description: The Trojan chief who replies with threats and advances like a lion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Jove
+  description: The deity to whom the omen is attributed and whose throne is later
+    mentioned.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:5
+  name_or_label: following host
+  description: Hector's host, sending incessant shouts as he advances.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: omen-bearing bird
+  assigned_to:
+  - fig:1
+  basis: The eagle's flight is immediately called Jove's glad omen.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: omen-receiving army
+  assigned_to:
+  - fig:2
+  basis: The Grecians rise and hail the eagle's progress through the skies.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: threatening warrior-chief
+  assigned_to:
+  - fig:3
+  basis: The chief of Troy speaks threats against Greece and his opponent.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: divine source of omen
+  assigned_to:
+  - fig:4
+  basis: The omen is named as Jove's, and Jove's throne is invoked in the cosmic description
+    of sound.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: supporting war host
+  assigned_to:
+  - fig:5
+  basis: The host follows Hector and sends shouts as he advances.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: right-side eagle omen
+  literal_form: dexter eagle flying through the sky
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: corpse exposed to birds
+  literal_form: giant corpse on the shore feeding fowls with fat and gore
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: lion-like advance
+  literal_form: Hector advancing like a lion
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: cosmic battle shout
+  literal_form: shouts resounding through earth, ocean, plain, heaven, and Jove's
+    throne
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Eagle omen over the Greeks
+  summary: A dexter eagle flies in view, and the Greeks rise and shout because they
+    regard it as a favorable omen from Jove.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hector's reply and threat
+  summary: Hector rejects the opposing boast, invokes divine favor, predicts the end
+    of Greek fame, and threatens that his opponent's corpse will feed birds on the
+    shore.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Armies shout across the field
+  summary: Hector advances like a lion with his host shouting, while the Greeks answer
+    with thunderous cries that are described as shaking heaven and Jove's throne.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine bird omen before battle
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage explicitly calls the eagle a glad omen of Jove, and the Greeks
+    respond collectively to it before the battle speech continues.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The available taxonomy has no specific omen or bird-omen category; the
+    divine_judgment reference is approximate because the passage presents a divine
+    sign rather than an explicit judgment scene.
+- id: motif:2
+  label: heroic threat of corpse-feeding birds
+  taxonomy_refs: []
+  basis: Hector threatens that his opponent's corpse will lie on the shore and feed
+    fowls with fat and gore.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly matches this battlefield threat
+    motif.
+- id: motif:3
+  label: cosmic amplification of battle noise
+  taxonomy_refs: []
+  basis: The opposing war shouts are described as resounding through earth, ocean,
+    the plain, heaven, and Jove's throne.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a poetic battle image; no specific available taxonomy reference
+    matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13536-13540
+  quote_or_summary: '"On sounding wings a dexter eagle flew"; the Grecians hail it
+    as "Joves glad omen" through the skies.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 13541-13553
+  quote_or_summary: After the shouting ceases, the chief of Troy replies, calls the
+    opponent a boaster, invokes the gods and divine lineage, and says the day will
+    end the fame of Greece and Argos.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 13554-13557
+  quote_or_summary: Hector says the opponent will meet his fate and that the corpse
+    on the shore will "feast the fowls with fat and gore."
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 13558-13564
+  quote_or_summary: Hector advances like a lion; his host shouts, the Greeks answer,
+    and the sound is described as shaking heaven and the throne of Jove.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif taxonomy mapping is limited
+    because the available taxonomy lacks specific entries for battlefield bird omens,
+    corpse-exposure threats, or cosmic battle noise.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The bracketed illustration caption "GREEK EARRINGS" appears after the passage and was not treated as part of the narrative motif extraction.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l13536-l13564
+  passage_sha256=00a8e741a9a1a3da5c6f1268634facc121b605827b912dd7e9c33dc26f0e57c2

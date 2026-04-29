@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l661-l687
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: The Ramayan of Valmiki / CONTENTS / INVOCATION.(1); lines 661-687
+  start: '661'
+  end: '687'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An invocation praises Válmíki as a saintly bard whose poetry sings Ráma.
+    The song of Ráma is said to lead listeners toward bliss. The Rámáyan is imaged
+    as a sacred stream flowing from its source to free the world from sin, with Válmíki
+    as its parent mountain and Ráma as its sea. Válmíki is hailed as ascetic, hermit,
+    master of lore, and first of bards.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Válmíki is praised as a singer of Ráma in a deathless lay.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that hearing Válmíki sing Ráma’s glory leads the listener’s
+    feet toward a path of bliss.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Rámáyan is described as a stream leaving a sacred source to free the world
+    from sin and stain.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Prince of Hermits is described as the parent mountain of the stream, and
+    Ráma as the sea toward which it moves.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Válmíki is hailed as an ascetic, saint, holy hermit, lord of every lore, and
+    first of bards.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Válmíki is said to drink with delight from the nectar-sea of Ráma’s deeds.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Válmíki
+  description: Praised as the saintly bard, Prachetas’ holy son, arch-ascetic, holy
+    hermit, lord of every lore, and first of bards.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Ráma
+  description: The subject of Válmíki’s song and glory; his deeds form a nectar-sea,
+    and he is imaged as the sea of the Rámáyan stream.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Listeners to Válmíki’s song
+  description: Unspecified people who hear the strain from Válmíki’s tongue and are
+    said to attain the path of bliss.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: poet-saint
+  assigned_to:
+  - fig:1
+  basis: Válmíki is praised as a saint, hermit, ascetic, and first of bards who sings
+    Ráma.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: source figure
+  assigned_to:
+  - fig:1
+  basis: The passage images the Rámáyan stream as flowing from a sacred fount and
+    identifies the Prince of Hermits as its parent mountain.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: praised heroic subject
+  assigned_to:
+  - fig:2
+  basis: Ráma’s glory and deeds are the theme of Válmíki’s song and are repeatedly
+    praised.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:4
+  label: blessed hearers
+  assigned_to:
+  - fig:3
+  basis: Those who listen to Válmíki’s song of Ráma are said to attain the path of
+    bliss.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sacred stream
+  literal_form: The Rámáyan as a stream leaving its sacred fount
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: parent mountain
+  literal_form: The Prince of Hermits as the parent mount of the Rámáyan stream
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: darling sea
+  literal_form: Ráma as the sea toward which the Rámáyan stream flows
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: nectar-sea of deeds
+  literal_form: A nectar-sea formed by Ráma’s deeds
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: poetic bird on a high spray
+  literal_form: Válmíki as a bird mounting on Poesy’s sublimest spray
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Invocation praise of Válmíki and Ráma
+  summary: The speaker praises Válmíki as a poetic bird and saintly singer whose song
+    centers on Ráma.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Blessing through hearing Ráma’s glory
+  summary: The passage says listeners to Válmíki’s song of Ráma’s glory attain the
+    path of bliss.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rámáyan as sacred flowing stream
+  summary: The Rámáyan is pictured as a sacred stream that frees the world from sin,
+    with Válmíki as mountain source and Ráma as sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Hailing Válmíki’s sanctity and learning
+  summary: Válmíki is glorified as Prachetas’ holy son, ascetic, hermit, lord of lore,
+    and first of bards who delights in Ráma’s deeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacred poetic source of wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Válmíki is presented as a holy bard and lord of every lore whose song communicates
+    Ráma’s glory and brings listeners toward bliss.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage is an invocation and praise poem; the wisdom motif is implied
+    through sanctity, lore, and transformative hearing rather than narrated instruction.
+- id: motif:2
+  label: purifying sacred water image
+  taxonomy_refs: []
+  basis: The Rámáyan is imaged as a sacred stream from a fount that frees the world
+    from sin and stain, with mountain source and sea destination.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a poetic metaphor within the invocation, not a narrated ritual
+    or physical river episode.
+- id: motif:3
+  label: poetic ascent
+  taxonomy_refs:
+  - ascent
+  basis: Válmíki is described as a bird who mounts on Poesy’s sublimest spray while
+    singing Ráma.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The ascent is figurative and brief; it is not a narrative ascent journey.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents a same-function pattern in which sacred water imagery
+    represents purification from sin and spiritual benefit.
+  claim_level: same_function
+  target: purifying sacred water pattern
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself uses metaphorical stream, fount, mountain, and sea
+    imagery; it does not compare this image to another text or tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 661-666
+  quote_or_summary: Válmíki is praised as a bird of charming song who mounts on Poesy’s
+    high spray and sings Ráma in a deathless lay.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 667-671
+  quote_or_summary: The passage asks who could hear the music from Válmíki’s tongue
+    and not feel his feet attain the path of bliss when Ráma’s glory is sung.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 672-675
+  quote_or_summary: "“The stream Rámáyan leaves its sacred fount / The whole wide
+    world from sin and stain to free.” The Prince of Hermits is the parent mount,
+    and Ráma is the sea."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 676-679
+  quote_or_summary: The passage gives glory to Prachetas’ holy son, whose lips drink
+    with renewed delight from the nectar-sea of Ráma’s deeds.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 680-687
+  quote_or_summary: Válmíki is hailed as arch-ascetic, pious, good, kind, saint, holy
+    hermit, calm, pure-minded, lord of every lore, and first of bards.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif and comparison claims are based
+    on devotional and metaphorical imagery in an invocation, so interpretive claims
+    should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l661-l687
+  passage_sha256=1c94ac4366fc0857b00597dde9b121fa9c860b28af66c40f2624de113bc01510

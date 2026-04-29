@@ -1,0 +1,70 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l2614-l2614
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto X. Rishyasring Invited. / Canto XI. The Sacrifice Decreed. / Canto
+    XII. The Sacrifice Begun. / Canto XIII. The Sacrifice Finished.; lines 2614-2614
+  start: '2614'
+  end: '2614'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Canto XIII. The Sacrifice Finished.
+  summary: A canto heading states that the sacrifice is finished.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a canto heading naming a sacrifice as finished.
+  category: sequence
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols: []
+scenes:
+- id: scene:1
+  label: Sacrifice finished
+  summary: The heading identifies the completion of a sacrifice.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Completed sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The heading explicitly refers to a sacrifice and says it is finished.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Only the canto heading is provided; no ritual details or participants
+    appear in this line.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 2614
+  quote_or_summary: Canto XIII. The Sacrifice Finished.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt quoted from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited to a single canto heading. The sacrifice motif is explicit,
+    but passage-level detail is minimal.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures, roles, symbols, or comparison claims were extracted because the provided passage contains only a canto heading.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l2614-l2614
+  passage_sha256=f305b944a254c718f099fcd7fe23c2df3476d33f16d5fd488a08373c1ed0bb54

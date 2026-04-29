@@ -1,0 +1,481 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l22714-l22855
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: ARGUMENT. / BOOK XXIV. / ARGUMENT. / THE REDEMPTION OF THE BODY OF HECTOR.;
+    lines 22714-22855
+  start: '22714'
+  end: '22855'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Hermes, disguised as a guide, tells Priam that Hector’s body remains untouched
+    and divinely preserved despite Achilles dragging it. Priam offers gratitude and
+    asks to be led safely to Achilles. Hermes refuses secret gifts, guides the chariot
+    through the Greek camp by putting the guards to sleep, opens the gates, and reveals
+    himself before vanishing. Priam enters Achilles’ tent, supplicates him by embracing
+    and kissing his hands, and appeals to him through the image of his aged father
+    while offering gifts for Hector.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hector’s body is described as whole, untainted, undisfigured, and preserved
+    by heavenly or divine care.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Achilles is said to drag Hector’s dead body around his friend’s tomb each
+    morning.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Priam offers a goblet as a pledge of gratitude and asks the guide to conduct
+    him safely to Achilles’ tent.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The disguised god refuses to accept a secret gift from Priam, saying it would
+    wrong his master.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hermes takes control of the chariot, drives it onward, casts sleep on the
+    guards with his wand, opens the gates, and leads the chariot unseen through the
+    hostile camp.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hermes reveals that Priam’s guide is not mortal but Hermes, messenger of Jove,
+    then advises Priam to supplicate Achilles by invoking Achilles’ father, son, and
+    mother.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Priam enters Achilles’ inner tent unseen by the attendants, kneels before
+    Achilles, embraces his knees, weeps over his hands, and kisses them.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:8
+  text: Priam asks Achilles to think of his own aged father and to pity Priam, whose
+    sons, including Hector, have been slain.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Priam says he has brought large gifts and asks Achilles to hear him and revere
+    the gods.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Priam
+  description: The aged Trojan king and father of Hector, traveling through the hostile
+    camp and supplicating Achilles.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Hermes / celestial guide
+  description: A divine guide disguised as a youth, later revealed as Hermes, messenger
+    of Jove.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Hector
+  description: Priam’s dead son, whose body remains preserved and is the object of
+    Priam’s journey and appeal.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:4
+  name_or_label: Achilles / Pelides
+  description: The Greek hero in whose tent Hector’s body lies and before whom Priam
+    makes supplication.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Aged herald
+  description: Priam’s herald, left on the chariot when Priam enters Achilles’ tent.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Alcimus and Automedon
+  description: Attendants serving Achilles in the inner tent.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: suppliant father
+  assigned_to:
+  - fig:1
+  basis: Priam kneels, embraces Achilles’ knees, kisses his hands, and appeals as
+    a bereaved father.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:2
+  label: divine guide
+  assigned_to:
+  - fig:2
+  basis: Hermes conducts Priam through the camp, protects him, and reveals that the
+    guidance came from no mortal hand.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: divine messenger
+  assigned_to:
+  - fig:2
+  basis: Hermes identifies himself as the messenger of Jove.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: preserved dead son
+  assigned_to:
+  - fig:3
+  basis: Hector’s corpse is described as uncorrupted and divinely preserved.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: ransom bearer
+  assigned_to:
+  - fig:1
+  basis: Priam says he has brought large gifts while pleading for Hector.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: enemy warrior addressed by supplication
+  assigned_to:
+  - fig:4
+  basis: Achilles receives Priam’s supplication and is described by Priam as the killer
+    of his children.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: attendants
+  assigned_to:
+  - fig:6
+  basis: Alcimus and Automedon serve Achilles, while others stand at a distance.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: incorrupt corpse
+  literal_form: Hector’s untainted, undisfigured body
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wand of sleep
+  literal_form: Hermes’ wand used to pour deep slumber on the guards’ eyes
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: opened gates and crossed trenches
+  literal_form: massy gates, bars, trenches, and rolling cars passed through the camp
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: suppliant gesture
+  literal_form: embracing Achilles’ knees, bathing his hands in tears, and kissing
+    his hands
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: ransom gifts
+  literal_form: goblet and large gifts brought by Priam
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:6
+  label: Achilles’ tent threshold
+  literal_form: the strongly barred tent door opened by Hermes before Priam enters
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Report of Hector’s preserved body
+  summary: The divine guide tells Priam that Hector’s corpse has not been torn by
+    animals or corrupted, and that some divine care preserves it despite Achilles’
+    treatment of the body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Request for safe conduct and refusal of secret gift
+  summary: Priam praises divine care for Hector, offers a goblet, and asks to be led
+    to Achilles; the disguised Hermes refuses to take secret gifts and offers protection
+    on the way.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Divine passage through the hostile camp
+  summary: Hermes drives Priam’s chariot, casts sleep on the guards, opens the camp
+    gates, and leads the chariot unseen through the Greek camp toward Achilles’ tent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Hermes reveals himself at Achilles’ tent
+  summary: At the entrance to Achilles’ tent, Hermes opens the great door, identifies
+    himself, advises Priam how to appeal to Achilles, and vanishes skyward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Priam supplicates Achilles
+  summary: Priam enters the inner tent unseen, kneels before Achilles, kisses his
+    hands, and appeals to him as a bereaved father by invoking Achilles’ father and
+    Priam’s own losses.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divine guide through hostile boundary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Hermes, a concealed god and messenger, escorts Priam across enemy defenses,
+    uses a wand to put guards to sleep, opens gates, and enables unseen passage.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage supports divine boundary-crossing and concealment, but does
+    not explicitly frame Hermes as a trickster in this episode.
+- id: motif:2
+  label: divinely preserved body of the honored dead
+  taxonomy_refs: []
+  basis: Hector’s corpse remains whole, fresh, and free of corruption; the passage
+    attributes this to heavenly or divine care.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No available taxonomy reference directly matches corpse preservation.
+- id: motif:3
+  label: ransom or gift exchange for the dead
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Priam brings gifts for Hector and asks Achilles to hear him and revere the
+    gods; the scene belongs to the redemption of Hector’s body.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  confidence: medium
+  cautions: Within this excerpt the actual transfer of Hector’s body is not yet narrated;
+    the exchange is prepared through supplication and gifts.
+- id: motif:4
+  label: enemy supplication through kinship appeal
+  taxonomy_refs: []
+  basis: Priam kneels before the killer of his son, kisses his hands, and urges Achilles
+    to think of his own aged father as a basis for pity.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a strongly supported scene pattern but has no direct available
+    taxonomy reference.
+- id: motif:5
+  label: magical sleep enabling passage
+  taxonomy_refs: []
+  basis: Hermes uses his wand to cast deep sleep on the guards so Priam’s chariot
+    can pass through the camp.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly matches magical sleep.
+comparison_claims:
+- id: claim:1
+  claim: The episode functions like a boundary-crossing motif in which a divine mediator
+    enables safe passage through a guarded hostile space.
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports concealed divine mediation and threshold crossing,
+    but the broader trickster category is only partially represented.
+- id: claim:2
+  claim: Priam’s gifts and plea for Hector support a cautious classification as a
+    sacred exchange pattern centered on recovering the dead.
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:2
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage presents the gifts and supplication, but the completion
+    of the exchange lies outside the provided excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22714-22730
+  quote_or_summary: Hermes tells Priam that Hector’s body lies whole in the tent,
+    untouched by animals, worms, or decay, and that divine care preserves it even
+    though Achilles drags it around his friend’s tomb.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 22731-22744
+  quote_or_summary: Priam rejoices, praises those who honor the gods, offers a goblet
+    as gratitude for Hector’s sake, and asks to be conducted safely to Achilles’ tent.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 22745-22760
+  quote_or_summary: The disguised god refuses Priam’s gift as a secret theft from
+    his master, yet says he could guard Priam’s life and accompany him over forests
+    or sea.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 22761-22772
+  quote_or_summary: Hermes takes the chariot reins, drives the horses, uses his wand
+    to put the guards to sleep, opens the gates and bars, and leads the chariot unseen
+    through the hostile camp.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 22773-22796
+  quote_or_summary: At Achilles’ strongly barred tent, Hermes opens the door, identifies
+    himself as Hermes, messenger of Jove, and tells Priam to enter and appeal to Achilles
+    by his father, son, and mother.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: 22797-22807
+  quote_or_summary: Hermes vanishes into the sky; Priam leaves his herald at the chariot,
+    enters Achilles’ inner tent, and finds Achilles attended by Alcimus, Automedon,
+    and others.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: 22808-22824
+  quote_or_summary: Priam enters unseen, falls before Achilles, embraces his knees,
+    weeps over and kisses the hands that killed his son; Achilles and his attendants
+    are amazed and silent.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: 22825-22855
+  quote_or_summary: Priam asks Achilles to think of his aged father, describes his
+    own misery and many slain sons, names Hector as his last hope, says he has brought
+    large gifts, and pleads with Achilles to revere the gods.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal scene extraction is strongly supported by the supplied passage. Motif
+    and comparison labels are cautious, especially where the available taxonomy only
+    partially matches the episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. Taxonomy references are limited to the supplied available references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l22714-l22855
+  passage_sha256=89f2f1202c569a8af91fbba386f829c04033fd0bc13d241fec7a3808f206d126

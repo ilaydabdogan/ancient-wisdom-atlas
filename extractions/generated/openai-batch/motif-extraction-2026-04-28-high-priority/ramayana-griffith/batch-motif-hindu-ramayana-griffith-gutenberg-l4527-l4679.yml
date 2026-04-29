@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l4527-l4679
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XIX. The Birth Of The Princes. / Canto XXIV. The Spells. / Canto XXV.
+    The Hermitage Of Love. / Canto XXIX. The Celestial Arms.; lines 4527-4679
+  start: '4527'
+  end: '4679'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A pleased saint bestows many celestial weapons and spells on Ráma, teaches
+    the formulas that summon and command them, and the weapons appear in visible form
+    as his servants. Ráma then asks for powers that restrain the weapons, receives
+    those charms as well, and commands the personified powers to come when called
+    in need.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A mighty saint addresses Raghu’s princely child and says he will bestow heavenly
+    arms on him because he is pleased and loves him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The saint says the bestowed arms will let the prince conquer foes including
+    gods, spirits, serpents, and fiends.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The weapons named include divine arms associated with Fate, Right, Vishnu,
+    Indra, Shiva, Brahma, Fire, Wind, the Sun, Rain, Kama, the Moon, and other powers.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Facing east and described as pure, the saint consigns a host of spells to
+    Ráma and mutters the summoning spell that rules the arms.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The arms appear before Ráma in visible form and speak to him as his ministers
+    and thralls.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ráma receives the wondrous band and commands them to remain present to his
+    will.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After gaining the weapons, Ráma asks the saint for the powers that can restrain
+    the arms.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The sage names restraining charms and identifies them as bright ones able
+    to wear whatever forms they please and as Kriśáśva’s mystic sons.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The mysterious powers approach in heavenly forms; some shine like burning
+    coals and others resemble clouds of dusky smoke.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Ráma tells the personified powers to depart where they wish but to come quickly
+    to his mind and aid him when called.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ráma, Raghu’s son
+  description: The princely child of Raghu and son of a noble royal line who receives
+    the celestial arms and restraining powers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: The mighty saint / sage
+  description: A pure and austere saint who bestows heavenly arms and teaches spells
+    and restraining charms to Ráma.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Celestial arms and spells
+  description: A wondrous host of heavenly weapons and spells that appear in visible
+    form, speak to Ráma, and declare themselves his ministers and thralls.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Restraining mysterious powers
+  description: Charms or powers that can restrain the deadly arms; they appear in
+    heavenly forms and ask for Ráma’s command.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: bestowing teacher of weapons and spells
+  assigned_to:
+  - fig:2
+  basis: The saint promises to bestow heavenly arms, teaches their lore, and names
+    restraining charms for Ráma.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:2
+  label: royal recipient and commander of celestial powers
+  assigned_to:
+  - fig:1
+  basis: Ráma receives the weapons and restraining powers, and commands the personified
+    powers to remain subject to his will or aid him when called.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: personified obedient powers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The arms and later powers come in visible or heavenly form, speak as thralls,
+    and request or accept command.
+  evidence_refs:
+  - ev:4
+  - ev:7
+symbols:
+- id: sym:1
+  label: celestial weapons
+  literal_form: Heavenly arms, darts, clubs, nooses, nets, thunderbolts, swords, and
+    named divine weapons bestowed on Ráma.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: summoning and restraining spells
+  literal_form: Spells and charms that summon, rule, check, and stay the celestial
+    arms.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: fire imagery
+  literal_form: Weapons with flame of lambent fire and powers shining like coals of
+    burning fire.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:4
+  label: eastern orientation
+  literal_form: The saint faces east while consigning the spells to Ráma.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Bestowal of celestial arms
+  summary: The saint, pleased with Ráma, promises and lists a large set of heavenly
+    weapons that he gives to him as a boon and pledge of love.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Summoning and submission of the arms
+  summary: The saint faces east, teaches the spells, mutters the summoning formula,
+    and the arms appear visibly before Ráma, declaring themselves his ministers and
+    thralls.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Reception of restraining powers
+  summary: Ráma asks for powers that can restrain the weapons; the sage names the
+    charms, and the personified powers appear and submit to Ráma’s command to assist
+    when called.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: initiation through esoteric martial instruction
+  taxonomy_refs:
+  - initiation
+  - wisdom
+  basis: A teacher transmits difficult-to-win weapon lore, spells, and restraining
+    charms to a royal pupil, who thereby gains command over personified powers.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage presents martial and magical instruction; broader ritual initiation
+    details are not supplied in this excerpt.
+- id: motif:2
+  label: sacred exchange of divine weapons
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The saint gives heavenly arms to Ráma as a boon and pledge of love after
+    declaring himself pleased.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage emphasizes bestowal more than reciprocal exchange; the exchange
+    element rests on the language of boon, worthiness, and pledge of love.
+- id: motif:3
+  label: royal hero empowered by celestial forces
+  taxonomy_refs:
+  - royal_legitimacy
+  - culture_hero
+  basis: Ráma is identified as a royal scion and receives divine weapons able to defeat
+    gods, spirits, serpents, and fiends.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage supports royal empowerment, but wider culture-hero functions
+    would require context beyond this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4527-4546
+  quote_or_summary: The saint tells Raghu’s princely child that he is well pleased
+    and will bestow heavenly arms on him; with them he will conquer foes, even gods,
+    spirits, serpents, and fiends.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4547-4624
+  quote_or_summary: The saint lists many named weapons and powers, including the arms
+    of Vengeance, Fate, Right, Vishnu, Indra’s thunderbolt, Shiva’s trident, Brahma’s
+    Head, fire, wind, sleep, rest, sun, rain, desire, moon, and other deadly or strengthening
+    arms.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4625-4634
+  quote_or_summary: Facing east, the pure saint consigns the host of spells to Ráma,
+    teaches the hard-won lore of the arms, and mutters the spell that summons and
+    rules them.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 4635-4644
+  quote_or_summary: The arms came in visible form before Ráma and said, “Thy ministers
+    and thralls are we”; Ráma received them and told them to remain present to his
+    will.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 4645-4655
+  quote_or_summary: Possessing the mysterious arms, Ráma says he can scarcely be harmed
+    by gods and asks the saint for the powers that can restrain those arms.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4656-4671
+  quote_or_summary: The sage calls forth names of charms that restrain deadly arms
+    and says the bright, form-shifting powers are Kriśáśva’s mystic sons, suitable
+    for Ráma to command.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4672-4679
+  quote_or_summary: The mysterious arms arrive in heavenly forms, some like burning
+    coals and some like dusky smoke, declare themselves Ráma’s thralls, and are told
+    to depart but return swiftly when called to aid him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied English passage. Motif labels use
+    the supplied taxonomy where directly supported; no external comparisons are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the excerpt itself does not explicitly compare the episode to another tradition or motif family beyond supporting internal motif candidates.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l4527-l4679
+  passage_sha256=a212da7029aa6ab928521ea6f0957a756bb3dfd3b51a849c188323724382697b

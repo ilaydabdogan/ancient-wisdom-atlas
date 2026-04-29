@@ -1,0 +1,520 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l9219-l9310
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LXVII. The Breaking Of The Bow. / Canto LXX. The Maidens Sought. /
+    Canto LXXII. The Gift Of Kine. / Canto LXXIII. The Nuptials.; lines 9219-9310
+  start: '9219'
+  end: '9310'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After the nuptials, Viśvámitra departs, Janak gives rich dowers to his
+    daughters, and Daśaratha returns toward Ayodhyā with his sons and army. Ominous
+    birds, frightened beasts, and a violent tempest precede the appearance of Jamadagni’s
+    son, armed with axe, bow, and arrows. The saints recall his former slaughter of
+    warriors, approach him with a gift, and he addresses Rāma.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Viśvámitra rises at dawn, takes leave of the two kings, and withdraws to the
+    northern hill.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Janak gives dowers to his daughters, including textiles, troops, vehicles,
+    animals, attendants, slaves, silver, coral, gold, and pearls.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Daśaratha travels with his sons, seers, and royal army after leaving Mithilā.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dismal birds cry around the traveling party, and terrified beasts hurry to
+    the right.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Daśaratha asks Vaśishṭha what misfortune the omens foretell.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Vaśishṭha says the birds declare great peril, while the movement of the beasts
+    lessens the dread.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A tempest shakes the earth, throws trees down, darkens the sun, and spreads
+    dust and ashes over the army.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Jamadagni’s son appears with twisted hair, an axe, a bow, and arrows.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Jamadagni’s son is described as firm like Kailāsa and fierce like the fire
+    of doom.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: His drawn arrow is compared to arrows from Śiva’s bow that destroyed Tripura.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The saints draw close together and wonder whether he will again attack warriors
+    because of his father’s fate.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The saints approach Bhrigu’s son with a gift, call softly to Rāma, and he
+    takes the gift without replying before addressing Rāma.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Viśvámitra
+  description: A hermit who bids farewell to the kings and withdraws to the northern
+    hill.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: King Janak
+  description: Lord of Mithilā and father of the maidens, who gives rich dowers to
+    his daughters.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Janak’s daughters
+  description: Beloved girls who receive dowers as they leave their bowers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Daśaratha
+  description: Ayodhyā’s monarch, traveling with his sons and army, who questions
+    Vaśishṭha about ominous signs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Daśaratha’s sons
+  description: Dear sons of lofty mind traveling with Daśaratha.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Vaśishṭha
+  description: A mighty saint who interprets the ominous birds and beasts for Daśaratha.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Jamadagni’s son / Bhrigu’s son
+  description: A fearsome armed figure with twisted hair, axe, bow, and arrows, associated
+    with prior violence against warriors.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:8
+  name_or_label: Saints and seers
+  description: Religious figures whose care is sacrifice and muttered prayer; they
+    gather in fear and approach Bhrigu’s son with a gift.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:9
+  - ev:10
+- id: fig:9
+  name_or_label: Rāma
+  description: The person addressed by Bhrigu’s son after the saints approach with
+    a gift.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: departing hermit
+  assigned_to:
+  - fig:1
+  basis: He rises, says farewell, and withdraws to the northern hill.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: father and royal donor
+  assigned_to:
+  - fig:2
+  basis: He gives splendid dowers to his daughters and sends his guests on their road.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: brides receiving dower
+  assigned_to:
+  - fig:3
+  basis: They leave their bowers and receive precious gifts from their father.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: king troubled by omens
+  assigned_to:
+  - fig:4
+  basis: He hears dismal birds, sees frightened beasts, and asks what misfortune will
+    come.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: royal sons in procession
+  assigned_to:
+  - fig:5
+  basis: They travel with Daśaratha as the army follows.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: interpreter of omens
+  assigned_to:
+  - fig:6
+  basis: He explains the meaning of the birds and beasts to Daśaratha.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: fearsome armed warrior and former slayer of warriors
+  assigned_to:
+  - fig:7
+  basis: He appears armed and is remembered by the saints for earlier fury against
+    warriors.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:8
+  label: ritual specialists responding to danger
+  assigned_to:
+  - fig:8
+  basis: They are associated with sacrifice and prayer, gather in fear, and present
+    a gift.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:9
+  label: addressed prince or hero
+  assigned_to:
+  - fig:9
+  basis: Bhrigu’s son breaks silence and speaks to Rāma.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: royal dower goods
+  literal_form: Rugs, silks, warrior force, cars, elephants, foot soldiers, horses,
+    attendants, slaves, silver, coral, gold, and pearls.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: ominous birds and frightened beasts
+  literal_form: Dismal birds cry, and beasts in wild fright hurry to the right.
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: tempest with dust and ashes
+  literal_form: A storm shakes the earth, darkens the sun, and casts dust and ashes
+    over the army.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: axe, bow, and arrows
+  literal_form: Jamadagni’s son carries an axe on his shoulder, a bow ready for battle,
+    and arrows.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: Kailāsa comparison
+  literal_form: Jamadagni’s son is said to show firm as Kailāsa’s hill.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: fire of doom comparison
+  literal_form: Jamadagni’s son is said to glow fierce as the fire of doom.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: appeasing gift
+  literal_form: The saints draw near to Bhrigu’s son with a gift, which he takes.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Departures after the nuptials
+  summary: Viśvámitra departs; Janak gives dowers to his daughters and sends the guests
+    away; Daśaratha leaves with his sons, seers, and army.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Omens on the road
+  summary: Dismal birds and frightened beasts disturb Daśaratha, and Vaśishṭha interprets
+    the signs as peril partly allayed.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Storm and fear before the apparition
+  summary: A violent storm darkens the sun, spreads dust and ashes, and leaves the
+    army fear-stupefied.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Appearance of Jamadagni’s son
+  summary: Jamadagni’s son appears in fearsome form with weapons, compared to Kailāsa
+    and the fire of doom, and his arrow is compared to Śiva’s destructive arrows.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Saints approach the armed figure
+  summary: The saints fear he may again attack warriors, then approach him with a
+    gift; he accepts it and speaks to Rāma.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: sacred exchange through royal dower and appeasing gift
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage contains formal giving of dowers at a marriage departure and
+    a later gift offered by saints to a dangerous sacred-warrior figure.
+  evidence_refs:
+  - ev:2
+  - ev:10
+  confidence: medium
+  cautions: The passage presents the gifts literally; their ritual or sacred force
+    is clearest for the saints’ offering but less explicit for the dowers.
+- id: motif:2
+  label: royal nuptial alliance and bride-gift departure
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The passage occurs in the nuptial sequence and describes Janak giving rich
+    dowers to his daughters as they depart after marriage.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The excerpt emphasizes dowers and departure rather than the marriage rite
+    itself.
+- id: motif:3
+  label: ominous portents before confrontation
+  taxonomy_refs: []
+  basis: Bird cries, frightened beasts, and a destructive storm precede the appearance
+    of Jamadagni’s son.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No specific taxonomy reference from the supplied list directly names this
+    portent pattern.
+- id: motif:4
+  label: armed avenger threatening the warrior class
+  taxonomy_refs: []
+  basis: The saints explicitly recall Jamadagni’s son’s former fury against warriors
+    and fear renewed slaughter connected with his father’s fate.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage reports the fear and past association but does not yet narrate
+    a new attack.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Jamadagni’s son’s arrow to arrows from Śiva’s
+    ever-conquering bow that destroyed Tripura.
+  claim_level: visual_similarity
+  target: Śiva’s bow and the destruction of Tripura
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an explicit poetic comparison within the passage, not evidence
+    that the weapons or figures are identical.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9219-9224
+  quote_or_summary: At dawn Viśvámitra bids farewell to both kings and withdraws to
+    the northern hill; Ayodhyā’s lord receives farewell and seeks his town.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9225-9237
+  quote_or_summary: 'As each daughter leaves her bower, King Janak gives splendid
+    dowers: textiles, troops, vehicles, animals, attendants, slaves, silver, coral,
+    gold, and pearls.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9238-9243
+  quote_or_summary: The lord of Mithilā returns to court, while Daśaratha travels
+    on with seers, sons, and the royal army.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9244-9254
+  quote_or_summary: Daśaratha hears dismal birds and sees terrified beasts hurrying
+    rightward; he asks Vaśishṭha what misfortune is coming.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9255-9262
+  quote_or_summary: Vaśishṭha interprets the birds as declaring great peril, while
+    the moving beasts allay the fear.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9263-9274
+  quote_or_summary: A tempest shakes the earth, hurls trees down, darkens the sun,
+    and spreads dust and ashes over the fearful army.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 9275-9288
+  quote_or_summary: The party sees Jamadagni’s son, with twisted hair, descended from
+    Bhrigu, hostile to proud kings, firm like Kailāsa, fierce like the fire of doom,
+    and armed with axe, bow, and arrows.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 9289-9292
+  quote_or_summary: He draws a keen invincible arrow compared to arrows from Śiva’s
+    victorious bow that destroyed Tripura.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 9293-9304
+  quote_or_summary: Vaśishṭha and the saints gather in fear, wondering if anger over
+    his father’s fate will make him slay warriors again; they recall earlier seas
+    of warrior blood.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 9305-9310
+  quote_or_summary: The saints approach Bhrigu’s son with a gift and softly call to
+    Rāma; he accepts the gift silently, then speaks to Rāma.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif assignments involving
+    sacred marriage and sacred exchange require human review because the passage segment
+    emphasizes dowers, departure, and appeasement rather than full ritual explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external identifications beyond the labels present in the supplied passage were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l9219-l9310
+  passage_sha256=4f880988773609e013c02fca7eb15cedf5447a6f40ce76e60581e494feb8a957

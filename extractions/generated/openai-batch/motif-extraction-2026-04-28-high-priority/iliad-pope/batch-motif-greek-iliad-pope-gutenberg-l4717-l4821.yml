@@ -1,0 +1,449 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l4717-l4821
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE TRIAL OF THE ARMY, AND CATALOGUE OF THE FORCES. / BOOK III. / ARGUMENT.
+    / THE DUEL OF MENELAUS AND PARIS.; lines 4717-4821
+  start: '4717'
+  end: '4821'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Venus appears to Helen and orders her toward Paris. Helen recognizes the
+    goddess, resists being led again into shameful love, and reproaches Paris as cowardly
+    after his failed duel. Venus threatens to withdraw Helen’s beauty and make her
+    hated, so Helen obeys and is led unseen to Paris. Paris dismisses Helen’s reproaches,
+    attributes his defeat to Pallas, and urges love; Helen follows him to bed. Meanwhile
+    Menelaus searches for Paris on the battlefield, and Agamemnon declares Menelaus
+    victorious, demanding the return of Helen, Spartan wealth, and the appointed fine.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Venus is physically recognized by Helen through her neck, fiery eyes, and
+    breast.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Helen says she scorns Paris and detests his bed, and fears shame and reproach
+    from Phrygian women.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Venus threatens Helen with the loss of her charms and with becoming hated
+    by the world if Helen continues to provoke her.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Helen obeys, veils herself, leaves silently and unseen, and is led by the
+    goddess to the palace.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Helen reproaches Paris for fleeing the field and surviving after the duel.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Paris replies that Pallas gave the foe victory that day, claims gods may favor
+    him later, and urges Helen toward love.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Paris recalls carrying Helen from Sparta and lying with her on Cranae island.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Paris rushes to the bed, and Helen follows slowly and clasps him in her arms.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Menelaus searches the Trojan ranks for Paris but does not find him.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Agamemnon declares Menelaus victorious and demands restoration of Spartan
+    wealth, Helen’s return to her lawful lord, and payment of the appointed fine.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Helen
+  description: A beautiful woman moved by Venus, resistant to Paris, then compelled
+    to go to him and later described as Argive Helen to be restored to her lawful
+    lord.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Venus / Paphian queen / goddess of the Smiles and Loves
+  description: A goddess who appears to Helen, threatens her, leads her unseen to
+    Paris, and is associated with love and beauty.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Paris / Phrygian boy
+  description: The Trojan prince reproached by Helen for fleeing the field; he attributes
+    defeat to Pallas and urges Helen to love.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Menelaus / Atrides / Sparta's king
+  description: The warrior who has prevailed in the duel and searches the field for
+    Paris; identified as Helen’s lawful lord by Agamemnon’s demand.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Pallas
+  description: A goddess invoked by Paris as the divine power behind his opponent’s
+    victory in the duel.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Agamemnon / king of kings
+  description: The speaker who addresses Trojans and Dardans, declares the just success
+    of his brother’s arms, and demands restitution.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: compelled woman
+  assigned_to:
+  - fig:1
+  basis: Helen resists Venus’s command but obeys after the goddess threatens her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: coercive love goddess
+  assigned_to:
+  - fig:2
+  basis: Venus threatens to remove Helen’s beauty and make her hated, then leads her
+    to Paris.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: reproached lover
+  assigned_to:
+  - fig:3
+  basis: Helen calls Paris shameful for fleeing the field and urges him not to renew
+    the fight lest he fall.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: victorious lawful husband
+  assigned_to:
+  - fig:4
+  basis: Menelaus is described as victorious in the duel and as Helen’s lawful lord
+    in the demand for restitution.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:5
+  label: contested wife or prize
+  assigned_to:
+  - fig:1
+  basis: Helen is described as a prize for which mankind engages and is demanded back
+    as the lawful lord’s wife.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:6
+  label: defeated or absent duelist
+  assigned_to:
+  - fig:3
+  basis: Paris is sought after the duel, is not found, and is described as a recreant
+    warrior whom even Trojans would have yielded up.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: divine battle influence
+  assigned_to:
+  - fig:5
+  basis: Paris says the foe prevailed by Pallas’s power.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: public claimant of restitution
+  assigned_to:
+  - fig:6
+  basis: Agamemnon addresses the Trojans and Dardans and demands Helen, wealth, and
+    a fine after the duel.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: fiery eyes
+  literal_form: Venus’s eyes that sparkled fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: silken shade or veil
+  literal_form: A silken shade used by Helen to veil her blushes as she moves unseen
+    and silent.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: bed
+  literal_form: Paris’s bed, which Helen says she detests and to which Paris later
+    rushes.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:4
+  label: lawful fine and restored wealth
+  literal_form: The appointed fine and Spartan wealth demanded after Menelaus’s victory.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Helen resists Venus
+  summary: Helen recognizes Venus, accuses her of deception, refuses renewed lawless
+    love, and speaks of shame and anguish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Venus threatens and escorts Helen
+  summary: Venus threatens to remove Helen’s charms and make her hated; Helen obeys,
+    veils herself, and is led unseen to Paris’s palace room.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Helen confronts Paris
+  summary: Helen reproaches Paris for fleeing the duel and says Menelaus’s sword would
+    have been a righteous death for him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Paris urges love after defeat
+  summary: Paris attributes defeat to Pallas, says gods may favor him later, recalls
+    taking Helen from Sparta, and goes with Helen to bed.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Menelaus searches and Agamemnon demands restitution
+  summary: Menelaus searches unsuccessfully for Paris among the Trojans; Agamemnon
+    declares victory and demands Helen, wealth, and a fine.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: abducted or contested beloved returned to lawful husband
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Paris recalls bearing Helen from Sparta, while Agamemnon demands that Argive
+    Helen acknowledge her lawful lord and that Spartan wealth be restored.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: The passage concerns restitution after a duel, not the original abduction
+    narrative in full.
+- id: motif:2
+  label: divine compulsion in erotic union
+  taxonomy_refs: []
+  basis: Venus threatens Helen with loss of beauty and public hatred, then leads her
+    to Paris despite Helen’s stated refusal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy list does not contain a precise divine-coercion motif; no
+    broader historical comparison is inferred.
+- id: motif:3
+  label: single combat as settlement of a marital and political dispute
+  taxonomy_refs: []
+  basis: Menelaus is treated as victorious after the duel, and Agamemnon calls for
+    Helen, wealth, and a fine to be restored accordingly.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage reports the aftermath of the duel; the full agreement preceding
+    the duel is outside this excerpt.
+- id: motif:4
+  label: defeated warrior hidden while victor seeks him
+  taxonomy_refs: []
+  basis: Menelaus searches for Paris among the Trojan ranks, but Paris is absent,
+    while even the Trojans would have yielded him up.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The cause of Paris’s disappearance is not narrated in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4717-4745
+  quote_or_summary: Venus appears; Helen recognizes her by divine features including
+    fiery eyes, accuses her of deception, rejects Paris and his bed, and speaks of
+    shame and anguish.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4749-4757
+  quote_or_summary: The Paphian queen commands obedience and threatens that Helen’s
+    charms will fade and that she will become hated rather than loved.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4759-4770
+  quote_or_summary: Helen obeys, veils her blushes in a silken shade, leaves unseen
+    and silent, and is led by the goddess to Paris in the palace.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4771-4781
+  quote_or_summary: Helen turns away from Paris, reproaches him for fleeing the field,
+    and contrasts him with the brave man she once called lord.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4783-4794
+  quote_or_summary: Paris asks Helen to stop reproaching him, says the foe prevailed
+    through Pallas, claims gods may favor them later, and recalls carrying Helen from
+    Sparta and lying with her on Cranae.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4795-4798
+  quote_or_summary: Paris rushes to the bed; Helen follows slowly and clasps him in
+    her arms.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4800-4808
+  quote_or_summary: Menelaus rages through the field seeking Paris but cannot find
+    him; the Trojans would have yielded the hated recreant warrior to so brave a foe.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4809-4818
+  quote_or_summary: Agamemnon addresses Trojans and Dardans, declares his brother’s
+    arms successful, and demands restoration of Spartan wealth, Helen’s return to
+    her lawful lord, and payment of the appointed fine.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: citation
+  locator: illustration captions within lines 4717-4821
+  quote_or_summary: The passage includes illustration captions for Venus presenting
+    Helen to Paris and for Venus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; citation only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are limited
+    to passage-level patterns and available taxonomy references; no external Iliad
+    context or cross-cultural comparison is added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line locators are approximate within the supplied line range because the passage text is provided without per-line numbering.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l4717-l4821
+  passage_sha256=ff9dc3bfb76210dbbf830219fdfdd26a1160f377d5bcf6ffca6344bd3031da45

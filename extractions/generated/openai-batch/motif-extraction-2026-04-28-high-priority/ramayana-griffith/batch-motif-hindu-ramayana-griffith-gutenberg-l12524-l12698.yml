@@ -1,0 +1,472 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l12524-l12698
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto VI. The City Decorated. / Canto IX. The Plot. / Canto XV. The Preparations.
+    / Canto XVIII. The Sentence.; lines 12524-12698
+  start: '12524'
+  end: '12698'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Rama finds his father, the king, grief-stricken beside Queen Kaikeyi.
+    Rama reverently greets them and asks Kaikeyi why the king cannot speak. Kaikeyi
+    says the king is bound by a past promise and demands that Rama swear to fulfill
+    it. Rama declares he would endure death or danger at his father''s command. Kaikeyi
+    then claims two boons: Bharata is to be installed as king, and Rama is to go to
+    Dandak forest in bark garments and matted hair for fourteen years. The king grieves
+    while Rama remains outwardly calm.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king sits with Kaikeyi in visible distress and cannot speak beyond crying
+    Rama's name.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rama clasps his father's feet and touches Kaikeyi's feet in reverence.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Rama is alarmed by the king's altered condition and asks Kaikeyi to explain
+    the cause.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rama states that a father should be treated as a deity on earth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Kaikeyi says the king once granted her a boon and must keep his promise.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Rama says he would enter fire, drink poison, or sink in the ocean if commanded
+    by his father and king.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Kaikeyi states that the king granted her two boons after she saved his life
+    in a battle involving gods and titans.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Kaikeyi demands that Bharata be placed on the throne and Rama go to Dandak
+    forest.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Kaikeyi specifies a fourteen-year exile in which Rama is to wear bark clothing
+    and matted hair.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Kaikeyi says consecrating drops and royal pomp prepared for Rama should be
+    used for Bharata.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The king breaks into anguish at Rama's fate, while Rama does not display grief
+    in response to Kaikeyi's words.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: Prince, son of the king, addressed as high-souled, noble, truthful,
+    and obedient to his father.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: The king / Rama's father
+  description: The monarch and Rama's father, overcome with grief and bound by a promise
+    to Kaikeyi.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: fig:3
+  name_or_label: Queen Kaikeyi
+  description: Queen who speaks to Rama, invokes the king's past promise, and claims
+    boons for Bharata's enthronement and Rama's exile.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Bharata
+  description: Named by Kaikeyi as the one to be set on the throne in Rama's place.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Shatrughna
+  description: Named by Rama among those whose welfare might concern the king.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Gods and Titans
+  description: Groups mentioned by Kaikeyi as combatants in an earlier battle when
+    she saved the king's life.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: grieving royal father
+  assigned_to:
+  - fig:2
+  basis: The monarch is described as unable to speak, tearful, and bowed down by grief
+    at Rama's altered fate.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: obedient son
+  assigned_to:
+  - fig:1
+  basis: Rama asks what offense he has committed and declares he will obey his father
+    and king even at the cost of his life.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: boon-claiming queen
+  assigned_to:
+  - fig:3
+  basis: Kaikeyi invokes a past promise and claims two boons from the king through
+    Rama.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: participants in binding royal promise
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Kaikeyi says the king granted her a boon and now must not break his faith.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: displaced heir and exile
+  assigned_to:
+  - fig:1
+  basis: Kaikeyi orders Rama to renounce the rites of empire and live in Dandak forest
+    for fourteen years.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: substitute heir to throne
+  assigned_to:
+  - fig:4
+  basis: Kaikeyi demands that Bharata be set on the throne with the consecration prepared
+    for Rama.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: reverential touching of feet
+  literal_form: Rama clasps his father's feet and touches Kaikeyi's feet.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire as possible ordeal of obedience
+  literal_form: Rama says he would cast his body into fire at his father's bidding.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: ocean as possible death by obedience
+  literal_form: Rama says he would sink in the waves of the ocean at his father's
+    command.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Dandak forest
+  literal_form: Dandak forest, named as the place to which Rama must go.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: consecrating drops
+  literal_form: Drops to be shed on Bharata's head as part of royal consecration.
+  associated_figures:
+  - fig:4
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: bark garment and matted hair
+  literal_form: Coat of bark and matted hair to be worn by Rama in exile.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: fourteen-year exile
+  literal_form: Duration expressed as nine years and five, and also as twice seven
+    years.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: throne
+  literal_form: The royal throne on which Bharata is to be set instead of Rama.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rama before the grieving king and Kaikeyi
+  summary: Rama reverently greets his father and Kaikeyi, sees the king in a state
+    of extreme grief, and becomes alarmed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rama asks the cause of the king's silence
+  summary: Rama asks Kaikeyi whether he has offended the king or whether some illness
+    or misfortune has struck the family.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Kaikeyi demands fulfillment of a royal promise
+  summary: Kaikeyi says the king is not angry but is afraid to speak; she insists
+    that Rama swear to fulfill the king's earlier promise to her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Rama pledges obedience
+  summary: Rama tells Kaikeyi that he would face fire, poison, or the ocean at his
+    father's command and asks her to state the king's wish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Sentence of exile and substitution of Bharata
+  summary: 'Kaikeyi claims her two boons: Bharata''s royal consecration and Rama''s
+    exile to Dandak forest for fourteen years in bark garments and matted hair.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: royal succession displaced by a binding promise
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: 'The passage centers on a contested transfer of kingship: rites prepared
+    for Rama are redirected to Bharata because the king is bound by Kaikeyi''s claimed
+    boons.'
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents the command and ritual transfer, not the completed
+    coronation.
+- id: motif:2
+  label: heroic departure into forest exile
+  taxonomy_refs:
+  - departure
+  basis: Rama is ordered to leave the court for Dandak forest and live there for fourteen
+    years in bark clothing and matted hair.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The supplied passage gives the sentence of exile; it does not yet narrate
+    the actual departure.
+- id: motif:3
+  label: obedience to father as extreme self-surrender
+  taxonomy_refs:
+  - sacrifice
+  basis: Rama declares willingness to enter fire, drink poison, or sink in the ocean
+    if commanded by his father and king.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: These are stated hypotheticals of obedience rather than enacted self-sacrifice
+    in this passage.
+- id: motif:4
+  label: boon as enforceable sacred debt
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Kaikeyi frames the king's past grant of boons as an ancient debt that must
+    be fulfilled to preserve faith and virtue.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy label is applied broadly; the passage itself uses language
+    of promise, boon, faith, and debt rather than a formal exchange ritual.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12524-12551
+  quote_or_summary: The king sits with Kaikeyi, tearful and speechless; Rama clasps
+    his father's feet, touches Kaikeyi's feet, and is alarmed by the king's strange
+    grief.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12552-12601
+  quote_or_summary: Rama asks Kaikeyi why the king does not greet him, wonders whether
+    he or others have caused distress, and says the father who gives life should be
+    a deity on earth.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12602-12633
+  quote_or_summary: Kaikeyi tells Rama that the king fears to speak because Rama is
+    dear to him, but Rama must fulfill the promise the king once gave her as a boon.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 12634-12651
+  quote_or_summary: Rama says that at his father's bidding he would cast his body
+    into fire, drink poison, or sink in the ocean, and that his father and king are
+    one.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; short excerpt summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 12652-12667
+  quote_or_summary: Kaikeyi recalls that the king gave her two boons after she saved
+    his life when gods and titans fought, and she claims that Bharata be enthroned
+    and Rama sent to Dandak forest.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 12668-12688
+  quote_or_summary: Kaikeyi commands Rama to uphold the king's word, spend fourteen
+    years in Dandak forest, let Bharata receive the consecrating drops, renounce the
+    imperial rites, and wear bark and matted hair.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 12689-12698
+  quote_or_summary: Kaikeyi says the monarch mourns Rama's changed fate and urges
+    Rama to save the king's truth; the king's anguish breaks forth, while Rama shows
+    no grief.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative roles, objects, and sequence are explicit. Motif labels use
+    the provided taxonomy and should be reviewed, especially broader labels such as
+    sacrifice and sacred_exchange.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l12524-l12698
+  passage_sha256=7e4eefb4985474f7b6902c780c12ec9c8ef6fefc955a3a4c954c701441ee78d3

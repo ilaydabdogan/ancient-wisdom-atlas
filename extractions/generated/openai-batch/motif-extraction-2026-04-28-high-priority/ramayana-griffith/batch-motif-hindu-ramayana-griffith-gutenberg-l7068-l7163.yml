@@ -1,0 +1,374 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l7068-l7163
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XLV. The Quest Of The Amrit. / Canto XLVII. Sumati. / Canto L. Janak.
+    / Canto LIV. The Battle.; lines 7068-7163
+  start: '7068'
+  end: '7163'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: King Viśvámitra attempts to take Vaśishṭha’s cow of plenty by force. The
+    distressed cow returns to Vaśishṭha, argues that Bráhmanical power exceeds royal
+    warrior power, and at his command creates armed hosts who fight the king’s army.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After Vaśishṭha does not release the cow, the monarch orders or begins her
+    removal by force.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cow is described as moaning, miserable, sad, distressed, and wondering
+    why Vaśishṭha has forsaken her.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The cow escapes the king’s men, knocks many of them down, and returns to stand
+    before Vaśishṭha.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The cow complains to Vaśishṭha that the king’s men are carrying away his servant
+    in front of him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Vaśishṭha tells the cow he has not abandoned her and says the king is a mighty
+    warrior with elephants, chariots, horses, and many troops.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The cow answers that Bráhman power is greater than warrior power and asks
+    Vaśishṭha to command her.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The cow promises to humble the tyrant’s pride and slay his host; Vaśishṭha
+    commands her to create a force equal to the foe.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The cow lows and brings Pahlava warriors to life; these warriors kill Viśvámitra’s
+    army until the king destroys them with missiles.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After the Pahlavas are slain, the cow creates Yavans and Śakas, described
+    as numerous, armed, and strong.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The royal host falls before the created warriors; the king again uses weapons,
+    causing Kámbojas, Barbars, and Yavans to flee or fall.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Saint Vaśishṭha
+  description: A Bráhman saint, called son of Brahmá, who possesses the cow and commands
+    her to create a fighting force.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Dapple-skin, the cow of plenty
+  description: Vaśishṭha’s cow, described as his servant and favourite, who speaks,
+    returns to him, and creates warriors.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: King Viśvámitra / the monarch
+  description: A mighty warrior king with a large army who tries to take the cow and
+    fights the forces she creates.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: King’s servants or soldiers
+  description: Royal men who drag or bear off the cow and are knocked down when she
+    escapes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Created warrior hosts
+  description: Pahlavas, Yavans, Śakas, Kámbojas, and Barbars associated with the
+    battle created or affected in the conflict.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: Bráhman saint and spiritual authority
+  assigned_to:
+  - fig:1
+  basis: Vaśishṭha is called a Bráhman saint and son of Brahmá; the cow speaks of
+    his divine power.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Supernatural cow and loyal servant
+  assigned_to:
+  - fig:2
+  basis: The cow speaks, appeals to Vaśishṭha as his servant, and creates warriors
+    by lowing or desire.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: Warrior king and aggressor
+  assigned_to:
+  - fig:3
+  basis: The monarch forcibly takes the cow and is described as a mighty warrior with
+    a large army.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: Royal agents of seizure
+  assigned_to:
+  - fig:4
+  basis: The king’s servants or men tear the cow away and attempt to bear her off.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: Miraculously produced battle forces
+  assigned_to:
+  - fig:5
+  basis: The cow creates named warrior groups who fight the royal army.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Cow of plenty
+  literal_form: Speaking cow named Dapple-skin, belonging to Vaśishṭha and capable
+    of producing warriors.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Fire imagery
+  literal_form: The king’s eyes are said to dart fire, and the royal host falls as
+    if burnt by ravening flame.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Weapons and royal army
+  literal_form: Elephants, cars, steeds, pennons, missiles, swords, and battle-axes
+    in the battle scene.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Forced removal and escape of the cow
+  summary: The monarch attempts to drag away the cow of plenty; she laments, breaks
+    away from the king’s men, and returns to Vaśishṭha.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dispute over Bráhman and warrior power
+  summary: Vaśishṭha says the king’s martial force is great, while the cow insists
+    that Bráhman power is superior and asks for his command.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Creation and defeat of the Pahlavas
+  summary: At Vaśishṭha’s order, the cow lows and brings Pahlava warriors to life;
+    they attack the royal army, but the king destroys them with missiles.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Creation of further warrior hosts
+  summary: The cow creates Yavans and Śakas, whose dense armed ranks overwhelm the
+    royal host; the king’s later weapons trouble or scatter other named groups.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Attempted seizure of a sacred or supernatural animal
+  taxonomy_refs:
+  - sacred_theft
+  basis: The king’s men forcibly carry off Vaśishṭha’s cow of plenty despite her connection
+    to the saint.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage depicts open royal coercion rather than secret theft; the
+    taxonomy fit is approximate.
+- id: motif:2
+  label: Supernatural creation of warrior helpers
+  taxonomy_refs: []
+  basis: The cow creates Pahlavas by lowing and later creates Yavans and Śakas by
+    desire to oppose the king’s army.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly names this pattern.
+- id: motif:3
+  label: Spiritual authority overcoming royal martial power
+  taxonomy_refs: []
+  basis: The cow explicitly says Bráhman might is greater than warrior might and acts
+    under Vaśishṭha’s command against the king’s host.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage emphasizes the claim through speech and battle, but the final
+    outcome of the wider episode is not included in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7068-7094
+  quote_or_summary: Vaśishṭha does not let the cow go; the king tries to drag her
+    away by force. The distressed cow wonders why she has been forsaken, escapes,
+    knocks down the surrounding men, and returns to Vaśishṭha.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7095-7117
+  quote_or_summary: Dapple-skin complains that the king’s men are bearing off Vaśishṭha’s
+    servant. Vaśishṭha replies that he has not abandoned her and describes the king
+    as a powerful warrior with elephants, chariots, horses, pennons, and many troops.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7118-7135
+  quote_or_summary: The cow says Bráhman power from Heaven is greater than warrior
+    power, asks Vaśishṭha to command her, promises to tame the tyrant’s pride and
+    slay his host, and receives the order to create a matching force.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7136-7142
+  quote_or_summary: The cow lows and brings Pahlavas to life; they kill Viśvámitra’s
+    army until the angry king destroys them with missiles.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7143-7157
+  quote_or_summary: Seeing the Pahlavas slain, the cow creates Yavans and Śakas, described
+    as dense, numberless, gold-mailed, and armed with swords and battle-axes; the
+    royal host falls as if burned by flame.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7158-7163
+  quote_or_summary: The famous monarch again hurls fearful weapons, causing Kámbojas,
+    Barbars, and Yavans to be troubled, flee, and fall.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The basic actions and figures are explicit in the passage. Motif taxonomy
+    mapping is less certain because the supplied families do not directly include
+    a miraculous cow producing armies or Bráhman-kṣatriya conflict.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; comparison claims were left empty because no direct intertextual comparison is made within the excerpt.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l7068-l7163
+  passage_sha256=5789809d883082ca177b6cb25d27274ca8484b1e90fb326a19126641b6a64656

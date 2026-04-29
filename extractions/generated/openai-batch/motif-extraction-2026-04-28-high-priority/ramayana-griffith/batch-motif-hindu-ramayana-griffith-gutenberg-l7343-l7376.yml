@@ -1,0 +1,411 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l7343-l7376
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XLVII. Sumati. / Canto L. Janak. / Canto LIV. The Battle. / Canto LV.
+    The Hermitage Burnt.; lines 7343-7376
+  start: '7343'
+  end: '7376'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A saint empowered by divine lore uses a Brahman wand or staff to consume
+    the dart of Brahma. Sparks and smoke issue from him, and the staff glows like
+    Yama’s sceptre or a world-destroying fire of Fate. Awed hermits praise him and
+    ask him to restrain his power so the worlds may rest. The saint calms his wrath.
+    A king, overpowered and ashamed, declares warrior strength inferior to Brahman
+    power and resolves to begin austerities to win Brahmanhood.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The saint’s Brahman wand, empowered by divine lore, devours the dart.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The triple world watches the sight with awe.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: As the dart of Brahma is swallowed, sparks break from the saint’s pores and
+    hair-cells, with smoke around them.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The staff waved by the saint is described as glowing like Yama’s sceptre and
+    like the fire of Fate that will desolate worlds.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The hermits praise the saint and ask him to restrain his might so the worlds
+    may rest from trouble.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The hermits state that Viśvámitra has been discomfited by the saint.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After the hermits speak, the saint appeases the fury of his wrath.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The king, overpowered and ashamed, says that warrior strength is slight and
+    Brahman power is true might.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The king says the Brahman staff held by the hermit has quelled the fury of
+    his darts.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The king resolves to begin an austere task, rule his senses, become tranquil,
+    and strive to win Brahmanhood.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the saint
+  description: A saint or sage holding a Brahman wand or staff, able to consume the
+    dart of Brahma and then restrain his wrath.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the hermits
+  description: Hermits who are awed by the sight, praise the saint, and ask him to
+    restrain his power.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: the king
+  description: A king who is overpowered and ashamed, acknowledges Brahman power over
+    warrior strength, and vows to pursue austerity and Brahmanhood.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Viśvámitra
+  description: Named by the hermits as strong and dread and as having been discomfited
+    by the saint.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Yama
+  description: Named in a simile comparing the glowing staff to Yama’s sceptre, King
+    below.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Brahma
+  description: Named as the associated figure of the dart swallowed by the saint’s
+    power.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Brahmanical victor
+  assigned_to:
+  - fig:1
+  basis: The saint’s Brahman staff consumes or quells the opposing dart or darts.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: wrathful power restrained
+  assigned_to:
+  - fig:1
+  basis: The hermits ask the saint to restrain his might, and he appeases his wrath.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: praising witnesses and intercessors
+  assigned_to:
+  - fig:2
+  basis: The hermits are awed, praise the saint, and request that he let the worlds
+    rest from trouble.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: defeated king
+  assigned_to:
+  - fig:3
+  basis: The king is described as overpowered and ashamed after the Brahman staff
+    has quelled the fury of his darts.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: aspirant to Brahmanhood
+  assigned_to:
+  - fig:3
+  basis: The king resolves to undertake austerity and strive to win Brahmanhood.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: discomfited opponent
+  assigned_to:
+  - fig:4
+  basis: The hermits state that Viśvámitra, strong and dread, has been discomfited
+    by the saint.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: underworld royal comparator
+  assigned_to:
+  - fig:5
+  basis: Yama is invoked only in a simile for the glowing staff as King below.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: divine source-name of weapon
+  assigned_to:
+  - fig:6
+  basis: The swallowed dart is called the dart of Brahma.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Brahman wand or staff
+  literal_form: A Brahman wand or staff held and waved by the saint.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: dart of Brahma
+  literal_form: A dart associated with Brahma, swallowed or devoured by the saint’s
+    empowered wand.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sparks and smoke
+  literal_form: Sparks breaking from pores and hair-cells, enveloped in smoke.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: lurid fire of Fate
+  literal_form: 'A simile for the staff’s glow: a fire of Fate whose rage will desolate
+    the worlds.'
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Yama’s sceptre
+  literal_form: A sceptre of Yama, King below, used as a simile for the glowing staff.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: austere task
+  literal_form: The king’s stated future practice of austerity, sense-rule, and tranquil
+    striving for Brahmanhood.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Brahman staff overcomes the dart
+  summary: The saint’s Brahman wand or staff, empowered by divine lore, consumes the
+    dart of Brahma while sparks and smoke issue from him and the worlds watch in awe.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cosmic glow of the staff
+  summary: The saint waves the glowing staff, which is compared to Yama’s sceptre
+    and to a fire of Fate that will desolate the worlds.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hermits praise and request restraint
+  summary: The awed hermits praise the saint, say Viśvámitra has been discomfited,
+    and ask the saint to restrain his might so the worlds may rest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Wrath appeased and royal resolve
+  summary: The saint calms his wrath. The king, ashamed by defeat, acknowledges Brahman
+    power over warrior strength and resolves to undertake austerity to win Brahmanhood.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Brahmanical power overcomes martial weaponry
+  taxonomy_refs: []
+  basis: The king says warrior strength is slight, while the Brahman staff has quelled
+    the fury of his darts.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage frames the contrast explicitly, but no external motif taxonomy
+    reference is supplied for this exact pattern.
+- id: motif:2
+  label: Wrathful sacred power restrained for the world’s welfare
+  taxonomy_refs: []
+  basis: The hermits ask the saint to restrain his might and let the worlds rest,
+    after which the saint appeases his wrath.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe further consequences after the restraint.
+- id: motif:3
+  label: Austerity as path to changed spiritual status
+  taxonomy_refs:
+  - initiation
+  basis: The defeated king resolves to rule his senses, become tranquil, begin an
+    austere task, and strive to win Brahmanhood.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage records only the vow to begin austerity, not the completion
+    of initiation or transformation.
+- id: motif:4
+  label: World-destroying fire image
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: The staff’s glow is compared to the lurid fire of Fate whose rage will desolate
+    the worlds.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The world-destroying fire is a simile for the staff’s appearance, not
+    an actual world-ending event in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7343-7352
+  quote_or_summary: "“The saint, with Bráhman wand, empowered / By lore divine that
+    dart devoured”; the triple world watches; sparks and smoke issue as he swallows
+    the dart of Brahma."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: 7353-7356
+  quote_or_summary: "“The staff he waved was all aglow / Like Yáma’s sceptre” and
+    like “the lurid fire of Fate / Whose rage the worlds will desolate.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: summary
+  locator: 7357-7366
+  quote_or_summary: The awed hermits praise the saint, ask him to restrain his might,
+    request rest for the worlds, and say Viśvámitra has been discomfited by him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 7367-7368
+  quote_or_summary: After being addressed by the hermits, the saint is pleased and
+    appeases the fury of his wrath.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 7369-7374
+  quote_or_summary: The king is “o’erpowered and ashamed” and declares, “Warriors’
+    strength is poor and slight; / A Bráhman’s power is truly might,” adding that
+    the Brahman staff has quelled his darts.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: quote
+  locator: 7375-7376
+  quote_or_summary: 'The king resolves: “My task austere will I begin, / And Bráhmanhood
+    will strive to win.”'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the supplied passage. Motif labels
+    are passage-based; taxonomy links are limited to available references and are
+    cautious where the passage uses simile rather than event.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a cross-text or cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l7343-l7376
+  passage_sha256=b36ea36dcedf5b352747ddd95c89e0a6b4b5067192de14bf3b3bb14f729f75bf

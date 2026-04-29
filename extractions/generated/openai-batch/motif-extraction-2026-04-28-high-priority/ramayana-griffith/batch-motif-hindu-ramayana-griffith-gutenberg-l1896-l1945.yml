@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l1896-l1945
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto III. The Argument. / Canto IV. The Rhapsodists. / Canto VI. The King.
+    / Canto VII. The Ministers.; lines 1896-1945
+  start: '1896'
+  end: '1945'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A king is troubled over how to bring the young hermit Rishyaśring. His
+    attendants fear the task, and a plan is made to send women disguised as hermits
+    to entice the recluse from his father’s cell. When he comes to the city, rain
+    will fall and the king’s troubles will end. Rishyaśring will be allied to King
+    Lomapád by marriage to Śántá, and he will later officiate at the Horse Offering
+    to obtain sons for King Daśaratha. The speaker says these are the old words of
+    Sanatkumár, and Daśaratha asks how the hermit boy was brought.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The monarch intends to ask counsel of his lords and to command priests and
+    servants to bring Rishyaśring with honour.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king’s attendants respond with fear and ask to be spared from going.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lords devise plans and crafty plots, and the king recalls them on the
+    third day for further debate.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The agreed plan is to send damsels dressed in holy hermits’ clothing and skilled
+    in blandishment to beguile and seduce the young recluse from his father’s cell.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the boy leaves his retreat and stands in the city, the king’s troubles
+    end and blessed rain falls on the thirsty land.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Rishyaśring is to be allied to King Lomapád through marriage to Śántá.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: At the Offering of the Steed, Rishyaśring will feed the flames with holy oil
+    and obtain sons for King Daśaratha.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The speaker states that he has repeated the old words of Sanatkumár, and Daśaratha
+    asks how the hermit boy was brought.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Rishyaśring
+  description: A wondrous and saintly hermit boy, described as an unsuspecting young
+    recluse who leaves his father’s cell, later marries Śántá and officiates at the
+    Horse Offering.
+  role_refs:
+  - role:2
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Lomapád
+  description: A mighty king whose troubles are to end when Rishyaśring comes to the
+    city and with whom Rishyaśring is allied by wedlock.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: The king’s lords, priests, and servants
+  description: Royal attendants who are asked to help bring Rishyaśring, fear going,
+    and participate in forming plans.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Damsels in hermits’ weed
+  description: Women sent in holy hermit clothing, skilled in blandishment and amorous
+    wiles, to entice Rishyaśring.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Śántá
+  description: Described as fairest of the fair and destined to be Rishyaśring’s royal
+    bride.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Daśaratha
+  description: A king for whom Rishyaśring will obtain sons at the Offering of the
+    Steed; he later asks how the hermit boy was brought.
+  role_refs:
+  - role:6
+  - role:10
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Sanatkumár
+  description: The figure whose old words the speaker says he has repeated.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Unnamed speaker
+  description: The speaker who says he has repeated Sanatkumár’s words to Daśaratha.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: troubled king
+  assigned_to:
+  - fig:2
+  basis: The king’s troubles are said to end when Rishyaśring reaches the city.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: young recluse
+  assigned_to:
+  - fig:1
+  basis: Rishyaśring is called an unsuspecting young recluse who is to be drawn from
+    his father’s cell.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: fearful royal advisers and attendants
+  assigned_to:
+  - fig:3
+  basis: They fear to go, beseech the king to spare them, and declare plans.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: disguised enticers
+  assigned_to:
+  - fig:4
+  basis: The damsels are to wear hermits’ clothing and use blandishment and amorous
+    wiles.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: ritual officiant
+  assigned_to:
+  - fig:1
+  basis: Rishyaśring is to feed the sacrificial flames with holy oil at the Offering
+    of the Steed.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: royal beneficiary
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: Lomapád’s troubles and drought are resolved by Rishyaśring’s arrival, and
+    Daśaratha receives sons through Rishyaśring’s ritual action.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: rain-bringing holy figure
+  assigned_to:
+  - fig:1
+  basis: The passage links the boy’s arrival in the city with the descent of blessed
+    rain.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: royal bride
+  assigned_to:
+  - fig:5
+  basis: Śántá is named as Rishyaśring’s royal bride.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: cited ancient authority
+  assigned_to:
+  - fig:7
+  basis: The speaker says the words repeated are those of old Sanatkumár.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: dialogue participant
+  assigned_to:
+  - fig:6
+  - fig:8
+  basis: The speaker addresses Daśaratha and Daśaratha replies by asking for the account
+    of how the hermit boy was brought.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: blessed rain
+  literal_form: Streams of blessed rain descending on the thirsty land.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: sacrificial flames
+  literal_form: Flames fed with holy oil at the Offering of the Steed.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: hermits’ weed disguise
+  literal_form: Damsels attired in holy hermits’ weed.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: father’s cell
+  literal_form: The young recluse’s father’s cell, which he is enticed to leave.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Royal council over Rishyaśring
+  summary: The king seeks counsel on bringing Rishyaśring, while his attendants fear
+    the mission and begin to formulate plans.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Disguised damsels sent to entice the recluse
+  summary: The plan is made to send women in hermits’ clothing to use blandishment
+    and amorous wiles so that Rishyaśring leaves his father’s cell.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Arrival, rain, and marriage alliance
+  summary: Rishyaśring’s arrival in the city is linked to the end of the king’s troubles,
+    the descent of rain, and his marriage alliance with Lomapád through Śántá.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Horse Offering for Daśaratha’s sons
+  summary: Rishyaśring feeds the sacrificial flames with holy oil at the Offering
+    of the Steed and obtains sons for Daśaratha.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Frame dialogue citing Sanatkumár
+  summary: The speaker says he has repeated Sanatkumár’s old words, and Daśaratha
+    asks how the hermit boy was brought.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: enticing an ascetic from seclusion
+  taxonomy_refs:
+  - departure
+  - trickster_boundary
+  basis: The passage describes a deliberate plan to send disguised women to beguile
+    the young recluse and cause him to leave his father’s cell.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy labels are approximate; the passage describes deception and
+    departure but does not explicitly name a trickster figure.
+- id: motif:2
+  label: holy figure’s arrival brings rain
+  taxonomy_refs: []
+  basis: The boy’s movement from retreat to the city is directly followed by the end
+    of the king’s troubles and the descent of blessed rain on the thirsty land.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available motif-family taxonomy item exactly names rainmaking, so taxonomy_refs
+    is left empty.
+- id: motif:3
+  label: marriage alliance with a holy man
+  taxonomy_refs:
+  - sacred_marriage
+  basis: Rishyaśring is allied to King Lomapád by wedlock, with Śántá as his royal
+    bride.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage presents a royal-ritual marriage alliance; it does not explicitly
+    describe a divine marriage.
+- id: motif:4
+  label: sacrifice to obtain royal sons
+  taxonomy_refs:
+  - sacrifice
+  - sacred_birth
+  basis: At the Offering of the Steed, Rishyaśring feeds the flames with holy oil
+    and gains sons for Daśaratha, whose prayers had previously been vain.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The birth of the sons is promised as a result of the rite but not narrated
+    within this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1896-1905
+  quote_or_summary: The king is troubled over how to bring Rishyaśring; he will seek
+    counsel and command priests and servants to bring him, but they fear going and
+    ask to be spared.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 1906-1913
+  quote_or_summary: The attendants propose plans and crafty plots; the king meditates
+    on their words and recalls them on the third day for debate.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 1914-1926
+  quote_or_summary: The agreed plan sends damsels dressed in holy hermits’ weed, skilled
+    in blandishment and amorous wiles, to seduce the unsuspecting young recluse away
+    from his father’s cell.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 1927-1934
+  quote_or_summary: When the boy willingly leaves his retreat and stands in the city,
+    the king’s troubles end and blessed rain descends on the thirsty land.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 1935-1940
+  quote_or_summary: Rishyaśring is to be allied to mighty King Lomapád by wedlock;
+    Śántá, praised for beauty, mind, and grace, is to be his royal bride.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 1941-1945
+  quote_or_summary: At the Offering of the Steed, Rishyaśring will feed the flames
+    with holy oil and gain sons for King Daśaratha, who has begged for them in vain.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 1946-1951
+  quote_or_summary: The speaker says he has repeated the old words of Sanatkumár before
+    holy men; Daśaratha joyfully asks how they brought the hermit boy.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main narrative actions, figures, and ritual elements are explicit. Motif
+    taxonomy assignments are partly approximate where the available taxonomy lacks
+    a specific rainmaking or ascetic-seduction family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Comparison claims are omitted because the passage itself does not explicitly support a comparison with another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l1896-l1945
+  passage_sha256=575ccad7f1c211a2370ac949e0958cd569c804380fc4e161d8c23ab0fc6347ac

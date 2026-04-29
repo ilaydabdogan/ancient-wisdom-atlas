@@ -1,0 +1,615 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l23583-l23696
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE REDEMPTION OF THE BODY OF HECTOR. / CONCLUDING NOTE. / A. POPE / END
+    OF THE ILIAD; lines 23583-23696
+  start: '23583'
+  end: '23696'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives a concluding prose summary of the Iliad: an injured
+    hero withdraws from battle, rejects compensation, lends his armor to a friend
+    who dies, returns to war with divine armor, kills the enemy chief, honors his
+    friend with funeral rites, mistreats the enemy''s body, and finally returns the
+    corpse to the slain warrior''s father for burial. The notes also discuss Apollo
+    Smintheus, Apollo''s arrows as causes of sudden death and pestilence, divine dreams,
+    and a comparison with Milton''s invocation of a heavenly Muse.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hero injured by his general retires to his tent and withdraws himself and
+    his troops from the war for a time.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The general sends principal officers to the incensed hero with compensation
+    and magnificent presents, but the hero persists in animosity.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hero's friend weeps before him and asks for the hero's arms and permission
+    to go to war in his place.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The hero lends his armor to his friend while commanding him not to engage
+    the enemy chief.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The friend disregards the prohibition, dies, and the hero's arms become the
+    prize of the conqueror.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The hero receives new armor from a divinity, reconciles with his general,
+    returns to battle, and slays the enemy chief.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The hero performs superb funeral rites for his friend, takes vengeance on
+    the body of the friend’s destroyer, and later restores the corpse to the slain
+    warrior’s father, who buries it with due solemnities.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A note explains Apollo's epithet Smintheus by reference to mice and to a temple
+    raised to Sminthean Apollo after field-mice gnawed baggage straps and armor thongs.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A note describes Apollo's and Diana's arrows as causes of unforeseen or invisible
+    death and pestilence, and connects Apollo with prophecy, song, music, and archery.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A note reports ancient references to Homeric words in support of the belief
+    that dreams had divine origin and import.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: A note explicitly compares a Homeric invocation with Milton's invocation of
+    a heavenly Muse in Paradise Lost.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: injured hero
+  description: A hero injured by his general, resentful, withdrawn from battle, later
+    returning to fight and restore a corpse.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: general
+  description: The hero's general, whose fault injures the hero and who later sends
+    officers with compensation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: principal officers
+  description: Officers deputed by the general to offer compensation and presents
+    to the hero.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: hero's friend
+  description: The hero's friend who weeps, asks for the hero's arms, goes to war
+    in his place, disregards the prohibition, and dies.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: enemy chief
+  description: The chief of the enemy army, destroyer of the hero's friend, slain
+    by the returning hero.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: divinity
+  description: An unnamed divinity who gives new armor to the hero.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: father of the slain warrior
+  description: The old man whose tears and prayers appease the hero and who receives
+    and buries his son's corpse.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Apollo Smintheus
+  description: Apollo under an epithet associated in the note with mice, plague, oracle,
+    settlement, and a temple.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:9
+  name_or_label: Diana
+  description: A deity whose arrows, together with Apollo's, are described as symbols
+    of sudden death.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: heavenly Muse
+  description: A Muse invoked in the Milton passage quoted in the note for comparison.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: withdrawn injured hero
+  assigned_to:
+  - fig:1
+  basis: The summary says the hero is injured by his general and retires from war.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: returning avenger and restorer of the body
+  assigned_to:
+  - fig:1
+  basis: The hero returns with divine armor, kills the enemy chief, honors his friend,
+    mistreats the enemy body, and restores it to the father.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: offending commander
+  assigned_to:
+  - fig:2
+  basis: The general commits the fault that injures the hero and later sends compensation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: intercessary envoys
+  assigned_to:
+  - fig:3
+  basis: The officers are deputed to approach the incensed hero with compensation
+    and presents.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: substitute warrior friend
+  assigned_to:
+  - fig:4
+  basis: The friend asks for the hero's arms and permission to enter battle in his
+    stead, then dies.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: enemy champion and slayer of the friend
+  assigned_to:
+  - fig:5
+  basis: The enemy chief is the opponent the friend is forbidden to engage and is
+    later identified as the destroyer whose body receives vengeance.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:7
+  label: divine armor giver
+  assigned_to:
+  - fig:6
+  basis: The hero receives new armor from a divinity.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: supplicating father
+  assigned_to:
+  - fig:7
+  basis: The father’s tears and prayers appease the hero and lead to the restoration
+    of the corpse.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: god of plague, oracle, and archery
+  assigned_to:
+  - fig:8
+  basis: The notes associate Apollo with pestilence, prophecy, song, music, archery,
+    and the Smintheus cult explanation.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:10
+  label: deity of sudden-death arrows
+  assigned_to:
+  - fig:9
+  basis: The note says Apollo and Diana are armed with arrows symbolizing sudden death.
+  evidence_refs:
+  - ev:7
+- id: role:11
+  label: invoked Muse
+  assigned_to:
+  - fig:10
+  basis: The quoted Milton passage invokes a heavenly Muse in a comparison note.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: hero's armor
+  literal_form: arms or armor lent by the hero to his friend and later taken as a
+    prize by the conqueror
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: divine new armor
+  literal_form: new armor received by the hero from a divinity before his return to
+    battle
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: corpse of the slain warrior
+  literal_form: the body of the enemy chief, mistreated in vengeance and then restored
+    to his father for burial
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: funeral rites and burial solemnities
+  literal_form: superb funeral rites for the hero's friend and due solemnities for
+    the restored corpse
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: mice of Apollo Smintheus
+  literal_form: field-mice that gnaw baggage straps and armor thongs in the explanatory
+    note
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: arrows of Apollo and Diana
+  literal_form: arrows described as symbols of sudden death and causes of invisible
+    or unforeseen death
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: divine dreams
+  literal_form: dreams believed to have divine origin and import
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: heavenly Muse
+  literal_form: Muse invoked in the Milton passage cited for comparison
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: injury and withdrawal from war
+  summary: An injured hero, resentful toward his general, retires to his tent and
+    withdraws his troops, after which the army loses its advantage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: failed compensation embassy
+  summary: The general sends officers to offer compensation and presents, but the
+    hero refuses to abandon his anger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: friend wears the hero's armor
+  summary: The friend persuades the hero to lend his armor and enter the battle as
+    his substitute, but ignores the prohibition against fighting the enemy chief and
+    is killed.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: divine rearming and revenge
+  summary: The hero receives new armor from a divinity, reconciles with his general,
+    returns to battle, and kills the enemy chief.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: funeral rites and restoration of the corpse
+  summary: The hero honors his friend with funeral rites, vents vengeance on the destroyer's
+    body, and finally yields to the father’s prayers by returning the corpse for burial.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Sminthean Apollo cult explanation
+  summary: A note explains Apollo's Smintheus epithet through stories of mice, plague,
+    migration, oracle fulfillment, settlement, and temple foundation.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Apollo's arrows and invisible death
+  summary: A note interprets Apollo's and Diana's arrows as symbols of sudden death,
+    pestilence, and unseen fatal agency, while linking Apollo to prophecy, song, music,
+    and archery.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: withdrawal and return of the offended hero
+  taxonomy_refs:
+  - departure
+  - return
+  basis: The hero withdraws from war after injury by the general and later returns
+    to battle after his friend's death.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The taxonomy labels are broad; the passage summarizes an epic plot rather
+    than naming a formal motif.
+- id: motif:2
+  label: failed compensation for dishonor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The general offers compensation and presents through envoys, but the hero
+    refuses reconciliation at that stage.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents political and martial compensation; its fit with
+    a sacred-exchange taxonomy is indirect.
+- id: motif:3
+  label: substitute warrior in borrowed armor
+  taxonomy_refs: []
+  basis: The friend receives the hero's arms, enters battle in his place, disobeys
+    the limit placed on him, and dies.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference exactly matches borrowed armor or substitute
+    combat.
+- id: motif:4
+  label: divine rearming of the hero
+  taxonomy_refs: []
+  basis: The hero receives new armor from a divinity before returning to battle.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference exactly matches divine armor.
+- id: motif:5
+  label: funeral appeasement and restoration of the enemy corpse
+  taxonomy_refs: []
+  basis: The hero performs funeral rites for his friend, abuses the body of the enemy,
+    and finally returns it to the father for burial after prayers.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage describes burial and supplication but does not frame the sequence
+    as a named motif.
+- id: motif:6
+  label: deity as invisible agent of plague and sudden death
+  taxonomy_refs:
+  - divine_judgment
+  basis: The note attributes pestilence and sudden death from unseen causes to the
+    arrows of Apollo or Diana.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The note is explanatory and general, not a narrative scene in the Iliad
+    summary.
+- id: motif:7
+  label: divinely significant dreams
+  taxonomy_refs:
+  - wisdom
+  basis: The note reports a belief that dreams had divine origin and meaningful import
+    for humans.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage mentions the belief only in a note and does not recount a
+    specific dream episode.
+- id: motif:8
+  label: animal sign and cult foundation
+  taxonomy_refs: []
+  basis: The Smintheus note links field-mice gnawing straps to oracle fulfillment,
+    settlement, and the raising of a temple to Apollo.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a mythographic explanatory note rather than the main Iliad passage.
+comparison_claims:
+- id: claim:1
+  claim: The note makes an explicit literary comparison between a Homeric invocation
+    and Milton's invocation of a heavenly Muse in Paradise Lost.
+  claim_level: linguistic_similarity
+  target: Milton, Paradise Lost i.6 invocation of the heavenly Muse
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage only gives a brief comparison note and does not develop
+    a full mythological or historical relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: "[40], lines 23583-23591"
+  quote_or_summary: The summary says an injured hero, moved by resentment toward his
+    general, retires to his tent and withdraws himself and his troops from war; victory
+    abandons the army during this interval.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: "[40], lines 23591-23598"
+  quote_or_summary: The general recognizes his fault and sends principal officers
+    to offer compensation and magnificent presents; the hero remains obstinate in
+    his animosity.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: "[40], lines 23598-23609"
+  quote_or_summary: The hero's friend weeps and asks for the hero's arms and permission
+    to fight in his place; the hero lends the armor but forbids combat with the enemy
+    chief; the friend forgets the prohibition, dies, and the arms are taken by the
+    conqueror.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: "[40], lines 23609-23615"
+  quote_or_summary: The hero, in despair, receives new armor from a divinity, reconciles
+    with his general, returns to battle, wins victory, and slays the enemy chief.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: "[40], lines 23615-23622"
+  quote_or_summary: The hero honors his friend with funeral rites, takes cruel vengeance
+    on the body of the friend's destroyer, and later, appeased by the father's tears
+    and prayers, restores the corpse for solemn burial.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: "[47], lines 23642-23658"
+  quote_or_summary: The note explains Smintheus as an epithet of Apollo associated
+    with mice, including an oracle story in which field-mice gnaw baggage straps and
+    armor thongs, leading settlers to found a temple to Sminthean Apollo.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: "[50], lines 23665-23687"
+  quote_or_summary: The note says unforeseen deaths, pestilence, and sudden deaths
+    are ascribed to Apollo's or Diana's arrows; it also links Apollo's functions of
+    prophecy, song, music, and archery, while denying evidence in the Iliad or Odyssey
+    for Apollo as the Sun.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: "[53], lines 23695-23696"
+  quote_or_summary: The note states that ancient passages were cited in support of
+    the belief that dreams had divine origin and meaningful import for people.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: "[43], lines 23632-23637"
+  quote_or_summary: 'The note says to compare Milton''s Paradise Lost i.6: “Sing,
+    heavenly Muse...”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main narrative material is a prose summary of the whole Iliad, while
+    several extracted items come from explanatory notes rather than direct epic narration.
+    Line locators within the supplied range are approximate to the provided passage
+    segments and footnote numbers.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Figure names are kept descriptive when the note does not name the figure explicitly.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l23583-l23696
+  passage_sha256=eeea032da5487679bcf70a2f071dc4a09cda72d517ed0561a45b37f98b0ba68c

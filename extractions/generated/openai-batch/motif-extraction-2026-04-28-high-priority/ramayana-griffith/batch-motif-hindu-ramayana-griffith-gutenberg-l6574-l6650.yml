@@ -1,0 +1,441 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l6574-l6650
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XL. The Cleaving Of The Earth. / Canto XLI. Kapil. / Canto XLV. The
+    Quest Of The Amrit. / Canto XLVII. Sumati.; lines 6574-6650
+  start: '6574'
+  end: '6650'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Gautam curses his wife to live unseen in a lonely grove under severe vows
+    until Ráma comes, receives her hospitality, removes her stain, and restores her.
+    Ráma and Lakshmaṇ enter the grove, Ahalyá receives them with proper guest-offerings,
+    celestial beings celebrate her purification, Gautam returns and accepts her again,
+    and Ráma continues toward Mithilá.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Gautam curses his wife to live for countless years in solitude, sleeping on
+    ashes and eating air, unseen by any eye.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The curse states that Ráma, Daśaratha’s child, will come to the grove, remove
+    her stain, make her pure again, restore her to Gautam’s side, and give her proper
+    shape once more.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Gautam leaves and spends long years in severe rites on the heights of Himálaya.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ráma enters the grove with Lakshmaṇ while following his guide.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ahalyá is described as an illustrious penitent whose vows have given her a
+    wondrous light, and she remains screened from gods, mortals, and other beings
+    until Ráma comes.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The sons of Raghu honor Ahalyá by clasping her feet, and she receives them
+    with water for their feet, guest-gift, and other courtesies.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Flowers fall from the sky, music sounds, celestial nymphs and minstrels dance
+    and sing, and the gods praise Ahalyá as no longer defiled and reconciled with
+    her husband.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Gautam knows that Ráma has lodged beneath the shade, comes there, pays homage,
+    and takes purified Ahalyá to his side.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Gautam lets Ahalyá share in his austerities, and Ráma proceeds on the road
+    to Mithilá after receiving Gautam’s honors.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Gautam
+  description: A holy hermit who curses his wife, performs long austerities on Himálaya,
+    returns after Ráma’s arrival, honors Ráma, and accepts Ahalyá again.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Ahalyá
+  description: Gautam’s wife, called a guilty spouse and later an illustrious penitent;
+    she lives unseen under vows, receives Ráma and Lakshmaṇ, is purified, and is restored
+    to Gautam’s side.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Ráma
+  description: Daśaratha’s child and prince of Raghu’s race whose arrival releases
+    Ahalyá; he receives her hospitality and continues toward Mithilá.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Lakshmaṇ
+  description: Companion of Ráma who enters the grove with him and is received by
+    Ahalyá.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Gods, nymphs, and minstrels
+  description: Celestial figures who celebrate Ahalyá’s purification with flowers,
+    music, dance, song, and praise.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: cursing hermit-husband
+  assigned_to:
+  - fig:1
+  basis: Gautam pronounces the curse on his wife and sets the condition for its removal.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: penitent under curse
+  assigned_to:
+  - fig:2
+  basis: Ahalyá lives in solitude under severe vows, unseen until Ráma’s arrival.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: destined liberating guest
+  assigned_to:
+  - fig:3
+  basis: The curse specifies that Ráma’s arrival and received hospitality will remove
+    Ahalyá’s stain and restore her.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: honored guest
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Ahalyá receives Ráma and Lakshmaṇ with foot-water, guest-gift, and courtesies.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: reconciled ascetic spouse
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Gautam takes purified Ahalyá to his side and lets her share his austerities.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: celestial celebrants
+  assigned_to:
+  - fig:5
+  basis: The gods, nymphs, and minstrels celebrate and praise Ahalyá’s purification
+    and reconciliation.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ashes as bed
+  literal_form: Ahalyá’s prescribed bed of ashes during the curse.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: air as food
+  literal_form: Ahalyá’s prescribed food of air during the curse.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: lonely grove
+  literal_form: The grove where Ahalyá must live unseen and where Ráma later arrives.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: Himálaya heights
+  literal_form: The mountain heights where Gautam performs long austerities.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: water for feet
+  literal_form: Water offered by Ahalyá for the guests’ feet.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: flame image
+  literal_form: A simile comparing Ahalyá’s appearance to a flame that rises and sinks
+    into smoke.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: flower rain
+  literal_form: Flowers falling in copious rain from the sky during the celebration.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Gautam’s curse
+  summary: Gautam curses his wife to a long, unseen penance in a lonely grove and
+    says Ráma’s future arrival and honored reception will purify and restore her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Austerity and hidden penance
+  summary: Gautam departs to Himálaya for severe rites while Ahalyá remains a radiant
+    but hidden penitent in the grove until Ráma comes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Ráma and Lakshmaṇ received by Ahalyá
+  summary: Ráma and Lakshmaṇ enter the grove, honor Ahalyá, and receive her hospitality,
+    including water for their feet and guest-gifts.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Celestial celebration and reconciliation
+  summary: Celestial beings celebrate Ahalyá’s purification; Gautam returns, honors
+    Ráma, accepts Ahalyá, and allows her to share his austerities.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Ráma proceeds to Mithilá
+  summary: After Gautam’s welcome and honors, Ráma continues his journey toward Mithilá.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: curse-enforced penance with foretold release
+  taxonomy_refs:
+  - divine_judgment
+  basis: A wrongdoing is answered by a powerful curse prescribing prolonged austerity,
+    invisibility, and a specific future condition for release.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The judging agent is Gautam, a holy hermit and husband, not explicitly
+    a deity or formal divine court in this passage.
+- id: motif:2
+  label: purification through honoring a sacred guest
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The curse states that honoring Ráma as guest will cleanse Ahalyá, and the
+    passage narrates her offering water and guest-gifts before her public purification
+    is celebrated.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage emphasizes hospitality to Ráma specifically; broader ritual
+    classification requires review.
+- id: motif:3
+  label: restoration of hidden or altered woman by hero’s arrival
+  taxonomy_refs:
+  - death_rebirth
+  basis: Ahalyá is removed from sight, awaits Ráma’s arrival, is freed, made pure,
+    regains proper shape, and is restored to her husband’s side.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: No literal death or birth occurs in the passage; the death-rebirth reference
+    is only a structural analogy to restoration after a suspended state.
+- id: motif:4
+  label: ascetic austerity as transformation
+  taxonomy_refs:
+  - initiation
+  basis: Ahalyá’s severe vows give her a wondrous light, and after purification she
+    shares Gautam’s austerities.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: low
+  cautions: The passage does not explicitly frame the experience as initiation; the
+    motif label is tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6574-6590
+  quote_or_summary: Gautam curses his wife to live unseen in a lonely grove under
+    severe vows until Ráma comes; honoring Ráma as guest will cleanse and restore
+    her.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 6592-6595
+  quote_or_summary: After speaking the curse, Gautam leaves and spends long years
+    in severe rites on Himálaya’s heights.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 6598-6618
+  quote_or_summary: Ráma and Lakshmaṇ enter the grove; Ahalyá is a radiant penitent,
+    hidden from gods and mortals until Ráma comes to set her free.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 6620-6627
+  quote_or_summary: The sons of Raghu honor Ahalyá’s feet; she remembers Gautam’s
+    oath, receives them, and gives water for their feet and guest-gifts.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 6629-6638
+  quote_or_summary: Flowers fall, celestial music sounds, nymphs and minstrels dance
+    and sing, and the gods praise Ahalyá as no longer defiled and reconciled with
+    her husband.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 6639-6645
+  quote_or_summary: Gautam knows Ráma has lodged there, comes to pay homage, takes
+    purified Ahalyá to his side, and lets her share his austerities.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 6647-6650
+  quote_or_summary: Ráma is welcomed and honored by Gautam, then continues his road
+    to Mithilá.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif taxonomy assignments
+    are tentative where available categories do not exactly name curse-release, hospitality-purification,
+    or restoration motifs. No comparison claims were made because the passage itself
+    does not provide comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. The passage locator label appears to mention other cantos, while the supplied text centers on Gautam, Ahalyá, and Ráma’s freeing of Ahalyá.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l6574-l6650
+  passage_sha256=26e44ca357789d5eaef4dbd81d86f8808cd026ec25d7622590ae7694972432cd

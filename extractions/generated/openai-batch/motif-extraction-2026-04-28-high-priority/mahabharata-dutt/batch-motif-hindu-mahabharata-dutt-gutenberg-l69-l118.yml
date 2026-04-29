@@ -1,0 +1,188 @@
+---
+record_id: batch.motif.hindu-mahabharata-dutt-gutenberg-l69-l118
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+passage_locator:
+  label: Maha-bharata / MAHA-BHARATA / THE EPIC OF ANCIENT INDIA / CONDENSED INTO
+    ENGLISH VERSE; lines 69-118
+  start: '69'
+  end: '118'
+  translation: Maha-bharata
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Front matter for Romesh C. Dutt's English verse condensation of the Maha-bharata
+    gives the title, publication information, dedication to the Marquis of Ripon,
+    and a table of contents listing twelve books, a conclusion, and a translator's
+    epilogue.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as the Maha-bharata, described as the epic
+    of ancient India and condensed into English verse.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Romesh C. Dutt is named in connection with the English verse condensation.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The translation is dedicated to the Marquis of Ripon.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dedication says the Marquis of Ripon is remembered by the translator's
+    countrymen for just and benevolent administration and measures introducing self-government
+    in India.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The contents list twelve books, followed by a conclusion and translator's
+    epilogue.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'The contents include book titles referring to sacrifice: Rajasuya, translated
+    as The Imperial Sacrifice, and Aswa-Medha, translated as Sacrifice of the Horse.'
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage includes a frontispiece label, The Banishment.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Romesh C. Dutt C.I.E.
+  description: Named as the person by whom the Maha-bharata is condensed into English
+    verse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The Marquis of Ripon
+  description: Named as the dedicatee of the translation and praised in the dedication.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: translator or condenser
+  assigned_to:
+  - fig:1
+  basis: The title page states the work is condensed into English verse by Romesh
+    C. Dutt.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dedicatee
+  assigned_to:
+  - fig:2
+  basis: The dedication addresses the translation to the Marquis of Ripon.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: dice
+  literal_form: dice
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: horse
+  literal_form: horse
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: sacrifice named in book titles
+  taxonomy_refs:
+  - sacrifice
+  basis: 'The table of contents explicitly names two books involving sacrifice: The
+    Imperial Sacrifice and Sacrifice of the Horse.'
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is front matter and a table of contents, not a narrative passage
+    describing a sacrificial act.
+- id: motif:2
+  label: banishment as departure
+  taxonomy_refs:
+  - departure
+  basis: The frontispiece is labeled The Banishment, indicating a departure or expulsion
+    theme in the surrounding work.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage provides only an illustration label and no narrative details
+    about who is banished or why.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 69-118
+  quote_or_summary: '"MAHA-BHARATA / THE EPIC OF ANCIENT INDIA / CONDENSED INTO ENGLISH
+    VERSE / By Romesh C. Dutt C.I.E."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:2
+  type: summary
+  locator: lines 69-118
+  quote_or_summary: The translation is dedicated to the Marquis of Ripon, remembered
+    for just and benevolent administration and measures introducing self-government
+    in India.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 69-118
+  quote_or_summary: The contents list twelve books, including The Tournament, The
+    Bride's Choice, The Imperial Sacrifice, The Fatal Dice, Woman's Love, Cattle-Lifting,
+    The Preparation, three books on the falls of major warriors, Funeral Rites, and
+    Sacrifice of the Horse, followed by Conclusion and Translator's Epilogue.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 69-118
+  quote_or_summary: '"III. Rajasuya (The Imperial Sacrifice)" and "XII. Aswa-Medha
+    (Sacrifice of the Horse)"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:5
+  type: quote
+  locator: lines 69-118
+  quote_or_summary: '"[Frontespiece: The Banishment]"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; quotation permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction concerns front matter rather than a narrative episode. Motif candidates
+    are based only on explicit titles and labels in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were made because the passage itself does not provide comparative evidence beyond explicit book-title themes.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-mahabharata-dutt-gutenberg__l69-l118
+  passage_sha256=ce2789a218c3cb29d3ef658027dc25d96a2b1baba8aea1a31388c9518e545c3a
