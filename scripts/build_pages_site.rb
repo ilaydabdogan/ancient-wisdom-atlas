@@ -496,6 +496,70 @@ end
 def build_taxonomy_family_pages(analyses)
   analysis_lookup = analyses.to_h { |analysis| [analysis.fetch(:group_id), analysis] }
   prototype_ids = analyses.first(5).map { |analysis| analysis.fetch(:group_id) }.to_set
+  index_output = "taxonomy/families/index.html"
+
+  prototype_cards = analyses.first(5).map do |analysis|
+    group = analysis.fetch(:group)
+    body = "#{analysis.fetch(:occurrence_count)} occurrences across #{analysis.fetch(:tradition_count)} traditions; #{analysis.fetch(:child_motifs).length} mapped child motifs."
+    card(group["label"], body, href: relative_url(index_output, taxonomy_family_output(group["id"])), meta: "high coverage")
+  end.join
+
+  family_rows = analyses.map do |analysis|
+    group = analysis.fetch(:group)
+    top_traditions = analysis.fetch(:traditions)
+      .sort_by { |tradition, count| [-count.to_i, tradition_label(tradition)] }
+      .first(5)
+      .map { |tradition, count| "#{tradition_label(tradition)} (#{count})" }
+      .join(", ")
+    search_text = [
+      group["id"],
+      group["label"],
+      group["description"],
+      top_traditions,
+      analysis.fetch(:child_motifs).map { |child| child[:label] }
+    ].flatten.compact.join(" ")
+    <<~HTML
+      <article class="list-row searchable" data-search="#{esc(search_text)}">
+        <div>
+          <span class="row-kicker">#{esc(group["id"])}#{prototype_ids.include?(analysis.fetch(:group_id)) ? " · prototype" : ""}</span>
+          <h3><a href="#{esc(relative_url(index_output, taxonomy_family_output(group["id"])))}">#{esc(group["label"])}</a></h3>
+          <p>#{esc(compact_text(group["description"])[0, 220])}</p>
+          <p class="muted">#{esc(top_traditions)}</p>
+        </div>
+        <small>#{analysis.fetch(:occurrence_count)} occurrences · #{analysis.fetch(:tradition_count)} traditions</small>
+      </article>
+    HTML
+  end.join
+
+  index_body = <<~HTML
+    <section class="stats-grid">
+      <div class="stat"><strong>#{analyses.length}</strong><span>canonical families</span></div>
+      <div class="stat"><strong>#{analyses.sum { |analysis| analysis.fetch(:occurrence_count) }}</strong><span>mapped occurrences</span></div>
+      <div class="stat"><strong>#{analyses.sum { |analysis| analysis.fetch(:child_motifs).length }}</strong><span>mapped child motifs</span></div>
+      <div class="stat"><strong>#{analyses.first.fetch(:tradition_count)}</strong><span>max traditions in one family</span></div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <h2>Richest Family Pages</h2>
+        <a href="#{relative_url(index_output, "taxonomy/constellation.html")}">Open constellation</a>
+      </div>
+      <div class="card-grid">#{prototype_cards}</div>
+    </section>
+
+    <section class="toolbar">
+      <input type="search" class="search-input" placeholder="Search families, motifs, or traditions" data-search-target=".searchable">
+    </section>
+    <section class="list-panel">#{family_rows}</section>
+  HTML
+
+  write_page(index_output, layout(
+    title: "Taxonomy Families",
+    subtitle: "Canonical motif families as evidence-backed research pages, generated from the normalization taxonomy and extraction records.",
+    current_output: index_output,
+    body: index_body,
+    page_class: "taxonomy-page"
+  ))
 
   analyses.each do |analysis|
     group = analysis.fetch(:group)
@@ -1006,6 +1070,19 @@ def build_home(texts, comparisons, motif_index, extractions)
       <div class="stat"><strong>#{traditions}</strong><span>traditions</span></div>
       <div class="stat"><strong>#{motif_count}</strong><span>motif groups</span></div>
       <div class="stat"><strong>#{occurrence_count}</strong><span>motif occurrences</span></div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <h2>Browse By Motif Family</h2>
+        <a href="#{relative_url(current, "taxonomy/families/index.html")}">Open all families</a>
+      </div>
+      <div class="card-grid">
+        #{card("Taxonomy Families", "Evidence-backed research pages for every canonical motif family, with child motifs, traditions, passages, comparisons, and timeline views.", href: relative_url(current, "taxonomy/families/index.html"), meta: "research index")}
+        #{card("Constellation Map", "A visual star chart of how canonical families cluster and relate to each other.", href: relative_url(current, "taxonomy/constellation.html"), meta: "visual map")}
+        #{card("Pattern Explorer", "Filter motif evidence by tradition and confidence, then inspect the passages behind the pattern.", href: relative_url(current, "explorer/index.html"), meta: "interactive")}
+        #{card("Text Library", "Browse the public-domain source texts that anchor the extraction evidence.", href: relative_url(current, "texts/index.html"), meta: "corpus")}
+      </div>
     </section>
 
     <section class="section">
@@ -1626,7 +1703,7 @@ def build_taxonomy(normalization, proposed_review, motif_index, timeline)
     <section class="section">
       <div class="section-heading">
         <h2>Deep Family Prototypes</h2>
-        <span class="muted">The five richest cross-tradition families, generated from extraction evidence</span>
+        <a href="#{relative_url(current, "taxonomy/families/index.html")}">View all family pages</a>
       </div>
       <div class="card-grid">#{prototype_cards}</div>
     </section>
