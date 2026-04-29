@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0192
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-part-as-sacred-food-luck-object-divinatory-object-or-token
+  motif_id: animal_part_as_sacred_food_luck_object_divinatory_object_or_token
+  label: Animal part as sacred food, luck object, divinatory object, or token
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sacred food, luck object, divination, and token functions;
+    sacred_treasures is the closest existing object-power group, but the functions
+    are too mixed for automatic mapping.
+  cautions: May instead belong under sacrifice, sacred_exchange, sacred_law, divination/wisdom,
+    or be an over-broad comparative artifact depending on source evidence.
+  suggested_aliases:
+  - animal part as sacred token
+  - animal part as power object
+  - sacred animal part
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-refuses-to-violate-sacred-space
+  motif_id: animal_refuses_to_violate_sacred_space
+  label: Animal refuses to violate sacred space
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An animal respecting a sacred boundary functions as recognition of tabooed
+    or holy space, aligning with sacred law and prohibition logic.
+  cautions: If the passage emphasizes the animal's supernatural guidance or miracle
+    rather than taboo, divine_intervention may be a secondary fit.
+  suggested_aliases:
+  - animal respects sacred boundary
+  - animal avoids holy space
+  - nonhuman recognition of sacred space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-reverence-through-tabooed-killing-and-eating
+  motif_id: animal_reverence_through_tabooed_killing_and_eating
+  label: animal reverence through tabooed killing and eating
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on tabooed killing and eating as ritualized animal
+    reverence, fitting sacred law and food/prohibition patterns.
+  cautions: Could also involve sacrifice if killing is an offering, or ancestor/totemic
+    beliefs if the animal represents kin; preserve animal-reverence detail.
+  suggested_aliases:
+  - tabooed animal killing
+  - tabooed animal eating
+  - ritual animal reverence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-traits-explained-by-divine-boons
+  motif_id: animal_traits_explained_by_divine_boons
+  label: Animal traits explained by divine boons
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity granting boons that explain animal traits is a direct divine
+    action shaping worldly features.
+  cautions: This may be more etiological than ritual; if many such labels recur, an
+    etiological origin group may be needed.
+  suggested_aliases:
+  - divine boon explains animal trait
+  - etiology of animal traits by boon
+  - animal trait granted by deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-treated-as-kin-before-ritual-killing
+  motif_id: animal_treated_as_kin_before_ritual_killing
+  label: animal treated as kin before ritual killing
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif describes ritual killing preceded by kin-like treatment, a
+    clear sacrificial or ritual offering pattern.
+  cautions: Kinship treatment may encode totemic or animal-ancestor meanings not captured
+    by sacrifice alone; review local context.
+  suggested_aliases:
+  - kin-treated sacrificial animal
+  - animal as kin before sacrifice
+  - ritual killing of kin-like animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-war-interrupted-by-divine-intervention
+  motif_id: animal_war_interrupted_by_divine_intervention
+  label: animal war interrupted by divine intervention
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is divine interruption of conflict, which fits direct
+    sacred action in affairs.
+  cautions: If the animal war is a fable-like episode or omen rather than mythic conflict,
+    this may be too passage-specific; sacred_combat is only secondary if warfare is
+    ritually central.
+  suggested_aliases:
+  - divine interruption of animal conflict
+  - god stops animal war
+  - animal conflict halted by deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.anthropomorphic-divine-attributes-left-unexplained
+  motif_id: anthropomorphic_divine_attributes_left_unexplained
+  label: anthropomorphic divine attributes left unexplained
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label reads as a theological or interpretive note about unexplained
+    divine attributes rather than a narrative motif.
+  cautions: If a passage narrates an actual divine manifestation with human form,
+    consider theophany; otherwise exclude from motif pattern queries.
+  suggested_aliases:
+  - unexplained anthropomorphic divine attributes
+  - anthropomorphic attributes as theological issue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.apostasy-followed-by-divine-replacement-of-a-community
+  motif_id: apostasy_followed_by_divine_replacement_of_a_community
+  label: apostasy followed by divine replacement of a community
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: A community is replaced after apostasy, which is a divine response to
+    collective transgression.
+  cautions: May also involve covenant if framed as breach of a sacred bond; avoid
+    treating as flood/renewal unless catastrophe and re-creation are explicit.
+  suggested_aliases:
+  - divine replacement after apostasy
+  - community replaced for apostasy
+  - apostasy punished by replacement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.apotropaic-refuge-prayer-against-harmful-forces
+  motif_id: apotropaic_refuge_prayer_against_harmful_forces
+  label: apotropaic refuge prayer against harmful forces
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A protective prayer against harmful forces fits existing apotropaic protection
+    patterns folded under sacred_law.
+  cautions: Could also map to divine_intervention if the emphasis is direct divine
+    rescue, or sacred_knowledge if the wording/formula itself is central.
+  suggested_aliases:
+  - protective refuge prayer
+  - apotropaic prayer
+  - prayer against harmful forces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appeal-for-inclusion-of-old-heroes-in-a-new-divine-order
+  motif_id: appeal_for_inclusion_of_old_heroes_in_a_new_divine_order
+  label: appeal for inclusion of old heroes in a new divine order
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe religious transition, heroic memorialization,
+    conversion-era reconciliation, or textual framing rather than a stable mythic
+    motif.
+  cautions: Culturally and historically contextual; avoid using normalization as a
+    transmission or replacement claim. Could fit heroic_funeral_rites, royal_legitimacy,
+    sacred_law, or _meta_textual depending on passage evidence.
+  suggested_aliases:
+  - old heroes included in new sacred order
+  - integration of heroes into divine order
+  - appeal on behalf of former heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine animal ritual, taboo, and object-power functions; preserve
+  local evidence rather than collapsing all animal motifs into sacrifice.
+- Where Islamic theological labels appear to describe interpretive doctrine rather
+  than narrative action, prefer _meta_textual or human review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Automated provisional placements only; human review recommended for culturally
+    specific ritual and theological labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0192
+  input_sha256: ce2ca3c42faf4b15bcb2b3c2f335b8cf90a1955e888bdf36b0b40ed2d8fc54c0

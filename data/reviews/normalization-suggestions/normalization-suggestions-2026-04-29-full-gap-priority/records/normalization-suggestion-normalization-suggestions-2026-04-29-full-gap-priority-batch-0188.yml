@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0188
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.woodland-deity-guarding-field-boundaries
+  motif_id: woodland_deity_guarding_field_boundaries
+  label: Woodland deity guarding field boundaries
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: A boundary-guarding deity functions as a guardian of liminal or territorial
+    thresholds.
+  cautions: Could also be a local tutelary or field/agricultural spirit; verify whether
+    boundary guarding is the central motif.
+  suggested_aliases:
+  - field-boundary guardian deity
+  - woodland boundary guardian
+  - guardian of field boundaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.woodland-powers-govern-hunting-success-and-guidance
+  motif_id: woodland_powers_govern_hunting_success_and_guidance
+  label: Woodland powers govern hunting success and guidance
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural woodland powers direct human success and guidance in hunting,
+    matching divine or spirit intervention in human affairs.
+  cautions: May eventually need a nature/animal-master group if many hunting-spirit
+    motifs recur; review culturally specific forest-spirit roles.
+  suggested_aliases:
+  - forest powers govern hunting
+  - woodland spirits guide hunters
+  - hunting success granted by forest powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.written-and-unalterable-destiny
+  motif_id: written_and_unalterable_destiny
+  label: written and unalterable destiny
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: medium
+  rationale: The label centers on fixed destiny, already represented by the fate/destiny
+    group even if not specifically death-focused.
+  cautions: If the passage emphasizes divine decree, mystical surrender, or cosmic
+    writing rather than death, sacred_knowledge or divine_judgment may be secondary.
+  suggested_aliases:
+  - unalterable written fate
+  - written destiny
+  - fixed divine decree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_judgment
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.written-challenge-attached-to-obstacle
+  motif_id: written_challenge_attached_to_obstacle
+  label: written challenge attached to obstacle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A written challenge marking an obstacle functions as an ordeal or threshold
+    test for the protagonist.
+  cautions: Could be a passage-specific quest detail; map only if the challenge structures
+    a test, passage, or transformation.
+  suggested_aliases:
+  - inscribed challenge at obstacle
+  - written obstacle challenge
+  - challenge inscription as trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_knowledge
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrongdoer-involuntarily-reveals-hidden-crime
+  motif_id: wrongdoer_involuntarily_reveals_hidden_crime
+  label: Wrongdoer involuntarily reveals hidden crime
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The involuntary exposure of a hidden crime serves moral reckoning and
+    restoration of order.
+  cautions: Needs evidence that revelation is caused by sacred order, spirits, fate,
+    or ritual pressure; otherwise may be a folktale plot device.
+  suggested_aliases:
+  - hidden crime involuntarily confessed
+  - wrongdoer self-reveals crime
+  - compelled revelation of wrongdoing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wronged-prophet-as-model-of-patience
+  motif_id: wronged_prophet_as_model_of_patience
+  label: wronged prophet as model of patience
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: medium
+  rationale: A prophet used as an ethical exemplar functions as sacred instruction
+    or wisdom teaching.
+  cautions: Could be better indexed under ethics or covenantal obedience if the passage
+    is didactic rather than narrative; preserve prophetic context.
+  suggested_aliases:
+  - prophet as exemplar of patience
+  - wronged prophet teaches patience
+  - prophetic patience under wrong
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wronged-spouse-as-sole-healer-refuses-and-dies-in-remorse
+  motif_id: wronged_spouse_as_sole_healer_refuses_and_dies_in_remorse
+  label: wronged spouse as sole healer refuses and dies in remorse
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines marital injury, healing refusal, and remorseful death
+    into a highly specific episode sequence.
+  cautions: May fit sacred_love, divine_judgment, lament_and_mourning, or healing
+    depending on source context; likely too granular for broad pattern queries as-is.
+  suggested_aliases:
+  - wronged spouse refuses healing
+  - remorseful death after denied healing
+  - spouse as sole healer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - lament_and_mourning
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youthful-courage-as-sign-of-communal-survival
+  motif_id: youthful_courage_as_sign_of_communal_survival
+  label: Youthful courage as sign of communal survival
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Youthful courage can mark emerging heroic capacity and the community's
+    future survival.
+  cautions: This may be an interpretive theme rather than a narrative motif; if tied
+    to civic virtue or succession, royal_legitimacy or sacred_law may fit better.
+  suggested_aliases:
+  - youthful courage signals survival
+  - young hero as communal hope
+  - youth bravery as survival sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youthful-error-corrected-by-restitution
+  motif_id: youthful_error_corrected_by_restitution
+  label: youthful error corrected by restitution
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restitution repairs a wrong through compensatory exchange and restored
+    relationship.
+  cautions: Could be ethical instruction or legal/social order rather than sacred
+    exchange; confirm whether restitution has ritual, divine, or moral significance.
+  suggested_aliases:
+  - error repaired by restitution
+  - youthful wrongdoing repaid
+  - restitution after youthful fault
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.zoomorphic-deity-images
+  motif_id: zoomorphic_deity_images
+  label: zoomorphic deity images
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to animal-form divine iconography, idolatry polemic,
+    or scholarly description rather than a narrative motif.
+  cautions: Culturally sensitive and context-dependent; avoid mapping to shapeshifter
+    unless an actual deity transforms or appears in animal form, and avoid idol unless
+    the passage concerns cult images or prohibition.
+  suggested_aliases:
+  - animal-form deity images
+  - zoomorphic divine iconography
+  - animal-shaped deity images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_treasures
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several one-occurrence labels are interpretive or episode-specific and should be
+  checked against passage evidence before indexing broadly.
+- Woodland-spirit and zoomorphic-image labels may require culturally careful review
+  of local terminology and source framing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes multiple low-confidence, single-occurrence labels needing
+    source-context verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0188
+  input_sha256: 8aa68480c0a8dc51c247060d64068c957f849b76d613877caee5218273f25675

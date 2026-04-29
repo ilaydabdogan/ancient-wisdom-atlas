@@ -6,12 +6,12 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 
 ## Summary
 
-- Suggestions reviewed: 1700
-- Accepted draft mappings: 82
-- New canonical group candidates: 36
-- Low-confidence / needs human review: 565
-- Suggested exclusions: 132
-- Already known in base normalization: 921
+- Suggestions reviewed: 1860
+- Accepted draft mappings: 89
+- New canonical group candidates: 41
+- Low-confidence / needs human review: 616
+- Suggested exclusions: 141
+- Already known in base normalization: 1014
 
 ## New Group Candidates
 
@@ -20,6 +20,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `adversary_tempter` | Adversary and Tempter | 1 | Trickster emphasizes liminal disorder and culture-making, while divine_judgment emphasizes reckoning; neither directly captures the theological role of an adversary who tempts and misleads. |
 | `ages_of_decline` | Ages of Decline and Degeneration | 2 | Existing groups cover creation, cycles, judgment, and downfall, but not the world-age schema of progressive degeneration from an initial age. |
 | `animal_source_of_abundance` | Animal Source of Abundance | 1 | Existing groups cover fertility, exchange, and power objects, but do not directly capture provision or inexhaustible abundance mediated by an animal. |
+| `animal_supernatural_helpers` | Animal and Supernatural Helpers | 1 | Existing groups cover divine intervention and heroic journey broadly, but not the recurring narrative role of nonhuman helper alliances. |
 | `animated_images_artificial_life` | Animated Images and Artificial Life | 5 | Existing groups cover sacred craft, treasures, vessels, and idols, but not the specific function of artificial or cultic objects becoming animate. |
 | `artificial_human_animation` | Artificial Human and Animation | 1 | Existing groups cover creation, craft, and transformation broadly, but do not isolate the recurring made-body animation problem. |
 | `betrayal_violated_trust` | Betrayal and Violated Trust | 2 | Existing groups cover reciprocity, law, and judgment, but not the narrative rupture of trust itself across protector, guest, kin, duty, and feast betrayal patterns. |
@@ -34,6 +35,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `envy_rivalry_failed_imitation` | Envy, Rivalry, and Failed Imitation | 4 | Existing pride/downfall and divine_judgment groups cover moral consequence broadly, but do not preserve the specific envy-driven imitation and failure structure. |
 | `eponymous_ancestors_people_origins` | Eponymous Ancestors and People Origins | 1 | Culture_hero covers founding gifts and institutions, while royal_legitimacy covers rule; neither preserves the specific ethnogonic function of named progenitors. |
 | `false_accusation_vindication` | False Accusation and Vindication | 3 | Existing judgment and law groups cover moral reckoning but not the specific recurrent narrative mechanism of false charge, evidence manipulation, and vindication. |
+| `fate_and_cosmic_weaving` | Fate, Destiny, and Cosmic Weaving | 2 | Existing death_by_fate covers destined death specifically, while this label concerns the broader symbolic construction of fate. |
 | `fate_figures_destiny` | Fate Figures and Destiny | 2 | Existing death_by_fate covers death attributed to destiny, but not personified fate figures governing time or cosmic order. |
 | `first_pair_spouse_origin` | First Pair and Human Spouse Origin | 1 | Existing groups cover cosmic creation, sacred union, and birth, but not the specific anthropogonic creation of the first couple or spouse as the basis for human social order. |
 | `greed_temperance_reversal` | Greed, Temperance, and Moral Reversal | 4 | Pride/downfall covers overreach, but these labels specifically concern avarice, temperance, and wealth or desire reversals. |
@@ -43,13 +45,16 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `magical_compulsion` | Enchantment, Spell-Sleep, and Magical Compulsion | 1 | Existing groups cover dreams, otherworlds, and threshold lures, but not the recurring mechanism of enchantment or magical compulsion itself. |
 | `martyrdom_witness` | Martyrdom and Witness Under Persecution | 1 | Existing sacrifice and divine judgment groups cover self-surrender and moral reckoning, but do not preserve the specific religious function of steadfast witness under persecution. |
 | `miraculous_provision` | Miraculous Provision and Inexhaustible Food | 1 | Existing groups cover offering, exchange, and power objects, but not the distinct function of miraculous abundance or inexhaustible sustenance. |
+| `monstrous_perception` | Monstrous Perception and Shared Senses | 1 | Existing groups cover vision, guardians, and transformation, but not recurring abnormal bodily perception as the key motif. |
 | `past_life_identity` | Past-Life Identity and Karmic Continuity | 7 | Existing death, wisdom, and judgment groups do not specifically cover rebirth-identity disclosure and karmic continuity across lives. |
 | `predator_deception_fable_reversal` | Predator Deception and Fable Reversal | 7 | Existing trickster group covers boundary-breaking and deception broadly, but these labels cluster around fable predator-prey ethics and reversals rather than a culture hero or liminal trickster figure. |
 | `recognition_tokens_hidden_identity` | Recognition Tokens and Hidden Identity | 8 | Existing groups cover sacred power objects, disguise, and journeys, but not the recurring narrative function of signs proving identity or a denied encounter. |
+| `restless_dead_vengeful_spirits` | Restless Dead and Vengeful Spirits | 1 | Existing groups cover afterlife navigation, ancestor rites, and death transformation, but not recurring hostile agency of the unquiet dead. |
 | `ritual_coercion` | Ritual Coercion of Supernatural Agents | 1 | Sacred exchange covers reciprocity and offering, while divine intervention centers on sacred agency; neither clearly captures human ritual compulsion of supernatural beings. |
 | `ritual_healing` | Ritual Healing and Restorative Medicine | 1 | Current groups cover divine agency, objects, waters, and soul restoration, but not the recurring healing function across substances, places, helpers, and rites. |
 | `saintly_shrine_relic_devotion` | Saintly Shrine and Relic Devotion | 1 | Existing groups cover power objects, ancestor rites, and intervention, but not the combined ritual complex of saintly tomb/relic veneration and devotional access to blessing. |
 | `solar_chariot` | Solar Chariot and Celestial Vehicle | 1 | Existing groups cover ascent, fire/light, and sacred objects, but not the cosmological function of a celestial vehicle carrying the sun or divine light through ordered time. |
+| `solar_deity_cosmic_order` | Solar Deity and Cosmic Order | 2 | Existing groups cover sacred fire/light or sovereignty broadly, but not the recurring solar role as cosmological sustainer and regulator. |
 | `sympathetic_magic` | Sympathetic Magic and Ritual Correspondence | 4 | Existing groups cover law, exchange, sacrifice, and power objects, but not the distinctive ritual logic of resemblance or contact acting at a distance. |
 | `transformative_ingestion` | Transformative Ingestion | 1 | Existing groups cover sacrifice, sacred law, and rebirth, but none cleanly captures ingestion as the mechanism of transferred qualities across ritual and narrative contexts. |
 | `world_ages_decline` | World Ages and Cosmic Decline | 2 | Existing groups cover individual downfall, sacred cycles, and judgment, but not a structured sequence of declining cosmic or human ages. |
@@ -61,6 +66,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `abandonment_after_rejected_aid` | abandonment after rejected aid | needs_human_review | ``  | low | low confidence |
 | `abducted_captives_guide_rescuer_through_hidden_entrance` | Abducted captives guide rescuer through hidden entrance | needs_human_review | ``  | low | low confidence |
 | `absence_creates_longing_for_one_s_kind` | absence creates longing for one’s kind | map_to_existing_group | `sacred_love` Sacred Love and Longing | low | low confidence |
+| `abstract_principle_treated_as_divine_power` | abstract principle treated as divine power | needs_human_review | ``  | low | low confidence |
 | `abundance_and_cultivated_fertility_imagery` | Abundance and cultivated fertility imagery | map_to_existing_group | `mother_goddess` Sacred Feminine and Mother Goddess | low | low confidence |
 | `abundant_dairy_yield_at_a_raiding_camp` | Abundant dairy yield at a raiding camp | needs_human_review | `sacred_combat` Sacred Combat and Ritual Warfare | low | low confidence |
 | `acceptance_of_the_final_draught` | acceptance of the final draught | needs_human_review | `mystical_quest` Mystical Quest and Interior Journey | low | low confidence |
@@ -68,16 +74,21 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `accusation_of_black_magic_leading_to_condemnation` | accusation of black magic leading to condemnation | needs_human_review | `divine_judgment` Divine Judgment and Moral Reckoning | low | low confidence |
 | `actions_explained_by_a_past_loss` | actions explained by a past loss | needs_human_review | ``  | low | low confidence |
 | `adopted_predator_betrays_the_flock` | Adopted predator betrays the flock | needs_human_review | ``  | low | low confidence |
+| `adulterous_divine_lovers_caught_in_a_hidden_snare` | adulterous divine lovers caught in a hidden snare | needs_human_review | ``  | low | low confidence |
 | `age_contrast_in_paired_women` | age contrast in paired women | needs_human_review | ``  | low | low confidence |
 | `allies_recognize_comrades_by_the_sound_of_blows` | Allies recognize comrades by the sound of blows | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | low | low confidence |
 | `altered_food_token_signals_changed_fidelity_status` | altered food token signals changed fidelity status | needs_human_review | ``  | low | low confidence |
 | `ambiguous_supernatural_identity_of_a_strange_captive` | ambiguous supernatural identity of a strange captive | needs_human_review | ``  | low | low confidence |
 | `ambivalent_ecstatic_expression` | ambivalent ecstatic expression | map_to_existing_group | `mystical_quest` Mystical Quest and Interior Journey | low | low confidence |
+| `ambivalent_sacred_animal_becoming_demonized` | Ambivalent sacred animal becoming demonized | needs_human_review | ``  | low | low confidence |
 | `ancient_giant_race` | ancient giant race | needs_human_review | ``  | low | low confidence |
 | `ancient_unconquered_people_resisting_empires` | Ancient unconquered people resisting empires | needs_human_review | ``  | low | low confidence |
+| `animal_feature_explained_by_divine_grasp` | Animal feature explained by divine grasp | needs_human_review | ``  | low | low confidence |
+| `animal_part_as_sacred_food_luck_object_divinatory_object_or_token` | Animal part as sacred food, luck object, divinatory object, or token | needs_human_review | `sacred_treasures` Sacred Treasures and Power Objects | low | low confidence |
 | `animated_or_sounding_calf_that_misleads_israel` | Animated or sounding calf that misleads Israel | needs_human_review | `sacred_treasures` Sacred Treasures and Power Objects | low | low confidence |
 | `anthropomorphic_or_corporeal_deity` | anthropomorphic or corporeal deity | needs_human_review | `theophany` Theophany and Divine Manifestation | low | low confidence |
 | `anticipation_of_future_life` | anticipation of future life | needs_human_review | ``  | low | low confidence |
+| `appeal_for_inclusion_of_old_heroes_in_a_new_divine_order` | appeal for inclusion of old heroes in a new divine order | needs_human_review | ``  | low | low confidence |
 | `appeal_for_liberation_from_bonds` | appeal for liberation from bonds | needs_human_review | ``  | low | low confidence |
 | `appetite_leads_to_captivity_or_control` | Appetite leads to captivity or control | needs_human_review | ``  | low | low confidence |
 | `appointed_tryst_prevented_by_sudden_sleep` | Appointed tryst prevented by sudden sleep | map_to_existing_group | `sacred_love` Sacred Love and Longing | low | low confidence |
@@ -391,6 +402,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `merciful_release_of_captured_spies` | merciful release of captured spies | needs_human_review | `sacred_law` Sacred Law and Social Order | low | low confidence |
 | `mercy_exceeding_forgiveness` | mercy exceeding forgiveness | needs_human_review | `divine_judgment` Divine Judgment and Moral Reckoning | low | low confidence |
 | `metal_headed_magical_antagonist` | metal-headed magical antagonist | needs_human_review | ``  | low | low confidence |
+| `milk` | origin of iron through divine maidens and colored milk | needs_human_review | ``  | low | low confidence |
 | `mineral_growth_and_ripening_underground` | mineral growth and ripening underground | needs_human_review | ``  | low | low confidence |
 | `miraculous_bodily_sign_without_harm` | miraculous bodily sign without harm | map_to_existing_group | `sacred_treasures` Sacred Treasures and Power Objects | low | low confidence |
 | `miraculous_multiplication_of_a_monk` | Miraculous multiplication of a monk | map_to_existing_group | `divine_intervention` Divine Intervention and Guidance | low | low confidence |
@@ -551,15 +563,8 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `sale_of_the_abandoned_youth_as_merchandise` | sale of the abandoned youth as merchandise | needs_human_review | ``  | low | low confidence |
 | `saving_a_troop_or_group` | saving a troop or group | map_to_existing_group | `divine_intervention` Divine Intervention and Guidance | low | low confidence |
 | `scattered_brood_producing_separated_kin_lines` | scattered brood producing separated kin-lines | needs_human_review | ``  | low | low confidence |
-| `scriptural_inimitability_challenge` | scriptural inimitability challenge | needs_human_review | ``  | low | low confidence |
-| `secluded_beautiful_royal_figure_hidden_from_public_sight` | secluded beautiful royal figure hidden from public sight | map_to_existing_group | `sacred_love` Sacred Love and Longing | low | low confidence |
-| `secret_magical_concealment_condition` | secret magical concealment condition | map_to_existing_group | `sacred_knowledge` Sacred Knowledge and Wisdom | low | low confidence |
-| `secret_message_under_threat` | Secret message under threat | needs_human_review | ``  | low | low confidence |
-| `secret_transport_of_treasure_under_ordinary_goods` | Secret transport of treasure under ordinary goods | needs_human_review | ``  | low | low confidence |
-| `secret_treasure_discovered_and_stolen_by_observer` | Secret treasure discovered and stolen by observer | map_to_existing_group | `sacred_treasures` Sacred Treasures and Power Objects | low | low confidence |
-| `secretive_spouse_with_abnormal_eating_behavior` | secretive spouse with abnormal eating behavior | needs_human_review | ``  | low | low confidence |
 
-_Showing first 500 of 565 review rows._
+_Showing first 500 of 616 review rows._
 
 ## Suggested Exclusions
 
@@ -571,6 +576,7 @@ _Showing first 500 of 565 review rows._
 | `analogous_explanations_for_similar_body_cutting_customs` | Analogous explanations for similar body-cutting customs | high | The label describes comparative explanation of customs rather than a narrative or symbolic motif. |
 | `ancient_oral_tale_transmission` | Ancient oral tale transmission | high | The label describes transmission history rather than a narrative or symbolic motif. |
 | `ancient_poems_preserved_through_editorial_transmission` | ancient poems preserved through editorial transmission | high | This is an editorial/transmission-history note, not a mythic motif. |
+| `anthropomorphic_divine_attributes_left_unexplained` | anthropomorphic divine attributes left unexplained | high | The label reads as a theological or interpretive note about unexplained divine attributes rather than a narrative motif. |
 | `archaic_motif_as_later_literary_insertion_or_adaptation` | archaic motif as later literary insertion or adaptation | high | The label describes editorial or literary-historical classification rather than a narrative motif. |
 | `avoidance_of_single_exit_refuges` | avoidance of single-exit refuges | medium | The label reads as tactical advice or episode-specific survival detail, not a broad symbolic motif. |
 | `bacchic_frenzy_as_simile_for_emotional_upheaval` | Bacchic frenzy as simile for emotional upheaval | high | The wording identifies a literary simile rather than a recurring narrative or ritual motif. |
@@ -685,6 +691,9 @@ _Showing first 500 of 565 review rows._
 | `secret_revelry_exposed_by_excessive_illumination` | secret revelry exposed by excessive illumination | medium | The label reads as a highly specific plot mechanism rather than a reusable mythic motif. |
 | `separate_romance_cycles_later_connected_through_shared_figures` | Separate romance cycles later connected through shared figures | high | The label describes later literary cycle linkage and textual organization, not a narrative motif within the story world. |
 | `shared_introductory_story_across_multiple_j_takas` | shared introductory story across multiple Jātakas | high | The label describes reuse of an introductory frame across texts, not a symbolic or narrative motif itself. |
+| `skeptical_demythologizing_colophon` | skeptical demythologizing colophon | high | A colophon commenting skeptically on myth is a textual framing artifact, not a narrative motif. |
+| `sleeping_women_after_royal_revelry` | sleeping women after royal revelry | medium | This reads as a scene detail after courtly revelry rather than a symbolic or narrative motif. |
+| `solar_interpretation_of_a_deity_s_epithet` | solar interpretation of a deity's epithet | high | The label describes interpretation of an epithet, not a narrative or symbolic motif in the source world. |
 | `story_narrated_as_true_event` | story narrated as true event | high | The label describes narrative framing or truth-claim status rather than a symbolic or narrative motif. |
 | `survivor_messenger_carries_defeat_to_a_greater_antagonist` | survivor messenger carries defeat to a greater antagonist | medium | This reads as a plot mechanics detail about reporting a battle outcome rather than a durable symbolic motif. |
 | `survivors_report_slaughter_and_summon_wider_army` | survivors report slaughter and summon wider army | medium | The label is a specific narrative transition from massacre report to army mobilization, not a broad mythic motif. |
@@ -697,5 +706,10 @@ _Showing first 500 of 565 review rows._
 | `transmission_of_mystical_poetry_across_cultures` | Transmission of mystical poetry across cultures | high | This is a reception/transmission claim about poetic traditions rather than a symbolic motif. |
 | `transmission_of_romance_through_adaptation_and_translation` | Transmission of romance through adaptation and translation | high | Adaptation and translation history is a scholarly/textual artifact, not a recurring narrative motif. |
 | `uncertain_founder_or_author_figure` | uncertain founder or author figure | high | The wording describes uncertainty about attribution or identity rather than a narrative motif. |
+| `variant_literary_versions_from_a_shared_older_framework` | variant literary versions from a shared older framework | high | The label describes textual relationship or source criticism, not a narrative or symbolic motif. |
+| `victims_selected_by_bodily_fatness` | Victims selected by bodily fatness | medium | This appears to be a highly specific selection criterion within an episode rather than a reusable mythic motif. |
+| `wealth_measured_in_cattle` | wealth measured in cattle | medium | The label describes a culturally specific wealth metric rather than a narrative or symbolic motif. |
+| `withdrawal_to_private_room_creates_suspicion` | withdrawal to private room creates suspicion | medium | The label reads as a contextual plot beat rather than a recurring mythic or symbolic motif. |
+| `woman_enters_domestic_meal_with_textile_tool` | woman enters domestic meal with textile tool | medium | The label reads as an episode-specific domestic staging detail rather than a reusable symbolic motif. |
 
-_Showing first 132 of 132 exclusion rows._
+_Showing first 141 of 141 exclusion rows._

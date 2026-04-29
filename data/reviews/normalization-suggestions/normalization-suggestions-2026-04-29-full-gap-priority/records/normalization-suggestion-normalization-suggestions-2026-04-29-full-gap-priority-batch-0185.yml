@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0185
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.weak-supplicant-before-dominant-predator
+  motif_id: weak_supplicant_before_dominant_predator
+  label: weak supplicant before dominant predator
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be an animal fable, allegory of power, mystical humility, or passage-specific
+    encounter.
+  cautions: Single occurrence and Sufi context may make predator imagery symbolic
+    rather than literal animal motif; source evidence needed.
+  suggested_aliases:
+  - supplicant before predator
+  - weak petitioner before powerful beast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_law
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wealth-gained-by-extraordinary-bodily-extension
+  motif_id: wealth_gained_by_extraordinary_bodily_extension
+  label: wealth gained by extraordinary bodily extension
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Extraordinary body change may fit shapeshifter, but the wealth-gaining
+    function is unclear from the label alone.
+  cautions: May be a tale-type detail or comic/magical episode rather than a durable
+    mythic motif.
+  suggested_aliases:
+  - wealth through bodily extension
+  - magical body extension gains wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_treasures
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wealth-leading-to-insolence-and-admonition
+  motif_id: wealth_leading_to_insolence_and_admonition
+  label: wealth leading to insolence and admonition
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Wealth produces insolence and receives moral correction, matching hubris
+    followed by admonition or humbling.
+  cautions: If admonition is only ethical teaching without downfall or humbling, sacred_law
+    or wisdom may be a secondary fit.
+  suggested_aliases:
+  - wealth-induced arrogance
+  - riches leading to insolence
+  - admonition of the wealthy arrogant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wealth-measured-in-cattle
+  motif_id: wealth_measured_in_cattle
+  label: wealth measured in cattle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a culturally specific wealth metric rather than a
+    narrative or symbolic motif.
+  cautions: If cattle wealth drives a raid, contest, or sacred exchange, index that
+    passage under sacred_combat, sacred_exchange, or royal_legitimacy instead.
+  suggested_aliases:
+  - cattle as wealth measure
+  - wealth counted in cattle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wealth-transformed-into-golden-touch-legend
+  motif_id: wealth_transformed_into_golden_touch_legend
+  label: wealth transformed into golden touch legend
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: The golden-touch pattern centers on excessive desire for wealth becoming
+    a curse and humbling lesson.
+  cautions: If the passage is a reception or etiological note about a named legend
+    only, preserve as evidence rather than promoting as a motif.
+  suggested_aliases:
+  - golden touch curse
+  - wealth as cursed transformation
+  - Midas-like golden touch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weaving-the-web-of-fate
+  motif_id: weaving_the_web_of_fate
+  label: Weaving the web of fate
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Fate, Destiny, and Cosmic Weaving
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Fate woven as a web is a recurring destiny image not well captured by
+    death_by_fate alone.
+  cautions: Could be folded under death_by_fate when the passage centers on death
+    destiny; otherwise it is a broader fate-order image.
+  suggested_aliases:
+  - woven fate
+  - web of fate
+  - fate as weaving
+  suggested_new_group:
+    id: fate_and_cosmic_weaving
+    label: Fate, Destiny, and Cosmic Weaving
+    description: Fate or destiny imagined as woven, spun, measured, knotted, or web-like
+      by divine, ancestral, or cosmic powers.
+    parent_group_ids:
+    - duality
+    - sacred_knowledge
+    related_group_ids:
+    - death_by_fate
+    - dream_and_vision
+    reason_existing_groups_insufficient: Existing death_by_fate covers destined death
+      specifically, while this label concerns the broader symbolic construction of
+      fate.
+- suggestion_id: normalization.suggestion.weaving-undone-as-image-of-broken-obligation
+  motif_id: weaving_undone_as_image_of_broken_obligation
+  label: Weaving undone as image of broken obligation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The image of undone weaving expresses violated obligation or broken binding
+    relationship.
+  cautions: If the passage is primarily proverbial or exegetical imagery, it may be
+    an evidence note rather than a standalone motif.
+  suggested_aliases:
+  - unraveled weaving as broken vow
+  - weaving undone as failed obligation
+  - unmaking a bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.web-of-fate-as-cosmic-or-atmospheric-image
+  motif_id: web_of_fate_as_cosmic_or_atmospheric_image
+  label: web of fate as cosmic or atmospheric image
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Fate, Destiny, and Cosmic Weaving
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A cosmic or atmospheric web of fate belongs with fate-weaving symbolism
+    rather than only death destiny.
+  cautions: May overlap with cosmic vision if perceived as a visionary scene; verify
+    whether fate agency or cosmological imagery is primary.
+  suggested_aliases:
+  - cosmic web of fate
+  - atmospheric web of fate
+  - woven cosmic fate
+  suggested_new_group:
+    id: fate_and_cosmic_weaving
+    label: Fate, Destiny, and Cosmic Weaving
+    description: Fate or destiny imagined as woven, spun, measured, knotted, or web-like
+      by divine, ancestral, or cosmic powers.
+    parent_group_ids:
+    - duality
+    - sacred_knowledge
+    related_group_ids:
+    - death_by_fate
+    - dream_and_vision
+    reason_existing_groups_insufficient: Existing death_by_fate covers destined death
+      specifically, while this label concerns a broader cosmological image of fate.
+- suggestion_id: normalization.suggestion.welcome-mediated-by-female-companion
+  motif_id: welcome_mediated_by_female_companion
+  label: Welcome mediated by female companion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A female companion may mediate hospitality, sovereignty, courtship, or
+    otherworld entry depending on context.
+  cautions: Do not map to sacred_love or otherworld without evidence that welcome
+    changes status, grants passage, or establishes a sacred bond.
+  suggested_aliases:
+  - female-mediated welcome
+  - woman as welcoming mediator
+  - companion mediates reception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - otherworld
+    - sacred_exchange
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.welcomed-guest-becomes-target-of-kin-vengeance
+  motif_id: welcomed_guest_becomes_target_of_kin_vengeance
+  label: welcomed guest becomes target of kin vengeance
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Kin vengeance against a guest fits conflict escalation and honor violence
+    more than general hospitality.
+  cautions: Highly contextual; if the emphasis is violated hospitality or social obligation,
+    sacred_exchange or sacred_law may be better.
+  suggested_aliases:
+  - guest targeted by kin vengeance
+  - hospitality turns to vengeance
+  - vengeance against welcomed guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several wealth and hospitality labels appear single-occurrence and may be passage
+  details rather than durable motif groups.
+- Consider whether a future fate/weaving group is warranted if additional spun, woven,
+  measured, or knotted destiny motifs recur across traditions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify source context, especially
+    for single-occurrence and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0185
+  input_sha256: 3738868c5dc9b2240f2dc2f55c98f3433d75aad6e7b1ea15f5facfa534aa7cf1

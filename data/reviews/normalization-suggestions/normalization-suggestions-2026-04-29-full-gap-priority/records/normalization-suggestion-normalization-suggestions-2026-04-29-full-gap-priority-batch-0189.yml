@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0189
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-aid-in-battle
+  motif_id: divine_aid_in_battle
+  label: divine aid in battle
+  occurrences: 3
+  traditions:
+  - greek
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: The label describes sacred power aiding combat, matching the divine-warrior/sacred-combat
+    field already used for battles that establish or defend order.
+  cautions: Could also be indexed secondarily under divine_intervention if the source
+    emphasizes assistance rather than combat theology.
+  suggested_aliases:
+  - divine aid in battle
+  - divine assistance in battle
+  - god-aided battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-in-battle
+  motif_id: divine_intervention_in_battle
+  label: divine intervention in battle
+  occurrences: 3
+  traditions:
+  - greek
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Direct divine action in warfare is a battle-specific variant of sacred
+    combat and the divine-warrior complex.
+  cautions: If the passage foregrounds providential guidance rather than combat itself,
+    divine_intervention may be a useful secondary group.
+  suggested_aliases:
+  - divine intervention in battle
+  - god intervenes in battle
+  - battlefield divine intervention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-before-prayer
+  motif_id: ritual_purification_before_prayer
+  label: Ritual purification before prayer
+  occurrences: 3
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Purification required before prayer is a ritual purity rule, fitting
+    sacred law and ritual prohibition patterns.
+  cautions: May also touch sacred_exchange when framed as preparation for divine-human
+    encounter; preserve the prayer-specific context.
+  suggested_aliases:
+  - ritual purification before prayer
+  - ablution before prayer
+  - purification for prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-by-divine-speech
+  motif_id: creation_by_divine_speech
+  label: Creation by divine speech
+  occurrences: 2
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Creation by divine word is explicitly included in the cosmic_origin group
+    description as creation by speech.
+  cautions: Do not collapse into wisdom or revelation unless the passage emphasizes
+    instruction rather than cosmogony.
+  suggested_aliases:
+  - creation by divine speech
+  - creation by word
+  - creation through command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-incitement-of-opposing-armies
+  motif_id: divine_incitement_of_opposing_armies
+  label: divine incitement of opposing armies
+  occurrences: 2
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on gods directly manipulating human affairs by stirring
+    armies into conflict.
+  cautions: Could map to divine_warrior or sacred_combat if the battle’s sacred-cosmic
+    function is central; review whether this is an episode-specific plot device.
+  suggested_aliases:
+  - divine incitement of opposing armies
+  - gods stir armies to battle
+  - divine provocation of war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heavenly-water-as-purification-and-strengthening
+  motif_id: heavenly_water_as_purification_and_strengthening
+  label: heavenly water as purification and strengthening
+  occurrences: 2
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Water functions as a sacred medium of purification and transformation,
+    matching sacred_waters.
+  cautions: If the heavenly source is emphasized as direct aid in crisis, divine_intervention
+    may be a secondary mapping.
+  suggested_aliases:
+  - heavenly water as purification and strengthening
+  - purifying heavenly water
+  - divine water strengthens believers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.milk
+  motif_id: milk
+  label: origin of iron through divine maidens and colored milk
+  occurrences: 2
+  traditions:
+  - finnish_karelian
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines divine maidens, colored milk, and the origin of iron;
+    the function could be cosmogonic, craft-origin, nourishment, or local etiological
+    detail.
+  cautions: Do not map broad milk symbolism automatically to mother_goddess or sacred_birth;
+    source evidence is needed to determine whether iron-origin or divine feminine
+    imagery is primary.
+  suggested_aliases:
+  - origin of iron through divine maidens and colored milk
+  - colored milk origin of iron
+  - divine maidens and milk
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purification-after-bloodshed
+  motif_id: purification_after_bloodshed
+  label: Purification after bloodshed
+  occurrences: 2
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Purification after killing or blood pollution is a ritual-purity and
+    sacred-law pattern.
+  cautions: May overlap with divine_judgment if punishment for bloodshed is emphasized,
+    or sacrifice if purification involves offerings.
+  suggested_aliases:
+  - purification after bloodshed
+  - bloodshed purification
+  - ritual cleansing after killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abstract-principle-treated-as-divine-power
+  motif_id: abstract_principle_treated_as_divine_power
+  label: abstract principle treated as divine power
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is conceptually broad and could refer to personification, cosmic
+    law, fate, justice, love, wisdom, or another principle.
+  cautions: Single occurrence and abstract wording may be commentary rather than a
+    motif; review source context before mapping to duality, divine_judgment, sacred_love,
+    or sacred_knowledge.
+  suggested_aliases:
+  - abstract principle treated as divine power
+  - personified abstract principle
+  - divinized abstraction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abundant-hospitality-and-ritual-feeding
+  motif_id: abundant_hospitality_and_ritual_feeding
+  label: abundant hospitality and ritual feeding
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Hospitality and ritual feeding function as reciprocal obligations that
+    maintain sacred or communal relations.
+  cautions: If feeding is directed specifically to the dead, ancestor_rites may be
+    better; if merely narrative feasting, it may be too contextual.
+  suggested_aliases:
+  - abundant hospitality and ritual feeding
+  - ritual hospitality
+  - sacred feeding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Battle-related divine aid labels should be reviewed together to avoid duplicating
+  divine_warrior, sacred_combat, and divine_intervention mappings.
+- Purification labels in this batch mostly fit sacred_law, with possible secondary
+  links to sacrifice or divine_judgment depending on rite details.
+- No transmission or borrowing claims are implied by cross-tradition placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify passage
+    function for ambiguous composite labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0189
+  input_sha256: e6e36a18da7be39c506ed4530e42db4d94f85f3319352625480e4cfc5d8033f3

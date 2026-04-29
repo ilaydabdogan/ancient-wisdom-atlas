@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0186
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.well-meant-repayment-causing-destruction
+  motif_id: well_meant_repayment_causing_destruction
+  label: well-meant repayment causing destruction
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A destructive consequence following an intended repayment may fit moral
+    consequence or karmic reckoning, but the wording is contextual.
+  cautions: Needs passage evidence to distinguish sacred judgment from irony, trickster
+    reversal, or anecdotal plot detail.
+  suggested_aliases:
+  - misguided repayment brings harm
+  - good intention causing destruction
+  - destructive repayment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wickedness-destroys-its-bearer
+  motif_id: wickedness_destroys_its_bearer
+  label: wickedness destroys its bearer
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes wrongdoing producing destructive consequence, fitting
+    moral reckoning.
+  cautions: Could be ethical teaching rather than narrative motif; Buddhist karmic
+    framing should be preserved in notes if present.
+  suggested_aliases:
+  - evil rebounds on evildoer
+  - wickedness brings self-destruction
+  - self-destruction through wrongdoing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.widow-s-lament-beside-the-body
+  motif_id: widow_s_lament_beside_the_body
+  label: widow’s lament beside the body
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: A widow mourning beside a corpse is a clear lament and mourning scene.
+  cautions: May be too scene-specific for canonical promotion; preserve relationship,
+    body-side setting, and ritual context as evidence detail.
+  suggested_aliases:
+  - widow lament at corpse
+  - mourning beside the body
+  - spousal lament over the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wild-huntress-companions-and-frightened-woodland-beings
+  motif_id: wild_huntress_companions_and_frightened_woodland_beings
+  label: Wild huntress companions and frightened woodland beings
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: Wild huntress retinue and woodland beings may belong to enchanted nature
+    or divine entourage imagery, but no existing group is a clean fit.
+  cautions: Could be an Artemis/Diana-specific scene, local nature-spirit detail,
+    or passage artifact; avoid forcing into otherworld without evidence of enchanted
+    realm or boundary crossing.
+  suggested_aliases:
+  - wild huntress retinue
+  - frightened woodland beings
+  - divine huntress companions
+  suggested_new_group:
+    id: wild_nature_spirits
+    label: Wild Nature Spirits and Divine Retinues
+    description: Divine or semi-divine woodland, mountain, hunting, or nature-associated
+      beings appearing as retinues, companions, or frightened local spirits in sacred
+      landscapes.
+    parent_group_ids:
+    - otherworld
+    - divine_intervention
+    related_group_ids:
+    - shapeshifter
+    - mother_goddess
+    reason_existing_groups_insufficient: Existing otherworld and divine_intervention
+      groups can hold some cases, but they do not specifically capture sacred wild-nature
+      retinues or woodland spirit collectives.
+- suggestion_id: normalization.suggestion.wine-and-sensual-pleasure-as-causes-of-neglected-duty
+  motif_id: wine_and_sensual_pleasure_as_causes_of_neglected_duty
+  label: wine and sensual pleasure as causes of neglected duty
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Pleasure causing dereliction of duty fits ethical order, discipline,
+    and social obligation concerns.
+  cautions: May also fit pride/downfall or divine_judgment if punishment follows;
+    preserve whether the duty is dharmic, royal, ritual, or familial.
+  suggested_aliases:
+  - sensual pleasure causing neglected duty
+  - intoxication leading to dereliction
+  - pleasure distracts from duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wine-as-consolation-and-challenge-to-piety
+  motif_id: wine_as_consolation_and_challenge_to_piety
+  label: Wine as consolation and challenge to piety
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi contexts, wine often functions as a paradoxical symbol in devotional
+    or mystical transformation.
+  cautions: Needs source review to distinguish literal wine, antinomian challenge,
+    poetic metaphor, consolation, or divine intoxication.
+  suggested_aliases:
+  - mystical wine
+  - wine challenges piety
+  - wine as spiritual consolation
+  - sacred intoxication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.winged-companion-sent-ahead-as-advance-challenger
+  motif_id: winged_companion_sent_ahead_as_advance_challenger
+  label: Winged companion sent ahead as advance challenger
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: role_variant
+  confidence: low
+  rationale: A companion sent ahead can function as an emissary or preliminary challenger
+    within a quest or conflict sequence.
+  cautions: Highly episode-specific; may involve animal helper, divine messenger,
+    battle challenge, or travel detail. Source context is needed before indexing.
+  suggested_aliases:
+  - winged advance challenger
+  - companion sent ahead
+  - flying emissary challenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wished-for-infant-killing-to-avert-later-evil
+  motif_id: wished_for_infant_killing_to_avert_later_evil
+  label: wished-for infant killing to avert later evil
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: low
+  rationale: A threatened infant whose survival or death is tied to future destiny
+    may fit the threatened-child complex.
+  cautions: Culturally and ethically sensitive; needs evidence for prophecy, destiny,
+    monster-child fear, or social violence before mapping. Do not normalize away the
+    lethal-aversion logic.
+  suggested_aliases:
+  - threatened infant to avert future evil
+  - infant killing proposed because of future danger
+  - child threatened by ominous destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withdrawal-into-wild-places-for-protection
+  motif_id: withdrawal_into_wild_places_for_protection
+  label: withdrawal into wild places for protection
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: departure
+  suggested_group_label: Departure
+  relationship: functional_variant
+  confidence: medium
+  rationale: Leaving ordinary society for the wild as refuge is a protective departure
+    into a charged liminal space.
+  cautions: Could also fit otherworld, exile, initiation, or miraculous-child concealment
+    depending on who withdraws and why.
+  suggested_aliases:
+  - flight into wilderness for protection
+  - protective wilderness withdrawal
+  - refuge in wild places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withdrawal-to-private-room-creates-suspicion
+  motif_id: withdrawal_to_private_room_creates_suspicion
+  label: withdrawal to private room creates suspicion
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a contextual plot beat rather than a recurring mythic
+    or symbolic motif.
+  cautions: If the private room is a ritual seclusion, taboo chamber, birth chamber,
+    or threshold space, review under initiation or sacred law instead.
+  suggested_aliases:
+  - private withdrawal arouses suspicion
+  - seclusion creates suspicion
+  - suspicion from private retreat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; single-occurrence and context-heavy
+  labels should not be promoted without source evidence.
+- Several items may be ethical exempla or passage-specific plot details rather than
+  durable motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch contains low-confidence contextual labels and culturally sensitive
+    child-harm and Sufi wine-symbolism items requiring human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0186
+  input_sha256: 7ec0898a2855a3b4b7d66e1e8aae95f637ccba6208434d31e4df4f12388826d7

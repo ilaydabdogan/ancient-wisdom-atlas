@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0184
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.violated-protection-leading-to-repentance
+  motif_id: violated_protection_leading_to_repentance
+  label: violated protection leading to repentance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests breach of a protective obligation followed by moral
+    transformation, but the nature of protection is unclear.
+  cautions: Could fit covenant, sacred_law, divine_judgment, or a passage-specific
+    repentance episode depending on source evidence.
+  suggested_aliases:
+  - breach of protection and repentance
+  - repentance after violated protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violation-of-hospitality-by-murderous-host
+  motif_id: violation_of_hospitality_by_murderous_host
+  label: violation of hospitality by murderous host
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hospitality violation is a breach of sacred social obligation; murder
+    intensifies the transgression.
+  cautions: If divine punishment is central, divine_judgment should be a secondary
+    mapping; if it is only an episode detail, avoid over-indexing.
+  suggested_aliases:
+  - breach of hospitality
+  - murderous host violates hospitality
+  - hospitality taboo violated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violent-host-grants-temporary-reprieve-through-female-intercession
+  motif_id: violent_host_grants_temporary_reprieve_through_female_intercession
+  label: violent host grants temporary reprieve through female intercession
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines hospitality danger, reprieve, violence, and intercession
+    in a highly episode-specific way.
+  cautions: Could fit sacred_law, storytelling_as_power, sacred_love, or conflict
+    motifs depending on whether intercession, hospitality, or reprieve is the core
+    function.
+  suggested_aliases:
+  - temporary reprieve through female intercession
+  - female intercession delays violence
+  - violent host grants reprieve
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - storytelling_as_power
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violent-race-destroyed-by-its-own-hands
+  motif_id: violent_race_destroyed_by_its_own_hands
+  label: Violent race destroyed by its own hands
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A violent people self-destructing functions as moral reckoning or punishment
+    for disorder.
+  cautions: Do not assume divine agency unless the passage states it; could also be
+    etiological or catastrophe-renewal if tied to world-age destruction.
+  suggested_aliases:
+  - self-destruction of violent race
+  - violent people destroyed by mutual violence
+  - race destroyed by its own violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - flood_and_renewal
+    - pride_and_downfall
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violent-retaliation-after-overheard-lament
+  motif_id: violent_retaliation_after_overheard_lament
+  label: violent retaliation after overheard lament
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The motif links lament, overhearing, and retaliation but the symbolic
+    or narrative function is not clear from the label alone.
+  cautions: May be a plot detail rather than a durable motif; if lament triggers vengeance,
+    sacred_combat or lament_and_mourning may be relevant.
+  suggested_aliases:
+  - retaliation triggered by lament
+  - overheard lament prompts vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - sacred_combat
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.voice-exposes-false-identity
+  motif_id: voice_exposes_false_identity
+  label: voice exposes false identity
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A voice revealing deception functions as recognition or disclosure of
+    hidden truth.
+  cautions: Could belong to shapeshifter or trickster if disguise/deception is central;
+    without more context it should remain a broad recognition/disclosure mapping.
+  suggested_aliases:
+  - recognition by voice
+  - voice reveals disguise
+  - voice betrays false identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.voluntary-humble-labor-despite-supernatural-power
+  motif_id: voluntary_humble_labor_despite_supernatural_power
+  label: voluntary humble labor despite supernatural power
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Choosing humble labor despite power fits spiritual discipline, renunciation,
+    and transformed status.
+  cautions: Could also be an ethical exemplar under sacred_law or wisdom; confirm
+    that humility is spiritually significant rather than incidental biography.
+  suggested_aliases:
+  - humble labor despite power
+  - voluntary humility by powerful figure
+  - supernatural power restrained by humility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_law
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.watching-the-last-of-three-threatened-fields
+  motif_id: watching_the_last_of_three_threatened_fields
+  label: watching the last of three threatened fields
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This appears to be a highly specific episode detail involving a guarded
+    field and a threefold sequence.
+  cautions: Could fit initiation, threshold_guardian, sacred_time, or heroic ordeal
+    if the watching functions as a test; otherwise exclude as passage detail.
+  suggested_aliases:
+  - guarding the last threatened field
+  - watching the third threatened field
+  - threefold field-watch ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - threshold_guardian
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weak-avenger-against-the-strong
+  motif_id: weak_avenger_against_the_strong
+  label: weak avenger against the strong
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on vengeance conflict where an apparently weaker figure
+    opposes a stronger one.
+  cautions: If the episode is primarily clever reversal rather than combat, trickster
+    may be a better mapping; if morally framed, divine_judgment may be secondary.
+  suggested_aliases:
+  - weak avenger defeats strong opponent
+  - underdog avenger
+  - vengeance by the weak against the strong
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weak-creature-able-to-affect-strong-creature
+  motif_id: weak_creature_able_to_affect_strong_creature
+  label: weak creature able to affect strong creature
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weak creature influencing a stronger one fits trickster-like reversal
+    of expected power relations.
+  cautions: May be a fable-type animal motif rather than sacred trickster material;
+    review whether deception, wit, or moral instruction is present.
+  suggested_aliases:
+  - small creature affects strong creature
+  - weak overcomes strong
+  - power reversal by weak creature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  them as evidence details unless source review confirms recurrence or broader function.
+- Hospitality, intercession, and weak-versus-strong reversal are underrepresented
+  as explicit groups; current suggestions use closest existing groups provisionally.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Draft placements only; source context needed for all single-occurrence motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0184
+  input_sha256: cfb7f91cdea7e08b46d165b1b5969c97a704f925fd5dd2f3ee57395a91a7ad49
