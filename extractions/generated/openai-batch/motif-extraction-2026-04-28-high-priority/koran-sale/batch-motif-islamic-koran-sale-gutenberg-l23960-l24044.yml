@@ -1,0 +1,457 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l23960-l24044
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XVIII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XIX. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 23960-24044
+  start: '23960'
+  end: '24044'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Notes and translated verses recount Mary’s retirement, Gabriel’s annunciation
+    and conception traditions, her labor by a palm-tree, provision of dates and drink,
+    her vow of silence, her return to her people with the child, the infant Jesus
+    speaking in defense and declaring his prophetic status, followed by doctrinal
+    statements about God, Jesus, judgment, and return to God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mary retires to an eastern place or private chamber according to the note,
+    with traditions explaining her withdrawal as either ritual seclusion or prayer.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gabriel is described in the notes as appearing in human form and causing conception
+    by breath reaching Mary’s womb.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mary goes out of the city by night to a mountain to conceal her delivery,
+    according to the note.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mary leans on or is associated with a withered palm trunk during labor, and
+    the note says it miraculously supplied fruit in winter.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Mary is told to shake the palm-tree so that ripe dates fall, and to eat, drink,
+    and calm herself.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Mary is instructed to say she has vowed a fast to the Merciful and will not
+    speak to any man that day.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Mary brings the child to her people carrying him in her arms, and they accuse
+    her of doing a strange thing.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Mary makes signs toward the child for him to answer, while the people question
+    how they can speak to an infant in the cradle.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The infant child speaks, declaring himself the servant of God, recipient of
+    the gospel, and appointed prophet.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The speaking child says he has been commanded to observe prayer and give alms,
+    and to be dutiful toward his mother.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The passage identifies the child as Jesus, son of Mary, and denies that it
+    is meet for God to have a son.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The passage warns of a day of judgment, a day of sighing, and states that
+    all creatures will return to God.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Mary
+  description: The mother who withdraws, gives birth, carries the child to her people,
+    and signals for him to answer.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Gabriel
+  description: The angel named in the notes as visiting Mary and causing conception
+    by breath.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: The child / Jesus, son of Mary
+  description: An infant in the cradle who speaks and is identified as Jesus, son
+    of Mary.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Mary’s people
+  description: The people to whom Mary brings the child; they question and accuse
+    her.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: God
+  description: Named as the Merciful, the Lord, and the one who decrees by saying
+    Be, judges, inherits the earth, and to whom all return.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: mother in concealed birth episode
+  assigned_to:
+  - fig:1
+  basis: Mary withdraws, gives birth away from her people, and returns carrying the
+    child.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: silent witness using signs
+  assigned_to:
+  - fig:1
+  basis: Mary is instructed not to speak and later makes signs to the child.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: angelic messenger and agent of conception in commentary
+  assigned_to:
+  - fig:2
+  basis: The notes identify Gabriel as the angel who visits Mary and whose breath
+    causes conception.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: miraculously speaking infant
+  assigned_to:
+  - fig:3
+  basis: The child speaks while identified as an infant in the cradle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: prophet and servant of God
+  assigned_to:
+  - fig:3
+  basis: The child declares himself servant of God and appointed prophet.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: questioning community
+  assigned_to:
+  - fig:4
+  basis: Mary’s people accuse her and question how to speak to an infant.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: divine lord and judge
+  assigned_to:
+  - fig:5
+  basis: The passage commands service to God and describes judgment and return to
+    God.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: palm-tree
+  literal_form: A palm-tree or withered palm trunk that supplies ripe dates when shaken.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: ripe dates
+  literal_form: Ripe dates falling from the palm-tree for Mary to eat.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mountain
+  literal_form: A mountain outside the city to which Mary goes by night to conceal
+    delivery, according to the note.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: cradle
+  literal_form: The cradle from which the infant is expected not to be able to speak.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: vow of silence or fast
+  literal_form: Mary’s declaration that she has vowed a fast to the Merciful and will
+    not speak to a man that day.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Annunciation and conception traditions in notes
+  summary: The notes describe Mary’s retirement and Gabriel’s appearance and breath
+    causing conception.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Birth by the palm-tree
+  summary: Mary goes outside the city toward a mountain for delivery; the palm-tree
+    provides dates, and she is told to eat, drink, and calm herself.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Vow of silence
+  summary: Mary is instructed to respond to any questioner by saying she has vowed
+    a fast to the Merciful and will not speak to a man that day.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Mary returns with the child
+  summary: Mary carries the child to her people; they accuse her, and she points to
+    the infant in the cradle.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Infant declaration
+  summary: The infant speaks, identifies himself as God’s servant, says he has received
+    the gospel and prophetic appointment, and blesses his birth, death, and raising
+    to life.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Doctrine and judgment
+  summary: The passage identifies Jesus as son of Mary, rejects divine sonship for
+    God, calls service to God the right way, and warns of judgment and return to God.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sacred birth with miraculous provision
+  taxonomy_refs:
+  - sacred_birth
+  basis: Mary’s concealed delivery is accompanied by a palm-tree that supplies ripe
+    dates and by instruction to eat and drink.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is in translation and includes explanatory notes; the motif
+    label abstracts from the literal birth scene.
+- id: motif:2
+  label: miraculous speaking infant
+  taxonomy_refs:
+  - miraculous_child
+  basis: The infant in the cradle speaks to defend or explain his status and declares
+    himself servant of God and prophet.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage identifies the infant as Jesus; the extraction does not generalize
+    beyond the cited scene.
+- id: motif:3
+  label: resurrection or raising to life
+  taxonomy_refs:
+  - resurrection
+  basis: The child’s speech includes peace on the day he will be raised to life.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a doctrinal statement within a speech, not a narrated resurrection
+    event in the passage.
+- id: motif:4
+  label: divine judgment and return to God
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage warns of the great day and day of sighing, judgment, and all
+    creatures returning to God.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is an eschatological warning rather than a developed journey narrative.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly says the Mohammedan account of Mary’s delivery resembles
+    poetic accounts of Latona, especially the palm-tree detail and speaking infants.
+  claim_level: visual_similarity
+  target: Latona birth account in poets, as cited by Sale’s note
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied by the translator’s note, not by the Qur'anic
+    narrative itself; no historical contact or dependence is established in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23960-23982
+  quote_or_summary: Notes describe Mary’s eastern retirement or private chamber, traditions
+    about her seclusion, Gabriel appearing in human form, and Gabriel’s breath causing
+    conception.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 23983-23994
+  quote_or_summary: A note says Mary went out of the city by night to a mountain to
+    conceal delivery and that a withered palm trunk miraculously supplied fruit in
+    winter.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 24009-24014
+  quote_or_summary: "“shake the body of the palm-tree,” “eat, and drink, and calm
+    thy mind,” and say, “I have vowed a fast unto the Merciful.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 24015-24021
+  quote_or_summary: Mary brings the child to her people; they accuse her, she points
+    to the child, and they ask how they can speak to an infant in the cradle.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 24022-24031
+  quote_or_summary: The child says he is God’s servant, has received the gospel, is
+    appointed a prophet, is commanded to pray and give alms, is dutiful to his mother,
+    and will have peace at birth, death, and being raised to life.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 24032-24037
+  quote_or_summary: The passage identifies Jesus as son of Mary, says it is not meet
+    for God to have a son, describes God’s command as “Be,” and says God is Lord to
+    be served.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 24038-24044
+  quote_or_summary: The passage warns of unbelievers’ appearance at the great day,
+    the day of sighing, divine determination, inheritance of the earth, and the return
+    of all to God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 23995-24002
+  quote_or_summary: Sale’s note states that the Mohammedan account of Mary’s delivery
+    resembles poetic accounts of Latona, citing the palm-tree and speaking infants
+    as points of resemblance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Core figures and scenes are explicit. Motif labels are limited to available
+    taxonomy references and literal passage evidence. The Latona comparison is present
+    only in the translator’s note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage text and metadata; interpretive labels are kept separate from literal observations.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l23960-l24044
+  passage_sha256=ce4366d21f2adbdaca79307ae7a8d028ffbbef0935f13f2d48f1b154d2c46888

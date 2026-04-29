@@ -1,0 +1,170 @@
+---
+record_id: batch.motif.sufi-al-ghazzali-confessions-field-gutenberg-l106-l128
+source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+passage_locator:
+  label: WISDOM OF THE EAST / BY CLAUD FIELD, M.A. / CONTENTS / INTRODUCTION                                                         7;
+    lines 106-128
+  start: '106'
+  end: '128'
+  translation: The Confessions of Al Ghazzali
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table of contents listing sections on Ghazzali’s search
+    for truth, sophists, seekers after truth, scholastic theology, philosophical sects,
+    philosophical sciences, Sufism, and inspiration.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a contents list with page numbers.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One listed section is titled “Ghazzali’s Search for Truth.”
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One listed section concerns “The Different Kinds of Seekers after Truth.”
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One listed section is titled “Sufism.”
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One listed section concerns “The Reality of Inspiration” and its importance
+    for the human race.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ghazzali
+  description: Named in a section title as undertaking a search for truth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Seekers after Truth
+  description: A collective category named in a section title.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: searcher for truth
+  assigned_to:
+  - fig:1
+  basis: The contents include the heading “Ghazzali’s Search for Truth.”
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: seekers after truth
+  assigned_to:
+  - fig:2
+  basis: The contents include the heading “The Different Kinds of Seekers after Truth.”
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Contents listing of intellectual and spiritual topics
+  summary: The passage lists sections that frame the work around truth-seeking, theology,
+    philosophy, Sufism, and inspiration.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Search for truth
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The passage explicitly lists Ghazzali’s search for truth and kinds of seekers
+    after truth, alongside Sufism and inspiration.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a table of contents, not a narrative passage; motif identification
+    is based on section headings only.
+- id: motif:2
+  label: Inspiration as religious or spiritual knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage lists a section on the reality of inspiration and its importance
+    for the human race.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explain the content of inspiration, only names it
+    as a topic.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 106-128
+  quote_or_summary: A contents list gives section titles and page numbers.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 112-112
+  quote_or_summary: "“Ghazzali’s Search for Truth”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 116-116
+  quote_or_summary: "“The Different Kinds of Seekers after Truth”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 125-125
+  quote_or_summary: "“Sufism”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 127-128
+  quote_or_summary: A contents entry names “The Reality of Inspiration” and states
+    its importance for the human race.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward because the passage is a contents list.
+    Motif candidates are tentative because headings provide themes but no narrative
+    development.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No symbols from the supplied symbol taxonomy appear in this passage. No comparison claims were made because the passage itself does not support a comparative claim.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-al-ghazzali-confessions-field-gutenberg__l106-l128
+  passage_sha256=ef21e8a3fea6c970da0615213055cd257cd2cf50dddd9034064bb83f094927af

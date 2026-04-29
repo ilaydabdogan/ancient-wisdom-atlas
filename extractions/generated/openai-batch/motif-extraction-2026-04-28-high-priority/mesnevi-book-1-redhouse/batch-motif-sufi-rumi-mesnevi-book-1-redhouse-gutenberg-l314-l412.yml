@@ -1,0 +1,478 @@
+---
+record_id: batch.motif.sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l314-l412
+source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+passage_locator:
+  label: JAMES W. REDHOUSE, M.R.A.S., ETC. / CONTENTS. / INTRODUCTION.--PLAINT OF
+    THE REED-FLUTE                              1 / CONCLUSION                                                         289;
+    lines 314-412
+  start: '314'
+  end: '412'
+  translation: The Mesnevi
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes Hasan Husamu-'d-Din's role as Jelal's assistant
+    and successor, the composition and transmission context of the Mesnevi, the institution
+    of Mevlevi dervish dress, music, and dance, later succession in the order, and
+    Eflaki's compilation of miracle-filled anecdotes about Mevlevi saints and their
+    claimed spiritual inheritance from the prophets.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jelal took Hasan Husamu-'d-Din as his assistant and favorite pupil.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Mesnevi is described as having been composed by Jelal with Husam as the
+    first amanuensis, at Husam's suggestion.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Jelal is said to have instituted a special order of dervishes with a distinctive
+    mourning dress in memory of Shemsu-'d-Din of Tebriz.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists flute, rebeck, drum, tambourine, singing or chanting, and
+    holy dance as devotional practices associated with Jelal's order.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage compares sweet sounds used for devotion to jam or honey used to
+    induce a child to take medicine.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Leadership of the order is described as passing from Jelal to Husam, then
+    to Sultan Veled, then to Chelebi Emir Arif and later half-brothers.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:7
+  text: Eflaki is said to have compiled his work at the request of his spiritual teacher,
+    Chelebi Emir Arif, over forty-three years.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Eflaki's work is described as containing many anecdotes, especially miracles
+    by the living or the dead and strange or striking events.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage states that Muslim saints are held by their dervish brethren to
+    be successors and spiritual inheritors of the prophets, from Adam to Muhammad.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage reports beliefs that saints know the secrets and mysteries of
+    heaven and earth and can affect nature, death, disease, health, and prosperity
+    through anger or blessing, in accordance with divine will.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Jelal
+  description: Teacher, poet, founder-associated figure, and composer of the Mesnevi
+    in the passage.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Hasan Husamu-'d-Din
+  description: Jelal's favorite pupil, assistant, first amanuensis of the Mesnevi,
+    and successor after Jelal's death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Shemsu-'d-Din of Tebriz
+  description: Jelal's murdered friend, in whose memory the dervish order's mourning
+    dress is said to have been instituted.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Bahau-'d-Din, Sultan Veled
+  description: Jelal's son, who succeeded Husam as chief of the order.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Chelebi Emir Arif
+  description: Son of Sultan Veled, later chief of the order, and Eflaki's spiritual
+    teacher.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Eflaki
+  description: Compiler of the work described in the passage, begun at the request
+    of Chelebi Emir Arif.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Mevlevi dervish fathers
+  description: Collective religious lineage whose acts and miracles are said to be
+    narrated in Eflaki's work.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Muslim saints
+  description: Saintly figures described as lovers of their Creator, beloved by Him,
+    and held to be spiritual inheritors of prophets.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: teacher and master
+  assigned_to:
+  - fig:1
+  basis: Jelal is described as taking Husam as assistant and favorite pupil, and as
+    Husam's teacher.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: assistant, amanuensis, and successor
+  assigned_to:
+  - fig:2
+  basis: Husam is described as Jelal's assistant, first amanuensis of the Mesnevi,
+    and successor.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: founder-associated devotional innovator
+  assigned_to:
+  - fig:1
+  basis: Jelal is said to have instituted the dervish order's dress and adopted music
+    and dance for devotion.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: murdered friend memorialized by dress
+  assigned_to:
+  - fig:3
+  basis: The special mourning dress is said to have been instituted in memory of Shemsu-'d-Din.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: successor chief of the order
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Sultan Veled and Chelebi Emir Arif are each described as succeeding to leadership
+    of the order.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: spiritual teacher
+  assigned_to:
+  - fig:5
+  basis: Eflaki undertook his compilation at the express desire of his spiritual teacher,
+    Chelebi Emir Arif.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: compiler of saintly anecdotes
+  assigned_to:
+  - fig:6
+  basis: Eflaki is described as compiling the work that contains many anecdotes of
+    miracles and striking events.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: saintly lineage subjects
+  assigned_to:
+  - fig:7
+  basis: The work is described as a species of acts concerning the Mevlevi dervish
+    fathers.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: spiritual inheritors and miracle-working saints
+  assigned_to:
+  - fig:8
+  basis: The passage reports beliefs that saints inherit the prophets spiritually,
+    know mysteries, and affect nature, illness, death, health, and prosperity.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: mourning dress
+  literal_form: Indian garb of mourning used as special dervish dress
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: devotional instruments
+  literal_form: flute, rebeck, drum, and tambourine
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: holy dance
+  literal_form: dancing or twirling by dervishes
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sweet bait for medicine
+  literal_form: jam or honey offered to a child to induce taking medicine
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: prophetic inheritance
+  literal_form: spiritual succession from prophets, from Adam to Muhammad
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Husam becomes assistant and amanuensis
+  summary: Jelal takes Husam as assistant; the Mesnevi is composed with Husam as first
+    amanuensis and later successor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Institution of Mevlevi devotional forms
+  summary: Jelal is said to institute a mourning dress in memory of Shemsu-'d-Din
+    and to adopt music, singing, and dance as aids to devotional love for God.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Order succession
+  summary: The passage traces leadership from Husam to Sultan Veled, Chelebi Emir
+    Arif, and other successors.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Eflaki's compilation of saintly acts
+  summary: Eflaki compiles a work at his spiritual teacher's request, containing anecdotes
+    of miracles and striking events attributed to living or dead Mevlevi figures.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Saints as spiritual inheritors
+  summary: The passage reports a belief that Muslim saints inherit the prophets spiritually
+    and possess knowledge and powers through communion with God.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Music and dance as inducements toward divine love
+  taxonomy_refs:
+  - divine_beloved
+  - mystical_quest
+  basis: The passage states that Jelal adopted music, singing, and holy dance to tempt
+    the Romans toward devotional love for God through sweet sounds.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is explanatory and historical rather than a narrative myth;
+    taxonomy links are approximate.
+- id: motif:2
+  label: Saintly miracles by living and dead masters
+  taxonomy_refs: []
+  basis: Eflaki's anecdotes are described as accounts of miracles wrought by living
+    or dead figures and strange or striking events.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: Specific miracles are not narrated in this passage.
+- id: motif:3
+  label: Spiritual inheritance from the prophets
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that Muslim saints are held to be successors and spiritual
+    inheritors of the prophets and to know secrets and mysteries of heaven and earth.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy has no exact 'prophetic succession' motif; 'wisdom'
+    covers only part of the claim.
+- id: motif:4
+  label: Blessing and anger as channels of saintly power
+  taxonomy_refs: []
+  basis: The passage reports a belief that saints can deal out death or disease by
+    anger and health or prosperity by blessing, within divine will.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage reports beliefs about saintly power in general rather than
+    a single episode.
+- id: motif:5
+  label: Memorialization of a slain companion through ritual dress
+  taxonomy_refs: []
+  basis: The order's special mourning dress is said to be instituted in memory of
+    Jelal's murdered friend Shemsu-'d-Din.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives no fuller ritual context beyond the dress and memorial
+    purpose.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly likens Eflaki's work on Mevlevi dervish fathers to
+    a species of the Acts of the Apostles, suggesting a similar literary function
+    as saintly acts literature.
+  claim_level: same_function
+  target: Acts of the Apostles as a model for collections of sacred acts and miracles
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the translator's analogy within the passage; it does not establish
+    historical dependence or shared origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 314-326
+  quote_or_summary: Jelal takes Hasan Husamu-'d-Din as his assistant and favorite
+    pupil; the passage explains the Akhi designation.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 327-339
+  quote_or_summary: Ten years after Husam became assistant, Jelal died and was buried
+    in his father's mausoleum, leaving Husam as successor; meanwhile the Mesnevi was
+    composed by Jelal at Husam's suggestion, with Husam as first amanuensis.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: lines 342-354
+  quote_or_summary: Jelal is said to have instituted a dervish order with mourning
+    dress for Shemsu-'d-Din, and to have adopted flute, rebeck, drum, tambourine,
+    singing or chanting, and holy dance to draw people toward devotional love for
+    God, compared to sweetening medicine for a child.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 356-360
+  quote_or_summary: Husam dies ten years after Jelal; Sultan Veled succeeds Husam,
+    Chelebi Emir Arif succeeds Sultan Veled, and later half-brothers become chiefs
+    of the order.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 362-375
+  quote_or_summary: Eflaki begins compiling his work at the desire of his spiritual
+    teacher Chelebi Emir Arif; dates, manuscript copy, and organization are described.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: quote
+  locator: lines 393-399
+  quote_or_summary: The work contains many anecdotes, including miracles by the living
+    or dead and strange events; it is called "a species of the Acts of the Apostles
+    of the Mevlevī dervish fathers."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 400-412
+  quote_or_summary: The passage says Muslim saints are held to be successors and spiritual
+    inheritors of prophets from Adam to Muhammad; through communion with God they
+    know mysteries and can overrule nature, give death or disease by anger, and health
+    or prosperity by blessing, in accord with divine will.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly introductory and historical, with general claims about
+    Mevlevi saintly literature and devotional practices. Motif assignment is therefore
+    cautious and often approximate.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy IDs beyond the provided available references were introduced.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-rumi-mesnevi-book-1-redhouse-gutenberg__l314-l412
+  passage_sha256=0213995a9be8f7a311c3cdca235d59896e7f038bd4f87cf84e660fa80b938a80

@@ -1,0 +1,205 @@
+---
+record_id: batch.motif.sufi-al-ghazzali-confessions-field-gutenberg-l1356-l1417
+source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+passage_locator:
+  label: 'THE REALITY OF INSPIRATION: ITS IMPORTANCE FOR THE HUMAN RACE / FOOTNOTES
+    / THE ORIENT LIBRARY / THE WISDOM OF THE EAST SERIES; lines 1356-1417'
+  start: '1356'
+  end: '1417'
+  translation: The Confessions of Al Ghazzali
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The line range consists of footnotes, printer information, and promotional
+    or series front/back matter for The Orient Library and The Wisdom of the East
+    Series, including names and roles of editors and advisory committee members.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage gives three footnotes: one glosses a phrase as meaning that there
+    is nothing new under the sun, one identifies a location as the Mosque of Omar,
+    and one states that a miracle is ascribed to Muhammed.'
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the book was printed by Hazell, Watson & Viney, Ltd.,
+    London and Aylesbury.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage identifies The Wisdom of the East Series as edited by L. Cranmer-Byng
+    and Dr. S. A. Kapadia.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists an honorary advisory committee for The Orient Library /
+    Wisdom of the East Series, with named officers and members.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: L. Cranmer-Byng
+  description: Named as an editor of The Wisdom of the East Series and as one of the
+    honorary secretaries of the advisory committee.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Dr. S. A. Kapadia
+  description: Named as an editor of The Wisdom of the East Series and as one of the
+    honorary secretaries of the advisory committee.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Lord Reay
+  description: Named as president of the honorary advisory committee.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Sir Arthur Wollaston
+  description: Named as chairman of the honorary advisory committee.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Honorary Advisory Committee of The Orient Library / Wisdom of the
+    East Series
+  description: A named committee with officers and a list of members.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: series editor
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that The Wisdom of the East Series is edited by L. Cranmer-Byng
+    and Dr. S. A. Kapadia.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: president
+  assigned_to:
+  - fig:3
+  basis: Lord Reay is identified as president of the honorary advisory committee.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: chairman
+  assigned_to:
+  - fig:4
+  basis: Sir Arthur Wollaston is identified as chairman of the honorary advisory committee.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: honorary secretary
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: L. Cranmer-Byng and S. A. Kapadia are identified as honorary secretaries.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: advisory body
+  assigned_to:
+  - fig:5
+  basis: The passage presents an honorary advisory committee for The Orient Library
+    / Wisdom of the East Series.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Footnotes and publication matter
+  summary: The passage gives explanatory footnotes, printer information, and series
+    committee information rather than a mythic or narrative episode.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1356-1362
+  quote_or_summary: Three footnotes gloss an earlier phrase, identify the Mosque of
+    Omar, and note a miracle ascribed to Muhammed.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: line 1364
+  quote_or_summary: Printed by Hazell, Watson & Viney, Ld., London and Aylesbury.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 1366-1372
+  quote_or_summary: The passage names The Orient Library, The Wisdom of the East Series,
+    and states that the series is edited by L. Cranmer-Byng and Dr. S. A. Kapadia.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1374-1382
+  quote_or_summary: The honorary advisory committee is introduced; Lord Reay is named
+    president, Sir Arthur Wollaston chairman, and L. Cranmer-Byng and S. A. Kapadia
+    honorary secretaries.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1384-1417
+  quote_or_summary: The passage lists multiple advisory committee members, including
+    university professors, scholars, officials, and other named persons.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is paratextual publication material and footnotes, not a mythic
+    narrative passage; no motif or comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy motif or symbol was applied because the passage contains no supported mythic motif pattern in this line range.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-al-ghazzali-confessions-field-gutenberg__l1356-l1417
+  passage_sha256=485c0bca9e1ba4cf9f18b04bd533db4c86e92d07984cb5b9881102ef7f9a1cae

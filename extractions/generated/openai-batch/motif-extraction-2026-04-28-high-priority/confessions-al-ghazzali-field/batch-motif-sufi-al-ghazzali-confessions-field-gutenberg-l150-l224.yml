@@ -1,0 +1,552 @@
+---
+record_id: batch.motif.sufi-al-ghazzali-confessions-field-gutenberg-l150-l224
+source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+passage_locator:
+  label: EDITORIAL NOTE / NORTHBROOK SOCIETY, 185 PICCADILLY, W. / INTRODUCTION /
+    BIRTH OF GHAZZALI; lines 150-224
+  start: '150'
+  end: '224'
+  translation: The Confessions of Al Ghazzali
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The introduction gives a biographical account of Al Ghazzali: his birth
+    in Tus, early loss of his father, education under a Sufi, professorship and renown
+    at Baghdad, intellectual search through theology, philosophy, and Sufism, renunciation
+    and devotional travel, return to Tus, death, and later significance for Sufism
+    and Islam.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Al Ghazzali is described as born in Tus in Khorassan in A.D. 1058 and as the
+    son of a dealer in cotton thread.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After losing his father early, Al Ghazzali was placed under the care of a
+    Sufi whose influence continued through his later career.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After completing his studies, Al Ghazzali became professor of theology at
+    Baghdad and gained great renown among Imams and Muslims.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage presents the treatise as a history of Al Ghazzali’s mind in pursuit
+    of truth.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'The passage lists three groups reviewed by Al Ghazzali in his search: scholastic
+    theologians, philosophers, and Sufis.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Al Ghazzali is said to have escaped skepticism not by proofs but by a flash
+    of light sent by God into his soul.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After finding philosophy inadequate, Al Ghazzali sought a higher faculty than
+    reason and regarded Sufi intuition or ecstasy as a kind of revelation.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: During his search for truth, Al Ghazzali renounced his Baghdad professorship,
+    entered devotional retirement at Jerusalem and Damascus, and made the pilgrimage
+    to Mecca.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The death account attributed to Ahmad says Al Ghazzali performed ablution,
+    prayed, asked for his grave-clothes, kissed them, placed them on his eyes, spoke
+    of obeying a command to go into the King, stretched out his feet, and died.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage states that Al Ghazzali supplied the Sufis with metaphysical terminology
+    derived from Plotinus and helped give them a secure position in the Church of
+    Islam.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Al Ghazzali
+  description: Aboû Hâmid Muhammed Ibn Muhammad Al Ghazzali, the central biographical
+    subject of the passage.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Al Ghazzali’s father
+  description: A dealer in cotton thread; Al Ghazzali lost him early in life.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Sufi caretaker
+  description: An unnamed Sufi to whose care Al Ghazzali was confided after his father’s
+    death.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: The Sufis
+  description: A group described as claiming immediate intuition and direct perception
+    of truth; later helped by Al Ghazzali’s terminology and ecclesial standing.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: God
+  description: Named as the sender of a flash of light into Al Ghazzali’s soul and
+    as the one whose good-will receives him in the death account.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Ahmad
+  description: Al Ghazzali’s brother, cited as the source of the account of his death.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Plotinus the Neo-Platonist
+  description: Named as the source from whose writings Al Ghazzali is said to have
+    derived metaphysical terminology for the Sufis.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: biographical subject
+  assigned_to:
+  - fig:1
+  basis: The introduction centers on Al Ghazzali’s birth, studies, search, travels,
+    death, and influence.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: seeker of truth
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly describes the treatise as the history of his mind
+    in pursuit of truth and recounts his search through several systems.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: renouncing professor and pilgrim
+  assigned_to:
+  - fig:1
+  basis: He renounces his professorship, enters devotional retirement, and performs
+    the pilgrimage to Mecca.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: teacher and legitimating figure
+  assigned_to:
+  - fig:1
+  basis: He is said to provide Sufis with terminology, secure their position in Islam,
+    and be considered a major teacher in later Islam.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:5
+  label: lost parent
+  assigned_to:
+  - fig:2
+  basis: The passage states that Al Ghazzali lost his father early in life.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: spiritual guardian
+  assigned_to:
+  - fig:3
+  basis: The unnamed Sufi receives care of Al Ghazzali and influences his later career.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: mystical tradition group
+  assigned_to:
+  - fig:4
+  basis: The Sufis are described as claiming immediate intuition and perception of
+    truth and as receiving terminology and institutional security through Al Ghazzali.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:8
+  label: divine source and receiver
+  assigned_to:
+  - fig:5
+  basis: God sends light into Al Ghazzali’s soul and receives him at death in the
+    cited account.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:9
+  label: witness-narrator of death account
+  assigned_to:
+  - fig:6
+  basis: Ahmad is cited as relating the account of Al Ghazzali’s death.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: philosophical source
+  assigned_to:
+  - fig:7
+  basis: Plotinus is named as the source of terminology derived by Al Ghazzali.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: flash of light
+  literal_form: A flash of light sent by God into Al Ghazzali’s soul.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Sufi intuition or ecstasy
+  literal_form: The intuition or ecstasy called “wajd,” treated by Al Ghazzali as
+    a sort of revelation.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: pilgrimage to Mecca
+  literal_form: A pilgrimage performed by Al Ghazzali during his search for truth.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: grave-clothes
+  literal_form: Grave-clothes requested, kissed, and laid on the eyes by Al Ghazzali
+    before death.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: ablution and prayer
+  literal_form: Ablution and prayer performed by Al Ghazzali at dawn before his death.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: the King
+  literal_form: The King into whom Al Ghazzali says he hears and obeys the command
+    to go.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Birth, bereavement, and Sufi guardianship
+  summary: Al Ghazzali is born in Tus, loses his father early, and is entrusted to
+    a Sufi whose influence remains important.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Renown as Baghdad theologian
+  summary: After study, Al Ghazzali becomes professor of theology at Baghdad and wins
+    major support and admiration.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Search through doctrines
+  summary: Al Ghazzali’s treatise is framed as a pursuit of truth in which he reviews
+    scholastic theologians, philosophers, and Sufis after a period of skepticism.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Renunciation, retreat, and pilgrimage
+  summary: Finding reason and philosophy insufficient, Al Ghazzali renounces his professorship,
+    retires devotionally at Jerusalem and Damascus, and undertakes pilgrimage to Mecca.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Ritualized death
+  summary: According to Ahmad, Al Ghazzali performs ablution and prayer, handles his
+    grave-clothes, speaks of obeying a command to go into the King, and dies.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Legacy for Sufism and Islam
+  summary: The passage states that Al Ghazzali gives Sufis metaphysical terminology
+    derived from Plotinus, secures their position in Islam, and becomes an enduring
+    teacher.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Search for truth beyond ordinary reason
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: The passage frames the work as a pursuit of truth, describes movement through
+    theologians and philosophers, and says Al Ghazzali sought a higher faculty than
+    reason in Sufi intuition or ecstasy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage is editorial and biographical rather than a mythic narrative;
+    motif assignment is functional and thematic.
+- id: motif:2
+  label: Renunciation followed by devotional retreat and pilgrimage
+  taxonomy_refs:
+  - departure
+  - mystical_quest
+  basis: Al Ghazzali leaves his prestigious professorship, enters devotional retirement
+    at sacred cities, and performs the pilgrimage to Mecca during his search.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No supernatural journey structure is explicitly narrated beyond devotional
+    travel and pilgrimage.
+- id: motif:3
+  label: Divine illumination resolving doubt
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says he escaped skepticism not by reasoning but by a flash of
+    light sent by God into his soul.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The phrase is quoted as Al Ghazzali’s account within an introduction;
+    it is brief and not elaborated into a full visionary episode here.
+- id: motif:4
+  label: Prepared death as obedient meeting with God
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The death account includes ablution, prayer, grave-clothes, obedience to
+    a command to go into the King, and going to meet Him.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The afterlife movement is expressed in devotional language and may be
+    metaphorical; the passage does not provide a detailed afterlife geography.
+- id: motif:5
+  label: Transmission and legitimization of sacred wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Al Ghazzali is credited with giving Sufis metaphysical terminology and a
+    secure position in Islam, and with enduring teacherly authority.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: This is an intellectual-historical claim rather than a narrative motif
+    in the strict sense.
+comparison_claims:
+- id: claim:1
+  claim: The editor says Al Ghazzali’s treatise bears a certain resemblance to Newman’s
+    Grammar of Assent in intellectual subtlety.
+  claim_level: same_function
+  target: Newman’s Grammar of Assent
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage offers only a brief editorial analogy and does not demonstrate
+    detailed structural or historical connection.
+- id: claim:2
+  claim: The editor says Al Ghazzali’s treatise is akin to Bunyan’s Grace Abounding
+    in its sense of terrors of the world to come.
+  claim_level: same_function
+  target: Bunyan’s Grace Abounding
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The claim is limited to an editorial comparison of tone or religious
+    concern; no direct influence is asserted.
+- id: claim:3
+  claim: The passage states that Al Ghazzali derived metaphysical terminology for
+    the Sufis from the writings of Plotinus the Neo-Platonist.
+  claim_level: historical_contact
+  target: Plotinus / Neo-Platonist writings
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage attributes this claim to Mr. Whinfield’s preface and provides
+    no detailed textual evidence within the excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 150-160
+  quote_or_summary: Al Ghazzali is born in Tus in A.D. 1058, identified as son of
+    a cotton-thread dealer, loses his father early, and is entrusted to a Sufi.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 160-168
+  quote_or_summary: After finishing his studies, Al Ghazzali is appointed professor
+    of theology at Baghdad and gains major renown among Imams and Muslims.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 168-179
+  quote_or_summary: The treatise is described as a history of Al Ghazzali’s mind in
+    pursuit of truth, compared editorially with Newman’s Grammar of Assent and Bunyan’s
+    Grace Abounding, and called a specimen of Eastern autobiography.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 180-191
+  quote_or_summary: After describing his escape from skepticism, Al Ghazzali reviews
+    scholastic theologians, philosophers, and Sufis in his search for truth.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 180-183
+  quote_or_summary: "“not by systematic reasoning and accumulation of proofs, but
+    by a flash of light which God sent into my soul”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: lines 192-201
+  quote_or_summary: After mastering theology and philosophy and finding the problem
+    unresolved, Al Ghazzali turns to a faculty higher than reason; Sufi intuition
+    or ecstasy is a kind of revelation to him; he renounces his Baghdad professorship,
+    retires at Jerusalem and Damascus, and makes pilgrimage to Mecca.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 202-213
+  quote_or_summary: Ahmad’s account says Al Ghazzali, at dawn, performed ablution
+    and prayer, requested and kissed his grave-clothes, placed them on his eyes, spoke
+    of obeying the command to go into the King, stretched out his feet, and went to
+    meet Him.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 214-219
+  quote_or_summary: Al Ghazzali’s great service to the Sufis is described as providing
+    metaphysical terminology derived from Plotinus and giving them a secure position
+    in the Church of Islam.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 220-224
+  quote_or_summary: Macdonald calls Ghazzali a greatest and sympathetic figure in
+    Islam and a teacher placed on a level with the four great Imams; the passage says
+    Islam has never outgrown him.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial biographical introduction with explicit evidence
+    for intellectual-spiritual quest, renunciation, devotional death, and editorial
+    comparisons. Motif mapping is cautious because the excerpt is not primarily mythic
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references limited to provided motif-family list; no supplied symbol taxonomy item directly matched the main symbols in this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-al-ghazzali-confessions-field-gutenberg__l150-l224
+  passage_sha256=c90661ac3d7d7a3d060054253de6de7f9b39b108cb75f67f0889ea36d4abf305

@@ -1,0 +1,209 @@
+---
+record_id: batch.motif.sufi-al-ghazzali-confessions-field-gutenberg-l70-l103
+source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+passage_locator:
+  label: THE CONFESSIONS OF AL GHAZZALI / SAYINGS OF MUHAMMED. / WISDOM OF THE EAST
+    / BY CLAUD FIELD, M.A.; lines 70-103
+  start: '70'
+  end: '103'
+  translation: The Confessions of Al Ghazzali
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“He who knows himself knows God.”"
+  summary: Title-page/front-matter material for The Confessions of Al Ghazzali, including
+    a saying attributed to Muhammad, series and editor information, translator attribution,
+    publisher, place, date, and printer.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents the title The Confessions of Al Ghazzali.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A saying attributed to Muhammad states that knowing oneself is connected with
+    knowing God.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The work is identified as part of the Wisdom of the East series.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage names L. Cranmer-Byng and Dr. S. A. Kapadia as editors.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage names Claud Field, M.A. as translator into English.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage gives London, John Murray, Albemarle Street, W., and 1909 as publication
+    details.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Al Ghazzali
+  description: Named in the title The Confessions of Al Ghazzali.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Muhammad
+  description: Named as the attributed source of the saying, “He who knows himself
+    knows God.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Claud Field, M.A.
+  description: Named as the person who translated the work into English.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: L. Cranmer-Byng
+  description: Named as an editor of the Wisdom of the East series.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Dr. S. A. Kapadia
+  description: Named as an editor of the Wisdom of the East series.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: title figure or attributed subject of work
+  assigned_to:
+  - fig:1
+  basis: The work is titled The Confessions of Al Ghazzali.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: attributed speaker of saying
+  assigned_to:
+  - fig:2
+  basis: The saying is followed by the attribution “Sayings of Muhammed.”
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: translator
+  assigned_to:
+  - fig:3
+  basis: The passage states that the work was translated into English by Claud Field,
+    M.A.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: series editor
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage lists L. Cranmer-Byng and Dr. S. A. Kapadia under “Edited by.”
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Title-page presentation
+  summary: The passage presents the title, an attributed saying, series information,
+    translation attribution, and publication details for The Confessions of Al Ghazzali.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: self-knowledge as knowledge of God
+  taxonomy_refs:
+  - wisdom
+  basis: The quoted saying explicitly links knowing oneself with knowing God.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a brief epigraph in front matter, not a developed narrative episode
+    or doctrinal argument in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 70-103
+  quote_or_summary: "“THE CONFESSIONS OF AL GHAZZALI”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 70-103
+  quote_or_summary: "“He who knows himself knows God.” / “SAYINGS OF MUHAMMED.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 70-103
+  quote_or_summary: "“The Wisdom of the East Series” and “WISDOM OF THE EAST”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 70-103
+  quote_or_summary: "“EDITED BY / L. CRANMER-BYNG / Dr. S. A. KAPADIA”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain; short quotation used for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: lines 70-103
+  quote_or_summary: "“TRANSLATED FOR THE FIRST TIME / INTO ENGLISH / BY CLAUD FIELD,
+    M.A.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain; short quotation used for extraction evidence.
+- id: ev:6
+  type: summary
+  locator: lines 70-103
+  quote_or_summary: Publication and printing details identify London, John Murray,
+    Albemarle Street, W., 1909, and Hazell, Watson and Viney, Ltd.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain; summarized for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is bibliographic front matter with one brief attributed saying.
+    Literal extraction is straightforward; motif identification is limited to the
+    explicit self-knowledge/God-knowledge statement.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbols from the supplied symbol list occur in the passage. No comparison claims are made because the passage does not itself support a specific comparative claim.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-al-ghazzali-confessions-field-gutenberg__l70-l103
+  passage_sha256=d40f949fe90d83eaf129e8af7aa00f9fc3ba542ab3fea1f6cbafb02c0f658ff5

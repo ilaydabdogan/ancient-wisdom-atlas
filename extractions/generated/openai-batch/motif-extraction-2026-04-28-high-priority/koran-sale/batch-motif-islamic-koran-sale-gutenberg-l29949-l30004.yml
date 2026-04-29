@@ -1,0 +1,366 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l29949-l30004
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XXXII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXXIII.
+    / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 29949-30004
+  start: '29949'
+  end: '30004'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains Sale’s notes on marriage regulations concerning the
+    prophet and the Qur'anic text regulating the prophet’s wives, later marriage restrictions,
+    etiquette for believers entering the prophet’s houses, communication with the
+    prophet’s wives from behind a curtain, prohibition against troubling the apostle
+    or marrying his wives after him, and statements that God knows and observes all
+    things.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes state that some marriage rules differ depending on whether a marriage
+    has been consummated and whether a dower has been assigned.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The notes say Mohammed is described as having a liberty, with restrictions,
+    to take more wives than ordinary Moslems, who are limited to four wives.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The text says the prophet may postpone the turn of wives, take whom he pleases,
+    and receive again one previously rejected without crime.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The text says this arrangement is to make the wives content and not grieved.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The text says God knows what is in hearts and is knowing and gracious.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The text says it will not be lawful for the prophet to take other women to
+    wife afterward or exchange his wives, except for slaves possessed by his right
+    hand.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The text instructs true believers not to enter the prophet’s houses unless
+    permitted for a meal, and to disperse after eating.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The text instructs that requests made of the prophet’s wives should be made
+    from behind a curtain.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The text forbids giving uneasiness to the apostle of God or marrying his wives
+    after him forever.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The text says God knows all things whether people divulge or conceal them.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The deity who knows hearts, observes all things, and knows what is
+    divulged or concealed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: the prophet / the apostle of God / Mohammed
+  description: The prophet whose wives, houses, marriage permissions, and visitors
+    are regulated in the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: wives of the prophet
+  description: Women whose turns may be postponed, who are to be content with what
+    is given them, and whom believers must address from behind a curtain and not marry
+    after the prophet.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: true believers
+  description: People addressed with instructions about entering the prophet’s houses,
+    eating, departing, and speaking to the prophet’s wives.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: slaves whom the right hand shall possess
+  description: An exception named in the rule that no other women may be taken to
+    wife afterward.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: omniscient divine observer
+  assigned_to:
+  - fig:1
+  basis: God is said to know what is in hearts, observe all things, and know what
+    is concealed or divulged.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: prophetic recipient of special household and marriage regulations
+  assigned_to:
+  - fig:2
+  basis: The passage regulates the prophet’s wives, permissible marriages, household
+    entry, and treatment by believers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: protected wives of the prophet
+  assigned_to:
+  - fig:3
+  basis: The wives are governed by rules about turns, communication from behind a
+    curtain, and a prohibition on remarriage after the prophet.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: addressed community under etiquette rules
+  assigned_to:
+  - fig:4
+  basis: True believers are commanded how to enter the prophet’s houses, when to leave,
+    and how to address the prophet’s wives.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: named exception in marriage rule
+  assigned_to:
+  - fig:5
+  basis: The text names slaves possessed by the right hand as an exception to the
+    restriction on taking other women.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: curtain of separation
+  literal_form: curtain
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: right-hand possession
+  literal_form: slaves whom thy right hand shall possess
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: hidden and revealed knowledge
+  literal_form: what is divulged or concealed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Regulation of the prophet’s wives
+  summary: The prophet is permitted to postpone or restore the turn of wives, with
+    the stated aim that they be content and not grieved.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Restriction on later marriages
+  summary: The prophet is told he may not take other women to wife or exchange wives
+    afterward, except for slaves possessed by his right hand, and God observes all
+    things.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Etiquette inside the prophet’s houses
+  summary: Believers are instructed to enter only when invited, to leave after eating,
+    and not to linger in conversation that inconveniences the prophet.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Curtain protocol and posthumous marriage prohibition
+  summary: Believers are instructed to ask the prophet’s wives from behind a curtain,
+    not to trouble the apostle, and never to marry his wives after him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Divine knowledge of hidden and disclosed things
+  summary: The passage closes by stating that whether a thing is divulged or concealed,
+    God knows all things.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine surveillance of hidden intention
+  taxonomy_refs:
+  - divine_judgment
+  basis: God is repeatedly described as knowing hearts, observing all things, and
+    knowing what is concealed or divulged.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage emphasizes divine knowledge and observation; explicit judgment
+    language is limited to the statement that a prohibited act would be grievous in
+    God’s sight.
+- id: motif:2
+  label: sacred regulation of marriage and household boundaries
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The passage gives divine rules concerning the prophet’s wives, permissible
+    and impermissible marriages, household access, and the protected status of the
+    prophet’s wives.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy label is broader than the literal passage; the passage is
+    legal and household-regulatory rather than a mythic marriage narrative.
+- id: motif:3
+  label: veiled or screened sacred domestic space
+  taxonomy_refs: []
+  basis: Believers must request things from the prophet’s wives from behind a curtain,
+    and this is said to be purer for hearts.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference directly matches the curtain or seclusion
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29949-29957
+  quote_or_summary: Sale’s notes explain rules for dismissing women before consummation
+    and the treatment of dower and presents when no dower has been assigned.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 29969-29978
+  quote_or_summary: Sale’s notes state that no Moslem can legally marry above four
+    wives, while Mohammed is described as left at liberty to take as many as he pleased,
+    with restrictions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 29982-29988
+  quote_or_summary: The text permits the prophet to postpone or restore the turn of
+    wives, says the wives may be content, and states that God knows what is in hearts.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 29989-29992
+  quote_or_summary: The text says it is not lawful for the prophet to take other women
+    afterward or exchange wives, except for slaves possessed by his right hand, and
+    says God observes all things.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 29993-30001
+  quote_or_summary: True believers are told not to enter the prophet’s houses unless
+    permitted, to leave after eating, to speak to the prophet’s wives from behind
+    a curtain, not to trouble the apostle, and not to marry his wives after him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 30002-30004
+  quote_or_summary: The text states that whether people divulge or conceal a thing,
+    God knows all things.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif assignment
+    is cautious because the passage is primarily legal and etiquette-focused rather
+    than narrative-mythic. No comparison claims were made because the passage itself
+    does not supply an explicit comparative target.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were applied only where broadly supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l29949-l30004
+  passage_sha256=9fc468bb5132ff24a4f5a2fa51878b81e45c16c5fad802069a77ffa0dcb1fdbf

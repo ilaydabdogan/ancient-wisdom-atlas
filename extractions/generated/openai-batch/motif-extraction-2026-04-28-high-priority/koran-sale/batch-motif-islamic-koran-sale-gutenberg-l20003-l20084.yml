@@ -1,0 +1,483 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l20003-l20084
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER X. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XI. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 20003-20084
+  start: '20003'
+  end: '20084'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: that shall be a day, whereon all men shall be assembled
+  summary: The passage describes divine punishment of unjust cities, warns of the
+    Last Day when all people are assembled and judged, contrasts hell fire for the
+    miserable with paradise for the happy, recalls disputes over Moses's book of law
+    and the Koran, and exhorts steadfastness, avoidance of injustice, prayer, good
+    works, and patience.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that the invoked gods besides God gave no advantage when
+    the Lord's decree came to be executed.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Lord's punishment of unjust cities is described as grievous and severe.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage identifies a future day on which all men shall be assembled and
+    witness shall be borne.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: On that day no soul may speak in excuse or intercession except by God's permission.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage divides people into miserable and happy groups.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The miserable are thrown into hell fire and wail there.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The happy are admitted into paradise and receive uninterrupted bounty.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage says Moses was formerly given the book of the law and that disputes
+    arose among his people concerning it.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The addressed recipient and those converted with him are commanded to be steadfast
+    and not to transgress.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage commands regular prayer morning, evening, and in the former part
+    of the night, and states that good works drive away evils.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: GOD / LORD
+  description: The divine figure whose decree comes, who punishes, permits speech,
+    rewards works, protects, sees actions, and effects what he pleases.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: unjust cities / unjust people
+  description: Cities and people described as unjust and subject to severe punishment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: gods invoked besides God
+  description: Objects of invocation said to be of no advantage when the Lord's decree
+    came.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: all men / souls on the Last Day
+  description: All people are assembled; souls cannot speak except by God's permission.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the miserable
+  description: Those thrown into hell fire, where they wail and bemoan themselves.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: the happy
+  description: Those admitted into paradise and given uninterrupted bounty.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:7
+  name_or_label: Moses
+  description: Figure formerly given the book of the law.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Moses's people
+  description: People among whom disputes arose concerning the book of the law.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: addressed recipient and converts with him
+  description: The addressed party and those converted with him are told to be steadfast
+    and not to transgress.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine punisher and judge
+  assigned_to:
+  - fig:1
+  basis: The Lord's decree and punishment are executed; the Last Day occurs under
+    God's permission.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: rewarder of works
+  assigned_to:
+  - fig:1
+  basis: The passage says the Lord will render to everyone the reward of their works
+    and not let the reward of the righteous perish.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: protector and observer
+  assigned_to:
+  - fig:1
+  basis: The passage says there are no protectors except God and that he sees what
+    people do.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: punished unjust collective
+  assigned_to:
+  - fig:2
+  basis: The unjust cities are described as receiving severe divine punishment.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: ineffective invoked powers
+  assigned_to:
+  - fig:3
+  basis: The invoked gods besides God are said to be of no advantage and a detriment.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: assembled and judged humanity
+  assigned_to:
+  - fig:4
+  basis: All men are assembled on the day, and souls may not speak except by God's
+    permission.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: condemned group
+  assigned_to:
+  - fig:5
+  basis: The miserable are thrown into hell fire and wail there.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: blessed group
+  assigned_to:
+  - fig:6
+  basis: The happy are admitted into paradise and receive uninterrupted bounty.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: recipient of revealed law
+  assigned_to:
+  - fig:7
+  basis: Moses is said to have been given the book of the law.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: disputing community
+  assigned_to:
+  - fig:8
+  basis: Disputes arose among Moses's people concerning the book of the law.
+  evidence_refs:
+  - ev:4
+- id: role:11
+  label: exhorted believers
+  assigned_to:
+  - fig:9
+  basis: The addressed recipient and converts are commanded to be steadfast and avoid
+    transgression.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: hell fire
+  literal_form: fire of hell into which the miserable are thrown; fire that may touch
+    those who incline to the unjust
+  associated_figures:
+  - fig:5
+  - fig:9
+  taxonomy_refs:
+  - fire
+  - divine_judgment
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: paradise
+  literal_form: place into which the happy are admitted, with continuing bliss and
+    bounty
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Last Day assembly
+  literal_form: a determined day when all men are assembled and witness is borne
+  associated_figures:
+  - fig:4
+  - fig:1
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: book of the law and Koran
+  literal_form: revealed texts named as the book of the law given to Moses and the
+    Koran concerning which people are in doubt
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Punishment of unjust cities
+  summary: The passage says invoked gods failed to help when the Lord's decree came,
+    and that the Lord severely punished unjust cities.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Assembly and restriction of speech on the Last Day
+  summary: A future determined day is described when all men are assembled, witness
+    is borne, and souls may speak only by God's permission.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Separation into hell fire and paradise
+  summary: The miserable are thrown into hell fire, while the happy are admitted into
+    paradise with continuing bounty.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Disputed revelation and recompense
+  summary: Moses received the book of the law, disputes arose concerning it, people
+    are in doubt concerning the Koran, and the Lord will reward everyone's works.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Exhortation to steadfast prayer and good works
+  summary: The addressed recipient and converts are told to be steadfast, avoid unjust
+    people, pray at stated times, do good works, and persevere patiently.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine judgment of unjust cities and all souls
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage links punishment of unjust cities with a future Last Day when
+    all people are assembled, judged, and separated into misery or happiness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives theological judgment imagery but does not narrate a
+    full trial scene in detail.
+- id: motif:2
+  label: eschatological separation into hell fire and paradise
+  taxonomy_refs:
+  - divine_judgment
+  basis: The miserable are assigned to hell fire and the happy to paradise, each described
+    as enduring according to the Lord's will.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an outcome pattern rather than a journey or map of the afterlife.
+- id: motif:3
+  label: ineffective false gods at the moment of divine decree
+  taxonomy_refs:
+  - divine_judgment
+  basis: The gods invoked besides God are said to provide no advantage when the Lord's
+    decree is executed.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states the failure of invoked gods but does not provide a
+    separate mythic episode about them.
+- id: motif:4
+  label: revealed book disputed by a community
+  taxonomy_refs:
+  - wisdom
+  basis: Moses receives the book of the law, disputes arise among his people concerning
+    it, and the addressed community is described as doubtful concerning the Koran.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The wisdom taxonomy link is based on revealed instruction and dispute;
+    the passage does not explicitly personify Wisdom.
+- id: motif:5
+  label: ritual prayer and good works averting evils
+  taxonomy_refs: []
+  basis: The passage commands prayer at specified times and states that good works
+    drive away evils.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives ethical-religious instruction rather than a narrative
+    myth episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits the divine_judgment motif family through its sequence of
+    divine punishment, Last Day assembly, restricted intercession, and differentiated
+    destinies.
+  claim_level: same_motif
+  target: divine_judgment
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim compares only to the supplied taxonomy label, not to a specific
+    external text or historical transmission.
+- id: claim:2
+  claim: 'The passage uses fire with the same punitive function as a judgment symbol:
+    the miserable enter hell fire and the unjust are warned that fire may touch them.'
+  claim_level: same_function
+  target: fire as punitive judgment symbol
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage concerns hell fire, not world-destroying fire or a broader
+    fire myth.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20021-20027
+  quote_or_summary: Invoked gods besides God do not help when the Lord's decree comes;
+    the Lord's punishment of unjust cities is grievous and severe.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 20028-20035
+  quote_or_summary: The passage describes a determined Last Day when all men are assembled,
+    witness is borne, and no soul may speak except by God's permission; people are
+    divided into miserable and happy.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 20036-20044
+  quote_or_summary: The miserable are thrown into hell fire and wail; the happy are
+    admitted into paradise and receive uninterrupted bounty according to the Lord's
+    will.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 20045-20052
+  quote_or_summary: The passage says people worship what their fathers worshipped;
+    Moses was given the book of the law, disputes arose concerning it, people doubt
+    the Koran, and the Lord will reward works.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 20053-20060
+  quote_or_summary: The addressed recipient and converts are commanded to be steadfast,
+    avoid transgression and inclination toward the unjust, pray morning, evening,
+    and early night, do good works, and persevere patiently.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Core extraction is direct from the supplied English passage. Motif labels
+    are conservative and tied to supplied taxonomy where supported; broader comparative
+    claims are limited to motif-family/function alignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Opening footnotes about earlier material were not emphasized because the main passage-level motifs are judgment, afterlife recompense, revelation, and ethical exhortation.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l20003-l20084
+  passage_sha256=efeae3d3b48b1768508f73e452ac32d2ec5b608cfc61b2a2ecb7573b5d67d772

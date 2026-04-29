@@ -1,0 +1,303 @@
+---
+record_id: batch.motif.sufi-al-ghazzali-confessions-field-gutenberg-l1097-l1124
+source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+passage_locator:
+  label: THE DIFFERENT KINDS OF SEEKERS AFTER TRUTH / THE AIM OF SCHOLASTIC THEOLOGY
+    AND ITS RESULTS / DIVISIONS OF THE PHILOSOPHIC SCIENCES / SUFISM; lines 1097-1124
+  start: '1097'
+  end: '1124'
+  translation: The Confessions of Al Ghazzali
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a Sufi state revealed through ecstasy to the initiated,
+    or approached by obedience, attention, and association with Sufis. It distinguishes
+    three degrees: knowledge from proofs, transport by entering the state, and faith
+    through believing transmitted experience. It contrasts believers and knowers with
+    ignorant deniers whose hearts are described, via a Qur''anic citation, as sealed.
+    The narrator then introduces inspiration as a conviction learned through Sufi
+    practice.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A state is said to be revealed to the initiated in ecstasy.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One who is incapable of ecstasy may approach the state through obedience,
+    attention, and frequenting the society of Sufis.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The passage names three degrees: knowledge from proofs, transport by entering
+    the described state, and faith from believing others'' experience and oral transmission.'
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An ignorant crowd is described as denying the reality of Sufism and treating
+    its practitioners as charlatans.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A Qur'anic citation is used to describe some hearers as having hearts sealed
+    with blindness and following passions.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator says that practice of the Sufi rule has given him knowledge of
+    the true nature of inspiration.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the initiated
+  description: Those to whom the state can be revealed in ecstasy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: one incapable of ecstasy
+  description: A person who may approach an imitative initiation through obedience,
+    attention, and association with Sufis.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Sufis
+  description: The community whose society and rule are presented as beneficial for
+    faith, initiation, and knowledge of inspiration.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: ignorant crowd
+  description: People who deny the reality of Sufism, listen with incredulous irony,
+    and call its professed adherents charlatans.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: the narrator
+  description: The speaker who reports convictions owed to the practice of the Sufi
+    rule.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ecstatic recipient
+  assigned_to:
+  - fig:1
+  basis: The initiated are described as receiving revelation of the state in ecstasy.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: imitative initiate
+  assigned_to:
+  - fig:2
+  basis: The person incapable of ecstasy may arrive at an imitative initiation through
+    disciplined association with Sufis.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: spiritual community
+  assigned_to:
+  - fig:3
+  basis: Their society and rule are presented as means toward faith, initiation, and
+    knowledge of inspiration.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: denier of Sufism
+  assigned_to:
+  - fig:4
+  basis: The crowd denies Sufism's reality and treats its adherents as charlatans.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: testifying practitioner
+  assigned_to:
+  - fig:5
+  basis: The narrator testifies to knowledge gained from practicing the Sufi rule.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sealed heart with blindness
+  literal_form: hearts God has sealed up with blindness
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: three degrees of knowledge
+  literal_form: knowledge, transport, and faith as three named degrees
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Approach to the Sufi state
+  summary: The passage explains that the state may be revealed in ecstasy to initiates,
+    or approached by obedience, attention, and keeping company with Sufis.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Three degrees explained
+  summary: The passage distinguishes proof-based knowledge, entering the state as
+    transport, and faith based on transmitted experience.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Denial by the ignorant crowd
+  summary: The passage contrasts believers and knowers with an ignorant crowd that
+    denies Sufism and is described through a Qur'anic image of sealed hearts.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Knowledge of inspiration introduced
+  summary: The narrator states that Sufi practice has brought him knowledge of the
+    true nature of inspiration, which he will explain further.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: initiation through ecstasy and disciplined association
+  taxonomy_refs:
+  - initiation
+  - mystical_quest
+  basis: The passage explicitly refers to the initiated, ecstasy, obedience, attention,
+    Sufi society, and imitative initiation as ways of approaching the state.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is doctrinal and reflective rather than narrative myth; motif
+    assignment is based on explicit initiatory vocabulary.
+- id: motif:2
+  label: graded spiritual knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage distinguishes knowledge, transport, and faith as three degrees
+    and cites a scriptural ranking of those who believe and those who receive knowledge.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy has only broad wisdom terminology; the passage
+    gives a theological epistemology rather than a mythic episode.
+- id: motif:3
+  label: inspiration gained through spiritual practice
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The narrator says he owes knowledge of the true nature of inspiration to
+    the practice of the Sufi rule.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The details of inspiration are announced but not yet expounded within
+    this passage.
+- id: motif:4
+  label: spiritual blindness of deniers
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts believers and knowers with an ignorant crowd whose
+    hearts are described as sealed with blindness and governed by passions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The duality is ethical and epistemological; no independent mythic antagonist
+    is introduced.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1097-1102
+  quote_or_summary: The state can be revealed to the initiated in ecstasy; those incapable
+    of ecstasy may reach an imitative initiation by obedience, attention, and frequenting
+    Sufi society.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1104-1113
+  quote_or_summary: The passage distinguishes certitude from proofs as knowledge,
+    passing into the state as transport, and believing transmitted experience as faith;
+    it cites the Qur'an on ranks of believers and those given knowledge.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1115-1118
+  quote_or_summary: An ignorant crowd is described as denying Sufism, hearing discourse
+    on it with incredulous irony, and treating its professors as charlatans.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: quote
+  locator: lines 1118-1122
+  quote_or_summary: "“hearts God has sealed up with blindness”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 1123-1124
+  quote_or_summary: The narrator says that, among convictions owed to the practice
+    of the Sufi rule, he has knowledge of the true nature of inspiration and will
+    explain it in detail.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are broad because
+    the passage is theological exposition rather than a narrative mythic scene. No
+    comparison claims are made because the passage itself does not support a direct
+    comparative claim beyond internal Sufi and Qur'anic framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Available symbol taxonomy terms such as cave, fire, milk, mountain, serpent, tree, and water are not present in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-al-ghazzali-confessions-field-gutenberg__l1097-l1124
+  passage_sha256=cfc3c32b455fc6ff69b9eea6e75678089b86e1f633c9d560f1cc774de495d532

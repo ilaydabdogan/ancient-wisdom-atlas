@@ -1,0 +1,236 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l21470-l21482
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XIII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XIV. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 21470-21482
+  start: '21470'
+  end: '21482'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Translator notes explain possible meanings of a statement about not tasting
+    death or not being raised to judgment after death; identify the Adites and Thamdites
+    as referenced peoples; note histories, monuments, and traditions about judgments
+    that befell them; and describe a Muslim expectation that at the last day the earth
+    and heavens will be transformed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The note gives two possible explanations: continuing in the world forever
+    without tasting death, or not being raised to judgment after death.'
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Adites and Thamdites are identified as the peoples meant in the note.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note mentions histories revealed in the Koran, remaining monuments, houses
+    of the Thamdites, and traditions about terrible judgments that befell those peoples.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note states that Muslims suppose an event will occur at the last day,
+    when the earth becomes white and even, or according to some, silver, and the heavens
+    become gold.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Adites
+  description: A people identified in the note and associated with remembered terrible
+    judgments.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Thamdites
+  description: A people identified in the note; their houses are mentioned among remaining
+    monuments, and they are associated with remembered terrible judgments.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Muslims
+  description: The note attributes to Muslims a supposition about what will happen
+    at the last day.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: peoples who suffered remembered judgments
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The note links these peoples with histories, monuments, traditions, and terrible
+    judgments that befell them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: believers in last-day transformation
+  assigned_to:
+  - fig:3
+  basis: The note says Muslims suppose the last-day transformation will occur.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: earth transformed at the last day
+  literal_form: earth becoming white and even, or of silver
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: heavens transformed at the last day
+  literal_form: heavens of gold
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: remaining monuments of judged peoples
+  literal_form: monuments remaining, including houses of the Thamdites
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Death and postmortem judgment explained
+  summary: A note interprets the passage as referring either to not dying and continuing
+    in this world forever, or to not being raised to judgment after death.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Judged ancient peoples remembered
+  summary: The Adites and Thamdites are identified as the peoples in view, with histories,
+    monuments, houses, and traditions preserving memory of judgments that befell them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Last-day transformation of earth and heavens
+  summary: The note reports a Muslim expectation that at the last day the earth and
+    heavens will be altered in color, surface, or substance.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: resurrection to judgment after death
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: The note explicitly mentions being raised to judgment after death as one
+    possible interpretation.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a translator's explanatory note rather than a continuous narrative
+    episode.
+- id: motif:2
+  label: ancient peoples as examples of divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The note identifies the Adites and Thamdites and refers to traditions of
+    terrible judgments that befell them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage summarizes remembered judgments but does not narrate the judgments
+    themselves.
+- id: motif:3
+  label: last-day cosmic transformation
+  taxonomy_refs:
+  - divine_judgment
+  basis: The note connects the last day with transformation of the earth and heavens.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage reports an exegetical supposition and gives variant descriptions;
+    it does not give a full eschatological sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21470-21471
+  quote_or_summary: The note explains a phrase as meaning either not tasting death
+    and continuing forever in this world, or not being raised to judgment after death.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: line 21472
+  quote_or_summary: The note identifies the referenced peoples as the Adites and Thamdites.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 21473-21476
+  quote_or_summary: The note refers to Koranic histories, remaining monuments such
+    as houses of the Thamdites, and traditions of terrible judgments that befell those
+    peoples.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 21477-21479
+  quote_or_summary: The note says Muslims suppose that at the last day the earth will
+    become white and even, or silver according to some, and the heavens gold.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: citation
+  locator: lines 21481-21482
+  quote_or_summary: The notes cite Al Zamakhshari, Yahya, and a preliminary discourse
+    section.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; citation summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage consists of translator footnotes and citations, not a primary
+    narrative passage; motifs are extracted from the explanatory content only.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make a comparative claim beyond internal exegetical explanation.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l21470-l21482
+  passage_sha256=7d9152e33eb5d4b17045e66e2f8b00cd986fc35c0844ba89bc4b79a89191dcf0

@@ -1,0 +1,495 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l20212-l20234
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XI. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XII. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 20212-20234
+  start: '20212'
+  end: '20234'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Joseph is placed at the bottom of a well by his companions, receives a
+    divine revelation that he will later confront them, and his brothers return to
+    Jacob with a false story that a wolf devoured him, presenting Joseph's garment
+    stained with false blood. Travellers later draw water, discover Joseph, conceal
+    him as merchandise, and sell him cheaply. An Egyptian buyer tells his wife to
+    treat Joseph well, possibly as a servant or adopted son, while the passage states
+    that God established Joseph and taught him the interpretation of dark sayings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Joseph is set at the bottom of a well after others agree on that plan.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A revelation is sent to Joseph saying he will later declare this action to
+    them while they do not perceive him to be Joseph.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The brothers come to their father in the evening weeping.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The brothers say they were racing, left Joseph with their baggage, and that
+    a wolf devoured him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The brothers produce Joseph's inner garment stained with false blood.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Jacob rejects the brothers' account as contrived and says patience and God's
+    assistance are needed.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Travellers send someone to draw water, and the water-drawer lets down a bucket.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The water-drawer announces that the found person is a youth.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The travellers conceal Joseph in order to sell him as merchandise.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Joseph is sold for a mean price described as a few pence and valued lightly.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The Egyptian buyer tells his wife to use Joseph honourably, with the possibility
+    that he may be useful or adopted as a son.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The passage states that God prepared an establishment for Joseph and taught
+    him the interpretation of dark sayings.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Joseph
+  description: The youth placed in the well, later found, concealed, sold, bought
+    by an Egyptian, and taught the interpretation of dark sayings.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Joseph's brothers / those who carried him
+  description: Those who carry Joseph away, set him at the bottom of the well, return
+    to their father weeping, claim a wolf devoured Joseph, and present false blood
+    on his garment.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Jacob / father
+  description: Joseph's father, who hears the brothers' report and says they have
+    contrived the matter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: God
+  description: The divine sender of revelation, helper invoked by Jacob, knower of
+    what the travellers did, and the one who establishes Joseph and teaches him interpretation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Certain travellers
+  description: Travellers who send a person to draw water, conceal Joseph, and sell
+    him as merchandise.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Water-drawer
+  description: The one sent by the travellers to draw water, who lets down a bucket
+    and finds Joseph.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Egyptian buyer
+  description: The Egyptian who buys Joseph and tells his wife to use him honourably.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Egyptian buyer's wife
+  description: The wife addressed by the Egyptian buyer concerning Joseph's treatment
+    and possible usefulness or adoption.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: abandoned youth
+  assigned_to:
+  - fig:1
+  basis: Joseph is set at the bottom of a well and later discovered as a youth.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: kin betrayers
+  assigned_to:
+  - fig:2
+  basis: They carry Joseph away, agree to put him in the well, and execute the plan.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: deceptive messengers
+  assigned_to:
+  - fig:2
+  basis: They return weeping with a story about a wolf and present false blood on
+    Joseph's garment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: skeptical grieving father
+  assigned_to:
+  - fig:3
+  basis: Jacob rejects the brothers' report as contrived and invokes patience and
+    God's assistance.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine revealer and guide
+  assigned_to:
+  - fig:4
+  basis: God sends revelation, knows what is done, prepares Joseph's establishment,
+    and teaches interpretation.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:6
+  label: recipient of interpretive knowledge
+  assigned_to:
+  - fig:1
+  basis: The passage says Joseph is taught the interpretation of dark sayings.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: concealers and sellers
+  assigned_to:
+  - fig:5
+  basis: The travellers conceal Joseph so that they might sell him, and he is sold
+    for a small price.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: discoverer at the well
+  assigned_to:
+  - fig:6
+  basis: The water-drawer lets down the bucket and announces the discovery of a youth.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: buyer and household patron
+  assigned_to:
+  - fig:7
+  basis: The Egyptian buys Joseph and instructs his wife to treat him honourably.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: household recipient of instruction
+  assigned_to:
+  - fig:8
+  basis: The buyer's wife is instructed to use Joseph honourably.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: well
+  literal_form: bottom of the well
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: water-drawing
+  literal_form: water, bucket, and drawing from the well
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: false blood-stained garment
+  literal_form: inner garment stained with false blood
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: claimed wolf attack
+  literal_form: the brothers' statement that a wolf devoured Joseph
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: cheap sale price
+  literal_form: mean price, a few pence
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: dark sayings
+  literal_form: interpretation of dark sayings
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Joseph placed in the well and given revelation
+  summary: Joseph is carried away, set at the bottom of the well, and receives a revelation
+    that he will later declare the action to those responsible.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Brothers report a false death to Jacob
+  summary: The brothers return at evening weeping, claim that a wolf devoured Joseph
+    while they were racing, and show a garment stained with false blood; Jacob rejects
+    their account as contrived.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Travellers discover and sell Joseph
+  summary: Travellers send a water-drawer, who lowers a bucket and finds Joseph; the
+    travellers conceal him as merchandise and sell him cheaply.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Joseph enters the Egyptian household
+  summary: An Egyptian buyer instructs his wife to treat Joseph honourably, perhaps
+    because he may be useful or adopted, and the passage states that God establishes
+    Joseph and teaches him interpretation.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: kin betrayal and abandonment in a pit or well
+  taxonomy_refs: []
+  basis: Joseph is carried away by his brothers or companions and set at the bottom
+    of a well.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not explicitly supply a standardized motif name; the
+    label is descriptive.
+- id: motif:2
+  label: false token of death
+  taxonomy_refs: []
+  basis: The brothers claim a wolf devoured Joseph and present his garment stained
+    with false blood.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The blood and wolf are part of the brothers' deception rather than an
+    actual death scene.
+- id: motif:3
+  label: hidden youth discovered through water drawing
+  taxonomy_refs: []
+  basis: Travellers draw water with a bucket and discover Joseph as a youth in the
+    well.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage describes discovery and rescue-like removal, but also concealment
+    and sale.
+- id: motif:4
+  label: sale of the abandoned youth as merchandise
+  taxonomy_refs: []
+  basis: The travellers conceal Joseph in order to sell him and he is sold for a small
+    price.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the available taxonomy
+    does not include a direct trade or enslavement motif.
+- id: motif:5
+  label: divinely guided rise through interpretive wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that God prepares Joseph's establishment and teaches him
+    the interpretation of dark sayings.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The later rise is only introduced here; this passage does not narrate
+    the full outcome.
+- id: motif:6
+  label: providential preservation after betrayal
+  taxonomy_refs: []
+  basis: After Joseph is abandoned, the passage includes revelation to him, God's
+    knowledge of events, and God's later establishment of him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The preservation pattern is inferred from the sequence within the passage
+    and should be reviewed against the broader chapter.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20212-20215
+  quote_or_summary: Joseph is carried away, placed at the bottom of a well, and receives
+    a revelation that he will later declare the deed to those responsible.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 20216-20220
+  quote_or_summary: The brothers come to their father at evening weeping and claim
+    that a wolf devoured Joseph while they were racing and had left him with their
+    baggage.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 20221-20224
+  quote_or_summary: They produce Joseph's inner garment stained with false blood;
+    Jacob says they have contrived the matter and invokes patience and God's assistance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 20225-20229
+  quote_or_summary: Travellers send someone to draw water; he lowers a bucket, finds
+    a youth, and the travellers conceal Joseph so they may sell him as merchandise,
+    while God knows what they do.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 20230-20231
+  quote_or_summary: Joseph is sold for a mean price, described as a few pence, and
+    valued lightly.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 20232-20234
+  quote_or_summary: The Egyptian buyer tells his wife to treat Joseph honourably,
+    perhaps because he may be useful or adopted; the passage says God establishes
+    Joseph and teaches him interpretation of dark sayings.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for the supplied passage. Motif labels are descriptive
+    and should be human-reviewed, especially where no direct taxonomy reference is
+    available. No comparison claims were made because the passage itself does not
+    support a direct comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. Footnote marker letters in the source were treated as non-substantive markers unless part of the visible passage wording.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l20212-l20234
+  passage_sha256=1abbb3a7be99f1019b15d9e83fd9e142342653450a71bc41ffd89acc452c763b

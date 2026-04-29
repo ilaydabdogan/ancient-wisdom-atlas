@@ -1,0 +1,215 @@
+---
+record_id: batch.motif.sufi-al-ghazzali-confessions-field-gutenberg-l1548-l1586
+source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+passage_locator:
+  label: THE ORIENT LIBRARY / THE WISDOM OF THE EAST SERIES / WISDOM OF THE EAST SERIES
+    / SOME OPINIONS OF THE PRESS; lines 1548-1586
+  start: '1548'
+  end: '1586'
+  translation: The Confessions of Al Ghazzali
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A paratextual section titled “Some Opinions of the Press” lists short newspaper
+    and periodical endorsements of the Wisdom of the East Series, emphasizing its
+    interest, accessibility, value for studying Eastern literature and philosophy,
+    and contribution to spiritual, moral, and intellectual renewal.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a collection of press opinions about a book series rather than
+    a narrative episode from Al Ghazzali’s text.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several periodicals praise the series as interesting, charming, affordable,
+    accessible, or worthy of study.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The Outlook describes the series as helping renew the spiritual and moral
+    life of the West.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The Southport Guardian connects the series with students of Eastern Literature
+    and Eastern Philosophy.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The Bristol Mercury commends the books to readers who think worthwhile knowledge
+    exists only outside neither Europe nor America, thereby contrasting European-American
+    and non-European knowledge contexts.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Wisdom of the East Series
+  description: A series of books discussed and praised by the press notices.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Press periodicals
+  description: Named newspapers and periodicals, including The Athenæum, Pall Mall
+    Gazette, Manchester Courier, Outlook, Southport Guardian, Bristol Mercury, Glasgow
+    Herald, Field, and Irish Times, offer opinions on the series.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Students or readers of Eastern literature and philosophy
+  description: A readership identified as likely to value or study the series.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: praised publication series
+  assigned_to:
+  - fig:1
+  basis: The press notices repeatedly evaluate and commend the series and its books.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: commenting reviewers
+  assigned_to:
+  - fig:2
+  basis: The named periodicals provide quoted opinions on the books or series.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: intended or interested readership
+  assigned_to:
+  - fig:3
+  basis: The passage names students of Eastern literature and philosophy and readers
+    interested in knowledge beyond Europe and America.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Press endorsements of a wisdom-oriented book series
+  summary: A sequence of press quotations praises the Wisdom of the East Series for
+    its literary interest, intellectual value, accessibility, and role in presenting
+    Eastern thought to Western readers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Wisdom and cross-cultural learning
+  taxonomy_refs:
+  - wisdom
+  basis: The passage frames the series around Eastern thought, Eastern literature
+    and philosophy, knowledge beyond Europe and America, and the renewal of spiritual
+    and moral life.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: This is a promotional paratext and not a mythic narrative passage; the
+    motif is thematic and editorial rather than narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1548-1551
+  quote_or_summary: The section is headed “Some Opinions of the Press” and begins
+    with periodical endorsements, including The Athenæum’s favorable description of
+    the books.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: 1553-1560
+  quote_or_summary: Pall Mall Gazette notes the importance of the work and Manchester
+    Courier recommends close study for those seeking Eastern thought and feeling;
+    Literary Guide wishes success to the series.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: 1564-1577
+  quote_or_summary: The Scotsman, Glasgow Herald, Field, and Irish Times praise the
+    series or volumes as suitable for studious readers, valuable, stimulating, interesting,
+    charming, low-priced, and excellent in matter.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: quote
+  locator: 1561-1563
+  quote_or_summary: "“This Series is published to help in the process of renewing
+    the spiritual and moral life of the West.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; brief quote used.
+- id: ev:5
+  type: quote
+  locator: 1567-1569
+  quote_or_summary: "“This Series will find considerable favour with all Students
+    of Eastern Literature and Eastern Philosophy.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; brief quote used.
+- id: ev:6
+  type: quote
+  locator: 1570-1572
+  quote_or_summary: "“We commend these little books to all who imagine that there
+    is no knowledge worth having outside Europe and America.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; brief quote used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif relevance is low because
+    the passage is non-narrative promotional material. No comparison claims are made
+    because the passage itself does not support comparative mythological linkage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No mythic figures, mythic symbols, or narrative myth-patterns are present in this paratextual press-notice passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-al-ghazzali-confessions-field-gutenberg__l1548-l1586
+  passage_sha256=be316aa5a1013eb2cd4d5296cae73381fabb6a95ca8cf90a9aa8bb04ef7986da

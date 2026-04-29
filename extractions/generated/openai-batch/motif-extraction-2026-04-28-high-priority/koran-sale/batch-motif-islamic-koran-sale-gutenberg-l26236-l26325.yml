@@ -1,0 +1,537 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l26236-l26325
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, THE TRUE BELIEVERS; REVEALED AT MECCA. / IN THE NAME OF THE MOST
+    MERCIFUL GOD. / CHAPTER XXIV. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 26236-26325
+  start: '26236'
+  end: '26325'
+  translation: The Koran (Al-Qur'an), Sale translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens Sura XXIV as a revelation with evident signs, then gives
+    legal prescriptions concerning sexual misconduct, public punishment, marriage
+    restrictions, accusations of unchastity, witness requirements, repentance, and
+    a procedure of reciprocal oaths when a husband accuses his wife without witnesses.
+    It closes this section by invoking God's indulgence, mercy, readiness to be reconciled,
+    and wisdom.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Sura is described as sent down from heaven, ratified, and containing evident
+    signs for warning.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A whore and whoremonger are prescribed one hundred stripes, with compassion
+    not to prevent execution of God's judgment.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Some true believers are directed to witness the punishment.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Marriage between believers and persons identified as harlots, whoremongers,
+    idolaters, or idolatresses is restricted or forbidden in the passage.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Those who accuse reputable women of whoredom without producing four witnesses
+    are prescribed eighty stripes and loss of accepted testimony.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Repentance and amendment are given as an exception for those punished for
+    accusation, with God described as gracious and merciful toward them.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A husband who accuses his wife without witnesses must swear four times by
+    God that he speaks truth and a fifth time invoke God's curse if he lies.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A wife may avert punishment by swearing four times by God that her husband
+    lies and a fifth time invoking God's wrath on herself if he speaks truth.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage states that without God's indulgence and mercy, crimes would be
+    immediately discovered.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A footnote says the public character of punishment increases its ignominy
+    and is considered more likely to reform the offender.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine source of the Sura, judgment, mercy, curse, wrath, reconciliation,
+    and wisdom in the passage.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: true believers
+  description: The community addressed as believers; some are to witness punishment
+    and the marriage rule is said to be forbidden to them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: whore and whoremonger
+  description: Persons named as offenders subject to one hundred stripes and marriage
+    restrictions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: harlot, idolater, and idolatress
+  description: Persons named in the marriage restriction concerning whoremongers and
+    harlots.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: women of reputation
+  description: Persons protected by the rule requiring accusers to produce four witnesses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: accusers of whoredom
+  description: Persons who accuse reputable women and are punished if they fail to
+    produce four witnesses.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: husband accusing his wife
+  description: A husband who accuses his wife without witnesses and must testify by
+    repeated oaths.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: accused wife
+  description: A wife who may avert punishment through repeated oaths and an imprecation
+    formula.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: witnesses
+  description: Witnesses required either for public punishment or as four witnesses
+    to an accusation.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: divine lawgiver and judge
+  assigned_to:
+  - fig:1
+  basis: The Sura is sent down from heaven, and execution of punishment is called
+    the judgment of God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: merciful and reconciling deity
+  assigned_to:
+  - fig:1
+  basis: God is described as gracious, merciful, indulgent, easy to be reconciled,
+    and wise.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: believing community and public witnesses
+  assigned_to:
+  - fig:2
+  basis: True believers are addressed and some are to witness punishment.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: sexual offender subject to corporal punishment
+  assigned_to:
+  - fig:3
+  basis: The whore and whoremonger are prescribed one hundred stripes.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: restricted marriage partner
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage states that the whoremonger shall marry only a harlot or idolatress,
+    and a harlot only a whoremonger or idolater, while forbidding this to true believers.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: protected reputation-holder
+  assigned_to:
+  - fig:5
+  basis: Women of reputation are protected by requirements for witnesses and penalties
+    against unsupported accusation.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: slanderer or failed accuser
+  assigned_to:
+  - fig:6
+  basis: Accusers who do not produce four witnesses are scourged and their testimony
+    is rejected.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: oath-taking accuser-spouse
+  assigned_to:
+  - fig:7
+  basis: A husband without witnesses must swear four times and make a fifth imprecation.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: oath-taking accused spouse
+  assigned_to:
+  - fig:8
+  basis: The wife may avert punishment through four counter-oaths and a fifth imprecation.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: legal witness
+  assigned_to:
+  - fig:9
+  basis: Witnesses are required for public punishment and for substantiating accusations.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: light
+  literal_form: The chapter title 'Light' and a footnote describing an allegorical
+    comparison between light and God or faith in him.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: four witnesses
+  literal_form: The number four attached to the witnesses required to substantiate
+    an accusation of whoredom.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: four oaths and fifth imprecation
+  literal_form: 'A repeated oath sequence: four sworn declarations by God followed
+    by a fifth invocation of divine curse or wrath.'
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: public punishment
+  literal_form: Scourging witnessed by members of the believing community.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Revelation and warning
+  summary: The Sura is introduced as sent down from heaven, ratified, and containing
+    evident signs so that the audience may be warned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Public punishment for sexual misconduct
+  summary: The passage prescribes one hundred stripes for a whore and whoremonger,
+    insists that compassion not prevent execution of God's judgment, and requires
+    some true believers to witness the punishment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Marriage restriction
+  summary: The passage restricts the marriage partners of whoremongers and harlots
+    and forbids this kind of marriage to true believers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Accusation and witness requirement
+  summary: Accusers of reputable women must produce four witnesses; without them they
+    are punished, lose accepted testimony, and are called infamous prevaricators,
+    with an exception for repentance and amendment.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:9
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Reciprocal spousal oaths
+  summary: When a husband accuses his wife without witnesses, he must swear four times
+    and invoke God's curse a fifth time; the wife may avert punishment by four counter-oaths
+    and a fifth invocation of God's wrath.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Divine mercy and hidden crimes
+  summary: The passage states that God's indulgence and mercy prevent the immediate
+    discovery of crimes and describes God as easy to be reconciled and wise.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine judgment enacted through communal law
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage frames punishment for sexual misconduct as execution of God's
+    judgment, with believers commanded not to let compassion prevent it.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is primarily legal and ritual-prescriptive rather than narrative
+    mythology.
+- id: motif:2
+  label: public witness to punishment
+  taxonomy_refs: []
+  basis: Punishment is to be witnessed by true believers, and the footnote emphasizes
+    public infliction and ignominy.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a juridical pattern; no broader mythic taxonomy reference is supplied.
+- id: motif:3
+  label: oath ordeal under divine curse or wrath
+  taxonomy_refs:
+  - divine_judgment
+  basis: In the absence of witnesses, husband and wife each invoke God in a fixed
+    sequence of oaths, with a final imprecation of curse or wrath.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage presents a legal oath procedure; labeling it an ordeal-like
+    motif is interpretive and should be reviewed.
+- id: motif:4
+  label: divine mercy moderating judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage links punishment and accusation procedures with statements that
+    God is gracious, merciful, indulgent, reconciling, and wise.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The motif is theological rather than narrative; extraction is based on
+    explicit divine attributes in the passage.
+- id: motif:5
+  label: light as divine or faith allegory
+  taxonomy_refs: []
+  basis: The chapter title is Light, and a footnote states that the title comes from
+    an allegorical comparison between light and God or faith in him.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The actual allegorical comparison is not included in this line range;
+    the evidence is the title and translator's note only.
+comparison_claims:
+- id: claim:1
+  claim: A translator's note compares the scourging prescription with the Sonna, stating
+    that adultery by married free persons is punished by stoning there.
+  claim_level: same_function
+  target: Sonna rule on adultery punishment
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is drawn from the supplied translator's note, not from
+    an independent analysis of the Sonna; it concerns legal function, not necessarily
+    a shared mythic motif.
+- id: claim:2
+  claim: Translator's notes connect the witness requirement and related legal rulings
+    with earlier internal cross-references to chapter 4.
+  claim_level: same_function
+  target: Internal Qur'anic legal cross-reference to chapter 4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The supplied passage gives only brief note references and does not
+    quote the compared chapter 4 passages.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 26236-26247 and note m within supplied range
+  quote_or_summary: Chapter XXIV is entitled Light and revealed at Medina; the Sura
+    is said to be sent down from heaven with evident signs for warning. Note m says
+    the title derives from an allegorical comparison between light and God or faith.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 26248-26253 within supplied range
+  quote_or_summary: The whore and whoremonger are to receive one hundred stripes;
+    compassion must not prevent execution of God's judgment; some true believers are
+    to witness their punishment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:3
+  type: summary
+  locator: notes n-p within supplied range
+  quote_or_summary: Translator's notes say the rule does not apply to free married
+    people under the Sonna, where adultery is punished by stoning; they also explain
+    that public punishment increases ignominy and may reform the offender.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines after notes n-p within supplied range
+  quote_or_summary: The whoremonger is to marry only a harlot or idolatress, and a
+    harlot only a whoremonger or idolater; this kind of marriage is forbidden to true
+    believers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:5
+  type: summary
+  locator: accusation of women of reputation section within supplied range
+  quote_or_summary: Those who accuse women of reputation and do not produce four witnesses
+    are to receive eighty stripes and have their testimony rejected, except those
+    who repent and amend, for whom God is gracious and merciful.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:6
+  type: summary
+  locator: spousal accusation oath section within supplied range
+  quote_or_summary: A husband accusing his wife without witnesses must swear four
+    times by God that he speaks truth and a fifth time invoke God's curse if he lies;
+    the wife averts punishment by four oaths that he lies and a fifth invocation of
+    God's wrath if he speaks truth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:7
+  type: summary
+  locator: verse marked 10 within supplied range
+  quote_or_summary: The passage states that, were it not for God's indulgence and
+    mercy, he would immediately discover crimes; God is described as easy to be reconciled
+    and wise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:8
+  type: summary
+  locator: note q within supplied range
+  quote_or_summary: A translator's note says the marriage passage was revealed concerning
+    poorer Mohjerins or refugees who sought to marry captives described as whores
+    of the infidels for financial gain; the note records differing views about whether
+    the rule was special or general.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:9
+  type: summary
+  locator: note t within supplied range
+  quote_or_summary: A translator's note explains that reciprocal oaths remove the
+    respective penalties of slander and adultery, though the marriage is considered
+    void or to be voided by a judge.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal legal procedures are explicit. Motif labels are cautious because
+    the passage is mostly juridical and theological, not narrative myth. Comparison
+    claims rely only on translator's notes present in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources used. Available taxonomy references were applied only where directly supportable from the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l26236-l26325
+  passage_sha256=95c06f36c60addf07f0f1c00c49bba88c6f4a2a96287cf2e40ebdab9cfa983ad

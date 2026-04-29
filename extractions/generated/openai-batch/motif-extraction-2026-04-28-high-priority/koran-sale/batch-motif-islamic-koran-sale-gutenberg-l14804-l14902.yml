@@ -1,0 +1,625 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l14804-l14902
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER V. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VI. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 14804-14902
+  start: '14804'
+  end: '14902'
+  translation: The Koran (Al-Qur'an), Sale translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes divine response, resurrection, demands for signs,
+    animals as communities under divine decree, rejection of signs, punishment and
+    the hour of resurrection, nations tested by adversity and prosperity, sudden destruction
+    of the wicked, God’s power over hearing, sight, and hearts, and messengers who
+    announce good tidings and threats. Notes add interpretive traditions about personified
+    evil works, the term 'hour,' and animal resurrection and judgment.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: God gives a favorable answer to those who hearken, raises the dead, and all
+    return to him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The infidels ask for a sign to be sent down from the Lord; the answer states
+    that God is able to send a sign, but many do not know.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: Beasts on earth and birds that fly are described as peoples like humans, with
+    nothing omitted from the book of decrees, and they return to their Lord.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: A note states that irrational animals will be restored to life at the resurrection
+    for judgment concerning injuries done to one another.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: Those who accuse the signs of falsehood are described as deaf, dumb, and walking
+    in darkness; God leads whom he pleases into error or the right way.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: When God’s punishment or the hour of resurrection comes, the addressed people
+    are told they will call on God and forget what they associated with him.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: Messengers were sent to former nations, which were afflicted with trouble
+    and adversity so that they might humble themselves.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: When affliction came, the nations did not humble themselves; their hearts
+    hardened, and Satan prepared their deeds for them.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: After admonition was forgotten, the gates of all things were opened to the
+    nations; while rejoicing in what they received, they were suddenly seized with
+    despair, and the wicked were cut off.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage asks who besides God could restore hearing, sight, and hearts
+    if God took them away and sealed the hearts.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Messengers are described as bearing good tidings and denouncing threats; those
+    who believe and amend will have no fear and will not be grieved.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: A note describes an infidel’s evil works appearing after the grave as an ugly,
+    foul-smelling, disagreeable-voiced figure that mounts and rides him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine actor who answers, raises the dead, sends or withholds signs,
+    guides or leads into error, punishes, restores or removes faculties, and sends
+    messengers.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:10
+  - ev:11
+- id: fig:2
+  name_or_label: Infidels / those who accuse the signs of falsehood
+  description: People who demand a sign, accuse signs of falsehood, are described
+    as deaf and dumb in darkness, and are addressed concerning punishment and resurrection.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Beasts and fowl
+  description: Animals on earth and birds flying with wings, described as peoples
+    like humans and returning to their Lord.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Messengers
+  description: Envoys sent to nations, bearing good tidings and denouncing threats.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:11
+- id: fig:5
+  name_or_label: Sundry nations / wicked people
+  description: Former peoples who received messengers, experienced adversity, did
+    not humble themselves, rejoiced in plenty, and were suddenly seized and cut off
+    when wicked.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: Satan
+  description: A being said to have prepared for the nations what they committed after
+    their hearts became hardened.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Those who believe and amend
+  description: People for whom no fear will come and who will not be grieved.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:11
+- id: fig:8
+  name_or_label: Personified evil works
+  description: In a note, an infidel’s evil works are represented after the grave
+    as an ugly figure that speaks and then rides upon him.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: raiser of the dead
+  assigned_to:
+  - fig:1
+  basis: The passage says God will raise the dead and they will return to him.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: divine judge and punisher
+  assigned_to:
+  - fig:1
+  basis: The passage speaks of God’s punishment, resurrection, sudden seizure of wicked
+    peoples, and final return to the Lord.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:9
+- id: role:3
+  label: sender of messengers and signs
+  assigned_to:
+  - fig:1
+  basis: God is said to be able to send a sign and to send messengers with good tidings
+    and threats.
+  evidence_refs:
+  - ev:3
+  - ev:11
+- id: role:4
+  label: rejecters of signs
+  assigned_to:
+  - fig:2
+  basis: They demand a sign, accuse signs of falsehood, and are described as turning
+    aside.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:10
+- id: role:5
+  label: nonhuman communities subject to return and judgment
+  assigned_to:
+  - fig:3
+  basis: Beasts and birds are called peoples like humans and are said in the note
+    to be restored at resurrection for judgment.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: warners and bearers of good tidings
+  assigned_to:
+  - fig:4
+  basis: Messengers are described as bearing good tidings and denouncing threats.
+  evidence_refs:
+  - ev:11
+- id: role:7
+  label: tested and punished nations
+  assigned_to:
+  - fig:5
+  basis: Former nations were afflicted to humble them, then given plenty, seized in
+    despair, and the wicked were cut off.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:8
+  label: tempter or deed-adorned influence
+  assigned_to:
+  - fig:6
+  basis: Satan prepared for the hardened nations what they committed.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: righteous recipients of reassurance
+  assigned_to:
+  - fig:7
+  basis: Those who believe and amend are told no fear will come on them and they will
+    not be grieved.
+  evidence_refs:
+  - ev:11
+- id: role:10
+  label: embodied burden of wrongdoing
+  assigned_to:
+  - fig:8
+  basis: The note says evil works take a hideous form, identify themselves, and ride
+    upon the infidel.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: the hour of resurrection
+  literal_form: the hour when resurrection or divine punishment comes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  evidence_refs:
+  - ev:7
+  - ev:12
+- id: sym:2
+  label: book of decrees
+  literal_form: a book in which nothing is omitted
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: darkness
+  literal_form: walking in darkness
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: sealed hearts
+  literal_form: hearts sealed up by God
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:5
+  label: gates of all things
+  literal_form: opened gates of all things, associated in the note with plenty
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: personified evil works
+  literal_form: ugly, foul-smelling, disagreeable-voiced figure representing evil
+    deeds
+  associated_figures:
+  - fig:8
+  - fig:2
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Resurrection and return to God
+  summary: God answers those who hearken, raises the dead, and all return to him.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Demand for a sign
+  summary: The infidels say they will not believe unless a sign is sent down; the
+    answer states God can send a sign, but many do not know.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Animals as communities under decree
+  summary: Beasts and birds are described as peoples like humans, included in the
+    book of decrees, returning to their Lord, with a note on animal resurrection and
+    judgment.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Calling on God at punishment or resurrection
+  summary: When divine punishment or the hour of resurrection comes, the people are
+    told they will call on God and forget associated objects of worship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Former nations tested, enriched, and seized
+  summary: Messengers are sent to nations; affliction fails to humble them, Satan
+    adorns their actions, abundance is opened to them, and they are suddenly seized
+    in despair while the wicked are cut off.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Removal and restoration of faculties
+  summary: The passage asks who besides God could restore hearing, sight, and hearts
+    if God removed or sealed them, while signs are shown in various ways.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: scene:7
+  label: Messengers announce outcomes
+  summary: Messengers bear good tidings and threats; those who believe and amend are
+    promised absence of fear and grief.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:11
+- id: scene:8
+  label: Evil works become a burdening figure
+  summary: A note describes the infidel after the grave encountering his evil works
+    as a hideous figure that speaks, mounts him, and makes him carry it.
+  figure_refs:
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment after rejection of signs
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage links rejection of signs, the hour of resurrection, punishment,
+    sudden seizure of wicked peoples, and final return to God.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The passage is doctrinal and admonitory; motif labeling should not flatten
+    theological context.
+- id: motif:2
+  label: Resurrection and return to the divine
+  taxonomy_refs:
+  - resurrection
+  basis: God raises the dead, all return to him, and the note extends restoration
+    at resurrection to animals for judgment.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: Animal resurrection is stated in an explanatory note rather than the main
+    translated verse.
+- id: motif:3
+  label: Demand for a validating sign
+  taxonomy_refs: []
+  basis: Infidels demand a sign from the Lord as a condition for belief; the answer
+    emphasizes God’s ability to send one.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No supplied taxonomy reference directly matches sign-demand or miracle-demand.
+- id: motif:4
+  label: Prosperity as a snare before sudden destruction
+  taxonomy_refs:
+  - divine_judgment
+  basis: Former nations ignore admonition, receive opened gates of plenty, rejoice,
+    and are suddenly seized with despair, while the wicked are cut off.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The 'snare' interpretation is partly supplied by the note explaining the
+    opened gates as plenty.
+- id: motif:5
+  label: Evil deeds embodied as a postmortem burden
+  taxonomy_refs:
+  - divine_judgment
+  basis: A note describes evil works appearing as a grotesque speaking figure that
+    rides on the infidel after the grave.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This motif is drawn from Sale’s cited commentary note, not from the main
+    translated verse in this excerpt.
+- id: motif:6
+  label: Exclusive divine deliverance in crisis
+  taxonomy_refs: []
+  basis: At punishment or resurrection, the addressed people are told they will call
+    on God rather than associated beings, and God may deliver them if he pleases.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: No supplied taxonomy reference directly matches this monotheistic crisis-invocation
+    pattern.
+comparison_claims:
+- id: claim:1
+  claim: The note states that calling the last day 'the hour' and speaking of meeting
+    God on that day is agreeable to Christian scripture references supplied by the
+    editor.
+  claim_level: linguistic_similarity
+  target: Christian scripture references cited in the note, including 1 John v.25
+    and 1 Thessalonians iv.17
+  evidence_refs:
+  - ev:12
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the translator/editorial note, not by the
+    Qur'anic passage itself, and only the cited references are given here.
+- id: claim:2
+  claim: The editor’s note points readers to Milton’s Paradise Lost in connection
+    with the hideous personification of evil works, suggesting a literary or visual
+    similarity in postmortem embodiment of sin.
+  claim_level: visual_similarity
+  target: Milton, Paradise Lost, book II, cited by the note
+  evidence_refs:
+  - ev:13
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note provides only a cross-reference, not an explicit developed
+    comparison; historical contact or shared origin is not established.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14810-14821, note f
+  quote_or_summary: A note says an infidel’s works after the grave are represented
+    as an ugly, foul-smelling, disagreeable-voiced figure that identifies itself as
+    his evil works, mounts him, and makes him carry it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 14836-14837
+  quote_or_summary: "“GOD will raise the dead; then unto him shall they return.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 14838-14840
+  quote_or_summary: The infidels ask why no sign has been sent down from the Lord;
+    the answer says God is able to send a sign, but most do not know.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 14841-14843
+  quote_or_summary: No beast on earth or bird flying with wings is excluded; each
+    is described as a people like humans, nothing is omitted from the book of decrees,
+    and they return to their Lord.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 14883-14886, note n
+  quote_or_summary: A note states that irrational animals will be restored to life
+    at resurrection so they may be brought to judgment and vengeance taken for injuries
+    done to one another.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 14844-14846
+  quote_or_summary: Those who accuse God’s signs of falsehood are described as deaf,
+    dumb, and walking in darkness; God leads whom he pleases into error and whom he
+    pleases into the right way.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 14847-14851
+  quote_or_summary: If God’s punishment or the hour of resurrection comes, the people
+    will call on God, who may deliver them, and they will forget what they associated
+    with him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 14852-14856
+  quote_or_summary: Messengers were sent to former nations; those nations were afflicted
+    with trouble and adversity to humble them, but their hearts hardened and Satan
+    prepared what they committed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 14857-14862 and lines 14888-14891, note p
+  quote_or_summary: After admonition was forgotten, gates of all things were opened;
+    while the people rejoiced in what they received, they were suddenly seized with
+    despair and the wicked were cut off. The note explains the opening as plenty that
+    became a snare.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 14863-14867
+  quote_or_summary: The passage asks who besides God could restore hearing, sight,
+    and hearts if God took them away and sealed the hearts; it says signs of God’s
+    unity are shown in varied ways.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 14870-14874
+  quote_or_summary: Messengers are sent bearing good tidings and threats; whoever
+    believes and amends will have no fear and will not be grieved.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 14806-14809, note e
+  quote_or_summary: The note says the last day is here called 'the hour' as in scripture
+    and that the expression of meeting God on that day is agreeable to the same, citing
+    1 John v.25 and 1 Thessalonians iv.17.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: note
+  locator: lines 14821-14826, footnote references following note f
+  quote_or_summary: The editor gives a cross-reference to Milton’s Paradise Lost,
+    book II, in connection with the preceding note on the hideous figure of evil works.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Main motifs of resurrection and divine judgment are explicit. Some symbols
+    and comparison claims depend on explanatory notes rather than the main translated
+    verses, so they require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the supplied lists where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l14804-l14902
+  passage_sha256=6852c7bd1248446b1b48b1c3d3ca3140670585be1eb6690d6b25e9df07d282db

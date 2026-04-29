@@ -1,0 +1,520 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l11284-l11406
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 11284-11406
+  start: '11284'
+  end: '11406'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The Sultan visits a princess's house and garden, where he sees the Golden
+    Water, hears the Singing Tree, and meets the Talking Bird. At a meal, a cucumber
+    stuffed with pearls prompts the Talking Bird to expose the false story told about
+    the Sultana's childbirth and to identify the princes and princess as the Sultan's
+    children. The Sultan accepts the revelation, embraces them, and promises to bring
+    their mother the next day.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The princess calls the house a simple country house, while the Sultan admires
+    it and asks to see the gardens.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sultan sees the Golden Water in the garden and asks about its source and
+    fountain.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The princess says the Golden Water does not come from a spring or pipes, and
+    that a small flaskful increased to fill the basin.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The Sultan hears voices near the Singing Tree, but sees no musicians.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The princess says the Singing Tree is not native to the country and that its
+    history is connected with the Golden Water and the Talking Bird.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Many birds gather near the Talking Bird's cage and add their songs to his.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: At the princess's command, the Talking Bird stops singing, the other birds
+    stop, and the Talking Bird greets the Sultan.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A cucumber dish served to the Sultan is stuffed with pearls.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Talking Bird says the Sultan believed a report that the Sultana had presented
+    him with a dog, a cat, and a log of wood instead of children.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Talking Bird says the Sultana's sisters invented the story out of jealousy
+    and that examination would make them confess.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The Talking Bird identifies the princes and princess as the Sultan's children
+    and says they were saved from death by the intendant of the gardens.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The Sultan accepts the Talking Bird's statement, embraces the children, names
+    them as his royal children, and says he will bring the Sultana their mother the
+    next day.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the princess
+  description: A royal young woman who hosts and guides the Sultan through the house
+    and garden; later identified among the Sultan's children.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: the Sultan
+  description: The visiting ruler who examines the house and garden, encounters the
+    marvels, and later recognizes the princes and princess as his children.
+  role_refs:
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: the Talking Bird
+  description: A caged bird whose voice is heard above other birds; he greets the
+    Sultan and reveals the truth about the Sultan's children.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: the other birds
+  description: A large number of birds gather near the Talking Bird and stop singing
+    when he stops.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: the Sultana's sisters
+  description: Women attending the Sultana who, according to the Talking Bird, were
+    jealous and invented the false story about her childbirth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: the Sultana
+  description: The Sultan's wife and mother of the princes and princess, previously
+    said to have presented animal and wooden substitutes instead of children.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:7
+  name_or_label: the princes
+  description: Male siblings of the princess, identified by the Talking Bird as the
+    Sultan's children.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: the intendant of the gardens
+  description: The person said by the Talking Bird to have saved the children from
+    death and brought them up as his own.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: host and guide
+  assigned_to:
+  - fig:1
+  basis: The princess leads the Sultan from room to room and conducts him to the garden
+    marvels.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: royal visitor and examiner
+  assigned_to:
+  - fig:2
+  basis: The Sultan tours the house and garden, examines the Golden Water, and questions
+    the marvels.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: truth-revealing speaker
+  assigned_to:
+  - fig:3
+  basis: The Talking Bird challenges the Sultan's earlier belief and reveals the children's
+    parentage.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: wronged mother
+  assigned_to:
+  - fig:6
+  basis: The Sultana was falsely reported to have produced a dog, a cat, and a log
+    of wood instead of children.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: jealous false witnesses
+  assigned_to:
+  - fig:5
+  basis: The Talking Bird says the Sultana's sisters were jealous and invented the
+    false story.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: hidden royal children
+  assigned_to:
+  - fig:1
+  - fig:7
+  basis: The Talking Bird says these are the Sultan's children, saved from death and
+    raised by the intendant.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: rescuer and foster guardian
+  assigned_to:
+  - fig:8
+  basis: The intendant is said to have saved the children from death and brought them
+    up as his own.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: recognizing father
+  assigned_to:
+  - fig:2
+  basis: The Sultan accepts the revelation, calls them his children, and says he will
+    bring their mother.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Golden Water
+  literal_form: A colored water fountain in the garden, not supplied by spring or
+    pipes and expanded from a small flaskful.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: Singing Tree
+  literal_form: A tree in the garden from which strange and charming voices are heard.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Talking Bird
+  literal_form: A caged bird whose voice rises above the other birds and who speaks
+    to the Sultan.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: cucumber stuffed with pearls
+  literal_form: The Sultan's favored cucumber dish, filled with pearls instead of
+    edible stuffing.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: garden of marvels
+  literal_form: A garden containing the Golden Water, Singing Tree, and Talking Bird.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Tour of the house and garden
+  summary: The princess shows the Sultan the house, and he admires it before asking
+    to go into the gardens.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Inspection of the Golden Water
+  summary: The Sultan sees the Golden Water, questions its source, and later learns
+    that it expanded from a small flaskful without spring or pipes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Hearing the Singing Tree
+  summary: The Sultan hears hidden-seeming voices, and the princess explains that
+    they come from the Singing Tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:4
+  label: Meeting the Talking Bird
+  summary: The Sultan approaches the Talking Bird, who sings among many birds and
+    then greets the Sultan when commanded by the princess.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Pearl-stuffed cucumber and accusation
+  summary: The Sultan notices pearls in his cucumber dish, and the Talking Bird uses
+    his surprise to challenge his earlier belief about the Sultana's supposed births.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Recognition of the royal children
+  summary: The Talking Bird identifies the princes and princess as the Sultan's children;
+    the Sultan accepts the truth, embraces them, and promises to bring their mother.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: marvelous garden objects
+  taxonomy_refs: []
+  basis: The passage presents a garden containing the Golden Water, the Singing Tree,
+    and the Talking Bird, all treated as extraordinary wonders.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage describes the marvels but does not explain their origin within
+    this excerpt.
+- id: motif:2
+  label: truth revealed by a speaking bird
+  taxonomy_refs:
+  - wisdom
+  basis: The Talking Bird speaks, exposes the false report about the Sultana, identifies
+    the children, and prompts the Sultan's recognition.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The available taxonomy has no specific talking-animal motif; 'wisdom'
+    is used only for the bird's truth-revealing knowledge.
+- id: motif:3
+  label: hidden royal children restored to their father
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The princes and princess are identified as the Sultan's children, saved from
+    death and raised elsewhere, and the Sultan acknowledges their royal blood.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage gives the recognition scene but not the full earlier exposure
+    or rescue episode.
+- id: motif:4
+  label: jealous female relatives falsify childbirth
+  taxonomy_refs: []
+  basis: The Talking Bird says the Sultana's sisters, jealous of her honor, invented
+    the story that she bore a dog, a cat, and a log of wood instead of children.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage reports the accusation retrospectively rather than narrating
+    the substitution directly.
+- id: motif:5
+  label: impossible food as proof device
+  taxonomy_refs: []
+  basis: A cucumber stuffed with pearls leads the Sultan to protest that pearls cannot
+    be eaten, and the Talking Bird uses this as an analogy to expose his earlier credulity.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a localized narrative device in the excerpt; broader motif classification
+    is uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11284-11300
+  quote_or_summary: The princess modestly describes the residence as a simple country
+    house; the Sultan admires it, tours the rooms, and asks to see the gardens.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 11301-11325
+  quote_or_summary: A small door opens into the garden, where the Sultan first sees
+    the Golden Water and then approaches the Singing Tree, hearing unseen voices.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 11326-11345
+  quote_or_summary: The princess explains that the voices come from the Singing Tree,
+    says it is not native to the country, and says its history is linked with the
+    Golden Water and Talking Bird.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 11346-11361
+  quote_or_summary: The Sultan asks about the Golden Water again; the princess says
+    it is not supplied by spring or pipes and that one small flaskful increased to
+    fill the basin.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 11362-11378
+  quote_or_summary: Many birds gather near the Talking Bird's cage; at the princess's
+    order the bird stops singing, the other birds stop too, and the bird greets the
+    Sultan.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 11379-11390
+  quote_or_summary: The Sultan finds his cucumber dish stuffed with pearls; the Talking
+    Bird compares this surprise to the Sultan's earlier belief that the Sultana had
+    produced a dog, a cat, and a log of wood instead of children.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 11391-11399
+  quote_or_summary: The Talking Bird says the Sultana's jealous sisters invented the
+    false story and identifies the princes and princess as the Sultan's children,
+    saved from death and raised by the intendant of the gardens.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 11400-11406
+  quote_or_summary: The Sultan accepts the bird's statement, embraces the children,
+    names their royal blood, and promises to bring their mother the next day.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the passage. Motif labels are
+    cautious because the excerpt is a recognition scene embedded in a larger tale,
+    and no external comparison was used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text comparison beyond internal motif identification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l11284-l11406
+  passage_sha256=33fc12c5b05a761522df7b579b0521ae136d0510dd409303325d33eebdbe5968

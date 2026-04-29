@@ -1,0 +1,474 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l22514-l22592
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XVI. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XVII. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 22514-22592
+  start: '22514'
+  end: '22592'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: PRAISE be unto him who transported his servant by night, from the sacred
+    temple of Mecca to the farther temple of Jerusalem
+  summary: The passage opens Sura XVII, describes God's night transport of his servant
+    from Mecca to Jerusalem, and includes Sale's note on the ascent through the heavens.
+    It then recounts Moses receiving the law for Israel, recalls Noah's ark, and describes
+    Israel's predicted repeated wrongdoing, punishment by invading forces, restoration,
+    and later renewed punishment.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The chapter is entitled "The Night Journey" and is stated to have been revealed
+    at Mecca.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: God transports his servant by night from the sacred temple of Mecca to the
+    farther temple of Jerusalem, whose circuit is described as blessed, in order to
+    show signs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A note says the journey continued from Jerusalem through the seven heavens
+    to the presence of God and back to Mecca the same night, and records disagreement
+    over whether the journey was bodily or visionary.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: God gives Moses the book of the law as direction for the children of Israel
+    and commands them not to take another patron besides God.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The addressees are called the posterity of those carried in the ark with Noah,
+    and Noah is described as a grateful servant.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The children of Israel are told in the book of the law that they will commit
+    evil in the earth twice and become greatly insolent.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: For the first transgression, God sends strong servants skilled in war against
+    Israel; they search the inner apartments of houses, fulfilling the prediction.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: After the first punishment, Israel is given victory in turn and increase in
+    wealth, children, and numbers.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: For the latter transgression, enemies are sent to afflict Israel, enter the
+    temple as before, and destroy what they had conquered.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine agent who transports the servant, hears and sees, gives
+    the law, commands exclusive patronage, and sends punishment or restoration.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: God's servant / Mohammed
+  description: The servant transported by night; Sale's note identifies the journey
+    as Mohammed's journey to heaven.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Moses
+  description: Recipient of the book of the law given as direction for the children
+    of Israel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Children of Israel
+  description: Community directed by the law, warned against taking another patron,
+    predicted to commit evil twice, punished, restored, and punished again.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Noah
+  description: Named as the one with whom people were carried in the ark; described
+    as a grateful servant.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Posterity of those carried in the ark with Noah
+  description: The group addressed as descendants of those carried in the ark with
+    Noah.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Strong servants sent against Israel
+  description: Servants endowed with exceeding strength in war, sent for the first
+    punishment.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Enemies sent for the latter transgression
+  description: Enemies sent to afflict Israel, enter the temple, and destroy what
+    had been conquered.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: divine transporter, lawgiver, judge, and restorer
+  assigned_to:
+  - fig:1
+  basis: God transports the servant, gives Moses the law, sends punitive forces, and
+    later grants Israel victory and increase.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: transported servant
+  assigned_to:
+  - fig:2
+  basis: The servant is transported by night; the note explains this as Mohammed's
+    night journey.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: recipient of divine law
+  assigned_to:
+  - fig:3
+  basis: Moses receives the book of the law as direction for Israel.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: commanded and judged community
+  assigned_to:
+  - fig:4
+  basis: Israel receives direction, is warned, is predicted to transgress twice, is
+    punished, restored, and punished again.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:5
+  label: grateful servant
+  assigned_to:
+  - fig:5
+  basis: Noah is explicitly described as a grateful servant.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: ark-descended addressees
+  assigned_to:
+  - fig:6
+  basis: The passage addresses the posterity of those carried in the ark with Noah.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: agents of punitive invasion
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The first group is sent in war to search houses; the second enters the temple
+    and destroys what was conquered.
+  evidence_refs:
+  - ev:6
+  - ev:8
+symbols:
+- id: sym:1
+  label: sacred temple of Mecca
+  literal_form: sacred temple of Mecca
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: farther temple of Jerusalem
+  literal_form: farther temple of Jerusalem, with a blessed circuit
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: seven heavens
+  literal_form: seven heavens traversed from Jerusalem to the presence of God, according
+    to the note
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - ascent
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: book of the law
+  literal_form: book of the law given to Moses as direction for the children of Israel
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - covenant
+  - wisdom
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: ark with Noah
+  literal_form: ark in which people were carried with Noah
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - ark_vessel
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: temple entered by enemies
+  literal_form: the temple entered during punishment for the latter transgression
+  associated_figures:
+  - fig:4
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Night transport between sanctuaries
+  summary: God transports his servant by night from the sacred temple at Mecca to
+    the farther temple at Jerusalem, whose surroundings are blessed, to show signs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Commentarial heavenly ascent
+  summary: The note reports that Mohammed was carried from Jerusalem through the seven
+    heavens to God's presence and returned to Mecca that same night; it also records
+    differing opinions about whether the journey was bodily or visionary.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Law given to Moses for Israel
+  summary: God gives Moses the book of the law as guidance for Israel and commands
+    exclusive reliance on God.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Noah's ark recalled
+  summary: The passage addresses the posterity of those carried in the ark with Noah
+    and describes Noah as grateful.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Predicted double transgression and punishments
+  summary: Israel is predicted to do evil twice; the first punishment brings strong
+    warriors into homes, after which Israel is restored, and the later punishment
+    brings enemies who afflict Israel, enter the temple, and destroy what was conquered.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: night journey and ascent toward divine presence
+  taxonomy_refs:
+  - ascent
+  - mystical_quest
+  basis: The passage states that the servant is transported by night from Mecca to
+    Jerusalem, and the note describes continuation through the seven heavens to God's
+    presence and return the same night.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The canonical verse in the excerpt names the journey to Jerusalem; the
+    seven-heavens ascent is supplied in Sale's note and should be distinguished from
+    the translated verse.
+- id: motif:2
+  label: ark-borne survivors remembered through descendants
+  taxonomy_refs:
+  - ark_vessel
+  basis: The passage addresses the posterity of those carried in the ark with Noah.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The flood episode itself is not narrated in this passage; only the ark
+    transport with Noah is recalled.
+- id: motif:3
+  label: divine law as guidance and exclusive allegiance
+  taxonomy_refs:
+  - covenant
+  - wisdom
+  basis: God gives Moses the book of the law as direction for Israel and commands
+    them not to take another patron besides God.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a command and guidance but does not elaborate a full
+    covenant ceremony.
+- id: motif:4
+  label: repeated communal transgression and divine judgment through invaders
+  taxonomy_refs:
+  - divine_judgment
+  basis: Israel is predicted to commit evil twice; each transgression is followed
+    by punitive forces sent against them, with restoration between the punishments.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage frames the invasions as punishment but does not identify all
+    invading groups within the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 22514-22592, opening of Chapter XVII
+  quote_or_summary: Chapter entitled "The Night Journey"; God transported his servant
+    by night from Mecca to Jerusalem to show signs.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation or summary used.
+- id: ev:2
+  type: summary
+  locator: lines 22514-22592, note p on the Night Journey
+  quote_or_summary: Sale's note says Mohammed was carried through the seven heavens
+    to God's presence and back, and notes debate over bodily versus visionary travel.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 22514-22592, verse after note p
+  quote_or_summary: God gave Moses the book of the law as direction for Israel and
+    commanded them to take no other patron besides God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 22514-22592, Noah ark reference
+  quote_or_summary: '"O posterity of those whom we carried in the ark with Noah";
+    Noah is called a grateful servant.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 22514-22592, prediction of Israel's transgressions
+  quote_or_summary: The book of the law declares that the children of Israel will
+    commit evil in the earth twice and become greatly insolent.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 22514-22592, first punishment
+  quote_or_summary: For the first transgression, strong servants in war are sent;
+    they search the inner apartments of houses and the prediction is fulfilled.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 22514-22592, restoration after first punishment
+  quote_or_summary: Afterward Israel is given victory over them, increased wealth
+    and children, and made more numerous.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 22514-22592, latter punishment
+  quote_or_summary: For the later transgression, enemies afflict Israel, enter the
+    temple as before, and destroy what they had conquered.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the translated verses and notes. Motif labels
+    using taxonomy refs are cautious, especially where the passage alludes to larger
+    narratives rather than narrating them fully. No independent comparison claims
+    were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Footnotes within the passage were treated as source evidence but kept distinct from the translated Qur'anic narration.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l22514-l22592
+  passage_sha256=920b7762af0c45c7eae7f435e288c9acc3c2c1462c26c13fb1021ef0a23e9052

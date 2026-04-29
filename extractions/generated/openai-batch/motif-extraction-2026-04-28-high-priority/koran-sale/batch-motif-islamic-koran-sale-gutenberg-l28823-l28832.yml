@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l28823-l28832
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XXVIII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXIX. /
+    IN THE NAME OF THE MOST MERCIFUL GOD.; lines 28823-28832
+  start: '28823'
+  end: '28832'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: If ye cannot serve me in one city or country, fly unto another...
+  summary: A note explains that believers unable to serve God safely in one place
+    may flee to another refuge. A saying attributed to Mohammed states that one who
+    flees for religion, even a short distance, merits paradise and companionship with
+    Abraham and Mohammed. A separate note refers to good or bad use of riches, with
+    citation to Al Beidwi.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that if service to God cannot be performed in one city or
+    country, the person should flee to another place.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes the earth as wide enough to provide places of refuge
+    where the true religion may be professed safely.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A declaration is attributed to Mohammed about someone who flees for the sake
+    of religion.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The attributed declaration says that even moving the distance of a span for
+    religion merits paradise.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The attributed declaration says the religious fugitive will be the companion
+    of Abraham and Mohammed.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A separate note mentions making good or bad use of riches.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The cited authority for the preceding note is Al Beidwi.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: person who flees for religion
+  description: A generic person who flees from one place to another for the sake of
+    professing the true religion safely.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Mohammed
+  description: Named as the one said to have declared the reward for flight undertaken
+    for religion.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Abraham
+  description: Named as a companion in paradise for the one who flees for religion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: people using riches
+  description: Generic people distinguished by whether they make good or bad use of
+    their riches.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: religious fugitive
+  assigned_to:
+  - fig:1
+  basis: The passage describes fleeing from one city or country to another for the
+    sake of religion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: recipient of paradise reward
+  assigned_to:
+  - fig:1
+  basis: The attributed saying states that the one who flees for religion merits paradise.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: speaker of attributed declaration
+  assigned_to:
+  - fig:2
+  basis: The passage says Mohammed is said to have declared the reward for religious
+    flight.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: paradisal companion
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The fugitive for religion is said to become the companion of Abraham and
+    Mohammed.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: moral user of wealth
+  assigned_to:
+  - fig:4
+  basis: The note distinguishes those who make good or bad use of riches.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: wide earth as refuge
+  literal_form: earth wide enough to contain places of refuge
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: city or country left behind
+  literal_form: one city or country where religion cannot be safely served
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: paradise
+  literal_form: paradise merited by the one who flees for religion
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: span-distance journey
+  literal_form: movement by the distance of a span
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: riches
+  literal_form: riches that may be used well or badly
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Flight to a safe place of worship
+  summary: A believer unable to serve God safely in one city or country is instructed
+    to flee elsewhere, since the earth contains places of refuge.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reward for religious flight
+  summary: A declaration attributed to Mohammed states that one who flees for religion,
+    even by a span, merits paradise and companionship with Abraham and Mohammed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Use of riches
+  summary: A note refers to people making either good or bad use of their riches.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: religious flight to refuge
+  taxonomy_refs:
+  - departure
+  basis: The passage explicitly describes fleeing from one city or country to another
+    in order to profess the true religion safely.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is an explanatory note rather than a narrative episode.
+- id: motif:2
+  label: paradise reward for religious exile
+  taxonomy_refs:
+  - divine_judgment
+  basis: The attributed declaration says that one who flees for religion, even a short
+    distance, merits paradise.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states reward but does not narrate a full judgment scene.
+- id: motif:3
+  label: moral use or misuse of wealth
+  taxonomy_refs:
+  - wisdom
+  basis: The note distinguishes good and bad use of riches.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The line is fragmentary and does not elaborate a wisdom teaching in this
+    excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 28823-28826
+  quote_or_summary: "“If ye cannot serve me in one city or country, fly unto another,”
+    where the true religion may be professed safely because the earth is wide enough
+    for refuge."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 28826-28829
+  quote_or_summary: Mohammed is said to have declared that whoever flees for religion,
+    even by a span, merits paradise and companionship with Abraham and himself.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 28830-28831
+  quote_or_summary: "“who will make a good, and who will make a bad use of their riches.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: citation
+  locator: line 28832
+  quote_or_summary: 'Citation: Al Beidwi.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; citation only.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The excerpt consists mainly of translator notes and fragmentary commentary,
+    so motif extraction is limited to explicit elements in the supplied lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support an external comparative claim beyond its own named figures.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l28823-l28832
+  passage_sha256=f119970486fdcae994ae67b609e5c3addbd686a0490ba874839200a3c6e373a0

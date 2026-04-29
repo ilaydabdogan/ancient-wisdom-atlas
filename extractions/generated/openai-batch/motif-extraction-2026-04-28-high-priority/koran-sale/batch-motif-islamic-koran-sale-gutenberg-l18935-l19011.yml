@@ -1,0 +1,536 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l18935-l19011
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER IX. / CHAPTER X. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 18935-19011
+  start: '18935'
+  end: '19011'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Verily the likeness of this present life is no other than as water...
+  summary: The passage answers demands for a sign by saying hidden knowledge belongs
+    to God; describes people who call on God in danger at sea but act insolently after
+    deliverance; compares present life to rain-fed vegetation cut down by divine command;
+    and contrasts the everlasting fate of the righteous in paradise with that of evildoers
+    in hell fire.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Some speakers demand that a sign be sent down from the Lord before they will
+    believe.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The answer states that what is hidden is known only to God and commands waiting.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After mercy follows affliction for the men of Mecca, they devise a stratagem
+    against the signs.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Messengers are said to write down what the deceivers devise.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: God is described as giving conveniences for travel by land and by sea.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: People in ships rejoice in a favorable wind, then are overtaken by tempestuous
+    wind and waves from every side.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The endangered ship travelers call upon God with pure religion and promise
+    gratitude if delivered.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After deliverance, the same people behave insolently in the earth without
+    justice.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage states that people will return to God and be told what they have
+    done.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Present life is likened to water sent from heaven that produces earth’s vegetation
+    for humans and cattle.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The earth is depicted as adorned with plants before God’s command renders
+    it as though mown and formerly unfruitful.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: God invites to the dwelling of peace and directs whom he pleases into the
+    right way.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Those who do right receive reward, lack blackness or shame on their faces,
+    and remain in paradise forever.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: Those who commit evil receive an equal reward of evil, are covered with shame
+    and darkness, and remain in hell fire forever.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine figure who knows hidden things, answers demands for signs,
+    gives travel conveniences, delivers from peril, commands the earth, invites to
+    the dwelling of peace, and judges deeds.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Men of Mecca / unbelieving demanders of a sign
+  description: People who say they will not believe unless a sign is sent down, and
+    who devise against the signs after mercy.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Messengers / guardian angels
+  description: Messengers who write down the deceitful devising; the note identifies
+    them as guardian angels.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Travelers in ships
+  description: People who travel by sea, rejoice in favorable wind, face tempest and
+    waves, call upon God, and promise thanks if delivered.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: People delivered from peril
+  description: Those who, after deliverance, behave insolently in the earth without
+    justice.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Those who do right
+  description: People who receive excellent reward and become inhabitants of paradise
+    forever.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Those who commit evil
+  description: People who receive the reward of evil, are covered with shame and darkness,
+    and become inhabitants of hell fire forever.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: knower of hidden things
+  assigned_to:
+  - fig:1
+  basis: The answer says the hidden is known only to God.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deliverer from peril
+  assigned_to:
+  - fig:1
+  basis: Ship travelers ask God to deliver them from danger.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: divine judge of deeds
+  assigned_to:
+  - fig:1
+  basis: The passage says people return to God and will be told what they have done,
+    and it contrasts reward and punishment.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+- id: role:4
+  label: guide to peace
+  assigned_to:
+  - fig:1
+  basis: God invites to the dwelling of peace and directs whom he pleases into the
+    right way.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: demanders and deceivers
+  assigned_to:
+  - fig:2
+  basis: They demand a sign before belief and devise a stratagem against the signs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: recorders of deceit
+  assigned_to:
+  - fig:3
+  basis: The messengers write down what the deceivers devise; the note glosses them
+    as guardian angels.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: supplicants in danger
+  assigned_to:
+  - fig:4
+  basis: In tempest and waves they call on God and promise thanks if delivered.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: ungrateful after deliverance
+  assigned_to:
+  - fig:5
+  basis: After deliverance they behave insolently in the earth without justice.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: righteous rewarded
+  assigned_to:
+  - fig:6
+  basis: Those who do right receive excellent reward and dwell in paradise forever.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: evildoers punished
+  assigned_to:
+  - fig:7
+  basis: Those who commit evil receive an equal reward of evil and dwell in hell fire
+    forever.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: sign sent down
+  literal_form: A sign requested from the Lord as a condition for belief.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: written record of deceit
+  literal_form: Messengers write down what people deceitfully devise.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: ship in storm
+  literal_form: Ships at sea overtaken by tempestuous wind and waves from every side.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: water from heaven
+  literal_form: Water sent down from heaven that mixes with the productions of the
+    earth.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: adorned and mown earth
+  literal_form: Earth clothed with plants, then rendered as though mown by divine
+    command.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: dwelling of peace
+  literal_form: The dwelling of peace, glossed in the note as paradise.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: faces without blackness or shame
+  literal_form: The faces of those who do right are not covered by blackness or shame.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: darkened faces
+  literal_form: Faces of evildoers covered as with the profound darkness of night.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:9
+  label: hell fire
+  literal_form: Hell fire as the everlasting dwelling of those who commit evil.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Demand for a sign and answer about hidden knowledge
+  summary: Some demand a sign from the Lord before believing; the answer says hidden
+    things are known only to God and calls for waiting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mercy after affliction and recorded stratagem
+  summary: After mercy following affliction, the men of Mecca devise against the signs,
+    while messengers record their devising.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Ship peril, prayer, deliverance, and insolence
+  summary: Travelers by sea rejoice in favorable wind, are threatened by tempest and
+    waves, call on God with a promise of thanks, and after deliverance behave insolently.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Parable of present life as rain-fed vegetation
+  summary: Present life is compared to heavenly water that produces flourishing vegetation
+    until divine command makes it as though mown.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Divergent destinies of righteous and evildoers
+  summary: God invites to the dwelling of peace; the righteous receive reward and
+    paradise, while evildoers receive shame, darkness, and hell fire.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment with reward and punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage says people return to God, are told their deeds, and are divided
+    between paradise and hell fire according to doing right or committing evil.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The extraction is limited to this passage and does not infer details beyond
+    the stated afterlife outcomes.
+- id: motif:2
+  label: Deliverance from peril followed by ingratitude
+  taxonomy_refs: []
+  basis: Sea travelers call on God in danger and promise thanks if delivered, but
+    after deliverance behave insolently.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy family exactly names this pattern; it is recorded
+    as a passage-level motif candidate without a taxonomy reference.
+- id: motif:3
+  label: Transience of present life as rain-fed vegetation cut down
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Present life is likened to water from heaven producing an adorned earth that
+    is then rendered mown by divine command.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage uses an agricultural image of flourishing and destruction;
+    a broader seasonal-cycle classification is plausible but not explicit.
+- id: motif:4
+  label: Guidance to paradise or dwelling of peace
+  taxonomy_refs:
+  - divine_judgment
+  basis: God invites to the dwelling of peace and directs whom he pleases, followed
+    by the righteous becoming inhabitants of paradise forever.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: This overlaps with the broader divine judgment motif rather than forming
+    a fully separate narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18935-19011
+  quote_or_summary: "“Unless a sign be sent down unto him from his LORD... that which
+    is hidden is known only unto GOD.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 18935-19011
+  quote_or_summary: After an affliction and subsequent mercy, the men of Mecca devise
+    a stratagem against the signs; God is said to be swifter, and messengers write
+    down their deceitful devising.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: note
+  locator: lines 18935-19011, note f
+  quote_or_summary: The note glosses the messengers as guardian angels.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized note.
+- id: ev:4
+  type: summary
+  locator: lines 18935-19011
+  quote_or_summary: God provides travel by land and sea; people in ships enjoy favorable
+    wind, then tempest and waves surround them, and they call on God, promising thanks
+    if delivered.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 18935-19011
+  quote_or_summary: After deliverance, they behave insolently; the passage says their
+    violence is for present life, then they return to God and are told what they have
+    done.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 18935-19011
+  quote_or_summary: Present life is likened to water sent from heaven, bringing forth
+    vegetation until divine command renders the earth as though mown and no longer
+    fruitful.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: lines 18935-19011
+  quote_or_summary: "“GOD inviteth unto the dwelling of peace, and directeth whom
+    he pleaseth into the right way.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:8
+  type: summary
+  locator: lines 18935-19011
+  quote_or_summary: Those who do right receive excellent reward and additional recompense;
+    no blackness or shame covers their faces, and they inhabit paradise forever.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 18935-19011
+  quote_or_summary: Those who commit evil receive an equal reward of evil; shame and
+    darkness cover their faces, they have no protector against God, and they inhabit
+    hell fire forever.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main passage themes are clear, but exact internal line subdivisions are
+    not supplied beyond the full stable range. No external comparative claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Footnote material was treated as part of the provided passage where directly relevant.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l18935-l19011
+  passage_sha256=58bffb8a2df097bb5cf7404891870fa9d62e84396a080dd4dcde17e63789bdd1

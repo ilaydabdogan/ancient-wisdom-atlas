@@ -1,0 +1,481 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l18037-l18105
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VIII. / IN THE NAME OF THE
+    MOST MERCIFUL GOD. / CHAPTER IX.; lines 18037-18105
+  start: '18037'
+  end: '18105'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes translator/commentary notes about an accusation involving
+    Jews and Ezra, including a report that Ezra was raised after being dead one hundred
+    years and restored scripture from memory or by revelation. The Qur'anic portion
+    states that God ordained twelve months, four sacred, condemns the transferring
+    of sacred months, exhorts believers to go forth when summoned, warns of punishment
+    if they do not, and recalls God's aid to the prophet and his companion in the
+    cave through divine security and unseen angelic armies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Commentators are reported as explaining a charge against Jews by a story in
+    which Ezra was raised to life after being dead one hundred years and dictated
+    the law anew from memory.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentary says some Christian fathers attributed restoration of Old Testament
+    books to Ezra by divine revelation and connects this with a passage in 2 Esdras.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Qur'anic text states that the number of months with God is twelve and
+    that four of them are sacred.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage condemns transferring the sacred status of one month to another,
+    saying unbelievers permit a month one year and declare it sacred another year.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Believers are addressed and rebuked for inclining heavily toward the earth
+    when summoned to go forth to fight for the religion of God.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage warns that if believers do not go forth when summoned to war,
+    God will punish them and replace them with another people.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage recalls God assisting the prophet when unbelievers drove him out
+    of Mecca and he was the second of two in a cave with his companion.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: In the cave episode, the prophet tells his companion not to grieve because
+    God is with them.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: God sends down security upon the prophet and strengthens him with unseen armies
+    of angels.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: God abases the word of the unbelievers and exalts the word of God.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The deity who ordains the months, commands sacred months, warns and
+    punishes, assists the prophet, sends security, strengthens with angels, and exalts
+    his word.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Ezra
+  description: A figure in the commentary said to have been raised to life after one
+    hundred years dead and to have restored scripture or the law.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Jews
+  description: People discussed in the commentary in relation to the charge concerning
+    Ezra and the restoration of scripture.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: True believers
+  description: The addressed group told not to prefer the present life and summoned
+    to go forth for the religion of God.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Unbelievers / idolaters
+  description: Opponents described as violating sacred months, attacking believers,
+    and driving the prophet out of Mecca.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: The prophet
+  description: The figure whom God assists, formerly driven out of Mecca, present
+    with a companion in the cave.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: The prophet's companion
+  description: The companion with the prophet in the cave, addressed with the words
+    not to grieve because God is with them.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Angels
+  description: Unseen armies by which God strengthens the prophet.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: divine ordainer
+  assigned_to:
+  - fig:1
+  basis: God is said to have ordained the twelve months and four sacred months in
+    the book of God.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: divine helper and judge
+  assigned_to:
+  - fig:1
+  basis: God punishes noncompliance, assists the prophet, sends security, provides
+    angelic strengthening, and exalts his word.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:3
+  label: scripture restorer
+  assigned_to:
+  - fig:2
+  basis: Ezra is described in commentary as restoring the law or scriptures from memory
+    or by divine revelation after being raised to life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: accused community in commentary
+  assigned_to:
+  - fig:3
+  basis: The commentary discusses a grievous charge against Jews and explanations
+    of how some Jews allegedly spoke about Ezra.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: summoned believers
+  assigned_to:
+  - fig:4
+  basis: They are addressed as true believers and commanded to go forth when summoned.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: opponents
+  assigned_to:
+  - fig:5
+  basis: They are described as violating sacred months, attacking believers, and driving
+    the prophet out of Mecca.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:7
+  label: divinely assisted prophet
+  assigned_to:
+  - fig:6
+  basis: God is said to assist the prophet in the cave episode and to strengthen him
+    with unseen angels.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: cave companion
+  assigned_to:
+  - fig:7
+  basis: The companion is with the prophet in the cave and is told not to grieve.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: unseen divine army
+  assigned_to:
+  - fig:8
+  basis: Angels are described as armies unseen by the audience, used by God to strengthen
+    the prophet.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: twelve months
+  literal_form: twelve months
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: four sacred months
+  literal_form: four sacred months
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: unseen armies of angels
+  literal_form: armies of angels, whom ye saw not
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: security sent down
+  literal_form: security sent down by God
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Ezra restores scripture in commentary tradition
+  summary: The commentary reports a story that Ezra was raised to life after one hundred
+    years dead and then restored the law or scriptures from memory or by divine revelation.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sacred calendar ordained and altered
+  summary: God ordains twelve months, four sacred, while unbelievers are accused of
+    transferring sacredness from one month to another to fit the required number while
+    violating what God forbade.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Believers summoned to go forth
+  summary: Believers are rebuked for attachment to the present life when summoned
+    to fight for God's religion and are warned of punishment and replacement if they
+    do not go forth.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Prophet and companion in the cave
+  summary: After unbelievers drive the prophet from Mecca, he is one of two in a cave
+    with his companion, tells him not to grieve because God is with them, and receives
+    divine security and unseen angelic strengthening.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: resurrection and restoration of scripture
+  taxonomy_refs:
+  - resurrection
+  - wisdom
+  basis: The commentary describes Ezra as raised to life after being dead one hundred
+    years and then restoring the law or scriptures by memory or divine revelation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a commentary note within the passage, not the Qur'anic verse itself,
+    and the passage frames it as a reported explanation or tradition.
+- id: motif:2
+  label: sacred calendar under divine ordinance
+  taxonomy_refs: []
+  basis: The text presents twelve months and four sacred months as ordained by God
+    and condemns human manipulation of that sacred order.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly names sacred calendar regulation.
+- id: motif:3
+  label: divine judgment for refusal of summons
+  taxonomy_refs:
+  - divine_judgment
+  basis: Believers are warned that refusal to go forth when summoned will bring grievous
+    punishment and replacement by another people.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The motif is embedded in exhortation and warning rather than a completed
+    punishment scene.
+- id: motif:4
+  label: divine aid in refuge
+  taxonomy_refs: []
+  basis: The prophet and companion are in a cave after expulsion; God is said to be
+    with them, sends security, and strengthens the prophet with unseen angels.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No available motif-family taxonomy entry directly covers cave refuge or
+    angelic aid; only the cave symbol is available.
+comparison_claims:
+- id: claim:1
+  claim: The commentary links the Ezra restoration story to a passage in 2 Esdras
+    and to traditions attributed to Christian fathers and Jewish/Rabbinic learning.
+  claim_level: same_motif
+  target: Ezra restoration of scripture in 2 Esdras and related Christian or Rabbinic
+    traditions
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports Sale's historical-literary explanation and explicitly
+    notes uncertainty about direct proof for Jewish origin; it should not be treated
+    as independent proof of transmission history.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18037-18045, commentary note d
+  quote_or_summary: Commentators explain the charge by saying some Jews held that
+    Ezra, raised to life after one hundred years dead, dictated the law anew from
+    memory and was therefore called the son of God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 18046-18066, commentary note d
+  quote_or_summary: The note says several Christian fathers held that Ezra restored
+    Old Testament books by divine revelation, seemingly from 2 Esdras, and discusses
+    possible Jewish/Rabbinic origin while admitting no direct proof.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 18078-18084
+  quote_or_summary: '"the complete number of months with GOD, is twelve months...
+    of these, four are sacred."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 18085-18092
+  quote_or_summary: The passage calls the transferring of a sacred month to another
+    month an additional infidelity and says unbelievers alternately violate and declare
+    months sacred to match the required number.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 18093-18097
+  quote_or_summary: Believers are asked why they inclined heavily toward the earth
+    when told to go forth to fight for God's religion, and are asked whether they
+    prefer present life to the life to come.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 18098-18101
+  quote_or_summary: If believers do not go forth when summoned to war, God will punish
+    them with a grievous punishment and put another people in their place.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 18102-18105
+  quote_or_summary: '"when they were both in the cave: when he said unto his companion,
+    Be not grieved, for GOD is with us."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: summary
+  locator: lines 18105-18105
+  quote_or_summary: God sends down security upon the prophet, strengthens him with
+    unseen armies of angels, abases the word of unbelievers, and exalts the word of
+    God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage contains both Qur'anic translation and translator/commentary
+    notes; motif extraction separates the commentary tradition about Ezra from the
+    Qur'anic exhortation and cave episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references limited to available motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l18037-l18105
+  passage_sha256=31f13c34316ba5665a718b99eea193d3ac28000d9b894587af45acc4b3c4a3d1

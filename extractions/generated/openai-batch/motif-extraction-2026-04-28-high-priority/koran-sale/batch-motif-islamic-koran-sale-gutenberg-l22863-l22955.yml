@@ -1,0 +1,657 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l22863-l22955
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XVI. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XVII. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 22863-22955
+  start: '22863'
+  end: '22955'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Commentary notes resurrection, debated interpretations of Mohammed's heavenly
+    journey or vision, and the tree al-Zakkum. The passage then recounts God's command
+    that angels worship Adam, Eblis's refusal and request for respite, Eblis's permitted
+    but limited temptation of Adam's offspring, divine protection for God's servants,
+    divine control of sea travel and rescue, warnings of land and sea disasters, the
+    honoring of the children of Adam, and a judgment scene in which people are called
+    with their leaders and some receive their book in the right hand.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note says the dead will rise at God's call, shake dust from their heads,
+    and praise God.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note says Mohammed's journey to heaven is generally understood by some as
+    intended in the place discussed, while other interpretations identify the vision
+    as a dream or other event.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note identifies al-Zakkum as a tree springing from the bottom of hell.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: God told the angels to worship Adam; all worshipped except Eblis.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Eblis objected to worshipping one created of clay and asked for respite until
+    the day of resurrection, saying he would extirpate Adam's offspring except a few.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: God granted Eblis respite and declared that Eblis and those who follow him
+    would have hell as their reward.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Eblis is described as enticing people by voice, assaulting with horsemen and
+    footmen, sharing in riches and children, and making deceitful promises.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: God states that Eblis has no power over God's servants and that the Lord protects
+    those who trust in him.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: God drives ships forward on the sea for commerce; when misfortune occurs at
+    sea, people forget false deities except God, but after reaching dry land safely
+    they return to idols.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The passage warns that God can cause dry land to swallow people, send a sand-driving
+    whirlwind, or send a tempestuous wind at sea to drown them.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The children of Adam are said to be honored with privileges, conveyance by
+    land and sea, good food, and preference above many creatures.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: On a certain day all people will be called to judgment with their respective
+    leader; those whose book is given into the right hand will read with joy and not
+    be wronged.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: God / LORD
+  description: The divine speaker and actor who commands the angels, grants Eblis
+    respite, protects servants, drives ships, threatens punishment, honors Adam's
+    children, and calls people to judgment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:2
+  name_or_label: Angels
+  description: Beings commanded to worship Adam; all comply except Eblis.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Adam
+  description: The human figure whom God commands the angels to worship; Eblis describes
+    him as created of clay.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Eblis / the devil
+  description: The being who refuses to worship Adam, asks for respite, threatens
+    Adam's offspring, and makes deceitful promises.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Children / offspring of Adam
+  description: Human descendants whom Eblis seeks to mislead and whom God says he
+    has honored with conveyance, food, and prerogatives.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+  - ev:11
+- id: fig:6
+  name_or_label: God's servants who trust in him
+  description: A group over whom Eblis is said to have no power.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: False deities / idols
+  description: Beings invoked by people but forgotten during misfortune at sea, then
+    returned to after rescue.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Respective leaders at judgment
+  description: Leaders with whom all people will be called on the judgment day; the
+    note gives several possible interpretations of these leaders.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:11
+- id: fig:9
+  name_or_label: Mohammed
+  description: Named in a note concerning a debated journey to heaven or vision.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine commander, protector, provider, and judge
+  assigned_to:
+  - fig:1
+  basis: God commands worship of Adam, limits Eblis, protects servants, provides sea
+    travel and food, and summons people to judgment.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+- id: role:2
+  label: commanded worshippers
+  assigned_to:
+  - fig:2
+  basis: The angels are commanded to worship Adam and are said to do so, except Eblis.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: honored clay-created human prototype
+  assigned_to:
+  - fig:3
+  basis: Adam is the one honored by the command to the angels, and Eblis identifies
+    him as created of clay.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: rebellious tempter and deceiver
+  assigned_to:
+  - fig:4
+  basis: Eblis refuses the command, threatens Adam's offspring, and uses deceitful
+    promises.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: tested human descendants
+  assigned_to:
+  - fig:5
+  basis: Adam's offspring are the targets of Eblis's enticement and are later described
+    as honored and judged.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+  - ev:11
+- id: role:6
+  label: protected faithful servants
+  assigned_to:
+  - fig:6
+  basis: The passage states that Eblis has no power over God's servants and that God
+    protects those who trust him.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: abandoned and resumed objects of worship
+  assigned_to:
+  - fig:7
+  basis: People forget false deities in sea danger but return to idols after reaching
+    dry land safely.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: judgment-associated leaders
+  assigned_to:
+  - fig:8
+  basis: All people are said to be called to judgment with their respective leader.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: clay
+  literal_form: clay as the material from which Eblis says Adam was created
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: day of resurrection
+  literal_form: the time until which Eblis asks respite
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: hell
+  literal_form: the reward assigned to Eblis and his followers
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: voice, horsemen, and footmen
+  literal_form: means by which Eblis is told to entice and assault people
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: sea and ships
+  literal_form: ships driven forward in the sea for commerce and the site of danger
+    and rescue
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: dry land, whirlwind, sand, and tempest
+  literal_form: threatened forms of land and sea destruction
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: book in the right hand
+  literal_form: a book given into the right hand at judgment and read with joy
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:8
+  label: al-Zakkum tree
+  literal_form: tree said in a note to spring from the bottom of hell
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: journey to heaven / vision
+  literal_form: commentarial reference to Mohammed's journey to heaven or to alternate
+    visions or dreams
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Command to worship Adam and Eblis's refusal
+  summary: God commands the angels to worship Adam; they do so except Eblis, who objects
+    because Adam was created of clay.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:2
+  label: Eblis granted respite and permitted limited temptation
+  summary: Eblis asks for respite until resurrection and declares intent to mislead
+    Adam's offspring; God grants respite, assigns hell to Eblis and his followers,
+    and describes the modes of temptation while protecting faithful servants.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Sea travel, danger, rescue, and return to idols
+  summary: God enables ships to move on the sea for commerce. In sea misfortune people
+    abandon false deities except God, but after rescue to dry land they return to
+    idols.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+- id: scene:4
+  label: Warnings of destruction by land and sea
+  summary: The passage warns that God can make the land swallow people, send a whirlwind
+    with sand, or return them to the sea and drown them by tempest.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:9
+- id: scene:5
+  label: Honoring the children of Adam
+  summary: The children of Adam are described as honored with privileges, conveyance
+    on land and sea, good food, and preference over many created beings.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:10
+- id: scene:6
+  label: Judgment with leaders and right-hand book
+  summary: All people are called to judgment with their respective leader; those who
+    receive their book in the right hand read with joy and are not wronged.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:11
+- id: scene:7
+  label: Commentarial heavenly journey or vision
+  summary: A note reports that Mohammed's journey to heaven is generally taken by
+    some as intended, while other explanations identify the vision differently.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Refusal to honor the human ancestor
+  taxonomy_refs: []
+  basis: The angels are commanded to worship Adam, but Eblis refuses and objects to
+    Adam's clay origin.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents the refusal in a specifically Qur'anic theological
+    frame; no broader comparison is required for extraction.
+- id: motif:2
+  label: Limited demonic temptation of humanity
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Eblis receives respite, threatens Adam's offspring, uses voice, forces, wealth,
+    children, and promises to deceive, but has no power over God's servants.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy label is approximate because the passage identifies Eblis
+    as devilish adversary rather than a playful or culture-crossing trickster.
+- id: motif:3
+  label: Sea peril, divine rescue, and human ingratitude
+  taxonomy_refs: []
+  basis: People in danger at sea turn from false deities to God, are brought safely
+    to dry land, and then return to idols.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: No available motif-family taxonomy directly names this pattern.
+- id: motif:4
+  label: Divine judgment with written record in the right hand
+  taxonomy_refs:
+  - divine_judgment
+  basis: All people are called to judgment with their leaders, and those receiving
+    their book in the right hand read it with joy and are not wronged.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: Details of the 'leader' are multiple in the note and should not be over-specified.
+- id: motif:5
+  label: Resurrection of the dead
+  taxonomy_refs:
+  - resurrection
+  basis: A note describes the dead rising at God's call, and the passage refers to
+    the day of resurrection.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: Part of the evidence comes from translator/commentarial annotation rather
+    than the main quoted verse.
+- id: motif:6
+  label: Heavenly journey or vision
+  taxonomy_refs:
+  - ascent
+  basis: A note says Mohammed's journey to heaven is generally agreed by some to be
+    intended, while also reporting interpretations that the vision was a dream or
+    another event.
+  evidence_refs:
+  - ev:2
+  confidence: uncertain
+  cautions: The same note records substantial disagreement over whether the reference
+    is a bodily journey, dream, night-journey, or another vision.
+- id: motif:7
+  label: Infernal tree
+  taxonomy_refs: []
+  basis: A note names al-Zakkum as a tree springing from the bottom of hell.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a brief note and not a developed narrative scene
+    for the tree.
+comparison_claims:
+- id: claim:1
+  claim: The judgment scene can be compared to a divine judgment motif family because
+    people are summoned, associated with leaders, and evaluated through a book received
+    in the right hand.
+  claim_level: same_motif
+  target: divine_judgment
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not provide a full judgment narrative beyond the summons
+    and right-hand book detail.
+- id: claim:2
+  claim: The resurrection references support comparison with a resurrection motif
+    family, especially through the dead rising at a call and the stated day of resurrection.
+  claim_level: same_motif
+  target: resurrection
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: One resurrection detail is supplied by commentary rather than by the
+    main verse in this line range.
+- id: claim:3
+  claim: The commentarial note allows a cautious comparison to an ascent motif family
+    through the reported interpretation of Mohammed's journey to heaven.
+  claim_level: same_motif
+  target: ascent
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:12
+  confidence: uncertain
+  limitations: The same note explicitly lists alternate interpretations, including
+    dream or other visions, so the ascent identification is not secure from this passage
+    alone.
+- id: claim:4
+  claim: The Eblis episode can be compared functionally to a deceptive adversary or
+    tempter pattern because Eblis receives time to entice humans but remains limited
+    by divine protection.
+  claim_level: same_function
+  target: deceptive tempter pattern / trickster_boundary
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage frames Eblis as a devilish rebel; applying a trickster-related
+    taxonomy should remain cautious.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22863-22864
+  quote_or_summary: Commentary says the dead will immediately rise at God's call,
+    shake dust from their heads, and praise God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 22878-22891
+  quote_or_summary: Commentary discusses Mohammed's journey to heaven as an intended
+    meaning for the passage, while also listing alternate interpretations of the vision
+    as a dream or other event.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: line 22892
+  quote_or_summary: '"Called al Zakkm, which springs from the bottom of hell."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: lines 22905-22908
+  quote_or_summary: God says to the angels, "Worship Adam"; all worship except Eblis,
+    who asks whether he should worship one created of clay.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation/summarized.
+- id: ev:5
+  type: summary
+  locator: lines 22909-22914
+  quote_or_summary: Eblis asks for respite until the day of resurrection and threatens
+    Adam's offspring; God grants respite and says Eblis's followers will have hell
+    as reward.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 22915-22919
+  quote_or_summary: Eblis is told to entice by voice, assault with horsemen and footmen,
+    share in riches and children, and make promises; the devil's promises are deceitful.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 22920-22921
+  quote_or_summary: '"as to my servants, thou shalt have no power over them; for thy
+    LORD is a sufficient protector"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: summary
+  locator: lines 22922-22928
+  quote_or_summary: God drives ships on the sea for commerce; in sea misfortune people
+    forget false deities except God, but after reaching dry land they return to idols.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 22929-22935
+  quote_or_summary: The passage warns that God may make land swallow people, send
+    a sand-bearing whirlwind, or send a tempest at sea to drown them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 22936-22940
+  quote_or_summary: God has honored the children of Adam with privileges, conveyance
+    by land and sea, good food, and preference above many creatures.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 22941-22944 and 22951-22954
+  quote_or_summary: On a certain day all people are called to judgment with their
+    respective leader; those whose book is given into the right hand read with joy
+    and are not wronged. The note lists possible interpretations of 'leader.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 22882-22891
+  quote_or_summary: The commentary offers alternate explanations for the vision, including
+    a dream at al-Hodeibiya, a vision at Bedr, or a vision concerning the family of
+    Ommeya.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Main narrative elements are explicit. Some motif mappings, especially ascent
+    and trickster-boundary, rely on commentary or approximate taxonomy alignment and
+    need review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Commentary is treated as passage evidence but distinguished from the main translated verse where relevant.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l22863-l22955
+  passage_sha256=ba6b762fd86d37ff7fae3afa2edd3f5a24de19bee9615cfc5e8561809d1e7e43

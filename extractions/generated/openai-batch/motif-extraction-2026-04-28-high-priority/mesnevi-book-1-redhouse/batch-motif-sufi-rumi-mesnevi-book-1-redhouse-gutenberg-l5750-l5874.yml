@@ -1,0 +1,575 @@
+---
+record_id: batch.motif.sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l5750-l5874
+source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+passage_locator:
+  label: OF QONYA. / PREFACE. / IN THE NAME OF GOD, / THE ALL-MERCIFUL, THE VERY-COMPASSIONATE.;
+    lines 5750-5874
+  start: '5750'
+  end: '5874'
+  translation: The Mesnevi
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A physician questions a lovesick maid while monitoring her bodily reactions,
+    discovers her attachment to a goldsmith in Samarqand, promises secrecy and relief,
+    and advises the prince to summon the goldsmith with honors and gold. The goldsmith
+    is lured from home, received with offices, married to the maid, and after six
+    months the physician gives him a potion that makes him decline. The passage closes
+    with moral reflections on outward beauty as an unreliable basis for love and with
+    examples of creatures killed for prized outward features.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The physician prompts the maid to recount places and people from her past
+    while noting her pulse.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The name Samarqand causes the maid's cheeks and pulse to react, revealing
+    her connection to a young goldsmith there.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The physician asks for the youth's abode, and the maid locates him at Holywell
+    near Bridge-end's public road.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The physician promises to help the maid, tells her not to disclose the secret,
+    and cites a prophetic maxim about keeping secrets.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The physician tells the prince the learned cause of the maid's illness and
+    advises summoning the goldsmith with an offer of trust, honor, and gold.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Two trustworthy messengers travel to Samarqand and deliver the prince's invitation
+    to the goldsmith.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Gold and a dress of honor persuade the goldsmith to leave home; the narrator
+    states that he does not know the fate awaiting him.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: After arrival, the goldsmith is received by the prince and named mint-master,
+    treasurer, and mayor.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The maid is given to the goldsmith; they are formally united, and her health
+    improves over six months.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The physician mixes a potion for the goldsmith, after which the goldsmith's
+    health declines and his body becomes thin.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The passage states that love based on outward, skin-deep charms is not true
+    love.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: 'The passage gives examples of animals harmed or killed for valued outward
+    features: peacock plumage, musk-deer musk, marten fur, and elephant ivory.'
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: physician / doctor / leech
+  description: A skilled physician who diagnoses the maid's hidden love, counsels
+    secrecy, advises the prince, and later prepares a potion for the goldsmith.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:9
+- id: fig:2
+  name_or_label: maid / maiden / handmaid
+  description: A sick young woman whose bodily signs reveal love for a goldsmith from
+    Samarqand and whose health improves after union with him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: fig:3
+  name_or_label: prince
+  description: The ruler who receives the physician's report, sends messengers for
+    the goldsmith, grants him offices, and gives the maid to him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: goldsmith youth
+  description: A skilled artisan from Samarqand who is summoned with gifts, leaves
+    home, receives offices, is united with the maid, and later declines after a potion.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: two trustworthy messengers
+  description: Sedate, fair-spoken messengers sent by the prince to Samarqand to bring
+    the goldsmith.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: holy Prophet
+  description: Cited as the source of a maxim about the success of one who keeps a
+    secret.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: peacock, musk-deer, marten, elephant
+  description: Animals invoked as examples of creatures endangered by prized outward
+    features.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: diagnostic healer
+  assigned_to:
+  - fig:1
+  basis: He questions the maid and monitors her pulse to learn the cause of her illness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: counselor and confidant
+  assigned_to:
+  - fig:1
+  basis: He promises aid, tells the maid to keep the secret, and reassures her.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: lovesick patient
+  assigned_to:
+  - fig:2
+  basis: Her pulse and color change at the name Samarqand, revealing love for the
+    goldsmith; her health later improves after union.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:4
+  label: ruler who acts on counsel
+  assigned_to:
+  - fig:3
+  basis: He accepts the doctor's plan, sends messengers, and later grants offices
+    and the maid.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:5
+  label: summoned beloved artisan
+  assigned_to:
+  - fig:4
+  basis: The goldsmith is the youth loved by the maid and is summoned for his skill.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:6
+  label: preparer of harmful potion
+  assigned_to:
+  - fig:1
+  basis: The doctor mixes a potion after which the goldsmith declines.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: unwitting victim of fatal invitation
+  assigned_to:
+  - fig:4
+  basis: The gifts win his heart and he travels joyfully, unaware that the journey
+    leads toward doom.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: envoys
+  assigned_to:
+  - fig:5
+  basis: They are sent to Samarqand and convey the prince's message.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: cited moral authority
+  assigned_to:
+  - fig:6
+  basis: The physician invokes the Prophet's maxim about keeping secrets.
+  evidence_refs:
+  - ev:3
+- id: role:10
+  label: moral exempla
+  assigned_to:
+  - fig:7
+  basis: The animals illustrate the danger attached to prized outward features.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: pulse as bodily sign
+  literal_form: The maid's pulse remaining normal or beating high in response to named
+    places.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: secret held in the heart
+  literal_form: The physician tells the maid to keep the knowledge in her heart's
+    core.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: seed hidden in earth before growth
+  literal_form: A seed committed to the earth before field or garden can be seen.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: gold and dress of honor
+  literal_form: Gifts sent by the prince that persuade the goldsmith to leave home.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: potion
+  literal_form: A potion mixed by the physician for the goldsmith, followed by bodily
+    decline.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: water imagery
+  literal_form: Spring, stream, showers, and streams of tears used in the passage's
+    imagery.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:9
+- id: sym:7
+  label: prized outward features
+  literal_form: Peacock plumage, musk-deer musk-pod, marten fur, and elephant ivory.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Diagnostic questioning of the maid
+  summary: The physician asks the maid about places, people, and events from her past
+    while observing her pulse for signs of emotional reaction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Samarqand reveals the hidden beloved
+  summary: The maid reacts bodily to the name Samarqand, and the physician identifies
+    her attachment to a young goldsmith there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Promise of secrecy and help
+  summary: The physician reassures the maid, tells her to conceal the secret, and
+    supports the advice with a maxim and images of hidden seed and hidden precious
+    metals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Prince sends for the goldsmith
+  summary: The physician reports the cause of the maid's illness and advises the prince
+    to invite the goldsmith with honor and gold; messengers carry this summons to
+    Samarqand.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Goldsmith accepts the fatal invitation
+  summary: The gifts win the goldsmith's heart, and he leaves home happily, unaware
+    that the journey is described as leading to doom.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Reception, offices, and union
+  summary: The goldsmith arrives, is honored with high offices, and is united with
+    the maid, whose health improves over six months.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:7
+  label: Potion and decline
+  summary: The physician gives the goldsmith a potion; his health and appearance decline,
+    and the passage comments that love based only on external beauty is not true love.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:9
+- id: scene:8
+  label: Animal exempla of dangerous beauty
+  summary: The passage compares the goldsmith's loss of valued appearance to animals
+    harmed for coveted features such as plumage, musk, fur, and ivory.
+  figure_refs:
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: hidden love diagnosed through bodily signs
+  taxonomy_refs:
+  - wisdom
+  basis: The physician uses questions and pulse-observation to identify the maid's
+    concealed love for the goldsmith.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents diagnostic skill
+    and discernment rather than an explicit abstract wisdom motif.
+- id: motif:2
+  label: secret-keeping as condition of success
+  taxonomy_refs:
+  - wisdom
+  basis: The physician instructs the maid to keep the secret and cites a prophetic
+    maxim that one who keeps a secret has speedy success.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is stated as moral counsel within the passage, not as a full narrative
+    motif by itself.
+- id: motif:3
+  label: fatal summons disguised as honor
+  taxonomy_refs: []
+  basis: The prince's honors and gold induce the goldsmith to leave home, while the
+    narrator says he is hastening to doom.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives no explicit external motif-family label for this pattern.
+- id: motif:4
+  label: healing by union with the beloved
+  taxonomy_refs: []
+  basis: The maid is united with the goldsmith and her health improves over six months.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The episode is embedded in a larger plot that subsequently harms the goldsmith,
+    so the healing is temporary and narratively complicated.
+- id: motif:5
+  label: outward beauty as cause of destruction
+  taxonomy_refs: []
+  basis: The goldsmith's fading beauty leads to loss of the maid's attachment, and
+    the passage gives animals killed for prized outward qualities as examples.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This is an explicit moral pattern in the passage, though not tied to a
+    supplied taxonomy motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5750-5763
+  quote_or_summary: The physician asks the maid about memories, home, friends, and
+    places while listening and noting her pulse to detect any name that raises a reaction.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: quote
+  locator: lines 5764-5778
+  quote_or_summary: "“Till Samarqand’s name made her cheeks to glow, / Her pulse beat
+    high”; she had been the flame of a goldsmith youth and gives his abode."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 5779-5794
+  quote_or_summary: The physician promises to act as guardian, tells the maid not
+    to reveal the secret, cites the Prophet's maxim on keeping secrets, and compares
+    hidden success to seed in earth and precious metals being hard to find.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 5795-5809
+  quote_or_summary: After soothing the maid, the physician tells the prince the source
+    of her illness and advises sending for the goldsmith with an offer of a trusted
+    post, honor, and gold.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 5810-5820
+  quote_or_summary: Two trustworthy messengers go to Samarqand, find the goldsmith,
+    praise his skill, and convey the prince's invitation to guide the mint along with
+    a dress of honor and gold.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: quote
+  locator: lines 5821-5831
+  quote_or_summary: "“The gold and dress of honour won his heart”; he travels joyfully,
+    while the narrator warns, “Thou hastest to thy doom.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 5832-5838
+  quote_or_summary: The doctor leads the arrived goldsmith to the prince, who receives
+    him nobly and names him mint-master, treasurer, and mayor.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 5839-5848
+  quote_or_summary: The physician advises leaving the damsel to the youth for service;
+    the prince gives the sick one to her mate, they are united, and her health improves
+    over six months.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summary used.
+- id: ev:9
+  type: quote
+  locator: lines 5849-5863
+  quote_or_summary: "“The doctor, now, a potion mixed for him. / His health declines”;
+    the passage says love built on “outer skin-deep charms” is not true love and describes
+    the goldsmith's tears."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:10
+  type: summary
+  locator: lines 5864-5874
+  quote_or_summary: The passage lists the peacock harmed by plumage, the musk-deer
+    slain for musk, the marten trapped for fur, and the elephant killed for ivory.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative sequence and roles are explicit in the supplied passage. Motif
+    labels are candidate abstractions and require human review. No external comparison
+    claims were made because the passage itself does not support a specific comparative
+    link beyond its own exempla.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were applied only where the available list broadly matched explicit passage material.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-rumi-mesnevi-book-1-redhouse-gutenberg__l5750-l5874
+  passage_sha256=1a3940b6f24bca05bb5defb8d49dd2c50c198ecd213f4559a243009268d0ba4a

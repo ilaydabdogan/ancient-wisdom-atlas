@@ -1,0 +1,112 @@
+---
+record_id: batch.motif.sufi-mystics-and-saints-of-islam-field-gutenberg-l72-l97
+source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+passage_locator:
+  label: CHAP.                                         PAGE / I. PANTHEISTIC SUFISM                         1
+    / II. HASAN BASRI                               18 / III. RABIA, THE WOMAN SUFI                     28;
+    lines 72-97
+  start: '72'
+  end: '97'
+  translation: Mystics and Saints of Islam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: MYSTICS AND SAINTS OF ISLAM
+  summary: 'The passage is the title and contents page for Claud Field''s 1910 book,
+    listing three chapters: Pantheistic Sufism, Hasan Basri, and Rabia, the Woman
+    Sufi.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents the title of the work as Mystics and Saints of Islam.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies Claud Field as the author.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The contents list three chapters with page numbers: Pantheistic Sufism on
+    page 1, Hasan Basri on page 18, and Rabia, the Woman Sufi on page 28.'
+  category: sequence
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Claud Field
+  description: Named as the author of Mystics and Saints of Islam.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hasan Basri
+  description: Named as the subject or title of chapter II in the contents.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Rabia, the Woman Sufi
+  description: Named as the subject or title of chapter III in the contents.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: author
+  assigned_to:
+  - fig:1
+  basis: The title page states the work is by Claud Field.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: chapter subject or title figure
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The names appear as chapter titles in the table of contents.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 72-86
+  quote_or_summary: Title page gives the work as Mystics and Saints of Islam, by Claud
+    Field, published in London by Francis Griffiths in 1910.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain; short quotation or summary permitted.
+- id: ev:2
+  type: summary
+  locator: lines 88-97
+  quote_or_summary: The contents list chapter I, Pantheistic Sufism, page 1; chapter
+    II, Hasan Basri, page 18; chapter III, Rabia, the Woman Sufi, page 28.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain; summary permitted.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is bibliographic front matter and a table of contents; it contains
+    named persons and chapter labels but no narrative episode, symbol, or supported
+    motif pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No candidate motifs or comparison claims were extracted because the passage contains only title and contents information.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-mystics-and-saints-of-islam-field-gutenberg__l72-l97
+  passage_sha256=ace8d8ac8c5dfc2cf7cc1dffd06f1fd4dcdb2f31852dd9a2cb2fdaabbf66b8b2

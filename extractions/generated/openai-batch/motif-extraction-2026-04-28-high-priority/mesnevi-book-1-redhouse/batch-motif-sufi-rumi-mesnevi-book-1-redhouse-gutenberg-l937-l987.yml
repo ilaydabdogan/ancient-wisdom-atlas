@@ -1,0 +1,528 @@
+---
+record_id: batch.motif.sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l937-l987
+source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+passage_locator:
+  label: FROM THE WORK ENTITLED / THE ACTS OF THE ADEPTS / CHAPTER I. / CHAPTER II.;
+    lines 937-987
+  start: '937'
+  end: '987'
+  translation: The Mesnevi
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recounts the Seyyid’s failed attempt to leave secretly, his
+    fall and injury, Jelāl’s immediate healing of the crushed limb, the Seyyid’s prepared
+    death with ablution and a final hymn to God, his burial, the failed construction
+    of a dome over his grave, and Jelāl’s later prayer at the tomb.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: While riding among vineyards with friends, the Seyyid considered secretly
+    leaving for Qaysariyya.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the Seyyid conceived the idea of absconding, his beast reared, threw
+    him, and broke his leg.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Jelāl ordered the Seyyid’s boot removed, saw the crushed foot and toes, passed
+    his hands along the injured limb, blew on it, and the limb was restored whole.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the healing, Jelāl granted permission and the Seyyid proceeded to Qaysariyya.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When the Seyyid’s time to die came, he told his servant to prepare warm water,
+    leave, and announce that the stranger Seyyid had departed to the other world.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Seyyid bolted the door so that none should enter.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The servant returned to the door and observed through a chink as the Seyyid
+    performed ablution, arranged his dress, and lay down on his couch.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Seyyid called upon angels, saints, and heavens who had entrusted him with
+    secrets to come and receive back their charges.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Seyyid recited a final hymn addressing God as beloved and asking God to
+    receive his soul.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: After the Seyyid’s last words, he yielded up his spirit; his friends gathered,
+    carried him forth, and buried him.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A rich and powerful disciple raised a mausoleum over the Seyyid’s grave.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: 'The departed saint would not allow a cupola to stand: two domes were shaken
+    down by earthquakes, and in a dream the Seyyid forbade a third construction.'
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: After forty days of mourning, Jelāl traveled from Qonya to Qaysariyya, prayed
+    at the tomb of his deceased teacher, and returned home.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the Seyyid
+  description: A teacher and saintly figure who is injured, healed by Jelāl, later
+    prepares for death, addresses heavenly beings, dies, is buried, and appears in
+    a dream forbidding a third cupola.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Jelāl
+  description: The Seyyid’s teacher-student relation is implied by the Seyyid calling
+    himself Jelāl’s teacher; Jelāl heals the Seyyid’s injured limb, grants permission
+    for travel, and later prays at the Seyyid’s tomb.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: fig:3
+  name_or_label: party of friends
+  description: Friends take the Seyyid riding, raise him after his fall, conduct him
+    to a country-house, and later gather to bury him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:4
+  name_or_label: servant
+  description: The servant prepares warm water, is told to announce the Seyyid’s departure,
+    observes the death preparations, and carries the news to the Seyyid’s friends.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: angels, saints, and heavens
+  description: Collective heavenly recipients whom the Seyyid summons to receive back
+    secrets entrusted to him.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: rich and powerful disciple
+  description: A disciple who raises a mausoleum over the Seyyid’s grave.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: the beast
+  description: The animal ridden by the Seyyid; it rears, throws him, and breaks his
+    leg.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: teacher
+  assigned_to:
+  - fig:1
+  basis: The Seyyid asks Jelāl whether breaking his leg is the proper way to reward
+    his teacher; Jelāl later prays at the tomb of his deceased teacher.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:2
+  label: dying saint
+  assigned_to:
+  - fig:1
+  basis: The passage calls him the departed saint and describes his deliberate preparations,
+    last words, death, burial, and posthumous dream command.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: bearer of entrusted secrets
+  assigned_to:
+  - fig:1
+  basis: He calls on angels, saints, and heavens who had entrusted him with secrets
+    to receive their charges back.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: healer
+  assigned_to:
+  - fig:2
+  basis: Jelāl passes his hands along the injured limb, blows on it, and the limb
+    is restored whole.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: visitor to tomb
+  assigned_to:
+  - fig:2
+  basis: Jelāl journeys to Qaysariyya and prays at the tomb of his deceased teacher.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: helpers and mourners
+  assigned_to:
+  - fig:3
+  basis: The friends raise the Seyyid after his fall, conduct him to a country-house,
+    later gather, carry him forth, and bury him.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:7
+  label: witness and messenger
+  assigned_to:
+  - fig:4
+  basis: The servant prepares the water, observes through the door, and carries news
+    of the death to the friends.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:8
+  label: heavenly recipients of returned secrets
+  assigned_to:
+  - fig:5
+  basis: The Seyyid summons them to come and receive back the secrets entrusted to
+    him.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: mausoleum builder
+  assigned_to:
+  - fig:6
+  basis: The disciple raises a mausoleum over the Seyyid’s grave.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: instrument of fall
+  assigned_to:
+  - fig:7
+  basis: The beast rears, throws the Seyyid, and breaks his leg.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: warm water for ablution
+  literal_form: warm water used by the Seyyid before death
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: divine love as fire
+  literal_form: hymnic image of the heart fired with divine love
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: sealed room
+  literal_form: bolted door preventing entry during the Seyyid’s final preparations
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: tomb and mausoleum
+  literal_form: grave, mausoleum, attempted cupola, and tomb where Jelāl prays
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: fallen dome
+  literal_form: cupola shaken down twice by earthquakes and forbidden in a dream
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Secret departure attempt and fall
+  summary: The Seyyid considers absconding during a ride among vineyards; immediately
+    afterward his mount throws him and breaks his leg, and his friends take him to
+    a country-house where Jelāl is present.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jelāl heals the crushed limb
+  summary: The Seyyid accuses Jelāl of breaking his teacher’s leg; Jelāl examines
+    the crushed limb, passes his hands along it, blows on it, and it is restored whole
+    before the Seyyid leaves with permission.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Prepared death behind a closed door
+  summary: The Seyyid has warm water prepared, tells the servant to announce his departure
+    to the other world, bolts the door, performs ablution, arranges his dress, lies
+    down, and summons heavenly beings to receive back entrusted secrets.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Final hymn and death
+  summary: The Seyyid recites a hymn to God as beloved, asks God to receive his soul,
+    then dies; the servant reports this, and friends bury him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Mausoleum and rejected cupola
+  summary: 'A disciple builds a mausoleum over the grave, but the departed saint is
+    said not to allow a cupola: two domes fall in earthquakes, and a dream forbids
+    a third attempt.'
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Jelāl prays at the tomb
+  summary: After forty days of mourning, Jelāl travels to Qaysariyya, prays at his
+    teacher’s tomb, and returns home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: miraculous healing by touch and breath
+  taxonomy_refs: []
+  basis: Jelāl heals a crushed limb by passing his hands along it and blowing on it,
+    after which it is restored whole.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No matching provided motif-family taxonomy reference is available for
+    this specific healing pattern.
+- id: motif:2
+  label: foreknown and ritually prepared death of a saint
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The Seyyid announces departure to the other world, performs ablution, arranges
+    his dress, summons heavenly beings, recites a final hymn, and dies.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage mentions departure to the other world but does not map stages
+    of an afterlife journey.
+- id: motif:3
+  label: divine beloved at the moment of death
+  taxonomy_refs:
+  - divine_beloved
+  basis: The final hymn addresses God as beloved and asks God to receive the Seyyid’s
+    soul.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The motif is drawn from the hymn’s devotional language in this death scene.
+- id: motif:4
+  label: return of entrusted heavenly secrets before death
+  taxonomy_refs:
+  - wisdom
+  basis: The Seyyid calls on angels, saints, and heavens who entrusted him with secrets
+    to come and receive them back.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The nature of the secrets is not described.
+- id: motif:5
+  label: posthumous saint controls tomb architecture
+  taxonomy_refs: []
+  basis: The departed saint is said not to allow a cupola to stand; earthquakes bring
+    down two domes and a dream forbids a third construction.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No provided taxonomy reference directly covers this tomb miracle pattern.
+- id: motif:6
+  label: pilgrimage-like prayer at the teacher’s tomb
+  taxonomy_refs: []
+  basis: Jelāl travels to Qaysariyya after mourning and prays at the tomb of his deceased
+    teacher.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage describes travel and prayer at the tomb, but does not explicitly
+    label it a pilgrimage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 937-944
+  quote_or_summary: Friends take the Seyyid riding among vineyards; he thinks of secretly
+    going to Qaysariyya, and immediately his beast rears, throws him, and breaks his
+    leg; friends take him to a country-house where Jelāl has come.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 945-952
+  quote_or_summary: The Seyyid asks Jelāl whether this is how to reward his teacher;
+    Jelāl removes the boot, sees the crushed foot and toes, passes his hands along
+    the limb, blows on it, restores it whole, and grants permission for the Seyyid
+    to go to Qaysariyya.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 956-963
+  quote_or_summary: When the time for the Seyyid to die comes, he orders warm water
+    prepared, tells the servant to announce that the stranger Seyyid has departed
+    to the other world, and bolts the door.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 964-971
+  quote_or_summary: The servant watches through a chink as the Seyyid performs ablution,
+    arranges his dress, lies on his couch, and calls angels, saints, and heavens to
+    receive back secrets entrusted to him.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 973-978
+  quote_or_summary: "“God, my beloved... My soul receive... In Thee alone my heart
+    finds peace; it fire with love divine.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: lines 980-982
+  quote_or_summary: The hymn is the Seyyid’s last speech before he yields up his spirit;
+    the servant tells the friends, who gather, carry him forth, and bury him.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 984-987
+  quote_or_summary: A rich disciple raises a mausoleum over the grave; the departed
+    saint will not allow a cupola, two domes are shaken down by earthquakes, and in
+    a dream the Seyyid forbids a third edification.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 989-991
+  quote_or_summary: After forty days of mourning, a letter is sent to Jelāl; he travels
+    from Qonya to Qaysariyya, prays at his deceased teacher’s tomb, and returns home.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are descriptive and cautious; taxonomy mapping is limited to the provided motif
+    and symbol lists.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. No comparison claims were added because the passage itself does not explicitly support a comparison beyond internal motif description.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-rumi-mesnevi-book-1-redhouse-gutenberg__l937-l987
+  passage_sha256=7fb7551ff769b0b2087b17de2a50cf22871ffdfc75767f408c892c1fb4f343ef

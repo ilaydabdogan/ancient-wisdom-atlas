@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.sufi-al-ghazzali-confessions-field-gutenberg-l425-l457
+source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+passage_locator:
+  label: C. F. / THE CONFESSIONS OF AL GHAZZALI / THE SUBTERFUGES OF THE SOPHISTS
+    / THE DIFFERENT KINDS OF SEEKERS AFTER TRUTH; lines 425-457
+  start: '425'
+  end: '457'
+  translation: The Confessions of Al Ghazzali
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator explains the seriousness of seeking truth, says God healed
+    him of a malady, classifies seekers after truth into scholastic theologians, philosophers,
+    and Sufis, and resolves to investigate these paths after finding blind belief
+    impossible to regain once it has been lost.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator states that his purpose is to make others understand the earnestness
+    required in searching for truth.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says primary assumptions are always present to the mind and elude
+    grasp if deliberately sought.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator says God, through mercy, healed him of a malady.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The narrator divides seekers after truth into three groups: scholastic theologians,
+    philosophers, and Sufis.'
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Scholastic theologians are described as following theory and speculation.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Philosophers are described as relying on formal logic.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Sufis are described as calling themselves the elect of God and possessors
+    of intuition and knowledge of truth by ecstasy.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The narrator reasons that truth must be found among the three classes devoted
+    to seeking it, otherwise hope of attaining it must be abandoned.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The narrator says that after blind belief has been surrendered, it is impossible
+    to return to it in its former state.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage compares shattered blind belief to glass fragments that cannot
+    be reunited except by being cast into a furnace and refashioned.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The narrator resolves to investigate scholastic theology, philosophical systems,
+    and finally Sufism.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: The first-person speaker who searches for truth, reports being healed,
+    classifies seekers, and undertakes investigations.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: God
+  description: The divine figure said to have healed the narrator of a malady through
+    abundant mercy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Scholastic theologians
+  description: One group of seekers after truth, described as following theory and
+    speculation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Philosophers
+  description: One group of seekers after truth, described as relying on formal logic.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Sufis
+  description: One group of seekers after truth, described as calling themselves the
+    elect of God and possessors of intuition and knowledge of truth by ecstasy.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: truth-seeker
+  assigned_to:
+  - fig:1
+  basis: The speaker frames his work as a search for truth and resolves to investigate
+    multiple systems.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: classifier of seekers
+  assigned_to:
+  - fig:1
+  basis: The speaker divides those engaged in the search for truth into three groups.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: merciful healer
+  assigned_to:
+  - fig:2
+  basis: God is said to have healed the speaker of a malady through mercy.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: class of truth-seekers
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Each group is named as a type among those engaged in the search for truth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: claimants to intuition and ecstatic knowledge
+  assigned_to:
+  - fig:5
+  basis: The Sufis are described as calling themselves possessors of intuition and
+    knowledge of truth by means of ecstasy.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: truth
+  literal_form: truth as the object of search
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: paths of investigation
+  literal_form: paths and systems followed in sequence
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: shattered glass
+  literal_form: glass fragments used as a comparison for lost blind belief
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: furnace of refashioning
+  literal_form: furnace into which shattered glass would need to be cast and refashioned
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Statement on the search for truth
+  summary: The narrator explains that earnest search for truth may lead to unexpected
+    results and discusses the elusiveness of primary assumptions when they are made
+    the object of search.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Healing and classification of seekers
+  summary: 'After saying God healed him of a malady, the narrator identifies three
+    groups engaged in the search for truth: scholastic theologians, philosophers,
+    and Sufis.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Irrecoverable loss of blind belief
+  summary: The narrator reasons that truth must lie among the three classes if it
+    is attainable, and says blind belief cannot be restored once its unconsciousness
+    has been lost, using an image of broken glass and refashioning in a furnace.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Order of investigation
+  summary: 'The narrator resolves to pursue the paths in order: scholastic theology,
+    philosophical systems, and finally Sufism.'
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: quest for truth or wisdom
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The passage repeatedly frames the narrator and the three groups as engaged
+    in a search for truth, culminating in a deliberate investigation of successive
+    paths.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is autobiographical and doctrinal rather than a mythic narrative;
+    the motif label should be treated as an abstract pattern.
+- id: motif:2
+  label: irreversible loss of naive belief
+  taxonomy_refs: []
+  basis: The speaker says blind belief cannot be resumed once surrendered and compares
+    it to shattered glass needing to be refashioned in a furnace.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No supplied taxonomy family directly corresponds to this image; it is
+    recorded as a local candidate motif only.
+- id: motif:3
+  label: divine healing before inquiry
+  taxonomy_refs: []
+  basis: The narrator says God healed him of a malady before he classified and investigated
+    seekers after truth.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The nature of the malady is not specified in this passage excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 425-432
+  quote_or_summary: The narrator says his object is to make others understand the
+    earnest search for truth, and discusses primary assumptions as always present
+    but elusive when sought.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 436-439
+  quote_or_summary: "“When God in the abundance of His mercy had healed me of this
+    malady, I ascertained that those who are engaged in the search for truth may be
+    divided into three groups.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 441-448
+  quote_or_summary: The three groups are scholastic theologians, philosophers, and
+    Sufis; they are associated respectively with theory and speculation, formal logic,
+    and claims to divine election, intuition, and ecstatic knowledge of truth.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 450-455
+  quote_or_summary: The narrator says truth must be among the three classes if attainable;
+    once blind belief is surrendered, it cannot be regained, and is compared to shattered
+    glass that would need refashioning in a furnace.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 455-457
+  quote_or_summary: The narrator determines to follow the paths and investigate scholastic
+    theology, philosophical systems, and finally Sufism.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal classification and sequence are explicit. Motif labels are abstracted
+    from doctrinal-autobiographical prose rather than mythic narrative. No comparison
+    claims are made because the passage itself does not compare to another tradition
+    or motif family beyond its own categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to available motif families where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-al-ghazzali-confessions-field-gutenberg__l425-l457
+  passage_sha256=6f1601da505dce1dc6dd3e0999972ce246c5e3f832d70698602eaba4b1130ae8

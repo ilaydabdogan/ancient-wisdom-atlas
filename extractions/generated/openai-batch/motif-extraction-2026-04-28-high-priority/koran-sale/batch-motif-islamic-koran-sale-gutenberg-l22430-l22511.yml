@@ -1,0 +1,542 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l22430-l22511
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XV. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XVI. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 22430-22511
+  start: '22430'
+  end: '22511'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage promises divine mercy to persecuted believers who persevered,
+    describes a day when every soul pleads for itself and is repaid justly, gives
+    a parable of a prosperous city punished for ingratitude, warns Mecca's inhabitants
+    for rejecting an apostle, gives dietary prohibitions with an exception for necessity,
+    condemns false declarations of lawful and unlawful things, promises mercy after
+    repentance, presents Abraham as an obedient monotheistic model, mentions Sabbath
+    disagreement to be judged on the day of resurrection, and exhorts invitation by
+    wisdom, proportionate response, patience, and reliance on God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Lord is said to favor those who fled their country after persecution,
+    violent compulsion, fighting in defense of the true religion, and patient perseverance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A day is described when every soul comes to plead for itself and is repaid
+    according to what it has done without injustice.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A parable describes a secure and quiet city receiving abundant provisions,
+    denying God's favor, and then tasting extreme famine and fear because of its deeds.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An apostle is said to have come to the inhabitants of Mecca from among themselves,
+    and they accuse him of imposture.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage permits lawful and good food from God and forbids carrion, blood,
+    swine's flesh, and what is slain in the name of any besides God, with an exception
+    for necessity without lust or willful transgression.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage warns against falsely saying with one's tongue that something
+    is lawful or unlawful in order to devise a lie concerning God.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Those who do evil through ignorance and afterward repent and amend are promised
+    divine grace and mercy after repentance.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Abraham is described as a model of true religion, obedient to God, orthodox,
+    not an idolater, grateful for benefits, chosen by God, and directed into the right
+    way.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The Sabbath is described as appointed for those who differed with their prophet
+    concerning it, and the Lord is said to judge between them on the day of resurrection.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage instructs invitation to the Lord's way by wisdom and mild exhortation,
+    proportionate vengeance if vengeance is taken, and patient endurance as better.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God / the Lord
+  description: The divine speaker or agent who favors, forbids, judges, chooses, directs,
+    assists, and is described as gracious and merciful.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Persecuted believers who fled
+  description: Those who fled their country after persecution and violent compulsion,
+    fought in defense of true religion, and persevered patiently.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Every soul
+  description: Each soul that comes on the appointed day to plead for itself and receive
+    repayment for its deeds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Parable city
+  description: A secure, quiet, abundantly provisioned city that denied God's favor
+    and was made to taste famine and fear.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Inhabitants of Mecca
+  description: The people to whom an apostle from among themselves has come and whom
+    they accuse of imposture.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Apostle to Mecca
+  description: An apostle said to have come to the inhabitants of Mecca from among
+    themselves.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Abraham
+  description: A model of true religion, obedient to God, orthodox, not an idolater,
+    grateful, chosen, and directed into the right way.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Mohammed
+  description: The addressee of revelation instructing him to follow the religion
+    of Abraham.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Those who differed concerning the Sabbath
+  description: A group for whom the Sabbath was appointed after difference with their
+    prophet, to be judged on the day of resurrection.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: merciful patron
+  assigned_to:
+  - fig:1
+  basis: The Lord is repeatedly described as gracious and merciful toward persevering
+    believers and repentant wrongdoers.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: divine judge
+  assigned_to:
+  - fig:1
+  basis: God repays every soul justly and judges differences on the day of resurrection.
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: role:3
+  label: lawgiver
+  assigned_to:
+  - fig:1
+  basis: The passage attributes food permissions and prohibitions to God and condemns
+    false declarations about lawful and unlawful things.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: persecuted faithful
+  assigned_to:
+  - fig:2
+  basis: They fled after persecution, were violently compelled, fought in defense
+    of religion, and persevered.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: accountable soul
+  assigned_to:
+  - fig:3
+  basis: Each soul pleads for itself and is repaid according to its deeds.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: ungrateful recipient of divine favor
+  assigned_to:
+  - fig:4
+  basis: The city receives provisions abundantly but denies God's favor and suffers
+    famine and fear.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: rejecting audience
+  assigned_to:
+  - fig:5
+  basis: The inhabitants accuse the apostle of imposture and are threatened with punishment
+    while acting unjustly.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: sent apostle
+  assigned_to:
+  - fig:6
+  basis: An apostle comes to the inhabitants of Mecca from among themselves.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: exemplary monotheist ancestor
+  assigned_to:
+  - fig:7
+  basis: Abraham is called a model of true religion, obedient, orthodox, not an idolater,
+    chosen, and rightly directed.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: recipient of revelation
+  assigned_to:
+  - fig:8
+  basis: Mohammed is addressed as receiving revelation to follow Abraham's religion.
+  evidence_refs:
+  - ev:8
+- id: role:11
+  label: religious disputants
+  assigned_to:
+  - fig:9
+  basis: They differed with their prophet concerning the Sabbath and await divine
+    judgment about their difference.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: parable city
+  literal_form: A secure and quiet city with abundant provisions from every side,
+    later experiencing famine and fear.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: lawful and forbidden foods
+  literal_form: Lawful good food, contrasted with carrion, blood, swine's flesh, and
+    animals slain in the name of any besides God.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: way or path of the Lord
+  literal_form: The way of the Lord, from which some stray and toward which others
+    are directed.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: sym:4
+  label: day of resurrection
+  literal_form: A future day on which the Lord judges between disputants concerning
+    their differences.
+  associated_figures:
+  - fig:1
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Mercy for persecuted believers
+  summary: Those who fled under persecution, defended the religion, and persevered
+    patiently are promised the Lord's grace and mercy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Every soul pleads and is repaid
+  summary: A future day is described in which every soul pleads for itself and receives
+    just repayment for its deeds.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Parable of the ungrateful city
+  summary: A prosperous and secure city denies God's favor and is made to experience
+    famine and fear because of its actions.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Rejection of the apostle in Mecca
+  summary: An apostle from among the inhabitants of Mecca comes to them, but they
+    accuse him of imposture and are threatened with punishment.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Dietary boundaries and false lawmaking
+  summary: The passage distinguishes lawful and forbidden foods, allows exception
+    under necessity, and condemns false speech about lawful and unlawful things.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Abraham as model and revelation to Mohammed
+  summary: Abraham is presented as an obedient, grateful, non-idolatrous model chosen
+    and guided by God, and Mohammed is instructed by revelation to follow Abraham's
+    religion.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:8
+- id: scene:7
+  label: Sabbath dispute and ethical exhortation
+  summary: The Sabbath disagreement is referred to divine judgment on the day of resurrection,
+    followed by commands to invite by wisdom, respond proportionately, and prefer
+    patience.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: final judgment of individual souls
+  taxonomy_refs:
+  - divine_judgment
+  - resurrection
+  basis: Every soul is described as pleading for itself and being repaid justly; God
+    also judges disputes on the day of resurrection.
+  evidence_refs:
+  - ev:2
+  - ev:9
+  confidence: high
+  cautions: The passage gives doctrinal statements rather than a detailed narrative
+    journey through the afterlife.
+- id: motif:2
+  label: divine punishment of an ungrateful community
+  taxonomy_refs:
+  - divine_judgment
+  basis: The parable city receives abundance, denies God's favor, and is punished
+    with famine and fear because of what its people did.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The city is explicitly a parable; the note applies it broadly or to Mecca,
+    but the extraction keeps the literal parabolic form.
+- id: motif:3
+  label: mercy after persecution, perseverance, and repentance
+  taxonomy_refs: []
+  basis: The Lord is favorable to persecuted believers who persevered and to those
+    who did evil through ignorance and then repented and amended.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: high
+  cautions: No specific available taxonomy reference exactly matches this mercy-and-repentance
+    pattern.
+- id: motif:4
+  label: sacred boundary between lawful and forbidden food
+  taxonomy_refs: []
+  basis: The passage lists foods forbidden by God, permits lawful and good food, allows
+    necessity as an exception, and condemns false declarations about lawful and unlawful
+    things.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a legal-religious instruction more than a mythic narrative motif.
+- id: motif:5
+  label: exemplary ancestral monotheist
+  taxonomy_refs: []
+  basis: Abraham is presented as an obedient, grateful, non-idolatrous model chosen
+    by God, and Mohammed is told to follow Abraham's religion.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage does not narrate Abraham's deeds, only summarizes his exemplary
+    status.
+- id: motif:6
+  label: wisdom, mild exhortation, and patient forbearance
+  taxonomy_refs:
+  - wisdom
+  basis: The passage commands invitation to the Lord's way by wisdom and mild exhortation,
+    and says patient endurance is better than vengeance beyond proportion.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: This is an ethical exhortation; its classification as a motif should be
+    reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22430-22434
+  quote_or_summary: The Lord favors those who fled their country after persecution
+    and violent compulsion, fought in defense of true religion, and persevered with
+    patience.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 22435-22437
+  quote_or_summary: A day is described when every soul pleads for itself and is repaid
+    for what it has done without injustice.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 22438-22442 and note e
+  quote_or_summary: God gives a parable of a secure, quiet, abundantly supplied city
+    that denies God's favor and is made to taste famine and fear because of its deeds;
+    the note connects this to chastised cities or Mecca.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 22443-22445
+  quote_or_summary: An apostle has come to the inhabitants of Mecca from among themselves;
+    they accuse him of imposture and are threatened with punishment while acting unjustly.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 22446-22452 and note f
+  quote_or_summary: The passage commands eating what God has given that is lawful
+    and good, forbids carrion, blood, swine's flesh, and what is slain in the name
+    of another besides God, and allows necessity without willful transgression.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 22453-22460 and notes g-i
+  quote_or_summary: The passage warns against falsely declaring things lawful or unlawful
+    and says those who devise lies concerning God will not prosper; it also notes
+    restrictions placed on the Jews without divine injury to them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 22461-22464
+  quote_or_summary: Those who do evil through ignorance and afterward repent and amend
+    are promised the Lord's grace and mercy after repentance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 22465-22472 and note j
+  quote_or_summary: Abraham is called a model of true religion, obedient to God, orthodox,
+    not an idolater, grateful, chosen, guided rightly, righteous in the next life;
+    Mohammed is told by revelation to follow Abraham's religion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 22496-22498
+  quote_or_summary: The Sabbath was appointed to those who differed with their prophet
+    concerning it, and the Lord will judge between them on the day of resurrection.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 22499-22511
+  quote_or_summary: The passage instructs invitation to the Lord's way by wisdom and
+    mild exhortation, proportionate vengeance if vengeance is taken, patient endurance
+    as better, and reliance on God's assistance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied English passage and notes. Motif
+    candidates involving ethical or legal material may require human review for atlas
+    taxonomy fit. No comparison claims were added because the passage does not itself
+    establish a specific cross-textual comparison beyond taxonomy-style motif identification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All observations and motif candidates are limited to the supplied passage and metadata. Available taxonomy references were used only where directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l22430-l22511
+  passage_sha256=6e89995c87ae5bc99f7c514ed2bdba5c6eb37bfade3d9a42d7d595d75d395869

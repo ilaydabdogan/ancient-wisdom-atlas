@@ -1,0 +1,640 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l8269-l8381
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 8269-8381
+  start: '8269'
+  end: '8381'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Aladdin is pardoned from execution after the crowd threatens to intervene,
+    but the Sultan demands that he recover the missing palace and princess. Despairing,
+    Aladdin reaches a river and unintentionally summons the genie of the ring, who
+    transports him to the palace in Africa. Aladdin reunites with the princess, learns
+    that the African magician has the lamp, and devises a plan in which the princess
+    drugs the magician with wine. After the magician dies, Aladdin retrieves the lamp
+    and commands the palace and its inhabitants to be returned to China, where the
+    Sultan is reunited with his daughter.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The crowd enters the courtyard and scales the walls to rescue Aladdin, leading
+    the vizir and Sultan to stop the execution and pardon him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sultan shows Aladdin the place where the palace had stood and demands
+    the return of both the palace and his daughter.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Aladdin is granted forty days to find the princess and agrees to return for
+    death if he fails.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After wandering for three days, Aladdin comes to a river, kneels to pray before
+    throwing himself in, and rubs his magic ring.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The genie of the ring appears and says he cannot bring back the palace because
+    that power belongs to the slave of the lamp.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The genie of the ring transports Aladdin to Africa and places him beneath
+    the princess's window.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The princess has been carried into Africa by the magician and is forced to
+    endure his company once a day.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Aladdin and the princess see each other through the window and are joyful
+    at their reunion.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The princess explains that she exchanged the old lamp and that the African
+    magician now carries it with him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Aladdin gives the princess powder and instructs her to dress beautifully,
+    receive the magician with smiles, invite him to supper, and ask for African wine.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The princess puts the powder in her cup, exchanges cups with the magician,
+    and the magician drinks and falls lifeless.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Aladdin takes the lamp from the dead magician's vest and commands the genie
+    to carry the palace and all in it back to China.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The Sultan sees the palace restored, goes there, and finds Aladdin and the
+    princess together.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Aladdin
+  description: The condemned and then pardoned man who seeks the missing palace and
+    princess, uses the ring to reach Africa, plans the magician's defeat, and retrieves
+    the lamp.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: the Sultan
+  description: The ruler who orders Aladdin unbound, demands the return of his daughter,
+    and later sees the palace restored.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:10
+- id: fig:3
+  name_or_label: the vizir
+  description: The official who sees the crowd forcing its way in and calls to the
+    executioner to stay his hand.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the crowd / the people
+  description: The threatening crowd that enters the courtyard and scales the walls
+    to rescue Aladdin.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: the executioner
+  description: The executioner whose hand is stayed when the vizir intervenes.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: genie of the ring
+  description: The supernatural servant of the magic ring who appears when Aladdin
+    rubs the ring and transports him to Africa.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: the princess
+  description: The Sultan's daughter and Aladdin's wife, carried to Africa with the
+    palace; she helps deceive and poison the magician.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: the African magician
+  description: The antagonist who has the lamp, carried the princess and palace to
+    Africa, seeks to marry the princess, and dies after drinking the drugged wine.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:9
+  name_or_label: the princess's woman
+  description: An attendant who looks out and sees Aladdin beneath the window.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: imperiled protagonist
+  assigned_to:
+  - fig:1
+  basis: Aladdin is facing execution and later must recover the princess or lose his
+    head.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: rescuer and planner
+  assigned_to:
+  - fig:1
+  basis: Aladdin reaches the palace, instructs the princess in a plan, retrieves the
+    lamp, and restores the palace.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+- id: role:3
+  label: ruler and father
+  assigned_to:
+  - fig:2
+  basis: The Sultan pardons Aladdin, demands his daughter's return, mourns her loss,
+    and later is reunited with her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:10
+- id: role:4
+  label: intervening court official
+  assigned_to:
+  - fig:3
+  basis: The vizir calls for the executioner to stop when the crowd threatens to rescue
+    Aladdin.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: popular rescuers
+  assigned_to:
+  - fig:4
+  basis: The crowd forces its way into the courtyard and scales the walls to rescue
+    Aladdin.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: agent of execution
+  assigned_to:
+  - fig:5
+  basis: The executioner is about to act before being stopped.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: limited supernatural helper
+  assigned_to:
+  - fig:6
+  basis: The genie appears from the ring, says he cannot restore the palace, but can
+    transport Aladdin to it.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: abducted beloved
+  assigned_to:
+  - fig:7
+  basis: The princess is carried into Africa by the magician and separated from Aladdin.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: cooperative deceiver
+  assigned_to:
+  - fig:7
+  basis: The princess follows Aladdin's plan, pretends reconciliation, and gives the
+    magician the drugged wine.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:10
+  label: thief and coercive suitor
+  assigned_to:
+  - fig:8
+  basis: The magician possesses the lamp, has carried the princess to Africa, seeks
+    to marry her, and may use violence if she resists.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:11
+  label: discovering attendant
+  assigned_to:
+  - fig:9
+  basis: The attendant sees Aladdin from the window and alerts the princess indirectly
+    through the scene.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: magic ring
+  literal_form: Ring worn by Aladdin and rubbed at the river, summoning the genie
+    of the ring.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: magic lamp
+  literal_form: Old lamp formerly left by Aladdin, exchanged by the princess, carried
+    by the magician, and retrieved from his vest.
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: sym:3
+  label: displaced palace
+  literal_form: Aladdin's palace, absent from its former place, located in Africa,
+    and later restored to China.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:9
+  - ev:10
+- id: sym:4
+  label: river
+  literal_form: Riverbank where Aladdin prays before intending to throw himself in
+    and where he rubs the ring.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: princess's window
+  literal_form: Window under which Aladdin is set down and through which the princess
+    sees and calls to him.
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: powder in the cup
+  literal_form: Powder given by Aladdin to the princess and placed in her cup before
+    she exchanges cups with the magician.
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: wine of Africa
+  literal_form: Wine requested by the princess as part of Aladdin's plan and drunk
+    by the magician from the poisoned cup.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:8
+  label: genie from the cave
+  literal_form: The genie Aladdin had seen in the cave, now appearing as the slave
+    of the ring.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Execution halted by public intervention
+  summary: The crowd threatens to rescue Aladdin, the vizir stops the executioner,
+    and the Sultan pardons Aladdin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Quest imposed by the Sultan
+  summary: The Sultan shows Aladdin the vanished palace site, demands his daughter's
+    return, and grants Aladdin forty days.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ring summons helper at the river
+  summary: Aladdin reaches the river in despair, rubs the magic ring, and the genie
+    of the ring appears.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Transport to Africa and reunion
+  summary: The genie transports Aladdin beneath the princess's window in Africa, and
+    Aladdin and the princess joyfully see each other again.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Discovery of the lamp's possessor
+  summary: The princess tells Aladdin about the exchange of the lamp and says the
+    African magician carries it and pressures her to marry him.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Deceptive banquet and poisoned wine
+  summary: Aladdin instructs the princess to feign welcome; she dresses splendidly,
+    asks for African wine, drugs the cup, and the magician dies after drinking.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:7
+  label: Recovery of the lamp and return to China
+  summary: Aladdin retrieves the lamp from the dead magician and commands the genie
+    to restore the palace to China; the Sultan sees the palace again and is reunited
+    with the princess.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Abducted or stolen beloved recovered
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The princess is carried to Africa by the magician, separated from Aladdin,
+    and later restored with the palace.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage emphasizes magical relocation and coercive courtship rather
+    than a detailed abduction scene.
+- id: motif:2
+  label: Theft or loss of a magical object causes catastrophe
+  taxonomy_refs:
+  - sacred_theft
+  basis: The exchanged lamp comes into the magician's possession, enabling the removal
+    of palace and princess; recovery of the lamp reverses the situation.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: The available taxonomy term is broad; the passage describes a magical
+    object taken through exchange rather than an explicitly sacred theft.
+- id: motif:3
+  label: Supernatural helper with limited powers
+  taxonomy_refs: []
+  basis: The genie of the ring can transport Aladdin to the palace but cannot restore
+    it, stating that only the slave of the lamp can do so.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this motif.
+- id: motif:4
+  label: Deceptive hospitality used to defeat an antagonist
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Aladdin and the princess use feigned reconciliation, supper, wine, and a
+    hidden powder to kill the magician.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The trick is tactical rather than explicitly tied to a boundary-crossing
+    trickster figure.
+- id: motif:5
+  label: Magical return of lost dwelling and family
+  taxonomy_refs:
+  - return
+  basis: After the lamp is recovered, the palace and those in it are carried back
+    to China, and the Sultan sees the palace restored.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The return is effected by magical command rather than by ordinary travel.
+- id: motif:6
+  label: Despair at water before rescue
+  taxonomy_refs: []
+  basis: Aladdin goes to the river intending to throw himself in, but rubbing the
+    ring summons supernatural aid.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: No supplied motif family directly matches this sequence; the water symbol
+    is literal.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8269-8273
+  quote_or_summary: The vizir sees the crowd forcing into the courtyard and scaling
+    the walls to rescue Aladdin; the Sultan orders Aladdin unbound and pardons him.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8275-8287
+  quote_or_summary: The Sultan shows Aladdin where the palace had stood, demands the
+    return of the palace and princess, and grants Aladdin forty days under threat
+    of death.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 8287-8292
+  quote_or_summary: Aladdin wanders for three days, reaches a river, kneels to pray
+    before throwing himself in, and rubs the magic ring he still wears.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 8293-8303
+  quote_or_summary: The genie from the cave appears as slave of the ring, says the
+    palace belongs to the power of the lamp's slave, and transports Aladdin to Africa
+    beneath the princess's window.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 8305-8316
+  quote_or_summary: The princess, carried into Africa by the magician, sees Aladdin
+    beneath the window after an attendant notices him; the lovers joyfully reunite.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 8318-8332
+  quote_or_summary: Aladdin asks about the old lamp; the princess tells of its exchange
+    and says the African magician carries it, urges her to marry him, and threatens
+    possible violence.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 8334-8353
+  quote_or_summary: Aladdin changes clothes, buys a powder, and tells the princess
+    to dress beautifully, feign acceptance of the magician, invite him to supper,
+    and request wine of Africa.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 8355-8366
+  quote_or_summary: The princess puts the powder in her cup, exchanges cups with the
+    magician, keeps her cup to her lips, and the magician drains his cup and falls
+    lifeless.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 8368-8373
+  quote_or_summary: The princess opens the door to Aladdin; Aladdin takes the lamp
+    from the dead magician's vest and commands the genie to carry the palace and everything
+    in it back to China.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 8375-8381
+  quote_or_summary: The Sultan sees the restored palace, goes there, is received by
+    Aladdin and the princess, sees the magician's dead body as proof, and a ten days'
+    feast is proclaimed.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal plot extraction is well supported by the supplied passage. Motif
+    labels using supplied taxonomy are cautious where the taxonomy term is broader
+    than the passage detail. No comparison claims were added because the passage itself
+    does not make cross-textual or cross-traditional comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All observations and motif candidates are based only on the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l8269-l8381
+  passage_sha256=3716ff486b848fc59626be08d701d6bdc0f4e9fc719978c9ea9ccfbc6ce1a055

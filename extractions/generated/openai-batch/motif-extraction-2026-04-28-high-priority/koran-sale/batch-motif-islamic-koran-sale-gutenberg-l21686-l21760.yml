@@ -1,0 +1,443 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l21686-l21760
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XIV. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XV. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 21686-21760
+  start: '21686'
+  end: '21760'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recalls the destruction of the inhabitants of the wood near
+    Midian and the inhabitants of Al Hejr after ungodliness or rejection of divine
+    messengers and signs. It states that creation is founded in justice and that the
+    hour of judgment will come. Mohammed is instructed to forgive, not covet the prosperity
+    of unbelievers, be meek toward true believers, announce himself as a public preacher,
+    proclaim what he has been commanded, withdraw from idolaters, and worship God
+    until death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The inhabitants of the wood near Midian are described as ungodly, and vengeance
+    is said to have been taken on them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The inhabitants of Al Hejr are said to have accused the messengers of God
+    of imposture, despite signs being produced for them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The inhabitants of Al Hejr hewed houses out of the mountains to secure themselves.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A terrible noise from heaven assailed the inhabitants of Al Hejr in the morning,
+    and their works did not benefit them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the heavens and earth and what is between them were
+    created in justice and that the hour of judgment will surely come.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Mohammed is told to forgive his people, not covet goods bestowed on unbelievers,
+    behave meekly toward true believers, and say that he is a public preacher.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Those called dividers are said to have distinguished the Koran into different
+    parts, and God will demand an account of what they have wrought.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Mohammed is commanded to publish what he has been commanded and withdraw from
+    idolaters.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: God says he will take Mohammed's part against scoffers who associate another
+    god with God, and Mohammed is told to praise, worship, and serve his Lord until
+    death overtakes him.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: inhabitants of the wood near Midian
+  description: A community described as ungodly and as destroyed after divine vengeance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: inhabitants of Al Hejr
+  description: A community said to have accused God's messengers, avoided signs, carved
+    houses in mountains, and suffered a terrible noise from heaven.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: messengers of God
+  description: Messengers whom the inhabitants of Al Hejr accused of imposture.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Mohammed
+  description: The addressee who receives the Koran, is instructed in conduct toward
+    believers and opponents, and is told to worship until death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: LORD / God
+  description: The divine speaker described as creator, judge, giver of the Koran,
+    and defender against scoffers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: unbelievers, dividers, idolaters, and scoffers
+  description: Opposing groups or labels mentioned as recipients of warning, withdrawal,
+    or divine opposition.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: true believers
+  description: The group toward whom Mohammed is instructed to behave with meekness.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: punished community
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both communities are presented as destroyed or punished after ungodliness
+    or rejection.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: rejecters of messengers and signs
+  assigned_to:
+  - fig:2
+  basis: The inhabitants of Al Hejr accuse the messengers and withdraw from signs.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: accused divine envoys
+  assigned_to:
+  - fig:3
+  basis: The messengers of God are accused of imposture by Al Hejr.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: public preacher and commanded recipient
+  assigned_to:
+  - fig:4
+  basis: Mohammed is given the seven verses and Koran, told to say he is a public
+    preacher, and commanded to publish what he has been commanded.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: creator, judge, and protector
+  assigned_to:
+  - fig:5
+  basis: God is described as creator, as one who will demand account, and as taking
+    Mohammed's part against scoffers.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:6
+  label: opponents of revelation or worship of God alone
+  assigned_to:
+  - fig:6
+  basis: The passage names unbelievers, dividers, idolaters, and scoffers who associate
+    another god with God.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:7
+  label: community of true believers
+  assigned_to:
+  - fig:7
+  basis: Mohammed is instructed to behave meekly toward the true believers.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: wood near Midian
+  literal_form: A wood or wooded place near Midian associated with an ungodly community.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountain houses
+  literal_form: Houses hewn out of mountains for security.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: terrible noise from heaven
+  literal_form: A destructive noise from heaven that assails the inhabitants of Al
+    Hejr in the morning.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: hour of judgment
+  literal_form: The announced coming hour of judgment.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: seven frequently repeated verses and the glorious Koran
+  literal_form: Revealed verses and the Koran given to Mohammed.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Destroyed communities as warnings
+  summary: The inhabitants of the wood near Midian and the inhabitants of Al Hejr
+    are recalled as communities destroyed after ungodliness or rejection of messengers
+    and signs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Instruction to Mohammed after the warning examples
+  summary: The passage affirms justice in creation and the coming judgment, then instructs
+    Mohammed to forgive, avoid coveting unbelievers' prosperity, be meek toward believers,
+    and declare himself a public preacher.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Proclamation and endurance before opponents
+  summary: Mohammed is told to publish what he has been commanded, withdraw from idolaters,
+    rely on divine support against scoffers, and continue worship until death.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment on communities that reject messengers
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage presents prior communities as punished or destroyed after ungodliness,
+    rejection of messengers, or withdrawal from signs, and it connects this with future
+    accounting and judgment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The extraction follows Sale's English wording and includes translator
+    notes only where separately cited.
+- id: motif:2
+  label: Futile human refuge before heavenly punishment
+  taxonomy_refs: []
+  basis: The inhabitants of Al Hejr make secure houses in mountains, but a terrible
+    noise from heaven makes their works useless.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a local pattern within the passage rather than a named taxonomy
+    motif.
+- id: motif:3
+  label: Revealed scripture valued above worldly prosperity
+  taxonomy_refs:
+  - wisdom
+  basis: Mohammed is said to have received the seven frequently repeated verses and
+    the glorious Koran, and is told not to covet goods bestowed on unbelievers.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The link to the broad taxonomy family 'wisdom' is interpretive and should
+    be reviewed.
+- id: motif:4
+  label: Prophetic perseverance amid scoffing
+  taxonomy_refs: []
+  basis: Mohammed is described as distressed by opponents' speech but instructed to
+    praise, worship, and serve his Lord until death.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: No specific available taxonomy family exactly matches this pattern.
+comparison_claims:
+- id: claim:1
+  claim: 'Within the passage, the inhabitants of the wood near Midian and the inhabitants
+    of Al Hejr serve the same warning function: past communities destroyed after ungodliness
+    or rejection of divine communication.'
+  claim_level: same_function
+  target: paired warning examples of punished communities within the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison supported by the passage, not a claim
+    of historical contact or external parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21686-21689
+  quote_or_summary: The inhabitants of the wood near Midian are called ungodly; vengeance
+    is taken on them, and both are destroyed as a manifest rule for men.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 21690-21694
+  quote_or_summary: The inhabitants of Al Hejr accuse the messengers of God of imposture;
+    signs are produced, but they withdraw from them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 21695-21698
+  quote_or_summary: The inhabitants of Al Hejr carve houses from mountains for security,
+    but a terrible noise from heaven assails them in the morning and their works do
+    not help them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 21699-21703
+  quote_or_summary: The heavens and earth are said to be created in justice; the hour
+    of judgment will come; Mohammed is told to forgive with gracious forgiveness.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 21704-21711
+  quote_or_summary: Mohammed is given the seven frequently repeated verses and the
+    glorious Koran; he is told not to covet unbelievers' goods, to be meek to true
+    believers, and to say he is a public preacher.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 21712-21718
+  quote_or_summary: A like punishment is threatened against the dividers, who divided
+    the Koran into parts; God will demand account from all, and Mohammed is told to
+    publish what he has been commanded and withdraw from idolaters.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 21755-21760
+  quote_or_summary: God says he will take Mohammed's part against scoffers who associate
+    another god with God; Mohammed is told to praise, worship, and serve his Lord
+    until death overtakes him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: note
+  locator: footnote g in supplied passage
+  quote_or_summary: Sale's note explains the destruction of the inhabitants of the
+    wood as punishment for incredulity and disobedience by a hot suffocating wind.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized translator note.
+- id: ev:9
+  type: note
+  locator: footnote l in supplied passage
+  quote_or_summary: Sale's note records multiple interpretations of 'dividers,' including
+    obstructers, oath-bound Thamudites, Jews and Christians, or unbelieving Meccans,
+    indicating ambiguity in the referent.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized translator note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal events and instructions are clear in the supplied English passage.
+    Motif labels beyond divine judgment are more interpretive and require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Translator footnotes were recorded as evidence notes but not used to add uncited figures or external comparisons.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l21686-l21760
+  passage_sha256=7b446203939afdca984290afc367bca56a87e2fd3e409f0482c265cebf8b1e82

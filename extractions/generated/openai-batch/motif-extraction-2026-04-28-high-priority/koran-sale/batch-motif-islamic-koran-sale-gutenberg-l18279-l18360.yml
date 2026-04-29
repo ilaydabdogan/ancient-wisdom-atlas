@@ -1,0 +1,530 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l18279-l18360
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VIII. / IN THE NAME OF THE
+    MOST MERCIFUL GOD. / CHAPTER IX.; lines 18279-18360
+  start: '18279'
+  end: '18360'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contrasts hypocrites and unbelievers with faithful men and
+    women. It warns that opposition to God and his apostle brings hell and lasting
+    torment, recalls earlier peoples who rejected apostles, promises believers gardens
+    with rivers and divine good-will, commands the prophet to oppose unbelievers and
+    hypocrites, and describes people who make and break a covenant with God concerning
+    almsgiving.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Those who injure, oppose, or scoff at God, his signs, and his apostle are
+    warned of painful punishment and the fire of hell.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Hypocrites are described as fearing that a Suran will reveal what is in their
+    hearts.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: Hypocritical men and women are said to command evil, forbid justice, withhold
+    alms, forget God, and receive curse and lasting torment.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The passage compares the addressed wrongdoers with earlier peoples who had
+    strength, wealth, and children but whose works became vain and who perished.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: Earlier peoples named or indicated include the people of Noah, Ad, Thamud,
+    Abraham, Madian, and overthrown cities; apostles came to them with evident demonstrations.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: Faithful men and women are described as friends to one another who command
+    justice, forbid evil, pray, give appointed alms, and obey God and his apostle.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: True believers are promised gardens through which rivers flow, perpetual dwellings,
+    and good-will from God.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The prophet is commanded to wage war against unbelievers and hypocrites and
+    be severe toward them; their dwelling is identified as hell.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: Some people make a covenant with God promising alms and righteousness if given
+    abundance, but then become covetous, turn back, and fail to perform what they
+    promised.
+  category: sequence
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: obs:10
+  text: God is said to know concealed matters, private discourses, and secrets.
+  category: attribute
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine figure who is to be pleased and obeyed, knows secrets, punishes,
+    curses, forgives, enriches, and promises mercy and reward.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+  - ev:10
+  - ev:12
+- id: fig:2
+  name_or_label: Apostle of God / prophet
+  description: The apostle or prophet associated with God, injured and scoffed at
+    by opponents, obeyed by believers, and commanded to wage war against unbelievers
+    and hypocrites.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: Hypocritical men and women
+  description: A group described as commanding evil, forbidding justice, withholding
+    alms, forgetting God, and being destined for hell and lasting torment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+- id: fig:4
+  name_or_label: Unbelievers
+  description: A group denounced with the hypocrites and identified as having hell
+    for their dwelling.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: fig:5
+  name_or_label: Faithful men and women / true believers
+  description: Believers described as friends to one another who pray, give alms,
+    obey God and his apostle, and receive mercy and promised gardens.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Earlier peoples
+  description: Earlier groups named as the people of Noah, Ad, Thamud, Abraham, Madian,
+    and inhabitants of overthrown cities.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Apostles to earlier peoples
+  description: Messengers who came to the earlier peoples with evident demonstrations.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Covenant-makers who break their promise
+  description: Some people who promise God to give alms and be righteous if given
+    abundance, but become covetous and turn back.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+roles:
+- id: role:1
+  label: divine judge and rewarder
+  assigned_to:
+  - fig:1
+  basis: God denounces punishment and hell for opponents, promises gardens and mercy
+    to believers, and knows secrets.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+  - ev:12
+- id: role:2
+  label: apostolic messenger
+  assigned_to:
+  - fig:2
+  - fig:7
+  basis: The apostle is paired with God in obedience and opposition; earlier apostles
+    bring evident demonstrations.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: role:3
+  label: condemned opponents
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Hypocrites and unbelievers are denounced, associated with wrongdoing, and
+    assigned hell or lasting torment.
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: role:4
+  label: obedient faithful recipients of mercy
+  assigned_to:
+  - fig:5
+  basis: Faithful men and women obey, pray, give alms, and are promised mercy and
+    gardens.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:5
+  label: precedent peoples from sacred history
+  assigned_to:
+  - fig:6
+  basis: The passage recalls earlier peoples as examples whose histories are known
+    and whose apostles came with demonstrations.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: vow-breakers
+  assigned_to:
+  - fig:8
+  basis: They make a covenant promising alms and righteousness, then become covetous
+    and fail to perform the promise.
+  evidence_refs:
+  - ev:10
+  - ev:11
+symbols:
+- id: sym:1
+  label: fire of hell
+  literal_form: fire of hell
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: gardens with rivers
+  literal_form: gardens through which rivers flow
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: covenant with God
+  literal_form: spoken covenant promising alms and righteousness in return for abundance
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: sym:4
+  label: overthrown cities
+  literal_form: cities which were overthrown
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:13
+- id: sym:5
+  label: revealed Suran
+  literal_form: a Suran revealed concerning hypocrites and what is in their hearts
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Warning against scoffing and opposition
+  summary: The passage warns that those who oppose God and his apostle, injure the
+    apostle, or scoff at God, his signs, and his apostle will face painful punishment
+    and hell.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Condemnation of hypocrites
+  summary: Hypocritical men and women are characterized by evil commands, forbidding
+    justice, withholding alms, forgetting God, and receiving curse and lasting torment.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Earlier peoples recalled as precedent
+  summary: The passage compares current wrongdoers to previous peoples and recalls
+    named earlier groups and overthrown cities whose apostles came with demonstrations.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:13
+- id: scene:4
+  label: Faithful community rewarded
+  summary: Faithful men and women are described as mutually supportive, obedient,
+    prayerful, almsgiving, and promised mercy, gardens with rivers, and divine good-will.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Broken covenant over abundance
+  summary: Some people covenant with God to give alms and become righteous if granted
+    abundance, but after receiving abundance they become covetous and fail to perform
+    their promise.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: divine judgment of unbelief and hypocrisy
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage repeatedly assigns punishment, hell, curse, and lasting torment
+    to those who oppose God and his apostle, hypocrites, and unbelievers.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:9
+  confidence: high
+  cautions: The extraction is limited to this passage's explicit judgment language.
+- id: motif:2
+  label: rewarded faithful in gardens with rivers
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage contrasts punishment with divine mercy and promised gardens,
+    rivers, perpetual dwellings, and good-will for true believers.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No full afterlife journey is narrated; only destination and reward are
+    described.
+- id: motif:3
+  label: covenant made and broken with God
+  taxonomy_refs:
+  - covenant
+  basis: Some people promise God alms and righteousness if granted abundance, but
+    then become covetous and fail to perform the promise.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The covenant is described as a vow-like promise in this passage, not as
+    a formal communal covenant.
+- id: motif:4
+  label: precedent of earlier peoples who perish after rejecting messengers
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage invokes earlier peoples and overthrown cities whose apostles
+    came with demonstrations, stating that God did not wrong them but that they wronged
+    themselves.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage alludes to their histories rather than narrating their destruction
+    in detail.
+- id: motif:5
+  label: hidden hearts and secrets revealed or known by God
+  taxonomy_refs: []
+  basis: Hypocrites fear a revelation exposing what is in their hearts, and God is
+    said to know what is concealed, private discourses, and secrets.
+  evidence_refs:
+  - ev:3
+  - ev:12
+  confidence: medium
+  cautions: No available taxonomy reference directly matches hidden knowledge or revelation
+    of secrets.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares present wrongdoers with earlier peoples who
+    enjoyed worldly portions, engaged in vain discourse, and perished, using earlier
+    sacred-history groups as a precedent pattern.
+  claim_level: same_function
+  target: earlier peoples named as the people of Noah, Ad, Thamud, Abraham, Madian,
+    and the overthrown cities
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an intrapassage comparison to prior sacred-history examples,
+    not evidence by itself for historical contact or common inheritance beyond the
+    text's own tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18279-18285
+  quote_or_summary: Those who injure or oppose the apostle of God are threatened with
+    painful punishment and the fire of hell, where they remain forever.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 18286-18292
+  quote_or_summary: Hypocrites make excuses for scoffing; the response asks whether
+    they scoff at God, his signs, and his apostle, and says some will be punished.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 18286-18288
+  quote_or_summary: Hypocrites fear that a Suran may be revealed concerning them and
+    disclose what is in their hearts.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 18293-18301
+  quote_or_summary: Hypocritical men and women command evil, forbid justice, withhold
+    alms, forget God, and are denounced to the fire of hell, curse, and lasting torment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 18302-18308
+  quote_or_summary: The addressed people are compared with those before them, who
+    were stronger and wealthier, enjoyed their worldly portion, engaged in vain discourse,
+    and perished.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 18309-18315
+  quote_or_summary: The passage asks whether they know the histories of the people
+    of Noah, Ad, Thamud, Abraham, Madian, and the overthrown cities; their apostles
+    came with evident demonstrations.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 18316-18319
+  quote_or_summary: Faithful men and women are friends to one another; they command
+    justice, forbid evil, pray, give alms, and obey God and his apostle.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 18331-18334
+  quote_or_summary: God promises true believers gardens with flowing rivers, perpetual
+    dwellings, and divine good-will as the most excellent reward.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 18335-18337
+  quote_or_summary: The prophet is commanded to wage war against unbelievers and hypocrites
+    and be severe; their dwelling is hell, described as an unhappy journey.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 18343-18344
+  quote_or_summary: Some make a covenant with God, saying that if he gives them abundance,
+    they will give alms and become righteous.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 18345-18349
+  quote_or_summary: When given abundance, they become covetous, turn back, and hypocrisy
+    succeeds in their hearts because they failed to perform what they promised and
+    prevaricated.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: 18350-18351
+  quote_or_summary: The passage states that God knows what they conceal, their private
+    discourses, and secrets.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: note
+  locator: 18325-18327 note p
+  quote_or_summary: The note identifies the overthrown cities as Sodom and Gomorrah
+    and other cities sharing their fate, called the subverted.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about punishment, reward, earlier peoples, and a
+    broken covenant. Motif labeling is constrained to supplied taxonomy references;
+    comparison is limited to the passage's own intratextual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Footnote material in the supplied passage was treated as source evidence where cited.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l18279-l18360
+  passage_sha256=a989c2117f0adc3194f0a1ef758eaf8f241f5a94f76ee347c9ad28317158d3b1

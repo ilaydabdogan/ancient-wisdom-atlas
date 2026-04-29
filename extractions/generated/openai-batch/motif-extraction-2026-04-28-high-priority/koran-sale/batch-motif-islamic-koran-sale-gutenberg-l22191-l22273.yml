@@ -1,0 +1,484 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l22191-l22273
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XV. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XVI. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 22191-22273
+  start: '22191'
+  end: '22273'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage warns that those who disbelieve and turn others from God's
+    way will receive increased punishment. It describes witnesses raised from every
+    nation and Mohammed as witness against the Arabians. It presents the Koran as
+    explanation, guidance, mercy, and good tidings, commands justice and charity,
+    forbids wrongdoing, and instructs hearers to keep covenant and oaths with God.
+    It uses the image of a woman undoing her spun work to warn against deceitful oath-breaking,
+    says people will give account for their deeds, and contrasts perishable worldly
+    things with what is permanent with God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Those described as infidels who turn others aside from God's way are said
+    to receive added punishment because they corrupted others.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A day is described on which a witness is raised in every nation from among
+    themselves.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mohammed is addressed as a witness against the Arabians.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Koran is described as sent down to Mohammed for explanation, direction,
+    mercy, and good tidings to the Moslems.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: God commands justice, doing good, and giving to kindred, and forbids wickedness,
+    iniquity, and oppression.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The hearers are instructed to perform their covenant with God and not violate
+    ratified oaths after making God a witness over them.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage compares oath-breaking to a woman who untwists what she has strongly
+    spun.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Deceitful oath-taking is linked to the advantage of one party being more numerous
+    than another.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage says God could have made the people one people, but that people
+    will give account of what they have done.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage warns against selling the covenant of God for a small price and
+    contrasts failing worldly things with what is permanent with God.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: A translator's note reports that some commentators identify the woman who
+    undoes her work with Reita Bint Saad Ebn Teym and compare her action to Penelope.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Divine speaker and authority who commands, forbids, witnesses oaths,
+    directs or leads into error, judges deeds, and rewards perseverance.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Mohammed
+  description: Addressed as recipient of the Koran and as a witness against the Arabians.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Infidels who turn others aside
+  description: People described as unbelievers who turn others from the way of God
+    and corrupt others.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Witnesses from every nation
+  description: Witnesses raised from among each nation on a certain day.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Moslems
+  description: Recipients of good tidings associated with the revealed Koran.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Woman who undoes spun work
+  description: A woman used as a comparison for those who undo what has been firmly
+    made, by untwisting what she had spun.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: fig:7
+  name_or_label: Reita Bint Saad Ebn Teym
+  description: Named in a note as the woman whom some suppose is meant by the simile
+    of undoing spun work.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: divine commander
+  assigned_to:
+  - fig:1
+  basis: God is said to command justice and good conduct and forbid wickedness and
+    oppression.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: covenant witness
+  assigned_to:
+  - fig:1
+  basis: The hearers are told they have made God a witness over their oaths.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: divine judge and rewarder
+  assigned_to:
+  - fig:1
+  basis: The passage describes added punishment, future accountability, and reward
+    for those who persevere.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+- id: role:4
+  label: prophetic witness and recipient of revelation
+  assigned_to:
+  - fig:2
+  basis: Mohammed is addressed as witness against the Arabians and as the one to whom
+    the Koran is sent down.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: corrupters of others
+  assigned_to:
+  - fig:3
+  basis: They turn others from God's way and are punished because they corrupted others.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: communal witnesses
+  assigned_to:
+  - fig:4
+  basis: A witness is raised from every nation from among themselves.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: recipients of good tidings
+  assigned_to:
+  - fig:5
+  basis: The Koran is described as good tidings unto the Moslems.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: simile for undoing a binding act
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The woman who untwists what she has spun is used to warn against deceitful
+    oaths.
+  evidence_refs:
+  - ev:6
+  - ev:9
+symbols:
+- id: sym:1
+  label: covenant with God
+  literal_form: Covenant and ratified oaths made with God as witness.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - covenant
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:2
+  label: spun work undone
+  literal_form: A woman untwisting what she had spun after twisting it strongly.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: sym:3
+  label: book of the Koran
+  literal_form: The book sent down to Mohammed as explanation, direction, mercy, and
+    good tidings.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: small price
+  literal_form: A small price for which the covenant of God is not to be sold.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: slipping foot
+  literal_form: A foot slipping after it had been steadfastly fixed, used in warning
+    against deceitful oaths.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Punishment and witnesses on the day of account
+  summary: Those who disbelieved and turned others from God's way receive added punishment,
+    and witnesses are raised from every nation, with Mohammed serving as witness against
+    the Arabians.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Revelation and moral command
+  summary: The Koran is described as sent down to Mohammed for explanation, guidance,
+    mercy, and good tidings, followed by commands to justice, good conduct, and aid
+    to kindred, and prohibitions against wrongdoing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Warning against broken oaths
+  summary: The hearers are told to keep covenant with God and not violate oaths, and
+    are warned not to be like a woman who undoes her strongly spun work by untwisting
+    it.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+- id: scene:4
+  label: Transient worldly gain and permanent divine recompense
+  summary: The covenant of God is not to be sold for a small price; what humans possess
+    will fail, while what is with God is permanent, and perseverance will be rewarded.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment with witnesses
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes added punishment for corrupters, witnesses raised from
+    every nation, Mohammed as witness, and future accountability for deeds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: The passage is doctrinal and exhortatory rather than a narrative myth
+    episode.
+- id: motif:2
+  label: Covenant with the deity and oath fidelity
+  taxonomy_refs:
+  - covenant
+  basis: The passage directly instructs hearers to perform the covenant with God,
+    not violate ratified oaths, and not sell God's covenant for a small price.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: The covenant is presented as religious-moral obligation, not as a narrated
+    covenant-making scene.
+- id: motif:3
+  label: Resurrection-day disclosure and disagreement resolved
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: The passage refers to the day of resurrection when God will make manifest
+    matters about which people disagree.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The resurrection is invoked in warning rather than described as a journey
+    or detailed afterlife scene.
+- id: motif:4
+  label: Weaving undone as image of broken obligation
+  taxonomy_refs: []
+  basis: The passage uses the image of a woman undoing what she has spun to characterize
+    deceitful oath-breaking.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: No supplied taxonomy family directly names a weaving or unweaving motif.
+- id: motif:5
+  label: Revealed book as guidance and mercy
+  taxonomy_refs:
+  - wisdom
+  basis: The Koran is described as an explanatory book, direction, mercy, and good
+    tidings.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage emphasizes revelation
+    and guidance rather than a wisdom quest narrative.
+comparison_claims:
+- id: claim:1
+  claim: A translator's note reports that some commentators compare the woman who
+    undoes her spun work to Penelope, in the shared action of undoing work already
+    completed.
+  claim_level: visual_similarity
+  target: Penelope as a figure who undoes woven work
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison appears in a note, not in the Qur'anic verse itself;
+    it supports similarity of action rather than historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22191-22273, verse 90 opening
+  quote_or_summary: Those who have been infidels and turned others from God's way
+    will receive punishment added to punishment because they corrupted others.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 22191-22273, witness passage
+  quote_or_summary: On a certain day God will raise a witness in every nation from
+    among themselves and will bring Mohammed as witness against the Arabians.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 22191-22273, Koran described
+  quote_or_summary: '"the book of the Koran" is sent for explanation, direction, mercy,
+    and good tidings to the Moslems.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 22191-22273, moral command verse
+  quote_or_summary: God commands justice, doing good, and giving to kindred, and forbids
+    wickedness, iniquity, and oppression.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 22191-22273, covenant and oath verse
+  quote_or_summary: The hearers are told to perform their covenant with God, not violate
+    ratified oaths, and are reminded that God is witness over them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 22191-22273, spun-work simile and resurrection disclosure
+  quote_or_summary: The hearers are told not to be like a woman who untwists what
+    she has spun strongly, using oaths deceitfully; God will manifest disputed matters
+    on the day of resurrection.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 22191-22273, one people and account
+  quote_or_summary: The passage says God could have made the hearers one people, but
+    directs or leads astray whom he pleases, and that they will give account of what
+    they have done.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 22191-22273, covenant not sold and permanence
+  quote_or_summary: The passage warns not to sell God's covenant for a small price,
+    states that what humans possess will fail while what is with God is permanent,
+    and promises reward to those who persevere.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 22191-22273, note s
+  quote_or_summary: A note says some suppose the passage refers to Reita Bint Saad
+    Ebn Teym, who, like Penelope, undid at night the work done in the day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 22191-22273, deceitful oath warning
+  quote_or_summary: The passage warns against deceitful oaths lest a foot slip after
+    having been steadfastly fixed, bringing evil in this life and punishment in the
+    life to come.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear for covenant, judgment, resurrection, and oath imagery.
+    Broader motif-family labels such as wisdom are interpretive and should be reviewed.
+    The Penelope comparison is present only in the translator/commentarial note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided available taxonomy list where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l22191-l22273
+  passage_sha256=032bb9fabb837dadeb135287c81883fe8b185dbf186c7319404fa812e43c4ff0

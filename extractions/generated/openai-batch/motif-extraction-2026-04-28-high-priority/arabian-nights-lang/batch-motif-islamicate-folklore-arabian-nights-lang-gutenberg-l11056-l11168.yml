@@ -1,0 +1,419 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l11056-l11168
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 11056-11168
+  start: '11056'
+  end: '11168'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Princess Parizade installs three marvels in her garden: a caged singing
+    bird, a branch that becomes a great tree, and Golden Water that rises as a fountain.
+    Her brothers Bahman and Perviz encounter the Sultan while hunting, impress him
+    with their manners and prowess, and are invited to remain with him. Because they
+    do not want to leave their sister, the Sultan asks them to consult her. After
+    a reminder using three golden balls, they tell Parizade, who asks the wise Talking
+    Bird for counsel. The bird advises that the princes accept and invite the Sultan
+    to their house, saying the Sultan must see the princess and that events will turn
+    out well.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The princess carries a cage into the garden, and the bird's song causes many
+    other birds to join in chorus.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A planted branch grows in a few days into a great tree near the house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Golden Water poured into a marble basin swells, bubbles, and rises as a fountain
+    twenty feet high.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: People come from far and near to see and admire the wonders.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Prince Bahman and Prince Perviz meet the Sultan of Persia while all are hunting
+    and prostrate themselves before him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The two princes kill lions and bears with javelins, and the Sultan praises
+    their courage and manners.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The princes initially refuse the Sultan's invitation because they do not want
+    to leave their sister and normally consult all three siblings together.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Sultan gives Prince Bahman three little golden balls to make noise at
+    night and remind the brothers to consult their sister.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Princess Parizade is disturbed by the Sultan's invitation and asks her brothers
+    to consult the Talking Bird, described as wise and far-seeing.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Talking Bird advises that the princes must not refuse the Sultan and should
+    invite him to see their house.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Princess Parizade
+  description: The princess who installs the marvels in the garden and later asks
+    that the Talking Bird be consulted.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Prince Bahman
+  description: One of the two princes; he speaks to the Sultan, hunts dangerous animals,
+    receives the golden balls, and consults his sister.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Prince Perviz
+  description: One of the two princes; he hunts dangerous animals, joins in refusing
+    to leave his sister, and consults her with Bahman.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Sultan of Persia
+  description: The ruler encountered during the hunt; he questions the princes, admires
+    their conduct, invites them to stay with him, and gives reminder tokens.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Talking Bird
+  description: A bird kept in a cage whose song draws other birds into chorus and
+    who later gives wise counsel about the Sultan's invitation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: Keeper and arranger of marvels
+  assigned_to:
+  - fig:1
+  basis: Princess Parizade places the bird, plants the branch, and pours the Golden
+    Water into the prepared basin.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Skilled royal hunters
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The princes kill lions and bears with javelins during the Sultan's hunt.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: Devoted brothers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: They resist leaving home because they do not wish to leave their sister and
+    consult her in shared decisions.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Royal patron and judge of conduct
+  assigned_to:
+  - fig:4
+  basis: The Sultan questions the princes, praises their courage and manners, invites
+    them to stay, and expects an answer after consultation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: Wise counselor
+  assigned_to:
+  - fig:5
+  basis: Princess Parizade identifies the Talking Bird as wise and far-seeing, and
+    the bird gives instructions about accepting and inviting the Sultan.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: Singing bird in cage
+  literal_form: Caged bird whose song prompts nightingales, larks, thrushes, finches,
+    and other birds to sing in chorus.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Branch becoming tree
+  literal_form: A branch planted near the house that grows into a great tree within
+    a few days.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Golden Water fountain
+  literal_form: Golden Water poured into a marble basin, swelling, bubbling, and shooting
+    twenty feet into the air as a fountain.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Three golden reminder balls
+  literal_form: Three little golden balls placed in Prince Bahman's bosom so their
+    fall will make noise and remind him of the Sultan's request.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Royal hunt animals
+  literal_form: Lions and bears pursued and killed by the two princes during the Sultan's
+    hunt.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Marvels installed in the garden
+  summary: Princess Parizade brings the caged bird into the garden, plants the branch,
+    and pours the Golden Water into a marble basin; song, tree growth, and fountain
+    effects follow.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Princes meet the Sultan while hunting
+  summary: Bahman and Perviz encounter the Sultan's hunt, prostrate themselves, identify
+    themselves as sons of the late intendant of the gardens, and speak with the Sultan.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hunting prowess wins royal favor
+  summary: The princes kill lions and bears with javelins; the Sultan stops them,
+    praises their courage and manners, and invites them to stay with him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Invitation, forgetfulness, and reminder tokens
+  summary: The princes say they must consult their sister but forget twice; the Sultan
+    gives three golden balls to remind them at night.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Consultation with Princess Parizade and the Talking Bird
+  summary: The brothers tell Parizade, who is troubled by the situation and asks that
+    the wise Talking Bird be consulted; the bird says they must accept and invite
+    the Sultan to their house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Marvelous objects transform a household garden
+  taxonomy_refs: []
+  basis: The passage presents a singing bird, a branch that rapidly becomes a tree,
+    and Golden Water that becomes a high fountain, all installed at the house and
+    attracting visitors.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage describes marvels but does not explain their origin or broader
+    cosmological meaning here.
+- id: motif:2
+  label: Wise bird counselor
+  taxonomy_refs:
+  - wisdom
+  basis: Princess Parizade calls the Talking Bird wise and far-seeing, and the bird
+    gives decisive advice about the Sultan's proposal.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: Only this passage's advisory function is used; no broader identity for
+    the bird is inferred.
+- id: motif:3
+  label: Hunting prowess earns royal favor
+  taxonomy_refs: []
+  basis: The princes display skill and courage by killing lions and bears, after which
+    the Sultan praises them and invites them to remain with him.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage shows favor after a hunt, but it does not explicitly frame
+    the hunt as a formal test.
+- id: motif:4
+  label: Reminder tokens prevent forgetfulness
+  taxonomy_refs: []
+  basis: The Sultan gives three golden balls whose falling noise will remind the princes
+    to report his request to their sister.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The motif is practical in this passage and not explicitly magical.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11056-11064
+  quote_or_summary: Princess Parizade carries the cage into the garden; the bird sings
+    and other birds join. She plants the branch, which becomes a great tree, and pours
+    Golden Water into a marble basin, where it rises as a twenty-foot fountain.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 11066-11068
+  quote_or_summary: The fame of the wonders spreads, and people come from far and
+    near to see and admire them.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 11070-11086
+  quote_or_summary: Bahman and Perviz encounter the Sultan of Persia while hunting,
+    prostrate themselves, rise at his command, and say they are sons of the late intendant
+    of the gardens.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 11088-11108
+  quote_or_summary: Bahman describes hunting as proper exercise for bearing arms;
+    the princes kill lions and bears with javelins, and the Sultan praises their courage
+    and manners before inviting them to stay with him.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 11110-11129
+  quote_or_summary: The princes decline to leave their sister and say they consult
+    all three together. After they forget to ask her twice, the Sultan gives Bahman
+    three little golden balls whose falling noise will remind them.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: 11131-11139
+  quote_or_summary: The brothers tell Princess Parizade, who is disturbed, warns that
+    kings dislike refused offers, and tells them to consult the Talking Bird, whom
+    she calls wise and far-seeing.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: 11141-11168
+  quote_or_summary: The Talking Bird says the princes must not refuse the Sultan,
+    must invite him to see the house, and that the Sultan must see the princess; the
+    bird says this will make the siblings' friendship closer and turn out for the
+    best.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal entities and events are clear in the supplied passage. Motif labels
+    are conservative and mostly not mapped to taxonomy except the explicit wisdom
+    function and available tree/water symbols. No comparison claims are made because
+    the passage alone does not establish cross-textual contact, inheritance, or analogy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata; no external tale context was assumed.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l11056-l11168
+  passage_sha256=2a527aec437fed3f6a65edddf76090d3079782651237a7ff91aae48fa10e3bfa

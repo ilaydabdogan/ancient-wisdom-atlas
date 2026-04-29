@@ -1,0 +1,520 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l19244-l19339
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER IX. / CHAPTER X. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 19244-19339
+  start: '19244'
+  end: '19339'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage recounts the children of Israel passing through the sea, Pharaoh
+    and his army pursuing them, Pharaoh professing belief while drowning, and God
+    raising Pharaoh''s body as a sign. It then describes Israel''s settlement and
+    later religious disagreement, warns that signs do not benefit those who will not
+    believe, and gives the people of Jonas/Nineveh as an exception: they repented
+    before punishment and were spared for a time. Notes add interpretive details about
+    Gabriel, Pharaoh''s corpse, and the threatening cloud of fire over Nineveh.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The children of Israel are caused to pass through the sea.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pharaoh and his army follow the children of Israel in a violent and hostile
+    manner.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: While drowning, Pharaoh declares belief in the God believed in by the children
+    of Israel and says he is one of the resigned.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pharaoh is reproached for believing only after previous rebellion and wickedness.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Pharaoh's body is to be raised from the bottom of the sea as a sign for later
+    people.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The children of Israel are given an established dwelling in Canaan and good
+    sustenance.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that God will judge religious disagreements on the day
+    of resurrection.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage warns that some people will not believe even if every kind of
+    miracle comes to them, until they see grievous punishment.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The people of Jonas are singled out as believing before punishment, after
+    which they are delivered from shameful punishment in this world and allowed to
+    enjoy life and possessions for a time.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The note describes the people of Nineveh seeing a black cloud that shot forth
+    fire, filled the air with smoke, and hung over their city before they repented.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The note says the people of Nineveh went into the fields with families and
+    cattle, put on sackcloth, humbled themselves, called for pardon, and repented.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The note says God forgave the people of Nineveh and the storm blew over.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: children of Israel
+  description: A community caused to pass through the sea and later settled in Canaan
+    with good sustenance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Pharaoh
+  description: The ruler who pursues the children of Israel, professes belief while
+    drowning, and whose body is raised as a sign.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Pharaoh's army
+  description: The army that follows the children of Israel with Pharaoh in a violent
+    and hostile manner.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: God / LORD
+  description: The divine actor who causes Israel to pass through the sea, raises
+    Pharaoh's body as a sign, judges on the day of resurrection, and forgives the
+    repentant people of Jonas.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:5
+  name_or_label: Gabriel
+  description: In the notes, Gabriel stops Pharaoh's mouth with mud and, by God's
+    command, causes Pharaoh's corpse to swim to shore.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:6
+  name_or_label: people of Jonas / inhabitants of Nineveh
+  description: A city population that believes before punishment, repents, and is
+    delivered from punishment for a time.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: Jonas
+  description: A preacher sent by God to reclaim the idolatrous inhabitants of Nineveh
+    according to the note.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: delivered community
+  assigned_to:
+  - fig:1
+  basis: They pass through the sea and are later given a dwelling and sustenance.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: hostile pursuer
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Pharaoh and his army follow the children of Israel violently and hostilely.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: late repentant drowned ruler
+  assigned_to:
+  - fig:2
+  basis: Pharaoh professes belief while drowning but is reproached for prior rebellion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: divine deliverer and sign-giver
+  assigned_to:
+  - fig:4
+  basis: God causes the sea passage and raises Pharaoh's body as a sign.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: divine judge and forgiver
+  assigned_to:
+  - fig:4
+  basis: The LORD judges disagreements on the day of resurrection and forgives the
+    repentant Ninevites in the note.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:6
+  label: angelic agent in commentary
+  assigned_to:
+  - fig:5
+  basis: The notes attribute actions concerning Pharaoh's mouth and corpse to Gabriel.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:7
+  label: repentant spared city
+  assigned_to:
+  - fig:6
+  basis: They believe before punishment, humble themselves, and are delivered from
+    punishment.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: prophetic warner
+  assigned_to:
+  - fig:7
+  basis: The note says Jonas was sent by God to preach to and reclaim Nineveh.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: sea passage
+  literal_form: sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: raised body as sign
+  literal_form: Pharaoh's body raised from the bottom of the sea
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:10
+- id: sym:3
+  label: Canaan dwelling
+  literal_form: established dwelling in the land of Canaan
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: threatening cloud with fire and smoke
+  literal_form: black cloud shooting fire and filling the air with smoke over the
+    city
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: sackcloth repentance
+  literal_form: sackcloth worn by the people of Nineveh
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Sea crossing and pursuit
+  summary: The children of Israel pass through the sea while Pharaoh and his army
+    pursue them violently.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pharaoh's drowning confession and body as sign
+  summary: Pharaoh declares belief while drowning, is reproached for his late belief,
+    and his body is raised from the sea as a sign for later people.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:9
+  - ev:10
+- id: scene:3
+  label: Israel settled and later judged over disagreement
+  summary: The children of Israel receive a dwelling and sustenance, later differ
+    after knowledge comes to them, and God is said to judge their disagreements on
+    the day of resurrection.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: People of Jonas repent and are spared
+  summary: The people of Jonas believe before punishment; the note describes a fiery
+    cloud over Nineveh, public repentance in sackcloth, divine forgiveness, and the
+    storm passing over.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: deliverance through sea with destruction of hostile pursuer
+  taxonomy_refs:
+  - divine_judgment
+  basis: The children of Israel pass through the sea, while Pharaoh and his army pursue
+    them and Pharaoh drowns after a late confession.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage describes a sea crossing and drowning, not a flood; classification
+    is limited to divine judgment rather than a specific flood motif.
+- id: motif:2
+  label: corpse displayed as a divine sign
+  taxonomy_refs:
+  - divine_judgment
+  basis: Pharaoh's body is raised from the bottom of the sea so that it may be a sign
+    to later people.
+  evidence_refs:
+  - ev:4
+  - ev:10
+  confidence: high
+  cautions: The motif concerns display of a body as a sign; it is not described as
+    resurrection.
+- id: motif:3
+  label: late repentance at the moment of punishment rejected
+  taxonomy_refs:
+  - divine_judgment
+  basis: Pharaoh professes belief while drowning, but is reproached for believing
+    only after earlier rebellion and wickedness.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+  confidence: high
+  cautions: The note adds Gabriel's action; the core passage emphasizes the lateness
+    of Pharaoh's belief.
+- id: motif:4
+  label: repentance averts threatened destruction of a city
+  taxonomy_refs:
+  - divine_judgment
+  basis: The people of Jonas believe before punishment and are delivered; the note
+    describes their collective repentance and God's forgiveness.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The details of the cloud, fire, smoke, and sackcloth are from explanatory
+    notes rather than the main translated verse.
+- id: motif:5
+  label: fiery cloud as omen of city punishment
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: The note describes a black cloud shooting fire and smoke over Nineveh shortly
+    before the people repent and the storm passes over.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The threatened destruction is local to a city, not world-destroying; taxonomy
+    reference is approximate and should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The passage and note explicitly connect Pharaoh's drowned body with the Exodus
+    sea-crossing tradition by citing Exodus xiv.30.
+  claim_level: same_motif
+  target: Exodus sea-crossing and Pharaoh's drowning tradition
+  evidence_refs:
+  - ev:4
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on the passage's footnote citation and shared
+    narrative elements; it does not establish historical dependence beyond the supplied
+    text.
+- id: claim:2
+  claim: The passage's account of the people of Jonas/Nineveh repenting before destruction
+    aligns with the Jonah/Nineveh repentance tradition cited in the note.
+  claim_level: same_motif
+  target: Jonah iii.4 and Nineveh repentance tradition
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison relies on the supplied note's citation and summary;
+    no external text is used here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19263-19265
+  quote_or_summary: "“we caused the children of Israel to pass through the sea; and
+    Pharaoh and his army followed them in a violent and hostile manner”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 19265-19267
+  quote_or_summary: While drowning, Pharaoh says he believes there is no God but the
+    one believed in by the children of Israel and that he is one of the resigned.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 19268-19269
+  quote_or_summary: "“Now dost thou believe; when thou hast been hitherto rebellious,
+    and one of the wicked doers?”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 19270-19272
+  quote_or_summary: "“This day will we raise thy body ... from the bottom of the sea,
+    that thou mayest be a sign unto those who shall be after thee”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 19273-19277
+  quote_or_summary: God prepares an established dwelling in Canaan and good sustenance
+    for the children of Israel; they later differ after knowledge comes, and the LORD
+    will judge their disagreements on the day of resurrection.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 19283-19289
+  quote_or_summary: The passage says those under God's decree will not believe even
+    if every kind of miracle comes to them, until they see grievous punishment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 19290-19295
+  quote_or_summary: 'The people of Jonas are the exception among destroyed cities:
+    when they believed, God delivered them from shameful punishment in this world
+    and let them enjoy life and possessions for a time.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 19317-19335
+  quote_or_summary: The note identifies the people as inhabitants of Nineveh, says
+    Jonas was sent to reclaim them, describes a black cloud shooting fire and smoke
+    over the city, and says the people repented in sackcloth with families and cattle,
+    after which God forgave them and the storm passed over.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 19300-19305
+  quote_or_summary: The note says Pharaoh repeated his confession in extremity, but
+    Gabriel stopped his mouth with mud lest he obtain mercy, reproaching him with
+    the following words.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 19306-19312
+  quote_or_summary: The note says some Israelites doubted Pharaoh's drowning, so Gabriel,
+    by God's command, caused his corpse to swim to shore; it also cites Exodus xiv.30
+    and mentions a variant involving a coat of mail.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Core narrative extraction is direct from the supplied passage. Motif taxonomy
+    choices are conservative; some details come from translator/commentary notes rather
+    than the main translated verses.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Notes in the source passage were treated as evidence distinct from the main translated verses.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l19244-l19339
+  passage_sha256=dae9f2acfb8d9b4614a7ff9f34b88fc805944ce2ae98fc0aee5940bf061efcc1

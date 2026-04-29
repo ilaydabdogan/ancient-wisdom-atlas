@@ -1,0 +1,527 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l30006-l30088
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XXXII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXXIII.
+    / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 30006-30088
+  start: '30006'
+  end: '30088'
+  translation: The Koran (Al-Qur'an), Sale translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage combines translator notes on privileges and rules concerning
+    Mohammed''s wives with Qur''anic directives: certain kin may speak to women unveiled;
+    God and angels bless the prophet and believers are told to salute him; those who
+    offend God, the apostle, or believers are threatened with curse and punishment;
+    women are told to cast outer garments over themselves in public; hypocrites and
+    disturbers in Medina are threatened; knowledge of the last hour belongs to God;
+    infidels are cursed to fierce fire; the damned lament having followed their leaders;
+    believers are warned not to imitate those who injured Moses, whom God cleared.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Translator notes state that Mohammed is granted privileges regarding treatment
+    of wives and marital restrictions that differ from rules applied to other men.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes a rule allowing specified male kin, women, and slaves
+    to speak with women unveiled.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: God and angels are said to bless the prophet, and true believers are commanded
+    to bless and respectfully salute him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Those who offend God and his apostle are said to be cursed in this world and
+    the next and assigned a shameful punishment.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Women connected to the prophet and to true believers are instructed to cast
+    outer garments over themselves when abroad.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Hypocrites, people with infirmity in their hearts, and those who disturb Medina
+    are threatened with chastisement, expulsion from proximity, capture, and killing
+    if they do not desist.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage says that knowledge of the approach of the last hour belongs to
+    God alone.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Infidels are said to be cursed by God and prepared for a fierce fire in which
+    they remain forever without patron or defender.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: On the day of punishment, the condemned say they had obeyed their lords and
+    great men, who led them away from the right way.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Believers are warned not to be like those who injured Moses, and God is said
+    to have cleared Moses from the scandal spoken about him.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Divine speaker or authority who witnesses all things, blesses the prophet,
+    curses offenders and infidels, knows the last hour, and clears Moses.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: the prophet / Mohammed
+  description: Recipient of special marital privileges in the notes and of divine
+    and angelic blessing in the Qur'anic passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: angels
+  description: Beings said to bless the prophet together with God.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: true believers
+  description: Community addressed to bless and salute the prophet and warned against
+    injuring believers or imitating those who injured Moses.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:10
+- id: fig:5
+  name_or_label: wives and daughters of the prophet; wives of true believers
+  description: Women addressed in rules about veiling or outer garments and public
+    conduct.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:6
+  name_or_label: hypocrites and disturbers in Medina
+  description: Groups threatened with punishment if they do not desist from raising
+    disturbances.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: infidels
+  description: People cursed by God and assigned to fierce fire forever.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: condemned followers
+  description: Speakers in punishment who say they obeyed their lords and great men
+    and were seduced from the right way.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+- id: fig:9
+  name_or_label: lords and great men
+  description: Leaders blamed by the condemned for seducing them from the right way.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:9
+- id: fig:10
+  name_or_label: Moses
+  description: Prophet who was injured by some people but was cleared by God from
+    the scandal spoken against him.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: divine witness and knower
+  assigned_to:
+  - fig:1
+  basis: God is called witness of all things and sole possessor of knowledge of the
+    last hour.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:2
+  label: judge who curses and punishes
+  assigned_to:
+  - fig:1
+  basis: God is described as cursing offenders and infidels and preparing punishment
+    or fire for them.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:3
+  label: blessed prophet with special regulations
+  assigned_to:
+  - fig:2
+  basis: The notes describe special privileges for Mohammed, and the passage says
+    God and angels bless the prophet.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: heavenly blessers
+  assigned_to:
+  - fig:3
+  basis: The angels are said to bless the prophet.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: obedient community addressed by commands
+  assigned_to:
+  - fig:4
+  basis: True believers are commanded to bless and salute the prophet and are warned
+    by instruction.
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: role:6
+  label: women subject to veiling and public-garment rules
+  assigned_to:
+  - fig:5
+  basis: The passage addresses wives, daughters, and wives of believers regarding
+    unveiled speech with kin and outer garments abroad.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:7
+  label: internal opponents or disturbers
+  assigned_to:
+  - fig:6
+  basis: Hypocrites and disturbers in Medina are threatened if they do not desist.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: damned recipients of fire
+  assigned_to:
+  - fig:7
+  basis: Infidels are cursed and assigned to fierce fire forever.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: lamenting punished followers
+  assigned_to:
+  - fig:8
+  basis: They speak from punishment and lament obedience to leaders rather than to
+    God and the apostle.
+  evidence_refs:
+  - ev:9
+- id: role:10
+  label: misleading leaders
+  assigned_to:
+  - fig:9
+  basis: The condemned say their lords and great men seduced them from the right way.
+  evidence_refs:
+  - ev:9
+- id: role:11
+  label: vindicated prophet
+  assigned_to:
+  - fig:10
+  basis: Moses is said to have been injured by scandal, from which God cleared him.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: outer garment
+  literal_form: outer garments cast over women when walking abroad
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: veil or unveiled speech
+  literal_form: women speaking unveiled to specified kin and household categories
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fierce fire / hell fire
+  literal_form: fierce fire and hell fire assigned to infidels and associated with
+    faces rolled in it
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: last hour
+  literal_form: the approaching last hour whose knowledge belongs to God alone
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Regulations concerning the prophet's wives and veiling
+  summary: Translator notes describe special marital privileges for Mohammed, and
+    the Qur'anic passage gives rules about unveiled speech with certain kin and outer
+    garments for women in public.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: scene:2
+  label: Blessing and salutation of the prophet
+  summary: God and angels bless the prophet, and true believers are commanded to bless
+    and respectfully salute him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Threats against offenders and disturbers
+  summary: Those who offend God and the apostle are cursed and punished; hypocrites
+    and disturbers in Medina are threatened with chastisement, capture, and killing
+    if they do not desist.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: scene:4
+  label: Last hour and punishment by fire
+  summary: Questioners ask about the last hour, whose knowledge is with God alone;
+    infidels are cursed to fierce fire, and the punished lament following their leaders.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Warning through the example of Moses
+  summary: Believers are told not to be like those who injured Moses, whom God cleared
+    from scandal.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: divine judgment and punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage repeatedly states that God curses offenders and infidels, prepares
+    punishment or fire for them, and enforces a divine sentence.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: This is a broad motif family identification based on explicit judgment
+    and punishment language.
+- id: motif:2
+  label: eschatological fire for the condemned
+  taxonomy_refs:
+  - divine_judgment
+  basis: Infidels are assigned to fierce fire forever, and the condemned are described
+    speaking on a day when their faces are rolled in hell fire.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The available taxonomy includes fire as a symbol but not a distinct hell
+    or apocalypse motif; classification is therefore under divine judgment.
+- id: motif:3
+  label: misleading leaders blamed by followers
+  taxonomy_refs: []
+  basis: The punished say that their lords and great men seduced them from the right
+    way and ask that these leaders receive double punishment.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The motif is derived from a short speech scene and has no supplied taxonomy
+    reference.
+- id: motif:4
+  label: vindication of a slandered prophet
+  taxonomy_refs:
+  - divine_judgment
+  basis: Believers are warned not to imitate those who injured Moses, and God is said
+    to have cleared him from the scandal.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The passage gives only a brief allusion to the scandal against Moses without
+    narrating the episode.
+- id: motif:5
+  label: sacred regulation of social boundaries
+  taxonomy_refs:
+  - covenant
+  basis: The passage presents divine commands governing who may speak unveiled, public
+    garments for women, and communal conduct toward the prophet.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: low
+  cautions: The covenant taxonomy reference is only approximate; the passage states
+    commands and social rules but does not explicitly use covenant language.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 30006-30042
+  quote_or_summary: Translator notes describe Mohammed as receiving privileges regarding
+    wives, divorce, remarriage, and restrictions not applied in the same way to other
+    men.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 30043-30048
+  quote_or_summary: Specified kin, women, and slaves may speak with the women unveiled;
+    God is witness of all things.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 30049-30050
+  quote_or_summary: '"Verily GOD and his angels bless the prophet. O true believers,
+    do ye also bless him, and salute him with a respectful salutation."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 30051-30055
+  quote_or_summary: Those who offend God and his apostle are cursed in this world
+    and the next; those who injure believers without cause bear calumny and manifest
+    injustice.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 30056-30059
+  quote_or_summary: The prophet is told to instruct his wives, daughters, and believers'
+    wives to cast outer garments over themselves when abroad so they may be recognized
+    and not affronted.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 30060-30064
+  quote_or_summary: Hypocrites, those with infirmity in their hearts, and disturbers
+    in Medina are warned that they may be chastised, not allowed to dwell nearby,
+    taken, and killed according to God's sentence.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 30065-30067
+  quote_or_summary: People ask about the approach of the last hour; the answer states
+    that knowledge of it belongs to God alone and that the hour may be near.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 30068-30072
+  quote_or_summary: God has cursed the infidels, prepared a fierce fire for them,
+    and they remain there forever without patron or defender; their faces are rolled
+    in hell fire.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 30073-30078
+  quote_or_summary: The punished say they should have obeyed God and the apostle,
+    accuse their lords and great men of seducing them from the right way, and ask
+    for double punishment and a heavy curse on them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 30079-30088
+  quote_or_summary: Believers are warned not to be like those who injured Moses; God
+    cleared Moses from the scandal spoken against him, and he was of great consideration
+    in God's sight.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the provided passage. Motif assignment is
+    limited to supplied taxonomy and short allusive material, especially for Moses.
+    No comparison claims were added because the passage itself does not develop an
+    explicit cross-textual comparison beyond a brief reference to Moses.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Candidate motifs are based on explicit passage content; comparison claims are left empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l30006-l30088
+  passage_sha256=53be97a20879112e8f3d11a2900de665707a86ff93551efeb699225385329bbb

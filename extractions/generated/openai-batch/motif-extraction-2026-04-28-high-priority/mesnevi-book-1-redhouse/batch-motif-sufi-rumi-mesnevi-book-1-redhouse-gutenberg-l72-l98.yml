@@ -1,0 +1,136 @@
+---
+record_id: batch.motif.sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l72-l98
+source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+passage_locator:
+  label: The Mesnevi / ORIENTAL SERIES. / BOOK THE FIRST.; lines 72-98
+  start: '72'
+  end: '98'
+  translation: The Mesnevi
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Front matter identifies the work as The Mesnevi, part of Trübner’s Oriental
+    Series, Book the First, attributed to Mevlānā Jelālu-’d-Dīn Muhammed er-Rūmī,
+    and states that it includes an account of the author, his ancestors, and descendants,
+    illustrated with selected anecdotes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is front matter for Trübner’s Oriental Series and includes printer
+    information for Edinburgh and London.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The work is identified as The Mesnevi, also known as the Mesnevīyi Sherīf
+    or Holy Mesnevī.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The named author is Mevlānā Jelālu-’d-Dīn Muhammed er-Rūmī.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage identifies this as Book the First.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The volume is described as including an account of the author’s life and acts,
+    his ancestors, and his descendants, with selected characteristic anecdotes.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Mevlānā Jelālu-’d-Dīn Muhammed er-Rūmī
+  description: Named as the author of The Mesnevi and as the subject of an account
+    of his life and acts.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: ancestors of the author
+  description: Mentioned as subjects of the included account.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: descendants of the author
+  description: Mentioned as subjects of the included account.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: author
+  assigned_to:
+  - fig:1
+  basis: The title page attributes The Mesnevi to Mevlānā Jelālu-’d-Dīn Muhammed er-Rūmī.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: biographical subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The front matter says the volume includes an account of the author, his ancestors,
+    and his descendants.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 72-82
+  quote_or_summary: Front matter names Trübner’s Oriental Series and gives printing
+    information for Edinburgh and London.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 84-91
+  quote_or_summary: The title page identifies The Mesnevi, also called the Holy Mesnevī,
+    as Book the First and attributes it to Mevlānā Jelālu-’d-Dīn Muhammed er-Rūmī.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 93-98
+  quote_or_summary: The subtitle states that the volume includes an account of the
+    author’s life and acts, his ancestors, and descendants, illustrated by selected
+    characteristic anecdotes.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is title-page/front-matter material rather than a narrative or
+    doctrinal passage; no mythic motifs, symbols, scenes, or comparison claims are
+    supported by the provided text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the passage contains bibliographic and biographical framing only.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-rumi-mesnevi-book-1-redhouse-gutenberg__l72-l98
+  passage_sha256=971dd3c11bd0f124f58f5eb7ed584599be45b49640bd864cb6fed2b2651f9492

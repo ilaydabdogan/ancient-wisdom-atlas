@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l6445-l6544
+source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+passage_locator:
+  label: OF QONYA. / PREFACE. / IN THE NAME OF GOD, / THE ALL-MERCIFUL, THE VERY-COMPASSIONATE.;
+    lines 6445-6544
+  start: '6445'
+  end: '6544'
+  translation: The Mesnevi
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A vazir, outwardly appearing as a disciple of Jesus while secretly serving
+    a king, gains the trust of Christians divided into twelve legions. He prepares
+    a separate forged volume for each captain, filling the books with mutually contradictory
+    doctrines about fasting, charity, works, law, weakness, strength, light, darkness,
+    renunciation, enjoyment, possessions, wisdom, unity, and plurality. The passage
+    closes by calling the doctrines paradoxical antitheses, comparing one book to
+    honey and another to poison, and warning not to forsake true scripture.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The vazir is absent from the king for six years and appears to be a disciple
+    of Jesus's faith.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people place their hearts and faith on the vazir and would change their
+    views at his command.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The vazir's stated purpose in the narration is fraud, deceit, wiles, and the
+    defeat of the people.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The vazir communicates secretly with the king, and the king asks what has
+    been accomplished.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:5
+  text: The Christian people are divided into twelve legions, each with a fearless
+    captain trusted by that legion.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The legions and captains yield their thoughts to the vazir and are said to
+    be ready to die at his command.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The vazir prepares a separate volume for each captain, and the contents of
+    the volumes differ from one another.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The prepared volumes contain forged and contradictory teachings on religious
+    practice and doctrine.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: obs:9
+  text: The passage concludes that each volume is the antithesis of the next and warns
+    the hearer not to forsake true scripture.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the Vazir
+  description: A minister absent from the king for six years, outwardly seeming a
+    disciple of Jesus's faith, while secretly planning fraud and deceit against the
+    Christian people.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the king
+  description: The ruler who exchanges secret messages with the vazir and asks him
+    what he has accomplished.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the Christian people
+  description: The community whose hearts and faith are pinned on the vazir and who
+    are later described as divided into twelve legions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: the twelve captains
+  description: Fearless captains, one for each Christian legion, trusted by the men
+    of their legions and recipients of separate volumes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: the twelve legions
+  description: Divisions of the Christian people, bound to their captains by trust
+    and confidence and obedient to the vazir.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: deceptive religious infiltrator
+  assigned_to:
+  - fig:1
+  basis: The vazir seems to follow Jesus's faith while secretly communicating with
+    the king and planning fraud, deceit, and defeat of the Christians.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: secret royal patron
+  assigned_to:
+  - fig:2
+  basis: The king receives secret reports from the vazir and asks what has been done.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: deceived adherents
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The people and legions trust the vazir and are said to obey him even to the
+    point of death.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: intermediate leaders
+  assigned_to:
+  - fig:4
+  basis: Each legion has a captain, and each captain receives a distinct volume prepared
+    by the vazir.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: twelve legions and twelve captains
+  literal_form: The Christian people are divided into twelve legions, each with a
+    captain.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: forged volumes
+  literal_form: Separate registers or books prepared in each captain's name, with
+    differing forged contents.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: light, shade, and darkness
+  literal_form: Some teachings use images of light not hidden behind a shade, putting
+    out the light, and darkness around the bride.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: honey and poison
+  literal_form: The final comparison says that if one volume was honey, the next one's
+    text was poison.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: moral food and desert mirage
+  literal_form: One teaching contrasts moral food that makes the heart live with sensuous
+    enjoyments described as a desert mirage.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Secret infiltration after six years
+  summary: The vazir has been absent from the king for six years, appears to be a
+    disciple of Jesus's faith, wins the people's trust, and secretly communicates
+    with the king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Organization of the Christians into twelve legions
+  summary: The Christian people are divided into twelve legions, each led by a trusted
+    captain, and all are described as obedient to the vazir.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Preparation of contradictory forged books
+  summary: The vazir prepares one volume for each captain; the books differ in style
+    and contents and are called forgeries.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Catalogue of conflicting doctrines
+  summary: The volumes set out mutually opposed teachings about asceticism, charity,
+    resignation, works, law, human weakness and strength, light, darkness, renunciation,
+    enjoyment, possessions, wisdom, unity, and plurality.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Concluding warning against false doctrine
+  summary: The passage states that the books are paradoxical antitheses, likens them
+    to honey and poison, and warns not to forsake the true scripture.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: deceptive infiltrator gains authority within a religious community
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The vazir outwardly appears as a disciple of Jesus's faith, gains the people's
+    confidence, secretly serves the king, and intends fraud and defeat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy term is approximate; the passage presents a deceitful
+    agent rather than a playful or ambivalent trickster.
+- id: motif:2
+  label: false books create doctrinal division
+  taxonomy_refs: []
+  basis: The vazir prepares separate forged volumes with differing and contradictory
+    doctrines for the leaders of the twelve legions.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No specific supplied taxonomy family exactly matches this motif.
+- id: motif:3
+  label: true wisdom and scripture opposed to deceptive doctrine
+  taxonomy_refs:
+  - wisdom
+  basis: Several teachings discuss true wisdom, while the conclusion rejects the contradictory
+    books and urges adherence to true scripture.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The wisdom motif is present through explicit wording, but the passage's
+    main narrative emphasis is on deception and false doctrine.
+- id: motif:4
+  label: seductive sweetness paired with hidden danger
+  taxonomy_refs: []
+  basis: The closing image contrasts one volume as honey and another as poison in
+    the context of escaping both false doctrines.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a brief metaphor rather than an extended narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6445-6452
+  quote_or_summary: The vazir is absent from the king for six years, appears as a
+    disciple of Jesus's faith, gains the people's trust, intends fraud and deceit,
+    and secretly communicates with the king.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6453-6458
+  quote_or_summary: The king sends a message calling the vazir faithful and asking
+    what he has done; the vazir answers that the matter is prepared and that the Christians
+    will soon be puzzled.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6459-6466
+  quote_or_summary: The Christians are divided into twelve legions with twelve captains;
+    the legions trust their captains and have yielded their thoughts to the vazir,
+    even to die at his command.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6467-6470
+  quote_or_summary: The vazir prepares a volume in the name of each captain; the registers
+    differ in matter and style, and their contents are called forgeries.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6471-6506
+  quote_or_summary: The first set of volumes teach conflicting positions about fasting,
+    charity, resignation, faith and works, law as symbol, human weakness, human greatness,
+    power and weakness as idols, and light or darkness.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6507-6536
+  quote_or_summary: Further teachings conflict over renunciation, enjoyment of what
+    God has given, forsaking possessions, diverse roads to one church, moral food,
+    sensuous enjoyment as mirage, true wisdom, choosing one's own path, unity, and
+    plurality.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 6537-6544
+  quote_or_summary: '"Each volume was the antithesis of the next; / If one was honey,
+    poison was the other’s text"; the passage then warns not to forsake true scripture.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative details and imagery are explicit. Motif labels are cautious
+    because the supplied taxonomy has no exact category for forged contradictory doctrines
+    or sectarian manipulation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself establish a comparison to another motif family, text, or tradition beyond internal references to communities and doctrines.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-rumi-mesnevi-book-1-redhouse-gutenberg__l6445-l6544
+  passage_sha256=9f003e3601e82acdc2bc92cb676b3b109efa44fe03bfffdbf80ce601c29f11ce

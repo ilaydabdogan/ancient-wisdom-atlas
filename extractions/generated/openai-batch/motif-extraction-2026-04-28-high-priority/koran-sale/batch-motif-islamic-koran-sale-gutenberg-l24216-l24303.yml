@@ -1,0 +1,531 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l24216-l24303
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XVIII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XIX. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 24216-24303
+  start: '24216'
+  end: '24303'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contrasts unbelievers who boast of wealth and expect future
+    riches with believers whose enduring good works are valued by God. It warns that
+    God records speech, numbers days of respite, destroys former generations, assembles
+    the pious honorably, drives the wicked to hell, limits intercession to one with
+    a covenant from the Merciful, rejects the claim that the Merciful has begotten
+    children, and declares that all beings will come to God as servants on the day
+    of resurrection.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Unbelievers compare their worldly condition and assembly favorably against
+    the believers.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Earlier generations are said to have been destroyed despite excelling in wealth
+    and outward appearance.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A person who disbelieves in the signs claims that riches and children will
+    be bestowed on him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: God is said to write down the unbeliever's claim, increase his punishment,
+    inherit what he speaks of, and make him appear alone and naked on the last day.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: People have taken other gods besides God for glory, but those gods will deny
+    their worship and become adversaries.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Devils are sent against unbelievers to incite them to sin, while their days
+    of respite are numbered.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The pious will be assembled before the Merciful honorably, while the wicked
+    will be driven into hell as cattle are driven to water.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Intercession is denied except for one who has received a covenant from the
+    Merciful.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The claim that the Merciful has begotten issue is called impious and is associated
+    with imagery of heavens rent, earth split, and mountains falling.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Everyone in heaven or on earth is said to approach the Merciful as a servant
+    and to come to him on the day of resurrection without helpers or followers.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Those who believe and do good works are promised love from the Merciful.
+  category: relationship
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: GOD / the Merciful
+  description: The divine figure who directs, records speech, numbers days, grants
+    or withholds covenantal intercession, judges, and receives all as servants.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:10
+  - ev:11
+- id: fig:2
+  name_or_label: true believers / pious
+  description: Those contrasted with unbelievers; they receive direction, do good
+    works, and are assembled honorably before the Merciful.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:11
+- id: fig:3
+  name_or_label: infidels / wicked / contentious people
+  description: Those who deny the signs, boast of worldly advantage, take other gods,
+    are incited by devils, and are driven into hell.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: unbeliever claiming future riches and children
+  description: A disbeliever in the signs who says he will have riches and children
+    bestowed on him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: other gods / idols
+  description: Beings taken besides God for glory; at resurrection they deny worship
+    and become adversaries to their worshippers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: devils
+  description: Agents sent against the unbelievers to incite them to sin.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: one who has received a covenant from the Merciful
+  description: The exceptional figure connected with obtaining or giving intercession,
+    according to the passage and note.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: divine judge and reckoner
+  assigned_to:
+  - fig:1
+  basis: God records speech, counts days, encompasses all by knowledge and power,
+    and receives all on the resurrection day.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:10
+- id: role:2
+  label: pious recipients of honor and love
+  assigned_to:
+  - fig:2
+  basis: The pious are assembled honorably and believers doing good works receive
+    love from the Merciful.
+  evidence_refs:
+  - ev:7
+  - ev:11
+- id: role:3
+  label: unbelieving judged party
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Unbelievers deny signs, boast of wealth or future children, and are threatened
+    with punishment and hell.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: role:4
+  label: false divine adversaries
+  assigned_to:
+  - fig:5
+  basis: Other gods are said to deny worship and become adversaries to those who worshipped
+    them.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: tempters to sin
+  assigned_to:
+  - fig:6
+  basis: Devils are sent against unbelievers to incite them to sin.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: covenant-bearing intercessory exception
+  assigned_to:
+  - fig:7
+  basis: Intercession is limited to one who has received a covenant or permission
+    from the Merciful.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: covenant from the Merciful
+  literal_form: covenant or permission connected with intercession
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - covenant
+  evidence_refs:
+  - ev:8
+- id: sym:2
+  label: written record of speech
+  literal_form: God writing down what the unbeliever says
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: numbered days of respite
+  literal_form: a determined number of days counted for the unbelievers
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: hellward driving
+  literal_form: the wicked driven into hell as cattle are driven to water
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: cosmic rupture at impious speech
+  literal_form: heavens rent, earth cleft, and mountains overthrown and falling
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: resurrection assembly
+  literal_form: all come to the Merciful on the day of resurrection without helpers
+    or followers
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Worldly boasting and warning from destroyed generations
+  summary: Unbelievers compare their condition favorably with believers, while the
+    passage recalls the destruction of wealthier and more impressive earlier generations.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Unbeliever's claim recorded for judgment
+  summary: A disbeliever claims future riches and children; God rejects the claim,
+    records it, increases punishment, and declares that the person will appear alone
+    and naked on the last day.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: False gods become adversaries
+  summary: Those who took other gods for glory are told that these gods will deny
+    their worship and become adversaries.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Devils incite during numbered respite
+  summary: Devils are sent against unbelievers to incite them while their allotted
+    days of respite are counted.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Judgment gathering of pious and wicked
+  summary: The pious are assembled before the Merciful in honor, while the wicked
+    are driven into hell; intercession is restricted to one with a covenant from the
+    Merciful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Rejection of divine offspring and cosmic disturbance
+  summary: The assertion that the Merciful has begotten issue is condemned, with imagery
+    of the heavens, earth, and mountains almost breaking apart because children are
+    attributed to the Merciful.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+- id: scene:7
+  label: Universal approach on resurrection day
+  summary: All in heaven and on earth are counted by the Merciful and come to him
+    on the day of resurrection as servants, without helpers or followers; believers
+    doing good works receive love.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: final divine judgment and separation of pious and wicked
+  taxonomy_refs:
+  - divine_judgment
+  - resurrection
+  basis: The passage describes resurrection-day assembly, the pious presented honorably,
+    the wicked driven to hell, and all coming to the Merciful without helpers or followers.
+  evidence_refs:
+  - ev:7
+  - ev:10
+  confidence: high
+  cautions: The extraction is limited to this translated passage and does not assess
+    broader Qur'anic context.
+- id: motif:2
+  label: covenant-limited intercession
+  taxonomy_refs:
+  - covenant
+  basis: Intercession is said to be unavailable except for one who has received a
+    covenant or permission from the Merciful.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The note gives multiple interpretive possibilities for who receives or
+    gives intercession.
+- id: motif:3
+  label: false gods turning against worshippers
+  taxonomy_refs:
+  - divine_judgment
+  basis: Other gods taken for glory are said to deny the worship of their devotees
+    and become adversaries to them.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage and note identify the figures as other gods or idols, but
+    their exact mode of agency is not elaborated here.
+- id: motif:4
+  label: rejection of divine offspring
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The passage explicitly rejects the claim that the Merciful has begotten issue
+    or children and calls the claim impious.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: This is a negative or polemical use of a divine parent-child motif, not
+    an affirmation of divine parentage.
+- id: motif:5
+  label: cosmic disturbance caused by impious speech
+  taxonomy_refs:
+  - chaos
+  basis: The passage says the heavens nearly tear, the earth cleaves, and the mountains
+    fall because children are attributed to the Merciful.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The imagery is rhetorical within the passage; no full world-destruction
+    sequence is narrated.
+- id: motif:6
+  label: divine accounting of speech and allotted time
+  taxonomy_refs:
+  - divine_judgment
+  - wisdom
+  basis: God is said to write down the unbeliever's speech, number the unbelievers'
+    days of respite, and count all beings exactly.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:10
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad and rests on divine knowledge
+    and exact computation rather than a wisdom-teaching episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 24216-24218
+  quote_or_summary: '"the infidels say unto the true believers, Which of the two parties
+    is in the more eligible condition"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 24219-24220
+  quote_or_summary: God asks how many earlier generations were destroyed though they
+    surpassed the present opponents in wealth and outward appearance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 24228-24229
+  quote_or_summary: '"Hast thou seen him who believeth not in our signs, and saith,
+    I shall surely have riches and children bestowed on me?"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 24230-24235
+  quote_or_summary: The passage denies that the speaker knows the future or has a
+    covenant; God will write his words, increase punishment, inherit what he mentions,
+    and bring him alone and naked on the last day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 24236-24240 and notes z-a
+  quote_or_summary: People take other gods besides God for glory; those gods will
+    later deny worship and become adversaries, with the note linking this to resurrection
+    and mutual accusation of idols and worshippers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 24241-24244
+  quote_or_summary: God sends devils against unbelievers to incite them to sin and
+    numbers for them a determined period of respite.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 24245-24248
+  quote_or_summary: '"we will assemble the pious before the Merciful in an honourable
+    manner" and "drive the wicked into hell, as cattle are driven to water"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:8
+  type: summary
+  locator: lines 24249-24250 and note b
+  quote_or_summary: No intercession is obtained except by one who has received a covenant
+    from the Merciful; the note gives interpretations involving disposition, permission,
+    faith, and good works.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 24251-24256
+  quote_or_summary: The claim that the Merciful has begotten issue is condemned; the
+    heavens nearly tear, the earth cleaves, and mountains fall because children are
+    attributed to the Merciful.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 24275-24279
+  quote_or_summary: None in heaven or earth approaches the Merciful except as servant;
+    he encompasses and numbers them, and all come to him on the day of resurrection
+    without helpers or followers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:11
+  type: quote
+  locator: lines 24280-24281
+  quote_or_summary: '"as for those who believe and do good works, the Merciful will
+    bestow on them love"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about judgment, resurrection, covenantal intercession,
+    false gods, and the rejection of divine offspring. Motif labels are candidate
+    classifications based only on the supplied passage and available taxonomy refs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparison to another mythic text, tradition, or motif family beyond the candidate taxonomy mapping.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l24216-l24303
+  passage_sha256=0fb66ba062c635b5722f3ed5bacb8b14ab70bd46c3565101dc726d28fb0b8f0a

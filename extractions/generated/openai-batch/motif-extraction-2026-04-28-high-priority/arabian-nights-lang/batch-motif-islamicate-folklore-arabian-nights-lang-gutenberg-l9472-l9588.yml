@@ -1,0 +1,515 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l9472-l9588
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 9472-9588
+  start: '9472'
+  end: '9588'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A child playing the role of a Cadi in a mock trial reasons that olives
+    said to have been sealed in a vase for seven years cannot be fresh. Haroun-al-Raschid
+    observes the game, summons the boy, and has him apply the same reasoning in the
+    real dispute between Ali Cogia and a merchant. Expert olive dealers confirm the
+    olives are fresh, the merchant confesses to theft, and the boy is rewarded.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Children stage a mock trial in which Ali Cogia pretends to present a vase
+    of olives to a child acting as Cadi.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The child acting as Cadi questions whether olives said to be seven years old
+    could still be good to eat.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Two children acting as olive merchants say olives do not remain good beyond
+    the third year.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mock olive merchants say the olives in the vase are fresh and from the
+    present year.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the game, the child acting as Cadi calls the accused merchant a thief and
+    orders him hanged.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Haroun-al-Raschid and the grand-vizir are astonished by the child’s reasoning
+    and verdict.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Caliph orders the boy, Ali Cogia, the accused merchant, the Cadi, the
+    vase of olives, and two olive dealers to be brought for a real hearing.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: In the real hearing, the boy stops the accused merchant from taking an oath
+    until the vase of olives is examined.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Caliph and expert merchants taste the olives and judge them fresh from
+    that year.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The boy refuses to order a death sentence in the real case and defers condemnation
+    to the Caliph.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The accused merchant confesses his guilt and reveals where he hid Ali Cogia’s
+    money.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The Caliph orders the merchant hanged, instructs the Cadi to learn justice
+    from the child, and rewards the boy with gold.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ali Cogia
+  description: The claimant who says he placed olives in a vase seven years earlier
+    and entrusted it to the merchant for safekeeping.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: child Cadi / boy judge
+  description: The eldest boy who plays the Cadi in the children’s game and later
+    helps judge the real case before the Caliph.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: accused merchant
+  description: The merchant accused of keeping Ali Cogia’s vase and money; he is identified
+    as a thief and later confesses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: Haroun-al-Raschid / the Caliph
+  description: The ruler who observes the child’s judgment, summons him, presides
+    over the real hearing, orders punishment, and rewards the boy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: grand-vizir
+  description: The Caliph’s advisor, impressed by the child’s reasoning, who summons
+    the boy the next morning.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: child olive merchants
+  description: Two children in the mock trial who act as olive merchants and give
+    an opinion about how long olives remain good.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: expert olive dealers
+  description: Real olive dealers summoned to examine and taste the olives in the
+    actual hearing.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:8
+  name_or_label: Cadi
+  description: The official judge whom the Caliph summons to learn justice from the
+    child.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:9
+  name_or_label: boy’s mother
+  description: The mother who is alarmed when the grand-vizir summons her son, then
+    dresses him in his best clothes.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: wronged claimant
+  assigned_to:
+  - fig:1
+  basis: Ali Cogia presents the vase and says it had held olives for seven years,
+    supporting his claim against the merchant.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: wise child judge
+  assigned_to:
+  - fig:2
+  basis: The boy uses the freshness of the olives to test the claim and later repeats
+    the reasoning in the real hearing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:3
+  label: accused thief
+  assigned_to:
+  - fig:3
+  basis: The merchant is accused in the dispute, condemned as a thief, and finally
+    confesses where he hid the money.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:4
+  label: sovereign judge and enforcer
+  assigned_to:
+  - fig:4
+  basis: The Caliph orders the real hearing, oversees the proceeding, condemns the
+    merchant, and rewards the boy.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+- id: role:5
+  label: royal advisor and messenger
+  assigned_to:
+  - fig:5
+  basis: The grand-vizir discusses the verdict with the Caliph and brings the boy
+    to court.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: expert witness on olives
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Both the children in the game and the real dealers state that the olives
+    are fresh and could not be seven years old.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:7
+  label: official judge corrected by child
+  assigned_to:
+  - fig:8
+  basis: The Caliph summons the Cadi and later orders him to learn justice from the
+    child.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:8
+  label: concerned parent
+  assigned_to:
+  - fig:9
+  basis: The mother fears her son may be taken away and then prepares him to go before
+    the Caliph.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: vase of olives
+  literal_form: A vase said to have held olives for seven years and used as evidence
+    in the dispute.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: fresh olives
+  literal_form: Olives judged pleasant, good, and fresh from the present year despite
+    Ali Cogia’s statement that he put olives in the vase seven years earlier.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:3
+  label: throne and carpet
+  literal_form: The Caliph sits on his throne; parties prostrate themselves and touch
+    the carpet at the foot of the throne with their foreheads.
+  associated_figures:
+  - fig:4
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: purse of gold
+  literal_form: A purse containing a hundred pieces of gold given to the boy as a
+    mark of the Caliph’s favour.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: mock trial of the olives
+  summary: 'Children act out the dispute: Ali Cogia presents a pretend vase, the child
+    Cadi asks about the age of the olives, child merchants give expert testimony,
+    and the child Cadi condemns the accused merchant in the game.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Caliph observes and summons the child
+  summary: Haroun-al-Raschid and the grand-vizir are impressed by the child’s reasoning.
+    The Caliph orders the boy and the necessary parties and evidence to be brought
+    for a real hearing.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:8
+  - fig:1
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: real hearing before the Caliph
+  summary: The boy sits beside the Caliph, hears the parties, prevents the merchant
+    from swearing before the vase is examined, and has the olives tested by the Caliph
+    and expert merchants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: confession, punishment, and reward
+  summary: The boy defers the death sentence to the Caliph. The merchant confesses
+    and reveals the hidden money, the Caliph orders execution, corrects the Cadi,
+    and rewards the boy with gold.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: wise child gives judgment
+  taxonomy_refs:
+  - wisdom
+  basis: A child’s reasoning in a game is judged wiser than the official handling
+    of the case and is used in the real hearing before the ruler.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents human legal wisdom
+    rather than esoteric or divine wisdom.
+- id: motif:2
+  label: material test exposes theft
+  taxonomy_refs:
+  - wisdom
+  basis: The age and freshness of the olives are tested through expert tasting, revealing
+    that the merchant’s account is false and leading to confession.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The motif is formulated from this passage’s legal reasoning; no external
+    motif index number is supplied.
+- id: motif:3
+  label: play judgment becomes real judgment
+  taxonomy_refs: []
+  basis: A mock trial staged by children supplies the procedure and reasoning later
+    followed in the actual case before the Caliph.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy reference directly matches the transition from children’s
+    play to formal adjudication.
+- id: motif:4
+  label: ruler learns justice from a low-status or unexpected figure
+  taxonomy_refs:
+  - wisdom
+  basis: The Caliph summons a child to judge and orders the official Cadi to learn
+    justice from the child’s mouth.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: medium
+  cautions: The child is not described as socially low-status except by age; the motif
+    is based on the contrast between child and official judge.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9472-9490
+  quote_or_summary: In the children’s game, Ali Cogia pretends to set a vase before
+    the Cadi; the child Cadi pretends to examine and taste the olives and asks why
+    seven-year-old olives would still be good.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 9491-9512
+  quote_or_summary: Two children acting as olive merchants say preserved olives do
+    not remain good beyond the third year; after pretending to examine the vase, they
+    say the olives are fresh and from the current year.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 9513-9520
+  quote_or_summary: The child Cadi silences the accused merchant, calls him a thief,
+    and orders him taken away and hanged; the children end the game with applause.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 9521-9540
+  quote_or_summary: Haroun-al-Raschid and the grand-vizir are astonished by the child’s
+    wise verdict; the Caliph orders the boy, the Cadi, Ali Cogia, the vase, and two
+    olive dealers to be brought the next day.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 9541-9554
+  quote_or_summary: The grand-vizir returns to the children’s house, identifies the
+    eldest boy as the one who acted as Cadi, reassures the alarmed mother, and brings
+    the boy to the Caliph.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 9555-9570
+  quote_or_summary: The Caliph explains that he overheard the boy’s judgment and seats
+    him nearby; Ali Cogia and the merchant plead, but the boy stops the merchant’s
+    oath until the vase of olives is seen.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 9571-9578
+  quote_or_summary: Ali Cogia presents and uncovers the vase; the Caliph and expert
+    merchants taste the olives, and the experts say they are good and fresh from that
+    year despite the claim that they were placed there seven years earlier.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 9579-9588
+  quote_or_summary: The boy says the real death sentence belongs to the Caliph, not
+    to him. The Caliph orders the merchant hanged after he confesses and reveals the
+    hidden money, tells the Cadi to learn justice from the child, and rewards the
+    boy with a hundred pieces of gold.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal legal sequence and main figures are clear. Motif labels are descriptive
+    and use only broad available taxonomy where appropriate. No comparison claims
+    are made because the passage itself does not explicitly compare this episode to
+    another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The final line, “The Enchanted Horse,” appears to be a following tale heading rather than part of the extracted episode.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l9472-l9588
+  passage_sha256=688bedd736daf3e0b305b0ed8b94f53d740aabde56bc7a4120a2f7dd607b1f69

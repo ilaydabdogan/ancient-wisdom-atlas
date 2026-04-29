@@ -1,0 +1,530 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l23388-l23472
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XVII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XVIII. /
+    IN THE NAME OF THE MOST MERCIFUL GOD.; lines 23388-23472
+  start: '23388'
+  end: '23472'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes notes on the sleepers in the cave as a representation
+    of death and resurrection, admonitions to read God's revealed book without alteration,
+    warnings of hell for the unjust, promises of garden rewards for believers, and
+    a parable of two men in which a wealthy garden-owner boasts, doubts the Last Hour,
+    and is answered by a believing companion who affirms God as Lord and creator.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note states that the long sleep and waking of the young men represents the
+    condition of those who die and are afterwards raised to life.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note reports that a young man sent into the city paid with old coinage,
+    leading others to bring him before a Christian prince, who then sent people to
+    the cave.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note reports that those sent to the cave saw and spoke to the other sleepers,
+    after which the sleepers fell asleep again and died.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note reports that the prince ordered the sleepers buried in the same place
+    and built a chapel over them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The addressed figure is told to read what has been revealed from the Lord's
+    book and not to change it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The unjust are said to have hell fire prepared for them, with flame and smoke
+    surrounding them like a pavilion.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Those who seek relief in hell are given water like molten brass that scalds
+    their faces.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Those who believe and do good works are promised gardens of eternal abode
+    watered by rivers, gold bracelets, green garments, and thrones.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A parable introduces two men, one of whom has two vineyards surrounded by
+    palm-trees, corn growing between them, seasonal fruit, and a river flowing through
+    the gardens.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The wealthy garden-owner says he is superior to his companion in wealth and
+    has a more powerful family.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The wealthy garden-owner says he does not think his garden will decay or that
+    the Last Hour will come.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The companion answers by invoking the creator who made the man from dust,
+    then seed, and fashioned him into a perfect man.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The companion affirms God as his Lord and refuses to associate another deity
+    with his Lord.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: the young men / sleepers
+  description: Young men whose long sleep and later waking are discussed in the notes;
+    they are associated with a cave and later die after waking again.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: young man sent into the city
+  description: One of the sleepers who goes into the city, buys provision, and pays
+    with old money.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Christian prince
+  description: A prince before whom the young man is brought; he hears the story,
+    sends people to the cave, and orders burial and a chapel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the addressed recipient of revelation
+  description: A figure instructed to read the revealed book, not change it, and behave
+    with constancy toward those who call on their Lord.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: the unjust
+  description: Those for whom hell fire is prepared.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: those who believe and do good works
+  description: Those promised gardens, adornment, garments, thrones, and reward.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: wealthy garden-owner
+  description: One of two men in the parable; he possesses two fruitful vineyards
+    and boasts of wealth and family, while doubting decay and the Last Hour.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: believing companion
+  description: The companion in the parable who rebukes the garden-owner and affirms
+    God as Lord.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: sleepers as sign of resurrection
+  assigned_to:
+  - fig:1
+  basis: Their long sleep and waking are explicitly described as representing those
+    who die and are later raised to life.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: messenger to the city
+  assigned_to:
+  - fig:2
+  basis: He is sent into the city for provisions and becomes the means by which the
+    story reaches the prince.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: royal witness and memorial builder
+  assigned_to:
+  - fig:3
+  basis: He hears the story, sends witnesses to the cave, orders burial, and builds
+    a chapel over the sleepers.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recipient instructed in revelation
+  assigned_to:
+  - fig:4
+  basis: The text commands this figure to read what has been revealed and not alter
+    God's words.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: punished wrongdoers
+  assigned_to:
+  - fig:5
+  basis: Hell fire and scalding drink are prepared for the unjust.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: rewarded righteous believers
+  assigned_to:
+  - fig:6
+  basis: Those who believe and do good works receive gardens, adornment, garments,
+    thrones, and reward.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: boastful owner who doubts judgment
+  assigned_to:
+  - fig:7
+  basis: He boasts of wealth and family and says he does not think the garden will
+    decay or the Last Hour will come.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: monotheistic admonisher
+  assigned_to:
+  - fig:8
+  basis: He challenges disbelief in the creator and affirms God as his Lord without
+    associating another deity.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave where the sleepers are found
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hell fire
+  literal_form: fire with flame and smoke surrounding the unjust like a pavilion
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: scalding water
+  literal_form: water like molten brass given to those seeking relief
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: gardens watered by rivers
+  literal_form: gardens of eternal abode watered by rivers
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: vineyards, palm-trees, corn, and river
+  literal_form: two vineyards surrounded by palm-trees, corn between them, and a river
+    in their midst
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - tree
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: old coinage
+  literal_form: old money identified as coin of Decianus
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Sleepers discovered after long sleep
+  summary: The sleepers' long sleep and waking are interpreted as a representation
+    of death and later resurrection; the youth's old coin leads to the prince's investigation
+    of the cave.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Instruction concerning revelation and devotion
+  summary: The addressed figure is instructed to read the revealed book, avoid changing
+    God's words, and remain with those who call upon their Lord.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Contrasted afterlife outcomes
+  summary: The unjust are threatened with hell fire and scalding water, while believers
+    who do righteous works are promised gardens, rivers, ornaments, garments, and
+    thrones.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Parable of two men and the garden
+  summary: A wealthy man with two productive gardens boasts to his companion, doubts
+    the decay of the garden and the Last Hour, and is answered by the companion's
+    reminder of creation and affirmation of God as Lord.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: sleep and waking as resurrection sign
+  taxonomy_refs:
+  - resurrection
+  basis: The passage explicitly states that the young men's long sleep and waking
+    represents those who die and are afterwards raised to life.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The wording is from explanatory notes attached to the passage, not from
+    the main translated verse in this line range.
+- id: motif:2
+  label: divine judgment with hell punishment and garden reward
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage contrasts hell fire and scalding drink for the unjust with gardens,
+    rivers, adornment, garments, and thrones for righteous believers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The extraction records only the contrast present in this passage and does
+    not infer a full eschatological system beyond it.
+- id: motif:3
+  label: boastful prosperous man admonished by faithful companion
+  taxonomy_refs:
+  - wisdom
+  basis: The parable presents a prosperous garden-owner boasting of wealth and doubting
+    the Last Hour, while his companion rebukes him by recalling creation and affirming
+    God as Lord.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The wisdom motif label is interpretive; the literal passage presents a
+    parable and debate.
+- id: motif:4
+  label: perishable garden as test of trust
+  taxonomy_refs:
+  - divine_judgment
+  basis: The garden-owner treats his abundance as secure and doubts final judgment,
+    while the companion redirects attention to God as creator and Lord.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage excerpt ends before any explicit destruction of the garden,
+    so the motif is limited to boast, doubt, and admonition.
+comparison_claims:
+- id: claim:1
+  claim: The sleepers' long sleep and later waking are explicitly framed as functioning
+    as a representation of death followed by resurrection.
+  claim_level: same_function
+  target: resurrection motif family
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim is based on the explanatory note within the supplied passage;
+    it does not establish historical relationship to other resurrection traditions.
+- id: claim:2
+  claim: The passage reports variant Christian opinions and a Christian-prince setting
+    around the sleepers, indicating that this account is presented in relation to
+    a nearby Christian sleepers tradition.
+  claim_level: same_motif
+  target: Christian sleepers-in-the-cave tradition as reported in the notes
+  evidence_refs:
+  - ev:2
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports Christian associations and opinions but does not
+    by itself prove a specific transmission history.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23388-23390
+  quote_or_summary: The long sleep of the young men and their waking after many years
+    are described as representing those who die and are afterwards raised to life.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 23396-23405
+  quote_or_summary: A youth sent into the city pays with old coinage, is brought before
+    a Christian prince, leads people back to the cave, and the sleepers die again;
+    the prince buries them there and builds a chapel over them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 23434-23441
+  quote_or_summary: The addressed figure is told to read the Lord's revealed book
+    without change, seek refuge only in God, and remain constant with those who call
+    on their Lord morning and evening.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 23442-23446
+  quote_or_summary: The truth is from the Lord; the unjust have hell fire prepared,
+    with flame and smoke surrounding them, and scalding water like molten brass as
+    relief.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 23447-23452
+  quote_or_summary: Those who believe and do good works are promised gardens of eternal
+    abode watered by rivers, bracelets of gold, green garments of silk and brocade,
+    and thrones.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 23453-23458
+  quote_or_summary: A parable introduces two men; one has two vineyards surrounded
+    by palm-trees, corn between them, seasonal fruit, and a river in their midst.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: quote
+  locator: lines 23458-23459
+  quote_or_summary: '"I am superior to thee in wealth, and have a more powerful family."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:8
+  type: summary
+  locator: lines 23460-23463
+  quote_or_summary: Entering his garden, the owner says he does not think the garden
+    will decay forever or that the Last Hour will come, and expects a better garden
+    if returned to his Lord.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: lines 23464-23467
+  quote_or_summary: The companion asks whether the garden-owner disbelieves in the
+    one who created him from dust, then seed, and fashioned him into a perfect man.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:10
+  type: quote
+  locator: lines 23468-23470
+  quote_or_summary: '"GOD is my LORD; and I will not associate any other deity with
+    my LORD."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:11
+  type: summary
+  locator: lines 23391-23395 and 23406-23411
+  quote_or_summary: Notes report disputes about resurrection, the sleepers, and a
+    building over them, including opinions attributed to Christians, a Jacobite Christian,
+    and a Nestorian prelate.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal observations are well supported by the supplied passage. Motif labels
+    are strongest for resurrection and divine judgment; broader wisdom-pattern readings
+    and cross-tradition comparison require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage text and metadata. Footnote material is treated as part of the provided passage but distinguished in evidence notes where relevant.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l23388-l23472
+  passage_sha256=3f5fd0d917e9dc9d1b73403f231bfd273ab44ff7b467e7a65582a5299435bf36

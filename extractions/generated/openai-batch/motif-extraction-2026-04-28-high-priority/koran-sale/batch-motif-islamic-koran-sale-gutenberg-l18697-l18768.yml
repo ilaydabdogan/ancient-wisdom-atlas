@@ -1,0 +1,507 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l18697-l18768
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VIII. / IN THE NAME OF THE
+    MOST MERCIFUL GOD. / CHAPTER IX.; lines 18697-18768
+  start: '18697'
+  end: '18768'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage promises paradise to the penitent and obedient, forbids the
+    prophet and believers from praying for idolaters known to be destined for hell,
+    cites Abraham’s withdrawal from praying for his father after his opposition to
+    God became known, affirms God’s sovereignty over heaven, earth, life, and death,
+    and describes divine reconciliation with the prophet, the Mohajer, the Ansrs,
+    and three men who had been left behind and repented.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Penitent worshippers who serve, praise, fast, bow down, command justice, forbid
+    evil, and keep God’s ordinances are promised reward with paradise.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prophet and true believers are told not to pray for idolaters, even if
+    they are kin, once it is known that those idolaters are inhabitants of hell.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Abraham’s request for forgiveness for his father is described as based on
+    a promise, and Abraham declared himself clear of his father when he knew him to
+    be an enemy of God.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: God is said not to lead people into error after directing them until what
+    they should avoid has been made known to them.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The kingdom of heaven and earth is said to belong to God, who gives life and
+    causes death.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: God is described as reconciled to the prophet, the Mohajer, and the Ansrs
+    who followed him in an hour of distress after some hearts nearly swerved from
+    duty.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Three persons who were left behind experienced the earth as too narrow despite
+    its spaciousness and concluded that there was no refuge from God except recourse
+    to him.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: An explanatory note identifies the expedition of Tabuc as a setting of extreme
+    heat, scarce provisions and water, shared riding animals, and minimal food.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine figure who rewards, forbids, knows, owns heaven and earth,
+    gives life, causes death, and is reconciled to repentant people.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: the prophet
+  description: The prophet is addressed regarding prayer for idolaters and is described
+    as reconciled with God after the hour of distress.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: true believers / faithful
+  description: Believers are instructed not to pray for certain idolaters and are
+    associated with good tidings and obedience.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Abraham
+  description: Abraham had asked forgiveness for his father because of a promise,
+    then declared himself clear of him when his father’s enmity to God became known;
+    he is called pitiful and compassionate.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Abraham’s father
+  description: The father of Abraham is described as the one for whom Abraham asked
+    forgiveness and later as an enemy of God.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: the Mohajer and the Ansrs
+  description: Groups who followed the prophet in the hour of distress and were reconciled
+    with God.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: the three who were left behind
+  description: Three persons left behind who suffered constriction, recognized no
+    refuge except God, and were turned toward repentance.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: idolaters
+  description: Persons for whom prayer is forbidden once it is known that they are
+    inhabitants of hell.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine judge and rewarder
+  assigned_to:
+  - fig:1
+  basis: God rewards obedient penitents with paradise and identifies some as inhabitants
+    of hell.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: sovereign over life and death
+  assigned_to:
+  - fig:1
+  basis: The passage states that God owns heaven and earth, gives life, and causes
+    death.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: merciful reconciler
+  assigned_to:
+  - fig:1
+  basis: God is described as turning toward or being reconciled with repentant figures
+    and groups.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: prophetic recipient of instruction and reconciliation
+  assigned_to:
+  - fig:2
+  basis: The prophet is included in the prohibition on prayer for idolaters and in
+    the group reconciled to God.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: obedient community
+  assigned_to:
+  - fig:3
+  basis: The faithful are associated with worship, ordinances, and the rule against
+    praying for known idolaters.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: precedent of disavowal after knowledge
+  assigned_to:
+  - fig:4
+  basis: Abraham ceases association with his father once his father’s enmity to God
+    becomes known.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: kin described as enemy of God
+  assigned_to:
+  - fig:5
+  basis: Abraham’s father is identified as an enemy of God after prior prayer for
+    him.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: followers in distress
+  assigned_to:
+  - fig:6
+  basis: The Mohajer and Ansrs followed the prophet in an hour of distress.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: repentant excluded ones
+  assigned_to:
+  - fig:7
+  basis: The three left behind are described as constrained and then turned toward
+    repentance.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: forbidden objects of intercessory prayer after knowledge
+  assigned_to:
+  - fig:8
+  basis: Prayer for idolaters is forbidden after their status as inhabitants of hell
+    is known.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: paradise
+  literal_form: paradise as reward for the penitent and obedient
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hell
+  literal_form: hell as the declared habitation of some idolaters
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: kingdom of heaven and earth
+  literal_form: the kingdom of heaven and earth belonging to God
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: constricted earth
+  literal_form: the earth becoming too straight despite its spaciousness
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: scarce water in distress
+  literal_form: scarce water during the expedition described in the note
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Reward promised to obedient penitents
+  summary: A group characterized by repentance, worship, fasting, justice, and observance
+    of ordinances is promised paradise.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Prohibition of prayer for idolaters
+  summary: The prophet and believers are forbidden to pray for idolaters, even kin,
+    after their hell-bound state is known.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Abraham separates from his father
+  summary: Abraham’s prayer for his father is limited by a promise; when the father’s
+    opposition to God is known, Abraham declares himself clear of him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Divine sovereignty declared
+  summary: The passage states that God owns heaven and earth, gives life, causes death,
+    and is the only patron or helper.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Reconciliation after the hour of distress
+  summary: God is reconciled with the prophet, the Mohajer, and the Ansrs after they
+    followed in a difficult hour when some nearly swerved.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: scene:6
+  label: The three left behind repent
+  summary: Three left-behind persons experience inner and outer constriction, recognize
+    that refuge from God is only by recourse to God, and are turned toward repentance.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: obedience and penitence rewarded with paradise
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage links specific devotional and ethical actions with reward in
+    paradise.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states reward and paradise directly; broader eschatological
+    details are not developed in this excerpt.
+- id: motif:2
+  label: divine judgment overriding kin intercession
+  taxonomy_refs:
+  - divine_judgment
+  basis: The prophet and believers are forbidden to pray for idolaters, even kin,
+    once their hell-bound status is known.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage concerns a specific prohibition and does not describe a judgment
+    scene.
+- id: motif:3
+  label: Abrahamic precedent for separation from impious kin
+  taxonomy_refs:
+  - covenant
+  basis: Abraham’s relation to his father changes when the father’s enmity to God
+    is known, making divine allegiance supersede kinship obligation.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is interpretive; the excerpt itself does not use
+    the term covenant.
+- id: motif:4
+  label: no refuge from God except recourse to God
+  taxonomy_refs: []
+  basis: The three left behind find the earth and their souls constricted and conclude
+    that refuge from God is only through recourse to him.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy reference precisely matches this repentance pattern.
+- id: motif:5
+  label: trial of followers in extreme distress
+  taxonomy_refs:
+  - initiation
+  basis: The prophet’s followers are described as remaining with him during an hour
+    of distress, with the note detailing scarcity, heat, and hardship.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The initiation label is tentative; the passage describes hardship and
+    reconciliation but not a formal initiation rite.
+- id: motif:6
+  label: divine sovereignty over life, death, heaven, and earth
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage asserts that God owns heaven and earth, gives life, causes death,
+    and is the only patron or helper.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The statement supports divine authority broadly; explicit judgment is
+    present elsewhere in the passage rather than in this sentence alone.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, Abraham’s withdrawal from praying for his father functions
+    as a precedent for the prophet and believers not praying for idolaters known to
+    be condemned.
+  claim_level: same_function
+  target: Abrahamic precedent for refusal of intercession for impious kin
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison made by juxtaposition in the passage;
+    it does not establish a historical relationship beyond the text’s own use of Abraham
+    as precedent.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18697-18700
+  quote_or_summary: Penitent servants who praise, fast, bow, worship, command justice,
+    forbid evil, and keep God’s ordinances are promised paradise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 18701-18704
+  quote_or_summary: The prophet and true believers may not pray for idolaters, even
+    kin, after it is known they are inhabitants of hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 18705-18709
+  quote_or_summary: Abraham asked forgiveness for his father only because of a promise;
+    when the father’s enmity to God became known, Abraham declared himself clear of
+    him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 18710-18713
+  quote_or_summary: God does not lead people into error after directing them until
+    what they must avoid is made known; God knows all things.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 18714-18716
+  quote_or_summary: "“unto GOD belongeth the kingdom of heaven and of earth; he giveth
+    life, and he causeth to die”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quote used.
+- id: ev:6
+  type: summary
+  locator: lines 18717-18722
+  quote_or_summary: God is reconciled to the prophet, the Mohajer, and the Ansrs,
+    who followed him in an hour of distress when some hearts nearly swerved from duty.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: quote
+  locator: lines 18723-18728
+  quote_or_summary: The three left behind found that “there was no refuge from GOD,
+    otherwise than by having recourse unto him,” and God turned to them so they might
+    repent.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quote used.
+- id: ev:8
+  type: summary
+  locator: note h, lines 18753-18759
+  quote_or_summary: The note explains the hour of distress as the expedition of Tabuc,
+    marked by extreme heat, shared camels, scarce provisions and water, divided dates,
+    and drinking water from camels’ stomachs.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is based directly on the passage and notes. Some motif
+    taxonomy assignments are interpretive and should be reviewed, especially covenant
+    and initiation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references are limited to the supplied available lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l18697-l18768
+  passage_sha256=1aa565a7ecb8d5f268603fe53a56f59982ed6ab5bfda7c959c64f87ab8bbfe07

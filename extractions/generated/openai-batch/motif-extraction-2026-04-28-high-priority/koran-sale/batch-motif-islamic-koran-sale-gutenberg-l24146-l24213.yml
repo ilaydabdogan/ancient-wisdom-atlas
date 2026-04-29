@@ -1,0 +1,493 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l24146-l24213
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XVIII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XIX. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 24146-24213
+  start: '24146'
+  end: '24213'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“gardens of perpetual abode shall be their reward”"
+  summary: The passage contrasts a generation that neglects prayer with those who
+    repent and act rightly, who are promised paradise. It affirms divine lordship,
+    answers a human question about being brought alive after death, and describes
+    assembly for judgment with devils, proximity to hell, the selection of obstinate
+    rebels for burning, and the deliverance of the pious while the ungodly remain
+    on their knees.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A succeeding generation neglects prayer and follows lusts, and is said to
+    fall into evil unless individuals repent, believe, and do right.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Those who repent, believe, and do right are said to enter paradise and receive
+    gardens of perpetual abode.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Paradise is described as an inheritance given to pious servants, where no
+    vain discourse is heard, only peace, and provision is prepared morning and evening.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A speaker says descent from heaven occurs only by command of the Lord, to
+    whom belong what is before, behind, and between.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Man questions whether he will be brought forth alive from the grave after
+    death.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The response recalls that man was created previously when he was nothing.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says people and devils will be assembled for judgment and set
+    around hell on their knees.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: From every sect, the most obstinate rebels against the Merciful are drawn
+    forth, and those more worthy to be burned are known.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: All are said to approach near hell by an established decree; afterward the
+    pious are delivered and the ungodly are left there on their knees.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A note says true believers must pass by or through hell without being hurt,
+    and also reports an interpretation involving a narrow bridge laid over hell.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: The Merciful / the Lord / God
+  description: The divine figure who promises paradise, rules heaven and earth and
+    what is between them, created man from nothing, assembles beings for judgment,
+    and delivers the pious.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Succeeding generation
+  description: A generation that neglects prayer and follows lusts, excepting those
+    who repent, believe, and do right.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Repentant and pious servants
+  description: Those who repent, believe, do what is right, and are given paradise
+    as an inheritance; later they are delivered from hell.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: Man
+  description: The human speaker who asks whether he will be brought forth alive from
+    the grave after death.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Devils
+  description: Beings assembled with people for judgment; a note says each infidel
+    will appear chained to the devil who seduced him.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:6
+  name_or_label: Obstinate rebels / ungodly
+  description: Those drawn from every sect as more obstinate rebels against the Merciful
+    and left around hell on their knees.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Gabriel
+  description: A note says the words about descending from heaven are generally supposed
+    to be those of the angel Gabriel, though another opinion is also reported.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine promise-maker
+  assigned_to:
+  - fig:1
+  basis: Paradise is described as what the Merciful promised to his servants.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: lord of heaven and earth
+  assigned_to:
+  - fig:1
+  basis: The Lord is described as lord of heaven, earth, and what is between them.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: creator of man
+  assigned_to:
+  - fig:1
+  basis: The response to the resurrection question says man was created previously
+    when he was nothing.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: judge and deliverer
+  assigned_to:
+  - fig:1
+  basis: The passage describes assembling beings for judgment, determining who is
+    worthy to burn, and delivering the pious.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: neglectful generation
+  assigned_to:
+  - fig:2
+  basis: The generation neglects prayer and follows lusts.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: repentant righteous recipients
+  assigned_to:
+  - fig:3
+  basis: Those who repent, believe, and do right enter paradise and are later delivered.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:7
+  label: questioner of resurrection
+  assigned_to:
+  - fig:4
+  basis: Man asks whether he will be brought alive from the grave after death.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: assembled devils
+  assigned_to:
+  - fig:5
+  basis: Devils are assembled with people for judgment; the note associates seducing
+    devils with infidels.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:9
+  label: punished rebels
+  assigned_to:
+  - fig:6
+  basis: The most obstinate rebels are drawn out and the ungodly are left around hell
+    on their knees.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:10
+  label: possible heavenly messenger speaker
+  assigned_to:
+  - fig:7
+  basis: The note says the words about descent from heaven are generally supposed
+    to be Gabriel's answer, while noting another view.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: paradise as gardens of perpetual abode
+  literal_form: gardens / paradise
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: grave as place from which the dead may be brought alive
+  literal_form: grave
+  associated_figures:
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: hell approached at judgment
+  literal_form: hell
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: burning fire of hell
+  literal_form: fire / burning / flames
+  associated_figures:
+  - fig:6
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: kneeling around hell
+  literal_form: knees / kneeling posture
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: narrow bridge over hell
+  literal_form: narrow bridge
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Repentance and promise of paradise
+  summary: A neglectful generation is contrasted with those who repent, believe, and
+    act rightly; the latter are promised entry into paradise and gardens of perpetual
+    abode.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Divine lordship and heavenly descent
+  summary: The passage states that descent from heaven occurs only by the Lord's command
+    and affirms the Lord's rule over heaven, earth, and what is between them.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Question and answer about resurrection
+  summary: Man questions whether he will be brought alive from the grave after death,
+    and the answer recalls that he was first created from nothing.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Assembly at hell for judgment
+  summary: People and devils are assembled for judgment, set around hell on their
+    knees, and the most obstinate rebels are drawn out for burning.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Approach to hell and deliverance of the pious
+  summary: All are said to approach near hell; then the pious are delivered while
+    the ungodly remain there on their knees. A note adds interpretations of passing
+    through or over hell.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment at hell
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes assembly for judgment with devils, placement around
+    hell, selection of obstinate rebels, burning, and deliverance of the pious.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level motif candidate, not a claim of comparison with
+    another text.
+- id: motif:2
+  label: Resurrection from the grave
+  taxonomy_refs:
+  - resurrection
+  basis: Man asks whether he will be brought alive from the grave after death, and
+    the answer appeals to prior creation from nothing.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage frames resurrection polemically through a question and response.
+- id: motif:3
+  label: Afterlife passage by or through hell
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage states that all approach near hell before the pious are delivered;
+    a note reports interpretations of passing by or through hell and of a narrow bridge
+    laid over hell.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The bridge detail appears in Sale's note as an interpretation, not in
+    the main translated verse.
+- id: motif:4
+  label: Paradise as inherited gardens for the pious
+  taxonomy_refs: []
+  basis: The repentant and pious are promised paradise, described as gardens of perpetual
+    abode and as an inheritance for pious servants.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No available taxonomy reference directly matches this garden-paradise
+    reward motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 24146-24213; passage beginning at verse marker 60
+  quote_or_summary: A succeeding generation neglects prayer and follows lusts; those
+    who repent, believe, and do right are excepted and will enter paradise without
+    being wronged.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 24146-24213; paradise description after verse marker 60
+  quote_or_summary: "“gardens of perpetual abode shall be their reward”; paradise
+    is an inheritance for pious servants, with peace and prepared provision morning
+    and evening."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation and summary.
+- id: ev:3
+  type: summary
+  locator: lines 24146-24213; paragraph beginning “We descend not from heaven” and
+    notes n-o
+  quote_or_summary: Descent from heaven is said to occur only by command of the Lord;
+    the Lord rules heaven, earth, and what is between them. A note says these words
+    are generally taken as Gabriel's answer, though another view assigns them to the
+    godly entering paradise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 24146-24213; resurrection question
+  quote_or_summary: Man asks whether, after death, he will be brought alive from the
+    grave; the response asks whether man remembers being created before, when he was
+    nothing.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 24146-24213; judgment scene beginning “But by thy LORD” through verse
+    marker 70
+  quote_or_summary: The Lord will assemble people and devils for judgment, set them
+    around hell on their knees, draw out the most obstinate rebels from every sect,
+    and knows who is more worthy to be burned.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 24146-24213; lines after verse marker 70
+  quote_or_summary: All are said to approach near hell by established decree; afterward
+    the pious are delivered and the ungodly remain there on their knees.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 24146-24213; note t
+  quote_or_summary: The note says true believers must pass by or through hell, with
+    fire damped and flames abated so they are not hurt; it also reports an interpretation
+    of passage over a narrow bridge laid over hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 24146-24213; note q
+  quote_or_summary: A note says every infidel will appear on the day of judgment chained
+    to the devil who seduced him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Main narrative features are explicit in the provided passage. Motif taxonomy
+    assignment is strongest for divine judgment and resurrection; afterlife-route
+    details partly depend on the translator's note. No comparison claims are made
+    because the passage does not itself compare traditions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy refs are limited to the provided available refs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l24146-l24213
+  passage_sha256=8f4be53f2bab3a78c7ef4f4a592937b624e1a126de0d9e675e78a62b51c288f9

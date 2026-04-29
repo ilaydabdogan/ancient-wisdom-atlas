@@ -1,0 +1,516 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l10947-l11054
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 10947-11054
+  start: '10947'
+  end: '11054'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Princess Parizade ascends a mountain while resisting hostile voices, captures
+    the Talking Bird, obtains directions to the Golden Water and Singing Tree, and
+    compels the bird to reveal how to restore her brothers and others from black stones.
+    She sprinkles water from a pitcher on the stones, restoring them to human form,
+    then returns with her brothers carrying the bird, the tree branch, and the flask
+    of Golden Water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The princess stops her ears with cotton before beginning the mountain ascent.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hostile voices grow louder and more insulting as the princess climbs, and
+    the bird adds a thunderous command to return.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The princess reaches the cage, seizes it, and says she has the bird and will
+    not let it escape.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bird acknowledges the princess as a brave mistress and promises to serve
+    her faithfully.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The bird directs the princess to the Golden Water, and she fills a small silver
+    flask.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The bird directs the princess to the Singing Tree in a wood and instructs
+    her to break off and plant a twig instead of uprooting the tree.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The princess asks the bird to identify or restore her brothers, who have become
+    black stones.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The bird tells the princess to take a pitcher and sprinkle its water on every
+    black stone while descending the mountain.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Each black stone touched by the pitcher water instantly becomes a man.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The restored brothers say they have been asleep, and the princess explains
+    that the enchantment would have lasted until the day of judgment without her intervention.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The princess carries the cage, Prince Bahman carries the Singing Tree branch,
+    and Prince Perviz carries the flask of Golden Water.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The party finds the dervish dead on the return road, with the cause uncertain.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Princess Parizade
+  description: The princess who ascends the mountain, captures the bird, obtains the
+    Golden Water and Singing Tree twig, and restores the enchanted men.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Talking Bird
+  description: A bird confined in a cage whose voice joins the hostile voices, then
+    promises to serve the princess and gives directions and counsel.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Prince Bahman
+  description: One of the princess's brothers, restored from a black stone, later
+    entrusted with the branch of the Singing Tree.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Prince Perviz
+  description: One of the princess's brothers, restored from a black stone, later
+    entrusted with the flask of Golden Water.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Knights and gentlemen
+  description: Other men and their horses who had been changed into black stones and
+    are restored by the princess.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Dervish
+  description: A dervish whom the party intends to revisit but finds dead on the return
+    road.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: mountain-ascending quester
+  assigned_to:
+  - fig:1
+  basis: She ascends the mountain despite hostile voices in order to reach the bird
+    and other wonders.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: restorer from enchantment
+  assigned_to:
+  - fig:1
+  basis: She sprinkles water on the black stones and restores her brothers and the
+    other men.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: captive magical speaker
+  assigned_to:
+  - fig:2
+  basis: The bird is held in a cage, speaks, and gives supernatural knowledge or instructions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: reluctant helper
+  assigned_to:
+  - fig:2
+  basis: After capture, the bird swears service, but is displeased before giving instructions
+    for restoring the stones.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: enchanted brothers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The brothers had been changed into black stones and are restored by the princess.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: restored companions
+  assigned_to:
+  - fig:5
+  basis: The knights and gentlemen are among those changed into stones and restored
+    by the water.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: dead former contact
+  assigned_to:
+  - fig:6
+  basis: The party plans to tell the dervish their adventures but finds him dead.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: The mountain ascended by the princess to reach the cage and bird.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: cotton in ears
+  literal_form: Cotton used by the princess to stop her ears against the voices.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: caged Talking Bird
+  literal_form: A bird in a cage, captured by the princess and carried away.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:4
+  label: Golden Water
+  literal_form: Water found at a place described by the bird and collected in a small
+    silver flask.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:5
+  label: Singing Tree twig
+  literal_form: A twig broken from the Singing Tree so it can be planted and grow
+    in the princess's garden.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:6
+  label: black stones
+  literal_form: Stones on the mountain road that are enchanted men and horses.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: pitcher water
+  literal_form: Water from a pitcher that restores black stones to men when sprinkled
+    on them.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Ascent through hostile voices
+  summary: Princess Parizade blocks her ears with cotton, climbs the mountain, hears
+    hostile voices, and continues until she reaches the caged bird.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Submission of the Talking Bird
+  summary: The princess seizes the cage, and the bird promises faithful service to
+    her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Acquisition of the three wonders
+  summary: The bird directs the princess to the Golden Water and the Singing Tree,
+    and she obtains a flask of water and a twig from the tree, in addition to the
+    bird.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Restoration of the black stones
+  summary: The bird instructs the princess to sprinkle pitcher water on each black
+    stone, and the stones become men, including her brothers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Return with the wonders
+  summary: The princess and her brothers ride away carrying the bird, the branch,
+    and the flask; knights accompany them for part of the journey, and they later
+    find the dervish dead.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: ascent to obtain a guarded marvel
+  taxonomy_refs:
+  - ascent
+  basis: The princess climbs a mountain under verbal assault and reaches the caged
+    bird, one of the sought wonders.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives a mountain ascent and a prize, but does not explicitly
+    frame the ascent as sacred or cosmic.
+- id: motif:2
+  label: quest for three magical wonders
+  taxonomy_refs:
+  - mystical_quest
+  basis: The princess obtains the Talking Bird, the Golden Water, and the Singing
+    Tree twig after reaching the mountain goal.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy label is broad; the passage presents marvel acquisition rather
+    than an explicitly mystical doctrine.
+- id: motif:3
+  label: water restores enchanted stone figures
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: Water from a pitcher changes black stones back into men, including the princess's
+    brothers.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The restored figures describe their state as sleep; the passage is restoration
+    from enchantment rather than literal death.
+- id: motif:4
+  label: captive magical helper compelled to reveal knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: After being captured, the Talking Bird gives directions to the Golden Water
+    and Singing Tree and reveals how to break the stone enchantment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The bird's knowledge is practical and magical; the passage does not identify
+    it as wisdom in an abstract or doctrinal sense.
+- id: motif:5
+  label: return from quest with rescued kin and prizes
+  taxonomy_refs:
+  - return
+  basis: The princess returns down the mountain with the bird, twig, flask, and her
+    restored brothers, then rides back toward the palace.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage covers the beginning of the return and arrival at the palace
+    gate, not the full resolution beyond that point.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10947-10956
+  quote_or_summary: Princess Parizade stops her ears with cotton, begins ascending
+    the mountain, hears insulting voices growing louder, and hears the bird command
+    her to return.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 10957-10970
+  quote_or_summary: The princess seizes the cage; the bird calls her brave, explains
+    that it joined the voices to preserve its freedom, and swears to serve her faithfully.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 10971-10979
+  quote_or_summary: The princess asks where the Golden Water is; the bird describes
+    the place, and she fills a small silver flask.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 10980-10989
+  quote_or_summary: The princess asks where to find the Singing Tree; the bird points
+    to a wood, and later instructs her to break off a twig and plant it in her garden.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 10990-11004
+  quote_or_summary: The princess asks the bird to identify her brothers among the
+    black stones; the bird reluctantly tells her to take a pitcher and sprinkle its
+    water over every black stone while descending.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 11005-11029
+  quote_or_summary: The princess sprinkles water on each black stone, and each becomes
+    a man; she explains to her restored brothers that she broke the spell and delivered
+    them and the others.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 11030-11043
+  quote_or_summary: The restored princes recognize their debt to their sister; she
+    declines extra company and assigns Bahman the Singing Tree branch and Perviz the
+    flask while she keeps the cage with the bird.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 11044-11054
+  quote_or_summary: The party rides away, intending to tell the dervish their adventures,
+    but finds him dead; the escorting knights gradually return home, leaving the siblings
+    to reach the palace gate.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly identifies figures, actions, objects, and restoration
+    sequence. Motif-family mapping is cautious because taxonomy labels are broad and
+    not named by the passage itself. No comparison claims were added because the passage
+    alone does not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata; no external comparisons or unprovided taxonomy identifiers were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l10947-l11054
+  passage_sha256=88e88edfd31bba60a9e6d7b405e25a0dbc7e121f5f5bdd9d6d5f7d5a5ec52d51

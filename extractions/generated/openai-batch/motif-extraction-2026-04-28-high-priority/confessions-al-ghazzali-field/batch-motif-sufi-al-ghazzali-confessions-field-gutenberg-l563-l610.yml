@@ -1,0 +1,396 @@
+---
+record_id: batch.motif.sufi-al-ghazzali-confessions-field-gutenberg-l563-l610
+source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+passage_locator:
+  label: THE CONFESSIONS OF AL GHAZZALI / THE SUBTERFUGES OF THE SOPHISTS / THE DIFFERENT
+    KINDS OF SEEKERS AFTER TRUTH / THE AIM OF SCHOLASTIC THEOLOGY AND ITS RESULTS;
+    lines 563-610
+  start: '563'
+  end: '610'
+  translation: The Confessions of Al Ghazzali
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage classifies Naturalists and Theists among philosophical seekers.
+    Naturalists study nature and anatomy, acknowledge a wise Creator, but deny the
+    soul’s immortality, resurrection, heaven, hell, recompense, punishment, and judgment.
+    The passage then describes Socrates, Plato, Aristotle, and later Muslim philosophers
+    as part of the Theist/philosophical lineage, crediting Aristotle with logic and
+    organization of sciences while condemning philosophical doctrines as involving
+    impiety, heresy, or rejection.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Naturalists devote themselves to studying nature and marvelous phenomena
+    in animal and vegetable life.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Naturalists are described as being compelled by anatomy and living mechanisms
+    to acknowledge a wise Creator.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Naturalists hold that the thinking faculty depends on the organism and
+    perishes with it.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Naturalists deny the immortality of the soul, heaven, hell, resurrection,
+    and judgment.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says the Naturalists acknowledge neither recompense for good deeds
+    nor punishment for evil deeds.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage identifies Socrates as teacher of Plato and Plato as teacher of
+    Aristotle.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Aristotle is credited with rules of logic, organization of sciences, clarification
+    of obscure matters, and exposition of what had not been understood.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Theist school is described as refuting Materialists and Naturalists.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage says Aristotle separated himself from earlier theists but retained
+    stains of infidelity and heresy from their teaching.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Ibn Sina and Farabi are named as Muslim philosophers who adopted Aristotelian
+    systems and interpreted Aristotle better than others.
+  category: relationship
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:11
+  text: Aristotle’s philosophy, as transmitted through Ibn Sina and Farabi, is divided
+    into portions chargeable with impiety, tainted with heresy, and to be rejected
+    absolutely.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: The Naturalists
+  description: A group devoted to the study of nature, animal and vegetable phenomena,
+    anatomy, and living mechanisms; they acknowledge a wise Creator but deny immortality,
+    resurrection, and judgment.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Wise Creator / God
+  description: The Creator whose wisdom is said to be revealed through the structure
+    of living beings and who is linked with true faith and judgment to come.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: The Theists
+  description: A philosophical school including Socrates, Plato, Aristotle, and their
+    predecessors, described as refuting Materialists and Naturalists.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Socrates
+  description: Named as the teacher of Plato and counted among the Theists.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Plato
+  description: Named as the pupil of Socrates and teacher of Aristotle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Aristotle
+  description: Named as Plato’s pupil; credited with logic and organization of sciences;
+    said to have contended against earlier theists but retained infidelity and heresy
+    in doctrine.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Materialists
+  description: A philosophical group whose system is said to have been refuted by
+    the Theists.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Ibn Sina / Avicenna
+  description: Named as a Muslim philosopher who adopted Aristotelian systems and
+    interpreted Aristotle’s doctrine.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:9
+  name_or_label: Farabi
+  description: Named as a Muslim philosopher who adopted Aristotelian systems and
+    interpreted Aristotle’s doctrine.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: Natural investigator
+  assigned_to:
+  - fig:1
+  basis: The group is described as studying nature, animal and vegetable phenomena,
+    and anatomy.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Denier of immortality and judgment
+  assigned_to:
+  - fig:1
+  basis: The group denies the soul’s immortality, resurrection, heaven, hell, and
+    judgment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Wise Creator
+  assigned_to:
+  - fig:2
+  basis: The passage says the wonders of living bodies force recognition of a wise
+    Creator and divine wisdom.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Philosophical refuter
+  assigned_to:
+  - fig:3
+  basis: The Theist school is said to refute the systems of Materialists and Naturalists.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Philosophical teacher in lineage
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage links Socrates, Plato, and Aristotle in a teacher-pupil sequence.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Organizer of logic and sciences
+  assigned_to:
+  - fig:6
+  basis: Aristotle is credited with drawing up rules of logic and organizing the sciences.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Refuted philosophical group
+  assigned_to:
+  - fig:7
+  basis: Materialists are named as one of the groups refuted by the Theists.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: Interpreter of Aristotle
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: Ibn Sina and Farabi are said to have best interpreted Aristotle among Muslim
+    philosophers.
+  evidence_refs:
+  - ev:7
+symbols: []
+scenes:
+- id: scene:1
+  label: Naturalists infer divine wisdom from nature but deny the afterlife
+  summary: The Naturalists study natural phenomena and anatomy, acknowledge a wise
+    Creator, but argue that consciousness perishes with the organism and therefore
+    deny immortality, resurrection, heaven, hell, recompense, punishment, and judgment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Theist philosophical lineage and refutation
+  summary: Socrates, Plato, and Aristotle are presented in a philosophical lineage.
+    The Theists refute Materialists and Naturalists, while Aristotle is credited with
+    organizing logic and sciences.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Condemnation and division of Aristotelian philosophy
+  summary: Aristotle and later Muslim philosophers who adopted or transmitted his
+    systems are judged as retaining infidelity or heresy, and Aristotle’s philosophy
+    is divided into impious, heretical, and rejected portions.
+  figure_refs:
+  - fig:6
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine wisdom recognized through living creation
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says study of anatomy and living mechanisms compels recognition
+    of the profound wisdom of the Creator who formed animal and human bodies.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a doctrinal-philosophical motif rather than a narrative mythic
+    episode.
+- id: motif:2
+  label: Denial of resurrection and afterlife judgment
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: The Naturalists deny immortality, heaven, hell, resurrection, judgment, recompense,
+    and punishment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents the motif negatively as a condemned belief, not as
+    an enacted narrative scene.
+- id: motif:3
+  label: Philosophical quest for truth through rival schools
+  taxonomy_refs:
+  - wisdom
+  basis: The passage classifies groups of seekers after truth and evaluates their
+    methods and doctrinal outcomes.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The quest structure is implied by the section context and classification
+    of schools, but the passage is primarily expository.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 563-572
+  quote_or_summary: Naturalists study nature, animal and vegetable phenomena, and
+    anatomy; the wonders of living bodies are said to compel recognition of a wise
+    Creator and divine wisdom.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 572-581
+  quote_or_summary: Naturalists are said to believe existence depends on bodily equilibrium,
+    that the thinking faculty perishes with the organism, and to deny immortality
+    of the soul, heaven, hell, resurrection, and judgment.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 581-588
+  quote_or_summary: The passage says Naturalists acknowledge no recompense or punishment,
+    abandon authority, are called atheists, and deny a judgment to come despite acknowledging
+    God and His attributes.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 589-595
+  quote_or_summary: The Theists include Socrates, Plato, and Aristotle; Socrates taught
+    Plato, Plato taught Aristotle, and Aristotle organized logic and the sciences.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 595-599
+  quote_or_summary: The Theist school refuted Materialists and Naturalists, and the
+    passage cites the Koran in support of divine protection of the faithful.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 600-606
+  quote_or_summary: Aristotle is said to have contended against Plato, Socrates, and
+    earlier theists, separated from them, but retained infidelity and heresy; the
+    passage also condemns Ibn Sina and Farabi as adopters of those systems.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 607-610
+  quote_or_summary: The passage states that Ibn Sina and Farabi best interpreted Aristotle
+    among Muslim philosophers and divides Aristotle’s philosophy into impious, heretical,
+    and absolutely rejected portions.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is philosophical and doctrinal rather than narrative; motif candidates
+    are limited to explicit themes of divine wisdom, resurrection, and judgment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol references were assigned because the passage does not contain the provided literal symbols such as cave, fire, milk, mountain, serpent, tree, or water.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-al-ghazzali-confessions-field-gutenberg__l563-l610
+  passage_sha256=144997df9e09b7f9393750989c8699ca0cdb7f35889dca9b26516fc300d148c6

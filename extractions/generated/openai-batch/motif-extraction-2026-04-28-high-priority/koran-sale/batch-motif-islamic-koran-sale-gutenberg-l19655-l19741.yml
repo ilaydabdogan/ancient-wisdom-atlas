@@ -1,0 +1,543 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l19655-l19741
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER X. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XI. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 19655-19741
+  start: '19655'
+  end: '19741'
+  translation: The Koran (Al-Qur'an), Sale translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: O earth, swallow up thy waters, and thou, O heaven, withhold thy rain.
+  summary: The waters are commanded to recede, the ark rests on Mount al-Judi, Noah
+    pleads for his son, God rejects the plea because the son is not counted among
+    Noah's family due to unrighteousness or infidelity, Noah seeks mercy, and he is
+    told to descend from the ark with peace and blessings. The passage then identifies
+    the account as revealed secret history and begins the mission of Hud to the tribe
+    of Ad.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Earth is commanded to swallow its waters and heaven is commanded to withhold
+    rain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The water abates, the decree is fulfilled, and the ark rests on Mount al-Judi.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A statement of rejection is pronounced against the ungodly people.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Noah calls upon the Lord and argues that his son belongs to his family and
+    that God's promise is true.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: God answers that Noah's son is not of his family and warns Noah not to ask
+    concerning what he does not know.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Noah asks for divine grace, forgiveness, and mercy.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Noah is commanded to come down from the ark with peace and blessings upon
+    him and part of those with him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A different part of Noah's company or posterity is said to receive worldly
+    provision and later grievous punishment.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The account is described as a secret history revealed to the addressee, formerly
+    unknown to him and his people.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Hud is sent to the tribe of Ad and tells them to worship God alone rather
+    than idols or self-made intercessors.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Sale's note identifies Mount al-Judi with mountains associated with Armenia,
+    Mesopotamia, Assyria, the Kurds, and the Gordyan or Cardu range.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Sale's note reports traditions that remains of the ark were visible on the
+    Gordyan mountains and that pieces or pitch from the vessel were treated as protective
+    or healing relics.
+  category: object
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God / LORD
+  description: The divine speaker who commands the waters, answers Noah, judges the
+    ungodly, grants peace and blessings, reveals the history, and sends Hud.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Noah
+  description: The ark survivor who calls upon the Lord about his son, accepts correction,
+    asks forgiveness, and is told to descend from the ark.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Noah's son
+  description: A son for whom Noah intercedes; God says he is not of Noah's family,
+    with the note explaining this as due to infidelity.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Those with Noah
+  description: People with Noah who are divided into a blessed part and another part
+    later associated with punishment.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Ungodly people
+  description: A people dismissed with the formula 'Away with the ungodly people'
+    after the decree is fulfilled.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Hud
+  description: The brother of the tribe of Ad, sent to call his people to worship
+    God alone.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Tribe of Ad
+  description: The people to whom Hud is sent; addressed as worshipping or invoking
+    false idols and intercessors.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine commander of nature
+  assigned_to:
+  - fig:1
+  basis: The passage has earth and heaven receive commands concerning waters and rain.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine judge
+  assigned_to:
+  - fig:1
+  basis: God rejects Noah's intercession, distinguishes the son from the family, and
+    announces punishment for some descendants or companions.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: revealer of hidden history
+  assigned_to:
+  - fig:1
+  basis: The account is said to be a secret history revealed to the addressee.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: ark survivor
+  assigned_to:
+  - fig:2
+  basis: Noah is told to come down from the ark after the flood has abated.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: intercessor corrected by God
+  assigned_to:
+  - fig:2
+  basis: Noah pleads for his son and is told not to ask about what he does not know.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:6
+  label: excluded family member
+  assigned_to:
+  - fig:3
+  basis: God says the son is not of Noah's family; the note explains this as being
+    cut off through infidelity.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: post-flood community
+  assigned_to:
+  - fig:4
+  basis: Those with Noah receive peace and blessings in part, while another part is
+    associated with later punishment.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: condemned ungodly people
+  assigned_to:
+  - fig:5
+  basis: The passage says, after the ark rests, 'Away with the ungodly people.'
+  evidence_refs:
+  - ev:1
+- id: role:9
+  label: prophetic messenger
+  assigned_to:
+  - fig:6
+  basis: Hud is sent to the tribe of Ad and calls them to worship God.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: admonished idolaters
+  assigned_to:
+  - fig:7
+  basis: Hud tells Ad to worship God and not false idols or intercessors of their
+    own making.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: waters of the flood
+  literal_form: waters swallowed by earth after the flood
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: heavenly rain withheld
+  literal_form: heaven commanded to withhold rain
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: ark
+  literal_form: vessel that rests on Mount al-Judi and from which Noah descends
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: Mount al-Judi
+  literal_form: mountain on which the ark rests
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:5
+  label: ark relics
+  literal_form: reported pitch, planks, wood, or remains of the ark treated as relics,
+    amulets, or healing objects in Sale's note
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Flood abates and ark rests
+  summary: Earth and heaven are commanded concerning waters and rain; the water abates,
+    the decree is fulfilled, and the ark rests on Mount al-Judi.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Noah's intercession for his son
+  summary: Noah appeals to God's promise by identifying his son as family, but God
+    rejects the intercession and warns him not to ask without knowledge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Descent from the ark
+  summary: Noah is commanded to descend from the ark with peace and blessings on him
+    and some of those with him, while another part is destined for later punishment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Revealed history and perseverance
+  summary: The narrative is identified as revealed secret history and the addressee
+    is instructed to persevere patiently.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Hud sent to Ad
+  summary: Hud is sent to the tribe of Ad and calls them away from idols and self-made
+    intercessors toward worship of God alone.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Ark-location traditions in Sale's note
+  summary: The note locates Mount al-Judi in relation to Armenian, Mesopotamian, Assyrian,
+    Kurdish, and Gordyan geography and summarizes traditions about visible ark remains
+    and relic use.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: flood waters withdrawn after divine command
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage describes the waters abating after commands to earth and heaven,
+    followed by the ark resting and Noah descending into a renewed post-flood condition.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage excerpt begins after the flood narrative is already underway;
+    the full flood onset is not included in this line range.
+- id: motif:2
+  label: saving ark vessel reaches mountain
+  taxonomy_refs:
+  - ark_vessel
+  basis: The ark rests on Mount al-Judi and Noah is told to come down from it with
+    peace and blessings.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage emphasizes the ark's resting and descent rather than the construction
+    or loading of the vessel.
+- id: motif:3
+  label: divine judgment separates righteous and ungodly kin
+  taxonomy_refs:
+  - divine_judgment
+  basis: God rejects Noah's appeal for his son, says the son is not truly of his family,
+    and distinguishes blessed people from those later punished.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The son is described through Noah's plea and God's response; his own speech
+    or actions are not narrated in this excerpt.
+- id: motif:4
+  label: post-deluge descent with blessing
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: Noah is commanded to leave the ark with peace and blessings after the waters
+    have abated.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: Renewal is implied by descent and blessing, but no extended rebuilding
+    scene appears in the excerpt.
+- id: motif:5
+  label: prophetic admonition to abandon idols
+  taxonomy_refs:
+  - wisdom
+  basis: Hud instructs the tribe of Ad to worship God alone and identifies their idols
+    and intercessors as falsehood.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: Only the opening of the Hud episode appears in this passage range.
+comparison_claims:
+- id: claim:1
+  claim: Sale's note presents the ark resting on al-Judi or the Gordyan mountains
+    as a tradition also associated with Chaldean, Chaldee paraphrast, and eastern
+    Christian reports.
+  claim_level: same_motif
+  target: nearby Chaldean, Chaldee paraphrast, and eastern Christian ark-resting traditions
+    on the Gordyan mountains
+  evidence_refs:
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a comparison reported by Sale's annotation, not demonstrated
+    from primary Chaldean or Christian texts within the passage itself.
+- id: claim:2
+  claim: The reported scraping of pitch and use of ark wood as amulets or remedies
+    is presented as a relic-veneration pattern attached to the ark-resting tradition.
+  claim_level: same_function
+  target: protective or healing use of ark relics in traditions summarized by Sale
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports antiquarian claims about relic use; it does not
+    provide independent verification or a wider cross-cultural comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 'lines 19655-19741, main text: flood abatement and ark rest'
+  quote_or_summary: "“O earth, swallow up thy waters, and thou, O heaven, withhold
+    thy rain”; the water abates, the decree is fulfilled, and the ark rests on Mount
+    al-Judi; the ungodly people are dismissed."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 'lines 19655-19741, main text: Noah''s plea'
+  quote_or_summary: Noah calls upon the Lord, says his son is of his family, and invokes
+    the truth of God's promise and justice.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 'lines 19655-19741, main text: divine answer to Noah'
+  quote_or_summary: God answers that Noah's son is not of his family, that the intercession
+    is not righteous, and warns Noah not to ask about what he does not know.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 'lines 19655-19741, main text: Noah''s repentance'
+  quote_or_summary: Noah asks for grace so that he will not ask without knowledge,
+    and seeks forgiveness and mercy to avoid perishing.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 'lines 19655-19741, main text: command to descend'
+  quote_or_summary: Noah is told to come down from the ark with peace and blessings
+    upon him and part of those with him; another part will enjoy worldly provision
+    and later receive grievous punishment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 'lines 19655-19741, main text: secret history'
+  quote_or_summary: The account is called a secret history revealed to the addressee,
+    unknown previously to him and his people; the addressee is told to persevere with
+    patience.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 'lines 19655-19741, main text: Hud and Ad'
+  quote_or_summary: Hud is sent to the tribe of Ad and tells them to worship God alone,
+    rejecting idols and intercessors of their own making.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 'lines 19655-19741, note c: location of al-Judi'
+  quote_or_summary: Sale identifies al-Judi with mountains dividing Armenia from Mesopotamia
+    and Assyrian Kurdish regions, linked to Cardu/Gardu/Gordyi and also called Thamanin.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 'lines 19655-19741, note c: ark traditions and relics'
+  quote_or_summary: Sale says the tradition of the ark resting on these mountains
+    was ancient among Chaldeans and accepted by Chaldee paraphrasts and eastern Christians;
+    he reports claims that ark remains, pitch, planks, or wood were seen or used as
+    amulets and remedies.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 'lines 19655-19741, note g: duration in ark'
+  quote_or_summary: Sale reports a Muslim tradition that Noah entered the ark on the
+    tenth of Rajab and left it on the tenth of al-Muharram, making the time in the
+    ark six months.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Main flood, ark, judgment, and Hud elements are explicit. Comparison claims
+    depend on Sale's annotation and should be reviewed against primary sources if
+    used beyond this passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage text and metadata. Taxonomy references are limited to the provided motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l19655-l19741
+  passage_sha256=30d8518710c6cec690fe3606ed4368d00aaea3315aff18c0fbdca65a1ad97084

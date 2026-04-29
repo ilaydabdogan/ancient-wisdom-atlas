@@ -1,0 +1,493 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l15208-l15287
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER V. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VI. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 15208-15287
+  start: '15208'
+  end: '15287'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“And now are ye come unto us alone, as we created you at first...”"
+  summary: 'The passage includes translator notes on disputed revelation and false
+    claimants, then presents a divine address: humans come before God alone, without
+    possessions or intercessors. God is described as causing seeds and living beings
+    to emerge, ordering day, night, sun, moon, and stars, producing humans from one
+    soul, and sending heavenly water that brings forth vegetation and fruit. The passage
+    rejects associating genii or offspring with God, affirms God as creator and caretaker
+    of all things, states that sight cannot comprehend him, and urges following revelation
+    while turning away from idolaters.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The addressed group is said to come to God alone, as they were created at
+    first.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressed group is said to have left bestowed possessions behind, and
+    their supposed intercessors are not seen with them.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The relation between the addressed group and what they imagined is said to
+    be cut off, and what they imagined is said to have deceived them.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: God is said to cause grain and the date-stone to put forth and to bring the
+    living from the dead and the dead from the living.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: God is said to cause morning to appear, ordain night for rest, and appoint
+    the sun and moon for computing time.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Stars are said to be ordained so that people may be directed in the darkness
+    of land and sea.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: God is said to have produced humans from one soul and provided a receptacle
+    and repository.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Water sent down from heaven is said to produce buds, green growth, grain,
+    palm-trees with dates, gardens of grapes, olives, and pomegranates.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Some people are said to set up genii as partners with God, although God created
+    them.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Some people are said to attribute sons and daughters to God, while the passage
+    denies that God has issue or a consort.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: God is described as maker of heaven and earth, creator of all things, omniscient,
+    and caretaker of all things.
+  category: attribute
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:12
+  text: Sight is said not to comprehend God, while God comprehends sight.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: Evident demonstrations and signs are said to have come from God; seeing benefits
+    one’s soul, while wilful blindness harms oneself.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: The addressee is commanded to follow what has been revealed from the Lord
+    and to retire from idolaters.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God / the Lord
+  description: The creator and caretaker who orders life, celestial bodies, vegetation,
+    signs, and revelation; he is not comprehended by sight and has no consort or issue.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Addressed human group
+  description: Those addressed as coming to God alone, without what was bestowed on
+    them or their supposed intercessors.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:3
+  name_or_label: Supposed intercessors
+  description: Figures whom the addressed group thought to be partners with God, but
+    who are not seen with them when they come alone.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Genii
+  description: Beings that some people set up as partners with God, although the passage
+    says God created them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Attributed sons and daughters
+  description: Sons and daughters falsely attributed to God in the passage’s polemic.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Idolaters
+  description: Those from whom the addressee is told to retire after following the
+    revelation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Creator and cosmic orderer
+  assigned_to:
+  - fig:1
+  basis: God causes grain and life to emerge, orders morning, night, sun, moon, stars,
+    and creates all things.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: Solitary returnees before God
+  assigned_to:
+  - fig:2
+  basis: The addressed group comes alone as first created and without possessions
+    or intercessors.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Denied or imagined divine partners
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage mentions intercessors, genii as partners, and attributed children,
+    but rejects these associations with God.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: Revealer of signs
+  assigned_to:
+  - fig:1
+  basis: The passage says God clearly shows signs and sends evident demonstrations
+    and revelation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: role:5
+  label: Recipients of signs and moral consequence
+  assigned_to:
+  - fig:2
+  basis: Those who see demonstrations benefit their souls, while those wilfully blind
+    bear the consequence.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: Group to be avoided
+  assigned_to:
+  - fig:6
+  basis: The addressee is instructed to retire from the idolaters.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Grain and date-stone
+  literal_form: Seed and date-stone putting forth growth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Living from dead and dead from living
+  literal_form: Alternation of living and dead brought forth by God
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - death_rebirth
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Morning and night
+  literal_form: Morning appearing and night ordained for rest
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Sun and moon
+  literal_form: Sun and moon appointed for computing time
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Stars for guidance
+  literal_form: Stars used for direction in darkness on land and sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: One soul
+  literal_form: Human origin from one soul
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Water from heaven
+  literal_form: Water sent down from heaven producing vegetation and fruit
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: Fruit-bearing gardens
+  literal_form: Palm-trees, grapes, olives, and pomegranates bearing fruit and maturing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: Sight and blindness
+  literal_form: Seeing demonstrations versus wilful blindness
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Solitary appearance before God
+  summary: The addressed group comes to God alone as first created; possessions and
+    supposed intercessors are absent, and imagined relations are cut off.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Divine generation of life and cosmic order
+  summary: God brings forth grain, living and dead, morning, night, sun, moon, and
+    stars for timekeeping and guidance.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Heavenly water and vegetation
+  summary: God sends down water from heaven and produces buds, grain, palm dates,
+    grapes, olives, and pomegranates, whose fruit and maturation are signs.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Rejection of divine partners and offspring
+  summary: The passage rejects setting up genii as partners and attributing sons or
+    daughters to God, affirming that God created all things and has no consort.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Signs, sight, and revelation
+  summary: The passage states that demonstrations from the Lord benefit those who
+    see and harm those wilfully blind; the addressee is told to follow revelation
+    and withdraw from idolaters.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Solitary return for divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The addressed group comes to God alone, stripped of possessions and intercessors,
+    with imagined relations cut off.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The excerpt describes the moment of return and exposure before God but
+    does not narrate a full judgment verdict within this line range.
+- id: motif:2
+  label: Life emerging from death and death from life
+  taxonomy_refs:
+  - death_rebirth
+  basis: God causes grain and the date-stone to put forth and brings the living from
+    the dead and the dead from the living.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The motif appears as a theological sign in nature rather than as a narrative
+    of an individual dying and returning.
+- id: motif:3
+  label: Divine signs as wisdom and guidance
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly states that signs are shown for people who understand,
+    are wise, or believe; stars also guide travelers in darkness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The wisdom motif is expressed as recognition of divine signs rather than
+    as a wisdom quest narrative.
+- id: motif:4
+  label: Denied divine offspring
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The passage reports that sons and daughters are falsely attributed to God
+    and then denies that God has issue or a consort.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a polemical negation of divine parent-child attribution, not an
+    affirmative divine parent-child myth.
+- id: motif:5
+  label: Heavenly water producing abundance
+  taxonomy_refs: []
+  basis: Water sent down from heaven produces buds, grain, palms, grapes, olives,
+    and pomegranates, and their maturation is presented as a sign.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No specific available motif-family reference exactly matches agricultural
+    abundance by heavenly water; only the symbol water is directly supported.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15245-15249
+  quote_or_summary: "“And now are ye come unto us alone, as we created you at first”;
+    possessions are left behind, intercessors are absent, and imagined relations are
+    cut off."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 15250-15252
+  quote_or_summary: God causes grain and the date-stone to put forth and brings living
+    from dead and dead from living.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 15253-15256
+  quote_or_summary: God causes morning to appear, ordains night for rest, appoints
+    sun and moon for computing time, and ordains stars for guidance in darkness on
+    land and sea.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 15257-15261
+  quote_or_summary: God produces humans from one soul and sends water from heaven,
+    producing buds, grain, palm dates, grapes, olives, and pomegranates whose fruit
+    and maturity are signs.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 15262-15268
+  quote_or_summary: Some set up genii as partners with God and attribute sons and
+    daughters to him; the passage says God created them, made heaven and earth, has
+    no consort, and created all things.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 15269-15272
+  quote_or_summary: God is identified as Lord, sole deity, creator and caretaker of
+    all things; sight does not comprehend him, but he comprehends sight.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 15273-15280
+  quote_or_summary: Evident demonstrations come from the Lord; seeing benefits the
+    soul and wilful blindness harms oneself. Signs are explained, revelation is to
+    be followed, and the addressee is told to retire from idolaters.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the provided line range. Line numbers for evidence
+    are derived from the supplied stable range and visible line breaks. Motif assignments
+    use only the provided taxonomy and remain draft pending human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Translator footnotes in the opening part of the range were summarized in the canonical text but not developed into motif records because the primary extractable mythic-symbolic content in this range is the divine address and creation/signs passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l15208-l15287
+  passage_sha256=eed66f8693796e6936df16e349f7e88e517b278e1788db91b0369b235d4b7f0e

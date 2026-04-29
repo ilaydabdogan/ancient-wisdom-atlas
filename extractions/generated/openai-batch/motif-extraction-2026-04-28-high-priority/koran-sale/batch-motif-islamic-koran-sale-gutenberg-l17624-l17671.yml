@@ -1,0 +1,453 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l17624-l17671
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER VII / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VIII. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 17624-17671
+  start: '17624'
+  end: '17671'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage warns that severe divine punishment would have followed the
+    taking of ransom from captives at Bedr had prior revelation not intervened. It
+    permits what has been lawfully acquired, addresses captives with the possibility
+    of divine recompense and forgiveness if good is found in their hearts, warns against
+    deceit, and defines ties of kinship, assistance, migration, refuge, leagues, mercy,
+    and provision among believers and unbelievers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A prior revelation from God is said to have prevented severe punishment for
+    taking ransom from captives at Bedr.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressees are told to eat what they have acquired, provided it is lawful
+    and good.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The prophet is instructed to tell captives that God may give them better than
+    what was taken from them and forgive them if God knows good in their hearts.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If the captives seek to deceive the prophet, the passage says they have deceived
+    God and that God has given the prophet power over them.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Believers who fled their country and fought with their substance and persons
+    are paired with those who gave the prophet refuge and assistance as nearest of
+    kin to one another.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Believers who have not fled their country are said to have no right of kindred
+    with the addressed group until they also fly.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Assistance is required for believers who ask on account of religion, except
+    against a people with whom a league subsists.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Infidels are described as kin to one another, and failure to observe the stated
+    arrangement is said to lead to sedition and grievous corruption in the earth.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Believers who left their country, fought for God's religion, and gave the
+    prophet retreat and assistance are described as real believers who will receive
+    mercy and honourable provision.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine speaker or authority who gives revelation, knows hearts,
+    forgives, gives power, sees actions, and grants mercy and provision.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: the prophet
+  description: The prophet is addressed and instructed to speak to the captives; some
+    believers are said to have given him refuge, retreat, and assistance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: captives at Bedr
+  description: Captives from whom ransom was taken and who are addressed as being
+    in the hands of the prophet's group.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: believers who fled their country
+  description: Believers who left their country and used their substance and persons
+    in fighting for God's religion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: believers who gave refuge and assistance
+  description: Those who gave the prophet refuge or retreat and assisted him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: believers who have not fled
+  description: Believers who have not left their country and therefore do not yet
+    share the stated right of kindred.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: infidels
+  description: Those described as kin to one another in contrast to the believers'
+    community ties.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: people with whom a league subsists
+  description: A people against whom assistance is excepted because a league exists
+    with them.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine judge and merciful provider
+  assigned_to:
+  - fig:1
+  basis: God threatens or withholds punishment, forgives, knows hearts, grants power,
+    sees deeds, and gives mercy and provision.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: role:2
+  label: prophetic addressee and messenger
+  assigned_to:
+  - fig:2
+  basis: The prophet is told to speak to the captives and is the recipient of refuge
+    and assistance.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:3
+  label: captives subject to ransom, forgiveness, or warning
+  assigned_to:
+  - fig:3
+  basis: Ransom was taken from captives at Bedr; they are told of possible divine
+    recompense and warned against deceit.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: emigrant fighters for religion
+  assigned_to:
+  - fig:4
+  basis: They believed, fled their country, and fought with their substance and persons
+    for God's religion.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: helpers and refuge-givers
+  assigned_to:
+  - fig:5
+  basis: They gave the prophet refuge or retreat and assisted him.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:6
+  label: non-emigrant believers
+  assigned_to:
+  - fig:6
+  basis: They are believers but have not fled their country and lack the stated right
+    of kindred until they fly.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: opposing kin group
+  assigned_to:
+  - fig:7
+  basis: The passage says infidels are to be deemed kin to one another.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: league-protected people
+  assigned_to:
+  - fig:8
+  basis: The duty to assist is excepted against a people with whom a league subsists.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ransom from captives
+  literal_form: ransom taken from the captives at Bedr
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: prior revelation
+  literal_form: a revelation previously delivered from God
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: refuge or retreat
+  literal_form: refuge or retreat given to the prophet
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: league
+  literal_form: a league subsisting between peoples
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: new kinship among believers
+  literal_form: believers deemed nearest of kin to one another
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Warning over ransom at Bedr
+  summary: The passage states that prior revelation prevented severe punishment for
+    taking ransom from the captives at Bedr and then permits lawful and good acquisitions.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Address to captives
+  summary: The prophet is told to say to captives that God may grant them better than
+    what was taken and forgive them if good is in their hearts; if they seek deceit,
+    God has already given the prophet power over them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Migration, refuge, and communal kinship
+  summary: Believers who fled and fought are joined in kinship with those who gave
+    refuge and assistance; non-emigrant believers are treated differently until they
+    flee, and assistance is qualified by existing leagues.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Consequences for communal ordering
+  summary: Infidels are treated as kin to one another, and the passage warns of sedition
+    and corruption if the prescribed ordering is not observed; true believers are
+    promised mercy and honourable provision.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine punishment withheld by revelation
+  taxonomy_refs:
+  - divine_judgment
+  basis: A severe punishment from God is said to have been averted because a revelation
+    had previously been delivered.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is legal-admonitory rather than a narrative of judgment being
+    enacted.
+- id: motif:2
+  label: divine forgiveness and recompense for captives
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Captives who have good in their hearts may receive from God something better
+    than what was taken and may be forgiven.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage concerns ransom and divine mercy; the broader 'sacred_exchange'
+    taxonomy fit is interpretive and should be reviewed.
+- id: motif:3
+  label: migration establishing sacred community bonds
+  taxonomy_refs:
+  - departure
+  - covenant
+  basis: Believers who fled their country and those who provided refuge and assistance
+    are made nearest kin, while non-emigrant believers lack this right until they
+    fly.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not use the term covenant for the believer relationship,
+    though it does define binding communal obligations.
+- id: motif:4
+  label: league limiting religious assistance
+  taxonomy_refs:
+  - covenant
+  basis: The duty to assist believers on account of religion is explicitly limited
+    by the existence of a league with another people.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage mentions a league but gives no details of its formation or
+    ritual terms.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 17645-17648
+  quote_or_summary: "“Unless a revelation had been previously delivered from GOD,
+    verily a severe punishment had been inflicted on you, for the ransom which ye
+    took from the captives at Bedr.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 17649-17650
+  quote_or_summary: "“Eat therefore of what ye have acquired, that which is lawful
+    and good; for GOD is gracious and merciful.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 17651-17654
+  quote_or_summary: The prophet is told to say to captives in their hands that, if
+    God knows good in their hearts, God will give them better than what was taken
+    and forgive them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 17655-17656
+  quote_or_summary: If the captives seek to deceive the prophet, they have deceived
+    God; God has given the prophet power over them and is knowing and wise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 17657-17665
+  quote_or_summary: Believers who fled their country and fought with their substance
+    and persons are joined as nearest kin with those who gave the prophet refuge and
+    assistance; believers who have not fled lack this kindred right until they fly,
+    though religious assistance is required except against people with whom a league
+    subsists.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 17666-17668
+  quote_or_summary: Infidels are to be deemed kin to one another; otherwise sedition
+    and grievous corruption will occur in the earth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 17669-17671
+  quote_or_summary: Those who believed, left their country, fought for God's true
+    religion, and gave the prophet retreat and assistance are called real believers
+    and promised mercy and honourable provision.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    involving sacred exchange and covenantal structure are candidate interpretations
+    requiring human review. No comparison claims were made because the passage itself
+    does not explicitly compare these patterns to another corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Available taxonomy references were applied only where directly supportable from passage content.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l17624-l17671
+  passage_sha256=ee7896b31bcd1651f137873261abadd14ad160a47d8d8eec51fe78787052b9e2

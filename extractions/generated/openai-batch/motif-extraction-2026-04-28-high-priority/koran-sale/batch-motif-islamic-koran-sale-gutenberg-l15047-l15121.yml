@@ -1,0 +1,468 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l15047-l15121
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER V. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VI. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 15047-15121
+  start: '15047'
+  end: '15121'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes notes on Abraham's father Azer or Terah, his association
+    with idolatry and idol-making, and a Qur'anic passage in which Abraham reflects
+    on the moon and sun, rejects associating celestial bodies with God, directs himself
+    to the creator of heaven and earth, disputes with his people, and is described
+    as receiving an argument, wisdom, and knowledge from God. The passage then lists
+    a series of directed or favored righteous figures.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes identify Azer with Abraham's father in Islamic discussion and connect
+    the name Azer with Mars, fire, and a planetary deity worshipped under the form
+    of a pillar.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The notes describe Azer or Terah as an idolater and as a maker or carver of
+    idols, including a tradition that he first made images of clay.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note explains Abraham's reflections as being enabled by God giving him right
+    apprehension of the government of the world and heavenly bodies.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Abraham sees the moon rising, calls it his lord, and after it sets says that
+    without his Lord's direction he would be among those who go astray.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Abraham sees the sun rising, calls it his lord and the greatest, and after
+    it sets declares himself clear of what his people associate with God.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Abraham says he directs his face to the one who created the heavens and the
+    earth and denies being one of the idolaters.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Abraham's people dispute with him, and he argues that he need not fear what
+    they associate with God while they do not fear associating with God what lacks
+    divine authority.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Those who believe and do not clothe their faith with injustice are said to
+    enjoy security and be rightly directed.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: God says the argument furnished to Abraham was for use against his people,
+    and that God exalts whom he pleases to degrees of wisdom and knowledge.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage names Isaac, Jacob, Noah, David, Solomon, Job, Joseph, Moses,
+    Aaron, Zacharias, John, Jesus, Elias, Ismael, Elisha, Jonas, and Lot as directed,
+    righteous, upright, or favored figures.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Azer or Terah
+  description: Abraham's father in the notes; described as an idolater and idol-maker
+    in eastern traditions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Abraham
+  description: The speaker who observes the moon and sun, rejects association with
+    God, directs himself to the creator, and disputes with his people.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: God / Lord
+  description: The creator of the heavens and earth who directs Abraham and furnishes
+    him with an argument, wisdom, and knowledge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:9
+- id: fig:4
+  name_or_label: Abraham's people
+  description: The people who dispute with Abraham and associate other things with
+    God.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Directed and favored righteous figures
+  description: A named group including Isaac, Jacob, Noah, David, Solomon, Job, Joseph,
+    Moses, Aaron, Zacharias, John, Jesus, Elias, Ismael, Elisha, Jonas, and Lot.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: idolater and idol-maker
+  assigned_to:
+  - fig:1
+  basis: The notes state that Azer or Terah was an idolater and a maker or carver
+    of idols.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: reflective observer of celestial bodies
+  assigned_to:
+  - fig:2
+  basis: Abraham observes the moon and sun rising and setting before rejecting them
+    as objects associated with God.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: monotheistic disputant
+  assigned_to:
+  - fig:2
+  basis: Abraham declares himself clear of what his people associate with God and
+    argues against them.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: creator and divine guide
+  assigned_to:
+  - fig:3
+  basis: God is described as creator of heaven and earth and as the one who directs
+    Abraham and furnishes his argument.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:9
+- id: role:5
+  label: disputing associators
+  assigned_to:
+  - fig:4
+  basis: The people dispute with Abraham and associate others with God without authority.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: directed or favored righteous figures
+  assigned_to:
+  - fig:5
+  basis: The passage says God directed or favored the listed figures and calls several
+    righteous or upright.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: fire / Azer
+  literal_form: The word Azer is said to originally signify fire and to be connected
+    with Mars as a fiery planetary deity.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pillar idol
+  literal_form: A planetary deity is said to have been worshipped under the form of
+    a pillar.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: clay images / idols
+  literal_form: Images of clay and carved idols associated with Azer or Terah's occupation.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: moon
+  literal_form: The moon rising and setting, observed by Abraham during his reflection.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sun
+  literal_form: The sun rising and setting, observed by Abraham and called the greatest
+    before he rejects association.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: heavens and earth
+  literal_form: The created heavens and earth to which Abraham refers when directing
+    his face to the creator.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Commentarial background on Azer and idolatry
+  summary: The notes discuss Azer or Terah as Abraham's father, connect the name with
+    fire and Mars, and describe him as an idolater and maker of idols.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Abraham observes the moon and sun
+  summary: Abraham observes the moon and sun rising and setting, then rejects their
+    association with God and turns to the creator of heaven and earth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Dispute with Abraham's people
+  summary: Abraham's people dispute with him, and he responds by contrasting his lack
+    of fear toward their associates with their failure to fear unauthorized association
+    with God.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Divine argument and lineage of directed figures
+  summary: God describes furnishing Abraham with an argument and exalting whom he
+    pleases in wisdom and knowledge, then names several directed or favored righteous
+    figures.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Celestial observation leading to rejection of astral association
+  taxonomy_refs:
+  - wisdom
+  basis: Abraham reflects on the moon and sun as they rise and set, then rejects associating
+    them with God and turns to the creator.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents this primarily as theological reasoning; the broader
+    motif-family alignment is interpretive.
+- id: motif:2
+  label: Divinely supplied wisdom as argument against the people
+  taxonomy_refs:
+  - wisdom
+  basis: God is said to have furnished Abraham with an argument against his people
+    and to exalt whom he pleases in wisdom and knowledge.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: No external comparison is supplied in the passage.
+- id: motif:3
+  label: Security of rightly directed believers
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage contrasts parties in terms of safety and says believers who do
+    not clothe faith with injustice enjoy security and right direction.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The text speaks of security and right direction, not an explicit final
+    judgment scene in this excerpt.
+- id: motif:4
+  label: Lineage or catalog of divinely directed righteous figures
+  taxonomy_refs:
+  - wisdom
+  basis: A sequence of named figures is described as directed, righteous, upright,
+    or favored by God.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The passage gives a list rather than a narrative episode for these figures.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious alignment with the wisdom motif family because
+    Abraham receives right apprehension and a divinely furnished argument involving
+    the heavenly bodies.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison to an available motif family only;
+    the passage does not establish historical contact or external parallels.
+- id: claim:2
+  claim: The passage supports a cautious alignment with divine judgment or moral sorting
+    insofar as it contrasts the safety of believers with those who associate others
+    with God.
+  claim_level: same_function
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt does not depict a formal judgment event; the comparison
+    rests only on language of safety, fear, and right direction.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15047-15067
+  quote_or_summary: The note discusses Azer as Abraham's father, connects the name
+    with Mars and fire, and says the fiery planetary deity was worshipped under the
+    form of a pillar.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 15068-15082
+  quote_or_summary: The note says Azer or Terah was an idolater, that eastern authors
+    describe him as a statuary or carver of idols, and that he was represented as
+    first making images of clay.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 15083-15085
+  quote_or_summary: The note says God gave Abraham right apprehension of the government
+    of the world and heavenly bodies so he might know them as ruled by God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 15102-15104
+  quote_or_summary: Abraham sees the moon rising, says, "This is my LORD," and when
+    it sets says that without his Lord's direction he would be among those who go
+    astray.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:5
+  type: summary
+  locator: 15105-15107
+  quote_or_summary: Abraham sees the sun rising, calls it his lord and the greatest,
+    and when it sets declares himself clear of what his people associate with God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 15108-15109
+  quote_or_summary: Abraham says, "I direct my face unto him who hath created the
+    heavens and the earth" and denies being one of the idolaters.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:7
+  type: summary
+  locator: 15110-15115
+  quote_or_summary: Abraham's people dispute with him; he asks why he should fear
+    what they associate with God when they do not fear associating with God what lacks
+    authority.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 15116-15117
+  quote_or_summary: Those who believe and do not clothe their faith with injustice
+    are said to enjoy security and be rightly directed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 15118-15120
+  quote_or_summary: God says this is the argument furnished to Abraham against his
+    people and that God exalts whom he pleases to degrees of wisdom and knowledge.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: '15121'
+  quote_or_summary: The passage lists Isaac, Jacob, Noah, David, Solomon, Job, Joseph,
+    Moses, Aaron, Zacharias, John, Jesus, Elias, Ismael, Elisha, Jonas, and Lot as
+    directed or favored figures, with some called righteous or upright.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction relies only on the supplied passage. Motif labels are cautious
+    where they map the passage to available taxonomy families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external parallels or taxonomy identifiers beyond the supplied available refs were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l15047-l15121
+  passage_sha256=f8d8a8c3ec8519aa7df102a8053e64596b0d6b0bc3cb9f9290c0a7e4ce0a85c7

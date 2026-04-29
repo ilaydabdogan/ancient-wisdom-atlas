@@ -1,0 +1,525 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l29135-l29197
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XXX. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXXI. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 29135-29197
+  start: '29135'
+  end: '29197'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens Chapter XXXI, identifies the signs of the wise book as
+    guidance and mercy for the righteous, contrasts believers with a man who buys
+    frivolous tales to turn people from God's way, describes punishment and reward,
+    affirms God's creation of heavens, mountains, animals, rain, and plants, and introduces
+    Lokmn as a recipient of wisdom who admonishes his son against associating partners
+    with God and urges gratitude to God and parents before final judgment.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The text presents the signs of a wise book as direction and mercy for righteous
+    people who pray, give alms, and trust in the life to come.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man is described as purchasing a ludicrous story in order to seduce people
+    from the way of God and mock it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man who turns away from rehearsed signs is threatened with grievous punishment.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Believers who work righteousness are promised gardens of pleasure in which
+    they will remain forever.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: God is described as creating the heavens without visible pillars, placing
+    firmly rooted mountains on the earth, filling the earth with beasts, sending rain
+    from heaven, and causing noble vegetation to grow.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage challenges those worshipped besides God by asking what they have
+    created and states that the ungodly are in manifest error.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Wisdom is said to have been bestowed on Lokmn, who is commanded to be thankful
+    to God.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Lokmn admonishes his son not to give a partner to God, calling polytheism
+    a great impiety.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Human beings are commanded to be grateful to God and to their parents, with
+    mention of the mother's pregnancy, weakness, and weaning over two years.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage states that all will come to God to be judged.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine creator, giver of guidance, reward, punishment, wisdom,
+    and final judgment.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: the righteous / believers who work righteousness
+  description: People who observe prayer, give alms, have assurance in the life to
+    come, believe, and work righteousness.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: man who purchases a ludicrous story
+  description: A person who buys or uses frivolous tales to lead people away from
+    God's way and scorn it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:10
+- id: fig:4
+  name_or_label: Lokmn
+  description: A figure on whom wisdom was bestowed and who admonishes his son.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Lokmn's son
+  description: The son addressed by Lokmn in an admonition against giving a partner
+    to God.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: parents and mother
+  description: Parents are named as recipients of gratitude; the mother is described
+    as carrying the child in weakness and faintness and weaning him in two years.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: the ungodly
+  description: Those described as being in manifest error in the challenge about creation.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: creator
+  assigned_to:
+  - fig:1
+  basis: God creates the heavens, earth features, animals, rain, and vegetation.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: giver of reward and punishment
+  assigned_to:
+  - fig:1
+  basis: The passage announces punishment for the scoffer and gardens for righteous
+    believers as God's certain promise.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: final judge
+  assigned_to:
+  - fig:1
+  basis: The passage says all shall come to God to be judged.
+  evidence_refs:
+  - ev:9
+- id: role:4
+  label: righteous recipients of guidance and reward
+  assigned_to:
+  - fig:2
+  basis: The righteous are directed by their Lord and believers who work righteousness
+    receive gardens of pleasure.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: seducer through frivolous tale
+  assigned_to:
+  - fig:3
+  basis: The man purchases a ludicrous story to seduce people from God's way and mock
+    it.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: wise admonisher
+  assigned_to:
+  - fig:4
+  basis: Wisdom is bestowed on Lokmn, and he admonishes his son.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: recipient of divine wisdom
+  assigned_to:
+  - fig:4
+  basis: The text says wisdom was bestowed on Lokmn.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: instructed child
+  assigned_to:
+  - fig:5
+  basis: Lokmn addresses his son with religious admonition.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: parents owed gratitude
+  assigned_to:
+  - fig:6
+  basis: The passage commands gratitude to parents and describes the mother's bearing
+    and weaning of the child.
+  evidence_refs:
+  - ev:9
+- id: role:10
+  label: erring opponents
+  assigned_to:
+  - fig:7
+  basis: The ungodly are described as in manifest error in relation to worship besides
+    God.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: wise book
+  literal_form: the signs of the wise book
+  associated_figures: []
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ludicrous story
+  literal_form: a purchased frivolous tale used to divert people from God's way
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: sym:3
+  label: gardens of pleasure
+  literal_form: gardens promised to righteous believers forever
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: mountains firmly rooted
+  literal_form: mountains placed on the earth to keep it from moving with people
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: rain from heaven
+  literal_form: rain sent down from heaven causing vegetation to spring forth
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: noble vegetation
+  literal_form: every kind of noble vegetable springing forth from rain
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: mother's womb and weaning
+  literal_form: mother carrying the child in weakness and weaning him in two years
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Opening guidance and moral contrast
+  summary: The passage identifies the wise book as guidance and mercy for the righteous
+    and contrasts them with a man who uses frivolous stories to divert people from
+    God's way.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Reward and punishment
+  summary: The scornful hearer of divine signs is threatened with punishment, while
+    believing righteous workers are promised everlasting gardens of pleasure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Creation as divine proof
+  summary: God's creation of the heavens, mountains, animals, rain, and vegetation
+    is presented, followed by a challenge to those worshipped besides God.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Lokmn's wisdom and admonition
+  summary: Lokmn receives wisdom and is told to be thankful; he admonishes his son
+    against giving a partner to God.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Gratitude to parents and return for judgment
+  summary: Human beings are commanded to be grateful to God and parents, the mother's
+    labor is recalled, and all are said to come to God for judgment.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: bestowed wisdom and filial instruction
+  taxonomy_refs:
+  - wisdom
+  basis: Lokmn is explicitly given wisdom and uses admonitory speech to instruct his
+    son in monotheism and gratitude.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage identifies wisdom and instruction directly; broader narrative
+    context for Lokmn is not included in this excerpt.
+- id: motif:2
+  label: divine judgment with punishment and reward
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage contrasts shameful or grievous punishment for those who mislead
+    or reject signs with everlasting gardens for righteous believers and states that
+    all will come to God to be judged.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:9
+  confidence: high
+  cautions: The excerpt summarizes judgment outcomes but does not narrate a full judgment
+    scene.
+- id: motif:3
+  label: creation as proof against false worship
+  taxonomy_refs: []
+  basis: The passage lists God's creative acts and asks what those worshipped besides
+    God have created.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: No supplied taxonomy family directly names creation-as-proof; this is
+    retained as a plain candidate motif without taxonomy reference.
+- id: motif:4
+  label: stabilizing mountains and life-giving rain
+  taxonomy_refs: []
+  basis: Mountains are placed to keep the earth from moving, and rain from heaven
+    causes vegetation to grow.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The supplied taxonomy includes mountain and water symbols but no specific
+    motif family for earth-stabilizing mountains or rain fertility.
+- id: motif:5
+  label: deceptive entertainment diverting from sacred teaching
+  taxonomy_refs: []
+  basis: The passage describes a man purchasing a ludicrous story to seduce people
+    from God's way and scorn it; the note links this to tales, songs, or Persian heroic
+    romance used to divert would-be Muslims.
+  evidence_refs:
+  - ev:2
+  - ev:10
+  confidence: medium
+  cautions: The contextual identification is from the translator's note rather than
+    the main scriptural line.
+comparison_claims:
+- id: claim:1
+  claim: The translator's note connects the 'ludicrous story' with Persian heroic
+    romance about Rostam and Isfandiyar, presented as rival recitation used to divert
+    listeners from Qur'anic teaching.
+  claim_level: same_function
+  target: Persian heroic romance of Rostam and Isfandiyar as reported in Sale's note
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This comparison depends on the explanatory note included in the passage,
+    not on an explicit comparison in the main translated verse; it supports functional
+    rivalry of narratives rather than a shared mythic motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 29135-29197, opening verses of Chapter XXXI
+  quote_or_summary: The wise book is described as guidance and mercy for the righteous,
+    who pray, give alms, and trust in the life to come.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 29135-29197, Chapter XXXI
+  quote_or_summary: A man purchases a 'ludicrous story' to seduce people from God's
+    way and laugh it to scorn; such people receive shameful punishment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short phrase quoted.
+- id: ev:3
+  type: summary
+  locator: lines 29135-29197, Chapter XXXI
+  quote_or_summary: When signs are rehearsed to the same figure, he turns away as
+    if deaf, and grievous punishment is announced for him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 29135-29197, Chapter XXXI
+  quote_or_summary: Those who believe and work righteousness are promised gardens
+    of pleasure forever as the certain promise of God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 29135-29197, Chapter XXXI
+  quote_or_summary: God creates the heavens without visible pillars, places rooted
+    mountains on earth, replenishes it with beasts, sends rain from heaven, and causes
+    noble vegetation to grow.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 29135-29197, verse marked 10
+  quote_or_summary: The text asks what beings worshipped besides God have created
+    and says the ungodly are in manifest error.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 29135-29197, Chapter XXXI
+  quote_or_summary: Wisdom was bestowed on Lokmn, who was commanded to be thankful
+    to God; gratitude benefits the grateful soul.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: quote
+  locator: lines 29135-29197, Chapter XXXI
+  quote_or_summary: Lokmn says to his son not to give God a partner, because polytheism
+    is a great impiety.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short summary with brief wording used.
+- id: ev:9
+  type: summary
+  locator: lines 29135-29197, Chapter XXXI
+  quote_or_summary: 'Humankind is commanded concerning parents: the mother carries
+    the child in weakness and weans him in two years; people are told to be grateful
+    to God and parents, and all come to God to be judged.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:10
+  type: summary
+  locator: lines 29135-29197, translator note o
+  quote_or_summary: The note explains the 'ludicrous story' as vain fables and reports
+    an occasion involving al Nodar Ebn al Hareth, Persian tales of Rostam and Isfandiyar,
+    and songs or tales used to divert people from becoming Muslims.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary of note used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the supplied passage. Motif labeling is
+    limited to the excerpt and supplied taxonomy; the comparison claim relies on the
+    included translator's note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were applied only where directly supported by the supplied lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l29135-l29197
+  passage_sha256=15fc426596fe351032579c3fc14a68dac2e1050a70d4931133fed98c0c3a7c91

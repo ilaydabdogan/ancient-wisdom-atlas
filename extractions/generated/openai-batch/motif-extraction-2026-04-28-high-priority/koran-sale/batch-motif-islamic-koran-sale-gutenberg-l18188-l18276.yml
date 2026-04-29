@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l18188-l18276
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VIII. / IN THE NAME OF THE
+    MOST MERCIFUL GOD. / CHAPTER IX.; lines 18188-18276
+  start: '18188'
+  end: '18276'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage condemns people who avoid an expedition, swear falsely that
+    they belong with the believers, fear punishment, seek hiding places, criticize
+    the prophet’s distribution of alms, and give unwillingly. It contrasts expected
+    outcomes for believers as victory or martyrdom, warns that God may punish opponents,
+    states rules for alms distribution, and answers the charge that the prophet is
+    'an ear' by saying he is an ear of good and mercy for believers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some people are described as backward or reluctant to go on an expedition
+    connected with the promotion of the true religion.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says believers expect either victory or martyrdom, while expecting
+    God to punish the addressed opponents either directly or by believers' hands.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The addressed people may expend money voluntarily or by constraint, but their
+    expenditure is said not to be accepted because they are wicked and unbelieving.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Riches and children are described as things by which God intends to punish
+    the unbelievers in this world.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The people swear by God that they are of the believers, but the passage says
+    they are not and that they stand in fear.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: If the fearful people find a refuge, caves, or a retreating hole, they hasten
+    toward it.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Some people spread ill reports about the prophet’s distribution of alms and
+    react according to whether they receive a share.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Alms are assigned to specified recipients, including the poor, needy, alms
+    administrators, reconciled hearts, captives, debtors, religious advancement, and
+    travellers.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Some people injure the prophet by saying he is 'an ear'; the answer says he
+    is an ear of good, believes in God, gives credit to the faithful, and is a mercy
+    to believers.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: GOD
+  description: Divine authority who may inflict punishment, reject offerings, ordain
+    alms, and give abundance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: the apostle / prophet
+  description: The prophet is associated with distribution of alms, receives criticism,
+    and is defended as an 'ear of good' and mercy to believers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: wicked or unbelieving people / hypocrites
+  description: A group described as reluctant, fearful, unbelieving, unwilling in
+    prayer and expenditure, falsely claiming affiliation, seeking refuge, and criticizing
+    alms distribution.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: faithful / believers
+  description: The group contrasted with opponents; they expect victory or martyrdom
+    and may be instruments of punishment by God’s permission.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: fig:5
+  name_or_label: recipients of alms
+  description: 'Groups named as proper recipients of alms: poor, needy, collectors
+    and distributors, reconciled hearts, captives, insolvent debtors, advancement
+    of God''s religion, and traveller.'
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine judge and ordainer
+  assigned_to:
+  - fig:1
+  basis: God is said to punish opponents, reject unacceptable contributions, and establish
+    the ordinance of alms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: role:2
+  label: prophetic distributor and defended messenger
+  assigned_to:
+  - fig:2
+  basis: The prophet is criticized over alms distribution and then defended against
+    the charge that he is 'an ear.'
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:3
+  label: fearful hypocritical opponents
+  assigned_to:
+  - fig:3
+  basis: They are described as concealing unbelief, standing in fear, seeking hiding
+    places, and giving unwillingly.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: faithful combatant community
+  assigned_to:
+  - fig:4
+  basis: The believers are associated with expecting victory or martyrdom and with
+    giving credit to the prophet.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:5
+  label: authorized charitable recipients
+  assigned_to:
+  - fig:5
+  basis: The passage lists them as recipients to whom alms are to be distributed.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: caves and hiding places
+  literal_form: place of refuge, caves, or a retreating hole
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: alms
+  literal_form: money or goods distributed to named recipients
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: victory or martyrdom
+  literal_form: two expected outcomes named as excellent things
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: riches and children
+  literal_form: possessions and offspring described as a means of worldly punishment
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Expedition reluctance and divine punishment announced
+  summary: The context concerns people excused from or reluctant about an expedition;
+    the speech contrasts believers' expectation of victory or martyrdom with punishment
+    expected for opponents.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rejected unwilling contribution
+  summary: The addressed group is told that even if they expend money voluntarily
+    or by constraint, it will not be accepted because of unbelief, sluggish prayer,
+    and unwilling giving.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Fearful flight to refuge
+  summary: People who swear they belong with the believers are said actually to fear
+    them, and they would hasten toward refuges, caves, or holes if they found them.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Dispute and ordinance over alms
+  summary: Some criticize the prophet’s alms distribution, but the passage states
+    approved categories of alms recipients as an ordinance from God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: The prophet called an ear and defended
+  summary: Some injure the prophet by calling him an ear; the response reframes him
+    as an ear of good, a believer in God, and a mercy to believers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divine judgment against unbelief and hypocrisy
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage repeatedly states that God may inflict punishment, reject contributions
+    because of unbelief, and use worldly goods as punishment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a theological judgment motif in a legal-polemical passage, not
+    a mythic narrative episode.
+- id: motif:2
+  label: sacred distribution of alms
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Alms are regulated as an ordinance from God and distributed to named categories
+    of recipients; improper or unwilling giving is rejected.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The passage concerns religious law and charity; the 'sacred_exchange'
+    taxonomy fit is interpretive and should be reviewed.
+- id: motif:3
+  label: cave or hidden refuge for the fearful
+  taxonomy_refs: []
+  basis: The passage says the fearful group would hasten to a refuge, caves, or a
+    retreating hole if they found one.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The cave appears as a literal hiding place, not as an initiatory or revelatory
+    cave scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18188-18204
+  quote_or_summary: Notes describe reluctance about an expedition, including difficulties
+    of the march, excuses from going, and hypocrisy shown by backwardness to go to
+    war for the promotion of the true religion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 18205-18209
+  quote_or_summary: '"Do ye expect any other should befall us, than one of the two
+    most excellent things; either victory or martyrdom?" The same speech expects God
+    to inflict punishment on opponents either directly or by believers'' hands.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: 18210-18214
+  quote_or_summary: The addressed people are told that money spent voluntarily or
+    by constraint will not be accepted because they are wicked, unbelieving, sluggish
+    in prayer, and unwilling in expenditure.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 18215-18217
+  quote_or_summary: Riches and children are not to cause marvel; God is said to intend
+    to punish the unbelievers by these things in this world and let their souls depart
+    as unbelievers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 18218-18220
+  quote_or_summary: They swear they are of the believers but are not; "If they find
+    a place of refuge, or caves, or a retreating hole," they hasten there.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: 18221-18226
+  quote_or_summary: Some spread ill reports about the prophet’s distribution of alms;
+    they are pleased if they receive a share and angry if they do not.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 18227-18235
+  quote_or_summary: Alms are to be distributed to the poor, needy, alms workers, reconciled
+    hearts, captives, debtors, for God's religion, and travellers; this is called
+    an ordinance from God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: 18236-18242
+  quote_or_summary: Some injure the prophet and say, "He is an ear"; the response
+    says he is "an ear of good" who believes in God, gives credit to the faithful,
+    and is a mercy to believers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are limited to available
+    taxonomy and should be reviewed because the passage is primarily admonitory and
+    legal rather than narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No external comparison claims were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l18188-l18276
+  passage_sha256=cd1b3a2be8c960ad56940448dbfde3a4abe824f822c9b300ebf85def15fb5eda

@@ -1,0 +1,573 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l23142-l23202
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XVI. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XVII. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 23142-23202
+  start: '23142'
+  end: '23202'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Translator’s notes identify miracles demanded of Mohammed, a night-journey
+    objection, hellfire punishment, and possible lists of Moses’s nine signs or commandments.
+    The passage then recounts Moses confronting Pharaoh, Pharaoh’s drowning, Israel
+    dwelling in the land, future judgment, the Qur'an’s truthful and gradual revelation,
+    the humble response of people knowledgeable in prior scriptures, and instructions
+    concerning divine names, prayer volume, and praise of God without child or partner.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note says the Koreish demanded miracles of Mohammed as proofs of his mission,
+    and another note refers to an objection that no one witnessed his night-journey.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note explains that when the fire abates after consuming the damned, renewed
+    bodies are given so the flames regain force; another note glosses this as life
+    or resurrection.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note lists Moses’s signs as including a rod becoming a serpent, a white
+    shining hand, plagues, division of the Red Sea, water from a rock, and the shaking
+    of Mount Sinai; it also reports an alternate interpretation as commandments.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Moses tells Pharaoh that only the Lord of heaven and earth sent down the evident
+    signs and calls Pharaoh a lost man.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Pharaoh sought to drive Moses’s people from the land, and Pharaoh and those
+    with him were drowned.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After Pharaoh’s destruction, the children of Israel are told to dwell in the
+    land, and a future promise of the next life includes bringing both groups to judgment.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Qur'an is described as sent down with truth, and Mohammed is described
+    as a bearer of good tidings and a denouncer of threats.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Qur'an is described as divided and revealed by parcels so it may be read
+    to people with deliberation as occasion required.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Those favored with knowledge of earlier scriptures fall on their faces worshipping,
+    praise their Lord, weep, and increase in humility when the Qur'an is rehearsed
+    to them.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The passage says one may call upon God or the Merciful, instructs a middle
+    way in prayer volume, and praises God as having no child, partner, or protector
+    against contempt.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Recipient or addressee associated with demanded miracles, the night-journey
+    note, and the commission to bear good tidings and threats.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: Koreish
+  description: Group said in a note to have demanded miracles of Mohammed as proof
+    of his mission.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Moses
+  description: Figure associated with evident signs and speech to Pharaoh.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Pharaoh
+  description: Ruler addressed by Moses, described as seeking to drive them out and
+    then being drowned with those who were with him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: God / Lord / Merciful
+  description: Divine figure named as sender of signs, revealer of the Qur'an, judge
+    of the next life, and possessor of excellent names.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:6
+  name_or_label: children of Israel
+  description: Community addressed after Pharaoh’s destruction and told to dwell in
+    the land.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:7
+  name_or_label: those favored with knowledge of earlier scriptures
+  description: People who respond to the rehearsed Qur'an by falling on their faces,
+    worshipping, praising, weeping, and increasing in humility.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: the damned
+  description: People in the note whose consumed bodies are renewed so the fire’s
+    punishment continues.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: those who were with Pharaoh
+  description: Group drowned along with Pharaoh.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: demanders of miraculous proof
+  assigned_to:
+  - fig:2
+  basis: The note says the Koreish demanded miracles of Mohammed as proofs of his
+    mission.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bearer of good tidings and threats
+  assigned_to:
+  - fig:1
+  basis: The passage says Mohammed was sent as a bearer of good tidings and a denouncer
+    of threats.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: divine sender, revealer, and judge
+  assigned_to:
+  - fig:5
+  basis: God is presented as sending signs, sending down the Qur'an with truth, possessing
+    excellent names, and bringing people to judgment.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:9
+- id: role:4
+  label: prophetic challenger of Pharaoh
+  assigned_to:
+  - fig:3
+  basis: Moses speaks to Pharaoh about the signs sent by the Lord and condemns Pharaoh
+    as lost.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: opposing ruler destroyed by drowning
+  assigned_to:
+  - fig:4
+  basis: Pharaoh seeks to drive them out of the land and is drowned.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: delivered community later subject to judgment
+  assigned_to:
+  - fig:6
+  basis: After Pharaoh’s destruction the children of Israel are told to dwell in the
+    land, and a later judgment is announced.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: humble worshippers responding to scripture
+  assigned_to:
+  - fig:7
+  basis: They fall on their faces, worship, praise, weep, and become more humble when
+    the Qur'an is rehearsed.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: recipients of fiery punishment
+  assigned_to:
+  - fig:8
+  basis: The note describes the damned as consumed by fire and given renewed bodies
+    for continued flames.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: companions in Pharaoh’s destruction
+  assigned_to:
+  - fig:9
+  basis: The passage says Pharaoh and all who were with him were drowned.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: serpent sign
+  literal_form: Moses’s rod changed into a serpent
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: punitive fire
+  literal_form: fire or flames consuming and renewed against the damned
+  associated_figures:
+  - fig:5
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water of deliverance and destruction
+  literal_form: division of the Red Sea, water from the rock, and drowning of Pharaoh
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:9
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: Mount Sinai
+  literal_form: Mount Sinai shaken over the children of Israel
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: sent-down Qur'an
+  literal_form: the Qur'an sent down with truth and revealed in parcels
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: falling on faces
+  literal_form: falling down on faces, worshipping and weeping
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: excellent divine names
+  literal_form: calling upon God or the Merciful
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Commentary on demanded proofs and Moses’s signs
+  summary: Notes describe miracles demanded of Mohammed and explain possible enumerations
+    of Moses’s signs or commandments, including serpent, water, and mountain signs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Moses confronts Pharaoh and Pharaoh is drowned
+  summary: Moses says the signs come from the Lord; Pharaoh tries to drive them out,
+    and Pharaoh with his followers is drowned.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:9
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Israel dwells in the land and future judgment is announced
+  summary: After Pharaoh’s destruction, the children of Israel are told to dwell in
+    the land, while a later promise of the next life will bring groups to judgment.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: The Qur'an descends and is recited gradually
+  summary: The Qur'an is said to descend with truth and to be divided into parcels
+    for deliberate recitation as circumstances require.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: People of earlier scriptures respond in worship
+  summary: Those with knowledge of previous scriptures fall on their faces, worship,
+    praise, weep, and grow humbler at the recitation.
+  figure_refs:
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Invocation, prayer, and praise
+  summary: The passage permits calling upon God or the Merciful, directs a middle
+    way in prayer volume, and praises God as without child, partner, or protector.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:9
+- id: scene:7
+  label: Commentary on renewed fire punishment
+  summary: A note describes the damned being given renewed bodies so that the fire’s
+    punishment continues.
+  figure_refs:
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Divine signs confront an opposing ruler
+  taxonomy_refs: []
+  basis: Moses identifies the evident signs as sent by the Lord of heaven and earth
+    before Pharaoh’s attempted expulsion and destruction.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage names the signs but gives their detailed list mainly in a
+    translator’s note.
+- id: motif:2
+  label: Drowning of the oppressive ruler
+  taxonomy_refs:
+  - divine_judgment
+  basis: Pharaoh seeks to drive them out, and God drowns Pharaoh and all who were
+    with him.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage summarizes the episode briefly.
+- id: motif:3
+  label: Future judgment in the next life
+  taxonomy_refs:
+  - divine_judgment
+  - resurrection
+  basis: The passage announces that, when the promise of the next life is fulfilled,
+    both groups will be brought to judgment.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The exact identity of both groups is context-dependent within the broader
+    chapter.
+- id: motif:4
+  label: Renewed fiery punishment of the damned
+  taxonomy_refs:
+  - divine_judgment
+  - resurrection
+  basis: A note explains renewed bodies or life/resurrection so that flames continue
+    against the damned.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This detail appears in translator commentary rather than the main verse
+    text in the supplied passage.
+- id: motif:5
+  label: Gradual descent of sacred scripture
+  taxonomy_refs: []
+  basis: The Qur'an is described as sent down with truth and divided into parcels
+    for deliberate reading as occasion required.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No taxonomy reference in the supplied list directly matches gradual revelation.
+- id: motif:6
+  label: Humble prostration at fulfilled divine promise
+  taxonomy_refs: []
+  basis: People knowledgeable in earlier scriptures fall on their faces, worship,
+    praise the fulfilled promise, weep, and increase in humility.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage describes the ritual-emotional response without expanding
+    its narrative background.
+- id: motif:7
+  label: Serpent sign among prophetic miracles
+  taxonomy_refs:
+  - serpent
+  basis: A note includes the changing of Moses’s rod into a serpent among the possible
+    nine signs.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The serpent appears in a list of signs in commentary, not as a narrated
+    event in the main passage.
+comparison_claims:
+- id: claim:1
+  claim: The note’s list of Moses’s signs overlaps with the Exodus miracle cycle,
+    including rod-serpent transformation, plagues, Red Sea division, water from rock,
+    and Sinai imagery.
+  claim_level: same_motif
+  target: Moses-Pharaoh Exodus miracle cycle
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supported by the translator’s note and the passage’s
+    Moses-Pharaoh summary, but the supplied passage does not provide a full external
+    text for direct comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23142-23147
+  quote_or_summary: Notes state that miracles were demanded of Mohammed by the Koreish
+    as proofs of his mission and refer to his night-journey as unwitnessed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 23148-23152
+  quote_or_summary: A note explains renewed force to hellfire by giving new bodies
+    to the damned; another note glosses the term as life or resurrection.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 23153-23172
+  quote_or_summary: A note lists Moses’s possible nine miracles, including rod to
+    serpent, shining hand, plagues, Red Sea division, water from rock, and Mount Sinai,
+    while also reporting an alternate commandments interpretation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 23181-23184
+  quote_or_summary: "“none hath sent down these evident signs except the LORD of heaven
+    and earth” and Moses esteems Pharaoh “a lost man.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 23185-23186
+  quote_or_summary: Pharaoh sought to drive them out of the land, but he and all those
+    with him were drowned.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 23187-23190
+  quote_or_summary: After Pharaoh’s destruction, the children of Israel are told to
+    dwell in the land, and the promise of the next life will bring both groups to
+    judgment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 23190-23196
+  quote_or_summary: The Qur'an is sent down with truth; Mohammed is sent as bearer
+    of good tidings and threats; the Qur'an is divided and revealed by parcels for
+    deliberate recitation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 23197-23204
+  quote_or_summary: Those favored with knowledge of prior scriptures fall on their
+    faces worshipping, praise the fulfillment of the Lord’s promise, weep, and increase
+    in humility.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 23205-23212
+  quote_or_summary: The passage permits invoking God or the Merciful, instructs a
+    middle way in prayer volume, and praises God as having no child, no partner, and
+    no protector from contempt.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Main narrative elements are clear. Some motif identifications rely on translator’s
+    notes included in the supplied passage, especially the enumerated Moses signs
+    and the renewed-fire explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to provided motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l23142-l23202
+  passage_sha256=f61bfeadfe312a46196976a8f2217cbf729af0c530740e847928bb4cdf38679c

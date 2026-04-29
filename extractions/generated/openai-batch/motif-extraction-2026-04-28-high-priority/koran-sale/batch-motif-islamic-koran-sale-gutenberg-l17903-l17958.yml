@@ -1,0 +1,525 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l17903-l17958
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VIII. / IN THE NAME OF THE
+    MOST MERCIFUL GOD. / CHAPTER IX.; lines 17903-17958
+  start: '17903'
+  end: '17958'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes explanatory notes on oppressed converts, warnings
+    against overconfidence, al-Abbas's claim of ritual good works, and the battle
+    of Honein. It then states that God sent security upon the apostle and faithful,
+    sent unseen angelic troops, punished disbelievers, may forgive whom he pleases,
+    excludes idolaters from the holy temple, promises divine enrichment if needed,
+    and commands fighting certain unbelievers until they pay tribute in subjection.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Certain families who professed Mohammedism at Mecca were reportedly mistreated
+    and complained to Mohammed, who told them that joy was approaching.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The notes say the passage warns believers against too much confidence in their
+    own merits and deters unbelievers.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'Al-Abbas, when taken prisoner and reproached, answered by naming good deeds:
+    visiting the temple, adorning the Caaba, giving drink to pilgrims, and freeing
+    captives.'
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At Honein, Mohammed's army was much larger than the opposing tribes, and the
+    Muslims were confident of victory.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Muslims were first put to flight; Mohammed and a few of his family remained,
+    troops were recalled, and the Muslims attacked again and won with divine assistance.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The enemy used the deep valley, craggy mountains, narrow passages, and rocks
+    for ambush.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: God sent security upon the apostle and faithful, sent unseen troops of angels,
+    and punished those who disbelieved.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The text says God may turn hereafter to whom he pleases and is gracious and
+    merciful.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: True believers are told that idolaters are unclean and should not come near
+    the holy temple after that year.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The text says that if believers fear want from loss of trade and communication,
+    God can enrich them from his abundance.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The text commands fighting certain people who do not believe in God or the
+    last day until they pay tribute by subjection and are reduced low.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Divine actor who sends security, sends unseen angelic troops, punishes
+    disbelievers, may forgive whom he pleases, and may enrich believers.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Mohammed / the apostle
+  description: Named in the notes as comforter of mistreated converts and commander
+    at Honein; in the verse, the apostle receives security from God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: The faithful / true believers / Moslems
+  description: Community addressed as believers; in the Honein account they flee,
+    rally, and receive divine security.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: Disbelievers / unbelievers / idolaters
+  description: Opposed group described as disbelieving, punished, excluded from the
+    holy temple, and subject to fighting until tribute.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: Unseen troops of angels
+  description: Troops sent down by God that the hearers did not see.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Al-Abbas
+  description: Mohammed's uncle, taken prisoner, who defends his side by citing ritual
+    and charitable acts.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Tribes of Hawazen and Thakif
+  description: Opposing forces at Honein, smaller in number than Mohammed's army.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: divine helper
+  assigned_to:
+  - fig:1
+  basis: God sends security to the apostle and faithful and sends unseen angelic troops.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: divine judge
+  assigned_to:
+  - fig:1
+  basis: God punishes those who disbelieved and may turn to whom he pleases.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: apostle and battle leader
+  assigned_to:
+  - fig:2
+  basis: Mohammed is called the apostle and is described leading at Honein and recalling
+    troops through al-Abbas.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: faithful community
+  assigned_to:
+  - fig:3
+  basis: The faithful receive security and are addressed with commands about temple
+    access, want, and fighting.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: role:5
+  label: opposing unbelieving group
+  assigned_to:
+  - fig:4
+  - fig:7
+  basis: Disbelievers are punished; idolaters are excluded; the opposing tribes fight
+    Mohammed's army at Honein.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: role:6
+  label: unseen heavenly auxiliaries
+  assigned_to:
+  - fig:5
+  basis: The angels are described as unseen troops sent by God.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: captive defending ritual merit
+  assigned_to:
+  - fig:6
+  basis: Al-Abbas, while prisoner, answers reproach by citing temple service, water
+    for pilgrims, and freeing captives.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: holy temple
+  literal_form: holy temple near which idolaters are forbidden to come
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:2
+  label: Caaba hangings
+  literal_form: hangings used to adorn the Caaba
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Zemzem water for pilgrims
+  literal_form: water given to pilgrims, identified in the note as probably Zemzem
+    water
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: deep valley and craggy mountains
+  literal_form: valley of Honein, deep and encompassed by craggy mountains
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:7
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: handful of dust
+  literal_form: dust thrown by the prophet against the enemy before the second attack
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: tribute by subjection
+  literal_form: tribute paid by right of subjection
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Complaint of mistreated converts
+  summary: Certain converts or families are said to have suffered mistreatment in
+    Mecca, complained to Mohammed, and received reassurance that joy was near.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Prisoner cites temple service
+  summary: Al-Abbas, while captive and reproached, replies that his side has performed
+    acts connected with the temple, the Caaba, pilgrim water, and freeing captives.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Battle of Honein and reversal
+  summary: The Muslims enter battle with numerical confidence, are routed in the first
+    encounter, rally after being recalled, and win after Mohammed throws dust and
+    divine assistance is given.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Divine security and unseen angels
+  summary: God sends security on the apostle and faithful, sends unseen angelic troops,
+    and punishes disbelievers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Boundary of the holy temple
+  summary: Believers are told that idolaters are unclean and must not approach the
+    holy temple after the specified year; God may enrich the believers if they fear
+    economic loss.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Command of fighting and tribute
+  summary: Believers are commanded to fight certain unbelieving people of scripture
+    until they pay tribute in subjection and are reduced low.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Divine aid reverses battlefield defeat
+  taxonomy_refs: []
+  basis: After the Muslims' initial flight at Honein, the narrative reports rallying,
+    a second attack, and victory by divine assistance; the verse adds divine security
+    and unseen angelic troops.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage is a translation with explanatory notes; the exact relation
+    between note narrative and verse should be checked in context.
+- id: motif:2
+  label: Unseen angelic auxiliaries
+  taxonomy_refs: []
+  basis: The passage explicitly says God sent down unseen troops of angels.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly names angelic battle aid.
+- id: motif:3
+  label: Divine judgment on disbelievers
+  taxonomy_refs:
+  - divine_judgment
+  basis: God is said to punish those who disbelieved, and this punishment is called
+    the reward of the unbelievers.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage frames judgment in a military and communal context rather
+    than an afterlife scene.
+- id: motif:4
+  label: Humbling of overconfident believers
+  taxonomy_refs: []
+  basis: The notes warn believers against overconfidence, and the Honein account says
+    the Muslims were confident because of numbers, then were initially put to flight.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This motif is drawn from the explanatory notes and battle narrative, not
+    only from the quoted verse.
+- id: motif:5
+  label: Sacred precinct exclusion by purity status
+  taxonomy_refs: []
+  basis: The passage labels idolaters unclean and forbids them from approaching the
+    holy temple after the specified year.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy reference directly corresponds to sacred-boundary
+    or purity-exclusion motifs.
+- id: motif:6
+  label: Subjection through tribute
+  taxonomy_refs: []
+  basis: The text commands fighting certain unbelievers until they pay tribute by
+    right of subjection and are reduced low.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: This is a legal-political command in the passage; no broader mythic taxonomy
+    is assigned.
+comparison_claims:
+- id: claim:1
+  claim: The explicit punishment of disbelievers by God supports comparison with the
+    supplied divine_judgment motif family.
+  claim_level: same_motif
+  target: divine_judgment
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage concerns punishment in a battle/community context, not
+    a full cosmic judgment scene.
+- id: claim:2
+  claim: The unseen troops of angels function as supernatural aid in battle, a recurring
+    narrative pattern of divine intervention on behalf of a favored group.
+  claim_level: same_function
+  target: supernatural aid in battle pattern
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This target is a general pattern, not one of the supplied taxonomy
+    motif family IDs.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17903-17907
+  quote_or_summary: Certain families from Khozah or Yaman and Saba went to Mecca,
+    professed Mohammedism, were mistreated, complained to Mohammed, and were told
+    that joy was approaching.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 17908-17911
+  quote_or_summary: The note says the words warn believers against excessive confidence
+    in their merits and deter unbelievers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 17912-17919
+  quote_or_summary: Al-Abbas, as prisoner, answers reproach by saying that his side
+    visits the temple, adorns the Caaba, gives pilgrims water, and frees captives.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 17922-17939
+  quote_or_summary: At Honein, Mohammed's army greatly outnumbers Hawazen and Thakif,
+    becomes confident, is first put to flight, rallies when recalled, and wins after
+    Mohammed throws dust and receives divine assistance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 17940-17943
+  quote_or_summary: The deep valley and craggy mountains give the enemy opportunities
+    for ambush in narrow passages and behind rocks.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 17950-17953
+  quote_or_summary: "“GOD sent down his security upon his apostle and upon the faithful,
+    and sent down troops of angels, which ye saw not; and he punished those who disbelieved.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 17954-17955
+  quote_or_summary: God will hereafter be turned to whom he pleases and is gracious
+    and merciful.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 17956-17958
+  quote_or_summary: Believers are told that idolaters are unclean and must not approach
+    the holy temple after that year; if believers fear want, God can enrich them from
+    his abundance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 17958-17958
+  quote_or_summary: The passage commands fighting those who do not believe in God
+    or the last day and do not profess the true religion until they pay tribute by
+    subjection and are reduced low.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied line range. Several details come
+    from Sale's explanatory notes as well as the translated Qur'anic text, so human
+    review should distinguish note material from canonical verse material.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures, motifs, or comparisons were added beyond what is supported by the supplied passage and available taxonomy references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l17903-l17958
+  passage_sha256=fd7799fe26afd6755d993443d0fc0ed34bcaf2792e439223b26d5a658b0e3ea5

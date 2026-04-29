@@ -8,10 +8,10 @@
 - Canonical texts checked: 58
 - Texts with extraction records: 58
 - Texts without extraction records: 0
-- Texts needing full extraction: 21
+- Texts needing full extraction: 17
 - Texts needing review or normalization: 58
-- Extraction records counted: 4914
-- Candidate motifs counted: 23489
+- Extraction records counted: 5314
+- Candidate motifs counted: 25593
 
 ## Status Logic
 
@@ -27,18 +27,14 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 
 | Status | Records | Target | Motifs | Tradition | Text |
 | --- | ---: | ---: | ---: | --- | --- |
-| `thin` | 2 | 28 | 6 | islamicate_folklore | [The Arabian Nights Entertainments](../texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md) |
-| `thin` | 1 | 15 | 2 | sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) |
-| `thin` | 1 | 4 | 2 | sufi | [The Confessions of Al Ghazzali](../texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md) |
-| `thin` | 1 | 32 | 2 | sufi | [The Mesnevi](../texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md) |
 | `thin` | 1 | 10 | 2 | sufi | [The Mystics of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md) |
 
 ## Review And Normalization Queue
 
 | Status | Needs Review | Generated | Motifs | Tradition | Text |
 | --- | ---: | ---: | ---: | --- | --- |
+| `dense_draft` | 569 | 567 | 2916 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | `dense_draft` | 511 | 507 | 2467 | hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) |
-| `dense_draft` | 369 | 367 | 1825 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | `dense_draft` | 246 | 246 | 664 | greek | [Aesop's Fables; a new translation](../texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md) |
 | `dense_draft` | 228 | 228 | 974 | greek | [The Republic](../texts/public-domain/greek/project-gutenberg/republic-jowett.md) |
 | `dense_draft` | 212 | 210 | 1127 | greek | [The Iliad](../texts/public-domain/greek/project-gutenberg/iliad-pope.md) |
@@ -60,19 +56,23 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 117 | 117 | 795 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
 | `dense_draft` | 114 | 112 | 595 | celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) |
 | `dense_draft` | 80 | 80 | 331 | persian | [The Persian Literature, Volume 2, The Gulistan](../texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md) |
+| `dense_draft` | 73 | 72 | 380 | sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) |
 | `dense_draft` | 72 | 72 | 330 | japanese | [Japanese Fairy Tales](../texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md) |
+| `dense_draft` | 68 | 67 | 379 | sufi | [The Mesnevi](../texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md) |
 | `dense_draft` | 61 | 59 | 299 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) |
 | `dense_draft` | 59 | 57 | 380 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-rodwell.md) |
 | `dense_draft` | 57 | 57 | 229 | sufi | [The Persian Mystics: Jalálu'd-dín Rúmí](../texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md) |
 | `dense_draft` | 52 | 52 | 298 | sufi | [Poems from the Divan of Hafiz](../texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md) |
 | `dense_draft` | 49 | 49 | 172 | sufi | [The Persian Mystics: Jámí](../texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md) |
 | `dense_draft` | 43 | 43 | 197 | greek | [Phaedrus](../texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md) |
+| `dense_draft` | 40 | 38 | 190 | islamicate_folklore | [The Arabian Nights Entertainments](../texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md) |
 | `dense_draft` | 37 | 37 | 175 | greek | [Symposium](../texts/public-domain/greek/project-gutenberg/symposium-jowett.md) |
 | `dense_draft` | 37 | 35 | 180 | indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) |
 | `dense_draft` | 34 | 34 | 122 | buddhist | [The Giant Crab, and Other Tales from Old India](../texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md) |
 | `dense_draft` | 26 | 26 | 150 | ainu | [Aino Folk-Tales](../texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md) |
 | `dense_draft` | 26 | 26 | 79 | buddhist | [Jataka tales](../texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md) |
 | `dense_draft` | 24 | 24 | 78 | buddhist | [More Jataka Tales](../texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md) |
+| `dense_draft` | 24 | 23 | 76 | sufi | [The Confessions of Al Ghazzali](../texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md) |
 | `developing` | 23 | 21 | 34 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) |
 | `developing` | 13 | 11 | 28 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) |
 | `dense_draft` | 12 | 12 | 80 | sufi | [The Sufism of the Rubáiyát, or, the Secret of the Great Paradox](../texts/public-domain/sufi/project-gutenberg/sufism-of-rubaiyat-hazeldine.md) |
@@ -89,11 +89,7 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `developing` | 2 | 0 | 7 | egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) |
 | `developing` | 2 | 0 | 7 | hindu | [The Song Celestial; Or, Bhagavad-Gita](../texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md) |
 | `developing` | 2 | 0 | 5 | hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) |
-| `thin` | 2 | 0 | 6 | islamicate_folklore | [The Arabian Nights Entertainments](../texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md) |
 | `developing` | 2 | 0 | 8 | maya_quiche | [The Popol Vuh](../texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md) |
-| `thin` | 1 | 0 | 2 | sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) |
-| `thin` | 1 | 0 | 2 | sufi | [The Confessions of Al Ghazzali](../texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md) |
-| `thin` | 1 | 0 | 2 | sufi | [The Mesnevi](../texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md) |
 | `thin` | 1 | 0 | 2 | sufi | [The Mystics of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md) |
 
 ## Batch Targeting
@@ -128,10 +124,6 @@ ruby scripts/batch_prepare_motif_requests.rb \
 
 | Priority | Status | Records | Target | Needs Review | Tradition | Text |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| high | `thin` | 2 | 28 | 2 | islamicate_folklore | [The Arabian Nights Entertainments](../texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md) |
-| high | `thin` | 1 | 15 | 1 | sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) |
-| high | `thin` | 1 | 4 | 1 | sufi | [The Confessions of Al Ghazzali](../texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md) |
-| high | `thin` | 1 | 32 | 1 | sufi | [The Mesnevi](../texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md) |
 | high | `thin` | 1 | 10 | 1 | sufi | [The Mystics of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md) |
 | medium | `developing` | 2 | 4 | 2 | buddhist | [Dhammapada, a Collection of Verses](../texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md) |
 | medium | `developing` | 2 | 8 | 2 | confucian | [The Analects of Confucius](../texts/public-domain/confucian/project-gutenberg/analects-legge.md) |
@@ -173,15 +165,19 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | medium | `dense draft` | 61 | 13 | 61 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) |
 | medium | `dense draft` | 511 | 40 | 511 | hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) |
 | medium | `dense draft` | 37 | 9 | 37 | indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) |
+| medium | `dense draft` | 569 | 40 | 569 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | medium | `dense draft` | 59 | 40 | 59 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-rodwell.md) |
-| medium | `dense draft` | 369 | 40 | 369 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
+| medium | `dense draft` | 40 | 28 | 40 | islamicate_folklore | [The Arabian Nights Entertainments](../texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md) |
 | medium | `dense draft` | 72 | 18 | 72 | japanese | [Japanese Fairy Tales](../texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md) |
 | medium | `dense draft` | 117 | 26 | 117 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
 | medium | `dense draft` | 80 | 11 | 80 | persian | [The Persian Literature, Volume 2, The Gulistan](../texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md) |
 | medium | `dense draft` | 121 | 25 | 121 | roman | [The Aeneid of Virgil](../texts/public-domain/roman/project-gutenberg/aeneid-mackail.md) |
 | medium | `dense draft` | 168 | 31 | 168 | roman | [The Metamorphoses of Ovid, Books I-VII](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md) |
 | medium | `dense draft` | 177 | 35 | 177 | roman | [The Metamorphoses of Ovid, Books VIII-XV](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md) |
+| medium | `dense draft` | 73 | 15 | 73 | sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) |
 | medium | `dense draft` | 52 | 9 | 52 | sufi | [Poems from the Divan of Hafiz](../texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md) |
+| medium | `dense draft` | 24 | 4 | 24 | sufi | [The Confessions of Al Ghazzali](../texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md) |
+| medium | `dense draft` | 68 | 32 | 68 | sufi | [The Mesnevi](../texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md) |
 | medium | `dense draft` | 57 | 5 | 57 | sufi | [The Persian Mystics: Jalálu'd-dín Rúmí](../texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md) |
 | medium | `dense draft` | 49 | 4 | 49 | sufi | [The Persian Mystics: Jámí](../texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md) |
 | medium | `dense draft` | 12 | 3 | 12 | sufi | [The Sufism of the Rubáiyát, or, the Secret of the Great Paradox](../texts/public-domain/sufi/project-gutenberg/sufism-of-rubaiyat-hazeldine.md) |

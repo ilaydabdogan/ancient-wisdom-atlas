@@ -1,0 +1,516 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l24981-l25067
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XX. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXI. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 24981-25067
+  start: '24981'
+  end: '25067'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents creation and cosmic order as signs of God, states
+    that all souls die and return to God, warns unbelievers and scoffers of sudden
+    punishment and hell-fire, describes just balances on the day of resurrection,
+    and links the present book with the law formerly given to Moses and Aaron as guidance
+    and admonition.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the wonders of creation manifest divine power and wisdom
+    for people of understanding.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note states that the heavens and earth were one mass until separated, or
+    alternatively that the heavens and earth were closed until opened by divine power.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The heaven is described as a well-supported roof, and people are said to turn
+    aside from its signs.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Night, day, sun, moon, and all celestial bodies are said to have been created
+    by God, each moving in its own orb.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: No human before the addressed prophet is said to have been granted permanent
+    life in this world.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Every soul is said to taste death, to be tested with evil and good, and to
+    return to God.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Unbelievers are described as scoffing at the addressed prophet and asking
+    when the threatened punishment will occur.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says unbelievers will not be able to drive back the fire of hell
+    from their faces or backs when its time comes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The day of vengeance is described as coming suddenly, striking with astonishment,
+    and allowing neither aversion nor respite.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Other apostles are said to have been mocked before, and the punishment they
+    were mocked about fell on the mockers.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The passage asks whether gods besides God can defend the unbelievers and states
+    that such gods cannot help themselves.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Just balances are to be appointed for the day of resurrection, so that no
+    soul is injured, and even a mustard-seed weight of action is produced publicly.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: Moses and Aaron are said to have received the law as a distinction between
+    good and evil, a light, and an admonition to the pious.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: The present book is described as a blessed admonition sent down from heaven.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God / the Merciful / LORD
+  description: The divine speaker and agent who creates, reveals signs, judges, punishes,
+    and sends down guidance.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Addressed prophet
+  description: The person addressed as 'thee' who is mocked by unbelievers and told
+    to preach revelation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Unbelievers / scoffers
+  description: People who mock the addressed prophet, ask when the threat will be
+    fulfilled, neglect remembrance of the Lord, and are warned of punishment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Other apostles
+  description: Earlier apostles who were mocked before the addressed prophet.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Gods besides God
+  description: Other gods invoked as possible defenders but described as unable to
+    help themselves or assist against God.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Moses and Aaron
+  description: Former recipients of the law, described as a distinction, light, and
+    admonition.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: creator and cosmic governor
+  assigned_to:
+  - fig:1
+  basis: God is said to have created night, day, sun, moon, and the moving celestial
+    bodies, and to have made the heaven a supported roof.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: judge and punisher
+  assigned_to:
+  - fig:1
+  basis: The passage describes return to God, divine testing, hell-fire, sudden vengeance,
+    and just balances on the day of resurrection.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: revealer of guidance
+  assigned_to:
+  - fig:1
+  basis: The passage says the law was formerly given to Moses and Aaron and this book
+    was sent down from heaven.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: mocked messenger
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The addressed prophet is scoffed at, and earlier apostles are said to have
+    been mocked before him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: scoffing unbelievers
+  assigned_to:
+  - fig:3
+  basis: They receive the prophet with scoffing, ask when the threat will come, and
+    neglect remembrance of the Lord.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: powerless rival deities
+  assigned_to:
+  - fig:5
+  basis: The passage states that gods besides God are not able to defend or help themselves.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: recipients of former law
+  assigned_to:
+  - fig:6
+  basis: Moses and Aaron are named as those formerly given the law.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: supported heavenly roof
+  literal_form: heaven described as a roof well supported
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: celestial bodies in orbs
+  literal_form: night, day, sun, moon, and celestial bodies moving each in its orb
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fire of hell
+  literal_form: fire that unbelievers cannot drive back from faces or backs
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: just balances
+  literal_form: balances appointed for the day of resurrection
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: mustard-seed weight
+  literal_form: an action of the weight of a grain of mustard-seed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: law as light and distinction
+  literal_form: law given to Moses and Aaron, called a distinction, light, and admonition
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: blessed book sent down
+  literal_form: book described as a blessed admonition sent down from heaven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Cosmic signs of creation
+  summary: God is described as making the heaven a supported roof and creating night,
+    day, sun, moon, and celestial bodies that move in their respective orbs.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Mortality, testing, and return
+  summary: The passage denies worldly immortality, states that every soul dies, and
+    presents evil and good as tests before return to God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Scoffing and threatened punishment
+  summary: Unbelievers scoff at the prophet and ask when the threat will be fulfilled;
+    the passage warns of hell-fire and a sudden day of vengeance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Earlier mocked apostles and powerless defenders
+  summary: The passage states that previous apostles were mocked and their mockers
+    were punished, then denies that other gods can defend the scoffers.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Resurrection judgment by balances
+  summary: Just balances are appointed for the day of resurrection, and even the smallest
+    action is publicly produced for accounting.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Former law and present admonition
+  summary: Moses and Aaron receive the law as moral distinction, light, and admonition;
+    the present book is also called a blessed admonition sent down from heaven.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Cosmic order as divine sign
+  taxonomy_refs:
+  - wisdom
+  basis: The passage connects creation, the supported heaven, and ordered celestial
+    motion with divine signs and wisdom for people to consider.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy has no direct 'creation order' category; 'wisdom'
+    is used because the passage explicitly frames creation as a lesson for understanding.
+- id: motif:2
+  label: Universal death, testing, and return to God
+  taxonomy_refs:
+  - resurrection
+  basis: Every soul is said to taste death, undergo testing through evil and good,
+    and return to God; the day of resurrection is later named.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage emphasizes judgment and return more than narrative description
+    of bodily resurrection.
+- id: motif:3
+  label: Sudden divine judgment on scoffers
+  taxonomy_refs:
+  - divine_judgment
+  basis: Unbelievers mock the prophet and demand the threat; the passage warns that
+    hell-fire and the day of vengeance will come suddenly and cannot be averted.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage is exhortative and warning-oriented rather than a narrated
+    completed punishment scene.
+- id: motif:4
+  label: Mocked messenger vindicated by punishment of mockers
+  taxonomy_refs:
+  - divine_judgment
+  basis: Other apostles are said to have been mocked before, and the punishment they
+    were mocked about fell on those who mocked.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The earlier apostles and punishments are not individually identified in
+    this passage.
+- id: motif:5
+  label: Judgment by perfectly just weighing
+  taxonomy_refs:
+  - divine_judgment
+  basis: Just balances are appointed for the day of resurrection, no soul is injured,
+    and even a mustard-seed weight of action is produced.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The balances are described briefly, without further procedural detail.
+- id: motif:6
+  label: Revelation as light, distinction, and admonition
+  taxonomy_refs:
+  - wisdom
+  basis: The law given to Moses and Aaron is called a distinction, light, and admonition,
+    and the present book is also described as a blessed admonition from heaven.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The taxonomy reference 'wisdom' is broad and does not specifically encode
+    scriptural revelation.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the present book and the earlier law given to Moses
+    and Aaron as serving a comparable admonitory and guiding function.
+  claim_level: same_function
+  target: Moses and Aaron's law and the present book within the passage
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal textual comparison within the passage; it does
+    not by itself establish historical development beyond the stated relationship.
+- id: claim:2
+  claim: The passage explicitly compares the mockery of the addressed prophet with
+    the mockery of earlier apostles, linking both to eventual punishment of mockers.
+  claim_level: same_motif
+  target: Earlier mocked apostles mentioned in the passage
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The earlier cases are not named or narrated in detail in this line
+    range.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 24981-25010
+  quote_or_summary: Commentarial and passage material describe creation as manifesting
+    divine power and wisdom, affirm unity of God across sacred books, and explain
+    separation or opening of heavens and earth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public-domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 25011-25014
+  quote_or_summary: God is said to have made heaven a supported roof and to have created
+    night, day, sun, moon, and all celestial bodies moving in their orbs.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public-domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 25015-25018
+  quote_or_summary: No one before the addressed prophet has been granted eternal worldly
+    permanence; every soul tastes death, is tested with evil and good, and returns
+    to God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public-domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 25019-25027
+  quote_or_summary: Unbelievers scoff at the prophet and demand the threat; the passage
+    warns they will not repel hell-fire and that the day of vengeance will come suddenly.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public-domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 25028-25037
+  quote_or_summary: Earlier apostles were mocked and punishment fell on their mockers;
+    the passage denies that other gods can defend the unbelievers or help themselves.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public-domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 25038-25042
+  quote_or_summary: Those touched by punishment confess injustice; just balances are
+    appointed for resurrection day, and even a mustard-seed weight of action is brought
+    forth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public-domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 25043-25050
+  quote_or_summary: Moses and Aaron receive the law as distinction, light, and admonition;
+    the pious fear the Lord and judgment, and this book is a blessed admonition sent
+    from heaven.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public-domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied line range. Some early lines are
+    translator/commentarial notes rather than direct Quranic verse text, so motifs
+    based on them are treated cautiously.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All taxonomy references are limited to the supplied available taxonomy lists; no external motif indices were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l24981-l25067
+  passage_sha256=5c4d9a70f3bf5d7adf88bdfbe5b72d6519974be7ab931c90940853f12902352b

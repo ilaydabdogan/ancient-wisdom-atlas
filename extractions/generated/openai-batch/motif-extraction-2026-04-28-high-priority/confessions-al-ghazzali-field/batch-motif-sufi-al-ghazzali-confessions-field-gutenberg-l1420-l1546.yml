@@ -1,0 +1,216 @@
+---
+record_id: batch.motif.sufi-al-ghazzali-confessions-field-gutenberg-l1420-l1546
+source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+passage_locator:
+  label: FOOTNOTES / THE ORIENT LIBRARY / THE WISDOM OF THE EAST SERIES / WISDOM OF
+    THE EAST SERIES; lines 1420-1546
+  start: '1420'
+  end: '1546'
+  translation: The Confessions of Al Ghazzali
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is publisher back matter for the Wisdom of the East Series.
+    It lists titles, authors or translators, prices, contact information for literary
+    communications, and an editorial statement describing the series as promoting
+    goodwill and understanding between East and West through knowledge of Oriental
+    thought.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists multiple volumes in the Wisdom of the East Series, with
+    titles, contributors, and prices.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listed volumes include works associated with Vedānta, Confucius, Zoroaster,
+    Persian mystics, Buddhist texts, the Koran, Talmud and Midrash, Sa‘di, Egyptian
+    instructions, Lao Tzŭ, Arabic wisdom, and Hebrew devotional writing.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Literary communications are directed to the Editors of The Orient Library,
+    care of Dr. S. A. Kapadia at Northbrook Society, 185 Piccadilly, London.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The editors state that the series is intended to serve goodwill and understanding
+    between East and West.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The editors describe East as an old world of Thought and West as a new world
+    of Action.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The editors express confidence that knowledge of Oriental ideals and philosophy
+    may help revive a spirit of Charity toward nations of other creed and colour.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The editors thank press and public for the reception of the series and state
+    that specialists have been secured for the subjects treated.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Editors of the Wisdom of the East Series
+  description: A collective editorial voice explaining the object of the series and
+    addressing literary communications.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Dr. S. A. Kapadia
+  description: Named as Oriental Secretary and contact recipient for The Orient Library
+    literary communications.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Contributors and translators of the listed volumes
+  description: Named individuals associated with the series volumes, including authors,
+    translators, introducers, and editors.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: series editors stating publication purpose
+  assigned_to:
+  - fig:1
+  basis: The editorial statement explains the aim of the series and thanks the public
+    for its reception.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: Orient Library contact officer
+  assigned_to:
+  - fig:2
+  basis: The passage directs communications to The Orient Library care of Dr. S. A.
+    Kapadia, Oriental Secretary.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: publication contributors
+  assigned_to:
+  - fig:3
+  basis: The catalog entries name contributors responsible for translations, introductions,
+    selections, or authorship of listed volumes.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Series catalog listing
+  summary: The passage presents a list of Wisdom of the East Series volumes with subject
+    areas, contributors, and prices.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Editorial mission statement
+  summary: The editors describe the series as intended to foster goodwill and understanding
+    between East and West by presenting Oriental thought to readers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wisdom literature and cross-cultural transmission
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly frames the series as presenting wisdom, ideals, philosophy,
+    and religious or ethical texts from Asian and Middle Eastern traditions to an
+    English-reading audience.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is publisher front/back matter rather than a mythic narrative passage;
+    the motif assignment is thematic and tied to the available taxonomy term 'wisdom'.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1420-1504
+  quote_or_summary: Catalog entries list Wisdom of the East Series titles, contributors,
+    subjects, and prices, covering several Asian and Middle Eastern religious, philosophical,
+    and literary traditions.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1506-1509
+  quote_or_summary: Literary communications are to be addressed to the Editors of
+    The Orient Library, care of Dr. S. A. Kapadia, Oriental Secretary, Northbrook
+    Society, 185 Piccadilly, London.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1511-1515
+  quote_or_summary: The books are described as “ambassadors of good-will and understanding
+    between East and West.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 1516-1521
+  quote_or_summary: The editors state that knowledge of Oriental ideals and philosophy
+    may revive a spirit of Charity that neither despises nor fears peoples of another
+    creed and colour.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1521-1546
+  quote_or_summary: The editors thank press and public for the reception of the series
+    and state that they have secured specialists for the subjects treated.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is bibliographic and editorial matter, not a narrative mythological
+    passage. Literal extraction is straightforward; motif relevance is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbols from the provided list are present as literal mythic symbols in this passage. No comparison claims are made because the passage does not itself support motif comparison beyond a general cross-cultural publishing aim.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-al-ghazzali-confessions-field-gutenberg__l1420-l1546
+  passage_sha256=6e4ecb42c99da35d8f854e7e00ce182d43662c1eb1fe15815952e1b93956d584

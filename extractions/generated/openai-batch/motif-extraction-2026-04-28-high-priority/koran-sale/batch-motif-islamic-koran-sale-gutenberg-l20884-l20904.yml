@@ -1,0 +1,399 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l20884-l20904
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XI. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XII. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 20884-20904
+  start: '20884'
+  end: '20904'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Commentary notes discuss a supposed transposition in a bowing-and-seating
+    scene; traditions about Jacob’s death in Egypt, Joseph’s burial actions, Egyptian
+    disputes over Joseph’s body, the sinking of Joseph’s coffin in the Nile to promote
+    the river’s increase and avert famine, and Moses carrying Joseph’s bones to Canaan;
+    additional notes mention charges against Meccans, Jews, and Christians, and contrast
+    inhabitants of cities and deserts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note says a transposition is supposed in words concerning a father and mother
+    being seated after they had bowed down, rather than before.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jacob is said to have lived in Egypt for twenty-four years and, at death,
+    ordered that his body be buried in Palestine by his father.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Joseph is said to have carried out Jacob’s burial order, returned to Egypt,
+    and died twenty-three years later.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Egyptians are said to have disputed intensely over Joseph’s burial, nearly
+    coming to blows.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Egyptians are said to have agreed to place Joseph’s body in a marble coffin
+    and sink it in the Nile.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The stated reason for sinking Joseph’s coffin in the Nile was a belief that
+    it might help the river’s regular increase and deliver them from future famine.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When Moses led the Israelites out of Egypt, he is said to have taken up the
+    coffin, carried Joseph’s bones into Canaan, and buried them by his ancestors.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A note says Mohammed charges the referenced crime not only to idolatrous Meccans
+    but also to Jews and Christians.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A note contrasts inhabitants of cities with inhabitants of deserts, describing
+    the former as more knowing and compassionate and the latter as more ignorant and
+    hard-hearted.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Jacob
+  description: A patriarch said to have dwelt in Egypt, died there, and ordered burial
+    in Palestine by his father.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Joseph
+  description: Jacob’s son in the note, said to have performed Jacob’s burial, later
+    died in Egypt, and whose body or bones were the subject of Egyptian burial actions
+    and later transfer to Canaan.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Egyptians
+  description: A collective group said to have disputed over Joseph’s burial and to
+    have sunk his coffin in the Nile for expected benefit.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Moses
+  description: Leader who is said to have led the Israelites out of Egypt, retrieved
+    Joseph’s coffin, and carried the bones to Canaan.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Israelites
+  description: A collective group said to have been led out of Egypt by Moses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: idolatrous Meccans, Jews, and Christians
+  description: Groups named in a note as those charged by Mohammed with the referenced
+    crime.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: inhabitants of cities and inhabitants of deserts
+  description: Two contrasted populations described in a note by attributes of knowledge,
+    compassion, ignorance, and hard-heartedness.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: deceased patriarch requesting ancestral burial
+  assigned_to:
+  - fig:1
+  basis: Jacob is said to have died after living in Egypt and to have ordered burial
+    in Palestine by his father.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: son performing burial duty
+  assigned_to:
+  - fig:2
+  basis: Joseph is said to have taken care to perform Jacob’s burial order.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deceased figure with contested and transferred remains
+  assigned_to:
+  - fig:2
+  basis: Joseph’s burial is disputed by Egyptians; his body is placed in a coffin,
+    and his bones are later carried to Canaan.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: disputants and ritual buriers
+  assigned_to:
+  - fig:3
+  basis: The Egyptians dispute over Joseph’s burial and agree to sink the marble coffin
+    in the Nile.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: exodus leader and transporter of remains
+  assigned_to:
+  - fig:4
+  basis: Moses leads the Israelites out of Egypt and carries Joseph’s bones into Canaan.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: people led out of Egypt
+  assigned_to:
+  - fig:5
+  basis: The Israelites are the people Moses is said to have led out of Egypt.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: groups charged with a crime
+  assigned_to:
+  - fig:6
+  basis: The note says Mohammed charges the crime on idolatrous Meccans, Jews, and
+    Christians.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: contrasted populations
+  assigned_to:
+  - fig:7
+  basis: The note contrasts inhabitants of cities and deserts by moral and intellectual
+    attributes.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: marble coffin
+  literal_form: A marble coffin containing Joseph’s body, sunk in the Nile and later
+    taken up by Moses.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Nile river
+  literal_form: The Nile, into which Joseph’s coffin is said to have been sunk for
+    the river’s regular increase and protection from famine.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Joseph’s bones
+  literal_form: Joseph’s bones carried from Egypt into Canaan and buried by his ancestors.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: ancestral burial place
+  literal_form: Palestine or Canaan as the place of burial by ancestors or by Jacob’s
+    father.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Bowing and seating sequence note
+  summary: A commentary note proposes that the seating of father and mother occurred
+    after their bowing down, not before.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jacob’s death and burial order
+  summary: Jacob lives in Egypt, dies, orders burial in Palestine by his father, and
+    Joseph performs the order before returning to Egypt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dispute over Joseph’s burial and Nile immersion
+  summary: Egyptians dispute over Joseph’s burial, then place his body in a marble
+    coffin and sink it in the Nile, believing this will aid the river’s increase and
+    prevent famine.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Moses transfers Joseph’s bones to Canaan
+  summary: During the departure from Egypt, Moses retrieves the coffin, carries Joseph’s
+    bones into Canaan, and buries them by Joseph’s ancestors.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ancestral return of remains
+  taxonomy_refs:
+  - return
+  basis: Joseph’s bones are taken from Egypt into Canaan and buried by his ancestors.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy label is broad; the passage concerns return of remains rather
+    than a living hero’s return.
+- id: motif:2
+  label: burial by ancestors or ancestral land
+  taxonomy_refs: []
+  basis: Jacob orders burial in Palestine by his father, and Joseph’s bones are later
+    buried by his ancestors.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level pattern without a supplied exact taxonomy reference.
+- id: motif:3
+  label: river increase and famine prevention through immersed remains
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: Egyptians sink Joseph’s coffin in the Nile from a belief that it might help
+    the regular increase of the river and deliver them from famine.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage describes a Nile-increase belief, not a full flood myth; the
+    taxonomy match is approximate.
+- id: motif:4
+  label: contested burial of a revered dead figure
+  taxonomy_refs: []
+  basis: The Egyptians’ disputes over Joseph’s burial are described as so intense
+    that they nearly came to blows.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain all reasons for the dispute beyond the later
+    agreement about the coffin and Nile.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20884-20885
+  quote_or_summary: 'A note states that a transposition is supposed: the father and
+    mother were seated after they had bowed down, not before.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 20886-20890
+  quote_or_summary: Mohammedan authors are said to write that Jacob lived in Egypt
+    twenty-four years, ordered burial in Palestine by his father, and Joseph performed
+    this before returning to Egypt and dying later.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 20890-20894
+  quote_or_summary: Egyptians dispute over Joseph’s burial, agree to place his body
+    in a marble coffin and sink it in the Nile, believing it may help the river’s
+    regular increase and prevent famine.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 20894-20897
+  quote_or_summary: When Moses leads the Israelites out of Egypt, he takes up the
+    coffin, carries Joseph’s bones into Canaan, and buries them by his ancestors.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 20898-20900
+  quote_or_summary: A note says Mohammed charges the referenced crime to idolatrous
+    Meccans and also to Jews and Christians.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 20901-20903
+  quote_or_summary: A note says inhabitants of cities are more knowing and compassionate,
+    while inhabitants of deserts are more ignorant and hard-hearted.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; summary of supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is mostly translator commentary and footnotes, not a continuous
+    narrative passage. Motifs concerning burial, remains, Nile increase, and ancestral
+    return are directly supported, but taxonomy alignment is partly approximate.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. No comparison claims added because the passage does not itself support a specific comparative claim beyond the extracted motif candidates.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l20884-l20904
+  passage_sha256=dfea79fafaf8f1c27fc31a7aeb8b2be4a1d5cb435b36dca342d34618ce1b8ba0

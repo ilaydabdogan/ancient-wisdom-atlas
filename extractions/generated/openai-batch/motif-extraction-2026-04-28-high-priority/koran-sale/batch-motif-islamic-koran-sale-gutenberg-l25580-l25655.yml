@@ -1,0 +1,412 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l25580-l25655
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XXI. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXII. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 25580-25655
+  start: '25580'
+  end: '25655'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes explanatory notes on the pilgrimage and Abraham’s
+    proclamation, then commands reverence for God’s sacred ordinances, rejection of
+    idols and false speech, valuable offerings, sacrificial rites at the ancient house,
+    remembrance of God over cattle, humble prayer and almsgiving, and the slaughter
+    and distribution of sacrificial camels as signs of obedience and thanksgiving.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An explanatory note says Abraham was related to have gone up Mount Abu Kobeis
+    near Mecca and cried out for people to perform pilgrimage to the house of their
+    Lord.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The notes describe pilgrimage acts including shaving, cutting nails, fulfilling
+    vows, and going round the Caaba or ancient house.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage instructs people to regard the sacred ordinances of God and to
+    avoid idols and false speech.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage compares associating another god with God to something falling
+    from heaven that birds snatch away or wind blows far off.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that valuable offerings to God proceed from the piety of
+    people’s hearts.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says cattle intended for sacrifice have benefits until the appointed
+    time and that their place of sacrifice is at the ancient house.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that every religious community has appointed rites for
+    commemorating God’s name when slaying cattle provided by him.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage describes humble people as fearful at the mention of God, patient,
+    prayerful, and charitable.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage identifies sacrificial camels as symbols of obedience to God and
+    instructs that God’s name be commemorated over them while they stand in order
+    before slaughter.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: After the camels have fallen dead, the passage instructs people to eat from
+    them and feed both those who do not ask and those who ask.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine recipient of ordinances, offerings, remembrance, obedience,
+    prayer, alms, and thanksgiving.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Abraham
+  description: In the explanatory note, Abraham is said to have proclaimed the pilgrimage
+    from Mount Abu Kobeis near Mecca.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Pilgrims or worshippers
+  description: People addressed as observing pilgrimage rites, sacred ordinances,
+    offerings, sacrifice, prayer, alms, and remembrance of God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Sacrificial cattle and camels
+  description: Cattle and camels provided for sacrifice, benefit, slaughter, eating,
+    and distribution.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: Recipients of sacrificial meat
+  description: Those who are content without asking and those who ask are named as
+    people to be fed from the sacrificial camels.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: divine recipient and giver
+  assigned_to:
+  - fig:1
+  basis: Offerings, obedience, remembrance, prayer, alms, and thanks are directed
+    to God, and the animals are described as provided by God.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: pilgrimage proclaimer
+  assigned_to:
+  - fig:2
+  basis: The note relates that Abraham cried out from Mount Abu Kobeis for people
+    to perform the pilgrimage.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ritual participants
+  assigned_to:
+  - fig:3
+  basis: The addressed people are told to observe ordinances, avoid idols and false
+    speech, offer sacrifices, remember God, pray, give alms, and share meat.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: sacrificial animals
+  assigned_to:
+  - fig:4
+  basis: Cattle and camels are designated for sacrifice and slaughter with God’s name
+    commemorated over them.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:5
+  label: beneficiaries of ritual distribution
+  assigned_to:
+  - fig:5
+  basis: The passage instructs feeding both the content person and the asker from
+    the slaughtered camels.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: ancient house
+  literal_form: The Caaba or ancient house identified in the notes and passage as
+    the place of circumambulation and sacrifice.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: valuable offerings
+  literal_form: Offerings made to God, described as proceeding from piety of the heart.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: sacrificial camels as obedience symbols
+  literal_form: Camels slain for sacrifice are explicitly appointed as symbols of
+    obedience to God.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: falling-from-heaven image
+  literal_form: One who associates another with God is likened to something fallen
+    from heaven, snatched by birds or blown far away by wind.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Proclamation of pilgrimage
+  summary: An explanatory note relates Abraham ascending Mount Abu Kobeis near Mecca
+    and calling people to perform pilgrimage to the house of their Lord.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pilgrimage rites at the ancient house
+  summary: Notes describe rites connected with pilgrimage, including bodily grooming
+    after consecration, fulfilling vows, and circumambulating the Caaba or ancient
+    house.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ordinances, monotheism, and offerings
+  summary: The passage commands reverence for sacred ordinances, rejection of idols
+    and false speech, exclusive devotion to God, and valuable offerings proceeding
+    from pious hearts.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Sacrificial rites and distribution
+  summary: The passage assigns rites for remembering God’s name over sacrificial cattle
+    and camels, slaughtering them, eating from them, and feeding those who ask and
+    those who do not ask.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Sacrifice of cattle and camels to God
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage repeatedly discusses cattle and camels appointed for sacrifice,
+    remembrance of God’s name over them, slaughter, and distribution of meat.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The extraction is limited to the passage’s ritual instructions and does
+    not infer broader sacrificial theology.
+- id: motif:2
+  label: Sacred offering as piety and obedience
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Valuable offerings are described as proceeding from piety, and sacrificial
+    camels are called symbols of obedience to God, followed by thanksgiving.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The passage frames offerings as obedience and piety; reciprocal exchange
+    is cautious because benefits and thanksgiving are mentioned but not developed
+    as a full exchange system.
+- id: motif:3
+  label: Pilgrimage to a sacred house
+  taxonomy_refs: []
+  basis: The notes and passage refer to proclamation of pilgrimage, rites of consecration
+    and completion, circumambulation, and sacrifice at the ancient house.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: No exact available taxonomy reference for pilgrimage was supplied.
+- id: motif:4
+  label: Exclusive devotion and rejection of idols
+  taxonomy_refs: []
+  basis: The passage commands avoidance of idols and false speech and warns against
+    associating any other god with God.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No exact available taxonomy reference for monotheistic anti-idolatry was
+    supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25580-25655, note h
+  quote_or_summary: An explanatory note relates that Abraham went up Mount Abu Kobeis
+    near Mecca and cried out for people to perform pilgrimage to the house of their
+    Lord; God caused future pilgrims to hear his voice.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 25580-25655, notes k-m
+  quote_or_summary: Explanatory notes describe pilgrimage completion by shaving and
+    grooming, fulfilling vows or ceremonies, and going round the Caaba, called the
+    ancient house.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary used.
+- id: ev:3
+  type: quote
+  locator: lines 25580-25655
+  quote_or_summary: "“whoever shall regard the sacred ordinances of GOD... depart
+    from the abomination of idols, and avoid speaking that which is false”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 25580-25655
+  quote_or_summary: Whoever associates another with God is likened to something falling
+    from heaven that birds snatch away or wind blows to a distant place.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 25580-25655
+  quote_or_summary: The passage says valuable offerings to God come from pious hearts;
+    cattle for sacrifice have benefits until the appointed time, and their place of
+    sacrifice is at the ancient house.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 25580-25655
+  quote_or_summary: Every religious community has appointed rites to commemorate God’s
+    name when slaying cattle provided by him; God is one, and people are told to submit
+    to him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 25580-25655
+  quote_or_summary: Those who humble themselves are described as fearful when God
+    is mentioned, patient, performing prayers, and giving alms from what God has bestowed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 25580-25655
+  quote_or_summary: Sacrificial camels are appointed as symbols of obedience; God’s
+    name is commemorated over them while standing in order; after they fall dead,
+    people eat and feed both non-askers and askers, giving thanks for dominion over
+    them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Ritual, sacrificial, and pilgrimage elements are explicit. Taxonomy mapping
+    is strongest for sacrifice; sacred exchange is more interpretive. No comparison
+    claims were made because the passage does not itself support an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; translator’s explanatory notes were treated as part of the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l25580-l25655
+  passage_sha256=7ce36d1c2e3b12e3bbd324b23f51573beec2b47de0e7d2e8e43cd48d8fc6daa2

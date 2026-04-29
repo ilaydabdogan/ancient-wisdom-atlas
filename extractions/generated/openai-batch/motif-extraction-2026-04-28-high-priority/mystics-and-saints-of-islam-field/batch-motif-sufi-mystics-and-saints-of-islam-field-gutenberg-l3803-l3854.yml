@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.sufi-mystics-and-saints-of-islam-field-gutenberg-l3803-l3854
+source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+passage_locator:
+  label: THE ANGEL GABRIEL AND THE INFIDEL. / THE CLAY OF WHICH MAN IS MADE. / THE
+    DEAD CRIMINAL. / ANECDOTE OF BAYAZID BASTAMI.; lines 3803-3854
+  start: '3803'
+  end: '3854'
+  translation: Mystics and Saints of Islam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage recounts Bayazid Bastami walking at night under a full moon
+    and asking why God''s audience-hall lacks worshippers; an inner voice answers
+    that access to the divine court is granted only to a rare few after long waiting.
+    It then recounts Attar''s late asceticism and death as a Mongol prisoner: after
+    refusing to value himself at a thousand pieces of silver and accepting a bag of
+    straw as his worth, he is killed by his captor.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bayazid Bastami goes out of town at night and finds profound silence, a full
+    moon, and constellations in the sky.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bayazid asks the Lord why a sublime audience-hall has no crowds of worshippers.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An inner voice replies that the King does not grant access to His Court to
+    everyone, and that only one in a million enters after waiting whole years.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Fariduddin Attar is described as carrying asceticism so far in his later years
+    that he gave up composing poetry.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: During the Mongol invasion of Persia, Attar is taken prisoner by the Mongols
+    at the age of 110.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: One person offers a thousand pieces of silver as ransom for Attar, but Attar
+    says not to sell him so cheaply.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Another person offers a bag of straw for Attar; Attar says he should be sold
+    for that because it is all he is worth.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Mongol captor kills Attar, and the narration says Attar thereby found
+    the death he desired.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Sheikh Bayazid Bastami
+  description: A sheikh who walks outside the town at night, addresses the Lord, and
+    receives an inner reply.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Inner voice / King
+  description: A voice answering Bayazid and describing the King’s restricted Court
+    and sanctuary.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Fariduddin Attar
+  description: A Sufi saint and ascetic, described as giving up poetry and later being
+    killed as a Mongol prisoner.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: Mongol captor
+  description: A Mongol who captures Attar, considers ransom offers, and kills him
+    after being irritated.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: First ransom offerer
+  description: A person who offers a thousand pieces of silver as ransom for Attar.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Second ransom offerer
+  description: A person who offers a bag of straw for Attar.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: night seeker and questioner
+  assigned_to:
+  - fig:1
+  basis: Bayazid walks in the silent night and questions the Lord about the absence
+    of worshippers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: divine or inward responder
+  assigned_to:
+  - fig:2
+  basis: The inner voice answers with an image of the King’s Court and selective access.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: ascetic saint and willing victim
+  assigned_to:
+  - fig:3
+  basis: Attar is described as an ascetic saint who devalues himself materially and
+    finds the death he desired.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:4
+  label: captor and killer
+  assigned_to:
+  - fig:4
+  basis: The Mongol holds Attar prisoner, reacts to the failed bargain, and kills
+    him.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:5
+  label: ransom offerer
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: One person offers silver for Attar, and another offers straw.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: full moon and constellated night
+  literal_form: Full moon, clear night, and constellations
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: divine court imagery
+  literal_form: Audience-hall, King’s Court, and sanctuary of splendour
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: thousand pieces of silver
+  literal_form: A thousand pieces of silver offered as ransom
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: bag of straw
+  literal_form: A bag of straw offered for Attar
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Bayazid under the night sky
+  summary: Bayazid walks outside the town in silence under the full moon and constellations,
+    then asks why the divine audience-hall lacks worshippers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Restricted access to the divine court
+  summary: An inner voice tells Bayazid that access to the King’s Court is rare and
+    granted only after long waiting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Attar’s ransom and death
+  summary: Attar, held by Mongols, refuses a high ransom valuation, accepts a bag
+    of straw as his worth, and is killed by his captor.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: rare admission to the divine court
+  taxonomy_refs:
+  - mystical_quest
+  - initiation
+  basis: The voice states that access to the King’s Court is not granted to everyone
+    and that only one in a million enters after years of waiting.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy mapping is interpretive; the passage itself uses court imagery
+    for selective spiritual access rather than explicitly naming a quest or initiation.
+- id: motif:2
+  label: ascetic self-devaluation before death
+  taxonomy_refs:
+  - sacrifice
+  basis: Attar rejects a high silver ransom, identifies a bag of straw as his worth,
+    and is killed, with the narration saying he found the death he desired.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage emphasizes Sufi indifference to external things; treating
+    the death as sacrifice is tentative because no ritual offering is described.
+- id: motif:3
+  label: renunciation of worldly value
+  taxonomy_refs:
+  - wisdom
+  basis: The anecdote presents Attar’s conduct as illustrating Sufi indifference to
+    external things and shows him rejecting material valuation.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The motif label is derived from the prose explanation; the available taxonomy
+    only loosely captures this as wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3803-3810
+  quote_or_summary: Bayazid leaves town at night; silence reigns, the full moon makes
+    the night clear as day, and constellations fill the sky.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3810-3813
+  quote_or_summary: Bayazid says his heart is pained and asks the Lord why such a
+    sublime audience-hall has no throngs of worshippers.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3813-3819
+  quote_or_summary: An inner voice tells Bayazid that the King does not grant access
+    to His Court to everyone; the careless and slumbering remain outside, and only
+    one in a million enters after years of waiting.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3823-3826
+  quote_or_summary: Attar’s later asceticism is described as reaching such a degree
+    that he stopped composing poetry; the story of his death is introduced as an example
+    of Sufi indifference to external things.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3826-3829
+  quote_or_summary: During the Mongol invasion of Persia under Jenghiz Khan, Attar,
+    aged 110, is taken prisoner by Mongols.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3829-3833
+  quote_or_summary: A person offers a thousand pieces of silver as ransom, but Attar
+    tells the captor not to sell him so cheaply because someone will give more.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3833-3835
+  quote_or_summary: Another person offers a bag of straw, and Attar says to sell him
+    to that person because that is all he is worth.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3835-3837
+  quote_or_summary: The Mongol, irritated by the loss of the first offer, kills Attar;
+    the narration says the saint thus found the death he desired.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct from the supplied passage. Motif taxonomy assignments
+    are cautious because the passage is hagiographic and moralizing rather than explicitly
+    mythic.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself make a comparative claim beyond internal Sufi framing.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-mystics-and-saints-of-islam-field-gutenberg__l3803-l3854
+  passage_sha256=bb02a73f1cffffff5264d7bf34a795daa45648ae58b3f7c2cfd379ad48fb1c6e

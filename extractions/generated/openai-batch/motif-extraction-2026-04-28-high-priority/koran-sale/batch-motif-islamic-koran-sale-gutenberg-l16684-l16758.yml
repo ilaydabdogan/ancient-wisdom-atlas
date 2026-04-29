@@ -1,0 +1,412 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l16684-l16758
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER VI. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VII / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 16684-16758
+  start: '16684'
+  end: '16758'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Moses comes at the appointed time and asks to behold God's glory. God directs
+    him to look toward the mountain; when divine glory appears in the mount, it is
+    reduced to dust and Moses falls unconscious. After recovering, Moses repents and
+    professes belief. God declares Moses chosen, gives him commissions and speech,
+    and gives him written tables containing admonition and law. The passage warns
+    that the proud and those who deny signs and the life to come will be turned aside
+    and their works made vain. During Moses' departure, his people make a lowing corporeal
+    calf from ornaments, take it as a god, then repent and ask for mercy and forgiveness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Moses arrives at an appointed time and the Lord speaks to him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Moses asks to see God's glory.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: God tells Moses to look toward the mountain and conditions the possibility
+    of seeing him on the mountain standing firm.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: When divine glory appears in the mount, the mountain is reduced to dust and
+    Moses falls into a swoon.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After recovering, Moses praises God, repents, and declares himself among true
+    believers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: God says Moses has been chosen above all men by divine commissions and by
+    divine speech.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Written tables are given to Moses containing admonition and decisions, and
+    Moses is commanded to receive them with reverence and command his people according
+    to them.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that proud people who deny signs will not believe or follow
+    righteousness, and that those who deny the signs and the life to come will have
+    vain works and be rewarded according to their deeds.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: After Moses' departure, his people make a corporeal calf from their ornaments;
+    it lows but does not speak to them or guide them.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The people take the calf as their god and later repent, saying they will perish
+    unless their Lord has mercy and forgives them.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Moses
+  description: Moses comes at the appointed time, asks to behold divine glory, receives
+    divine speech and written tables, and is described as chosen above all men.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: LORD / God
+  description: The divine speaker addresses Moses, manifests glory in the mount, chooses
+    Moses, gives commandments, and warns against denial of signs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: People of Moses
+  description: During Moses' departure, they make a lowing calf from ornaments, take
+    it as a god, and later repent and ask for mercy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Corporeal calf
+  description: A calf made from ornaments, described as lowing but unable to speak
+    to or guide the people.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: chosen prophetic recipient
+  assigned_to:
+  - fig:1
+  basis: Moses is addressed directly, chosen above all men, given commissions and
+    speech, and receives written tables.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: divine revealer and judge
+  assigned_to:
+  - fig:2
+  basis: God speaks to Moses, manifests glory, gives law, and declares consequences
+    for those who deny signs and the life to come.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:3
+  label: erring and repentant community
+  assigned_to:
+  - fig:3
+  basis: The people make and worship the calf, then recognize error and ask for mercy
+    and forgiveness.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:4
+  label: false god or idol
+  assigned_to:
+  - fig:4
+  basis: The calf is made from ornaments, lows, lacks speech and guidance, and is
+    taken by the people as a god.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: mountain before divine glory
+  literal_form: mountain / mount
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: written tables of law
+  literal_form: tables written with admonition and decisions
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: lowing calf idol
+  literal_form: corporeal calf made from ornaments
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: ornaments used for idol-making
+  literal_form: ornaments used to make the calf
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Moses seeks a vision of divine glory
+  summary: Moses asks to behold God; God points him to the mountain, and divine glory
+    reduces the mount to dust, causing Moses to fall unconscious.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Moses' repentance and commission
+  summary: Moses recovers, repents, and is told that he has been chosen and must receive
+    what God has brought with gratitude.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Tables of admonition and law
+  summary: God writes for Moses on tables an admonition and decisions, and commands
+    that the people follow the best precepts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Warning against denial of signs
+  summary: The passage states that the proud and those who deny signs and the life
+    to come will not rightly believe or act, and their works will be vain.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: The people make and worship the calf
+  summary: After Moses' departure, his people form a lowing calf from ornaments, take
+    it as their god, then repent and ask for mercy and forgiveness.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divine manifestation on a mountain
+  taxonomy_refs: []
+  basis: Divine glory appears in the mount, the mountain is reduced to dust, and Moses
+    collapses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the mountain as the site of manifestation but does
+    not develop a broader cosmic-mountain pattern.
+- id: motif:2
+  label: revelation of law to a chosen mediator
+  taxonomy_refs:
+  - covenant
+  - wisdom
+  basis: Moses is chosen, receives divine commissions and speech, and is given written
+    tables containing admonition and decisions.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The word covenant is not used in this passage; the taxonomy reference
+    is based on the law-giving pattern.
+- id: motif:3
+  label: divine judgment for denial of signs
+  taxonomy_refs:
+  - divine_judgment
+  basis: Those who deny signs and the life to come are said to have vain works and
+    to be rewarded according to what they have wrought.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The judgment is stated generally rather than narrated as a specific enacted
+    punishment in this excerpt.
+- id: motif:4
+  label: idolatrous substitute during leader's absence
+  taxonomy_refs: []
+  basis: After Moses' departure, his people make a calf from ornaments, take it as
+    a god, and are described as having gone astray.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage gives the calf episode but does not include the full surrounding
+    narrative or consequences.
+- id: motif:5
+  label: repentance after transgression
+  taxonomy_refs: []
+  basis: 'Both Moses and the people are described as repenting: Moses after the divine
+    manifestation, and the people after recognizing their error with the calf.'
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: The two repentances occur in different narrative contexts and should not
+    be merged without review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16684-16691
+  quote_or_summary: Moses comes at the appointed time, the Lord speaks to him, and
+    Moses asks to behold divine glory; God tells him to look toward the mountain.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 16691-16694
+  quote_or_summary: When the Lord appears with glory in the mount, the mountain is
+    reduced to dust and Moses falls in a swoon.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 16695-16698
+  quote_or_summary: After Moses comes to himself, he praises God, turns in repentance,
+    and declares himself the first of true believers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 16699-16703
+  quote_or_summary: God tells Moses that he has been chosen above all men by divine
+    commissions and by God's speaking to him, and tells him to receive what has been
+    brought and give thanks.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 16704-16708
+  quote_or_summary: God writes for Moses on tables an admonition and a decision in
+    every case, commanding him to receive it with reverence and command his people
+    according to its excellent precepts.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 16709-16719
+  quote_or_summary: The passage warns that proud people who deny signs will not follow
+    righteousness, and that those who deny the signs and the meeting of the life to
+    come will have vain works and be rewarded according to their deeds.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 16720-16725
+  quote_or_summary: After Moses' departure, his people make a corporeal lowing calf
+    from their ornaments; it does not speak to them or direct them in the way.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 16725-16731
+  quote_or_summary: The people take the calf as their god and act wickedly; when they
+    repent and see they have gone astray, they ask the Lord for mercy and forgiveness
+    lest they perish.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: note
+  locator: lines 16732-16758
+  quote_or_summary: Translator and commentator notes identify the mountain as al Zabir
+    in Muslim explanation, discuss the tables' number and material, and explain the
+    calf as either flesh and blood or a metal body without a soul.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the narrative sequence. Motif labels using
+    available taxonomy are cautious, especially covenant, because the passage describes
+    law-giving but does not explicitly use the term covenant. No comparison claims
+    were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Commentary notes were retained as evidence but not used to add unsupported motifs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l16684-l16758
+  passage_sha256=4d9449b85c0b8a55b7ba80572e893d1f5a7650df7490e8e9fcc48c047ac220c6

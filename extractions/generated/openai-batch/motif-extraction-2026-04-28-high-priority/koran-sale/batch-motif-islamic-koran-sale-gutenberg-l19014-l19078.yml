@@ -1,0 +1,615 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l19014-l19078
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER IX. / CHAPTER X. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 19014-19078
+  start: '19014'
+  end: '19078'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: On the day of the resurrection we will gather them altogether
+  summary: The passage describes the resurrection gathering, separation of idolaters
+    from their alleged companions, testimony against idolatrous worship, every soul
+    experiencing what it sent before, and the disappearance of false deities. It then
+    argues that God provides, governs, creates, returns creatures to himself, and
+    guides to truth. The Koran is presented as divine revelation confirming prior
+    scripture, and opponents are challenged to produce a chapter like it. Some believe
+    and some do not; the prophet is instructed to dissociate his work from that of
+    his accusers.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: On the day of resurrection, all are gathered together.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Idolaters and their companions are told to go to their place and are separated
+    from one another.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The companions deny that the idolaters truly worshipped them, and God is named
+    as sufficient witness between them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Every soul experiences what it sent before and is brought before God, described
+    as its true Lord.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: False deities imagined by the people disappear from before them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker asks who provides food from heaven and earth, controls hearing
+    and sight, brings living from dead and dead from living, and governs all things;
+    the expected answer is God.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: God is described as producing a creature and causing it to return to himself.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: God is described as directing to the truth, while the companions cannot direct
+    unless they themselves are directed.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Koran is described as not composed by any except God, as confirming what
+    was revealed before it, and as explaining scripture.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Opponents who say Mohammed forged the Koran are challenged to bring a chapter
+    like it and call helpers besides God.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The passage says earlier people likewise accused their prophets of imposture,
+    and invites the audience to observe the end of the unjust.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Some of the audience believe in the Koran and some do not; God is said to
+    know corrupt doers.
+  category: relationship
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: The prophet is instructed to say that he has his work and the accusers have
+    theirs, with mutual dissociation from each other's deeds.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:14
+  text: Some hear the prophet, but the passage questions whether he can make the deaf
+    hear if they do not understand.
+  category: speech
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The true Lord, witness, provider, governor, creator, restorer, guide
+    to truth, and sender of the Koran.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Idolaters
+  description: Those gathered at resurrection with their companions, separated from
+    them, and confronted with the disappearance of imagined false deities.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Companions / idols / attributed companions of God
+  description: The alleged objects of worship associated with the idolaters; in the
+    note, these are identified as idols or companions attributed to God, with some
+    supposing angels may be intended.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:13
+- id: fig:4
+  name_or_label: Every soul
+  description: Each soul experiences what it has sent before and is brought before
+    God.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Mohammed
+  description: The prophet accused by opponents of forging the Koran and instructed
+    how to answer them.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+  - ev:11
+- id: fig:6
+  name_or_label: Opponents / accusers
+  description: Those who charge the Koran with falsehood, accuse Mohammed of imposture,
+    and are divided into believers and nonbelievers.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:7
+  name_or_label: Earlier people
+  description: Those before the present audience who accused their prophets of imposture.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: Earlier prophets
+  description: Prophets accused of imposture by those before the present audience.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: divine judge and witness
+  assigned_to:
+  - fig:1
+  basis: God gathers, separates, witnesses, and receives souls before him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: provider and cosmic governor
+  assigned_to:
+  - fig:1
+  basis: God is identified as providing from heaven and earth and governing all things.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: creator and restorer
+  assigned_to:
+  - fig:1
+  basis: God produces a creature and causes it to return to himself; God brings living
+    from dead and dead from living.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: guide to truth and revealer
+  assigned_to:
+  - fig:1
+  basis: God directs to truth and the Koran is said to be from God.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: judged idolaters
+  assigned_to:
+  - fig:2
+  basis: They are gathered, separated from companions, and face the disappearance
+    of false deities.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:6
+  label: repudiating false objects of worship
+  assigned_to:
+  - fig:3
+  basis: The companions say the idolaters did not worship them; the note explains
+    that idols are enabled to speak and reproach worshippers.
+  evidence_refs:
+  - ev:2
+  - ev:13
+- id: role:7
+  label: accountable soul
+  assigned_to:
+  - fig:4
+  basis: Every soul experiences what it sent before and is brought before God.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: accused prophet
+  assigned_to:
+  - fig:5
+  - fig:8
+  basis: Mohammed is accused of forging the Koran, and earlier prophets were accused
+    of imposture.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:9
+  label: accusers of revelation
+  assigned_to:
+  - fig:6
+  basis: They say Mohammed forged the Koran and charge it with falsehood.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:10
+  label: precedent community of rejection
+  assigned_to:
+  - fig:7
+  basis: Those before the present audience are said to have accused their prophets
+    in the same manner.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: false deities
+  literal_form: False deities imagined by the idolaters, including the companions
+    or idols mentioned in the passage and note.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:13
+- id: sym:2
+  label: food from heaven and earth
+  literal_form: Provision of food from heaven and earth.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: hearing and sight
+  literal_form: Hearing and sight, over which God has absolute power.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: living from dead and dead from living
+  literal_form: The living brought from the dead and the dead brought from the living.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: chapter like the Koran
+  literal_form: A requested chapter comparable to the Koran, which opponents are challenged
+    to bring.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: deaf who do not understand
+  literal_form: The deaf used in a rhetorical question about whether the prophet can
+    make them hear.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Resurrection gathering and separation
+  summary: All are gathered on the day of resurrection; idolaters and their companions
+    are assigned a place and separated from one another.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Repudiation by companions and judgment before God
+  summary: The companions deny the idolaters' worship, God stands as witness, every
+    soul experiences its prior deeds, and imagined false deities disappear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:13
+- id: scene:3
+  label: Questions on divine provision, creation, return, and guidance
+  summary: The audience is asked who provides, governs, controls hearing and sight,
+    brings living from dead and dead from living, creates and returns creatures, and
+    directs to truth; God is given as the answer.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Defense of the Koran and challenge to opponents
+  summary: The Koran is presented as divine confirmation of previous revelation, while
+    opponents are challenged to produce a comparable chapter if they claim Mohammed
+    forged it.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Pattern of accusing prophets and divided response
+  summary: The passage compares present accusations to earlier peoples' accusations
+    against prophets, states that some believe and some do not, and instructs the
+    prophet to separate his work from that of the accusers.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: resurrection gathering for judgment
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: The passage opens with all being gathered on the day of resurrection, then
+    depicts separation, divine witnessing, souls experiencing prior deeds, and being
+    brought before God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives a judgment scene but does not describe a detailed afterlife
+    journey map.
+- id: motif:2
+  label: false objects of worship fail their worshippers
+  taxonomy_refs:
+  - divine_judgment
+  basis: The companions of the idolaters deny receiving true worship, and imagined
+    false deities disappear before those brought before God.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:13
+  confidence: high
+  cautions: The passage's footnote interprets the companions as idols or possibly
+    angels; the main text itself uses the broader term companions.
+- id: motif:3
+  label: divine power over life, death, creation, and return
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: God is described as bringing living from dead and dead from living, producing
+    a creature, and causing it to return to himself.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The language supports resurrection and return, but it is framed as theological
+    argument rather than a narrative of death and rebirth.
+- id: motif:4
+  label: divine guidance contrasted with misguiding opinion
+  taxonomy_refs:
+  - wisdom
+  basis: God is said to direct to truth, while most follow uncertain opinion that
+    does not attain truth.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage emphasizes truth-guidance
+    rather than a wisdom tale.
+- id: motif:5
+  label: divine revelation confirmed by prior scripture and inimitability challenge
+  taxonomy_refs:
+  - wisdom
+  basis: The Koran is said to be from God, to confirm earlier revelation, and opponents
+    are challenged to bring a chapter like it.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: This is a doctrinal and rhetorical pattern rather than a mythic narrative
+    motif in the narrow sense.
+- id: motif:6
+  label: prophets accused by unjust communities
+  taxonomy_refs: []
+  basis: The passage states that earlier people accused their prophets of imposture
+    in the same manner as current opponents charge the Koran with falsehood.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage supports a recurring prophetic-rejection pattern but does
+    not name the earlier communities or prophets here.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares present accusations against Mohammed and the
+    Koran with earlier peoples' accusations against their prophets.
+  claim_level: same_function
+  target: recurring prophetic-rejection pattern within earlier prophetic traditions
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not identify the earlier prophets or communities in
+    this excerpt.
+- id: claim:2
+  claim: The description of the Koran as confirming what was revealed before it places
+    the present revelation in relation to earlier scripture.
+  claim_level: same_function
+  target: confirmation of prior revelation / scripture-continuity pattern
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not specify which earlier scriptures are meant or
+    detail their contents.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19014-19017
+  quote_or_summary: "“On the day of the resurrection we will gather them altogether”;
+    idolaters and their companions are told to go to their place and are separated."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 19017-19020
+  quote_or_summary: The companions say the idolaters do not worship them, and God
+    is declared a sufficient witness between them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 19021-19024
+  quote_or_summary: Every soul experiences what it has sent before, is brought before
+    God the true Lord, and the falsely imagined deities disappear.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 19025-19030
+  quote_or_summary: The passage asks who provides from heaven and earth, controls
+    hearing and sight, brings living from dead and dead from living, and governs all
+    things; the answer is God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 19035-19038
+  quote_or_summary: The passage asks whether any companions produce a creature and
+    cause it to return, then states that God does so.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: lines 19039-19045
+  quote_or_summary: The passage contrasts God, who directs to truth, with companions
+    who do not direct unless directed, and says most follow uncertain opinion rather
+    than truth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: lines 19046-19050
+  quote_or_summary: The Koran is said not to be composed by any except God, but to
+    confirm what was revealed before it and explain scripture.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: summary
+  locator: lines 19051-19053
+  quote_or_summary: Those who say Mohammed forged it are challenged to bring a chapter
+    like it and call helpers besides God if they speak truth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:9
+  type: summary
+  locator: lines 19054-19058
+  quote_or_summary: Opponents have charged with falsehood what they do not comprehend;
+    those before them similarly accused their prophets of imposture, and the end of
+    the unjust is invoked.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:10
+  type: summary
+  locator: lines 19059-19061
+  quote_or_summary: Some of them believe in it, some do not, and God knows corrupt
+    doers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:11
+  type: summary
+  locator: lines 19062-19065
+  quote_or_summary: If they accuse the prophet of imposture, he is to say that he
+    has his work and they have theirs, each clear of the other's deeds.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:12
+  type: summary
+  locator: lines 19066-19068
+  quote_or_summary: Some hearken to the prophet, but the passage asks whether he can
+    make the deaf hear if they do not understand.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:13
+  type: summary
+  locator: notes m-n, lines 19070-19077
+  quote_or_summary: The note identifies the companions as idols or companions attributed
+    to God, explains that the idols are said to be enabled to speak and reproach worshippers,
+    and mentions that some suppose angels are intended.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear on resurrection, judgment, divine guidance, and revelation.
+    Some motif labels are broad because the excerpt is primarily theological discourse
+    rather than extended narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the supplied available taxonomy list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l19014-l19078
+  passage_sha256=41803eceef91189c1458602a306c26e21091c4276c75782084cd198766da3499

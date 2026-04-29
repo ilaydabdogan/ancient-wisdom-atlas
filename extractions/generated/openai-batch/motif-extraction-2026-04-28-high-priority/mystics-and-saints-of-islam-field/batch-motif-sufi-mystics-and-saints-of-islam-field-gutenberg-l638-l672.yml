@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.sufi-mystics-and-saints-of-islam-field-gutenberg-l638-l672
+source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+passage_locator:
+  label: CHAPTER I / I.--THE IMPORT OF ISLAMIC MYSTICISM / II.--EARLIER PHASES / III.--THE
+    LOVE OF GOD AND ECSTASY; lines 638-672
+  start: '638'
+  end: '672'
+  translation: Mystics and Saints of Islam
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an unnamed ecstatic person running all night in a
+    field until injured and later dying; explains Sufi ecstasy through mirror and
+    crystal comparisons; and summarizes Ghazzali's approval of Sufism, his withdrawal
+    from family life, study in Damascus, pilgrimage, private revelations, and conviction
+    that the Sufis were on the way of God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed person fell into an ecstatic condition and ran into a field.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Newly cut stubble in the field cut the person's feet like knives.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The person ran about all night until morning and died a few days afterward.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The highest condition of ecstasy is compared to a clear, colourless mirror
+    that reflects the colours of an object seen in it.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The highest condition of ecstasy is also compared to a crystal whose colour
+    comes from the object on which it stands or the fluid it contains.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that Ghazzali explained Sufi ecstasy psychologically and
+    approved the enthusiastic tendencies associated with Sufism.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Ghazzali narrated that he left his family in Bagdad, went to Damascus, and
+    studied Sufism there for two years.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Ghazzali afterward made pilgrimage to Mecca and Medina.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: In lonely musings, Ghazzali said that indescribable things were revealed to
+    him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Ghazzali reached the conviction that the Sufis were on the way of God and
+    that their teaching was best.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The passage says these Sufis adhered to the Koran and traditions while interpreting
+    them allegorically.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Unnamed ecstatic person
+  description: A person who falls into ecstasy, runs through a field, is injured by
+    stubble, and dies a few days later.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ghazzali
+  description: A thinker presented as explaining Sufi ecstasy, approving Sufism, leaving
+    Bagdad for Damascus, making pilgrimage, and receiving indescribable revelations
+    in lonely musings.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: The Sufis
+  description: A group described as being on the way of God, holding the best teaching
+    according to Ghazzali, adhering to the Koran and traditions, and interpreting
+    them allegorically.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: ecstatic sufferer
+  assigned_to:
+  - fig:1
+  basis: The person enters ecstasy, runs through injuring stubble all night, and dies
+    soon afterward.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mystical seeker
+  assigned_to:
+  - fig:2
+  basis: Ghazzali leaves family life, studies Sufism in Damascus, makes pilgrimage,
+    and receives revelations in solitude.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: interpreter of Sufi ecstasy
+  assigned_to:
+  - fig:2
+  basis: The passage says Ghazzali explains Sufi ecstasy psychologically and approves
+    the tendencies accompanying it.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: followers of the way of God
+  assigned_to:
+  - fig:3
+  basis: Ghazzali is said to have concluded that the Sufis were on the way of God.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: clear mirror
+  literal_form: A clear, colourless mirror reflecting the colours of the object seen
+    in it.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: crystal
+  literal_form: A colourless crystal whose apparent colour comes from the object on
+    which it stands or the fluid it contains.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: stubble like knives
+  literal_form: Newly cut stubble in a field described as cutting the feet like knives.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Ecstatic running in the field
+  summary: An unnamed person falls into ecstasy, runs through a field where stubble
+    cuts his feet, continues all night, and dies a few days later.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Images of the ecstatic soul
+  summary: The highest state of ecstasy is explained through comparisons to a colourless
+    mirror and crystal that take on or transmit colours from what they encounter.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ghazzali's Sufi quest and conviction
+  summary: Ghazzali leaves his family in Bagdad, studies Sufism in Damascus, makes
+    pilgrimage to Mecca and Medina, experiences indescribable revelations in solitude,
+    and concludes that the Sufis are on the way of God.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Allegorical adherence to scripture
+  summary: The passage characterizes the relevant Sufis as adhering to the Koran and
+    traditions while interpreting them allegorically.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Mystical quest through withdrawal, study, pilgrimage, and revelation
+  taxonomy_refs:
+  - mystical_quest
+  basis: Ghazzali leaves family life, studies Sufism, undertakes pilgrimage, receives
+    indescribable revelations in lonely musings, and reaches conviction about the
+    Sufi way.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The account is biographical and doctrinal rather than a mythic narrative.
+- id: motif:2
+  label: Ecstatic self-loss and bodily ordeal
+  taxonomy_refs: []
+  basis: An unnamed person enters ecstasy, runs through painful stubble all night,
+    and dies a few days later.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explicitly frame this as initiation, sacrifice, or
+    death-rebirth; it is presented as an example of ecstatic behavior.
+- id: motif:3
+  label: Soul as transparent reflector in ecstasy
+  taxonomy_refs: []
+  basis: The ecstatic soul is compared to a colourless mirror and crystal that reflect
+    or transmit colours from objects or fluids.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No available taxonomy symbol directly matches mirror or crystal; the motif
+    is extracted from metaphor rather than narrative action.
+- id: motif:4
+  label: Allegorical interpretation of sacred tradition
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that the Sufis adhered to the Koran and traditions while
+    interpreting them allegorically.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The taxonomy reference to wisdom is broad; the passage is theological
+    commentary, not a discrete mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 638-640
+  quote_or_summary: An unnamed person falls into an ecstatic condition, runs into
+    a field where newly cut stubble cuts his feet, runs all night until morning, and
+    dies a few days later.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 642-648
+  quote_or_summary: The highest condition of ecstasy is compared to a clear, colourless
+    mirror reflecting colours and to a crystal that takes colour from what it stands
+    on or contains.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 648-657
+  quote_or_summary: The passage says Ghazzali's exposition shows Sufi ecstatic phenomena
+    were widespread, and presents him as an adherent of Sufism who approved its enthusiastic
+    tendencies.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 657-661
+  quote_or_summary: Ghazzali narrates leaving his family in Bagdad, going to Damascus
+    for two years to study Sufism, and afterward making pilgrimage to Mecca and Medina.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 661-664
+  quote_or_summary: In lonely musings, Ghazzali says indescribable things were revealed
+    to him, and he becomes convinced that the Sufis were on the way of God and that
+    their teaching was best.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 664-672
+  quote_or_summary: The passage qualifies Ghazzali's Sufism as one adhering to general
+    Islamic principles; these Sufis adhered to the Koran and traditions while interpreting
+    them allegorically, and mysticism is said to require support from positive religion.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explicit about actions, figures, and doctrinal descriptions.
+    Motif labels are cautious because much of the material is biographical and theological
+    rather than a developed mythic tale. No comparison claims were made because the
+    passage does not itself compare to another tradition or motif family beyond internal
+    Sufi categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available motif families and used only where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-mystics-and-saints-of-islam-field-gutenberg__l638-l672
+  passage_sha256=02978c67058409cd0164bc6bb1845fc89fc4d2bc4888de11e114c9dd1871d1b6

@@ -1,0 +1,549 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l29861-l29947
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XXXII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXXIII.
+    / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 29861-29947
+  start: '29861'
+  end: '29947'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Sale's notes recount Zeid's capture, manumission, adoption by Mohammed
+    at the black stone of the Caaba, his marriage to Zeinab, and the later divorce
+    and marriage of Zeinab to Mohammed. The translated Qur'anic passage identifies
+    Mohammed as the apostle of God and seal of the prophets, exhorts believers to
+    remember God, describes God and angels leading believers from darkness into light,
+    promises peace and recompense at meeting God, assigns prophetic roles, warns against
+    unbelievers and hypocrites, and sets out divorce and marriage permissions, including
+    privileges specific to the prophet.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note identifies Zeinab as daughter of Jahash, wife of Zeid, and the woman
+    whom Mohammed sought in marriage.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says Zeid was captured in childhood, bought by Mohammed or Khadijah,
+    freed by Mohammed, and publicly adopted by Mohammed at the black stone of the
+    Caaba.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says Zeid chose to remain with Mohammed rather than return with his
+    father Haretha.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note recounts that Zeid resolved to divorce Zeinab after learning of Mohammed's
+    reaction to seeing her, and that Mohammed later married her after the divorce
+    term expired.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The translated passage states that Mohammed is not the father of any man among
+    the audience, but is the apostle of God and the seal of the prophets.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Believers are told to remember God frequently and praise him morning and evening.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says God and his angels are gracious or intercede for believers
+    so that God may lead them from darkness into light.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage says believers will be greeted with peace on the day they meet
+    God and will receive an honourable recompense.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The prophet is described as a witness, bearer of good tidings, denouncer of
+    threats, inviter unto God, and shining light.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The prophet is instructed not to obey unbelievers and hypocrites, not to mind
+    their evil treatment, and to trust in God as protector.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The passage gives rules for divorcing believing women before consummation,
+    requiring a present and an honourable dismissal but no waiting term.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The passage lists women and slaves permitted to the prophet and calls one
+    set of permissions a peculiar privilege above the rest of the believers.
+  category: speech
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Named as apostle of God, seal of the prophets, and recipient of prophetic
+    commands and marriage permissions.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:11
+- id: fig:2
+  name_or_label: God
+  description: The deity who bestows grace, knows all things, is accountant and protector,
+    leads believers from darkness into light, and grants permissions.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:9
+  - ev:11
+  - ev:12
+- id: fig:3
+  name_or_label: Zeid Ebn Haretha
+  description: Mohammed's freedman and adopted son in the notes; husband of Zeinab
+    before divorcing her.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Zeinab, daughter of Jahash
+  description: Wife of Zeid in the note and later wife of Mohammed after divorce.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: true believers
+  description: Audience exhorted to remember God; recipients of mercy, peace, recompense,
+    and legal instruction.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:10
+- id: fig:6
+  name_or_label: angels
+  description: Angels who intercede for believers in the translated passage.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: unbelievers and hypocrites
+  description: Groups whom the prophet is told not to obey and whose evil treatment
+    he is told to disregard.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: Haretha
+  description: Zeid's father, who came to Mecca seeking his son's ransom and accepted
+    Zeid's choice to stay with Mohammed.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: apostle and seal of the prophets
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls Mohammed the apostle of God and seal of the
+    prophets.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: prophetic witness and warner
+  assigned_to:
+  - fig:1
+  basis: The prophet is sent as witness, bearer of good tidings, denouncer of threats,
+    inviter unto God, and shining light.
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: recipient of special marriage privilege
+  assigned_to:
+  - fig:1
+  basis: The passage states that certain marriage permissions are a peculiar privilege
+    granted to the prophet above the rest of the believers.
+  evidence_refs:
+  - ev:11
+- id: role:4
+  label: divine protector and accountant
+  assigned_to:
+  - fig:2
+  basis: The passage says God is a sufficient accountant and protector.
+  evidence_refs:
+  - ev:9
+  - ev:12
+- id: role:5
+  label: divine guide from darkness to light
+  assigned_to:
+  - fig:2
+  basis: God is said to lead believers forth from darkness into light.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: freedman, adopted son, and former husband
+  assigned_to:
+  - fig:3
+  basis: The notes describe Zeid as freed and adopted by Mohammed and as Zeinab's
+    husband before divorce.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: wife in contested marriage sequence
+  assigned_to:
+  - fig:4
+  basis: The notes identify Zeinab as Zeid's wife and later Mohammed's wife after
+    divorce.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:8
+  label: believing recipients of exhortation and recompense
+  assigned_to:
+  - fig:5
+  basis: Believers are exhorted to remember God and are promised peace and recompense.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:9
+  label: intercessors for believers
+  assigned_to:
+  - fig:6
+  basis: The passage says God's angels intercede for believers.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: opposing groups
+  assigned_to:
+  - fig:7
+  basis: The prophet is told not to obey unbelievers and hypocrites and to disregard
+    their evil treatment.
+  evidence_refs:
+  - ev:9
+- id: role:11
+  label: seeking father
+  assigned_to:
+  - fig:8
+  basis: The note describes Haretha travelling to Mecca and offering ransom for Zeid.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: black stone of the Caaba
+  literal_form: black stone of the Caaba
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: darkness and light
+  literal_form: darkness into light
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: seal of the prophets
+  literal_form: seal
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: peace salutation
+  literal_form: Peace
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: shining light
+  literal_form: shining light
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: present at dismissal
+  literal_form: a present
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Zeid's adoption at the Caaba
+  summary: The note says Mohammed took Zeid by the hand, led him to the black stone
+    of the Caaba, publicly adopted him as son, and made him heir.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Zeinab, Zeid, and Mohammed marriage sequence
+  summary: The note recounts Mohammed's sight of Zeinab, Zeid's decision to divorce
+    her, Mohammed's initial reluctance because of scandal, and Mohammed's later marriage
+    to her after the divorce term.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Prophetic identity and remembrance of God
+  summary: The passage declares Mohammed not father of the men but apostle and seal
+    of prophets, and tells believers to remember and praise God morning and evening.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Guidance from darkness to light and meeting God
+  summary: God and angels aid believers so that they are led from darkness into light,
+    and believers receive peace and recompense when they meet God.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Commission of the prophet
+  summary: The prophet is sent as witness, bearer of good tidings, warner, inviter
+    to God, and shining light, and is told to trust in God against unbelievers and
+    hypocrites.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Marriage and divorce instructions
+  summary: The passage gives divorce instructions for unconsummated marriages to believing
+    women and lists marriage permissions granted to the prophet as a special privilege.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: divine judgment and recompense
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage calls God a sufficient accountant and describes believers meeting
+    God with peace and an honourable recompense prepared for them.
+  evidence_refs:
+  - ev:7
+  - ev:12
+  confidence: high
+  cautions: The passage emphasizes recompense for believers rather than a detailed
+    judgment scene.
+- id: motif:2
+  label: guidance from darkness into light
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says God and angels act for believers so that God may lead them
+    forth from darkness into light.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is interpretive; the passage itself states
+    guidance imagery, not an explicit wisdom personification.
+- id: motif:3
+  label: prophet as herald, warner, and shining light
+  taxonomy_refs: []
+  basis: The prophet is sent as witness, bearer of good tidings, denouncer of threats,
+    inviter unto God, and shining light.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: No available taxonomy family exactly matches prophetic commission in this
+    list.
+- id: motif:4
+  label: divinely authorized exceptional marriage rule
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The notes and translated passage connect Zeinab's marriage to Mohammed and
+    the prophet's marriage permissions with revelation and divine authorization.
+  evidence_refs:
+  - ev:3
+  - ev:11
+  confidence: low
+  cautions: This is a legal and exegetical marriage passage, not necessarily a mythic
+    sacred-marriage pattern; taxonomy assignment needs human review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29861-29866; note h
+  quote_or_summary: Zeinab is identified as daughter of Jahash, wife of Zeid, and
+    the woman Mohammed sought to marry; the note says she and her brother initially
+    resisted the match.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 29867-29884; notes i-k
+  quote_or_summary: Zeid is described as becoming a Moslem, being freed and adopted
+    by Mohammed, choosing to remain with him, and being publicly adopted at the black
+    stone of the Caaba.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 29885-29905; notes l-n
+  quote_or_summary: The note recounts Mohammed seeing Zeinab, Zeid resolving to divorce
+    her, Mohammed fearing scandal, and the later marriage after the divorce term;
+    another note says Zeinab vaunted that God made the match.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 29917-29919; verse 40
+  quote_or_summary: "“Mohammed is not the father of any man among you; but the apostle
+    of GOD, and the seal of the prophets.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 29920-29921
+  quote_or_summary: Believers are commanded to remember God frequently and celebrate
+    his praise morning and evening.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 29922-29924
+  quote_or_summary: God and his angels act for believers “that he may lead you forth
+    from darkness into light.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 29925-29927
+  quote_or_summary: On the day believers meet God, their salutation will be Peace,
+    and an honourable recompense is prepared for them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 29928-29931
+  quote_or_summary: The prophet is sent as witness, bearer of good tidings, denouncer
+    of threats, inviter unto God, and shining light.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 29934-29936
+  quote_or_summary: The prophet is told not to obey unbelievers and hypocrites, to
+    ignore their evil treatment, and to trust in God as sufficient protector.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 29937-29941
+  quote_or_summary: For believing women divorced before consummation, no waiting term
+    is prescribed, but a present and honourable dismissal are required.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 29942-29947; verse 50 begins
+  quote_or_summary: The prophet is allowed wives with dower, slaves from booty, certain
+    female relatives who fled from Mecca, and a believing woman who gives herself
+    to him; this is described as a privilege above other believers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: quote
+  locator: lines 29915-29918 and 29934-29936
+  quote_or_summary: The passage states that “GOD is a sufficient accountant” and “GOD
+    is a sufficient protector.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction combines Sale's notes with the translated Qur'anic passage
+    because both are included in the supplied line range. Motif assignments are cautious,
+    especially where legal material is mapped to broad taxonomy families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a specific cross-textual or historical comparison beyond internal legal and exegetical context.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l29861-l29947
+  passage_sha256=a5b8022c86d49c5071f7f43e0029d36a9b82385cd2bc9bc881bc14a06734ebc4

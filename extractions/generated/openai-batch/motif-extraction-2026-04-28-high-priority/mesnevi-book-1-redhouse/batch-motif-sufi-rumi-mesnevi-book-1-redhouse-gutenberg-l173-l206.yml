@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l173-l206
+source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+passage_locator:
+  label: AS COLLECTED BY THEIR HISTORIAN, / JAMES W. REDHOUSE, M.R.A.S., ETC. / CONTENTS.
+    / INTRODUCTION.--PLAINT OF THE REED-FLUTE                              1; lines
+    173-206
+  start: '173'
+  end: '206'
+  translation: The Mesnevi
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A table of contents lists an introduction titled “Plaint of the Reed-Flute”
+    and sixteen tale titles with page numbers, including stories named for a prince
+    and handmaid, an oilman and parrot, persecuting Jewish kings, a lion and beasts,
+    spiritual warfare, a merchant and parrot, a harper, an Arab and his wife, patience
+    and perseverance, Joseph and the mirror, a prophet’s amanuensis, Chinese and Roman
+    artists, Zeyd’s inspiration, and ‘Ali’s forbearance.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents listing rather than a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The introduction is titled “Plaint of the Reed-Flute.”
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sixteen numbered tale titles are listed with page numbers.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Several titles name human, animal, or collective figures, including a prince,
+    handmaid, oilman, parrot, Jewish king, Christians, lion, beasts, merchant, harper,
+    Arab and wife, Joseph, a prophet’s amanuensis, Chinese and Roman artists, Zeyd,
+    and ‘Ali.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Prince
+  description: Named in the title “The Prince and the Handmaid.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Handmaid
+  description: Named in the title “The Prince and the Handmaid.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Oilman
+  description: Named in the title “The Oilman and the Parrot.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Parrot
+  description: Named in the titles “The Oilman and the Parrot” and “The Merchant and
+    the Parrot.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Jewish King
+  description: Named in titles as a persecutor of Christians; a second title names
+    another Jewish king.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Christians
+  description: Named as those persecuted in the titles about Jewish kings.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Lion
+  description: Named in the titles “The Lion and the Beasts” and “The Lion’s Hunt.”
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:8
+  name_or_label: Beasts
+  description: Named in the title “The Lion and the Beasts.”
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Merchant
+  description: Named in the title “The Merchant and the Parrot.”
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: Harper
+  description: Named in the title “The Harper.”
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:3
+- id: fig:11
+  name_or_label: Poor Scenite Arab
+  description: Named in the title “The Poor Scenite Arab and his Wife.”
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:4
+- id: fig:12
+  name_or_label: Wife
+  description: Named in the title “The Poor Scenite Arab and his Wife.”
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:4
+- id: fig:13
+  name_or_label: Joseph
+  description: Named in the title “Joseph and the Mirror.”
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:4
+- id: fig:14
+  name_or_label: Prophet’s Amanuensis
+  description: Named in the title “The Prophet’s Amanuensis.”
+  role_refs:
+  - role:14
+  evidence_refs:
+  - ev:4
+- id: fig:15
+  name_or_label: Chinese Artists
+  description: Named in the title “The Chinese and Roman Artists.”
+  role_refs:
+  - role:15
+  evidence_refs:
+  - ev:4
+- id: fig:16
+  name_or_label: Roman Artists
+  description: Named in the title “The Chinese and Roman Artists.”
+  role_refs:
+  - role:15
+  evidence_refs:
+  - ev:4
+- id: fig:17
+  name_or_label: Zeyd
+  description: Named in the title “Zeyd’s Inspiration.”
+  role_refs:
+  - role:16
+  evidence_refs:
+  - ev:4
+- id: fig:18
+  name_or_label: "‘Ali"
+  description: Named in the title “‘Ali’s Forbearance.”
+  role_refs:
+  - role:17
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: prince
+  assigned_to:
+  - fig:1
+  basis: The title identifies this figure as a prince.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: handmaid
+  assigned_to:
+  - fig:2
+  basis: The title identifies this figure as a handmaid.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: oilman
+  assigned_to:
+  - fig:3
+  basis: The title identifies this figure as an oilman.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: parrot
+  assigned_to:
+  - fig:4
+  basis: The parrot is named in two tale titles.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: persecutor of Christians
+  assigned_to:
+  - fig:5
+  basis: The titles identify Jewish kings as persecutors of Christians.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: persecuted group in title
+  assigned_to:
+  - fig:6
+  basis: Christians are named as the group persecuted in the Jewish king titles.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: lion
+  assigned_to:
+  - fig:7
+  basis: The lion is named in two titles, including one about a hunt.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:8
+  label: beasts
+  assigned_to:
+  - fig:8
+  basis: The beasts are named in the title “The Lion and the Beasts.”
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: merchant
+  assigned_to:
+  - fig:9
+  basis: The title identifies this figure as a merchant.
+  evidence_refs:
+  - ev:3
+- id: role:10
+  label: harper
+  assigned_to:
+  - fig:10
+  basis: The title identifies this figure as a harper.
+  evidence_refs:
+  - ev:3
+- id: role:11
+  label: poor Scenite Arab
+  assigned_to:
+  - fig:11
+  basis: The title identifies this figure as a poor Scenite Arab.
+  evidence_refs:
+  - ev:4
+- id: role:12
+  label: wife
+  assigned_to:
+  - fig:12
+  basis: The title identifies this figure as the Arab’s wife.
+  evidence_refs:
+  - ev:4
+- id: role:13
+  label: named figure associated with mirror
+  assigned_to:
+  - fig:13
+  basis: Joseph is named in the title “Joseph and the Mirror.”
+  evidence_refs:
+  - ev:4
+- id: role:14
+  label: amanuensis
+  assigned_to:
+  - fig:14
+  basis: The title identifies this figure as the Prophet’s amanuensis.
+  evidence_refs:
+  - ev:4
+- id: role:15
+  label: artists
+  assigned_to:
+  - fig:15
+  - fig:16
+  basis: Chinese and Roman artists are named in one title.
+  evidence_refs:
+  - ev:4
+- id: role:16
+  label: inspired figure in title
+  assigned_to:
+  - fig:17
+  basis: Zeyd is named in the title “Zeyd’s Inspiration.”
+  evidence_refs:
+  - ev:4
+- id: role:17
+  label: forbearing figure in title
+  assigned_to:
+  - fig:18
+  basis: "‘Ali is named in the title “‘Ali’s Forbearance.”"
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: reed-flute
+  literal_form: reed-flute
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mirror
+  literal_form: mirror
+  associated_figures:
+  - fig:13
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: spiritual warfare
+  taxonomy_refs:
+  - mystical_quest
+  basis: One title is “The Greater (Spiritual) Warfare,” which explicitly frames a
+    tale around spiritual warfare.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only a table-of-contents title is present; no narrative action or doctrinal
+    explanation is supplied in the passage.
+- id: motif:2
+  label: patience and perseverance
+  taxonomy_refs:
+  - wisdom
+  basis: One title is “Patience and Perseverance,” suggesting a didactic theme.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage supplies only the title, not the tale content.
+- id: motif:3
+  label: forbearance
+  taxonomy_refs:
+  - wisdom
+  basis: One title is “‘Ali’s Forbearance,” naming a virtue associated with the figure
+    ‘Ali.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage supplies only the title, so the motif cannot be developed
+    beyond the named theme.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 173-174
+  quote_or_summary: "“INTRODUCTION.--PLAINT OF THE REED-FLUTE”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 176-185
+  quote_or_summary: The contents list Tale I, “The Prince and the Handmaid”; Tale
+    II, “The Oilman and the Parrot”; Tale III, “The Jewish King, Persecutor of Christians”;
+    and Tale IV, “Another Jewish King, Persecutor of Christians.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 187-195
+  quote_or_summary: The contents list Tale V, “The Lion and the Beasts”; Tale VI,
+    “The Greater (Spiritual) Warfare”; Tale VII, “The Merchant and the Parrot”; and
+    Tale VIII, “The Harper.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 197-206
+  quote_or_summary: 'The contents list Tale IX through Tale XVI: the poor Scenite
+    Arab and his wife, patience and perseverance, the lion’s hunt, Joseph and the
+    mirror, the Prophet’s amanuensis, Chinese and Roman artists, Zeyd’s inspiration,
+    and ‘Ali’s forbearance.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a contents list, so figures and motifs are inferred only from
+    titles. No narrative scenes or comparison claims are supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were extracted because the passage itself does not support cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-rumi-mesnevi-book-1-redhouse-gutenberg__l173-l206
+  passage_sha256=59042d6409ba73c00fc9cbf335f2a55a90cdda941156ef5767fdcb49a4643c0f

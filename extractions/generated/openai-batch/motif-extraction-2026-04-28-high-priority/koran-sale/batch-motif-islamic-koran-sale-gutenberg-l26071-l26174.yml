@@ -1,0 +1,489 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l26071-l26174
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXIII. / ENTITLED, THE TRUE
+    BELIEVERS; REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 26071-26174
+  start: '26071'
+  end: '26174'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage rebukes unbelievers for rejecting signs and the apostle, affirms
+    God's sole sovereignty over creation, life, death, and judgment, rejects divine
+    offspring or rival gods, instructs prayer for refuge from devils, and describes
+    death, an intervening barrier before resurrection, the trumpet, weighed balances,
+    and punishment in fire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Those addressed are told that they will not be helped, because signs were
+    read to them and they turned back proudly, including pride connected with possession
+    of the holy temple.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the apostle is rejected and accused of madness, but that
+    he has brought the truth and invites them to the right way.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that if truth followed their desires, the heavens, earth,
+    and their inhabitants would be corrupted.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: God is described as creating hearing, sight, and hearts in humans, producing
+    them in the earth, giving life and death, and governing the alternation of night
+    and day.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The unbelieving Meccans ask whether they will be raised to life after becoming
+    dust and bones, and call the threat fables of the ancients.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In a sequence of questions, the earth, the seven heavens, the magnificent
+    throne, and the kingdom of all things are all attributed to God.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage denies that God has begotten issue or that any other god exists
+    with him; it presents a hypothetical in which multiple gods would divide what
+    they created and exalt themselves over one another.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The speaker is instructed to ask the Lord for refuge from the suggestions
+    of devils and for them not to be present with him.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: When death overtakes an unbeliever, he asks the Lord to let him return to
+    life so that he may do right, but the request is denied; a bar remains behind
+    them until the day of resurrection.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: When the trumpet is sounded, kinship relations and mutual assistance do not
+    avail the people described.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Those with heavy balances of good works are happy; those with light balances
+    lose their souls and remain in hell, where fire scorches their faces and they
+    plead to be taken out.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God / LORD
+  description: The sole deity, provider, creator of human faculties, giver of life
+    and death, owner of earth and heavens, knower of hidden and public things, and
+    judge of the dead.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:10
+- id: fig:2
+  name_or_label: Unbelieving Meccans / unbelievers
+  description: Those who reject the signs and apostle, question resurrection after
+    death, and are depicted as subject to punishment and judgment.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: Apostle / preacher addressed as 'thou'
+  description: The apostle known to the people, accused of madness by opponents, said
+    to bring truth and invite them to the right way.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Devils
+  description: Beings whose suggestions the speaker is instructed to seek refuge against,
+    and whose presence is to be driven away.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: sole sovereign deity
+  assigned_to:
+  - fig:1
+  basis: The earth, seven heavens, magnificent throne, and kingdom of all things are
+    attributed to God, and the existence of other gods is denied.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:2
+  label: creator and life-giver
+  assigned_to:
+  - fig:1
+  basis: God is said to create hearing, sight, and hearts, produce humans in the earth,
+    give life, put to death, and govern night and day.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: judge and punisher
+  assigned_to:
+  - fig:1
+  basis: The passage describes threatened vengeance, the resurrection, balances of
+    works, hell, and fire as part of divine judgment.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:4
+  label: rejecters of signs
+  assigned_to:
+  - fig:2
+  basis: They turn back from signs, reject the apostle, detest the truth, and deny
+    resurrection.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:5
+  label: judged dead
+  assigned_to:
+  - fig:2
+  basis: At death they ask to return, encounter a bar until resurrection, and are
+    later assessed by balances.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:6
+  label: truth-bearing apostle
+  assigned_to:
+  - fig:3
+  basis: The apostle is said to have come with the truth and to invite them to the
+    right way.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: tempters or harmful spiritual presences
+  assigned_to:
+  - fig:4
+  basis: The passage speaks of seeking refuge from the suggestions of devils and from
+    their presence.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: holy temple
+  literal_form: holy temple possessed by those who proudly elate themselves
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: seven heavens
+  literal_form: the seven heavens over which God is Lord
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: magnificent throne
+  literal_form: the magnificent throne belonging to God
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: bar before resurrection
+  literal_form: a bar behind the dead until the day of resurrection
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: trumpet
+  literal_form: the trumpet sounded before the loss of kinship aid and mutual assistance
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: balances of works
+  literal_form: heavy or light balances measuring good works
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:7
+  label: fire
+  literal_form: hell fire that scorches faces
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Rebuke for rejected signs
+  summary: Those addressed are told they will not receive help because signs were
+    read to them and they turned back proudly.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Apostle and truth rejected
+  summary: The passage asks why the apostle is rejected, denies the accusation of
+    madness, and says he has brought truth and admonition.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Divine sovereignty questioned and conceded
+  summary: A series of questions asks who owns the earth, the seven heavens, the throne,
+    and the kingdom of all things; the expected answer is God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Rejection of rival gods
+  summary: The passage denies divine offspring and rival gods, arguing that multiple
+    gods would each take what they created and exalt themselves over others.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Refuge from devils
+  summary: The addressed speaker is instructed to seek the Lord's refuge against the
+    suggestions and presence of devils.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Death, barrier, and resurrection
+  summary: At death an unbeliever asks to return to life to do right, but the request
+    is refused; a bar remains until resurrection and the trumpet is sounded.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:9
+- id: scene:7
+  label: Balances and hell fire
+  summary: People are divided by heavy or light balances of good works; the latter
+    lose their souls, remain in hell, and are scorched by fire while pleading for
+    release.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: resurrection after death
+  taxonomy_refs:
+  - resurrection
+  basis: The passage explicitly depicts opponents doubting that dust and bones will
+    be raised, then describes a bar until the day of resurrection and a trumpet being
+    sounded.
+  evidence_refs:
+  - ev:4
+  - ev:9
+  confidence: high
+  cautions: The passage is doctrinal and eschatological rather than a narrative myth
+    episode.
+- id: motif:2
+  label: divine judgment by weighed deeds
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage distinguishes heavy and light balances of good works, with happiness
+    for one group and loss of souls and hell for the other.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The text names balances and outcomes but does not elaborate a full courtroom
+    scene.
+- id: motif:3
+  label: afterlife sequence of death, barrier, trumpet, judgment, and punishment
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage provides a sequence from death and a denied request to return,
+    through an intervening bar until resurrection, the trumpet, and final evaluation
+    and hell fire.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The sequence is not framed as a journey by the soul, so the taxonomy fit
+    is functional rather than exact.
+- id: motif:4
+  label: single divine sovereignty against plurality of gods
+  taxonomy_refs: []
+  basis: God is presented as owner of the cosmos and kingdom of all things, while
+    divine offspring and rival gods are denied.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy family directly labels monotheistic sovereignty.
+- id: motif:5
+  label: refuge from demonic suggestions
+  taxonomy_refs: []
+  basis: The passage instructs the speaker to seek refuge in the Lord from the suggestions
+    and presence of devils.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The devils are mentioned briefly without an extended episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 26071-26076
+  quote_or_summary: Those addressed are told not to cry for help; signs were read
+    to them, but they turned back and acted proudly because of possessing the holy
+    temple.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: 26077-26087
+  quote_or_summary: The passage questions why they reject the apostle, denies the
+    charge of madness, says he brought truth, warns that desire would corrupt heaven
+    and earth, and says he invites them to the right way.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: 26088-26096
+  quote_or_summary: The passage describes calamity and punishment that do not humble
+    them, ending with a severe punishment that drives them to despair.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: 26097-26106
+  quote_or_summary: God creates hearing, sight, and hearts, produces humans in the
+    earth, gives life and death, governs night and day; unbelievers ask whether dust
+    and bones will really be raised to life.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: 26107-26115
+  quote_or_summary: The passage asks whose are the earth, the seven heavens, the magnificent
+    throne, and the kingdom of all things; the answer given is God's.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: 26116-26134
+  quote_or_summary: Translator notes identify possible explanations involving plurality
+    of gods, famine, and the slaughter at Bedr, with a note on possible Medinan or
+    prophetic interpretation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: 26135-26142
+  quote_or_summary: The text says God has not begotten issue, has no other god with
+    him, knows what is concealed and public, and is far from attributed sharers in
+    honor.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: summary
+  locator: 26143-26153
+  quote_or_summary: The speaker is told to ask the Lord not to set him among the ungodly,
+    to turn aside evil with better action, and to seek refuge from the suggestions
+    and presence of devils.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:9
+  type: summary
+  locator: 26154-26161
+  quote_or_summary: When death overtakes an unbeliever, he asks to return to life
+    and do right; the request is refused, a bar remains until resurrection, and the
+    trumpet is sounded.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:10
+  type: summary
+  locator: 26162-26174
+  quote_or_summary: Heavy balances of good works bring happiness; light balances bring
+    loss of souls, hell, fire scorching faces, and a plea to be taken out of the fire.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied English passage. Taxonomy mapping
+    is strongest for resurrection and divine judgment; afterlife_journey_map is more
+    tentative because the passage gives a sequence but not an explicit journey narrative.
+    No comparison claims were added because the passage itself does not compare to
+    another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All observations and motif candidates are limited to the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l26071-l26174
+  passage_sha256=fc8377af5eb43cd6d95a759a39c8619c7098069a5708e488df81ee70f50c68f5

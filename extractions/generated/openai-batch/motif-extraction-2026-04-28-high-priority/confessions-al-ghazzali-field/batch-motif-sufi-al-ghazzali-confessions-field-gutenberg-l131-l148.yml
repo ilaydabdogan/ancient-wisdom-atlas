@@ -1,0 +1,216 @@
+---
+record_id: batch.motif.sufi-al-ghazzali-confessions-field-gutenberg-l131-l148
+source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+passage_locator:
+  label: BY CLAUD FIELD, M.A. / CONTENTS / INTRODUCTION                                                         7
+    / EDITORIAL NOTE; lines 131-148
+  start: '131'
+  end: '148'
+  translation: The Confessions of Al Ghazzali
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An editorial note states that the series aims to promote good-will and
+    understanding between East and West by presenting Oriental thought, with thanks
+    to press and public and assurance that specialists were secured for the subjects.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The editors state that the series has a definite object.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editors desire the books to serve as ambassadors of good-will and understanding
+    between East and West.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage contrasts East and West as an old world of Thought and a new world
+    of Action.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The editors say deeper knowledge of Oriental ideals and philosophy may revive
+    charity toward nations of another creed and colour.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The editors thank press and public for the reception of the “Wisdom of the
+    East” Series.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The note is signed by L. Cranmer-Byng and S. A. Kapadia.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Editors of the series
+  description: The collective editors who state the purpose of the series.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: These books
+  description: The books in the series, described as intended ambassadors of good-will
+    and understanding.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: L. Cranmer-Byng
+  description: A signatory of the editorial note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: S. A. Kapadia
+  description: A signatory of the editorial note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: stated editorial agents
+  assigned_to:
+  - fig:1
+  basis: The editors describe their object and intentions for the series.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ambassadors of good-will and understanding
+  assigned_to:
+  - fig:2
+  basis: The passage says the books shall be ambassadors between East and West.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: signatories
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The names appear at the end of the editorial note.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: ambassadors between East and West
+  literal_form: books described as ambassadors of good-will and understanding
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Wisdom of the East
+  literal_form: title phrase for the series
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Editorial statement of series purpose
+  summary: The editors explain that the series is intended to foster good-will, understanding,
+    and knowledge between East and West, and they thank the public and press for its
+    reception.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: wisdom as cross-cultural understanding
+  taxonomy_refs:
+  - wisdom
+  basis: The passage frames the series as promoting knowledge of Oriental ideals and
+    philosophy and invokes the “Wisdom of the East” Series.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: This is an editorial program statement, not a mythic narrative; the taxonomy
+    match is thematic and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 131-134
+  quote_or_summary: The editors state that the object of the series is definite.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 133-135
+  quote_or_summary: "“these books shall be the ambassadors of good-will and understanding
+    between East and West”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 135-136
+  quote_or_summary: "“the old world of Thought and the new of Action”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 138-142
+  quote_or_summary: The editors state that deeper knowledge of Oriental ideals and
+    philosophy may help revive charity toward nations of another creed and colour.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 142-144
+  quote_or_summary: "“Wisdom of the East” Series"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: lines 147-148
+  quote_or_summary: The note is signed by L. Cranmer-Byng and S. A. Kapadia.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is clear editorial prose. Motif relevance is limited because
+    it contains no mythic episode; the single candidate motif is thematic and requires
+    review. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy item is directly attested. The passage supports editorial and metaphorical observations rather than narrative myth motifs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-al-ghazzali-confessions-field-gutenberg__l131-l148
+  passage_sha256=012ba980fbfd982ac991f8b64328767dcc7fddf90d06d206182630037eb6aca1

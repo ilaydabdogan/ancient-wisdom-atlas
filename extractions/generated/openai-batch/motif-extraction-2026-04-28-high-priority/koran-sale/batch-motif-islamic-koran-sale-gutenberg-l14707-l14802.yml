@@ -1,0 +1,554 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l14707-l14802
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER V. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VI. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 14707-14802
+  start: '14707'
+  end: '14802'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage declares God as sole creator, protector, witness, and judge;
+    commands the speaker to profess Islam and reject idolatry; warns unbelievers of
+    resurrection, hellfire, burdens of guilt, and punishment; describes hardened rejection
+    of the Quran; and reassures the speaker by recalling earlier apostles who were
+    also called liars before divine help came.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: God is described as creator of heaven and earth, feeding all and not being
+    fed by any.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker is commanded to be first to profess Islam and not to be among
+    idolaters.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: God is named as witness between the speaker and the addressees, and the Quran
+    is said to be revealed so the speaker may admonish those it reaches.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: On the day of resurrection, those who associated others with God are assembled
+    and asked where their imagined companions are.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The imagined companions of God are said to flee from the idolaters or prove
+    to be nothing in the accompanying note.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Some hear the Quran but are described as having veils over their hearts and
+    deafness in their ears, and they call it fables of ancient times.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The unbelievers are imagined set over the fire of hell, wishing to be sent
+    back to the world and promising belief.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Those set before their Lord are made to acknowledge the truth and are told
+    to taste punishment for disbelief.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Rejecters of the meeting with God carry burdens on their backs when the hour
+    comes suddenly upon them.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The present life is described as play and vain amusement, while the future
+    mansion is said to be better for those who fear God.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Apostles before the addressed speaker were called liars and vexed until divine
+    help came to them.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The speaker is told that even seeking a den into the earth or a ladder into
+    heaven to show a sign would be fruitless unless God willed guidance.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God / LORD
+  description: Sole creator, protector, witness, supreme Lord, giver of affliction
+    or good, judge at resurrection, and sender of help to apostles.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: The speaker / apostle addressed by revelation
+  description: The speaker is commanded to profess Islam, receives the Quran for admonition,
+    is grieved by rejection, and is addressed about seeking signs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: Idolaters, unbelievers, and unjust rejecters
+  description: Those who associate others with God, deny signs, call the Quran ancient
+    fables, reject resurrection, and face punishment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Imagined companions of God / idols and false gods
+  description: The supposed companions associated with God by idolaters, later absent
+    or fleeing from them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Those given the scripture
+  description: People said to know the apostle as they know their own children.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Apostles before the addressed speaker
+  description: Earlier apostles who were accounted liars and vexed until divine help
+    came.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: sole creator and protector
+  assigned_to:
+  - fig:1
+  basis: God is described as creator of heaven and earth, feeding all, and as the
+    only one able to remove harm.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine witness and judge
+  assigned_to:
+  - fig:1
+  basis: God is named as witness between speaker and audience and as the Lord before
+    whom rejecters are set and punished.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:3
+  label: admonishing apostle
+  assigned_to:
+  - fig:2
+  basis: The Quran is revealed to the speaker so he may admonish the addressees and
+    those it reaches.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: rejecters of signs and resurrection
+  assigned_to:
+  - fig:3
+  basis: They deny signs, call the Quran ancient fables, deny being raised, and are
+    punished for disbelief.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: false divine associates
+  assigned_to:
+  - fig:4
+  basis: They are the companions imagined to be associated with God, but they are
+    absent or flee at judgment.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: scriptural recognizers of the apostle
+  assigned_to:
+  - fig:5
+  basis: Those given scripture are said to know the apostle as they know their own
+    children.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: precedent rejected messengers
+  assigned_to:
+  - fig:6
+  basis: Earlier apostles were called liars and endured vexation until help came.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: fire of hell
+  literal_form: fire of hell
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: veils over hearts
+  literal_form: veils over their hearts
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: deafness in ears
+  literal_form: deafness in their ears
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: burdens on backs
+  literal_form: burdens carried on their backs
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: den into the earth
+  literal_form: a den whereby one may penetrate into the inward parts of the earth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:6
+  label: ladder into heaven
+  literal_form: a ladder by which one may ascend into heaven
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:7
+  label: revealed Quran
+  literal_form: this Koran was revealed unto me
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Declaration of divine sole protection and warning
+  summary: The speaker is told to declare God the only protector, creator, and giver
+    of sustenance, and to fear punishment if he rebelled.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Testimony of God and revealed admonition
+  summary: God is named as the strongest witness, and the Quran is said to be revealed
+    to admonish the immediate audience and all whom it reaches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Resurrection assembly and failed false companions
+  summary: At resurrection all are assembled; idolaters are asked for the companions
+    they associated with God, but these imagined powers fail or disappear.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Hardened hearing and rejection of the Quran
+  summary: Some hear the Quran but are described as veiled in heart and deaf in ear,
+    rejecting signs and calling the message ancient fables.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Hellfire regret and judgment before the Lord
+  summary: Unbelievers are shown over the fire of hell, wish to return and believe,
+    but are said to return to forbidden conduct; they are then set before the Lord
+    and told to taste punishment.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Sudden hour and burdens
+  summary: Those who rejected the meeting with God regret their negligence when the
+    hour comes suddenly and carry burdens on their backs.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+- id: scene:7
+  label: Rejected apostles and impossible sign-seeking
+  summary: The speaker is reassured that earlier apostles were also rejected until
+    divine help came, and is told that searching earth or heaven for a sign would
+    be fruitless without God’s will.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment of unbelievers
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage repeatedly depicts resurrection assembly, interrogation, acknowledgment
+    of truth, punishment, hellfire, and burdens for rejecters.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a passage-level theological motif; the extraction does not infer
+    narrative details beyond the stated judgment scenes.
+- id: motif:2
+  label: Resurrection and being raised again
+  taxonomy_refs:
+  - resurrection
+  basis: The passage names the day of resurrection, discusses denial that the dead
+    will be raised, and portrays rejecters standing before their Lord.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage presents resurrection as eschatological judgment, not as an
+    individual return-to-life narrative.
+- id: motif:3
+  label: Failed intercession or disappearance of false divine companions
+  taxonomy_refs:
+  - divine_judgment
+  basis: Those who associated companions with God are asked for them at resurrection,
+    and the imagined companions flee or prove unreal.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The label is interpretive; the passage does not use the word intercession
+    in this excerpt.
+- id: motif:4
+  label: Revelation as admonition rejected as ancient fables
+  taxonomy_refs:
+  - wisdom
+  basis: The Quran is revealed for admonition, but some hearers reject it, disputing
+    and calling it fables of ancient times.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage emphasizes revelation,
+    admonition, and rejection rather than wisdom instruction alone.
+- id: motif:5
+  label: Ascent to heaven in search of a sign
+  taxonomy_refs:
+  - ascent
+  basis: The speaker is hypothetically told that if he could find a ladder to ascend
+    into heaven to show a sign, the search would still be fruitless without God’s
+    will.
+  evidence_refs:
+  - ev:10
+  confidence: low
+  cautions: This is a rhetorical hypothetical, not an enacted ascent journey.
+- id: motif:6
+  label: Descent into the earth in search of a sign
+  taxonomy_refs:
+  - hero_descent
+  basis: The speaker is hypothetically told that if he could seek a den to penetrate
+    the inward parts of the earth to show a sign, the search would be fruitless without
+    God’s will.
+  evidence_refs:
+  - ev:10
+  confidence: low
+  cautions: This is a rhetorical hypothetical and not a completed underworld or earth-descent
+    narrative.
+- id: motif:7
+  label: Rejected messenger aided after endurance
+  taxonomy_refs: []
+  basis: Earlier apostles are said to have been accounted liars and vexed until divine
+    help came.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage gives a general precedent, not a detailed story of any named
+    earlier apostle.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns the addressed speaker’s rejection with the
+    experience of earlier apostles who were called liars and endured vexation until
+    divine help arrived.
+  claim_level: same_function
+  target: Earlier apostles before the addressed speaker within the passage’s own prophetic
+    precedent
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The earlier apostles are not named or narrated in detail in this passage,
+    so the comparison is functional rather than a specific historical or narrative
+    parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14708-14719
+  quote_or_summary: God is described as creator of heaven and earth, feeder of all,
+    sole remover of harm, almighty, supreme Lord, wise and knowing; the speaker is
+    commanded to profess Islam and reject idolatry.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 14720-14727
+  quote_or_summary: God is named as witness between the speaker and the audience;
+    the Quran was revealed to the speaker for admonition; the speaker denies other
+    gods and declares God one.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 14728-14730
+  quote_or_summary: Those given scripture are said to know the apostle as they know
+    their own children, while those who destroy their own souls do not believe.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 14732-14740 and note z-a
+  quote_or_summary: On the day of resurrection all are assembled; those who associated
+    others with God are asked where their imagined companions are; they deny idolatry,
+    and the imagined deities flee or prove unreal according to the note.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 14741-14749 and note b
+  quote_or_summary: Some hear the Quran but have veils over their hearts and deafness
+    in their ears; despite signs they do not believe, dispute with the speaker, and
+    call the message foolish ancient fables.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 14761-14769
+  quote_or_summary: Rejecters forbid others and withdraw; when set over the fire of
+    hell, they wish to return to the world and promise not to deny signs, but the
+    passage says they would return to forbidden conduct.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 14770-14775
+  quote_or_summary: They deny any life beyond the present and being raised again;
+    when set before their Lord they acknowledge the truth and are told to taste punishment
+    for disbelief.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 14776-14782
+  quote_or_summary: Those who reject the meeting with God in the next life are lost
+    until the hour comes suddenly; they lament negligence and carry burdens on their
+    backs; present life is called play and vain amusement, while the future mansion
+    is better for those who fear God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 14783-14791
+  quote_or_summary: The speaker is grieved by what opponents say; earlier apostles
+    were accounted liars and vexed until divine help came, and the words of God cannot
+    be changed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 14792-14802
+  quote_or_summary: The speaker is told that if he could seek a den into the inward
+    parts of the earth or a ladder to ascend into heaven to show a sign, the search
+    would be fruitless unless God willed guidance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is explicit. Motif assignments
+    for judgment and resurrection are high; ascent/descent assignments are low because
+    the passage frames them as hypothetical rhetoric rather than enacted journeys.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. Footnote material within the supplied passage was treated as part of the available source context.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l14707-l14802
+  passage_sha256=67204f47d3404b43801e4b17aa0b6b8ec9fc04d4b5af7e51c168aa4f3c84536a

@@ -1,0 +1,444 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l16058-l16128
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER VI. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VII / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 16058-16128
+  start: '16058'
+  end: '16128'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes notes on rain and Noah, then narrates that Noah was
+    accused of imposture but was delivered with his companions in the ark while those
+    who rejected the signs were drowned. It then recounts Hud being sent to the tribe
+    of Ad, calling them to worship God alone, being rejected as foolish and a liar,
+    and warning them of divine vengeance and indignation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Noah is described in the notes as a principal prophet and as associated with
+    building the ark and warning of the Deluge.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Noah is accused of imposture, but he and those with him are delivered in the
+    ark.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Those who charged divine signs with falsehood are drowned and described as
+    a blind people.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hud is sent to the tribe of Ad and addresses them as his people, calling them
+    to worship God alone.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Unbelieving chiefs among Hud's people say they perceive him as guided by folly
+    and esteem him one of the liars.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hud replies that he is a messenger from the Lord and a faithful counsellor
+    bringing messages.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Hud reminds the people of Ad that God appointed them successors to the people
+    of Noah and increased them in stature.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Hud's people ask him to bring the threatened judgment if he is truthful.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Hud answers that vengeance and indignation from the Lord will suddenly fall
+    upon them.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Noah
+  description: A prophet associated with warning his people, building the ark, and
+    being delivered in it with companions.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Those with Noah in the ark
+  description: The group delivered along with Noah in the ark.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Those who charged the signs with falsehood
+  description: The people who rejected the signs and were drowned; described as blind.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Hud
+  description: A messenger and faithful counsellor sent to the tribe of Ad, warning
+    them to worship God alone and of coming vengeance.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Tribe of Ad
+  description: The people to whom Hud is sent; they are reminded of their succession
+    after Noah's people and increased stature.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:6
+  name_or_label: Unbelieving chiefs among Hud's people
+  description: Chiefs who reject Hud's message, calling him foolish and a liar.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: God
+  description: The deity whom Noah and Hud serve; sends prophets, delivers Noah's
+    party, drowns rejecters, and is invoked as the source of vengeance and indignation.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: prophetic messenger
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Noah is described in the notes as a principal prophet; Hud calls himself
+    a messenger from the Lord.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: ark survivor
+  assigned_to:
+  - fig:1
+  basis: Noah is delivered in the ark.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: saved companions
+  assigned_to:
+  - fig:2
+  basis: Those with Noah are delivered in the ark.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: rejecters of warning
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: Noah's opponents reject the signs; Hud's opposing chiefs call him foolish
+    and a liar.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: warning counsellor
+  assigned_to:
+  - fig:4
+  basis: Hud says he brings messages, is a faithful counsellor, and warns his people.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: warned community
+  assigned_to:
+  - fig:5
+  basis: The tribe of Ad is addressed by Hud and warned to worship God alone.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:7
+  label: divine judge and deliverer
+  assigned_to:
+  - fig:7
+  basis: God delivers Noah's party, drowns rejecters, and is the source of threatened
+    vengeance and indignation.
+  evidence_refs:
+  - ev:2
+  - ev:7
+symbols:
+- id: sym:1
+  label: ark
+  literal_form: ark
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: flood waters / drowning
+  literal_form: drowning of those who rejected the signs
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: divine signs
+  literal_form: signs charged with falsehood
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: judgment from the Lord
+  literal_form: vengeance and indignation falling suddenly
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: ancestral deities' names
+  literal_form: names named by the people and their fathers without revealed authority
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Noah delivered in the ark
+  summary: After being accused of imposture, Noah and those with him are delivered
+    in the ark, while those who rejected the signs are drowned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Hud's mission to Ad
+  summary: Hud is sent to the tribe of Ad and calls them to worship God alone rather
+    than other deities.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Rejection of Hud
+  summary: Unbelieving chiefs reject Hud by calling him foolish and a liar; Hud answers
+    that he is a messenger and faithful counsellor.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Warning of divine vengeance
+  summary: Hud reminds Ad of God's benefits after Noah's people, then responds to
+    their demand for proof by announcing imminent vengeance and indignation from the
+    Lord.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: deliverance in an ark while rejecters drown
+  taxonomy_refs:
+  - ark_vessel
+  - flood_and_renewal
+  - divine_judgment
+  basis: Noah and those with him are delivered in the ark, while those who reject
+    the signs are drowned.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage emphasizes deliverance and drowning; renewal after the flood
+    is not described in this excerpt.
+- id: motif:2
+  label: prophet rejected as impostor or liar
+  taxonomy_refs:
+  - divine_judgment
+  basis: Noah is accused of imposture, and Hud is called foolish and one of the liars
+    by unbelieving chiefs.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a recurring prophetic-conflict pattern, but the excerpt gives
+    only two examples.
+- id: motif:3
+  label: warning before divine punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Hud warns the tribe of Ad to worship God alone; when they demand the threatened
+    judgment, he announces vengeance and indignation from the Lord.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The actual punishment of Ad is only announced here, not narrated within
+    the passage.
+- id: motif:4
+  label: succession after a destroyed people
+  taxonomy_refs:
+  - death_rebirth
+  - return
+  basis: Hud tells Ad that God appointed them successors to the people of Noah and
+    increased them in stature.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage states succession but does not elaborate a full rebirth or
+    return cycle.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself links Noah's warning and ark episode with broader scriptural
+    and Eastern Christian Noah traditions by noting scriptural testimony to Noah as
+    a preacher and reporting an Eastern Christian account of daily warnings before
+    the Deluge.
+  claim_level: same_motif
+  target: Noah flood-and-ark tradition in scriptural and Eastern Christian references
+    noted by Sale
+  evidence_refs:
+  - ev:1
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on translator's notes within the provided passage,
+    not on a direct side-by-side primary text comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16068-16088
+  quote_or_summary: Notes identify Noah as a principal prophet, associate him with
+    building the ark, and describe traditions in which he warns people of the impending
+    Deluge.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 16101-16103
+  quote_or_summary: '"we delivered him and those who were with him in the ark ...
+    we drowned those who charged our signs with falsehood"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 16104-16106
+  quote_or_summary: '"And unto the tribe of Ad we sent their brother Hd. He said,
+    O my people, worship GOD"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 16107-16109
+  quote_or_summary: The unbelieving chiefs of Hud's people say they perceive him to
+    be guided by folly and esteem him a liar.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 16110-16113
+  quote_or_summary: Hud denies folly and says he is a messenger from the Lord of all
+    creatures, bringing messages and acting as a faithful counsellor.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 16114-16117
+  quote_or_summary: Hud says the admonition comes through a man from among them, reminds
+    them they were appointed successors to Noah's people, and says their stature was
+    enlarged.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 16118-16128
+  quote_or_summary: The people ask Hud to bring the threatened judgment; Hud answers
+    that vengeance and indignation from the Lord will suddenly fall and questions
+    their ancestral divine names.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 16076-16084
+  quote_or_summary: The note says scripture testifies that Noah preached righteousness
+    and reports an Eastern Christian tradition of a wooden instrument used to summon
+    workers and create occasions for warning people of the Deluge.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Core figures and events are explicit in the passage. Some motif-family assignments
+    are broader than the excerpt and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The source passage combines translator notes and translated Qur'anic narrative; extraction separates literal episode content from broader motif interpretation.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l16058-l16128
+  passage_sha256=9a7ec7855c11ba66d746ad2e0c1f31adce021611fcf3845b83afc822b0f1154a

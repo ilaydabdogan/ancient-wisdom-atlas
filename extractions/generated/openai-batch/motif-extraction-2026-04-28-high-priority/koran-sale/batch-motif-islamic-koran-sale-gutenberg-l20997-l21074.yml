@@ -1,0 +1,568 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l20997-l21074
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XIII. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 20997-21074
+  start: '20997'
+  end: '21074'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: He causeth water to descend from heaven... Thus GOD setteth forth truth and
+    vanity.
+  summary: The passage includes commentary on thunder and punitive thunderbolts, then
+    presents a parable in which rainwater, floods, froth, melted metals, and scum
+    distinguish what is vain from what is useful. It contrasts those who obey God,
+    keep the covenant, pray, give alms, and turn away evil with good, with those who
+    violate the covenant and act corruptly. The obedient are promised paradise, entry
+    with upright kin, angelic greetings at every gate, secure hearts in remembrance
+    of God, and a happy resurrection; violators face curse, terrible account, hell,
+    and a miserable dwelling.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The commentary says thunder and lightning are signs of approaching rain and
+    notes a report in which thunder kills attackers or opponents of Mohammed.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Water descends from heaven, brooks flow by measure, and floods carry floating
+    froth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Metals are melted in fire to cast ornaments or useful vessels, and a similar
+    scum rises from them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that God uses the image of scum being thrown off and useful
+    matter remaining as a parable for truth and vanity.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Those who obey their Lord receive an excellent reward, while those who do
+    not obey face a terrible account and hell.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The prudent are described as those who consider, fulfill God's covenant, do
+    not break their contract, fear their Lord, and dread an ill account.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The righteous are described as persevering, praying at stated times, giving
+    alms secretly and openly, and turning away evil with good.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The reward of the righteous is paradise, described as gardens of eternal abode
+    entered with upright fathers, wives, and posterity.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Angels enter by every gate and greet the righteous with peace because they
+    endured patiently.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Those who violate the covenant, cut apart what God commanded to be joined,
+    and act corruptly receive a curse and a miserable dwelling in hell.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The passage says God gives provision abundantly or sparingly as he pleases,
+    leads into error whom he pleases, and directs to himself those who repent.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Believers whose hearts rest in the meditation of God are promised blessedness
+    and a happy resurrection.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God / Lord
+  description: The divine actor who sends water, sets forth parables, rewards obedience,
+    judges disobedience, gives provision, leads into error, and directs the repentant.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: fig:2
+  name_or_label: Those who obey their Lord / righteous believers
+  description: People who fulfill the covenant, pray, give alms, turn away evil with
+    good, endure patiently, and receive paradise.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Those who obey not / covenant violators
+  description: People who do not obey, violate God's covenant, cut apart what God
+    commanded to be joined, act corruptly, and receive hell or curse.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:4
+  name_or_label: Angels
+  description: Beings who enter by every gate of paradise and say peace to the patient
+    righteous.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Infidels
+  description: People who demand a sign from the Lord before believing.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Mohammed
+  description: In the commentary note, he is the prophet whom Amer and Arbad intended
+    to kill and who implored God's protection.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Amer Ebn al Tofail and Arbad Ebn Rabah
+  description: In the commentary note, they approach Mohammed with intent to kill
+    him; Arbad is struck dead by thunder, and Amer later dies of a pestilential boil.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine sender of rain
+  assigned_to:
+  - fig:1
+  basis: God causes water to descend from heaven.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: parable-giver
+  assigned_to:
+  - fig:1
+  basis: The passage states that God sets forth truth and vanity through the parable
+    of froth, scum, and useful remainder.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: judge and dispenser
+  assigned_to:
+  - fig:1
+  basis: God rewards, brings disobedient people to account, gives provision, and guides
+    or misleads according to the passage.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:4
+  label: covenant keepers
+  assigned_to:
+  - fig:2
+  basis: They fulfill God's covenant and do not break their contract.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: recipients of paradise
+  assigned_to:
+  - fig:2
+  basis: Their reward is paradise and angels greet them there.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: covenant violators under judgment
+  assigned_to:
+  - fig:3
+  basis: They violate the covenant, act corruptly, and receive curse, hell, or a terrible
+    account.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:7
+  label: paradise greeters
+  assigned_to:
+  - fig:4
+  basis: Angels enter by every gate and pronounce peace upon the patient.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: demanders of a sign
+  assigned_to:
+  - fig:5
+  basis: They say they will not believe unless a sign is sent down.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: protected prophet in commentary
+  assigned_to:
+  - fig:6
+  basis: The commentary says Mohammed perceived the plot and implored God's protection.
+  evidence_refs:
+  - ev:1
+- id: role:10
+  label: would-be attackers punished in commentary
+  assigned_to:
+  - fig:7
+  basis: The commentary says they intended to kill Mohammed and then suffered deadly
+    punishment.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: water from heaven
+  literal_form: Rainwater descending from heaven, filling brooks and floods by measure.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: floating froth
+  literal_form: Froth borne by floods.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fire for melting metals
+  literal_form: Fire used to melt metals for ornaments or vessels.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: metal scum
+  literal_form: Scum rising from melted metals, compared to floating froth.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: useful remainder
+  literal_form: That which is useful to mankind remains on earth after scum is thrown
+    off.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: covenant of God
+  literal_form: A covenant and contract that may be fulfilled or violated.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:7
+  label: gardens of eternal abode
+  literal_form: Paradise described as gardens entered by the righteous and their upright
+    kin.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:8
+  label: gates of paradise
+  literal_form: Every gate through which angels enter to greet the righteous.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: hell dwelling
+  literal_form: Hell described as an unhappy couch and miserable dwelling.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:10
+  label: thunderbolt punishment in commentary
+  literal_form: Thunder or thunderbolt striking and killing figures in explanatory
+    reports.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Commentarial thunder punishments
+  summary: The commentary associates thunder and lightning with rain and recounts
+    reports in which opponents or would-be attackers are killed by thunder or a thunderbolt.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:10
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Parable of water, froth, fire, and scum
+  summary: God sends rain; streams and floods carry froth; metals melted in fire produce
+    scum; the scum is discarded while useful matter remains, illustrating truth and
+    vanity.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Reward and account
+  summary: Those who obey receive an excellent reward, while those who disobey would
+    ransom themselves with all the earth but face a terrible account and hell.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Covenant keepers and their practices
+  summary: The prudent fulfill God's covenant, maintain what God commanded to be joined,
+    fear their Lord, persevere, pray, give alms, and turn away evil with good.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Paradise and angelic greeting
+  summary: The righteous enter gardens of eternal abode with upright family members,
+    and angels greet them by every gate with peace because of their patience.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Covenant violation and curse
+  summary: Those who violate God's covenant, sever what God commanded to be joined,
+    and act corruptly receive a curse and a miserable dwelling in hell.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:9
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Demand for a sign, guidance, and resurrection
+  summary: Infidels demand a sign; the answer says God misleads whom he pleases and
+    guides the repentant, while believers who remember God receive blessedness and
+    happy resurrection.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Divine parable separating truth from vanity
+  taxonomy_refs:
+  - wisdom
+  basis: The parable contrasts discarded froth or scum with what remains useful, explicitly
+    as a lesson about truth and vanity.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy label 'wisdom' is broad; the passage itself frames the image
+    as a parable rather than using a named motif family.
+- id: motif:2
+  label: Covenant kept and covenant broken
+  taxonomy_refs:
+  - covenant
+  basis: The passage contrasts those who fulfill God's covenant and do not break their
+    contract with those who violate the covenant after its establishment.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Divine judgment of obedience and disobedience
+  taxonomy_refs:
+  - divine_judgment
+  basis: The obedient receive reward and paradise; the disobedient face a terrible
+    account, curse, and hell.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: Paradise reward with angelic welcome
+  taxonomy_refs:
+  - divine_judgment
+  basis: The righteous enter gardens of eternal abode, and angels greet them with
+    peace because they endured patiently.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: Mapped to divine judgment because paradise appears as the outcome of righteous
+    conduct; no narrower taxonomy item for paradise is provided.
+- id: motif:5
+  label: Happy resurrection for believers
+  taxonomy_refs:
+  - resurrection
+  basis: Believers who do right are promised blessedness and a happy resurrection.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: ''
+- id: motif:6
+  label: Punitive thunderbolt in commentary
+  taxonomy_refs:
+  - divine_judgment
+  basis: The commentary recounts opponents or would-be killers of Mohammed being struck
+    dead by thunder or thunderbolt after challenging or plotting against him.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This material is from explanatory commentary in the passage, not the main
+    translated Qur'anic verses in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20997-21033
+  quote_or_summary: Commentary explains thunder and lightning as signs of rain, describes
+    thunder as possibly an angel driving clouds with sheets of fire, and recounts
+    stories of Mohammed's opponents or would-be attackers being killed by thunder
+    or thunderbolt.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 21035-21041
+  quote_or_summary: "“He causeth water to descend from heaven... the floods bear the
+    floating froth... from the metals which they melt in the fire... there ariseth
+    a scum like unto it. Thus GOD setteth forth truth and vanity.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 21041-21046
+  quote_or_summary: The scum is thrown off and what is useful remains; those who obey
+    receive an excellent reward, while the disobedient face a terrible account and
+    hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 21047-21052
+  quote_or_summary: The one who knows the revelation is truth is contrasted with the
+    blind; the prudent fulfill God's covenant, do not break their contract, join what
+    God commanded to be joined, fear their Lord, and dread an ill account.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 21053-21059
+  quote_or_summary: Those who persevere, pray, give alms secretly and openly, and
+    turn away evil with good are rewarded with paradise, gardens of eternal abode,
+    entered with upright fathers, wives, and posterity.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 21059-21061
+  quote_or_summary: "“the angels shall go in unto them by every gate, saying, Peace
+    be upon you, because ye have endured with patience”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:7
+  type: summary
+  locator: lines 21062-21065
+  quote_or_summary: Those who violate God's covenant, cut apart what God commanded
+    to be joined, and act corruptly in the earth receive a curse and a miserable dwelling
+    in hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 21066-21074
+  quote_or_summary: God gives provision abundantly or sparingly; infidels demand a
+    sign; God leads into error whom he pleases and guides repentant believers, whose
+    hearts rest in the meditation of God and who receive blessedness and a happy resurrection.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are limited
+    to the provided taxonomy and broad where no narrower category exists. Commentary
+    material is treated separately from the translated Qur'anic passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself make an explicit comparative claim to another tradition or corpus.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l20997-l21074
+  passage_sha256=2ce46c01977cbf06b1ddfd7abb90be2f63d50f89ccc064a59229809c1c728407

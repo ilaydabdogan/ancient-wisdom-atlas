@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l8605-l8711
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 8605-8711
+  start: '8605'
+  end: '8711'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A narrator follows a dervish to a narrow valley between mountains, where
+    the dervish uses fire, perfumes, and unknown words to open a rock and reveal a
+    palace of treasure. After loading camels with gold and jewels, the narrator is
+    overcome by greed and repeatedly persuades the dervish to surrender his camels,
+    then asks for a hidden box of ointment.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator and the dervish travel with camels to a narrow open space enclosed
+    by two mountains with steep cliffs.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dervish instructs the narrator to make the camels lie down so they can
+    be loaded.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The dervish kindles a fire, adds perfumes, speaks words the narrator does
+    not understand, and produces a thick column of smoke.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the smoke is divided, a rock like a pillar opens and a splendid palace
+    appears within.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator immediately begins filling a sack with gold rather than examining
+    the riches.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The dervish collects precious stones, and the narrator follows his example
+    until the camels are loaded.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The dervish removes a small wooden box containing ointment from a golden vase
+    and hides it in his clothing.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The dervish repeats the fire, perfume, and unknown spell, and the rock closes
+    again.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After leaving the valley, the narrator and dervish divide the camels and part
+    ways on diverging roads.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The narrator is filled with envy and returns to the dervish to ask for more
+    of the loaded camels.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The dervish yields additional camels without resistance as the narrator repeatedly
+    asks for more.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:12
+  text: The dervish advises the narrator to use riches well and help the poor.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The narrator ignores the dervish’s counsel and asks for the small box of ointment.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: First-person speaker who accompanies the dervish, loads treasure, becomes
+    envious, and asks for more camels and the ointment.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Dervish
+  description: A holy man who guides the narrator to the hidden treasure, performs
+    the opening and closing rites, collects jewels, carries a box of ointment, and
+    gives counsel about wealth.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Camels
+  description: Pack animals brought to the valley, made to lie down, loaded with treasure,
+    and later divided between the narrator and the dervish.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: greedy treasure-taker
+  assigned_to:
+  - fig:1
+  basis: The narrator says love of gold possessed him, takes treasure, and continues
+    seeking more after receiving loaded camels.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: magical guide to hidden treasure
+  assigned_to:
+  - fig:2
+  basis: The dervish leads the narrator to the treasure and uses ritual actions and
+    unknown words to open the rock.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: petitioner for another's share
+  assigned_to:
+  - fig:1
+  basis: The narrator repeatedly returns to persuade the dervish to give him more
+    camels.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: moral counselor
+  assigned_to:
+  - fig:2
+  basis: The dervish warns that riches should be used well and that the poor should
+    be helped.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: treasure-bearing animals
+  assigned_to:
+  - fig:3
+  basis: The camels are loaded with treasure and divided between the two men.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: mountains enclosing hidden place
+  literal_form: two mountains with straight cliffs enclosing a narrow open space
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ritual fire
+  literal_form: fire kindled from dry wood, with perfumes added
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: opening rock
+  literal_form: a pillar-like rock that opens to reveal a palace and later closes
+    again
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: hidden treasure palace
+  literal_form: splendid palace within the opened rock, containing gold, precious
+    stones, and other riches
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: box of ointment
+  literal_form: small wooden box taken from a golden vase and hidden in the dervish's
+    dress
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+scenes:
+- id: scene:1
+  label: Arrival at enclosed mountain valley
+  summary: The narrator and dervish bring camels into a narrow open space between
+    two mountains and prepare the animals for loading.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ritual opening of the hidden treasure
+  summary: The dervish lights a fire, adds perfumes, speaks unknown words, divides
+    the smoke, and opens a rock to reveal a palace.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Loading treasure and retrieving the ointment
+  summary: The narrator gathers gold, the dervish gathers jewels, the camels are loaded,
+    and the dervish takes a small wooden box of ointment from a golden vase before
+    closing the rock.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Division and renewed grasping
+  summary: After the camels are divided and the travelers part, the narrator's envy
+    leads him to return repeatedly and obtain the dervish's share of camels.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Request for the hidden ointment
+  summary: Ignoring the dervish's warning about wealth and charity, the narrator asks
+    for the small box of ointment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: hidden mountain treasure opened by ritual words
+  taxonomy_refs:
+  - mystical_quest
+  basis: A guide leads the narrator to a mountain-enclosed place where fire, perfumes,
+    smoke, and unknown words open a rock to reveal a palace of treasure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents a treasure-opening episode but does not describe
+    a full spiritual quest.
+- id: motif:2
+  label: secret object more valued than visible treasure
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: After the treasure has been taken, the dervish privately removes and hides
+    a small box of ointment, which the narrator later suspects is more precious than
+    the rest.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: medium
+  cautions: The passage does not yet explain the ointment's power or why it is valuable.
+- id: motif:3
+  label: greed escalating after acquisition of wealth
+  taxonomy_refs: []
+  basis: The narrator receives treasure and camels but continues returning for more
+    until all the dervish's camels are in his hands, then asks for the ointment.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No specific supplied taxonomy family directly names greed or avarice.
+- id: motif:4
+  label: wise holy man warns against misuse of riches
+  taxonomy_refs:
+  - wisdom
+  basis: The dervish advises that riches may disappear if kept selfishly and that
+    the poor are present so they may be helped.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The wisdom element is brief and embedded within a broader treasure episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8605-8622
+  quote_or_summary: The narrator and dervish travel with camels to a narrow valley
+    or open space enclosed by two mountains with cliffs no human could climb; the
+    dervish tells him to make the camels lie down for loading.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 8623-8632
+  quote_or_summary: The dervish kindles fire, adds perfumes, speaks words unknown
+    to the narrator, raises and divides smoke, and a pillar-like rock opens to reveal
+    a splendid palace.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 8633-8644
+  quote_or_summary: The narrator says love of gold possesses him and begins sacking
+    gold; the dervish gathers precious stones, and the camels are loaded with all
+    they can carry.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 8645-8654
+  quote_or_summary: Before sealing the treasure, the dervish takes a small wooden
+    box of special ointment from a chased golden vase, hides it in his dress, and
+    repeats the fire, perfume, and spell so the rock closes.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 8655-8664
+  quote_or_summary: The treasure and camels are divided; the narrator and dervish
+    leave the valley, reach a road where routes diverge, embrace, express farewell,
+    and part toward different destinations.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 8665-8685
+  quote_or_summary: The narrator says envy fills him; he runs after the dervish and
+    argues that a dervish does not need so many riches or camels, leading the dervish
+    to give him ten camels.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 8686-8702
+  quote_or_summary: The narrator asks for ten more camels and then cannot rest while
+    any remain with the dervish; by prayers and embraces he obtains the last twenty,
+    and the dervish counsels him to use riches well and help the poor.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 8703-8711
+  quote_or_summary: The narrator says his eyes are blinded by gold, ignores the counsel,
+    remembers the little box of ointment, suspects it may be more precious than the
+    rest, and asks the dervish to give it to him.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif assignments are
+    cautious because the passage segment does not yet reveal the ointment's function
+    or the outcome of the narrator's greed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make or support a specific cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l8605-l8711
+  passage_sha256=fdc35b0dbba40b40b26000e309e962c1feff05299916091b987215361fed98cc

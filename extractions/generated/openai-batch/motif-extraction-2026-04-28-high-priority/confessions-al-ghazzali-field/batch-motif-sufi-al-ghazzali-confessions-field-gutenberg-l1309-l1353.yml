@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.sufi-al-ghazzali-confessions-field-gutenberg-l1309-l1353
+source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+passage_locator:
+  label: 'THE AIM OF SCHOLASTIC THEOLOGY AND ITS RESULTS / DIVISIONS OF THE PHILOSOPHIC
+    SCIENCES / SUFISM / THE REALITY OF INSPIRATION: ITS IMPORTANCE FOR THE HUMAN RACE;
+    lines 1309-1353'
+  start: '1309'
+  end: '1353'
+  translation: The Confessions of Al Ghazzali
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives several answers to why learned people may disobey divine
+    law, contrasting worldly knowledge with true knowledge. True knowledge is said
+    to show sin as deadly poison, inspire fear and reverence, create a defense against
+    sin, and lead to repentance after lapses. The passage ends with a prayer that
+    God place the speakers among the chosen, guide them on the path of safety, cleanse
+    them from defilement, and indwell them completely so that they adore none besides
+    Him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A learned person who disobeys divine law is compared to people who knowingly
+    commit sins such as drinking wine, usury, evil-speaking, lying, and slander because
+    they are mastered by desire rather than ignorance.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A learned person is described as expecting knowledge to serve as a viaticum
+    for the next life and to plead in his favor.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An ignorant person who neglects practice is warned that he will perish without
+    knowledge to plead in his favor.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: True knowledge is described as showing sin to be a deadly poison and the other
+    world to be superior to this one.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: True knowledge is said not to come from sources accessible to human diligence,
+    while mere worldly knowledge may harden the sinner in revolt against God.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: True knowledge inspires fear and reverence in its initiate and raises a barrier
+    of defense between him and sin.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The true Moslem may succumb to temptation, but repents and does not persist
+    in error.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The closing prayer asks God to place the speakers among His chosen, guide
+    them in the path of safety, inspire remembrance, cleanse them from defilement,
+    and indwell them completely.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: learned man who disobeys divine law
+  description: A learned person accused of disobeying divine law while knowing that
+    he disobeys.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: simple and ignorant man
+  description: A person addressed as simple, ignorant, poor, and witless, warned against
+    neglecting practice without possessing knowledge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: truly learned man / initiate in true knowledge
+  description: A person whose real knowledge shows sin as deadly poison, inspires
+    fear and reverence, and prevents obstinate persistence in error.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: God the Omnipotent
+  description: The divine figure invoked in prayer as directing, inspiring, cleansing,
+    and indwelling the chosen.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: the chosen
+  description: Those whom God directs in the path of safety, inspires lest they forget
+    Him, cleanses from defilement, and indwells completely.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: morally weak knower
+  assigned_to:
+  - fig:1
+  basis: The learned person knows the divine law but disobeys through concupiscence
+    or weakness rather than ignorance.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ignorant warning-recipient
+  assigned_to:
+  - fig:2
+  basis: The ignorant person is addressed and warned that neglecting practice without
+    knowledge leaves him with nothing to plead in his favor.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: initiate of true knowledge
+  assigned_to:
+  - fig:3
+  basis: True knowledge inspires fear and reverence in the one initiated into it and
+    creates a defense against sin.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: divine guide and purifier
+  assigned_to:
+  - fig:4
+  basis: God is asked to direct, inspire, cleanse, and indwell the chosen.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: purified chosen devotees
+  assigned_to:
+  - fig:5
+  basis: The chosen are described as guided, inspired to remember God, cleansed of
+    defilement, and indwelt by God.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: viaticum for the next life
+  literal_form: knowledge as provision for the next life
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: deadly poison
+  literal_form: sin described as deadly poison
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: barrier of defense
+  literal_form: barrier between the initiate and sin
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: path of safety
+  literal_form: path in which God directs the chosen
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: cleansing from defilement
+  literal_form: removal of all defilement so that nothing remains except God
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: divine indwelling
+  literal_form: God indwelling the chosen completely
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Explanations for the learned sinner
+  summary: The passage explains that a learned person may knowingly disobey divine
+    law because of desire or weakness, not because the law is unknown.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warning to the ignorant person
+  summary: An ignorant person is told not to imitate a negligent learned person, because
+    he lacks knowledge that might plead for him in the next life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: True knowledge as moral protection
+  summary: True knowledge is distinguished from worldly knowledge; it reveals sin
+    as poison, inspires reverence, and creates a defense against sin while allowing
+    for repentance after lapses.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Prayer for guidance, purification, and indwelling
+  summary: The speaker prays that God place the speakers among the chosen, direct
+    them on the path of safety, cleanse them, and indwell them completely.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: saving wisdom as provision for the next life
+  taxonomy_refs:
+  - wisdom
+  basis: Knowledge is described as a viaticum for the next life and as something that
+    can plead in favor of its possessor.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage frames this partly as a possible argument attributed to the
+    learned person, not as an unqualified endorsement.
+- id: motif:2
+  label: true knowledge as purification and moral defense
+  taxonomy_refs:
+  - wisdom
+  - initiation
+  basis: True knowledge is described as inaccessible to ordinary human diligence,
+    as known by an initiate, and as producing fear, reverence, and a barrier against
+    sin.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is doctrinal and ethical rather than narrative myth.
+- id: motif:3
+  label: guided path of safety
+  taxonomy_refs:
+  - mystical_quest
+  basis: The prayer asks God to direct the chosen in the path of safety and inspire
+    them not to forget Him.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The path image is devotional and brief; no extended journey narrative
+    is present.
+- id: motif:4
+  label: purification and divine indwelling
+  taxonomy_refs:
+  - annihilation_union
+  basis: The prayer asks that the chosen be cleansed of all defilement so that nothing
+    remains in them except God, and that God indwell them completely.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The wording supports a union-like devotional pattern, but the passage
+    does not explicitly use a technical doctrine of annihilation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1309-1321
+  quote_or_summary: A learned man accused of disobeying divine law is said to know
+    his disobedience, like those who knowingly commit sins, but to be mastered by
+    concupiscence or weakness.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1323-1334
+  quote_or_summary: A simple and ignorant person is told that a learned man may regard
+    knowledge as a viaticum for the next life that can plead for him, while the ignorant
+    person who neglects practice will have nothing to plead in his favor.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1336-1344
+  quote_or_summary: The true explanation says that real knowledge shows sin as deadly
+    poison and the other world as superior; this knowledge is not derived from ordinary
+    human diligence, while worldly knowledge can harden a sinner against God.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1345-1351
+  quote_or_summary: True knowledge inspires fear and reverence in its initiate, raises
+    a defensive barrier against sin, and allows slips followed by repentance rather
+    than obstinate persistence in error.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1352-1353 and closing prayer within passage
+  quote_or_summary: The speaker prays that God place them among His chosen, direct
+    them in the path of safety, inspire them not to forget Him, cleanse them from
+    defilement, and indwell them completely so that they adore none beside Him.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal doctrinal content is clear. Motif labels are cautious because
+    the passage is primarily ethical and theological discourse rather than narrative
+    myth. No comparison claims were made because the passage does not itself compare
+    traditions or motif families beyond supporting candidate taxonomy labels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All motifs and symbols are derived from the supplied passage only; no external comparisons were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-al-ghazzali-confessions-field-gutenberg__l1309-l1353
+  passage_sha256=79a733cec89483dcda4f38061c0ace448611da7d84086b1b97b6a6c7c64c861a

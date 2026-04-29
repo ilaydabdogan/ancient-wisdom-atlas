@@ -1,0 +1,420 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l29438-l29487
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XXXI. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXXII. /
+    IN THE NAME OF THE MOST MERCIFUL GOD.; lines 29438-29487
+  start: '29438'
+  end: '29487'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contrasts believers with impious transgressors, assigning gardens
+    to the righteous and hell fire to the wicked. It states that God gives worldly
+    warning before the greater punishment, recalls the law given to Moses as guidance
+    for Israel with appointed teachers, affirms divine judgment on the day of resurrection,
+    points to destroyed generations and rain reviving parched land as signs, and answers
+    the unbelievers' question about the day of decision.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A true believer and an impious transgressor are said not to be equal.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Those who believe and do right are promised gardens of perpetual abode as
+    recompense.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Impious transgressors are assigned hell fire and are dragged back when they
+    try to leave it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wicked are said to taste a nearer punishment in this world besides a more
+    grievous punishment in the next.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The book of the law is said to have been delivered to Moses and made a direction
+    for the children of Israel.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Teachers are appointed from among the children of Israel to direct the people
+    at divine command.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Lord is said to judge between disputants on the day of resurrection.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Earlier generations are described as destroyed, and their dwellings are walked
+    through by the addressed people.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Rain is driven to bare, parched land and produces corn eaten by cattle and
+    people.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Infidels ask believers when the decision will be made, and the answer says
+    that on that day the faith of disbelievers will not avail them and they will not
+    be respited.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: A note reports alternative interpretations of the reference to revelation
+    and another note identifies the day of decision with the day of judgment or possible
+    historical events.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: true believers
+  description: Those who believe and do that which is right.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: impious transgressors / wicked / disbelievers
+  description: Those described as impiously transgressing, rejecting hell fire as
+    falsehood, turning aside from signs, or disbelieving.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: the Lord / God
+  description: The divine speaker who warns, gives signs, delivers revelation, appoints
+    teachers, and judges.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Moses
+  description: Recipient of the book of the law.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: children of Israel
+  description: The community for whom the law is ordained as a direction.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: appointed teachers
+  description: Teachers appointed from among the children of Israel to direct the
+    people.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: destroyed earlier generations
+  description: Prior generations whose dwellings remain as places passed by the addressed
+    people.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: righteous recipients of reward
+  assigned_to:
+  - fig:1
+  basis: They believe, do right, and are promised gardens of perpetual abode.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: punished rejecters
+  assigned_to:
+  - fig:2
+  basis: They transgress, reject warning, and are assigned hell fire and punishment.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: divine judge and revealer
+  assigned_to:
+  - fig:3
+  basis: The Lord delivers law, gives signs, appoints guidance, punishes, and judges
+    on the day of resurrection.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: recipient of revealed law
+  assigned_to:
+  - fig:4
+  basis: The passage says the book of the law was delivered to Moses.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: guided community
+  assigned_to:
+  - fig:5
+  basis: The law is ordained as direction for the children of Israel.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: guides or teachers
+  assigned_to:
+  - fig:6
+  basis: They are appointed to direct the people at divine command.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: exemplary destroyed predecessors
+  assigned_to:
+  - fig:7
+  basis: Their destruction and dwellings are presented as signs for later hearers.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: hell fire
+  literal_form: fire as the abode and torment of impious transgressors
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: gardens of perpetual abode
+  literal_form: gardens promised as recompense to believers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: book of the law
+  literal_form: revealed book delivered to Moses as direction
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: day of resurrection / day of decision
+  literal_form: future day when judgment or decision occurs
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: destroyed dwellings
+  literal_form: dwellings of destroyed generations through which people walk
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: rain on parched land
+  literal_form: rain driven to bare land, producing corn
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Separation of believer and transgressor
+  summary: The passage denies equality between believers and impious transgressors,
+    promising gardens to the righteous and hell fire to the wicked.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Revelation and guidance through Moses and teachers
+  summary: The law is delivered to Moses, made guidance for the children of Israel,
+    and teachers are appointed to direct the people.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Signs in past destruction and renewed land
+  summary: The passage points to destroyed generations and to rain reviving parched
+    land as signs to be heeded.
+  figure_refs:
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Question about the day of decision
+  summary: Infidels ask believers when the decision will come; the answer says that
+    on that day disbelief cannot be remedied by late faith or respite.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine judgment separating righteous and wicked
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage contrasts believers and transgressors, assigns opposed afterlife
+    outcomes, and says the Lord will judge on the day of resurrection or decision.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The extraction identifies a broad motif family; the passage does not provide
+    a detailed judgment tribunal scene.
+- id: motif:2
+  label: resurrection and final decision
+  taxonomy_refs:
+  - resurrection
+  basis: The passage explicitly names the day of resurrection and answers a question
+    about the day of decision when disbelievers will not be respited.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage affirms the day but does not narrate physical resurrection
+    in detail.
+- id: motif:3
+  label: revealed wisdom as communal guidance
+  taxonomy_refs:
+  - wisdom
+  basis: The law given to Moses is described as direction for the children of Israel,
+    and teachers are appointed to guide the people.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy term 'wisdom' is broader than the passage's explicit
+    vocabulary of law, direction, and teaching.
+- id: motif:4
+  label: signs in destroyed predecessors and revived land
+  taxonomy_refs: []
+  basis: Destroyed generations and rain producing corn from parched land are presented
+    as signs that the audience should heed or regard.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No more specific available motif-family reference is directly supported
+    by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29438-29443
+  quote_or_summary: Believers and impious transgressors are contrasted; believers
+    who do right receive gardens of perpetual abode as recompense.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 29444-29452
+  quote_or_summary: Impious transgressors have hell fire as their abode, are dragged
+    back when they try to leave, and are warned of punishment in this world and the
+    next.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 29453-29460
+  quote_or_summary: The law is delivered to Moses as direction for the children of
+    Israel; teachers are appointed; the Lord will judge on the day of resurrection.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 29461-29466
+  quote_or_summary: Destroyed generations and their dwellings are cited as signs;
+    rain is driven to parched land and produces corn for cattle and people.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 29467-29472
+  quote_or_summary: Infidels ask when the decision will be made; the answer states
+    that on that day the faith of disbelievers will not avail them and they will not
+    be respited.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: note
+  locator: lines 29474-29487
+  quote_or_summary: Translator notes give alternative interpretations of the revelation
+    reference and of the day of decision, including the day of judgment or specific
+    historical events.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif assignment
+    is limited to available taxonomy references and kept broad. No comparison claims
+    were added because the passage does not itself establish cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All observations and motif candidates are derived only from the provided passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l29438-l29487
+  passage_sha256=91ad2d7aba1b70fc4b5778f5905004c2b54bbdc70e0c95de0a28f0d0c68f8373

@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l100-l138
+source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+passage_locator:
+  label: ORIENTAL SERIES. / BOOK THE FIRST. / AS COLLECTED BY THEIR HISTORIAN, / JAMES
+    W. REDHOUSE, M.R.A.S., ETC.; lines 100-138
+  start: '100'
+  end: '138'
+  translation: The Mesnevi
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“un des plus fameux Livres de l’Orient”"
+  summary: The passage is title-page and introductory bibliographic matter. It names
+    a collector or historian, the translator James W. Redhouse, publication details,
+    and a French notice describing the Mathnaoui/Methnevi as a famous Oriental book
+    in Persian verse on religion, history, morals, and politics; attributed to Gelaleddin
+    Mohammed; connected with Balkh and Konya; revered by the Mevlevi dervish order;
+    and surrounded by Persian and Turkish commentaries.
+  language: English and French
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The title matter names Mevlānā Shemsu-’d-Dīn Ahmed, el Eflākī, el ‘Ārifī as
+    a historian or collector.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The title matter states that James W. Redhouse translated the work and versified
+    the poetry.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The French notice identifies Mathnaoui or Methnevi, in Persian and Turkish
+    Mesnevī, as the name of one of the most famous books of the East.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The notice says the book was composed in Persian verse on many matters of
+    religion, history, morality, and politics.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The notice attributes the work to Gelaleddin Mohammed, son of Mohammed, Al
+    Balkhi, Al Konoui, around the year 600 of the Hijra.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The surnames Balkhi and Konoui are explained as referring to the author’s
+    birth in Balkh in Khorassan and later settlement in Cogni in Natolie.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The notice says the author instituted in Cogni an order of dervishes called
+    Mevlevis.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Mevlevis are described as making their master’s work their capital and
+    respecting it scarcely less than the Alcoran.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The notice states that many Persian and Turkish commentaries exist on the
+    book and that its verses are cited as sentences.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mevlānā Shemsu-’d-Dīn Ahmed, el Eflākī, el ‘Ārifī
+  description: Named in the title matter as the historian or collector.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: James W. Redhouse
+  description: Named as translator and versifier of the poetry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Gelaleddin Mohammed, son of Mohammed, Al Balkhi, Al Konoui
+  description: Named in the French notice as the composer of the Mathnaoui/Methnevi
+    and as founder of the Mevlevi dervish order.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Mevlevis
+  description: A dervish order said to have been instituted by the author in Cogni
+    and to revere the master’s work.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: D’Herbelot
+  description: Cited as the source of the French notice from the Bibliothèque Orientale.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: historian or collector
+  assigned_to:
+  - fig:1
+  basis: The title matter says the material is collected by their historian.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: translator and versifier
+  assigned_to:
+  - fig:2
+  basis: The title matter names Redhouse as translator and versifier of the poetry.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: composer of the Mathnaoui/Methnevi
+  assigned_to:
+  - fig:3
+  basis: The French notice says the book was composed by Gelaleddin Mohammed.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: founder of dervish order
+  assigned_to:
+  - fig:3
+  basis: The notice says he instituted an order of dervishes in Cogni.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: devotional custodians of the master’s work
+  assigned_to:
+  - fig:4
+  basis: The Mevlevis are said to make the master’s work their capital and to give
+    it exceptional respect.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: cited bibliographic authority
+  assigned_to:
+  - fig:5
+  basis: The notice is attributed to D’Herbelot’s Bibliothèque Orientale.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: revered book
+  literal_form: Mathnaoui/Methnevi/Mesnevī, described as a famous book in Persian
+    verse
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Title-page attribution and publication framing
+  summary: The passage presents the named historian or collector, translator, and
+    publication details for the work.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bibliographic description of the Mathnaoui/Methnevi
+  summary: A French notice describes the book’s name, language, subject range, author,
+    geographic associations, Mevlevi order, reverence, commentaries, and proverbial
+    use of its verses.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: revered wisdom book with commentarial tradition
+  taxonomy_refs:
+  - wisdom
+  basis: The book is described as a famous work on religious, historical, moral, and
+    political matters, revered by the Mevlevis, supplied with Persian and Turkish
+    commentaries, and cited in individual verses as sentences.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is bibliographic and does not narrate a mythic episode; the
+    motif label is based on the described function of the book rather than a story
+    pattern.
+- id: motif:2
+  label: spiritual order centered on a master’s work
+  taxonomy_refs: []
+  basis: The notice says the author instituted the Mevlevi dervish order and that
+    the order made the master’s work central to itself.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is an institutional pattern, not a developed mythological motif in
+    the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the respect paid by the Mevlevis to the Mathnaoui/Methnevi
+    with the respect paid to the Alcoran, stating that the former is respected scarcely
+    less.
+  claim_level: same_function
+  target: Alcoran/Qur’an as a revered religious text
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns degree of reverence within the Mevlevi order;
+    it does not establish equivalence of scripture, doctrine, authority, or origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 100-113
+  quote_or_summary: Title matter names Mevlānā Shemsu-’d-Dīn Ahmed, el Eflākī, el
+    ‘Ārifī as historian/collector and James W. Redhouse as translator and versifier;
+    publication is London, Trübner & Co., 1881.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 117-122
+  quote_or_summary: The notice calls Mathnaoui/Methnevi “un des plus fameux Livres
+    de l’Orient” and says it is in Persian verse on religion, history, morals, and
+    politics.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 124-125
+  quote_or_summary: The notice says the book was composed by Gelaleddin Mohammed,
+    son of Mohammed, Al Balkhi, Al Konoui, around the year 600 of the Hijra.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 127-130
+  quote_or_summary: The notice explains Balkhi and Konoui as surnames derived from
+    birth in Balkh in Khorassan and later settlement in Cogni in Natolie.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 132-137
+  quote_or_summary: The notice says the author instituted in Cogni a more spiritual
+    order of dervishes called Mevlevis, who make their master’s work central and respect
+    it scarcely less than the Alcoran; the Mathnaoui is also called Mevlevi.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 138
+  quote_or_summary: The notice states that there are many Persian and Turkish commentaries
+    on the book and that its verses are cited as sentences; the notice is attributed
+    to D’Herbelot’s Bibliothèque Orientale.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  rights_note: Public domain source metadata; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly bibliographic and institutional. Literal extraction
+    is strong; motif identification is limited because no narrative episode is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy reference applied only where directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:sufi-rumi-mesnevi-book-1-redhouse-gutenberg__l100-l138
+  passage_sha256=37a8f7ca5a25400df7ff3d50fd5219154f06d61d5ddf6157c391d692f5b5482f

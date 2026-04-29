@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l27557-l27599
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, AL FORKAN; REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL
+    GOD. / CHAPTER XXVI. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 27557-27599
+  start: '27557'
+  end: '27599'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Commentary notes explain God observing the prophet during night devotion
+    and care for the Muslims' duties; a report of Mohammed privately inspecting companions'
+    houses and finding them absorbed in Qur'an recitation and prayer; alternative
+    explanations of prayer postures; a defense against charges of communication with
+    devils; devils as secret inspirers or eavesdroppers on angelic discourse; criticism
+    of ancient poetry; and approval of Muslim poets who praise God, defend the faith,
+    and use satire against attackers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note glosses the passage as God seeing the prophet when he rises for night
+    religious exercises and observing his care for the Muslims' performance of duty.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A reported tradition says Mohammed went privately from house to house and
+    found his companions intent on reading the Koran and repeating prayers, with their
+    houses compared to nests of hornets because of the humming noise.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'Some commentators interpret the prophet''s behavior as the prayer postures
+    used while leading his companions: standing, bowing, prostration, and sitting.'
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The commentary states that the prophet is vindicated from the charge of communication
+    with devils by the opposition between his doctrine and their designs and by their
+    inability to compose a book as consistent as the Koran.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The commentary identifies liars and slanderers, described as the prophet's
+    enemies and opposers, as the persons most likely to correspond with evil spirits.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The commentary says devils may secretly inspire earthly correspondents, or
+    may impart incoherent scraps of angelic discourse that they hear by stealth.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Ancient poetry is characterized as wild and full of vain imaginations, including
+    fabulous stories, love verses, flattery, reproaches, incitements to vice, and
+    vainglorious boasting.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Poets who embraced Mohammedism are described as praising God, establishing
+    divine unity, and exhorting obedience and moral virtue, while using satire defensively
+    against attackers.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The commentary names Labid Ebn Raba, Abda'llah Ebn Rawha, Hassn Ebn Thabet,
+    and the two Caabs as poets used by Mohammed to defend himself and religion from
+    insult and ridicule.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: A saying attributed to Mohammed tells Caab Ebn Malec to attack opponents with
+    satires, stating that satires wound more deeply than arrows.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine observer who sees the prophet's night rising and care for
+    the Muslims' duties.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mohammed / the prophet
+  description: The prophet engaged in night religious exercises, leading prayer postures,
+    defending himself from charges of communication with devils, and employing poets
+    for religious defense.
+  role_refs:
+  - role:2
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: Moslems / companions
+  description: The prophet's companions, described as reading the Koran and repeating
+    prayers in their houses, and as being led in prayer postures.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Devils / evil spirits
+  description: Beings alleged by opponents to communicate with the prophet, but described
+    instead as associated with liars and slanderers, secret inspiration, and stealthy
+    hearing of angelic discourse.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Liars and slanderers / enemies and opposers
+  description: Persons said to be most likely to correspond with evil spirits.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Angels
+  description: Heavenly beings whose discourse is described as being heard in scraps
+    by devils stealthily.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Ancient poets
+  description: Poets whose compositions are described as wild, vain, flattering, reproachful,
+    vicious, and vainglorious.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Muslim poets named in the commentary
+  description: Labid Ebn Raba, Abda'llah Ebn Rawha, Hassn Ebn Thabet, and the two
+    Caabs, described as poets employed to defend Mohammed and religion.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: divine observer
+  assigned_to:
+  - fig:1
+  basis: God is described as seeing the prophet during night devotion and observing
+    his care for Muslim duty.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: night devotee
+  assigned_to:
+  - fig:2
+  basis: The prophet is described as rising to watch and spend the night in religious
+    exercises.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: prayer leader
+  assigned_to:
+  - fig:2
+  basis: Some commentators explain his behavior as standing, bowing, prostrating,
+    and sitting while praying at the head of his companions.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: devout companions
+  assigned_to:
+  - fig:3
+  basis: They are found intent on reading the Koran and repeating prayers.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: secret inspirers or eavesdroppers
+  assigned_to:
+  - fig:4
+  basis: The devils are described as secretly inspiring correspondents or conveying
+    scraps of angelic discourse heard by stealth.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: earthly correspondents of evil spirits
+  assigned_to:
+  - fig:5
+  basis: Liars and slanderers are identified as the persons most likely to correspond
+    with evil spirits.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: defended prophet and religious leader
+  assigned_to:
+  - fig:2
+  basis: The commentary says he vindicates himself from charges involving devils and
+    employs poets to defend himself and religion.
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: role:8
+  label: source of overheard heavenly discourse
+  assigned_to:
+  - fig:6
+  basis: The devils are said to hear scraps of angels' discourse by stealth.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: profane or vain poets
+  assigned_to:
+  - fig:7
+  basis: Their compositions are described as full of vain imaginations and morally
+    suspect themes.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: religious defenders through poetry
+  assigned_to:
+  - fig:8
+  basis: These poets are said to praise God, establish divine unity, exhort virtue,
+    and defend the prophet and religion from ridicule.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: night religious exercises
+  literal_form: watching, night prayer, Koran recitation, repeated prayers
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: prayer postures
+  literal_form: standing, bowing, prostration, and sitting
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: secret inspiration and stolen discourse
+  literal_form: devils' secret inspiration and stealth-heard scraps of angels' discourse
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: satire as arrows
+  literal_form: satires said to wound more deeply than arrows
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Night devotion and inspection of companions
+  summary: The commentary describes the prophet rising at night for religious exercises
+    and reports that he privately visits companions' houses, finding them absorbed
+    in Koran recitation and prayer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Prayer postures before companions
+  summary: An alternate commentary interpretation explains the prophet's behavior
+    as the sequence of postures used when praying at the head of his companions.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Refutation of demonic communication
+  summary: The commentary states that the prophet rejects accusations of communication
+    with devils, arguing that his doctrine opposes their designs and that they could
+    not compose a consistent book like the Koran.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Devils, slanderers, and overheard angelic discourse
+  summary: The commentary associates evil spirits with liars and slanderers, explaining
+    that devils may secretly inspire them or convey scraps of angelic discourse heard
+    by stealth.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Poetry judged and redirected to religious defense
+  summary: The commentary contrasts ancient poetry's vain and immoral themes with
+    Muslim poets who praise God, affirm divine unity, exhort virtue, and defend Mohammed
+    and religion with satire.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: night vigil and communal devotion
+  taxonomy_refs: []
+  basis: The passage describes the prophet's night religious exercises and companions'
+    household recitation and prayers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a devotional pattern in commentary rather than a developed narrative
+    motif.
+- id: motif:2
+  label: illicit access to heavenly speech
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: Devils are described as hearing scraps of angels' discourse by stealth and
+    passing incoherent suggestions to earthly correspondents.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The commentary notes uncertainty about the grammatical subject, so the
+    exact direction of transmission is not fully fixed.
+- id: motif:3
+  label: sacred speech used for religious defense
+  taxonomy_refs: []
+  basis: Muslim poets are described as praising God, affirming divine unity, exhorting
+    virtue, and using satire to defend the prophet and religion.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage discusses literary and polemical practice more than mythic
+    narrative action.
+comparison_claims:
+- id: claim:1
+  claim: The devils' stealthy hearing of angelic discourse functions like the available
+    forbidden-knowledge motif family because lower or hostile beings illicitly access
+    higher speech and transmit fragments to humans.
+  claim_level: same_function
+  target: forbidden_knowledge motif family
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is exegetical commentary and gives an alternative grammatical
+    reading; it does not narrate a full theft-of-knowledge episode.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 27557-27561
+  quote_or_summary: God is glossed as seeing the prophet when he rises for night religious
+    exercises and observing his care for the Muslims' performance of duty.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary generated from supplied
+    passage.
+- id: ev:2
+  type: summary
+  locator: lines 27561-27566
+  quote_or_summary: A reported tradition says Mohammed privately visited houses to
+    see how companions spent the time and found them intent on Koran reading and prayer,
+    with their houses compared to nests of hornets because of the humming sound.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary generated from supplied
+    passage.
+- id: ev:3
+  type: summary
+  locator: lines 27566-27570
+  quote_or_summary: 'Some commentators say the prophet''s behavior refers to the postures
+    used in prayer at the head of his companions: standing, bowing, prostration, and
+    sitting.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary generated from supplied
+    passage.
+- id: ev:4
+  type: summary
+  locator: lines 27571-27576
+  quote_or_summary: The prophet is said to vindicate himself from the charge of communication
+    with devils through the opposition between his doctrine and their designs and
+    their inability to compose a consistent book like the Koran.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary generated from supplied
+    passage.
+- id: ev:5
+  type: summary
+  locator: lines 27574-27577
+  quote_or_summary: The commentary says the persons most likely to correspond with
+    evil spirits are liars and slanderers, identified as the prophet's enemies and
+    opposers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary generated from supplied
+    passage.
+- id: ev:6
+  type: summary
+  locator: lines 27578-27584
+  quote_or_summary: The commentary explains that devils may secretly inspire earthly
+    correspondents, or may convey incoherent scraps of angels' discourse that they
+    hear by stealth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary generated from supplied
+    passage.
+- id: ev:7
+  type: summary
+  locator: lines 27585-27591
+  quote_or_summary: Ancient poetry is described as wild and full of vain imaginations,
+    including fabulous stories, love verses, flattery, reproaches, vice-incitement,
+    and vainglorious boasting.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary generated from supplied
+    passage.
+- id: ev:8
+  type: summary
+  locator: lines 27592-27598
+  quote_or_summary: Poets who embraced Mohammedism are described as praising God,
+    establishing divine unity, exhorting obedience and moral virtue, and avoiding
+    profane or unjust satire.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary generated from supplied
+    passage.
+- id: ev:9
+  type: summary
+  locator: lines 27598-27605
+  quote_or_summary: The commentary says Mohammed employed poets including Labid Ebn
+    Raba, Abda'llah Ebn Rawha, Hassn Ebn Thabet, and the two Caabs to defend himself
+    and religion from insults and ridicule.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary generated from supplied
+    passage.
+- id: ev:10
+  type: summary
+  locator: lines 27605-27608
+  quote_or_summary: A saying attributed to Mohammed tells Caab Ebn Malec to ply opponents
+    with satires, which are said to wound more deeply than arrows.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary generated from supplied
+    passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly translator/exegetical commentary rather than continuous
+    narrative. Some evidence locators slightly exceed the supplied line-range label
+    because the supplied passage text includes continuation lines after 27599.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external identifications or taxonomy IDs beyond the provided available refs were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l27557-l27599
+  passage_sha256=070c88d004c2323fb53b6e4d332a337ff79fd75e2f972b50ab0736c058252310

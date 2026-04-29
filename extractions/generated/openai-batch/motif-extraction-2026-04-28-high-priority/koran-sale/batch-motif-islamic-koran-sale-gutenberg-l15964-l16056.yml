@@ -1,0 +1,542 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l15964-l16056
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER VI. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VII / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 15964-16056
+  start: '15964'
+  end: '16056'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a separation between the blessed and the damned,
+    figures on Al Arf who recognize people by marks, requests from hell for water
+    from paradise, eschatological regret by those who denied revelation, God's creation
+    and rule over the cosmos, prayer and divine mercy, rain reviving dead land as
+    a sign of resurrection, and the sending of Noah as a messenger to his people.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A veil or partition stands between the blessed and the damned.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:2
+  text: Men standing on Al Arf recognize people by their marks and address both the
+    inhabitants of paradise and certain condemned or proud persons.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: obs:3
+  text: The inhabitants of hell ask the inhabitants of paradise for water or other
+    refreshment, and are told that God has forbidden these to unbelievers.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: obs:4
+  text: Those who forgot or denied the promised meeting later acknowledge the truth
+    of the messengers and ask about intercession or being sent back to do different
+    works.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: God is described as creating the heavens and earth in six days, ascending
+    his throne, and commanding the night, day, sun, moon, and stars.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Winds bring rain-bearing clouds to a dead country, water descends, and fruits
+    spring forth; this is used to illustrate bringing forth the dead from graves.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:7
+  text: A good country produces abundant fruit by permission of its Lord, while bad
+    land produces only sparsely.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:8
+  text: Noah is sent to his people, calls them to worship God alone, and warns of
+    punishment; the chiefs answer that he is in manifest error.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: the blessed
+  description: Those separated from the damned and associated with paradise.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: the damned / companions of hell fire
+  description: Those associated with hell fire and denied water or refreshment from
+    paradise.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: men on Al Arf
+  description: Men standing on Al Arf who recognize others by marks and speak across
+    the boundary.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: inhabitants of paradise
+  description: Those addressed with peace and asked for water or refreshment by the
+    inhabitants of hell.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: certain proud men / chiefs and ringleaders of the infidels
+  description: Certain men known by marks, associated with gathered riches and pride;
+    the note identifies them as chiefs and ringleaders of the infidels.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:6
+  name_or_label: God / the Lord
+  description: The creator, ruler, source of mercy, sender of winds and rain, and
+    sender of Noah.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+  - ev:10
+- id: fig:7
+  name_or_label: those who forgot or denied the meeting and signs
+  description: People who later seek intercession or a return to the world after the
+    interpretation of revelation comes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Noah
+  description: A messenger sent to his people who counsels them to worship God and
+    warns of punishment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+- id: fig:9
+  name_or_label: Noah's people and their chiefs
+  description: The people addressed by Noah; their chiefs say he is in manifest error.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: saved or paradise-associated figures
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: They are linked with paradise, peace, and freedom from fear and grief.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: judged or condemned figures
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:7
+  basis: They are associated with hell fire, unbelief, pride, denial, or loss of their
+    souls.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: afterlife supplicants denied refreshment
+  assigned_to:
+  - fig:2
+  basis: They ask for water or paradise refreshments and are told these are forbidden
+    to unbelievers.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: boundary recognizers or intermediaries
+  assigned_to:
+  - fig:3
+  basis: They stand on Al Arf, recognize people by marks, and address figures on both
+    sides.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:5
+  label: creator, judge, and giver of mercy
+  assigned_to:
+  - fig:6
+  basis: God creates and commands the cosmos, forbids paradise refreshments to unbelievers,
+    sends mercy through rain, and sends messengers.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+  - ev:10
+- id: role:6
+  label: messenger and warner
+  assigned_to:
+  - fig:8
+  basis: Noah says he is a messenger from the Lord, brings messages, counsels his
+    people, and warns them.
+  evidence_refs:
+  - ev:10
+- id: role:7
+  label: rejecting audience
+  assigned_to:
+  - fig:9
+  basis: The chiefs of Noah's people answer that Noah is in manifest error.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: veil or partition between blessed and damned
+  literal_form: veil / wall / partition called Al Arf
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: recognizing marks
+  literal_form: marks by which figures are known
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: hell fire
+  literal_form: hell fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: water and paradise refreshment
+  literal_form: water and refreshments bestowed by God
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:5
+  label: divine throne
+  literal_form: God's throne after creation of the heavens and earth
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: rain reviving dead land
+  literal_form: winds, heavy cloud, descending water, dead country, and fruits
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: good and bad land
+  literal_form: good country producing abundant fruit and bad land producing scarcely
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Boundary between paradise and hell
+  summary: A veil or Al Arf separates the blessed and the damned; men standing there
+    recognize people by marks and speak to the inhabitants of paradise and hell.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: scene:2
+  label: Denied water from paradise
+  summary: The inhabitants of hell ask the inhabitants of paradise for water or refreshment,
+    but the answer states that God has forbidden these to unbelievers.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: scene:3
+  label: Eschatological regret and failed return
+  summary: Those who forgot the promised interpretation acknowledge the truth of the
+    messengers and ask whether intercessors can help them or whether they may return
+    to the world, but they have lost their souls.
+  figure_refs:
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Creation and divine sovereignty
+  summary: God creates the heavens and earth in six days, ascends his throne, and
+    commands the night, day, sun, moon, and stars.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Rain, revived land, and resurrection sign
+  summary: God sends winds and rain-clouds to a dead country; water brings forth fruits,
+    and this is presented as an analogy for bringing the dead from graves.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Noah's warning to his people
+  summary: Noah calls his people to worship God alone and warns them of punishment;
+    the chiefs reject him as being in error, and Noah answers that he is a messenger
+    from the Lord.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: afterlife boundary separating blessed and damned
+  taxonomy_refs:
+  - afterlife_journey_map
+  - divine_judgment
+  basis: The passage describes a veil or Al Arf between the blessed and the damned,
+    with figures on the boundary recognizing the judged by marks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage does not present a full journey narrative, only a mapped afterlife
+    boundary and judgment scene.
+- id: motif:2
+  label: denied refreshment in the afterlife
+  taxonomy_refs:
+  - divine_judgment
+  basis: The inhabitants of hell ask for water or paradise refreshments and are told
+    these are forbidden to unbelievers.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The taxonomy list contains water as a symbol but not a specific denied-water
+    motif family.
+- id: motif:3
+  label: eschatological regret and request for return
+  taxonomy_refs:
+  - divine_judgment
+  basis: Those who forgot the promised meeting ask for intercession or to be sent
+    back to do different works after recognizing the truth of the messengers.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage frames the request as too late; no return is actually granted
+    in this excerpt.
+- id: motif:4
+  label: rain-revival as sign of resurrection
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: Rain revives a dead country and produces fruit; the passage explicitly says
+    that thus the dead will be brought forth from their graves.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The death-rebirth reference is analogical and agricultural; the explicit
+    doctrinal point is resurrection.
+- id: motif:5
+  label: rejected prophetic warning
+  taxonomy_refs: []
+  basis: Noah is sent to his people, warns them to worship God and fear punishment,
+    and the chiefs reject him as in error.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The excerpt does not include the later flood narrative, so flood-and-renewal
+    should not be assigned from this passage alone.
+comparison_claims:
+- id: claim:1
+  claim: The translator's note invites comparison between the hell-inhabitants' request
+    for water from paradise and the parable of Dives and Lazarus, suggesting a similar
+    afterlife function of thirst, separation, and denied relief.
+  claim_level: same_function
+  target: parable of Dives and Lazarus
+  evidence_refs:
+  - ev:3
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied by the translator's note in this edition,
+    not by an explicit comparison in the translated Qur'anic passage itself; only
+    functional similarity is supported here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15964-15970
+  quote_or_summary: A veil stands between the blessed and the damned; men on Al Arf
+    know people by marks, greet the inhabitants of paradise, desire entry, and pray
+    not to be placed with the ungodly when looking toward hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 15971-15978
+  quote_or_summary: Those on Al Arf call to certain men known by marks, question what
+    their riches and pride availed them, and a speech follows commanding entry into
+    paradise without fear or grief.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 15979-15985
+  quote_or_summary: The inhabitants of hell fire ask the inhabitants of paradise for
+    water or refreshments; the answer states that God has forbidden them to unbelievers
+    who mocked religion, were deceived by worldly life, forgot the meeting, and denied
+    signs.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 15986-15993
+  quote_or_summary: A book of divine revelations is described; on the day its interpretation
+    arrives, those who had forgotten it acknowledge the messengers' truth and ask
+    for intercessors or return to the world, but they have lost their souls.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 15994-16000
+  quote_or_summary: God creates the heavens and earth in six days, ascends his throne,
+    makes night cover day, and creates the sun, moon, and stars subject to his command.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: notes b-d within 15964-16056
+  quote_or_summary: Translator notes identify Al Arf as the wall or partition separating
+    paradise from hell, explain marks as distinguishing features of blessed and damned,
+    and report a commentator view of the place as an intermediate purgatory-like partition.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: notes e-h within 15964-16056
+  quote_or_summary: Translator notes identify certain reproached men as chiefs and
+    ringleaders of infidels, explain paradise refreshments as liquors or fruits, and
+    compare the passage with the parable of Dives and Lazarus.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 16035-16043
+  quote_or_summary: The passage commands humble prayer and avoidance of corruption;
+    God sends winds before mercy until rain-clouds are driven to dead country, water
+    descends, fruits spring forth, and this is likened to bringing the dead from graves.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 16044-16046
+  quote_or_summary: A good country yields fruit abundantly by permission of its Lord,
+    while bad land yields only scarcely; the signs are explained for thankful people.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 16047-16056
+  quote_or_summary: Noah is sent to his people, tells them to worship God alone, fears
+    punishment for them, is accused by the chiefs of manifest error, and replies that
+    he is a messenger who brings messages and counsel from the Lord.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based on the supplied English passage and translator notes.
+    Motif assignment is strongest for divine judgment, afterlife boundary, and resurrection
+    imagery; the Noah material is limited to warning and rejection in this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No flood motif was assigned because this excerpt mentions Noah's mission and rejection but not the flood itself.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l15964-l16056
+  passage_sha256=43e23592857d1f14b854decd5f7e043348e5f89cb5a4dddbd646186caa0aaf83

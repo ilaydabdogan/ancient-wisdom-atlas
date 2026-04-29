@@ -1,0 +1,495 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l10397-l10512
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 10397-10512
+  start: '10397'
+  end: '10512'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"a little boy, beautiful as the sun"'
+  summary: Three sisters state what husbands they would choose; the youngest wishes
+    for the Sultan. The Sultan overhears, has them brought to court, and marries the
+    youngest while marrying the elder sisters to palace servants. The elder sisters
+    become jealous and later plot against the Sultana. When the Sultana gives birth
+    to a beautiful boy, they set the child afloat in a cradle on a palace canal and
+    falsely report that she gave birth to a puppy. The child is found by a high official,
+    who decides to raise him as his own son.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The second sister says she would be content to marry the Sultan's head cook
+    because of the food available in the palace.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The youngest sister says that, if wishing for husbands, she would choose no
+    one less than the Sultan himself.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Sultan overhears the sisters' conversation and orders the grand-vizir
+    to bring the women before him the next morning.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Sultan declares that the youngest sister will marry him and that the other
+    two sisters will marry his baker and chief cook.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The wedding of the youngest sister is celebrated with royal magnificence,
+    while the other two weddings are celebrated according to lower rank.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The elder sisters become jealous of the youngest sister and discuss revenge
+    against her.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The elder sisters stay with the Sultana near the expected birth of an heir
+    and are present when a beautiful boy is born.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The elder sisters put the newborn boy in his cradle, carry it to a canal in
+    the palace grounds, and leave it there.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The elder sisters falsely tell the Sultan that the Sultana has given birth
+    to a puppy.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The Sultan reacts with rage and grief, and the grand-vizir prevents harm to
+    the Sultana.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The cradle floats along the canal until an intendant sees it near the outskirts
+    of the royal gardens.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The intendant has the cradle retrieved, finds a baby inside, and decides to
+    raise the child as his own son.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: youngest sister / Sultana
+  description: The youngest and most beautiful of the three sisters; she wishes to
+    marry the Sultan, becomes his wife, and later gives birth to a boy.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Sultan
+  description: The sovereign who overhears the sisters, fulfills their wishes through
+    marriage arrangements, and reacts with rage and grief to the false report about
+    the Sultana's child.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:3
+  name_or_label: elder sisters
+  description: The two older sisters marry the Sultan's baker and chief cook, become
+    jealous of the youngest sister, and replace the newborn heir with a false report.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: grand-vizir
+  description: The official ordered to bring the sisters before the Sultan; later
+    he saves the Sultana from the Sultan's wrath.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:5
+  name_or_label: newborn boy
+  description: A boy born to the Sultana, described as beautiful; he is placed in
+    a cradle on the canal and later found by the intendant.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: fig:6
+  name_or_label: intendant
+  description: A high and respected official who sees the cradle, has it retrieved,
+    and decides to adopt the baby as his son.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: gardener
+  description: A gardener ordered by the intendant to retrieve the cradle from the
+    canal.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: royal bride
+  assigned_to:
+  - fig:1
+  basis: The Sultan states that the youngest sister will be his wife that same day.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: sovereign husband
+  assigned_to:
+  - fig:2
+  basis: The Sultan arranges the marriages and marries the youngest sister.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: jealous plotters
+  assigned_to:
+  - fig:3
+  basis: The elder sisters resent the Sultana's elevation, plan revenge, set the child
+    adrift, and lie to the Sultan.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: wronged mother
+  assigned_to:
+  - fig:1
+  basis: The Sultana gives birth to a boy, but her sisters remove the child and falsely
+    accuse her of bearing a puppy.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:5
+  label: royal intermediary
+  assigned_to:
+  - fig:4
+  basis: The grand-vizir carries out the Sultan's order to summon the sisters and
+    later intervenes to protect the Sultana.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:6
+  label: hidden royal child
+  assigned_to:
+  - fig:5
+  basis: The Sultana's newborn son is removed from the palace and found by another
+    household.
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: role:7
+  label: abandoned infant
+  assigned_to:
+  - fig:5
+  basis: The baby is placed in a cradle and left to float along the canal.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:8
+  label: adoptive rescuer
+  assigned_to:
+  - fig:6
+  basis: The intendant retrieves the child and decides to raise him as his own son.
+  evidence_refs:
+  - ev:10
+- id: role:9
+  label: retriever of the cradle
+  assigned_to:
+  - fig:7
+  basis: The gardener is ordered to get the cradle from the canal and places it in
+    the intendant's hands.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: canal water
+  literal_form: A canal passing through the palace grounds, along which the cradle
+    floats.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:2
+  label: cradle
+  literal_form: The newborn boy's cradle, used to carry and set him afloat on the
+    canal.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:10
+- id: sym:3
+  label: false puppy birth report
+  literal_form: The sisters' claim that the Sultana gave birth to a puppy instead
+    of a son.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Sisters' wishes overheard
+  summary: The sisters speak of desired husbands; the youngest names the Sultan, and
+    the Sultan overhears and decides to act on their wishes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Royal marriage arrangements
+  summary: The sisters are brought before the Sultan, who announces that the youngest
+    will marry him and that the others will marry the baker and chief cook.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Jealous conspiracy
+  summary: The elder sisters resent the Sultana's higher marriage and conspire to
+    mortify or revenge themselves on her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Substitution at the heir's birth
+  summary: When the Sultana gives birth to a beautiful boy, the elder sisters place
+    him in a cradle on the canal and tell the Sultan she has borne a puppy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Discovery and adoption of the child
+  summary: The cradle floats to the outskirts of the royal gardens, where the intendant
+    has it retrieved, finds the baby, and resolves to recognize him as his son.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: child set adrift in a vessel and rescued
+  taxonomy_refs:
+  - ark_vessel
+  basis: A newborn boy is placed in a cradle, left on a canal, floats away, and is
+    found and adopted by a high official.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The vessel is a cradle on a canal rather than an ark or boat; the taxonomy
+    reference is approximate.
+- id: motif:2
+  label: hidden or displaced royal heir
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Sultana's newborn son is removed from the palace and raised outside his
+    birth family after a false report to the Sultan.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: The passage does not yet describe recognition or restoration of royal
+    status.
+- id: motif:3
+  label: jealous relatives falsely accuse mother after birth
+  taxonomy_refs: []
+  basis: The elder sisters, motivated by jealousy, remove the child and falsely report
+    an animal birth to the Sultan.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No provided taxonomy family directly names this specific false-birth accusation
+    pattern.
+- id: motif:4
+  label: extraordinary child marked by beauty
+  taxonomy_refs:
+  - miraculous_child
+  basis: The newborn boy is described as beautiful as the sun and promising great
+    beauty when found.
+  evidence_refs:
+  - ev:7
+  - ev:10
+  confidence: medium
+  cautions: The passage emphasizes beauty but does not state supernatural conception
+    or powers.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10397-10401
+  quote_or_summary: The second sister says she would be content with the Sultan's
+    head cook because she could enjoy delicate stews and palace bread.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; brief summary.
+- id: ev:2
+  type: quote
+  locator: 10403-10407
+  quote_or_summary: The youngest sister says that if they are to wish for husbands,
+    "nothing less than the Sultan himself will do for me."
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:3
+  type: summary
+  locator: 10409-10417
+  quote_or_summary: The Sultan is amused by the overheard conversation and orders
+    the grand-vizir to note the house and bring the sisters before him the next morning.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; brief summary.
+- id: ev:4
+  type: summary
+  locator: 10419-10438
+  quote_or_summary: The Sultan asks the sisters about their wishes and announces that
+    the youngest will marry him, while the other two will marry his baker and chief
+    cook.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; brief summary.
+- id: ev:5
+  type: summary
+  locator: 10449-10455
+  quote_or_summary: The three weddings occur the same day, but the youngest sister's
+    wedding is celebrated with the magnificence customary for the Shah of Persia,
+    unlike the other two weddings.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; brief summary.
+- id: ev:6
+  type: summary
+  locator: 10457-10483
+  quote_or_summary: The elder sisters become jealous, insult the Sultana, and speak
+    of revenge and of finding a way to mortify her.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; brief summary.
+- id: ev:7
+  type: summary
+  locator: 10485-10496
+  quote_or_summary: The elder sisters stay in the palace near the expected birth of
+    an heir; when a beautiful boy is born, they put him in his cradle, carry it to
+    the canal, leave it there, and tell the Sultan the Sultana has given birth to
+    a puppy.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; brief summary.
+- id: ev:8
+  type: summary
+  locator: 10496-10499
+  quote_or_summary: At the false news, the Sultan is overcome with rage and grief,
+    and the grand-vizir saves the Sultana from his wrath.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; brief summary.
+- id: ev:9
+  type: summary
+  locator: 10501-10508
+  quote_or_summary: The cradle floats along the canal to the outskirts of the royal
+    gardens, where the intendant notices it and orders a gardener to retrieve it.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; brief summary.
+- id: ev:10
+  type: summary
+  locator: 10509-10512
+  quote_or_summary: The intendant finds a baby in the cradle, notes its promise of
+    beauty, and decides to raise it as his own child because he and his wife have
+    no children.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; brief summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports the literal sequence of jealous substitution,
+    water-borne abandonment, rescue, and adoption. Motif taxonomy mappings are partly
+    approximate because the available taxonomy does not include a precise false-birth
+    or exposed-infant category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself compare the episode to another text, tradition, or named motif family.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l10397-l10512
+  passage_sha256=4892e0ce13491df96bd17c53c46f7c0e1c90b47c09af1f57872e2af516b88b23

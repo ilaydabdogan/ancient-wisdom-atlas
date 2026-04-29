@@ -1,0 +1,421 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l8825-l8932
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 8825-8932
+  start: '8825'
+  end: '8932'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The Caliph questions Sidi-Nouman about his apparently cruel treatment of
+    a horse and urges him to tell the truth. Sidi-Nouman, reassured, begins explaining
+    his life and marriage to Amina. He describes her beauty, her strange refusal to
+    eat normally, her use of a long pin to pick up grains of rice, and his suspicion
+    that she must obtain food elsewhere. One night he pretends to sleep and sees her
+    dress silently and leave, prompting him to follow her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Caliph says he saw Sidi-Nouman break or treat a horse in a manner he calls
+    barbarous.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Caliph says others were indignant and that he nearly revealed his identity
+    to stop the act.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sidi-Nouman becomes confused, prostrates himself before the Caliph's throne,
+    and initially cannot speak.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Caliph reassures Sidi-Nouman, asks him to speak openly, and grants pardon
+    beforehand for anything that might offend him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Sidi-Nouman states that he is not naturally cruel and says he chastised the
+    horse for a reason.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sidi-Nouman says he inherited enough money to live comfortably and sought
+    happiness through marriage.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sidi-Nouman says his bride, Amina, began trying his patience the day after
+    their marriage.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Amina eats rice by using a long pin from a small case, lifting grains one
+    by one to her mouth.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Amina remains silent in response to Sidi-Nouman's questions and eats only
+    a few grains of rice and small bread crumbs.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The same eating behavior continues at supper and through the next day, leading
+    Sidi-Nouman to decide to discover how and when she gets food.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: At night, while Sidi-Nouman pretends to sleep, Amina rises, dresses silently,
+    and leaves the room.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Sidi-Nouman decides to follow Amina after she leaves the room at night.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: The Caliph
+  description: A ruler who witnessed Sidi-Nouman's harsh treatment of a horse and
+    summons him to explain it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Sidi-Nouman
+  description: A young man questioned by the Caliph; he narrates the beginning of
+    his marriage to Amina and his suspicions about her conduct.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Amina
+  description: Sidi-Nouman's wife, described as beautiful but strangely silent and
+    sparing in her eating; she leaves the room secretly at night.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:4
+  name_or_label: Sidi-Nouman's horse
+  description: A horse that Sidi-Nouman is reported to flog and spur every day and
+    whose treatment provokes the Caliph's inquiry.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: Servant
+  description: An unnamed servant ordered by Sidi-Nouman to call Amina to dinner.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: questioning ruler
+  assigned_to:
+  - fig:1
+  basis: The Caliph challenges Sidi-Nouman about the horse's treatment and demands
+    the whole truth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: accused horse-handler
+  assigned_to:
+  - fig:2
+  basis: Sidi-Nouman is accused of repeatedly flogging and spurring his horse.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: first-person narrator of concealed events
+  assigned_to:
+  - fig:2
+  basis: After reassurance, Sidi-Nouman begins narrating the events of his marriage
+    and investigation of Amina.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+- id: role:4
+  label: secretive wife
+  assigned_to:
+  - fig:3
+  basis: Amina eats abnormally little, remains silent when questioned, and later leaves
+    the room quietly at night.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: role:5
+  label: mistreated animal
+  assigned_to:
+  - fig:4
+  basis: The horse is the object of the flogging and spurring that prompts the Caliph's
+    rebuke.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: domestic attendant
+  assigned_to:
+  - fig:5
+  basis: The servant is sent to call Amina to dinner.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: horse under punishment
+  literal_form: horse flogged and spurred by its owner
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: long pin used for eating
+  literal_form: long pin drawn from a little case and used to pick up rice grain by
+    grain
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: minimal food
+  literal_form: a few grains of rice and small bread crumbs
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: night departure
+  literal_form: Amina silently dresses and leaves the room at night
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Caliph questions Sidi-Nouman
+  summary: The Caliph rebukes Sidi-Nouman for his harsh treatment of a horse but invites
+    him to explain the hidden reason.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Sidi-Nouman begins his account
+  summary: Sidi-Nouman declares he is not naturally cruel and introduces his background,
+    fortune, and marriage to Amina.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Amina's strange meal
+  summary: At dinner, Amina eats rice grain by grain with a long pin, remains silent
+    under questioning, and eats almost nothing.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Suspicion and nocturnal pursuit
+  summary: After the abnormal eating continues, Sidi-Nouman pretends to sleep and
+    sees Amina dress silently and leave, so he resolves to follow her.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: apparent cruelty explained by hidden cause
+  taxonomy_refs: []
+  basis: The Caliph condemns Sidi-Nouman's treatment of the horse, while Sidi-Nouman
+    claims he has a reason and begins to explain.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage only begins the explanation; the actual cause is not yet revealed
+    in this excerpt.
+- id: motif:2
+  label: ruler elicits confession through reassurance
+  taxonomy_refs: []
+  basis: The Caliph softens his authority, calls himself a friend, grants pardon beforehand,
+    and asks Sidi-Nouman to speak openly.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a narrative frame device rather than a fully developed mythic
+    motif in the excerpt.
+- id: motif:3
+  label: secretive spouse with abnormal eating behavior
+  taxonomy_refs: []
+  basis: Amina eats only rice grains and crumbs, remains silent, and her husband concludes
+    she must be getting food elsewhere.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No supernatural identity or explanation is given within the provided lines.
+- id: motif:4
+  label: nighttime departure followed by suspicious spouse
+  taxonomy_refs: []
+  basis: Sidi-Nouman pretends to sleep, sees Amina leave silently at night, and decides
+    to follow her.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The destination and outcome of the pursuit fall outside this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8825-8838
+  quote_or_summary: The Caliph says he saw Sidi-Nouman treat a horse in a barbarous
+    manner, says onlookers blamed him, and demands the whole truth about the repeated
+    flogging and spurring.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: 8839-8855
+  quote_or_summary: Sidi-Nouman changes color, becomes confused, prostrates himself,
+    and cannot speak; the Caliph reassures him, grants pardon beforehand, and asks
+    him to speak without fear.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: 8856-8865
+  quote_or_summary: Sidi-Nouman says he is not naturally cruel, does not enjoy breaking
+    the law, and has not chastised the horse without reason.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: 8866-8877
+  quote_or_summary: Sidi-Nouman says he inherited enough money to live comfortably
+    and wanted a loving wife, but his bride began to try his patience the day after
+    marriage.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: 8878-8887
+  quote_or_summary: Sidi-Nouman explains the custom of marrying without seeing the
+    spouse beforehand and says he was delighted by Amina's beauty when he first saw
+    her unveiled.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: summary
+  locator: 8888-8903
+  quote_or_summary: At dinner, Amina is called by a servant, sits at the table, and
+    eats rice by drawing a long pin from a case and lifting grains one by one to her
+    mouth; Sidi-Nouman questions her about it.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:7
+  type: summary
+  locator: 8904-8915
+  quote_or_summary: Amina gives no answer, continues picking at rice with longer intervals,
+    and eats only crumbs of bread; Sidi-Nouman is vexed but tries to excuse her behavior.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:8
+  type: summary
+  locator: 8916-8925
+  quote_or_summary: The same behavior recurs at supper and through the next day; Sidi-Nouman
+    reasons that no woman could live on such little food and decides to learn how
+    and when Amina gets food.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:9
+  type: summary
+  locator: 8926-8932
+  quote_or_summary: At night Sidi-Nouman lies with eyes closed as if asleep; Amina
+    rises, dresses silently, leaves the room, and he decides to follow her.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied excerpt. Motif labels are passage-level
+    candidates only, because the cause of the horse punishment and the meaning of
+    Amina's conduct are not revealed in these lines. No comparison claims are made
+    because the passage itself does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided lines were used; later developments in the tale were not inferred.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l8825-l8932
+  passage_sha256=b7e504f8099a0c112b1640bbf6f5cfd1a28a5e784d71951a609580e5acf56212

@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l8934-l9035
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 8934-9035
+  start: '8934'
+  end: '9035'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A husband secretly follows Amina at night to a cemetery, where he sees
+    her join a female ghoul and eat from a newly buried corpse. After he later alludes
+    to corpse-flesh at dinner, Amina realizes he has spied on her, uses water and
+    spoken words to transform him into a dog, beats him, and pursues him until he
+    escapes into the street and takes refuge in a cookshop.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator follows Amina at night after she leaves the house and keeps her
+    in sight by moonlight.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Amina enters a cemetery near the house.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator sees Amina in company with a hideous female ghoul.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The passage describes ghouls as demons that eat unwary travelers and, failing
+    living prey, feed on dead bodies in cemeteries.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Amina and the ghoul dig up a corpse buried that day, sit by the grave, eat,
+    and then replace the body and earth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At dinner, Amina eats only a few grains of rice as usual.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator asks whether some dishes are as sweet as corpse-flesh, revealing
+    that he knows of the cemetery scene.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Amina reacts with extreme rage when she understands that the narrator followed
+    her to the graveyard.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Amina takes a vessel of water, puts her hand in it, murmurs words, sprinkles
+    water on the narrator's face, and commands him to become a dog.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:10
+  text: The narrator becomes aware that he has ceased to be a man and has become a
+    dog.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Amina beats the transformed narrator with a stick and pursues him into the
+    courtyard.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Amina opens the street gate intending to crush the narrator as he passes,
+    but he escapes with only the tip of his tail squeezed.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Other dogs attack the narrator in the street, and he takes refuge in a cookshop
+    where tongues and sheep's heads are sold.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: The cookshop owner first drives away the other dogs but later tries to force
+    the narrator out because he regards dogs as unclean.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Narrator husband
+  description: Amina's husband, who follows her, witnesses the cemetery meal, confronts
+    her indirectly, is transformed into a dog, and escapes.
+  role_refs:
+  - role:1
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Amina
+  description: The narrator's wife, who goes to the cemetery with a ghoul, eats from
+    a corpse, and later uses water and words to transform the narrator into a dog.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Female ghoul
+  description: A hideous female ghoul accompanying Amina in the cemetery and sharing
+    the corpse-meal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Cookshop owner
+  description: The owner of the cookshop where the transformed narrator takes refuge;
+    he first protects him from other dogs and then tries to expel him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Other dogs
+  description: Dogs in the street that attack the narrator after his transformation.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: secret watcher
+  assigned_to:
+  - fig:1
+  basis: The narrator hides near the cemetery wall and observes Amina and the ghoul
+    without being noticed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: wife with hidden nocturnal conduct
+  assigned_to:
+  - fig:2
+  basis: Amina leaves secretly at night, goes to the cemetery, and later returns quietly
+    to bed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: corpse-eater
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Amina and the ghoul dig up a newly buried corpse and eat from it at the grave.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: magical transformer and punisher
+  assigned_to:
+  - fig:2
+  basis: Amina uses water, spoken words, and a command to turn the narrator into a
+    dog, then beats and pursues him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: victim of transformation
+  assigned_to:
+  - fig:1
+  basis: The narrator is changed from a man into a dog after Amina's spell.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: fugitive animal-form human
+  assigned_to:
+  - fig:1
+  basis: After becoming a dog, the narrator flees Amina, escapes through the gate,
+    and seeks shelter in a cookshop.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: temporary protector and expeller
+  assigned_to:
+  - fig:4
+  basis: The cookshop owner drives away attacking dogs but later tries to force the
+    narrator back into the street.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: street attackers
+  assigned_to:
+  - fig:5
+  basis: The other dogs attack the transformed narrator in the street.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: cemetery
+  literal_form: A cemetery near the house, entered at night by Amina and the ghoul.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: grave and corpse
+  literal_form: A newly buried corpse dug up from its grave and eaten, then returned
+    to the grave.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: water used for spell
+  literal_form: A vessel of water into which Amina plunges her hand before sprinkling
+    the narrator's face.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: dog form
+  literal_form: The animal form imposed on the narrator by Amina's command.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: street gate
+  literal_form: The gate Amina opens while intending to crush the transformed narrator
+    as he passes through.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: cookshop refuge
+  literal_form: A cookshop selling tongues and sheep's heads where the dog-formed
+    narrator hides in a dark corner.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Nocturnal surveillance and cemetery discovery
+  summary: The narrator follows Amina by moonlight, hides near a cemetery wall, and
+    sees her meet a female ghoul.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Corpse-meal at the grave
+  summary: Amina and the ghoul dig up a newly buried corpse, eat at the edge of the
+    grave, and then restore the body and earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Dinner confrontation
+  summary: At dinner the narrator remarks on corpse-flesh, causing Amina to realize
+    that he has witnessed her graveyard activity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Magical transformation into a dog
+  summary: In rage, Amina uses water and spoken words to transform the narrator into
+    a dog and then beats him with a stick.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Escape through the gate and refuge in a cookshop
+  summary: The dog-formed narrator escapes Amina's attempt to crush him at the gate,
+    is attacked by other dogs, and hides in a cookshop whose owner first protects
+    and then rejects him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: spouse secretly followed to a nocturnal graveyard rite
+  taxonomy_refs: []
+  basis: The narrator follows Amina at night, conceals himself, and sees her meet
+    a ghoul in a cemetery.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage describes a specific episode of spying and discovery; no broader
+    tradition is named in the passage.
+- id: motif:2
+  label: wife revealed as corpse-eater or companion of a ghoul
+  taxonomy_refs: []
+  basis: Amina accompanies a female ghoul, digs up a newly buried corpse, and eats
+    at the grave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage states Amina was with a ghoul and ate the corpse, but it does
+    not explicitly call Amina herself a ghoul.
+- id: motif:3
+  label: punishment for prying into hidden conduct
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: Amina understands the narrator has followed her and says, 'receive the reward
+    of your prying,' before transforming him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy link is interpretive; the passage frames the offense as prying
+    rather than naming forbidden knowledge.
+- id: motif:4
+  label: magical transformation of a human into a dog
+  taxonomy_refs:
+  - shapeshifter
+  basis: Amina uses water and words to command the narrator to become a dog, after
+    which he knows he has ceased to be a man.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The transformation is imposed on the victim rather than voluntary shapeshifting
+    by the transformed figure.
+- id: motif:5
+  label: magic performed through water and spoken formula
+  taxonomy_refs: []
+  basis: Amina plunges her hand into a vessel of water, murmurs words, sprinkles the
+    narrator's face, and the transformation follows.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The exact words of the murmured formula are not reported except for the
+    command to become a dog.
+- id: motif:6
+  label: animal-form fugitive seeks urban refuge
+  taxonomy_refs: []
+  basis: After transformation, the narrator flees through the gate, is attacked by
+    dogs, and hides in a cookshop.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is an episode-level pattern within the passage, not a named motif
+    family in the provided taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8934-8950
+  quote_or_summary: The narrator follows Amina by moonlight after she leaves the house,
+    sees her enter a cemetery, hides by the wall, and sees her approach with a ghoul.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 8950-8956
+  quote_or_summary: The ghoul is described as a demon that lives in deserted places,
+    attacks unwary travelers for their flesh, and otherwise feeds on dead bodies in
+    cemeteries.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 8957-8966
+  quote_or_summary: Amina and the female ghoul dig up a corpse buried that day, sit
+    on the grave edge to eat, talk cheerfully, then return the body and earth to the
+    grave.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 8982-8996
+  quote_or_summary: At dinner Amina again eats only a few grains of rice; the narrator
+    asks whether any dish is as sweet as the flesh of a corpse.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 8997-9007
+  quote_or_summary: Amina realizes he followed her, becomes violently enraged, takes
+    a vessel of water, puts her hand in it, murmurs unheard words, and sprinkles the
+    water on his face.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:6
+  type: quote
+  locator: lines 9008-9014
+  quote_or_summary: '"Wretch, receive the reward of your prying, and become a dog."
+    The narrator then knows he has ceased to be a man.'
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 9014-9027
+  quote_or_summary: Amina beats the dog-formed narrator with a stick, pursues him
+    into the courtyard, and tries to crush him with the street gate, but he escapes
+    with only his tail hurt.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:8
+  type: summary
+  locator: lines 9028-9035
+  quote_or_summary: The narrator howls through the streets, is attacked by other dogs,
+    and takes refuge in a cookshop; the owner drives the dogs away but later tries
+    to expel him as unclean.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif labels are descriptive
+    and partly mapped to the supplied taxonomy where appropriate; no external comparison
+    claims are made because the passage itself gives no explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; comparison_claims left empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l8934-l9035
+  passage_sha256=0c923b7dd3dedd35c948454f588d140df16d96eae02ed9b1dec48280c360c561

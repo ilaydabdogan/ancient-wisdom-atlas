@@ -1,0 +1,474 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l9249-l9360
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 9249-9360
+  start: '9249'
+  end: '9360'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Ali Cogia travels as a merchant-pilgrim from Bagdad to Mecca and then through
+    Cairo, Damascus, Persia, and India, remaining away seven years. In his absence,
+    the Bagdad merchant who holds Ali's sealed vase of olives opens it despite his
+    wife's warning, discovers gold hidden beneath the olives, steals the gold, and
+    replaces the old olives with fresh ones. When Ali returns, he retrieves the vase,
+    finds the gold missing, and confronts the merchant.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ali Cogia mounts a camel loaded with merchandise, joins a caravan, arrives
+    at Mecca, visits the sacred Mosque, and performs religious duties.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two merchants examine Ali Cogia's goods at Mecca, and one says that Cairo
+    would bring a better price.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ali Cogia follows the advice, sells his goods at Cairo, buys Egyptian curiosities,
+    and later visits places including the Pyramids and cities by the Nile.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ali Cogia continues through Damascus, Mossoul, Persia, and India, so that
+    seven years pass after his departure from Bagdad.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The merchant holding Ali Cogia's vase recalls it only after his wife says
+    she would like olives.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The wife warns her husband not to break the seal of the vase or betray the
+    trust, saying Ali Cogia may return.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The merchant opens the vase, finds rotten olives on top, shakes some into
+    a dish, and sees gold pieces fall out.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The merchant sees that the bottom of the vase is filled with gold, then tells
+    his wife he has recorked the vase so Ali Cogia will not know it was touched.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The merchant buys fresh olives, throws away the old olives, removes and hides
+    the gold, fills the vase with the new olives, recorks it, and replaces it where
+    Ali left it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Ali Cogia returns to Bagdad, asks for the vase, receives the key to the shop,
+    and retrieves it from the place where he had put it.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Ali Cogia opens the vase at the inn, empties out the olives, finds no gold,
+    and expresses horror that his old friend may have committed a crime.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Ali Cogia confronts the merchant and says he had placed a thousand pieces
+    of gold at the bottom of the vase under the olives.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The merchant replies by asking whether he ever touched the vase when Ali Cogia
+    brought it to him.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Ali Cogia
+  description: A Bagdad merchant-pilgrim who travels with merchandise, deposits a
+    vase of olives with a friend, returns after seven years, and discovers his gold
+    missing.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Two merchants at Mecca
+  description: Merchants who examine Ali Cogia's goods and advise that Cairo would
+    bring a better price.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Bagdad merchant friend
+  description: The man entrusted with Ali Cogia's vase; he opens it, discovers the
+    gold, hides it, replaces the olives, and later answers Ali's complaint defensively.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:4
+  name_or_label: Merchant's wife
+  description: The wife of the Bagdad merchant; she asks for olives, then warns him
+    not to open Ali Cogia's vase or betray the trust.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Persian merchants
+  description: Merchants befriended by Ali Cogia at Mossoul who persuade him to accompany
+    them to Persia and India.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: travelling merchant-pilgrim
+  assigned_to:
+  - fig:1
+  basis: Ali Cogia travels by caravan with merchandise to Mecca, visits the sacred
+    Mosque, and trades goods during his journey.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: returning depositor and claimant
+  assigned_to:
+  - fig:1
+  basis: Ali Cogia had left the vase with the merchant, later retrieves it, and claims
+    the missing thousand pieces of gold.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:3
+  label: commercial advisers
+  assigned_to:
+  - fig:2
+  basis: They say Ali Cogia would obtain a better price by taking his goods to Cairo.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: entrusted custodian who violates the deposit
+  assigned_to:
+  - fig:3
+  basis: The merchant was entrusted with the vase, opens it, removes the gold, and
+    replaces the olives.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: moral warning voice
+  assigned_to:
+  - fig:4
+  basis: The wife warns that opening the vase would be base, shameful, and a betrayal
+    of trust.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: travel persuaders
+  assigned_to:
+  - fig:5
+  basis: The Persian merchants persuade Ali Cogia to accompany them to Persia and
+    India.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: vase of olives
+  literal_form: A vase containing olives, with gold hidden at the bottom, left in
+    another merchant's care.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: gold pieces beneath olives
+  literal_form: Gold pieces hidden at the bottom of the vase under the olives; Ali
+    later identifies the amount as a thousand pieces.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:3
+  label: broken seal or recorked vessel
+  literal_form: The wife refers to the shame of breaking the seal, and the merchant
+    later recorks the vase to conceal that it was touched.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: fresh olives replacing old olives
+  literal_form: New olives bought by the merchant and used to fill the vase after
+    the old olives and the gold are removed.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: caravan route
+  literal_form: Caravans by which Ali Cogia travels to Mecca and then Cairo during
+    his commercial pilgrimage.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Pilgrimage and commercial advice at Mecca
+  summary: Ali Cogia reaches Mecca with merchandise, completes religious duties, displays
+    his goods, and hears two merchants advise that Cairo would bring a better price.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Extended mercantile journey and seven-year absence
+  summary: Ali Cogia follows trading opportunities through Cairo, Damascus, Mossoul,
+    Persia, and India, so that seven years pass after his departure from Bagdad.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Wife warns against opening the entrusted vase
+  summary: The merchant recalls Ali Cogia's vase after his wife mentions olives; he
+    proposes opening it, and she warns him that this would betray the trust and that
+    Ali may return.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Discovery and theft of the concealed gold
+  summary: The merchant opens the vase, discovers gold under the olives, later removes
+    and hides the gold, replaces the old olives with fresh ones, and recorks the vase.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Return, discovery of loss, and confrontation
+  summary: Ali Cogia returns to Bagdad, retrieves the vase, discovers the missing
+    gold, and confronts the merchant, who begins to deny touching the vase.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Departure and delayed return from a commercial pilgrimage
+  taxonomy_refs:
+  - departure
+  - return
+  basis: Ali Cogia leaves Bagdad for Mecca, extends his travels through several regions,
+    and returns only after seven years.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The passage presents a mercantile and devotional journey rather than an
+    explicitly supernatural quest.
+- id: motif:2
+  label: Entrusted object violated during owner's absence
+  taxonomy_refs: []
+  basis: The vase is left in the merchant's care; despite warnings, he opens it and
+    conceals the tampering.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference precisely names a trust-deposit or violated-custody
+    motif.
+- id: motif:3
+  label: Hidden treasure discovered inside an ordinary container
+  taxonomy_refs: []
+  basis: The merchant finds gold pieces at the bottom of a vase whose visible contents
+    are olives.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage treats the hidden gold as property concealed for safekeeping,
+    not as a magical treasure.
+- id: motif:4
+  label: Theft concealed by substitution of similar contents
+  taxonomy_refs: []
+  basis: The merchant removes the gold and old olives, buys fresh olives, fills the
+    vase, recorks it, and puts it back in place.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a narrative action pattern rather than a named taxonomy family
+    in the supplied list.
+- id: motif:5
+  label: Ignored prudent warning
+  taxonomy_refs:
+  - wisdom
+  basis: The wife gives sensible advice not to open the vase or betray the trust,
+    but the merchant refuses to listen.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference 'wisdom' is broad; the passage shows prudent counsel
+    but not a formal wisdom teaching.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9249-9253
+  quote_or_summary: Ali Cogia travels by camel and caravan to Mecca, visits the sacred
+    Mosque, performs religious duties, and displays his goods for sale.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 9254-9268
+  quote_or_summary: Two merchants advise that Ali would get a better price in Cairo;
+    Ali follows the advice, sells his goods, buys Egyptian curiosities, and visits
+    the Pyramids and Nile cities while waiting for another caravan.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 9269-9280
+  quote_or_summary: Ali is delayed by Damascus, then reaches Mossoul, befriends Persian
+    merchants, travels with them to Persia and India, and seven years pass since he
+    left Bagdad.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 9281-9299
+  quote_or_summary: The merchant remembers Ali's vase when his wife mentions olives;
+    he assumes Ali must be dead, but his wife warns that opening the sealed vase would
+    be shameful and a betrayal of trust because Ali may return.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 9300-9315
+  quote_or_summary: The merchant ignores his wife, opens the vase, finds rotten olives
+    on top, shakes some into a dish, sees gold pieces fall out, and discovers the
+    bottom filled with gold.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 9316-9325
+  quote_or_summary: The merchant thinks all night about keeping the gold, buys fresh
+    olives, throws away the old ones, removes and hides the gold, fills the vase with
+    new olives, recorks it, and restores it to the same place.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 9326-9335
+  quote_or_summary: Ali returns to Bagdad, visits the merchant, asks for the vase,
+    receives the key of the shop, and is told the vase remains where he put it.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 9336-9355
+  quote_or_summary: Ali opens the vase at the inn, cannot find the money, empties
+    out the olives, finds no gold, expresses horror, returns to the merchant, and
+    says he had placed a thousand pieces of gold at the bottom under the olives.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: 9356-9360
+  quote_or_summary: '"Ali Cogia," he said, "when you brought me the vase of olives
+    did I ever touch it?"'
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and figures are clear in the passage. Motif labels are cautious
+    because the available taxonomy does not include a precise trust-deposit/theft
+    category. No comparison claims were added because the passage itself does not
+    explicitly support cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and supplied taxonomy references; comparison_claims left empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l9249-l9360
+  passage_sha256=85e64f16d79b41048c6f36ea5045a9eea1c4566ec8efc4f9a362b03140001b63

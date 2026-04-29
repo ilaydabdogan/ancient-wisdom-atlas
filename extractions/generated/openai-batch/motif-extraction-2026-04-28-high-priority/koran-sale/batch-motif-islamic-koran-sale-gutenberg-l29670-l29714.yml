@@ -1,0 +1,411 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l29670-l29714
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XXXII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXXIII.
+    / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 29670-29714
+  start: '29670'
+  end: '29714'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes translator notes identifying persons and places connected
+    with the conflict around Medina, then states that true believers, seeing the confederates,
+    affirmed that God and the apostle had spoken truly. Some believers fulfilled their
+    promise to God, some had died, and some awaited the same. God may reward the faithful
+    covenant-keepers, punish or forgive the hypocritical, drive back the infidels,
+    protect the faithful in battle, and cause scripture-receiving allies of the confederates
+    to descend from their fortresses in terror, with some slain and some captured.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note says Moatteb Ebn Kosheir complained that Mohammed had promised spoils
+    from Persians and Greeks while the group did not dare leave the entrenchment.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note identifies Yathreb as the ancient and proper name of Medina or its
+    territory and gives reported origin traditions for the name or settlement.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When true believers saw the confederates, they said that this was what God
+    and his apostle had foretold and that they had spoken the truth.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The sight of the confederates increased the true believers' faith and resignation.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some true believers performed what they had promised to God; some had finished
+    their course, and some waited for the same advantage.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: God may reward the just performers of their covenant for fidelity and may
+    punish or turn mercifully toward the hypocritical.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: God drove back the infidels in their wrath so that they obtained no advantage,
+    and God was a sufficient protector to the faithful in battle.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: God caused scripture-receiving allies of the confederates to come down from
+    their fortresses, cast terror into their hearts, and some were slain while others
+    were made captives.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Divine actor who foretells through his apostle, rewards, may punish
+    or forgive, protects the faithful, drives back enemies, and casts terror into
+    opponents' hearts.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: God's apostle
+  description: The apostle whose foretelling is affirmed by the true believers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: true believers
+  description: Believers who see the confederates, affirm divine and apostolic truth,
+    increase in faith and resignation, and include men who fulfilled their promise
+    to God.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: confederates
+  description: Opposing group seen by the true believers.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: hypocritical
+  description: Persons whom God may punish or toward whom God may turn mercifully.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: infidels
+  description: Opponents driven back by God in wrath, obtaining no advantage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: scripture-receiving allies of the confederates
+  description: Those who had received the scriptures and assisted the confederates,
+    brought down from fortresses in terror; some were slain and some captured.
+  role_refs:
+  - role:6
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Moatteb Ebn Kosheir
+  description: Person identified in a note as having said Mohammed had promised spoils
+    of Persians and Greeks while no one dared leave the entrenchment.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine judge
+  assigned_to:
+  - fig:1
+  basis: God may reward faithful covenant-performers and punish or forgive the hypocritical.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: divine protector in battle
+  assigned_to:
+  - fig:1
+  basis: God is described as a sufficient protector to the faithful in battle and
+    as driving back the infidels.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: apostolic foreteller
+  assigned_to:
+  - fig:2
+  basis: The true believers say God and his apostle had foretold the encounter and
+    spoken truth.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: faithful witnesses
+  assigned_to:
+  - fig:3
+  basis: They see the confederates and affirm the truth of what God and the apostle
+    foretold.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: covenant keepers
+  assigned_to:
+  - fig:3
+  basis: Some true believers performed what they promised to God and did not change
+    their promise.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: opponents in conflict
+  assigned_to:
+  - fig:4
+  - fig:6
+  - fig:7
+  basis: The confederates are the opposing force seen by believers; infidels are driven
+    back; scripture-receiving allies assisted the confederates.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:7
+  label: potential recipients of punishment or mercy
+  assigned_to:
+  - fig:5
+  basis: God may punish the hypocritical or may be turned unto them, being forgiving
+    and merciful.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: defeated fortified group
+  assigned_to:
+  - fig:7
+  basis: They are brought down from fortresses, terror is cast into their hearts,
+    and some are slain or captured.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: named speaker in explanatory note
+  assigned_to:
+  - fig:8
+  basis: The note identifies him as the person who uttered the complaint about promised
+    spoils and the entrenchment.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: covenant or promise to God
+  literal_form: Promise made to God and described as a covenant performed with fidelity.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - covenant
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: fortresses
+  literal_form: Fortresses from which the scripture-receiving allies of the confederates
+    are caused to come down.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: entrenchment
+  literal_form: Entrenchment mentioned in the note as the place from which no one
+    dared to stir.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Explanatory notes on conflict setting
+  summary: Notes identify a speaker complaining about promised spoils and danger at
+    the entrenchment, name Medina/Yathreb, and identify groups associated with hesitation
+    or poor conduct.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Believers see the confederates
+  summary: The true believers see the confederates and declare that God and the apostle
+    had foretold this truthfully, increasing their faith and resignation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Fulfillment of the promise to God
+  summary: Some true believers fulfill what they promised to God, some have completed
+    their course, and others await the same, without altering their promise.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Divine reward, punishment, and protection
+  summary: God may reward faithful covenant performers, punish or forgive the hypocritical,
+    drive back the infidels, and protect the faithful in battle.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Fortified allies defeated
+  summary: Those who received the scriptures and assisted the confederates are brought
+    down from fortresses; terror is cast into their hearts, and they are partly slain
+    and partly captured.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Faithful covenant rewarded by divine judgment
+  taxonomy_refs:
+  - covenant
+  - divine_judgment
+  basis: The passage explicitly describes believers performing a promise or covenant
+    to God and God rewarding fidelity while potentially punishing or forgiving the
+    hypocritical.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy labels are broad; the passage itself is a theological statement
+    about fidelity, reward, punishment, and mercy.
+- id: motif:2
+  label: Divine protection and reversal of enemies in battle
+  taxonomy_refs:
+  - divine_judgment
+  basis: God drives back the infidels, prevents their advantage, protects the faithful
+    in battle, and casts terror into the hearts of fortified allies of the confederates.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: No specific taxonomy item for divine battle aid is supplied; mapped only
+    cautiously to divine judgment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29670-29673
+  quote_or_summary: A note says Moatteb Ebn Kosheir told his fellows that Mohammed
+    had promised spoils from Persians and Greeks, but no one dared stir out of the
+    entrenchment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 29675-29680
+  quote_or_summary: A note identifies Yathreb as the ancient name of Medina or its
+    territory and reports traditions about its founder or Amalekite builders.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 29695-29698
+  quote_or_summary: "“When the true believers saw the confederates,” they affirmed
+    that God and his apostle had foretold this and that it increased their faith and
+    resignation."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 29699-29702
+  quote_or_summary: Some true believers performed what they had promised to God; some
+    had finished their course and others waited, without changing their promise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 29703-29705
+  quote_or_summary: God may reward just covenant performers for fidelity and may punish
+    or forgive the hypocritical; God is forgiving and merciful.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 29706-29708
+  quote_or_summary: God drove back the infidels in wrath, they obtained no advantage,
+    and God was a sufficient protector to the faithful in battle.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 29709-29714
+  quote_or_summary: Those who had received the scriptures and assisted the confederates
+    were caused to come down from fortresses; terror was cast into their hearts; some
+    were slain and some captured.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif classification is cautious because
+    available taxonomy does not include a specific divine battle-aid category. No
+    comparison claims were made because the passage itself does not support a cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used; comparison claims are intentionally empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l29670-l29714
+  passage_sha256=e9173318739cdaa493c79d94b30287833aab87b6068458da8f7b83da559d42c1

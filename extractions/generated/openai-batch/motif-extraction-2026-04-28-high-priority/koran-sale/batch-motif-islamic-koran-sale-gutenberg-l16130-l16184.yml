@@ -1,0 +1,475 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l16130-l16184
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER VI. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VII / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 16130-16184
+  start: '16130'
+  end: '16184'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: This she-camel of GOD is a sign unto you
+  summary: The passage includes notes on those saved in the ark, the tribe of Ad and
+    their deities, and the prophet or figure Hd; then it narrates the sending of Sleh
+    to Thamd, his call to worship God, the she-camel as a divine sign, warnings against
+    harming her and acting corruptly, and the rejection of his message by proud chiefs
+    while weaker believers affirm it.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A note says believers entered a vessel with a male figure and that traditions
+    vary on the number saved in the ark.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ad is described as an ancient and powerful Arab tribe and as zealous idolaters
+    who worshipped four named deities.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note identifies Hd by some with Heber and gives an alternate genealogy for
+    him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says God delivered a figure and the believers with him by mercy
+    and cut off those who denied the signs and did not believe.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Sleh is sent to the tribe of Thamd as their brother and calls his people to
+    worship God alone.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The she-camel of God is presented as a manifest proof and sign, and the people
+    are told to let her feed freely in God's earth and not harm her.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Thamd are reminded that they succeeded Ad, dwell on the earth, build castles
+    on plains, and cut mountains into houses.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Proud chiefs question weaker believers about Sleh's mission; the believers
+    affirm belief, and the proud declare disbelief.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Unnamed ark companion
+  description: A male figure with whom believers entered the vessel; his name is not
+    present in the supplied passage excerpt.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Those who believed and entered the vessel
+  description: Believers said to have entered the vessel and to have been saved in
+    the ark according to varying traditions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ad
+  description: An ancient and potent Arab tribe described as zealous idolaters.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:4
+  name_or_label: Hd
+  description: A figure associated with Ad; a note says some principal men among his
+    people believed on him, and another note discusses his identification or genealogy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: fig:5
+  name_or_label: Sleh
+  description: The brother of Thamd, sent to them, who calls his people to worship
+    God and identifies the she-camel as a sign.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: Thamd
+  description: A tribe addressed by Sleh and described as successors to Ad.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:7
+  name_or_label: She-camel of God
+  description: A she-camel named as a sign from God and to be allowed to feed freely
+    without harm.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Proud chiefs among Sleh's people
+  description: Chiefs described as puffed up with pride who say they do not believe
+    in what the weaker believers believe.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Weaker believers among Sleh's people
+  description: People esteemed weak who affirm that they believe in what Sleh has
+    been sent with.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: ark-associated deliverance figure
+  assigned_to:
+  - fig:1
+  basis: Believers are said to have entered the vessel with him, and traditions concern
+    those saved in the ark.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: believers
+  assigned_to:
+  - fig:2
+  - fig:9
+  basis: The passage explicitly describes groups who believed, including those entering
+    the vessel and those among Sleh's people who affirm belief.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:3
+  label: idolatrous ancient tribe
+  assigned_to:
+  - fig:3
+  basis: Ad is described as an ancient and potent tribe and as zealous idolaters.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: prophetic or believed-on figure among Ad
+  assigned_to:
+  - fig:4
+  basis: A note says some principal men among them believed on Hd; another note discusses
+    his identity or genealogy.
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: role:5
+  label: messenger to his people
+  assigned_to:
+  - fig:5
+  basis: Sleh is sent to Thamd and speaks a divine warning and command to worship
+    God.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: successor tribe addressed by messenger
+  assigned_to:
+  - fig:6
+  basis: Thamd are addressed by Sleh and reminded they were appointed successors to
+    Ad.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:7
+  label: divine sign animal
+  assigned_to:
+  - fig:7
+  basis: The she-camel of God is explicitly called a sign and connected with a warning
+    not to harm her.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: disbelieving proud elite
+  assigned_to:
+  - fig:8
+  basis: The chiefs are described as proud and state that they do not believe.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: ark or vessel of salvation
+  literal_form: vessel / ark
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - ark_vessel
+  - flood_and_renewal
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: idols or named deities
+  literal_form: Skia, Hfedha, Rzeka, and Slema
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: she-camel as sign
+  literal_form: she-camel of God
+  associated_figures:
+  - fig:5
+  - fig:7
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: mountain dwellings
+  literal_form: mountains cut into houses
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Ark salvation tradition
+  summary: A note discusses believers entering a vessel with a male figure and varying
+    traditions about how many were saved in the ark.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ad and their worship
+  summary: Ad is described as an ancient powerful tribe worshipping four named deities
+    associated with rain, protection, food, and health.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Deliverance and cutting off of deniers
+  summary: A figure and believers with him are delivered by mercy, while those who
+    deny signs and do not believe are cut off.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Sleh's warning to Thamd
+  summary: Sleh is sent to Thamd, calls them to worship God alone, presents the she-camel
+    as a sign, and warns them not to harm her.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Memory of succession and mountain habitation
+  summary: Thamd are told to remember that they succeeded Ad and that they build on
+    plains and carve houses from mountains.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Proud chiefs and weaker believers
+  summary: Proud chiefs ask weaker believers about Sleh's mission; the weaker believers
+    affirm belief, and the proud reject it.
+  figure_refs:
+  - fig:5
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: ark survival and preservation of believers
+  taxonomy_refs:
+  - ark_vessel
+  - flood_and_renewal
+  basis: The passage note speaks of believers entering a vessel and traditions about
+    the number saved in the ark.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The main narrative context before the supplied excerpt is not included,
+    and the named ark figure is not present in this passage text.
+- id: motif:2
+  label: divine judgment against sign-deniers
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage says the believers were delivered by mercy while those who charged
+    God's signs with falsehood and did not believe were cut off.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The exact means of judgment is not specified in the supplied lines.
+- id: motif:3
+  label: divine sign animal and taboo against harming it
+  taxonomy_refs:
+  - divine_judgment
+  basis: The she-camel of God is named as a sign, permitted to feed freely, and protected
+    by a warning that painful punishment will follow if she is harmed.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No separate taxonomy reference for sacred animal is available in the supplied
+    taxonomy list.
+- id: motif:4
+  label: prophetic admonition rejected by proud elites
+  taxonomy_refs:
+  - wisdom
+  basis: Sleh calls his people to worship God and the proud chiefs reject what the
+    weaker believers affirm.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy match to wisdom is broad; the passage is primarily admonitory
+    and judgment-oriented.
+- id: motif:5
+  label: successor people dwelling in carved mountains
+  taxonomy_refs:
+  - mountain
+  basis: Thamd are reminded that they succeeded Ad and cut mountains into houses.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: Mountain appears as a literal habitation setting rather than a fully developed
+    cosmic or sacred mountain motif.
+comparison_claims:
+- id: claim:1
+  claim: The note presents the ark-salvation tradition as conformable to scripture
+    and reports variant numbers of those saved, supporting a cautious comparison with
+    a broader scriptural ark-survivor motif.
+  claim_level: same_motif
+  target: scriptural ark-survivor tradition
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not quote the external scripture or provide the full
+    preceding narrative, and the named ark figure is absent from the excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16130-16137
+  quote_or_summary: A note says believers entered a vessel with a male figure and
+    reports traditions that eight, six, ten, twelve, seventy-eight, or eighty persons
+    were saved in the ark.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 16138-16145
+  quote_or_summary: Ad is described as an ancient potent Arab tribe of zealous idolaters
+    worshipping Skia, Hfedha, Rzeka, and Slema, associated with rain, protection,
+    food, and health.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 16146-16149
+  quote_or_summary: A note says a figure is generally supposed to be the same person
+    as Heber, while others give a genealogy through Abda'llah, Ribh, Khold, Ad, Aws
+    or Uz, Aram, and Sem.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 16168-16170
+  quote_or_summary: '"And we delivered him, and them who believed with him by our
+    mercy"; those charging the signs with falsehood and not believing are cut off.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quote from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 16171-16174
+  quote_or_summary: 'Sleh is sent to Thamd as their brother and says, "O my people,
+    worship GOD: ye have no GOD besides him."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quote from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 16173-16176
+  quote_or_summary: '"This she-camel of GOD is a sign unto you"; the people are told
+    to let her feed in God''s earth and not harm her lest punishment seize them.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quote from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 16177-16180
+  quote_or_summary: Thamd are reminded that God made them successors to Ad, gave them
+    habitation on earth, and that they build castles on plains and cut mountains into
+    houses.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 16181-16184
+  quote_or_summary: Proud chiefs ask weaker believers whether they know Sleh has been
+    sent from his Lord; the believers affirm belief, and the proud reply that they
+    do not believe.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 16150-16151
+  quote_or_summary: A note says some principal men among the people believed on Hd,
+    including Morthed Ebn Saad.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied line range. Some opening notes refer
+    to antecedents outside the excerpt, so unnamed or context-dependent figures are
+    treated cautiously.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage and metadata; comparisons are limited to the passage's own statement that the ark tradition is conformable to scripture.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l16130-l16184
+  passage_sha256=c4232d1cedc9d41838d26d1a1294d30788bdcf8e334fd825af93657b88c65452

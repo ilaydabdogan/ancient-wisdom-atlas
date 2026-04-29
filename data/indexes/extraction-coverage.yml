@@ -10,120 +10,20 @@ summary:
   text_count: 58
   texts_with_extractions: 58
   texts_without_extractions: 0
-  texts_needing_full_extraction: 21
+  texts_needing_full_extraction: 17
   texts_needing_review_or_normalization: 58
-  extraction_record_count: 4914
-  candidate_motif_count: 23489
-  taxonomy_ref_count: 18692
-  comparison_claim_count: 4404
+  extraction_record_count: 5314
+  candidate_motif_count: 25593
+  taxonomy_ref_count: 20712
+  comparison_claim_count: 4768
   status_counts:
-    dense_draft: 37
+    dense_draft: 41
     developing: 16
-    thin: 5
+    thin: 1
   priority_counts:
-    high: 5
-    medium: 53
+    high: 1
+    medium: 57
 texts:
-- source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
-  source_text_id: islamicate_folklore.arabian_nights.lang_gutenberg
-  title: The Arabian Nights Entertainments
-  tradition: islamicate_folklore
-  culture: arabic_persian_indian_folklore_later_english_edition
-  region: west_asia_north_africa_south_asia
-  date_range: medieval story-cycle traditions; 1898 public-domain selected English
-    edition
-  word_count: 111591
-  target_extraction_records: 28
-  coverage_ratio: 0.071
-  status: thin
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: true
-  extraction_record_count: 2
-  generated_record_count: 0
-  needs_review_count: 2
-  reviewed_count: 0
-  candidate_motif_count: 6
-  taxonomy_ref_count: 0
-  comparison_claim_count: 4
-  empty_motif_record_count: 0
-  extraction_paths:
-  - extractions/islamicate-folklore/project-gutenberg/arabian-nights/arabian-nights-fisherman-genius-vessel-trick.yml
-  - extractions/islamicate-folklore/project-gutenberg/arabian-nights/arabian-nights-scheherazade-storytelling-survival-frame.yml
-- source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
-  source_text_id: sufi.mystics_and_saints_of_islam.field_gutenberg
-  title: Mystics and Saints of Islam
-  tradition: sufi
-  culture: islamic_sufi_biographical_collection
-  region: west_asia_iran_north_africa_south_asia
-  date_range: 1910 public-domain English study with translated Sufi biographical material
-  word_count: 58606
-  target_extraction_records: 15
-  coverage_ratio: 0.067
-  status: thin
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: true
-  extraction_record_count: 1
-  generated_record_count: 0
-  needs_review_count: 1
-  reviewed_count: 0
-  candidate_motif_count: 2
-  taxonomy_ref_count: 5
-  comparison_claim_count: 1
-  empty_motif_record_count: 0
-  extraction_paths:
-  - extractions/sufi/project-gutenberg/mystics-and-saints-of-islam/rabia-divine-love-no-room-for-world.yml
-- source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
-  source_text_id: sufi.al_ghazzali.confessions_field_gutenberg
-  title: The Confessions of Al Ghazzali
-  tradition: sufi
-  culture: persian_islamic_sufi_later_translation
-  region: iran_west_asia
-  date_range: late 11th to early 12th century source text; 1909 public-domain English
-    translation
-  word_count: 13591
-  target_extraction_records: 4
-  coverage_ratio: 0.25
-  status: thin
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: true
-  extraction_record_count: 1
-  generated_record_count: 0
-  needs_review_count: 1
-  reviewed_count: 0
-  candidate_motif_count: 2
-  taxonomy_ref_count: 6
-  comparison_claim_count: 1
-  empty_motif_record_count: 0
-  extraction_paths:
-  - extractions/sufi/project-gutenberg/confessions-al-ghazzali/ghazzali-sufism-experience-over-definition.yml
-- source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
-  source_text_id: sufi.rumi.mesnevi_book_1_redhouse_gutenberg
-  title: The Mesnevi
-  tradition: sufi
-  culture: persian_sufi_mevlevi_later_translation
-  region: iran_anatolia
-  date_range: 13th-century Persian Sufi source text; 1881 public-domain English translation
-    of Book I
-  word_count: 127011
-  target_extraction_records: 32
-  coverage_ratio: 0.031
-  status: thin
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: true
-  extraction_record_count: 1
-  generated_record_count: 0
-  needs_review_count: 1
-  reviewed_count: 0
-  candidate_motif_count: 2
-  taxonomy_ref_count: 6
-  comparison_claim_count: 1
-  empty_motif_record_count: 0
-  extraction_paths:
-  - extractions/sufi/project-gutenberg/mesnevi-book-1/mesnevi-reed-flute-separation-longing.yml
 - source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md
   source_text_id: sufi.mystics_of_islam.nicholson_gutenberg
   title: The Mystics of Islam
@@ -4493,88 +4393,6 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l933-l1019.yml
   - extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-fire-makers.yml
   - extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-origin-narran-lake.yml
-- source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
-  source_text_id: islamic.koran.rodwell_gutenberg
-  title: The Koran (Al-Qur'an)
-  tradition: islamic
-  culture: arabic_islamic_later_translation
-  region: arabia_west_asia
-  date_range: 7th century source text; public-domain English translation
-  word_count: 203200
-  target_extraction_records: 40
-  coverage_ratio: 1.475
-  status: dense_draft
-  priority: medium
-  needs_full_extraction: false
-  needs_review_or_normalization: true
-  extraction_record_count: 59
-  generated_record_count: 57
-  needs_review_count: 59
-  reviewed_count: 0
-  candidate_motif_count: 380
-  taxonomy_ref_count: 365
-  comparison_claim_count: 83
-  empty_motif_record_count: 1
-  extraction_paths:
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l1143-l1311.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l1313-l1435.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l1437-l1607.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l1609-l1839.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l1841-l2018.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l201-l285.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l2020-l2251.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l2254-l2504.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l2506-l2739.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l2741-l2973.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l287-l351.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l2975-l3208.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l3210-l3455.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l3457-l3676.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l353-l384.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l3678-l3891.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l386-l465.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l3893-l4118.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l4120-l4331.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l4333-l4512.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l4514-l4760.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l467-l517.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l4762-l4955.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l4957-l5183.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l5185-l5401.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l519-l571.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l5403-l5596.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l5598-l5788.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l573-l652.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l5790-l5982.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l5984-l6131.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l6133-l6277.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l6279-l6438.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l6440-l6654.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l654-l720.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l6656-l6879.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l67-l198.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l6881-l7048.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7050-l7238.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l722-l779.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7240-l7394.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7396-l7552.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7554-l7691.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7693-l7858.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l781-l846.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7860-l8026.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8028-l8198.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8200-l8362.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8364-l8516.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l848-l912.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8518-l8693.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8695-l8860.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8862-l9028.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l9030-l9193.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l914-l996.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l9195-l9356.yml
-  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l998-l1141.yml
-  - extractions/islamic/project-gutenberg/koran/koran-rodwell-earthquake-works-judgment.yml
-  - extractions/islamic/project-gutenberg/koran/koran-rodwell-recitation-created-man.yml
 - source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
   source_text_id: islamic.koran.sale_gutenberg
   title: The Koran (Al-Qur'an)
@@ -4584,18 +4402,18 @@ texts:
   date_range: 7th century source text; 1734 public-domain English translation
   word_count: 423262
   target_extraction_records: 40
-  coverage_ratio: 9.225
+  coverage_ratio: 14.225
   status: dense_draft
   priority: medium
   needs_full_extraction: false
   needs_review_or_normalization: true
-  extraction_record_count: 369
-  generated_record_count: 367
-  needs_review_count: 369
+  extraction_record_count: 569
+  generated_record_count: 567
+  needs_review_count: 569
   reviewed_count: 0
-  candidate_motif_count: 1825
-  taxonomy_ref_count: 1404
-  comparison_claim_count: 361
+  candidate_motif_count: 2916
+  taxonomy_ref_count: 2321
+  comparison_claim_count: 536
   empty_motif_record_count: 7
   extraction_paths:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l10045-l10130.yml
@@ -4660,40 +4478,240 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1406-l1456.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l14142-l14225.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l14228-l14302.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l14305-l14396.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l14398-l14465.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l14467-l14563.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l14566-l14638.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1459-l1511.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l14641-l14704.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l14707-l14802.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l14804-l14902.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l149-l156.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l14905-l14960.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l14963-l15045.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l15047-l15121.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l15123-l15206.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1514-l1566.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l15208-l15287.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l15289-l15383.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l15386-l15454.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l15457-l15549.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l15551-l15639.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l15642-l15715.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1569-l1617.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l15718-l15805.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l158-l239.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l15807-l15884.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l15886-l15961.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l15964-l16056.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l16058-l16128.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l16130-l16184.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l16186-l16261.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1620-l1670.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l16263-l16318.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l16321-l16403.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l16406-l16502.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l16504-l16585.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l16587-l16682.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l16684-l16758.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1673-l1723.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l16761-l16853.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l16855-l16924.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l16926-l17021.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l17023-l17117.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l17120-l17175.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l17177-l17234.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l17237-l17336.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1726-l1776.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l17338-l17403.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l17405-l17478.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l17480-l17545.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l17547-l17622.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l17624-l17671.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l17673-l17733.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l17735-l17807.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1779-l1828.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l17810-l17901.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l17903-l17958.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l17960-l18035.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l18037-l18105.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l18107-l18186.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l18188-l18276.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l18279-l18360.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1831-l1877.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l18362-l18436.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l18438-l18524.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l18526-l18614.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l18617-l18694.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l18697-l18768.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l18771-l18843.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1880-l1930.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l18846-l18933.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l18935-l19011.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l19014-l19078.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l19081-l19143.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l19146-l19242.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l19244-l19339.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1933-l1981.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l19342-l19366.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l19369-l19466.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l19469-l19571.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l19573-l19653.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l19655-l19741.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l19743-l19816.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l19819-l19916.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1984-l2034.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l19918-l20001.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l20003-l20084.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l20087-l20110.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l20113-l20209.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l20212-l20234.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l20236-l20305.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l20308-l20401.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2037-l2091.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l20403-l20499.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l20502-l20562.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l20565-l20642.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l20645-l20715.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l20718-l20799.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l20801-l20882.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l20884-l20904.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l20907-l20995.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2094-l2141.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l20997-l21074.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l21077-l21165.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l21167-l21181.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l21184-l21281.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l21283-l21372.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l21375-l21468.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2144-l2221.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l21470-l21482.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l21485-l21588.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l21590-l21683.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l21686-l21760.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l21763-l21861.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l21863-l21948.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l21951-l22019.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l22022-l22106.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l22108-l22189.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l22191-l22273.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2224-l2298.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l22276-l22366.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l22368-l22427.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l22430-l22511.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l22514-l22592.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l22594-l22671.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l22673-l22767.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l22770-l22861.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l22863-l22955.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l22958-l23056.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2301-l2352.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l23058-l23140.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l23142-l23202.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l23205-l23297.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l23300-l23386.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l23388-l23472.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l23474-l23556.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2355-l2402.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l23559-l23627.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l23630-l23708.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l23710-l23808.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l23810-l23866.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l23869-l23958.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l23960-l24044.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l240-l285.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l24046-l24144.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2405-l2456.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l24146-l24213.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l24216-l24303.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l24306-l24395.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l24397-l24462.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l24464-l24562.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l24565-l24635.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2459-l2507.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l24638-l24735.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l24737-l24829.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l24832-l24882.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l24885-l24979.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l24981-l25067.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l25070-l25157.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2510-l2555.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l25159-l25240.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l25242-l25306.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l25309-l25406.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l25408-l25434.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l25437-l25520.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l25522-l25578.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2558-l2605.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l25580-l25655.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l25657-l25746.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l25749-l25812.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l25815-l25887.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l25890-l26000.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l26003-l26068.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l26071-l26174.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2608-l2661.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l26176-l26233.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l26236-l26325.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l26328-l26405.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l26408-l26496.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l26498-l26587.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l26589-l26674.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2664-l2711.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l26677-l26755.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l26758-l26800.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l26803-l26899.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l26901-l26959.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l26961-l27057.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l27059-l27127.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l27130-l27229.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2714-l2762.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l27231-l27318.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l27321-l27391.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l27394-l27462.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l27465-l27555.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l27557-l27599.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l27602-l27686.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2765-l2812.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l27688-l27775.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l27777-l27836.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l27838-l27919.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l27921-l28007.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l28010-l28039.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l28042-l28140.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l28143-l28208.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2815-l2861.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l28211-l28268.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l28271-l28369.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l28371-l28433.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l28435-l28525.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l28528-l28539.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l28542-l28629.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l28631-l28720.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2864-l2911.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l287-l292.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l28723-l28821.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l28823-l28832.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l28835-l28914.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l28917-l28982.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l28985-l29042.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l29045-l29132.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l29135-l29197.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2914-l2964.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l29199-l29249.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l29252-l29335.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l29338-l29435.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l294-l377.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l29438-l29487.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l29490-l29573.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l29576-l29668.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l2967-l3017.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l29670-l29714.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l29716-l29804.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l29806-l29859.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l29861-l29947.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l29949-l30004.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l30006-l30088.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l30090-l30134.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l30137-l30241.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l3020-l3067.yml
@@ -4967,6 +4985,152 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l9949-l10043.yml
   - extractions/islamic/project-gutenberg/koran-sale/koran-sale-adam-names-eblis-garden-direction.yml
   - extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml
+- source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  source_text_id: islamic.koran.rodwell_gutenberg
+  title: The Koran (Al-Qur'an)
+  tradition: islamic
+  culture: arabic_islamic_later_translation
+  region: arabia_west_asia
+  date_range: 7th century source text; public-domain English translation
+  word_count: 203200
+  target_extraction_records: 40
+  coverage_ratio: 1.475
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 59
+  generated_record_count: 57
+  needs_review_count: 59
+  reviewed_count: 0
+  candidate_motif_count: 380
+  taxonomy_ref_count: 365
+  comparison_claim_count: 83
+  empty_motif_record_count: 1
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l1143-l1311.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l1313-l1435.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l1437-l1607.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l1609-l1839.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l1841-l2018.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l201-l285.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l2020-l2251.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l2254-l2504.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l2506-l2739.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l2741-l2973.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l287-l351.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l2975-l3208.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l3210-l3455.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l3457-l3676.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l353-l384.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l3678-l3891.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l386-l465.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l3893-l4118.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l4120-l4331.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l4333-l4512.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l4514-l4760.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l467-l517.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l4762-l4955.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l4957-l5183.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l5185-l5401.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l519-l571.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l5403-l5596.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l5598-l5788.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l573-l652.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l5790-l5982.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l5984-l6131.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l6133-l6277.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l6279-l6438.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l6440-l6654.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l654-l720.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l6656-l6879.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l67-l198.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l6881-l7048.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7050-l7238.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l722-l779.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7240-l7394.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7396-l7552.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7554-l7691.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7693-l7858.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l781-l846.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l7860-l8026.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8028-l8198.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8200-l8362.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8364-l8516.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l848-l912.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8518-l8693.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8695-l8860.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l8862-l9028.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l9030-l9193.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l914-l996.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l9195-l9356.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-rodwell/batch-motif-islamic-koran-rodwell-gutenberg-l998-l1141.yml
+  - extractions/islamic/project-gutenberg/koran/koran-rodwell-earthquake-works-judgment.yml
+  - extractions/islamic/project-gutenberg/koran/koran-rodwell-recitation-created-man.yml
+- source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  source_text_id: islamicate_folklore.arabian_nights.lang_gutenberg
+  title: The Arabian Nights Entertainments
+  tradition: islamicate_folklore
+  culture: arabic_persian_indian_folklore_later_english_edition
+  region: west_asia_north_africa_south_asia
+  date_range: medieval story-cycle traditions; 1898 public-domain selected English
+    edition
+  word_count: 111591
+  target_extraction_records: 28
+  coverage_ratio: 1.429
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 40
+  generated_record_count: 38
+  needs_review_count: 40
+  reviewed_count: 0
+  candidate_motif_count: 190
+  taxonomy_ref_count: 130
+  comparison_claim_count: 11
+  empty_motif_record_count: 0
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l10098-l10194.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l10196-l10292.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l10294-l10395.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l10397-l10512.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l10514-l10616.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l10618-l10728.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l10730-l10836.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l10838-l10945.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l10947-l11054.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l11056-l11168.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l11170-l11282.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l11284-l11406.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l11408-l11447.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l7361-l7460.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l7462-l7559.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l7561-l7674.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l7676-l7788.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l7790-l7897.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l7899-l8017.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l8019-l8146.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l8148-l8267.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l8269-l8381.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l8383-l8498.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l8500-l8603.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l8605-l8711.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l8713-l8823.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l8825-l8932.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l8934-l9035.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l9037-l9136.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l9138-l9247.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l9249-l9360.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l9362-l9470.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l9472-l9588.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l9591-l9696.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l9698-l9803.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l9805-l9898.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l9900-l9995.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/arabian-nights-lang/batch-motif-islamicate-folklore-arabian-nights-lang-gutenberg-l9997-l10096.yml
+  - extractions/islamicate-folklore/project-gutenberg/arabian-nights/arabian-nights-fisherman-genius-vessel-trick.yml
+  - extractions/islamicate-folklore/project-gutenberg/arabian-nights/arabian-nights-scheherazade-storytelling-survival-frame.yml
 - source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
   source_text_id: japanese.fairy_tales.ozaki_gutenberg
   title: Japanese Fairy Tales
@@ -5840,6 +6004,102 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l985-l1065.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9863-l9933.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9935-l10029.yml
+- source_text_path: texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md
+  source_text_id: sufi.mystics_and_saints_of_islam.field_gutenberg
+  title: Mystics and Saints of Islam
+  tradition: sufi
+  culture: islamic_sufi_biographical_collection
+  region: west_asia_iran_north_africa_south_asia
+  date_range: 1910 public-domain English study with translated Sufi biographical material
+  word_count: 58606
+  target_extraction_records: 15
+  coverage_ratio: 4.867
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 73
+  generated_record_count: 72
+  needs_review_count: 73
+  reviewed_count: 0
+  candidate_motif_count: 380
+  taxonomy_ref_count: 466
+  comparison_claim_count: 101
+  empty_motif_record_count: 2
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l1018-l1106.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l1108-l1129.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l1132-l1217.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l119-l197.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l1219-l1298.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l1300-l1396.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l1399-l1483.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l1485-l1557.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l1560-l1654.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l1656-l1756.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l1758-l1847.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l1849-l1945.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l1947-l2038.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l200-l245.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l2040-l2134.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l2136-l2245.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l2248-l2328.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l2330-l2406.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l2409-l2494.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l248-l347.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l2496-l2579.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l2581-l2665.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l2667-l2765.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l2767-l2865.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l2867-l2943.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l2946-l3022.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l3024-l3106.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l3108-l3198.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l3200-l3291.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l3293-l3383.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l3386-l3482.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l3484-l3564.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l349-l436.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l3566-l3632.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l3635-l3726.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l3728-l3758.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l3761-l3773.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l3776-l3800.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l3803-l3854.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l3857-l3955.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l3957-l4027.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l4030-l4135.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l4137-l4241.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l4243-l4353.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l4355-l4473.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l439-l536.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l4475-l4544.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l4547-l4637.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l4639-l4734.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l4736-l4797.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l4800-l4894.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l4896-l4988.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l4990-l5073.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l5075-l5159.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l5161-l5256.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l5258-l5302.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l5305-l5393.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l538-l636.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l5396-l5495.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l5497-l5540.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l5543-l5636.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l5638-l5700.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l5703-l5827.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l5829-l5934.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l5936-l5958.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l638-l672.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l675-l767.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l72-l97.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l769-l846.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l848-l918.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l921-l1016.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mystics-and-saints-of-islam-field/batch-motif-sufi-mystics-and-saints-of-islam-field-gutenberg-l99-l117.yml
+  - extractions/sufi/project-gutenberg/mystics-and-saints-of-islam/rabia-divine-love-no-room-for-world.yml
 - source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
   source_text_id: sufi.hafiz.divan.bell_gutenberg
   title: Poems from the Divan of Hafiz
@@ -5916,6 +6176,146 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l792-l859.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l861-l920.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/poems-from-divan-of-hafiz-bell/batch-motif-sufi-hafiz-divan-bell-gutenberg-l922-l1009.yml
+- source_text_path: texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md
+  source_text_id: sufi.al_ghazzali.confessions_field_gutenberg
+  title: The Confessions of Al Ghazzali
+  tradition: sufi
+  culture: persian_islamic_sufi_later_translation
+  region: iran_west_asia
+  date_range: late 11th to early 12th century source text; 1909 public-domain English
+    translation
+  word_count: 13591
+  target_extraction_records: 4
+  coverage_ratio: 6.0
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 24
+  generated_record_count: 23
+  needs_review_count: 24
+  reviewed_count: 0
+  candidate_motif_count: 76
+  taxonomy_ref_count: 105
+  comparison_claim_count: 15
+  empty_motif_record_count: 2
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l1006-l1095.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l106-l128.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l1097-l1124.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l1127-l1217.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l1219-l1307.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l1309-l1353.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l131-l148.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l1356-l1417.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l1420-l1546.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l150-l224.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l1548-l1586.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l1588-l1588.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l226-l323.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l326-l423.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l425-l457.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l460-l561.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l563-l610.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l613-l696.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l698-l792.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l70-l103.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l794-l869.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l871-l909.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/confessions-al-ghazzali-field/batch-motif-sufi-al-ghazzali-confessions-field-gutenberg-l912-l1004.yml
+  - extractions/sufi/project-gutenberg/confessions-al-ghazzali/ghazzali-sufism-experience-over-definition.yml
+- source_text_path: texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md
+  source_text_id: sufi.rumi.mesnevi_book_1_redhouse_gutenberg
+  title: The Mesnevi
+  tradition: sufi
+  culture: persian_sufi_mevlevi_later_translation
+  region: iran_anatolia
+  date_range: 13th-century Persian Sufi source text; 1881 public-domain English translation
+    of Book I
+  word_count: 127011
+  target_extraction_records: 32
+  coverage_ratio: 2.125
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 68
+  generated_record_count: 67
+  needs_review_count: 68
+  reviewed_count: 0
+  candidate_motif_count: 379
+  taxonomy_ref_count: 419
+  comparison_claim_count: 69
+  empty_motif_record_count: 2
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l100-l138.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l1128-l1255.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l1257-l1379.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l1381-l1492.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l141-l171.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l1494-l1601.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l1603-l1727.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l1729-l1825.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l173-l206.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l1827-l1939.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l1941-l2055.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l2057-l2175.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l208-l312.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l2177-l2298.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l2300-l2425.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l2427-l2553.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l2555-l2683.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l2685-l2821.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l2823-l2930.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l2932-l3050.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l3052-l3155.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l314-l412.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l3157-l3282.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l3284-l3402.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l3404-l3516.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l3518-l3642.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l3644-l3765.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l3767-l3892.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l3894-l3997.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l4000-l4141.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l414-l462.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l4143-l4277.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l4279-l4412.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l4415-l4497.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l4500-l4638.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l464-l591.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l4640-l4767.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l4769-l4816.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l4819-l4951.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l4954-l5082.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l5084-l5172.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l5175-l5280.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l5282-l5300.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l5302-l5381.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l5384-l5512.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l5514-l5633.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l5635-l5748.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l5750-l5874.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l5876-l5995.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l593-l714.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l5997-l6113.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l6115-l6223.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l6225-l6332.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l6334-l6443.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l6445-l6544.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l6546-l6649.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l6651-l6753.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l6755-l6857.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l6859-l6962.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l6964-l7025.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l7027-l7140.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l7142-l7245.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l716-l810.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l72-l98.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l813-l935.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l937-l987.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/mesnevi-book-1-redhouse/batch-motif-sufi-rumi-mesnevi-book-1-redhouse-gutenberg-l990-l1126.yml
+  - extractions/sufi/project-gutenberg/mesnevi-book-1/mesnevi-reed-flute-separation-longing.yml
 - source_text_path: texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md
   source_text_id: sufi.persian_mystics_rumi.davis_gutenberg
   title: 'The Persian Mystics: Jalálu''d-dín Rúmí'
