@@ -1817,87 +1817,140 @@ end
 def build_taxonomy(normalization, proposed_review, motif_index, timeline)
   current = "taxonomy/index.html"
   groups = normalization.fetch("canonical_motif_groups", [])
-  group_lookup = groups.to_h { |group| [group["id"].to_s, group] }
   hierarchies = normalization.fetch("hierarchies", {})
   proposed_candidates = proposed_review.fetch("genuine_new_group_candidates", [])
   family_analyses = canonical_family_analyses(normalization, motif_index, timeline)
   build_taxonomy_family_pages(family_analyses)
-  constellation = taxonomy_constellation_html(
-    normalization,
-    proposed_review,
-    current,
-    data_id: "taxonomy-constellation-data",
-    family_analyses: family_analyses
-  )
+  approved_groups = groups.reject { |group| group["id"].to_s.start_with?("_meta") }
+  group_ids = approved_groups.map { |group| group["id"].to_s }.to_set
+  motif_rows = motif_index.fetch("motifs", [])
+  motif_count = motif_index["motif_count"].to_i.positive? ? motif_index["motif_count"].to_i : motif_rows.length
+  mapped_motif_count = motif_rows.count do |motif|
+    group_id = normalized_group_id_for(motif.fetch("motif_id").to_s, normalization, group_ids)
+    group_id && group_ids.include?(group_id)
+  end
+  unmapped_motif_count = [motif_count - mapped_motif_count, 0].max
+  total_mapped_occurrences = family_analyses.sum { |analysis| analysis.fetch(:occurrence_count).to_i }
 
   hierarchy_rows = hierarchies.map do |id, data|
     refs = [data["parent_refs"], data["child_refs"]].flatten.compact
     search_text = [id, data["label"], data["description"], refs].flatten.compact.join(" ")
     <<~HTML
-      <article class="taxonomy-family searchable" data-search="#{esc(search_text)}">
+      <article class="taxonomy-family taxonomy-searchable searchable" data-search="#{esc(search_text)}">
         <div class="taxonomy-family-head">
           <span class="row-kicker">Hierarchy</span>
           <h3 id="#{esc(taxonomy_anchor(id))}">#{esc(data["label"] || titleize(id))}</h3>
         </div>
         <p>#{esc(compact_text(data["description"]))}</p>
-        <div class="taxonomy-field">
-          <strong>Parents</strong>
-          <div class="chip-row">#{taxonomy_value_chips(data["parent_refs"], group_lookup, current)}</div>
-        </div>
-        <div class="taxonomy-field">
-          <strong>Children</strong>
-          <div class="chip-row">#{taxonomy_value_chips(data["child_refs"], group_lookup, current)}</div>
+        <div class="taxonomy-card-metrics">
+          <span><b>#{format_count(Array(data["parent_refs"]).length)}</b><small>parent refs</small></span>
+          <span><b>#{format_count(Array(data["child_refs"]).length)}</b><small>child refs</small></span>
         </div>
       </article>
     HTML
   end.join
 
-  family_rows = groups.reject { |group| group["id"].to_s.start_with?("_meta") }.map do |group|
-    search_text = [
-      group["id"],
-      group["label"],
-      group["description"],
-      group["children"],
-      group["aliases"],
-      group["related"]
-    ].flatten.compact.join(" ")
-    <<~HTML
-      <article class="taxonomy-family searchable" data-search="#{esc(search_text)}">
-        <div class="taxonomy-family-head">
-          <span class="row-kicker">#{esc(group["id"])}</span>
-          <h3 id="#{esc(taxonomy_anchor(group["id"]))}"><a href="#{esc(relative_url(current, taxonomy_family_output(group["id"])))}">#{esc(group["label"])}</a></h3>
-        </div>
-        <p>#{esc(compact_text(group["description"]))}</p>
-        <div class="taxonomy-fields">
-          <div class="taxonomy-field">
-            <strong>Children</strong>
-            <div class="chip-row">#{taxonomy_value_chips(group["children"], group_lookup, current)}</div>
-          </div>
-          <div class="taxonomy-field">
-            <strong>Aliases</strong>
-            <div class="chip-row">#{taxonomy_value_chips(group["aliases"], group_lookup, current)}</div>
-          </div>
-          <div class="taxonomy-field">
-            <strong>Related Families</strong>
-            <div class="chip-row">#{taxonomy_value_chips(group["related"], group_lookup, current)}</div>
-          </div>
-        </div>
-      </article>
-    HTML
-  end.join
-
-  prototype_cards = family_analyses.first(5).map do |analysis|
+  core_family_cards = family_analyses.first(8).map do |analysis|
     group = analysis.fetch(:group)
-    body = "#{analysis.fetch(:occurrence_count)} occurrences across #{analysis.fetch(:tradition_count)} traditions; #{analysis.fetch(:child_motifs).length} mapped child motifs."
-    card(group["label"], body, href: relative_url(current, taxonomy_family_output(group["id"])), meta: "research page")
+    <<~HTML
+      <a class="taxonomy-core-card taxonomy-searchable searchable" href="#{esc(relative_url(current, taxonomy_family_output(group["id"])))}" data-search="#{esc([group["id"], group["label"], group["description"], group["aliases"]].flatten.compact.join(" "))}">
+        <span class="row-kicker">#{esc(taxonomy_cluster_definitions.find { |cluster| cluster["id"] == taxonomy_cluster_for(group) }.fetch("label", "Family"))}</span>
+        <h3>#{esc(group["label"])}</h3>
+        <p>#{esc(compact_text(group["description"])[0, 150])}</p>
+        <div class="taxonomy-card-metrics">
+          <span><b>#{format_count(analysis.fetch(:occurrence_count))}</b><small>occurrences</small></span>
+          <span><b>#{format_count(analysis.fetch(:tradition_count))}</b><small>traditions</small></span>
+          <span><b>#{format_count(analysis.fetch(:child_motifs).length)}</b><small>motifs</small></span>
+        </div>
+      </a>
+    HTML
+  end.join
+
+  cluster_sections = taxonomy_cluster_definitions.map do |cluster|
+    analyses = family_analyses
+      .select { |analysis| taxonomy_cluster_for(analysis.fetch(:group)) == cluster["id"] }
+      .sort_by { |analysis| [-analysis.fetch(:occurrence_count).to_i, -analysis.fetch(:tradition_count).to_i, analysis.fetch(:group)["label"].to_s] }
+    next if analyses.empty?
+
+    cluster_occurrences = analyses.sum { |analysis| analysis.fetch(:occurrence_count).to_i }
+    cluster_traditions = analyses.flat_map { |analysis| analysis.fetch(:traditions).keys }.uniq.length
+    cluster_motifs = analyses.sum { |analysis| analysis.fetch(:child_motifs).length }
+    rows = analyses.map do |analysis|
+      group = analysis.fetch(:group)
+      search_text = [
+        group["id"],
+        group["label"],
+        group["description"],
+        group["aliases"],
+        group["related"]
+      ].flatten.compact.join(" ")
+      <<~HTML
+        <a class="taxonomy-family-row taxonomy-searchable searchable" href="#{esc(relative_url(current, taxonomy_family_output(group["id"])))}" data-search="#{esc(search_text)}">
+          <div>
+            <span class="row-kicker">#{esc(group["id"])}</span>
+            <h3>#{esc(group["label"])}</h3>
+            <p>#{esc(compact_text(group["description"])[0, 180])}</p>
+          </div>
+          <div class="taxonomy-row-metrics">
+            <span><b>#{format_count(analysis.fetch(:occurrence_count))}</b><small>occurrences</small></span>
+            <span><b>#{format_count(analysis.fetch(:tradition_count))}</b><small>traditions</small></span>
+            <span><b>#{format_count(analysis.fetch(:child_motifs).length)}</b><small>motifs</small></span>
+          </div>
+        </a>
+      HTML
+    end.join
+
+    <<~HTML
+      <details class="taxonomy-cluster" open>
+        <summary>
+          <div>
+            <span class="row-kicker">#{format_count(analyses.length)} families</span>
+            <h3>#{esc(cluster["label"])}</h3>
+            <p>#{esc(cluster["description"])}</p>
+          </div>
+          <div class="taxonomy-row-metrics">
+            <span><b>#{format_count(cluster_occurrences)}</b><small>occurrences</small></span>
+            <span><b>#{format_count(cluster_traditions)}</b><small>traditions</small></span>
+            <span><b>#{format_count(cluster_motifs)}</b><small>motifs</small></span>
+          </div>
+        </summary>
+        <div class="taxonomy-cluster-body">#{rows}</div>
+      </details>
+    HTML
+  end.compact.join
+
+  route_cards = [
+    {
+      title: "Explore The Map",
+      meta: "visual graph",
+      href: relative_url(current, "taxonomy/constellation.html"),
+      counts: [["#{format_count(approved_groups.length)}", "families"], ["#{format_count(taxonomy_constellation_data(normalization, proposed_review, current, family_analyses)["links"].length)}", "links"]]
+    },
+    {
+      title: "Browse Family Pages",
+      meta: "research index",
+      href: relative_url(current, "taxonomy/families/index.html"),
+      counts: [["#{format_count(total_mapped_occurrences)}", "occurrences"], ["#{format_count(family_analyses.sum { |analysis| analysis.fetch(:child_motifs).length })}", "motifs"]]
+    },
+    {
+      title: "Review Pending Groups",
+      meta: "normalization",
+      href: "#review",
+      counts: [["#{format_count(proposed_candidates.length)}", "pending"], ["#{format_count(proposed_review.dig("summary", "source_candidates_folded").to_i)}", "folded"]]
+    }
+  ].map do |item|
+    <<~HTML
+      <a class="taxonomy-route-card" href="#{esc(item.fetch(:href))}">
+        <span class="row-kicker">#{esc(item.fetch(:meta))}</span>
+        <h3>#{esc(item.fetch(:title))}</h3>
+        <div class="taxonomy-card-metrics">
+          #{item.fetch(:counts).map { |value, label| "<span><b>#{esc(value)}</b><small>#{esc(label)}</small></span>" }.join}
+        </div>
+      </a>
+    HTML
   end.join
 
   proposed_rows = proposed_candidates.map do |candidate|
-    parent_links = taxonomy_value_chips(candidate["suggested_parent_group_ids"], group_lookup, current)
-    tradition_chips = Array(candidate["traditions"]).map do |tradition|
-      %(<span class="chip">#{esc(tradition_label(tradition))}</span>)
-    end.join
-    source_ids = Array(candidate["source_candidate_ids"]).join(", ")
     search_text = [
       candidate["id"],
       candidate["label"],
@@ -1906,87 +1959,90 @@ def build_taxonomy(normalization, proposed_review, motif_index, timeline)
       candidate["source_candidate_ids"]
     ].flatten.compact.join(" ")
     <<~HTML
-      <article class="taxonomy-family proposed searchable" data-search="#{esc(search_text)}">
+      <article class="taxonomy-family proposed taxonomy-searchable searchable" data-search="#{esc(search_text)}">
         <div class="taxonomy-family-head">
           <span class="row-kicker">Pending Review</span>
           <h3 id="#{esc(taxonomy_anchor(candidate["id"]))}">#{esc(candidate["label"])}</h3>
           <span class="pending-badge">#{esc(candidate["recommendation"].to_s.tr("_", " "))}</span>
         </div>
-        <p>#{esc(candidate["rationale"])}</p>
-        <div class="taxonomy-fields">
-          <div class="taxonomy-field">
-            <strong>Traditions</strong>
-            <div class="chip-row">#{tradition_chips}</div>
-          </div>
-          <div class="taxonomy-field">
-            <strong>Suggested Parents</strong>
-            <div class="chip-row">#{parent_links}</div>
-          </div>
-          <div class="taxonomy-field">
-            <strong>Draft Evidence</strong>
-            <p class="muted">#{candidate["child_motif_count"]} child motifs, #{candidate["occurrence_count"]} occurrences. Consolidates: #{esc(source_ids)}</p>
-          </div>
+        <p>#{esc(compact_text(candidate["rationale"]))}</p>
+        <div class="taxonomy-card-metrics">
+          <span><b>#{format_count(candidate["occurrence_count"])}</b><small>occurrences</small></span>
+          <span><b>#{format_count(candidate["child_motif_count"])}</b><small>child motifs</small></span>
+          <span><b>#{format_count(Array(candidate["traditions"]).length)}</b><small>traditions</small></span>
+          <span><b>#{format_count(Array(candidate["suggested_parent_group_ids"]).length)}</b><small>parents</small></span>
         </div>
       </article>
     HTML
   end.join
+  proposed_rows = %(<p class="muted">No pending proposed groups are waiting in the current review file.</p>) if proposed_rows.empty?
 
   body = <<~HTML
-    <section class="stats-grid">
-      <div class="stat"><strong>#{groups.count { |group| !group["id"].to_s.start_with?("_meta") }}</strong><span>approved families</span></div>
-      <div class="stat"><strong>#{hierarchies.length}</strong><span>review hierarchies</span></div>
-      <div class="stat"><strong>#{proposed_candidates.length}</strong><span>pending new groups</span></div>
-      <div class="stat"><strong>#{proposed_review.dig("summary", "source_candidates_folded").to_i}</strong><span>draft groups folded</span></div>
+    <section class="taxonomy-dashboard">
+      <div class="stat"><strong>#{format_count(approved_groups.length)}</strong><span>approved families</span></div>
+      <div class="stat"><strong>#{format_count(mapped_motif_count)}</strong><span>mapped motif IDs</span></div>
+      <div class="stat"><strong>#{format_count(unmapped_motif_count)}</strong><span>unmapped motif IDs</span></div>
+      <div class="stat"><strong>#{format_count(total_mapped_occurrences)}</strong><span>family occurrences</span></div>
     </section>
 
-    <section class="toolbar">
-      <input type="search" class="search-input" placeholder="Search taxonomy families, aliases, children, or proposed groups" data-search-target=".searchable">
+    <section class="taxonomy-route-grid">
+      #{route_cards}
     </section>
 
-    <section class="section">
-      <div class="section-heading">
-        <h2>Taxonomy Cluster Map</h2>
-        <a href="#{relative_url(current, "taxonomy/constellation.html")}">Open full map</a>
-      </div>
-      #{constellation}
+    <section class="toolbar taxonomy-searchbar">
+      <input type="search" class="search-input" placeholder="Search families, clusters, aliases, or review items" data-search-target=".taxonomy-searchable">
     </section>
 
     <section class="section">
       <div class="section-heading">
-        <h2>Deep Family Prototypes</h2>
+        <h2>Core Cross-Tradition Families</h2>
         <a href="#{relative_url(current, "taxonomy/families/index.html")}">View all family pages</a>
       </div>
-      <div class="card-grid">#{prototype_cards}</div>
+      <div class="taxonomy-core-grid">#{core_family_cards}</div>
     </section>
 
-    <section class="section">
+    <section class="section" id="families">
       <div class="section-heading">
-        <h2>Review Hierarchies</h2>
-        <span class="muted">Broad parent structures used during normalization</span>
+        <h2>Browse Families by Cluster</h2>
+        <span class="muted">Compact rows show evidence counts. Open a family for child motifs and passages.</span>
       </div>
-      <div class="taxonomy-grid">#{hierarchy_rows}</div>
+      <div class="taxonomy-clusters">#{cluster_sections}</div>
     </section>
 
-    <section class="section">
-      <div class="section-heading">
-        <h2>Approved Canonical Families</h2>
-        <span class="muted">Rendered from taxonomy/motif-normalization.yml</span>
-      </div>
-      <div class="taxonomy-grid">#{family_rows}</div>
-    </section>
-
-    <section class="section">
-      <div class="section-heading">
-        <h2>Proposed New Groups</h2>
-        <span class="muted">Cross-tradition candidates from the normalization draft, pending review</span>
-      </div>
+    <details class="taxonomy-secondary-section" id="review">
+      <summary>
+        <div>
+          <span class="row-kicker">Normalization</span>
+          <h2>Pending Review Queue</h2>
+          <p>Draft new groups and normalization candidates that still need human review.</p>
+        </div>
+        <div class="taxonomy-row-metrics">
+          <span><b>#{format_count(proposed_candidates.length)}</b><small>pending</small></span>
+          <span><b>#{format_count(proposed_review.dig("summary", "accepted_new_groups").to_i)}</b><small>accepted</small></span>
+          <span><b>#{format_count(proposed_review.dig("summary", "source_candidates_folded").to_i)}</b><small>folded</small></span>
+        </div>
+      </summary>
       <div class="taxonomy-grid">#{proposed_rows}</div>
-    </section>
+    </details>
+
+    <details class="taxonomy-secondary-section" id="methodology">
+      <summary>
+        <div>
+          <span class="row-kicker">Methodology</span>
+          <h2>Taxonomy Methodology</h2>
+          <p>Broad parent structures used during normalization.</p>
+        </div>
+        <div class="taxonomy-row-metrics">
+          <span><b>#{format_count(hierarchies.length)}</b><small>hierarchies</small></span>
+        </div>
+      </summary>
+      <div class="taxonomy-grid">#{hierarchy_rows}</div>
+    </details>
   HTML
 
   write_page(current, layout(
     title: "Taxonomy",
-    subtitle: "Approved canonical motif families, review hierarchies, and cross-tradition new group candidates.",
+    subtitle: "A portal into canonical motif families, clustered symbolic regions, and normalization review status.",
     current_output: current,
     body: body,
     page_class: "taxonomy-page"
@@ -2609,6 +2665,170 @@ STYLE_CSS = <<~CSS
     color: var(--brick);
     font-size: 12px;
     text-transform: uppercase;
+  }
+
+  .taxonomy-dashboard {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 12px;
+    margin: 28px 0 14px;
+  }
+
+  .taxonomy-route-grid,
+  .taxonomy-core-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+  }
+
+  .taxonomy-route-card,
+  .taxonomy-core-card,
+  .taxonomy-family-row {
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .taxonomy-route-card,
+  .taxonomy-core-card {
+    display: grid;
+    align-content: start;
+    gap: 12px;
+    min-height: 164px;
+    padding: 18px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+  }
+
+  .taxonomy-route-card {
+    min-height: 132px;
+    background: #f4f0e5;
+    border-color: #ded2ae;
+  }
+
+  .taxonomy-route-card h3,
+  .taxonomy-core-card h3,
+  .taxonomy-family-row h3,
+  .taxonomy-cluster summary h3 {
+    margin: 0;
+  }
+
+  .taxonomy-core-card p,
+  .taxonomy-family-row p,
+  .taxonomy-cluster summary p,
+  .taxonomy-secondary-section summary p {
+    margin: 6px 0 0;
+    color: var(--muted);
+  }
+
+  .taxonomy-searchbar {
+    position: sticky;
+    top: 0;
+    z-index: 8;
+    padding: 10px;
+    background: rgba(246, 247, 242, 0.92);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    backdrop-filter: blur(12px);
+  }
+
+  .taxonomy-card-metrics,
+  .taxonomy-row-metrics {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .taxonomy-card-metrics span,
+  .taxonomy-row-metrics span {
+    min-width: 90px;
+    padding: 8px 10px;
+    background: #f8f7f1;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+  }
+
+  .taxonomy-route-card .taxonomy-card-metrics span {
+    background: rgba(255, 255, 255, 0.58);
+    border-color: #ded2ae;
+  }
+
+  .taxonomy-card-metrics b,
+  .taxonomy-row-metrics b {
+    display: block;
+    color: var(--brick);
+    font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 16px;
+    line-height: 1;
+  }
+
+  .taxonomy-card-metrics small,
+  .taxonomy-row-metrics small {
+    color: var(--muted);
+    font-size: 11px;
+  }
+
+  .taxonomy-clusters {
+    display: grid;
+    gap: 12px;
+  }
+
+  .taxonomy-cluster,
+  .taxonomy-secondary-section {
+    overflow: hidden;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+  }
+
+  .taxonomy-cluster > summary,
+  .taxonomy-secondary-section > summary {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 18px;
+    align-items: center;
+    padding: 18px;
+    cursor: pointer;
+    list-style: none;
+  }
+
+  .taxonomy-cluster > summary::-webkit-details-marker,
+  .taxonomy-secondary-section > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .taxonomy-cluster-body {
+    display: grid;
+    gap: 8px;
+    padding: 0 12px 12px;
+  }
+
+  .taxonomy-family-row {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 18px;
+    align-items: center;
+    padding: 14px;
+    background: #fbfaf6;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+  }
+
+  .taxonomy-family-row:hover,
+  .taxonomy-core-card:hover,
+  .taxonomy-route-card:hover {
+    border-color: #cbb76d;
+    box-shadow: 0 12px 26px rgba(36, 31, 21, 0.10);
+  }
+
+  .taxonomy-secondary-section {
+    margin-top: 28px;
+  }
+
+  .taxonomy-secondary-section > .taxonomy-grid {
+    padding: 0 18px 18px;
   }
 
   .pending-badge {
@@ -3384,11 +3604,11 @@ STYLE_CSS = <<~CSS
       flex-direction: column;
     }
 
-    .stats-grid, .explorer-dashboard, .card-grid, .motif-cloud, .family-stats, .family-comparison-grid, .family-highlight-grid {
+    .stats-grid, .explorer-dashboard, .card-grid, .motif-cloud, .family-stats, .family-comparison-grid, .family-highlight-grid, .taxonomy-dashboard, .taxonomy-route-grid, .taxonomy-core-grid {
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    .doc-shell, .motif-detail-grid, .timeline-row, .insight-band, .explorer-controls, .explorer-row, .taxonomy-grid, .constellation-stage, .family-timeline-row, .constellation-toolbar {
+    .doc-shell, .motif-detail-grid, .timeline-row, .insight-band, .explorer-controls, .explorer-row, .taxonomy-grid, .constellation-stage, .family-timeline-row, .constellation-toolbar, .taxonomy-family-row, .taxonomy-cluster > summary, .taxonomy-secondary-section > summary {
       grid-template-columns: 1fr;
     }
 
@@ -3401,7 +3621,7 @@ STYLE_CSS = <<~CSS
   @media (max-width: 560px) {
     main { width: min(100% - 24px, 1180px); padding-top: 20px; }
     h1 { font-size: 40px; }
-    .stats-grid, .explorer-dashboard, .card-grid, .motif-cloud, .family-stats, .family-comparison-grid, .family-highlight-grid {
+    .stats-grid, .explorer-dashboard, .card-grid, .motif-cloud, .family-stats, .family-comparison-grid, .family-highlight-grid, .taxonomy-dashboard, .taxonomy-route-grid, .taxonomy-core-grid {
       grid-template-columns: 1fr;
     }
     .document { padding: 18px; }
@@ -3452,7 +3672,7 @@ APP_JS = <<~JS
     const openFamilyHashTarget = () => {
       if (!window.location.hash) return;
       const target = document.getElementById(window.location.hash.slice(1));
-      if (target && target.matches("details.family-tradition-section")) {
+      if (target && target.matches("details")) {
         target.open = true;
       }
     };
