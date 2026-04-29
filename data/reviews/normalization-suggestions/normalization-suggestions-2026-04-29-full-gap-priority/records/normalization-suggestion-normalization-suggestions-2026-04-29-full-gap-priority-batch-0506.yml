@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0506
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.poet-or-hero-receives-divine-style-honors-after-death
+  motif_id: poet_or_hero_receives_divine_style_honors_after_death
+  label: Poet or hero receives divine-style honors after death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: Postmortem honors for a hero or poet fit memorial acts that honor the
+    dead and reaffirm status.
+  cautions: If the evidence emphasizes cultic apotheosis or hero-cult worship rather
+    than funeral commemoration, royal_legitimacy, divine_intervention, or a future
+    hero-cult group may be better.
+  suggested_aliases:
+  - posthumous divine honors
+  - hero receives divine-style honors
+  - poet receives divine-style honors after death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poetic-immortality-of-heroic-pair
+  motif_id: poetic_immortality_of_heroic_pair
+  label: poetic immortality of heroic pair
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Immortality through poetic remembrance aligns with narrative or authorship
+    preserving life beyond death.
+  cautions: The heroic pair detail may also support sacred_twins or sacred_love if
+    the relationship is central; avoid treating poetic fame as literal resurrection.
+  suggested_aliases:
+  - immortality through poetry
+  - poetic fame after death
+  - heroic pair preserved in song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poetic-invocation-before-catalogue-of-battle-deaths
+  motif_id: poetic_invocation_before_catalogue_of_battle_deaths
+  label: poetic invocation before catalogue of battle deaths
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a literary convention or passage structure rather
+    than a recurring symbolic motif.
+  cautions: If the invocation itself calls divine authority into the battle narrative,
+    that evidence could be separately indexed under sacred_song, divine_intervention,
+    or storytelling_as_power.
+  suggested_aliases:
+  - poetic invocation before death catalogue
+  - catalogue invocation
+  - battle-death catalogue preface
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poetic-song-survives-death
+  motif_id: poetic_song_survives_death
+  label: Poetic song survives death
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Song or utterance surviving death fits narrative and poetic speech as
+    a vehicle of postmortem endurance.
+  cautions: In Sufi context, if the song expresses longing for the divine beloved
+    or mystical union, sacred_love or mystical_quest may be important secondary mappings.
+  suggested_aliases:
+  - song survives death
+  - poetry survives death
+  - posthumous survival through song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poison-originating-from-an-underworld-monster
+  motif_id: poison_originating_from_an_underworld_monster
+  label: Poison originating from an underworld monster
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The underworld source links the poison to chthonic danger and death-realm
+    power.
+  cautions: This may be an episode-specific object detail rather than a motif. If
+    the monster is the focus, a future monster/chaos group might fit; if poison's
+    function is weaponized death, divine_warrior or sacred_combat may fit better.
+  suggested_aliases:
+  - chthonic poison
+  - underworld monster poison
+  - poison from the underworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poisoned-weapon-causes-unintended-death-of-allies
+  motif_id: poisoned_weapon_causes_unintended_death_of_allies
+  label: poisoned weapon causes unintended death of allies
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon causing unintended allied deaths belongs with martial death
+    and the consequences of combat violence.
+  cautions: Could be too episode-specific; if the passage emphasizes fate, tragic
+    reversal, or pollution more than warfare, death_by_fate, lament_and_mourning,
+    or divine_judgment may be better.
+  suggested_aliases:
+  - poisoned weapon kills allies
+  - unintended allied death by weapon
+  - friendly death from poisoned weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.polluting-underworld-offerings-cling-until-return
+  motif_id: polluting_underworld_offerings_cling_until_return
+  label: Polluting underworld offerings cling until return
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label combines underworld travel, return, offerings, and pollution,
+    suggesting a descent-related ritual danger.
+  cautions: Needs source review for culturally specific mortuary or Ainu ritual meaning.
+    It may belong under sacred_law, sacrifice, ancestor_rites, or descent depending
+    on whether pollution, offering, or return is central.
+  suggested_aliases:
+  - clinging underworld offerings
+  - pollution from underworld offerings
+  - underworld offering pollution on return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.portrait-or-likeness-contains-the-soul
+  motif_id: portrait_or_likeness_contains_the_soul
+  label: portrait or likeness contains the soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: A likeness containing the soul is a separable-soul pattern where vital
+    presence is held outside the body.
+  cautions: If the portrait is mainly a dangerous object, sacred_treasures may be
+    a secondary mapping; if this is only a comparative classification note, review
+    for possible exclusion.
+  suggested_aliases:
+  - likeness contains soul
+  - image contains the soul
+  - portrait as soul-container
+  - soul in an image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-fame-secured-by-tomb-and-funeral-games
+  motif_id: posthumous_fame_secured_by_tomb_and_funeral_games
+  label: Posthumous fame secured by tomb and funeral games
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: high
+  rationale: Tombs and funeral games are explicit memorial rites for dead heroes and
+    social remembrance.
+  cautions: The fame component also overlaps storytelling_as_power or authorship_as_public_immortality;
+    preserve the tomb and games detail as evidence.
+  suggested_aliases:
+  - tomb and funeral games secure fame
+  - posthumous fame through funeral games
+  - heroic memorial fame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-guardianship-of-the-virtuous-dead
+  motif_id: posthumous_guardianship_of_the_virtuous_dead
+  label: Posthumous guardianship of the virtuous dead
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The virtuous dead acting as guardians function as posthumous protective
+    agents in human affairs.
+  cautions: Could merit a future ancestor/heroic dead guardianship group if recurrent.
+    If tied to cult honors, heroic_funeral_rites or ancestor_rites may be relevant
+    secondary mappings.
+  suggested_aliases:
+  - virtuous dead as guardians
+  - posthumous protective dead
+  - guardian dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch concern posthumous fame through poetry, tombs, or honors;
+  avoid conflating symbolic remembrance with literal immortality or resurrection.
+- Monster, poison, and underworld-pollution labels may be highly episode-specific
+  and should be checked against passage evidence before broad indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    underworld-offering pollution and hero-cult/posthumous guardianship distinctions.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0506
+  input_sha256: 75e3b17059a8e2f9b3e045166e92e8c3be8fa896f632a2fe140eca0a3e8717c2

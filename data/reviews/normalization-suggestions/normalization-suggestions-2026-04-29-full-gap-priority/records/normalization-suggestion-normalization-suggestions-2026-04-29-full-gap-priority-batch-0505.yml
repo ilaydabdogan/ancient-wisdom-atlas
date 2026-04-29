@@ -1,0 +1,335 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0505
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.pious-death-accompanied-by-sacred-recitation
+  motif_id: pious_death_accompanied_by_sacred_recitation
+  label: pious death accompanied by sacred recitation
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred recitation at death functions as deathbed or passage support for
+    the soul.
+  cautions: Could instead fit sacred_knowledge or storytelling_as_power if the emphasis
+    is recitation itself rather than dying passage.
+  suggested_aliases:
+  - deathbed sacred recitation
+  - pious death with recitation
+  - recitation at death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-etiology-from-a-death-at-a-ford
+  motif_id: place_name_etiology_from_a_death_at_a_ford
+  label: place-name etiology from a death at a ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Etiology and Memorial Landscape
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a landscape name explained by a remembered death
+    at a liminal crossing.
+  cautions: Single occurrence and may be dindshenchas-style local etiology rather
+    than a broad mythic motif; do not reduce to death_and_transformation unless transformation
+    is present.
+  suggested_aliases:
+  - death at a ford explains place-name
+  - toponymic death etiology
+  - ford death place-name
+  suggested_new_group:
+    id: place_name_etiology
+    label: Place-Name Etiology and Memorial Landscape
+    description: Stories explaining the origin of place-names through deaths, burials,
+      battles, animal signs, wonders, or memorable mythic events that inscribe narrative
+      memory into landscape.
+    parent_group_ids:
+    - world_center
+    related_group_ids:
+    - lament_and_mourning
+    - heroic_funeral_rites
+    - sacred_combat
+    - death_and_transformation
+    reason_existing_groups_insufficient: Existing death and funeral groups do not
+      capture the etiological function of naming places from events.
+- suggestion_id: normalization.suggestion.place-name-explained-by-violent-death
+  motif_id: place_name_explained_by_violent_death
+  label: place-name explained by violent death
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Etiology and Memorial Landscape
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is etiological naming of a place through a violent
+    death.
+  cautions: May be a passage-specific place lore artifact if not recurrent; violent
+    death could secondarily support sacred_combat or lament depending on context.
+  suggested_aliases:
+  - violent death place-name etiology
+  - place-name from violent death
+  - toponym from death
+  suggested_new_group:
+    id: place_name_etiology
+    label: Place-Name Etiology and Memorial Landscape
+    description: Stories explaining the origin of place-names through deaths, burials,
+      battles, animal signs, wonders, or memorable mythic events that inscribe narrative
+      memory into landscape.
+    parent_group_ids:
+    - world_center
+    related_group_ids:
+    - lament_and_mourning
+    - heroic_funeral_rites
+    - sacred_combat
+    - death_and_transformation
+    reason_existing_groups_insufficient: Existing death and funeral groups do not
+      capture the etiological function of naming places from events.
+- suggestion_id: normalization.suggestion.place-name-origin-from-a-death-and-burial
+  motif_id: place_name_origin_from_a_death_and_burial
+  label: place-name origin from a death and burial
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Etiology and Memorial Landscape
+  relationship: functional_variant
+  confidence: medium
+  rationale: A death and burial explain a place-name, making memorial landscape etiology
+    the primary function.
+  cautions: If the passage emphasizes burial rites rather than naming, heroic_funeral_rites
+    may be the better mapping.
+  suggested_aliases:
+  - place-name from burial
+  - death and burial toponym
+  - burial place-name etiology
+  suggested_new_group:
+    id: place_name_etiology
+    label: Place-Name Etiology and Memorial Landscape
+    description: Stories explaining the origin of place-names through deaths, burials,
+      battles, animal signs, wonders, or memorable mythic events that inscribe narrative
+      memory into landscape.
+    parent_group_ids:
+    - world_center
+    related_group_ids:
+    - lament_and_mourning
+    - heroic_funeral_rites
+    - sacred_combat
+    - death_and_transformation
+    reason_existing_groups_insufficient: Existing death and funeral groups do not
+      capture the etiological function of naming places from events.
+- suggestion_id: normalization.suggestion.place-name-origin-from-death-or-animal-sign
+  motif_id: place_name_origin_from_death_or_animal_sign
+  label: place-name origin from death or animal sign
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Etiology and Memorial Landscape
+  relationship: functional_variant
+  confidence: low
+  rationale: The label points to a place-name origin from a memorable death or omen-like
+    animal sign.
+  cautions: Composite label; animal sign may belong under dream_and_vision or animal
+    omen if evidence supports it. Human review should verify the primary function.
+  suggested_aliases:
+  - place-name from animal sign
+  - toponym from death or sign
+  - landscape etiology from omen
+  suggested_new_group:
+    id: place_name_etiology
+    label: Place-Name Etiology and Memorial Landscape
+    description: Stories explaining the origin of place-names through deaths, burials,
+      battles, animal signs, wonders, or memorable mythic events that inscribe narrative
+      memory into landscape.
+    parent_group_ids:
+    - world_center
+    related_group_ids:
+    - lament_and_mourning
+    - heroic_funeral_rites
+    - sacred_combat
+    - death_and_transformation
+    reason_existing_groups_insufficient: Existing death and funeral groups do not
+      capture the etiological function of naming places from events.
+- suggestion_id: normalization.suggestion.place-name-origin-from-violent-death-or-event
+  motif_id: place_name_origin_from_violent_death_or_event
+  label: place-name origin from violent death or event
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Etiology and Memorial Landscape
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on toponymic etiology from a violent death or notable
+    event.
+  cautions: Broad composite wording; if the source only records a local naming note,
+    it may be too specific for pattern queries.
+  suggested_aliases:
+  - place-name from violent event
+  - violent event toponym
+  - memorial place-name etiology
+  suggested_new_group:
+    id: place_name_etiology
+    label: Place-Name Etiology and Memorial Landscape
+    description: Stories explaining the origin of place-names through deaths, burials,
+      battles, animal signs, wonders, or memorable mythic events that inscribe narrative
+      memory into landscape.
+    parent_group_ids:
+    - world_center
+    related_group_ids:
+    - lament_and_mourning
+    - heroic_funeral_rites
+    - sacred_combat
+    - death_and_transformation
+    reason_existing_groups_insufficient: Existing death and funeral groups do not
+      capture the etiological function of naming places from events.
+- suggestion_id: normalization.suggestion.plague-originating-daughter-of-death
+  motif_id: plague_originating_daughter_of_death
+  label: Plague-originating daughter of death
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: low
+  rationale: A personified death-related figure causing plague fits sacred or nonhuman
+    agency behind affliction and punishment.
+  cautions: May be better under divine_intervention or a future disease/personified-death
+    group; source context is needed before treating plague as judgment.
+  suggested_aliases:
+  - daughter of death causes plague
+  - personified death as plague source
+  - death-born plague
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plant-juice-as-blood-and-soul-of-the-plant
+  motif_id: plant_juice_as_blood_and_soul_of_the_plant
+  label: plant juice as blood and soul of the plant
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: This closely parallels blood_as_life, extending life/soul substance symbolism
+    to plants.
+  cautions: Comparative abstraction may be commentary rather than passage motif; could
+    relate to sacrifice if plant fluid is ritually offered.
+  suggested_aliases:
+  - plant blood as soul
+  - sap as plant life
+  - plant juice as life-soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plurality-of-souls
+  motif_id: plurality_of_souls
+  label: plurality of souls
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a soul-anthropology concept, not clearly a narrative
+    function in existing groups.
+  cautions: Could relate to external_soul, soul_loss_restoration, afterlife_passage,
+    or comparative commentary; needs source evidence and may warrant a broader soul-anthropology
+    group if recurrent.
+  suggested_aliases:
+  - multiple souls
+  - many-soul belief
+  - divisible soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poems-as-pearls-gathered-after-death
+  motif_id: poems_as_pearls_gathered_after_death
+  label: poems as pearls gathered after death
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Poetic utterance becomes enduring treasure after death, aligning with
+    narrative or authorship as posthumous survival.
+  cautions: Highly metaphorical and possibly passage-specific; if the emphasis is
+    mystical speech, sacred_knowledge or sacred_song may be secondary.
+  suggested_aliases:
+  - poems as posthumous pearls
+  - poetry gathered after death
+  - poetic pearls after death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Celtic Irish labels form a coherent toponymic etiology cluster; consider
+  one new normalization group rather than mapping each to generic death motifs.
+- Keep death, burial, and violent event details as evidence notes unless the passage
+  shows transformation, afterlife travel, funeral rite, or sacred combat.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-assisted
+  reviewed_at: ''
+  notes: Provisional placements only; human review especially needed for place-name
+    etiologies, plurality_of_souls, and plague personification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0505
+  input_sha256: 723e01981f1c26d555ba83374a67a77cd837bbd2c3ee9f9ff9084409447a7795

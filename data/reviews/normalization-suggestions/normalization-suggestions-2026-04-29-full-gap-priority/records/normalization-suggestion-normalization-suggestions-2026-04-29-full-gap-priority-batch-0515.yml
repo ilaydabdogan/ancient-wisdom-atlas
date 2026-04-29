@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0515
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-food-taboo-whose-violation-brings-disease-or-death
+  motif_id: sacred_food_taboo_whose_violation_brings_disease_or_death
+  label: sacred food taboo whose violation brings disease or death
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A food taboo with fatal or disease consequences fits sacred law, ritual
+    prohibition, and purity rules.
+  cautions: Could also involve divine_judgment if the passage emphasizes punishment,
+    or sacrifice if blood/food offering is central.
+  suggested_aliases:
+  - fatal food taboo
+  - sacred food prohibition
+  - taboo violation causing disease or death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-immutability-of-ancestral-law
+  motif_id: sacred_immutability_of_ancestral_law
+  label: sacred immutability of ancestral law
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on ancestral law as sacred, binding, and resistant
+    to alteration.
+  cautions: May be an ethical or political claim rather than a narrative motif; review
+    whether ancestor agency or sacred sanction is explicit.
+  suggested_aliases:
+  - unchangeable ancestral law
+  - ancestral law as sacred order
+  - immutability of sacred custom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-lock-cut-for-death
+  motif_id: sacred_lock_cut_for_death
+  label: sacred lock cut for death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: low
+  rationale: Cutting a lock at death appears to be a mortuary rite marking death or
+    transition of the soul.
+  cautions: The specific Roman context may involve deity, fate, sacrifice, or funerary
+    custom; label is too terse to place confidently.
+  suggested_aliases:
+  - death lock cutting
+  - mortuary hair offering
+  - hair cutting at death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-organ-as-seat-of-soul-or-virtue
+  motif_id: sacred_organ_as_seat_of_soul_or_virtue
+  label: Sacred organ as seat of soul or virtue
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Soul Location and Body-Soul Anthropology
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns where soul, virtue, or vital essence is located in
+    the body, not externalization or afterlife travel.
+  cautions: If the organ is removed, stored, or attacked as a life-token, external_soul
+    may be better; if merely symbolic, it may be evidence detail.
+  suggested_aliases:
+  - organ as seat of the soul
+  - body part as soul seat
+  - heart or organ as virtue seat
+  suggested_new_group:
+    id: soul_location_body_anthropology
+    label: Soul Location and Body-Soul Anthropology
+    description: Beliefs or narratives locating soul, virtue, consciousness, vitality,
+      or moral essence in a body part, organ, breath, shadow, reflection, or bodily
+      substance without necessarily externalizing it from the body.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - external_soul
+    - soul_loss_restoration
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing external_soul covers life kept outside
+      the body, while this label concerns embodied soul-location or vital anthropology.
+- suggestion_id: normalization.suggestion.sacred-site-omen-synchronized-with-holy-successor-s-death
+  motif_id: sacred_site_omen_synchronized_with_holy_successor_s_death
+  label: Sacred-site omen synchronized with holy successor’s death
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: An omen at a sacred site functions as a sign revealing or confirming
+    a death event.
+  cautions: Could map to divine_intervention if the omen is caused by a saintly or
+    divine agent; over-specific phrasing should remain evidence detail.
+  suggested_aliases:
+  - death omen at sacred site
+  - synchronized sacred-site omen
+  - omen of saintly death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-space-violence-and-dying-curse
+  motif_id: sacred_space_violence_and_dying_curse
+  label: sacred-space violence and dying curse
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Violence in sacred space plus a dying curse may invoke moral reckoning
+    or ritual pollution.
+  cautions: 'Composite label: could involve sanctuary violation, curse speech, vengeance,
+    taboo breach, or episode-specific plot detail. Source evidence needed.'
+  suggested_aliases:
+  - dying curse in sacred space
+  - sacrilegious violence and curse
+  - sanctuary violence curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-tree-associated-with-graves-of-the-dead
+  motif_id: sacred_tree_associated_with_graves_of_the_dead
+  label: sacred tree associated with graves of the dead
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A sacred tree linked to graves likely belongs to mortuary or ancestor
+    relations rather than generic world-tree imagery.
+  cautions: Culturally sensitive Indigenous Australian context; avoid forcing axis_mundi
+    unless the tree connects cosmic levels. May instead fit sacred_tree_axis or death_and_transformation
+    depending on evidence.
+  suggested_aliases:
+  - grave-associated sacred tree
+  - mortuary sacred tree
+  - tree at graves of the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saintly-miracles-by-living-and-dead-masters
+  motif_id: saintly_miracles_by_living_and_dead_masters
+  label: Saintly miracles by living and dead masters
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Miracles performed through saintly masters function as supernatural intervention
+    in human affairs.
+  cautions: Dead masters may also imply ancestor/saint mediation or postmortem agency;
+    consider a future saintly intercession group if many Sufi labels recur.
+  suggested_aliases:
+  - saintly miracle
+  - miracles of living and dead saints
+  - posthumous saintly miracle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saintly-presentiment-of-approaching-death
+  motif_id: saintly_presentiment_of_approaching_death
+  label: Saintly presentiment of approaching death
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Foreknowledge or presentiment of death is an altered perception or revelatory
+    sign.
+  cautions: Could also fit sacred_knowledge if framed as saintly insight, or death_by_fate
+    if death is presented as destined.
+  suggested_aliases:
+  - foreknowledge of approaching death
+  - saintly death premonition
+  - presentiment of death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.same-type-comparative-soul-stories
+  motif_id: same_type_comparative_soul_stories
+  label: same-type comparative soul stories
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes comparative classification of stories rather than
+    a motif occurring within a source.
+  cautions: If underlying source passages include specific soul motifs, map those
+    separately under external_soul, soul_loss_restoration, or death_and_transformation.
+  suggested_aliases:
+  - comparative soul-story type
+  - same-type soul story comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and composite; suggested mappings
+  should preserve the generated label as evidence detail where retained.
+- Avoid treating death-adjacent omens, saintly miracles, or mortuary customs as afterlife
+  journey motifs unless passage evidence includes postmortem navigation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review especially recommended for culturally
+    specific mortuary and Indigenous Australian material.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0515
+  input_sha256: 55aefe6b2d6bbff5c62d3b1b2efe057587ea07505976e36f23289d904353e86a

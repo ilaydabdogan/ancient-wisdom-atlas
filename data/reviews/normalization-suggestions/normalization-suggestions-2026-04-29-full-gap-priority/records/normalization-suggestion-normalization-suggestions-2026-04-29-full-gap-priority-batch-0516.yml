@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0516
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.saviors-of-the-state-rewarded-with-crown-and-burial-honors
+  motif_id: saviors_of_the_state_rewarded_with_crown_and_burial_honors
+  label: Saviors of the state rewarded with crown and burial honors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on posthumous honors and burial recognition for public
+    saviors, matching heroic memorial and funeral rites.
+  cautions: Also involves royal_legitimacy or civic reward; verify that burial honors,
+    not only coronation or civic politics, are the core motif.
+  suggested_aliases:
+  - state saviors honored after death
+  - crown and burial honors for saviors
+  - public burial honors for heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-as-agent-of-death-and-lament
+  motif_id: sea_as_agent_of_death_and_lament
+  label: sea as agent of death and lament
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif joins death with lament, with the sea functioning as the death-dealing
+    setting or agent.
+  cautions: If the passage emphasizes water as boundary or otherworld passage, sacred_waters
+    or descent may be a secondary mapping; avoid treating all sea deaths as flood
+    motifs.
+  suggested_aliases:
+  - sea death and lament
+  - death by sea mourned
+  - sea as death agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-as-burial-place-or-barrow
+  motif_id: sea_as_burial_place_or_barrow
+  label: Sea as burial place or barrow
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The sea is imagined as a burial place or memorial container, fitting
+    funeral rite and memorialization patterns.
+  cautions: Could also belong under sacred_waters if water-boundary symbolism dominates;
+    confirm whether this is ritual burial, poetic metaphor, or episode-specific imagery.
+  suggested_aliases:
+  - sea burial
+  - sea as barrow
+  - ocean burial place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-death-by-sinking-with-a-wondrous-stone
+  motif_id: sea_death_by_sinking_with_a_wondrous_stone
+  label: Sea-death by sinking with a wondrous stone
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a highly specific death episode combining sea, sinking, and a
+    wondrous object without a clear broader function from the label alone.
+  cautions: May map to sacred_treasures if the stone’s power is central, sacred_waters
+    if sea-death symbolism is central, or lament/death_by_fate if framed as destined
+    death.
+  suggested_aliases:
+  - death by sinking with wondrous stone
+  - sinking death with magical stone
+  - sea death with sacred stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-monster-released-after-vow-of-non-return
+  motif_id: sea_monster_released_after_vow_of_non_return
+  label: Sea monster released after vow of non-return
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Release is conditioned on a binding vow, making the sacred promise or
+    prohibition the clearest reusable pattern.
+  cautions: If the sea monster primarily guards a threshold or threatens passage,
+    threshold_guardian or sacred_waters may be better secondary mappings.
+  suggested_aliases:
+  - vow of non-return
+  - monster released by oath
+  - release after binding vow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sealed-message-carrying-the-bearer-s-death-warrant
+  motif_id: sealed_message_carrying_the_bearer_s_death_warrant
+  label: Sealed message carrying the bearer’s death warrant
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Fatal Message and Death Warrant
+  relationship: functional_variant
+  confidence: medium
+  rationale: The narrative function is a carried message that secretly endangers its
+    bearer, not well captured by existing death, wisdom, vessel, or judgment groups.
+  cautions: May be a folktale/episode motif rather than a broad sacred motif; add
+    only if similar fatal-letter or sealed-command patterns recur.
+  suggested_aliases:
+  - fatal letter
+  - death warrant carried by victim
+  - sealed death message
+  suggested_new_group:
+    id: fatal_message_death_warrant
+    label: Fatal Message and Death Warrant
+    description: A message, letter, token, or sealed command secretly carries instructions
+      or power that will cause the bearer’s death or doom.
+    parent_group_ids:
+    - divine_judgment
+    - sacred_knowledge
+    related_group_ids:
+    - sacred_treasures
+    - death_by_fate
+    reason_existing_groups_insufficient: Existing groups cover sacred knowledge, judgment,
+      and power objects, but not the specific narrative mechanism of a bearer unknowingly
+      carrying their own death order.
+- suggestion_id: normalization.suggestion.sealed-vessel-containing-spirits
+  motif_id: sealed_vessel_containing_spirits
+  label: sealed vessel containing spirits
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: alias
+  confidence: high
+  rationale: The current group already includes sealed_spirit_vessel and containers
+    holding dangerous or transformative powers.
+  cautions: If the passage emphasizes exorcism or spirit expulsion rather than the
+    container, sacrifice/ritual_expulsion may be a secondary mapping.
+  suggested_aliases:
+  - sealed spirit vessel
+  - vessel containing spirits
+  - spirit-containing sealed jar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.securing-the-soul-of-the-crop
+  motif_id: securing_the_soul_of_the_crop
+  label: securing the soul of the crop
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A crop-soul rite belongs with harvest and seasonal renewal patterns already
+    represented by corn_spirit_embodied_in_harvest_animal.
+  cautions: Could also involve external_soul if the crop’s vitality is treated as
+    a separable soul-token; comparative label should be checked for source specificity.
+  suggested_aliases:
+  - crop soul secured
+  - securing crop vitality
+  - harvest soul rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-composed-epitaph-before-death
+  motif_id: self_composed_epitaph_before_death
+  label: Self-composed epitaph before death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A self-authored epitaph uses speech or writing to shape posthumous memory
+    and public immortality.
+  cautions: If it is merely an inscriptional detail, it may be too specific; if tied
+    to burial rites, heroic_funeral_rites may be secondary.
+  suggested_aliases:
+  - self-authored epitaph
+  - epitaph composed before death
+  - pre-death epitaph
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-designated-sacred-burial-place
+  motif_id: self_designated_sacred_burial_place
+  label: Self-designated sacred burial place
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns deliberate designation of a sacred burial site, fitting
+    burial rites and memorialization of a revered figure.
+  cautions: In Sufi contexts this may involve saintly presence, shrine foundation,
+    or sacred geography; review whether world_center, divine_intervention, or royal/saintly
+    legitimacy is more important.
+  suggested_aliases:
+  - chosen sacred burial place
+  - self-chosen tomb site
+  - designated holy grave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  local detail in evidence notes even when mapped to a broad group.
+- Sea-related death motifs should not be automatically mapped to flood_and_renewal
+  unless catastrophic old-order destruction and renewal are present.
+- Mortuary and memorial motifs may overlap heroic_funeral_rites, lament_and_mourning,
+  sacred_waters, and sacred geography depending on passage evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated from labels and current taxonomy
+    only; source passages should be checked before final mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0516
+  input_sha256: 3425d9354362721ccaf8a4ea42e75a32c1da30c4c53023e54260d10b2559a9b8

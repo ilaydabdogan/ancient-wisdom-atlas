@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0511
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.restless-dead-haunting-former-homes
+  motif_id: restless_dead_haunting_former_homes
+  label: restless dead haunting former homes
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Restless Dead and Haunting
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns dead persons remaining active among the living, which
+    is not well covered by afterlife navigation, ancestor rites, or death transformation.
+  cautions: Single occurrence; may be a local ghost-story detail or mortuary-pollution
+    belief rather than a broad motif. Review whether ancestor_rites or sacred_law
+    fits if ritual care or pollution is central.
+  suggested_aliases:
+  - haunting dead
+  - restless dead
+  - dead haunting former homes
+  - ghosts haunting houses
+  suggested_new_group:
+    id: restless_dead_haunting
+    label: Restless Dead and Haunting
+    description: Dead persons, ghosts, or souls remain near former homes, bodies,
+      kin, or communities and disturb, revisit, warn, or require ritual resolution
+      from the living.
+    parent_group_ids:
+    - ancestor_rites
+    - afterlife_passage
+    related_group_ids:
+    - death_and_transformation
+    - soul_loss_restoration
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover care for ancestors,
+      afterlife routes, and soul restoration, but not the recurring agency of unquiet
+      dead haunting the living world.
+- suggestion_id: normalization.suggestion.return-of-a-slain-warrior-under-the-letter-of-a-promise-or-law
+  motif_id: return_of_a_slain_warrior_under_the_letter_of_a_promise_or_law
+  label: Return of a slain warrior under the letter of a promise or law
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The return is governed by the literal force of a promise or law, making
+    binding obligation the clearest function.
+  cautions: Could also involve death_and_transformation or resurrection if the warrior
+    literally returns from death; source context needed to avoid overreading legal
+    language.
+  suggested_aliases:
+  - dead warrior returns under promise
+  - slain warrior bound by law
+  - return under oath or law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-a-supernatural-figure-to-an-underworld-country
+  motif_id: return_of_a_supernatural_figure_to_an_underworld_country
+  label: Return of a supernatural figure to an underworld country
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A movement back to an underworld country belongs with journeys into or
+    from the realm below/death.
+  cautions: If the country is an enchanted otherworld rather than the land of the
+    dead, otherworld may be a better placement. The label gives little narrative function
+    beyond travel.
+  suggested_aliases:
+  - return to underworld country
+  - supernatural return to underworld
+  - return to chthonic realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-the-dead-to-mother-earth
+  motif_id: return_of_the_dead_to_mother_earth
+  label: return of the dead to mother earth
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The dead return to an earth-mother principle, aligning death with cosmic
+    maternity and return to source.
+  cautions: Could instead be death_and_transformation if the emphasis is postmortem
+    dissolution, or ancestor_rites if ritual burial is central. Review theological
+    context carefully.
+  suggested_aliases:
+  - dead return to earth mother
+  - return to mother earth
+  - earth receives the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-the-enemy-s-body-to-kin
+  motif_id: return_of_the_enemy_s_body_to_kin
+  label: Return of the enemy's body to kin
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Returning a fallen enemy's body enables proper burial and restores social
+    or heroic order after combat.
+  cautions: If framed mainly as reconciliation or ransom rather than funeral obligation,
+    sacred_exchange or sacred_combat may be useful secondary mappings.
+  suggested_aliases:
+  - return of corpse to kin
+  - enemy body returned for burial
+  - restoration of fallen enemy to family
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-the-fallen-son-to-the-grieving-father
+  motif_id: return_of_the_fallen_son_to_the_grieving_father
+  label: return of the fallen son to the grieving father
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The focus is the dead son returned to a grieving parent, centering mourning
+    and tragic familial recognition.
+  cautions: If the passage emphasizes funeral rites or return of a body for burial,
+    heroic_funeral_rites may be preferable. Likely episode-specific.
+  suggested_aliases:
+  - fallen son returned to father
+  - dead son returned to grieving parent
+  - parental mourning over returned body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-or-renewal-of-sunlight-on-the-seventh-day
+  motif_id: return_or_renewal_of_sunlight_on_the_seventh_day
+  label: return or renewal of sunlight on the seventh day
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Renewal of sunlight on a numbered day points to sacred temporal rhythm
+    and cyclical restoration.
+  cautions: Could belong under sacred_fire if sunlight is divine light, or seasonal_cycle
+    if tied to agricultural/cosmic recurrence. Do not map to resurrection unless a
+    dead figure is restored.
+  suggested_aliases:
+  - sunlight renewed on seventh day
+  - seventh-day renewal of light
+  - return of sunlight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-stroke-capture-technique
+  motif_id: return_stroke_capture_technique
+  label: return-stroke capture technique
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a technical combat or editorial description rather
+    than a symbolic or narrative motif.
+  cautions: If source evidence shows a recurring magical capture maneuver with ritual
+    meaning, review under sacred_combat or sacred_treasures; otherwise exclude from
+    motif queries.
+  suggested_aliases:
+  - return stroke capture
+  - capture technique
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-to-non-existence
+  motif_id: return_to_non_existence
+  label: return to non-existence
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: In Sufi context, return to non-existence likely signals mystical self-effacement
+    or annihilation before the Real.
+  cautions: If explicitly about fana, annihilation_union is the canonical motif-family
+    reference; if metaphysical cosmology rather than practice, human review is needed.
+  suggested_aliases:
+  - mystical return to nonexistence
+  - self-annihilation into nonbeing
+  - return to nothingness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-to-the-lord-with-righteous-giving
+  motif_id: return_to_the_lord_with_righteous_giving
+  label: return to the Lord with righteous giving
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label links return to God with righteous giving, fitting sacred relationship
+    through offering or ethical giving.
+  cautions: Could also map to divine_judgment if focused on final reckoning, or sacred_law
+    if framed as ethical command. Source context should determine whether 'return'
+    is death, repentance, or eschatology.
+  suggested_aliases:
+  - return to God through giving
+  - righteous giving before return to the Lord
+  - charitable giving and return to God
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional; several labels contain 'return' but differ in function,
+  including underworld travel, cyclic renewal, mystical annihilation, funeral restitution,
+  and divine-human reciprocity.
+- Avoid treating return-language as resurrection unless the source evidence shows
+  restoration of a dead figure to life.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch 0511 drafted from label-level evidence only; source passages should
+    be checked for the many single-occurrence and potentially episode-specific items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0511
+  input_sha256: befe70d0254ad9b7a8a6786bb4adb1f9427cca1393d234b949ea62a34598db77

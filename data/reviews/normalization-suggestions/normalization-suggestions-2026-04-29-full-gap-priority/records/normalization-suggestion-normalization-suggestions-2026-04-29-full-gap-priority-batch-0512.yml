@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0512
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.returned-captive-meets-former-captor-again
+  motif_id: returned_captive_meets_former_captor_again
+  label: returned captive meets former captor again
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Looks like a specific episode detail rather than a reusable death, descent,
+    or afterlife motif.
+  cautions: If the encounter occurs in an underworld recognition scene or return-from-captivity
+    ordeal, source context may support descent or hero_journey instead.
+  suggested_aliases:
+  - captive reencounters captor
+  - former captive confronts captor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reversal-between-life-and-death-valuation
+  motif_id: reversal_between_life_and_death_valuation
+  label: reversal between life and death valuation
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label frames life and death as reversed or relativized opposites,
+    fitting duality better than literal death-return.
+  cautions: Daoist context may emphasize wisdom, non-action, or philosophical teaching;
+    consider sacred_knowledge if the passage is primarily didactic.
+  suggested_aliases:
+  - life death value reversal
+  - reversal of life and death values
+  - relativizing life and death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rewarded-religious-exile-and-death-for-the-faith
+  motif_id: rewarded_religious_exile_and_death_for_the_faith
+  label: Rewarded religious exile and death for the faith
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: Death endured for faith functions as surrender of life for sacred commitment,
+    with exile as ordeal.
+  cautions: Could also fit hero_journey, divine_judgment, or afterlife reward depending
+    on evidence; avoid reducing martyrdom theology to generic death motif without
+    review.
+  suggested_aliases:
+  - martyrdom and rewarded exile
+  - death for the faith
+  - religious exile rewarded after death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.riddle-observance-connected-with-dreams-divination-or-corpse-presence
+  motif_id: riddle_observance_connected_with_dreams_divination_or_corpse_presence
+  label: riddle observance connected with dreams, divination, or corpse presence
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: Dreams and divination suggest dream_and_vision, but corpse presence and
+    riddle observance make the function unclear.
+  cautions: Likely a composite comparative or ethnographic label; may belong to sacred_knowledge,
+    ancestor_rites, mortuary taboo, or exclusion depending on source evidence.
+  suggested_aliases:
+  - riddle divination with corpse presence
+  - dream divination riddle observance
+  - mortuary riddle observance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rites-granted-to-enemies-and-nameless-dead
+  motif_id: rites_granted_to_enemies_and_nameless_dead
+  label: rites granted to enemies and nameless dead
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core pattern is granting funerary rites to the dead, extending honor
+    or care even to enemies and unnamed persons.
+  cautions: If the emphasis is ancestor feeding or ritual care of all dead souls,
+    ancestor_rites may be a better or secondary group.
+  suggested_aliases:
+  - funeral rites for enemies
+  - rites for nameless dead
+  - burial honors for enemies and unknown dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-bodily-removal-and-burial-after-sacrifice
+  motif_id: ritual_bodily_removal_and_burial_after_sacrifice
+  label: ritual bodily removal and burial after sacrifice
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label describes post-sacrificial handling of a body as part of ritual
+    offering practice.
+  cautions: Burial details may be too specific; if no offering or consecration is
+    present, heroic_funeral_rites or mortuary practice review may be needed.
+  suggested_aliases:
+  - burial after sacrifice
+  - post-sacrificial burial
+  - ritual removal of sacrificial body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-combat-with-a-spirit-through-a-floor-opening
+  motif_id: ritual_combat_with_a_spirit_through_a_floor_opening
+  label: ritual combat with a spirit through a floor opening
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A floor opening acts as a threshold to a spirit realm, and the spirit
+    is engaged at that boundary.
+  cautions: Could instead fit sacred_combat, ritual_expulsion under sacrifice, or
+    shamanic descent if the passage emphasizes combat, expulsion, or underworld access.
+  suggested_aliases:
+  - spirit combat at floor opening
+  - ritual battle through threshold opening
+  - combat with underfloor spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-detention-or-recovery-of-a-departing-soul
+  motif_id: ritual_detention_or_recovery_of_a_departing_soul
+  label: ritual detention or recovery of a departing soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: ritual_variant
+  confidence: high
+  rationale: Detaining or recovering a departing soul directly matches soul recall,
+    soul loss, and ritual restoration patterns.
+  cautions: If the soul is captured as an external life-token rather than healed or
+    recalled, external_soul may be a secondary mapping.
+  suggested_aliases:
+  - calling back the soul
+  - recovery of departing soul
+  - soul recall ritual
+  - detaining the departing soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-expulsion-of-a-misidentified-spirit
+  motif_id: ritual_expulsion_of_a_misidentified_spirit
+  label: Ritual expulsion of a misidentified spirit
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Existing normalization folds spirit expulsion and exorcism variants under
+    sacrifice as ritual expulsion.
+  cautions: The misidentification element may be culturally specific and should be
+    reviewed; divine_intervention or sacred_law may fit if emphasis is spirit classification
+    or taboo rather than expulsion.
+  suggested_aliases:
+  - misidentified spirit expulsion
+  - ritual expulsion of spirit
+  - exorcism of mistaken spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-fire-used-after-spirit-expulsion
+  motif_id: ritual_fire_used_after_spirit_expulsion
+  label: Ritual fire used after spirit expulsion
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fire is used ritually as a purifying or sealing force after spirit removal,
+    fitting sacred_fire.
+  cautions: If the main function is exorcism rather than fire symbolism, sacrifice/ritual_expulsion
+    should be primary with sacred_fire secondary.
+  suggested_aliases:
+  - purifying fire after exorcism
+  - post-expulsion ritual fire
+  - fire sealing after spirit expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several labels combine mortuary, spirit-expulsion, and ritual-protection functions;
+  source evidence should determine primary versus secondary grouping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch contains mostly single-occurrence death/ritual-spirit labels; over-specific
+    episode labels should remain excluded or evidence-only unless recurrence is shown.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0512
+  input_sha256: 03a48fc4cf98649f415fa6df43442c54b1856526ff82ddb225e57def57e4afa6

@@ -7,12 +7,12 @@ This report lists motif IDs that are present in the motif occurrence index but n
 ## Summary
 
 - Indexed motif IDs: 9072
-- Already mapped: 3594
-- Unmapped: 5478
+- Already mapped: 3675
+- Unmapped: 5397
 
 | Review Bucket | Unmapped Motifs |
 | --- | ---: |
-| Death, Descent, Afterlife, And Ancestors | 406 |
+| Death, Descent, Afterlife, And Ancestors | 325 |
 | Journey, Quest, Exile, And Homecoming | 437 |
 | Divine Presence, Ritual, Sacrifice, And Purity | 378 |
 | Wisdom, Speech, Dream, Vision, And Revelation | 396 |
@@ -166,50 +166,26 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `music_shaping_soul_and_body` | music shaping soul and body | 1 | greek |
 | `mysterious_one_eyed_warrior_breaks_the_hero_s_sword_before_death` | Mysterious one-eyed warrior breaks the hero’s sword before death | 1 | norse |
 | `nature_spirits_classified_by_habitat` | nature spirits classified by habitat | 1 | roman |
-| `necessary_spiritual_companion_to_a_prophetic_figure` | necessary spiritual companion to a prophetic figure | 1 | sufi |
 | `negotiated_respite_through_return_of_captured_goods_and_captives` | negotiated respite through return of captured goods and captives | 1 | celtic_irish |
-| `nested_concealment_of_a_soul_in_remote_containers` | Nested concealment of a soul in remote containers | 1 | comparative |
-| `news_from_the_living_consoles_the_dead` | news from the living consoles the dead | 1 | greek |
-| `night_descent_of_a_goddess_commanding_battle` | night descent of a goddess commanding battle | 1 | greek |
 | `nightly_death_watch_of_one_among_three_companions` | nightly death-watch of one among three companions | 1 | celtic_irish |
-| `no_return_after_death` | no return after death | 1 | sufi |
-| `no_return_after_departure` | No return after departure | 1 | sufi |
 | `no_witness_may_return_alive` | no witness may return alive | 1 | celtic_irish |
-| `nocturnal_spirit_causing_dreams_and_apparitions` | nocturnal spirit causing dreams and apparitions | 1 | greek_roman |
-| `non_return_condition_for_removed_disease` | non-return condition for removed disease | 1 | comparative |
-| `nonhuman_nature_and_spirits_subordinated_to_a_chosen_servant` | Nonhuman nature and spirits subordinated to a chosen servant | 1 | islamic |
-| `oath_witnessed_by_an_underworld_deity` | oath witnessed by an underworld deity | 1 | greek |
 | `old_age_approaching_the_underworld` | old age approaching the underworld | 1 | greek |
-| `ominous_dream_foretelling_royal_death` | ominous dream foretelling royal death | 1 | hindu |
-| `ominous_hearing_of_public_lament_before_recognition_of_death` | ominous hearing of public lament before recognition of death | 1 | greek |
-| `ominous_signs_foretelling_death_in_battle` | Ominous signs foretelling death in battle | 1 | celtic_irish |
-| `ominous_wedding_signs_preceding_death` | ominous wedding signs preceding death | 1 | roman |
 | `one_death_dooms_a_dependent_family` | One death dooms a dependent family | 1 | hindu |
 | `ordeal_like_one_foot_posture_against_evil_spirits` | ordeal-like one-foot posture against evil spirits | 1 | comparative |
 | `origin_of_death` | origin of death | 1 | indigenous_australian |
 | `orphaned_child_deprived_by_the_father_s_death` | orphaned child deprived by the father’s death | 1 | greek |
 | `people_claiming_descent_or_kindred_from_the_sun` | people claiming descent or kindred from the sun | 1 | comparative |
 | `permanent_indwelling_of_a_divine_spirit_in_a_human_body` | Permanent indwelling of a divine spirit in a human body | 1 | comparative |
-| `pious_death_accompanied_by_sacred_recitation` | pious death accompanied by sacred recitation | 1 | sufi |
 | `place_name_etiology_from_a_death_at_a_ford` | place-name etiology from a death at a ford | 1 | celtic_irish |
 | `place_name_explained_by_violent_death` | place-name explained by violent death | 1 | celtic_irish |
 | `place_name_origin_from_a_death_and_burial` | place-name origin from a death and burial | 1 | celtic_irish |
 | `place_name_origin_from_death_or_animal_sign` | place-name origin from death or animal sign | 1 | celtic_irish |
 | `place_name_origin_from_violent_death_or_event` | place-name origin from violent death or event | 1 | celtic_irish |
 | `plague_originating_daughter_of_death` | Plague-originating daughter of death | 1 | finnish_karelian |
-| `plant_juice_as_blood_and_soul_of_the_plant` | plant juice as blood and soul of the plant | 1 | comparative |
 | `plurality_of_souls` | plurality of souls | 1 | comparative |
-| `poems_as_pearls_gathered_after_death` | poems as pearls gathered after death | 1 | sufi |
-| `poet_or_hero_receives_divine_style_honors_after_death` | Poet or hero receives divine-style honors after death | 1 | greek |
-| `poetic_immortality_of_heroic_pair` | poetic immortality of heroic pair | 1 | roman |
 | `poetic_invocation_before_catalogue_of_battle_deaths` | poetic invocation before catalogue of battle deaths | 1 | roman |
-| `poetic_song_survives_death` | Poetic song survives death | 1 | sufi |
 | `poison_originating_from_an_underworld_monster` | Poison originating from an underworld monster | 1 | roman |
-| `poisoned_weapon_causes_unintended_death_of_allies` | poisoned weapon causes unintended death of allies | 1 | greek_roman |
 | `polluting_underworld_offerings_cling_until_return` | Polluting underworld offerings cling until return | 1 | ainu |
-| `portrait_or_likeness_contains_the_soul` | portrait or likeness contains the soul | 1 | comparative |
-| `posthumous_fame_secured_by_tomb_and_funeral_games` | Posthumous fame secured by tomb and funeral games | 1 | greek |
-| `posthumous_guardianship_of_the_virtuous_dead` | Posthumous guardianship of the virtuous dead | 1 | greek |
 | `posthumous_saint_controls_tomb_architecture` | posthumous saint controls tomb architecture | 1 | sufi |
 | `prayer_for_death_or_supernatural_removal_to_avoid_unwanted_marriage` | Prayer for death or supernatural removal to avoid unwanted marriage | 1 | greek |
 | `prayer_for_visible_death_in_daylight` | Prayer for visible death in daylight | 1 | greek |
@@ -217,46 +193,14 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `prohibition_or_bond_connected_to_death` | prohibition or bond connected to death | 1 | celtic_irish |
 | `promised_afterlife_pleasures_contrasted_with_present_enjoyment` | promised afterlife pleasures contrasted with present enjoyment | 1 | sufi |
 | `protected_survivor_returned_to_halt_a_warrior_s_fury` | protected survivor returned to halt a warrior's fury | 1 | celtic_irish |
-| `proud_warrior_death_within_fellowship` | proud warrior death within fellowship | 1 | celtic_irish |
-| `public_cremation_and_urn_burial_of_an_honored_hero` | public cremation and urn burial of an honored hero | 1 | greek |
-| `punishment_in_hell_fire` | punishment in hell-fire | 1 | islamic |
-| `pure_dead_aid_the_living` | pure dead aid the living | 1 | sufi |
-| `quest_for_immortality_through_fame_and_offspring` | Quest for immortality through fame and offspring | 1 | greek |
-| `radiance_spreading_from_holy_tomb` | radiance spreading from holy tomb | 1 | sufi |
 | `rain_making_through_vegetation_spirit_representation` | rain-making through vegetation spirit representation | 1 | comparative |
-| `recall_and_recovery_of_lost_soul` | recall and recovery of lost soul | 1 | comparative |
-| `recalling_the_absent_crop_soul` | recalling the absent crop soul | 1 | comparative |
-| `red_sky_as_sign_of_supernatural_death` | red sky as sign of supernatural death | 1 | comparative |
-| `reflection_as_external_soul` | reflection as external soul | 1 | comparative |
-| `reforged_ancestral_weapon_arms_the_hero` | Reforged ancestral weapon arms the hero | 1 | norse |
-| `refusal_of_returning_evil_for_evil` | refusal of returning evil for evil | 1 | greek |
 | `refusal_to_believe_a_holy_son_s_death_before_spiritual_fulfillment` | Refusal to believe a holy son's death before spiritual fulfillment | 1 | buddhist |
-| `refusal_to_honor_the_human_ancestor` | Refusal to honor the human ancestor | 1 | islamic |
 | `rejected_courtship_invitation_answered_with_death_figures` | rejected courtship invitation answered with death figures | 1 | finnish_karelian |
-| `rejected_warner_and_inherited_ancestral_religion` | rejected warner and inherited ancestral religion | 1 | islamic |
 | `released_animal_as_possible_remover_of_death` | released animal as possible remover of death | 1 | comparative |
-| `remorse_after_a_brother_s_death` | remorse after a brother's death | 1 | hindu |
-| `renowned_tragic_grave_of_heroine` | renowned tragic grave of heroine | 1 | celtic_irish |
 | `restless_dead_haunting_former_homes` | restless dead haunting former homes | 1 | greek_roman |
-| `return_of_a_slain_warrior_under_the_letter_of_a_promise_or_law` | Return of a slain warrior under the letter of a promise or law | 1 | celtic_irish |
-| `return_of_a_supernatural_figure_to_an_underworld_country` | Return of a supernatural figure to an underworld country | 1 | celtic_irish |
-| `return_of_the_dead_to_mother_earth` | return of the dead to mother earth | 1 | hindu |
-| `return_of_the_enemy_s_body_to_kin` | Return of the enemy's body to kin | 1 | greek |
-| `return_of_the_fallen_son_to_the_grieving_father` | return of the fallen son to the grieving father | 1 | roman |
-| `return_or_renewal_of_sunlight_on_the_seventh_day` | return or renewal of sunlight on the seventh day | 1 | greek |
 | `return_stroke_capture_technique` | return-stroke capture technique | 1 | celtic_irish |
-| `return_to_non_existence` | return to non-existence | 1 | sufi |
-| `return_to_the_lord_with_righteous_giving` | return to the Lord with righteous giving | 1 | islamic |
 | `returned_captive_meets_former_captor_again` | returned captive meets former captor again | 1 | greek |
-| `reversal_between_life_and_death_valuation` | reversal between life and death valuation | 1 | daoist |
-| `rewarded_religious_exile_and_death_for_the_faith` | Rewarded religious exile and death for the faith | 1 | islamic |
 | `riddle_observance_connected_with_dreams_divination_or_corpse_presence` | riddle observance connected with dreams, divination, or corpse presence | 1 | comparative |
-| `rites_granted_to_enemies_and_nameless_dead` | rites granted to enemies and nameless dead | 1 | hindu |
-| `ritual_bodily_removal_and_burial_after_sacrifice` | ritual bodily removal and burial after sacrifice | 1 | islamic |
-| `ritual_combat_with_a_spirit_through_a_floor_opening` | ritual combat with a spirit through a floor opening | 1 | comparative |
-| `ritual_detention_or_recovery_of_a_departing_soul` | ritual detention or recovery of a departing soul | 1 | comparative |
-| `ritual_expulsion_of_a_misidentified_spirit` | Ritual expulsion of a misidentified spirit | 1 | ainu |
-| `ritual_fire_used_after_spirit_expulsion` | Ritual fire used after spirit expulsion | 1 | comparative |
 | `ritual_morning_service_interrupted_by_death` | ritual morning service interrupted by death | 1 | hindu |
 | `ritual_noise_and_striking_to_drive_away_spirits` | Ritual noise and striking to drive away spirits | 1 | comparative |
 | `ritual_noise_used_to_drive_away_spirits` | ritual noise used to drive away spirits | 1 | comparative |
@@ -277,26 +221,13 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `river_personified_as_divine_or_ancestral_daughter` | river personified as divine or ancestral daughter | 1 | hindu |
 | `royal_and_priestly_taboos_around_the_soul` | royal and priestly taboos around the soul | 1 | comparative |
 | `sacred_construction_by_ancestral_figures` | Sacred construction by ancestral figures | 1 | islamic |
-| `sacred_food_taboo_whose_violation_brings_disease_or_death` | sacred food taboo whose violation brings disease or death | 1 | comparative |
-| `sacred_immutability_of_ancestral_law` | sacred immutability of ancestral law | 1 | greek |
 | `sacred_lock_cut_for_death` | sacred lock cut for death | 1 | roman |
 | `sacred_organ_as_seat_of_soul_or_virtue` | Sacred organ as seat of soul or virtue | 1 | comparative |
-| `sacred_site_omen_synchronized_with_holy_successor_s_death` | Sacred-site omen synchronized with holy successor’s death | 1 | sufi |
 | `sacred_space_violence_and_dying_curse` | sacred-space violence and dying curse | 1 | roman |
 | `sacred_tree_associated_with_graves_of_the_dead` | sacred tree associated with graves of the dead | 1 | indigenous_australian |
-| `saintly_miracles_by_living_and_dead_masters` | Saintly miracles by living and dead masters | 1 | sufi |
-| `saintly_presentiment_of_approaching_death` | Saintly presentiment of approaching death | 1 | sufi |
 | `same_type_comparative_soul_stories` | same-type comparative soul stories | 1 | comparative |
-| `saviors_of_the_state_rewarded_with_crown_and_burial_honors` | Saviors of the state rewarded with crown and burial honors | 1 | greek |
-| `sea_as_agent_of_death_and_lament` | sea as agent of death and lament | 1 | celtic_irish |
-| `sea_as_burial_place_or_barrow` | Sea as burial place or barrow | 1 | norse |
 | `sea_death_by_sinking_with_a_wondrous_stone` | Sea-death by sinking with a wondrous stone | 1 | finnish_karelian |
-| `sea_monster_released_after_vow_of_non_return` | Sea monster released after vow of non-return | 1 | finnish_karelian |
 | `sealed_message_carrying_the_bearer_s_death_warrant` | Sealed message carrying the bearer’s death warrant | 1 | greek |
-| `sealed_vessel_containing_spirits` | sealed vessel containing spirits | 1 | sufi |
-| `securing_the_soul_of_the_crop` | securing the soul of the crop | 1 | comparative |
-| `self_composed_epitaph_before_death` | Self-composed epitaph before death | 1 | greek |
-| `self_designated_sacred_burial_place` | Self-designated sacred burial place | 1 | sufi |
 | `self_inflicted_death_to_escape_coercion_or_humiliation` | self-inflicted death to escape coercion or humiliation | 1 | celtic_irish |
 | `serial_deadly_bridegroom` | serial deadly bridegroom | 1 | islamicate_folklore |
 | `severed_head_that_speaks_after_death_or_near_death` | severed head that speaks after death or near death | 1 | islamicate_folklore |
@@ -367,23 +298,11 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `transferred_corpse_causing_mistaken_guilt` | transferred corpse causing mistaken guilt | 1 | islamicate_folklore |
 | `transmigration_of_an_ancient_law_giver_s_soul_into_a_later_leader` | Transmigration of an ancient law-giver’s soul into a later leader | 1 | sufi |
 | `transmigration_of_the_soul_with_final_recompense` | Transmigration of the soul with final recompense | 1 | islamic |
-| `treacherous_killing_of_sleeping_hero_followed_by_dying_retaliation` | Treacherous killing of sleeping hero followed by dying retaliation | 1 | norse |
-| `treasure_obtained_from_a_perilous_underworld_like_place` | treasure obtained from a perilous underworld-like place | 1 | islamicate_folklore |
-| `tree_as_site_or_medium_of_soul_detention_and_restoration` | Tree as site or medium of soul detention and restoration | 1 | comparative |
-| `tree_branch_as_sign_of_death_and_funerary_presence` | tree branch as sign of death and funerary presence | 1 | roman |
-| `tree_inhabited_by_souls_or_spirits` | Tree inhabited by souls or spirits | 1 | comparative |
-| `tree_or_plant_bound_maiden_spirit` | tree- or plant-bound maiden spirit | 1 | norse |
-| `tree_spirit_embodied_in_tree_and_effigy` | tree-spirit embodied in tree and effigy | 1 | comparative |
 | `tripartite_ordering_of_the_soul_and_lives` | tripartite ordering of the soul and lives | 1 | greek |
 | `tripartite_soul_or_three_inner_principles` | Tripartite soul or three inner principles | 1 | greek |
 | `tyranny_as_disease_or_death_of_government` | tyranny as disease or death of government | 1 | greek |
-| `unavoidable_heroic_mortality` | Unavoidable heroic mortality | 1 | greek |
 | `unaware_supplication_for_one_already_dead` | unaware supplication for one already dead | 1 | roman |
-| `unburied_dead_later_granted_burial_by_gods` | Unburied dead later granted burial by gods | 1 | greek |
-| `unburied_ghost_requesting_burial_rites` | unburied ghost requesting burial rites | 1 | greek |
-| `uncared_for_dead_lacking_funerary_rites` | uncared-for dead lacking funerary rites | 1 | greek |
 | `uncertainty_of_death_place_or_burial_place` | Uncertainty of death-place or burial-place | 1 | sufi |
-| `underworld_animal_as_seed_of_future_cattle_raid` | underworld animal as seed of future cattle raid | 1 | celtic_irish |
 | `underworld_army_joins_the_battle_of_the_living_gods` | underworld army joins the battle of the living gods | 1 | norse |
 | `underworld_imprisonment_of_divine_beings` | underworld imprisonment of divine beings | 1 | greek_roman |
 | `underworld_or_cave_originating_nightmare_beings` | Underworld or cave-originating nightmare beings | 1 | norse |

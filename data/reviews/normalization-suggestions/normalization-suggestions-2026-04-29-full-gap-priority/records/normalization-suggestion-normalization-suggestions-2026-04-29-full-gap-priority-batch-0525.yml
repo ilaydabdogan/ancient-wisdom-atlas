@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0525
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.transferred-corpse-causing-mistaken-guilt
+  motif_id: transferred_corpse_causing_mistaken_guilt
+  label: transferred corpse causing mistaken guilt
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a specific plot mechanism involving a corpse and
+    mistaken guilt rather than a durable death or afterlife motif.
+  cautions: Could be retained as episode evidence if the source shows a recurring
+    false-accusation or corpse-transfer tale type; current taxonomy has no such group.
+  suggested_aliases:
+  - corpse transfer causing false accusation
+  - mistaken guilt caused by moved corpse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transmigration-of-an-ancient-law-giver-s-soul-into-a-later-leader
+  motif_id: transmigration_of_an_ancient_law_giver_s_soul_into_a_later_leader
+  label: Transmigration of an ancient law-giver’s soul into a later leader
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns movement of a soul between persons, but existing soul
+    groups focus on loss/restoration or externalization, not reincarnation or transmigration.
+  cautions: May be doctrinally sensitive in Sufi/Islamicate context; verify whether
+    this is literal transmigration, spiritual inheritance, typology, or metaphor before
+    indexing.
+  suggested_aliases:
+  - soul transmigration into later leader
+  - lawgiver soul reborn in ruler
+  - spiritual inheritance of ancient lawgiver
+  suggested_new_group:
+    id: transmigration_reincarnation
+    label: Transmigration and Reincarnation
+    description: A soul, identity, or vital essence passes into a later body, person,
+      lineage, or renewed embodiment, sometimes with moral, spiritual, or political
+      significance.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - soul_loss_restoration
+    - sacred_knowledge
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing soul groups cover detachable/external
+      soul and soul-loss healing, but not continuity of a soul across successive embodied
+      lives or leaders.
+- suggestion_id: normalization.suggestion.transmigration-of-the-soul-with-final-recompense
+  motif_id: transmigration_of_the_soul_with_final_recompense
+  label: Transmigration of the soul with final recompense
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Final recompense fits divine judgment, while transmigration points to
+    a reincarnation/soul-continuity pattern not currently represented.
+  cautions: Doctrinally sensitive and possibly polemical or philosophical; confirm
+    whether the source asserts transmigration literally or uses it as commentary.
+  suggested_aliases:
+  - soul transmigration and recompense
+  - metempsychosis with final judgment
+  - reincarnation with moral recompense
+  suggested_new_group:
+    id: transmigration_reincarnation
+    label: Transmigration and Reincarnation
+    description: A soul, identity, or vital essence passes into a later body, person,
+      lineage, or renewed embodiment, sometimes with moral, spiritual, or political
+      significance.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - divine_judgment
+    - afterlife_passage
+    - soul_loss_restoration
+    reason_existing_groups_insufficient: Existing death and afterlife groups do not
+      clearly cover repeated embodiment or metempsychosis before final moral reckoning.
+- suggestion_id: normalization.suggestion.treacherous-killing-of-sleeping-hero-followed-by-dying-retaliation
+  motif_id: treacherous_killing_of_sleeping_hero_followed_by_dying_retaliation
+  label: Treacherous killing of sleeping hero followed by dying retaliation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The episode centers on heroic death, betrayal, and final retaliation,
+    fitting the warrior-death and sacred combat field better than afterlife travel.
+  cautions: Highly episode-specific; preserve under warrior death or heroic combat
+    evidence rather than promoting as a canonical motif.
+  suggested_aliases:
+  - sleeping hero treacherously slain
+  - dying hero retaliates
+  - treacherous heroic death with final vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-obtained-from-a-perilous-underworld-like-place
+  motif_id: treasure_obtained_from_a_perilous_underworld_like_place
+  label: treasure obtained from a perilous underworld-like place
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: The narrative function is entry into a dangerous underworld-like space
+    to obtain a valuable object, a descent/ordeal variant.
+  cautions: If the emphasis is the treasure's power rather than the journey, secondary
+    indexing under sacred_treasures may be useful.
+  suggested_aliases:
+  - underworld treasure quest
+  - treasure from perilous underworld
+  - boon obtained below
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-as-site-or-medium-of-soul-detention-and-restoration
+  motif_id: tree_as_site_or_medium_of_soul_detention_and_restoration
+  label: Tree as site or medium of soul detention and restoration
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: high
+  rationale: The core function is a soul detained and restored; the tree is the medium
+    or location for that soul-loss pattern.
+  cautions: If the tree is cosmological or mediates between worlds, add secondary
+    relation to axis_mundi; do not collapse all tree imagery into sacred tree/axis.
+  suggested_aliases:
+  - soul detained in tree
+  - tree medium for soul restoration
+  - tree as soul-restoration site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-branch-as-sign-of-death-and-funerary-presence
+  motif_id: tree_branch_as_sign_of_death_and_funerary_presence
+  label: tree branch as sign of death and funerary presence
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A branch marking death or funerary presence functions as a mortuary sign
+    or rite rather than a cosmic tree motif.
+  cautions: May be a culturally specific funerary custom or object detail; if merely
+    antiquarian commentary, exclude from broad motif queries.
+  suggested_aliases:
+  - funerary branch sign
+  - death-marking tree branch
+  - branch as mortuary presence marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-inhabited-by-souls-or-spirits
+  motif_id: tree_inhabited_by_souls_or_spirits
+  label: Tree inhabited by souls or spirits
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Souls or spirits inhabiting trees suggests postmortem or spirit embodiment
+    in vegetal form, already close to mapped tree-embodiment death transformations.
+  cautions: If the tree functions as a world axis, shrine, or spirit dwelling rather
+    than transformed dead, axis_mundi or otherworld may be better secondary mappings.
+  suggested_aliases:
+  - souls inhabiting trees
+  - spirit-inhabited tree
+  - dead embodied in trees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-or-plant-bound-maiden-spirit
+  motif_id: tree_or_plant_bound_maiden_spirit
+  label: tree- or plant-bound maiden spirit
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A maiden spirit bound to a tree or plant fits enchanted spirit-being
+    and otherworldly nature-person motifs more than death journey proper.
+  cautions: Could also be shapeshifter or death_and_transformation if the maiden is
+    transformed into the plant, or sacred_love if the episode centers on bride/lover
+    rescue.
+  suggested_aliases:
+  - plant-bound maiden spirit
+  - tree-bound maiden
+  - maiden spirit inhabiting tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-spirit-embodied-in-tree-and-effigy
+  motif_id: tree_spirit_embodied_in_tree_and_effigy
+  label: tree-spirit embodied in tree and effigy
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A spirit embodied in a tree and effigy fits spirit embodiment and enchanted
+    nature-being patterns already near otherworld/wood-spirit labels.
+  cautions: If the effigy is ritually manipulated, sacred_law or sacrifice may be
+    relevant; if the tree is a cosmic connector, axis_mundi may be secondary.
+  suggested_aliases:
+  - tree spirit in effigy
+  - tree-spirit embodiment
+  - spirit embodied in tree and image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch combine tree imagery with soul or spirit embodiment;
+  reviewers should distinguish cosmological world-tree functions from local spirit-dwelling,
+  postmortem transformation, and soul-restoration functions.
+- Transmigration/reincarnation labels are not well covered by current groups and need
+  culturally sensitive source review before adding a new group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed especially for
+    transmigration and culturally specific funerary/tree-spirit labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0525
+  input_sha256: 3cc66fb86d9da6941acbc5fa8cb22dc73118086650cd6c5855eb815f9725e7a3
