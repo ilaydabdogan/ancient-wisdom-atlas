@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0382
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-denied-single-combat-and-slain-by-ambush
+  motif_id: hero_denied_single_combat_and_slain_by_ambush
+  label: hero denied single combat and slain by ambush
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label concerns warrior combat norms and a dishonorable killing, fitting
+    ritualized heroic warfare better than general death motifs.
+  cautions: Single occurrence and episode-specific; may be evidence under warrior
+    honor or ambush rather than a durable motif.
+  suggested_aliases:
+  - denied single combat
+  - ambush killing of hero
+  - violation of heroic combat code
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-depends-on-nonhuman-ally-as-guide
+  motif_id: hero_depends_on_nonhuman_ally_as_guide
+  label: hero depends on nonhuman ally as guide
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A nonhuman guide aiding the hero is best treated as supernatural or sacred
+    guidance in human affairs.
+  cautions: If the ally is an animal companion, tutelary spirit, or avatar with a
+    specific narrative role, a more precise future animal-helper or guide group may
+    be warranted.
+  suggested_aliases:
+  - nonhuman guide
+  - supernatural ally as guide
+  - hero guided by nonhuman helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-dies-by-an-enemy-s-arrow
+  motif_id: hero_dies_by_an_enemy_s_arrow
+  label: Hero dies by an enemy's arrow
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The motif is a heroic warrior death by a weapon in combat, fitting the
+    existing divine_warrior group’s death-in-battle cluster.
+  cautions: Arrow detail is likely too specific for canonical promotion unless it
+    recurs; could instead map to death_by_fate if destiny or prophecy is emphasized.
+  suggested_aliases:
+  - hero slain by arrow
+  - warrior death by enemy missile
+  - death in battle by arrow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-disables-invulnerable-attacker-with-special-cast
+  motif_id: hero_disables_invulnerable_attacker_with_special_cast
+  label: Hero disables invulnerable attacker with special cast
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero overcoming an otherwise invulnerable opponent through a special
+    combat technique fits sacred or heroic combat.
+  cautions: The special cast may be a culturally specific martial episode; preserve
+    as granular evidence rather than canonicalizing without recurrence.
+  suggested_aliases:
+  - special cast defeats invulnerable foe
+  - hero overcomes invulnerable attacker
+  - combat technique disables protected enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-fights-alone-against-overwhelming-numbers
+  motif_id: hero_fights_alone_against_overwhelming_numbers
+  label: Hero fights alone against overwhelming numbers
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: The solitary hero standing against a host is a clear heroic combat role
+    within the divine_warrior/sacred combat field.
+  cautions: If the passage emphasizes tactical delay, defense of a boundary, or sacrificial
+    self-offering, secondary mappings may be useful.
+  suggested_aliases:
+  - lone hero against many
+  - single warrior against host
+  - heroic last stand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-fleeing-monstrous-pursuers-with-severed-monster-head
+  motif_id: hero_fleeing_monstrous_pursuers_with_severed_monster_head
+  label: hero fleeing monstrous pursuers with severed monster head
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes an escape after a monster-slaying ordeal, fitting
+    the trial-and-return arc of a heroic journey.
+  cautions: Highly episode-specific; if the severed head functions as a power object,
+    sacred_treasures may be a secondary placement.
+  suggested_aliases:
+  - flight after monster slaying
+  - hero escapes monstrous pursuers
+  - severed monster head as escape burden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-frees-companions-by-killing-enchanters
+  motif_id: hero_frees_companions_by_killing_enchanters
+  label: hero frees companions by killing enchanters
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The hero defeats hostile supernatural or magical opponents to liberate
+    companions, a combat-based rescue function.
+  cautions: Could also belong under otherworld or threshold_guardian if the enchanters
+    primarily guard an enchanted realm or threshold.
+  suggested_aliases:
+  - hero liberates companions
+  - killing enchanters to free captives
+  - combat rescue from enchantment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-harassing-and-reducing-a-marching-host
+  motif_id: hero_harassing_and_reducing_a_marching_host
+  label: hero harassing and reducing a marching host
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes heroic war action against an army, fitting ritualized
+    warfare and raid/host conflict patterns.
+  cautions: May be a tactical battle detail rather than a symbolic motif unless tied
+    to heroic ordeal, boundary defense, or sacred war stakes.
+  suggested_aliases:
+  - hero harasses army
+  - single hero reduces host
+  - attrition of marching host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-host-as-builder-of-the-communal-hall
+  motif_id: hero_host_as_builder_of_the_communal_hall
+  label: hero-host as builder of the communal hall
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: role_variant
+  confidence: medium
+  rationale: The focus is construction of a communal hall by a heroic host, aligning
+    better with sacred craft and building than combat.
+  cautions: If the passage emphasizes hospitality, social order, or feast-hosting
+    rather than construction, this may need human review or a social-bonding placement.
+  suggested_aliases:
+  - heroic builder of communal hall
+  - communal hall construction
+  - host builds hall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-incapacitated-by-hidden-magical-attack
+  motif_id: hero_incapacitated_by_hidden_magical_attack
+  label: hero incapacitated by hidden magical attack
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A concealed magical attack disabling a hero is a supernatural combat
+    tactic within heroic warfare.
+  cautions: If the key function is enchantment, curse, or divine intervention rather
+    than battle, source evidence may support a different placement.
+  suggested_aliases:
+  - hidden magical attack disables hero
+  - hero struck by concealed magic
+  - supernatural ambush in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence heroic combat details; suggested
+  placements favor existing broad groups and preserve granular labels as evidence.
+- Avoid promoting episode-specific weapon, ambush, or tactical details unless recurrence
+  across traditions is demonstrated.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify passage
+    function and whether any labels are merely episode summaries.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0382
+  input_sha256: e8fbc21d03323d0fa74fb54631986357cb98f5f8ab5cf7811aed10c3b609a5f5

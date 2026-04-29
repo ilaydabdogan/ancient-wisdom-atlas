@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0389
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroic-challenge-answered-by-opposing-champion
+  motif_id: heroic_challenge_answered_by_opposing_champion
+  label: Heroic challenge answered by opposing champion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A formal challenge answered by a champion fits ritualized heroic combat
+    or single-combat conventions.
+  cautions: Single occurrence; may be an episode-specific battle detail unless the
+    challenge-response structure recurs.
+  suggested_aliases:
+  - champion answers challenge
+  - formal heroic challenge
+  - single combat challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-combat-against-a-weapon-proof-monster
+  motif_id: heroic_combat_against_a_weapon_proof_monster
+  label: heroic combat against a weapon-proof monster
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Heroic battle against an unusually invulnerable monster fits sacred combat
+    against chaos-like or demonic adversaries.
+  cautions: If the emphasis is the monster's invulnerability rather than cosmic-order
+    combat, a future monster-slaying or invulnerable adversary group may be useful.
+  suggested_aliases:
+  - combat with invulnerable monster
+  - weapon-proof adversary
+  - monster-slaying ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-companion-pair-ready-to-die-for-one-another
+  motif_id: heroic_companion_pair_ready_to_die_for_one_another
+  label: heroic companion pair ready to die for one another
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may involve heroic loyalty, sacrificial devotion, companion-pair
+    duality, or tragic death in battle.
+  cautions: Existing groups cover sibling/twin pairs, sacrifice, and sacred combat,
+    but not clearly sworn companions or heroic friendship; source context is needed.
+  suggested_aliases:
+  - heroic friendship unto death
+  - companion loyalty in battle
+  - mutual readiness for death
+  suggested_new_group:
+    id: heroic_companionship
+    label: Heroic Companionship and Loyal Pair
+    description: Heroic companions, comrades, or sworn friends whose loyalty, mutual
+      protection, rivalry, or shared fate shapes an ordeal, battle, death, or quest.
+    parent_group_ids:
+    - sacred_combat
+    - hero_journey
+    related_group_ids:
+    - sacrifice
+    - duality
+    - sacred_twins
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Sacred twins and sibling pairs require kinship
+      or doubled birth, while sacrifice and sacred combat do not preserve the companion-loyalty
+      structure.
+- suggestion_id: normalization.suggestion.heroic-compensation-for-failed-watch
+  motif_id: heroic_compensation_for_failed_watch
+  label: Heroic compensation for failed watch
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests repair for a failed guard duty, but its narrative
+    or ritual function is unclear.
+  cautions: Could be legal compensation, honor repair, heroic obligation, or a passage-specific
+    plot detail; do not map without evidence.
+  suggested_aliases:
+  - compensation for failed guard duty
+  - reparation for failed watch
+  - heroic honor compensation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-contests-between-opposed-peoples
+  motif_id: heroic_contests_between_opposed_peoples
+  label: heroic contests between opposed peoples
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Contests between rival peoples align with ritualized conflict and competitive
+    warfare as a socially significant ordeal.
+  cautions: If contests are nonviolent wisdom, song, or craft competitions, sacred_knowledge
+    or sacred_craft may be better secondary mappings.
+  suggested_aliases:
+  - contests between rival peoples
+  - intergroup heroic contest
+  - competitive ordeal between peoples
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-courage-proven-in-battle
+  motif_id: heroic_courage_proven_in_battle
+  label: heroic courage proven in battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Battle as proof of heroic courage fits the warrior-hero role within sacred
+    or heroic combat traditions.
+  cautions: Broad ethical characterization; may be too generic unless tied to a specific
+    ordeal, vow, or sacred battle context.
+  suggested_aliases:
+  - valor proven in battle
+  - heroic courage in combat
+  - battlefield proof of heroism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-defender-as-moving-tower
+  motif_id: heroic_defender_as_moving_tower
+  label: heroic defender as moving tower
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This appears to be a specific martial simile or epithet rather than a
+    stable narrative motif.
+  cautions: May be literary imagery; exclude if it only describes heroic stature or
+    battlefield defense metaphorically.
+  suggested_aliases:
+  - defender like a tower
+  - tower-like hero
+  - heroic tower simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-deliverance-from-food-snatching-persecutors
+  motif_id: heroic_deliverance_from_food_snatching_persecutors
+  label: heroic deliverance from food-snatching persecutors
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: A hero delivering victims from persecuting beings can fit combat or protective
+    intervention by a heroic figure.
+  cautions: Highly specific; if the food-snatching persecutors are monsters, spirits,
+    or harpies, threshold_guardian or divine_intervention may also apply.
+  suggested_aliases:
+  - heroic deliverance from persecutors
+  - rescue from food-stealing tormentors
+  - hero rescues victims from predators
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-duel-watched-by-opposing-armies
+  motif_id: heroic_duel_watched_by_opposing_armies
+  label: Heroic duel watched by opposing armies
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A public duel between champions before armies is a classic ritualized
+    single-combat pattern within warfare.
+  cautions: Preserve the public witness and representative-combat function as evidence
+    detail.
+  suggested_aliases:
+  - champion duel before armies
+  - single combat before opposing hosts
+  - public heroic duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-duel-with-boasts-and-exchanged-missiles
+  motif_id: heroic_duel_with_boasts_and_exchanged_missiles
+  label: heroic duel with boasts and exchanged missiles
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Boasting and missile exchange are formalized duel conventions within
+    heroic warfare.
+  cautions: Could be over-specific if merely a scene formula; retain boasts and missile
+    exchange as granular evidence rather than canonical motif.
+  suggested_aliases:
+  - boastful heroic duel
+  - formal duel with exchanged missiles
+  - combat boasting before duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence heroic-combat labels; suggested mappings
+  favor existing sacred_combat or divine_warrior groups while preserving over-specific
+  duel conventions as evidence details.
+- Consider whether a durable subgroup for heroic friendship/companionship is warranted
+  if similar companion-loyalty motifs recur across batches.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional automated normalization suggestions; human review needed for
+    single-occurrence and potentially formulaic battle-scene labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0389
+  input_sha256: 8323e276a7fbc113317c693898245768590255a01ea0e2770dad1bdc23b610d0

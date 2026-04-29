@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0373
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.female-warrior-assumes-battlefield-command
+  motif_id: female_warrior_assumes_battlefield_command
+  label: female warrior assumes battlefield command
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: Battlefield command by a warrior figure fits the warfare and heroic-combat
+    field better than divine-warrior order-making.
+  cautions: Single occurrence; may be an episode-specific role detail unless the female
+    warrior role recurs across sources.
+  suggested_aliases:
+  - female warrior commander
+  - woman warrior assumes command
+  - battlefield command by female warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-warrior-challenger-slain-by-hero
+  motif_id: female_warrior_challenger_slain_by_hero
+  label: Female warrior challenger slain by hero
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A warrior challenger killed by a hero is a single-combat or heroic-combat
+    episode.
+  cautions: Gender and challenger status may be locally significant; preserve as evidence
+    detail and avoid reducing it to generic combat if source emphasizes gender inversion
+    or heroic honor.
+  suggested_aliases:
+  - female warrior challenger
+  - hero slays female warrior
+  - woman challenger slain in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-warrior-leading-cavalry
+  motif_id: female_warrior_leading_cavalry
+  label: female warrior leading cavalry
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: Leadership of cavalry is a martial command role within battle narrative.
+  cautions: Likely too specific for a canonical motif; cavalry detail should remain
+    local evidence unless recurring.
+  suggested_aliases:
+  - female cavalry leader
+  - woman warrior leads cavalry
+  - female mounted-warrior command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-warrior-routs-multiple-male-opponents
+  motif_id: female_warrior_routs_multiple_male_opponents
+  label: Female warrior routs multiple male opponents
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The motif describes exceptional battlefield prowess in heroic combat.
+  cautions: The gendered reversal may be important but is not enough by itself to
+    require a new group from one occurrence.
+  suggested_aliases:
+  - female warrior routs men
+  - woman warrior defeats multiple opponents
+  - female battle prowess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feud-violence-against-associated-or-innocent-groups
+  motif_id: feud_violence_against_associated_or_innocent_groups
+  label: Feud violence against associated or innocent groups
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: Feud violence may belong with warfare, vengeance, or moral disorder,
+    but the label does not show a sacred or ritual combat function.
+  cautions: Could be a social-violence detail, vengeance-cycle motif, divine judgment
+    theme, or passage artifact; source context is needed.
+  suggested_aliases:
+  - feud violence against innocents
+  - collective feud retaliation
+  - violence against associated groups
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-eyed-hero-and-monster-boar-combat
+  motif_id: fiery_eyed_hero_and_monster_boar_combat
+  label: fiery-eyed hero and monster boar combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Heroic combat against a monstrous animal fits the sacred-combat/heroic
+    ordeal field.
+  cautions: Fiery eyes and boar identity are important local details; if the boar
+    functions as chaos monster or sacred animal, secondary review may be needed.
+  suggested_aliases:
+  - hero combats monster boar
+  - fiery-eyed hero in combat
+  - monster boar combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-manifestation-of-powerful-weapons
+  motif_id: fiery_manifestation_of_powerful_weapons
+  label: Fiery manifestation of powerful weapons
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Powerful weapons manifesting fiery force are best treated as power objects
+    with sacred or supernatural potency.
+  cautions: If the passage emphasizes fire as divine presence rather than the weapon-object,
+    sacred_fire may be a secondary fit.
+  suggested_aliases:
+  - fiery supernatural weapon
+  - weapon radiating fire
+  - powerful fiery weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-radiance-as-battle-terror
+  motif_id: fiery_radiance_as_battle_terror
+  label: fiery radiance as battle terror
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Radiant fiery terror in battle functions as supernatural warrior power
+    that overwhelms opponents.
+  cautions: Could also belong under sacred_fire if the radiance is primarily divine
+    light, or sacred_combat if no divine/supernatural function is explicit.
+  suggested_aliases:
+  - battle terror through fiery radiance
+  - fiery battle aura
+  - radiant warrior terror
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-weapon-neutralized-by-hero-s-arrows
+  motif_id: fiery_weapon_neutralized_by_hero_s_arrows
+  label: fiery weapon neutralized by hero’s arrows
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a combat exchange where a hero counters a supernatural
+    weapon.
+  cautions: Likely episode-specific; if weapon potency is central, sacred_treasures
+    or sacred_fire may be useful secondary indexing.
+  suggested_aliases:
+  - hero neutralizes fiery weapon
+  - fiery weapon countered by arrows
+  - supernatural weapon defeated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-promise-fulfilled-after-heroic-success
+  motif_id: filial_promise_fulfilled_after_heroic_success
+  label: filial promise fulfilled after heroic success
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A promise fulfilled after heroic success fits the return/completion phase
+    of a heroic quest or ordeal.
+  cautions: If the source emphasizes filial duty more than the heroic arc, sacred_exchange
+    or sacred_law may be better secondary placements.
+  suggested_aliases:
+  - hero fulfills filial promise
+  - filial vow completed after victory
+  - promise fulfilled after heroic success
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence combat details; suggested placements
+  favor broad review groups and preserve granular labels as evidence rather than canonical
+  motifs.
+- Female-warrior labels may warrant a future role-focused subgroup only if they recur
+  across traditions with consistent narrative function.
+- Fiery weapon/radiance labels overlap sacred_combat, divine_warrior, sacred_fire,
+  and sacred_treasures; final placement should follow whether the passage emphasizes
+  combat function, divine light/fire, or the weapon as a power object.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggestion
+  reviewed_at: ''
+  notes: Provisional suggestions only; source context recommended for low-confidence
+    feud and over-specific combat labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0373
+  input_sha256: eeeaf6083e39a5f5a3a3adea35e4417804f4ab8effdf651e082021b8c7d653c1

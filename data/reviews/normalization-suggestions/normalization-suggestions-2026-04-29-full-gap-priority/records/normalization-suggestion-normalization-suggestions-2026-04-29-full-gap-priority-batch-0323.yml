@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0323
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-water-used-in-ritual-fasting
+  motif_id: sacred_water_used_in_ritual_fasting
+  label: Sacred water used in ritual fasting
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on water used ritually for purification or transition,
+    fitting the sacred_waters group better than flood or descent motifs.
+  cautions: Single occurrence; if fasting is the primary motif rather than water,
+    sacred_exchange or sacrifice may be a secondary fit.
+  suggested_aliases:
+  - ritual fasting with sacred water
+  - sacred water in ascetic practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-waters-and-ritual-transition
+  motif_id: sacred_waters_and_ritual_transition
+  label: Sacred waters and ritual transition
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: high
+  rationale: Sacred water functioning as a medium of ritual transition is directly
+    within the sacred_waters group description.
+  cautions: Do not narrow to passage_through_waters unless the evidence includes a
+    crossing or boundary passage.
+  suggested_aliases:
+  - ritual transition through sacred waters
+  - sacred water as transition medium
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-waters-as-contest-stake-and-oath-medium
+  motif_id: sacred_waters_as_contest_stake_and_oath_medium
+  label: Sacred waters as contest stake and oath medium
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The oath-medium function points to binding sacred agreement, while the
+    waters are the ritual substance or stake.
+  cautions: Composite label; if the passage emphasizes the water's sacred geography
+    more than oath-binding, sacred_waters may be a secondary or better placement.
+  suggested_aliases:
+  - sacred water as oath medium
+  - oath by sacred waters
+  - sacred waters as contest prize
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-waters-at-lake-source-and-river-confluence
+  motif_id: sacred_waters_at_lake_source_and_river_confluence
+  label: sacred waters at lake source and river confluence
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Lake sources and river confluences are sacred water locations and fit
+    the broader sacred_waters group.
+  cautions: May be a sacred-place detail rather than a recurring motif; preserve location
+    specificity as evidence rather than promoting it.
+  suggested_aliases:
+  - sacred river confluence
+  - sacred lake source
+  - holy waters at confluence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-waters-from-divine-source
+  motif_id: sacred_waters_from_divine_source
+  label: sacred waters from divine source
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Waters deriving sanctity from a divine source belong in the sacred_waters
+    symbolic field.
+  cautions: If the evidence concerns creation from primordial waters, cosmic_origin
+    may be a secondary mapping; if it concerns divine action, divine_intervention
+    may be relevant.
+  suggested_aliases:
+  - divinely sourced sacred waters
+  - holy waters from divine origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-waters-gathered-for-consecration
+  motif_id: sacred_waters_gathered_for_consecration
+  label: sacred waters gathered for consecration
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: high
+  rationale: Gathering sacred waters for consecration is a ritual use of holy water
+    and fits sacred_waters.
+  cautions: If consecration establishes kingship, temple space, or covenantal order,
+    royal_legitimacy, world_center, or covenant may be secondary mappings.
+  suggested_aliases:
+  - consecration with sacred waters
+  - holy waters for consecration
+  - gathered waters for ritual consecration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saint-as-near-friend-of-god-with-miraculous-gifts
+  motif_id: saint_as_near_friend_of_god_with_miraculous_gifts
+  label: Saint as near friend of God with miraculous gifts
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Miraculous gifts mediated through a saint can be indexed as divine action
+    in human affairs through a favored agent.
+  cautions: Sufi wali/friend-of-God language is culturally specific; avoid reducing
+    sainthood to generic magic. If the focus is interior proximity to God, mystical_quest
+    may be secondary.
+  suggested_aliases:
+  - friend of God with miraculous gifts
+  - saintly charisma
+  - wali as divine friend
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saintly-miracle-as-divine-favour-rather-than-personal-act
+  motif_id: saintly_miracle_as_divine_favour_rather_than_personal_act
+  label: Saintly miracle as divine favour rather than personal act
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif explicitly frames the miracle as divine agency rather than
+    the saint's independent power, fitting divine_intervention.
+  cautions: This may be theological commentary on miracle causation rather than a
+    narrative motif; review source context before broad pattern indexing.
+  suggested_aliases:
+  - miracle as divine favour
+  - saintly miracle by divine agency
+  - miracle not personal power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sanctuary-at-altar-in-danger
+  motif_id: sanctuary_at_altar_in_danger
+  label: sanctuary at altar in danger
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Seeking or violating safety at an altar concerns sacred asylum, taboo,
+    and ritual-legal protection around holy space.
+  cautions: If the main function is a protected sacred place rather than law, world_center
+    or sacred_treasures/altar evidence may be secondary; single occurrence may be
+    episode-specific.
+  suggested_aliases:
+  - altar sanctuary
+  - asylum at altar
+  - danger at sacred altar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sanctuary-boundary-with-nonviolence-and-nature-taboos
+  motif_id: sanctuary_boundary_with_nonviolence_and_nature_taboos
+  label: sanctuary boundary with nonviolence and nature taboos
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A sanctuary boundary governed by nonviolence and nature taboos fits sacred
+    law, ritual prohibition, and protected sacred order.
+  cautions: Could also relate to world_center or threshold/boundary motifs if the
+    passage emphasizes sacred geography rather than legal taboo.
+  suggested_aliases:
+  - sacred sanctuary boundary
+  - nonviolence taboo in sanctuary
+  - nature taboos in holy precinct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are sacred-water variants; map to sacred_waters unless
+  evidence specifically shows flood catastrophe, primordial creation waters, or water-crossing
+  initiation.
+- Saintly miracle labels should be reviewed with care because they may encode Sufi
+  theological distinctions about divine agency and sainthood rather than standalone
+  narrative motifs.
+- Sanctuary and altar labels currently fit sacred_law, but a future protected-sanctuary
+  or sacred-precinct subgroup could be considered if many similar labels recur.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review should confirm source functions
+    for composite and single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0323
+  input_sha256: 699e9e5895f10c53d03798d3e66312adee4ef9e59dd01e2758fd43f01d88c28d

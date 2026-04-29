@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0343
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.abandoned-survivor-among-monsters
+  motif_id: abandoned_survivor_among_monsters
+  label: abandoned survivor among monsters
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A survivor abandoned among monsters reads as an ordeal episode in a heroic
+    journey or survival arc.
+  cautions: Single occurrence and monster-land setting may be episode-specific; if
+    the place is an enchanted realm, otherworld could be secondary.
+  suggested_aliases:
+  - abandoned hero among monsters
+  - monster-land survival ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-survivor-rescued-from-a-hostile-monster-land
+  motif_id: abandoned_survivor_rescued_from_a_hostile_monster_land
+  label: Abandoned survivor rescued from a hostile monster-land
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Abandonment, rescue, and hostile monster territory form a peril-and-return
+    episode within a hero journey.
+  cautions: Could also fit otherworld if the monster-land is a distinct enchanted
+    or nonordinary realm; preserve rescue detail as evidence.
+  suggested_aliases:
+  - rescued survivor from monster-land
+  - abandoned hero rescued from hostile land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-wounded-hero-in-isolation
+  motif_id: abandoned_wounded_hero_in_isolation
+  label: Abandoned wounded hero in isolation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A wounded hero abandoned in isolation is a trial or liminal ordeal in
+    the heroic arc.
+  cautions: May be too contextual if it only describes one scene; if isolation leads
+    to healing or transformation, initiation may be a secondary mapping.
+  suggested_aliases:
+  - wounded hero abandoned
+  - isolated wounded hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absent-or-shameful-warrior-blamed-for-communal-ruin
+  motif_id: absent_or_shameful_warrior_blamed_for_communal_ruin
+  label: Absent or shameful warrior blamed for communal ruin
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The label concerns a warrior's failed or shameful role in a community's
+    martial catastrophe.
+  cautions: Could be moral blame, tragic plot commentary, or civic judgment rather
+    than a sacred-combat motif; review source evidence.
+  suggested_aliases:
+  - shameful warrior blamed for ruin
+  - absent warrior blamed for communal disaster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aerial-conveyance-to-witness-battlefield-devastation
+  motif_id: aerial_conveyance_to_witness_battlefield_devastation
+  label: aerial conveyance to witness battlefield devastation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernormal aerial conveyance enabling a witness to see battlefield devastation
+    suggests divine or supernatural guidance in human affairs.
+  cautions: If the core is battlefield witnessing rather than supernatural transport,
+    sacred_combat or dream_and_vision may be better; single occurrence is highly contextual.
+  suggested_aliases:
+  - supernatural aerial battlefield witness
+  - aerial vision of battlefield devastation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aerial-transport-of-royal-heroes
+  motif_id: aerial_transport_of_royal_heroes
+  label: aerial transport of royal heroes
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Aerial transport of heroes is likely supernatural aid or guidance, especially
+    when linked to royal figures.
+  cautions: If the emphasis is royal status, secondary relation to royal_legitimacy
+    may apply; if merely vehicle description, may be too specific for pattern queries.
+  suggested_aliases:
+  - supernatural aerial transport of heroes
+  - divine conveyance of royal heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-hero-recalls-lost-youthful-power
+  motif_id: aged_hero_recalls_lost_youthful_power
+  label: aged hero recalls lost youthful power
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif centers on retrospective recognition of lost heroic strength,
+    a lament-like reflection on decline.
+  cautions: May be psychological characterization rather than a mythic motif; if the
+    hero regains power, initiation or divine_intervention may fit better.
+  suggested_aliases:
+  - hero laments lost youth
+  - aged hero remembers former strength
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-warrior-maintaining-battlefield-strength
+  motif_id: aged_warrior_maintaining_battlefield_strength
+  label: aged warrior maintaining battlefield strength
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: An aged warrior still preserving battle strength belongs to the heroic-warrior
+    role within sacred or epic combat.
+  cautions: Could be a character trait rather than a motif; map only if the passage
+    frames age-defying strength as narratively significant.
+  suggested_aliases:
+  - old warrior retains strength
+  - aged hero maintains battle power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-warrior-s-final-battle-for-communal-honour
+  motif_id: aged_warrior_s_final_battle_for_communal_honour
+  label: aged warrior's final battle for communal honour
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A final battle undertaken for communal honor is a clear heroic-warrior
+    combat and duty motif.
+  cautions: May also relate to sacrifice if the battle is knowingly self-surrendering
+    or death-bound; preserve age and communal honor as evidence details.
+  suggested_aliases:
+  - old warrior's last battle
+  - final battle for communal honor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agonistic-debate-as-combat
+  motif_id: agonistic_debate_as_combat
+  label: agonistic debate as combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Debate framed as combat is a contest of speech, knowledge, and persuasive
+    power rather than literal warfare.
+  cautions: If the passage is only rhetorical description, it may be a literary artifact;
+    a future speech-contest group may be warranted if many parallels recur.
+  suggested_aliases:
+  - debate as combat
+  - verbal agon as battle
+  - speech contest as combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence epic-warrior scene descriptions;
+  preserve local detail and avoid promoting them without recurrence.
+- Monster-land and aerial-transport labels may need source review to decide whether
+  the primary function is hero ordeal, otherworld setting, divine aid, or vehicle
+  detail.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for episode-specific
+    warrior and transport labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0343
+  input_sha256: 792ea6b2915efcc26452398ead04a0d4f7041cdb5c4142988ba9aeb9b587acb8

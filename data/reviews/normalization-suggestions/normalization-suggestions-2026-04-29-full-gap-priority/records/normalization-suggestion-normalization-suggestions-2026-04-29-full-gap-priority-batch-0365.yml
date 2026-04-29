@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0365
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.embassy-before-war
+  motif_id: embassy_before_war
+  label: Embassy before war
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A pre-war embassy is a formal negotiation or challenge episode within
+    a larger warfare sequence.
+  cautions: Single occurrence; may be a diplomatic plot detail rather than a durable
+    sacred-combat motif unless ritualized or consequential.
+  suggested_aliases:
+  - war embassy
+  - pre-battle embassy
+  - diplomatic mission before war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.empty-vehicle-as-sign-of-absent-hero
+  motif_id: empty_vehicle_as_sign_of_absent_hero
+  label: empty vehicle as sign of absent hero
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be an omen, battlefield recognition sign, lament cue, or
+    passage-specific narrative detail.
+  cautions: Needs source context before mapping to lament_and_mourning, dream_and_vision,
+    hero_journey, or sacred_combat; likely over-specific if it does not recur.
+  suggested_aliases:
+  - empty chariot as sign of absent hero
+  - abandoned vehicle indicates missing hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enamored-foreign-helper-aids-the-hero
+  motif_id: enamored_foreign_helper_aids_the_hero
+  label: Enamored foreign helper aids the hero
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A helper motivated by love fits the broader love-as-quest-driver pattern,
+    even when embedded in heroic conflict.
+  cautions: Could alternatively be hero_journey if the helper's role in the quest
+    matters more than love; avoid implying sacred love if the episode is purely political
+    or erotic plot mechanics.
+  suggested_aliases:
+  - love-motivated helper
+  - foreign beloved aids hero
+  - enamored helper motif
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-burning-weapon
+  motif_id: enchanted_burning_weapon
+  label: enchanted burning weapon
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: high
+  rationale: An enchanted weapon is a power object; the burning quality adds sacred-fire
+    imagery without making it world-destroying fire.
+  cautions: If the weapon's fire mediates divine presence or sacrifice, sacred_fire
+    may be a secondary mapping; if mainly battle-focused, divine_warrior may be related.
+  suggested_aliases:
+  - burning magical weapon
+  - fiery enchanted weapon
+  - flaming power weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-weapon-causing-incurable-wound
+  motif_id: enchanted_weapon_causing_incurable_wound
+  label: enchanted weapon causing incurable wound
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on a supernatural weapon whose special power causes
+    an extraordinary wound.
+  cautions: Could also relate to death_by_fate if the wound fulfills destiny, or lament_and_mourning
+    if the incurable wound drives tragic recognition.
+  suggested_aliases:
+  - magical weapon causing incurable wound
+  - fatal enchanted weapon
+  - supernatural wounding weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-weapon-duel
+  motif_id: enchanted_weapon_duel
+  label: enchanted weapon duel
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A duel using enchanted weapons belongs primarily to ritually charged
+    or supernatural combat.
+  cautions: Index weapon details under sacred_treasures only if the objects themselves
+    are foregrounded beyond the duel.
+  suggested_aliases:
+  - magical weapon duel
+  - duel with enchanted weapons
+  - supernatural arms duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-weapons-subdue-supernatural-adversaries
+  motif_id: enchanted_weapons_subdue_supernatural_adversaries
+  label: enchanted weapons subdue supernatural adversaries
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Subduing supernatural foes with empowered weapons fits sacred combat
+    against nonhuman or cosmic adversaries.
+  cautions: May also be indexed under sacred_treasures when the weapon's origin or
+    power is the focal motif.
+  suggested_aliases:
+  - magical weapons defeat supernatural foes
+  - enchanted arms subdue demons
+  - divine weapons overcome supernatural adversaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encircling-barrier-that-prevents-enemy-escape
+  motif_id: encircling_barrier_that_prevents_enemy_escape
+  label: encircling barrier that prevents enemy escape
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A tactical or magical encirclement that traps enemies functions within
+    battle and warfare patterns.
+  cautions: If the barrier is magical or boundary-sealing rather than tactical, threshold_guardian
+    or sacred_law/apotropaic boundary logic may be secondary; label is specific.
+  suggested_aliases:
+  - enemy-trapping encirclement
+  - battle encircling barrier
+  - barrier preventing enemy escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.end-of-heroic-age-marked-by-completion-of-the-cycle
+  motif_id: end_of_heroic_age_marked_by_completion_of_the_cycle
+  label: End of heroic age marked by completion of the cycle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on closure of an age or cycle, aligning with sacred
+    time and cyclical ordering.
+  cautions: Could fit death_and_transformation or flood_and_renewal if the heroic
+    age ends through catastrophe or renewal; may also be a literary-periodization
+    artifact.
+  suggested_aliases:
+  - completion of heroic cycle
+  - end of heroic age
+  - cycle-closing heroic age
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.endangered-hero-rescued-from-encirclement
+  motif_id: endangered_hero_rescued_from_encirclement
+  label: Endangered hero rescued from encirclement
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero in mortal peril is rescued from a battle enclosure, functioning
+    as an ordeal-and-rescue episode in the heroic arc.
+  cautions: If the episode is mainly battlefield tactics, sacred_combat may be better;
+    if divine rescue is explicit, divine_intervention may be secondary.
+  suggested_aliases:
+  - hero rescued from encirclement
+  - surrounded hero rescued
+  - rescue of encircled hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; most items have one occurrence and several may
+  be episode-specific battlefield details rather than reusable motif groups.
+- 'Weapon-centered labels were separated by focal function: power object, sacred combat,
+  or divine-warrior combat against supernatural adversaries.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-model
+  reviewed_at: ''
+  notes: Human review should confirm source context for over-specific battlefield,
+    diplomatic, and cycle-closure labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0365
+  input_sha256: d461e10b249f3af0dd1e1f0ac594a517450bca2e8c2e4129fca47a0242a52642

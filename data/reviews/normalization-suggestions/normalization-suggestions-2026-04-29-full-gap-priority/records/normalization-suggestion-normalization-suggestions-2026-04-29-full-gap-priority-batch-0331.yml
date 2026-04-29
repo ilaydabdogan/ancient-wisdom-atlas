@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0331
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.taboo-restrictions-around-royal-or-sacred-presence
+  motif_id: taboo_restrictions_around_royal_or_sacred_presence
+  label: Taboo restrictions around royal or sacred presence
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Restrictions around sacred or royal presence fit ritual prohibition and
+    purity law already grouped under sacred_law.
+  cautions: Could also involve royal_legitimacy if the taboo primarily marks kingship
+    rather than ritual danger.
+  suggested_aliases:
+  - royal presence taboo
+  - sacred presence taboo
+  - taboo around sacred authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tabooed-knotted-remnant-of-the-harvest
+  motif_id: tabooed_knotted_remnant_of_the_harvest
+  label: tabooed knotted remnant of the harvest
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: low
+  rationale: A harvest remnant taboo likely belongs with seasonal ritual and harvest-cycle
+    symbolism.
+  cautions: Very specific and may be an ethnographic detail; could instead fit sacred_law,
+    sacrifice, or corn-spirit harvest rituals depending on source evidence.
+  suggested_aliases:
+  - harvest remnant taboo
+  - tabooed harvest knot
+  - knotted harvest remnant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tabooed-or-forbidden-access-to-protected-woman
+  motif_id: tabooed_or_forbidden_access_to_protected_woman
+  label: tabooed or forbidden access to protected woman
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a taboo boundary, protected bride, guarded beloved,
+    or gendered seclusion motif.
+  cautions: Culturally sensitive and context-dependent; avoid mapping to sacred_law
+    or sacred_love without evidence of ritual, legal, or quest function.
+  suggested_aliases:
+  - forbidden access to protected woman
+  - guarded woman taboo
+  - protected woman boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tabooed-persons-or-things-isolated-from-earth-and-heaven
+  motif_id: tabooed_persons_or_things_isolated_from_earth_and_heaven
+  label: Tabooed persons or things isolated from earth and heaven
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Isolation of tabooed persons or objects is a ritual-prohibition and purity-boundary
+    pattern.
+  cautions: May also touch axis_mundi symbolism if the earth/heaven separation is
+    cosmological rather than merely protective.
+  suggested_aliases:
+  - taboo isolation from earth and heaven
+  - ritual isolation of tabooed persons
+  - tabooed objects suspended from cosmic contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.teacher-s-curse-or-prayer-fulfilled-through-disciple
+  motif_id: teacher_s_curse_or_prayer_fulfilled_through_disciple
+  label: Teacher’s curse or prayer fulfilled through disciple
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A curse or prayer taking effect through a disciple implies mediated sacred
+    agency in human affairs.
+  cautions: Could fit mystical_quest if the disciple relation and spiritual training
+    are central; verify whether fulfillment is miracle, discipline, or narrative episode.
+  suggested_aliases:
+  - teacher prayer fulfilled through disciple
+  - teacher curse fulfilled through disciple
+  - disciple as instrument of teacher's prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temple-as-national-hearth
+  motif_id: temple_as_national_hearth
+  label: Temple as national hearth
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A national hearth in a temple centers sacred fire as civic and divine
+    presence.
+  cautions: If the emphasis is temple as civic center rather than hearth fire, world_center
+    or royal_legitimacy may be better secondary mappings.
+  suggested_aliases:
+  - civic hearth temple
+  - temple hearth of the nation
+  - national sacred hearth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temple-as-repository-of-civic-wealth-and-law
+  motif_id: temple_as_repository_of_civic_wealth_and_law
+  label: Temple as repository of civic wealth and law
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A temple holding civic wealth and law functions as an organizing sacred
+    center for social order.
+  cautions: Could also map to sacred_law or sacred_treasures if the passage emphasizes
+    law codes or stored valuables more than centrality.
+  suggested_aliases:
+  - temple repository of civic law
+  - temple treasury and law archive
+  - temple as civic repository
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temple-built-to-avert-plague
+  motif_id: temple_built_to_avert_plague
+  label: Temple built to avert plague
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Building a temple as a plague-averting act combines sacred construction
+    with ritual repair.
+  cautions: May also belong with divine_judgment or divine_intervention if the plague
+    is framed as punishment or divine response.
+  suggested_aliases:
+  - plague-averting temple
+  - temple construction to avert plague
+  - apotropaic temple building
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-divine-empowerment-of-a-warrior
+  motif_id: temporary_divine_empowerment_of_a_warrior
+  label: temporary divine empowerment of a warrior
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: Divine empowerment of a warrior is a clear sacred-combat role variant
+    under divine_warrior.
+  cautions: If empowerment is possession by a deity rather than battle prowess, temporary_divine_possession
+    may be a secondary pattern.
+  suggested_aliases:
+  - divinely empowered warrior
+  - temporary warrior empowerment
+  - divine battle empowerment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-divine-possession-or-incarnation
+  motif_id: temporary_divine_possession_or_incarnation
+  label: temporary divine possession or incarnation
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Temporary possession or incarnation indicates direct sacred agency through
+    a human body, but the taxonomy lacks a precise possession/incarnation group.
+  cautions: Sensitive and tradition-specific; distinguish possession, avatar/incarnation,
+    inspiration, mediumship, and metaphorical empowerment before mapping.
+  suggested_aliases:
+  - temporary divine possession
+  - temporary incarnation
+  - deity embodied temporarily
+  - divine embodiment in human
+  suggested_new_group:
+    id: divine_possession_embodiment
+    label: Divine Possession and Embodiment
+    description: A deity, spirit, or sacred power temporarily inhabits, possesses,
+      incarnates in, or acts through a human or other body.
+    parent_group_ids:
+    - divine_intervention
+    - theophany
+    related_group_ids:
+    - shapeshifter
+    - divine_warrior
+    - mystical_quest
+    reason_existing_groups_insufficient: Existing divine_intervention and theophany
+      groups cover sacred action or manifestation broadly but do not preserve the
+      embodied possession/incarnation function.
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several taboo labels may be over-specific ethnographic or comparative notes and
+  should be checked against source passages before canonical indexing.
+- Possession/incarnation language should be reviewed with care because traditions
+  distinguish embodiment, mediumship, inspiration, and avatar-like descent differently.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: ''
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0331
+  input_sha256: 1bddc02beed81d346fb890dd081fee85365245d07334a529f12ed84a8affccc8

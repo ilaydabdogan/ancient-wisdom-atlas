@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0243
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-sleep-requiring-ritual-silence
+  motif_id: divine_sleep_requiring_ritual_silence
+  label: divine sleep requiring ritual silence
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritual silence around a sleeping deity may be a sacred prohibition or
+    ritual observance, but the function is unclear from the label alone.
+  cautions: Could be a local cult rule, passage-specific detail, divine vulnerability
+    motif, or commentary artifact; source context is needed.
+  suggested_aliases:
+  - ritual silence around deity
+  - sacred silence
+  - sleeping deity taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-smith-and-helpers-forge-a-hero-s-armor
+  motif_id: divine_smith_and_helpers_forge_a_hero_s_armor
+  label: divine smith and helpers forge a hero's armor
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine manufacture of heroic armor is a clear case of sacred craft and
+    divinely aided construction of a power object.
+  cautions: May also support sacred_treasures if the armor's authority or protective
+    power is emphasized over the forging act.
+  suggested_aliases:
+  - divine forging of heroic armor
+  - god-forged armor
+  - divinely made hero armor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-smith-at-the-fiery-forge
+  motif_id: divine_smith_at_the_fiery_forge
+  label: Divine smith at the fiery forge
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine smith at a forge fits the sacred craft complex, especially when
+    divine making or forging is the focus.
+  cautions: If the passage only names a deity's setting rather than an act or function,
+    it may be too descriptive for pattern queries; fiery imagery may secondarily relate
+    to sacred_fire.
+  suggested_aliases:
+  - divine smith
+  - god at the forge
+  - sacred forge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-smiths-forging-heavenly-weapons
+  motif_id: divine_smiths_forging_heavenly_weapons
+  label: divine smiths forging heavenly weapons
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on divine artisans producing sacred or heavenly weapons,
+    matching sacred craft.
+  cautions: May also index under sacred_treasures or divine_warrior if the narrative
+    emphasizes the weapon's power in combat rather than its forging.
+  suggested_aliases:
+  - divine forging of weapons
+  - heavenly weapons forged by gods
+  - god-forged weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-song-transforms-nature-into-provisions-and-wealth
+  motif_id: divine_song_transforms_nature_into_provisions_and_wealth
+  label: Divine song transforms nature into provisions and wealth
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred utterance or song producing material transformation fits speech
+    or song as operative sacred power.
+  cautions: Could instead belong under culture_hero if the song provides human livelihood,
+    or sacred_knowledge if the emphasis is on magical knowledge of words.
+  suggested_aliases:
+  - creative divine song
+  - song as transformative power
+  - sacred song creates provisions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-source-of-human-expression-and-form
+  motif_id: divine_source_of_human_expression_and_form
+  label: divine source of human expression and form
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe divine or cosmic grounding of human form and expression,
+    which could relate to creation or sacred knowledge.
+  cautions: This reads abstractly and may be philosophical commentary rather than
+    a narrative motif; Daoist source context is needed before placement.
+  suggested_aliases:
+  - divine origin of human form
+  - sacred source of expression
+  - cosmic source of human embodiment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sovereignty-and-limited-human-agency
+  motif_id: divine_sovereignty_and_limited_human_agency
+  label: divine sovereignty and limited human agency
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: broader_label
+  confidence: medium
+  rationale: The label centers on divine rulership and human dependence, fitting the
+    cosmic sovereignty group.
+  cautions: May be theological doctrine or ethical reflection rather than a discrete
+    motif; if the passage concerns fate or destiny, death_by_fate or divine_judgment
+    may be relevant.
+  suggested_aliases:
+  - divine sovereignty over human agency
+  - human agency limited by divine will
+  - cosmic sovereignty and human limitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sovereignty-over-cosmos-and-creatures
+  motif_id: divine_sovereignty_over_cosmos_and_creatures
+  label: divine sovereignty over cosmos and creatures
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: broader_label
+  confidence: high
+  rationale: The motif explicitly states supreme divine rulership over the cosmos
+    and living beings.
+  cautions: If the passage emphasizes creation rather than rule, cosmic_origin may
+    be a secondary mapping; avoid treating doctrinal similarity as transmission evidence.
+  suggested_aliases:
+  - divine rule over creation
+  - sovereignty over all creatures
+  - cosmic divine kingship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sovereignty-over-fertility-and-childlessness
+  motif_id: divine_sovereignty_over_fertility_and_childlessness
+  label: divine sovereignty over fertility and childlessness
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine control over fertility and childlessness often functions in sacred
+    birth or miraculous-child narratives.
+  cautions: If presented as general theology of divine power rather than a birth narrative,
+    supreme_ruler may be the better parent; preserve infertility/childlessness specificity
+    in notes.
+  suggested_aliases:
+  - divine control of fertility
+  - divinely granted childlessness or offspring
+  - sacred fertility sovereignty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-spectators-at-a-human-royal-event
+  motif_id: divine_spectators_at_a_human_royal_event
+  label: divine spectators at a human royal event
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: Gods witnessing a royal event can sacralize kingship, succession, or
+    royal ceremony.
+  cautions: If the divine presence is merely scenic, this may be an over-specific
+    episode detail; if manifestation is central, theophany may also apply.
+  suggested_aliases:
+  - gods witness royal ceremony
+  - divine attendance at royal event
+  - divine spectators of kingship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and abstract; suggested placements should remain
+  provisional until passage evidence confirms narrative or ritual function.
+- Divine smith labels consistently point to sacred_craft, with possible secondary
+  relevance to sacred_treasures, sacred_fire, or divine_warrior depending on context.
+- Sovereignty labels may be theological summaries rather than motifs; reviewers should
+  distinguish doctrine/commentary from recurring narrative pattern.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch-0243.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0243
+  input_sha256: 3e1e8708d7c6bac8e226d01fa15da830038c9098c6f51493f87c77e97f87ce3d

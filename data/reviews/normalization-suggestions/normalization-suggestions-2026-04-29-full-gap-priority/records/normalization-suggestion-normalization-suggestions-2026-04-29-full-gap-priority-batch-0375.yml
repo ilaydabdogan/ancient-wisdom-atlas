@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0375
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.foreknown-movement-toward-a-final-resting-place
+  motif_id: foreknown_movement_toward_a_final_resting_place
+  label: foreknown movement toward a final resting-place
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests fate, death, or burial destiny, but the function is
+    unclear from wording alone.
+  cautions: Could fit death_by_fate, heroic_funeral_rites, lament_and_mourning, or
+    a passage-specific plot detail; verify whether the resting place is death, burial,
+    exile, or prophecy.
+  suggested_aliases:
+  - foreknown final resting place
+  - destined movement toward burial place
+  - fated journey to resting place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - heroic_funeral_rites
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forest-ascetic-warrior-confronts-demonic-attackers
+  motif_id: forest_ascetic_warrior_confronts_demonic_attackers
+  label: Forest ascetic warrior confronts demonic attackers
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spiritually marked warrior confronting demonic attackers fits sacred
+    combat against disordering beings.
+  cautions: If the passage emphasizes ascetic discipline or forest exile more than
+    combat, initiation or mystical_quest may be secondary; avoid treating every demon
+    fight as cosmic combat without evidence.
+  suggested_aliases:
+  - ascetic warrior confronts demons
+  - forest warrior against demonic attackers
+  - demonic attack on ascetic warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forest-ordeal-of-the-last-surviving-brother
+  motif_id: forest_ordeal_of_the_last_surviving_brother
+  label: forest ordeal of the last surviving brother
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A forest ordeal undergone by the last surviving brother is best treated
+    as a transformative trial or threshold ordeal.
+  cautions: Could also involve sibling_pair, death_by_fate, or heroic survival depending
+    on source context; label is episode-specific and should remain granular evidence.
+  suggested_aliases:
+  - last surviving brother ordeal
+  - forest survival ordeal
+  - brother's forest trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forewarned-combat-injury
+  motif_id: forewarned_combat_injury
+  label: forewarned combat injury
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Forewarning of an injury functions as omen, prophecy, or revelatory warning
+    about combat fate.
+  cautions: If the warning is not visionary or prophetic but tactical advice, this
+    may be an over-specific combat detail; death_by_fate may be secondary if injury
+    is destined.
+  suggested_aliases:
+  - prophetic warning of combat injury
+  - foretold battle wound
+  - omen of combat injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-alternation-of-weapon-choice-in-heroic-combat
+  motif_id: formal_alternation_of_weapon_choice_in_heroic_combat
+  label: formal alternation of weapon choice in heroic combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Formalized weapon alternation is a ritualized or rule-bound structure
+    within heroic combat.
+  cautions: May be an episode-specific battle convention rather than a durable motif;
+    preserve the weapon-choice sequence as evidence detail.
+  suggested_aliases:
+  - ritual alternation of weapons
+  - weapon-choice alternation in duel
+  - formal weapon selection in heroic combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-arming-before-battle
+  motif_id: formal_arming_before_battle
+  label: formal arming before battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A formal arming scene marks the warrior role and preparation for sacred
+    or heroic combat.
+  cautions: If the passage focuses on named gear as power objects, sacred_treasures
+    may be secondary; if merely descriptive epic formula, consider excluding as passage
+    artifact.
+  suggested_aliases:
+  - ritual arming before battle
+  - heroic arming scene
+  - formal battle preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-combat-challenge-and-threat
+  motif_id: formal_combat_challenge_and_threat
+  label: formal combat challenge and threat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A formal challenge and threat belongs to rule-bound heroic combat and
+    ritualized confrontation.
+  cautions: Could be a formulaic speech act rather than a symbolic motif; if speech
+    performance is central, storytelling_as_power or wisdom-speech indexing may be
+    relevant.
+  suggested_aliases:
+  - ritual combat challenge
+  - formal battle threat
+  - heroic challenge and threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-duel-with-measured-weapons-and-first-strike-advantage
+  motif_id: formal_duel_with_measured_weapons_and_first_strike_advantage
+  label: formal duel with measured weapons and first-strike advantage
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Measured weapons and first-strike rules indicate a formalized duel within
+    ritual or heroic combat conventions.
+  cautions: The label is highly specific; preserve measurements and first-strike advantage
+    as local evidence rather than promoting to taxonomy family.
+  suggested_aliases:
+  - rule-bound duel with measured weapons
+  - formal duel with first strike
+  - measured-weapon heroic duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-heroic-challenge-through-mutual-praise-and-taunt
+  motif_id: formal_heroic_challenge_through_mutual_praise_and_taunt
+  label: Formal heroic challenge through mutual praise and taunt
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Mutual praise and taunt are formalized speech acts initiating or structuring
+    heroic combat.
+  cautions: May also fit storytelling_as_power if poetic speech performance is the
+    main function; verify whether this is recurring duel convention or a single formulaic
+    passage.
+  suggested_aliases:
+  - heroic challenge by praise and taunt
+  - mutual praise-taunt before combat
+  - formal taunting challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-staged-duel-with-weapon-progression
+  motif_id: formal_staged_duel_with_weapon_progression
+  label: formal staged duel with weapon progression
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: high
+  rationale: A staged duel with weapon progression is a clear rule-bound heroic combat
+    pattern.
+  cautions: Do not merge with weapon power-object motifs unless particular weapons
+    confer sacred authority or supernatural power.
+  suggested_aliases:
+  - staged duel with escalating weapons
+  - weapon progression in formal duel
+  - ritualized duel sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Celtic/Irish combat labels describe formalized duel conventions. They can
+  be provisionally grouped under sacred_combat while preserving granular speech, arming,
+  and weapon-sequence details as evidence.
+- Single-occurrence heroic-combat labels should not be promoted to taxonomy motif
+  families without recurrence across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source context should confirm whether formal
+    combat details are recurring motifs or episode/formula artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0375
+  input_sha256: d81abe01767f5d516a32a416f0f8dedf85a01dde31e2fce2f7a7551726409b35

@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0369
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.faith-tested-by-deceptive-imitation
+  motif_id: faith_tested_by_deceptive_imitation
+  label: faith tested by deceptive imitation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceptive imitation functions as an ordeal testing faith, discernment,
+    and identity.
+  cautions: Could also fit divine_judgment or sacred_knowledge if the passage emphasizes
+    moral reckoning or discernment rather than ordeal.
+  suggested_aliases:
+  - deceptive imitation as faith test
+  - discernment ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-companion-aids-the-hero-in-war-and-peace
+  motif_id: faithful_companion_aids_the_hero_in_war_and_peace
+  label: Faithful companion aids the hero in war and peace
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: role_variant
+  confidence: medium
+  rationale: A loyal companion is a supporting role within the hero's trials, conflicts,
+    and return to social order.
+  cautions: May be too character-role-specific for pattern queries unless companion
+    aid recurs; if battle honor is central, sacred_combat may be secondary.
+  suggested_aliases:
+  - loyal companion aids hero
+  - faithful heroic companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-sufferers-and-fiery-ordeal
+  motif_id: faithful_sufferers_and_fiery_ordeal
+  label: faithful sufferers and fiery ordeal
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on fire as an ordeal proving or revealing sacred fidelity.
+  cautions: If fire is primarily punitive judgment, divine_judgment may be better;
+    if the stress is martyrdom or surrender, sacrifice may also apply.
+  suggested_aliases:
+  - fiery ordeal of the faithful
+  - faith tested by fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-of-a-heroic-warrior-band
+  motif_id: fall_of_a_heroic_warrior_band
+  label: fall of a heroic warrior band
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: The destruction of a warrior company belongs with heroic warfare and
+    ritually significant combat outcomes.
+  cautions: Could fit lament_and_mourning if the passage emphasizes grief or tragic
+    memory more than combat; single occurrence may be episode-specific.
+  suggested_aliases:
+  - heroic band falls
+  - destruction of warrior company
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-companion-provokes-revenge
+  motif_id: fallen_companion_provokes_revenge
+  label: fallen companion provokes revenge
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: The existing divine_warrior group already includes vengeance for a fallen
+    king or hero as a combat motivation.
+  cautions: If the revenge is ordinary plot causation rather than sacralized heroic
+    duty, preserve as evidence detail rather than broad motif.
+  suggested_aliases:
+  - revenge for fallen companion
+  - fallen comrade provokes vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-heroic-brothers-under-enemy-triumph-claim
+  motif_id: fallen_heroic_brothers_under_enemy_triumph_claim
+  label: fallen heroic brothers under enemy triumph claim
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines heroic death, sibling pairing, and enemy boasting,
+    and the dominant motif is unclear.
+  cautions: May belong under sacred_twins, sacred_combat, lament_and_mourning, or
+    be an over-specific episode detail depending on passage evidence.
+  suggested_aliases:
+  - fallen heroic brothers
+  - enemy triumph over fallen brothers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-warrior-becomes-posthumous-guardian-and-receives-cult-honours
+  motif_id: fallen_warrior_becomes_posthumous_guardian_and_receives_cult_honours
+  label: fallen warrior becomes posthumous guardian and receives cult honours
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: Cult honors for a dead warrior fit memorial rites that honor heroic dead
+    and reaffirm social order.
+  cautions: The posthumous guardian role also relates to divine_intervention or ancestor
+    rites; review whether cult, protection, or transformation is primary.
+  suggested_aliases:
+  - hero cult of fallen warrior
+  - posthumous warrior guardian
+  - fallen hero receives cult honors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-warrior-receives-heavenly-reward
+  motif_id: fallen_warrior_receives_heavenly_reward
+  label: fallen warrior receives heavenly reward
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warrior's postmortem heavenly reward concerns the soul's afterlife
+    destination following death in battle.
+  cautions: If the passage emphasizes warrior duty or sacrificial death rather than
+    afterlife destination, divine_warrior or sacrifice may be secondary.
+  suggested_aliases:
+  - warrior heaven
+  - heavenly reward for fallen warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-ascetic-appearance-and-contested-holiness
+  motif_id: false_ascetic_appearance_and_contested_holiness
+  label: false ascetic appearance and contested holiness
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern deception, sanctity testing, ascetic discipline,
+    or social recognition of holiness.
+  cautions: Culturally and contextually sensitive; could fit mystical_quest, divine_judgment,
+    sacred_knowledge, or be a contextual character-description artifact.
+  suggested_aliases:
+  - contested holiness
+  - false ascetic appearance
+  - deceptive ascetic guise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-claim-of-victory-after-escape
+  motif_id: false_claim_of_victory_after_escape
+  label: false claim of victory after escape
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A false victory claim after escape is a deceptive narrative strategy
+    akin to trickster or boundary-crossing behavior.
+  cautions: Could be an over-specific plot-resolution detail; if the moral consequence
+    of boasting is central, divine_judgment or pride_and_downfall may fit better.
+  suggested_aliases:
+  - false victory boast
+  - deceptive claim after escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional and avoid transmission claims.
+- Several items have single occurrences and may be episode-specific; human review
+  should check passage evidence before adding durable aliases.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch contains conflict/ordeal labels with several likely over-specific heroic
+    combat details.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0369
+  input_sha256: 93b862917719e1c0d44095c1a5ff43b45288cd033b29bb64991831294ae267c2

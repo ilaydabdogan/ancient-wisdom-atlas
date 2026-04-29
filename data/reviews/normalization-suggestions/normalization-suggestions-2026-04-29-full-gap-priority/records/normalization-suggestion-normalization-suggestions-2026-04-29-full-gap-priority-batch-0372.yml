@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0372
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fate-backed-heroic-opponent
+  motif_id: fate_backed_heroic_opponent
+  label: fate-backed heroic opponent
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label emphasizes fate empowering or determining a heroic combat role,
+    fitting the fate/destiny complex around unavoidable outcomes.
+  cautions: If the passage centers on battle honor rather than destiny, sacred_combat
+    or divine_warrior may be a better secondary placement.
+  suggested_aliases:
+  - fated heroic opponent
+  - destiny-backed champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-ordained-limit-of-heroic-success
+  motif_id: fate_ordained_limit_of_heroic_success
+  label: Fate-ordained limit of heroic success
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: A divinely or cosmically fixed boundary on heroic success is a destiny-governed
+    limit on mortal action.
+  cautions: This may be an abstract plot constraint rather than a recurring motif
+    if not personified or ritually framed in the source.
+  suggested_aliases:
+  - fated limit of heroic success
+  - destined boundary of victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-protected-hero
+  motif_id: fate_protected_hero
+  label: fate-protected hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protection by fate belongs to the same destiny-governed life and death
+    pattern as fated mortality.
+  cautions: If protection is by a deity, prophecy, or magical object rather than fate
+    itself, divine_intervention, dream_and_vision, or sacred_treasures may fit better.
+  suggested_aliases:
+  - destiny-protected hero
+  - hero preserved by fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fear-of-repeated-monster-house-entrapment
+  motif_id: fear_of_repeated_monster_house_entrapment
+  label: fear of repeated monster-house entrapment
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines fear, monster setting, house enclosure, and repeated
+    entrapment without a clear existing narrative function.
+  cautions: May be an over-specific episode detail; could fit threshold_guardian,
+    labyrinth_initiation, otherworld, or heroic ordeal depending on source evidence.
+  suggested_aliases:
+  - monster-house entrapment
+  - fear of renewed entrapment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fearsome-enemy-champion-introduced-by-lineage-and-attributes
+  motif_id: fearsome_enemy_champion_introduced_by_lineage_and_attributes
+  label: Fearsome enemy champion introduced by lineage and attributes
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a presentation or cataloguing technique for a character
+    rather than a symbolic motif.
+  cautions: If the passage uses lineage to establish sacred combat destiny or royal
+    legitimacy, preserve that evidence separately under divine_warrior, sacred_combat,
+    or royal_legitimacy.
+  suggested_aliases:
+  - enemy champion catalogue
+  - lineage introduction of foe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feast-and-rest-before-renewed-battle
+  motif_id: feast_and_rest_before_renewed_battle
+  label: Feast and rest before renewed battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A pause for feasting and restoration before renewed combat functions
+    within the ritualized warfare sequence.
+  cautions: May be a common narrative pacing detail rather than a durable motif unless
+    the feast has ritual, oath, hospitality, or sacrificial significance.
+  suggested_aliases:
+  - pre-battle feast and rest
+  - warriors restored before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-reconciliation-after-attempted-revenge
+  motif_id: feigned_reconciliation_after_attempted_revenge
+  label: feigned reconciliation after attempted revenge
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Feigning reconciliation after revenge is a deception strategy that crosses
+    social and moral boundaries.
+  cautions: If the passage emphasizes blood-feud resolution or political order rather
+    than deceit, sacred_combat, covenant, or divine_judgment may be more relevant.
+  suggested_aliases:
+  - false reconciliation after revenge
+  - deceptive reconciliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-archer-wins-first-blood-in-a-male-heroic-contest
+  motif_id: female_archer_wins_first_blood_in_a_male_heroic_contest
+  label: female archer wins first blood in a male heroic contest
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core pattern is participation and first blood within a heroic martial
+    contest.
+  cautions: The gender reversal may be locally important, but this exact phrasing
+    is likely too episode-specific for canonical promotion.
+  suggested_aliases:
+  - female warrior wins first blood
+  - first blood by female archer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-helper-rescues-endangered-hero
+  motif_id: female_helper_rescues_endangered_hero
+  label: Female helper rescues endangered hero
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: role_variant
+  confidence: medium
+  rationale: A helper rescuing an endangered hero is a support role within the hero's
+    ordeal and journey pattern.
+  cautions: If the helper is divine, beloved, or a sovereignty figure, divine_intervention,
+    sacred_love, or royal_legitimacy may be relevant secondary mappings.
+  suggested_aliases:
+  - female rescuer of hero
+  - hero rescued by female helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-provider-sustains-warriors-with-milk-and-healing
+  motif_id: female_provider_sustains_warriors_with_milk_and_healing
+  label: Female provider sustains warriors with milk and healing
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: functional_variant
+  confidence: medium
+  rationale: Female nourishment and healing of warriors aligns with the nurturing
+    and protective sacred feminine pattern.
+  cautions: If the provider is a mortal host rather than a sacred or supernatural
+    figure, sacred_exchange or sacred_combat may be a better practical placement.
+  suggested_aliases:
+  - female nourisher of warriors
+  - warriors sustained by milk and healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence heroic-combat details; preserve episode specificity
+  in evidence notes rather than promoting canonical motifs.
+- Fate-related heroic labels fit the existing death_by_fate group provisionally, but
+  reviewers should distinguish destiny from direct divine intervention or ordinary
+  plot protection.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch-0372.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0372
+  input_sha256: 3eb7f1d80f4e9c5f777a949c49701e075b8cceb5462c3b26cf3fb752ab75e0a5

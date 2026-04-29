@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0312
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-city-characterized-by-gardens-water-mosques-and-communal-piety
+  motif_id: sacred_city_characterized_by_gardens_water_mosques_and_communal_piety
+  label: sacred city characterized by gardens, water, mosques, and communal piety
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sacred place, water/garden imagery, mosque setting,
+    and communal piety without a single clear narrative function.
+  cautions: May be a descriptive passage artifact or a local ideal-city image; could
+    relate to world_center, sacred_waters, sacred_law, or mystical_quest depending
+    on source context.
+  suggested_aliases:
+  - sacred city of gardens and water
+  - pious sacred city
+  - communal piety in sacred city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - world_center
+    - sacred_waters
+    - mystical_quest
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-contagion-as-dangerous-force
+  motif_id: sacred_contagion_as_dangerous_force
+  label: sacred contagion as dangerous force
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Dangerous sacred contagion fits existing purity, taboo, and spirit-contagion
+    patterns already grouped under sacred_law.
+  cautions: If the source emphasizes numinous danger rather than rule or taboo practice,
+    human review may prefer divine_intervention or a future purity-contagion subgroup.
+  suggested_aliases:
+  - dangerous sacred contagion
+  - sacred pollution danger
+  - contagious sacred force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-courtyard-tree-tended-by-the-household-woman
+  motif_id: sacred_courtyard_tree_tended_by_the_household_woman
+  label: Sacred courtyard tree tended by the household woman
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A ritually tended sacred tree fits the sacred tree/world-axis field when
+    the tree marks a charged household center.
+  cautions: The household-woman tending role may be locally significant; if the passage
+    is mainly domestic ritual or gendered household duty, sacred_law or mother_goddess
+    may be secondary.
+  suggested_aliases:
+  - household sacred tree
+  - courtyard sacred tree
+  - woman-tended sacred tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-duty-competing-with-commerce-and-entertainment
+  motif_id: sacred_duty_competing_with_commerce_and_entertainment
+  label: Sacred duty competing with commerce and entertainment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif frames religious obligation as normatively superior to worldly
+    distraction, fitting sacred law and ethical command.
+  cautions: Could be a passage-specific moral teaching rather than a reusable motif;
+    if linked to prayer timing or communal worship, sacred_time may be relevant.
+  suggested_aliases:
+  - sacred duty over commerce
+  - religious obligation versus entertainment
+  - worldly distraction from sacred duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-emblem-or-ritual-object
+  motif_id: sacred_emblem_or_ritual_object
+  label: Sacred emblem or ritual object
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: broader_label
+  confidence: medium
+  rationale: A sacred emblem or ritual object is a broad power-object label covered
+    by sacred_treasures.
+  cautions: Very generic; if the object is only a liturgical implement without narrative
+    power, preserve as evidence detail rather than a pattern-query motif.
+  suggested_aliases:
+  - ritual object
+  - sacred emblem
+  - sacred power object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-enumeration-of-textual-units
+  motif_id: sacred_enumeration_of_textual_units
+  label: sacred enumeration of textual units
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label appears to describe counting or organizing textual units rather
+    than a narrative or symbolic motif.
+  cautions: If the passage treats enumeration itself as a ritualized sacred act, human
+    review could reconsider under sacred_knowledge or sacred_law.
+  suggested_aliases:
+  - enumeration of textual units
+  - sacred textual counting
+  - textual unit enumeration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-field-under-taboo
+  motif_id: sacred_field_under_taboo
+  label: sacred field under taboo
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred field governed by taboo fits ritual prohibition and sacred-law
+    regulation of space.
+  cautions: If the field functions as a cosmic center, sanctuary, or agricultural
+    seasonal site, world_center or sacred_time may be secondary.
+  suggested_aliases:
+  - taboo sacred field
+  - ritually restricted field
+  - sacred agricultural taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-guarded-by-ritual-restriction
+  motif_id: sacred_fire_guarded_by_ritual_restriction
+  label: sacred fire guarded by ritual restriction
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: The core image is sacred fire maintained and protected through ritual
+    rules, matching sacred_fire.
+  cautions: May also index under sacred_law if the restriction is more important than
+    the fire symbolism.
+  suggested_aliases:
+  - restricted sacred fire
+  - ritually guarded fire
+  - taboo-protected sacred fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-kindled-from-sacred-wood
+  motif_id: sacred_fire_kindled_from_sacred_wood
+  label: Sacred fire kindled from sacred wood
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: Kindling sacred fire from ritually significant wood is a specific fire-ritual
+    variant of sacred_fire.
+  cautions: If the wood or tree has independent cosmological meaning, axis_mundi may
+    be a secondary relation.
+  suggested_aliases:
+  - sacred wood kindles fire
+  - ritual fire from sacred wood
+  - fire generated from sacred wood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-rekindled-from-deity-s-object
+  motif_id: sacred_fire_rekindled_from_deity_s_object
+  label: Sacred fire rekindled from deity's object
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: Rekindling sacred fire from a divine object is a ritual renewal of sacred
+    fire and divine presence.
+  cautions: The deity's object may also function as a sacred_treasure; preserve object
+    details in evidence notes.
+  suggested_aliases:
+  - divine-object fire rekindling
+  - sacred fire renewed from deity object
+  - rekindled sacred fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional taxonomy placements only and make no claims about transmission
+  or common origin.
+- Several labels are single-occurrence and may be passage-specific; preserve local
+  evidence details during human review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Batch contains sacred-space, taboo, object, textual, and sacred-fire labels;
+    most map to existing broad groups, with one meta-textual exclusion and one sacred-city
+    item requiring source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0312
+  input_sha256: 8a0b16e8306319af69839293c98e87bb0bcf8187b6b52296304b593354dc7ca1

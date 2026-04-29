@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0254
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.exclusive-divine-deliverance-in-crisis
+  motif_id: exclusive_divine_deliverance_in_crisis
+  label: Exclusive divine deliverance in crisis
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on divine rescue in a crisis, which fits direct sacred
+    action in human affairs.
+  cautions: The word exclusive may reflect theological emphasis rather than a distinct
+    motif; review passage evidence before indexing as more than deliverance.
+  suggested_aliases:
+  - divine deliverance in crisis
+  - sacred rescue in crisis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exclusive-vessel-taboo-for-sacred-or-ritual-persons
+  motif_id: exclusive_vessel_taboo_for_sacred_or_ritual_persons
+  label: exclusive vessel taboo for sacred or ritual persons
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo governing ritual persons and vessel use is best handled as sacred
+    law or purity regulation.
+  cautions: Could also involve sacred_vessel if the container itself is central; comparative/generated
+    wording may be over-specific.
+  suggested_aliases:
+  - ritual vessel taboo
+  - exclusive vessel use for sacred persons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exemplary-heroes-and-gods-must-not-model-lamentation
+  motif_id: exemplary_heroes_and_gods_must_not_model_lamentation
+  label: Exemplary heroes and gods must not model lamentation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as a normative claim about proper conduct by exemplary
+    figures, possibly an ethical or ritual rule.
+  cautions: May be philosophical commentary or literary prescription rather than a
+    narrative motif; could relate to lament_and_mourning if actual lament prohibition
+    is narratively central.
+  suggested_aliases:
+  - prohibition of exemplary lamentation
+  - heroic restraint from lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exemplary-resignation-to-the-divine-command
+  motif_id: exemplary_resignation_to_the_divine_command
+  label: exemplary resignation to the divine command
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: Resignation to divine command often functions as surrender of will or
+    attachment, fitting the broader sacrifice/renunciation complex.
+  cautions: If the passage emphasizes obedience law rather than surrender, sacred_law
+    or covenant may be better secondary mappings.
+  suggested_aliases:
+  - submission to divine command
+  - surrender to divine will
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expanded-purity-boundary-around-a-forbidden-substance
+  motif_id: expanded_purity_boundary_around_a_forbidden_substance
+  label: Expanded purity boundary around a forbidden substance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif describes a purity rule extended around a taboo substance,
+    matching sacred law and ritual prohibition.
+  cautions: Preserve the specific substance and boundary logic as evidence detail;
+    do not generalize to sacrifice unless offering or transfer is present.
+  suggested_aliases:
+  - purity boundary around forbidden substance
+  - expanded taboo boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expelled-divine-troublemaker-causing-human-discord
+  motif_id: expelled_divine_troublemaker_causing_human_discord
+  label: expelled divine troublemaker causing human discord
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine troublemaker who disrupts social order fits the boundary-breaking
+    trickster/disorder role.
+  cautions: If the central action is ritual expulsion rather than mischief, sacrifice/ritual_expulsion
+    may be relevant; if discord is punitive, divine_judgment may fit.
+  suggested_aliases:
+  - divine troublemaker causing discord
+  - expelled discord-bringing deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expulsion-of-cultural-innovation-to-preserve-sacred-order
+  motif_id: expulsion_of_cultural_innovation_to_preserve_sacred_order
+  label: expulsion of cultural innovation to preserve sacred order
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a boundary-maintaining sacred order that rejects disruptive
+    innovation.
+  cautions: May be an interpretive abstraction rather than a recurring motif; could
+    also involve culture_hero if innovation is personified or ritual_expulsion if
+    expulsion is enacted.
+  suggested_aliases:
+  - rejection of innovation to preserve sacred order
+  - cultural innovation expelled
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extinguishing-and-perfecting-divine-light
+  motif_id: extinguishing_and_perfecting_divine_light
+  label: Extinguishing and perfecting divine light
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Divine light imagery belongs under sacred fire and divine light as sacred
+    presence or revelation.
+  cautions: The paired actions of extinguishing/perfecting may be scripture-specific
+    polemic; preserve wording as evidence and avoid mapping to world-destroying fire
+    unless catastrophe is present.
+  suggested_aliases:
+  - divine light perfected
+  - attempted extinguishing of divine light
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-binding-of-a-divine-being
+  motif_id: failed_binding_of_a_divine_being
+  label: failed binding of a divine being
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An attempted constraint on a divine being and its failure highlights
+    divine agency exceeding human or rival control.
+  cautions: Could fit trickster, sacred_combat, or divine_judgment depending on whether
+    the binding is comic, punitive, or conflict-based.
+  suggested_aliases:
+  - attempted binding of a deity
+  - divine being cannot be bound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-management-of-divine-or-solar-vehicle
+  motif_id: failed_management_of_divine_or_solar_vehicle
+  label: failed management of divine or solar vehicle
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Misuse or failed control of a divine/solar vehicle typically produces
+    cosmic disorder and corrective judgment.
+  cautions: If the passage emphasizes ascent toward the heavens or hubristic overreach,
+    ascent or pride_and_downfall may be better secondary mappings.
+  suggested_aliases:
+  - failed control of solar chariot
+  - mismanaged divine vehicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid claims about transmission or borrowing.
+- Several one-occurrence labels are highly interpretive; human review should verify
+  whether they are motifs or commentary abstractions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch contains several single-occurrence divine-order and purity labels requiring
+    source-context verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0254
+  input_sha256: de01741cb445b30ff53e5012b14bdc2d0d21700c3d3d94d07ca54a834a79edac

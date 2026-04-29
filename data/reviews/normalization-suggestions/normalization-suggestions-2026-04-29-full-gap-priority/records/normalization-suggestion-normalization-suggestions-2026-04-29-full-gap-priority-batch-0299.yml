@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0299
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-cleansing-after-expulsion
+  motif_id: ritual_cleansing_after_expulsion
+  label: ritual cleansing after expulsion
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Existing sacrifice group already contains ritual expulsion and boundary-sealing
+    variants; cleansing after expulsion fits that ritual complex.
+  cautions: Could also fit sacred_law if framed as purity law rather than expulsion
+    rite; verify passage evidence.
+  suggested_aliases:
+  - post-expulsion purification
+  - cleansing after spirit expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-combat-with-invisible-foes
+  motif_id: ritual_combat_with_invisible_foes
+  label: Ritual combat with invisible foes
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ritualized warfare against unseen beings, but could
+    be exorcism, apotropaic performance, or symbolic combat.
+  cautions: Single occurrence and ambiguous agency; do not conflate with divine_warrior
+    unless a sacred combatant maintaining cosmic order is present.
+  suggested_aliases:
+  - ritual battle against unseen beings
+  - combat with invisible spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-community-follows-the-departing-hero
+  motif_id: ritual_community_follows_the_departing_hero
+  label: ritual community follows the departing hero
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: A community accompanying a departing hero may relate to departure, procession,
+    mourning, or royal/ritual transition.
+  cautions: Highly contextual; verify whether this is a narrative departure motif,
+    funerary following, devotional procession, or episode-specific detail.
+  suggested_aliases:
+  - communal following of departing hero
+  - ritual procession after hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-completion-of-scripture-through-divided-recitation
+  motif_id: ritual_completion_of_scripture_through_divided_recitation
+  label: ritual completion of scripture through divided recitation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Communal divided recitation completing scripture treats sacred speech/text
+    performance as ritually efficacious transmission.
+  cautions: Could also index under sacred_knowledge if emphasis is instruction or
+    revelation rather than performed recitation.
+  suggested_aliases:
+  - divided scripture recitation
+  - communal completion of sacred recitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-confrontation-with-an-enchanter
+  motif_id: ritual_confrontation_with_an_enchanter
+  label: ritual confrontation with an enchanter
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: An enchanter may function as a liminal opponent or guardian, but the
+    ritual function is unclear from the label.
+  cautions: Could belong to sacred_combat, trickster, initiation, or episode-specific
+    folklore conflict depending on evidence.
+  suggested_aliases:
+  - confronting an enchanter
+  - ritual contest with magician
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-control-of-wind
+  motif_id: ritual_control_of_wind
+  label: Ritual control of wind
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritually influencing wind may involve supernatural intervention or weather
+    magic, but no current weather-control group is explicit.
+  cautions: May warrant a future weather/ritual coercion grouping if similar rain,
+    wind, and storm-control labels recur.
+  suggested_aliases:
+  - wind magic
+  - ritual wind control
+  - weather-control rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-destruction-of-a-dummy-to-obtain-rain
+  motif_id: ritual_destruction_of_a_dummy_to_obtain_rain
+  label: ritual destruction of a dummy to obtain rain
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rainmaking rite using destruction of a substitute aligns with existing
+    ritual coercion/rain-god substitute material under sacred_exchange.
+  cautions: Could also fit sacrifice if the dummy acts as an effigy victim or scapegoat;
+    culturally sensitive terminology should be reviewed.
+  suggested_aliases:
+  - rainmaking dummy destruction
+  - substitute destroyed to obtain rain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-destruction-of-an-effigy-by-water-fire-beating-tearing-or-scattering
+  motif_id: ritual_destruction_of_an_effigy_by_water_fire_beating_tearing_or_scattering
+  label: Ritual destruction of an effigy by water, fire, beating, tearing, or scattering
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Destruction of an effigy functions as substitute offering, ritual expulsion,
+    or transfer within the existing sacrifice/expulsion complex.
+  cautions: Preserve method details as evidence; if performed chiefly for weather
+    control, sacred_exchange may be a secondary mapping.
+  suggested_aliases:
+  - effigy destruction rite
+  - ritual destruction of substitute figure
+  - effigy expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-direction-and-purification-before-prayer
+  motif_id: ritual_direction_and_purification_before_prayer
+  label: ritual direction and purification before prayer
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prayer orientation and purification are regulated ritual practices, fitting
+    sacred law and purity-order patterns.
+  cautions: If the passage emphasizes interior discipline or mystical preparation
+    rather than rule, mystical_quest may be relevant.
+  suggested_aliases:
+  - purification before prayer
+  - ritual orientation before prayer
+  - prayer direction and ablution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-disarmament-marking-peace
+  motif_id: ritual_disarmament_marking_peace
+  label: ritual disarmament marking peace
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A prescribed act of disarmament marking peace may fit sacred social order,
+    covenant, or conflict-resolution ritual.
+  cautions: Could be an over-specific historical/legal detail unless it recurs as
+    a ritualized motif across sources.
+  suggested_aliases:
+  - peace marked by disarmament
+  - ritual laying down of arms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; several single-occurrence ritual
+  labels need source context before durable normalization.
+- Weather-control and effigy-rainmaking motifs may indicate a future ritual weather-control
+  subgroup if more examples recur.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes ambiguous ritual, weather-control, and episode-specific labels
+    requiring human evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0299
+  input_sha256: 83c9768d36c7375b4e8074a2dedeaedc9c5ef36eaa541600245fc58516a9e040

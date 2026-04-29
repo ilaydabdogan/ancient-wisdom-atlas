@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0333
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.threshold-challenge-with-water-after-harvest-rite
+  motif_id: threshold_challenge_with_water_after_harvest_rite
+  label: threshold challenge with water after harvest rite
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Composite label combines threshold ordeal, water, and harvest rite; function
+    cannot be determined from the label alone.
+  cautions: Could map to sacred_waters, initiation, sacred_time, sacrifice, or ritual
+    challenge depending on source evidence; likely over-specific if single occurrence.
+  suggested_aliases:
+  - water threshold challenge
+  - post-harvest water ordeal
+  - harvest rite threshold test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - initiation
+    - sacred_time
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.thunder-god-supremacy-over-waters
+  motif_id: thunder_god_supremacy_over_waters
+  label: thunder-god supremacy over waters
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A thunder god asserting supremacy over waters suggests divine combat
+    or ordering power over chaotic waters.
+  cautions: If the passage emphasizes elemental cosmogony rather than combat or supremacy,
+    cosmic_origin or sacred_waters may be better secondary mappings.
+  suggested_aliases:
+  - storm god mastery over waters
+  - thunder god subdues waters
+  - divine supremacy over waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_waters
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.torch-bearing-ritual-race
+  motif_id: torch_bearing_ritual_race
+  label: Torch-bearing ritual race
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A torch race is a ritualized handling and transmission of sacred fire
+    or divine light.
+  cautions: If the race primarily marks a festival calendar or civic competition,
+    sacred_time or royal/social order may be relevant; preserve the ritual-race detail.
+  suggested_aliases:
+  - torch race
+  - ritual torch race
+  - lampadedromia
+  - sacred fire race
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transfer-of-cult-through-divine-consent
+  motif_id: transfer_of_cult_through_divine_consent
+  label: transfer of cult through divine consent
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The key function is divine approval or direction authorizing a cult's
+    relocation or transfer.
+  cautions: Could also concern covenant, sacred law, or royal legitimacy if the passage
+    focuses on institutional authorization rather than divine agency.
+  suggested_aliases:
+  - divinely sanctioned cult transfer
+  - cult relocation by divine consent
+  - divine approval of cult transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transfer-of-curse-sin-evil-omen-or-disease-to-a-substitute
+  motif_id: transfer_of_curse_sin_evil_omen_or_disease_to_a_substitute
+  label: transfer of curse, sin, evil, omen, or disease to a substitute
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Transfer of pollution or harm to a substitute matches scapegoat, ritual
+    transfer, and expulsion patterns already grouped under sacrifice.
+  cautions: May also support sacred_law if framed as purity regulation, or divine_judgment
+    if punishment and moral reckoning are central.
+  suggested_aliases:
+  - ritual transfer to substitute
+  - scapegoat transfer
+  - transfer of sin to substitute
+  - disease transfer to substitute
+  - omen transfer to substitute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transformation-of-inherited-traditions-into-new-forms
+  motif_id: transformation_of_inherited_traditions_into_new_forms
+  label: Transformation of inherited traditions into new forms
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes reception, adaptation, or reinterpretation of tradition
+    rather than a narrative or ritual motif.
+  cautions: Preserve as a provenance or reception-history note if useful; do not treat
+    as evidence for motif transmission in this task.
+  suggested_aliases:
+  - tradition transformation
+  - adaptation of inherited traditions
+  - reworking inherited tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transformed-sacred-biography-across-traditions
+  motif_id: transformed_sacred_biography_across_traditions
+  label: Transformed sacred biography across traditions
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a comparative or reception-history observation about sacred biography,
+    not a motif within a source narrative.
+  cautions: If a source passage narrates a specific transformation episode within
+    a biography, map that episode separately; avoid transmission claims here.
+  suggested_aliases:
+  - adapted sacred biography
+  - cross-traditional sacred biography
+  - transformed hagiography
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transgression-and-status-specific-killing-taboo
+  motif_id: transgression_and_status_specific_killing_taboo
+  label: Transgression and status-specific killing taboo
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A killing taboo tied to status and transgression fits sacred law, prohibition,
+    and social-ritual order.
+  cautions: Could map to divine_judgment if consequences dominate, or sacrifice if
+    ritual killing is central; culturally specific legal context needs review.
+  suggested_aliases:
+  - status-specific killing taboo
+  - killing taboo by status
+  - transgressive killing prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacrifice
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transition-from-aniconic-to-anthropomorphic-divine-representation
+  motif_id: transition_from_aniconic_to_anthropomorphic_divine_representation
+  label: Transition from aniconic to anthropomorphic divine representation
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes iconographic or historical development in divine
+    representation rather than a narrative motif.
+  cautions: If a passage narrates a deity manifesting in human form, map that episode
+    to theophany; do not index art-historical transition as a motif.
+  suggested_aliases:
+  - aniconic to anthropomorphic representation
+  - development of divine images
+  - anthropomorphic divine representation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - idol
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.translation-subordinated-to-sacred-original-language
+  motif_id: translation_subordinated_to_sacred_original_language
+  label: translation subordinated to sacred original language
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns sacred language authority and textual practice, which
+    is not cleanly covered by existing groups.
+  cautions: May be a doctrinal/textual artifact rather than a motif; if indexing is
+    needed, it may relate to sacred_knowledge or storytelling_as_power, but source
+    context is required.
+  suggested_aliases:
+  - sacred original language priority
+  - authority of sacred language
+  - translation below revealed language
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - storytelling_as_power
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements only; no transmission or borrowing claims
+  are implied.
+- Several single-occurrence labels appear to be meta-textual, reception-history, or
+  art-historical artifacts rather than reusable motif labels.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Human review recommended for composite ritual labels and sacred-language
+    authority labels before final mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0333
+  input_sha256: 1de0e0a4329ff052f21ca8db0ff6497e8ae53df1ba76c7170af9e445dacd5159

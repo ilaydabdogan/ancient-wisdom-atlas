@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0259
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.former-humans-as-divine-messengers-of-song
+  motif_id: former_humans_as_divine_messengers_of_song
+  label: Former humans as divine messengers of song
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine messengers conveying song fit inspired transmission of sacred
+    or transformative knowledge.
+  cautions: Former-human status may instead indicate apotheosis or postmortem transformation;
+    verify passage function.
+  suggested_aliases:
+  - divine_messengers_of_song
+  - inspired_song_as_message
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortification-of-divine-realm-against-giants
+  motif_id: fortification_of_divine_realm_against_giants
+  label: fortification of divine realm against giants
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Defending the divine realm against giants belongs to sacred combat against
+    cosmic or anti-divine threats.
+  cautions: If focus is construction or walls rather than combat/defense, sacred_craft
+    may be a secondary placement.
+  suggested_aliases:
+  - defense_of_divine_realm
+  - divine_realm_fortified_against_giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forty-night-divine-appointment
+  motif_id: forty_night_divine_appointment
+  label: Forty-night divine appointment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A divinely appointed period likely frames encounter, revelation, or sacred
+    presence.
+  cautions: The number and duration may be passage-specific; if emphasis is retreat
+    or discipline, initiation or mystical_quest may fit better.
+  suggested_aliases:
+  - divine_appointment_period
+  - forty_nights_of_divine_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.found-sacred-books-later-judged-forged
+  motif_id: found_sacred_books_later_judged_forged
+  label: Found sacred books later judged forged
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes later authenticity judgment and textual provenance
+    rather than a symbolic narrative motif.
+  cautions: If a source narrative centers on discovery of hidden revelation, preserve
+    separately under sacred_knowledge; the forgery judgment is commentary.
+  suggested_aliases:
+  - discovered_sacred_books_judged_forged
+  - textual_authenticity_judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-divine-manifestation
+  motif_id: fourfold_divine_manifestation
+  label: fourfold divine manifestation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A divine manifestation in multiple forms directly fits theophany and
+    divine presence.
+  cautions: Preserve the fourfold structure as local evidence; do not collapse into
+    generic multiplicity if doctrinally specific.
+  suggested_aliases:
+  - fourfold_theophany
+  - divine_manifestation_in_four_forms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-sacred-inspiration
+  motif_id: fourfold_sacred_inspiration
+  label: Fourfold sacred inspiration
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Sacred inspiration is a form of divinely mediated knowledge or poetic
+    revelation.
+  cautions: Fourfold classification may be a textual or scholastic scheme; review
+    whether it appears as lived divine inspiration in the passage.
+  suggested_aliases:
+  - sacred_inspiration
+  - fourfold_inspiration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.full-moon-nocturnal-rite-with-triple-gestures
+  motif_id: full_moon_nocturnal_rite_with_triple_gestures
+  label: full-moon nocturnal rite with triple gestures
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a highly specific ritual description combining timing, night
+    setting, and gestures.
+  cautions: May fit sacred_time, sacrifice, sacred_exchange, or apotropaic sacred_law
+    depending on rite purpose; source evidence needed.
+  suggested_aliases:
+  - full_moon_rite
+  - nocturnal_rite_with_triple_gestures
+  - triple_gesture_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-or-mourning-rite-for-insects-or-animals
+  motif_id: funeral_or_mourning_rite_for_insects_or_animals
+  label: Funeral or mourning rite for insects or animals
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core pattern is mourning or funerary treatment extended to nonhuman
+    beings.
+  cautions: Comparative label may be too broad or artificial; if formal rites dominate,
+    heroic_funeral_rites or ancestor_rites may be secondary but human/ancestor assumptions
+    should not be forced.
+  suggested_aliases:
+  - animal_mourning_rite
+  - funeral_rite_for_animals
+  - mourning_rite_for_nonhuman_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-rites-before-royal-installation
+  motif_id: funeral_rites_before_royal_installation
+  label: funeral rites before royal installation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: high
+  rationale: Funerary rites preceding installation function in succession and legitimizing
+    royal order.
+  cautions: If the passage emphasizes care for the dead rather than kingship transfer,
+    heroic_funeral_rites may be a secondary placement.
+  suggested_aliases:
+  - funerary_rites_before_coronation
+  - royal_installation_after_funeral_rites
+  - succession_funeral_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-rites-followed-by-lament
+  motif_id: funeral_rites_followed_by_lament
+  label: funeral rites followed by lament
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The sequence of funeral rites and lament fits memorial rites performed
+    for the dead.
+  cautions: If lament is the main feature rather than ritual memorialization, lament_and_mourning
+    may be the better primary group.
+  suggested_aliases:
+  - funeral_and_lament_sequence
+  - lament_after_funeral_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review and do not imply transmission
+  or common origin.
+- Several one-off ritual labels are over-specific and should be checked against passage
+  evidence before becoming stable children.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: ''
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0259
+  input_sha256: 3193c76462fb03ed3d72895dea8f7e54c4f644fb71a9036b9a7cce8211befab1

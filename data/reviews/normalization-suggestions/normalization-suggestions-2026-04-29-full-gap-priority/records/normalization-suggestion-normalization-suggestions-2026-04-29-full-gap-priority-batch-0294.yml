@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0294
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.reciprocal-prayer-at-textual-conclusion
+  motif_id: reciprocal_prayer_at_textual_conclusion
+  label: Reciprocal prayer at textual conclusion
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label points to a closing textual convention rather than a recurring
+    narrative or symbolic motif.
+  cautions: If the source describes a ritualized reciprocal prayer outside the text
+    ending, review under sacred_exchange or sacred_song.
+  suggested_aliases:
+  - concluding reciprocal prayer
+  - textual closing prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-divine-power-by-defeated-ritual-specialists
+  motif_id: recognition_of_divine_power_by_defeated_ritual_specialists
+  label: Recognition of divine power by defeated ritual specialists
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Defeated ritual specialists recognize superior sacred agency after a
+    divine act or contest.
+  cautions: Could also belong to divine_judgment if the defeat is framed as punishment,
+    or sacred_combat if the contest is central.
+  suggested_aliases:
+  - defeated magicians recognize divine power
+  - ritual specialists acknowledge divine authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reconciliation-of-hostile-beings-through-a-sacred-wand
+  motif_id: reconciliation_of_hostile_beings_through_a_sacred_wand
+  label: reconciliation of hostile beings through a sacred wand
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The wand is a sacred power object whose use produces reconciliation or
+    pacification.
+  cautions: If reconciliation rather than the object is the stable pattern, sacred_exchange
+    or divine_intervention may be secondary; single occurrence may be too episode-specific.
+  suggested_aliases:
+  - sacred wand pacifies hostile beings
+  - power object reconciles enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurrent-divine-intervention-at-catastrophe
+  motif_id: recurrent_divine_intervention_at_catastrophe
+  label: recurrent divine intervention at catastrophe
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The label directly describes repeated divine action during catastrophic
+    crises.
+  cautions: Use flood_and_renewal only if the catastrophe destroys and renews an old
+    world or cosmic order.
+  suggested_aliases:
+  - divine intervention during catastrophe
+  - repeated rescue at catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-divine-command-by-eblis
+  motif_id: refusal_of_divine_command_by_eblis
+  label: Refusal of divine command by Eblis
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The existing divine_intervention group already includes the closely related
+    child refused_homage_to_created_human.
+  cautions: This is a culturally specific named episode; preserve the Eblis/Iblis
+    detail as evidence and avoid flattening theological meaning.
+  suggested_aliases:
+  - Iblis refuses divine command
+  - refused homage to created human
+  - angelic refusal of command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-divine-offer-of-worldly-wealth
+  motif_id: refusal_of_divine_offer_of_worldly_wealth
+  label: refusal of divine offer of worldly wealth
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejecting worldly wealth offered by the divine fits renunciation on an
+    interior or devotional path.
+  cautions: If framed as a moral command rather than spiritual discipline, sacred_law
+    or covenant may be better.
+  suggested_aliases:
+  - renunciation of worldly wealth
+  - refusal of wealth as spiritual test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-military-aid-because-of-divine-resentment-and-past-disaster
+  motif_id: refusal_of_military_aid_because_of_divine_resentment_and_past_disaster
+  label: refusal of military aid because of divine resentment and past disaster
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes military decision, divine resentment, and memory of disaster,
+    and depends on source context.
+  cautions: Could fit divine_judgment, sacred_combat, divine_warrior, or be an over-specific
+    historical/passage detail.
+  suggested_aliases:
+  - military aid refused due to divine anger
+  - past disaster as omen against military aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-daily-prayer-cycle
+  motif_id: regulated_daily_prayer_cycle
+  label: Regulated daily prayer cycle
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: A daily prayer schedule orders time through recurring sacred ritual practice.
+  cautions: May also relate to covenant or sacred_law if the passage emphasizes obligation
+    rather than temporal rhythm.
+  suggested_aliases:
+  - daily prayer cycle
+  - scheduled prayer times
+  - ritual prayer cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulation-of-divine-stories-for-youth-education
+  motif_id: regulation_of_divine_stories_for_youth_education
+  label: regulation of divine stories for youth education
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns controlling sacred narrative transmission for moral
+    or educational formation.
+  cautions: Could be philosophical commentary or pedagogy rather than a mythic motif;
+    review whether it should be excluded as textual/social theory.
+  suggested_aliases:
+  - regulated sacred storytelling for youth
+  - censorship of divine stories for education
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-divine-lover-retaliates-against-rival
+  motif_id: rejected_divine_lover_retaliates_against_rival
+  label: rejected divine lover retaliates against rival
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The episode centers on divine love or desire turning into retaliatory
+    action against a rival.
+  cautions: If the retaliation is the key function, divine_judgment or divine_intervention
+    may be secondary; single named-episode context may be too specific.
+  suggested_aliases:
+  - jealous divine lover punishes rival
+  - divine lover's rejected desire causes retaliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review and do not imply transmission
+  or common origin.
+- Several one-off labels are highly contextual; preserve local evidence notes where
+  the generated label names a specific episode or theological figure.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Batch reviewed for best-fit normalization group placement; human review recommended
+    for culturally specific Islamic and Roman contextual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0294
+  input_sha256: 306b0b0fc7068cd54bb3058c50fd109c7f3dded103e55e81ce72ae683f71d61f

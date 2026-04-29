@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0286
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prayer-in-danger-followed-by-forgetfulness-after-rescue
+  motif_id: prayer_in_danger_followed_by_forgetfulness_after_rescue
+  label: Prayer in danger followed by forgetfulness after rescue
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label frames distress prayer, rescue, and subsequent ingratitude
+    as a moral-reckoning pattern.
+  cautions: Could also fit covenant or sacred_exchange if the passage emphasizes obligation
+    after deliverance; single Islamic occurrence should be reviewed in context.
+  suggested_aliases:
+  - prayer in distress followed by forgetfulness after rescue
+  - forgetfulness after deliverance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-in-distress-followed-by-forgetfulness-after-deliverance
+  motif_id: prayer_in_distress_followed_by_forgetfulness_after_deliverance
+  label: prayer in distress followed by forgetfulness after deliverance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: alias
+  confidence: medium
+  rationale: This is effectively the same distress-prayer and post-rescue forgetfulness
+    motif as the prior label.
+  cautions: May be a duplicate generated label; verify whether the source passage
+    is the same before merging evidence.
+  suggested_aliases:
+  - prayer in danger followed by forgetfulness after rescue
+  - prayer after distress forgotten after deliverance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-overcomes-a-troll-s-spell
+  motif_id: prayer_overcomes_a_troll_s_spell
+  label: Prayer overcomes a troll's spell
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Prayer functions as a sacred appeal that defeats harmful supernatural
+    magic.
+  cautions: Could fit apotropaic protection under sacred_law if treated as a protective
+    rite rather than direct intervention; troll specificity should remain evidence
+    detail.
+  suggested_aliases:
+  - prayer defeats harmful spell
+  - sacred prayer overcomes enchantment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pre-creation-divine-throne-over-waters
+  motif_id: pre_creation_divine_throne_over_waters
+  label: pre-creation divine throne over waters
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Pre-creation waters and divine enthronement belong to primordial creation
+    imagery.
+  cautions: Do not reduce this to flood imagery; the waters are pre-cosmic rather
+    than destructive unless the passage says otherwise.
+  suggested_aliases:
+  - divine throne over primordial waters
+  - pre-cosmic waters beneath divine throne
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predatory-fiends-devour-holy-persons
+  motif_id: predatory_fiends_devour_holy_persons
+  label: predatory fiends devour holy persons
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines demonic predation, violence against holy persons,
+    and possible sacrilege without enough functional context.
+  cautions: Could fit sacred_combat, sacrifice, divine_judgment, or a monster/predation
+    group not present; avoid mapping until the passage shows whether this is ordeal,
+    martyrdom, demon attack, or ritual pollution.
+  suggested_aliases:
+  - fiends devour holy persons
+  - demonic devouring of ascetics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predestination-as-hidden-divine-mystery
+  motif_id: predestination_as_hidden_divine_mystery
+  label: predestination as hidden divine mystery
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: narrower_than
+  confidence: medium
+  rationale: Hidden predestination is a theological mystery concerning inaccessible
+    divine knowledge.
+  cautions: Could also relate to death_by_fate or mystical_quest depending on whether
+    the passage emphasizes destiny, contemplative insight, or divine secrecy.
+  suggested_aliases:
+  - hidden mystery of predestination
+  - divine decree as hidden knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preservation-of-sacred-or-poetic-fire
+  motif_id: preservation_of_sacred_or_poetic_fire
+  label: preservation of sacred or poetic fire
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The motif directly concerns sacred fire as a preserved divine or inspired
+    power.
+  cautions: If poetic fire is metaphorical authorship rather than ritual or divine
+    fire, storytelling_as_power may be a secondary review option.
+  suggested_aliases:
+  - preserved sacred fire
+  - poetic fire preserved
+  - divine fire preserved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preserved-hair-followed-by-ritual-cutting-at-altars
+  motif_id: preserved_hair_followed_by_ritual_cutting_at_altars
+  label: Preserved hair followed by ritual cutting at altars
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual hair cutting at altars is a bodily offering or consecrated surrender.
+  cautions: Preserved hair may imply external-soul or life-token beliefs in some contexts;
+    review whether the hair is an offering, vow token, mourning rite, or soul-bearing
+    substance.
+  suggested_aliases:
+  - ritual hair offering at altars
+  - hair cutting as altar offering
+  - preserved hair consecrated by cutting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.priestess-violated-captured-and-killed
+  motif_id: priestess_violated_captured_and_killed
+  label: priestess violated, captured, and killed
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a violent episode involving a sacred role but does not state
+    a stable ritual or mythic function.
+  cautions: Culturally and sexually violent content needs source-sensitive review;
+    may be episode-specific, sacrilege, martyrdom, war violence, or political founding
+    narrative rather than a reusable motif.
+  suggested_aliases:
+  - capture and killing of priestess
+  - violence against priestess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.priestly-mediation-between-gods-and-humans
+  motif_id: priestly_mediation_between_gods_and_humans
+  label: priestly mediation between gods and humans
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: role_variant
+  confidence: medium
+  rationale: Priestly mediation organizes reciprocal communication and offerings between
+    humans and gods.
+  cautions: If the passage emphasizes office, hierarchy, or temple authority, sacred_law
+    or royal_legitimacy could be secondary; no separate priesthood group currently
+    exists.
+  suggested_aliases:
+  - priest as mediator between gods and humans
+  - ritual mediation by priest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- The two Islamic prayer-forgetfulness labels appear near-duplicates and should be
+  checked for duplicate passage evidence before indexing separately.
+- Several single-occurrence violent or culturally sensitive labels should remain provisional
+  until source context clarifies narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai-api
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy changes made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0286
+  input_sha256: 84c4f47e1336413f2e84de68f15b212cce91aacfb375b222d51d9ccf02fadda5

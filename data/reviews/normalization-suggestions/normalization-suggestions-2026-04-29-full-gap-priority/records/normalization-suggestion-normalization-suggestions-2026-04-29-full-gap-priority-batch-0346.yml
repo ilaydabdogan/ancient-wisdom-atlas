@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0346
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.arming-against-a-feared-special-weapon
+  motif_id: arming_against_a_feared_special_weapon
+  label: arming against a feared special weapon
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes battle preparation around a fearsome weapon, fitting
+    the combat/warfare complex.
+  cautions: Single occurrence and may be an episode-specific tactical detail unless
+    the weapon has sacred or heroic significance.
+  suggested_aliases:
+  - arming against special weapon
+  - preparation against feared weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armored-or-protected-enemy-defeated-through-a-single-exposed-point
+  motif_id: armored_or_protected_enemy_defeated_through_a_single_exposed_point
+  label: armored or protected enemy defeated through a single exposed point
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Vulnerable Point of the Invulnerable Foe
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a recognizable recurring heroic-combat pattern where protection
+    is overcome through one vulnerable spot.
+  cautions: Current groups cover combat broadly but do not preserve the distinctive
+    invulnerability/vulnerable-point structure; confirm recurrence before adding.
+  suggested_aliases:
+  - single vulnerable point
+  - invulnerable enemy with exposed weakness
+  - protected foe defeated through weak spot
+  suggested_new_group:
+    id: vulnerable_point
+    label: Vulnerable Point of the Invulnerable Foe
+    description: A seemingly invulnerable, armored, magically protected, or otherwise
+      defended foe is defeated by discovering or striking one exposed vulnerable point.
+    parent_group_ids:
+    - sacred_combat
+    - divine_warrior
+    related_group_ids:
+    - external_soul
+    - sacred_treasures
+    - initiation
+    reason_existing_groups_insufficient: Sacred combat captures the battle setting,
+      but not the specific structural motif of invulnerability limited by a hidden
+      or exposed weakness.
+- suggestion_id: normalization.suggestion.army-musters-with-urgent-war-readiness
+  motif_id: army_musters_with_urgent_war_readiness
+  label: army musters with urgent war-readiness
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Mustering for battle belongs under the warfare and raid-preparation field.
+  cautions: Likely a narrative staging detail; do not promote unless repeated as ritualized
+    war preparation.
+  suggested_aliases:
+  - urgent war muster
+  - army mustering before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.army-seeks-a-champion-to-face-an-overwhelming-hero
+  motif_id: army_seeks_a_champion_to_face_an_overwhelming_hero
+  label: Army seeks a champion to face an overwhelming hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on selecting a champion for single combat within a
+    wider battle context.
+  cautions: Could merit a future single-combat/champion group if many related labels
+    recur.
+  suggested_aliases:
+  - champion sought for single combat
+  - army seeks champion
+  - champion against overwhelming hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.assembly-of-chiefs-before-final-battle
+  motif_id: assembly_of_chiefs_before_final_battle
+  label: assembly of chiefs before final battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A war council before climactic battle is part of the ritualized warfare
+    narrative field.
+  cautions: May be a plot-organization or political assembly detail rather than a
+    motif; royal_legitimacy may be secondary if authority and counsel dominate.
+  suggested_aliases:
+  - war council before final battle
+  - chiefs assemble before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.athletic-contest-with-ranked-prizes
+  motif_id: athletic_contest_with_ranked_prizes
+  label: athletic contest with ranked prizes
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ranked athletic prizes often fit funeral games or heroic memorial contests
+    in classical epic contexts.
+  cautions: If not connected to funeral rites or heroic memorialization, this may
+    need a broader contest/games group or be excluded as a scene detail.
+  suggested_aliases:
+  - ranked prizes in athletic contest
+  - funeral games with prizes
+  - heroic athletic contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.attempt-to-evade-prophetic-disclosure-by-changing-the-murder-weapon
+  motif_id: attempt_to_evade_prophetic_disclosure_by_changing_the_murder_weapon
+  label: attempt to evade prophetic disclosure by changing the murder weapon
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is response to prophecy or disclosure, with the weapon
+    change as the attempted evasion.
+  cautions: Could instead belong under death_by_fate if the emphasis is inescapable
+    destined death; source context is needed.
+  suggested_aliases:
+  - attempted evasion of prophecy
+  - changing murder weapon to evade prophecy
+  - prophecy evaded by altered weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.attendant-warns-or-praises-before-battle
+  motif_id: attendant_warns_or_praises_before_battle
+  label: attendant warns or praises before battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate counsel, praise poetry, warning omen, or battle-retainer
+    speech.
+  cautions: Too dependent on passage function; may map to sacred_combat, wisdom, dream_and_vision,
+    or storytelling_as_power depending on evidence.
+  suggested_aliases:
+  - battle attendant warning
+  - praise before battle
+  - warning before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.auspicious-omens-before-battle
+  motif_id: auspicious_omens_before_battle
+  label: auspicious omens before battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: Omens are revelatory signs that disclose battle outcome or divine favor.
+  cautions: Secondary mapping to sacred_combat or divine_intervention may be useful
+    if the omen actively authorizes or alters the battle.
+  suggested_aliases:
+  - battle omens
+  - auspicious battle signs
+  - omens before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.austere-heroic-warrior-regimen
+  motif_id: austere_heroic_warrior_regimen
+  label: austere heroic-warrior regimen
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: An austere warrior discipline functions as training or ordeal that shapes
+    heroic status.
+  cautions: If the passage emphasizes ethical self-mastery more than status transformation,
+    sacred_law or wisdom may be secondary; if only descriptive, it may be over-specific.
+  suggested_aliases:
+  - heroic warrior discipline
+  - austere warrior training
+  - warrior regimen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence Celtic Irish battle-scene details;
+  map broadly for review but avoid promoting tactical staging into canonical motifs
+  without recurrence.
+- For battle prophecy items, distinguish omens/revelation from fate/death-destiny
+  and from ordinary military strategy.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_normalizer
+  reviewed_at: ''
+  notes: Provisional placements only; human review should check source passages for
+    ritual, prophetic, or merely narrative-staging function.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0346
+  input_sha256: 63678988007d46427493fce0cb5b99af5b4042894a6af27aa761b9dd0477042a

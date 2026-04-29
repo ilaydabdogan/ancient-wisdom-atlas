@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0297
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.reverence-and-circumambulation-of-a-sacred-tree
+  motif_id: reverence_and_circumambulation_of_a_sacred_tree
+  label: reverence and circumambulation of a sacred tree
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: high
+  rationale: A sacred tree receiving reverential circumambulation fits tree-as-sacred-center
+    or axis imagery with ritual practice.
+  cautions: If the passage emphasizes devotional rite more than cosmic tree symbolism,
+    sacred_exchange may be a secondary review option.
+  suggested_aliases:
+  - sacred tree circumambulation
+  - tree reverence
+  - ritual circumambulation of sacred tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reverence-before-a-sacred-messenger
+  motif_id: reverence_before_a_sacred_messenger
+  label: reverence before a sacred messenger
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A sacred messenger can function as divine guidance or mediation in human
+    affairs.
+  cautions: May be a culturally specific act of veneration or etiquette rather than
+    a reusable motif; review whether the messenger is angelic, prophetic, or textual.
+  suggested_aliases:
+  - veneration of sacred messenger
+  - reverence for divine messenger
+  - homage before messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reversal-through-divine-care-guidance-and-enrichment
+  motif_id: reversal_through_divine_care_guidance_and_enrichment
+  label: reversal through divine care, guidance, and enrichment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The label centers on divine action reversing human adversity through
+    guidance and provision.
+  cautions: Could also imply divine reward or moral vindication; map to divine_judgment
+    only if judgment/reckoning is explicit.
+  suggested_aliases:
+  - divine reversal of fortune
+  - divine care and enrichment
+  - guidance and provision by God
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rhyme-as-persuasive-sacred-style
+  motif_id: rhyme_as_persuasive_sacred_style
+  label: rhyme as persuasive sacred style
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Sacred poetic style may belong with speech or narrative as persuasive
+    power.
+  cautions: This may be a rhetorical or literary-form observation rather than a narrative
+    motif; exclude if it only describes style or textual features.
+  suggested_aliases:
+  - sacred rhyme
+  - persuasive sacred speech style
+  - rhymed sacred discourse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.righteous-across-communities-rewarded-by-god
+  motif_id: righteous_across_communities_rewarded_by_god
+  label: Righteous across communities rewarded by God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine reward for righteousness is a positive form of moral reckoning
+    across communities.
+  cautions: Could be ethical teaching rather than motif; preserve cross-community
+    inclusiveness as evidence detail.
+  suggested_aliases:
+  - divine reward for righteousness
+  - righteous people rewarded by God
+  - righteous across communities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.righteous-believer-within-tyrannical-household-seeks-divine-refuge
+  motif_id: righteous_believer_within_tyrannical_household_seeks_divine_refuge
+  label: righteous believer within tyrannical household seeks divine refuge
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Seeking divine refuge under tyranny can fit divine protection or guidance,
+    but the label is highly contextual.
+  cautions: May be an episode-specific characterization rather than a motif; if persecution,
+    martyrdom, or household opposition is central, no current group fits cleanly.
+  suggested_aliases:
+  - divine refuge under tyranny
+  - righteous believer seeks refuge
+  - pious figure in tyrannical household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-abstention-from-specific-foods
+  motif_id: ritual_abstention_from_specific_foods
+  label: Ritual abstention from specific foods
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Food abstention as a ritual rule fits sacred law, taboo, and ritual prohibition
+    patterns.
+  cautions: If abstention is vow-offering or ascetic renunciation, sacred_exchange
+    or sacrifice may be secondary.
+  suggested_aliases:
+  - food taboo
+  - ritual dietary abstention
+  - abstention from forbidden foods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-abundance-and-communal-feeding
+  motif_id: ritual_abundance_and_communal_feeding
+  label: ritual abundance and communal feeding
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: high
+  rationale: Communal ritual feeding and abundance enact giving, reciprocity, and
+    sacred relationship.
+  cautions: Could also map to sacrifice if food is explicitly offered to deities before
+    distribution, or sacred_time if calendrical.
+  suggested_aliases:
+  - communal ritual feeding
+  - sacred abundance feast
+  - ritual food distribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-alternation-of-mourning-and-merriment-for-a-goddess-s-loss
+  motif_id: ritual_alternation_of_mourning_and_merriment_for_a_goddess_s_loss
+  label: ritual alternation of mourning and merriment for a goddess's loss
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Alternating mourning and merriment in a goddess cult suggests cyclical
+    ritual time tied to loss and renewal.
+  cautions: May also involve lament_and_mourning, mother_goddess, or seasonal_cycle;
+    verify whether the rite is calendrical and recurrent.
+  suggested_aliases:
+  - mourning and merriment cycle
+  - goddess loss ritual cycle
+  - ritual grief and joy alternation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-and-magical-remedies-proposed-for-hidden-suffering
+  motif_id: ritual_and_magical_remedies_proposed_for_hidden_suffering
+  label: ritual and magical remedies proposed for hidden suffering
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Remedial ritual or magic may involve sacred intervention, healing, or
+    protection, but the function is unclear.
+  cautions: Likely contextual and broad; could be medical-magical commentary rather
+    than a durable motif. Review source evidence before indexing.
+  suggested_aliases:
+  - magical remedies for suffering
+  - ritual remedies for hidden pain
+  - healing rites for concealed suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several single-occurrence labels are highly contextual and should remain evidence
+  details unless recurrence is demonstrated.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch contains a mix of clear ritual-law/exchange placements and several
+    contextual Islamic/Roman labels needing source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0297
+  input_sha256: 3b7bb4a14cf319242fc8b40759ae4c911443f269722c87dc9428de12ee5befd0

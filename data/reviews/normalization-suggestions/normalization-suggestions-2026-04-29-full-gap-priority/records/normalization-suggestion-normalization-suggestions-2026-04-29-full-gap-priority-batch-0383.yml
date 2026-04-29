@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0383
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-isolated-against-an-army-at-a-ford
+  motif_id: hero_isolated_against_an_army_at_a_ford
+  label: hero isolated against an army at a ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ford combat scene with an isolated hero fits the existing single-combat/warfare
+    complex, especially where fords function as liminal battle sites.
+  cautions: Could be an episode-specific heroic detail unless the ford duel or ritualized
+    boundary combat is central in the passage.
+  suggested_aliases:
+  - isolated hero at ford
+  - single combat at ford
+  - heroic stand at a ford
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-killed-through-a-vulnerable-heel
+  motif_id: hero_killed_through_a_vulnerable_heel
+  label: hero killed through a vulnerable heel
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Vulnerable Spot and Conditional Invulnerability
+  relationship: child
+  confidence: medium
+  rationale: The key pattern is a nearly invulnerable hero killed through a single
+    vulnerable body point, not covered well by general sacred combat or external soul.
+  cautions: Single occurrence in this batch and likely tied to Achilles reception;
+    review for recurrence before promoting. Could be parked under death_by_fate or
+    divine_warrior if taxonomy expansion is not desired.
+  suggested_aliases:
+  - Achilles heel
+  - single vulnerable spot
+  - conditional invulnerability
+  - hero slain through vulnerable point
+  suggested_new_group:
+    id: vulnerable_spot
+    label: Vulnerable Spot and Conditional Invulnerability
+    description: A hero, monster, or powerful being is invulnerable except for one
+      hidden or limited point, condition, substance, or circumstance through which
+      death or defeat becomes possible.
+    parent_group_ids:
+    - death_by_fate
+    - divine_warrior
+    related_group_ids:
+    - external_soul
+    - sacred_combat
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups cover externalized life tokens
+      and heroic combat, but not vulnerability located in the body or conditional
+      invulnerability as the decisive death mechanism.
+- suggestion_id: normalization.suggestion.hero-kills-nightly-spies-sent-against-him
+  motif_id: hero_kills_nightly_spies_sent_against_him
+  label: hero kills nightly spies sent against him
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a granular episode detail of military action rather than
+    a durable symbolic or narrative motif.
+  cautions: If repeated as a formal nocturnal ambush ordeal, it could be reviewed
+    under sacred_combat; current label is too specific.
+  suggested_aliases:
+  - hero kills spies at night
+  - nightly spies slain by hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-magnified-by-natural-and-celestial-imagery
+  motif_id: hero_magnified_by_natural_and_celestial_imagery
+  label: hero magnified by natural and celestial imagery
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe poetic simile or heroic glorification rather than
+    a narrative motif.
+  cautions: Could be a textual/rhetorical artifact; if the passage depicts actual
+    cosmic signs or divine radiance, dream_and_vision, theophany, or divine_warrior
+    may fit.
+  suggested_aliases:
+  - heroic cosmic imagery
+  - hero likened to celestial forces
+  - hero magnified by nature imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-observed-by-an-opposing-camp-s-representative
+  motif_id: hero_observed_by_an_opposing_camp_s_representative
+  label: hero observed by an opposing camp’s representative
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Observation by an enemy representative appears to be a scene function
+    or narrative staging detail rather than a reusable mythic motif.
+  cautions: If the observer serves as herald, tester, or formal witness to heroic
+    status, review under sacred_combat or storytelling_as_power.
+  suggested_aliases:
+  - enemy observer witnesses hero
+  - opposing camp representative observes hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-overwhelmed-in-unequal-group-combat
+  motif_id: hero_overwhelmed_in_unequal_group_combat
+  label: hero overwhelmed in unequal group combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero defeated or killed in unequal combat fits the heroic warrior death
+    and battle ordeal complex already under divine_warrior.
+  cautions: If the emphasis is unfair battle tactics rather than sacred/heroic death,
+    sacred_combat may be a better group; preserve as granular evidence.
+  suggested_aliases:
+  - hero overwhelmed by many foes
+  - unequal combat death
+  - heroic last stand against many
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-pauses-battle-to-restore-exhausted-steeds
+  motif_id: hero_pauses_battle_to_restore_exhausted_steeds
+  label: Hero pauses battle to restore exhausted steeds
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate heroic compassion, battle etiquette, divine aid,
+    or a passage-specific pause in combat.
+  cautions: Could map to sacred_combat if ritual battle conduct is central, or divine_intervention
+    if restoration is supernatural. Source evidence is needed.
+  suggested_aliases:
+  - battle pause to restore steeds
+  - hero restores exhausted horses
+  - compassion toward war steeds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-praised-in-formal-welcome
+  motif_id: hero_praised_in_formal_welcome
+  label: hero praised in formal welcome
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Formal praise on arrival is likely a social or narrative scene detail
+    rather than a distinct mythic motif.
+  cautions: If praise speech confers status, legitimizes rule, or transmits heroic
+    memory, review under storytelling_as_power or royal_legitimacy.
+  suggested_aliases:
+  - formal welcome praise
+  - hero welcomed with praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-praised-through-catalogue-of-exploits-before-battle
+  motif_id: hero_praised_through_catalogue_of_exploits_before_battle
+  label: Hero praised through catalogue of exploits before battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A formal catalogue of exploits uses speech and memory to establish heroic
+    identity and power before combat.
+  cautions: If the catalogue functions only as battle rhetoric, it may be too specific;
+    secondary relation to divine_warrior or sacred_combat may be useful.
+  suggested_aliases:
+  - catalogue of heroic exploits
+  - praise catalogue before battle
+  - heroic aristeia recitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-protects-ascetics-by-defeating-a-violent-giant
+  motif_id: hero_protects_ascetics_by_defeating_a_violent_giant
+  label: hero protects ascetics by defeating a violent giant
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero defeats a violent giant to protect religious specialists, fitting
+    sacred combat that restores or defends sacred order.
+  cautions: Could also relate to divine_judgment or divine_intervention if the defeat
+    is framed as punishment or divinely guided protection.
+  suggested_aliases:
+  - hero protects ascetics
+  - giant defeated to protect ascetics
+  - sacred protector defeats giant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence heroic battle scene details;
+  avoid promoting them unless recurrence across sources is demonstrated.
+- For conflict labels, distinguish sacred/ritual combat from ordinary plot mechanics
+  or poetic description.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify passage context,
+    especially for over-specific Celtic battle details and the proposed vulnerable_spot
+    group.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0383
+  input_sha256: 6cfc1406ea680adc9a08b00ec6120d244b1123e817e127f98f56b918ff354bfd

@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0300
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-election-or-designation-of-a-seasonal-king-by-race
+  motif_id: ritual_election_or_designation_of_a_seasonal_king_by_race
+  label: Ritual election or designation of a seasonal king by race
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns ritually designating kingship, so sacred kingship
+    and legitimation are the main functions.
+  cautions: The seasonal and race components may also connect to sacred_time or ritual
+    contest; verify whether this is a Frazerian comparative artifact before indexing
+    broadly.
+  suggested_aliases:
+  - seasonal king by race
+  - ritual designation of seasonal king
+  - ritual election of sacred king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-enactment-of-rain-and-cloud-formation
+  motif_id: ritual_enactment_of_rain_and_cloud_formation
+  label: Ritual enactment of rain and cloud formation
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rainmaking enactment fits ritual action intended to secure divine or
+    spirit-mediated benefit, close to existing rainmaking/coercion material under
+    sacred_exchange.
+  cautions: Could warrant a future weather-ritual group if many rainmaking labels
+    recur; do not infer divine exchange if the source frames it as imitative magic
+    only.
+  suggested_aliases:
+  - rainmaking ritual enactment
+  - cloud formation rite
+  - ritual imitation of rain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-establishment-of-property-boundaries
+  motif_id: ritual_establishment_of_property_boundaries
+  label: ritual establishment of property boundaries
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ritually marking property boundaries sacralizes social order, legal limits,
+    and obligations.
+  cautions: If the passage emphasizes a boundary deity or liminal encounter, threshold-related
+    indexing may be secondary; preserve property-law specificity as evidence.
+  suggested_aliases:
+  - ritual boundary establishment
+  - sacral property boundary
+  - ritual marking of land limits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-exclusion-due-to-mythic-injury
+  motif_id: ritual_exclusion_due_to_mythic_injury
+  label: ritual exclusion due to mythic injury
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a ritual prohibition grounded in mythic precedent,
+    which may fit sacred_law.
+  cautions: 'Ambiguous without source context: it could be local cult etiquette, etiological
+    myth, disability/injury taboo, or commentary artifact. Review cultural sensitivity
+    before mapping.'
+  suggested_aliases:
+  - ritual exclusion from mythic wound
+  - mythic injury taboo
+  - cult exclusion due to injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-expulsion-of-a-tempter-by-stones
+  motif_id: ritual_expulsion_of_a_tempter_by_stones
+  label: ritual expulsion of a tempter by stones
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The act functions as ritual expulsion of a harmful/temping force, matching
+    existing expulsion material under sacrifice.
+  cautions: Stone-throwing and Islamic pilgrimage context should be preserved; may
+    also relate to sacred_law or divine_judgment depending on passage emphasis.
+  suggested_aliases:
+  - stoning the tempter
+  - ritual stoning as expulsion
+  - expulsion of tempter by stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-expulsion-or-transference-of-evil
+  motif_id: ritual_expulsion_or_transference_of_evil
+  label: ritual expulsion or transference of evil
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: This directly matches the existing expulsion, scapegoat, and ritual-transfer
+    complex placed under sacrifice.
+  cautions: If no offering, substitute, or sacrificial transfer is present, sacred_law/apotropaic
+    protection may be a secondary or better local mapping.
+  suggested_aliases:
+  - ritual transfer of evil
+  - expulsion of evil rite
+  - evil transference ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-fasting-and-liminal-time-marking
+  motif_id: ritual_fasting_and_liminal_time_marking
+  label: ritual fasting and liminal time-marking
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif combines fasting with marking sacred or liminal time, fitting
+    ritual cycles and sacred temporal order.
+  cautions: If fasting is framed mainly as surrender, vow, or discipline, sacrifice
+    or sacred_law may be relevant secondary groups.
+  suggested_aliases:
+  - fasting as liminal time marker
+  - ritual fasting in sacred time
+  - fasting and sacred calendar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-fasting-as-obedient-fear-of-god
+  motif_id: ritual_fasting_as_obedient_fear_of_god
+  label: ritual fasting as obedient fear of God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label emphasizes obedient piety and divine command, aligning fasting
+    with sacred law and moral discipline.
+  cautions: Could also fit sacrifice as renunciation or sacred_exchange as devotional
+    offering; preserve Islamic devotional framing.
+  suggested_aliases:
+  - fasting as obedient piety
+  - fasting from fear of God
+  - ritual fasting as divine obedience
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-fire-at-a-goddess-sanctuary
+  motif_id: ritual_fire_at_a_goddess_sanctuary
+  label: ritual fire at a goddess sanctuary
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: A ritual fire in a sanctuary is a clear sacred-fire use as cultic presence
+    or medium.
+  cautions: If the goddess sanctuary is the main focus, mother_goddess or sacred space
+    notes may be secondary; avoid overgeneralizing from one local cult detail.
+  suggested_aliases:
+  - sanctuary ritual fire
+  - goddess sanctuary fire
+  - cultic fire at goddess shrine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-fire-made-under-metal-prohibition
+  motif_id: ritual_fire_made_under_metal_prohibition
+  label: ritual fire made under metal prohibition
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core recurring element is ritually regulated sacred fire, with metal
+    avoidance as a purity or taboo condition.
+  cautions: The metal prohibition may instead belong under sacred_law if the passage
+    emphasizes taboo more than fire; likely over-specific as a standalone motif.
+  suggested_aliases:
+  - ritual fire with metal taboo
+  - metal-free sacred fire making
+  - fire making under ritual prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence ritual labels; preserve local ritual
+  details as evidence rather than promoting them to canonical motif families.
+- Several comparative rainmaking, seasonal-king, and expulsion labels may reflect
+  older comparative-folklore categories; source evidence should be checked before
+  broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft machine suggestions only; ritual and culturally specific items require
+    human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0300
+  input_sha256: 24977743bd07703c7f3cdb317b385598a80a8f92b498060f14d8851e33e97a28

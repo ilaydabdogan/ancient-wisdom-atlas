@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0296
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.removal-of-sacred-protection-followed-by-disorder
+  motif_id: removal_of_sacred_protection_followed_by_disorder
+  label: removal of sacred protection followed by disorder
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on withdrawal of divine or sacred protection and resulting
+    disorder, a negative form of sacred intervention in human affairs.
+  cautions: Could also fit divine_judgment if disorder is punishment for transgression;
+    source context needed.
+  suggested_aliases:
+  - withdrawal of sacred protection
+  - loss of divine protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renamed-concealed-immortal-under-divine-protection
+  motif_id: renamed_concealed_immortal_under_divine_protection
+  label: renamed concealed immortal under divine protection
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Concealment under divine protection suggests protective divine intervention,
+    but the renaming and immortality details may be locally specific.
+  cautions: May belong with immortality_without_renewal, sacred_treasures, apotheosis,
+    or a passage-specific identity concealment episode; verify source evidence.
+  suggested_aliases:
+  - concealed immortal under divine protection
+  - divinely protected hidden immortal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciation-of-hostile-kin-for-divine-allegiance
+  motif_id: renunciation_of_hostile_kin_for_divine_allegiance
+  label: Renunciation of hostile kin for divine allegiance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Renouncing kinship ties for divine allegiance functions as surrender
+    of attachment in a sacred relationship, close to renunciation and covenantal loyalty.
+  cautions: Could also map to covenant if the emphasis is formal allegiance or law;
+    avoid flattening Islamic theological context.
+  suggested_aliases:
+  - renunciation for divine allegiance
+  - kinship renounced for sacred loyalty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repentance-before-punishment-and-divine-mercy
+  motif_id: repentance_before_punishment_and_divine_mercy
+  label: repentance before punishment and divine mercy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Repentance averting or preceding punishment and mercy belongs to divine
+    moral reckoning and response to transgression.
+  cautions: If framed as covenant repair or ritual atonement, secondary links to covenant
+    or sacrifice may be useful.
+  suggested_aliases:
+  - repentance before divine punishment
+  - divine mercy after repentance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repentance-followed-by-divine-mercy
+  motif_id: repentance_followed_by_divine_mercy
+  label: repentance followed by divine mercy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif describes divine evaluation of repentance and merciful response,
+    a clear judgment-and-repair pattern.
+  cautions: Could be a recurring subpattern if many repentance/mercy labels appear;
+    for now divine_judgment can hold it.
+  suggested_aliases:
+  - repentance and divine mercy
+  - mercy following repentance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.resistance-to-a-god-s-rites
+  motif_id: resistance_to_a_god_s_rites
+  label: resistance to a god’s rites
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Refusal or resistance to divine rites usually frames ritual transgression
+    subject to sacred consequence.
+  cautions: If the passage focuses on cult introduction, social conflict, or political
+    suppression rather than judgment, sacred_law or divine_intervention may fit better.
+  suggested_aliases:
+  - refusal of divine rites
+  - resistance to cult rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-of-suppressed-gods-and-erasure-of-reformer
+  motif_id: restoration_of_suppressed_gods_and_erasure_of_reformer
+  label: restoration of suppressed gods and erasure of reformer
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a historical or comparative religious reform/reaction
+    pattern rather than a clear narrative motif.
+  cautions: May be a commentary or historiographic artifact; avoid treating as evidence
+    of transmission or theological judgment without source context.
+  suggested_aliases:
+  - restoration of suppressed cults
+  - erasure of religious reformer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restored-youth-or-accelerated-maturity-by-divine-or-fated-agency
+  motif_id: restored_youth_or_accelerated_maturity_by_divine_or_fated_agency
+  label: restored youth or accelerated maturity by divine or fated agency
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restored youth or altered maturation is a bodily transformation into
+    a renewed life stage, caused by divine or fated agency.
+  cautions: If the key issue is defective immortality or rejuvenation without renewal,
+    immortality_without_renewal may be relevant; if childhood destiny is central,
+    miraculous_child may fit.
+  suggested_aliases:
+  - restored youth by divine agency
+  - accelerated maturity by fate
+  - divinely altered life stage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restraint-of-the-armed-hero-in-a-sacred-refuge
+  motif_id: restraint_of_the_armed_hero_in_a_sacred_refuge
+  label: Restraint of the armed hero in a sacred refuge
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred refuge restraining an armed hero implies inviolable sanctuary
+    rules that subordinate violence to sacred order.
+  cautions: Could also relate to sacred_combat or divine_warrior if the focus is heroic
+    warfare; source context should confirm sanctuary law rather than episode detail.
+  suggested_aliases:
+  - armed hero restrained by sanctuary
+  - sacred refuge restrains violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restricted-remarriage-of-wives-of-sacred-or-ruling-figure
+  motif_id: restricted_remarriage_of_wives_of_sacred_or_ruling_figure
+  label: restricted remarriage of wives of sacred or ruling figure
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a marital restriction tied to the sacred or ruling
+    status of a figure, fitting sacred law and social order.
+  cautions: Culturally sensitive and possibly legal-historical rather than mythic;
+    if it only records a rule for one community, keep as granular evidence.
+  suggested_aliases:
+  - restricted remarriage after sacred ruler
+  - marital prohibition for wives of sacred figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional placements for review; several single-occurrence
+  labels may be contextual legal, historical, or commentary artifacts rather than
+  durable motifs.
+- Repentance/mercy items may later justify a narrower judgment-repair subgroup if
+  similar labels recur.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes culturally sensitive Islamic legal/theological labels and
+    comparative reform-history wording requiring source verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0296
+  input_sha256: 74cb41adb5944db29c8eb94582527414638de866c189ade93df1a029b29226dd

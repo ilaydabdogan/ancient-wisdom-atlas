@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0258
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fire-subdued-by-sacred-or-animal-power
+  motif_id: fire_subdued_by_sacred_or_animal_power
+  label: Fire subdued by sacred or animal power
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on fire as a sacred force being controlled or pacified
+    by nonordinary power.
+  cautions: Animal agency may instead point to divine_intervention or shapeshifter
+    depending on the passage; do not treat as world-destroying fire unless cosmic
+    destruction is explicit.
+  suggested_aliases:
+  - sacred power subdues fire
+  - animal power controls fire
+  - fire pacified by sacred agency
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.first-human-formed-from-earth-and-animated-by-god
+  motif_id: first_human_formed_from_earth_and_animated_by_god
+  label: first human formed from earth and animated by God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Formation and animation of the first human is an anthropogonic creation
+    motif within cosmic origin traditions.
+  cautions: Could support a future human-creation subgroup if many anthropogony labels
+    recur; avoid collapsing into sacred_birth because this is creation of humanity,
+    not ordinary birth.
+  suggested_aliases:
+  - first human formed from earth
+  - human creation from clay
+  - divine animation of first human
+  - anthropogony from earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fixed-sacred-number-of-gods
+  motif_id: fixed_sacred_number_of_gods
+  label: Fixed sacred number of gods
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A fixed divine number may be cosmological numerology, pantheon classification,
+    ritual enumeration, or textual convention.
+  cautions: Label alone does not show a narrative function; may be a scholastic or
+    passage-specific classification rather than a motif.
+  suggested_aliases:
+  - sacred number of gods
+  - fixed divine enumeration
+  - numbered pantheon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.flying-car-possessed-by-a-wealth-god
+  motif_id: flying_car_possessed_by_a_wealth_god
+  label: Flying car possessed by a wealth god
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A divine vehicle owned by a wealth god functions as a supernatural power
+    object or treasure.
+  cautions: May be too episode-specific; if the vehicle enables heavenly travel or
+    royal sovereignty, ascent or royal_legitimacy may be relevant secondary mappings.
+  suggested_aliases:
+  - divine flying vehicle
+  - wealth god's aerial car
+  - supernatural vehicle as treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-made-licit-by-divine-naming
+  motif_id: food_made_licit_by_divine_naming
+  label: food made licit by divine naming
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label describes food legality and purity being established through
+    sacred naming, a ritual-law pattern.
+  cautions: If the passage emphasizes sacrificial slaughter or offering, sacrifice
+    may also be relevant; preserve divine naming as evidence detail.
+  suggested_aliases:
+  - food licit through divine name
+  - divine naming sanctifies food
+  - ritual naming makes food permitted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-taboo-against-swine-s-flesh
+  motif_id: food_taboo_against_swine_s_flesh
+  label: Food taboo against swine's flesh
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A prohibited food item is a dietary law and purity boundary within sacred
+    law.
+  cautions: The swine-specific detail is tradition-specific evidence and should not
+    become a broad canonical motif unless recurrence warrants it.
+  suggested_aliases:
+  - swine flesh taboo
+  - pork prohibition
+  - dietary prohibition of swine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-taboo-and-purity-boundary
+  motif_id: food_taboo_and_purity_boundary
+  label: food taboo and purity boundary
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif explicitly joins dietary prohibition with purity-boundary maintenance,
+    matching sacred law.
+  cautions: May overlap with ritual_prohibition or holiness_code aliases; preserve
+    the food-specific function in notes.
+  suggested_aliases:
+  - dietary taboo as purity boundary
+  - food prohibition and purity
+  - ritual food boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-taboo-protecting-an-animal-heart-from-a-dog
+  motif_id: food_taboo_protecting_an_animal_heart_from_a_dog
+  label: Food taboo protecting an animal heart from a dog
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label suggests a food or animal-part taboo, but the function of the
+    dog and heart is unclear without source evidence.
+  cautions: Could be sacred_law, blood/life symbolism, spirit-contagion, external-soul
+    logic, or a comparative folklore artifact; review before indexing broadly.
+  suggested_aliases:
+  - animal heart food taboo
+  - taboo protecting animal heart
+  - dog excluded from animal heart
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-sacred-precinct-transgression
+  motif_id: forbidden_sacred_precinct_transgression
+  label: forbidden sacred precinct transgression
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Violation of a forbidden sacred space is a ritual prohibition and boundary
+    offense within sacred law.
+  cautions: If the passage centers on punishment, divine_judgment may be a secondary
+    mapping; if it centers on liminal passage, threshold_guardian may apply.
+  suggested_aliases:
+  - sacred precinct violation
+  - temenos transgression
+  - forbidden sanctuary trespass
+  - ritual boundary violation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-sanctuary-preserves-memory-of-homeland-suffering
+  motif_id: foreign_sanctuary_preserves_memory_of_homeland_suffering
+  label: foreign sanctuary preserves memory of homeland suffering
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines sanctuary, exile memory, and communal suffering, but
+    no existing group clearly captures the full function.
+  cautions: May be a place-specific historical or etiological note rather than a reusable
+    motif; could relate to world_center, lament_and_mourning, exile/homecoming, or
+    civic cult depending on evidence.
+  suggested_aliases:
+  - diaspora sanctuary memory
+  - sanctuary preserving homeland grief
+  - foreign shrine as memory of suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and culturally specific; preserve
+  granular wording as evidence notes even when mapping to broad groups.
+- Food taboo labels consistently fit sacred_law, but source review should distinguish
+  dietary law, sacrificial slaughter, purity, and spirit-contagion functions.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for batch-0258.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0258
+  input_sha256: cc100ae7d71fa4751addd5437221fcbac084eaa84fa65755dae9f0bb5c24ce83

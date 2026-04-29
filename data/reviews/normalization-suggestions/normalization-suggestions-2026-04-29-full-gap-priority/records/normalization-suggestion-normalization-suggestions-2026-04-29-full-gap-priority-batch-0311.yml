@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0311
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-boundary-and-transgression
+  motif_id: sacred_boundary_and_transgression
+  label: sacred boundary and transgression
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label concerns a divinely marked boundary and violation, fitting
+    sacred law, taboo, and prohibition patterns.
+  cautions: Could shift to divine_judgment if the passage emphasizes punishment rather
+    than the boundary itself.
+  suggested_aliases:
+  - ritual_prohibition
+  - sacred transgression
+  - violation of sacred boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-boundary-between-lawful-and-forbidden-food
+  motif_id: sacred_boundary_between_lawful_and_forbidden_food
+  label: sacred boundary between lawful and forbidden food
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Food permitted or forbidden by sacred ordinance is a clear ritual-law
+    and purity-boundary motif.
+  cautions: Preserve Islamic halal/haram specificity in evidence notes; do not flatten
+    into generic sacrifice unless offering is present.
+  suggested_aliases:
+  - dietary law
+  - lawful and forbidden food
+  - food taboo
+  - ritual food prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-breathings-or-inspirations-from-the-lord
+  motif_id: sacred_breathings_or_inspirations_from_the_lord
+  label: Sacred breathings or inspirations from the Lord
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: In Sufi context, divine inspirations or breaths function as interior
+    spiritual guidance on the mystical path.
+  cautions: Could also map to sacred_knowledge or theophany if the passage emphasizes
+    revealed knowledge or direct manifestation rather than interior inspiration.
+  suggested_aliases:
+  - divine inspiration
+  - sacred breathings
+  - spiritual inspirations
+  - breaths from the Lord
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-calendar-abstinence-governed-by-lunar-and-dawn-markers
+  motif_id: sacred_calendar_abstinence_governed_by_lunar_and_dawn_markers
+  label: Sacred calendar abstinence governed by lunar and dawn markers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ritual abstinence timed by lunar and dawn markers belongs to sacred calendrical
+    ordering of ritual practice.
+  cautions: May secondarily involve sacrifice or renunciation, but the label's main
+    structure is calendrical regulation.
+  suggested_aliases:
+  - calendar-governed abstinence
+  - lunar ritual abstinence
+  - dawn-marked fasting
+  - ritual fasting cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-calendar-governing-ritual-action
+  motif_id: sacred_calendar_governing_ritual_action
+  label: sacred calendar governing ritual action
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: broader_label
+  confidence: high
+  rationale: A sacred calendar that determines proper ritual action is the core function
+    of the sacred_time group.
+  cautions: Broad generated label; preserve which ritual and calendar markers are
+    involved if evidence is available.
+  suggested_aliases:
+  - ritual calendar
+  - sacred calendrical regulation
+  - calendar-governed ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-calendar-under-divine-ordinance
+  motif_id: sacred_calendar_under_divine_ordinance
+  label: sacred calendar under divine ordinance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: high
+  rationale: Divinely ordained calendar structure fits sacred time and ritual cycle,
+    with covenantal law as a related concern.
+  cautions: If the passage emphasizes commandment more than calendrical cycle, sacred_law
+    or covenant may be useful secondary mappings.
+  suggested_aliases:
+  - divinely ordained calendar
+  - sacred calendar ordinance
+  - ritual time by divine command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-cattle-associated-with-pastoral-religion
+  motif_id: sacred_cattle_associated_with_pastoral_religion
+  label: sacred cattle associated with pastoral religion
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad and comparative, and may refer to ritual economy,
+    animal cult, pastoral identity, sacrifice, or scholarly classification.
+  cautions: Comparative framing and single occurrence may be a commentary artifact;
+    source evidence is needed before mapping to sacrifice, sacred_exchange, sacred_law,
+    or a future animal-cult group.
+  suggested_aliases:
+  - sacred cattle
+  - pastoral sacred animal
+  - cattle in pastoral religion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-cave-as-hiding-place-and-shrine
+  motif_id: sacred_cave_as_hiding_place_and_shrine
+  label: Sacred cave as hiding place and shrine
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sacred cave is already treated as a liminal descent or hidden-threshold
+    space, especially when it shelters or becomes a shrine.
+  cautions: If shrine function dominates without descent, axis_mundi or world_center
+    may be better secondary mappings; if hiding an infant, miraculous_child may apply.
+  suggested_aliases:
+  - sacred cave
+  - cave shrine
+  - hidden cave sanctuary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-cave-with-mortal-and-divine-entrances
+  motif_id: sacred_cave_with_mortal_and_divine_entrances
+  label: Sacred cave with mortal and divine entrances
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: Separate mortal and divine entrances mark a cave as a structured boundary
+    connecting human and divine realms.
+  cautions: Could also fit descent or threshold_guardian depending on whether the
+    passage emphasizes underworld movement or guarded passage.
+  suggested_aliases:
+  - dual-entrance sacred cave
+  - mortal and divine thresholds
+  - cave as boundary between realms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-charge-forsaken-under-emotional-pressure
+  motif_id: sacred_charge_forsaken_under_emotional_pressure
+  label: Sacred charge forsaken under emotional pressure
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests failure of duty or vow, but the narrative function
+    is unclear without passage context.
+  cautions: May fit covenant, sacrifice, sacred_law, pride_and_downfall, or a passage-specific
+    emotional conflict; avoid mapping solely from abstract wording.
+  suggested_aliases:
+  - forsaken sacred duty
+  - abandoned sacred charge
+  - duty broken under emotion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional taxonomy placements only and do not imply transmission
+  or common origin.
+- Several Islamic calendar and food-law labels are single-occurrence but fit established
+  sacred_time and sacred_law groups clearly.
+- Cave labels may need source review to distinguish liminal descent, sacred center,
+  shrine, or protected hiding-place functions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Human review recommended for broad comparative sacred-cattle label and abstract
+    sacred-charge label; secondary mappings may be added after passage evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0311
+  input_sha256: 1e18dc56281d5de95b8809eb70b430fb23f73cd765b7a55a9ebce741a07bde00

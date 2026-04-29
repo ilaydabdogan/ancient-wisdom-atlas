@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0393
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroic-reconnaissance-before-rescue
+  motif_id: heroic_reconnaissance_before_rescue
+  label: heroic reconnaissance before rescue
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reconnaissance before rescue is a preparatory quest/action episode within
+    a rescue ordeal or heroic mission.
+  cautions: Single occurrence and tactical detail; if no transformative journey or
+    rescue arc is present, preserve only as episode evidence.
+  suggested_aliases:
+  - reconnaissance before rescue
+  - scouting before rescue
+  - heroic scouting mission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-refusal-to-flee
+  motif_id: heroic_refusal_to_flee
+  label: heroic refusal to flee
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Refusing flight expresses heroic warrior honor and duty in combat crisis,
+    fitting the divine-warrior/sacred-combat field.
+  cautions: May be an ethical or battlefield-detail motif rather than sacred combat;
+    consider sacred_combat if the ritual or social warfare frame is stronger.
+  suggested_aliases:
+  - refusal to flee battle
+  - hero stands ground
+  - warrior refusal of retreat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-relic-marked-by-an-enemy-s-blood
+  motif_id: heroic_relic_marked_by_an_enemy_s_blood
+  label: Heroic relic marked by an enemy's blood
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A blood-marked heroic relic functions as memorial evidence of combat
+    and heroic death or victory.
+  cautions: If the object confers power rather than memorializes a hero, sacred_treasures
+    may be a secondary fit; the label is highly specific.
+  suggested_aliases:
+  - blood-marked heroic relic
+  - enemy blood on heroic object
+  - battle relic marked with blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-removal-of-local-oppression
+  motif_id: heroic_removal_of_local_oppression
+  label: heroic removal of local oppression
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero freeing a community from local oppression restores social order
+    and can function as culture-hero/founder action.
+  cautions: Could also fit divine_judgment or royal_legitimacy if the emphasis is
+    punishment of tyrants or rightful rule; source context needed.
+  suggested_aliases:
+  - hero liberates oppressed community
+  - removal of local tyrant
+  - heroic liberation from oppression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-reproach-to-rouse-warriors
+  motif_id: heroic_reproach_to_rouse_warriors
+  label: heroic reproach to rouse warriors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rebuke that restores courage and battle participation is a warrior-speech
+    function within sacred or epic combat.
+  cautions: May be ordinary exhortation rhetoric rather than a durable motif; avoid
+    indexing as sacred speech unless the passage gives ritual or revelatory force.
+  suggested_aliases:
+  - battle reproach
+  - heroic rebuke before combat
+  - warrior exhortation by shame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-rescue-at-a-violated-wedding
+  motif_id: heroic_rescue_at_a_violated_wedding
+  label: Heroic rescue at a violated wedding
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_marriage
+  suggested_group_label: Sacred Marriage
+  relationship: functional_variant
+  confidence: medium
+  rationale: The violated wedding is the threatened sacred union that triggers heroic
+    rescue and restoration of social/marital order.
+  cautions: If the focus is only combat rescue, hero_journey or sacred_combat may
+    be better; label may be episode-specific.
+  suggested_aliases:
+  - rescue at violated wedding
+  - defense of threatened marriage rite
+  - wedding violation and heroic rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-reversal-after-being-struck-or-wounded
+  motif_id: heroic_reversal_after_being_struck_or_wounded
+  label: heroic reversal after being struck or wounded
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A wound followed by reversal is a combat-turning episode that highlights
+    extraordinary warrior power or resilience.
+  cautions: May be too generic as battle choreography; map to death_and_transformation
+    only if the wound produces a clear death/rebirth transformation.
+  suggested_aliases:
+  - wounded hero reverses battle
+  - heroic comeback after wounding
+  - battle reversal after injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-rivalry-announced-as-epic-center
+  motif_id: heroic_rivalry_announced_as_epic_center
+  label: heroic rivalry announced as epic center
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes narrative framing or epic composition rather than
+    a symbolic or narrative motif in the story-world.
+  cautions: If the rivalry itself recurs as an enacted plot pattern, preserve that
+    separately under sacred_combat or sibling_pair/duality as appropriate.
+  suggested_aliases:
+  - epic-center rivalry announcement
+  - rivalry framed as epic center
+  - narrative announcement of heroic rivalry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-rivalry-measured-by-martial-prowess
+  motif_id: heroic_rivalry_measured_by_martial_prowess
+  label: heroic rivalry measured by martial prowess
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rival heroes compared through martial prowess belongs to epic combat
+    competition and warrior status testing.
+  cautions: If the rivalry is specifically between siblings or cosmological opposites,
+    sacred_twins or duality may be relevant secondary mappings.
+  suggested_aliases:
+  - martial rivalry
+  - heroic prowess contest
+  - warrior rivalry by combat skill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-shame-versus-survival-deliberation
+  motif_id: heroic_shame_versus_survival_deliberation
+  label: heroic shame versus survival deliberation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The deliberation between shame and survival is a heroic warrior-honor
+    crisis in the face of death or battle.
+  cautions: May also fit ethics/inner-life review if the passage emphasizes psychological
+    self-debate over combat role; single occurrence suggests caution.
+  suggested_aliases:
+  - shame versus survival
+  - warrior honor crisis
+  - heroic deliberation before retreat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements into existing normalization groups; no transmission
+  or common-origin claims are implied.
+- Several labels are single-occurrence epic battle details and should remain granular
+  evidence unless recurrence across sources is shown.
+- Where combat rhetoric or tactical detail dominates, human review should decide whether
+  to keep the motif queryable or treat it as passage-level evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Batch reviewed for provisional normalization placement; one narrative-framing
+    item suggested for exclusion as meta-textual.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0393
+  input_sha256: 0d69a21bd1d639622114acd26f77c4973e872afe7c8ab05b30fa063dcce8398e

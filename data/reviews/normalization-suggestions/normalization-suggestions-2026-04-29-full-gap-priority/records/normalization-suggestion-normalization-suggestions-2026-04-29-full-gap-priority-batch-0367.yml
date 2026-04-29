@@ -1,0 +1,282 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0367
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.enemy-s-ambiguous-warning
+  motif_id: enemy_s_ambiguous_warning
+  label: enemy's ambiguous warning
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: An enemy warning before or during conflict may function as battle omen,
+    heroic counsel, deception, or plot device.
+  cautions: Single occurrence and ambiguity are central to the label; source context
+    is needed before mapping to sacred_combat, wisdom, or trickster/deception patterns.
+  suggested_aliases:
+  - ambiguous enemy warning
+  - enemy warning before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-spy-learns-the-source-of-supernatural-advantage
+  motif_id: enemy_spy_learns_the_source_of_supernatural_advantage
+  label: enemy spy learns the source of supernatural advantage
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key action is discovery of hidden supernatural knowledge that affects
+    conflict advantage.
+  cautions: Could also be sacred_combat if the passage emphasizes battle tactics more
+    than secret knowledge; confirm whether the advantage is genuinely supernatural.
+  suggested_aliases:
+  - enemy discovers supernatural advantage
+  - spy learns secret source of power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-spy-surveys-the-host-before-battle
+  motif_id: enemy_spy_surveys_the_host_before_battle
+  label: enemy spy surveys the host before battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A reconnaissance scene belongs broadly to warfare preparation within
+    the sacred combat complex.
+  cautions: Likely a tactical episode rather than durable symbolic motif unless it
+    recurs or carries ritual/omen significance.
+  suggested_aliases:
+  - spy surveys army before battle
+  - battlefield reconnaissance by enemy spy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-standard-cut-down-in-battle
+  motif_id: enemy_standard_cut_down_in_battle
+  label: Enemy standard cut down in battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Cutting down an enemy standard is a symbolic act of battle victory and
+    defeat of the opposing host.
+  cautions: May be too specific as a canonical motif; if the standard has sacred or
+    royal authority, sacred_treasures or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - battle standard cut down
+  - enemy banner felled
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-suppliant-granted-a-pledge-of-safety
+  motif_id: enemy_suppliant_granted_a_pledge_of_safety
+  label: enemy suppliant granted a pledge of safety
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A pledge of safety to a suppliant is a binding promise that regulates
+    violence and social order.
+  cautions: Could fit sacred_law or sacred_exchange if the passage emphasizes asylum,
+    hospitality, or reciprocal obligation; verify the pledge's sacred/legal force.
+  suggested_aliases:
+  - pledge of safety to enemy suppliant
+  - enemy suppliant protected by oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.epic-fragments-gathered-around-a-central-hero
+  motif_id: epic_fragments_gathered_around_a_central_hero
+  label: Epic fragments gathered around a central hero
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes composition, collection, or scholarly organization
+    of epic material rather than a narrative motif.
+  cautions: Preserve as textual-provenance evidence, not as a pattern-query motif
+    about heroes themselves.
+  suggested_aliases:
+  - epic accretion around central hero
+  - fragmentary epic tradition organized around hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.equal-sharing-of-war-spoil-between-fighters-and-rear-guard
+  motif_id: equal_sharing_of_war_spoil_between_fighters_and_rear_guard
+  label: equal sharing of war spoil between fighters and rear guard
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rule for distributing war spoils is a sacred/legal social-order motif
+    governing conflict outcomes.
+  cautions: Could also relate to covenant or sacred_exchange if framed as a binding
+    communal obligation; not primarily a combat motif despite the battlefield context.
+  suggested_aliases:
+  - equal distribution of war spoils
+  - war booty shared with rear guard
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.erotic-flame-amid-heroic-action
+  motif_id: erotic_flame_amid_heroic_action
+  label: erotic flame amid heroic action
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes love imagery, fire symbolism, and heroic action without
+    enough context to identify the main motif function.
+  cautions: Could be metaphorical wording, an episode-specific erotic simile, sacred_love,
+    sacred_fire, or heroic ordeal; source evidence is needed.
+  suggested_aliases:
+  - erotic flame in heroic context
+  - love-fire amid battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eulogy-of-the-defeated-enemy-as-peerless-champion
+  motif_id: eulogy_of_the_defeated_enemy_as_peerless_champion
+  label: eulogy of the defeated enemy as peerless champion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: Praise of a defeated champion memorializes heroic worth after death or
+    defeat.
+  cautions: If the enemy is not dead or no rite/memorial frame is present, this may
+    be better under divine_warrior or lament_and_mourning as heroic praise.
+  suggested_aliases:
+  - praise of defeated enemy champion
+  - eulogy for fallen foe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exception-for-coerced-denial-with-inward-fidelity
+  motif_id: exception_for_coerced_denial_with_inward_fidelity
+  label: Exception for coerced denial with inward fidelity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns a sacred-legal exception where outward denial under
+    coercion is distinguished from inward fidelity.
+  cautions: Culturally and doctrinally specific; review with source context to avoid
+    flattening legal, ethical, and martyrdom dimensions.
+  suggested_aliases:
+  - coerced denial with inward faith
+  - legal exception for compelled denial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Conflict-bucket labels in this batch often describe tactical or episode-specific
+  details; several should remain granular evidence rather than become taxonomy motifs.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify source
+    function and whether single-occurrence combat details are query-useful.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0367
+  input_sha256: 22d08e33685538e56e270c41213919ab2cf7c98d4d39fe886a477193208084ab

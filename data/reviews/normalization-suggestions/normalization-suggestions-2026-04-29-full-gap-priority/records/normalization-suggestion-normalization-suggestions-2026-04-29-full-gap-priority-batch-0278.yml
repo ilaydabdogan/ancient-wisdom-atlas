@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0278
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.miraculous-creation-and-healing-by-divine-leave
+  motif_id: miraculous_creation_and_healing_by_divine_leave
+  label: miraculous creation and healing by divine leave
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Creation or healing performed by divine permission is direct sacred agency
+    in human or cosmic affairs.
+  cautions: May need secondary indexing under theophany or sacred_knowledge if the
+    passage emphasizes sign/revelation rather than intervention.
+  suggested_aliases:
+  - healing by divine leave
+  - miracle by divine permission
+  - divinely permitted creation and healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-or-divine-provision-of-food
+  motif_id: miraculous_or_divine_provision_of_food
+  label: Miraculous or divine provision of food
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural provision of food is a direct divine intervention sustaining
+    humans.
+  cautions: If framed as ritual offering or reciprocal feeding, sacred_exchange may
+    be a secondary fit; if only ordinary hospitality, review before indexing.
+  suggested_aliases:
+  - divine provision of food
+  - miraculous feeding
+  - sacred sustenance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-scripture-or-sacred-book
+  motif_id: miraculous_scripture_or_sacred_book
+  label: miraculous scripture or sacred book
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A miraculous scripture or sacred book functions as a vehicle of revealed
+    sacred knowledge.
+  cautions: If the emphasis is a physical power object rather than revelation, sacred_treasures
+    or sacred_vessel may be relevant; source context needed.
+  suggested_aliases:
+  - sacred book
+  - miraculous scripture
+  - revealed scripture
+  - divine book
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-victory-as-divine-sign
+  motif_id: miraculous_victory_as_divine_sign
+  label: Miraculous victory as divine sign
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A victory granted or marked by divine power fits sacred combat and divine
+    warrior patterns.
+  cautions: If the sign function is primary, also consider theophany or divine_intervention;
+    avoid treating victory alone as evidence of judgment without passage support.
+  suggested_aliases:
+  - divinely granted victory
+  - victory as divine sign
+  - miraculous battle victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mixed-parentage-marked-by-inherited-trait
+  motif_id: mixed_parentage_marked_by_inherited_trait
+  label: mixed parentage marked by inherited trait
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could concern lineage, birth status, embodiment, caste/social
+    identity, or inherited signs, but the mythic function is unclear.
+  cautions: Do not map to sacred_birth or divine_parent_child unless the parentage
+    is explicitly sacred, miraculous, or destiny-marking; may be an over-specific
+    episode detail.
+  suggested_aliases:
+  - inherited trait from mixed parentage
+  - marked mixed lineage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mock-heroic-parody-of-war-and-gods
+  motif_id: mock_heroic_parody_of_war_and_gods
+  label: mock-heroic parody of war and gods
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes literary mode or genre treatment rather than a recurring
+    symbolic motif.
+  cautions: If the passage contains specific divine combat, parody of sacrifice, or
+    god-human conflict motifs, index those separately rather than the parodic mode.
+  suggested_aliases:
+  - mock-heroic parody
+  - parody of divine war
+  - comic epic mode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moderate-communal-feast-with-hymns-to-the-gods
+  motif_id: moderate_communal_feast_with_hymns_to_the_gods
+  label: moderate communal feast with hymns to the gods
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A communal feast with hymns is a ritualized act of shared offering, praise,
+    and sacred reciprocity.
+  cautions: The adjective 'moderate' may be an ethical commentary detail; if hymnic
+    performance is primary, sacred_song or storytelling_as_power may be secondary.
+  suggested_aliases:
+  - communal feast with hymns
+  - ritual feast for the gods
+  - sacred banquet and praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monotheistic-challenge-to-rival-gods
+  motif_id: monotheistic_challenge_to_rival_gods
+  label: Monotheistic challenge to rival gods
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A challenge to rival gods usually functions as a test or reckoning that
+    asserts sacred order against false worship.
+  cautions: May fit covenant, sacred_law, or forbidden_knowledge/idol polemic depending
+    on passage; culturally specific theological framing needs review.
+  suggested_aliases:
+  - challenge to rival gods
+  - monotheistic polemic against idols
+  - trial of false gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-animal-as-divine-scourge
+  motif_id: monstrous_animal_as_divine_scourge
+  label: monstrous animal as divine scourge
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A monstrous animal sent as a scourge functions as divine punishment or
+    corrective violence.
+  cautions: If the monster is mainly a combat opponent, divine_warrior or sacred_combat
+    may be secondary; if animal symbolism dominates, a future monster/animal group
+    could be considered.
+  suggested_aliases:
+  - divine scourge animal
+  - monster sent as punishment
+  - punitive monstrous beast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monumental-cult-image-of-the-solar-god
+  motif_id: monumental_cult_image_of_the_solar_god
+  label: monumental cult image of the solar god
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a cult object, solar theophany, divine image,
+    or place-specific monument, and the motif function is unclear.
+  cautions: Could be too specific or object/place-focused for pattern queries; map
+    to sacred_treasures only if the image has active sacred power, or to theophany/sacred_fire
+    if solar manifestation is central.
+  suggested_aliases:
+  - solar god cult image
+  - monumental divine image
+  - cult statue of the sun god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several one-off labels may preserve useful evidence but should not be promoted without
+  recurrence across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Batch contains mostly divine-intervention, sacred-exchange, and judgment
+    variants; two items require source-context review and one is best excluded as
+    literary/meta mode.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0278
+  input_sha256: 9309425bb97781924802aa3eff8dd50216806c50157ed39c70afbdbeb4cf494f

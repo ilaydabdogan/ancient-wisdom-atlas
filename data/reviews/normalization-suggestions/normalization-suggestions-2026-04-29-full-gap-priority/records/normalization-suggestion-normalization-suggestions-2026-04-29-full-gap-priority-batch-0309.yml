@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0309
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritualized-supplication-by-fasting-vigil
+  motif_id: ritualized_supplication_by_fasting_vigil
+  label: ritualized supplication by fasting vigil
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fasting vigil is a ritualized offering or renunciation meant to obtain
+    divine response or repair sacred relationship.
+  cautions: Single occurrence; if the passage emphasizes ascetic self-discipline more
+    than supplication, mystical_quest or sacrifice may be secondary.
+  suggested_aliases:
+  - fasting vigil
+  - ritual supplication by fasting
+  - vigil as supplication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-vengeance-by-fire
+  motif_id: ritualized_vengeance_by_fire
+  label: ritualized vengeance by fire
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual, vengeance, and fire; placement depends on
+    whether fire is sacrificial, punitive, magical, or world-renewing.
+  cautions: Culturally sensitive and source-dependent; do not map to world_destroying_fire
+    unless a cosmic or order-renewing catastrophe is present.
+  suggested_aliases:
+  - ritual fire vengeance
+  - vengeance by fire rite
+  - punitive fire ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-water-act-brings-storm-and-transformation
+  motif_id: ritualized_water_act_brings_storm_and_transformation
+  label: Ritualized water act brings storm and transformation
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A water rite that triggers storm and transformation fits water as a ritually
+    potent medium of change.
+  cautions: If the storm is chiefly divine intervention, weather magic, or punishment,
+    secondary mapping may be needed; avoid treating it as flood renewal without world
+    destruction.
+  suggested_aliases:
+  - ritual water act causing transformation
+  - water rite brings storm
+  - storm transformation by water rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritually-or-magically-potent-river-water
+  motif_id: ritually_or_magically_potent_river_water
+  label: ritually or magically potent river water
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The motif is a direct water-potency label and fits sacred waters as purifier,
+    boundary, or transformative medium.
+  cautions: Preserve the river-specific evidence; if the water serves an oath, ordeal,
+    or underworld boundary, more specific secondary indexing may apply.
+  suggested_aliases:
+  - magically potent river water
+  - ritually potent river water
+  - sacred river water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rousing-the-cursed-sleeping-giant-for-battle
+  motif_id: rousing_the_cursed_sleeping_giant_for_battle
+  label: rousing the cursed sleeping giant for battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The usable narrative function is awakening a powerful cursed combatant
+    for battle, which belongs with sacred combat and warrior conflict.
+  cautions: Highly episode-specific; if curse, sleep, or giant identity is the focus,
+    human review may prefer divine_intervention, death_and_transformation, or exclusion
+    as plot detail.
+  suggested_aliases:
+  - sleeping giant roused for battle
+  - cursed sleeper awakened for combat
+  - awakening a giant warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-iconoclasm-against-older-gods
+  motif_id: royal_iconoclasm_against_older_gods
+  label: royal iconoclasm against older gods
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe political religious reform, divine conflict, or
+    comparative commentary rather than a stable mythic motif.
+  cautions: Comparative and potentially historical; avoid making transmission or religious-development
+    claims. Could map to royal_legitimacy only if narrative function is sacral kingship
+    reform.
+  suggested_aliases:
+  - royal iconoclasm
+  - king destroys older gods
+  - iconoclasm against old deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-taboos-as-safeguards-for-a-ruler-s-life
+  motif_id: royal_taboos_as_safeguards_for_a_ruler_s_life
+  label: royal taboos as safeguards for a ruler's life
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Taboos protecting a ruler are ritual prohibitions that maintain sacred
+    social and royal order.
+  cautions: Also related to royal_legitimacy and external_soul if the ruler's life
+    is magically bound to observance; comparative source context should be checked.
+  suggested_aliases:
+  - royal life taboos
+  - ruler-protecting taboos
+  - king's life safeguarded by taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-and-auspicious-palace-ornamentation
+  motif_id: sacred_and_auspicious_palace_ornamentation
+  label: sacred and auspicious palace ornamentation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Auspicious palace imagery sacralizes royal space and supports kingship
+    or courtly sacred order.
+  cautions: May be decorative passage detail rather than a motif unless ornamentation
+    has ritual, cosmological, or legitimating function.
+  suggested_aliases:
+  - auspicious palace ornamentation
+  - sacred palace decoration
+  - royal auspicious ornament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-animal-as-vulnerable-divine-or-saintly-vessel
+  motif_id: sacred_animal_as_vulnerable_divine_or_saintly_vessel
+  label: Sacred animal as vulnerable divine or saintly vessel
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests animal embodiment of sacred presence, but current
+    groups lack a clear animal-vessel or saintly-animal category.
+  cautions: Sufi saintly context requires careful review; could involve divine_intervention,
+    sacred_vessel metaphor, shapeshifter, or hagiographic exemplum depending on evidence.
+  suggested_aliases:
+  - sacred animal vessel
+  - animal as saintly vessel
+  - vulnerable divine animal
+  suggested_new_group:
+    id: sacred_animal_vessel
+    label: Sacred Animal as Divine or Saintly Vessel
+    description: An animal bears, embodies, shelters, or mediates divine, saintly,
+      or sacred presence and is treated as vulnerable, protected, or ritually significant
+      because of that role.
+    parent_group_ids:
+    - divine_intervention
+    related_group_ids:
+    - shapeshifter
+    - sacred_vessel
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover shapeshifting, vessels,
+      and divine intervention, but not recurring sacred presence mediated through
+      an animal body without transformation.
+- suggestion_id: normalization.suggestion.sacred-animal-companion-accidentally-slain
+  motif_id: sacred_animal_companion_accidentally_slain
+  label: sacred animal companion accidentally slain
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be a specific episode about accidental killing of a sacred
+    companion rather than a broad motif.
+  cautions: Could relate to divine_judgment, lament, sacred_law taboo, or animal sanctity
+    depending on consequences in the passage; source context needed.
+  suggested_aliases:
+  - accidental killing of sacred animal
+  - slain sacred animal companion
+  - sacred companion animal killed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review and do not alter taxonomy files.
+- Several one-off labels in this batch combine ritual action with episode-specific
+  context; source evidence should decide whether they remain query motifs or evidence
+  notes.
+- Do not infer cultural transmission from shared placement in a normalization group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch contains multiple single-occurrence ritual and sacred-animal labels
+    requiring source-context verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0309
+  input_sha256: f1ff5970647e48d20df54f1f001d3421c8e5790b490a6074ba31e31cc637ad1a

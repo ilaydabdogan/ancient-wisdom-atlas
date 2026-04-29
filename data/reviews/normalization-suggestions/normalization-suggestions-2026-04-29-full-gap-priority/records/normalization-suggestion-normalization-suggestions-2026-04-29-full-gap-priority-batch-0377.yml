@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0377
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.funeral-games-as-setting-for-contest
+  motif_id: funeral_games_as_setting_for_contest
+  label: Funeral games as setting for contest
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: high
+  rationale: Funeral games are already represented under heroic_funeral_rites as rites
+    and contests performed for a dead hero or companion.
+  cautions: Single occurrence; if the passage treats the contest apart from memorial
+    rites, sacred_combat may be a secondary context.
+  suggested_aliases:
+  - funeral games after heroic death
+  - memorial contest games
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-games-for-a-fallen-warrior
+  motif_id: funeral_games_for_a_fallen_warrior
+  label: funeral games for a fallen warrior
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: alias
+  confidence: high
+  rationale: 'The label directly matches the group’s scope: contests or rites honoring
+    a dead warrior or hero.'
+  cautions: Preserve warrior-specific evidence; do not infer Greek-style athletic
+    games unless the source supports it.
+  suggested_aliases:
+  - funeral games after heroic death
+  - funeral games for fallen warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-games-with-heroic-prize-contests
+  motif_id: funeral_games_with_heroic_prize_contests
+  label: funeral games with heroic prize contests
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: high
+  rationale: Prize contests at funeral games are a granular form of heroic memorial
+    contests.
+  cautions: Prize details may be episode-specific and should remain evidence notes
+    unless recurring across sources.
+  suggested_aliases:
+  - funeral games after heroic death
+  - heroic prize contests at funeral games
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-or-festival-games-with-public-contests-and-prizes
+  motif_id: funeral_or_festival_games_with_public_contests_and_prizes
+  label: funeral or festival games with public contests and prizes
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: uncertain
+  confidence: medium
+  rationale: If the games are funerary, heroic_funeral_rites fits; if merely festival
+    contests, the current group is too mortuary-specific.
+  cautions: The label conflates funeral and festival settings; review passage evidence
+    before mapping.
+  suggested_aliases:
+  - public contests and prizes
+  - funeral games with prizes
+  - festival games with prizes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerals-of-fallen-warriors
+  motif_id: funerals_of_fallen_warriors
+  label: funerals of fallen warriors
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: alias
+  confidence: high
+  rationale: The motif names funeral rites for dead warriors, which is central to
+    heroic_funeral_rites.
+  cautions: If the passage emphasizes battlefield duty or sacrificial death rather
+    than rites, divine_warrior or sacrifice may be secondary.
+  suggested_aliases:
+  - warrior funeral rites
+  - funerals for fallen warriors
+  - heroic funeral rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-compact-and-heroic-memorial
+  motif_id: funerary_compact_and_heroic_memorial
+  label: funerary compact and heroic memorial
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: A funerary compact and memorial act fits social obligations and memorialization
+    around a dead hero.
+  cautions: "“Compact” may imply oath, pact, or covenant-like obligation; review whether
+    covenant is also relevant."
+  suggested_aliases:
+  - heroic memorial compact
+  - funerary memorial obligation
+  - heroic memorialization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-preparation-of-the-hero-s-body
+  motif_id: funerary_preparation_of_the_hero_s_body
+  label: Funerary preparation of the hero’s body
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Preparing a hero’s body is a mortuary rite honoring the dead and reaffirming
+    heroic status.
+  cautions: Body-preparation details may be culturally specific; preserve as evidence
+    rather than creating a separate canonical motif.
+  suggested_aliases:
+  - preparation of heroic corpse
+  - hero body funerary preparation
+  - funeral rites for a dead hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.futile-spear-thrust-simile
+  motif_id: futile_spear_thrust_simile
+  label: futile spear-thrust simile
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label identifies a literary simile rather than a reusable mythic
+    or ritual motif.
+  cautions: If the source contains a recurring invulnerability or failed-weapon episode,
+    index that separately under combat or external-soul themes.
+  suggested_aliases:
+  - futile spear simile
+  - ineffective spear-thrust comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.future-reward-surpassing-present-life
+  motif_id: future_reward_surpassing_present_life
+  label: future reward surpassing present life
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests eschatological reward, but not necessarily a mapped
+    afterlife journey, judgment scene, or martyrdom motif.
+  cautions: Could belong to afterlife_passage, divine_judgment, sacrifice, or ethical
+    teaching depending on context; avoid mapping from abstract wording alone.
+  suggested_aliases:
+  - future reward beyond present life
+  - afterlife reward surpassing earthly life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.game-continued-while-battle-rages
+  motif_id: game_continued_while_battle_rages
+  label: game continued while battle rages
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The juxtaposition of play and battle may be a heroic-combat episode,
+    ritualized contest, or narrative detail.
+  cautions: Single highly contextual occurrence; map only if the game has ritual,
+    heroic, or symbolic function beyond scene-setting.
+  suggested_aliases:
+  - game during battle
+  - play continuing amid battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels cluster around funeral games and heroic memorial rites; most can
+  be folded into heroic_funeral_rites while preserving contest/prize details as evidence
+  notes.
+- Do not treat public games or battlefield games as funerary motifs unless the passage
+  evidence links them to memorialization of the dead.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review recommended for labels that conflate
+    funeral/festival, abstract eschatological reward, or games during battle.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0377
+  input_sha256: b7becb8ad544960f1a5ef3b93192b29af97d30159a007a318cc532d364c05a1f

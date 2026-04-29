@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0391
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroic-helper-assembly
+  motif_id: heroic_helper_assembly
+  label: heroic helper assembly
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: An assembled band of helpers supports the hero's ordeal or quest sequence.
+  cautions: Could instead be a battle retinue or courtly episode; verify that helpers
+    aid a transformative heroic task.
+  suggested_aliases:
+  - helper assembly
+  - heroic companions
+  - assembly of helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-honours-for-the-living-warrior
+  motif_id: heroic_honours_for_the_living_warrior
+  label: heroic honours for the living warrior
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Honors given to a warrior belong with heroic-warrior status, valor, and
+    sacred combat ideology.
+  cautions: If the honors are purely civic or athletic rather than warrior-sacral,
+    royal_legitimacy or a social-status group may fit better.
+  suggested_aliases:
+  - living warrior honored
+  - heroic honors
+  - warrior honor before death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-hunt-with-contested-spoils
+  motif_id: heroic_hunt_with_contested_spoils
+  label: heroic hunt with contested spoils
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The contested spoils of a heroic hunt function like honor-conflict and
+    prize-dispute within the combat complex.
+  cautions: Could be too episode-specific; if animal encounter is central, future
+    animal-hunt grouping may be needed.
+  suggested_aliases:
+  - contested hunting spoils
+  - heroic hunt dispute
+  - prize dispute after hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-inheritance-displayed-through-emblems
+  motif_id: heroic_inheritance_displayed_through_emblems
+  label: Heroic inheritance displayed through emblems
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Emblems displaying heroic inheritance authorize lineage, office, or public
+    legitimacy.
+  cautions: If the emblem itself has independent power, sacred_treasures may be a
+    secondary group.
+  suggested_aliases:
+  - emblems of heroic inheritance
+  - lineage displayed through emblems
+  - heroic lineage emblems
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-inheritance-of-weapons-and-office
+  motif_id: heroic_inheritance_of_weapons_and_office
+  label: heroic inheritance of weapons and office
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: high
+  rationale: Inheritance of office and heroic weapons marks authorized succession
+    and legitimate status.
+  cautions: Weapons may also index sacred_treasures when the object's power matters
+    more than succession.
+  suggested_aliases:
+  - inheritance of weapons and office
+  - heroic succession by weapons
+  - weapons and office succession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-last-stand-of-charioteers
+  motif_id: heroic_last_stand_of_charioteers
+  label: heroic last stand of charioteers
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A last stand in battle belongs with heroic-warrior death and sacred combat.
+  cautions: The charioteer detail may be passage-specific; preserve it as evidence
+    rather than canonicalizing narrowly.
+  suggested_aliases:
+  - heroic last stand
+  - charioteer last stand
+  - last stand in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-last-stand-under-overwhelming-attack
+  motif_id: heroic_last_stand_under_overwhelming_attack
+  label: heroic last stand under overwhelming attack
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A doomed or outnumbered battle stand is a core heroic-warrior combat
+    pattern.
+  cautions: May also connect to death_by_fate if the passage emphasizes destiny rather
+    than battle honor.
+  suggested_aliases:
+  - heroic last stand
+  - last stand against overwhelming odds
+  - outnumbered warrior stand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-life-made-into-authoritative-epic-narration
+  motif_id: heroic_life_made_into_authoritative_epic_narration
+  label: heroic life made into authoritative epic narration
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label centers on epic narration authorizing and transmitting a heroic
+    life.
+  cautions: May be a textual/literary framing artifact rather than a narrative motif;
+    exclude if it only describes redaction or genre.
+  suggested_aliases:
+  - heroic life as epic narration
+  - epic narration of heroic life
+  - authoritative heroic narration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-life-performed-before-a-judging-community
+  motif_id: heroic_life_performed_before_a_judging_community
+  label: heroic life performed before a judging community
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: A community judging heroic conduct suggests social or moral reckoning,
+    but sacred agency is unclear.
+  cautions: Could be legal/social evaluation, performance frame, heroic honor contest,
+    or passage-specific commentary; needs source evidence.
+  suggested_aliases:
+  - judging community evaluates hero
+  - heroic life before community
+  - communal judgment of hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-loyalty-against-heavenly-promise
+  motif_id: heroic_loyalty_against_heavenly_promise
+  label: heroic loyalty against heavenly promise
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusing heavenly reward for loyalty frames self-denial and duty as a
+    sacrificial act.
+  cautions: Could also fit sacred_law, divine_judgment, or heroic honor depending
+    on whether loyalty, vow, or reward is central.
+  suggested_aliases:
+  - loyalty over heavenly reward
+  - heroic refusal of heavenly promise
+  - loyalty against divine reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several labels are single-occurrence heroic-epic
+  details and may be better preserved as evidence notes if not recurrent.
+- Do not infer historical transmission from shared placement in combat, kingship,
+  sacrifice, or storytelling groups.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Batch includes many over-specific heroic-warrior labels; human review should
+    verify whether each functions as a recurring motif or passage-level episode detail.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0391
+  input_sha256: 9e358b040bc34cd5d738b5793d112e8ae31c74ba281d0d15483f923678f42e2d

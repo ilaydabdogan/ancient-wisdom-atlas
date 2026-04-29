@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0274
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.loss-and-replacement-of-divine-office
+  motif_id: loss_and_replacement_of_divine_office
+  label: loss and replacement of divine office
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Replacement of a divine office concerns transfer or reauthorization of
+    sacred authority, close to legitimacy and succession patterns.
+  cautions: If the passage emphasizes divine punishment or cosmic succession among
+    gods rather than office legitimacy, divine_judgment or a future divine-succession
+    group may fit better.
+  suggested_aliases:
+  - divine office succession
+  - replacement of sacred office
+  - loss of divine authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-speech-after-divine-encounter
+  motif_id: loss_of_speech_after_divine_encounter
+  label: loss of speech after divine encounter
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: high
+  rationale: The loss of speech is an effect of overwhelming direct encounter with
+    sacred presence.
+  cautions: May also support sacred_knowledge if the silence follows revelation or
+    forbidden knowledge; preserve the muteness detail as local evidence.
+  suggested_aliases:
+  - speechlessness after theophany
+  - muteness after divine encounter
+  - divine encounter causing silence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-sustaining-divine-object-causes-aging-or-decline
+  motif_id: loss_of_sustaining_divine_object_causes_aging_or_decline
+  label: loss of sustaining divine object causes aging or decline
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: immortality_without_renewal
+  suggested_group_label: Immortality Without Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine object sustaining youth or vitality, when lost, creates defective
+    or declining deathlessness.
+  cautions: Could also map to sacred_treasures if the object’s power-object role is
+    primary; source context should confirm aging or failed renewal is central.
+  suggested_aliases:
+  - loss of youth-giving object
+  - sustaining object lost causes decline
+  - divine object preserving youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-as-divine-source-of-honor-and-courage
+  motif_id: love_as_divine_source_of_honor_and_courage
+  label: Love as divine source of honor and courage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The label treats love as a divine force motivating heroic virtues and
+    sacred aspiration.
+  cautions: If the passage is mainly battlefield ethics, divine_warrior or sacred_combat
+    may be a secondary mapping; avoid reducing it to romance alone.
+  suggested_aliases:
+  - divine love inspires courage
+  - love as source of honor
+  - sacred love as heroic courage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-as-wound-fire-and-divine-weapon
+  motif_id: love_as_wound_fire_and_divine_weapon
+  label: love as wound, fire, and divine weapon
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Love is figured as sacred pain, burning force, and divine compulsion,
+    matching the sacred-love complex.
+  cautions: The fire and weapon imagery should remain evidence detail; do not map
+    to sacred_fire or divine_warrior unless those functions are explicit.
+  suggested_aliases:
+  - love as wound
+  - love as divine fire
+  - love as divine weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.luminous-nature-and-sacred-fire-imagery
+  motif_id: luminous_nature_and_sacred_fire_imagery
+  label: luminous nature and sacred fire imagery
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The label directly invokes sacred fire and divine luminosity as symbolic
+    presence or cosmic principle.
+  cautions: If the passage describes a direct deity manifestation, theophany may also
+    be relevant; broad imagery labels should not be overread as ritual fire.
+  suggested_aliases:
+  - divine light imagery
+  - sacred luminosity
+  - fire and light as divine presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lunar-emblems-in-divine-keeping
+  motif_id: lunar_emblems_in_divine_keeping
+  label: Lunar emblems in divine keeping
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Lunar emblems held or guarded by divine powers function as sacred objects
+    or signs under divine custody.
+  cautions: Could instead be sacred_time or celestial-order symbolism if the emblems
+    regulate time rather than operate as power objects.
+  suggested_aliases:
+  - divinely kept lunar emblems
+  - moon emblems as sacred objects
+  - lunar signs in divine custody
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lunar-goddess-marked-by-crescent-and-stars
+  motif_id: lunar_goddess_marked_by_crescent_and_stars
+  label: lunar goddess marked by crescent and stars
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A goddess identified by lunar and stellar marks fits divine feminine
+    symbolism within the sacred-feminine group.
+  cautions: This may be iconographic rather than narrative; if only an attribute list,
+    it may be too specific for pattern queries or better held as evidence detail.
+  suggested_aliases:
+  - crescent-marked goddess
+  - lunar goddess with stars
+  - goddess bearing moon and star emblems
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lunar-regulation-of-sacred-time
+  motif_id: lunar_regulation_of_sacred_time
+  label: lunar regulation of sacred time
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: high
+  rationale: The moon’s role in structuring ritual calendars and sacred observance
+    belongs directly under sacred time.
+  cautions: Preserve whether the source concerns calendrical law, ritual cycle, or
+    cosmological symbolism; may also relate to covenant or sacred_law in legal contexts.
+  suggested_aliases:
+  - lunar sacred calendar
+  - moon-regulated ritual time
+  - lunar ordering of sacred time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-curse-of-barrenness-and-failed-ripening
+  motif_id: magical_curse_of_barrenness_and_failed_ripening
+  label: magical curse of barrenness and failed ripening
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines curse, infertility, and agricultural failure, but
+    the dominant function is unclear from wording alone.
+  cautions: Could fit divine_judgment, sacred_time/seasonal fertility, mother_goddess,
+    or a future fertility-blight group; verify whether this is a narrative curse,
+    ritual charm, etiological explanation, or passage-specific detail.
+  suggested_aliases:
+  - curse of barrenness
+  - failed ripening curse
+  - magical infertility and crop failure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several lunar and love labels may be iconographic or poetic evidence details rather
+  than durable motifs if they remain single-occurrence items.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api_assistant
+  reviewed_at: ''
+  notes: Batch reviewed against existing canonical_motif_groups; one item left for
+    human review due to ambiguous curse/fertility/agricultural function.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0274
+  input_sha256: dc64f594fa6285320572b9bea90f3aa4a5c8e81a70e5e2f49117ff15dd90c4eb

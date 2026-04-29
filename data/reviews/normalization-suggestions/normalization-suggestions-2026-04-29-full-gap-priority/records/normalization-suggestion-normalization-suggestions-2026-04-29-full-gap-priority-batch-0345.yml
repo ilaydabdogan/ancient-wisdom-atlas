@@ -1,0 +1,282 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0345
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.appearance-of-virtue-rewarded-over-virtue-itself
+  motif_id: appearance_of_virtue_rewarded_over_virtue_itself
+  label: Appearance of virtue rewarded over virtue itself
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns moral evaluation and reward, but may be philosophical
+    argument or literary irony rather than a mythic motif.
+  cautions: Single occurrence; could fit sacred_law, pride_and_downfall, or be excluded
+    as contextual ethical commentary depending on passage evidence.
+  suggested_aliases:
+  - reputation_rewarded_over_true_virtue
+  - seeming_virtue_rewarded
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appeasement-of-heroic-wrath
+  motif_id: appeasement_of_heroic_wrath
+  label: appeasement of heroic wrath
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Appeasing a wrathful hero belongs to heroic conflict dynamics and the
+    repair of warrior disorder.
+  cautions: If appeasement is cultic or funerary hero propitiation rather than battlefield
+    narrative, ancestor_rites or sacrifice may be relevant secondary mappings.
+  suggested_aliases:
+  - heroic_wrath_appeased
+  - propitiation_of_warrior_anger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appointed-battlefield-contingency-guard
+  motif_id: appointed_battlefield_contingency_guard
+  label: appointed battlefield contingency-guard
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a tactical episode detail rather than a recurring symbolic
+    or narrative motif.
+  cautions: Retain as passage evidence if the guard role has ritual or threshold significance;
+    otherwise exclude from broad motif queries.
+  suggested_aliases:
+  - battlefield_guard_assignment
+  - reserve_guard_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.approaching-warrior-in-a-war-chariot
+  motif_id: approaching_warrior_in_a_war_chariot
+  label: approaching warrior in a war-chariot
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: The approaching chariot-warrior is a heroic-warrior presentation motif,
+    loosely fitting the divine/heroic combat complex.
+  cautions: May be merely scene description; map only if the arrival marks supernatural
+    threat, heroic manifestation, or combat escalation.
+  suggested_aliases:
+  - chariot_warrior_arrival
+  - warrior_arrives_in_chariot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.archer-hero-kills-multiple-giant-foes-with-few-arrows
+  motif_id: archer_hero_kills_multiple_giant_foes_with_few_arrows
+  label: archer hero kills multiple giant foes with few arrows
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero defeating giant foes with extraordinary archery fits sacred or
+    heroic combat against overwhelming enemies.
+  cautions: The arrow count and giant detail are over-specific; preserve as evidence
+    rather than creating a narrow canonical motif.
+  suggested_aliases:
+  - extraordinary_archer_defeats_many_foes
+  - heroic_archery_against_giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-accuser-summons-a-champion-to-prove-treachery-by-combat
+  motif_id: armed_accuser_summons_a_champion_to_prove_treachery_by_combat
+  label: armed accuser summons a champion to prove treachery by combat
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Trial by champion combat functions as judgment or proof of guilt in a
+    sacred/social order dispute.
+  cautions: Could also index under sacred_combat if combat mechanics are central;
+    verify whether the duel is juridical ordeal or ordinary challenge.
+  suggested_aliases:
+  - trial_by_combat_to_prove_treachery
+  - champion_summoned_for_judicial_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-avenger-threatening-the-warrior-class
+  motif_id: armed_avenger_threatening_the_warrior_class
+  label: armed avenger threatening the warrior class
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A violent avenger confronting the warrior order fits the sacred combat
+    and warrior-crisis complex.
+  cautions: If the emphasis is moral punishment of a social class, divine_judgment
+    or sacred_law may be relevant; label is broad and context-dependent.
+  suggested_aliases:
+  - avenger_against_warrior_class
+  - armed_vengeance_against_warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-friend-guarding-the-sleeping-hero
+  motif_id: armed_friend_guarding_the_sleeping_hero
+  label: armed friend guarding the sleeping hero
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Guarding a vulnerable sleeping hero may be a companion-aid episode within
+    a heroic ordeal.
+  cautions: Could be too scene-specific for pattern queries unless companion protection
+    recurs; no current group cleanly covers loyal helper or guardian companion.
+  suggested_aliases:
+  - companion_guards_sleeping_hero
+  - armed_guardian_friend
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-hero-awakened-from-sleep
+  motif_id: armed_hero_awakened_from_sleep
+  label: armed hero awakened from sleep
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: Awakening an armed hero could mark renewed action or ordeal, but the
+    label alone is mostly situational.
+  cautions: Likely a passage-level scene detail unless awakening has symbolic, prophetic,
+    or return-to-combat function.
+  suggested_aliases:
+  - hero_awakened_to_combat
+  - sleeping_armed_hero_roused
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-heroes-in-ascetic-guise
+  motif_id: armed_heroes_in_ascetic_guise
+  label: armed heroes in ascetic guise
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Heroes adopting ascetic appearance while remaining armed fits disguise
+    and unstable social identity rather than literal combat alone.
+  cautions: If ascetic discipline or renunciation is central, mystical_quest or sacrifice
+    may be relevant; if it is simple concealment, avoid over-reading as transformation.
+  suggested_aliases:
+  - warrior_in_ascetic_disguise
+  - disguised_armed_heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence heroic-combat scene labels; several
+  should remain evidence notes unless recurrence or symbolic function is confirmed.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; source passages should be checked for whether
+    combat details function as motifs or as episode-specific narration.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0345
+  input_sha256: 6444070aeb421bc3f712f8eb1196e3d5c931a48e8ba85bb273df40378d5689f6

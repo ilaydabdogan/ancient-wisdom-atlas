@@ -1,0 +1,311 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0350
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.betrayal-for-a-second-reward
+  motif_id: betrayal_for_a_second_reward
+  label: betrayal for a second reward
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes treachery motivated by repeated reward, but no existing
+    group clearly centers betrayal or corrupt exchange in conflict.
+  cautions: Single occurrence and likely episode-specific; could be moral downfall,
+    conflict plot device, or economic exchange depending on passage evidence.
+  suggested_aliases:
+  - mercenary betrayal
+  - treachery for reward
+  - second reward betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_judgment
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.betrayal-of-a-sleeping-warrior-by-removal-of-weapons
+  motif_id: betrayal_of_a_sleeping_warrior_by_removal_of_weapons
+  label: betrayal of a sleeping warrior by removal of weapons
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a specific betrayal-and-disarmament episode involving a vulnerable
+    warrior, not a clear broad canonical motif.
+  cautions: May fit sacred_combat if tied to warrior honor, or trickster if deceit
+    is central; preserve as evidence detail unless recurrent.
+  suggested_aliases:
+  - sleeping warrior disarmed
+  - treacherous removal of weapons
+  - betrayal of vulnerable warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.betting-and-economic-testing
+  motif_id: betting_and_economic_testing
+  label: Betting and economic testing
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A wager or economic test could function as an ordeal, moral exemplum,
+    or social exchange, but the label lacks enough context.
+  cautions: Do not map to conflict solely from bucket placement; Buddhist context
+    may emphasize ethics, attachment, generosity, or karmic testing.
+  suggested_aliases:
+  - wager as test
+  - economic ordeal
+  - testing through betting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_exchange
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blind-poor-bard-remembered-as-sweetest-singer
+  motif_id: blind_poor_bard_remembered_as_sweetest_singer
+  label: blind poor bard remembered as sweetest singer
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The remembered bard centers song, poetic memory, and public immortality
+    through narrative art.
+  cautions: Could be a biographical or reception detail rather than a mythic motif;
+    exclude if it only identifies an authorial persona.
+  suggested_aliases:
+  - bardic fame despite poverty
+  - blind singer remembered
+  - poetic memory as immortality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blinding-of-the-single-eyed-monster
+  motif_id: blinding_of_the_single_eyed_monster
+  label: blinding of the single-eyed monster
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif is a monster-combat episode where victory comes through disabling
+    the monster's eye.
+  cautions: May be more trickster-escape than sacred combat if the passage emphasizes
+    cunning over battle; no current monster-slaying group exists.
+  suggested_aliases:
+  - Cyclops blinding
+  - single-eyed monster defeated
+  - monster blinded by hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - hero_journey
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-omen-revealing-absent-hero-s-danger
+  motif_id: blood_omen_revealing_absent_hero_s_danger
+  label: Blood omen revealing absent hero's danger
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A blood sign functions as an omen revealing hidden danger to an absent
+    hero.
+  cautions: If the blood is a life-token or external soul indicator, external_soul
+    may be a better secondary mapping.
+  suggested_aliases:
+  - blood omen
+  - blood sign of danger
+  - distant danger revealed by blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - external_soul
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-revenge-contained-by-asylum-and-waiting-period
+  motif_id: blood_revenge_contained_by_asylum_and_waiting_period
+  label: blood revenge contained by asylum and waiting period
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif concerns legal-ritual restraint of vengeance through asylum
+    and prescribed delay.
+  cautions: Could also relate to covenant or divine judgment if framed as divine command;
+    avoid treating it as battle motif.
+  suggested_aliases:
+  - asylum restrains revenge
+  - waiting period for blood vengeance
+  - sanctuary against blood revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bloodless-battle
+  motif_id: bloodless_battle
+  label: bloodless battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A battle without blood is a marked variant of combat, possibly ritualized,
+    magical, or paradoxical.
+  cautions: 'Needs context: may be hyperbole, illusion, nonlethal contest, or supernatural
+    combat rather than warfare proper.'
+  suggested_aliases:
+  - non-bloody battle
+  - bloodless combat
+  - unwounding battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boast-before-combat-followed-by-decisive-defeat
+  motif_id: boast_before_combat_followed_by_decisive_defeat
+  label: Boast before combat followed by decisive defeat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: Pre-combat boasting followed by defeat is a clear hubris-and-humbling
+    sequence.
+  cautions: Could be indexed secondarily under sacred_combat if the combat setting
+    is important; avoid making a separate canonical motif from one episode.
+  suggested_aliases:
+  - boast punished in combat
+  - vaunt before defeat
+  - martial hubris humbled
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-contestant-humbled-in-combat
+  motif_id: boastful_contestant_humbled_in_combat
+  label: boastful contestant humbled in combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: A boastful combatant being humbled fits the established pride-and-downfall
+    pattern.
+  cautions: Likely overlaps with the boast-before-combat label; review for deduplication
+    or aliasing as evidence detail.
+  suggested_aliases:
+  - boastful warrior humbled
+  - combat humbling of pride
+  - contestant's hubris defeated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several conflict-bucket labels are single-occurrence episode summaries; prefer preserving
+  them as evidence details unless recurrence supports a new betrayal/deception-in-combat
+  group.
+- For combat labels, distinguish moral function such as hubris humbled from narrative
+  function such as monster combat or ritual warfare.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review should check source passages for
+    whether these are broad motifs or episode-specific artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0350
+  input_sha256: e77180b8b5299819ccc5babbaabf079a6cdfabed9461bbfa42d6e1bbf8c1648d

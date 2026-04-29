@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0293
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rain-as-divine-weeping
+  motif_id: rain_as_divine_weeping
+  label: Rain as divine weeping
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Rain as divine tears is a symbolic weather image, but no current group
+    clearly covers divine emotion expressed as weather.
+  cautions: Single occurrence; may be poetic imagery, etiological weather symbolism,
+    or passage-specific metaphor rather than a durable motif.
+  suggested_aliases:
+  - divine_weeping_as_rain
+  - rain_as_tears_of_a_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-charm-by-bathing-or-immersing-sacred-images
+  motif_id: rain_charm_by_bathing_or_immersing_sacred_images
+  label: rain charm by bathing or immersing sacred images
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rain charm using sacred images is a ritual act meant to solicit divine
+    or spirit response through symbolic treatment.
+  cautions: Could belong to a future weather-rite/rainmaking group if many rain charm
+    labels recur; preserve image-immersion detail.
+  suggested_aliases:
+  - rain_charm_by_immersing_images
+  - bathing_sacred_images_for_rain
+  - image_immersion_rainmaking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-making-specialist-or-rite
+  motif_id: rain_making_specialist_or_rite
+  label: rain-making specialist or rite
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rainmaking and Weather Rites
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label is a general recurring ritual complex for producing rain, not
+    merely exchange, water symbolism, or divine intervention.
+  cautions: Only one supplied occurrence here, but several adjacent rainmaking labels
+    suggest a possible cluster; review culturally specific evidence before promotion.
+  suggested_aliases:
+  - rainmaking_rite
+  - rain_making_ritual
+  - weather_rite_for_rain
+  - rainmaking_specialist
+  suggested_new_group:
+    id: rainmaking_weather_rites
+    label: Rainmaking and Weather Rites
+    description: Ritual specialists, charms, symbolic acts, or sacred manipulations
+      intended to produce, call, withhold, or redirect rain and weather through relation
+      with divine, spirit, natural, or sacred powers.
+    parent_group_ids:
+    - sacred_exchange
+    related_group_ids:
+    - sacred_waters
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups can cover reciprocity, water,
+      or divine action, but none clearly preserves the distinct weather-ritual function
+      shared by rainmaking labels.
+- suggestion_id: normalization.suggestion.rain-obtained-by-watering-or-drenching-a-sacred-branch-or-tree
+  motif_id: rain_obtained_by_watering_or_drenching_a_sacred_branch_or_tree
+  label: Rain obtained by watering or drenching a sacred branch or tree
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The act symbolically gives water to a sacred plant/tree to obtain rain,
+    fitting ritual reciprocity with sacred powers.
+  cautions: Also relates to sacred_waters and axis_mundi if the branch/tree has cosmological
+    function; may later move under a rainmaking group.
+  suggested_aliases:
+  - watering_sacred_branch_for_rain
+  - drenching_sacred_tree_for_rain
+  - sacred_tree_rain_charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-produced-by-disturbing-sacred-water
+  motif_id: rain_produced_by_disturbing_sacred_water
+  label: Rain produced by disturbing sacred water
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on sacred water as a ritually manipulated medium that
+    produces rain.
+  cautions: If the passage emphasizes coercive ritual exchange rather than water symbolism,
+    sacred_exchange or a rainmaking group may be better.
+  suggested_aliases:
+  - disturbing_sacred_water_for_rain
+  - sacred_water_rain_charm
+  - rain_from_stirred_sacred_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rainbow-as-weapon-of-a-storm-or-sky-god
+  motif_id: rainbow_as_weapon_of_a_storm_or_sky_god
+  label: Rainbow as weapon of a storm or sky god
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A sky or storm god wielding the rainbow as a weapon fits divine warrior
+    imagery and sacred combat equipment.
+  cautions: Could also be indexed under sacred_treasures if the object rather than
+    combat role is central; avoid treating rainbow symbolism generally as warfare.
+  suggested_aliases:
+  - rainbow_weapon
+  - storm_god_rainbow_weapon
+  - sky_god_rainbow_bow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rainbow-like-divine-messenger
+  motif_id: rainbow_like_divine_messenger
+  label: rainbow-like divine messenger
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine messenger functions as direct sacred guidance or intervention
+    in human affairs.
+  cautions: Rainbow-like appearance may be an iconographic detail; if the passage
+    stresses manifestation more than message, theophany may be a secondary fit.
+  suggested_aliases:
+  - divine_messenger_with_rainbow_form
+  - rainbow_messenger
+  - iridescent_divine_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rally-of-routed-army-after-divine-message
+  motif_id: rally_of_routed_army_after_divine_message
+  label: rally of routed army after divine message
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine message directly reverses human military despair and guides
+    action, fitting intervention and guidance.
+  cautions: Highly episode-specific; if indexed for combat patterns, divine_warrior
+    or sacred_combat may be secondary rather than primary.
+  suggested_aliases:
+  - divine_message_rallies_army
+  - army_rallied_by_divine_message
+  - battlefield_divine_encouragement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recantation-averting-or-reversing-divine-harm
+  motif_id: recantation_averting_or_reversing_divine_harm
+  label: recantation averting or reversing divine harm
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A harmful divine response is averted or reversed when a human retracts
+    an offense, fitting judgment and repair.
+  cautions: Could also fit sacred_exchange or covenant if the recantation is formal
+    ritual repair; source context is needed.
+  suggested_aliases:
+  - recantation_averts_divine_punishment
+  - retraction_reverses_divine_harm
+  - speech_repair_after_divine_offense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-divine-intervention-in-heroic-combat
+  motif_id: reciprocal_divine_intervention_in_heroic_combat
+  label: reciprocal divine intervention in heroic combat
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Gods intervening on opposing sides of heroic combat belongs with sacred
+    combat and divine warrior functions.
+  cautions: If the focus is patronage or guidance rather than combat itself, divine_intervention
+    is a close secondary group.
+  suggested_aliases:
+  - divine_intervention_in_heroic_combat
+  - gods_aid_opposing_warriors
+  - reciprocal_battlefield_divine_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels form a rainmaking/weather-rite cluster. Existing groups can provisionally
+  hold individual cases, but reviewers may consider a dedicated rainmaking_weather_rites
+  group if recurrence across sources is confirmed.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft suggestions generated for human taxonomy review; rainmaking items especially
+    need source-context validation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0293
+  input_sha256: 77e85efcb68b11975ffd33825949e925ef903f1ce41bcd6313b8b1f72fbaa37a

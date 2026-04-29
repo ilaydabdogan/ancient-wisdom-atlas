@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0313
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-fire-turned-into-weapon
+  motif_id: sacred_fire_turned_into_weapon
+  label: sacred fire turned into weapon
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core image is sacred fire used as an active divine or ritual power;
+    weaponization is a functional variant.
+  cautions: Could also index under divine_warrior or sacred_combat if the passage
+    emphasizes battle rather than fire as sacred force.
+  suggested_aliases:
+  - weaponized sacred fire
+  - sacred fire as weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-weapon-repelling-hostile-missiles
+  motif_id: sacred_fire_weapon_repelling_hostile_missiles
+  label: sacred fire weapon repelling hostile missiles
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred fire weapon used defensively fits sacred fire as divine protective
+    or purifying power.
+  cautions: Highly specific combat detail; if the weapon’s martial role dominates,
+    add secondary review under divine_warrior or sacred_combat.
+  suggested_aliases:
+  - sacred fire as defensive weapon
+  - fire weapon repelling missiles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fires-in-ritual-and-funerary-order
+  motif_id: sacred_fires_in_ritual_and_funerary_order
+  label: sacred fires in ritual and funerary order
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label directly concerns maintained ritual fires and their role in
+    sacred and funerary order.
+  cautions: If the passage centers on death rites rather than fire symbolism, ancestor_rites
+    or heroic_funeral_rites may be relevant secondary groups.
+  suggested_aliases:
+  - funerary sacred fires
+  - ritual sacred fires
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-forest-hermitage-as-protected-ascetic-space
+  motif_id: sacred_forest_hermitage_as_protected_ascetic_space
+  label: sacred forest hermitage as protected ascetic space
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A protected ascetic hermitage functions as a space for discipline, renunciation,
+    and spiritual pursuit.
+  cautions: If the forest itself is the main sacred place rather than ascetic practice,
+    otherworld, axis_mundi, or a future sacred-place group may fit better.
+  suggested_aliases:
+  - protected ascetic hermitage
+  - sacred hermitage space
+  - forest hermitage as ascetic refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fountain-created-by-hoof-strike
+  motif_id: sacred_fountain_created_by_hoof_strike
+  label: Sacred fountain created by hoof-strike
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: child
+  confidence: medium
+  rationale: A sacred fountain is a holy water source; creation by hoof-strike is
+    the local etiological detail.
+  cautions: The hoof-strike may involve a divine or magical animal; add shapeshifter,
+    divine_intervention, or sacred_treasures only if passage evidence supports it.
+  suggested_aliases:
+  - miraculous spring from hoof-strike
+  - sacred spring created by hoof-strike
+  - hoof-struck fountain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-garment-as-lineage-sign
+  motif_id: sacred_garment_as_lineage_sign
+  label: sacred garment as lineage sign
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sacred garment functioning as a sign of lineage is a power object conferring
+    authority or spiritual affiliation.
+  cautions: In Sufi contexts this may be initiatory transmission rather than object
+    power; mystical_quest or sacred_knowledge may be secondary mappings.
+  suggested_aliases:
+  - lineage garment
+  - sacred robe as lineage sign
+  - initiatory garment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-grove-as-temple-setting
+  motif_id: sacred_grove_as_temple_setting
+  label: Sacred grove as temple setting
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A grove functioning as a temple setting is a sacred center or consecrated
+    ritual place.
+  cautions: If the grove is merely a location, it may be too place-specific; if tree
+    symbolism dominates, map more narrowly to sacred_tree_axis.
+  suggested_aliases:
+  - temple grove
+  - sacred grove as sanctuary
+  - consecrated grove setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-grove-consecrated-to-a-pastoral-deity
+  motif_id: sacred_grove_consecrated_to_a_pastoral_deity
+  label: Sacred grove consecrated to a pastoral deity
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A consecrated grove can function as a sacred center or sanctuary space.
+  cautions: The pastoral-deity specificity may be local cult description rather than
+    a reusable motif; review whether it is more than a place-only detail.
+  suggested_aliases:
+  - consecrated grove
+  - sacred grove of pastoral deity
+  - pastoral deity grove
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-grove-or-tree-place-at-dodona
+  motif_id: sacred_grove_or_tree_place_at_dodona
+  label: Sacred grove or tree-place at Dodona
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: The sacred grove/tree-place could fit sacred-tree or sacred-center motifs,
+    but Dodona is a specific cult site.
+  cautions: May be place-only or oracle-site evidence rather than a general motif;
+    if oracle/revelation is central, dream_and_vision or sacred_knowledge may fit
+    better.
+  suggested_aliases:
+  - Dodona sacred grove
+  - Dodona sacred tree-place
+  - oracular sacred grove
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-hermitage-with-maintained-fire
+  motif_id: sacred_hermitage_with_maintained_fire
+  label: sacred hermitage with maintained fire
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: The maintained fire is a clear sacred-fire ritual feature within an ascetic
+    hermitage.
+  cautions: If the passage emphasizes the hermitage as ascetic refuge more than the
+    fire, mystical_quest may be a secondary group.
+  suggested_aliases:
+  - maintained hermitage fire
+  - ascetic hermitage fire
+  - sacred fire in hermitage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine sacred place, local cult, and ritual function; preserve local
+  evidence notes rather than treating all groves, fountains, or hermitages as the
+  same motif.
+- Fire-as-weapon items should not be used as transmission evidence; the placement
+  only reflects functional similarity within sacred fire or combat imagery.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    local cult-site and ascetic-space labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0313
+  input_sha256: 13a374416bb7d763b82fab91ea50e18be8ba6aa4ebe02028b5861d2a0939dee4

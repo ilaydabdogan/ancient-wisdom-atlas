@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0249
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divinely-authorized-law
+  motif_id: divinely_authorized_law
+  label: divinely authorized law
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: alias
+  confidence: high
+  rationale: The label directly describes law grounded in divine authority, matching
+    sacred law and social order.
+  cautions: Could also map to covenant if the passage emphasizes a binding divine-human
+    agreement rather than legal authority in general.
+  suggested_aliases:
+  - divine law
+  - sacred law
+  - divinely sanctioned law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-authorized-miracle-worker
+  motif_id: divinely_authorized_miracle_worker
+  label: divinely authorized miracle worker
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A miracle worker authorized by the divine is a human agent through whom
+    sacred power intervenes in affairs.
+  cautions: If the emphasis is prophetic authorization or public proof rather than
+    the miracle itself, a prophet-call or theophany/revelation mapping may be secondary.
+  suggested_aliases:
+  - authorized miracle worker
+  - divinely empowered miracle worker
+  - miracle worker as divine agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-authorized-public-rule
+  motif_id: divinely_authorized_public_rule
+  label: divinely authorized public rule
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: high
+  rationale: Public rule authorized by divine sanction fits sacred kingship and legitimacy
+    of political order.
+  cautions: If the passage concerns civic law rather than rulership, sacred_law may
+    be a secondary placement.
+  suggested_aliases:
+  - divinely sanctioned rule
+  - sacred authorization of rule
+  - divine mandate for public authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-authorized-redistribution-of-captured-property
+  motif_id: divinely_authorized_redistribution_of_captured_property
+  label: divinely authorized redistribution of captured property
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes divine regulation of social/economic order after
+    conflict, best fitting sacred law.
+  cautions: Highly contextual and may be legal-historical rather than a reusable mythic
+    motif; sacred_combat or sacred_exchange may be secondary if battle spoils or redistribution
+    are central.
+  suggested_aliases:
+  - divine regulation of captured property
+  - sacred distribution of spoils
+  - divinely sanctioned redistribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-authorized-social-and-marital-order
+  motif_id: divinely_authorized_social_and_marital_order
+  label: divinely authorized social and marital order
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine authorization of social and marital norms belongs under sacred
+    law and social order.
+  cautions: If the passage emphasizes cosmic or fertility union rather than legal/social
+    ordering, sacred_marriage or sacred_love may be secondary rather than primary.
+  suggested_aliases:
+  - divinely sanctioned marital order
+  - sacred social order
+  - divine regulation of marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-bestowed-weapon-and-strength
+  motif_id: divinely_bestowed_weapon_and_strength
+  label: divinely bestowed weapon and strength
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A weapon and strength bestowed by divine power fits sacred power objects
+    conferring ability on the bearer.
+  cautions: If the focus is combat establishing cosmic order, divine_warrior should
+    be considered as a secondary mapping.
+  suggested_aliases:
+  - divine weapon gift
+  - god-given weapon and strength
+  - sacred weapon bestowal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-commanded-supernatural-agents
+  motif_id: divinely_commanded_supernatural_agents
+  label: divinely commanded supernatural agents
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Supernatural agents acting under divine command are instruments of divine
+    intervention.
+  cautions: If the passage emphasizes saintly mastery over spirits rather than divine
+    command, source context is needed; could overlap with miracle-worker or spirit-agency
+    motifs.
+  suggested_aliases:
+  - supernatural agents under divine command
+  - divine command of spirits
+  - spirits as instruments of divine action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-extended-prophetic-lifespan
+  motif_id: divinely_extended_prophetic_lifespan
+  label: divinely extended prophetic lifespan
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: immortality_without_renewal
+  suggested_group_label: Immortality Without Renewal
+  relationship: narrower_than
+  confidence: medium
+  rationale: A divinely prolonged prophetic life concerns extended life and its sacred
+    function, closest to the existing immortality/extended-life group.
+  cautions: If the extended lifespan is simply a divine gift without burden or defective
+    renewal, death_and_transformation or divine_intervention may be better; review
+    passage evidence.
+  suggested_aliases:
+  - divinely prolonged lifespan
+  - prophetic long life
+  - sacred extension of life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-favored-civic-victory
+  motif_id: divinely_favored_civic_victory
+  label: divinely favored civic victory
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Victory granted or favored by divine power fits sacred combat and divine
+    support in conflict.
+  cautions: If the victory legitimizes a city or regime more than battle itself, royal_legitimacy
+    or divine_intervention may be secondary; single occurrence may be contextual.
+  suggested_aliases:
+  - divinely favored victory
+  - god-aided civic victory
+  - divine support in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-favored-holy-battle-in-ordered-ranks
+  motif_id: divinely_favored_holy_battle_in_ordered_ranks
+  label: Divinely favored holy battle in ordered ranks
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A holy battle favored by divine power is a clear sacred combat/divine-warrior
+    pattern.
+  cautions: The detail of ordered ranks may reflect passage-specific martial discipline
+    and should not be over-promoted without recurrence.
+  suggested_aliases:
+  - divinely favored holy battle
+  - sacred battle in ordered ranks
+  - divine favor in battle ranks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use 'divinely authorized' as a broad legal or legitimating formula;
+  preserve whether the source emphasizes law, rule, miracle, social order, or conflict
+  rather than collapsing all into divine_intervention.
+- Single-occurrence legal and battle labels may be passage-specific; human review
+  should confirm they are motifs rather than contextual summaries.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0249
+  input_sha256: 62afe438345cd94377d82911cc04fd043bb6313b827c5c0e511f1ab7f0c9ec33

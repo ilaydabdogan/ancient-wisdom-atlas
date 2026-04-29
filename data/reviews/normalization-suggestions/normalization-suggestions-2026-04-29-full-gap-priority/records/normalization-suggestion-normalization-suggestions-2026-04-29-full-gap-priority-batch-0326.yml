@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0326
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sexual-taboo-linked-to-household-fortune
+  motif_id: sexual_taboo_linked_to_household_fortune
+  label: sexual taboo linked to household fortune
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo regulating sexual conduct and household fortune fits sacred law,
+    purity, and social-order rules.
+  cautions: Single Ainu occurrence; review whether this is a recurring ritual prohibition,
+    household luck belief, or over-specific ethnographic note.
+  suggested_aliases:
+  - sexual taboo
+  - household fortune taboo
+  - sexual prohibition linked to prosperity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sheltering-plant-that-withers-and-prompts-divine-remonstrance
+  motif_id: sheltering_plant_that_withers_and_prompts_divine_remonstrance
+  label: Sheltering plant that withers and prompts divine remonstrance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The plant functions as a divinely controlled sign used to instruct or
+    correct a human figure.
+  cautions: Highly episode-specific; could alternatively support sacred_knowledge
+    if the emphasis is divine teaching rather than intervention.
+  suggested_aliases:
+  - withering plant as divine lesson
+  - divine remonstrance through plant
+  - sheltering plant sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.signs-and-wonders-from-slain-sacred-animals
+  motif_id: signs_and_wonders_from_slain_sacred_animals
+  label: Signs and wonders from slain sacred animals
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A slain sacred animal producing signs belongs with sacrificial death
+    and ritual meaning.
+  cautions: May involve omen interpretation or divine intervention rather than sacrifice
+    if the animal is not ritually offered; source evidence needed.
+  suggested_aliases:
+  - omens from slain sacred animal
+  - wonders from sacrificial animal
+  - sacred animal death sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-delayed-by-divine-or-supernatural-intervention
+  motif_id: single_combat_delayed_by_divine_or_supernatural_intervention
+  label: single combat delayed by divine or supernatural intervention
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is supernatural agency redirecting or delaying human
+    conflict.
+  cautions: Could also be indexed under sacred_combat if the single combat is ritually
+    or cosmically significant; avoid treating all battle delay as divine judgment.
+  suggested_aliases:
+  - divine delay of combat
+  - supernatural intervention in single combat
+  - combat postponed by sacred agency
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-divine-sovereignty-against-plurality-of-gods
+  motif_id: single_divine_sovereignty_against_plurality_of_gods
+  label: single divine sovereignty against plurality of gods
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on sole divine rulership and cosmic sovereignty over
+    rival divine plurality.
+  cautions: May be a theological doctrine or polemical claim rather than a narrative
+    motif; review before using in pattern queries.
+  suggested_aliases:
+  - sole divine sovereignty
+  - one god against many gods
+  - monotheistic cosmic sovereignty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.skin-of-slain-divine-animal-as-image-or-bearer-of-divine-life
+  motif_id: skin_of_slain_divine_animal_as_image_or_bearer_of_divine_life
+  label: skin of slain divine animal as image or bearer of divine life
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines slain sacred animal, relic-like skin, image, and bearer
+    of divine life, overlapping sacrifice and sacred object categories.
+  cautions: Comparative label may be analytic rather than source motif; review whether
+    the skin functions as offering, power object, divine image, or life-token.
+  suggested_aliases:
+  - divine animal skin
+  - skin as bearer of divine life
+  - slain animal skin relic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sky-god-elevated-to-supreme-ruler
+  motif_id: sky_god_elevated_to_supreme_ruler
+  label: sky-god elevated to supreme ruler
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: role_variant
+  confidence: high
+  rationale: A sky god becoming supreme ruler directly fits cosmic sovereignty and
+    supreme-ruler elevation.
+  cautions: Could also relate to royal_legitimacy only if the passage connects divine
+    sovereignty to earthly rule.
+  suggested_aliases:
+  - sky god as supreme ruler
+  - elevated sky deity
+  - celestial supreme god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slain-god-or-hero-killed-by-boar
+  motif_id: slain_god_or_hero_killed_by_boar
+  label: slain god or hero killed by boar
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label concerns the death of a divine or heroic figure, a narrower
+    death-transformation pattern when death has mythic significance.
+  cautions: If no return, renewal, cult, or transformation follows, it may be merely
+    a death episode; boar detail may be over-specific.
+  suggested_aliases:
+  - boar-killed hero
+  - boar slays god
+  - death of hero by boar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slaying-of-king-removed-from-sanctuary
+  motif_id: slaying_of_king_removed_from_sanctuary
+  label: Slaying of king removed from sanctuary
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: A king killed after removal from sanctuary may concern sacred kingship,
+    sanctuary violation, or ritual-political violence.
+  cautions: Highly contextual; could fit sacred_combat, sacrifice, divine_judgment,
+    or be an episode-specific political detail depending on evidence.
+  suggested_aliases:
+  - king slain after sanctuary removal
+  - sanctuary removal before royal killing
+  - slaying of displaced king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleep-induced-by-sacred-plant-bearing-deity
+  motif_id: sleep_induced_by_sacred_plant_bearing_deity
+  label: Sleep induced by sacred plant-bearing deity
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity induces sleep through a sacred plant, showing direct divine action
+    in human or heroic affairs.
+  cautions: Could also support dream_and_vision if sleep opens revelation, or sacred_treasures
+    if the plant object is the main focus.
+  suggested_aliases:
+  - divinely induced sleep
+  - sacred plant sleep
+  - sleep caused by plant-bearing deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional placements for review and do not imply transmission
+  or shared origin.
+- Several labels are single-occurrence and highly contextual; preserve local evidence
+  notes before promoting any as durable motif children.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes ritual, divine-intervention, and sacred-sovereignty labels
+    with several over-specific or comparative items needing source verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0326
+  input_sha256: 90d2f5832bedb9c0594c3ed5033f7339639edfd1a51550a7dcb44d75a8bd50a1

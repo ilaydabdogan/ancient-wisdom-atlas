@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0359
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cosmic-and-apocalyptic-similes-intensifying-battle
+  motif_id: cosmic_and_apocalyptic_similes_intensifying_battle
+  label: cosmic and apocalyptic similes intensifying battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes poetic similes used to intensify a battle scene rather
+    than a stable narrative motif.
+  cautions: If the passage depicts actual cosmic dissolution or divine warfare, remap
+    to flood_and_renewal, world_destroying_fire, or divine_warrior; as worded it is
+    rhetorical texture.
+  suggested_aliases:
+  - apocalyptic battle similes
+  - cosmic battle imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-portents-during-heroic-combat
+  motif_id: cosmic_portents_during_heroic_combat
+  label: cosmic portents during heroic combat
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Cosmic portents function as signs or omens revealing the significance
+    of heroic combat.
+  cautions: Could also relate to divine_warrior or sacred_combat if the combat itself
+    maintains cosmic order; source evidence should decide secondary mapping.
+  suggested_aliases:
+  - battle omens
+  - cosmic omens in combat
+  - portents during combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.council-stratagem-testing-the-army-s-resolve
+  motif_id: council_stratagem_testing_the_army_s_resolve
+  label: council stratagem testing the army's resolve
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a tactical episode or leadership test, but no
+    existing group clearly covers military counsel and morale-testing stratagems.
+  cautions: Likely passage-specific unless similar war-council tests recur; could
+    fit royal_legitimacy, sacred_combat, or initiation depending on whether authority,
+    war ritual, or ordeal is emphasized.
+  suggested_aliases:
+  - army resolve test
+  - military stratagem as test
+  - war council test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cowardice-in-battle-as-collective-blood-guilt
+  motif_id: cowardice_in_battle_as_collective_blood_guilt
+  label: Cowardice in battle as collective blood-guilt
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Cowardice is framed as collective moral culpability, aligning with sacred
+    reckoning and consequence for transgression.
+  cautions: Could also belong under sacred_law if the emphasis is legal-ethical command,
+    or sacred_combat if battle duty is central.
+  suggested_aliases:
+  - battle cowardice as guilt
+  - collective blood-guilt in battle
+  - failure in battle as moral guilt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cure-by-the-substance-of-the-wounding-weapon
+  motif_id: cure_by_the_substance_of_the_wounding_weapon
+  label: cure by the substance of the wounding weapon
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The weapon or its substance acts as a power object whose harmful force
+    also heals.
+  cautions: If the passage stresses sympathetic magic or healing rite rather than
+    object power, a future healing-magic group may be preferable; current taxonomy
+    has no dedicated healing group.
+  suggested_aliases:
+  - wounding weapon cures wound
+  - healing by weapon substance
+  - sympathetic cure by weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.daily-miraculous-renewal-of-weapons-for-battle
+  motif_id: daily_miraculous_renewal_of_weapons_for_battle
+  label: daily miraculous renewal of weapons for battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: Miraculously renewing weapons are power objects that confer continuing
+    battle capacity.
+  cautions: May also relate to sacred_combat if the renewal is tied to ritual warfare;
+    preserve the daily-renewal detail as evidence.
+  suggested_aliases:
+  - miraculously renewed weapons
+  - self-renewing weapons
+  - renewing battle arms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-ally-sent-against-enemy-as-expendable-champion
+  motif_id: dangerous_ally_sent_against_enemy_as_expendable_champion
+  label: dangerous ally sent against enemy as expendable champion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif concerns use of a champion in battle strategy within a ritually
+    or heroically charged combat setting.
+  cautions: Could be a plot-specific tactical detail; if the emphasis is betrayal
+    or sacrifice of the ally, sacrifice or divine_judgment may be secondary.
+  suggested_aliases:
+  - expendable champion
+  - dangerous ally as champion
+  - champion sent against enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-hospitality-at-a-monster-s-dwelling
+  motif_id: dangerous_hospitality_at_a_monster_s_dwelling
+  label: dangerous hospitality at a monster's dwelling
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A monster's dwelling creates a perilous threshold where hospitality becomes
+    a test or trap before passage or survival.
+  cautions: If the dwelling is an enchanted realm rather than a guarded boundary,
+    otherworld may be a better secondary group; if hospitality norms dominate, no
+    current group is exact.
+  suggested_aliases:
+  - perilous monster hospitality
+  - monster dwelling as trap
+  - dangerous host monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-hunt-warning
+  motif_id: dangerous_hunt_warning
+  label: dangerous hunt warning
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to determine whether it is an omen, taboo, heroic
+    ordeal, or narrative setup for death.
+  cautions: Review source evidence before mapping; possible placements include dream_and_vision
+    for warning omens, sacred_law for prohibitions, or death_by_fate if the hunt is
+    destined fatal.
+  suggested_aliases:
+  - warning before dangerous hunt
+  - fatal hunt warning
+  - hunt omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-island-inhabited-by-a-strangling-monster
+  motif_id: dangerous_island_inhabited_by_a_strangling_monster
+  label: Dangerous island inhabited by a strangling monster
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A monster on a perilous island functions as a boundary danger encountered
+    during travel or passage.
+  cautions: The strangling-monster detail is over-specific; if the island is mainly
+    an enchanted otherworld, map secondarily to otherworld.
+  suggested_aliases:
+  - monster island ordeal
+  - perilous island monster
+  - strangling monster on island
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several battle labels are single-occurrence and may be rhetorical or episode-specific;
+  avoid promoting them without recurrence across sources.
+- Where combat scenes include omens, cosmic imagery, or sacred weapons, separate the
+  narrative function from poetic intensification.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft machine suggestions for conflict/ordeal motifs; human review should
+    verify source context for tactical and hunt-related labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0359
+  input_sha256: 0e5aa14008383ff89489aa47629a94e68c737f76e0ca5bc10b2a08c492253d95

@@ -1,0 +1,322 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0280
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.named-inherited-weapon-used-in-decisive-combat
+  motif_id: named_inherited_weapon_used_in_decisive_combat
+  label: named inherited weapon used in decisive combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A named inherited weapon used in decisive combat functions as a power
+    object conferring authority or exceptional martial efficacy.
+  cautions: Could also relate to divine_warrior or sacred_combat if the passage emphasizes
+    battle function over the object itself; single occurrence and culturally specific
+    name should be preserved as evidence detail.
+  suggested_aliases:
+  - inherited weapon
+  - named heroic weapon
+  - ancestral weapon in decisive combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-phenomenon-personified-as-divine-beings
+  motif_id: natural_phenomenon_personified_as_divine_beings
+  label: Natural phenomenon personified as divine beings
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes broad divine personification of nature, but existing
+    groups do not cleanly cover general nature-deity personification.
+  cautions: May be a classification artifact or too broad; depending on passage, it
+    could fit cosmic_origin, divine_intervention, theophany, or a future nature-deities
+    group.
+  suggested_aliases:
+  - nature personified as gods
+  - natural forces as divine beings
+  - divine personification of natural phenomena
+  suggested_new_group:
+    id: nature_deities
+    label: Nature Deities and Personified Natural Forces
+    description: Natural phenomena, elements, places, seasons, or forces personified
+      as gods, spirits, or divine powers.
+    parent_group_ids:
+    - cosmic_origin
+    - divine_intervention
+    related_group_ids:
+    - theophany
+    - sacred_waters
+    - sacred_fire
+    reason_existing_groups_insufficient: Current groups cover specific elements or
+      divine actions, but not the recurring motif of nature itself being personified
+      as divine powers.
+- suggestion_id: normalization.suggestion.natural-signs-of-divine-creative-sovereignty
+  motif_id: natural_signs_of_divine_creative_sovereignty
+  label: natural signs of divine creative sovereignty
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Natural signs demonstrating divine creative power align with creation
+    and cosmic ordering themes.
+  cautions: If the passage emphasizes signs as revelation or instruction rather than
+    creation, sacred_knowledge or theophany may be better secondary mappings.
+  suggested_aliases:
+  - signs of creation
+  - natural signs of divine sovereignty
+  - creation signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nature-and-animals-joined-in-sacred-praise
+  motif_id: nature_and_animals_joined_in_sacred_praise
+  label: nature and animals joined in sacred praise
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label points to cosmic or creaturely praise, a theme not directly
+    represented by current groups.
+  cautions: Could be theological teaching, liturgical imagery, or poetic passage detail
+    rather than a durable motif; may relate to cosmic_order, sacred_song, or divine_intervention
+    depending on source evidence.
+  suggested_aliases:
+  - creatures praising God
+  - cosmic praise by nature
+  - animals and nature in sacred praise
+  suggested_new_group:
+    id: cosmic_praise
+    label: Cosmic Praise and Creaturely Worship
+    description: Nature, animals, celestial bodies, or the cosmos participate in praise,
+      worship, remembrance, or acknowledgment of sacred sovereignty.
+    parent_group_ids:
+    - cosmic_origin
+    - sacred_knowledge
+    related_group_ids:
+    - sacred_song
+    - theophany
+    - divine_intervention
+    reason_existing_groups_insufficient: Existing sacred_song covers expressive human
+      or mystical song, but not the broader cosmological motif of all creation participating
+      in worship or praise.
+- suggestion_id: normalization.suggestion.nature-personified-as-divine-powers
+  motif_id: nature_personified_as_divine_powers
+  label: Nature personified as divine powers
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a near-duplicate of natural phenomena personified as divine beings
+    and lacks a precise existing group.
+  cautions: Review together with similar personification labels; may be too broad
+    for pattern queries unless specific natural powers are identified in passages.
+  suggested_aliases:
+  - nature as divine powers
+  - personified natural forces
+  - natural powers as gods
+  suggested_new_group:
+    id: nature_deities
+    label: Nature Deities and Personified Natural Forces
+    description: Natural phenomena, elements, places, seasons, or forces personified
+      as gods, spirits, or divine powers.
+    parent_group_ids:
+    - cosmic_origin
+    - divine_intervention
+    related_group_ids:
+    - theophany
+    - sacred_waters
+    - sacred_fire
+    reason_existing_groups_insufficient: Current groups cover specific sacred elements
+      and divine actions, but not broad personification of natural forces as deities.
+- suggestion_id: normalization.suggestion.neutrality-in-divine-conflict-preserves-dominion
+  motif_id: neutrality_in_divine_conflict_preserves_dominion
+  label: neutrality in divine conflict preserves dominion
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns retaining dominion or legitimate rule through conduct
+    during divine conflict.
+  cautions: Could also fit divine_warrior or divine_judgment if the passage centers
+    on cosmic battle or moral evaluation; preserve neutrality strategy as evidence
+    detail.
+  suggested_aliases:
+  - neutrality preserving rule
+  - dominion preserved through neutrality
+  - nonalignment in divine conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.neutralizing-strange-sacred-ground-before-entry
+  motif_id: neutralizing_strange_sacred_ground_before_entry
+  label: Neutralizing strange sacred ground before entry
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rite or rule for making dangerous sacred ground safe before entry fits
+    ritual prohibition and apotropaic handling under sacred law.
+  cautions: If the passage emphasizes boundary crossing or a guardian encounter, threshold_guardian
+    or initiation may be secondary; comparative wording may be an ethnographic abstraction.
+  suggested_aliases:
+  - ritual preparation before sacred ground
+  - neutralizing sacred ground
+  - entry rite for dangerous sacred space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.new-law-replacing-or-reinterpreting-prior-ritual-obligations
+  motif_id: new_law_replacing_or_reinterpreting_prior_ritual_obligations
+  label: New law replacing or reinterpreting prior ritual obligations
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A new sacred law that revises ritual obligations concerns binding divine-human
+    order and covenantal/legal renewal.
+  cautions: Could also map to sacred_law if the focus is legal practice rather than
+    covenantal relationship; avoid making historical-development claims from taxonomy
+    placement.
+  suggested_aliases:
+  - new sacred law
+  - ritual obligation reinterpreted
+  - law replacing prior rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.new-year-lunar-prayer-for-protection-and-nearness-to-god
+  motif_id: new_year_lunar_prayer_for_protection_and_nearness_to_god
+  label: new-year lunar prayer for protection and nearness to God
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A new-year lunar prayer is organized by sacred calendrical time and ritual
+    renewal.
+  cautions: The label is highly specific; if the passage centers on mystical nearness
+    rather than calendrical rite, mystical_quest or divine_beloved may be relevant.
+  suggested_aliases:
+  - new year prayer
+  - lunar new-year protection prayer
+  - ritual prayer at sacred new year
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-sacrifice-to-a-lower-world-divinity
+  motif_id: night_sacrifice_to_a_lower_world_divinity
+  label: Night sacrifice to a lower-world divinity
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The core action is a sacrifice directed to a chthonic or lower-world
+    divinity, fitting sacrifice as ritual offering.
+  cautions: May also relate to descent or afterlife_passage if performed for the dead
+    or underworld navigation; preserve night and lower-world details as ritual evidence.
+  suggested_aliases:
+  - chthonic sacrifice
+  - night offering to underworld deity
+  - sacrifice to lower-world divinity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern broad personification of nature or cosmic praise;
+  current groups can only approximate these, so human review should decide whether
+  a nature-deities or cosmic-praise group is warranted.
+- Single-occurrence, highly contextual ritual labels should preserve local details
+  as evidence notes rather than becoming canonical motifs by default.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; personification and cosmic-praise items especially
+    need taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0280
+  input_sha256: f7cafe5886f887ec3a16b85a4f454eecf65ef533bb2f1073aefea7ca2310e76f

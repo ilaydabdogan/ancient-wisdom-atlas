@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0338
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.vow-bound-vengeance-before-sunset
+  motif_id: vow_bound_vengeance_before_sunset
+  label: Vow-bound vengeance before sunset
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vengeance vow tied to battle duty fits the sacred-combat/warrior-duty
+    complex already nested under divine_warrior.
+  cautions: The sunset deadline may be an episode-specific narrative detail; if the
+    passage emphasizes vow discipline rather than combat, sacrifice or covenant may
+    be secondary.
+  suggested_aliases:
+  - vengeance vow before sunset
+  - warrior vow of vengeance
+  - time-bound vengeance oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vow-or-resolution-to-become-a-buddha-before-d-pankara
+  motif_id: vow_or_resolution_to_become_a_buddha_before_d_pankara
+  label: vow or resolution to become a Buddha before Dīpankara
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A formal resolution toward Buddhahood initiates a long spiritual path
+    toward awakening and transformation.
+  cautions: Dīpankara-specific wording is tradition-specific and may be too contextual;
+    if the focus is prophecy or recognition, dream_and_vision or divine_intervention
+    may be relevant.
+  suggested_aliases:
+  - bodhisattva vow before Dipankara
+  - resolution to attain Buddhahood
+  - vow of future awakening
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vowed-chastity-and-maiden-deity
+  motif_id: vowed_chastity_and_maiden_deity
+  label: vowed chastity and maiden deity
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: A vow of chastity dedicates bodily conduct or attachment to a sacred
+    relationship with a deity.
+  cautions: May instead be a role attribute of a maiden goddess, a purity rule under
+    sacred_law, or an over-specific cultic detail; source evidence is needed.
+  suggested_aliases:
+  - vow of chastity to maiden deity
+  - sacred chastity vow
+  - virginal dedication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vowed-fast-producing-ritual-silence
+  motif_id: vowed_fast_producing_ritual_silence
+  label: Vowed fast producing ritual silence
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: high
+  rationale: A fast or vow that entails silence is a renunciatory ritual practice
+    that sets apart speech and body in relation to the sacred.
+  cautions: If silence functions primarily as a sign or divine command, sacred_knowledge
+    or divine_intervention may be secondary.
+  suggested_aliases:
+  - vowed fasting and silence
+  - ritual silence through fast
+  - fast of silence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wager-over-a-sacred-prediction
+  motif_id: wager_over_a_sacred_prediction
+  label: wager over a sacred prediction
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve prophecy, testing revelation, gambling, dispute,
+    or narrative proof, and cannot be placed safely from wording alone.
+  cautions: May be an episode artifact rather than a reusable motif; review whether
+    the sacred prediction itself, the wager, or the vindication is the motif.
+  suggested_aliases:
+  - wager on prophecy
+  - bet over sacred prediction
+  - prediction tested by wager
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-god-association-of-hero-and-goddess
+  motif_id: war_god_association_of_hero_and_goddess
+  label: war-god association of hero and goddess
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A hero linked with a war goddess belongs with divine or sacred combat
+    roles and divine sanction of warfare.
+  cautions: The wording may be classificatory rather than narrative; if it only identifies
+    deity affiliation, it may be too thin for pattern queries.
+  suggested_aliases:
+  - hero associated with war goddess
+  - war goddess and hero association
+  - divine war patronage of hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-god-overthrown-by-warrior-goddess
+  motif_id: war_god_overthrown_by_warrior_goddess
+  label: war-god overthrown by warrior goddess
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Conflict between war deities where one warrior deity overthrows another
+    is sacred combat among divine powers.
+  cautions: Could also index under divine_judgment if the overthrow is moral reckoning,
+    or royal_legitimacy if it establishes authority.
+  suggested_aliases:
+  - war deity defeated by warrior goddess
+  - divine warrior goddess overthrows war god
+  - war-god defeat by goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-goddess-apparition-to-a-hero
+  motif_id: war_goddess_apparition_to_a_hero
+  label: War goddess apparition to a hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: role_variant
+  confidence: high
+  rationale: A goddess appearing directly to a hero is a divine manifestation, with
+    war-goddess role as the specific form.
+  cautions: If the apparition primarily grants battle aid or foretells doom, divine_warrior
+    or dream_and_vision may be useful secondary mappings.
+  suggested_aliases:
+  - war goddess appears to hero
+  - battle goddess apparition
+  - martial theophany to hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-goddess-encounter-at-a-stronghold
+  motif_id: war_goddess_encounter_at_a_stronghold
+  label: war-goddess encounter at a stronghold
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: An encounter with a goddess at a charged place is best treated as divine
+    manifestation unless combat function dominates.
+  cautions: The stronghold setting may be over-specific; if she functions as territorial
+    guardian, threshold_guardian or divine_intervention may be relevant.
+  suggested_aliases:
+  - encounter with war goddess at stronghold
+  - battle goddess at fortress
+  - war goddess stronghold encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-goddess-figure
+  motif_id: war_goddess_figure
+  label: war-goddess figure
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A war-goddess figure is a divine combat role within the sacred warrior
+    complex.
+  cautions: This may be a character-type label rather than a motif; use only when
+    the passage shows martial divine agency, apparition, patronage, or combat function.
+  suggested_aliases:
+  - war goddess
+  - battle goddess figure
+  - martial goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and may be episode- or role-specific;
+  preserve local evidence while avoiding unnecessary new taxonomy groups.
+- War-goddess labels cluster under divine_warrior, with theophany appropriate where
+  direct apparition or encounter is the central function.
+- No transmission or borrowing claims are implied by these placement suggestions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for batch 0338.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0338
+  input_sha256: c382504fe5110d05cc03d2a8748314a8fa341bd4ced281a644cf1a1e2df69db8

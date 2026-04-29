@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0354
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.christian-conversion-debate-with-heroic-age-survivor
+  motif_id: christian_conversion_debate_with_heroic_age_survivor
+  label: Christian conversion debate with heroic-age survivor
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe conversion-era dialogue, religious contest, or
+    literary framing rather than a stable mythic motif.
+  cautions: Single occurrence and culturally specific Christian reception context;
+    verify whether this is narrative motif, theological debate, or textual framing
+    before indexing.
+  suggested_aliases:
+  - conversion debate with heroic survivor
+  - heroic-age survivor confronted by Christianity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - storytelling_as_power
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.christian-soundscape-replacing-heroic-past
+  motif_id: christian_soundscape_replacing_heroic_past
+  label: Christian soundscape replacing heroic past
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads as an interpretive observation about cultural or textual
+    replacement rather than a discrete narrative motif.
+  cautions: If a passage explicitly stages sacred sound displacing older heroic power,
+    human review could remap to theophany, sacred_song, or sacred_knowledge.
+  suggested_aliases:
+  - Christian soundscape displaces heroic past
+  - soundscape replacing heroic past
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.civic-liberty-struggle
+  motif_id: civic_liberty_struggle
+  label: civic liberty struggle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is broad political-historical and may not denote a mythic
+    motif without source evidence.
+  cautions: Could fit sacred_combat, royal_legitimacy, or sacred_law if the struggle
+    is sacralized; otherwise it may be historical/political context only.
+  suggested_aliases:
+  - struggle for civic liberty
+  - civic freedom conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.civic-tools-transformed-into-weapons
+  motif_id: civic_tools_transformed_into_weapons
+  label: Civic tools transformed into weapons
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The transformation of civic implements into weapons marks communal life
+    turning into ritually or symbolically charged conflict.
+  cautions: If the passage emphasizes the objects' power more than warfare, sacred_treasures
+    or sacred_craft may be secondary; single occurrence may be episode-specific.
+  suggested_aliases:
+  - tools become weapons
+  - civil implements turned to war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.closure-and-binding-of-war
+  motif_id: closure_and_binding_of_war
+  label: Closure and binding of war
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Binding or ritually closing war fits warfare treated as a controlled
+    sacred or civic-ritual force.
+  cautions: Could also relate to covenant or sacred_law if the binding is legal or
+    vow-based; confirm that an actual ritualized closure is present.
+  suggested_aliases:
+  - ritual closure of war
+  - binding war
+  - war ritually contained
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collective-refusal-to-face-a-feared-warrior
+  motif_id: collective_refusal_to_face_a_feared_warrior
+  label: collective refusal to face a feared warrior
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The feared warrior's overwhelming status drives collective avoidance,
+    aligning with heroic or divine-warrior combat imagery.
+  cautions: May be a narrative detail of reputation rather than a reusable motif;
+    sacred_combat may fit better if emphasis is the battle situation.
+  suggested_aliases:
+  - army refuses to face feared warrior
+  - warrior so feared opponents refuse combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-at-a-ford-between-opposed-champions
+  motif_id: combat_at_a_ford_between_opposed_champions
+  label: combat at a ford between opposed champions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Single combat at a ford is explicitly included in the sacred_combat group
+    description as ritualized conflict at a liminal crossing.
+  cautions: Also touches threshold_guardian or sacred_waters when the ford itself
+    functions as a boundary; preserve ford setting as evidence detail.
+  suggested_aliases:
+  - ford combat
+  - single combat at a ford
+  - champion combat at crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-continues-with-teeth-after-weapons-are-exhausted
+  motif_id: combat_continues_with_teeth_after_weapons_are_exhausted
+  label: combat continues with teeth after weapons are exhausted
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label intensifies heroic combat by showing a warrior continuing beyond
+    normal weapon use.
+  cautions: Likely episode-specific; preserve under warrior ferocity or sacred combat
+    evidence rather than promoting as a standalone motif.
+  suggested_aliases:
+  - tooth combat after weapons fail
+  - weaponless combat with teeth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-intensified-through-predator-and-cosmic-devourer-similes
+  motif_id: combat_intensified_through_predator_and_cosmic_devourer_similes
+  label: combat intensified through predator and cosmic-devourer similes
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label identifies poetic similes used to intensify combat rather than
+    a narrative motif or recurring symbolic action.
+  cautions: If the cosmic devourer is an acting figure in the passage, remap that
+    evidence to chaos, divine_warrior, or world_destroying_fire as appropriate.
+  suggested_aliases:
+  - predator similes in combat
+  - cosmic-devourer combat imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-so-intense-it-alters-the-landscape-and-terrifies-witnesses
+  motif_id: combat_so_intense_it_alters_the_landscape_and_terrifies_witnesses
+  label: combat so intense it alters the landscape and terrifies witnesses
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Combat that changes the landscape and terrifies witnesses presents the
+    warrior conflict as superhuman or cosmically charged.
+  cautions: If landscape alteration is etiological or world-shaping rather than battle
+    hyperbole, consider cosmic_origin or primordial_sacrifice only with stronger evidence.
+  suggested_aliases:
+  - landscape-altering combat
+  - terrifying cosmic-scale combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several labels in this batch are single-occurrence, conflict-themed, and may be
+  episode-specific rather than durable motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Human review recommended especially for Christian reception/context labels
+    and poetic-simile artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0354
+  input_sha256: 273a4b0b652c0a3497318913410805ddebf8db1507fef610e165fd119036411d

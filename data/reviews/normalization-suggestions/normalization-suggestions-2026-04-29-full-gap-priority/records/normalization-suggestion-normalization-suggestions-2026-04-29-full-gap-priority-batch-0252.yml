@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0252
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.earthquake-aetiology-from-divine-or-mythic-suffering
+  motif_id: earthquake_aetiology_from_divine_or_mythic_suffering
+  label: Earthquake aetiology from divine or mythic suffering
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label explains a natural phenomenon through divine or mythic suffering,
+    but no existing group cleanly covers etiological natural-cause myths.
+  cautions: Could fit divine_intervention, cosmic_origin, chaos, or a future natural-etiology
+    group depending on the source passage; single occurrence.
+  suggested_aliases:
+  - earthquake caused by divine suffering
+  - mythic suffering causes earthquake
+  - natural phenomenon from divine pain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - cosmic_origin
+    - chaos
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.elder-warrior-renewed-by-divine-aid
+  motif_id: elder_warrior_renewed_by_divine_aid
+  label: elder warrior renewed by divine aid
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is divine aid renewing or empowering a human warrior.
+  cautions: If the passage emphasizes battle honor or sacred combat more than aid,
+    divine_warrior or sacred_combat may be relevant secondary groups.
+  suggested_aliases:
+  - warrior renewed by divine aid
+  - divine rejuvenation of warrior
+  - aged hero restored by god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.election-and-purification-of-a-holy-woman
+  motif_id: election_and_purification_of_a_holy_woman
+  label: election and purification of a holy woman
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines divine election, purity, and a gendered holy role;
+    placement depends on passage evidence.
+  cautions: Culturally sensitive and likely source-specific; could involve mother_goddess,
+    miraculous_child, sacred_law, divine_intervention, or sacred_exchange depending
+    on context.
+  suggested_aliases:
+  - holy woman chosen and purified
+  - divine election of holy woman
+  - purification of chosen woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_law
+    - mother_goddess
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.elemental-first-gods-and-giant-descendants
+  motif_id: elemental_first_gods_and_giant_descendants
+  label: Elemental first gods and giant descendants
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: First gods and primordial giant descendants belong to cosmogonic origin
+    and early divine genealogy.
+  cautions: If the passage mainly classifies divine races rather than creation sequence,
+    divine_race may be a better secondary group.
+  suggested_aliases:
+  - primordial elemental gods
+  - first gods and giant lineage
+  - divine and giant origins
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.emblem-substitution-in-divine-representation
+  motif_id: emblem_substitution_in_divine_representation
+  label: emblem substitution in divine representation
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label sounds like iconographic or interpretive classification rather
+    than a narrative motif.
+  cautions: If a source passage narrates a sacred object standing in for a deity in
+    ritual, consider sacred_treasures or divine_intervention instead.
+  suggested_aliases:
+  - divine emblem substitution
+  - emblem as divine representation
+  - symbol substituted for deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-a-divine-being-in-strange-form
+  motif_id: encounter_with_a_divine_being_in_strange_form
+  label: encounter with a divine being in strange form
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A divine being appearing in unusual form is a manifestation of sacred
+    presence to a witness.
+  cautions: If the strange form is primarily disguise or metamorphosis, shapeshifter
+    may be an important secondary mapping.
+  suggested_aliases:
+  - divine being in strange form
+  - strange-form theophany
+  - encounter with disguised deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.end-or-twilight-of-the-gods-as-chapter-topic
+  motif_id: end_or_twilight_of_the_gods_as_chapter_topic
+  label: end or twilight of the gods as chapter topic
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'as chapter topic' identifies an editorial or topical heading
+    rather than a motif label.
+  cautions: If the underlying passage narrates cosmic destruction and renewal, index
+    that evidence under flood_and_renewal or world_destroying_fire separately.
+  suggested_aliases:
+  - twilight of the gods chapter topic
+  - end of gods as topic
+  - ragnarok chapter heading
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.endangered-hero-aided-by-helper-with-divine-made-weapon
+  motif_id: endangered_hero_aided_by_helper_with_divine_made_weapon
+  label: endangered hero aided by helper with divine-made weapon
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The divine-made weapon is the key power object that enables rescue or
+    protection of the hero.
+  cautions: Could also map to divine_intervention or hero_journey if the helper's
+    aid, rather than the weapon, is central.
+  suggested_aliases:
+  - divine-made weapon aids hero
+  - hero rescued by sacred weapon
+  - helper bearing divine weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enduring-sacred-fame-guaranteed-by-natural-permanence
+  motif_id: enduring_sacred_fame_guaranteed_by_natural_permanence
+  label: enduring sacred fame guaranteed by natural permanence
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Enduring sacred fame resembles public immortality through remembered
+    narrative or proclamation.
+  cautions: The natural-permanence detail may point to sacred landscape, vow, or blessing;
+    source context is needed before final placement.
+  suggested_aliases:
+  - sacred fame made permanent
+  - fame guaranteed by nature
+  - enduring fame through natural permanence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-war-leader-vows-to-take-the-hero-s-head
+  motif_id: enemy_war_leader_vows_to_take_the_hero_s_head
+  label: enemy war leader vows to take the hero's head
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A war leader's vow against a hero belongs to heroic combat, vengeance,
+    and warrior conflict patterns.
+  cautions: Highly episode-specific; preserve as evidence under warrior vow or sacred
+    combat rather than promoting as a canonical motif.
+  suggested_aliases:
+  - war leader vows to take hero's head
+  - vow to behead hero
+  - enemy vow against hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and phrase-level composites;
+  final placement should check source evidence before adding children to groups.
+- Do not infer transmission or borrowing from shared placement; suggestions only support
+  query normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements generated from labels and current normalization groups
+    only.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0252
+  input_sha256: 043cdaaf12f96dcad7ac536730b8c0b25d999f5b0f5e0d2086bd34bd2c9fc924

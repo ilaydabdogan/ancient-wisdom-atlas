@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0265
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroic-band-intermarried-or-bonded-with-divine-people
+  motif_id: heroic_band_intermarried_or_bonded_with_divine_people
+  label: Heroic band intermarried or bonded with divine people
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_race
+  suggested_group_label: Divine Race and Arrival of the Gods
+  relationship: functional_variant
+  confidence: medium
+  rationale: A heroic group forming marriage or bond ties with divine people fits
+    interaction with a divine/semi-divine race or people.
+  cautions: Could instead support sacred_marriage, royal_legitimacy, or sacred_exchange
+    if the source emphasizes union, sovereignty, or alliance ritual rather than divine
+    people as a group.
+  suggested_aliases:
+  - heroic alliance with divine people
+  - intermarriage with divine race
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-bearer-of-household-gods-into-a-new-land
+  motif_id: heroic_bearer_of_household_gods_into_a_new_land
+  label: heroic bearer of household gods into a new land
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero carrying household gods into a new land functions as founding
+    cultural and religious continuity for a new community.
+  cautions: Also relates to sacred_treasures, divine_intervention, and royal_legitimacy;
+    preserve the household-gods detail as evidence rather than treating it as a generic
+    object motif.
+  suggested_aliases:
+  - founder carries household gods
+  - heroic transfer of ancestral gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-bridge-fixed-in-sacred-geography
+  motif_id: heroic_bridge_fixed_in_sacred_geography
+  label: heroic bridge fixed in sacred geography
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: A sacred bridge made or fixed by heroic action fits divinely charged
+    construction within sacred geography.
+  cautions: If the bridge primarily marks a passage between worlds or pilgrimage route,
+    axis_mundi or hero_journey may be useful secondary mappings.
+  suggested_aliases:
+  - sacred heroic bridge
+  - bridge established in sacred geography
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-combat-at-a-god-s-sacred-precinct
+  motif_id: heroic_combat_at_a_god_s_sacred_precinct
+  label: heroic combat at a god’s sacred precinct
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: Combat located in a god's sacred precinct is a localized form of ritually
+    or religiously charged heroic combat.
+  cautions: If the key issue is violation of sacred space, divine_judgment may be
+    a secondary mapping; the label may be episode-specific.
+  suggested_aliases:
+  - combat in sacred precinct
+  - heroic battle at divine sanctuary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-cycle-centered-on-warrior-king-and-demigod-hero
+  motif_id: heroic_cycle_centered_on_warrior_king_and_demigod_hero
+  label: heroic cycle centered on warrior king and demigod hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes the composition or focus of a heroic cycle rather
+    than a reusable narrative motif.
+  cautions: If individual passages contain demigod hero combat, kingship legitimacy,
+    or heroic ordeal, map those more specific motifs separately.
+  suggested_aliases:
+  - heroic cycle centered on king and hero
+  - warrior-king and demigod cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-destruction-of-an-enemy-sanctuary
+  motif_id: heroic_destruction_of_an_enemy_sanctuary
+  label: Heroic destruction of an enemy sanctuary
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Destroying an enemy sanctuary frames warfare as an attack on sacred power
+    and belongs with sacred or ritualized combat.
+  cautions: Could imply sacrilege, divine judgment, or political conquest depending
+    on source context; avoid assuming moral valence without passage evidence.
+  suggested_aliases:
+  - sanctuary destruction in sacred combat
+  - destruction of enemy shrine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-merit-versus-inherited-lineage
+  motif_id: heroic_merit_versus_inherited_lineage
+  label: heroic merit versus inherited lineage
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The contrast between achieved merit and inherited lineage concerns the
+    grounds of legitimate status and authority.
+  cautions: May be an ethical or political theme rather than a sacred motif; if merely
+    rhetorical commentary, exclude from pattern queries.
+  suggested_aliases:
+  - merit versus lineage
+  - earned heroism versus inherited nobility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-divine-counsel-provoking-consort-conflict
+  motif_id: hidden_divine_counsel_provoking_consort_conflict
+  label: hidden divine counsel provoking consort conflict
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines secrecy, divine planning, and marital conflict, and
+    its main narrative function is unclear from wording alone.
+  cautions: Could map to sacred_knowledge if hidden counsel is central, sacred_marriage
+    if divine consort conflict is central, or divine_judgment/intervention if the
+    counsel changes human fate.
+  suggested_aliases:
+  - secret divine counsel causing consort conflict
+  - hidden plan among divine consorts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-divine-power-in-humble-outward-form
+  motif_id: hidden_divine_power_in_humble_outward_form
+  label: hidden divine power in humble outward form
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, concealed sacred power behind humble appearance fits
+    mystical insight into hidden reality and transformed perception.
+  cautions: Could also fit theophany or divine_intervention if the passage describes
+    an actual divine manifestation rather than a saintly or ethical paradox.
+  suggested_aliases:
+  - hidden sanctity in humble form
+  - divine power concealed by humility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-divine-source-manifested-through-visible-effects
+  motif_id: hidden_divine_source_manifested_through_visible_effects
+  label: hidden divine source manifested through visible effects
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A hidden divine source known through visible effects is an indirect manifestation
+    of sacred presence.
+  cautions: In Sufi philosophical context this may be a doctrinal insight under sacred_knowledge
+    or mystical_quest rather than a narrative theophany; review passage evidence.
+  suggested_aliases:
+  - divine source revealed by effects
+  - hidden divinity manifested indirectly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All placements are provisional; several labels occur once and may be passage-specific
+  or interpretive rather than durable motif labels.
+- For Sufi labels, distinguish mystical doctrine or perception from narrative divine
+  manifestation before final indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0265
+  input_sha256: 0a3391ac47adc56fb0dfab75e6c62e70f2d120df985ac219dcfc1c5254f398d3

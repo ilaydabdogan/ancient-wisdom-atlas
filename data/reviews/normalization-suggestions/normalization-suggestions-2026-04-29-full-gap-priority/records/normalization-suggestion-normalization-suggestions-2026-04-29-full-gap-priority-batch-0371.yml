@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0371
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fatal-combat-caused-by-deception-or-inducement
+  motif_id: fatal_combat_caused_by_deception_or_inducement
+  label: fatal combat caused by deception or inducement
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on combat whose fatal outcome is produced by manipulation,
+    fitting heroic or ritualized conflict patterns better than general death motifs.
+  cautions: Single occurrence; deception may be a plot mechanism rather than a durable
+    motif. Could relate to trickster if the deceiver's boundary-crossing role is central.
+  suggested_aliases:
+  - deceptively induced fatal combat
+  - fatal combat by inducement
+  - combat manipulated into death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-combat-caused-by-night-misrecognition
+  motif_id: fatal_combat_caused_by_night_misrecognition
+  label: Fatal combat caused by night misrecognition
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A fatal fight caused by misrecognition belongs under heroic combat, while
+    the night setting is likely episode-specific detail.
+  cautions: Could be tragic recognition or fate rather than sacred combat depending
+    on the source. Preserve night-misrecognition detail as evidence, not as a canonical
+    motif.
+  suggested_aliases:
+  - fatal combat through misrecognition
+  - night misrecognition leading to combat
+  - mistaken-identity fatal combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-combat-prompted-by-promised-woman-or-prize
+  motif_id: fatal_combat_prompted_by_promised_woman_or_prize
+  label: fatal combat prompted by promised woman or prize
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Combat for a promised woman or prize is a heroic contest or rivalry pattern,
+    fitting the sacred combat group.
+  cautions: If the woman is treated mainly as a marriage-sovereignty figure, sacred_marriage
+    or royal_legitimacy may be relevant. The label is somewhat culturally sensitive
+    and should not reduce a person to a prize in final wording.
+  suggested_aliases:
+  - fatal contest for bride or prize
+  - combat over promised bride or reward
+  - fatal rivalry for promised prize
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-day-of-the-youthful-warrior
+  motif_id: fatal_day_of_the_youthful_warrior
+  label: Fatal day of the youthful warrior
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: medium
+  rationale: The wording emphasizes a destined fatal day for a young warrior, aligning
+    with death assigned by fate in heroic contexts.
+  cautions: Could instead be divine_warrior or sacred_combat if the passage stresses
+    battle role rather than destiny. Source evidence is needed for fate language.
+  suggested_aliases:
+  - destined death of young warrior
+  - youthful warrior's fatal day
+  - fated warrior death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-demand-for-the-hero-s-weapon
+  motif_id: fatal_demand_for_the_hero_s_weapon
+  label: fatal demand for the hero's weapon
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero's weapon functions as a power object whose demanded transfer or
+    loss leads to death.
+  cautions: May also belong under sacred_combat if the emphasis is the battle outcome,
+    or death_by_fate if the demand fulfills a doom. Keep weapon-specific episode detail
+    granular.
+  suggested_aliases:
+  - demanded hero weapon causes death
+  - fatal surrender of hero's weapon
+  - hero weapon as fatal object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-exception-to-otherwise-harmless-weapons
+  motif_id: fatal_exception_to_otherwise_harmless_weapons
+  label: fatal exception to otherwise harmless weapons
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: A single overlooked or exceptional weapon that can kill an otherwise
+    protected figure commonly functions as the destined vulnerability enabling death.
+  cautions: Could overlap with external_soul or invulnerability motifs if the passage
+    stresses protective conditions rather than fate. Do not infer borrowing from similar
+    vulnerability patterns.
+  suggested_aliases:
+  - single fatal exception
+  - overlooked fatal weapon
+  - exception to invulnerability
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-gift-weapon
+  motif_id: fatal_gift_weapon
+  label: fatal gift weapon
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon given as a gift but bringing death fits power-object logic,
+    especially where the object carries fate, danger, or authority.
+  cautions: If the gift exchange itself is central, sacred_exchange may be secondary.
+    If merely a plot prop, it may be too specific for pattern queries.
+  suggested_aliases:
+  - deadly gifted weapon
+  - gift weapon causing death
+  - fatal weapon gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-single-combat-at-a-ford
+  motif_id: fatal_single_combat_at_a_ford
+  label: Fatal single combat at a ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: The existing sacred_combat group explicitly includes single combat at
+    fords, and this label is a fatal subtype.
+  cautions: The ford may also mark a threshold; add threshold_guardian only if the
+    passage treats the ford as a guarded boundary rather than simply a duel site.
+  suggested_aliases:
+  - single combat at ford
+  - fatal ford duel
+  - ford combat death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-special-weapon-in-heroic-combat
+  motif_id: fatal_special_weapon_in_heroic_combat
+  label: fatal special weapon in heroic combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a special weapon as the decisive power object in
+    heroic combat.
+  cautions: Could be indexed secondarily under sacred_combat if the duel structure
+    matters more than the weapon. Avoid promoting each named weapon episode as a separate
+    motif.
+  suggested_aliases:
+  - decisive special weapon
+  - fatal heroic weapon
+  - special weapon causing death in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-suitor-trial
+  motif_id: fatal_suitor_trial
+  label: fatal suitor trial
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A suitor trial is an ordeal testing eligibility or status; fatality marks
+    failed passage through the threshold test.
+  cautions: Could also fit sacred_marriage, sacred_combat, or royal_legitimacy if
+    the trial determines marriage alliance, sovereignty, or succession. Source context
+    needed.
+  suggested_aliases:
+  - deadly suitor test
+  - fatal bride trial
+  - suitor ordeal causing death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence heroic-combat details; treat suggested
+  placements as broad indexing aids rather than canonical taxonomy additions.
+- Several items may need secondary mappings after source review, especially where
+  fate, sacred weaponry, marriage competition, or threshold setting is central.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0371
+  input_sha256: c7ac7236866fa5eb253892ad68e58160ba5413ed0759818443ecd8c3736796cb

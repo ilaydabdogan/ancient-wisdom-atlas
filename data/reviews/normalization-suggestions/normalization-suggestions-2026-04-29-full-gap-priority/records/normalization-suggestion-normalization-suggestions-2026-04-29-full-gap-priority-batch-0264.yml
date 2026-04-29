@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0264
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-killed-by-combined-fate-gods-and-mortals
+  motif_id: hero_killed_by_combined_fate_gods_and_mortals
+  label: Hero killed by combined fate, gods, and mortals
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a hero's death as jointly fated and divinely/humanly
+    enacted.
+  cautions: Could also involve divine_warrior or lament_and_mourning if the passage
+    emphasizes heroic combat or grief more than destiny.
+  suggested_aliases:
+  - fated heroic death by gods and mortals
+  - hero death by fate and divine agency
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-killed-by-divinely-directed-hidden-arrow
+  motif_id: hero_killed_by_divinely_directed_hidden_arrow
+  label: Hero killed by divinely directed hidden arrow
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divinely guided concealed weapon marks death as caused by non-human
+    agency and destiny.
+  cautions: If the passage primarily treats battle honor, map secondarily to divine_warrior;
+    the hidden-arrow detail is likely over-specific.
+  suggested_aliases:
+  - divinely guided fatal arrow
+  - hero slain by hidden divine weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-mourns-sacrificed-beloved-and-place-name-preserves-memory
+  motif_id: hero_mourns_sacrificed_beloved_and_place_name_preserves_memory
+  label: hero mourns sacrificed beloved and place-name preserves memory
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The main reusable motif is mourning for a dead beloved, with memorialization
+    attached.
+  cautions: Also touches sacrifice and etiological place-naming; preserve the sacrificed-beloved
+    and place-name details as evidence rather than promoting them.
+  suggested_aliases:
+  - mourning for sacrificed beloved
+  - beloved's death memorialized in place-name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-receives-divine-vehicle-and-weapons
+  motif_id: hero_receives_divine_vehicle_and_weapons
+  label: hero receives divine vehicle and weapons
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine weapons and a vehicle are power objects bestowed on a hero.
+  cautions: May also support divine_intervention or divine_warrior if the emphasis
+    is divine aid in combat.
+  suggested_aliases:
+  - divine weapons bestowed on hero
+  - hero receives divine arms and vehicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-remains-in-dangerous-sacred-grove
+  motif_id: hero_remains_in_dangerous_sacred_grove
+  label: hero remains in dangerous sacred grove
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: A dangerous sacred grove may function as enchanted realm, ordeal setting,
+    taboo space, or ascetic residence.
+  cautions: Source context is needed; do not collapse grove imagery into axis_mundi
+    unless the grove functions as cosmic center or vertical connector.
+  suggested_aliases:
+  - dangerous sacred grove sojourn
+  - hero in perilous sacred grove
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-hidden-divine-identity-revealed-by-gods
+  motif_id: hero_s_hidden_divine_identity_revealed_by_gods
+  label: hero's hidden divine identity revealed by gods
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The gods disclose a hidden divine nature, functioning as revelation of
+    sacred identity.
+  cautions: If the episode legitimizes rulership or birth status, royal_legitimacy
+    or miraculous_child may be relevant secondary mappings.
+  suggested_aliases:
+  - divine identity revealed
+  - gods reveal hero's hidden divinity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-withdrawal-to-a-sacred-mountain-residence
+  motif_id: hero_s_withdrawal_to_a_sacred_mountain_residence
+  label: Hero’s withdrawal to a sacred mountain residence
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: narrower_than
+  confidence: medium
+  rationale: A sacred mountain residence fits the mountain as charged sacred place
+    and possible world-axis setting.
+  cautions: If the focus is renunciation or retirement from action, mystical_quest
+    may be a better secondary mapping; if only a location detail, treat as evidence
+    note.
+  suggested_aliases:
+  - withdrawal to sacred mountain
+  - sacred mountain residence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-with-divine-or-legendary-weapon
+  motif_id: hero_with_divine_or_legendary_weapon
+  label: hero with divine or legendary weapon
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: high
+  rationale: A divine or legendary weapon is a sacred power object that confers heroic
+    capability or authority.
+  cautions: Do not infer divine_warrior unless combat against sacred or cosmic enemies
+    is present.
+  suggested_aliases:
+  - divine weapon
+  - legendary weapon borne by hero
+  - sacred heroic weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-wounds-a-god-in-battle
+  motif_id: hero_wounds_a_god_in_battle
+  label: hero wounds a god in battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A hero physically injuring a deity belongs to sacred combat between mortal/heroic
+    and divine powers.
+  cautions: Could be a transgression or divine_judgment episode depending on aftermath;
+    preserve mortal-wounds-god specificity.
+  suggested_aliases:
+  - mortal hero wounds deity
+  - god wounded in battle by hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-wounds-or-threatens-a-god-in-battle
+  motif_id: hero_wounds_or_threatens_a_god_in_battle
+  label: Hero wounds or threatens a god in battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Threatening or wounding a god in combat is a sacred-combat variant involving
+    divine opposition.
+  cautions: Likely overlaps with the narrower 'hero wounds a god in battle' label;
+    review for deduplication or aliasing.
+  suggested_aliases:
+  - hero threatens deity in battle
+  - mortal challenges god in combat
+  - hero wounds deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and episode-specific; preserve local details
+  as evidence notes where possible.
+- Heroic death items may require secondary indexing under divine_warrior, lament_and_mourning,
+  or divine_judgment depending on passage emphasis.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for sacred grove and
+    fated-death edge cases.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0264
+  input_sha256: b3248392b92eb1a41dc246dceb1c6b0be424f0d3466b62b15dfdaacbba39c2d2

@@ -1,0 +1,282 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0304
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-prayer-and-good-works-averting-evils
+  motif_id: ritual_prayer_and_good_works_averting_evils
+  label: ritual prayer and good works averting evils
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prayer and righteous deeds avert harm through reciprocal sacred relationship
+    and repair.
+  cautions: Could also fit sacred_law or divine_judgment if framed mainly as moral
+    command or avoidance of punishment.
+  suggested_aliases:
+  - prayer_and_good_works_averting_evil
+  - ritual_acts_averting_harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-prayer-at-cosmic-times
+  motif_id: ritual_prayer_at_cosmic_times
+  label: ritual prayer at cosmic times
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif centers on prayer ordered by cosmically significant times.
+  cautions: If passage emphasizes prayer obligation more than time structure, sacred_law
+    may be a secondary fit.
+  suggested_aliases:
+  - prayer_at_sacred_times
+  - ritual_prayer_by_cosmic_time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-prayer-maintained-under-danger
+  motif_id: ritual_prayer_maintained_under_danger
+  label: Ritual prayer maintained under danger
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Maintaining required prayer under danger expresses ritual obligation
+    within sacred law.
+  cautions: May also be an ordeal or ethical perseverance motif if the danger is narratively
+    central.
+  suggested_aliases:
+  - prayer_under_danger
+  - ritual_obligation_maintained_under_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-prayer-ordered-by-sacred-time
+  motif_id: ritual_prayer_ordered_by_sacred_time
+  label: Ritual prayer ordered by sacred time
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label directly describes ritual practice structured by sacred temporal
+    order.
+  cautions: Likely overlaps strongly with ritual_prayer_at_cosmic_times; preserve
+    local phrasing as alias evidence.
+  suggested_aliases:
+  - prayer_ordered_by_sacred_time
+  - scheduled_ritual_prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-preservation-or-display-of-a-killed-sacred-animal
+  motif_id: ritual_preservation_or_display_of_a_killed_sacred_animal
+  label: Ritual preservation or display of a killed sacred animal
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: low
+  rationale: A killed sacred animal suggests sacrificial or post-sacrificial ritual
+    handling.
+  cautions: Could be hunting rite, relic display, animal cult, trophy practice, or
+    ethnographic artifact; source evidence is needed.
+  suggested_aliases:
+  - display_of_killed_sacred_animal
+  - preservation_of_sacrificial_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-procession-in-honour-of-a-deity
+  motif_id: ritual_procession_in_honour_of_a_deity
+  label: ritual procession in honour of a deity
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A procession honoring a deity is a ritual act maintaining human-divine
+    relationship.
+  cautions: If tied to calendrical festival, sacred_time may be secondary; if it manifests
+    divine presence, theophany may be relevant.
+  suggested_aliases:
+  - deity_honoring_procession
+  - ritual_procession_for_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-procession-of-mourners
+  motif_id: ritual_procession_of_mourners
+  label: ritual procession of mourners
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif centers on communal mourning expressed through ritual procession.
+  cautions: If the procession is specifically funerary rite for a hero, heroic_funeral_rites
+    may be secondary.
+  suggested_aliases:
+  - mourner_procession
+  - funeral_procession_of_mourners
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-prostration-and-righteous-striving
+  motif_id: ritual_prostration_and_righteous_striving
+  label: Ritual prostration and righteous striving
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prostration and righteous striving combine ritual observance with sacred
+    ethical discipline.
+  cautions: Could map to sacred_exchange if emphasis is devotional offering, or mystical_quest
+    if framed as interior discipline.
+  suggested_aliases:
+  - prostration_and_righteous_striving
+  - ritual_prostration_as_piety
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-punishment-through-dismemberment
+  motif_id: ritual_punishment_through_dismemberment
+  label: ritual punishment through dismemberment
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Punitive dismemberment may function as judgment or ritualized social
+    repair.
+  cautions: Dismemberment could be legal punishment, sacrifice, violence, foundation
+    myth, or passage-specific historical detail; do not map without context.
+  suggested_aliases:
+  - punitive_dismemberment
+  - ritualized_dismemberment_as_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-after-contact-with-the-sacred
+  motif_id: ritual_purification_after_contact_with_the_sacred
+  label: ritual purification after contact with the sacred
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Purification after sacred contact is a ritual purity rule within sacred
+    law.
+  cautions: May also touch sacred_exchange or divine_judgment if purification repairs
+    relationship or averts punishment.
+  suggested_aliases:
+  - purification_after_sacred_contact
+  - ritual_purity_after_contact_with_sacred
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Islamic prayer labels are single-occurrence ritual-obligation variants;
+  consider consolidating aliases under sacred_time, sacred_law, or sacred_exchange
+  rather than creating a prayer-specific group unless recurrence increases.
+- Ritual punishment and killed sacred animal labels require source review because
+  the generated wording may collapse legal, sacrificial, violent, or ethnographic
+  contexts.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0304
+  input_sha256: 0ff96a5ff16dbb75a75ce36ccb4f611267a79ce9971c4a30db6e4a40e1d7a2d4

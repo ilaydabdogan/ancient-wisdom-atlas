@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0305
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-purification-at-clear-water
+  motif_id: ritual_purification_at_clear_water
+  label: Ritual purification at clear water
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on water used as a medium of ritual purification, fitting
+    sacred waters better than flood or descent.
+  cautions: Single occurrence; if the passage emphasizes purity law or prerequisite
+    duty more than water symbolism, sacred_law may be a secondary or better placement.
+  suggested_aliases:
+  - water purification
+  - ritual cleansing at clear water
+  - purifying water rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-before-fertility-oriented-rite
+  motif_id: ritual_purification_before_fertility_oriented_rite
+  label: ritual purification before fertility-oriented rite
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A purity requirement before a rite is primarily ritual regulation, already
+    handled by sacred_law and related purity/taboo children.
+  cautions: Fertility context may also relate to sacred_marriage, mother_goddess,
+    or sacred_time if the passage emphasizes fertility symbolism rather than purity
+    prerequisite.
+  suggested_aliases:
+  - pre-rite purification
+  - purification before fertility rite
+  - ritual purity before fertility ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-before-sacred-duty
+  motif_id: ritual_purification_before_sacred_duty
+  label: ritual purification before sacred duty
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Purification as a prerequisite for sacred duty is a ritual-obligation
+    and purity-law pattern.
+  cautions: If tied specifically to prayer ablution, this may duplicate ritual_purity_before_prayer
+    or require aliasing under a future ablution/purity subgroup.
+  suggested_aliases:
+  - purity before sacred duty
+  - pre-duty ritual purification
+  - ritual ablution before obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-by-salted-water
+  motif_id: ritual_purification_by_salted_water
+  label: ritual purification by salted water
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Salted water is a specific ritual-purification medium within the broader
+    sacred waters complex.
+  cautions: Salted-water detail may be local evidence rather than a durable motif;
+    if framed as purity rule, sacred_law is also relevant.
+  suggested_aliases:
+  - salt-water purification
+  - lustration with salted water
+  - ritual cleansing by salt water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-of-sin
+  motif_id: ritual_purification_of_sin
+  label: ritual purification of sin
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Purifying sin implies ritual repair of moral disorder and reckoning,
+    fitting divine_judgment and its purification dimension.
+  cautions: Could map to sacrifice if an offering removes sin, or sacred_law if the
+    passage emphasizes purity regulation rather than moral reckoning.
+  suggested_aliases:
+  - sin purification
+  - ritual cleansing of sin
+  - purification from sin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-with-water-or-earth-substitute
+  motif_id: ritual_purification_with_water_or_earth_substitute
+  label: ritual purification with water or earth substitute
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif describes a regulated purification practice and permitted substitute,
+    a clear sacred-law/purity rule.
+  cautions: Water aspect relates to sacred_waters, but the substitute rule suggests
+    legal-ritual classification is primary.
+  suggested_aliases:
+  - ablution with earth substitute
+  - water or earth purification
+  - purification by water or dry substitute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purity-before-prayer
+  motif_id: ritual_purity_before_prayer
+  label: Ritual purity before prayer
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Purity required before prayer is a ritual obligation within sacred law
+    and purity practice.
+  cautions: May duplicate broader labels for purification before sacred duty; preserve
+    prayer-specific wording as evidence detail.
+  suggested_aliases:
+  - purity before prayer
+  - ablution before prayer
+  - ritual cleanliness before prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-reconstruction-of-the-slain-animal
+  motif_id: ritual_reconstruction_of_the_slain_animal
+  label: ritual reconstruction of the slain animal
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate sacrificial restoration, animal resurrection,
+    hunting rite, or comparative folklore classification.
+  cautions: Source evidence is needed to decide between sacrifice, death_and_transformation,
+    animal ritual, or exclusion as a comparative artifact.
+  suggested_aliases:
+  - reconstruction of slain animal
+  - ritual reassembly of animal body
+  - slain animal restored ritually
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-reenactment-of-hagar-seeking-water
+  motif_id: ritual_reenactment_of_hagar_seeking_water
+  label: ritual reenactment of Hagar seeking water
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The reenacted episode centers on ritualized seeking of salvific water,
+    fitting sacred waters as ritual passage and provision.
+  cautions: This is tied to a named scriptural figure and pilgrimage practice; preserve
+    the specific context and review for whether sacred_time, hero_journey, or divine_intervention
+    are secondary.
+  suggested_aliases:
+  - reenacted search for water
+  - Hagar water-seeking rite
+  - ritualized water quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-rekindling-of-a-threatened-celestial-light
+  motif_id: ritual_rekindling_of_a_threatened_celestial_light
+  label: Ritual rekindling of a threatened celestial light
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rekindling a threatened light belongs with sacred fire/divine light as
+    ritual maintenance or restoration of luminous order.
+  cautions: If the passage concerns eclipse, solstice, or calendrical renewal, sacred_time
+    may be a secondary mapping; if world-order collapse is central, divine_judgment
+    or flood_and_renewal may be relevant.
+  suggested_aliases:
+  - rekindling celestial light
+  - ritual renewal of divine light
+  - threatened light restored by ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual-purity variants; consider
+  whether a durable purification/ablution subgroup under sacred_law and sacred_waters
+  would reduce repeated granular mappings.
+- Do not infer transmission or borrowing from shared purification, water, or rekindling
+  patterns; these are provisional taxonomy placements only.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements; ritual_reconstruction_of_the_slain_animal needs source-level
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0305
+  input_sha256: 0e1136f858699cd6c9371e05711dc53f06383beaadbd4b45b4bf942dddf98635

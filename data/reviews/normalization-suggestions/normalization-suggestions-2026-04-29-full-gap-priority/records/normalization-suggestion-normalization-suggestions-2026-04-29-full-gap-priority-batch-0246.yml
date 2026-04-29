@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0246
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-unity-and-providence
+  motif_id: divine_unity_and_providence
+  label: divine unity and providence
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a theological doctrine rather than a clear narrative
+    or ritual motif in the current groups.
+  cautions: May be commentary, doctrinal abstraction, or source-specific theology;
+    avoid mapping to divine_intervention unless a concrete providential action is
+    present.
+  suggested_aliases:
+  - divine providence
+  - divine unity
+  - tawhid and providence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    - supreme_ruler
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-usurpation-during-another-god-s-absence
+  motif_id: divine_usurpation_during_another_god_s_absence
+  label: divine usurpation during another god's absence
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity seizing authority during another's absence concerns contested
+    sovereignty and legitimacy of rule.
+  cautions: Could instead belong under trickster or divine combat if the passage emphasizes
+    deception or conflict more than rulership.
+  suggested_aliases:
+  - divine usurpation
+  - temporary divine kingship
+  - contested divine rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-victory-over-giants-represented-in-ritual-art
+  motif_id: divine_victory_over_giants_represented_in_ritual_art
+  label: Divine victory over Giants represented in ritual art
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: high
+  rationale: Divine victory over giants is a sacred combat pattern where gods defeat
+    chaotic or rival powers.
+  cautions: The ritual-art wording is an iconographic context; preserve it as evidence
+    detail rather than making it a separate motif.
+  suggested_aliases:
+  - gigantomachy in ritual art
+  - divine victory over giants
+  - gods defeat giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-vision-shatters-the-mountain
+  motif_id: divine_vision_shatters_the_mountain
+  label: Divine vision shatters the mountain
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: high
+  rationale: An overwhelming divine manifestation transforms or destroys a mountain,
+    fitting theophany with cosmic impact.
+  cautions: Also relates to axis_mundi or cosmic_mountain because the affected object
+    is a mountain; do not treat as ascent unless upward journey is present.
+  suggested_aliases:
+  - overwhelming divine vision
+  - theophany shatters mountain
+  - mountain destroyed by divine manifestation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-voice-amplification-through-a-heroic-voice
+  motif_id: divine_voice_amplification_through_a_heroic_voice
+  label: divine voice amplification through a heroic voice
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity acting through a hero's voice is direct divine intervention in
+    human affairs.
+  cautions: If the passage emphasizes inspired speech or revelation rather than action,
+    sacred_knowledge or theophany may be better secondary mappings.
+  suggested_aliases:
+  - divine voice through hero
+  - heroic voice as divine instrument
+  - divinely amplified speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-war-equipment-resists-attack
+  motif_id: divine_war_equipment_resists_attack
+  label: Divine war equipment resists attack
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: Invulnerable divine equipment functions as a sacred power object conferring
+    protection in combat.
+  cautions: May also support divine_warrior when the main focus is sacred battle rather
+    than the object's power.
+  suggested_aliases:
+  - invulnerable divine armor
+  - divine war gear resists attack
+  - protective divine equipment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-warning-against-forbidden-action-under-survival-pressure
+  motif_id: divine_warning_against_forbidden_action_under_survival_pressure
+  label: divine warning against forbidden action under survival pressure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a divine prohibition and warning against transgression
+    under pressure.
+  cautions: If the narrative stresses punishment after disobedience, divine_judgment
+    may be primary; if the warning is an omen, dream_and_vision may also apply.
+  suggested_aliases:
+  - warning against forbidden action
+  - divine prohibition under duress
+  - survival pressure taboo warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-warning-before-battle
+  motif_id: divine_warning_before_battle
+  label: divine warning before battle
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A pre-battle divine warning functions as omen, revelation, or prophetic
+    sign before conflict.
+  cautions: Could map to divine_intervention if the warning materially redirects events,
+    or sacred_combat if embedded in ritual warfare.
+  suggested_aliases:
+  - pre-battle omen
+  - divine battle warning
+  - prophetic warning before combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-warrior-model-applied-to-human-battle
+  motif_id: divine_warrior_model_applied_to_human_battle
+  label: divine warrior model applied to human battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: Human combat is framed through the divine warrior pattern, aligning with
+    sacred combat imagery and roles.
+  cautions: The phrase may be an interpretive comparison rather than a source motif;
+    verify the passage has explicit divine-warrior modeling.
+  suggested_aliases:
+  - human battle modeled on divine warrior
+  - divine warrior exemplar in battle
+  - sacred combat model
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-weapon-or-armor-for-a-hero
+  motif_id: divine_weapon_or_armor_for_a_hero
+  label: Divine weapon or armor for a hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine weapon or armor is a sacred power object that grants heroic
+    authority, protection, or ability.
+  cautions: If the episode focuses on combat itself rather than the bestowed object,
+    divine_warrior or sacred_combat may be a secondary mapping.
+  suggested_aliases:
+  - divine arms for hero
+  - god-given weapon
+  - divine armor for hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional and avoid claims of borrowing or transmission.
+- Several labels are single-occurrence and may be evidence details rather than durable
+  motif labels; verify source passages before promotion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Batch reviewed for best-fit normalization group placement; one abstract doctrinal
+    label left for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0246
+  input_sha256: 85e4a45225c44445766ec493fb616e0b3f4038203eb444d649485c64dd520909

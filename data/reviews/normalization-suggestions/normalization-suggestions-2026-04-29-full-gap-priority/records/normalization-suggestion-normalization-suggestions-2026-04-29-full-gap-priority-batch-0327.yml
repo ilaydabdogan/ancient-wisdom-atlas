@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0327
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sleep-of-the-high-god-enables-battlefield-intervention
+  motif_id: sleep_of_the_high_god_enables_battlefield_intervention
+  label: sleep of the high god enables battlefield intervention
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes divine agency affecting battle, but the high god's
+    sleep may be an episode-specific plot mechanism.
+  cautions: Could fit divine_intervention, divine_warrior, sacred_combat, or be too
+    contextual; source evidence needed.
+  suggested_aliases:
+  - divine sleep enabling intervention
+  - battlefield intervention during high god's sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slighted-woman-s-curse-and-revenge
+  motif_id: slighted_woman_s_curse_and_revenge
+  label: slighted woman’s curse and revenge
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines gendered slight, curse, and vengeance without enough
+    evidence to identify the primary function.
+  cautions: May belong under divine_judgment, sacred_combat, lament, or a future curse/retribution
+    group; culturally and contextually sensitive wording needs review.
+  suggested_aliases:
+  - curse after slighted woman
+  - revenge curse by slighted woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-animals-conceal-a-sacred-fugitive
+  motif_id: small_animals_conceal_a_sacred_fugitive
+  label: small animals conceal a sacred fugitive
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animals protect a sacred figure from pursuit, functioning as providential
+    guidance or rescue.
+  cautions: If the passage emphasizes miraculous childhood, exile, or animal helpers
+    rather than divine agency, secondary mapping may be needed.
+  suggested_aliases:
+  - animals conceal sacred fugitive
+  - providential animal protection
+  - animal-aided concealment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-faithful-army-defeats-greater-force-by-divine-will
+  motif_id: small_faithful_army_defeats_greater_force_by_divine_will
+  label: small faithful army defeats greater force by divine will
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Victory by a faithful minority through divine will fits sacred combat
+    and divine support in battle.
+  cautions: Also related to divine_intervention and divine_judgment; do not treat
+    as evidence of a specific battle tradition without source review.
+  suggested_aliases:
+  - faithful minority wins by divine will
+  - small army defeats larger army by divine aid
+  - divinely aided victory of the few
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-faithful-host-defeats-a-numerous-host-by-divine-will
+  motif_id: small_faithful_host_defeats_a_numerous_host_by_divine_will
+  label: Small faithful host defeats a numerous host by divine will
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: alias
+  confidence: high
+  rationale: This is a close wording variant of the faithful minority winning battle
+    by divine will.
+  cautions: Likely duplicate-normalize with small_faithful_army_defeats_greater_force_by_divine_will
+    if passage evidence matches.
+  suggested_aliases:
+  - small faithful army defeats greater force by divine will
+  - faithful host defeats numerous host by divine will
+  - divinely aided victory of the few
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.solar-deity-as-all-gods-and-cosmic-power
+  motif_id: solar_deity_as_all_gods_and_cosmic_power
+  label: solar deity as all-gods and cosmic power
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A solar deity identified with total divine power expresses cosmic sovereignty
+    and universal rulership.
+  cautions: Could also fit sacred_fire/divine light or theophany depending on whether
+    the passage emphasizes light, vision, or theology.
+  suggested_aliases:
+  - solar deity as divine totality
+  - sun god as all gods
+  - solar cosmic sovereignty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.solar-deity-as-universal-divine-totality
+  motif_id: solar_deity_as_universal_divine_totality
+  label: Solar deity as universal divine totality
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: alias
+  confidence: medium
+  rationale: This is a close variant of solar deity as all gods and cosmic power,
+    centered on universal divine sovereignty.
+  cautions: Review alongside the matching solar-deity label; may need secondary relation
+    to sacred_fire or theophany if vision/light is central.
+  suggested_aliases:
+  - solar deity as all-gods and cosmic power
+  - sun god as universal divine totality
+  - solar cosmic sovereignty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.solar-timed-prayer-with-repeated-prostrations
+  motif_id: solar_timed_prayer_with_repeated_prostrations
+  label: Solar-timed prayer with repeated prostrations
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label emphasizes prayer ordered by solar time and repeated ritual
+    bodily action.
+  cautions: If the passage is primarily legal instruction, sacred_law may be a secondary
+    placement; avoid reducing Islamic prayer to solar worship.
+  suggested_aliases:
+  - time-ordered prayer
+  - ritual prayer at solar times
+  - repeated prostrations in prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spared-survivor-through-divine-intervention
+  motif_id: spared_survivor_through_divine_intervention
+  label: spared survivor through divine intervention
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A figure survives because of direct divine action, matching the divine
+    intervention group.
+  cautions: If survival follows catastrophe and becomes seed for renewal, flood_and_renewal
+    or survivor_pair may also be relevant.
+  suggested_aliases:
+  - divinely spared survivor
+  - survival through divine aid
+  - rescued survivor by divine intervention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-trees-disclose-their-fitness-for-sacred-or-magic-craft
+  motif_id: speaking_trees_disclose_their_fitness_for_sacred_or_magic_craft
+  label: speaking trees disclose their fitness for sacred or magic craft
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: low
+  rationale: The label centers on choosing living trees for sacred or magical craft,
+    with speech revealing suitability.
+  cautions: Could fit sacred_craft, sacred_tree_axis, sacred_knowledge, or animistic
+    tree-personhood; highly specific and source-dependent.
+  suggested_aliases:
+  - speaking trees reveal craft suitability
+  - trees speak for sacred craft
+  - tree selection for magic craft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and may be passage-specific; suggestions are
+  provisional.
+- The two small-faithful-army/host labels and the two solar-deity labels appear to
+  be close duplicate pairs and should be reviewed together.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft machine suggestions for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0327
+  input_sha256: d2e0b44f15c8f401f83c15750a19f12fa0b6ad0f32d69ed6e81f036b8ae73c32

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0267
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.holy-house-with-sacred-stones
+  motif_id: holy_house_with_sacred_stones
+  label: holy house with sacred stones
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A holy house with sacred stones likely functions as a sacred center or
+    ritually charged place rather than as sacrifice itself.
+  cautions: Single Islamic occurrence; if the label refers to specific shrine objects
+    rather than cosmic center function, sacred_treasures or sacred_vessel may be secondary.
+  suggested_aliases:
+  - sacred house
+  - holy sanctuary with stones
+  - sacred stones at sanctuary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-life-of-a-royal-son-guided-by-a-hermit
+  motif_id: holy_life_of_a_royal_son_guided_by_a_hermit
+  label: Holy life of a royal son guided by a hermit
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A royal son guided by a hermit toward holy life fits renunciatory or
+    contemplative transformation under a guide.
+  cautions: Could also index under initiation or royal_legitimacy depending on whether
+    the passage emphasizes training, renunciation, or royal destiny.
+  suggested_aliases:
+  - royal renunciant guided by hermit
+  - holy prince under ascetic guidance
+  - ascetic guide to royal son
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-mountain-refuge
+  motif_id: holy_mountain_refuge
+  label: holy mountain refuge
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A holy mountain belongs to the sacred mountain/axis complex, with refuge
+    as a local function.
+  cautions: If refuge during catastrophe is central, ark_vessel or flood_and_renewal
+    may be relevant; do not assume cosmic-axis function without passage evidence.
+  suggested_aliases:
+  - sacred mountain refuge
+  - mountain sanctuary
+  - holy mountain sanctuary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-site-memorialization-over-hidden-sleepers
+  motif_id: holy_site_memorialization_over_hidden_sleepers
+  label: holy site memorialization over hidden sleepers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: Hidden sleepers may imply deathlike sleep, preservation, or miraculous
+    concealment, while memorialization creates a holy site.
+  cautions: Composite and tradition-specific; could map to death_and_transformation,
+    otherworld, axis_mundi, or heroic_funeral_rites depending on whether the emphasis
+    is sleep, sanctification, or commemoration.
+  suggested_aliases:
+  - memorial shrine over hidden sleepers
+  - holy site over sleepers
+  - sanctified place of hidden sleepers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-water-confers-sacred-status
+  motif_id: holy_water_confers_sacred_status
+  label: Holy water confers sacred status
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: high
+  rationale: Water used to confer sacred status fits water as purifier and ritual
+    transformer.
+  cautions: If the act functions specifically as initiation, initiation may be a secondary
+    mapping; preserve Norse ritual context.
+  suggested_aliases:
+  - consecrating water
+  - holy water consecration
+  - sacred status through water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-water-drunk-transported-and-revered
+  motif_id: holy_water_drunk_transported_and_revered
+  label: Holy water drunk, transported, and revered
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: high
+  rationale: Revered holy water used through drinking and transport fits the sacred
+    waters group as ritual substance.
+  cautions: Highly practice-specific; may be better kept as granular evidence unless
+    similar water-veneration labels recur.
+  suggested_aliases:
+  - revered holy water
+  - holy water ingestion
+  - transported sacred water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-water-from-saintly-body
+  motif_id: holy_water_from_saintly_body
+  label: holy water from saintly body
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sacred water with saintly bodily sanctity, which may
+    imply relic, blessing, healing, or hagiographic miracle.
+  cautions: Culturally sensitive and source-dependent; avoid flattening saintly body/relic
+    meanings into generic water symbolism without evidence.
+  suggested_aliases:
+  - saintly body produces holy water
+  - holy water from saint
+  - blessed water from saintly body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hope-subordinated-to-divine-will
+  motif_id: hope_subordinated_to_divine_will
+  label: hope subordinated to divine will
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is an ethical-theological theme about human expectation under
+    divine authority, closest to sacred order and judgment.
+  cautions: May be commentary or philosophical abstraction rather than a recurring
+    narrative motif; consider exclusion if not tied to an episode or sacred action.
+  suggested_aliases:
+  - human hope under divine will
+  - hope limited by divine will
+  - submission of hope to divine will
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-offered-to-a-divine-stranger
+  motif_id: hospitality_offered_to_a_divine_stranger
+  label: hospitality offered to a divine stranger
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: high
+  rationale: Hospitality to a disguised or visiting divinity is a reciprocal sacred
+    obligation and test of human-divine relations.
+  cautions: If the story emphasizes disguised divine manifestation, theophany may
+    be a secondary mapping; if punishment follows failed hospitality, divine_judgment
+    is also relevant.
+  suggested_aliases:
+  - divine stranger hospitality
+  - hospitality to disguised god
+  - sacred hospitality to stranger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-action-divided-between-divine-creation-and-human-acquisition
+  motif_id: human_action_divided_between_divine_creation_and_human_acquisition
+  label: human action divided between divine creation and human acquisition
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a theological/doctrinal formulation about agency rather
+    than a symbolic or narrative motif.
+  cautions: If a passage narrativizes this doctrine through a recurring episode, remap
+    under divine_judgment, covenant, or wisdom as appropriate.
+  suggested_aliases:
+  - divine creation and human acquisition of acts
+  - human agency under divine creation
+  - created acts and acquired action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, practice-specific ritual or
+  hagiographic details; preserve local evidence notes even when mapping to broad groups.
+- Avoid treating sacred water, sacred mountain, or holy site labels as evidence of
+  the same narrative function without passage context.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for batch-0267; human review recommended
+    for composite holy-site, saintly-body water, and doctrinal agency labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0267
+  input_sha256: 5dff8dc0d996fd3c62f465dfb05c7269689dc8b93893032c0694fb7c341ca86d

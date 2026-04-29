@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0282
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.oracle-directed-embassy-for-divine-aid
+  motif_id: oracle_directed_embassy_for_divine_aid
+  label: oracle-directed embassy for divine aid
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An embassy sent by oracle seeks direct divine aid or guidance in human
+    affairs.
+  cautions: Could also fit dream_and_vision or sacred_knowledge if the oracle message,
+    rather than aid, is central; verify passage context.
+  suggested_aliases:
+  - oracle directed embassy
+  - embassy for divine aid
+  - oracular embassy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oracle-objects-kept-in-a-sacred-or-idol-temple
+  motif_id: oracle_objects_kept_in_a_sacred_or_idol_temple
+  label: oracle objects kept in a sacred or idol temple
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Objects used for divination and housed in a sacred temple function as
+    sacred power objects.
+  cautions: The wording includes 'idol' and may reflect polemical or source-specific
+    terminology; review for whether this is a cult-object motif or contextual commentary.
+  suggested_aliases:
+  - oracle objects
+  - divinatory objects in temple
+  - sacred divination objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oral-and-written-preservation-of-sacred-revelation
+  motif_id: oral_and_written_preservation_of_sacred_revelation
+  label: oral and written preservation of sacred revelation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns preservation and transmission of revealed sacred knowledge
+    through oral and written forms.
+  cautions: Could be a textual-history artifact if the passage is about compilation
+    or manuscript transmission rather than mythic/religious revelation.
+  suggested_aliases:
+  - preservation of sacred revelation
+  - oral preservation of revelation
+  - written preservation of revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oral-tradition-magnifying-heroic-or-divine-deeds
+  motif_id: oral_tradition_magnifying_heroic_or_divine_deeds
+  label: oral tradition magnifying heroic or divine deeds
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes oral tradition as a transmission or amplification
+    process rather than a narrative motif itself.
+  cautions: If a source passage depicts storytelling as a sacred act within the story,
+    map that evidence to storytelling_as_power instead.
+  suggested_aliases:
+  - oral amplification of deeds
+  - heroic deeds magnified by oral tradition
+  - divine deeds magnified by oral tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordeal-by-ritual-draught
+  motif_id: ordeal_by_ritual_draught
+  label: ordeal by ritual draught
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual drink used as an ordeal fits threshold testing and status or
+    truth transformation.
+  cautions: If the draught is chiefly sacrificial, purificatory, poisonous, or judicial,
+    sacrifice, sacred_law, or divine_judgment may be better secondary mappings.
+  suggested_aliases:
+  - ritual draught ordeal
+  - ordeal drink
+  - trial by ritual drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordered-celestial-or-pious-ranks-praising-god
+  motif_id: ordered_celestial_or_pious_ranks_praising_god
+  label: Ordered celestial or pious ranks praising God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Ordered ranks praising God express sacred hierarchy and cosmic-social
+    order.
+  cautions: This may deserve a future liturgy/celestial hierarchy group if many similar
+    labels recur; current placement is broad and provisional.
+  suggested_aliases:
+  - celestial ranks praising God
+  - ordered ranks of praise
+  - pious ranks praising God
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-and-consecration-of-a-sacred-animal
+  motif_id: origin_and_consecration_of_a_sacred_animal
+  label: Origin and consecration of a sacred animal
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines an origin tale with ritual consecration of an animal,
+    but the key function is unclear.
+  cautions: Could fit sacrifice, sacred_law, culture_hero, animal taboo, or an animal-origin/etiology
+    group not yet present; review source evidence before mapping.
+  suggested_aliases:
+  - sacred animal origin
+  - consecrated animal
+  - origin of sacred animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.orthodox-division-within-a-sacred-legal-tradition
+  motif_id: orthodox_division_within_a_sacred_legal_tradition
+  label: orthodox division within a sacred legal tradition
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes doctrinal or legal classification within a tradition
+    rather than a mythic motif.
+  cautions: If a passage narrates divine origin of law or binding legal order, map
+    that specific evidence to sacred_law or covenant instead.
+  suggested_aliases:
+  - division within sacred legal tradition
+  - orthodox legal division
+  - sacred legal tradition division
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pagan-divine-attribute-transferred-to-christian-saint
+  motif_id: pagan_divine_attribute_transferred_to_christian_saint
+  label: Pagan divine attribute transferred to Christian saint
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording is a reception or syncretism claim about attribute transfer,
+    not a motif placement by itself.
+  cautions: Do not use taxonomy placement to imply transmission; if the source narrates
+    a saint with a specific divine attribute, map the attribute itself separately.
+  suggested_aliases:
+  - divine attribute transferred to saint
+  - pagan attribute in saint tradition
+  - saint inherits divine attribute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paradise-as-inherited-gardens-for-the-pious
+  motif_id: paradise_as_inherited_gardens_for_the_pious
+  label: Paradise as inherited gardens for the pious
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: Paradise gardens inherited by the pious describe a postmortem destination
+    and reward within afterlife geography.
+  cautions: If emphasis is moral reward rather than afterlife landscape, divine_judgment
+    may be a secondary mapping.
+  suggested_aliases:
+  - paradise gardens for the pious
+  - inherited gardens of paradise
+  - pious inherit paradise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and may be source-commentary
+  artifacts rather than durable motifs.
+- Avoid treating syncretism or transmission wording as evidence of borrowing; map
+  only the underlying motif when passage evidence supports it.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0282
+  input_sha256: 1efdb0e1d982235b7c7df3d4f6ed85e5872afa2406e1ccd3444344be755d2e30
