@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0330
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.suppliant-refuge-with-a-rival-or-alternative-holy-power
+  motif_id: suppliant_refuge_with_a_rival_or_alternative_holy_power
+  label: Suppliant refuge with a rival or alternative holy power
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests seeking protection from a holy power, but rivalry
+    between sacred powers may be a contextual theological or narrative detail.
+  cautions: Needs source evidence to distinguish divine rescue, asylum, sectarian
+    rivalry, or passage-specific commentary.
+  suggested_aliases:
+  - suppliant refuge
+  - refuge with alternative holy power
+  - divine asylum
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supplicant-heard-and-delivered-by-god
+  motif_id: supplicant_heard_and_delivered_by_god
+  label: Supplicant heard and delivered by God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A prayer or supplication is answered through divine rescue or deliverance,
+    matching direct sacred intervention in human affairs.
+  cautions: If the passage emphasizes formal vow, offering, or reciprocal obligation,
+    sacred_exchange may be a secondary mapping.
+  suggested_aliases:
+  - answered supplication
+  - divine deliverance of supplicant
+  - prayer heard by God
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supplication-to-war-goddess-for-victory
+  motif_id: supplication_to_war_goddess_for_victory
+  label: supplication to war goddess for victory
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prayer to a war goddess for victory belongs to sacred combat mediated
+    by a martial divine power.
+  cautions: Could also index under sacred_exchange if the emphasis is votive prayer
+    or offering rather than war-goddess agency.
+  suggested_aliases:
+  - prayer to war goddess
+  - battle supplication
+  - divine victory petition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.syncretic-absorption-of-deities-into-a-solar-god
+  motif_id: syncretic_absorption_of_deities_into_a_solar_god
+  label: syncretic absorption of deities into a solar god
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes comparative or theological classification of deities
+    rather than a narrative motif.
+  cautions: Preserve as reception, syncretism, or interpretive-history metadata if
+    needed; do not treat as evidence of transmission here.
+  suggested_aliases:
+  - solar syncretism
+  - absorption of deities into solar god
+  - syncretic solar theology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.syncretic-adoption-of-foreign-gods
+  motif_id: syncretic_adoption_of_foreign_gods
+  label: syncretic adoption of foreign gods
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a historical-religious or scholarly observation about deity adoption,
+    not a symbolic narrative motif.
+  cautions: May be useful as provenance or religious-history metadata, but should
+    not be used in motif pattern queries.
+  suggested_aliases:
+  - adoption of foreign gods
+  - religious syncretism
+  - foreign cult adoption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.syncretic-identification-of-a-foreign-goddess-with-a-greek-goddess
+  motif_id: syncretic_identification_of_a_foreign_goddess_with_a_greek_goddess
+  label: Syncretic identification of a foreign goddess with a Greek goddess
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label records interpretive identification between cult figures rather
+    than a recurring mythic action or symbol.
+  cautions: Keep as syncretism or reception metadata if useful; avoid mapping to mother_goddess
+    solely because a goddess is mentioned.
+  suggested_aliases:
+  - syncretic goddess identification
+  - foreign goddess identified with Greek goddess
+  - interpretatio graeca of goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taboo-against-touching-guarded-sacred-trees
+  motif_id: taboo_against_touching_guarded_sacred_trees
+  label: taboo against touching guarded sacred trees
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prohibition on touching sacred trees is a ritual taboo regulating contact
+    with sacred objects or spaces.
+  cautions: If the tree functions primarily as a world axis or guarded threshold,
+    secondary mappings to axis_mundi or threshold_guardian may be appropriate.
+  suggested_aliases:
+  - sacred tree taboo
+  - taboo on touching sacred tree
+  - guarded tree prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taboo-on-eating-a-vital-animal-part
+  motif_id: taboo_on_eating_a_vital_animal_part
+  label: taboo on eating a vital animal part
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A food prohibition concerning a life-bearing animal part fits sacred
+    law and existing blood/life taboo patterns.
+  cautions: If the part contains an external soul or life-token, external_soul may
+    be a secondary or better mapping.
+  suggested_aliases:
+  - vital animal part taboo
+  - taboo on life-bearing animal part
+  - animal life-part food prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taboo-on-eating-new-fruits-before-ritual-permission
+  motif_id: taboo_on_eating_new_fruits_before_ritual_permission
+  label: taboo on eating new fruits before ritual permission
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The taboo depends on ritual timing and permission around first fruits
+    or seasonal renewal.
+  cautions: Could also fit sacred_law if the emphasis is prohibition rather than calendrical
+    first-fruits ritual.
+  suggested_aliases:
+  - first fruits taboo
+  - new fruits ritual prohibition
+  - eating new fruits after ritual permission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taboo-protection-of-the-divine-ruler-or-priest
+  motif_id: taboo_protection_of_the_divine_ruler_or_priest
+  label: taboo protection of the divine ruler or priest
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Taboos protecting a divine ruler or priest support sacred office, authority,
+    and social order around sacral power.
+  cautions: If the passage focuses on ritual purity rules rather than sacred kingship,
+    sacred_law may be the better parent group.
+  suggested_aliases:
+  - taboo protection of sacred ruler
+  - divine king taboo
+  - priestly taboo protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Syncretism labels in this batch are best treated as meta or reception-history artifacts
+  unless source passages present a recurring narrative action.
+- Several taboo labels can be mapped provisionally to sacred_law, but source evidence
+  should decide whether ritual timing, sacred kingship, tree symbolism, or external-soul
+  logic is primary.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for low-occurrence
+    comparative and culturally sensitive ritual-taboo labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0330
+  input_sha256: 97861a6886b6b98cb2b7ae129214cb063164f02789d3cdc0da4ae54c2f1f2c75

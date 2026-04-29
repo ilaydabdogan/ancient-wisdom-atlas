@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0403
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.lament-for-a-fallen-warrior
+  motif_id: lament_for_a_fallen_warrior
+  label: lament for a fallen warrior
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly describes mourning for a dead warrior, matching the
+    existing lament_and_mourning group and related heroic death children.
+  cautions: Single occurrence; if the passage emphasizes funeral rite rather than
+    grief expression, heroic_funeral_rites may be a secondary fit.
+  suggested_aliases:
+  - warrior lament
+  - lament for fallen hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-for-a-fallen-warrior-kinsman
+  motif_id: lament_for_a_fallen_warrior_kinsman
+  label: lament for a fallen warrior-kinsman
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: A lament for a slain warrior-relative is a grief and tragic recognition
+    motif already covered by lament_and_mourning.
+  cautions: Kinship specificity should be preserved as evidence detail; if duty, dharma,
+    or battle ethics dominate, divine_warrior or sacred_law may be relevant secondary
+    contexts.
+  suggested_aliases:
+  - kin lament for fallen warrior
+  - lament for slain warrior kinsman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-for-a-lost-heroic-age
+  motif_id: lament_for_a_lost_heroic_age
+  label: lament for a lost heroic age
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on grief over the loss of a heroic order, fitting lament_and_mourning
+    as tragic recognition rather than a specific combat motif.
+  cautions: May be literary nostalgia or cultural commentary rather than a narrative
+    motif; review source evidence before broad indexing.
+  suggested_aliases:
+  - lament for heroic age
+  - mourning a lost heroic order
+  - nostalgic heroic lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-for-the-fallen-hero
+  motif_id: lament_for_the_fallen_hero
+  label: Lament for the fallen hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: A lament for a dead hero is a direct instance of mourning and tragic
+    recognition already represented in the group.
+  cautions: If tied to burial honors, games, or memorial rites, heroic_funeral_rites
+    may also apply.
+  suggested_aliases:
+  - heroic lament
+  - lament for fallen hero
+  - mourning the slain hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-for-the-land-defending-hero
+  motif_id: lament_for_the_land_defending_hero
+  label: lament for the land-defending hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif is primarily a lament for a fallen heroic defender, fitting
+    the existing mourning group.
+  cautions: The land-defending role may relate to divine_warrior, royal_legitimacy,
+    or sacred_combat, but should not override the lament function.
+  suggested_aliases:
+  - lament for defender hero
+  - mourning the land-defending hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-leading-to-revenge-battle
+  motif_id: lament_leading_to_revenge_battle
+  label: Lament leading to revenge battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label emphasizes lament as the trigger for revenge battle, making
+    its narrative function a catalyst for combat rather than grief alone.
+  cautions: Could also be indexed under lament_and_mourning if the lament itself is
+    foregrounded; source context should determine primary placement.
+  suggested_aliases:
+  - mourning triggers revenge battle
+  - revenge battle after lament
+  - lament as battle catalyst
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-of-stranded-hero-recognized-and-answered
+  motif_id: lament_of_stranded_hero_recognized_and_answered
+  label: lament of stranded hero recognized and answered
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines lament, recognition, rescue/response, and stranded-hero
+    situation; the primary motif function is unclear without passage evidence.
+  cautions: May fit lament_and_mourning, hero_journey, storytelling_as_power, or divine_intervention
+    depending on who answers and what changes.
+  suggested_aliases:
+  - recognized lament of stranded hero
+  - answered hero lament
+  - stranded hero's lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-of-the-last-survivor-of-a-heroic-band
+  motif_id: lament_of_the_last_survivor_of_a_heroic_band
+  label: lament of the last survivor of a heroic band
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: A last survivor mourning a vanished heroic band is a clear tragic lament
+    and recognition of loss.
+  cautions: Could relate secondarily to survivor_pair/remnant themes, but the label
+    lacks renewal or repopulation function.
+  suggested_aliases:
+  - last survivor's lament
+  - lament for fallen heroic band
+  - survivor lament for comrades
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.landscape-mobilized-as-battle-ally
+  motif_id: landscape_mobilized_as_battle_ally
+  label: landscape mobilized as battle ally
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif suggests animated or sacral landscape aiding battle, but no
+    existing group cleanly covers environmental agency in warfare.
+  cautions: Could fit divine_intervention, sacred_combat, cosmic_origin/body-as-landscape,
+    or local sovereignty symbolism depending on source evidence; avoid forcing into
+    divine_warrior without a divine combatant.
+  suggested_aliases:
+  - landscape as battle ally
+  - animated landscape in battle
+  - terrain aiding warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.last-act-of-a-mortally-wounded-warrior
+  motif_id: last_act_of_a_mortally_wounded_warrior
+  label: last act of a mortally wounded warrior
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warrior's final deed while dying belongs with heroic battle death and
+    warrior honor already clustered under divine_warrior.
+  cautions: If the last act is self-sacrificial, succession-making, or mourning-related,
+    sacrifice, royal_legitimacy, or lament_and_mourning may be better secondary mappings.
+  suggested_aliases:
+  - final act of dying warrior
+  - mortally wounded warrior's last deed
+  - warrior death act
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are over-specific heroic-lament variants. Most can
+  be grouped under lament_and_mourning while preserving warrior, kinship, or heroic-age
+  detail as evidence notes.
+- Do not infer historical transmission between Celtic, Greek, Hindu, or Finnic-Karelian
+  materials from these normalization placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; items marked needs_human_review require source
+    context before indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0403
+  input_sha256: 60e0e0be0b02f3990af1ee1bf1277f4821031a67c019cec70ca3ad009dfdbee7

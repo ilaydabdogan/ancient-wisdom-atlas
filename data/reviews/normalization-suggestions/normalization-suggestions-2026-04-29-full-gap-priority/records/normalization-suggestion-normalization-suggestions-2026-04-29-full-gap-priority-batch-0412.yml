@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0412
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mutual-destruction-in-revenge
+  motif_id: mutual_destruction_in_revenge
+  label: mutual destruction in revenge
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Revenge leading to reciprocal destruction fits violent conflict as a
+    consequential combat pattern.
+  cautions: Single occurrence; if the passage is merely plot resolution without ritual
+    or sacred significance, preserve only as evidence detail.
+  suggested_aliases:
+  - reciprocal destruction in vengeance
+  - revenge ending in mutual death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutual-fall-of-last-combatants
+  motif_id: mutual_fall_of_last_combatants
+  label: Mutual fall of last combatants
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The final reciprocal fall of combatants is a heroic-combat outcome within
+    the sacred combat field.
+  cautions: May be over-specific to one battle scene; consider divine_warrior if the
+    focus is heroic death and honor rather than battle structure.
+  suggested_aliases:
+  - last combatants fall together
+  - final mutual defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutual-killing-in-single-combat
+  motif_id: mutual_killing_in_single_combat
+  label: mutual killing in single combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Single combat at a charged boundary or heroic setting is explicitly covered
+    by sacred combat; mutual killing is a combat outcome variant.
+  cautions: If the passage emphasizes warrior honor or burial aftermath, divine_warrior
+    or heroic_funeral_rites may be useful secondary review contexts.
+  suggested_aliases:
+  - mutual death in single combat
+  - reciprocal killing in duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutual-refusal-of-victory-after-equal-combat
+  motif_id: mutual_refusal_of_victory_after_equal_combat
+  label: mutual refusal of victory after equal combat
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a formalized heroic combat outcome where equality
+    prevents normal victory resolution.
+  cautions: Could also be an honor-code or reconciliation motif; source context is
+    needed before promoting beyond a granular combat variant.
+  suggested_aliases:
+  - equal combat without victor
+  - refusal of victory after matched combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mystery-arising-from-open-heroic-landscape
+  motif_id: mystery_arising_from_open_heroic_landscape
+  label: mystery arising from open heroic landscape
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is abstract and may describe atmosphere or setting rather
+    than a repeatable motif.
+  cautions: Needs passage evidence; possible fits include hero_journey, otherworld,
+    threshold_guardian, or exclusion as literary commentary.
+  suggested_aliases:
+  - mysterious heroic landscape
+  - open landscape as uncanny setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mystical-outsiders-share-reward-with-the-orthodox
+  motif_id: mystical_outsiders_share_reward_with_the_orthodox
+  label: Mystical outsiders share reward with the orthodox
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes mystical status, communal boundary, and reward-sharing;
+    its narrative function is unclear from wording alone.
+  cautions: May belong under mystical_quest, sacred_exchange, or sacred_law depending
+    on whether the passage stresses spiritual rank, reciprocity, or orthodoxy; culturally
+    sensitive review recommended.
+  suggested_aliases:
+  - outsider mystics share reward
+  - mystical outsiders included in reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.narrative-cycle-fills-gaps-around-an-earlier-heroic-epic
+  motif_id: narrative_cycle_fills_gaps_around_an_earlier_heroic_epic
+  label: Narrative cycle fills gaps around an earlier heroic epic
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes textual or literary-cycle formation rather than a symbolic
+    or narrative motif within a story world.
+  cautions: Preserve as provenance or reception metadata, not as pattern-query evidence
+    for heroic conflict.
+  suggested_aliases:
+  - epic cycle gap-filling
+  - narrative cycle supplements earlier epic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-fruit-turned-into-a-lethal-weapon
+  motif_id: natural_fruit_turned_into_a_lethal_weapon
+  label: natural fruit turned into a lethal weapon
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A natural object made into a lethal weapon functions as a power object
+    within a violent episode.
+  cautions: If the fruit is improvised mundane weaponry rather than endowed with sacred
+    or supernatural force, this may be too specific for motif queries.
+  suggested_aliases:
+  - fruit as weapon
+  - natural object transformed into weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-objects-used-as-colossal-weapons
+  motif_id: natural_objects_used_as_colossal_weapons
+  label: natural objects used as colossal weapons
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Colossal natural weapons suggest superhuman or divine-scale combat used
+    to establish or defend order.
+  cautions: If the object itself is the focus, sacred_treasures may be a secondary
+    fit; avoid creating a weapon group from one occurrence.
+  suggested_aliases:
+  - colossal natural weapons
+  - natural objects as giant weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-objects-used-as-heroic-weapons
+  motif_id: natural_objects_used_as_heroic_weapons
+  label: Natural objects used as heroic weapons
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Natural objects used as weapons fit heroic or divine combat when the
+    emphasis is on extraordinary martial action.
+  cautions: Could alternatively map to sacred_treasures if the natural object becomes
+    a durable power object; otherwise may remain granular evidence.
+  suggested_aliases:
+  - natural objects as heroic weapons
+  - improvised natural heroic weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several conflict labels are single-occurrence combat-outcome variants; map provisionally
+  to sacred_combat or divine_warrior only when the source frames the combat as heroic,
+  ritual, or cosmically significant.
+- Weaponized natural-object labels may need later consolidation if many recur, but
+  current groups can hold them as functional variants without new taxonomy changes.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages should be checked
+    for narrative function and sacred significance.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0412
+  input_sha256: b0add6afc7b79047ee2db0792be07d17a7449389c394b77cfb076c691e959d64

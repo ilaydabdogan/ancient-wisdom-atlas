@@ -1,0 +1,346 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0401
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.invincible-elder-champion-routs-opposing-heroes
+  motif_id: invincible_elder_champion_routs_opposing_heroes
+  label: Invincible elder champion routs opposing heroes
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Centers on an overwhelming warrior champion whose combat power determines
+    battle outcomes.
+  cautions: The elder status may be locally important; if no sacred or cosmic function
+    is present, sacred_combat may be a better broad placement.
+  suggested_aliases:
+  - invincible elder champion
+  - overwhelming elder warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invincible-warrior-whose-force-overwhelms-armies
+  motif_id: invincible_warrior_whose_force_overwhelms_armies
+  label: invincible warrior whose force overwhelms armies
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A warrior whose force overwhelms armies fits the sacred combat/divine-warrior
+    power pattern.
+  cautions: Do not infer divinity unless the source supports it; this may be heroic
+    rather than divine combat.
+  suggested_aliases:
+  - army-overwhelming warrior
+  - invincible battlefield champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invisible-or-magically-veiled-warrior-attacks-from-concealment
+  motif_id: invisible_or_magically_veiled_warrior_attacks_from_concealment
+  label: invisible or magically veiled warrior attacks from concealment
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif is a battle tactic empowered by concealment or magic within
+    combat.
+  cautions: Could belong with shapeshifter or divine_intervention if the invisibility
+    is a transformation, illusion, or divine aid rather than a warfare motif.
+  suggested_aliases:
+  - invisible warrior ambush
+  - magically veiled combatant
+  - concealed supernatural attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invulnerable-or-iron-framed-warrior-withstands-blows
+  motif_id: invulnerable_or_iron_framed_warrior_withstands_blows
+  label: invulnerable or iron-framed warrior withstands blows
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Invulnerable Warrior Body
+  relationship: narrower_than
+  confidence: medium
+  rationale: Weapon-resistant or iron-like bodies recur as a distinct combat invulnerability
+    pattern not captured by general sacred combat.
+  cautions: Review whether invulnerability comes from boon, armor, body substance,
+    fate, or external soul; those causes may need separate secondary mappings.
+  suggested_aliases:
+  - iron-framed warrior
+  - weapon-resistant warrior body
+  - blow-resistant champion
+  suggested_new_group:
+    id: invulnerable_warrior_body
+    label: Invulnerable Warrior Body
+    description: A hero, warrior, saint, or combatant has a body that resists weapons,
+      wounds, blows, fire, or ordinary attack, often requiring a special vulnerability,
+      nonstandard defeat, or divine reversal.
+    parent_group_ids:
+    - divine_warrior
+    - sacred_combat
+    related_group_ids:
+    - external_soul
+    - sacred_treasures
+    - divine_intervention
+    - death_by_fate
+    reason_existing_groups_insufficient: Existing combat groups cover battle roles,
+      but not the specific recurring structure of bodily invulnerability and exceptional
+      means of defeat.
+- suggestion_id: normalization.suggestion.invulnerable-or-weapon-resistant-warrior-body
+  motif_id: invulnerable_or_weapon_resistant_warrior_body
+  label: invulnerable or weapon-resistant warrior body
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Invulnerable Warrior Body
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly names weapon-resistant warrior embodiment, a repeated
+    invulnerability motif across the batch.
+  cautions: If the resistance is due to armor or a charm rather than body, sacred_treasures
+    may be a secondary mapping.
+  suggested_aliases:
+  - weapon-resistant warrior body
+  - invulnerable combat body
+  - wound-proof warrior
+  suggested_new_group:
+    id: invulnerable_warrior_body
+    label: Invulnerable Warrior Body
+    description: A hero, warrior, saint, or combatant has a body that resists weapons,
+      wounds, blows, fire, or ordinary attack, often requiring a special vulnerability,
+      nonstandard defeat, or divine reversal.
+    parent_group_ids:
+    - divine_warrior
+    - sacred_combat
+    related_group_ids:
+    - external_soul
+    - sacred_treasures
+    - divine_intervention
+    - death_by_fate
+    reason_existing_groups_insufficient: Existing combat groups cover battle roles,
+      but not the specific recurring structure of bodily invulnerability and exceptional
+      means of defeat.
+- suggestion_id: normalization.suggestion.invulnerable-saint-and-reversed-weapons
+  motif_id: invulnerable_saint_and_reversed_weapons
+  label: Invulnerable saint and reversed weapons
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A saint protected from weapons by their reversal is best read as miraculous
+    divine protection.
+  cautions: If the passage emphasizes saintly invulnerability as a body property,
+    relate to the proposed invulnerable_warrior_body group; handle Sufi saint material
+    sensitively.
+  suggested_aliases:
+  - miraculous weapon reversal
+  - saint protected from weapons
+  - reversed weapons against saint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invulnerable-warrior-defeated-by-crushing-weight
+  motif_id: invulnerable_warrior_defeated_by_crushing_weight
+  label: invulnerable warrior defeated by crushing weight
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Invulnerable Warrior Body
+  relationship: functional_variant
+  confidence: high
+  rationale: Defeat by crushing rather than wounding is a special workaround to bodily
+    invulnerability.
+  cautions: Preserve the crushing-weight detail as evidence; do not overgeneralize
+    to all heroic deaths.
+  suggested_aliases:
+  - invulnerable warrior killed by crushing
+  - non-piercing defeat of invulnerable hero
+  - special defeat of wound-proof warrior
+  suggested_new_group:
+    id: invulnerable_warrior_body
+    label: Invulnerable Warrior Body
+    description: A hero, warrior, saint, or combatant has a body that resists weapons,
+      wounds, blows, fire, or ordinary attack, often requiring a special vulnerability,
+      nonstandard defeat, or divine reversal.
+    parent_group_ids:
+    - divine_warrior
+    - sacred_combat
+    related_group_ids:
+    - external_soul
+    - sacred_treasures
+    - divine_intervention
+    - death_by_fate
+    reason_existing_groups_insufficient: Existing combat groups cover battle roles,
+      but not the specific recurring structure of bodily invulnerability and exceptional
+      means of defeat.
+- suggestion_id: normalization.suggestion.invulnerable-warrior-defeated-without-piercing-wounds
+  motif_id: invulnerable_warrior_defeated_without_piercing_wounds
+  label: invulnerable warrior defeated without piercing wounds
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Invulnerable Warrior Body
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif depends on invulnerability to piercing and defeat by an alternate
+    mode of death.
+  cautions: Needs source review to identify whether this is a body trait, taboo, fate
+    condition, or narrative workaround.
+  suggested_aliases:
+  - non-piercing defeat of invulnerable warrior
+  - woundless defeat of invulnerable hero
+  - special vulnerability without piercing
+  suggested_new_group:
+    id: invulnerable_warrior_body
+    label: Invulnerable Warrior Body
+    description: A hero, warrior, saint, or combatant has a body that resists weapons,
+      wounds, blows, fire, or ordinary attack, often requiring a special vulnerability,
+      nonstandard defeat, or divine reversal.
+    parent_group_ids:
+    - divine_warrior
+    - sacred_combat
+    related_group_ids:
+    - external_soul
+    - sacred_treasures
+    - divine_intervention
+    - death_by_fate
+    reason_existing_groups_insufficient: Existing combat groups cover battle roles,
+      but not the specific recurring structure of bodily invulnerability and exceptional
+      means of defeat.
+- suggestion_id: normalization.suggestion.invulnerable-warrior-resistant-to-weapons
+  motif_id: invulnerable_warrior_resistant_to_weapons
+  label: Invulnerable warrior resistant to weapons
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Invulnerable Warrior Body
+  relationship: narrower_than
+  confidence: high
+  rationale: Weapon resistance is the core form of the proposed invulnerable-warrior
+    motif.
+  cautions: Check whether resistance derives from armor, divine boon, ritual protection,
+    or fate before final child placement.
+  suggested_aliases:
+  - weapon-resistant warrior
+  - invulnerable warrior
+  - wound-proof combatant
+  suggested_new_group:
+    id: invulnerable_warrior_body
+    label: Invulnerable Warrior Body
+    description: A hero, warrior, saint, or combatant has a body that resists weapons,
+      wounds, blows, fire, or ordinary attack, often requiring a special vulnerability,
+      nonstandard defeat, or divine reversal.
+    parent_group_ids:
+    - divine_warrior
+    - sacred_combat
+    related_group_ids:
+    - external_soul
+    - sacred_treasures
+    - divine_intervention
+    - death_by_fate
+    reason_existing_groups_insufficient: Existing combat groups cover battle roles,
+      but not the specific recurring structure of bodily invulnerability and exceptional
+      means of defeat.
+- suggestion_id: normalization.suggestion.isolated-hero-surrounded-by-many-and-rescued-by-comrades
+  motif_id: isolated_hero_surrounded_by_many_and_rescued_by_comrades
+  label: isolated hero surrounded by many and rescued by comrades
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A battlefield isolation-and-rescue scene belongs with heroic combat ordeal
+    and warfare patterns.
+  cautions: May be too episode-specific unless rescue of surrounded heroes recurs;
+    avoid mapping to initiation without transformation evidence.
+  suggested_aliases:
+  - surrounded hero rescued by comrades
+  - battlefield rescue of isolated hero
+  - hero encircled by enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch cluster around warrior invulnerability; human reviewers
+  should consider adding one durable normalization group rather than many over-specific
+  children.
+- Do not infer historical contact from the cross-tradition recurrence of invulnerable-warrior
+  labels.
+- 'For invulnerability motifs, preserve cause and defeat mechanism when available:
+  body property, armor/charm, divine boon, fate condition, external soul, or nonstandard
+  killing method.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; invulnerable_warrior_body is proposed as a normalization
+    group candidate for review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0401
+  input_sha256: 6690400c465d027f231d0c9ff34c54c219885f7d6b541dc27fdf9b95014fc06d

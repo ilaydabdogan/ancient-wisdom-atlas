@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0397
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hidden-weapon-exposes-hero-to-monster-danger
+  motif_id: hidden_weapon_exposes_hero_to_monster_danger
+  label: hidden weapon exposes hero to monster danger
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a combat-ordeal episode involving a hero, weapon,
+    and monster danger; sacred_combat is the closest existing conflict group.
+  cautions: Single occurrence and highly episode-specific; if the monster is a threshold
+    guardian or chaos being, another mapping may be better after source review.
+  suggested_aliases:
+  - hidden weapon reveals hero to monster
+  - weapon concealment creates monster danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.homeland-defended-by-heroic-war-band
+  motif_id: homeland_defended_by_heroic_war_band
+  label: Homeland defended by heroic war-band
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A heroic war-band defending homeland fits the warfare and communal defense
+    side of sacred_combat.
+  cautions: May be ordinary heroic-epic military action rather than sacred or ritual
+    combat; review whether homeland defense has mythic or social-order function.
+  suggested_aliases:
+  - heroic war-band defends homeland
+  - homeland defense by warrior band
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honourable-refusal-to-fight-a-wounded-opponent
+  motif_id: honourable_refusal_to_fight_a_wounded_opponent
+  label: honourable refusal to fight a wounded opponent
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on warrior honor and combat ethics, already represented
+    near divine_warrior children such as warrior_honor_and_burial.
+  cautions: If the passage emphasizes law, oath, or social obligation more than warrior
+    identity, sacred_law or covenant may be secondary candidates.
+  suggested_aliases:
+  - warrior refuses combat with wounded opponent
+  - honorable combat restraint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hopeless-heroic-last-stand
+  motif_id: hopeless_heroic_last_stand
+  label: hopeless heroic last stand
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A doomed heroic last stand fits heroic combat, warrior duty, and death
+    in battle under the divine_warrior complex.
+  cautions: Could also map to sacrifice if the last stand is framed as self-offering
+    for community; avoid assuming sacred combat from military heroism alone.
+  suggested_aliases:
+  - doomed heroic last stand
+  - heroic last stand against impossible odds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.horn-call-before-final-battle
+  motif_id: horn_call_before_final_battle
+  label: Horn call before final battle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A battle horn announcing final combat fits sacred or apocalyptic combat
+    imagery better than a general object group.
+  cautions: The horn itself may be a sacred treasure or signal object, but the narrative
+    function is battle summons; source context should confirm final-battle significance.
+  suggested_aliases:
+  - battle horn summons final combat
+  - horn summons warriors to last battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-and-reciprocal-reward
+  motif_id: hospitality_and_reciprocal_reward
+  label: hospitality and reciprocal reward
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: high
+  rationale: Hospitality followed by reciprocal reward directly matches sacred_exchange
+    as reciprocal giving and relationship repair or maintenance.
+  cautions: If the scene is merely courtly etiquette without sacred or transformative
+    stakes, it may be too contextual for broad motif queries.
+  suggested_aliases:
+  - hospitality rewarded
+  - reciprocal hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-and-testing-of-the-stranger-guest
+  motif_id: hospitality_and_testing_of_the_stranger_guest
+  label: Hospitality and testing of the stranger guest
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif combines sacred hospitality with testing a liminal stranger,
+    a recurring pattern not cleanly captured by sacred_exchange alone.
+  cautions: Could still be indexed under sacred_exchange until enough hospitality-test
+    labels justify a durable group; verify that the stranger functions as a test,
+    disguise, or sacred obligation.
+  suggested_aliases:
+  - stranger guest tests hospitality
+  - hospitality test of stranger
+  suggested_new_group:
+    id: hospitality_test
+    label: Hospitality Test and Stranger Guest
+    description: A host, household, or community is tested through the treatment of
+      a stranger, guest, beggar, suppliant, or disguised visitor, with reward, punishment,
+      recognition, or social revelation following the response.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    related_group_ids:
+    - divine_intervention
+    - threshold_guardian
+    - storytelling_as_power
+    reason_existing_groups_insufficient: Sacred_exchange covers reciprocal hospitality
+      but does not preserve the distinctive test structure and liminal stranger role
+      found across several labels in this batch.
+- suggestion_id: normalization.suggestion.hospitality-offered-to-a-visiting-warrior
+  motif_id: hospitality_offered_to_a_visiting_warrior
+  label: hospitality offered to a visiting warrior
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: high
+  rationale: Offering hospitality to a visitor is a reciprocal social obligation that
+    fits sacred_exchange; the warrior detail is contextual.
+  cautions: If the visitor's warrior status drives a combat ordeal or alliance, sacred_combat
+    may be a secondary context; do not overpromote the specific visiting-warrior wording.
+  suggested_aliases:
+  - hospitality to visiting warrior
+  - guest hospitality for warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-test-involving-a-suppliant-stranger
+  motif_id: hospitality_test_involving_a_suppliant_stranger
+  label: hospitality test involving a suppliant stranger
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: medium
+  rationale: The suppliant stranger test is a distinct hospitality-obligation pattern,
+    narrower than sacred_exchange and sacred_law.
+  cautions: Greek suppliance may carry specific ritual-legal weight; review before
+    flattening into generic hospitality.
+  suggested_aliases:
+  - suppliant stranger tests hospitality
+  - hospitality test by suppliant
+  suggested_new_group:
+    id: hospitality_test
+    label: Hospitality Test and Stranger Guest
+    description: A host, household, or community is tested through the treatment of
+      a stranger, guest, beggar, suppliant, or disguised visitor, with reward, punishment,
+      recognition, or social revelation following the response.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    related_group_ids:
+    - divine_intervention
+    - threshold_guardian
+    - storytelling_as_power
+    reason_existing_groups_insufficient: Existing sacred_exchange and sacred_law groups
+      cover obligation and reciprocity but not the recurring narrative structure of
+      a stranger or suppliant functioning as a test.
+- suggestion_id: normalization.suggestion.host-tested-by-vulnerable-stranger
+  motif_id: host_tested_by_vulnerable_stranger
+  label: host tested by vulnerable stranger
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: medium
+  rationale: A vulnerable stranger testing the host is the same hospitality-test structure,
+    emphasizing ethical response to liminal dependency.
+  cautions: May overlap with social care or divine disguise if the stranger is a god;
+    source review should preserve whether the tester is human, divine, or unknown.
+  suggested_aliases:
+  - vulnerable stranger tests host
+  - host's hospitality tested by stranger
+  suggested_new_group:
+    id: hospitality_test
+    label: Hospitality Test and Stranger Guest
+    description: A host, household, or community is tested through the treatment of
+      a stranger, guest, beggar, suppliant, or disguised visitor, with reward, punishment,
+      recognition, or social revelation following the response.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    related_group_ids:
+    - divine_intervention
+    - threshold_guardian
+    - storytelling_as_power
+    reason_existing_groups_insufficient: The existing groups can hold reciprocity
+      or ethical care, but they do not retain the specific narrative function of hospitality
+      as a test by a vulnerable stranger.
+batch_notes:
+- Several hospitality labels in this batch point to a possible reusable hospitality_test
+  group under sacred_exchange/sacred_law; until accepted, plain hospitality scenes
+  can remain under sacred_exchange.
+- Conflict labels are mostly single-occurrence and episode-specific; map cautiously
+  to sacred_combat or divine_warrior only where combat ethics, heroic death, or battle
+  order is central.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for single-occurrence
+    combat labels and for deciding whether hospitality_test should become a canonical
+    normalization group.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0397
+  input_sha256: 2da3acfca479757377f0c1e39a23cb0f5f562632b6d30ad47a571973af41ca01

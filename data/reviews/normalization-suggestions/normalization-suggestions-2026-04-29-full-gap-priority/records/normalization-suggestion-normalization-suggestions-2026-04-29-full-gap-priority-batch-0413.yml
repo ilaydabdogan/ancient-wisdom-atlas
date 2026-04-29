@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0413
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.near-invulnerable-warrior
+  motif_id: near_invulnerable_warrior
+  label: near-invulnerable warrior
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A warrior marked by exceptional invulnerability fits heroic sacred-combat
+    characterization and overlaps with existing warrior invulnerability/death motifs.
+  cautions: If the invulnerability depends on an external soul or life-token, external_soul
+    may be a better secondary mapping.
+  suggested_aliases:
+  - nearly invulnerable warrior
+  - invulnerable warrior
+  - near-invulnerable hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.near-total-mutual-destruction-in-night-battle
+  motif_id: near_total_mutual_destruction_in_night_battle
+  label: near-total mutual destruction in night battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes catastrophic battle outcome within a heroic or ritual
+    warfare setting.
+  cautions: Single-episode battle detail; preserve as evidence unless recurrent across
+    sources. Night setting alone should not create a separate motif.
+  suggested_aliases:
+  - mutual destruction in battle
+  - catastrophic night battle
+  - near-annihilation in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nearly-invulnerable-warrior
+  motif_id: nearly_invulnerable_warrior
+  label: nearly invulnerable warrior
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: alias
+  confidence: high
+  rationale: This is a wording variant of near-invulnerable warrior and belongs under
+    the same heroic warrior-combat role.
+  cautions: Check whether the passage emphasizes a hidden vulnerability or externalized
+    life; if so, relate to external_soul.
+  suggested_aliases:
+  - near-invulnerable warrior
+  - invulnerable warrior
+  - nearly invulnerable hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nested-containers-of-a-monster-s-strength
+  motif_id: nested_containers_of_a_monster_s_strength
+  label: nested containers of a monster's strength
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: A monster's strength stored in nested containers is a separable-life
+    or external-vulnerability pattern.
+  cautions: If the containers hold only a weapon or treasure rather than life/strength,
+    sacred_vessel or sacred_treasures may be relevant.
+  suggested_aliases:
+  - monster's strength in nested containers
+  - externalized monster strength
+  - hidden strength in containers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-attack-on-sleeping-army-in-reported-battle
+  motif_id: night_attack_on_sleeping_army_in_reported_battle
+  label: night attack on sleeping army in reported battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A nocturnal attack on a sleeping army is a tactical battle episode within
+    sacred or heroic warfare.
+  cautions: May be too contextual for pattern queries unless the source frames it
+    as transgressive, fated, or ritually significant.
+  suggested_aliases:
+  - night attack on sleeping army
+  - nocturnal attack on sleeping warriors
+  - attack on sleeping camp
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-raid-through-enemy-camp
+  motif_id: night_raid_through_enemy_camp
+  label: night raid through enemy camp
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns a dangerous martial raid through an enemy camp, fitting
+    the warfare and heroic ordeal complex.
+  cautions: If the raid is primarily stealth reconnaissance or journey ordeal, hero_journey
+    may be a secondary placement.
+  suggested_aliases:
+  - nocturnal raid through enemy camp
+  - enemy camp night raid
+  - stealth raid by night
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-reconnaissance-into-the-enemy-camp
+  motif_id: night_reconnaissance_into_the_enemy_camp
+  label: night reconnaissance into the enemy camp
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Stealth reconnaissance into an enemy camp is a martial ordeal and tactical
+    warfare episode.
+  cautions: Could be too episode-specific; if the narrative emphasizes crossing into
+    danger and return with knowledge, hero_journey or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - night scouting in enemy camp
+  - nocturnal reconnaissance
+  - stealth reconnaissance into enemy camp
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-renewed-demonic-assault-in-heroic-battle-backstory
+  motif_id: night_renewed_demonic_assault_in_heroic_battle_backstory
+  label: night-renewed demonic assault in heroic battle backstory
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Demonic assault in heroic battle aligns with divine-warrior combat against
+    supernatural or chaotic enemies.
+  cautions: The backstory and night-renewal details may be passage-specific; verify
+    whether the assault has cosmic-order stakes or is only narrative background.
+  suggested_aliases:
+  - demonic assault in heroic battle
+  - renewed night assault by demons
+  - night demonic attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-vigil-over-the-sleeping-hero
+  motif_id: night_vigil_over_the_sleeping_hero
+  label: night vigil over the sleeping hero
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A protective vigil over a vulnerable sleeping hero may involve guardianship
+    or supernatural protection.
+  cautions: 'Ambiguous without source context: could be ordinary loyalty, threshold
+    guarding, dream/vision framing, or a passage-specific detail rather than a motif.'
+  suggested_aliases:
+  - vigil over sleeping hero
+  - protective night watch over hero
+  - guardian watches sleeping hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-watch-while-armed-hero-sleeps
+  motif_id: night_watch_while_armed_hero_sleeps
+  label: night watch while armed hero sleeps
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a protective watch, a heroic vulnerability episode,
+    or an incidental narrative detail.
+  cautions: Do not map solely from the presence of a sleeping armed hero; source evidence
+    is needed to identify guardian, ordeal, threshold, or combat function.
+  suggested_aliases:
+  - night watch over sleeping armed hero
+  - armed hero sleeps under watch
+  - protective watch while hero sleeps
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several night-battle labels are tactical or episode-specific; map cautiously under
+  sacred_combat only when the passage treats warfare as heroic, sacred, or order-defining.
+- Near-invulnerable warrior variants should be deduplicated as aliases unless evidence
+  shows a distinct hidden-life or external-soul mechanism.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify source
+    context for single-occurrence combat details.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0413
+  input_sha256: bbc54fa2127bbe255d351acfe16aa2848f7a2b94d80315313f61917826da5b43

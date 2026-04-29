@@ -6,12 +6,12 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 
 ## Summary
 
-- Suggestions reviewed: 3920
-- Accepted draft mappings: 122
-- New canonical group candidates: 63
-- Low-confidence / needs human review: 1055
-- Suggested exclusions: 218
-- Already known in base normalization: 2525
+- Suggestions reviewed: 4120
+- Accepted draft mappings: 143
+- New canonical group candidates: 70
+- Low-confidence / needs human review: 1096
+- Suggested exclusions: 227
+- Already known in base normalization: 2654
 
 ## New Group Candidates
 
@@ -26,6 +26,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `artificially_created_being` | Artificially Created Being | 1 | Existing groups cover sacred birth, craft, and divine gifts, but not the distinct creation of an artificial humanlike being endowed with life or qualities. |
 | `betrayal_violated_trust` | Betrayal and Violated Trust | 2 | Existing groups cover reciprocity, law, and judgment, but not the narrative rupture of trust itself across protector, guest, kin, duty, and feast betrayal patterns. |
 | `celestial_transformation` | Celestial Transformation and Star Placement | 1 | Existing groups cover cosmic origin and death transformation broadly, but not the distinct and recurrent pattern of astral emplacement or constellation etiologies. |
+| `condition_defeats_monster` | Riddle or Condition Defeats Monster | 1 | Existing combat and threshold groups do not capture the specific defeat mechanism in which knowledge or a fulfilled condition destroys the threat. |
 | `conditional_boon_fatal_loophole` | Conditional Boon and Fatal Loophole | 1 | Existing groups cover divine intervention, sacred combat, and externalized vulnerability, but not the specific narrative structure of a boon whose exception enables defeat. |
 | `conditional_boon_loophole` | Conditional Boon and Loophole Vulnerability | 3 | Existing groups cover exchange, judgment, power objects, and external souls, but not the specific narrative structure of conditional invulnerability created by a boon and undone by its exception. |
 | `conditional_invulnerability` | Conditional Invulnerability | 3 | Existing groups cover externalized life, sacred objects, fate, and combat, but not the common narrative logic of near-invulnerability defined by conditional exceptions. |
@@ -51,12 +52,18 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `golden_age_primordial_peace` | Golden Age and Primordial Peace | 1 | Existing groups cover creation, cycles, kingship, and judgment, but none specifically captures the mythic memory of an original peaceful age or divine peace-place before rupture. |
 | `greed_temperance_reversal` | Greed, Temperance, and Moral Reversal | 4 | Pride/downfall covers overreach, but these labels specifically concern avarice, temperance, and wealth or desire reversals. |
 | `heroic_wounds_and_martial_proof` | Heroic Wounds and Martial Proof | 2 | Existing combat groups cover battle, duty, and warrior death but not the evidentiary use of wounds or bodily marks to prove service or honor. |
+| `hospitality_test` | Hospitality Test and Stranger Guest | 3 | Sacred_exchange covers reciprocal hospitality but does not preserve the distinctive test structure and liminal stranger role found across several labels in this batch. |
 | `inexhaustible_provision` | Inexhaustible Provision and Abundance | 1 | Existing groups cover sacred objects, vessels, and exchange, but none specifically preserve the recurring function of inexhaustible abundance or self-renewing provision. |
+| `invulnerable_monster_defeated` | Invulnerable Monster Defeated by Special Means | 3 | Existing combat groups cover sacred battle broadly but do not preserve the recurring narrative function of conditional invulnerability and special defeat. |
+| `invulnerable_warrior_body` | Invulnerable Warrior Body | 5 | Existing combat groups cover battle roles, but not the specific recurring structure of bodily invulnerability and exceptional means of defeat. |
 | `karmic_continuity` | Karmic Continuity and Past-Life Explanation | 1 | Existing groups cover rebirth, judgment, and wisdom broadly but do not preserve the specifically karmic past-life-to-present explanatory function. |
 | `karmic_recurrence` | Karmic Recurrence Across Lives | 1 | Existing groups cover fate, judgment, and transformation, but not recurring causality across former and present lives. |
 | `magical_compulsion` | Enchantment, Spell-Sleep, and Magical Compulsion | 1 | Existing groups cover dreams, otherworlds, and threshold lures, but not the recurring mechanism of enchantment or magical compulsion itself. |
 | `martyrdom_witness` | Martyrdom and Witness Under Persecution | 1 | Existing sacrifice and divine judgment groups cover self-surrender and moral reckoning, but do not preserve the specific religious function of steadfast witness under persecution. |
+| `mercy_compassion_forgiveness` | Mercy, Compassion, and Forgiveness | 5 | Existing groups cover combat, law, judgment, and discipline, but none cleanly captures mercy or forgiveness as the primary narrative function. |
+| `miracle_contest_supernatural_proof` | Miracle Contest and Supernatural Proof | 2 | Existing groups can cover divine action or revelation, but they do not specifically capture adversarial miracle contests as proof of authority. |
 | `miraculous_provision` | Miraculous Provision and Inexhaustible Food | 1 | Existing groups cover offering, exchange, and power objects, but not the distinct function of miraculous abundance or inexhaustible sustenance. |
+| `monster_combat` | Monster Combat and Heroic Overcoming | 2 | Existing combat groups emphasize divine warriors, sacred warfare, or threshold guardians; they do not clearly hold non-divine heroic monster-slaying episodes where the creature is the central ordeal. |
 | `monster_lair_devouring_threat` | Monster Lair and Devouring Threat | 1 | Existing groups cover guardians, combat, and descent but lack a stable place for devouring monster habitation as an ordeal setting. |
 | `monstrous_perception` | Monstrous Perception and Shared Senses | 1 | Existing groups cover vision, guardians, and transformation, but not recurring abnormal bodily perception as the key motif. |
 | `past_life_identity` | Past-Life Identity and Karmic Continuity | 7 | Existing death, wisdom, and judgment groups do not specifically cover rebirth-identity disclosure and karmic continuity across lives. |
@@ -580,13 +587,13 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `hidden_divine_counsel_provoking_consort_conflict` | hidden divine counsel provoking consort conflict | needs_human_review | ``  | low | low confidence |
 | `hidden_strength_caused_by_a_curse` | hidden strength caused by a curse | needs_human_review | ``  | low | low confidence |
 | `hidden_wealth_guarded_by_a_subordinate_witness` | hidden wealth guarded by a subordinate witness | needs_human_review | ``  | low | low confidence |
+| `hidden_weapon_exposes_hero_to_monster_danger` | hidden weapon exposes hero to monster danger | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | low | low confidence |
 | `high_price_exchange_for_exceptional_human_talent` | high-price exchange for exceptional human talent | map_to_existing_group | `sacred_exchange` Sacred Exchange and Reciprocity | low | low confidence |
 | `holistic_admiration_opposed_to_dissecting_analysis` | holistic admiration opposed to dissecting analysis | needs_human_review | ``  | low | low confidence |
 | `holy_site_memorialization_over_hidden_sleepers` | holy site memorialization over hidden sleepers | needs_human_review | `death_and_transformation` Death, Rebirth, and Transformation | low | low confidence |
 | `holy_water_from_saintly_body` | holy water from saintly body | needs_human_review | `sacred_waters` Sacred Waters and Passage Through Water | low | low confidence |
-| `hope_retained_amid_human_affliction` | Hope retained amid human affliction | needs_human_review | ``  | low | low confidence |
 
-_Showing first 500 of 1055 review rows._
+_Showing first 500 of 1096 review rows._
 
 ## Suggested Exclusions
 
@@ -718,22 +725,28 @@ _Showing first 500 of 1055 review rows._
 | `kinsman_lured_to_night_meeting_and_murdered` | Kinsman lured to night meeting and murdered | medium | The label is a highly specific murder episode rather than a broad recurring symbolic motif. |
 | `lament_indicated_by_chapter_title` | lament indicated by chapter title | high | The label describes a chapter-title cue rather than a narrative or ritual motif. |
 | `language_change_altering_inherited_poetry` | language change altering inherited poetry | high | The label describes linguistic transmission and alteration of inherited poetic material, not a symbolic or narrative motif. |
+| `later_adornment_of_an_older_heroic_episode` | later adornment of an older heroic episode | high | The label describes textual layering or editorial development, not a narrative motif. |
 | `later_arrangement_of_inherited_poetic_materials` | later arrangement of inherited poetic materials | high | This is an observation about editorial or compositional arrangement of poetic tradition, not a motif. |
 | `later_identification_of_a_goddess_with_a_celestial_deity` | later identification of a goddess with a celestial deity | high | The label describes later interpretive identification or syncretic classification, not a narrative motif. |
 | `later_literary_transformation_of_inherited_sacred_or_archaic_tradition` | later literary transformation of inherited sacred or archaic tradition | high | This is a statement about literary reception or redaction of tradition rather than a symbolic or narrative motif. |
 | `literalized_proof_from_absence` | literalized proof from absence | medium | The phrase sounds like an interpretive or argumentative observation rather than a narrative-symbolic motif. |
 | `living_oral_tradition_preserving_archaic_religion` | living oral tradition preserving archaic religion | high | This is a claim about transmission and preservation, not a motif within a mythic narrative. |
+| `maimed_female_relative_provokes_inquiry_about_a_powerful_enemy` | Maimed female relative provokes inquiry about a powerful enemy | medium | This reads as an episode-specific plot trigger rather than a reusable mythic motif. |
 | `marvelous_beings_in_eastern_fairy_tales` | Marvelous beings in Eastern fairy tales | medium | The label reads like a genre or scholarly classification rather than a specific narrative motif. |
 | `mistaken_cause_of_desirable_trait` | mistaken cause of desirable trait | medium | The wording is abstract and looks like an explanatory or interpretive note rather than a usable narrative motif. |
+| `mock_combat_as_elite_entertainment` | mock combat as elite entertainment | medium | This reads as a social or episode-specific practice rather than a durable mythic motif in the current taxonomy. |
 | `mock_heroic_parody_of_war_and_gods` | mock-heroic parody of war and gods | medium | The label describes literary mode or genre treatment rather than a recurring symbolic motif. |
 | `moses_and_related_biblical_rabbinic_narrative_parallels` | Moses and related biblical-rabbinic narrative parallels | high | The label describes comparative textual parallels around a named figure rather than a reusable narrative motif. |
+| `muster_and_catalogue_of_allied_war_bands` | muster and catalogue of allied war bands | medium | A catalogue of allied war bands is likely an epic compositional or passage-structure feature rather than a symbolic motif. |
 | `myth_explained_as_ritual_transcript` | myth explained as ritual transcript | high | This is an interpretive or scholarly explanation of myth-ritual relation, not a narrative motif in the source tradition. |
 | `myth_formation_around_a_founding_religious_figure` | myth formation around a founding religious figure | high | The label describes scholarly interpretation of tradition formation rather than a narrative motif inside the tradition. |
 | `myth_invented_to_explain_persistent_custom` | myth invented to explain persistent custom | high | This is an etiological or scholarly classification claim about why a myth exists, not a concrete motif label. |
 | `mythic_beginning_as_chapter_topic` | mythic beginning as chapter topic | high | The label appears to describe a chapter heading or editorial topic rather than a mythic motif. |
 | `mythological_composite_creature_as_analogy` | mythological composite creature as analogy | medium | The phrase 'as analogy' suggests rhetorical or interpretive use of a creature image rather than a narrative creature motif. |
+| `narrative_cycle_fills_gaps_around_an_earlier_heroic_epic` | Narrative cycle fills gaps around an earlier heroic epic | high | This describes textual or literary-cycle formation rather than a symbolic or narrative motif within a story world. |
 | `natural_explanation_of_mythic_geography` | Natural explanation of mythic geography | medium | The label describes rationalizing or explanatory commentary about mythic geography rather than a motif within a narrative. |
 | `numbered_pair_or_triad_in_a_fable_title` | Numbered pair or triad in a fable title | high | This describes a title structure rather than a mythic or narrative motif. |
+| `older_mythology_clustering_around_a_heroic_warrior_cycle` | Older mythology clustering around a heroic warrior cycle | high | The label describes scholarly organization or tradition-history around a warrior cycle, not a narrative motif in a passage. |
 | `older_native_layer_contrasted_with_later_decorated_layer` | Older native layer contrasted with later decorated layer | high | The label describes source stratification or scholarly reconstruction rather than a narrative motif. |
 | `oral_epic_accretion_of_episodes_legends_and_ancient_myths` | oral epic accretion of episodes, legends, and ancient myths | high | The label describes textual formation and scholarly analysis of epic accretion, not a narrative motif. |
 | `oral_epic_committed_to_writing_for_a_narrow_literate_class` | oral epic committed to writing for a narrow literate class | high | This is a transmission and literacy-history observation rather than a symbolic or narrative motif. |
@@ -790,6 +803,9 @@ _Showing first 500 of 1055 review rows._
 | `suppression_and_execution_of_sectarian_chiefs` | Suppression and execution of sectarian chiefs | medium | The label reads as a specific historical-political event summary rather than a reusable symbolic motif. |
 | `survivor_messenger_carries_defeat_to_a_greater_antagonist` | survivor messenger carries defeat to a greater antagonist | medium | This reads as a plot mechanics detail about reporting a battle outcome rather than a durable symbolic motif. |
 | `survivors_report_slaughter_and_summon_wider_army` | survivors report slaughter and summon wider army | medium | The label is a specific narrative transition from massacre report to army mobilization, not a broad mythic motif. |
+| `syncretic_absorption_of_deities_into_a_solar_god` | syncretic absorption of deities into a solar god | high | The label describes comparative or theological classification of deities rather than a narrative motif. |
+| `syncretic_adoption_of_foreign_gods` | syncretic adoption of foreign gods | high | This is a historical-religious or scholarly observation about deity adoption, not a symbolic narrative motif. |
+| `syncretic_identification_of_a_foreign_goddess_with_a_greek_goddess` | Syncretic identification of a foreign goddess with a Greek goddess | high | The label records interpretive identification between cult figures rather than a recurring mythic action or symbol. |
 | `syncretic_identification_of_bacchus_with_osiris` | Syncretic identification of Bacchus with Osiris | high | The label describes interpretive syncretic identification between deities rather than a narrative or symbolic motif. |
 | `tale_migration_across_traditions` | tale migration across traditions | high | The label describes transmission or diffusion of a tale between traditions, not a narrative motif within the tale. |
 | `tale_migration_through_cultural_and_commercial_contact` | Tale migration through cultural and commercial contact | high | This is a historical-contact or transmission claim rather than a symbolic or narrative motif. |
@@ -811,4 +827,4 @@ _Showing first 500 of 1055 review rows._
 | `withdrawal_to_private_room_creates_suspicion` | withdrawal to private room creates suspicion | medium | The label reads as a contextual plot beat rather than a recurring mythic or symbolic motif. |
 | `woman_enters_domestic_meal_with_textile_tool` | woman enters domestic meal with textile tool | medium | The label reads as an episode-specific domestic staging detail rather than a reusable symbolic motif. |
 
-_Showing first 218 of 218 exclusion rows._
+_Showing first 227 of 227 exclusion rows._

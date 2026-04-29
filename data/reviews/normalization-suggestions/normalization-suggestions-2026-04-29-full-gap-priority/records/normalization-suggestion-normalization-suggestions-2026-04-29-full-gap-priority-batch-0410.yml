@@ -1,0 +1,329 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0410
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.monster-haunting-a-dangerous-threshold
+  motif_id: monster_haunting_a_dangerous_threshold
+  label: monster haunting a dangerous threshold
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: The monster functions as a dangerous presence at a boundary or passage
+    point, matching threshold-guardian logic.
+  cautions: Confirm that the threshold function is central, not merely a setting for
+    combat.
+  suggested_aliases:
+  - monster at threshold
+  - dangerous threshold monster
+  - liminal monster guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-in-a-cave-seizing-sailors
+  motif_id: monster_in_a_cave_seizing_sailors
+  label: Monster in a cave seizing sailors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cave-dwelling monster who captures travelers can serve as a liminal
+    obstacle or guardian-like peril at an enclosed threshold.
+  cautions: Could also be an over-specific episode detail; map to descent only if
+    the cave functions as underworld or initiation space.
+  suggested_aliases:
+  - cave monster seizes travelers
+  - monster in cave captures sailors
+  - liminal cave monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-invulnerable-to-ordinary-weapons-killed-by-alternate-means
+  motif_id: monster_invulnerable_to_ordinary_weapons_killed_by_alternate_means
+  label: Monster invulnerable to ordinary weapons killed by alternate means
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Invulnerable Monster Defeated by Special Means
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key motif is not combat generally but a monster’s conditional invulnerability
+    overcome by an exceptional tactic or loophole.
+  cautions: May overlap with external_soul if vulnerability is stored externally,
+    or sacred_treasures if a special weapon is central.
+  suggested_aliases:
+  - conditional monster invulnerability
+  - monster killed by special means
+  - invulnerable foe defeated by loophole
+  suggested_new_group:
+    id: invulnerable_monster_defeated
+    label: Invulnerable Monster Defeated by Special Means
+    description: A monster, demon, or adversary cannot be harmed by ordinary weapons
+      or conditions but is defeated through a special weapon, loophole, indirect tactic,
+      revealed weakness, or alternate means.
+    parent_group_ids:
+    - divine_warrior
+    - sacred_combat
+    related_group_ids:
+    - sacred_treasures
+    - sacred_knowledge
+    - external_soul
+    reason_existing_groups_insufficient: Existing combat groups cover sacred battle
+      broadly but do not preserve the recurring narrative function of conditional
+      invulnerability and special defeat.
+- suggestion_id: normalization.suggestion.monster-predator-with-fiery-signs-approaches-at-night
+  motif_id: monster_predator_with_fiery_signs_approaches_at_night
+  label: monster predator with fiery signs approaches at night
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines monster predation, fiery signs, and night approach
+    without a clear existing dominant function.
+  cautions: Could fit threshold peril, ominous vision, sacred fire, or an over-specific
+    passage detail depending on source evidence.
+  suggested_aliases:
+  - fiery night monster
+  - night predator with fiery signs
+  - ominous monster approach
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-ravages-land-and-is-slain-by-hero
+  motif_id: monster_ravages_land_and_is_slain_by_hero
+  label: monster ravages land and is slain by hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A hero slaying a land-ravaging monster is a sacred-combat pattern restoring
+    order after destructive chaos.
+  cautions: If the episode is purely heroic adventure with no cosmic or sacred order
+    dimension, sacred_combat may be the better broad group.
+  suggested_aliases:
+  - hero slays ravaging monster
+  - monster-slaying restores land
+  - heroic monster slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-remains-transformed-into-fearsome-war-instruments
+  motif_id: monster_remains_transformed_into_fearsome_war_instruments
+  label: Monster remains transformed into fearsome war instruments
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Monster remains become potent war objects, aligning with power objects
+    that confer martial or sacred force.
+  cautions: Could also map to death_and_transformation if bodily transformation is
+    the main point, or divine_warrior if used in sacred combat.
+  suggested_aliases:
+  - monster remains become weapons
+  - body transformed into war instruments
+  - fearsome weapons from monster remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-reveals-or-discloses-its-own-vulnerability
+  motif_id: monster_reveals_or_discloses_its_own_vulnerability
+  label: monster reveals or discloses its own vulnerability
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Invulnerable Monster Defeated by Special Means
+  relationship: child
+  confidence: medium
+  rationale: Disclosure of a hidden weakness is a recurring mechanism within conditional
+    invulnerability or special-defeat monster tales.
+  cautions: If the label is from comparative indexing rather than a source passage,
+    verify before promoting; may also involve forbidden or strategic knowledge.
+  suggested_aliases:
+  - monster reveals weakness
+  - disclosed monster vulnerability
+  - hidden weakness revealed by monster
+  suggested_new_group:
+    id: invulnerable_monster_defeated
+    label: Invulnerable Monster Defeated by Special Means
+    description: A monster, demon, or adversary cannot be harmed by ordinary weapons
+      or conditions but is defeated through a special weapon, loophole, indirect tactic,
+      revealed weakness, or alternate means.
+    parent_group_ids:
+    - divine_warrior
+    - sacred_combat
+    related_group_ids:
+    - sacred_knowledge
+    - external_soul
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups do not preserve the specific
+      narrative mechanism of discovering or exploiting a monster’s hidden vulnerability.
+- suggestion_id: normalization.suggestion.monster-s-failed-detection-of-hidden-fugitives
+  motif_id: monster_s_failed_detection_of_hidden_fugitives
+  label: Monster's failed detection of hidden fugitives
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may be a concealment-and-escape episode, trickster evasion,
+    or over-specific narrative detail rather than a stable monster motif.
+  cautions: Source context is needed to decide whether the main pattern is hidden
+    fugitives, monster blindness, divine protection, or escape from a threshold threat.
+  suggested_aliases:
+  - hidden fugitives evade monster
+  - monster fails to detect fugitives
+  - escape by concealment from monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-self-destruction-after-fulfilled-solution-condition
+  motif_id: monster_self_destruction_after_fulfilled_solution_condition
+  label: monster self-destruction after fulfilled solution condition
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Riddle or Condition Defeats Monster
+  relationship: functional_variant
+  confidence: medium
+  rationale: A monster destroyed when a solution condition is fulfilled suggests a
+    distinct riddle/condition defeat pattern rather than ordinary combat.
+  cautions: Could belong under sacred_knowledge if the solution is wisdom-centered,
+    or under invulnerable_monster_defeated if framed as a loophole weakness.
+  suggested_aliases:
+  - monster destroyed by solved condition
+  - riddle-monster self-destruction
+  - condition-triggered monster death
+  suggested_new_group:
+    id: condition_defeats_monster
+    label: Riddle or Condition Defeats Monster
+    description: A monster, demon, sphinx-like being, or threatening adversary is
+      defeated, destroyed, or neutralized when a required answer, riddle, condition,
+      name, or solution is supplied.
+    parent_group_ids:
+    - sacred_knowledge
+    - threshold_guardian
+    related_group_ids:
+    - divine_warrior
+    - sacred_combat
+    - initiation
+    reason_existing_groups_insufficient: Existing combat and threshold groups do not
+      capture the specific defeat mechanism in which knowledge or a fulfilled condition
+      destroys the threat.
+- suggestion_id: normalization.suggestion.monster-slaying-through-indirect-sight
+  motif_id: monster_slaying_through_indirect_sight
+  label: Monster-slaying through indirect sight
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Invulnerable Monster Defeated by Special Means
+  relationship: child
+  confidence: medium
+  rationale: Indirect sight is a special tactic that allows a monster to be defeated
+    despite dangerous or impossible direct confrontation.
+  cautions: May also fit sacred_treasures if a reflective object is essential, or
+    dream_and_vision if sight/perception is the central symbolic concern.
+  suggested_aliases:
+  - indirect sight defeats monster
+  - monster slain by reflection
+  - special perception monster-slaying
+  suggested_new_group:
+    id: invulnerable_monster_defeated
+    label: Invulnerable Monster Defeated by Special Means
+    description: A monster, demon, or adversary cannot be harmed by ordinary weapons
+      or conditions but is defeated through a special weapon, loophole, indirect tactic,
+      revealed weakness, or alternate means.
+    parent_group_ids:
+    - divine_warrior
+    - sacred_combat
+    related_group_ids:
+    - sacred_treasures
+    - sacred_knowledge
+    - dream_and_vision
+    reason_existing_groups_insufficient: Existing monster-combat placement would lose
+      the important mechanism of indirect perception as the means of victory.
+batch_notes:
+- Several items point to a possible durable monster-defeat subgroup, especially conditional
+  invulnerability, revealed weakness, indirect sight, and solution-triggered destruction.
+- Do not infer historical transmission from similar monster-slaying mechanisms across
+  traditions; these suggestions are only taxonomy placements.
+- Single-occurrence monster labels should remain provisional until source passages
+  confirm whether they are broad motifs or episode-specific details.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-model
+  reviewed_at: ''
+  notes: Provisional placements emphasize threshold function, sacred combat, special
+    defeat mechanisms, and over-specific labels needing evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0410
+  input_sha256: 2b236f573ed5cff49f6975908444c24ed8776c558eb02ec128d695ea0572e364

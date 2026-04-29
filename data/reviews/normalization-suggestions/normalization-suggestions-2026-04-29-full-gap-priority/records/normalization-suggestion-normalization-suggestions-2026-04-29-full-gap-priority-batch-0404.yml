@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0404
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.last-stand-of-the-outnumbered-warrior
+  motif_id: last_stand_of_the_outnumbered_warrior
+  label: last stand of the outnumbered warrior
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A final stand by an outnumbered warrior fits heroic combat and warrior
+    duty under sacred-combat/warrior patterns.
+  cautions: Single occurrence; Sufi context may make this metaphorical spiritual struggle
+    rather than literal heroic combat.
+  suggested_aliases:
+  - heroic last stand
+  - outnumbered warrior final stand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.last-survivor-lamenting-a-vanished-heroic-company
+  motif_id: last_survivor_lamenting_a_vanished_heroic_company
+  label: Last survivor lamenting a vanished heroic company
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on grief and remembrance for a lost heroic company,
+    matching lament and mourning.
+  cautions: Could secondarily relate to heroic funeral or sacred combat if the passage
+    emphasizes battle honors rather than lament.
+  suggested_aliases:
+  - last survivor lament
+  - lament for vanished heroic company
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.later-adornment-of-an-older-heroic-episode
+  motif_id: later_adornment_of_an_older_heroic_episode
+  label: later adornment of an older heroic episode
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes textual layering or editorial development, not a
+    narrative motif.
+  cautions: Preserve as provenance or reception metadata if useful; do not treat as
+    evidence of transmission in motif queries.
+  suggested_aliases:
+  - secondary adornment of heroic episode
+  - later embellishment of heroic episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.leap-above-a-weapon-attack
+  motif_id: leap_above_a_weapon_attack
+  label: leap above a weapon attack
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This appears to be a very specific combat maneuver rather than a broad
+    symbolic or narrative motif.
+  cautions: May be useful as episode evidence under sacred_combat only if part of
+    a recurring heroic feat pattern; otherwise exclude or keep as detail.
+  suggested_aliases:
+  - hero leaps over weapon attack
+  - evasive leap in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.legendary-island-war
+  motif_id: legendary_island_war
+  label: legendary island war
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad and location-based; it is unclear whether the function
+    is sacred combat, otherworld island, or a historical-legendary episode.
+  cautions: Avoid mapping solely from warfare wording; source context is needed to
+    distinguish mythic combat from place-specific legendary history.
+  suggested_aliases:
+  - island war legend
+  - mythic island conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-token-indicating-the-absent-hero-s-fate
+  motif_id: life_token_indicating_the_absent_hero_s_fate
+  label: life-token indicating the absent hero's fate
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: A life-token reflecting an absent hero's fate fits the external soul/life-token
+    complex already present in normalization.
+  cautions: If the token only reports fate without containing life-force, mark as
+    related omen or fate-token rather than full external soul.
+  suggested_aliases:
+  - fate-indicating life-token
+  - absent hero life-token
+  - life-token as fate sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.liminal-choice-of-shelter-after-ordeal
+  motif_id: liminal_choice_of_shelter_after_ordeal
+  label: liminal choice of shelter after ordeal
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase suggests aftermath of an ordeal but does not identify a stable
+    motif function without passage evidence.
+  cautions: Could be initiation, hero journey, threshold refuge, or merely a scene
+    detail; likely too contextual if not recurring.
+  suggested_aliases:
+  - choice of shelter after ordeal
+  - liminal refuge after trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.liminal-combat-at-a-ford
+  motif_id: liminal_combat_at_a_ford
+  label: liminal combat at a ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Single combat at a ford is explicitly included in the sacred_combat group
+    description as ritualized liminal warfare.
+  cautions: May also relate to threshold_guardian if passage emphasizes the ford as
+    guarded boundary rather than combat itself.
+  suggested_aliases:
+  - combat at a ford
+  - single combat at ford
+  - ford duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lone-hero-against-overwhelming-demon-host
+  motif_id: lone_hero_against_overwhelming_demon_host
+  label: lone hero against overwhelming demon host
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A lone hero fighting a demon host fits sacred combat against demons and
+    forces of disorder.
+  cautions: If the hero is not divine or cosmic-order focused, sacred_combat may be
+    the better broader group; preserve demon-host specificity.
+  suggested_aliases:
+  - hero against demon host
+  - single hero versus demon army
+  - lone warrior against demons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lone-hero-defeats-overwhelming-hostile-host
+  motif_id: lone_hero_defeats_overwhelming_hostile_host
+  label: lone hero defeats overwhelming hostile host
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lone hero defeating an overwhelming host belongs with heroic sacred
+    combat and divine-warrior victory patterns.
+  cautions: Less specifically cosmic than the demon-host variant; could be ordinary
+    heroic warfare unless sacred or cosmic stakes are present.
+  suggested_aliases:
+  - lone hero defeats army
+  - single hero defeats hostile host
+  - heroic victory against overwhelming odds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence combat details; human review should separate
+  reusable heroic-combat patterns from episode-specific action beats.
+- Do not infer historical contact or shared origin from these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions for conflict/heroic ordeal motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0404
+  input_sha256: e3f340fb61b908ffab81f90950f441df4dc748f0c80d62245298fef98d67e267

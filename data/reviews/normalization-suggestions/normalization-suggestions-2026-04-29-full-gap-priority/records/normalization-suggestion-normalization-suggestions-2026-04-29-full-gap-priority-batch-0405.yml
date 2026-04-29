@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0405
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.lone-hero-overthrows-a-demon-army
+  motif_id: lone_hero_overthrows_a_demon_army
+  label: lone hero overthrows a demon army
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A solitary hero defeating demon forces fits sacred combat against demonic
+    or chaotic powers.
+  cautions: Single occurrence; if the passage emphasizes ordinary battlefield heroics
+    rather than cosmic or sacred order, sacred_combat may be the better group.
+  suggested_aliases:
+  - single hero defeats demon army
+  - hero overthrows demon host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lone-hero-surrounded-but-resolved-to-stand
+  motif_id: lone_hero_surrounded_but_resolved_to_stand
+  label: lone hero surrounded but resolved to stand
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes heroic resolve in battle, broadly fitting the warrior
+    ordeal field.
+  cautions: May be an episode-specific character moment rather than a reusable motif;
+    preserve as evidence unless repeated.
+  suggested_aliases:
+  - hero surrounded but stands firm
+  - last stand of a lone hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lone-unaffected-hero-defends-a-disabled-people
+  motif_id: lone_unaffected_hero_defends_a_disabled_people
+  label: lone unaffected hero defends a disabled people
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: A lone defender in crisis may fit heroic sacred combat, but the generated
+    wording is contextual and sensitive.
+  cautions: Review source language around disability and whether the motif is heroic
+    protection, immunity from a curse, social marginalization, or a passage artifact.
+  suggested_aliases:
+  - lone hero defends incapacitated people
+  - unaffected defender protects afflicted community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lone-warrior-destroys-an-advance-detachment
+  motif_id: lone_warrior_destroys_an_advance_detachment
+  label: lone warrior destroys an advance detachment
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a specific battlefield feat within ritualized or heroic warfare.
+  cautions: Likely too tactical and episode-specific for a canonical motif; use only
+    as granular evidence under sacred combat.
+  suggested_aliases:
+  - single warrior destroys advance force
+  - lone warrior defeats vanguard
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lone-warrior-holding-a-ford-against-a-host
+  motif_id: lone_warrior_holding_a_ford_against_a_host
+  label: lone warrior holding a ford against a host
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Single combat at fords is explicitly within the sacred_combat group description
+    and Celtic battle patterning.
+  cautions: Could also relate to threshold_guardian if the ford is framed primarily
+    as a guarded boundary rather than a combat site.
+  suggested_aliases:
+  - ford combat against a host
+  - single warrior defends a ford
+  - lone warrior at the ford
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.low-status-mediator-rejected-by-powerful-combatants
+  motif_id: low_status_mediator_rejected_by_powerful_combatants
+  label: low-status mediator rejected by powerful combatants
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: low
+  rationale: The scene concerns failed mediation in a conflict setting, loosely related
+    to ritualized warfare.
+  cautions: May be a social-status or narrative-dialogue detail rather than a motif;
+    could fit sacred_law or royal_legitimacy if mediation concerns order and hierarchy.
+  suggested_aliases:
+  - rejected low-status mediator
+  - failed mediation by inferior figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lowly-stranger-reveals-hidden-heroic-strength
+  motif_id: lowly_stranger_reveals_hidden_heroic_strength
+  label: lowly stranger reveals hidden heroic strength
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Concealed identity or humbled appearance followed by revealed heroic
+    power fits a hero-journey recognition and ordeal pattern.
+  cautions: If the key feature is disguise or transformation, shapeshifter/trickster
+    may be relevant; if only a localized episode, keep as granular evidence.
+  suggested_aliases:
+  - hidden hero in lowly guise
+  - stranger reveals heroic strength
+  - concealed hero revealed by strength
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-retainers-tested-before-conflict
+  motif_id: loyal_retainers_tested_before_conflict
+  label: loyal retainers tested before conflict
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: Testing retainers before conflict concerns loyalty, hierarchy, and legitimate
+    social order around a ruler or hero.
+  cautions: May instead be an initiation or hero_journey testing scene; source context
+    is needed to determine whether kingship/order is central.
+  suggested_aliases:
+  - tested loyal retainers
+  - retainer loyalty test before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-weapon-binds-a-powerful-hero
+  motif_id: magic_weapon_binds_a_powerful_hero
+  label: magic weapon binds a powerful hero
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A magical weapon that binds a hero is a power object conferring supernatural
+    constraint in combat.
+  cautions: Could also index under divine_warrior if the weapon is primarily part
+    of sacred battle, or divine_intervention if activated by divine agency.
+  suggested_aliases:
+  - binding magical weapon
+  - weapon that binds a hero
+  - enchanted weapon restrains hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-weapon-mastery
+  motif_id: magic_weapon_mastery
+  label: magic weapon mastery
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: Mastery of a magical weapon centers on a sacred or power object granting
+    heroic ability.
+  cautions: If mastery is earned through ordeal or training, initiation may be a secondary
+    mapping; if it establishes rule, royal_legitimacy may apply.
+  suggested_aliases:
+  - mastery of magical weapon
+  - hero masters power weapon
+  - enchanted weapon mastery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence battlefield details; treat them as granular
+  evidence under existing combat or power-object groups unless recurrence supports
+  a more durable subtype.
+- No transmission or borrowing claim is implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements for conflict and heroic-combat labels; human review
+    should verify whether each passage has sacred/ritual function or is merely tactical
+    narrative detail.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0405
+  input_sha256: f6d5849ca737f207a149eccd264b5f0a06f6e35516919c189a860a6149c20cb2
