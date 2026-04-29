@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0217
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-celebration-after-heroic-demon-slaying
+  motif_id: divine_celebration_after_heroic_demon_slaying
+  label: divine celebration after heroic demon-slaying
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Celebration follows a heroic victory over a demon, fitting sacred combat
+    that restores order.
+  cautions: The celebration component may be episode-specific; verify that demon-slaying,
+    not ritual festivity, is the motif focus.
+  suggested_aliases:
+  - divine celebration after demon-slaying
+  - celebration after heroic victory over demon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-city-of-immortals
+  motif_id: divine_city_of_immortals
+  label: Divine city of immortals
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A divine city inhabited by immortals is best treated as an otherworldly
+    realm alongside ordinary reality.
+  cautions: If the city functions mainly as cosmic center or heaven reached by ascent,
+    axis_mundi or ascent may be secondary mappings.
+  suggested_aliases:
+  - city of immortals
+  - divine immortal city
+  - heavenly city of immortals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-cloud-compelling-epithet
+  motif_id: divine_cloud_compelling_epithet
+  label: divine cloud-compelling epithet
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a divine epithet or formulaic title rather than a
+    narrative or symbolic motif.
+  cautions: If a passage depicts actual weather command, index that event separately
+    under divine_intervention or sacred_waters as appropriate.
+  suggested_aliases:
+  - cloud-compelling epithet
+  - divine weather epithet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-combat-and-victory-over-enemies
+  motif_id: divine_combat_and_victory_over_enemies
+  label: Divine combat and victory over enemies
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: alias
+  confidence: high
+  rationale: The motif directly matches divine warrior combat and victory over enemies
+    or forces of disorder.
+  cautions: Do not assume chaos-monster combat unless the enemies are cosmological
+    threats in the source.
+  suggested_aliases:
+  - divine victory over enemies
+  - god wins sacred combat
+  - divine warrior victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-command-brings-a-human-into-being
+  motif_id: divine_command_brings_a_human_into_being
+  label: Divine command brings a human into being
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Creation of a human by divine command fits creation by sacred speech
+    or command within cosmic origin patterns.
+  cautions: If the passage is specifically about a miraculous birth or animation of
+    an individual, miraculous_child or divine_intervention may be more precise.
+  suggested_aliases:
+  - human created by divine command
+  - creation by divine command
+  - divine speech brings human into being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-command-mediated-by-messengers
+  motif_id: divine_command_mediated_by_messengers
+  label: divine command mediated by messengers
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A command delivered through messengers is divine guidance acting in human
+    or mythic affairs.
+  cautions: If the messenger's speech initiates a hero's departure or vocation, divine_call/initiation
+    may be a secondary fit.
+  suggested_aliases:
+  - divine command through messenger
+  - messenger-mediated divine command
+  - divine instruction by messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-command-over-battle-waters
+  motif_id: divine_command_over_battle_waters
+  label: divine command over battle waters
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity commanding waters in a battle context is direct supernatural
+    intervention in conflict.
+  cautions: Could also relate to sacred_waters or divine_warrior; avoid mapping to
+    flood_and_renewal unless world-destroying catastrophe and renewal are present.
+  suggested_aliases:
+  - god commands battle waters
+  - divine control of waters in battle
+  - battle waters under divine command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-command-over-retreating-waters
+  motif_id: divine_command_over_retreating_waters
+  label: divine command over retreating waters
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Retreating waters under divine command fit sacred waters as boundary,
+    danger, or transformed passage medium.
+  cautions: If the episode emphasizes divine action more than water symbolism, divine_intervention
+    should be primary; do not infer flood renewal without destruction-renewal evidence.
+  suggested_aliases:
+  - retreating waters by divine command
+  - divinely commanded waters recede
+  - waters retreat under divine command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-command-regulating-social-transition
+  motif_id: divine_command_regulating_social_transition
+  label: divine command regulating social transition
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine command governing social transition fits sacred law as divinely
+    grounded social regulation.
+  cautions: The label is abstract; source context is needed to distinguish law, covenant,
+    ritual transition, or passage-specific commentary.
+  suggested_aliases:
+  - divine regulation of social transition
+  - sacred command governing social transition
+  - divinely ordered social transition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-command-transmitted-through-dream-apparition
+  motif_id: divine_command_transmitted_through_dream_apparition
+  label: Divine command transmitted through dream apparition
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine instruction delivered by dream apparition is a dream-vision
+    form of revelation or guidance.
+  cautions: If the command initiates a vocation or journey, divine_call/initiation
+    may also be relevant.
+  suggested_aliases:
+  - divine command in dream
+  - dream apparition delivers command
+  - divine instruction through dream apparition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several labels combine divine agency with a medium such as water, dream, or messenger;
+  final mapping should follow the passage's primary narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Batch 0217 auto-suggested using existing canonical motif groups where possible;
+    one epithet label recommended for exclusion as textual/formulaic artifact.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0217
+  input_sha256: 599281dd5d36d7855722e5424aa998c091a0315eb76718208c14018e50aeb341

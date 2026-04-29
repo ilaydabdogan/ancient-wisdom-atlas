@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0213
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-allotment-of-lifespan-at-birth
+  motif_id: divine_allotment_of_lifespan_at_birth
+  label: Divine allotment of lifespan at birth
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divinely assigned lifespan at birth frames death and life-duration
+    as fixed by non-human destiny.
+  cautions: Could also involve sacred birth or divine judgment if the passage emphasizes
+    birth signs or moral allotment rather than fate.
+  suggested_aliases:
+  - lifespan allotted at birth
+  - divinely fixed lifespan
+  - fated lifespan
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-allotment-of-office
+  motif_id: divine_allotment_of_office
+  label: divine allotment of office
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine assignment of an office authorizes rank, succession, or social
+    order through sacred sanction.
+  cautions: If the office is not royal or civic authority, sacred_law or divine_intervention
+    may be better; source context needed.
+  suggested_aliases:
+  - divinely allotted office
+  - divine appointment to office
+  - sacred assignment of rank
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-ally-assists-revenge-against-household-usurpers
+  motif_id: divine_ally_assists_revenge_against_household_usurpers
+  label: Divine ally assists revenge against household usurpers
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The core pattern is direct divine assistance in a human conflict and
+    restoration of order.
+  cautions: May also index under divine_judgment or royal_legitimacy if revenge restores
+    legitimate rule; household detail is episode-specific.
+  suggested_aliases:
+  - divine ally aids vengeance
+  - god assists revenge against usurpers
+  - divine assistance against household usurpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-ally-defeats-giant-with-hurled-island
+  motif_id: divine_ally_defeats_giant_with_hurled_island
+  label: Divine ally defeats giant with hurled island
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: high
+  rationale: A divine ally defeating a giant belongs to sacred combat against monstrous
+    or chaos-like opponents.
+  cautions: The hurled island is likely episode-specific evidence and should not be
+    promoted unless it recurs.
+  suggested_aliases:
+  - god defeats giant
+  - divine combat with giant
+  - giant defeated by divine ally
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-ally-empowers-a-mortal-hero-against-a-god
+  motif_id: divine_ally_empowers_a_mortal_hero_against_a_god
+  label: divine ally empowers a mortal hero against a god
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on a god empowering a mortal actor in a conflict beyond
+    ordinary human capacity.
+  cautions: Could secondarily involve divine_warrior if the combat itself is the main
+    motif; avoid treating divine aid as proof of sacred combat without passage evidence.
+  suggested_aliases:
+  - divine empowerment of mortal hero
+  - god aids mortal against god
+  - divine ally strengthens hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-and-celestial-witnessing-of-royal-sacrifice
+  motif_id: divine_and_celestial_witnessing_of_royal_sacrifice
+  label: divine and celestial witnessing of royal sacrifice
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label explicitly describes a royal sacrifice ritually witnessed by
+    divine or celestial beings.
+  cautions: Royal witnessing may also support royal_legitimacy; keep the celestial-witness
+    detail as ritual evidence unless it recurs independently.
+  suggested_aliases:
+  - celestial witnessing of sacrifice
+  - gods witness royal sacrifice
+  - divine witnesses to royal offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-and-elemental-navigation-through-rapids
+  motif_id: divine_and_elemental_navigation_through_rapids
+  label: Divine and elemental navigation through rapids
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Navigating dangerous rapids with divine or elemental forces fits water
+    as perilous boundary and transformative passage.
+  cautions: If the passage is merely travel aid, divine_intervention or hero_journey
+    may be better; do not map to flood unless catastrophe-renewal is present.
+  suggested_aliases:
+  - supernatural navigation through rapids
+  - divine aid in water passage
+  - elemental water crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-and-heroic-feminine-exemplars-contrasted-with-human-social-order
+  motif_id: divine_and_heroic_feminine_exemplars_contrasted_with_human_social_order
+  label: divine and heroic feminine exemplars contrasted with human social order
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as an interpretive comparison of figures and social norms
+    rather than a clear recurring narrative motif.
+  cautions: Could belong to mother_goddess, sacred_law, royal_legitimacy, or gender/social-order
+    analysis depending on source evidence; may be a commentary artifact.
+  suggested_aliases:
+  - feminine exemplars contrasted with social order
+  - heroic women as social exemplars
+  - divine feminine exemplarity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-and-mortal-names-for-love
+  motif_id: divine_and_mortal_names_for_love
+  label: Divine and mortal names for love
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label concerns divine and human naming of love, fitting love as a
+    sacred or cosmic force.
+  cautions: May instead be a lexical or scholastic note about names; exclude if the
+    passage only records terminology without mythic function.
+  suggested_aliases:
+  - divine name for love
+  - mortal name for love
+  - dual naming of love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-animal-bearing-a-god-s-storm-weapons
+  motif_id: divine_animal_bearing_a_god_s_storm_weapons
+  label: Divine animal bearing a god's storm weapons
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: role_variant
+  confidence: medium
+  rationale: The storm weapons are divine power objects borne by an animal attendant
+    or vehicle.
+  cautions: If the animal itself is the focus, a future divine-animal or animal-helper
+    group may be needed; if combat is central, divine_warrior is a secondary fit.
+  suggested_aliases:
+  - animal bearer of divine weapons
+  - divine animal carrying storm weapons
+  - storm god's animal weapon bearer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  local details as evidence notes rather than creating narrow canonical motifs.
+- Divine assistance in conflict was generally placed under divine_intervention unless
+  the combat against giants/monsters is the dominant narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify passage context for
+    interpretive or commentary-like labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0213
+  input_sha256: 300572b0739cc994445faacf179f4deacace900a507fdafed1645e5fd34c5db7

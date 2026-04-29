@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0219
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-conflict-for-world-supremacy
+  motif_id: divine_conflict_for_world_supremacy
+  label: divine conflict for world supremacy
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A struggle among divine powers for world rule fits sacred combat that
+    establishes or maintains cosmic order.
+  cautions: Single occurrence; if the passage emphasizes sovereignty succession rather
+    than combat, royal_legitimacy may be a secondary placement.
+  suggested_aliases:
+  - divine struggle for cosmic sovereignty
+  - divine war for world rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-conflict-interrupted-by-another-deity
+  motif_id: divine_conflict_interrupted_by_another_deity
+  label: divine conflict interrupted by another deity
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The salient function is a deity intervening to alter or halt an ongoing
+    conflict.
+  cautions: Could belong under divine_warrior or sacred_combat if the conflict itself,
+    rather than the interruption, is the motif; source context needed.
+  suggested_aliases:
+  - deity interrupts divine conflict
+  - divine intervention in conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-consort-of-a-chief-god
+  motif_id: divine_consort_of_a_chief_god
+  label: Divine consort of a chief god
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: A divine consort role may relate to sacred marriage, sovereignty, or
+    mother goddess patterns, but the label alone is mostly a deity-relationship description.
+  cautions: May be personage metadata rather than a motif; review whether the consort
+    role has narrative or ritual function such as legitimizing rule, fertility, or
+    cosmic order.
+  suggested_aliases:
+  - chief god's consort
+  - divine spouse of chief deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-contest-aid-used-to-overcome-a-woman
+  motif_id: divine_contest_aid_used_to_overcome_a_woman
+  label: Divine contest aid used to overcome a woman
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines divine aid, contest, and gendered defeat without enough
+    evidence to identify a stable motif function.
+  cautions: Potentially sensitive and episode-specific; could be contest ordeal, coercion,
+    divine intervention, or a passage artifact depending on source details.
+  suggested_aliases:
+  - divine aid in contest against a woman
+  - contest won through divine assistance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-contest-around-the-golden-apple
+  motif_id: divine_contest_around_the_golden_apple
+  label: divine contest around the golden apple
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The golden apple functions as a divine power object or prize around which
+    divine rivalry forms.
+  cautions: Likely episode-specific; if the focus is beauty judgment or rivalry among
+    goddesses, a future contest/judgment group might fit better.
+  suggested_aliases:
+  - golden apple contest
+  - divine rivalry over golden apple
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-control-of-battle-through-weather-and-light
+  motif_id: divine_control_of_battle_through_weather_and_light
+  label: Divine control of battle through weather and light
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A deity directly manipulates natural forces to affect human battle, matching
+    divine intervention in human affairs.
+  cautions: Could also be indexed with divine_warrior if the deity's combat role is
+    central, or sacred_fire if light functions as divine radiance.
+  suggested_aliases:
+  - divine weather control in battle
+  - divine light affects battle
+  - supernatural weather in warfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-control-of-cosmic-alternation
+  motif_id: divine_control_of_cosmic_alternation
+  label: Divine control of cosmic alternation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Control over alternation suggests divine ordering of paired cosmic cycles
+    such as night/day or life/death.
+  cautions: If the passage emphasizes calendrical rhythm, sacred_time may fit better;
+    if it emphasizes absolute sovereignty, supreme_ruler may be relevant.
+  suggested_aliases:
+  - divine ordering of cosmic alternation
+  - divine control of cosmic cycles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-council-authorizes-intervention-in-human-war
+  motif_id: divine_council_authorizes_intervention_in_human_war
+  label: Divine council authorizes intervention in human war
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: A divine assembly deciding to intervene in human war is direct supernatural
+    governance of human affairs.
+  cautions: May also relate to divine_warrior or sacred_combat if the authorized action
+    is itself sacred warfare.
+  suggested_aliases:
+  - divine council permits war intervention
+  - gods authorize intervention in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-council-before-human-creation
+  motif_id: divine_council_before_human_creation
+  label: Divine council before human creation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: A divine deliberation preceding human creation belongs within creation
+    and origin motifs.
+  cautions: If the passage centers on hierarchy among spiritual beings or refusal
+    to honor humanity, divine_intervention or sacred_law may be secondary.
+  suggested_aliases:
+  - divine deliberation before human creation
+  - heavenly council before creation of humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-council-chooses-nonintervention
+  motif_id: divine_council_chooses_nonintervention
+  label: Divine council chooses nonintervention
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine council's decision not to act is still a divine governance pattern
+    shaping human events by withholding intervention.
+  cautions: Could be too episode-specific if it only explains plot delay; review whether
+    nonintervention has moral, fate, or cosmic-order significance.
+  suggested_aliases:
+  - divine council withholds intervention
+  - gods choose not to intervene
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern divine councils, conflict, and intervention;
+  consider whether a future 'divine council' subgroup is warranted if these recur
+  across sources.
+- Do not infer historical transmission from shared placement under divine_intervention
+  or divine_warrior.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements based on label semantics only; source passages should
+    be checked for narrative function and over-specific episode labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0219
+  input_sha256: 137ffe8800eef4e5594883422ad8a067edf20027418d75b580d091b7b883fa92

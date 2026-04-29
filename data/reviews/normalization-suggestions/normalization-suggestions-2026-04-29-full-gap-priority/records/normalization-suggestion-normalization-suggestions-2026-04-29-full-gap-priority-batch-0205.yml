@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0205
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cult-honor-for-divine-intervention-in-battle-at-sea
+  motif_id: cult_honor_for_divine_intervention_in_battle_at_sea
+  label: cult honor for divine intervention in battle at sea
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core pattern is cultic honor responding to a god's direct aid in
+    battle.
+  cautions: Could also be sacred_combat or divine_warrior if the battle function is
+    central; single occurrence is quite specific.
+  suggested_aliases:
+  - cult honor for divine aid
+  - votive honor for battle intervention
+  - divine intervention in naval battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cult-name-and-place-name-aetiology-from-divine-action
+  motif_id: cult_name_and_place_name_aetiology_from_divine_action
+  label: cult-name and place-name aetiology from divine action
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe an etiological story of divine action, but no
+    existing group cleanly covers cultic or toponymic aetiology.
+  cautions: May be a passage-specific explanatory note rather than a reusable motif;
+    review whether the divine action itself fits theophany, divine_intervention, or
+    sacred_law.
+  suggested_aliases:
+  - cult aetiology from divine action
+  - place-name aetiology
+  - toponymic aetiology
+  suggested_new_group:
+    id: cultic_aetiology
+    label: Cultic and Place-Name Aetiology
+    description: Stories explaining the origin of cult names, place names, rites,
+      local institutions, or sacred epithets through divine, heroic, or ritual action.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    related_group_ids:
+    - culture_hero
+    - theophany
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups capture divine action or
+      ritual law, but not the explanatory function of naming cults and places.
+- suggestion_id: normalization.suggestion.cult-transfer-and-divine-identification-across-regions
+  motif_id: cult_transfer_and_divine_identification_across_regions
+  label: Cult transfer and divine identification across regions
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a historical or scholarly observation about cult transfer
+    and interpretive identification rather than a narrative motif.
+  cautions: If the passage narrates a deity's migration or cult foundation, reconsider
+    under divine_intervention or a cultic_aetiology candidate; avoid treating this
+    as evidence of transmission in this task.
+  suggested_aliases:
+  - cult transfer across regions
+  - divine identification across regions
+  - regional cult syncretism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curse-establishes-a-forbidden-boundary
+  motif_id: curse_establishes_a_forbidden_boundary
+  label: curse establishes a forbidden boundary
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A curse creating a prohibited boundary functions as sacred prohibition
+    and boundary regulation.
+  cautions: Could belong with threshold_guardian if a guardian enforces passage, or
+    divine_judgment if the curse is punitive.
+  suggested_aliases:
+  - cursed forbidden boundary
+  - curse as prohibition
+  - sacred boundary by curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curse-lifted-from-a-wilderness-by-monster-s-defeat
+  motif_id: curse_lifted_from_a_wilderness_by_monster_s_defeat
+  label: curse lifted from a wilderness by monster’s defeat
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Defeating a monster removes a curse and restores order, fitting sacred
+    combat against disorder.
+  cautions: If the wilderness restoration is more important than combat, divine_judgment
+    or death_and_transformation may be secondary; label is episode-specific.
+  suggested_aliases:
+  - curse lifted by monster defeat
+  - monster defeat restores cursed land
+  - wilderness released from curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curse-of-reciprocal-bereavement
+  motif_id: curse_of_reciprocal_bereavement
+  label: Curse of reciprocal bereavement
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A curse imposing equivalent loss functions as moral consequence or retributive
+    judgment.
+  cautions: Could be lament_and_mourning if grief is the main function; verify that
+    the curse is a sacred or consequential force, not only a plot device.
+  suggested_aliases:
+  - reciprocal bereavement curse
+  - curse of equivalent loss
+  - retributive bereavement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curse-placed-after-kin-slaying-in-animal-form
+  motif_id: curse_placed_after_kin_slaying_in_animal_form
+  label: curse placed after kin-slaying in animal form
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines curse, kin-slaying, and animal transformation, and
+    the dominant function is unclear.
+  cautions: May fit divine_judgment, shapeshifter, sacred_law, or lament depending
+    on whether punishment, transformed identity, taboo violation, or grief is central.
+  suggested_aliases:
+  - curse after kin-slaying
+  - kin-slaying in animal form
+  - animal-form kin-slaying curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curse-producing-peoples-or-lineages
+  motif_id: curse_producing_peoples_or_lineages
+  label: curse producing peoples or lineages
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be an origin-of-lineage aetiology or a curse-as-creative transformation,
+    neither cleanly covered by current groups.
+  cautions: Review whether the motif concerns genealogy, social origin, divine judgment,
+    or etiological classification; avoid forcing into sacred_birth without evidence
+    of birth destiny.
+  suggested_aliases:
+  - curse creates lineage
+  - curse produces peoples
+  - lineage aetiology by curse
+  suggested_new_group:
+    id: lineage_origin_aetiology
+    label: Lineage and People-Origin Aetiology
+    description: Stories explaining the origin, differentiation, status, or destiny
+      of peoples, clans, castes, tribes, or lineages through divine action, curse,
+      blessing, ancestry, or transformation.
+    parent_group_ids:
+    - miraculous_child
+    - culture_hero
+    - divine_judgment
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing birth, kingship, and judgment groups
+      do not directly cover the explanatory origin of collective peoples or lineages.
+- suggestion_id: normalization.suggestion.curse-transformation-and-delayed-release
+  motif_id: curse_transformation_and_delayed_release
+  label: curse transformation and delayed release
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A curse that transforms a figure until later release fits punishment-transformation
+    and eventual restoration.
+  cautions: If release functions as salvation or rebirth, death_and_transformation
+    may be secondary; confirm the transformation is bodily or status-changing.
+  suggested_aliases:
+  - cursed transformation with release
+  - delayed release from curse
+  - punishment transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curse-transformed-into-blessing
+  motif_id: curse_transformed_into_blessing
+  label: curse transformed into blessing
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The reversal of curse into blessing implies sacred revaluation, mercy,
+    or moral repair after threatened harm.
+  cautions: Could also fit sacred_exchange or divine_intervention if prayer, intercession,
+    or divine aid drives the reversal; preserve local theological nuance.
+  suggested_aliases:
+  - curse becomes blessing
+  - reversal of curse
+  - blessing from curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern curses. Current groups can handle many as divine_judgment,
+  sacred_law, or shapeshifter variants, but a future curse/blessing normalization
+  group may be worth considering if many more recur.
+- Cult-transfer and divine-identification labels should be treated cautiously as possible
+  scholarly or transmission artifacts rather than motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; items with etiological, curse, or cult-transfer
+    wording need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0205
+  input_sha256: '016157699b50344d0f4a9c70f4354fd6d6f0a4f832cbf5c7ac7e9498cfd8706e'

@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0203
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cosmic-order-under-divine-sovereignty
+  motif_id: cosmic_order_under_divine_sovereignty
+  label: Cosmic order under divine sovereignty
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: broader_label
+  confidence: medium
+  rationale: The label centers on cosmic order grounded in divine rule, matching sovereignty
+    more than ritual sacrifice.
+  cautions: May be an abstract theological claim rather than a narrative motif; if
+    passage emphasizes law or moral reckoning, divine_judgment or sacred_law may be
+    secondary.
+  suggested_aliases:
+  - divine sovereignty over cosmic order
+  - cosmic sovereignty
+  - divine governance of cosmos
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-order-upheld-by-divine-permission
+  motif_id: cosmic_order_upheld_by_divine_permission
+  label: Cosmic order upheld by divine permission
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine permission maintaining the cosmos functions as an expression of
+    cosmic sovereignty.
+  cautions: Could also fit divine_intervention if the source describes a specific
+    act, or cosmic_origin if it concerns creation rather than ongoing maintenance.
+  suggested_aliases:
+  - cosmos upheld by divine leave
+  - divine permission sustains order
+  - sustained cosmic order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-praise-of-god
+  motif_id: cosmic_praise_of_god
+  label: cosmic praise of God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cosmic Praise and Universal Worship
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif describes all creation participating in praise or worship,
+    which is not cleanly covered by sovereignty, law, or theophany groups.
+  cautions: Single occurrence; may be doctrinal or poetic language rather than a durable
+    motif. Review alongside other praise, hymn, and cosmic liturgy labels before promotion.
+  suggested_aliases:
+  - universal praise of God
+  - creation praises God
+  - cosmic worship
+  - all beings praise the divine
+  suggested_new_group:
+    id: cosmic_praise_universal_worship
+    label: Cosmic Praise and Universal Worship
+    description: The cosmos, nature, angels, animals, or all beings are depicted as
+      praising, glorifying, worshiping, or bearing liturgical witness to the divine.
+    parent_group_ids:
+    - theophany
+    - sacred_knowledge
+    related_group_ids:
+    - supreme_ruler
+    - sacred_song
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing groups cover divine manifestation,
+      wisdom, song, and sovereignty, but not the recurring liturgical image of the
+      whole cosmos as worshiping subject.
+- suggestion_id: normalization.suggestion.cosmic-record-of-divine-decrees
+  motif_id: cosmic_record_of_divine_decrees
+  label: cosmic record of divine decrees
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cosmic record of decrees is a repository of hidden or divine knowledge
+    about fate and order.
+  cautions: If the passage emphasizes destiny and death, death_by_fate may be secondary;
+    if it is a concrete sacred object or book, sacred_treasures may also apply.
+  suggested_aliases:
+  - heavenly record
+  - record of divine decrees
+  - celestial book of fate
+  - cosmic register
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmos-and-nature-as-witnesses-of-divine-unity
+  motif_id: cosmos_and_nature_as_witnesses_of_divine_unity
+  label: cosmos and nature as witnesses of divine unity
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label concerns unity as a cosmic principle, which is closest to the
+    existing duality/complementarity field.
+  cautions: 'This is a weak fit: Sufi divine unity may be better treated under mystical_quest,
+    annihilation_union, or sacred_knowledge depending on source context. Human review
+    recommended before final indexing.'
+  suggested_aliases:
+  - nature witnesses divine unity
+  - cosmic witness to unity
+  - creation testifies to oneness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmos-as-divine-or-master-held-apparatus
+  motif_id: cosmos_as_divine_or_master_held_apparatus
+  label: Cosmos as divine or master-held apparatus
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The image may be a metaphor for divine sovereignty, spiritual mastery,
+    or a specific Sufi teaching device.
+  cautions: Highly contextual and metaphorical; source evidence is needed to decide
+    whether this belongs under supreme_ruler, mystical_quest, sacred_knowledge, or
+    should be excluded as passage-specific imagery.
+  suggested_aliases:
+  - cosmos as apparatus
+  - world as master-held instrument
+  - cosmic device in divine hands
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmos-as-divine-organism
+  motif_id: cosmos_as_divine_organism
+  label: cosmos as divine organism
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may express mystical unity, cosmic body imagery, or theological
+    metaphor, but the label alone does not identify its narrative function.
+  cautions: Do not merge automatically with primordial_sacrifice or body-as-landscape
+    unless a body creates or structures the world. Review for Sufi metaphysical context.
+  suggested_aliases:
+  - cosmic organism
+  - world as divine body
+  - living cosmos
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.council-broken-by-divine-alarm-and-mass-mobilization
+  motif_id: council_broken_by_divine_alarm_and_mass_mobilization
+  label: Council broken by divine alarm and mass mobilization
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine alarm disrupting council and mobilizing a group is direct divine
+    action redirecting human or collective affairs.
+  cautions: This may be an episode-specific battle or assembly detail; if the passage
+    centers on warfare, sacred_combat or divine_warrior may be secondary.
+  suggested_aliases:
+  - divine alarm mobilizes council
+  - divine summons to action
+  - council interrupted by divine warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.covered-sacred-image-remains-visible
+  motif_id: covered_sacred_image_remains_visible
+  label: covered sacred image remains visible
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate theophany, sacred image paradox, or a local visionary
+    metaphor, but function is unclear.
+  cautions: Could be too passage-specific. If the image manifests divine presence
+    despite concealment, theophany fits; if it concerns an object, sacred_treasures
+    may be relevant.
+  suggested_aliases:
+  - veiled sacred image remains visible
+  - concealed image revealed
+  - visible hidden sacred image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.craft-feat-performed-through-three-ritualized-blows
+  motif_id: craft_feat_performed_through_three_ritualized_blows
+  label: craft feat performed through three ritualized blows
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: high
+  rationale: A craft achievement performed through ritualized blows fits sacred craft
+    and empowered making.
+  cautions: The number three and blow sequence should be preserved as evidence detail;
+    do not create a separate motif unless similar ritualized craft sequences recur.
+  suggested_aliases:
+  - ritualized craft blows
+  - three blows craft feat
+  - sacred craft by three strikes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Islamic and Sufi labels in this batch are abstract theological or metaphysical
+  statements; human review should verify passage-level motif function before final
+  mapping.
+- Do not infer transmission or common origin from the proposed placements; these are
+  only normalization suggestions for query grouping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for taxonomy review; low-confidence
+    Sufi cosmic-metaphor labels need source context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0203
+  input_sha256: 29813cbe2165bae9a73d4ffa22d8f5dd48c36ed7f379fcc545bdb9fe68a4cf43

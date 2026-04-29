@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0202
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.contested-sacred-wine-imagery
+  motif_id: contested_sacred_wine_imagery
+  label: contested sacred wine imagery
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Sufi wine imagery often marks divine love, mystical intoxication, or
+    contested sacred symbolism, but the label emphasizes interpretive contestation
+    rather than a clear motif function.
+  cautions: May be commentary about poetic imagery or religious controversy rather
+    than a narrative motif; review passage evidence before indexing.
+  suggested_aliases:
+  - sacred wine imagery
+  - mystical wine imagery
+  - divine intoxication imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continual-divine-annihilation-and-recreation
+  motif_id: continual_divine_annihilation_and_recreation
+  label: continual divine annihilation and recreation
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The wording aligns with Sufi annihilation/renewal concepts and the existing
+    annihilation_union child under mystical_quest.
+  cautions: If the passage describes cosmology rather than interior mystical transformation,
+    cosmic_origin or death_and_transformation may be secondary mappings.
+  suggested_aliases:
+  - continual annihilation and recreation
+  - divine annihilation and renewal
+  - annihilation and recreation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continuity-of-sacred-landscape-after-cultic-disappearance
+  motif_id: continuity_of_sacred_landscape_after_cultic_disappearance
+  label: continuity of sacred landscape after cultic disappearance
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: A persistent sacred landscape may involve sacred centers or holy places,
+    but the label reads like comparative/reception analysis.
+  cautions: Likely an interpretive or historical-continuity note rather than a motif;
+    exclude if it only describes cult history rather than narrative sacred place function.
+  suggested_aliases:
+  - persistent sacred landscape
+  - sacred landscape continuity
+  - cultic disappearance and sacred place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corruption-and-restoration-of-a-sacred-or-canonical-poetic-corpus
+  motif_id: corruption_and_restoration_of_a_sacred_or_canonical_poetic_corpus
+  label: corruption and restoration of a sacred or canonical poetic corpus
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label concerns textual transmission, canon, corruption, and restoration
+    rather than a symbolic narrative motif.
+  cautions: Preserve as provenance or textual-history metadata if useful; do not use
+    as pattern evidence unless a source narrativizes the corpus as sacred power.
+  suggested_aliases:
+  - textual corruption and restoration
+  - restoration of canonical poetic corpus
+  - sacred corpus restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corruption-of-sacred-writing-for-material-gain
+  motif_id: corruption_of_sacred_writing_for_material_gain
+  label: Corruption of sacred writing for material gain
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Distorting sacred writing for gain is a transgression against revealed
+    law and moral order.
+  cautions: Could also index under divine_judgment if punishment or reckoning is central,
+    or sacred_knowledge if the focus is corruption of revelation.
+  suggested_aliases:
+  - corrupting sacred writing
+  - scripture altered for gain
+  - selling sacred text for gain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-creation-by-divine-power
+  motif_id: cosmic_creation_by_divine_power
+  label: cosmic creation by divine power
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: broader_label
+  confidence: high
+  rationale: The motif directly describes creation of the cosmos by divine agency,
+    fitting the cosmic_origin group.
+  cautions: Preserve the specific mode of creation if the passage emphasizes speech,
+    command, decree, or power.
+  suggested_aliases:
+  - divine creation of the cosmos
+  - creation by divine power
+  - cosmos created by God
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-creation-in-six-days-without-divine-fatigue
+  motif_id: cosmic_creation_in_six_days_without_divine_fatigue
+  label: cosmic creation in six days without divine fatigue
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Six-day creation is a specific cosmogonic ordering motif under cosmic
+    origin.
+  cautions: The 'without divine fatigue' clause is doctrinally important; preserve
+    it as evidence detail rather than flattening to generic creation.
+  suggested_aliases:
+  - six-day creation without fatigue
+  - creation in six days
+  - divine creation without weariness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-decree-and-instant-divine-command
+  motif_id: cosmic_decree_and_instant_divine_command
+  label: cosmic decree and instant divine command
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Instant divine command commonly functions as creation or ordering by
+    sacred speech/decree.
+  cautions: If the passage is about predestination or judgment rather than creation,
+    divine_judgment or sacred_law may be better secondary placements.
+  suggested_aliases:
+  - instant divine command
+  - divine decree creates
+  - creation by decree
+  - be and it is
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-light-threatened-by-divine-grief
+  motif_id: cosmic_light_threatened_by_divine_grief
+  label: cosmic light threatened by divine grief
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Cosmic light fits sacred_fire/divine light, but being threatened by divine
+    grief is highly contextual.
+  cautions: May be an episode-specific poetic image; review whether light has recurring
+    divine-presence function or is only a literary effect.
+  suggested_aliases:
+  - divine grief threatens light
+  - cosmic light imperiled
+  - grief darkens cosmic light
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-order-falls-silent-before-supreme-divine-speech
+  motif_id: cosmic_order_falls_silent_before_supreme_divine_speech
+  label: cosmic order falls silent before supreme divine speech
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Cosmic silence before supreme divine speech functions as an overwhelming
+    manifestation of sacred authority.
+  cautions: If the passage emphasizes creation or ordering by speech rather than manifestation,
+    cosmic_origin or sacred_knowledge may be secondary mappings.
+  suggested_aliases:
+  - cosmic silence before divine speech
+  - supreme divine speech stills cosmos
+  - cosmos silent before god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; several one-off labels may be
+  poetic or commentary artifacts rather than reusable motifs.
+- No transmission or borrowing claims are implied by shared group placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Human review recommended for contested wine imagery, sacred landscape continuity,
+    and episode-specific cosmic light/grief imagery.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0202
+  input_sha256: c8886e89cdfbe241df8b746c18be408b7a0467b32f9ea4aa27188811547ace84

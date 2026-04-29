@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0228
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-intervention-in-heroic-conflict
+  motif_id: divine_intervention_in_heroic_conflict
+  label: Divine intervention in heroic conflict
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The label directly describes sacred powers acting in human heroic conflict,
+    matching divine_intervention.
+  cautions: May also be indexed secondarily with sacred_combat or divine_warrior if
+    the combat establishes cosmic or moral order.
+  suggested_aliases:
+  - divine aid in heroic combat
+  - god intervenes in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-in-single-combat
+  motif_id: divine_intervention_in_single_combat
+  label: divine intervention in single combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A god's action within single combat is a specific case of direct divine
+    action in human affairs.
+  cautions: Single-combat setting may support sacred_combat as a secondary review
+    tag, but the primary function is intervention.
+  suggested_aliases:
+  - divine aid in single combat
+  - god intervenes in duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-opposed-by-another-god
+  motif_id: divine_intervention_opposed_by_another_god
+  label: divine intervention opposed by another god
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is divine intervention, with added detail that another
+    deity counters it.
+  cautions: If the passage emphasizes divine rivalry more than human guidance or aid,
+    a future divine-conflict subgroup may be useful.
+  suggested_aliases:
+  - countered divine intervention
+  - opposed divine aid
+  - divine intervention contested by another deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-prevents-a-successful-human-strike
+  motif_id: divine_intervention_prevents_a_successful_human_strike
+  label: divine intervention prevents a successful human strike
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A deity blocks or redirects human action, a clear intervention in human
+    affairs.
+  cautions: May overlap with divine_judgment if the blocked strike is framed as punishment
+    or moral reckoning.
+  suggested_aliases:
+  - god prevents a human blow
+  - divine prevention of successful attack
+  - divine blocking of a strike
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-releases-war
+  motif_id: divine_intervention_releases_war
+  label: Divine intervention releases war
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a divine act that changes human events by unleashing
+    conflict.
+  cautions: Could fit sacred_combat or divine_warrior if the war has explicit sacred/cosmic-order
+    significance; source context should confirm.
+  suggested_aliases:
+  - divine unleashing of war
+  - god releases warfare
+  - sacred power initiates war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-restrains-imminent-violence
+  motif_id: divine_intervention_restrains_imminent_violence
+  label: Divine intervention restrains imminent violence
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A sacred power directly halts or restrains a violent human action.
+  cautions: If the restraint serves legal or moral reckoning, divine_judgment may
+    be a secondary mapping.
+  suggested_aliases:
+  - god restrains violence
+  - divine halting of violence
+  - divine restraint of attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-surpassing-human-healing-art
+  motif_id: divine_intervention_surpassing_human_healing_art
+  label: divine intervention surpassing human healing art
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine healing beyond human skill is direct sacred intervention in human
+    affliction.
+  cautions: If healing is mediated by a sacred object or ritual exchange, sacred_treasures
+    or sacred_exchange may be relevant secondarily.
+  suggested_aliases:
+  - divine healing beyond human art
+  - god surpasses human medicine
+  - supernatural healing intervention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-to-protect-or-halt-warriors
+  motif_id: divine_intervention_to_protect_or_halt_warriors
+  label: divine intervention to protect or halt warriors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Protection or restraint of warriors by a deity is a direct divine action
+    in human affairs.
+  cautions: Warrior context may warrant secondary sacred_combat or divine_warrior
+    indexing depending on passage emphasis.
+  suggested_aliases:
+  - divine protection of warriors
+  - god halts warriors
+  - divine restraint in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-to-renew-human-courage
+  motif_id: divine_intervention_to_renew_human_courage
+  label: Divine intervention to renew human courage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A deity strengthening courage is guidance or aid that directly alters
+    human capacity.
+  cautions: Could overlap with initiation if the renewed courage marks a transformative
+    ordeal, but the label itself centers on intervention.
+  suggested_aliases:
+  - divine renewal of courage
+  - god inspires courage
+  - divine strengthening of morale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-triggered-by-a-crisis-sign
+  motif_id: divine_intervention_triggered_by_a_crisis_sign
+  label: Divine intervention triggered by a crisis sign
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes sacred intervention responding to a sign in a moment
+    of crisis.
+  cautions: The nature of the sign may instead place the episode under dream_and_vision
+    or divine_judgment; Buddhist context should be reviewed carefully for non-theistic
+    agency wording.
+  suggested_aliases:
+  - crisis sign prompts divine aid
+  - sacred intervention after omen
+  - intervention triggered by portent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All items are granular variants of divine action in human crisis, combat, or healing;
+  none require a new group on label evidence alone.
+- Where the passage emphasizes war structure, heroic combat, or cosmic order, reviewers
+  may add secondary mappings to sacred_combat or divine_warrior.
+- Avoid treating these placements as evidence of transmission between Greek, Roman,
+  and Buddhist traditions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; source passages should confirm whether
+    each item is a narrative motif rather than episode-specific phrasing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0228
+  input_sha256: db8e39bf7dfb8088a59b2da5e1747d9dd3c7b263c3dfa10eddfe03459d3d608d

@@ -1,0 +1,312 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0209
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.devotional-preservation-of-a-holy-person-s-bodily-traces
+  motif_id: devotional_preservation_of_a_holy_person_s_bodily_traces
+  label: devotional preservation of a holy person's bodily traces
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe relic-like devotional treatment of a holy
+    person's bodily remains or traces, but no existing group cleanly covers relic
+    veneration.
+  cautions: Could be a devotional relic motif, a ritual purity issue, a saint-veneration
+    practice, or a passage-specific historical detail; culturally sensitive source
+    context is needed.
+  suggested_aliases:
+  - relic_veneration
+  - holy_person_bodily_traces
+  - devotional_preservation_of_relics
+  suggested_new_group:
+    id: relic_veneration
+    label: Relic Veneration and Holy Bodily Traces
+    description: Devotional preservation, honoring, or ritual use of a holy person's
+      body, bodily traces, garments, tomb, or contact objects as carriers of sacred
+      presence or blessing.
+    parent_group_ids:
+    - sacred_treasures
+    - sacred_exchange
+    - divine_intervention
+    related_group_ids:
+    - ancestor_rites
+    - heroic_funeral_rites
+    - sacred_law
+    reason_existing_groups_insufficient: Sacred_treasures covers power objects generally,
+      but does not capture the specific devotional and bodily-presence logic of relics
+      or traces of holy persons.
+- suggestion_id: normalization.suggestion.devouring-sea-monster-defeated-by-repulsive-offering
+  motif_id: devouring_sea_monster_defeated_by_repulsive_offering
+  label: devouring sea monster defeated by repulsive offering
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The decisive action is an offering used to redirect or defeat a dangerous
+    being, fitting exchange or coercive ritual action more than ordinary combat.
+  cautions: If the passage emphasizes monster combat rather than offering logic, sacred_combat
+    or threshold_guardian may be secondary; the repulsive-offering detail may be over-specific.
+  suggested_aliases:
+  - monster_defeated_by_offering
+  - repulsive_offering_against_monster
+  - ritual_offering_to_defeat_devourer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dietary-taboo-with-emergency-exception
+  motif_id: dietary_taboo_with_emergency_exception
+  label: Dietary taboo with emergency exception
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A dietary prohibition and its permitted exception are legal-ritual regulation
+    within sacred law.
+  cautions: Preserve the emergency-exception nuance; this is not sacrifice unless
+    the passage involves offering or slaughter ritual.
+  suggested_aliases:
+  - dietary_prohibition_with_exception
+  - emergency_exception_to_food_taboo
+  - sacred_dietary_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directional-divine-elephants
+  motif_id: directional_divine_elephants
+  label: Directional divine elephants
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Directional divine elephants likely function as cosmic supports or guardians
+    organizing sacred space and directions.
+  cautions: If the evidence centers on animal divinity rather than cosmic directionality,
+    a future sacred-animal/cosmic-guardian group may be better; verify source context.
+  suggested_aliases:
+  - world_supporting_elephants
+  - elephants_of_the_directions
+  - directional_guardian_elephants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disguised-catastrophe-mistaken-for-blessing
+  motif_id: disguised_catastrophe_mistaken_for_blessing
+  label: disguised catastrophe mistaken for blessing
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A seeming blessing revealed as catastrophe often functions as sacred
+    testing, punishment, or moral reversal.
+  cautions: Could instead be wisdom/paradox, pride-and-downfall, or a narrative irony
+    artifact depending on whether divine judgment is explicit.
+  suggested_aliases:
+  - catastrophe_misrecognized_as_blessing
+  - apparent_blessing_as_punishment
+  - hidden_judgment_in_blessing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disguised-figure-extinguishing-ritual-fire
+  motif_id: disguised_figure_extinguishing_ritual_fire
+  label: disguised figure extinguishing ritual fire
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines disguise, ritual fire, and disruption; the dominant
+    function is unclear from the label alone.
+  cautions: May belong under trickster, sacred_fire, sacrifice, or ritual pollution/disruption;
+    could be an over-specific comparative motif requiring source evidence.
+  suggested_aliases:
+  - ritual_fire_extinguished_by_disguised_figure
+  - disguised_disruptor_of_sacred_fire
+  - extinguishing_sacred_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disorderly-intrusion-into-ritualized-feast
+  motif_id: disorderly_intrusion_into_ritualized_feast
+  label: disorderly intrusion into ritualized feast
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A disorderly intrusion into a formal ritual feast marks boundary violation
+    and disruption of ordered sacred/social space.
+  cautions: If the intrusion triggers punishment or pollution, divine_judgment or
+    sacred_law may be secondary; if it is merely a plot detail, do not promote further.
+  suggested_aliases:
+  - ritual_feast_disrupted
+  - intrusion_into_sacred_feast
+  - feast_boundary_violation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dissolution-of-oaths-by-divine-permission
+  motif_id: dissolution_of_oaths_by_divine_permission
+  label: Dissolution of oaths by divine permission
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: narrower_than
+  confidence: high
+  rationale: Oaths are binding sacred commitments, and their divinely permitted release
+    is a variant of covenantal obligation and repair.
+  cautions: If the passage treats this as legal instruction rather than narrative
+    motif, sacred_law may be a useful secondary index.
+  suggested_aliases:
+  - divinely_permitted_oath_release
+  - release_from_oath
+  - sacred_oath_dissolution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distinct-heroic-age-of-demi-gods
+  motif_id: distinct_heroic_age_of_demi_gods
+  label: distinct heroic age of demi-gods
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This names a mythic-historical age or race of semi-divine heroes, not
+    a clear action motif in existing groups.
+  cautions: Could fit divine_race, hero_journey, sacred_time, or textual periodization;
+    review whether it is a cosmological age motif or scholarly classification.
+  suggested_aliases:
+  - heroic_age
+  - age_of_demigods
+  - semi_divine_heroic_race
+  suggested_new_group:
+    id: mythic_ages
+    label: Mythic Ages and World Eras
+    description: Narratives or schemes dividing sacred history into distinct ages,
+      races, or eras, such as golden ages, heroic ages, declining world ages, or semi-divine
+      generations.
+    parent_group_ids:
+    - sacred_time
+    - cosmic_origin
+    related_group_ids:
+    - divine_race
+    - death_and_transformation
+    - divine_judgment
+    reason_existing_groups_insufficient: Sacred_time covers ritual cycles, but not
+      durable cosmological periodization into world ages or heroic generations.
+- suggestion_id: normalization.suggestion.divine-act-of-humanity-contrasted-with-divine-cruelty
+  motif_id: divine_act_of_humanity_contrasted_with_divine_cruelty
+  label: divine act of humanity contrasted with divine cruelty
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as an ethical contrast or interpretive theme about divine
+    character rather than a stable narrative motif.
+  cautions: May be a commentary artifact unless the passage has a recurring structure
+    of merciful divine intervention contrasted with destructive divine action.
+  suggested_aliases:
+  - divine_mercy_contrasted_with_cruelty
+  - humane_divine_act
+  - ambivalent_divine_morality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and composite; preserve local
+  evidence details rather than promoting them directly to taxonomy motifs.
+- Do not infer transmission or borrowing from comparative labels; placements here
+  are only query-facet suggestions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0209
+  input_sha256: 7886f2e13037739d8465f1732b25937b8c86fec34458b22381ce5bef4c7e8d4b

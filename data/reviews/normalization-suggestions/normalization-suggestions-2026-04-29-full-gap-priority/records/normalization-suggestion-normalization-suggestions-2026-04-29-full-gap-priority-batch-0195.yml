@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0195
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.autonomous-magic-weapon-of-a-god
+  motif_id: autonomous_magic_weapon_of_a_god
+  label: Autonomous magic weapon of a god
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine weapon with autonomous magical agency is best treated as a power
+    object unless the battle function dominates.
+  cautions: Single occurrence; if the passage emphasizes combat establishing order,
+    secondary review under divine_warrior or sacred_combat may be warranted.
+  suggested_aliases:
+  - self-acting divine weapon
+  - autonomous divine weapon
+  - magic weapon of a god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenger-of-the-swallowed-god
+  motif_id: avenger_of_the_swallowed_god
+  label: avenger of the swallowed god
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: An avenger role after a god is swallowed may fit sacred combat, but the
+    label is episode-specific and depends on source context.
+  cautions: Could involve vengeance, monster-slaying, succession, or a textual summary
+    of one Norse episode; verify before indexing broadly.
+  suggested_aliases:
+  - avenger of consumed deity
+  - avenger of swallowed god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-as-divine-or-celestial-dance
+  motif_id: battle_as_divine_or_celestial_dance
+  label: battle as divine or celestial dance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label sacralizes battle through celestial or divine dance imagery,
+    fitting ritualized sacred combat.
+  cautions: If the passage centers on the dance as theophany or cosmic manifestation
+    rather than battle, theophany may be a better secondary mapping.
+  suggested_aliases:
+  - celestial dance of battle
+  - divine dance as battle
+  - battle dance of the gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-associated-female-ritual-specialists
+  motif_id: battle_associated_female_ritual_specialists
+  label: battle-associated female ritual specialists
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: low
+  rationale: Female ritual specialists linked to battle may belong with ritual warfare,
+    but the label is socioreligious and culturally specific.
+  cautions: Could refer to valkyries, seeresses, priestesses, or scholarly classification;
+    needs evidence before treating as motif rather than role description.
+  suggested_aliases:
+  - female battle ritualists
+  - war-associated ritual women
+  - battle-linked female specialists
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-god-s-weapon-signal
+  motif_id: battle_god_s_weapon_signal
+  label: battle god's weapon signal
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A battle god using a weapon as a signal fits the divine warrior's agency
+    in directing or initiating sacred combat.
+  cautions: Could also be a sacred_treasures item if the weapon itself, rather than
+    divine battle command, is central.
+  suggested_aliases:
+  - weapon signal of battle god
+  - divine weapon signal
+  - battle-god weapon omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-magnified-by-divine-war-simile
+  motif_id: battle_magnified_by_divine_war_simile
+  label: battle magnified by divine-war simile
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording identifies a literary simile or magnification device rather
+    than a recurrent narrative motif.
+  cautions: If the passage actually describes gods fighting within the battle, index
+    that separately under divine_warrior or sacred_combat.
+  suggested_aliases:
+  - divine-war simile
+  - battle magnification by simile
+  - literary divine battle comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-of-gods-within-a-human-war
+  motif_id: battle_of_gods_within_a_human_war
+  label: battle of gods within a human war
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Gods fighting through or alongside a human war is a clear divine-warrior
+    and sacred-combat pattern.
+  cautions: May also relate to divine_intervention if the focus is divine involvement
+    in human affairs rather than combat itself.
+  suggested_aliases:
+  - gods battle within human war
+  - divine combat in human battle
+  - theomachy within human war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-slaughter-goddesses
+  motif_id: battlefield_slaughter_goddesses
+  label: battlefield slaughter goddesses
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Goddesses personifying or enacting battlefield slaughter are divine combat
+    agents within the sacred-war field.
+  cautions: If they function primarily as death daimons, fate figures, or poetic personifications,
+    human review may choose death_by_fate or exclude as literary detail.
+  suggested_aliases:
+  - slaughter goddesses on the battlefield
+  - battlefield death goddesses
+  - goddesses of battle slaughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-vow-restores-heroic-action
+  motif_id: battlefield_vow_restores_heroic_action
+  label: Battlefield vow restores heroic action
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vow that reactivates heroic duty is a binding speech-act organizing
+    action and obligation.
+  cautions: Could also fit sacred_combat or sacrifice if the vow entails self-offering,
+    vengeance, or death in battle; review passage function.
+  suggested_aliases:
+  - battlefield vow of action
+  - vow restoring heroic duty
+  - heroic action restored by vow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-s-vow-of-exclusive-attachment
+  motif_id: beloved_s_vow_of_exclusive_attachment
+  label: beloved's vow of exclusive attachment
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A beloved's exclusive vow centers on binding love and attachment, fitting
+    the sacred-love and longing complex.
+  cautions: If the emphasis is legal oath, geis, or marriage alliance rather than
+    love, covenant or sacred_marriage may be better secondary mappings.
+  suggested_aliases:
+  - exclusive attachment vow
+  - beloved's exclusive vow
+  - vow of faithful attachment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several battle-related labels are single-occurrence and may need secondary review
+  to distinguish sacred combat from literary simile, divine intervention, or episode-specific
+  heroic warfare.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_model
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch-0195; human review
+    recommended especially for culturally specific ritual roles and over-specific
+    battle labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0195
+  input_sha256: c878c2605e33fce3eb1d5cbe8bfe4e7272cdf8fdd9cd8679a6a1dc3967861bfe

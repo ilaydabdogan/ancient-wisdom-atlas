@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0235
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-person-forbidden-to-touch-the-earth
+  motif_id: divine_person_forbidden_to_touch_the_earth
+  label: divine person forbidden to touch the earth
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo preventing a sacred person from touching the earth fits ritual
+    prohibition and purity-boundary logic.
+  cautions: Could instead involve royal sacrality, divine embodiment, or ethnographic
+    detail; needs source context before final indexing.
+  suggested_aliases:
+  - sacred person earth-contact taboo
+  - divine body purity taboo
+  - ritual prohibition on touching earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-petition-to-a-high-god-on-behalf-of-a-hero
+  motif_id: divine_petition_to_a_high_god_on_behalf_of_a_hero
+  label: Divine petition to a high god on behalf of a hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity interceding with a higher god on a hero's behalf is divine mediation
+    in human or heroic affairs.
+  cautions: May be an episode-specific plot mechanism; if focused on heroic destiny,
+    hero_journey may be a secondary context.
+  suggested_aliases:
+  - divine intercession for hero
+  - god petitions high god for hero
+  - divine mediation on behalf of hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-possession-of-cosmic-treasure-and-true-might
+  motif_id: divine_possession_of_cosmic_treasure_and_true_might
+  label: Divine possession of cosmic treasure and true might
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label centers on divine ownership of a cosmic treasure associated
+    with power, fitting sacred treasures at a broad level.
+  cautions: May be theological praise or a textual epithet rather than a narrative
+    motif; review whether an actual object or treasure functions in the passage.
+  suggested_aliases:
+  - cosmic treasure of divine might
+  - divine cosmic treasure
+  - sacred treasure conferring might
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-possession-of-humans
+  motif_id: divine_possession_of_humans
+  label: divine possession of humans
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Spirit Possession and Divine Indwelling
+  relationship: functional_variant
+  confidence: medium
+  rationale: Possession of humans by divine or spirit powers is a recurring religious
+    pattern not cleanly held by theophany or divine intervention.
+  cautions: Culturally sensitive and broad; distinguish voluntary trance, coercive
+    possession, oracle mediumship, illness, and metaphorical inspiration.
+  suggested_aliases:
+  - spirit possession
+  - divine indwelling
+  - deity possesses human
+  - possession trance
+  - god enters human medium
+  suggested_new_group:
+    id: spirit_possession
+    label: Spirit Possession and Divine Indwelling
+    description: A deity, spirit, ancestor, or sacred power enters, inhabits, speaks
+      through, controls, afflicts, or empowers a human body or medium, whether in
+      ritual trance, oracle speech, healing, inspiration, or dangerous possession.
+    parent_group_ids:
+    - divine_intervention
+    - theophany
+    - dream_and_vision
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_law
+    - soul_loss_restoration
+    reason_existing_groups_insufficient: Existing groups cover manifestation, intervention,
+      vision, and spirit affliction, but not the distinctive embodiment/indwelling
+      function of possession.
+- suggestion_id: normalization.suggestion.divine-power-over-prosperity-through-child-plutus
+  motif_id: divine_power_over_prosperity_through_child_plutus
+  label: divine power over prosperity through child Plutus
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: uncertain
+  confidence: low
+  rationale: The child figure Plutus could connect sacred child imagery with prosperity,
+    but the label is highly deity-specific.
+  cautions: May be a personified wealth deity rather than a child-destiny motif; could
+    also belong to agricultural prosperity, divine abundance, or commentary on iconography.
+  suggested_aliases:
+  - Plutus as divine child of prosperity
+  - child wealth deity
+  - divine child controlling prosperity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-power-that-compels-love-across-gods-humans-and-animals
+  motif_id: divine_power_that_compels_love_across_gods_humans_and_animals
+  label: Divine power that compels love across gods, humans, and animals
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A divine force compelling love across all beings fits love as cosmic
+    or sacred power.
+  cautions: If the passage emphasizes coercive erotic madness or a named deity's domain,
+    preserve that local specificity and consider divine_intervention as secondary.
+  suggested_aliases:
+  - cosmic power of love
+  - divine compulsion of love
+  - love compelling gods humans and animals
+  - Eros as universal force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-powers-governing-agricultural-success
+  motif_id: divine_powers_governing_agricultural_success
+  label: divine powers governing agricultural success
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: medium
+  rationale: Agricultural success governed by divine powers usually belongs with seasonal
+    fertility and ritual-cycle patterns.
+  cautions: If the passage focuses on direct godly aid, divine_intervention may be
+    better; if focused on offerings for crops, sacred_exchange or sacrifice may be
+    secondary.
+  suggested_aliases:
+  - divine governance of harvest
+  - agricultural fertility under divine power
+  - crop success through divine powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-prayer-followed-by-hostile-natural-force
+  motif_id: divine_prayer_followed_by_hostile_natural_force
+  label: divine prayer followed by hostile natural force
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prayer that triggers or is followed by a hostile natural force suggests
+    divine response through natural agency.
+  cautions: Could be divine judgment, curse, storm omen, or merely narrative sequence;
+    verify causality in the passage.
+  suggested_aliases:
+  - prayer answered by hostile nature
+  - divine response through natural force
+  - hostile natural force after prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-precedent-invoked-to-suspend-human-law
+  motif_id: divine_precedent_invoked_to_suspend_human_law
+  label: divine precedent invoked to suspend human law
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: Using divine precedent to override or suspend human law fits sacred law
+    as the source or limit of social order.
+  cautions: May be rhetorical/legal argument rather than mythic motif; preserve context
+    if this is historiographic or juridical commentary.
+  suggested_aliases:
+  - divine precedent over human law
+  - suspension of human law by sacred example
+  - sacred exception to law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-presence-distributed-through-an-animal-species
+  motif_id: divine_presence_distributed_through_an_animal_species
+  label: divine presence distributed through an animal species
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sacred Animals and Divine Embodiment
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif concerns a divine presence embodied across an animal species,
+    which is not well captured by shapeshifter or sacred treasures.
+  cautions: Review carefully for totemism, taboo, incarnation, animal cult, or metaphor;
+    single comparative occurrence may be too broad for promotion.
+  suggested_aliases:
+  - sacred animal species
+  - divine embodiment in animals
+  - animal species as distributed divine presence
+  - totemic divine animal
+  suggested_new_group:
+    id: sacred_animals
+    label: Sacred Animals and Divine Embodiment
+    description: An animal, animal species, or animal form embodies, manifests, carries,
+      or mediates divine, ancestral, tutelary, or sacred presence, including animal
+      cults, sacred species, divine mounts, and species-wide signs of sacred power.
+    parent_group_ids:
+    - divine_intervention
+    - shapeshifter
+    - theophany
+    related_group_ids:
+    - sacred_law
+    - serpent_guardian
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups cover transformation, serpents,
+      and divine intervention but not stable sacred embodiment or distributed divine
+      presence in animal species.
+batch_notes:
+- Suggestions are provisional placements for review; several labels have only one
+  occurrence and may be passage-specific or commentary-derived.
+- Do not infer transmission or borrowing from any proposed placement.
+- Divine possession and sacred animal embodiment may warrant future groups if recurring
+  evidence supports them.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Batch reviewed for broad normalization placement; human review recommended
+    for culturally sensitive possession, animal embodiment, and deity-specific prosperity
+    motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0235
+  input_sha256: 07bc7ba9f04a6efd00c696eaa0ef4a345213a07850f38874ccc0adc454e9af5d

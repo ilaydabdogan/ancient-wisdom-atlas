@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0214
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-animal-omen-before-battle
+  motif_id: divine_animal_omen_before_battle
+  label: divine animal omen before battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: An omen functions as a revelatory sign that guides or confirms action
+    before battle.
+  cautions: Could also belong with sacred_combat or divine_intervention if the passage
+    emphasizes warfare or active divine agency more than the omen itself.
+  suggested_aliases:
+  - battle_omen
+  - animal_omen
+  - martial_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-animal-vehicle
+  motif_id: divine_animal_vehicle
+  label: Divine animal vehicle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A deity's animal vehicle may express divine presence or agency in human
+    and cosmic affairs.
+  cautions: In Hindu contexts vahana symbolism can be deity-specific and ritually
+    significant; may need a distinct animal-companion or divine-mount group if recurring.
+    Avoid flattening local theological meaning.
+  suggested_aliases:
+  - divine_mount
+  - deity_vehicle
+  - vahana
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-antagonist-reacts-to-the-hero-group-s-settlement
+  motif_id: divine_antagonist_reacts_to_the_hero_group_s_settlement
+  label: divine antagonist reacts to the hero group's settlement
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a passage-specific plot beat rather than a reusable
+    symbolic motif.
+  cautions: If the source shows recurring divine opposition to foundation or settlement,
+    review under divine_intervention, culture_hero, or royal_legitimacy instead.
+  suggested_aliases:
+  - divine_opposition_to_settlement
+  - divine_antagonist_reaction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-appeal-for-preservation-of-the-cosmos
+  motif_id: divine_appeal_for_preservation_of_the_cosmos
+  label: divine appeal for preservation of the cosmos
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine appeal to preserve cosmic order fits divine agency directed
+    toward maintaining the world.
+  cautions: If the passage emphasizes threatened cosmic collapse, secondary mapping
+    to flood_and_renewal or cosmic_origin may be useful; if it is only rhetoric, review
+    as contextual detail.
+  suggested_aliases:
+  - divine_appeal_to_preserve_order
+  - cosmic_preservation_appeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-approval-announced-by-heavenly-messenger
+  motif_id: divine_approval_announced_by_heavenly_messenger
+  label: Divine approval announced by heavenly messenger
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A heavenly messenger announcing divine approval is direct sacred guidance
+    or intervention.
+  cautions: Could also index with theophany or sacred_knowledge if the emphasis is
+    revelation rather than approval.
+  suggested_aliases:
+  - heavenly_messenger_announces_approval
+  - angelic_approval
+  - messenger_of_divine_approval
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-approval-by-lightning-sign
+  motif_id: divine_approval_by_lightning_sign
+  label: Divine approval by lightning sign
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Lightning functions as a visible divine sign confirming approval.
+  cautions: If lightning is an active punitive or sovereign act, divine_judgment or
+    divine_intervention may be more appropriate; preserve lightning specificity as
+    evidence.
+  suggested_aliases:
+  - lightning_omen
+  - thunderbolt_approval
+  - divine_sign_by_lightning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-architect-shapes-pre-existent-matter
+  motif_id: divine_architect_shapes_pre_existent_matter
+  label: Divine architect shapes pre-existent matter
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine craftsman shaping pre-existent matter is a creation or ordering
+    motif.
+  cautions: Could relate to sacred_craft if the passage focuses on craft imagery rather
+    than cosmogony; do not equate with creation from nothing.
+  suggested_aliases:
+  - demiurge_shapes_matter
+  - divine_craftsman_creation
+  - creation_from_preexistent_matter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-arming-and-martial-reordering
+  motif_id: divine_arming_and_martial_reordering
+  label: divine arming and martial reordering
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine arming and reordering for combat fits sacred martial agency and
+    battle-ordering by divine power.
+  cautions: Composite label; if the passage emphasizes social restoration over combat,
+    divine_judgment or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - divine_arming
+  - martial_reordering_by_divine_power
+  - sacred_battle_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-arming-before-battle
+  motif_id: divine_arming_before_battle
+  label: divine arming before battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A deity arming a fighter before combat belongs to sacred combat and divine
+    warrior preparation.
+  cautions: If the focus is the gifted weapon as object, sacred_treasures may be a
+    secondary mapping.
+  suggested_aliases:
+  - divine_arming
+  - god_arms_hero
+  - sacred_battle_equipment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-arousal-of-warriors-for-battle
+  motif_id: divine_arousal_of_warriors_for_battle
+  label: Divine arousal of warriors for battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine stirring of warriors to battle is sacred martial intervention.
+  cautions: Could also map to divine_intervention when the emphasis is general divine
+    influence rather than warrior combat.
+  suggested_aliases:
+  - divine_inspiration_for_battle
+  - god_stirs_warriors
+  - battle_fury_sent_by_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several martial labels may be consolidated under divine_warrior unless passage evidence
+  distinguishes omen, arming, inspiration, or sacred combat functions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch includes mostly divine signs, intervention, creation, and battle-preparation
+    labels; one passage-specific settlement reaction is suggested for exclusion pending
+    source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0214
+  input_sha256: 12247dd7a53413ce65a3e46c5e470c9f5dbe13c270ad73f2ab50d3ce5118a39c

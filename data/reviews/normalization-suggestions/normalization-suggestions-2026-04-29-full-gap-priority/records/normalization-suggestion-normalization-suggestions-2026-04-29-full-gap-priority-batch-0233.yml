@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0233
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-or-claimed-divine-commission-to-destroy-religious-enemies
+  motif_id: divine_or_claimed_divine_commission_to_destroy_religious_enemies
+  label: Divine or claimed divine commission to destroy religious enemies
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe sacred combat, divine judgment, polemical rhetoric,
+    or a context-specific historical claim rather than a stable mythic motif.
+  cautions: Culturally and politically sensitive; requires source review before indexing
+    as divine sanction, warfare, or judgment. Avoid treating a claimed commission
+    as verified divine action.
+  suggested_aliases:
+  - claimed divine mandate against enemies
+  - divinely sanctioned violence against religious enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_combat
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-or-named-weapons-decide-battle
+  motif_id: divine_or_named_weapons_decide_battle
+  label: divine or named weapons decide battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine or named weapon that determines battle functions as a power
+    object conferring decisive sacred force.
+  cautions: If the emphasis is the battle itself or a divine combatant, secondary
+    review under sacred_combat or divine_warrior may be appropriate.
+  suggested_aliases:
+  - divine weapon decides battle
+  - named weapon decides battle
+  - battle-deciding sacred weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-or-numinous-stranger
+  motif_id: divine_or_numinous_stranger
+  label: divine or numinous stranger
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: A mysterious stranger may be a theophany, guide, tester, threshold figure,
+    or disguised deity depending on narrative function.
+  cautions: Do not map solely from divine aura; source evidence is needed to distinguish
+    manifestation, intervention, trickster disguise, or hospitality test.
+  suggested_aliases:
+  - numinous stranger
+  - divine stranger
+  - mysterious sacred visitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - divine_intervention
+    - threshold_guardian
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-or-paradisal-vehicle
+  motif_id: divine_or_paradisal_vehicle
+  label: divine or paradisal vehicle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: A divine vehicle can function as a sacred object or bearer of divine
+    power and status.
+  cautions: If the vehicle enables ascent, afterlife travel, or divine intervention,
+    those groups may be better; label is too broad without passage function.
+  suggested_aliases:
+  - divine vehicle
+  - paradisal vehicle
+  - sacred vehicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ascent
+    - afterlife_passage
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-or-personified-figure-paired-with-human-or-animal-title-participant
+  motif_id: divine_or_personified_figure_paired_with_human_or_animal_title_participant
+  label: divine or personified figure paired with human or animal title participant
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording appears to describe title structure or personified-role tagging
+    rather than a narrative motif.
+  cautions: If the source passage actually presents a meaningful divine-human or divine-animal
+    pair, remap after evidence review to duality, sacred_twins, or another functional
+    group.
+  suggested_aliases:
+  - personified title participant pairing
+  - divine figure paired with title participant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-or-saintly-archer-associated-with-light
+  motif_id: divine_or_saintly_archer_associated_with_light
+  label: divine or saintly archer associated with light
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: An archer with divine or saintly status is primarily a sacred combat
+    figure, with light as an associated attribute.
+  cautions: If light rather than combat is central, sacred_fire or theophany may be
+    relevant; preserve archer specificity as evidence detail.
+  suggested_aliases:
+  - divine archer of light
+  - saintly light archer
+  - luminous sacred archer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-or-semi-divine-blessed-inhabitants-of-an-ideal-state
+  motif_id: divine_or_semi_divine_blessed_inhabitants_of_an_ideal_state
+  label: Divine or semi-divine blessed inhabitants of an ideal state
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: Blessed divine or semi-divine inhabitants of an ideal realm fit the otherworld
+    or blessed-realm complex.
+  cautions: If the ideal state is philosophical or political rather than an enchanted
+    realm, this may be a commentary or social-order motif instead.
+  suggested_aliases:
+  - blessed inhabitants of ideal realm
+  - semi-divine inhabitants of blessed state
+  - divine inhabitants of paradise-like realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-or-supernatural-boundary-imposed-on-pursuit
+  motif_id: divine_or_supernatural_boundary_imposed_on_pursuit
+  label: Divine or supernatural boundary imposed on pursuit
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural limit stopping pursuit functions as a guarded or enforced
+    threshold between zones or states.
+  cautions: If imposed directly as punishment or rescue, divine_intervention or divine_judgment
+    may be better secondary placements.
+  suggested_aliases:
+  - supernatural boundary stops pursuit
+  - divine limit on pursuit
+  - pursuit halted at sacred boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-or-supernatural-river-opposition-to-hero
+  motif_id: divine_or_supernatural_river_opposition_to_hero
+  label: divine or supernatural river opposition to hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: high
+  rationale: A supernatural river opposing a hero is water as active boundary, obstacle,
+    and transformative passage hazard.
+  cautions: If personified as a guardian deity, threshold_guardian may also apply;
+    do not map to flood_and_renewal unless world-destruction by water is present.
+  suggested_aliases:
+  - supernatural river opposes hero
+  - river as divine obstacle
+  - hostile sacred river
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-or-supernatural-sleep-dwelling-in-a-dark-liminal-place
+  motif_id: divine_or_supernatural_sleep_dwelling_in_a_dark_liminal_place
+  label: divine or supernatural sleep dwelling in a dark liminal place
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A personified or supernatural Sleep in a dark liminal dwelling belongs
+    to the dream, altered perception, and boundary-of-consciousness complex.
+  cautions: If the dark place is primarily underworld geography, descent may be a
+    secondary placement; the personified figure may be too episode-specific.
+  suggested_aliases:
+  - supernatural Sleep in liminal darkness
+  - personified Sleep in dark threshold place
+  - sleep deity dwelling in darkness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - descent
+    - otherworld
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All placements are provisional; several labels contain 'divine or' wording that
+  requires source review to determine whether the function is manifestation, intervention,
+  judgment, sacred combat, or a generated tagging artifact.
+- No transmission or borrowing inference is implied by any suggested grouping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes several single-occurrence and culturally sensitive labels;
+    human review should verify source function before taxonomy updates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0233
+  input_sha256: 449e4559d86c1e714b51ff7641b1bb771efac91fd86d2324a5e03bf832fbefa4

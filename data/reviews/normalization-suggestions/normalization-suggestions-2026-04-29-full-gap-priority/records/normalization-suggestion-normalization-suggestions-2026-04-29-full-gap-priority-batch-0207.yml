@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0207
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deceptive-dream-sent-by-a-god
+  motif_id: deceptive_dream_sent_by_a_god
+  label: deceptive dream sent by a god
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: A god-sent deceptive dream is a dream/vision functioning as supernatural
+    communication or manipulation.
+  cautions: May also involve divine_intervention or divine_judgment if the passage
+    emphasizes divine agency or punishment.
+  suggested_aliases:
+  - god-sent deceptive dream
+  - deceptive divine dream
+  - false dream from a god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-entertainment-diverting-from-sacred-teaching
+  motif_id: deceptive_entertainment_diverting_from_sacred_teaching
+  label: deceptive entertainment diverting from sacred teaching
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The label contrasts distraction or deception with sacred teaching, which
+    broadly concerns access to sacred knowledge.
+  cautions: Could be ethical polemic, commentary, or a passage-specific warning rather
+    than a recurring motif; review Islamic source context carefully.
+  suggested_aliases:
+  - distraction from sacred teaching
+  - deceptive diversion from revelation
+  - entertainment as spiritual deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-speech-delaying-divine-detection
+  motif_id: deceptive_speech_delaying_divine_detection
+  label: deceptive speech delaying divine detection
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Deceptive speech used to evade or delay a divine figure fits trickster-style
+    boundary manipulation.
+  cautions: If the focus is a one-off comic plot device rather than liminal deception,
+    it may be too specific for motif queries.
+  suggested_aliases:
+  - deceptive speech before a god
+  - speech delaying divine recognition
+  - verbal trickery against divine detection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.declaration-of-divine-unity
+  motif_id: declaration_of_divine_unity
+  label: declaration of divine unity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: A declaration of divine unity may be doctrinal revelation or sacred teaching,
+    broadly related to sacred knowledge.
+  cautions: This may be a theological doctrine or creed rather than a narrative motif;
+    avoid flattening Islamic tawhid into a generic motif without evidence context.
+  suggested_aliases:
+  - proclamation of divine unity
+  - affirmation of one God
+  - tawhid declaration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeat-by-disarming-of-a-divine-archer
+  motif_id: defeat_by_disarming_of_a_divine_archer
+  label: defeat by disarming of a divine archer
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The motif concerns defeat of a divine combatant through loss of a weapon,
+    fitting sacred combat/divine warrior material.
+  cautions: Highly episode-specific; preserve archer/disarming details as evidence
+    rather than promoting a new motif.
+  suggested_aliases:
+  - disarming a divine archer
+  - divine archer defeated by loss of weapon
+  - weapon-loss defeat of divine warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeat-followed-by-divinely-aided-victory
+  motif_id: defeat_followed_by_divinely_aided_victory
+  label: defeat followed by divinely aided victory
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A reversal from defeat to victory through divine aid is a direct intervention
+    in human conflict.
+  cautions: Could also index under divine_warrior or sacred_combat if the divine power
+    is represented primarily as a warrior or battle order.
+  suggested_aliases:
+  - divinely aided victory after defeat
+  - defeat reversed by divine aid
+  - supernatural victory after setback
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeat-of-a-tempter-before-a-sacred-act
+  motif_id: defeat_of_a_tempter_before_a_sacred_act
+  label: defeat of a tempter before a sacred act
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Overcoming a tempter before a sacred act functions as a threshold ordeal
+    preceding transformation or consecrated action.
+  cautions: In Buddhist context this may refer to Mara and awakening; consider mystical_quest
+    or divine_judgment only if passage evidence supports those functions.
+  suggested_aliases:
+  - temptation overcome before sacred act
+  - defeat of tempter at threshold
+  - overcoming temptation before consecration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defensive-armed-goddess-opposed-to-aggressive-war
+  motif_id: defensive_armed_goddess_opposed_to_aggressive_war
+  label: defensive armed goddess opposed to aggressive war
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: An armed goddess whose role concerns justified or defensive war fits
+    the divine warrior/sacred combat field.
+  cautions: The defensive-versus-aggressive contrast may be interpretive or deity-specific;
+    avoid making it a broad motif without recurring evidence.
+  suggested_aliases:
+  - armed goddess of defensive war
+  - protective warrior goddess
+  - goddess opposing aggressive war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-associated-with-sacred-tree
+  motif_id: deity_associated_with_sacred_tree
+  label: deity associated with sacred tree
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A deity linked with a sacred tree belongs with sacred tree/axis symbolism
+    when the tree marks sacred presence or connection.
+  cautions: If the tree is only an attribute of a deity and not a cosmic connector
+    or sacred center, this may be too generic; comparative labels need source review.
+  suggested_aliases:
+  - tree-associated deity
+  - deity of the sacred tree
+  - divine presence in sacred tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-of-good-fortune-and-blessings
+  motif_id: deity_of_good_fortune_and_blessings
+  label: deity of good fortune and blessings
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A deity bestowing fortune or blessings broadly concerns divine action
+    in human affairs.
+  cautions: This is mostly a deity role/attribute rather than a narrative motif; may
+    be excluded if it is only a personified divine portfolio.
+  suggested_aliases:
+  - fortune-bestowing deity
+  - deity of blessings
+  - good-fortune divinity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid claims about transmission or shared origin.
+- Several one-occurrence labels are deity attributes or episode-specific details;
+  human review should decide whether to preserve only as evidence notes.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch contains culturally and doctrinally sensitive Islamic and Buddhist
+    labels plus several over-specific combat/deity-role labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0207
+  input_sha256: 695c55b2bd4442e03f8a749477b90af2d63b6669c667b4f83e6f2cafb2594379

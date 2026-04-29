@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0169
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.supernatural-cry-as-summons
+  motif_id: supernatural_cry_as_summons
+  label: supernatural cry as summons
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A supernatural cry that summons may function as nonhuman intervention
+    or guidance, but the caller, target, and narrative effect are unclear.
+  cautions: Could instead be omen, battle signal, fairy/otherworld summons, lament,
+    or episode-specific sound detail; needs passage evidence.
+  suggested_aliases:
+  - supernatural summons by cry
+  - otherworld cry as summons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-etiological-place-naming
+  motif_id: supernatural_etiological_place_naming
+  label: supernatural etiological place-naming
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Etiological Naming and Landscape Origin
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on a supernatural explanation for a place-name, a recurring
+    etiological landscape function not cleanly held by current groups.
+  cautions: With one occurrence, verify that this is a motif rather than a scholarly
+    place-name note; avoid treating all place-name glosses as pattern-query motifs.
+  suggested_aliases:
+  - supernatural place-name origin
+  - etiological naming of place
+  - toponymic origin myth
+  suggested_new_group:
+    id: etiological_landscape_naming
+    label: Etiological Naming and Landscape Origin
+    description: Supernatural, mythic, or heroic events explain the origin, naming,
+      or distinctive identity of places, landmarks, or local landscape features.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - otherworld
+    - sacred_craft
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups cover cosmic creation, sacred
+      centers, and landscape-shaping bodies, but not the narrower etiological function
+      of naming or explaining local places.
+- suggestion_id: normalization.suggestion.supernatural-expansion-or-accommodation-of-an-immense-assembly
+  motif_id: supernatural_expansion_or_accommodation_of_an_immense_assembly
+  label: supernatural expansion or accommodation of an immense assembly
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: low
+  rationale: A space supernaturally expanding for an assembly may mark miraculous
+    sacred presence or revelatory setting.
+  cautions: Could be a Buddhist miracle, cosmic vision, sacred-space elasticity, or
+    passage-specific hyperbole; source context is needed before grouping.
+  suggested_aliases:
+  - miraculous expansion of sacred assembly space
+  - supernatural accommodation of assembly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-fleetness-over-fragile-ground
+  motif_id: supernatural_fleetness_over_fragile_ground
+  label: supernatural fleetness over fragile ground
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Supernatural speed over perilous terrain may be an extraordinary ability
+    used in a journey or ordeal.
+  cautions: May be merely an epithetic sign of divine/heroic mobility, not a durable
+    motif; could fit sacred_treasures if enabled by an object, or divine_intervention
+    if granted by a god.
+  suggested_aliases:
+  - miraculous fleetness over fragile terrain
+  - supernatural speed over perilous ground
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-helper-with-limited-powers
+  motif_id: supernatural_helper_with_limited_powers
+  label: Supernatural helper with limited powers
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A supernatural helper acting in human affairs fits divine or spirit intervention,
+    with the limitation preserved as local evidence.
+  cautions: If the helper is a jinn, tutelary spirit, trickster, or threshold guide,
+    secondary placement may vary; do not infer divine authority from supernatural
+    status alone.
+  suggested_aliases:
+  - limited supernatural helper
+  - bounded-power supernatural aid
+  - imperfect supernatural helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-hound-as-avenging-agent
+  motif_id: supernatural_hound_as_avenging_agent
+  label: supernatural hound as avenging agent
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: An avenging supernatural animal functions as an agent of punishment or
+    moral retaliation.
+  cautions: Could also belong with divine_warrior or a future supernatural-animal
+    group if the hound’s martial or otherworld nature is central; verify sacred judgment
+    rather than ordinary revenge.
+  suggested_aliases:
+  - avenging supernatural hound
+  - hound as supernatural vengeance agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-hound-bound-in-sleep
+  motif_id: supernatural_hound_bound_in_sleep
+  label: supernatural hound bound in sleep
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: A supernatural hound may be a guardian or dangerous liminal animal, but
+    the sleep-binding function is unclear.
+  cautions: Could be magical restraint, enchantment, animal helper, episode-specific
+    detail, or a dormant guardian; needs source context before mapping.
+  suggested_aliases:
+  - sleep-bound supernatural hound
+  - enchanted sleeping hound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-mound-folk-as-powerful-pre-christian-demons
+  motif_id: supernatural_mound_folk_as_powerful_pre_christian_demons
+  label: supernatural mound folk as powerful pre-Christian demons
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: Mound folk generally belong to otherworld/enchanted beings, but the demonizing
+    description may reflect interpretive or Christianized classification.
+  cautions: Culturally and historiographically sensitive; may be a reception/commentary
+    artifact rather than a motif. Avoid normalizing the label’s polemical wording
+    without source review.
+  suggested_aliases:
+  - mound folk as otherworld beings
+  - Christianized demonization of mound folk
+  - powerful pre-Christian otherworld folk
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-or-unmatched-hunting-hound
+  motif_id: supernatural_or_unmatched_hunting_hound
+  label: Supernatural or unmatched hunting hound
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: An unmatched hunting hound may function like a prestige-bestowing power
+    possession or heroic aid.
+  cautions: Current taxonomy lacks a strong animal-helper/hunting-animal group. If
+    the hound acts autonomously, as guardian, or as avenger, threshold_guardian/divine_judgment
+    may fit better.
+  suggested_aliases:
+  - supernatural hunting hound
+  - unmatched hunting hound
+  - heroic hound companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-relocation-of-useful-stones-with-landscape-formation
+  motif_id: supernatural_relocation_of_useful_stones_with_landscape_formation
+  label: supernatural relocation of useful stones with landscape formation
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Etiological Landscape Formation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes supernatural movement of stones explaining landscape
+    formation, an etiological landscape-origin motif not well covered by current groups.
+  cautions: Culturally sensitive tradition-specific landscape knowledge should be
+    reviewed carefully; the 'useful stones' detail may be local evidence rather than
+    canonical scope.
+  suggested_aliases:
+  - supernatural stone relocation
+  - stones moved to form landscape
+  - mythic relocation of landscape stones
+  suggested_new_group:
+    id: etiological_landscape_formation
+    label: Etiological Landscape Formation
+    description: Mythic or supernatural actions form, move, mark, or explain local
+      landscape features such as stones, hills, waterways, paths, or named places.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - sacred_craft
+    - axis_mundi
+    - sacred_treasures
+    reason_existing_groups_insufficient: Cosmic_origin is too broad and sacred_craft/sacred_treasures
+      emphasize making or power objects rather than local landscape formation and
+      explanation.
+batch_notes:
+- Several items are single-occurrence and highly contextual; confidence is generally
+  low unless the narrative function is explicit in the label.
+- Consider whether a durable etiological landscape group should cover both place-naming
+  and landscape-feature formation, with local/culturally sensitive details preserved
+  as evidence notes.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions for unmapped supernatural/action labels; source
+    passages should be checked before taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0169
+  input_sha256: 5815eb5007d7e465b6cbf81ff0ac5b0fbad637e3685468ce49130673c96d8648

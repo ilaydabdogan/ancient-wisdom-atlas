@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0226
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-incarnation-in-multiple-forms
+  motif_id: divine_incarnation_in_multiple_forms
+  label: divine incarnation in multiple forms
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Multiple divine forms align with manifestation of sacred presence, especially
+    where a deity is visibly revealed in varied forms.
+  cautions: If the passage emphasizes avatara doctrine, incarnation, or embodiment
+    rather than witnessed manifestation, a future incarnation group may be needed.
+  suggested_aliases:
+  - divine embodiment in multiple forms
+  - multiple-form divine manifestation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-incarnation-or-indwelling-in-a-human-figure
+  motif_id: divine_incarnation_or_indwelling_in_a_human_figure
+  label: Divine incarnation or indwelling in a human figure
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate mystical union, saintly indwelling, incarnation,
+    or theological commentary, which have different functions.
+  cautions: Sufi context may require careful review to avoid imposing incarnation
+    language where union, manifestation, or divine presence is meant metaphorically.
+  suggested_aliases:
+  - divine indwelling in a human figure
+  - divine embodiment in a human figure
+  suggested_new_group:
+    id: divine_indwelling_embodiment
+    label: Divine Indwelling and Embodiment
+    description: Sacred presence appears in, inhabits, or is embodied by a human or
+      multiple forms, including incarnation-like, indwelling, or manifestation patterns
+      where supported by source evidence.
+    parent_group_ids:
+    - theophany
+    - divine_intervention
+    - mystical_quest
+    related_group_ids:
+    - annihilation_union
+    - divine_beloved
+    reason_existing_groups_insufficient: Existing groups cover manifestation and mystical
+      union, but not the recurring pattern of divine presence embodied or indwelling
+      in a human figure.
+- suggestion_id: normalization.suggestion.divine-incarnation-punishing-the-eater-from-within-the-body
+  motif_id: divine_incarnation_punishing_the_eater_from_within_the_body
+  label: divine incarnation punishing the eater from within the body
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The motif combines ingestion, embodiment, internal punishment, and divine
+    judgment in a highly specific comparative label.
+  cautions: May be a passage-specific or comparative artifact; verify whether the
+    narrative function is taboo violation, divine judgment, rebirth through ingestion,
+    or hostile indwelling.
+  suggested_aliases:
+  - internal divine punishment after ingestion
+  - ingested divine presence punishes eater
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-incitement-of-a-warrior-in-battle
+  motif_id: divine_incitement_of_a_warrior_in_battle
+  label: divine incitement of a warrior in battle
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A god or sacred power stirring a warrior in battle belongs to sacred
+    combat and divine warrior agency.
+  cautions: If the passage emphasizes generic divine intervention rather than combat
+    identity, divine_intervention may be a secondary mapping.
+  suggested_aliases:
+  - divinely inspired warrior
+  - god incites warrior to battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-incitement-of-battle-fury
+  motif_id: divine_incitement_of_battle_fury
+  label: divine incitement of battle fury
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Battle fury caused or intensified by divine agency is a combat-specific
+    form of sacred warrior intervention.
+  cautions: Preserve whether the fury is heroic inspiration, madness, possession,
+    or divine punishment in evidence notes.
+  suggested_aliases:
+  - divinely inspired battle frenzy
+  - divine battle fury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-incomparability-and-anti-anthropomorphic-caution
+  motif_id: divine_incomparability_and_anti_anthropomorphic_caution
+  label: divine incomparability and anti-anthropomorphic caution
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is primarily a theological teaching about how divine reality
+    may or may not be known or represented.
+  cautions: May be doctrinal commentary rather than narrative motif; exclude if it
+    only marks interpretive theology without symbolic or narrative recurrence.
+  suggested_aliases:
+  - divine incomparability
+  - anti-anthropomorphic theology
+  - caution against anthropomorphism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-independence-from-the-world
+  motif_id: divine_independence_from_the_world
+  label: Divine independence from the world
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a theological doctrine rather than a clear narrative or
+    symbolic motif.
+  cautions: Could relate to sacred knowledge or mystical quest if taught as transformative
+    insight; otherwise may be commentary unsuitable for pattern queries.
+  suggested_aliases:
+  - divine self-sufficiency
+  - divine transcendence over the world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-indwelling-or-incarnation-in-a-human-figure
+  motif_id: divine_indwelling_or_incarnation_in_a_human_figure
+  label: Divine indwelling or incarnation in a human figure
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This duplicates the incarnation/indwelling label and requires evidence
+    to distinguish embodiment, manifestation, and mystical union.
+  cautions: Review alongside divine_incarnation_or_indwelling_in_a_human_figure; Sufi
+    terminology may be metaphorical or polemical rather than incarnation doctrine.
+  suggested_aliases:
+  - divine incarnation or indwelling in a human figure
+  - divine indwelling in a human figure
+  suggested_new_group:
+    id: divine_indwelling_embodiment
+    label: Divine Indwelling and Embodiment
+    description: Sacred presence appears in, inhabits, or is embodied by a human or
+      multiple forms, including incarnation-like, indwelling, or manifestation patterns
+      where supported by source evidence.
+    parent_group_ids:
+    - theophany
+    - divine_intervention
+    - mystical_quest
+    related_group_ids:
+    - annihilation_union
+    - divine_beloved
+    reason_existing_groups_insufficient: Existing groups cover manifestation and mystical
+      union, but not the recurring pattern of divine presence embodied or indwelling
+      in a human figure.
+- suggestion_id: normalization.suggestion.divine-influence-in-battle
+  motif_id: divine_influence_in_battle
+  label: divine influence in battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: broader_label
+  confidence: high
+  rationale: Divine influence in battle is a broad sacred-combat pattern involving
+    gods shaping warfare.
+  cautions: If the episode is not centered on combat sacrality, divine_intervention
+    may be an alternate broad placement.
+  suggested_aliases:
+  - divine intervention in battle
+  - god influences battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-influence-over-battle-outcome
+  motif_id: divine_influence_over_battle_outcome
+  label: Divine influence over battle outcome
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A sacred power determining or affecting victory belongs to divine warrior
+    and sacred combat motifs.
+  cautions: May also support divine_judgment when the outcome is explicitly moral
+    reckoning or punishment.
+  suggested_aliases:
+  - divine determination of battle outcome
+  - god grants victory or defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels involving incarnation or indwelling need human review because existing
+  groups distinguish theophany, mystical union, and divine intervention but do not
+  yet clearly cover embodiment/incarnation as a durable group.
+- Battle-related divine influence labels can be provisionally normalized under divine_warrior,
+  with divine_intervention as a possible secondary facet where the combat function
+  is weak.
+- Doctrinal labels such as divine incomparability and divine independence may be theological
+  commentary rather than motifs; retain only when they function as recurring symbolic
+  or instructional patterns.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional automated placement suggestions; incarnation/indwelling and doctrinal-transcendence
+    labels require source-sensitive review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0226
+  input_sha256: 2d3ae0e13c07e68f960df139cf368dccbfe2e059217a0e746fdad39e066b54f1

@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0232
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-objection-to-human-fortification
+  motif_id: divine_objection_to_human_fortification
+  label: Divine objection to human fortification
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A deity opposing human building or defensive overreach may express sacred
+    judgment or opposition to hubris.
+  cautions: Single Greek occurrence; could be a place-specific episode, political
+    myth, or commentary on city walls rather than a durable motif.
+  suggested_aliases:
+  - divine opposition to fortification
+  - sacred objection to human defenses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-obstruction-of-childbirth
+  motif_id: divine_obstruction_of_childbirth
+  label: divine obstruction of childbirth
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine interference with birth belongs near sacred or extraordinary birth
+    when the obstruction marks destiny or divine conflict.
+  cautions: If the passage emphasizes punishment, jealousy, or divine coercion rather
+    than the child’s destiny, divine_judgment or divine_intervention may be secondary.
+  suggested_aliases:
+  - divine hindrance of birth
+  - supernatural obstruction of labor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-obstruction-through-storm
+  motif_id: divine_obstruction_through_storm
+  label: divine obstruction through storm
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A storm sent or used by a deity is direct divine action affecting human
+    movement or events.
+  cautions: If the storm is mainly a travel ordeal, also consider hero_journey or
+    sacred_waters; if punitive, consider divine_judgment.
+  suggested_aliases:
+  - divinely sent storm obstruction
+  - storm as divine intervention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-omniscience-of-hidden-intentions
+  motif_id: divine_omniscience_of_hidden_intentions
+  label: divine omniscience of hidden intentions
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Divine knowledge of concealed motives underwrites moral reckoning and
+    accountability before sacred authority.
+  cautions: Could be doctrinal teaching rather than narrative motif; preserve theological
+    specificity and avoid overgeneralizing across traditions.
+  suggested_aliases:
+  - God knows hidden intentions
+  - divine knowledge of inner motives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-omniscience-over-hidden-withdrawal
+  motif_id: divine_omniscience_over_hidden_withdrawal
+  label: Divine omniscience over hidden withdrawal
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A hidden act or retreat remaining known to God fits divine omniscience
+    as the basis of moral accountability.
+  cautions: Label is contextual and may reflect exegesis or passage phrasing; review
+    whether it is a motif or theological assertion.
+  suggested_aliases:
+  - divine knowledge of concealment
+  - God sees hidden withdrawal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-opening-or-constriction-of-the-inner-self
+  motif_id: divine_opening_or_constriction_of_the_inner_self
+  label: divine opening or constriction of the inner self
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes direct divine action upon the human interior state,
+    guiding or constraining response.
+  cautions: May also fit mystical_quest or ethics/inner-life themes if the passage
+    emphasizes spiritual discipline rather than divine intervention.
+  suggested_aliases:
+  - divine expansion of the heart
+  - divine constriction of the heart
+  - opening of the inner self
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-opposition-during-sea-ordeal
+  motif_id: divine_opposition_during_sea_ordeal
+  label: divine opposition during sea ordeal
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sea ordeal shaped by divine hostility fits water as a dangerous boundary
+    and transformative passage.
+  cautions: If the episode is primarily a travel trial, hero_journey may be appropriate;
+    if punishment dominates, divine_judgment may be secondary.
+  suggested_aliases:
+  - divinely opposed sea passage
+  - sea ordeal under divine hostility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-or-animated-tools-appear-in-human-form
+  motif_id: divine_or_animated_tools_appear_in_human_form
+  label: Divine or animated tools appear in human form
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Tools taking human form are transformations across object and person
+    boundaries.
+  cautions: Could alternatively belong with sacred_treasures if the key function is
+    tool power, or divine_intervention if animated tools act as divine agents.
+  suggested_aliases:
+  - animated tools in human form
+  - personified tools
+  - tools transformed into humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-or-celestial-intervention-creates-a-protective-water-barrier
+  motif_id: divine_or_celestial_intervention_creates_a_protective_water_barrier
+  label: divine or celestial intervention creates a protective water barrier
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divinely created water barrier uses water as boundary and protection
+    during passage or separation.
+  cautions: Comparative label may be synthesized; do not infer flood renewal unless
+    world-destruction and renewal are present.
+  suggested_aliases:
+  - protective water barrier
+  - divinely made water boundary
+  - celestial water barrier
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-or-celestial-weapons-bestowed-on-the-hero
+  motif_id: divine_or_celestial_weapons_bestowed_on_the_hero
+  label: divine or celestial weapons bestowed on the hero
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: child
+  confidence: high
+  rationale: Divine weapons granted to a hero are sacred power objects conferring
+    ability and authority.
+  cautions: If the episode centers on combat’s cosmic function, divine_warrior or
+    sacred_combat may be secondary mappings.
+  suggested_aliases:
+  - divine weapons bestowed
+  - celestial weapons granted to hero
+  - sacred weapons given to hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for normalization review only, not taxonomy
+  edits or evidence of historical transmission.
+- Several labels are single-occurrence and context-dependent; human review should
+  check whether they are narrative motifs, theological assertions, or passage-specific
+  artifacts.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai-assistant
+  reviewed_at: ''
+  notes: Mapped most items to existing broad groups; retained human-review caution
+    for highly contextual fortification and doctrinal omniscience labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0232
+  input_sha256: da8798466848abee03d9fb9ffa956a2ef5d6bff5b12f5dc4014bda57a1d541c8

@@ -7,14 +7,14 @@ This report lists motif IDs that are present in the motif occurrence index but n
 ## Summary
 
 - Indexed motif IDs: 9072
-- Already mapped: 1315
-- Unmapped: 7757
+- Already mapped: 1702
+- Unmapped: 7370
 
 | Review Bucket | Unmapped Motifs |
 | --- | ---: |
 | Death, Descent, Afterlife, And Ancestors | 746 |
 | Journey, Quest, Exile, And Homecoming | 437 |
-| Divine Presence, Ritual, Sacrifice, And Purity | 1504 |
+| Divine Presence, Ritual, Sacrifice, And Purity | 1130 |
 | Wisdom, Speech, Dream, Vision, And Revelation | 396 |
 | Power, Kingship, Law, Judgment, And Social Order | 513 |
 | Love, Family, Gender, Birth, And The Body | 624 |
@@ -23,7 +23,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | Conflict, Violence, Heroic Ordeal, And Victory | 1150 |
 | Objects, Places, Boundaries, And Thresholds | 249 |
 | Ethics, Psychology, Discipline, And Inner Life | 173 |
-| Needs Human Sorting | 897 |
+| Needs Human Sorting | 884 |
 
 ## Death, Descent, Afterlife, And Ancestors
 
@@ -1231,486 +1231,112 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `animal_part_as_sacred_food_luck_object_divinatory_object_or_token` | Animal part as sacred food, luck object, divinatory object, or token | 1 | comparative |
 | `anthropomorphic_divine_attributes_left_unexplained` | anthropomorphic divine attributes left unexplained | 1 | islamic |
 | `appeal_for_inclusion_of_old_heroes_in_a_new_divine_order` | appeal for inclusion of old heroes in a new divine order | 1 | celtic_irish |
-| `appeal_to_divine_and_elder_protectors_during_crisis` | appeal to divine and elder protectors during crisis | 1 | hindu |
-| `appeal_to_substitute_ritual_mediators_after_priestly_refusal` | appeal to substitute ritual mediators after priestly refusal | 1 | hindu |
-| `archaic_or_non_iron_tool_retained_for_ritual_use` | archaic or non-iron tool retained for ritual use | 1 | comparative |
-| `armed_goddess_manifests_with_cosmic_response` | armed goddess manifests with cosmic response | 1 | greek |
-| `armed_guardian_goddess_of_a_city` | armed guardian goddess of a city | 1 | greek_roman |
-| `armed_ritual_performance_against_demons` | armed ritual performance against demons | 1 | comparative |
-| `armed_vow_to_destroy_the_ally_s_oppressor` | armed vow to destroy the ally's oppressor | 1 | hindu |
 | `aromatic_resin_exuding_like_drops_from_a_sacred_or_valued_tree` | aromatic resin exuding like drops from a sacred or valued tree | 1 | roman |
 | `artificially_fashioned_woman_endowed_by_multiple_gods` | Artificially fashioned woman endowed by multiple gods | 1 | greek |
 | `artistic_image_modeled_on_divine_poetic_epiphany` | artistic image modeled on divine poetic epiphany | 1 | greek |
-| `ascetic_austerity_threatens_divine_status` | ascetic austerity threatens divine status | 1 | hindu |
-| `ascetic_command_summons_divine_manifestation` | Ascetic command summons divine manifestation | 1 | hindu |
-| `ascetic_power_challenging_divine_order` | Ascetic power challenging divine order | 1 | hindu |
-| `ascetics_threatened_by_demonic_disruption_of_rites` | ascetics threatened by demonic disruption of rites | 1 | hindu |
-| `athletic_contest_in_honour_of_a_goddess` | Athletic contest in honour of a goddess | 1 | greek_roman |
 | `attempted_economic_exclusion_of_a_sacred_community` | attempted economic exclusion of a sacred community | 1 | islamic |
 | `auspicious_and_sacred_numbers` | Auspicious and sacred numbers | 1 | buddhist |
-| `auspicious_timing_for_royal_rite` | auspicious timing for royal rite | 1 | hindu |
 | `authoritative_standardization_of_sacred_scripture` | authoritative standardization of sacred scripture | 1 | islamic |
-| `automated_or_self_moving_sacred_objects` | Automated or self-moving sacred objects | 1 | greek_roman |
-| `autonomous_magic_weapon_of_a_god` | Autonomous magic weapon of a god | 1 | norse |
 | `avenger_of_the_swallowed_god` | avenger of the swallowed god | 1 | norse |
-| `battle_as_divine_or_celestial_dance` | battle as divine or celestial dance | 1 | hindu |
 | `battle_associated_female_ritual_specialists` | battle-associated female ritual specialists | 1 | norse |
-| `battle_god_s_weapon_signal` | battle god's weapon signal | 1 | norse |
 | `battle_magnified_by_divine_war_simile` | battle magnified by divine-war simile | 1 | hindu |
-| `battle_of_gods_within_a_human_war` | battle of gods within a human war | 1 | greek |
-| `battlefield_slaughter_goddesses` | battlefield slaughter goddesses | 1 | greek_roman |
-| `battlefield_vow_restores_heroic_action` | Battlefield vow restores heroic action | 1 | hindu |
-| `beloved_s_vow_of_exclusive_attachment` | beloved's vow of exclusive attachment | 1 | celtic_irish |
-| `beneficent_fairy_realm_under_a_divine_lord` | Beneficent fairy realm under a divine lord | 1 | norse |
-| `benevolent_goddess_grants_gifts_to_humans` | benevolent goddess grants gifts to humans | 1 | greek |
-| `betrayed_secret_disclosed_by_divine_revelation` | Betrayed secret disclosed by divine revelation | 1 | islamic |
-| `binding_of_a_dangerous_monster_by_the_gods` | Binding of a dangerous monster by the gods | 1 | norse |
-| `bird_of_prey_drops_sign_at_altar` | bird of prey drops sign at altar | 1 | greek |
-| `bird_transformed_as_divine_punishment_for_news` | Bird transformed as divine punishment for news | 1 | greek |
-| `blessed_abode_for_heroic_demi_gods` | blessed abode for heroic demi-gods | 1 | greek |
 | `blessed_ritual_greeting_at_domestic_threshold` | Blessed ritual greeting at domestic threshold | 1 | islamic |
 | `blessing_after_separation_through_prophetic_descendants` | Blessing after separation through prophetic descendants | 1 | islamic |
 | `blessing_and_anger_as_channels_of_saintly_power` | Blessing and anger as channels of saintly power | 1 | sufi |
 | `blessing_of_the_wedding_feast_and_community` | Blessing of the wedding feast and community | 1 | finnish_karelian |
-| `blood_of_the_slain_god_marked_in_landscape_and_flower` | Blood of the slain god marked in landscape and flower | 1 | comparative |
-| `blood_pollution_makes_a_warrior_unfit_for_prayer` | Blood pollution makes a warrior unfit for prayer | 1 | greek |
-| `blood_pollution_of_a_sacred_hermitage` | blood pollution of a sacred hermitage | 1 | hindu |
 | `bloodless_execution_of_sacred_royalty` | bloodless execution of sacred royalty | 1 | comparative |
-| `boast_of_many_children_against_a_divine_rival` | boast of many children against a divine rival | 1 | roman |
-| `boastful_vow_to_kill_before_sunset` | boastful vow to kill before sunset | 1 | hindu |
-| `book_completed_by_divine_favor` | Book completed by divine favor | 1 | persian |
-| `boundary_river_before_divine_dwelling` | Boundary river before divine dwelling | 1 | norse |
-| `calendar_dedication_replacing_or_paralleling_a_divine_month` | calendar dedication replacing or paralleling a divine month | 1 | norse |
 | `captive_maiden_taken_from_sanctuary_and_failed_rescue` | Captive maiden taken from sanctuary and failed rescue | 1 | roman |
-| `capture_of_divine_horses_as_battle_spoil` | Capture of divine horses as battle spoil | 1 | greek |
 | `carrier_mistaken_for_sacred_recipient` | Carrier mistaken for sacred recipient | 1 | greek |
 | `cave_as_titled_sacred_or_narrative_setting` | cave as titled sacred or narrative setting | 1 | islamic |
 | `caves_consecrated_to_a_pastoral_god` | caves consecrated to a pastoral god | 1 | greek_roman |
-| `celestial_war_god_borne_through_the_heavens` | Celestial war god borne through the heavens | 1 | greek |
-| `celestial_women_sent_to_disrupt_ascetic_vows` | celestial women sent to disrupt ascetic vows | 1 | hindu |
 | `central_temple_cult_image_surrounded_by_other_divine_images` | Central temple cult image surrounded by other divine images | 1 | greek_roman |
-| `cessation_of_ritual_festivity_and_commerce_in_mourning` | cessation of ritual, festivity, and commerce in mourning | 1 | hindu |
-| `challenge_contest_proving_divine_mission` | challenge-contest proving divine mission | 1 | islamic |
-| `challenge_imposed_by_taboo_or_geis` | challenge imposed by taboo or geis | 1 | celtic_irish |
-| `champion_s_protection_vow` | champion's protection vow | 1 | celtic_irish |
-| `chiefly_blood_creates_taboo_or_sacred_property` | chiefly blood creates taboo or sacred property | 1 | comparative |
 | `children_left_at_divine_altar_for_protection_and_killed` | children left at divine altar for protection and killed | 1 | greek |
-| `chosen_assistants_of_god_strengthened_to_victory` | Chosen assistants of God strengthened to victory | 1 | islamic |
-| `chosen_hero_draws_a_divine_weapon_from_a_tree` | chosen hero draws a divine weapon from a tree | 1 | norse |
-| `circumambulation_of_a_sacred_building` | circumambulation of a sacred building | 1 | islamic |
-| `city_guardian_war_goddess_protects_people` | city-guardian war goddess protects people | 1 | greek |
 | `combat_halted_by_sacred_mediation_and_nightfall` | combat halted by sacred mediation and nightfall | 1 | greek |
-| `communal_blessing_preceding_heroic_intervention` | communal blessing preceding heroic intervention | 1 | celtic_irish |
 | `communal_hunting_with_ritualized_discovery_song` | communal hunting with ritualized discovery song | 1 | indigenous_australian |
-| `communal_unification_associated_with_divine_deliverance` | Communal unification associated with divine deliverance | 1 | islamic |
-| `communal_unity_through_a_divine_bond` | Communal unity through a divine bond | 1 | islamic |
-| `concealed_divine_assistance_or_attention` | concealed divine assistance or attention | 1 | greek |
-| `concealed_divine_intervention_in_battle` | concealed divine intervention in battle | 1 | greek |
 | `concealed_powerful_stones_used_in_weather_rite` | Concealed powerful stones used in weather rite | 1 | indigenous_australian |
-| `concealed_sacred_altar_revealed_during_festival` | concealed sacred altar revealed during festival | 1 | greek_roman |
 | `condemnation_of_ritual_superstition_attributed_to_divine_institution` | condemnation of ritual superstition attributed to divine institution | 1 | islamic |
-| `consecrated_food_by_divine_name` | consecrated food by divine name | 1 | islamic |
-| `consecrated_priestly_hierarchy` | consecrated priestly hierarchy | 1 | greek_roman |
-| `consulting_diviners_before_an_undertaking` | Consulting diviners before an undertaking | 1 | greek_roman |
-| `contact_taboo_through_touched_objects` | contact taboo through touched objects | 1 | comparative |
-| `contagious_ritual_uncleanness_attached_to_persons_objects_houses_and_places` | Contagious ritual uncleanness attached to persons, objects, houses, and places | 1 | comparative |
-| `contest_between_divine_people_and_heroic_band` | contest between divine people and heroic band | 1 | celtic_irish |
-| `contest_between_divine_sign_and_human_enchantment` | Contest between divine sign and human enchantment | 1 | islamic |
-| `contest_for_divine_armour_ending_in_self_destruction` | contest for divine armour ending in self-destruction | 1 | greek |
-| `contest_for_sacred_office_leading_to_violence` | Contest for sacred office leading to violence | 1 | islamic |
-| `contest_of_song_between_mortals_and_goddesses` | Contest of song between mortals and goddesses | 1 | roman |
 | `contested_placement_of_ritual_green_figure_at_the_well` | contested placement of ritual green figure at the well | 1 | comparative |
 | `contested_sacred_canon_and_tradition` | contested sacred canon and tradition | 1 | islamic |
 | `contested_sacred_wine_imagery` | contested sacred wine imagery | 1 | sufi |
-| `continual_divine_annihilation_and_recreation` | continual divine annihilation and recreation | 1 | sufi |
 | `continuity_of_sacred_landscape_after_cultic_disappearance` | continuity of sacred landscape after cultic disappearance | 1 | comparative |
 | `corruption_and_restoration_of_a_sacred_or_canonical_poetic_corpus` | corruption and restoration of a sacred or canonical poetic corpus | 1 | greek |
-| `corruption_of_sacred_writing_for_material_gain` | Corruption of sacred writing for material gain | 1 | islamic |
-| `cosmic_creation_by_divine_power` | cosmic creation by divine power | 1 | islamic |
-| `cosmic_creation_in_six_days_without_divine_fatigue` | cosmic creation in six days without divine fatigue | 1 | islamic |
-| `cosmic_decree_and_instant_divine_command` | cosmic decree and instant divine command | 1 | islamic |
 | `cosmic_light_threatened_by_divine_grief` | cosmic light threatened by divine grief | 1 | roman |
-| `cosmic_order_falls_silent_before_supreme_divine_speech` | cosmic order falls silent before supreme divine speech | 1 | roman |
-| `cosmic_order_under_divine_sovereignty` | Cosmic order under divine sovereignty | 1 | islamic |
-| `cosmic_order_upheld_by_divine_permission` | Cosmic order upheld by divine permission | 1 | islamic |
 | `cosmic_praise_of_god` | cosmic praise of God | 1 | islamic |
-| `cosmic_record_of_divine_decrees` | cosmic record of divine decrees | 1 | islamic |
 | `cosmos_and_nature_as_witnesses_of_divine_unity` | cosmos and nature as witnesses of divine unity | 1 | sufi |
 | `cosmos_as_divine_or_master_held_apparatus` | Cosmos as divine or master-held apparatus | 1 | sufi |
 | `cosmos_as_divine_organism` | cosmos as divine organism | 1 | sufi |
-| `council_broken_by_divine_alarm_and_mass_mobilization` | Council broken by divine alarm and mass mobilization | 1 | greek |
 | `covered_sacred_image_remains_visible` | covered sacred image remains visible | 1 | sufi |
-| `craft_feat_performed_through_three_ritualized_blows` | craft feat performed through three ritualized blows | 1 | celtic_irish |
 | `created_divine_word_in_written_copies` | created divine word in written copies | 1 | islamic |
-| `creation_and_divine_rule_from_the_throne` | creation and divine rule from the throne | 1 | islamic |
-| `creation_and_life_by_divine_command` | Creation and life by divine command | 1 | islamic |
 | `creation_as_divine_self_reflection_or_manifestation` | Creation as divine self-reflection or manifestation | 1 | sufi |
-| `creation_as_proof_of_divine_power` | Creation as proof of divine power | 1 | islamic |
-| `creation_by_divine_command` | creation by divine command | 1 | islamic |
 | `creation_joins_a_holy_figure_in_divine_praise` | creation joins a holy figure in divine praise | 1 | islamic |
-| `creation_order_as_proof_of_divine_power` | Creation order as proof of divine power | 1 | islamic |
-| `creative_and_dissolving_divine_word` | Creative and dissolving divine word | 1 | sufi |
 | `cremation_rite_with_circumambulation` | Cremation rite with circumambulation | 1 | hindu |
-| `cult_honor_for_divine_intervention_in_battle_at_sea` | cult honor for divine intervention in battle at sea | 1 | greek_roman |
 | `cult_name_and_place_name_aetiology_from_divine_action` | cult-name and place-name aetiology from divine action | 1 | greek |
 | `cult_transfer_and_divine_identification_across_regions` | Cult transfer and divine identification across regions | 1 | greek_roman |
-| `curse_establishes_a_forbidden_boundary` | curse establishes a forbidden boundary | 1 | hindu |
-| `curse_lifted_from_a_wilderness_by_monster_s_defeat` | curse lifted from a wilderness by monster’s defeat | 1 | hindu |
-| `curse_of_reciprocal_bereavement` | Curse of reciprocal bereavement | 1 | hindu |
 | `curse_placed_after_kin_slaying_in_animal_form` | curse placed after kin-slaying in animal form | 1 | celtic_irish |
 | `curse_producing_peoples_or_lineages` | curse producing peoples or lineages | 1 | hindu |
-| `curse_transformation_and_delayed_release` | curse transformation and delayed release | 1 | hindu |
-| `curse_transformed_into_blessing` | curse transformed into blessing | 1 | islamic |
-| `cursed_poetic_work_causing_madness_in_readers` | cursed poetic work causing madness in readers | 1 | sufi |
-| `cursed_treasure_or_ring_brings_bloodshed` | Cursed treasure or ring brings bloodshed | 1 | norse |
-| `cursed_victory_giving_weapon_turns_against_its_wielder` | Cursed victory-giving weapon turns against its wielder | 1 | norse |
 | `cursed_wasteland_caused_by_grief_and_anger` | Cursed wasteland caused by grief and anger | 1 | hindu |
-| `custody_of_a_sacred_transcript` | custody of a sacred transcript | 1 | islamic |
-| `dangerous_contagion_of_sacred_objects` | dangerous contagion of sacred objects | 1 | comparative |
-| `dangerous_sacred_contact_through_personal_objects` | dangerous sacred contact through personal objects | 1 | comparative |
-| `dangerous_sacred_stone_causing_madness` | dangerous sacred stone causing madness | 1 | celtic_irish |
 | `dangerous_sea_creature_cursed_through_embedded_weapon_materials` | Dangerous sea creature cursed through embedded weapon materials | 1 | ainu |
-| `deceptive_divine_dream_sent_to_a_ruler` | deceptive divine dream sent to a ruler | 1 | greek |
-| `deceptive_dream_sent_by_a_god` | deceptive dream sent by a god | 1 | greek |
 | `deceptive_entertainment_diverting_from_sacred_teaching` | deceptive entertainment diverting from sacred teaching | 1 | islamic |
-| `deceptive_speech_delaying_divine_detection` | deceptive speech delaying divine detection | 1 | roman |
 | `declaration_of_divine_unity` | declaration of divine unity | 1 | islamic |
-| `defeat_by_disarming_of_a_divine_archer` | defeat by disarming of a divine archer | 1 | greek |
-| `defeat_followed_by_divinely_aided_victory` | defeat followed by divinely aided victory | 1 | islamic |
-| `defeat_of_a_tempter_before_a_sacred_act` | defeat of a tempter before a sacred act | 1 | buddhist |
-| `defensive_armed_goddess_opposed_to_aggressive_war` | defensive armed goddess opposed to aggressive war | 1 | greek_roman |
-| `deity_associated_with_sacred_tree` | deity associated with sacred tree | 1 | comparative |
 | `deity_of_good_fortune_and_blessings` | deity of good fortune and blessings | 1 | greek_roman |
-| `deity_produces_a_sacred_civic_tree` | deity produces a sacred civic tree | 1 | greek_roman |
-| `delayed_purification_until_funeral_duty_is_complete` | delayed purification until funeral duty is complete | 1 | greek |
-| `demon_king_as_monstrous_sleeper_marked_by_divine_conflict` | demon king as monstrous sleeper marked by divine conflict | 1 | hindu |
 | `demonization_of_former_goddess_after_religious_change` | Demonization of former goddess after religious change | 1 | norse |
-| `denial_and_restoration_of_funeral_rites` | denial and restoration of funeral rites | 1 | greek_roman |
 | `denial_of_divine_offspring_and_rival_gods` | Denial of divine offspring and rival gods | 1 | islamic |
 | `desecration_of_ascetic_rites_by_violent_beings` | desecration of ascetic rites by violent beings | 1 | hindu |
 | `desecration_of_sacred_book_as_defiant_self_identification` | desecration of sacred book as defiant self-identification | 1 | islamic |
-| `destruction_of_sacred_or_philosophical_writings_by_fire` | Destruction of sacred or philosophical writings by fire | 1 | sufi |
-| `destruction_or_purification_of_objects_after_dangerous_seclusion` | destruction or purification of objects after dangerous seclusion | 1 | comparative |
 | `devotional_preservation_of_a_holy_person_s_bodily_traces` | devotional preservation of a holy person's bodily traces | 1 | islamic |
-| `devouring_sea_monster_defeated_by_repulsive_offering` | devouring sea monster defeated by repulsive offering | 1 | ainu |
-| `dietary_taboo_with_emergency_exception` | Dietary taboo with emergency exception | 1 | islamic |
-| `directional_divine_elephants` | Directional divine elephants | 1 | hindu |
-| `disguised_catastrophe_mistaken_for_blessing` | disguised catastrophe mistaken for blessing | 1 | islamic |
 | `disguised_figure_extinguishing_ritual_fire` | disguised figure extinguishing ritual fire | 1 | comparative |
-| `disorderly_intrusion_into_ritualized_feast` | disorderly intrusion into ritualized feast | 1 | greek |
-| `dissolution_of_oaths_by_divine_permission` | Dissolution of oaths by divine permission | 1 | islamic |
 | `distinct_heroic_age_of_demi_gods` | distinct heroic age of demi-gods | 1 | greek |
 | `divine_act_of_humanity_contrasted_with_divine_cruelty` | divine act of humanity contrasted with divine cruelty | 1 | roman |
 | `divine_adjuration_in_a_philosophical_contest` | divine adjuration in a philosophical contest | 1 | greek |
-| `divine_adornment_before_erotic_encounter` | Divine adornment before erotic encounter | 1 | greek |
-| `divine_adornment_before_heavenly_reception` | Divine adornment before heavenly reception | 1 | greek_roman |
 | `divine_adornment_before_presentation` | divine adornment before presentation | 1 | greek |
-| `divine_adornment_before_public_appearance` | divine adornment before public appearance | 1 | greek |
-| `divine_advice_reveals_the_necessary_weapon` | Divine advice reveals the necessary weapon | 1 | hindu |
 | `divine_agency_and_human_culpability_in_tension` | divine agency and human culpability in tension | 1 | sufi |
-| `divine_agency_behind_love_among_perishing_beings` | divine agency behind love among perishing beings | 1 | sufi |
-| `divine_aid_concealed_in_household_action` | divine aid concealed in household action | 1 | greek |
-| `divine_aid_determines_battle_momentum` | divine aid determines battle momentum | 1 | greek |
-| `divine_aid_guiding_the_fatal_weapon` | divine aid guiding the fatal weapon | 1 | greek |
-| `divine_aid_in_a_heroic_trial` | divine aid in a heroic trial | 1 | greek_roman |
-| `divine_aid_in_battle_through_heavenly_auxiliaries` | divine aid in battle through heavenly auxiliaries | 1 | islamic |
-| `divine_aid_in_battle_through_unseen_hosts` | Divine aid in battle through unseen hosts | 1 | islamic |
-| `divine_aid_in_battle_through_wind_and_unseen_hosts` | Divine aid in battle through wind and unseen hosts | 1 | islamic |
-| `divine_aid_in_refuge` | divine aid in refuge | 1 | islamic |
-| `divine_aid_in_surviving_dangerous_waters` | divine aid in surviving dangerous waters | 1 | greek |
-| `divine_aid_invoked_for_wound_healing` | divine aid invoked for wound healing | 1 | finnish_karelian |
-| `divine_aid_restores_a_fallen_warrior` | divine aid restores a fallen warrior | 1 | greek |
-| `divine_aid_reverses_battlefield_defeat` | Divine aid reverses battlefield defeat | 1 | islamic |
-| `divine_aid_sought_after_prior_vision` | divine aid sought after prior vision | 1 | roman |
-| `divine_aid_sustaining_an_army` | divine aid sustaining an army | 1 | roman |
-| `divine_aid_through_a_sacred_weapon` | divine aid through a sacred weapon | 1 | japanese |
-| `divine_aid_through_presence_and_heavenly_auxiliaries` | Divine aid through presence and heavenly auxiliaries | 1 | islamic |
-| `divine_aid_to_a_hero_at_sea` | divine aid to a hero at sea | 1 | roman |
-| `divine_aid_to_an_unarmed_hero` | divine aid to an unarmed hero | 1 | greek |
-| `divine_aid_to_captive_heroine` | divine aid to captive heroine | 1 | hindu |
-| `divine_aid_to_hero_in_battle` | Divine aid to hero in battle | 1 | roman |
-| `divine_aid_withdrawn_by_higher_divine_order` | divine aid withdrawn by higher divine order | 1 | roman |
-| `divine_alert_to_righteous_distress` | divine alert to righteous distress | 1 | buddhist |
-| `divine_allotment_of_lifespan_at_birth` | Divine allotment of lifespan at birth | 1 | roman |
-| `divine_allotment_of_office` | divine allotment of office | 1 | greek |
-| `divine_ally_assists_revenge_against_household_usurpers` | Divine ally assists revenge against household usurpers | 1 | greek |
-| `divine_ally_defeats_giant_with_hurled_island` | Divine ally defeats giant with hurled island | 1 | greek_roman |
-| `divine_ally_empowers_a_mortal_hero_against_a_god` | divine ally empowers a mortal hero against a god | 1 | greek |
-| `divine_and_celestial_witnessing_of_royal_sacrifice` | divine and celestial witnessing of royal sacrifice | 1 | hindu |
-| `divine_and_elemental_navigation_through_rapids` | Divine and elemental navigation through rapids | 1 | finnish_karelian |
 | `divine_and_heroic_feminine_exemplars_contrasted_with_human_social_order` | divine and heroic feminine exemplars contrasted with human social order | 1 | greek |
-| `divine_and_mortal_names_for_love` | Divine and mortal names for love | 1 | greek |
-| `divine_animal_bearing_a_god_s_storm_weapons` | Divine animal bearing a god's storm weapons | 1 | greek_roman |
-| `divine_animal_omen_before_battle` | divine animal omen before battle | 1 | greek |
 | `divine_animal_vehicle` | Divine animal vehicle | 1 | hindu |
 | `divine_antagonist_reacts_to_the_hero_group_s_settlement` | divine antagonist reacts to the hero group's settlement | 1 | roman |
-| `divine_appeal_for_preservation_of_the_cosmos` | divine appeal for preservation of the cosmos | 1 | roman |
-| `divine_approval_announced_by_heavenly_messenger` | Divine approval announced by heavenly messenger | 1 | islamic |
-| `divine_approval_by_lightning_sign` | Divine approval by lightning sign | 1 | greek_roman |
-| `divine_architect_shapes_pre_existent_matter` | Divine architect shapes pre-existent matter | 1 | roman |
-| `divine_arming_and_martial_reordering` | divine arming and martial reordering | 1 | greek |
-| `divine_arming_before_battle` | divine arming before battle | 1 | greek |
-| `divine_arousal_of_warriors_for_battle` | Divine arousal of warriors for battle | 1 | greek |
 | `divine_assembly_with_music` | divine assembly with music | 1 | greek |
-| `divine_assistance_in_battle` | divine assistance in battle | 1 | islamic |
-| `divine_assistance_leading_to_victory` | Divine assistance leading to victory | 1 | islamic |
-| `divine_assistance_to_messengers_and_victory_over_opponents` | Divine assistance to messengers and victory over opponents | 1 | islamic |
-| `divine_attack_on_city_foundations` | Divine attack on city foundations | 1 | greek |
-| `divine_attendants_adorning_a_goddess` | Divine attendants adorning a goddess | 1 | greek_roman |
-| `divine_authorization_of_spoil_distribution` | divine authorization of spoil distribution | 1 | islamic |
 | `divine_banquet_with_selective_recognition` | Divine banquet with selective recognition | 1 | greek |
-| `divine_battle_frenzy` | divine battle frenzy | 1 | norse |
-| `divine_beautification_of_the_hero` | Divine beautification of the hero | 1 | greek |
-| `divine_beings_marked_by_nonhuman_bodily_signs` | Divine beings marked by nonhuman bodily signs | 1 | hindu |
-| `divine_beings_produced_from_a_god_s_body` | Divine beings produced from a god’s body | 1 | hindu |
-| `divine_bestowal_of_fertility_and_prosperity` | Divine bestowal of fertility and prosperity | 1 | greek |
-| `divine_bestowal_of_martial_skill_and_weapons` | divine bestowal of martial skill and weapons | 1 | greek |
 | `divine_bird_vehicle` | divine bird vehicle | 1 | hindu |
-| `divine_boon_empowering_an_oppressive_antagonist` | Divine boon empowering an oppressive antagonist | 1 | hindu |
-| `divine_boon_empowers_an_otherwise_unbeatable_warrior` | divine boon empowers an otherwise unbeatable warrior | 1 | hindu |
 | `divine_boon_with_fatal_exception` | divine boon with fatal exception | 1 | hindu |
-| `divine_breath_desired_for_animation` | Divine breath desired for animation | 1 | finnish_karelian |
-| `divine_call_from_fire_and_mountain_side` | Divine call from fire and mountain-side | 1 | islamic |
-| `divine_celebration_after_heroic_demon_slaying` | divine celebration after heroic demon-slaying | 1 | hindu |
-| `divine_city_of_immortals` | Divine city of immortals | 1 | hindu |
 | `divine_cloud_compelling_epithet` | divine cloud-compelling epithet | 1 | greek |
-| `divine_combat_and_victory_over_enemies` | Divine combat and victory over enemies | 1 | hindu |
-| `divine_command_brings_a_human_into_being` | Divine command brings a human into being | 1 | islamic |
-| `divine_command_mediated_by_messengers` | divine command mediated by messengers | 1 | greek |
-| `divine_command_over_battle_waters` | divine command over battle waters | 1 | greek |
-| `divine_command_over_retreating_waters` | divine command over retreating waters | 1 | roman |
-| `divine_command_regulating_social_transition` | divine command regulating social transition | 1 | islamic |
-| `divine_command_transmitted_through_dream_apparition` | Divine command transmitted through dream apparition | 1 | roman |
-| `divine_commission_to_confront_an_oppressive_ruler` | Divine commission to confront an oppressive ruler | 1 | islamic |
-| `divine_commissioning_of_a_messenger_against_an_impious_ruler` | Divine commissioning of a messenger against an impious ruler | 1 | islamic |
-| `divine_commissioning_of_a_reluctant_messenger_before_a_ruler` | Divine commissioning of a reluctant messenger before a ruler | 1 | islamic |
-| `divine_commissioning_with_miraculous_signs` | divine commissioning with miraculous signs | 1 | islamic |
 | `divine_compulsion_in_erotic_union` | divine compulsion in erotic union | 1 | greek |
-| `divine_compulsion_used_to_explain_human_wrongdoing` | Divine compulsion used to explain human wrongdoing | 1 | greek |
-| `divine_concealment_of_a_renamed_mortal_in_woodland_sanctuary` | divine concealment of a renamed mortal in woodland sanctuary | 1 | roman |
-| `divine_concealment_of_a_threatened_hero_in_a_cloud` | divine concealment of a threatened hero in a cloud | 1 | roman |
 | `divine_concealment_of_recognition` | divine concealment of recognition | 1 | greek |
-| `divine_concealment_rescues_a_vulnerable_hero` | Divine concealment rescues a vulnerable hero | 1 | greek |
-| `divine_conflict_for_world_supremacy` | divine conflict for world supremacy | 1 | norse |
-| `divine_conflict_interrupted_by_another_deity` | divine conflict interrupted by another deity | 1 | greek |
 | `divine_consort_of_a_chief_god` | Divine consort of a chief god | 1 | celtic_irish |
 | `divine_contest_aid_used_to_overcome_a_woman` | Divine contest aid used to overcome a woman | 1 | greek |
-| `divine_contest_around_the_golden_apple` | divine contest around the golden apple | 1 | greek |
-| `divine_control_of_battle_through_weather_and_light` | Divine control of battle through weather and light | 1 | greek |
-| `divine_control_of_cosmic_alternation` | Divine control of cosmic alternation | 1 | islamic |
-| `divine_council_authorizes_intervention_in_human_war` | Divine council authorizes intervention in human war | 1 | greek |
-| `divine_council_before_human_creation` | Divine council before human creation | 1 | islamic |
-| `divine_council_chooses_nonintervention` | Divine council chooses nonintervention | 1 | greek |
-| `divine_counter_plot_against_hostile_plotters` | divine counter-plot against hostile plotters | 1 | islamic |
-| `divine_counterplot_against_hostile_plotters` | Divine counterplot against hostile plotters | 1 | islamic |
-| `divine_creation_and_providence` | Divine creation and providence | 1 | islamic |
-| `divine_creation_ordering_and_sustenance_of_the_cosmos` | Divine creation, ordering, and sustenance of the cosmos | 1 | islamic |
-| `divine_creative_command` | Divine creative command | 1 | islamic |
-| `divine_creative_ordering` | divine creative ordering | 1 | islamic |
-| `divine_creative_word` | Divine creative word | 1 | islamic |
-| `divine_creator_and_provider_shown_through_ordinary_natural_processes` | Divine creator and provider shown through ordinary natural processes | 1 | islamic |
 | `divine_dancing_figure` | Divine dancing figure | 1 | greek |
-| `divine_decree_inscribed_on_a_heavenly_record` | divine decree inscribed on a heavenly record | 1 | islamic |
-| `divine_decree_overrides_individual_choice` | Divine decree overrides individual choice | 1 | islamic |
-| `divine_defense_of_a_civic_threshold` | Divine defense of a civic threshold | 1 | roman |
-| `divine_deflection_of_weapons_protecting_a_hero` | divine deflection of weapons protecting a hero | 1 | roman |
-| `divine_deliverance_in_communal_battle` | divine deliverance in communal battle | 1 | islamic |
-| `divine_disclosure_of_a_hidden_secret` | Divine disclosure of a hidden secret | 1 | islamic |
-| `divine_displeasure_expressed_as_flood_with_monsters` | Divine displeasure expressed as flood with monsters | 1 | greek_roman |
-| `divine_distribution_of_lineage_gifts` | Divine distribution of lineage gifts | 1 | greek |
-| `divine_easing_of_a_burdensome_weight` | divine easing of a burdensome weight | 1 | islamic |
-| `divine_empowerment_of_a_battlefield_hero` | divine empowerment of a battlefield hero | 1 | greek |
-| `divine_empowerment_of_a_warrior_in_battle` | divine empowerment of a warrior in battle | 1 | greek |
-| `divine_empowerment_through_sanctioned_armor` | divine empowerment through sanctioned armor | 1 | greek |
-| `divine_encounter_at_a_fire` | divine encounter at a fire | 1 | islamic |
-| `divine_encounter_at_a_mysterious_fire` | divine encounter at a mysterious fire | 1 | islamic |
-| `divine_enthronement_after_creation` | divine enthronement after creation | 1 | islamic |
-| `divine_epiphany_in_transformed_radiant_body` | divine epiphany in transformed radiant body | 1 | greek |
 | `divine_eye_as_symbolic_attribute` | divine eye as symbolic attribute | 1 | comparative |
-| `divine_fault_finder` | divine fault-finder | 1 | greek_roman |
-| `divine_favor_brings_wealth_to_mortals` | divine favor brings wealth to mortals | 1 | greek |
-| `divine_favor_shifts_toward_the_enemy_champion` | divine favor shifts toward the enemy champion | 1 | greek |
-| `divine_figure_concealed_in_a_mortal_looking_captive` | divine figure concealed in a mortal-looking captive | 1 | roman |
-| `divine_fire_and_metalworking_craft` | divine fire and metalworking craft | 1 | greek_roman |
 | `divine_foreknowledge_used_to_defend_forbidden_or_disputed_drinking` | divine foreknowledge used to defend forbidden or disputed drinking | 1 | sufi |
-| `divine_foundation_of_a_sacrificial_center` | divine foundation of a sacrificial center | 1 | norse |
 | `divine_game_testing_invulnerability` | divine game testing invulnerability | 1 | norse |
-| `divine_gift_of_abundance` | Divine gift of abundance | 1 | islamic |
-| `divine_gift_preserving_vitality_after_mortal_injury` | divine gift preserving vitality after mortal injury | 1 | hindu |
-| `divine_grant_judged_insufficient_by_ascetic_aspirant` | divine grant judged insufficient by ascetic aspirant | 1 | hindu |
-| `divine_granting_of_a_transformative_petition` | divine granting of a transformative petition | 1 | roman |
-| `divine_healer` | divine healer | 1 | greek |
 | `divine_healer_completes_transformed_humanity` | divine healer completes transformed humanity | 1 | greek |
-| `divine_healing_before_inquiry` | divine healing before inquiry | 1 | sufi |
-| `divine_healing_in_answer_to_battlefield_prayer` | divine healing in answer to battlefield prayer | 1 | greek |
-| `divine_healing_of_wounded_god_or_hero` | Divine healing of wounded god or hero | 1 | greek |
-| `divine_hearing_of_a_vulnerable_petition` | Divine hearing of a vulnerable petition | 1 | islamic |
-| `divine_heirloom_passed_from_heaven_to_father_to_son` | divine heirloom passed from heaven to father to son | 1 | greek |
-| `divine_helper_adorns_the_chosen_figure` | divine helper adorns the chosen figure | 1 | buddhist |
-| `divine_helper_appears_as_mysterious_extra_passenger` | Divine helper appears as mysterious extra passenger | 1 | norse |
-| `divine_helper_as_charioteer_in_heroic_battle` | divine helper as charioteer in heroic battle | 1 | hindu |
-| `divine_helper_provides_protective_antidote_before_magical_trial` | divine helper provides protective antidote before magical trial | 1 | greek_roman |
-| `divine_helper_reassures_and_protects_the_hero` | Divine helper reassures and protects the hero | 1 | greek |
-| `divine_hero_carried_by_animal_or_allied_bearer` | divine hero carried by animal or allied bearer | 1 | hindu |
-| `divine_hospitality_and_inexhaustible_abundance` | Divine hospitality and inexhaustible abundance | 1 | hindu |
 | `divine_human_union_in_a_saviour_figure` | divine-human union in a saviour figure | 1 | greek |
 | `divine_human_union_in_one_person` | divine-human union in one person | 1 | islamic |
 | `divine_huntress_in_wild_mountain_landscape` | divine huntress in wild mountain landscape | 1 | greek |
-| `divine_illumination_as_dawn` | Divine illumination as dawn | 1 | sufi |
-| `divine_image_and_incarnate_manifestation` | divine image and incarnate manifestation | 1 | sufi |
-| `divine_immanence_in_the_heart_and_everywhere` | divine immanence in the heart and everywhere | 1 | sufi |
-| `divine_incarnation_completes_the_gods_task` | divine incarnation completes the gods’ task | 1 | hindu |
-| `divine_incarnation_identification_of_a_hero` | Divine incarnation identification of a hero | 1 | hindu |
-| `divine_incarnation_in_multiple_forms` | divine incarnation in multiple forms | 1 | hindu |
 | `divine_incarnation_or_indwelling_in_a_human_figure` | Divine incarnation or indwelling in a human figure | 1 | sufi |
 | `divine_incarnation_punishing_the_eater_from_within_the_body` | divine incarnation punishing the eater from within the body | 1 | comparative |
-| `divine_incitement_of_a_warrior_in_battle` | divine incitement of a warrior in battle | 1 | roman |
-| `divine_incitement_of_battle_fury` | divine incitement of battle fury | 1 | roman |
-| `divine_incomparability_and_anti_anthropomorphic_caution` | divine incomparability and anti-anthropomorphic caution | 1 | islamic |
 | `divine_independence_from_the_world` | Divine independence from the world | 1 | sufi |
 | `divine_indwelling_or_incarnation_in_a_human_figure` | Divine indwelling or incarnation in a human figure | 1 | sufi |
-| `divine_influence_in_battle` | divine influence in battle | 1 | greek |
-| `divine_influence_over_battle_outcome` | Divine influence over battle outcome | 1 | greek |
-| `divine_influence_over_human_displacement_and_rescue` | Divine influence over human displacement and rescue | 1 | greek |
 | `divine_injury_followed_by_invulnerability_boons` | divine injury followed by invulnerability boons | 1 | hindu |
 | `divine_inner_metal_contrasted_with_earthly_metal` | divine inner metal contrasted with earthly metal | 1 | greek |
-| `divine_inspiration_of_eloquence` | Divine inspiration of eloquence | 1 | greek |
-| `divine_instruction_by_vision` | divine instruction by vision | 1 | norse |
-| `divine_intervention_determines_a_contest_outcome` | divine intervention determines a contest outcome | 1 | greek |
-| `divine_intervention_disables_a_warrior` | Divine intervention disables a warrior | 1 | greek |
-| `divine_intervention_in_a_pursuit` | divine intervention in a pursuit | 1 | greek |
-| `divine_intervention_in_combat` | divine intervention in combat | 1 | greek |
-| `divine_intervention_in_contest_victory` | divine intervention in contest victory | 1 | roman |
-| `divine_intervention_in_heroic_conflict` | Divine intervention in heroic conflict | 1 | greek |
-| `divine_intervention_in_single_combat` | divine intervention in single combat | 1 | greek |
-| `divine_intervention_opposed_by_another_god` | divine intervention opposed by another god | 1 | greek |
-| `divine_intervention_prevents_a_successful_human_strike` | divine intervention prevents a successful human strike | 1 | roman |
-| `divine_intervention_releases_war` | Divine intervention releases war | 1 | roman |
-| `divine_intervention_restrains_imminent_violence` | Divine intervention restrains imminent violence | 1 | greek_roman |
-| `divine_intervention_surpassing_human_healing_art` | divine intervention surpassing human healing art | 1 | roman |
-| `divine_intervention_to_protect_or_halt_warriors` | divine intervention to protect or halt warriors | 1 | greek |
-| `divine_intervention_to_renew_human_courage` | Divine intervention to renew human courage | 1 | greek |
-| `divine_intervention_triggered_by_a_crisis_sign` | Divine intervention triggered by a crisis sign | 1 | buddhist |
-| `divine_intervention_turns_the_battle` | divine intervention turns the battle | 1 | greek |
 | `divine_judgment_of_a_cultural_invention` | divine judgment of a cultural invention | 1 | greek |
-| `divine_light_resisted_but_perfected` | divine light resisted but perfected | 1 | islamic |
-| `divine_love_animating_nature_and_sacred_mountain` | divine love animating nature and sacred mountain | 1 | sufi |
 | `divine_machinery_in_epic_action` | divine machinery in epic action | 1 | greek |
-| `divine_madness_inciting_social_disorder` | divine madness inciting social disorder | 1 | roman |
-| `divine_maintenance_of_cosmic_order` | Divine maintenance of cosmic order | 1 | islamic |
-| `divine_making_determines_human_nature` | Divine making determines human nature | 1 | sufi |
-| `divine_management_of_mortal_single_combat` | divine management of mortal single combat | 1 | greek |
-| `divine_manifestation_in_heroic_form` | divine manifestation in heroic form | 1 | hindu |
-| `divine_manifestation_in_human_form` | divine manifestation in human form | 1 | islamic |
-| `divine_manifestation_on_a_mountain` | divine manifestation on a mountain | 1 | islamic |
 | `divine_manufacture_of_human_social_types_with_a_moral_ingredient` | divine manufacture of human social types with a moral ingredient | 1 | greek |
-| `divine_mercy_as_measured_rain_or_trickling_water` | divine mercy as measured rain or trickling water | 1 | sufi |
-| `divine_mercy_expressed_through_water_after_despair` | Divine mercy expressed through water after despair | 1 | islamic |
-| `divine_mercy_figured_as_an_ocean` | divine mercy figured as an ocean | 1 | sufi |
-| `divine_mercy_through_repentance` | divine mercy through repentance | 1 | sufi |
-| `divine_message_to_humans` | divine message to humans | 1 | greek |
-| `divine_messenger_announces_command` | divine messenger announces command | 1 | greek |
-| `divine_messenger_function` | Divine messenger function | 1 | greek |
 | `divine_messenger_marked_by_winged_or_heraldic_attributes` | divine messenger marked by winged or heraldic attributes | 1 | greek_roman |
-| `divine_messenger_mediating_gods_and_humans` | divine messenger mediating gods and humans | 1 | greek_roman |
-| `divine_messenger_prompts_battle_during_hero_s_absence` | divine messenger prompts battle during hero's absence | 1 | roman |
-| `divine_messenger_sent_with_decree` | divine messenger sent with decree | 1 | greek |
 | `divine_musical_contrast_as_civic_preference` | divine musical contrast as civic preference | 1 | greek |
-| `divine_musician_and_leader_of_song` | divine musician and leader of song | 1 | greek_roman |
-| `divine_musician_with_magical_instrument` | divine musician with magical instrument | 1 | norse |
 | `divine_nectar` | divine nectar | 1 | hindu |
-| `divine_nourishment_sustains_a_hero_before_battle` | divine nourishment sustains a hero before battle | 1 | greek |
-| `divine_nurse_for_a_prayed_for_child` | divine nurse for a prayed-for child | 1 | greek |
 | `divine_objection_to_human_fortification` | Divine objection to human fortification | 1 | greek |
-| `divine_obstruction_of_childbirth` | divine obstruction of childbirth | 1 | greek |
-| `divine_obstruction_through_storm` | divine obstruction through storm | 1 | greek |
-| `divine_omniscience_of_hidden_intentions` | divine omniscience of hidden intentions | 1 | islamic |
-| `divine_omniscience_over_hidden_withdrawal` | Divine omniscience over hidden withdrawal | 1 | islamic |
-| `divine_opening_or_constriction_of_the_inner_self` | divine opening or constriction of the inner self | 1 | islamic |
-| `divine_opposition_during_sea_ordeal` | divine opposition during sea ordeal | 1 | greek |
-| `divine_or_animated_tools_appear_in_human_form` | Divine or animated tools appear in human form | 1 | ainu |
-| `divine_or_celestial_intervention_creates_a_protective_water_barrier` | divine or celestial intervention creates a protective water barrier | 1 | comparative |
-| `divine_or_celestial_weapons_bestowed_on_the_hero` | divine or celestial weapons bestowed on the hero | 1 | hindu |
 | `divine_or_claimed_divine_commission_to_destroy_religious_enemies` | Divine or claimed divine commission to destroy religious enemies | 1 | islamic |
-| `divine_or_named_weapons_decide_battle` | divine or named weapons decide battle | 1 | hindu |
 | `divine_or_numinous_stranger` | divine or numinous stranger | 1 | comparative |
 | `divine_or_paradisal_vehicle` | divine or paradisal vehicle | 1 | hindu |
 | `divine_or_personified_figure_paired_with_human_or_animal_title_participant` | divine or personified figure paired with human or animal title participant | 1 | greek |
-| `divine_or_saintly_archer_associated_with_light` | divine or saintly archer associated with light | 1 | norse |
-| `divine_or_semi_divine_blessed_inhabitants_of_an_ideal_state` | Divine or semi-divine blessed inhabitants of an ideal state | 1 | greek |
-| `divine_or_supernatural_boundary_imposed_on_pursuit` | Divine or supernatural boundary imposed on pursuit | 1 | roman |
-| `divine_or_supernatural_river_opposition_to_hero` | divine or supernatural river opposition to hero | 1 | greek |
-| `divine_or_supernatural_sleep_dwelling_in_a_dark_liminal_place` | divine or supernatural sleep dwelling in a dark liminal place | 1 | roman |
-| `divine_or_supernatural_weapon_slays_deceiver` | Divine or supernatural weapon slays deceiver | 1 | hindu |
-| `divine_ordering_and_provision_of_the_cosmos` | Divine ordering and provision of the cosmos | 1 | islamic |
-| `divine_path_opposed_to_scattering_paths` | Divine path opposed to scattering paths | 1 | islamic |
 | `divine_patron_honored_across_multiple_realms` | Divine patron honored across multiple realms | 1 | greek |
-| `divine_patron_strengthens_a_wounded_warrior` | divine patron strengthens a wounded warrior | 1 | greek |
-| `divine_patronage_of_a_hero_and_his_household` | divine patronage of a hero and his household | 1 | greek |
-| `divine_patronage_of_opposing_mortal_champions` | divine patronage of opposing mortal champions | 1 | greek |
-| `divine_patronage_of_singers_and_music` | divine patronage of singers and music | 1 | greek |
 | `divine_patrons_pursued_by_hostile_ruler` | divine patrons pursued by hostile ruler | 1 | roman |
 | `divine_peace_stead_and_golden_age` | Divine peace-stead and Golden Age | 1 | norse |
-| `divine_person_forbidden_to_touch_the_earth` | divine person forbidden to touch the earth | 1 | comparative |
-| `divine_petition_to_a_high_god_on_behalf_of_a_hero` | Divine petition to a high god on behalf of a hero | 1 | greek |
 | `divine_possession_of_cosmic_treasure_and_true_might` | Divine possession of cosmic treasure and true might | 1 | islamic |
 | `divine_possession_of_humans` | divine possession of humans | 1 | comparative |
 | `divine_power_over_prosperity_through_child_plutus` | divine power over prosperity through child Plutus | 1 | greek_roman |
-| `divine_power_that_compels_love_across_gods_humans_and_animals` | Divine power that compels love across gods, humans, and animals | 1 | greek |
-| `divine_powers_governing_agricultural_success` | divine powers governing agricultural success | 1 | greek |
-| `divine_prayer_followed_by_hostile_natural_force` | divine prayer followed by hostile natural force | 1 | greek |
-| `divine_precedent_invoked_to_suspend_human_law` | divine precedent invoked to suspend human law | 1 | roman |
 | `divine_presence_distributed_through_an_animal_species` | divine presence distributed through an animal species | 1 | comparative |
-| `divine_presence_in_the_suffering_human` | Divine presence in the suffering human | 1 | sufi |
-| `divine_presence_reassures_endangered_companions` | divine presence reassures endangered companions | 1 | islamic |
 | `divine_presence_transmitted_through_successive_persons` | divine presence transmitted through successive persons | 1 | islamic |
-| `divine_preservation_of_the_faithful_witness` | Divine preservation of the faithful witness | 1 | islamic |
-| `divine_preservation_of_the_messenger_from_temptation` | divine preservation of the messenger from temptation | 1 | islamic |
-| `divine_prolonging_of_night_for_reunion` | divine prolonging of night for reunion | 1 | greek |
-| `divine_prompting_of_secret_counsel` | divine prompting of secret counsel | 1 | greek_roman |
-| `divine_protection_against_hidden_evil_influence` | Divine protection against hidden evil influence | 1 | islamic |
-| `divine_protection_by_erupting_spring` | divine protection by erupting spring | 1 | greek_roman |
-| `divine_protection_from_ambush_or_attack` | divine protection from ambush or attack | 1 | islamic |
-| `divine_protection_from_an_adversarial_satan` | Divine protection from an adversarial Satan | 1 | islamic |
-| `divine_protection_from_weapons_in_battle` | divine protection from weapons in battle | 1 | greek |
-| `divine_protection_in_battle` | divine protection in battle | 1 | greek |
-| `divine_protection_of_a_favored_warrior_in_battle` | divine protection of a favored warrior in battle | 1 | greek |
-| `divine_protection_of_a_hero_s_remains_from_a_serpent` | divine protection of a hero's remains from a serpent | 1 | roman |
-| `divine_protection_of_a_messenger_in_hiding` | Divine protection of a messenger in hiding | 1 | islamic |
-| `divine_protection_of_a_warrior_in_battle` | divine protection of a warrior in battle | 1 | greek |
-| `divine_protection_of_the_besieged_city` | Divine protection of the besieged city | 1 | greek |
-| `divine_protection_turns_aside_a_lethal_weapon` | Divine protection turns aside a lethal weapon | 1 | greek |
 | `divine_protector_versus_powerless_false_gods` | Divine protector versus powerless false gods | 1 | islamic |
-| `divine_providence_supplies_the_devotee` | divine providence supplies the devotee | 1 | sufi |
-| `divine_provision_and_protection_of_a_community` | Divine provision and protection of a community | 1 | islamic |
-| `divine_provision_by_rain_and_supplied_food` | Divine provision by rain and supplied food | 1 | islamic |
-| `divine_provision_for_all_living_creatures` | divine provision for all living creatures | 1 | islamic |
-| `divine_provision_in_sacred_seclusion` | divine provision in sacred seclusion | 1 | islamic |
-| `divine_provision_in_the_wilderness` | divine provision in the wilderness | 1 | islamic |
-| `divine_provision_in_the_wilderness_community` | divine provision in the wilderness community | 1 | islamic |
-| `divine_provision_through_animals_and_plants` | divine provision through animals and plants | 1 | islamic |
-| `divine_provision_through_created_nature` | Divine provision through created nature | 1 | islamic |
-| `divine_provision_through_rain_and_revived_land` | Divine provision through rain and revived land | 1 | islamic |
-| `divine_provision_through_rain_and_vegetation` | Divine provision through rain and vegetation | 1 | islamic |
-| `divine_provision_through_water_vegetation_animals_and_transport` | Divine provision through water, vegetation, animals, and transport | 1 | islamic |
-| `divine_provision_withheld_or_granted` | Divine provision withheld or granted | 1 | islamic |
-| `divine_punishment_by_transformation_into_stone` | divine punishment by transformation into stone | 1 | greek_roman |
-| `divine_punishment_by_water` | divine punishment by water | 1 | islamic |
-| `divine_purification_after_a_wrongful_killing` | Divine purification after a wrongful killing | 1 | hindu |
-| `divine_purification_through_revealed_religion` | divine purification through revealed religion | 1 | islamic |
-| `divine_radiance_around_the_head` | divine radiance around the head | 1 | roman |
-| `divine_radiance_mediated_by_concealment` | divine radiance mediated by concealment | 1 | sufi |
-| `divine_rearming_of_the_hero` | divine rearming of the hero | 1 | greek |
-| `divine_reassurance_after_apparent_abandonment` | divine reassurance after apparent abandonment | 1 | islamic |
-| `divine_reassurance_after_distress` | divine reassurance after distress | 1 | islamic |
-| `divine_recognition_through_revealed_beauty_and_scent` | Divine recognition through revealed beauty and scent | 1 | greek |
-| `divine_rejuvenation_or_enhancement_of_an_elder` | Divine rejuvenation or enhancement of an elder | 1 | greek |
 | `divine_removal_of_human_sense` | divine removal of human sense | 1 | greek |
-| `divine_removal_of_obscuring_darkness` | divine removal of obscuring darkness | 1 | greek |
-| `divine_rescue_by_concealing_cloud` | divine rescue by concealing cloud | 1 | greek |
-| `divine_rescue_by_concealment_and_removal` | divine rescue by concealment and removal | 1 | greek |
-| `divine_rescue_by_concealment_in_cloud` | divine rescue by concealment in cloud | 1 | greek |
-| `divine_rescue_in_peril_at_sea_followed_by_ingratitude` | Divine rescue in peril at sea followed by ingratitude | 1 | islamic |
 | `divine_rescue_of_a_pursued_figure` | Divine rescue of a pursued figure | 1 | roman |
 | `divine_rescue_of_an_imperiled_hero` | divine rescue of an imperiled hero | 1 | greek |
 | `divine_rescue_of_defeated_favorite` | divine rescue of defeated favorite | 1 | greek |
@@ -7717,13 +7343,10 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `supernatural_etiological_place_naming` | supernatural etiological place-naming | 1 | celtic_irish |
 | `supernatural_expansion_or_accommodation_of_an_immense_assembly` | supernatural expansion or accommodation of an immense assembly | 1 | buddhist |
 | `supernatural_fleetness_over_fragile_ground` | supernatural fleetness over fragile ground | 1 | greek |
-| `supernatural_helper_with_limited_powers` | Supernatural helper with limited powers | 1 | islamicate_folklore |
-| `supernatural_hound_as_avenging_agent` | supernatural hound as avenging agent | 1 | celtic_irish |
 | `supernatural_hound_bound_in_sleep` | supernatural hound bound in sleep | 1 | celtic_irish |
 | `supernatural_mound_folk_as_powerful_pre_christian_demons` | supernatural mound folk as powerful pre-Christian demons | 1 | celtic_irish |
 | `supernatural_or_unmatched_hunting_hound` | Supernatural or unmatched hunting hound | 1 | celtic_irish |
 | `supernatural_relocation_of_useful_stones_with_landscape_formation` | supernatural relocation of useful stones with landscape formation | 1 | indigenous_australian |
-| `supernatural_retaliation_for_guileful_acquisition` | supernatural retaliation for guileful acquisition | 1 | celtic_irish |
 | `supernatural_royal_female` | supernatural royal female | 1 | celtic_irish |
 | `suppliant_denied_mercy` | suppliant denied mercy | 1 | greek |
 | `suppliant_ransom_offer_refused` | suppliant ransom offer refused | 1 | greek |
@@ -7785,24 +7408,14 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `unexpected_food_bearer_after_deprivation` | unexpected food-bearer after deprivation | 1 | celtic_welsh |
 | `unexpected_helper_joins_fugitives_and_provides_protection` | Unexpected helper joins fugitives and provides protection | 1 | celtic_irish |
 | `unexpected_treasure_discovered_while_ploughing` | unexpected treasure discovered while ploughing | 1 | greek |
-| `unfillable_container_as_trap` | Unfillable container as trap | 1 | celtic_welsh |
 | `uninvited_guest_at_hostile_feast` | uninvited guest at hostile feast | 1 | finnish_karelian |
 | `unity_enables_escape_from_captivity` | unity enables escape from captivity | 1 | buddhist |
 | `unity_through_shared_joy_and_sorrow` | Unity through shared joy and sorrow | 1 | greek |
-| `universal_change_with_nothing_perishing` | universal change with nothing perishing | 1 | roman |
 | `universal_cosmic_praise` | universal cosmic praise | 1 | islamic |
 | `universal_creaturely_praise` | Universal creaturely praise | 1 | islamic |
-| `universal_mutability_of_forms` | universal mutability of forms | 1 | roman |
 | `universal_stilling_and_suspension_at_a_decisive_moment` | Universal stilling and suspension at a decisive moment | 1 | buddhist |
 | `unlikely_object_used_as_lethal_projectile` | unlikely object used as lethal projectile | 1 | celtic_irish |
-| `unrecognized_deity_seized_by_mortals` | unrecognized deity seized by mortals | 1 | greek |
 | `unrecognized_youth_in_an_armed_company` | unrecognized youth in an armed company | 1 | celtic_irish |
-| `unrequited_pursuit_and_rejection` | unrequited pursuit and rejection | 1 | roman |
-| `unseen_angelic_auxiliaries` | Unseen angelic auxiliaries | 1 | islamic |
-| `unseen_demonic_patrons_of_unbelievers` | Unseen demonic patrons of unbelievers | 1 | islamic |
-| `unseen_entry_and_eavesdropping` | unseen entry and eavesdropping | 1 | finnish_karelian |
-| `unspoken_verse_as_illness_relieved_by_recitation` | unspoken verse as illness relieved by recitation | 1 | sufi |
-| `unused_hoarded_wealth_is_equivalent_to_worthless_substitute` | Unused hoarded wealth is equivalent to worthless substitute | 1 | greek |
 | `unwilled_coming_into_and_going_out_of_existence` | Unwilled coming into and going out of existence | 1 | sufi |
 | `unwitting_cannibal_feast_of_kin` | unwitting cannibal feast of kin | 1 | roman |
 | `unwitting_healing_of_an_adversarial_supernatural_woman` | unwitting healing of an adversarial supernatural woman | 1 | celtic_irish |

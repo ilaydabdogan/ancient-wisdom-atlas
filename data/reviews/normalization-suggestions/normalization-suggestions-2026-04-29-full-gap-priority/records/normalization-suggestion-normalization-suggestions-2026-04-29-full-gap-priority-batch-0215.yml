@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0215
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-assembly-with-music
+  motif_id: divine_assembly_with_music
+  label: divine assembly with music
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A divine assembly could involve theophany, sacred song, divine council,
+    or ritual scene-setting, but the function is unclear from the label.
+  cautions: Single occurrence; may be an episode detail rather than a reusable motif.
+    Verify whether music mediates sacred presence, praise, revelation, or merely decorates
+    the scene.
+  suggested_aliases:
+  - divine council with music
+  - music in divine assembly
+  - sacred music before the gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-assistance-in-battle
+  motif_id: divine_assistance_in_battle
+  label: divine assistance in battle
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The label centers on direct sacred aid in human conflict, which fits
+    divine intervention in human affairs.
+  cautions: If the passage emphasizes cosmic combat or sacred warrior identity rather
+    than aid, divine_warrior or sacred_combat may be secondary.
+  suggested_aliases:
+  - divine aid in battle
+  - supernatural assistance in battle
+  - sacred aid in warfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-assistance-leading-to-victory
+  motif_id: divine_assistance_leading_to_victory
+  label: Divine assistance leading to victory
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Victory is attributed to direct divine aid, a clear intervention pattern.
+  cautions: Do not infer divine_warrior unless the deity is portrayed as a combatant;
+    may also relate to divine_judgment if victory is moral vindication.
+  suggested_aliases:
+  - divinely granted victory
+  - victory through divine aid
+  - divine aid leading to victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-assistance-to-messengers-and-victory-over-opponents
+  motif_id: divine_assistance_to_messengers_and_victory_over_opponents
+  label: Divine assistance to messengers and victory over opponents
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core motif is sacred support for chosen messengers against opposition,
+    fitting divine intervention and guidance.
+  cautions: Composite label; if messenger authorization is central, divine_call or
+    sacred_knowledge may be secondary. If opponent defeat is punishment, divine_judgment
+    may apply.
+  suggested_aliases:
+  - divine aid to messengers
+  - messengers aided against opponents
+  - divine support for prophetic mission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-attack-on-city-foundations
+  motif_id: divine_attack_on_city_foundations
+  label: Divine attack on city foundations
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A god attacking a city’s foundations suggests sacred punishment or destruction
+    of social order.
+  cautions: If the attack is part of war rather than moral reckoning, sacred_combat
+    or divine_warrior may be better. If the foundation has cosmic-center meaning,
+    axis_mundi could be relevant.
+  suggested_aliases:
+  - divine destruction of city foundations
+  - god attacks a city foundation
+  - sacred assault on foundations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-attendants-adorning-a-goddess
+  motif_id: divine_attendants_adorning_a_goddess
+  label: Divine attendants adorning a goddess
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on a goddess being ritually or narratively adorned
+    by divine attendants, fitting sacred feminine presentation and divine status.
+  cautions: May be only a scene detail of divine courtly beauty. If the adornment
+    prepares sacred marriage, sovereignty, or theophany, map secondarily to sacred_love,
+    royal_legitimacy, or theophany.
+  suggested_aliases:
+  - goddess adorned by attendants
+  - divine attendants dress a goddess
+  - adorning the goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-authorization-of-spoil-distribution
+  motif_id: divine_authorization_of_spoil_distribution
+  label: divine authorization of spoil distribution
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Divine sanction regulates distribution of war spoils, making social-economic
+    order a matter of sacred law.
+  cautions: Could also relate to covenant or divine_judgment depending on whether
+    obedience, communal order, or punishment is emphasized.
+  suggested_aliases:
+  - sacred regulation of spoils
+  - divinely sanctioned spoil distribution
+  - divine law for war booty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-banquet-with-selective-recognition
+  motif_id: divine_banquet_with_selective_recognition
+  label: Divine banquet with selective recognition
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A divine banquet may signal sacred exchange, theophany, recognition,
+    or exclusion, but the narrative function is not clear.
+  cautions: Single occurrence and composite label. Review whether selective recognition
+    is an initiation test, hospitality scene, divine disguise, or passage-specific
+    plot detail.
+  suggested_aliases:
+  - banquet among gods with recognition
+  - selective recognition at divine feast
+  - divine feast recognition scene
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-battle-frenzy
+  motif_id: divine_battle_frenzy
+  label: divine battle frenzy
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: Battle frenzy associated with divine power fits the sacred warrior/combat
+    complex.
+  cautions: If the frenzy is possession, initiation, or altered state rather than
+    combat role, dream_and_vision or initiation may be secondary.
+  suggested_aliases:
+  - sacred battle frenzy
+  - divinely inspired battle rage
+  - warrior frenzy of divine origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-beautification-of-the-hero
+  motif_id: divine_beautification_of_the_hero
+  label: Divine beautification of the hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity enhancing a hero’s appearance is a direct divine intervention
+    that changes social or narrative status.
+  cautions: If beautification legitimizes rule, courtship, or heroic recognition,
+    royal_legitimacy, sacred_love, or initiation may be useful secondary mappings.
+  suggested_aliases:
+  - divine enhancement of heroic beauty
+  - god beautifies the hero
+  - hero made beautiful by divine aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for broad Pattern Explorer grouping and do
+  not imply historical transmission or shared origin.
+- Several labels are single-occurrence and composite; human review should verify whether
+  they are recurring motifs or passage-level scene details.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Mapped clear divine aid and combat labels to existing groups; left ambiguous
+    divine assembly/banquet scenes for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0215
+  input_sha256: 3a0fd18ca31b6a4fff2c2cd9b67d095b73339cee7e2d0749cdcfe4a9fe6acfcb

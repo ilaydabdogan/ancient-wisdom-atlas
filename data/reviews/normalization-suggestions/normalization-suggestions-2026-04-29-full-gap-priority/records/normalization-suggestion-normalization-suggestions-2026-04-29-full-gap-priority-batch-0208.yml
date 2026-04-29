@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0208
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deity-produces-a-sacred-civic-tree
+  motif_id: deity_produces_a_sacred_civic_tree
+  label: deity produces a sacred civic tree
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A deity-generated civic tree is likely a sacred tree marking a communal
+    center or divine presence.
+  cautions: If the tree is merely an etiological plant origin or civic emblem without
+    axis/center function, sacred_treasures or local cult evidence may be preferable.
+  suggested_aliases:
+  - sacred civic tree
+  - deity produces sacred tree
+  - divinely produced civic tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.delayed-purification-until-funeral-duty-is-complete
+  motif_id: delayed_purification_until_funeral_duty_is_complete
+  label: delayed purification until funeral duty is complete
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a ritual purity rule governed by funerary obligation
+    and sacred duty.
+  cautions: Could also relate to heroic_funeral_rites if the narrative centers on
+    honoring the dead rather than purity law.
+  suggested_aliases:
+  - funeral duty before purification
+  - delayed ritual purification
+  - purification postponed for funeral rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demon-king-as-monstrous-sleeper-marked-by-divine-conflict
+  motif_id: demon_king_as_monstrous_sleeper_marked_by_divine_conflict
+  label: demon king as monstrous sleeper marked by divine conflict
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A demon king defined by divine conflict fits the sacred combat field
+    as an adversary in divine warfare.
+  cautions: The 'monstrous sleeper' detail may be episode-specific; if sleep is the
+    main function, human review may need a separate enchanted-sleep or suspended-power
+    mapping.
+  suggested_aliases:
+  - sleeping demon king
+  - monstrous sleeper in divine conflict
+  - demonic king adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonization-of-former-goddess-after-religious-change
+  motif_id: demonization_of_former_goddess_after_religious_change
+  label: Demonization of former goddess after religious change
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes historical or interpretive religious reclassification
+    rather than a narrative motif.
+  cautions: If a source passage narrates an actual goddess transformed into a demon,
+    review under shapeshifter or divine_judgment instead.
+  suggested_aliases:
+  - demonized former goddess
+  - religious change reclassifies goddess
+  - goddess demonization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.denial-and-restoration-of-funeral-rites
+  motif_id: denial_and_restoration_of_funeral_rites
+  label: denial and restoration of funeral rites
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on proper burial honors being withheld and then restored.
+  cautions: If framed mainly as pollution, taboo, or law rather than memorial honor,
+    sacred_law may be a secondary mapping.
+  suggested_aliases:
+  - funeral rites denied and restored
+  - restoration of burial honors
+  - withheld funeral rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.denial-of-divine-offspring-and-rival-gods
+  motif_id: denial_of_divine_offspring_and_rival_gods
+  label: Denial of divine offspring and rival gods
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears doctrinal or polemical and may not be a narrative motif.
+  cautions: Culturally sensitive theological content; avoid forcing into divine_parent_child
+    or divine_judgment without passage evidence and review intent carefully.
+  suggested_aliases:
+  - denial of divine offspring
+  - denial of rival gods
+  - rejection of divine kinship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.desecration-of-ascetic-rites-by-violent-beings
+  motif_id: desecration_of_ascetic_rites_by_violent_beings
+  label: desecration of ascetic rites by violent beings
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Violent beings profaning ascetic rites creates sacred disorder that often
+    calls for divine or heroic correction.
+  cautions: Could fit sacred_combat, sacrifice, or sacred_law depending on whether
+    the passage emphasizes attack, ritual impurity, or moral retribution.
+  suggested_aliases:
+  - ascetic rites desecrated
+  - violent disruption of ascetic ritual
+  - sacrilege against ascetics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.desecration-of-sacred-book-as-defiant-self-identification
+  motif_id: desecration_of_sacred_book_as_defiant_self_identification
+  label: desecration of sacred book as defiant self-identification
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sacrilege, identity formation, and a specific sacred
+    object in a way that needs source context.
+  cautions: Culturally sensitive and potentially passage-specific; may belong under
+    sacred_knowledge, sacred_law, divine_judgment, or be excluded as contextual commentary.
+  suggested_aliases:
+  - sacred book desecration
+  - defiant desecration of scripture
+  - scripture desecration as identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-sacred-or-philosophical-writings-by-fire
+  motif_id: destruction_of_sacred_or_philosophical_writings_by_fire
+  label: Destruction of sacred or philosophical writings by fire
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Burning sacred or philosophical writings concerns the rejection, concealment,
+    purification, or transformation of knowledge.
+  cautions: If the fire itself is ritually purifying, sacred_fire may be secondary;
+    if merely biographical or historical, exclude as contextual artifact.
+  suggested_aliases:
+  - burning sacred writings
+  - destruction of wisdom texts by fire
+  - burning philosophical writings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-or-purification-of-objects-after-dangerous-seclusion
+  motif_id: destruction_or_purification_of_objects_after_dangerous_seclusion
+  label: destruction or purification of objects after dangerous seclusion
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif describes ritual handling of contaminated or dangerous objects
+    after seclusion.
+  cautions: Could overlap with sacrifice, sacred_treasures, or apotropaic protection
+    depending on whether objects are offerings, power objects, or pollution carriers.
+  suggested_aliases:
+  - purification of objects after seclusion
+  - destruction of contaminated objects
+  - post-seclusion object purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and context-dependent; suggested
+  placements should be treated as provisional indexing aids, not taxonomy changes.
+- Labels involving scripture desecration, Islamic theological denial, or demonization
+  after religious change need especially careful human review for cultural sensitivity
+  and genre distinction.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft machine suggestions for batch-0208; human review needed for culturally
+    sensitive and over-specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0208
+  input_sha256: '08a532a40752be1585bbc61d3b4e74bb064f3eca5aef3261f24b5249648fab3a'

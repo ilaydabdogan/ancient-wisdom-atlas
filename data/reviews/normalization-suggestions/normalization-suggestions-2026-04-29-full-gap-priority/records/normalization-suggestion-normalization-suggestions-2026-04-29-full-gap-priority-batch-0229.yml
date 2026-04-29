@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0229
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-intervention-turns-the-battle
+  motif_id: divine_intervention_turns_the_battle
+  label: divine intervention turns the battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The label describes direct divine action altering a human battle, fitting
+    divine intervention in human affairs.
+  cautions: Could also be secondarily related to divine_warrior or sacred_combat if
+    the passage emphasizes sacred warfare rather than intervention.
+  suggested_aliases:
+  - god turns the battle
+  - divine aid in battle
+  - supernatural intervention in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-judgment-of-a-cultural-invention
+  motif_id: divine_judgment_of_a_cultural_invention
+  label: divine judgment of a cultural invention
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The label names divine evaluation or punishment, but the object being
+    a cultural invention may point to culture-hero, forbidden knowledge, or commentary
+    context.
+  cautions: Needs source evidence to determine whether this is a recurring mythic
+    pattern, an episode-specific judgment, or an interpretive label about technology/culture.
+  suggested_aliases:
+  - divine judgment of invention
+  - punished cultural innovation
+  - sacred evaluation of technology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-light-resisted-but-perfected
+  motif_id: divine_light_resisted_but_perfected
+  label: divine light resisted but perfected
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Divine light is already within the sacred_fire group as sacred presence
+    and cosmic principle.
+  cautions: If the passage is doctrinal or polemical rather than narrative-symbolic,
+    review whether it should be indexed as sacred_knowledge or excluded as commentary.
+  suggested_aliases:
+  - divine light perfected
+  - resisted divine light
+  - sacred light overcoming resistance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-love-animating-nature-and-sacred-mountain
+  motif_id: divine_love_animating_nature_and_sacred_mountain
+  label: divine love animating nature and sacred mountain
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The core motif is divine love as a cosmic animating force, fitting sacred_love
+    more than mountain symbolism alone.
+  cautions: Composite label; sacred mountain or axis_mundi may be secondary if the
+    passage foregrounds the mountain as cosmic center or ascent site.
+  suggested_aliases:
+  - divine love animates nature
+  - cosmic love in nature
+  - sacred mountain animated by divine love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-machinery-in-epic-action
+  motif_id: divine_machinery_in_epic_action
+  label: divine machinery in epic action
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Could refer to gods directing epic events, but the wording may be a literary-critical
+    artifact rather than a motif.
+  cautions: Phrase 'divine machinery' often describes narrative technique; verify
+    passage evidence before mapping to divine_intervention.
+  suggested_aliases:
+  - divine machinery
+  - gods in epic action
+  - divine direction of epic events
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-madness-inciting-social-disorder
+  motif_id: divine_madness_inciting_social_disorder
+  label: divine madness inciting social disorder
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity causing madness that disrupts society is direct divine action
+    in human affairs.
+  cautions: Could also support chaos or divine_judgment if madness functions as punishment
+    or disorder opposed to sacred order.
+  suggested_aliases:
+  - god-sent madness
+  - divine frenzy causes disorder
+  - sacred madness disrupts society
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-maintenance-of-cosmic-order
+  motif_id: divine_maintenance_of_cosmic_order
+  label: Divine maintenance of cosmic order
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: broader_label
+  confidence: medium
+  rationale: Maintaining sacred or cosmic order fits the divine_judgment group's concern
+    with sacred order responding to disorder.
+  cautions: If the passage emphasizes sovereignty rather than reckoning, supreme_ruler
+    or royal_legitimacy may be secondary; if metaphysical doctrine only, review as
+    abstract theme.
+  suggested_aliases:
+  - divine preservation of order
+  - maintenance of cosmic order
+  - sacred order sustained by God
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-making-determines-human-nature
+  motif_id: divine_making_determines_human_nature
+  label: Divine making determines human nature
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns divine creation or making as the source of human nature,
+    fitting creation/origin patterns.
+  cautions: May be philosophical anthropology rather than narrative creation myth;
+    review whether sacred_knowledge or mystical_quest is more apt in Sufi context.
+  suggested_aliases:
+  - human nature determined by divine creation
+  - divine creation of human nature
+  - God's making defines humanity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-management-of-mortal-single-combat
+  motif_id: divine_management_of_mortal_single_combat
+  label: divine management of mortal single combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Gods overseeing or steering a duel is direct intervention in mortal affairs.
+  cautions: Also related to sacred_combat or divine_warrior if the duel carries ritual
+    or cosmic-combat significance.
+  suggested_aliases:
+  - divine oversight of single combat
+  - gods manage mortal duel
+  - divine intervention in duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-manifestation-in-heroic-form
+  motif_id: divine_manifestation_in_heroic_form
+  label: divine manifestation in heroic form
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: role_variant
+  confidence: high
+  rationale: A deity appearing in heroic form is a direct manifestation of sacred
+    presence to human or narrative witnesses.
+  cautions: Could be secondary to divine_warrior if the heroic form is primarily martial,
+    or to avatar/incarnation if a future group is added.
+  suggested_aliases:
+  - heroic theophany
+  - divine appearance as hero
+  - god manifests in heroic form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional placements for review; no transmission or borrowing
+  claim is implied.
+- Several labels are single-occurrence and abstract; human review should verify passage
+  evidence before adding aliases or children.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: High-confidence mappings mostly concern divine intervention, theophany, sacred
+    light, and combat steering; literary-critical or philosophical labels require
+    source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0229
+  input_sha256: 7f0a98f047843ae58c4c5d0b316119e0b6cc9f29c15c3d9298575c480e20cbe6
