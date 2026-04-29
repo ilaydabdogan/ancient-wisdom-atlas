@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l1026-l1112
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: A TABLE OF THE CHAPTERS / THE KORAN. / PRELIMINARY DISCOURSE / SECTION I.;
+    lines 1026-1112
+  start: '1026'
+  end: '1112'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Mecca's setting, water scarcity, provisioning, pilgrimage
+    economy, and reputed holiness; then describes Medina, several Arabian provinces,
+    and a classification of ancient Arab tribes, including destroyed or lost tribes
+    whose remembered catastrophes are said to be preserved by tradition and confirmed
+    by the Koran.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mecca, also called Becca, is described as one of the most ancient cities of
+    the world, located in a stony and barren valley surrounded by mountains.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The city has no usable springs except the well Zemzem, whose water is described
+    as brackish; inhabitants rely on rain-water caught in cisterns and on attempted
+    aqueduct supply.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The soil about Mecca is described as very barren, producing no grain for local
+    use, so provisions must be brought from other places.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hashem appointed two yearly caravans, one in summer and one in winter, to
+    help supply Mecca with provisions.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The yearly pilgrimage brings a large concourse of people of many nations and
+    a major fair or market for merchandise.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Outside Mecca's territory, the passage says one finds good springs, running
+    water, gardens, and cultivated lands.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The temple of Mecca and the reputed holiness of the territory are mentioned,
+    with fuller treatment deferred.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Medina, formerly called Yathreb, is described as a walled city where Mohammed
+    lies interred in a magnificent building adjoining the great temple.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Several Arabian provinces are geographically described by name, including
+    Tehama, Najd, and Yamama.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Arabian writers are said to distinguish the inhabitants into old lost Arabians
+    and the present Arabians.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The former ancient Arabians are described as tribes now destroyed or lost
+    among other tribes, with memories of remarkable events and tribal catastrophes
+    preserved by tradition and confirmed by the Koran.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The named ancient Arabian tribes include Ad, Thamud, Tasm, Jadis, the former
+    Jorham, and Amalek.
+  category: other
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Named as having spent the last ten years of his life at the referenced
+    place and as interred at Medina.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:2
+  name_or_label: Inhabitants of Mecca
+  description: Residents of a barren city who rely on stored rain-water, imported
+    provisions, and income associated with pilgrimage and trade.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Zobair
+  description: A principal man of the tribe of Koreish who attempted to supply Mecca
+    with water from Mount Arafat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Hashem
+  description: Mohammed's great-grandfather and prince of his tribe, said to have
+    appointed two yearly caravans for provisioning.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Pilgrims
+  description: People of almost all nations who come to Mecca at the yearly pilgrimage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Khalif al Moktader
+  description: Named as finishing an aqueduct after several years' labour.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Moseilama
+  description: Described as Mohammed's competitor and a false prophet resident in
+    Yamama.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Old lost Arabians
+  description: Ancient Arabian tribes described as destroyed or lost and known through
+    tradition and the Koran.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: interred prophet
+  assigned_to:
+  - fig:1
+  basis: The passage states that Mohammed lies interred at Medina in a magnificent
+    building.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: desert-city inhabitants dependent on stored and imported resources
+  assigned_to:
+  - fig:2
+  basis: The inhabitants are described as using cistern water, importing provisions,
+    and living where necessities must be purchased.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: water-supply patron or builder
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: Zobair attempted to bring water to Mecca, and al Moktader finished an aqueduct
+    from a distant spring.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: provisioning organizer
+  assigned_to:
+  - fig:4
+  basis: Hashem appointed two caravans each year to supply Mecca with provisions.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: pilgrimage visitors
+  assigned_to:
+  - fig:5
+  basis: The passage describes a prodigious concourse of people at the yearly pilgrimage.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: rival prophet figure
+  assigned_to:
+  - fig:7
+  basis: Moseilama is called Mohammed's competitor and the false prophet in the description
+    of Yamama.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: lost ancestral tribes
+  assigned_to:
+  - fig:8
+  basis: The old Arabians are said to be ancient tribes now destroyed or lost, with
+    memories of their catastrophes preserved.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: mountain-enclosed barren valley
+  literal_form: Stony and barren valley surrounded by mountains around Mecca
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: scarce water and Zamzam well
+  literal_form: Well Zemzem, rain-water cisterns, springs, aqueducts, and running
+    water beyond Mecca
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: temple and holy territory
+  literal_form: The temple of Mecca and the reputed holiness of its territory
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: provisioning caravans
+  literal_form: Two yearly caravans, one in summer and one in winter, bringing provisions
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: lost tribes
+  literal_form: Ancient tribes described as destroyed or lost, including Ad, Thamud,
+    Tasm, Jadis, former Jorham, and Amalek
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Mecca in a barren mountain valley
+  summary: The passage presents Mecca as an ancient city in a stony, barren valley
+    enclosed by mountains, with buildings made from nearby stone.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Water scarcity and supply attempts at Mecca
+  summary: The passage describes scarce and poor local water, reliance on rain-water
+    cisterns, and attempts by named patrons to bring water by aqueduct.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Provisioning and pilgrimage economy
+  summary: Because the soil produces little, provisions are brought in by caravans,
+    and the city gains wealth from the annual pilgrimage and associated market.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: scene:4
+  label: Medina and provincial geography
+  summary: Medina is described as Mohammed's burial place, and nearby Arabian provinces
+    are identified by terrain, boundaries, and notable associations.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Old lost Arabians and remembered catastrophes
+  summary: The passage classifies ancient Arabians as destroyed or absorbed tribes
+    whose events and catastrophes survive in tradition and are said to be confirmed
+    by the Koran.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: holy pilgrimage center in a barren landscape
+  taxonomy_refs:
+  - world_center
+  basis: Mecca is described as a barren mountain-surrounded city with a temple, reputed
+    holy territory, and annual pilgrimage drawing people of many nations.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage mentions holiness and pilgrimage but does not here explain
+    the temple rituals or cosmological centrality.
+- id: motif:2
+  label: life-sustaining water sought in a desert city
+  taxonomy_refs: []
+  basis: The city lacks drinkable springs apart from Zamzam, depends on cisterns,
+    and receives repeated efforts to bring water by aqueduct from elsewhere.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a literal geographic and infrastructural pattern in the passage;
+    no explicit sacred-water interpretation is developed here.
+- id: motif:3
+  label: lost ancient tribes remembered through tradition and scripture
+  taxonomy_refs: []
+  basis: The passage describes old Arabian tribes as destroyed or lost, with memories
+    of events and catastrophes preserved by tradition and confirmed by the Koran.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage does not narrate the events or assign causes for the catastrophes.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1028-1037
+  quote_or_summary: Mecca/Becca is described as ancient, situated in a stony barren
+    valley, surrounded by mountains, with the city built of stone from neighboring
+    mountains.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1037-1054
+  quote_or_summary: Mecca has no usable springs except Zemzem, relies on cisterns,
+    and multiple attempts are described to bring water by aqueduct, including efforts
+    associated with Zobair and al Moktader.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1055-1067
+  quote_or_summary: The soil near Mecca is very barren; grain must be fetched from
+    elsewhere; Hashem appointed two annual caravans, one in summer and one in winter,
+    to supply provisions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1068-1076
+  quote_or_summary: The inhabitants gain from the large annual pilgrimage, which brings
+    people of almost all nations and a great fair or market for merchandise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1090-1093
+  quote_or_summary: Outside Mecca's territory, the passage says there are good springs,
+    running water, gardens, and cultivated lands.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1094-1095
+  quote_or_summary: The temple of Mecca and the reputed holiness of the territory
+    are mentioned, with further discussion deferred.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1096-1102
+  quote_or_summary: Medina, formerly Yathreb, is described as a walled city; Mohammed
+    is interred there in a magnificent building adjoining the great temple.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1103-1112
+  quote_or_summary: The provinces Tehama, Najd, and Yamama are geographically described;
+    Yamama is associated with Mohammed's competitor Moseilama.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1112-1119
+  quote_or_summary: Arabian writers distinguish old lost Arabians from present Arabians;
+    the former tribes are said to be destroyed or lost, with memories of remarkable
+    events and catastrophes preserved by tradition and confirmed by the Koran.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 1119-1120
+  quote_or_summary: The famous ancient Arabian tribes named include Ad, Thamud, Tasm,
+    Jadis, the former Jorham, and Amalek.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a geographical and historical prose passage rather
+    than a mythic narrative. Motif candidates are cautious and mainly concern sacred
+    place, water scarcity, provisioning, and lost tribes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Line locators are approximate within the provided stable range because the excerpt includes embedded footnotes and continues beyond the stated end for the lost-tribes sentence.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l1026-l1112
+  passage_sha256=8d97dedb905ae72287849bf0fb274d941477e8a7e8b801147a070efdf2306098

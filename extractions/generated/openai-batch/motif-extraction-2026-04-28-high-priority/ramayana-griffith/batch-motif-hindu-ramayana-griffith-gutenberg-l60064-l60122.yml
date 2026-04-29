@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l60064-l60122
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: HIPPOLYTE FAUCHE. / ADDITIONAL NOTES. / H. H. WILSON. / THE SUPPLIANT DOVE.;
+    lines 60064-60122
+  start: '60064'
+  end: '60122'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A scholarly note discusses whether the Ramayan should be read as an allegorical
+    epic. It mentions Sita's birth from a furrow opened by King Janak, compares such
+    epic origins with those of Helen and Aeneas, rejects a purely allegorical reading
+    of Rama's war against the Rakshases and the conquest of Lanka, reports an earlier
+    solar-allegorical interpretation, and concludes that the epic's main conflict
+    should be treated as substantially historical though mingled with mythic elements.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the Ramayan represents Sita as born from a furrow
+    opened by King Janak while he ploughed the earth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the origins of Helen and Aeneas as related in Homer and Virgil
+    are no more real than Sita's furrow birth.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says characters in the Ramayan exceed human nature but still act,
+    speak, feel, rejoice, and grieve according to human passions.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage rejects the view that the war of Rama against the Rakshas race
+    and the conquest of the southern region and Lanka are only allegory.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage reports Father Paolino's idea that Rama's exploit symbolized the
+    course of the sun.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage reports Father Paolino's associated identifications of Brahma
+    with earth, Vishnu with water, and Vishnu's avatars with blessings brought by
+    fertilizing waters.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says the Ramayan is recited or represented in India and is connected
+    with places celebrated by its wandering rhapsodists.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage concludes that the main theme, Rama's war against the Rakshases,
+    should be regarded as substantially real and historical, though mixed with mythic
+    elements.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sita
+  description: Named as born from a furrow in the Ramayan's account.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: King Janak
+  description: Named as the king who opened the furrow while ploughing the earth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Rama
+  description: Named as the Aryan figure whose war against the Rakshases is identified
+    as the Ramayan's fundamental theme.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: Rakshases
+  description: Named as the race against whom Rama wages war; the passage describes
+    them as settled in the south.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: Brahma
+  description: Mentioned in a reported allegorical interpretation as identified with
+    earth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Vishnu
+  description: Mentioned in a reported allegorical interpretation as identified with
+    water, with avatars interpreted as blessings from fertilizing waters.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Helen
+  description: Mentioned as an epic figure whose origin is compared with Sita's origin.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:8
+  name_or_label: Aeneas
+  description: Mentioned as an epic figure whose origin is compared with Sita's origin.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: miraculous birth figure
+  assigned_to:
+  - fig:1
+  basis: Sita is said to be born from a furrow opened in the earth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ploughing king
+  assigned_to:
+  - fig:2
+  basis: King Janak opens the furrow while ploughing the earth.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: epic war leader
+  assigned_to:
+  - fig:3
+  basis: Rama is named as the figure leading the war against the Rakshases.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: southern adversary group
+  assigned_to:
+  - fig:4
+  basis: The Rakshases are described as the race opposed by Rama and as settled in
+    the south.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:5
+  label: allegorically interpreted deity
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage reports an earlier interpretation identifying Brahma with earth
+    and Vishnu with water.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: comparative epic origin figure
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Helen and Aeneas are cited as parallels for epic accounts of origin.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: furrow birth
+  literal_form: furrow opened in the earth by ploughing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: earth
+  literal_form: earth
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: water
+  literal_form: water and fertilizing waters
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sun course
+  literal_form: course of the sun
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Lanka
+  literal_form: island of Lanka
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sita's furrow origin cited in argument
+  summary: The note cites the Ramayan's account that Sita is born from a furrow made
+    by King Janak when he ploughed the earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Debate over allegorical reading of Rama's war
+  summary: The note rejects the claim that Rama's war against the Rakshases, the southern
+    conquest, and Lanka are merely allegorical.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Reported solar and elemental allegory
+  summary: The note reports Father Paolino's interpretation that Rama's exploit represented
+    the sun's course, with Brahma as earth, Vishnu as water, and Vishnu's avatars
+    as blessings of fertilizing waters.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: birth from earth or furrow
+  taxonomy_refs:
+  - sacred_birth
+  basis: Sita's origin is described as birth from a furrow opened in the earth by
+    King Janak's ploughing.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a scholarly note citing the Ramayan's representation rather
+    than narrating the birth episode directly.
+- id: motif:2
+  label: mythic elements mingled with historical epic memory
+  taxonomy_refs: []
+  basis: The author says myth is interwoven with historical truth and concludes that
+    Rama's war should be treated as substantially historical though altered by mythic
+    elements.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: This is a literary-historical claim in the note, not a discrete narrative
+    motif.
+- id: motif:3
+  label: solar allegory of a hero's exploit
+  taxonomy_refs: []
+  basis: The passage reports Father Paolino's interpretation that Rama's exploit represented
+    the course of the sun.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage presents this as an earlier opinion and explicitly says such
+    ideas have been dissipated by later studies; it should not be treated as the note's
+    endorsed interpretation.
+- id: motif:4
+  label: fertilizing waters as divine blessing
+  taxonomy_refs:
+  - water
+  basis: The passage reports an allegorical interpretation in which Vishnu is water
+    and his avatars are blessings brought by fertilizing waters.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This is part of a rejected allegorical interpretation, not an affirmed
+    motif in the Ramayan narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Sita's extraordinary origin with the origins of Helen
+    and Aeneas in Greek and Roman epic as similarly non-realistic epic birth or origin
+    traditions.
+  claim_level: same_function
+  target: Origins of Helen and Aeneas in Homer and Virgil
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief comparison and does not describe the
+    Helen or Aeneas origin accounts in detail.
+- id: claim:2
+  claim: The passage reports, but does not endorse, an allegorical reading in which
+    Rama's exploit represents the course of the sun.
+  claim_level: archetypal_reading
+  target: Solar allegory of Rama's exploit
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: low
+  limitations: The author rejects this interpretation, so it should be recorded only
+    as a historically reported reading, not as a supported analysis of the epic.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 60066-60070
+  quote_or_summary: Sita is said to be born from the furrow opened by King Janak when
+    ploughing; the note compares this with the origins of Helen and Aeneas in Homer
+    and Virgil.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 60070-60076
+  quote_or_summary: The note says Ramayan characters exceed human nature but still
+    act and feel according to human passions; it frames myth as interwoven with historical
+    truth in primitive epic.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 60076-60082
+  quote_or_summary: The author rejects the view that Rama's war against the Rakshas
+    race, the conquest of the south, and the conquest of Lanka are merely allegory.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 60082-60088
+  quote_or_summary: The note reports Father Paolino's idea that Rama's exploit symbolized
+    the sun's course, with Brahma as earth, Vishnu as water, and Vishnu's avatars
+    as blessings brought by fertilizing waters.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 60088-60103
+  quote_or_summary: The passage describes the Ramayan as deeply rooted, widely diffused,
+    represented annually near Ayodhya, and connected with places made famous by its
+    first wandering reciters.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 60118-60122
+  quote_or_summary: The author concludes that the war of Aryan Rama against the Rakshases,
+    described as settled in the south, should be regarded as substantially real and
+    historical, though mixed with mythic elements.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a critical note rather than a primary narrative episode. Motifs
+    are therefore mostly cited or discussed, not narrated directly. Rejected allegorical
+    interpretations are marked with caution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy identifiers beyond the supplied motif family and symbol lists were added. The solar allegory and fertilizing-waters readings are included only as reported interpretations, not as endorsed claims.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l60064-l60122
+  passage_sha256=e386dfa143c9a82f901dc4ef549ed2e74984d0d4d478a3efc89a0399a3645d5b

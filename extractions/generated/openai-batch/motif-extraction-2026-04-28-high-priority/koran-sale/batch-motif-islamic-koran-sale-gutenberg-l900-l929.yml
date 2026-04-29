@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l900-l929
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: OF THE / SECTIONS OF THE PRELIMINARY DISCOURSE / A TABLE OF THE CHAPTERS
+    / THE KORAN.; lines 900-929
+  start: '900'
+  end: '929'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents segment lists chapters 89 through 114 of the Koran,
+    giving each chapter number, English title, verse count, and page reference.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a tabular list of chapters 89 through 114 with titles, verse
+    counts, and page numbers.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Several chapter titles use natural or temporal imagery: Daybreak, Sun, Night,
+    Brightness, and Afternoon.'
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The title Daybreak appears twice, for chapters 89 and 113.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Several chapter titles name animals, plants, bodily matter, or physical events,
+    including Fig, Congealed Blood, Earthquake, War Horses, and Elephant.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Several chapter titles name human or social figures or groups, including the
+    Slanderer, Koreish, the Unbelievers, Abu Laheb, and Men.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: One chapter title refers to God in the phrase Declaration of God's Unity.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Abu Laheb
+  description: Named as the title of chapter 111.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Koreish
+  description: Named as the title of chapter 106.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: The Slanderer
+  description: Named as the title of chapter 104.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: The Unbelievers
+  description: Named as the title of chapter 109.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Men
+  description: Named as the title of chapter 114.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: God
+  description: Referenced in the title Declaration of God's Unity for chapter 112.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named individual in chapter title
+  assigned_to:
+  - fig:1
+  basis: Abu Laheb is given as the title of a chapter in the table.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: named collective or group in chapter title
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: Koreish, the Unbelievers, and Men appear as chapter titles naming collectives
+    or groups.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: moral or social type in chapter title
+  assigned_to:
+  - fig:3
+  basis: The Slanderer appears as a chapter title naming a type of person.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: deity referenced in theological title
+  assigned_to:
+  - fig:6
+  basis: God is referenced in the chapter title Declaration of God's Unity.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Daybreak
+  literal_form: The Daybreak
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Sun
+  literal_form: The Sun
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Night
+  literal_form: The Night
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Brightness
+  literal_form: The Brightness
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Afternoon
+  literal_form: The Afternoon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Fig
+  literal_form: The Fig
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: Congealed blood
+  literal_form: Congealed Blood
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: Earthquake
+  literal_form: The Earthquake
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: Swift war horses
+  literal_form: The War Horses which run swiftly
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:10
+  label: Elephant
+  literal_form: The Elephant
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Table segment listing final chapters
+  summary: The passage lists chapters 89 through 114 with their titles, verse counts,
+    and page numbers; it does not narrate events within the chapters.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: light and darkness titles
+  taxonomy_refs:
+  - duality
+  basis: The table places titles such as Sun, Night, Daybreak, Brightness, and Afternoon
+    in the listed chapter sequence.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage is only a table of contents; it does not provide narrative
+    or doctrinal content for these titles.
+- id: motif:2
+  label: catastrophic shaking or striking title imagery
+  taxonomy_refs:
+  - chaos
+  basis: The table includes chapter titles Earthquake and Striking.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: low
+  cautions: Only titles are present, so any broader chaos or destruction motif remains
+    tentative.
+- id: motif:3
+  label: declaration of divine unity
+  taxonomy_refs: []
+  basis: Chapter 112 is titled Declaration of God's Unity.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage supplies the title only and not the chapter text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 900-929
+  quote_or_summary: The passage is a table listing chapters 89-114 with chapter titles,
+    verse totals, and page numbers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 901, 903-905, 915, 925
+  quote_or_summary: Natural and temporal titles listed include Daybreak, Sun, Night,
+    Brightness, Afternoon, and a second Daybreak.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 907-908, 911-912, 917
+  quote_or_summary: Titles listed include Fig, Congealed Blood, Earthquake, War Horses
+    which run swiftly, and Elephant.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 916, 918, 921, 923-926
+  quote_or_summary: Titles listed include Slanderer, Koreish, Unbelievers, Abu Laheb,
+    Declaration of God's Unity, and Men.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: line 913
+  quote_or_summary: Chapter 101 is listed with the title The Striking.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward because the passage is a table. Motif
+    identification is weak because no chapter content or narrative action is included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison beyond title-level motif hints.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l900-l929
+  passage_sha256=c17881ff6cc058066fbfe003fb43c01fa6d11b146085161e05ef77d26f6f2428

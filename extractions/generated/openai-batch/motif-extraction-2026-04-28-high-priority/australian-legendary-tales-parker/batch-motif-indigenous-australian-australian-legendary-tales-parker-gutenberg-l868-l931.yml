@@ -1,0 +1,473 @@
+---
+record_id: batch.motif.indigenous-australian-australian-legendary-tales-parker-gutenberg-l868-l931
+source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+passage_locator:
+  label: CONTENTS / PREFACE / INTRODUCTION / ANDREW LANG.; lines 868-931
+  start: '868'
+  end: '931'
+  translation: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told
+    to the Piccaninnies'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage concludes one tale by describing the Weeoombeens' disappearance
+    from a hole, the pursuers' search, and the belief that the brothers became little
+    white-throated birds; it also notes Piggiebillah's name in a porcupine ant-eater.
+    A new tale begins in which Bootoolgah the crane and Goonur the kangaroo rat discover
+    fire by rubbing wood, decide to keep fire-making secret, cook fish, and deny to
+    others that the fish was cooked by any method other than the sun.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Weeoombeens discuss how to elude the black fellows because they expect
+    to be killed if found, and they eat some emu flesh while talking.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the stone is removed from the entrance, men enter the hole and find
+    the emu remains but no Weeoombeens.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The searchers find no tracks, but see two little birds sitting on a bush near
+    the hole and repeatedly flying around it without leaving.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The black fellows become sure that the brothers turned into the little white-throated
+    birds to escape vengeance, and the birds are afterwards called Weeoombeens.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Piggiebillah's memory is said to be perpetuated by a porcupine ant-eater bearing
+    his name and having skin covered with miniature spear-like projections.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the days of Bootoolgah the crane and Goonur the kangaroo rat, there was
+    no fire in their country, and food was eaten raw or dried in the sun.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Bootoolgah rubs two pieces of wood together, sees a spark and smoke, and suggests
+    making fire to cook food rather than waiting for the sun.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Goonur advises splitting the stick and placing bark and grass in the opening
+    so a spark can kindle a light; after rubbing, a small flame appears and the pair
+    discover fire-making.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Bootoolgah and Goonur decide to keep fire-making secret from all the tribes,
+    cook in a Bingahwingul scrub, and hide firesticks in seeds and in a comebee.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: After cooking fish, Bootoolgah and Goonur bring some to camp; when asked about
+    its different appearance, they say it lay in the sun, and the others reject this
+    explanation.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Weeoombeens
+  description: Brothers who disappear from the hole and are believed by the black
+    fellows to have become little white-throated birds.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Pursuing black fellows
+  description: Group that returns to the hole, removes the stone, searches for the
+    Weeoombeens, and concludes that the brothers became birds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Little white-throated birds
+  description: Two small birds seen near the hole; afterwards called Weeoombeens.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Piggiebillah
+  description: A named figure whose memory is perpetuated by a porcupine ant-eater
+    bearing his name.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Porcupine ant-eater bearing Piggiebillah's name
+  description: Animal whose skin is described as covered with miniature spears sticking
+    all over it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Bootoolgah the crane
+  description: Crane married to Goonur; rubs wood, helps discover fire-making, and
+    keeps it secret.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Goonur the kangaroo rat
+  description: Kangaroo rat married to Bootoolgah; gives practical advice that enables
+    the flame, and keeps fire-making secret with Bootoolgah.
+  role_refs:
+  - role:5
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: Camp people / all the tribes
+  description: The wider group from whom Bootoolgah and Goonur intend to keep fire-making
+    secret; some notice the cooked fish and question them.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: pursued fugitives
+  assigned_to:
+  - fig:1
+  basis: They plan to elude the black fellows because they expect to be killed if
+    they meet them again.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: searchers and would-be avengers
+  assigned_to:
+  - fig:2
+  basis: They return to the hole, search for the Weeoombeens and their tracks, and
+    interpret the birds as the brothers' escape from vengeance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: believed transformed birds and namesakes
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage says the black fellows became sure the brothers had turned into
+    the little white-throated birds, which were afterwards called Weeoombeens.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: name-memory in animal form
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage says Piggiebillah's memory is perpetuated by a porcupine ant-eater
+    bearing his name.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: fire-making discoverers
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The passage states that Bootoolgah and Goonur discovered the art of fire-making
+    after producing flame from spark, grass, and bark.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: wise practical adviser
+  assigned_to:
+  - fig:7
+  basis: Goonur gives the instruction to split the stick and add bark and grass, and
+    the narrator says Bootoolgah hears wisdom in her words.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: secret keepers of fire-making
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: They explicitly decide to keep fire-making secret from all the tribes and
+    hide their firesticks.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: questioners of altered food
+  assigned_to:
+  - fig:8
+  basis: The people at camp notice the fish looks different, ask what was done to
+    it, and reject the answer that it was dried in the sun.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: little white-throated birds
+  literal_form: two little white-throated birds near the hole
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: porcupine ant-eater with miniature spears
+  literal_form: porcupine ant-eater whose skin is covered with miniature spears
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fire
+  literal_form: spark, smoke, and small flame made by rubbing pieces of wood with
+    grass and bark
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: firesticks hidden in containers
+  literal_form: firesticks hidden in openmouthed Bingahwingul seeds and one carried
+    hidden in a comebee
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: cooked fish
+  literal_form: fish cooked by Bootoolgah and Goonur and brought back to camp
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Disappearance from the hole
+  summary: The Weeoombeens disappear from the hole where the emu remains are found;
+    the searchers find no tracks and observe two small birds nearby.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Animal names after disappearance and memory
+  summary: The black fellows conclude the Weeoombeens became white-throated birds,
+    which then bear their name; the passage also links Piggiebillah's memory to a
+    porcupine ant-eater with spear-like skin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Discovery of fire-making
+  summary: In a time without fire, Bootoolgah rubs wood and sees spark and smoke;
+    following Goonur's advice, he adds bark and grass, producing a small flame and
+    discovering fire-making with her.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Secret cooking and denial
+  summary: Bootoolgah and Goonur decide to keep fire-making secret, hide firesticks,
+    cook fish, and tell questioning camp people that the fish was only dried by the
+    sun.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: escape through transformation into birds
+  taxonomy_refs:
+  - shapeshifter
+  basis: The pursuers become sure that the missing Weeoombeen brothers turned into
+    little white-throated birds to escape vengeance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The transformation is reported as the pursuers' conclusion after the disappearance,
+    not as a directly witnessed metamorphosis.
+- id: motif:2
+  label: animal-name origin from figures' disappearance or memory
+  taxonomy_refs: []
+  basis: The white-throated birds are afterwards called Weeoombeens, and Piggiebillah's
+    memory is linked to a porcupine ant-eater bearing his name.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives brief naming notices and does not elaborate a full origin
+    sequence for Piggiebillah within this excerpt.
+- id: motif:3
+  label: origin of fire-making by friction
+  taxonomy_refs:
+  - culture_hero
+  basis: Bootoolgah and Goonur produce spark, smoke, and flame from rubbed wood, bark,
+    and grass, and the passage says they discovered the art of fire-making.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt presents discovery of fire-making, but not its public transmission
+    to the wider group.
+- id: motif:4
+  label: secret possession of fire knowledge
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: After discovering fire-making, Bootoolgah and Goonur decide to keep it secret
+    from all the tribes, hide firesticks, and deny the true cause of the cooked fish's
+    appearance.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The knowledge is deliberately concealed, but the passage does not state
+    that fire is ritually forbidden or sacred.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 868-871
+  quote_or_summary: The Weeoombeens discuss plans to elude the black fellows, fear
+    being killed if found, and eat emu flesh.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 873-885
+  quote_or_summary: The stone is removed, the hole is searched, emu remains are found
+    without the Weeoombeens, no tracks are found, and two little birds remain near
+    the hole.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 886-893
+  quote_or_summary: The black fellows conclude that the brothers turned into little
+    white-throated birds to escape vengeance; those birds are called Weeoombeens,
+    and Piggiebillah's memory is linked to a porcupine ant-eater with miniature spear-like
+    skin.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 895-904
+  quote_or_summary: The tale of Bootoolgah and Goonur begins in a country without
+    fire; Bootoolgah rubs two pieces of wood, sees spark and smoke, and suggests making
+    fire to cook food.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 906-913
+  quote_or_summary: Goonur advises splitting the stick and placing bark and grass
+    in the opening; after rubbing, a small flame appears, and Bootoolgah and Goonur
+    discover fire-making.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 915-919
+  quote_or_summary: Bootoolgah and Goonur say they will keep fire secret from all
+    the tribes, cook in a Bingahwingul scrub, and hide firesticks in seeds and in
+    a comebee.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 921-929
+  quote_or_summary: They cook fish and bring some to camp; others ask why it looks
+    different, Bootoolgah and Goonur say it lay in the sun, and the others answer,
+    'Not so.'
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized with a short public-domain quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are cautious, especially for culture-hero and forbidden-knowledge categories because
+    the excerpt shows discovery and secrecy but not distribution or ritual prohibition.
+    No cross-text comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Passage spans the ending of one tale and the beginning of 'Bootoolgah the Crane and Goonur the Kangaroo Rat, the Fire Makers'; figures and scenes were kept separate where possible.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:indigenous-australian-australian-legendary-tales-parker-gutenberg__l868-l931
+  passage_sha256=2976055d3bb50cb20d038de275912ebd6fa5f337522e7646f97c70183c01b98c

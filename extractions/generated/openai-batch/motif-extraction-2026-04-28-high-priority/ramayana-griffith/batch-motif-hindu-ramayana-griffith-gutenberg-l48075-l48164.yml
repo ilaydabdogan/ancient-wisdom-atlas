@@ -1,0 +1,524 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l48075-l48164
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LIII. The Punishment. / Canto LVI. Mount Arishta. / Canto LVIII. The
+    Feast Of Honey. / Canto LXV. The Tidings.; lines 48075-48164
+  start: '48075'
+  end: '48164'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Hanumán and the Vánars return to Praśravaṇ’s hill, bow before Ráma and
+    the Vánar king, and report that Hanumán crossed the sea and found Sítá on the
+    giants’ island under demon guard. Hanumán gives Ráma Sítá’s gem and recounts her
+    message, signs of recognition, and one-month deadline. Ráma presses the jewel
+    to his breast, weeps, recalls its origin, and begs Hanumán to repeat Sítá’s words
+    and guide him to her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Vánar party goes to Praśravaṇ’s hill, bows to Raghu’s sons, and then bows
+    to their king under Angad’s lead.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hanumán places in Ráma’s hand the gem that had adorned Sítá’s brow before
+    giving his full report.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hanumán says he crossed the sea, searched the giants’ island, and found Sítá
+    surrounded by demon guards who taunted and threatened her.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sítá is described as lying on the bare earth with a single braid, weeping,
+    pale, and distressed.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hanumán says he whispered Ráma’s name to Sítá, comforted her, and told her
+    the adventure.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'Sítá sends signs Ráma would recognize: the crow, the brow mark, and the sea-born
+    gem; she also says she will look upon Ráma’s ring to dull her sorrow.'
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sítá says she can sustain her life for one month, after which she expects
+    to die as the giants’ prey.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Ráma presses the jewel to his breast and weeps after hearing Hanumán’s report.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Ráma says the gem was Janak’s wedding gift to Sítá and that the King of Heaven
+    had given it to Janak after a sacrificial rite.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Ráma asks Hanumán to repeat Sítá’s message and to guide him to her side.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ráma
+  description: One of Raghu’s sons; recipient of Hanumán’s tidings and Sítá’s gem;
+    he grieves and asks to be led to Sítá.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Sítá
+  description: Ráma’s beloved, found on the giants’ island under demon guard; her
+    brow gem is brought to Ráma with her message.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Hanumán
+  description: The Vánar who crossed the sea, found Sítá, returned with her gem, and
+    reported her message to Ráma.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Angad
+  description: Leader under whom the Vánar chieftains bow to their king.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Vánar chieftains
+  description: The returning Vánar group who bow before Raghu’s sons and their king.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Vánar king
+  description: The monarch before whom the Vánar chieftains bow and to whom Hanumán
+    tells his tidings.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:7
+  name_or_label: Demon guards
+  description: Guards around Sítá on the giants’ island, described as taunting and
+    threatening her.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Janak
+  description: Giver of the gem to Sítá at her wedding; Ráma identifies him as ruler
+    of Videha.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: King of Heaven
+  description: Figure said by Ráma to have given the gem to Janak after Janak’s sacrificial
+    rite.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: returning messenger and witness
+  assigned_to:
+  - fig:3
+  basis: Hanumán returns, gives Sítá’s gem, and reports that he crossed the sea and
+    found her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: captive beloved under guard
+  assigned_to:
+  - fig:2
+  basis: Sítá is beyond the sea on the giants’ island, surrounded by demon guards
+    and awaiting rescue.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: grieving recipient of token and message
+  assigned_to:
+  - fig:1
+  basis: Ráma receives the jewel, weeps, and asks for Sítá’s words and guidance to
+    her.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:4
+  label: leader of returning chieftains
+  assigned_to:
+  - fig:4
+  basis: The Vánar chieftains bow to their king led by Angad.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: returning retinue
+  assigned_to:
+  - fig:5
+  basis: The Vánar chieftains arrive, bow, and accompany the report scene.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: recipient monarch of the report
+  assigned_to:
+  - fig:6
+  basis: Hanumán tells his tidings to the monarch after the chieftains bow to their
+    king.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:7
+  label: hostile guards
+  assigned_to:
+  - fig:7
+  basis: The demon guards stand about Sítá and vex her with taunt and threat.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: wedding gift-giver
+  assigned_to:
+  - fig:8
+  basis: Ráma says Janak gave the gem when Sítá and Ráma were wed.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: divine giver of gem
+  assigned_to:
+  - fig:9
+  basis: Ráma says the King of Heaven gave the sea-born gem to Janak.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Sítá’s brow gem
+  literal_form: Gem, precious stone, or treasured jewel formerly worn on Sítá’s brow
+    and placed in Ráma’s hand.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Ráma’s ring
+  literal_form: Ring that Sítá says she will gaze upon to dull the sting of woe.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Sea and wave-origin
+  literal_form: The sea crossed by Hanumán and the wave-born origin of the gem.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  - fig:9
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: Praśravaṇ’s hill
+  literal_form: Hill where the returning Vánars come before Raghu’s sons and their
+    king.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: Tears as waters
+  literal_form: Ráma’s tears described as waters or a flood that steeps the jewel.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: One-month limit
+  literal_form: Sítá’s stated period of one month before she expects to die.
+  associated_figures:
+  - fig:2
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Return to Praśravaṇ’s hill
+  summary: The Vánar chieftains arrive at Praśravaṇ’s hill, bow to Raghu’s sons, and
+    then bow to their king under Angad’s lead.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hanumán delivers the token and report
+  summary: Hanumán gives Ráma the gem from Sítá’s brow and reports crossing the sea,
+    finding Sítá on the giants’ island, and seeing her guarded by demons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Sítá’s signs and deadline
+  summary: 'Hanumán recounts Sítá’s recognitions and message: the crow, the brow mark,
+    the sea-born gem, her comfort in Ráma’s ring, and her one-month limit.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Ráma’s grief over the jewel
+  summary: Ráma presses the jewel to his breast, weeps, recalls the gem’s history,
+    asks for Sítá’s words, and urges Hanumán to guide him to her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Stolen or captive beloved beyond the sea
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Sítá is found on the giants’ island beyond the sea, distressed and guarded
+    by demons, while Ráma longs to reach her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The passage reports the captivity and Ráma’s response but does not narrate
+    the original abduction.
+- id: motif:2
+  label: Return of messenger with proof-token
+  taxonomy_refs:
+  - return
+  basis: Hanumán returns from the sea-crossing search, places Sítá’s gem in Ráma’s
+    hand, and delivers her message.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the specific pattern here is a messenger’s
+    return rather than the hero’s final return.
+- id: motif:3
+  label: Recognition token from absent beloved
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Sítá sends a known gem and private signs to Ráma, and she keeps comfort by
+    gazing on his ring.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The exchange is emotionally and narratively significant, but the passage
+    does not explicitly call the token exchange sacred.
+- id: motif:4
+  label: Quest report after crossing the sea
+  taxonomy_refs:
+  - mystical_quest
+  basis: Hanumán says he crossed the sea, searched the giants’ island, found Sítá,
+    and returned with news.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: Only the report of the quest appears in this passage; the wider quest
+    structure lies outside the supplied excerpt.
+- id: motif:5
+  label: Time-limited rescue before threatened death
+  taxonomy_refs: []
+  basis: Sítá states she can endure one month more, after which she expects to die
+    as the giants’ prey.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly corresponds to the deadline pattern.
+- id: motif:6
+  label: Lament over object of the absent beloved
+  taxonomy_refs: []
+  basis: Ráma presses Sítá’s jewel to his breast, weeps over it, and says the gem
+    intensifies his grief at her absence.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: This is a local motif candidate without an assigned taxonomy reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 48075-48084
+  quote_or_summary: The Vánars reach Praśravaṇ’s hill, bow to Raghu’s sons, and, led
+    by Angad, bow to their king.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg Griffith translation; passage supplied
+    in request.
+- id: ev:2
+  type: summary
+  locator: lines 48085-48092
+  quote_or_summary: Hanumán gives Ráma the gem from Sítá’s brow and reports crossing
+    the sea, searching the giants’ island, and finding Sítá guarded and threatened
+    by demons.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg Griffith translation; passage supplied
+    in request.
+- id: ev:3
+  type: summary
+  locator: lines 48093-48100
+  quote_or_summary: Sítá is described with a single braid, lying on the bare earth,
+    weeping and pale; Hanumán whispers Ráma’s name, consoles her, and tells the adventure.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg Griffith translation; passage supplied
+    in request.
+- id: ev:4
+  type: summary
+  locator: lines 48101-48116
+  quote_or_summary: Sítá sends signs Ráma would know, gives the sea-born gem, says
+    she will gaze on his ring, and states that after one month she must die as the
+    giants’ prey.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg Griffith translation; passage supplied
+    in request.
+- id: ev:5
+  type: summary
+  locator: lines 48117-48123
+  quote_or_summary: After Hanumán ceases, Ráma presses the jewel to his breast and
+    weeps, saying his tears steep the jewel like a mother weeping over her child.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg Griffith translation; passage supplied
+    in request.
+- id: ev:6
+  type: summary
+  locator: lines 48124-48136
+  quote_or_summary: Ráma recalls that Janak gave the gem when Sítá and Ráma were wed,
+    and that the King of Heaven had given it to Janak after a sacrificial rite.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg Griffith translation; passage supplied
+    in request.
+- id: ev:7
+  type: summary
+  locator: lines 48137-48154
+  quote_or_summary: Ráma says the gem makes him feel Sítá near, asks Hanumán for her
+    message, says he may die of grief, and asks Hanumán to lead him to her.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg Griffith translation; passage supplied
+    in request.
+- id: ev:8
+  type: summary
+  locator: lines 48155-48164
+  quote_or_summary: Ráma asks how Sítá can endure the fierce demons of the guarded
+    island and says her words alone can be a healing balm.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg Griffith translation; passage supplied
+    in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports the reported actions, figures, tokens, and several
+    local motif candidates. Broader motif taxonomy assignments are cautious because
+    the excerpt is a report scene and not the full narrative arc.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. No external identification of unnamed figures was added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l48075-l48164
+  passage_sha256=9783e8945c0ca1d6a2e7302473fcb256c795bdf0fd09f8f5e2568083be338d1c

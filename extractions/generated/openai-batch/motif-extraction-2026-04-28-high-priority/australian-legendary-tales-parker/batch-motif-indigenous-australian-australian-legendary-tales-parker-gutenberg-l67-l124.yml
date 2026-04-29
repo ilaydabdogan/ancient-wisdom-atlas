@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.indigenous-australian-australian-legendary-tales-parker-gutenberg-l67-l124
+source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+passage_locator:
+  label: AS TOLD TO THE PICCANINNIES / COLLECTED BY MRS. K. LANGLOH PARKER / WITH
+    INTRODUCTION BY ANDREW LANG, M.A. / CONTENTS; lines 67-124
+  start: '67'
+  end: '124'
+  translation: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told
+    to the Piccaninnies'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Front matter for Australian Legendary Tales identifies the work as Noongahburrah
+    folklore told to children, collected by Mrs. K. Langloh Parker, with an introduction
+    by Andrew Lang. It includes a dedication to Peter Hippi, king of the Noongahburrahs,
+    followed by a contents list of 31 tale titles plus appendix and glossary.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is front matter and a contents list rather than a narrative tale.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:2
+  text: The work is described as folk-lore of the Noongahburrahs told to the piccaninnies
+    and collected by Mrs. K. Langloh Parker.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage dedicates the work to Peter Hippi, identified as king of the Noongahburrahs.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The contents enumerate 31 numbered tale titles, followed by a native text
+    appendix and a glossary.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One title identifies Bootoolgah the Crane and Goonur the Kangaroo Rat as fire
+    makers.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Several titles name celestial or atmospheric elements, including the moon,
+    morning star, rainbow, rain bird, winter-removing wind, and rainmaker.
+  category: object
+  evidence_refs:
+  - ev:6
+  - ev:9
+  - ev:10
+- id: obs:7
+  text: One title is an origin title for Narran Lake.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: One title names Meamei as the Seven Sisters.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mrs. K. Langloh Parker
+  description: Collector named in the front matter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Andrew Lang
+  description: Author of the introduction named in the front matter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Peter Hippi
+  description: Named dedicatee, identified as king of the Noongahburrahs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Bootoolgah the Crane
+  description: Named in a contents title with Goonur as one of the fire makers.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Goonur
+  description: Named in the contents as the Kangaroo Rat and one of the fire makers;
+    also appears in another title as the Woman-Doctor.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:11
+- id: fig:6
+  name_or_label: Meamei the Seven Sisters
+  description: Named in a contents title as the Seven Sisters.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Bahloo the Moon
+  description: Named in contents titles as the Moon.
+  role_refs:
+  - role:4
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Mullyangah the Morning Star
+  description: Named in a contents title as the Morning Star.
+  role_refs:
+  - role:4
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Byamee
+  description: Named in the title “The Borah of Byamee.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Wirreenun the Rainmaker
+  description: Named in a contents title as the Rainmaker.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:9
+- id: fig:11
+  name_or_label: Mayrah
+  description: Named in a contents title as the wind that blows the winter away.
+  role_refs:
+  - role:4
+  - role:8
+  evidence_refs:
+  - ev:9
+- id: fig:12
+  name_or_label: Deereeree the Wagtail
+  description: Named in a contents title with the Rainbow.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:10
+- id: fig:13
+  name_or_label: Bougoodoogahdah the Rain Bird
+  description: Named in a contents title as the Rain Bird.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: collector
+  assigned_to:
+  - fig:1
+  basis: The front matter says the tales were collected by Mrs. K. Langloh Parker.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: introduction author
+  assigned_to:
+  - fig:2
+  basis: The front matter identifies an introduction by Andrew Lang.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dedicatee and king
+  assigned_to:
+  - fig:3
+  basis: The dedication names Peter Hippi and calls him king of the Noongahburrahs.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: title figure in contents
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  - fig:13
+  basis: These figures are named in tale titles in the contents list.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: fire maker
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The title calls Bootoolgah and Goonur “the Fire Makers.”
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: woman-doctor
+  assigned_to:
+  - fig:5
+  basis: A contents title names “Goonur, the Woman-Doctor.”
+  evidence_refs:
+  - ev:11
+- id: role:7
+  label: rainmaker
+  assigned_to:
+  - fig:10
+  basis: A contents title names “Wirreenun the Rainmaker.”
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: winter-removing wind
+  assigned_to:
+  - fig:11
+  basis: A contents title names Mayrah as the wind that blows the winter away.
+  evidence_refs:
+  - ev:9
+- id: role:9
+  label: celestial figure
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Bahloo is identified as the Moon and Mullyangah as the Morning Star in the
+    contents titles.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire makers
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: moon
+  literal_form: Bahloo the Moon
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: morning star
+  literal_form: Mullyangah the Morning Star
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: rainbow
+  literal_form: the Rainbow
+  associated_figures:
+  - fig:12
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:5
+  label: Narran Lake
+  literal_form: the Narran Lake
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: rain
+  literal_form: Rain Bird and Rainmaker
+  associated_figures:
+  - fig:10
+  - fig:13
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: winter wind
+  literal_form: the Wind that Blows the Winter Away
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: seven sisters
+  literal_form: Meamei the Seven Sisters
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Front matter identification
+  summary: The work is titled, described as Noongahburrah folklore told to children,
+    credited to a collector, and credited with an introduction by Andrew Lang.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dedication
+  summary: The work is dedicated to Peter Hippi, who is identified as king of the
+    Noongahburrahs.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Contents list
+  summary: The contents list 31 numbered tale titles, including titles involving animal
+    beings, celestial bodies, fire makers, an origin of Narran Lake, Byamee, weather
+    figures, an appendix, and a glossary.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  - fig:13
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: fire-making figures
+  taxonomy_refs:
+  - culture_hero
+  basis: A contents title identifies Bootoolgah the Crane and Goonur the Kangaroo
+    Rat as “the Fire Makers.”
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: Only the title is present; the passage does not narrate how fire is made,
+    acquired, or taught.
+- id: motif:2
+  label: origin of a named lake
+  taxonomy_refs: []
+  basis: A contents title is “The Origin of the Narran Lake.”
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The contents title supports an origin-tale label, but the passage gives
+    no narrative details.
+- id: motif:3
+  label: celestial named figures
+  taxonomy_refs: []
+  basis: The contents include titles naming Bahloo the Moon and Mullyangah the Morning
+    Star.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage does not provide the actions or mythic functions of these
+    celestial figures.
+- id: motif:4
+  label: seven-sisters group
+  taxonomy_refs: []
+  basis: A contents title names “Meamei the Seven Sisters.”
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The title identifies a sister group, but the passage gives no plot, genealogy,
+    or comparative context.
+- id: motif:5
+  label: weather-making and seasonal change figures
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The contents include “Bougoodoogahdah the Rain Bird,” “Mayrah, the Wind that
+    Blows the Winter Away,” and “Wirreenun the Rainmaker.”
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: The contents imply weather and seasonal themes but contain no narrative
+    sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 67-77
+  quote_or_summary: Front matter gives the title, subtitle “Folk-lore of the Noongahburrahs,”
+    the phrase “as told to the piccaninnies,” the collector Mrs. K. Langloh Parker,
+    and an introduction by Andrew Lang.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 79-82
+  quote_or_summary: Dedication to Peter Hippi, identified as king of the Noongahburrahs.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 84-124
+  quote_or_summary: Contents list includes preface, introduction, 31 numbered tale
+    titles, a native text appendix, and glossary.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: contents item 7
+  quote_or_summary: "“Bootoolgah the Crane and Goonur the Kangaroo Rat, the Fire Makers.”"
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: contents item 10
+  quote_or_summary: "“Meamei the Seven Sisters.”"
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: contents items 3, 16, and 18
+  quote_or_summary: Titles include Bahloo the Moon, Mullyangah the Morning Star, and
+    another title pairing Mooregoo the Mopoke with Bahloo the Moon.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: quote
+  locator: contents item 4
+  quote_or_summary: "“The Origin of the Narran Lake.”"
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:8
+  type: quote
+  locator: contents item 26
+  quote_or_summary: "“The Borah of Byamee.”"
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:9
+  type: summary
+  locator: contents items 25, 29, and 31
+  quote_or_summary: Titles include Bougoodoogahdah the Rain Bird, Mayrah the wind
+    that blows the winter away, and Wirreenun the Rainmaker.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:10
+  type: quote
+  locator: contents item 23
+  quote_or_summary: "“Deereeree the Wagtail, and the Rainbow.”"
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:11
+  type: quote
+  locator: contents item 22
+  quote_or_summary: "“Goonur, the Woman-Doctor.”"
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is bibliographic front matter and a table of contents, so literal
+    extraction is reliable, but motif candidates are title-derived only and require
+    review against the full tales.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself contains no explicit comparative statement.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:indigenous-australian-australian-legendary-tales-parker-gutenberg__l67-l124
+  passage_sha256=2d814e16f28861044522c35103ce01c53a663d03bfa5ca2df25f9b287b788e26

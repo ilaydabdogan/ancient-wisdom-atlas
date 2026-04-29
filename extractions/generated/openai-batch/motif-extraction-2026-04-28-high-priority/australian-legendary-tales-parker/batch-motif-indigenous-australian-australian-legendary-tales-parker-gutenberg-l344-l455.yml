@@ -1,0 +1,484 @@
+---
+record_id: batch.motif.indigenous-australian-australian-legendary-tales-parker-gutenberg-l344-l455
+source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+passage_locator:
+  label: CONTENTS / PREFACE / INTRODUCTION / ANDREW LANG.; lines 344-455
+  start: '344'
+  end: '455'
+  translation: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told
+    to the Piccaninnies'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In the opening of the tale, Dinewan the emu is recognized as king of the
+    birds. Goomblegubbon the bustard, jealous of Dinewan's superiority, tricks Dinewan
+    into cutting off her wings by pretending to have no wings herself. Dinewan and
+    her mate cut off each other's wings, after which Goomblegubbon reveals the deception
+    and flies away. Dinewan then plans revenge by hiding most of her young and appearing
+    with only two; Goomblegubbon, influenced by envy and rivalry, kills all her young
+    except two. Dinewan then reveals that she has twelve children and rebukes Goomblegubbon
+    for killing hers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dinewan the emu is described as the largest bird and is acknowledged as king
+    by the other birds.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Goomblegubbon the bustard is jealous of Dinewan, especially of Dinewan's high
+    flight, swift running, and triumphant behavior.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Goomblegubbon concludes that she cannot defeat Dinewan in open fighting and
+    decides to use cunning to injure Dinewan's wings and limit her flight.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Goomblegubbon hides her wings while squatting and tells Dinewan that a kingly
+    bird should do without wings.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Dinewan and her mate decide to sacrifice their wings to preserve their kingship,
+    using a combo or stone tomahawk to cut them off.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Goomblegubbon reveals that she still has wings, mocks Dinewan, and escapes
+    by flying away while Dinewan cannot follow.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Dinewan plans revenge by hiding all but two of her young under a big salt
+    bush before going to Goomblegubbon's plain.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Goomblegubbon is seen feeding with twelve young ones, while Dinewan presents
+    herself as having only two.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Dinewan tells Goomblegubbon that two children would grow larger because twelve
+    are too many to feed.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Goomblegubbon, moved by envy and rivalry, kills all her young ones except
+    two.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Dinewan rebukes Goomblegubbon as cruel and greedy, stating that she herself
+    has twelve children and that food is plentiful.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Dinewan mother
+  description: Female emu; part of the bird group acknowledged as royal; tricked into
+    losing her wings and later initiates a retaliatory deception.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: Dinewan mate
+  description: Mate of the Dinewan mother; participates in the mutual cutting off
+    of wings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Goomblegubbon mother
+  description: Female bustard; jealous rival of Dinewan who deceives Dinewan and is
+    later deceived into killing most of her own young.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: young Dinewans
+  description: Dinewan's children; most are hidden under a salt bush while two accompany
+    Dinewan to Goomblegubbon's plain.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: fig:5
+  name_or_label: young Goomblegubbons
+  description: Goomblegubbon's twelve young ones; all but two are killed by their
+    mother after Dinewan's deceptive advice.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: other birds
+  description: Collective group that acknowledges Dinewan as king.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: acknowledged bird ruler
+  assigned_to:
+  - fig:1
+  basis: The emu is described as the largest bird and as king acknowledged by the
+    other birds.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: jealous rival
+  assigned_to:
+  - fig:3
+  basis: Goomblegubbon envies Dinewan's superiority and seeks to end it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: self-mutilating royal pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Dinewan mother and her mate cut off each other's wings after deciding
+    to sacrifice them.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: retaliatory deceiver
+  assigned_to:
+  - fig:1
+  basis: Dinewan hides most of her children and uses the appearance of only two children
+    to influence Goomblegubbon.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: deceived child-killer
+  assigned_to:
+  - fig:3
+  basis: Goomblegubbon kills all her young except two after accepting Dinewan's misleading
+    example.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: offspring used in rivalry
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Both sets of young are counted and compared in the mothers' rivalry over
+    size and superiority.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:7
+  label: victims of maternal killing
+  assigned_to:
+  - fig:5
+  basis: Goomblegubbon kills all her young ones but two.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: recognizing community
+  assigned_to:
+  - fig:6
+  basis: The other birds acknowledge Dinewan as king.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: wings and flight
+  literal_form: bird wings; power of flight
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: combo or stone tomahawk
+  literal_form: cutting tool used to remove wings
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: hidden brood under salt bush
+  literal_form: young Dinewans hidden under a big salt bush
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: two children and twelve children
+  literal_form: contrasting numbers of young birds
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: food abundance
+  literal_form: emu bush berries and grasshoppers as food for Dinewan's family
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Jealousy over bird kingship
+  summary: Dinewan is acknowledged as king of the birds, while Goomblegubbon envies
+    her flight, running, and superior status.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Deceptive proposal to abandon wings
+  summary: Goomblegubbon hides her wings and claims that a truly superior bird should
+    be wingless, prompting Dinewan to consider sacrificing her wings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Revelation of the wing trick
+  summary: After Dinewan and her mate cut off their wings, Goomblegubbon reveals her
+    own wings, mocks Dinewan, and escapes by flight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Retaliatory deception through children
+  summary: Dinewan hides most of her young and appears with only two, leading Goomblegubbon
+    to think fewer children will grow larger.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Killing of the young and rebuke
+  summary: Goomblegubbon kills all but two of her young, after which Dinewan says
+    she has twelve children and rebukes Goomblegubbon for cruelty.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: jealous rival uses deception to damage a superior figure
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Goomblegubbon envies Dinewan's rank and uses a false appearance of winglessness
+    to induce Dinewan to cut off her wings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy term is broad; the passage presents deception and
+    rivalry but does not explicitly identify a formal trickster figure.
+- id: motif:2
+  label: self-sacrifice of bodily capacity to preserve rule
+  taxonomy_refs:
+  - sacrifice
+  - royal_legitimacy
+  basis: Dinewan and her mate sacrifice their wings because they fear losing kingship
+    to the Goomblegubbons.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The sacrifice is political and competitive rather than explicitly sacred
+    or ritualized.
+- id: motif:3
+  label: retaliatory trick causing destruction of offspring
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Dinewan responds to Goomblegubbon's deception with a counter-deception involving
+    hidden children, leading Goomblegubbon to kill most of her young.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The record covers only this passage segment and not the full tale resolution.
+- id: motif:4
+  label: rivalry over fertility and number of children
+  taxonomy_refs: []
+  basis: The mothers compare two versus twelve offspring, and the rivalry over producing
+    larger young drives Goomblegubbon's fatal action.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: No specific taxonomy reference was available for this exact pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 344-455, opening of tale
+  quote_or_summary: Dinewan the emu is largest bird and is acknowledged as king; Goomblegubbon
+    is jealous of Dinewan's high flight, swift running, and proud behavior.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 344-455, Goomblegubbon's plan
+  quote_or_summary: Goomblegubbon decides she cannot win by open fighting and must
+    use cunning to injure Dinewan's wings and check her flight.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 344-455, false winglessness episode
+  quote_or_summary: Goomblegubbon squats with wings hidden, claims to have no wings,
+    and suggests that Dinewans should do without wings to remain kingly.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 344-455, cutting off wings
+  quote_or_summary: Dinewan and her mate decide to sacrifice their wings; the Dinewan
+    mother has her mate cut hers off with a combo or stone tomahawk and then cuts
+    off his.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 344-455, Goomblegubbon reveals deception
+  quote_or_summary: Goomblegubbon laughs, displays her wings, mocks the Dinewans for
+    being deceived, and flies away beyond wingless Dinewan's reach.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 344-455, Dinewan's revenge plan
+  quote_or_summary: Dinewan hides all her young but two under a big salt bush and
+    goes with the two young ones to the plain where Goomblegubbon is feeding with
+    twelve young ones.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 344-455, advice about two children
+  quote_or_summary: Dinewan tells Goomblegubbon that twelve children are too many
+    to feed and that the food sufficient to make two big birds would only starve twelve.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 344-455, Goomblegubbon kills her young
+  quote_or_summary: Driven by envy and the wish for her remaining young to grow as
+    big as Dinewans while retaining wings, Goomblegubbon kills all her young ones
+    except two.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 344-455, Dinewan's rebuke
+  quote_or_summary: Dinewan calls Goomblegubbon cruel and greedy, says she herself
+    has twelve children, and points to emu bush berries and grasshoppers as plentiful
+    food.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for literal extraction. Motif labels are candidates
+    only and should be reviewed against the full tale and project taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; no external comparison claims were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:indigenous-australian-australian-legendary-tales-parker-gutenberg__l344-l455
+  passage_sha256=30e4d02f4ccb956fcfb87a63ad0cc940c63fe57f134bbcd1e65bfd55c84dbd09

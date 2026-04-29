@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l57270-l57284
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto CXXVI. Bharat Consoled. / Canto CXXIX. The Meeting With Bharat. / Canto
+    CXXX. The Consecration. / APPENDIX.; lines 57270-57284
+  start: '57270'
+  end: '57284'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Dividing himself into four parts”"
+  summary: After promising the gods, Vishṇu seeks a human birthplace, divides himself
+    into four parts, and chooses King Daśaratha as father. Divine beings praise him
+    and ask him to destroy Rávaṇa, his army, and allies, then return to heaven.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Vishṇu gives a promise to the gods and seeks a birthplace among humans.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Vishṇu divides himself into four parts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Vishṇu chooses Daśaratha, sovereign of men, as his father.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Divine sages, Gandharvas, Rudras, and Apsaras praise Vishṇu in excellent strains.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The praising divine beings ask Vishṇu to root up and destroy Rávaṇa, described
+    as a devastator, enemy of Indra, and terror of ascetics.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The divine beings ask Vishṇu to destroy Rávaṇa together with his army and
+    friends, dismiss sorrow, and return to heaven.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Vishṇu
+  description: Divine being who promises the gods, seeks human birth, divides himself
+    into four parts, chooses Daśaratha as father, and is praised as destroyer of Madhu.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Daśaratha
+  description: Sovereign of men chosen by Vishṇu as his father.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the gods
+  description: Recipients of Vishṇu’s promise.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: divine sages, Gandharvas, Rudras, and Apsaras
+  description: Divine groups who praise Vishṇu and request the destruction of Rávaṇa.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Rávaṇa
+  description: Enemy figure described as devastator, enemy of Indra, annoyer of holy
+    ascetics, and cause of universal lamentation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: holy ascetics / Tapaswis
+  description: Devout ascetics whom Rávaṇa annoys and terrifies.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine birth-seeker
+  assigned_to:
+  - fig:1
+  basis: Vishṇu seeks a birthplace among humans after promising the gods.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: demon-destroyer designate
+  assigned_to:
+  - fig:1
+  basis: Divine beings ask Vishṇu to destroy Rávaṇa, his army, and friends.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: chosen royal father
+  assigned_to:
+  - fig:2
+  basis: Daśaratha is chosen by Vishṇu as father and is called sovereign of men.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: divine petitioners or beneficiaries
+  assigned_to:
+  - fig:3
+  basis: The passage says Vishṇu has given a promise to the gods.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: praising divine assembly
+  assigned_to:
+  - fig:4
+  basis: The divine sages, Gandharvas, Rudras, and Apsaras praise Vishṇu and voice
+    the request against Rávaṇa.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: destructive antagonist
+  assigned_to:
+  - fig:5
+  basis: Rávaṇa is described as a devastator, enemy of Indra, cause of lamentation,
+    and target for destruction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: afflicted ascetics
+  assigned_to:
+  - fig:6
+  basis: Rávaṇa is said to annoy and terrify holy ascetics and devout Tapaswis.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: human birthplace
+  literal_form: birth-place among men
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fourfold division
+  literal_form: Vishṇu dividing himself into four parts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: heaven
+  literal_form: heaven, described as free from stain and sin and protected by the
+    sovereign of celestial powers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Vishṇu chooses a human birth
+  summary: Vishṇu, after promising the gods, seeks birth among humans, divides himself
+    into four parts, and chooses King Daśaratha as father.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Divine praise and charge against Rávaṇa
+  summary: Divine sages and other celestial beings praise Vishṇu and ask him to destroy
+    Rávaṇa, his army, and friends, relieve sorrow, and return to heaven.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: divine being takes human birth to defeat a destructive enemy
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  basis: Vishṇu seeks a human birthplace, chooses a royal father, and is asked to
+    destroy Rávaṇa.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage describes the plan for birth and mission, not the birth event
+    itself.
+- id: motif:2
+  label: fourfold divine manifestation
+  taxonomy_refs: []
+  basis: Vishṇu divides himself into four parts before choosing Daśaratha as father.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy ref directly names fourfold manifestation.
+- id: motif:3
+  label: heroic return to heaven after completing a destructive mission
+  taxonomy_refs:
+  - return
+  basis: The divine beings ask Vishṇu to destroy Rávaṇa and then return to heaven.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The return is requested or anticipated rather than narrated as completed
+    in this passage.
+- id: motif:4
+  label: royal father legitimating divine mission
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Vishṇu chooses Daśaratha, the sovereign of men, as father for his human birth.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not elaborate political legitimacy beyond naming Daśaratha
+    as sovereign.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 57270-57274
+  quote_or_summary: Vishṇu, after promising the gods, seeks a human birthplace, divides
+    himself into four parts, and chooses Daśaratha, sovereign of men, as father.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: summary
+  locator: lines 57274-57281
+  quote_or_summary: Divine sages, Gandharvas, Rudras, and Apsaras praise Vishṇu and
+    ask him to root up Rávaṇa, described as a devastator, enemy of Indra, and terror
+    of devout ascetics.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:3
+  type: quote
+  locator: lines 57281-57284
+  quote_or_summary: "“Having destroyed Rávaṇa ... together with his army and friends
+    ... return to heaven”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the passage. Motif labels are candidate
+    classifications from the supplied taxonomy where applicable; comparison claims
+    were not added because the passage does not itself compare traditions or texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l57270-l57284
+  passage_sha256=0144e0df2cc8fc54c9d02cd49325da6b2f80f60ca9b41a2530592309dfe09dd0

@@ -1,0 +1,449 @@
+---
+record_id: batch.motif.indigenous-australian-australian-legendary-tales-parker-gutenberg-l657-l748
+source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+passage_locator:
+  label: CONTENTS / PREFACE / INTRODUCTION / ANDREW LANG.; lines 657-748
+  start: '657'
+  end: '748'
+  translation: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told
+    to the Piccaninnies'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage first reports Byamee's statement that dry land and stones would
+    become water and water-fowl when the Narran ran into a hole, producing Narran
+    Lake. It then begins the tale of Gooloo the Magpie, an old wicked woman who persuades
+    women of a neighboring camp to leave their children with her while they gather
+    food. After feeding the children, Gooloo takes them to her real home in a hollow
+    tree and secures them there. The mothers return, hear children crying, fail to
+    find the children or Gooloo, and report the loss to their husbands.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Byamee says that a place formerly dry with stones will in the future become
+    water and water-fowl, with the Narran running into a hole and making a large lake.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator says Byamee's statement has come to pass in Narran Lake, which
+    is described as a large sheet of water and a home of many wild fowl.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Gooloo is introduced as a very old and very wicked woman.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Gooloo has gathered doonburr seed, crushed some into meal, and stored some
+    whole for later grinding.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A neighboring tribe camps nearby; the men go hunting, leaving women and children
+    in camp.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Gooloo tells the women to go gather honey, fruit, yams, and other foods, and
+    offers to take care of their children.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The women first say they will take their children with them, but Gooloo argues
+    that the children would tire them and promises to feed them durrie.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The women leave their children with Gooloo and go out with food-gathering
+    containers and tools.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After the women leave, Gooloo feeds the children durrie, honey, and ripened
+    bumbles.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Gooloo hurries the children to her real home, built in a hollow tree, thrusts
+    them inside, follows them, and makes the place secure.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The children miss their mothers and begin crying; the returning women hear
+    the crying.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The mothers reach camp but cannot find either their children or Gooloo, although
+    they sometimes hear children wailing.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The mothers tell their husbands that Gooloo persuaded them to go gathering,
+    promised to care for the children, and disappeared with the children.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Byamee
+  description: A named speaker whose statement about the future formation of Narran
+    Lake is said to have come to pass.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Gooloo the Magpie
+  description: A very old and very wicked woman who stores seed, persuades women to
+    leave their children with her, feeds the children, and takes them to her hollow-tree
+    home.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Women / mothers of the neighboring tribe
+  description: Women who are left in camp with children, are persuaded by Gooloo to
+    gather food, return with gathered foods, and search for their missing children.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Wahroogahs / children
+  description: Children left with Gooloo, fed by her, taken to her hollow-tree home,
+    and later heard wailing by their mothers.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Men / husbands / black fellows
+  description: Men who go hunting and later return to hear the mothers' report about
+    the missing children.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:8
+roles:
+- id: role:1
+  label: authoritative predictor of landscape change
+  assigned_to:
+  - fig:1
+  basis: Byamee's statement about water filling the place and forming a lake is reported
+    as fulfilled by Narran Lake.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceptive caretaker
+  assigned_to:
+  - fig:2
+  basis: Gooloo promises to care for and feed the children while the women gather
+    food, then removes the children to her own home.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: abductor or concealer of children
+  assigned_to:
+  - fig:2
+  basis: Gooloo thrusts the children into her hollow-tree house and makes it secure;
+    the mothers cannot find them afterward.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: persuaded food-gatherers
+  assigned_to:
+  - fig:3
+  basis: The women accept Gooloo's advice, leave with containers and tools, and gather
+    fruits and other foods.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:5
+  label: bereaved searchers
+  assigned_to:
+  - fig:3
+  basis: The mothers search for their children and Gooloo, hear wailing, and return
+    sorrowfully to camp.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:6
+  label: hidden missing children
+  assigned_to:
+  - fig:4
+  basis: The children are taken into Gooloo's hollow-tree home and are later heard
+    crying but not found by the mothers.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: returning husbands and hunters
+  assigned_to:
+  - fig:5
+  basis: The men leave to hunt and return after the children have disappeared.
+  evidence_refs:
+  - ev:3
+  - ev:8
+symbols:
+- id: sym:1
+  label: water and lake
+  literal_form: Narran water running into a hole and forming Narran Lake
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: water-fowl
+  literal_form: black swans, pelicans, ducks, and wild fowl associated with the new
+    lake
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: stored seed and ground meal
+  literal_form: doonburr seed crushed on grinding stones and made into durrie
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: cooking fire
+  literal_form: durrie cooking on bark between two fires and later given hot from
+    the coals
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: hollow tree home
+  literal_form: Gooloo's real home built in a hollow tree
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: food-gathering containers and tools
+  literal_form: comebees, goolays, combos, wirrees, and yam sticks used or mentioned
+    in gathering food
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+scenes:
+- id: scene:1
+  label: Byamee's lake prediction fulfilled
+  summary: Byamee says dry land will become water and water-fowl when the Narran runs
+    into a hole, and the narrator identifies this with Narran Lake.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gooloo persuades the mothers to leave camp
+  summary: Gooloo visits the camp while the men are hunting, urges the women to gather
+    nearby food, and persuades them to leave the children in her care.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Children taken to the hollow tree
+  summary: After the women go, Gooloo feeds the children and carries them off to her
+    secure hollow-tree home.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Mothers search for missing children
+  summary: The mothers hear crying, return to camp, search unsuccessfully for the
+    children and Gooloo, then tell the returning men what happened.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: spoken prediction of local landscape formation
+  taxonomy_refs: []
+  basis: Byamee's speech explains how a dry place would become Narran Lake, and the
+    narrator states that this has happened.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents a local etiological explanation but does not provide
+    broader comparative framing.
+- id: motif:2
+  label: deceptive caretaker abducts children
+  taxonomy_refs: []
+  basis: Gooloo gains the mothers' trust by promising food and care, then hides the
+    children in her hollow-tree home.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage does not yet state Gooloo's motive or the tale's resolution.
+- id: motif:3
+  label: children hidden inside a tree dwelling
+  taxonomy_refs: []
+  basis: Gooloo's real home is built in a hollow tree, and she thrusts the children
+    into it and secures it.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The hollow tree is clearly a setting and object in the action; any symbolic
+    interpretation requires later or external evidence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 657-663
+  quote_or_summary: Byamee says dry land and stones will become water and water-fowl
+    when the Narran runs into a hole; the narrator says this has come to pass as Narran
+    Lake.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 665-674
+  quote_or_summary: The tale of Gooloo the Magpie begins; Gooloo is described as very
+    old and wicked, and as having gathered, ground, and stored doonburr seed.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 676-690
+  quote_or_summary: A neighboring tribe camps nearby; men go hunting; Gooloo visits
+    the women and urges them to gather foods while offering to care for their children.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 692-710
+  quote_or_summary: The women first plan to take their children, but Gooloo argues
+    against it and says she has durrie cooking between two fires to feed the children.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 712-716
+  quote_or_summary: The women follow Gooloo's advice, leave their children with her,
+    and go out with containers and tools for food gathering.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 718-725
+  quote_or_summary: Gooloo feeds the children durrie, honey, and bumbles, then hurries
+    them to her real home in a hollow tree, thrusts them inside, follows them, and
+    secures the place.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 725-739
+  quote_or_summary: The children begin crying; returning mothers hear them, reach
+    camp, fail to find the children or Gooloo, and continue to hear occasional wailing.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 740-748
+  quote_or_summary: The mothers wait for the men, then report that Gooloo persuaded
+    them to gather food, promised care for the children, and that both Gooloo and
+    the children are gone.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the provided passage. Motif labels are descriptive
+    and passage-bound; no external comparisons are made because the passage itself
+    does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. The passage includes the end of one etiological lake episode and the beginning of the Gooloo the Magpie tale.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:indigenous-australian-australian-legendary-tales-parker-gutenberg__l657-l748
+  passage_sha256=6c00b6832391012061eb0b591567a5fecf2838dc6c9c6a16693312932ebee6a0

@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l795-l897
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: OF THE / SECTIONS OF THE PRELIMINARY DISCOURSE / A TABLE OF THE CHAPTERS
+    / THE KORAN.; lines 795-897
+  start: '795'
+  end: '897'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: A TABLE OF THE CHAPTERS OF THE KORAN.
+  summary: The passage is a table of contents listing chapters of the Koran, with
+    each chapter number, English title, verse count, and page number for chapters
+    1 through 88.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is formatted as a table of chapters with chapter number, title,
+    verse count, and page reference.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The table lists chapters 1 through 88 in sequence.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Several chapter titles are personal names or named figures, including Jonas,
+    Hud, Joseph, Abraham, Mary, Mohammed, and Noah.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Several chapter titles name animals or natural things, including The Cow,
+    Cattle, The Bee, The Ant, The Spider, Thunder, Smoke, The Mountain, The Star,
+    and The Moon.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The title The Night Journey appears as chapter 17, and The Steps appears as
+    chapter 70.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The title The Resurrection appears as chapter 75.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The title The Cave appears as chapter 18, and The Mountain appears as chapter
+    52.
+  category: setting
+  evidence_refs:
+  - ev:5
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Jonas
+  description: Named in the chapter title “Jonas.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Hud
+  description: Named in the chapter title “Hud.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Joseph
+  description: Named in the chapter title “Joseph.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Abraham
+  description: Named in the chapter title “Abraham.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Mary
+  description: Named in the chapter title “Mary.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Mohammed
+  description: Named in the chapter title “Mohammed.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Noah
+  description: Named in the chapter title “Noah.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: The Prophets
+  description: Named in the chapter title “The Prophets.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: The Genii
+  description: Named in the chapter title “The Genii.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: named chapter-title figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Each assigned figure appears as the title of a listed chapter.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: collective chapter-title figure
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: Each assigned label appears as a collective or class of beings in a listed
+    chapter title.
+  evidence_refs:
+  - ev:2
+  - ev:7
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: The Cave
+  associated_figures: []
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: mountain
+  literal_form: The Mountain
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: cow
+  literal_form: The Cow
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bee
+  literal_form: The Bee
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: ant
+  literal_form: The Ant
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: spider
+  literal_form: The Spider
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: star
+  literal_form: The Star; The Star which appeareth by Night
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: moon
+  literal_form: The Moon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: smoke
+  literal_form: Smoke
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Table of chapters
+  summary: A table lists Koran chapter titles, verse counts, and page numbers for
+    chapters 1 through 88.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: journey or ascent indicated by chapter titles
+  taxonomy_refs:
+  - ascent
+  basis: The table includes the titles “The Night Journey” and “The Steps.”
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage is only a table of contents; it does not narrate a journey
+    or ascent.
+- id: motif:2
+  label: resurrection indicated by chapter title
+  taxonomy_refs:
+  - resurrection
+  basis: The table includes the chapter title “The Resurrection.”
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage supplies only the title and verse count, not the chapter’s
+    narrative or doctrinal content.
+- id: motif:3
+  label: cave as titled sacred or narrative setting
+  taxonomy_refs: []
+  basis: The table includes the chapter title “The Cave.”
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The title names a cave, but the passage does not describe events or symbolic
+    use of the cave.
+- id: motif:4
+  label: mountain as titled sacred or narrative setting
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: The table includes the chapter title “The Mountain.”
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage does not describe the mountain or identify it as cosmic or
+    sacred; the taxonomy link is tentative from the title alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 795-897
+  quote_or_summary: The passage is headed as a table of the chapters of the Koran
+    and lists chapters 1 through 88 with titles, verse counts, and page numbers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 795-897; chapter-title entries 10-14, 19, 21, 47, 71
+  quote_or_summary: Titles include “Jonas,” “Hud,” “Joseph,” “Abraham,” “Mary,” “The
+    Prophets,” “Mohammed,” and “Noah.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 795-897; chapter-title entries 2, 6, 16, 27, 29
+  quote_or_summary: Titles include “The Cow,” “Cattle,” “The Bee,” “The Ant,” and
+    “The Spider.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 795-897; chapter-title entries 13, 44, 52-54, 86
+  quote_or_summary: Titles include “Thunder,” “Smoke,” “The Mountain,” “The Star,”
+    “The Moon,” and “The Star which appeareth by Night.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 795-897; chapter-title entries 17-18 and 70
+  quote_or_summary: Chapter titles include “The Night Journey,” “The Cave,” and “The
+    Steps.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 795-897; chapter-title entry 75
+  quote_or_summary: Chapter 75 is entitled “The Resurrection.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 795-897; chapter-title entry 72
+  quote_or_summary: Chapter 72 is entitled “The Genii.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The table is clear for titles and ordering, but motif identification is limited
+    because no narrative content is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were extracted because the passage itself contains no comparative statements or narrative parallels.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l795-l897
+  passage_sha256=ddd00b15108a8633a85aee12d22a2747f564b1dd84ea1712027b83d951f83644

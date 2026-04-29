@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l633-l714
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: LIFE OF GEORGE SALE. / R. A. DAVENPORT. / INTRODUCTION / TO THE READER.;
+    lines 633-714
+  start: '633'
+  end: '714'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reviews earlier European translations of the Koran, criticizes
+    their faults, praises and qualifies Marracci's Latin version, explains the present
+    translator's aim to render the original faithfully with notes from commentators,
+    and describes sources and manuscripts consulted, including al Beidawi's commentary
+    and the Gospel of St. Barnabas.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Andrew du Ryer translated the Koran into French after having served as French
+    consul in Egypt and possessing some Turkish and Arabic knowledge.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Du Ryer's translation is described as preferable to Retenensis's but still
+    faulty because of mistakes, transpositions, omissions, additions, and lack of
+    explanatory notes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Alexander Ross's English version is described as a poor translation of Du
+    Ryer's French version, made by someone unfamiliar with Arabic and not highly skilled
+    in French.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Father Lewis Marracci's Latin translation was published at Padua in 1698 with
+    the original text, notes, and a refutation.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Marracci's translation is described as generally exact but too literal in
+    Arabic idiom for readers not versed in Mohammedan learning.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The narrator states that he undertook a new translation and tried to do impartial
+    justice to the original without making it seem better or worse than it is.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator says he kept closely to the text because the work claims to be
+    the Word of God, even if the English sometimes becomes less elegant.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator's notes aim to explain difficult and obscure passages using approved
+    commentators, usually in their own words.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Preliminary Discourse is said to provide material background before reading
+    the Koran itself, while authorities are quoted in both the discourse and notes.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The narrator acknowledges special debt to Dr. Pocock and describes Pocock's
+    Specimen Histori Arabum as useful and accurate for Arabian antiquities.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The narrator says he used manuscripts from his own study except for al Beidawi's
+    commentary and the Gospel of St. Barnabas, which were lent or made available by
+    others.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The Gospel of St. Barnabas manuscript is described as a moderate quarto in
+    Spanish, written in a legible hand, somewhat damaged near the end, and containing
+    222 chapters of unequal length.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Andrew du Ryer
+  description: Former French consul in Egypt who translated the Koran into French.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Retenensis
+  description: Earlier translator whose work is used as a point of comparison for
+    Du Ryer's translation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Alexander Ross
+  description: Translator of an English version based on Du Ryer's French translation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Father Lewis Marracci
+  description: Confessor to Pope Innocent XI and maker of a Latin translation of the
+    Koran published in 1698.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Narrator / present translator
+  description: Speaker who undertook a new translation, added notes, and describes
+    sources used.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Arabic commentators
+  description: Authorities whose explanations are used for difficult passages.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:7
+  name_or_label: Dr. Pocock
+  description: Scholar whose Specimen Histori Arabum is praised and heavily relied
+    upon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Dr. Bolten
+  description: Minister of the Dutch church in Austin Friars who helped provide access
+    to al Beidawi's commentary.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Dr. Holme
+  description: Rector of Hedley in Hampshire who lent the Gospel of St. Barnabas manuscript.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: translator
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage identifies these figures with translations or a new translation
+    of the Koran.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: commentarial or scholarly authority
+  assigned_to:
+  - fig:4
+  - fig:6
+  - fig:7
+  basis: The passage discusses notes, commentators, refutations, and scholarly works
+    used to explain the text.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: editor-explainer of difficult passages
+  assigned_to:
+  - fig:5
+  basis: The narrator states that his notes briefly explain the text, especially difficult
+    and obscure passages.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: provider of manuscript access
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: The passage says Dr. Bolten enabled use of al Beidawi's commentary and Dr.
+    Holme lent the Gospel of St. Barnabas.
+  evidence_refs:
+  - ev:7
+symbols: []
+scenes:
+- id: scene:1
+  label: Evaluation of earlier translations
+  summary: The passage surveys Du Ryer's French version, Ross's English version, and
+    Marracci's Latin version, describing their strengths and faults.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Translator's statement of method
+  summary: The narrator explains his intention to translate impartially, remain close
+    to the text, and use notes to clarify difficult passages through commentators.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Acknowledgment of authorities and manuscripts
+  summary: The narrator describes the Preliminary Discourse, acknowledges scholarly
+    debts, and identifies manuscripts and lenders used for the work.
+  figure_refs:
+  - fig:5
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: learned transmission and explanation of a sacred text
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on translation, commentary, explanatory notes, authorities,
+    manuscripts, and the effort to render a text claiming divine status faithfully
+    for readers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is an introductory scholarly prose passage rather than a mythic narrative;
+    the taxonomy link to wisdom is thematic and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 635-647
+  quote_or_summary: Andrew du Ryer, former French consul in Egypt and skilled in Turkish
+    and Arabic, translated the Koran into French; the passage calls it better than
+    Retenensis's but full of mistakes and lacking explanatory notes.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 648-653
+  quote_or_summary: Alexander Ross's English version is described as a bad translation
+    of Du Ryer's, adding mistakes because Ross lacked Arabic and had limited French.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 654-666
+  quote_or_summary: Marracci's 1698 Latin translation, with original text, notes,
+    and refutation, is described as generally exact but overly literal and accompanied
+    by useful notes and weak refutations.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 667-682
+  quote_or_summary: The narrator says he undertook a new translation, aimed at impartial
+    justice to the original, and kept close to the text because the work claims to
+    be the Word of God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 683-691
+  quote_or_summary: The narrator says his notes briefly explain the text, especially
+    difficult and obscure passages, using approved commentators generally in their
+    own words.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 692-702
+  quote_or_summary: The Preliminary Discourse is intended to provide necessary background;
+    the narrator quotes authorities and especially acknowledges Dr. Pocock's work
+    on Arabian antiquities.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 703-712
+  quote_or_summary: The narrator says most manuscripts used were from his own study,
+    except al Beidawi's commentary from the Dutch church library and the Gospel of
+    St. Barnabas lent by Dr. Holme; Dr. Bolten assisted with the former.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 713-714
+  quote_or_summary: The Gospel of St. Barnabas manuscript is described as a moderate
+    quarto in Spanish, legibly written, somewhat damaged near the end, and containing
+    222 chapters of unequal length.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the passage is editorial and scholarly rather than narrative mythic material.
+    No comparison claims are made because the passage does not itself support a comparative
+    mythology claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No symbols from the supplied symbol list are present in this passage; comparison claims are intentionally omitted.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l633-l714
+  passage_sha256=ff6c2fa87b559ba2d7be19448493a863415bd13b970944bac61957da041584bd

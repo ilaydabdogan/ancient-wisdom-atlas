@@ -1,0 +1,519 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l1301-l1350
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: A TABLE OF THE CHAPTERS / THE KORAN. / PRELIMINARY DISCOURSE / SECTION I.;
+    lines 1301-1350
+  start: '1301'
+  end: '1350'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage recounts South Arabian history around Yaman and Hamyar, emphasizing
+    the inundation of Aram: Saba builds a city and a massive dam or reservoir to control
+    mountain water for irrigation, household distribution, and political dominance;
+    because of the people''s pride, God sends a flood by night that breaks the mound,
+    destroys the city and neighboring settlements, and disperses tribes, some of whom
+    found later kingdoms. The passage then summarizes later Ethiopian, Persian, and
+    Islamic political transitions in Yaman.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Several lesser princes ruled parts of Yaman and were mostly subject to the
+    king of Hamyar, called the great king.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The inundation of Aram is described as a major calamity for tribes settled
+    in Yaman and as famous in Arabian history.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Eight tribes were forced to abandon their dwellings after the inundation,
+    and some are said to have given rise to the kingdoms of Ghassan and Hira.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Abdshems, surnamed Saba, built the city called Saba and later Mareb.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Saba made a vast mound or dam to receive water coming down from the mountains.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The reservoir water was used for inhabitants, watering lands, and keeping
+    subjected country in awe because the builders were masters of the water.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The dam stood like a mountain above the city and was believed too strong to
+    fail.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Water rose to almost twenty fathoms and was enclosed by a solid work on which
+    many inhabitants built houses.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Each family had a portion of water distributed by aqueducts.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: God is described as displeased by the people’s pride and insolence and as
+    resolving to humble and disperse them.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: A mighty flood broke down the mound by night while inhabitants were asleep.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The flood carried away the whole city, neighboring towns, and people.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Later in Yaman, Ethiopian forces intervened to assist Christians against Dhu
+    Nows, who died by forcing his horse into the sea.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: Persian-backed Selif recovered the throne and drove out Ethiopians, after
+    which Persians appointed succeeding princes until Yaman submitted to Mohammed
+    through Badhan.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: King of Hamyar
+  description: The ruler called the great king, to whom lesser princes in Yaman were
+    mostly subject.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Tribes settled in Yaman
+  description: Tribes affected by the inundation of Aram; eight tribes were forced
+    to abandon their dwellings.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Abdshems, surnamed Saba
+  description: Founder of the city Saba, later Mareb, and builder of the vast mound
+    or dam.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Inhabitants of Saba/Mareb
+  description: People who used distributed water, built houses on the solid work,
+    and were asleep when the flood broke the mound.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: GOD
+  description: Divine agent described as displeased, resolving to humble and disperse
+    the people, and sending the flood.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Dhu Nows
+  description: King of Yaman described as a bigoted Jew who persecuted Christians
+    and died by forcing his horse into the sea.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: King of Ethiopia
+  description: Ruler who sent forces to assist Christians of Yaman.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Selif, son of Dhu Yazan
+  description: Hamyarite who obtained Persian support, recovered the throne, and drove
+    out Ethiopians.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+- id: fig:9
+  name_or_label: Badhan
+  description: Last Persian-appointed prince who submitted to Mohammed and embraced
+    the new religion.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: regional overlord
+  assigned_to:
+  - fig:1
+  basis: Lesser princes in Yaman were mostly subject to the king of Hamyar, called
+    the great king.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: displaced tribes
+  assigned_to:
+  - fig:2
+  basis: Eight tribes were forced to abandon their dwellings after the inundation.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: city founder and dam builder
+  assigned_to:
+  - fig:3
+  basis: Saba built the city and made the vast mound or dam.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: water users and flood victims
+  assigned_to:
+  - fig:4
+  basis: The inhabitants received water portions and were asleep when the flood broke
+    the mound and carried away the city.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: divine judge and sender of flood
+  assigned_to:
+  - fig:5
+  basis: God is said to be displeased by pride and to send the mighty flood.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: persecuting king
+  assigned_to:
+  - fig:6
+  basis: Dhu Nows is described as persecuting Christians of Yaman before losing his
+    life and crown.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: foreign rescuer of persecuted Christians
+  assigned_to:
+  - fig:7
+  basis: The Ethiopian king sent forces to assist Christians of Yaman.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: restorer claimant with foreign support
+  assigned_to:
+  - fig:8
+  basis: Selif obtained succours from the king of Persia, recovered the throne, and
+    drove out Ethiopians.
+  evidence_refs:
+  - ev:9
+- id: role:9
+  label: submitting last prince
+  assigned_to:
+  - fig:9
+  basis: Badhan, the last of the Persian-appointed rulers, submitted to Mohammed and
+    embraced the new religion.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: controlled water
+  literal_form: Water stored behind the dam and distributed by aqueducts; also used
+    to dominate subjected country.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: destructive flood
+  literal_form: A mighty flood that breaks the mound and carries away city, towns,
+    and people.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: mountains as water source
+  literal_form: Mountains from which water came down into the reservoir.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: mountain-like dam
+  literal_form: The building stood like a mountain above the city.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: sea death
+  literal_form: Dhu Nows forced his horse into the sea and lost his life and crown.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Yaman under Hamyarite overlordship
+  summary: The passage describes lesser princes ruling parts of Yaman under the king
+    of Hamyar, called the great king.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Construction and use of Saba’s dam
+  summary: Saba founds a city and builds a vast dam or reservoir to capture mountain
+    water for inhabitants, agriculture, and political control; water is distributed
+    to families by aqueducts.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Inundation of Aram and dispersal
+  summary: God, displeased by pride and insolence, sends a flood that breaks the mound
+    at night while people sleep, destroys the city and neighboring settlements, and
+    disperses tribes, some of whom found later kingdoms.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: scene:4
+  label: Ethiopian intervention and death of Dhu Nows
+  summary: The king of Ethiopia sends forces to assist Christians of Yaman against
+    Dhu Nows, who loses his life and crown in the sea.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Persian-backed restoration and later submission
+  summary: Selif gains Persian help, recovers the throne, and drives out Ethiopians;
+    later Persian-appointed princes rule until Badhan submits to Mohammed and embraces
+    the new religion.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: divine flood as punishment for pride
+  taxonomy_refs:
+  - divine_judgment
+  - flood_and_renewal
+  basis: The passage explicitly links God’s displeasure at pride and insolence with
+    the sending of a flood that destroys the city and disperses the people.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The account appears in Sale’s preliminary historical discourse, not in
+    the quoted Qur'anic text in this line range.
+- id: motif:2
+  label: catastrophic flood causes migration and new kingdoms
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The inundation forces eight tribes to abandon their dwellings, and some are
+    said to give rise to Ghassan and Hira.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The renewal aspect is political and migratory rather than an explicit
+    cosmic or ritual renewal.
+- id: motif:3
+  label: control of water as political power
+  taxonomy_refs: []
+  basis: The dam stores mountain water for use and irrigation, and the passage says
+    control of water kept subjected country in greater awe.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: No supplied motif-family taxonomy directly matches hydraulic sovereignty;
+    this is a candidate pattern rather than a listed motif ref.
+- id: motif:4
+  label: fall of overconfident monumental work
+  taxonomy_refs: []
+  basis: The dam is described as mountain-like and thought incapable of failing, yet
+    it is broken by the divinely sent flood.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: This is inferred from the contrast between the structure’s perceived strength
+    and its collapse; the passage does not name it as a separate motif.
+comparison_claims:
+- id: claim:1
+  claim: The inundation of Aram in this passage fits a flood-and-dispersal pattern
+    in which a destructive water event produces migration and new political formations.
+  claim_level: same_motif
+  target: flood_and_renewal motif family
+  evidence_refs:
+  - ev:2
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage presents the event as Arabian history; it does not explicitly
+    compare it with other flood narratives.
+- id: claim:2
+  claim: The account also functions as a divine-judgment pattern because the flood
+    is attributed to God’s displeasure at pride and insolence.
+  claim_level: same_function
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the stated moral causation in this passage
+    and does not establish historical contact with other judgment-flood traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1301-1305
+  quote_or_summary: Lesser princes ruled parts of Yaman and were mostly subject to
+    the king of Hamyar, called the great king.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1305-1314
+  quote_or_summary: The inundation of Aram is called a first great calamity in Yaman;
+    eight tribes abandoned their dwellings, and some later gave rise to Ghassan and
+    Hira.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1314-1318
+  quote_or_summary: Abdshems, surnamed Saba, built Saba/Mareb and made a vast mound
+    or dam as a reservoir for water coming down from the mountains.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1318-1321
+  quote_or_summary: The reservoir served inhabitants, watered lands, and helped keep
+    subjected country in awe because its builders were masters of the water.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1321-1326
+  quote_or_summary: The building stood like a mountain above the city, was thought
+    unable to fail, held water almost twenty fathoms high, and was solid enough for
+    houses to be built on it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: line 1327
+  quote_or_summary: Every family had a portion of the water distributed by aqueducts.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 1327-1332
+  quote_or_summary: God, displeased by pride and insolence, resolved to humble and
+    disperse the people, sending a mighty flood that broke the mound by night while
+    inhabitants slept and carried away the city, nearby towns, and people.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 1333-1340
+  quote_or_summary: The Ethiopian king sent forces to assist Christians of Yaman against
+    Dhu Nows; Dhu Nows forced his horse into the sea and lost his life and crown.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: lines 1340-1348
+  quote_or_summary: Selif obtained Persian aid, recovered the throne, and drove out
+    Ethiopians; succeeding princes were Persian-appointed until Badhan submitted to
+    Mohammed and embraced the new religion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The flood, dam, dispersal, and divine displeasure are explicit. Some political-history
+    figures are included because they occur in the passage, though the strongest motif
+    evidence is concentrated in the Aram inundation account.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage text and supplied taxonomy references. No external identifications or historical corrections added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l1301-l1350
+  passage_sha256=f1dccb420f64a157aa4e4a24abbf4fb79aaa785d00e2b96f6f9611027682afce

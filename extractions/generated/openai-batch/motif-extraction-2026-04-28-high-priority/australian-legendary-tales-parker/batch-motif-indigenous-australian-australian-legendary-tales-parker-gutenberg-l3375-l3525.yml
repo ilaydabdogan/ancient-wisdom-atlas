@@ -1,0 +1,430 @@
+---
+record_id: batch.motif.indigenous-australian-australian-legendary-tales-parker-gutenberg-l3375-l3525
+source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+passage_locator:
+  label: ANDREW LANG. / APPENDIX / DINEWAN BOOLLARHNAH GOOMBLEGUBBON / GLOSSARY; lines
+    3375-3525
+  start: '3375'
+  end: '3525'
+  translation: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told
+    to the Piccaninnies'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a glossary giving English meanings for Noongahburrah/Euahlayi-context
+    terms, including animals, plants, celestial bodies, weather, weapons, social categories,
+    ritual terms, supernatural beings, magical stones, a sacred tree used on graves,
+    and words for transformation or hiding.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a glossary pairing Indigenous-language terms with English definitions.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The glossary defines Borah as a large gathering where boys are initiated into
+    mysteries that make them young men.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The glossary defines Dheal as the sacred tree of the Noongahburrahs, used
+    only for putting on graves of the dead.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The glossary includes the term Googoolguyyah, glossed as 'turn into trees.'
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The glossary defines Gubberah as magical stones of Wirreenum and defines Wirreenun
+    as priest or doctor.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The glossary includes supernatural or spirit terms, including borah devils,
+    spirit or ghost, and a whirlwind with a devil in it.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The glossary lists sky and weather terms including moon, lightning, rainbow,
+    Mars, morning star, rain in song, and sun.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The glossary lists weapons and tools including boomerang, returning boomerang,
+    stone tomahawk, club, emu spear, wooden battleaxe-shaped weapon, and pointed stick
+    with feathers.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The glossary lists several water-related terms including water hole and water-holding
+    tree.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The glossary includes terms for named persons or personal names with meanings,
+    such as Byamee meaning 'big man' and Wurrunnah meaning standing.
+  category: attribute
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: boys at Borah
+  description: Boys who are initiated at a Borah gathering into mysteries that make
+    them young men.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Wirreenun
+  description: Priest or doctor; associated in the glossary with magical stones called
+    Gubberah.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Wondah
+  description: Spirit or ghost.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Gayandy / Gurraymy
+  description: Terms glossed as borah devil.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Noongahburrahs
+  description: Tribe associated with the sacred tree Dheal in the glossary.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:11
+roles:
+- id: role:1
+  label: initiate
+  assigned_to:
+  - fig:1
+  basis: Borah is defined as a gathering where boys are initiated into mysteries that
+    make them young men.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: priest or doctor
+  assigned_to:
+  - fig:2
+  basis: Wirreenun is glossed as priest or doctor, and Gubberah as magical stones
+    of Wirreenum.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: spirit or ghost
+  assigned_to:
+  - fig:3
+  basis: Wondah is glossed as spirit or ghost.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: borah devil
+  assigned_to:
+  - fig:4
+  basis: Gayandy and Gurraymy are each glossed as borah devil.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: named tribe
+  assigned_to:
+  - fig:5
+  basis: Noongahburrah is glossed as a tribe on the Narran, and Dheal is identified
+    as the sacred tree of the Noongahburrahs.
+  evidence_refs:
+  - ev:3
+  - ev:11
+symbols:
+- id: sym:1
+  label: Borah initiation gathering
+  literal_form: large gathering where boys are initiated
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: Dheal sacred tree
+  literal_form: sacred tree used on graves of the dead
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: turning into trees
+  literal_form: Googoolguyyah, glossed as 'turn into trees'
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: magical stones
+  literal_form: Gubberah, magical stones of Wirreenum
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: spirit or ghost
+  literal_form: Wondah, spirit or ghost
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: whirlwind with a devil
+  literal_form: Wurrawilberoo, whirlwind with a devil in it; also clouds of Magellan
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: water place
+  literal_form: Dungle, water hole; Goolahgool, water-holding tree
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  - tree
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: carpet snake
+  literal_form: Dayah minyah, carpet snake
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:12
+- id: sym:9
+  label: sky and weather bodies
+  literal_form: moon, lightning, rainbow, Mars, morning star, rain in song, sun
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:10
+  label: weapons and ritual implements
+  literal_form: boomerang, returning boomerang, stone tomahawk, club, spear, battleaxe-shaped
+    weapon, pointed stick with feathers
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Borah initiation gathering
+  summary: The glossary defines a gathering in which boys are initiated into mysteries
+    and thereby become young men.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: scene:2
+  label: Sacred tree placed on graves
+  summary: The glossary states that the Noongahburrahs' sacred tree, Dheal, is used
+    only for putting on graves of the dead.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Magical stones of the Wirreenun
+  summary: The glossary associates magical stones called Gubberah with the Wirreenun,
+    who is defined as priest or doctor.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: initiation into adulthood at a ceremonial gathering
+  taxonomy_refs:
+  - initiation
+  basis: Borah is defined as a large gathering where boys are initiated into mysteries
+    that make them young men.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The glossary gives a definition rather than a narrative account of the
+    rite.
+- id: motif:2
+  label: sacred tree associated with graves of the dead
+  taxonomy_refs: []
+  basis: Dheal is described as the sacred tree of the Noongahburrahs and as used only
+    for putting on graves of the dead.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not describe a world tree, axis, or extended funerary
+    myth.
+- id: motif:3
+  label: transformation into trees
+  taxonomy_refs:
+  - shapeshifter
+  basis: The glossary includes Googoolguyyah, glossed as 'turn into trees.'
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: Only a lexical gloss is supplied; no agent, plot, or circumstances are
+    given.
+- id: motif:4
+  label: ritual specialist with magical stones
+  taxonomy_refs: []
+  basis: Gubberah are defined as magical stones of Wirreenum, and Wirreenun is glossed
+    as priest or doctor.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explain how the stones are used.
+- id: motif:5
+  label: supernatural presence in whirlwind
+  taxonomy_refs: []
+  basis: Wurrawilberoo is glossed as a whirlwind with a devil in it and also as clouds
+    of Magellan.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The glossary gives a lexical equivalence without narrative details.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3375-3525
+  quote_or_summary: Glossary section listing terms and English definitions across
+    animals, plants, ritual, objects, natural phenomena, names, and supernatural categories.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 3395-3396
+  quote_or_summary: Borah is defined as a large gathering where boys are initiated
+    into mysteries that make them young men.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:3
+  type: quote
+  locator: lines 3425-3426
+  quote_or_summary: Dheal is defined as the sacred tree of the Noongahburrahs, used
+    only for putting on graves of the dead.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:4
+  type: quote
+  locator: line 3444
+  quote_or_summary: Googoolguyyah is glossed as 'turn into trees.'
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 3458, 3513
+  quote_or_summary: Gubberah are magical stones of Wirreenum; Wirreenun is glossed
+    as priest or doctor.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3439, 3464, 3515, 3517
+  quote_or_summary: Gayandy and Gurraymy are glossed as borah devil; Wondah as spirit
+    or ghost; Wurrawilberoo as a whirlwind with a devil in it and also clouds of Magellan.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3377, 3430, 3437, 3466, 3485, 3500, 3521
+  quote_or_summary: The glossary includes Bahloo as moon, Doongara as lightning, Euloo
+    wirree as rainbow, Gwaibillah as star/Mars, Mullyangah as morning star, U e hu
+    as rain in song, and Yhi as sun.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3392-3393, 3401, 3413, 3479, 3490, 3510-3511
+  quote_or_summary: Weapon and implement terms include boomerang, returning boomerang,
+    stone tomahawk, emu spear, club, wooden battleaxe-shaped weapon, and pointed stick
+    with feathers on top.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 3432, 3447
+  quote_or_summary: Dungle is glossed as water hole, and Goolahgool as water-holding
+    tree.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 3387, 3411, 3519
+  quote_or_summary: Some entries are personal names with meanings, including Birrahgnooloo,
+    Byamee meaning 'big man,' and Wurrunnah meaning standing.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: quote
+  locator: line 3489
+  quote_or_summary: Noongahburrah is glossed as a tribe on the Narran.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:12
+  type: quote
+  locator: line 3421
+  quote_or_summary: Dayah minyah is glossed as carpet snake.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; short excerpt summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is lexical rather than narrative, so motif candidates are based
+    on glossary definitions and should be reviewed carefully before use in comparative
+    analysis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not compare these entries to another tradition or motif family beyond the supplied taxonomy-mapping candidates.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:indigenous-australian-australian-legendary-tales-parker-gutenberg__l3375-l3525
+  passage_sha256=14010746049e14326a5a84d54686d62abf7606540bed3edae24be7ea01b7bb8e

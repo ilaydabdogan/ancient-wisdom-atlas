@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l57582-l57606
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: CAREY AND MARSHMAN. / SCHLEGEL. / GORRESIO. / HIPPOLYTE FAUCHE.; lines 57582-57606
+  start: '57582'
+  end: '57606'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is editorial commentary stating that the Rámáyan is epically
+    complete with Ráma’s triumphant return to Ayodhyá with his rescued queen, followed
+    by consecration and coronation. It describes the Uttarakáṇḍa as a later appendix
+    or supplement, though Indian scholars traditionally ascribe it to Válmíki, and
+    notes modern translations or epitomes by Gorresio and Muir.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the Rámáyan ends with Ráma’s triumphant return to
+    Ayodhyá with his rescued queen.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Ráma undergoes consecration and coronation in the
+    capital of his forefathers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the final canto of the sixth book speaks of Ráma’s glorious
+    and happy reign and promises blessings to readers and hearers of the Rámáyan.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage describes the Uttarakáṇḍa or Last Book as an appendix or supplement
+    relating events before and after the original poem.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says Indian scholars unanimously ascribe the Last Book to Válmíki
+    and regard it as part of the Rámáyan.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage notes that Gorresio published an Italian prose translation of
+    the Uttarakáṇḍa from a Bengal recension, and that Muir epitomized part of the
+    book.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ráma
+  description: The returning royal figure whose reign, consecration, and coronation
+    are mentioned.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: rescued queen
+  description: Ráma’s queen, described as rescued and returning with him to Ayodhyá.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Válmíki
+  description: Named as the traditional author to whom Indian scholars ascribe the
+    Last Book.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Indian scholars
+  description: Scholars who, according to the passage, ascribe the Uttarakáṇḍa to
+    Válmíki and regard it as part of the Rámáyan.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Signor Gorresio
+  description: Scholar credited with an Italian prose translation of the Uttarakáṇḍa
+    from the Bengal recension.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Mr. Muir
+  description: Scholar credited with epitomizing part of the Uttarakáṇḍa in an appendix
+    to Sanskrit Texts.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: returning hero-king
+  assigned_to:
+  - fig:1
+  basis: Ráma is described as returning triumphantly to Ayodhyá and receiving consecration
+    and coronation.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: righteous ruler
+  assigned_to:
+  - fig:1
+  basis: The passage refers to Ráma’s glorious and happy reign.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: rescued queen
+  assigned_to:
+  - fig:2
+  basis: The queen is explicitly described as rescued and returning with Ráma.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: traditional author
+  assigned_to:
+  - fig:3
+  basis: Indian scholars are said to ascribe the Last Book to Válmíki.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: tradition-preserving interpreters
+  assigned_to:
+  - fig:4
+  basis: They are described as reverentially maintaining the traditional attribution
+    of the Last Book.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: modern textual scholar or translator
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Gorresio is credited with a translation and Muir with an epitome of part
+    of the book.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Ayodhyá
+  literal_form: Royal capital of Ráma’s forefathers where the return, consecration,
+    and coronation occur.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: coronation and consecration
+  literal_form: Royal rites performed for Ráma after his return to Ayodhyá.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Rámáyan recitation blessings
+  literal_form: Blessings promised to those who read and hear the Rámáyan.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Return to Ayodhyá and coronation
+  summary: Ráma returns triumphantly to Ayodhyá with his rescued queen and is consecrated
+    and crowned in the ancestral capital.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Blessed completion of the poem
+  summary: The later conclusion of the sixth book presents Ráma’s happy reign and
+    promises blessings to readers and hearers, marking the poem as complete.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Status of the Uttarakáṇḍa
+  summary: The Uttarakáṇḍa is described as a supplement narrating events before and
+    after the original poem, though Indian scholars traditionally ascribe it to Válmíki.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: heroic return after rescue
+  taxonomy_refs:
+  - return
+  - stolen_beloved
+  basis: The passage summarizes the epic ending as Ráma’s triumphant return with his
+    rescued queen.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is editorial summary rather than a direct narrative episode;
+    the queen is called rescued, but the details of abduction or recovery are not
+    given in this excerpt.
+- id: motif:2
+  label: royal consecration after victorious return
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Ráma’s return is followed by consecration and coronation in the ancestral
+    capital.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only a summary of the coronation and does not describe
+    ritual details.
+- id: motif:3
+  label: blessed hearing or reading of sacred narrative
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says the poem promises blessings to those who read and hear the
+    Rámáyan.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage concerns the benefits
+    of receiving the text rather than wisdom instruction in detail.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 57584-57588
+  quote_or_summary: The Rámáyan is said to end with Ráma’s triumphant return with
+    his rescued queen to Ayodhyá, followed by consecration and coronation in the ancestral
+    capital.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 57588-57593
+  quote_or_summary: The conclusion of the sixth book is described as later than Válmíki
+    and as speaking of Ráma’s glorious happy reign while promising blessings to readers
+    and hearers.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 57593-57596
+  quote_or_summary: The Uttarakáṇḍa or Last Book is characterized as an appendix or
+    supplement relating events before and after the original poem.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 57596-57599
+  quote_or_summary: Indian scholars are said to ascribe the Last Book to Válmíki and
+    regard it as part of the Rámáyan.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 57600-57606
+  quote_or_summary: Gorresio is noted for an Italian prose translation of the Uttarakáṇḍa
+    from the Bengal recension, and Muir for epitomizing a portion of it in Sanskrit
+    Texts.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily editorial commentary with a brief mythic summary.
+    Motif extraction is limited to the summarized ending and textual reception statements
+    supplied here.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific comparative claim beyond internal textual attribution and reception history.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l57582-l57606
+  passage_sha256=5cdc52ef0d8173cfc8a497ab9e65e9466a4ff1f0b46e73974761aaf473b04fe5

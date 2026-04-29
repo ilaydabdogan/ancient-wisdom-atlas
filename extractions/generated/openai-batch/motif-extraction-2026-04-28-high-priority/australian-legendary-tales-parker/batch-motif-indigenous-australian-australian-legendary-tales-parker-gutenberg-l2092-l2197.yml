@@ -1,0 +1,485 @@
+---
+record_id: batch.motif.indigenous-australian-australian-legendary-tales-parker-gutenberg-l2092-l2197
+source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+passage_locator:
+  label: CONTENTS / PREFACE / INTRODUCTION / ANDREW LANG.; lines 2092-2197
+  start: '2092'
+  end: '2197'
+  translation: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told
+    to the Piccaninnies'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Goonur is lured by his wives into a water-filled trap and drowns. His mother
+    follows his trail, retrieves his body from the water, and revives him by placing
+    it on an ant bed. She hides him in her dardurr and carries him in a comebee for
+    hunting. The wives discover he is alive, pretend affection, and fear his vengeance.
+    Goonur outwardly accepts them, while secretly planning revenge by setting hidden
+    pointed stakes under water at a creek and inviting them to bathe.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Goonur jumps onto the supposed nest, falls through into water, and cannot
+    escape drowning.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Goonur's wives watch the success of their stratagem from a distance and return
+    to camp after they believe he has been disposed of.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Goonur's mother notices his absence, follows his trail to the supposed nest,
+    and finds that his tracks end there.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mother feels a large object in the water with a yarn stick and eventually
+    raises the body with a midjee stick.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The mother places the body on an ant bed and watches for signs of returning
+    life; Goonur regains consciousness.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Goonur tells his mother that his wives tricked him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The mother plans to hide Goonur in her dardurr and carry him in a large comebee
+    when going to and from the camp.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The wives become suspicious of the mother's repeated hunting success and secretly
+    follow her.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The wives see Goonur step out of the comebee after his mother puts it down
+    away from camp.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The wives infer that the mother, described by them as a great doctor, found
+    Goonur and brought him to life again.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The wives speak to Goonur as if they have mourned him and are glad he has
+    returned.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The mother warns that the wives lured Goonur to death and states that she
+    brought him back from the dead.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: Goonur pretends to trust his wives and tells his mother they were also deceived
+    by the bandicoot's nest.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: Goonur secretly plots vengeance, sets two sharpened stakes under the creek
+    water, places logs on the bank, and invites his wives to bathe and jump in.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Goonur, the son / husband
+  description: A man named Goonur who is trapped in water by his wives, recovered
+    and revived by his mother, hidden in her comebee, and later plots vengeance against
+    his wives.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Goonur, the mother
+  description: Goonur's mother, who follows his trail, recovers his body from the
+    water, revives him, hides him, and warns him against his wives.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:3
+  name_or_label: Goonur's two wives
+  description: Two wives who trick Goonur into a water trap, later discover he is
+    alive, pretend affection, and are invited by him to bathe at the creek.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:10
+roles:
+- id: role:1
+  label: trapped and drowned husband
+  assigned_to:
+  - fig:1
+  basis: Goonur is lured to the supposed nest, falls into water, and cannot escape
+    drowning.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: tracking mother
+  assigned_to:
+  - fig:2
+  basis: The mother follows her son's trail until it ends at the supposed nest.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: rescuer and reviver
+  assigned_to:
+  - fig:2
+  basis: She retrieves the body and places it on an ant bed until signs of life return.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: hidden returnee
+  assigned_to:
+  - fig:1
+  basis: After revival, Goonur is kept hidden in his mother's dardurr and carried
+    in her comebee.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: counter-deceiver and vengeance plotter
+  assigned_to:
+  - fig:1
+  basis: Goonur pretends to trust his wives while secretly preparing hidden stakes
+    in the creek.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:6
+  label: deceiving wives
+  assigned_to:
+  - fig:3
+  basis: The wives' stratagem causes Goonur's drowning, and later they pretend mourning
+    and joy when he returns.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: water-filled false nest trap
+  literal_form: The so-called bandicoot's nest whose top gives way so that Goonur
+    sinks into water.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: ant bed used in revival
+  literal_form: An ant bed on which the mother places Goonur's body to see whether
+    ant stings bring signs of life.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: comebee as hiding container
+  literal_form: A large comebee in which the mother carries the revived Goonur in
+    and out of camp.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: dardurr as hiding place
+  literal_form: The mother's dardurr, where Goonur is to live hidden after his revival.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: underwater pointed stakes
+  literal_form: Two sharpened stakes fixed under the creek water, hidden by water
+    and approached from logs on the bank.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Goonur falls into the false nest
+  summary: Goonur sneaks up to the supposed nest, jumps onto it, falls into water,
+    and drowns while his wives observe from a distance.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The mother finds and revives Goonur
+  summary: Goonur's mother follows his trail, retrieves his body from the water, places
+    it on an ant bed, and he regains consciousness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Goonur is hidden after revival
+  summary: The mother decides Goonur will live hidden in her dardurr and be carried
+    in a large comebee so his return remains secret.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: The wives discover the hidden Goonur
+  summary: The wives suspect the mother's hunting success, follow her, and see Goonur
+    step out of the comebee.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Pretended reconciliation
+  summary: The wives speak as if they mourned Goonur; he outwardly accepts their sorrow,
+    while the mother warns against their danger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Goonur prepares a creek trap
+  summary: Goonur secretly sharpens stakes, hides them beneath the creek water, places
+    logs on the bank, and invites his wives to jump in for a bathe.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: revival after drowning
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: Goonur is described as drowned or dead, his body is recovered, and after
+    being placed on an ant bed he regains consciousness; the mother later says she
+    brought him back from the dead.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: The passage presents return to life literally, but the mechanism is described
+    through the mother's action and ant stings rather than an explicit divine resurrection.
+- id: motif:2
+  label: treacherous lure into a concealed water trap
+  taxonomy_refs: []
+  basis: The wives' stratagem sends Goonur to a supposed nest that gives way into
+    water, leaving him unable to escape.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No broader comparative classification is asserted from the passage alone.
+- id: motif:3
+  label: concealed return of the presumed dead
+  taxonomy_refs:
+  - return
+  basis: After revival, Goonur is hidden in his mother's dardurr and transported in
+    a comebee, while his wives do not know he is alive.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The return is domestic and secret rather than a completed public return
+    scene.
+- id: motif:4
+  label: counter-trick and planned vengeance
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Goonur pretends to trust his wives while preparing a hidden creek trap with
+    sharpened stakes.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage gives the preparation of vengeance, but the outcome of the
+    trap lies beyond the supplied excerpt.
+- id: motif:5
+  label: maternal rescue and claim over revived child
+  taxonomy_refs: []
+  basis: The mother rescues and revives her son, warns that his wives lured him to
+    death, and declares he is now hers because she brought him back from the dead.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  confidence: medium
+  cautions: This is a family-role pattern in the passage; no divine-parent motif is
+    indicated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2092-2101
+  quote_or_summary: Goonur springs onto the supposed nest, sinks into water, cannot
+    escape drowning, and his wives watch the success of their stratagem before returning
+    to camp.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2101-2116
+  quote_or_summary: Goonur's mother notices his absence, follows his trail to the
+    supposed bandicoot's nest, finds no return tracks, feels something large in the
+    water, and raises the body with a midjee stick.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2116-2122
+  quote_or_summary: The mother drags the body to an ant bed; after twitching, Goonur
+    regains consciousness and tells her of his wives' trick.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2123-2131
+  quote_or_summary: The mother says the wives shall no longer have him; he will live
+    hidden in her dardurr and be carried in a large comebee when going in and out
+    of camp.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2132-2153
+  quote_or_summary: The wives suspect the mother's hunting success, follow her, and
+    see her put down the comebee, from which Goonur steps out.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 2154-2161
+  quote_or_summary: The wives say the mother must have found Goonur and, as a great
+    doctor, brought him to life again; they plan to pretend joy because they fear
+    he may kill them.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 2162-2170
+  quote_or_summary: The wives address Goonur as their husband, ask where he has been,
+    and claim they mourned and were sad during his absence.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 2176-2187
+  quote_or_summary: The mother cries out that the wives tried to lure Goonur to death
+    and says she brought him back from the dead, so he is no longer theirs.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 2188-2194
+  quote_or_summary: Goonur tells his mother that the wives were deceived by the bandicoot's
+    nest too and asks that they live in peace; the narration says he craftily deceives
+    them while plotting vengeance.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 2194-2197
+  quote_or_summary: Goonur cuts and sharpens two stakes, fixes them under the creek
+    water, places two logs on the bank, invites his wives to bathe, and tells them
+    to jump from the logs after he goes first.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied excerpt. Motif labels are candidate
+    descriptions; some outcomes, especially the creek trap, are not completed within
+    the provided passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text or cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:indigenous-australian-australian-legendary-tales-parker-gutenberg__l2092-l2197
+  passage_sha256=3e83f1769e143de98a4b03d50011443beec416d3cddf4146bfd85c04db9eabc0

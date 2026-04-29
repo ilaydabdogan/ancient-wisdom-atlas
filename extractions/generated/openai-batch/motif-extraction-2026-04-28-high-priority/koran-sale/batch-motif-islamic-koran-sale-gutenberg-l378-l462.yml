@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l378-l462
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: OF THE / LIFE OF GEORGE SALE. / R. A. DAVENPORT. / INTRODUCTION; lines 378-462
+  start: '378'
+  end: '462'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses the Koran's status among Muslim populations, evaluates
+    George Sale's sources and dependence on Marracci's earlier Latin work, describes
+    relevant manuscript collections, and closes with claims about Sale's translation
+    as a Western student's introduction to Islam and with brief biographical notes
+    on Sale.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the Koran remained the sacred book of Turks, Persians,
+    and nearly a quarter of India's population.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sale reported that most manuscripts used for his work were in his own study,
+    except for the Commentary of Al Baidhwi from the Dutch Church library in Austin
+    Friars.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A printed list of Sale's manuscripts is described as comprising eighty-six
+    works in Turkish, Arabic, and Persian, later housed in the Bodleian Library.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The manuscript list is said to include few first-rate Arabic works and none
+    of the commentaries repeatedly cited in Sale's translation.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator concludes that, except for Al-Baidhwi, Sale consulted his sources
+    at second hand and was substantially indebted to Marracci.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Marracci is described as having reproduced the whole Arabic text of the Koran
+    and given original texts and translations for quotations from Arabic writers.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage describes the Koran as regarded by many people from Fez to the
+    Far East as the revealed word of God and the basis of their faith.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage gives biographical details about Sale, including approximate birth
+    in 1697, death in 1736, admission to the Inner Temple, and possible connection
+    with Solomon Negri.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: The Koran
+  description: The sacred book discussed as widely revered and regarded as the revealed
+    word of God by many Muslims.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: George Sale
+  description: Translator and subject of the biographical introduction; evaluated
+    for his manuscript use and indebtedness to Marracci.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: Al-Baidhwi Commentary
+  description: The commentary singled out as an exception to Sale's own-study manuscripts,
+    belonging to the Dutch Church library in Austin Friars.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Marracci
+  description: Earlier translator and scholar whose work is described as learned,
+    textually extensive, and under-recognized.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Voltaire
+  description: Cited as having said that Marracci was never in the East and as having
+    made a statement about Sale spending over twenty years among the Arabs.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: Solomon Negri / Suleiman Alsadi
+  description: A person sent from Damascus to London by the Patriarch of Antioch to
+    urge publication of an Arabic New Testament for Syrian Christians.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: sacred text
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls the Koran a sacred book and later the revealed
+    word of God and basis of faith for many people.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: translator under evaluation
+  assigned_to:
+  - fig:2
+  basis: The passage evaluates Sale's translation, notes, sources, and research practices.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: biographical subject
+  assigned_to:
+  - fig:2
+  basis: The passage gives Sale's dates, education, and possible scholarly connections.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: named commentary source
+  assigned_to:
+  - fig:3
+  basis: The passage identifies Al-Baidhwi's Commentary as the named exception among
+    Sale's consulted manuscripts.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: prior scholarly source
+  assigned_to:
+  - fig:4
+  basis: The passage says Sale was more indebted to Marracci than he acknowledged
+    and describes Marracci's Koran work in detail.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: reported commentator
+  assigned_to:
+  - fig:5
+  basis: Voltaire is cited for statements about Marracci and Sale.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:7
+  label: Arabic Christian intermediary
+  assigned_to:
+  - fig:6
+  basis: Solomon Negri is described as sent from Damascus to London concerning an
+    Arabic New Testament for Syrian Christians.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: sacred book / revealed word
+  literal_form: The Koran as a sacred book and as the revealed word of God
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:2
+  label: manuscript collection
+  literal_form: A collection of Turkish, Arabic, and Persian manuscripts associated
+    with Sale's library
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Koran as enduring sacred book
+  summary: The passage presents the Koran as an enduring sacred book for broad Muslim
+    populations and as a text deserving Western readership.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Evaluation of Sale's sources
+  summary: The passage examines Sale's own statements, manuscript list, and cited
+    commentaries to argue that his research was less original than implied.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Marracci as learned predecessor
+  summary: The passage describes Marracci's earlier work as a major scholarly source
+    that provided Arabic text, translations, and extensive Islamic material.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Western introductory access to Islam
+  summary: The passage claims Sale's translation and notes provide Western students
+    with preliminary access to Islamic belief without years of Arabic study.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Biographical notices on Sale
+  summary: The passage gives Sale's approximate dates, corrects or doubts a claim
+    by Voltaire, and mentions Sale's likely linguistic knowledge and possible association
+    with Solomon Negri.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: revealed sacred text as foundation of faith
+  taxonomy_refs:
+  - wisdom
+  basis: The passage identifies the Koran as the sacred book and as the revealed word
+    of God and unshakable basis of faith for many people.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: medium
+  cautions: The passage is a scholarly introduction rather than a mythic narrative;
+    the motif is based on characterization of scripture, not on a narrated episode.
+- id: motif:2
+  label: transmission of sacred knowledge through translation and manuscripts
+  taxonomy_refs:
+  - wisdom
+  basis: The passage focuses on manuscripts, commentaries, translation, and the movement
+    of Islamic knowledge into Western study through Sale and Marracci.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is an intellectual-history pattern, not a traditional mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 378-386
+  quote_or_summary: The Koran is said to have remained the sacred book of Turks, Persians,
+    and many in India, and to deserve wider reading in the West.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 387-396
+  quote_or_summary: 'Sale''s own address is cited: he lacked access to public libraries
+    and mainly used manuscripts in his own study, except for Al Baidhwi''s Commentary
+    at the Dutch Church library.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 397-407
+  quote_or_summary: A printed list of Sale's Turkish, Arabic, and Persian manuscripts
+    is described; the books were later purchased for the Radcliffe Library and housed
+    in the Bodleian Library.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 408-414
+  quote_or_summary: The British Museum copy of the list contains eighty-six works,
+    few important Arabic works, and none of the commentaries repeatedly cited in Sale's
+    translation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 415-433
+  quote_or_summary: The narrator concludes that Sale's sources, except Al-Baidhwi,
+    were second-hand; Marracci's work is identified as a major unacknowledged source
+    for Sale's Arabic-author quotations.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 434-445
+  quote_or_summary: Marracci is described as reproducing the whole Arabic text of
+    the Koran, translating Arabic quotations, using Italian manuscript collections,
+    and publishing a Prodromus on Muhammad and Islam.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 446-452
+  quote_or_summary: The present work is said to give Western students a preliminary
+    study of Islam and access to what many people from Fez to the Far East regard
+    as the revealed word of God and basis of faith.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 453-462
+  quote_or_summary: Sale is said to have been born about 1697 and died in 1736; Voltaire's
+    claim about time among Arabs is doubted; Sale's Hebrew knowledge and possible
+    connection with Solomon Negri are mentioned.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is mainly biographical and bibliographical. Literal extraction
+    is strong, but motif assignment is limited to broad sacred-text and knowledge-transmission
+    patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No explicit mythic episode or comparative mythological claim appears in the passage; comparison_claims left empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l378-l462
+  passage_sha256=e3d6e5a0e902a47714acc38953abcdd91afd9ae98b7bbaa90c24c7bba78e4a5a

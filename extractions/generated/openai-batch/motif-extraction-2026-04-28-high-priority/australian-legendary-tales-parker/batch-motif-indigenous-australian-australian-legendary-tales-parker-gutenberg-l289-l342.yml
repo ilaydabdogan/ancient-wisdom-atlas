@@ -1,0 +1,452 @@
+---
+record_id: batch.motif.indigenous-australian-australian-legendary-tales-parker-gutenberg-l289-l342
+source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+passage_locator:
+  label: WITH INTRODUCTION BY ANDREW LANG, M.A. / CONTENTS / PREFACE / INTRODUCTION;
+    lines 289-342
+  start: '289'
+  end: '342'
+  translation: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told
+    to the Piccaninnies'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Andrew Lang characterizes the collection as children’s tales that include
+    aetiological myths explaining animals, constellations, death, fire, and other
+    features. He emphasizes a blending of human, bird, and beast in the tales, notes
+    themes of food and water scarcity, hunting devices, and rain-magic, and compares
+    some patterns to Ovid’s Metamorphoses, Prometheus, Zulu tales, Bushmen, Red Indian
+    traditions, and Kipling’s animal stories. He also describes illustrations made
+    by an untaught Australian native artist.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the tales are mostly children’s tales but include aetiological
+    myths explaining animal markings and habits, constellations, and similar matters.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says man, bird, and beast are blended in the Australian fancy,
+    are of one kindred, shade into each other, and obey Bush Law.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that many stories explain habits and characteristics of
+    birds and beasts and account for the origin of death.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that the origin of fire is accounted for, and that once
+    discovered it is stolen from its original proprietors because the first owners
+    would not give the secret away.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says the struggle for food and water is a perpetual theme in stories
+    from narrators living in a dry and thirsty land without agriculture or domestic
+    animals.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage mentions devices for hunting, especially chasing honey bees, and
+    says rain-magic was actually practised.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage describes designs from the sketchbook of an untaught Australian
+    native artist, including hunting scenes, trees, emus, kangaroos, men, and labras.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Dinewan and Goomblegubbon
+  description: Named creatures from the collection, mentioned as examples that children
+    might enjoy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+- id: fig:2
+  name_or_label: Man, bird, and beast
+  description: A collective set of beings described as blended, kindred, and shading
+    into each other in the tales.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Original proprietors of fire
+  description: Unspecified first owners of fire from whom fire is said to be stolen
+    after discovery.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Narrators in a dry and thirsty land
+  description: The storytellers described as dwelling in a dry land, not tilling,
+    sowing, or keeping domestic animals.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Untaught Australian native artist
+  description: An artist whose sketchbook designs are described by Lang, including
+    hunting scenes and animals.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: blended human-animal kindred
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that man, bird, and beast are blended, of one kindred,
+    and shade into each other; Dinewan and Goomblegubbon are named as creatures in
+    this context.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:2
+  label: first owners of fire
+  assigned_to:
+  - fig:3
+  basis: The passage describes original proprietors or first owners of fire who would
+    not give away the secret.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: dry-land narrators
+  assigned_to:
+  - fig:4
+  basis: The passage identifies the narrators as dwelling in a dry and thirsty land
+    without farming or domestic animals.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: book illustrator
+  assigned_to:
+  - fig:5
+  basis: The passage says the designs are from the artist’s sketchbook and that the
+    artist probably illustrated the book.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire and its secret ownership
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: water scarcity
+  literal_form: food and water in a dry and thirsty land
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: rain-magic
+  literal_form: rain-magic actually practised
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: animal and bird traits
+  literal_form: markings, habits, and characteristics of animals, birds, and beasts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:5
+  label: constellations
+  literal_form: origin of constellations
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Classification of the tales as aetiological and metamorphic
+  summary: Lang describes the collection as children’s tales that also explain animal
+    features, habits, constellations, and other origins, and compares them with metamorphosis
+    traditions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: scene:2
+  label: Origin and theft of fire
+  summary: The passage says the origin of fire is explained, and that fire, after
+    discovery, is stolen from its original owners because they would not give the
+    secret away.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Food, water, hunting, and rain-magic
+  summary: The passage presents the struggle for food and water as a recurring theme,
+    linked with dry-land conditions, hunting devices, honey-bee chasing, and rain-magic.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Description of native illustrations
+  summary: Lang describes book designs from an untaught Australian native artist,
+    noting hunting scenes, trees, emus, kangaroos, people, tools, and style.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: aetiological explanation of animals and constellations
+  taxonomy_refs: []
+  basis: The passage explicitly says the tales include myths explaining animal markings,
+    animal habits, and the origin of constellations.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a general description of the collection rather than a single narrated
+    myth in the passage.
+- id: motif:2
+  label: human-animal blending and metamorphic kinship
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage says man, bird, and beast are blended, are of one kindred, and
+    shade into each other.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes a general narrative worldview; it does not give
+    a specific transformation episode.
+- id: motif:3
+  label: origin and theft of fire
+  taxonomy_refs:
+  - sacred_theft
+  basis: The passage says the origin of fire is explained and that, once discovered,
+    it is stolen from its original proprietors.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage summarizes the motif but does not narrate the full fire-origin
+    story.
+- id: motif:4
+  label: origin of death
+  taxonomy_refs: []
+  basis: The passage states that some stories account for the origin of death, naming
+    “Bahloo, the Moon, and the Daens” as an example.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only a title and general topic are given; the episode is not narrated
+    here.
+- id: motif:5
+  label: struggle for food and water
+  taxonomy_refs: []
+  basis: The passage calls the struggle for food and water the perpetual theme and
+    connects it with a dry and thirsty land.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a broad thematic claim about the collection, not a specific story
+    pattern in this excerpt.
+- id: motif:6
+  label: rain-magic
+  taxonomy_refs: []
+  basis: The passage explicitly notes that rain-magic was actually practised.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage mentions the practice without narrating a ritual sequence
+    or mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: Lang compares the collection’s metamorphic and traditional-tale features
+    to Ovid’s Metamorphoses, presenting the classical work as a late artificial version
+    of older tale patterns.
+  claim_level: same_motif
+  target: Ovid’s Metamorphoses and traditional metamorphosis tales
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is Lang’s interpretive framing and uses dated terminology;
+    the passage does not demonstrate direct historical contact.
+- id: claim:2
+  claim: Lang compares the fire-origin theft pattern with the Prometheus myth, saying
+    the makers of the Prometheus myth shared the idea that first owners of fire would
+    not give the secret away.
+  claim_level: same_motif
+  target: Prometheus fire-theft myth
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports motif similarity only, not common inheritance
+    or borrowing.
+- id: claim:3
+  claim: Lang says the stories most resemble Zulu stories in character, while noting
+    that the Zulu examples represent a higher grade of civilization in his framework.
+  claim_level: same_function
+  target: Zulu stories
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is a broad comparative judgment without specific Zulu passages
+    or motifs cited in the excerpt.
+- id: claim:4
+  claim: Lang compares the blending of humans, birds, and beasts in Australian fancy
+    to similar blending in Bushmen and Red Indian traditions.
+  claim_level: same_function
+  target: Bushmen and Red Indian traditions
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The categories and language are broad and historically dated; the passage
+    provides no specific parallel tales.
+- id: claim:5
+  claim: Lang compares the animal-life sympathy and named creatures of the collection
+    with Kipling’s Jungle Book animal stories.
+  claim_level: same_function
+  target: Kipling’s Jungle Book animal stories
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a literary comparison made by the introducer, not evidence
+    of shared mythic origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 289-293
+  quote_or_summary: The tales are described as mostly children’s tales including aetiological
+    myths that explain animal markings and habits, constellations, and related phenomena.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: lines 302-307
+  quote_or_summary: "“Man, bird, and beast are all blended”; “All are of one kindred,
+    all shade into each other.”"
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 314-317
+  quote_or_summary: Many stories are described as aetiological myths explaining bird
+    and beast traits and accounting for the origin of death, with “Bahloo, the Moon,
+    and the Daens” named.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 317-322
+  quote_or_summary: The origin of fire is said to be explained; once discovered, fire
+    is stolen from its original proprietors because the first owners would not give
+    the secret away, a point compared with Prometheus.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 324-328
+  quote_or_summary: The struggle for food and water is called a perpetual theme because
+    narrators live in a dry and thirsty land and do not farm or keep domestic animals.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: lines 328-330
+  quote_or_summary: The passage mentions cunning devices for hunting, especially chasing
+    honey bees, and notes that rain-magic was actually practised.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: lines 335-342
+  quote_or_summary: The designs are described as coming from the sketchbook of an
+    untaught Australian native artist, with hunting scenes, trees, emus, kangaroos,
+    men, labras, ink, a pointed stick, and paper.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: summary
+  locator: lines 297-303
+  quote_or_summary: Lang compares the collection’s animal-life knowledge to Kipling
+    and says Dinewan and Goomblegubbon should take a place with Rikki Tikki and Kipling’s
+    other creatures, while noting there is no Mowgli figure.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source text.
+- id: ev:9
+  type: summary
+  locator: lines 293-296
+  quote_or_summary: Lang calls the tales a “savage edition” of the Metamorphoses and
+    describes the Metamorphoses as a late artificial version of traditional tales.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source text.
+- id: ev:10
+  type: summary
+  locator: lines 324-325
+  quote_or_summary: Lang says the stories perhaps most resemble those from the Zulu
+    in character, while adding that the Zulu stories represent a higher grade of civilization.
+  source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is introductory commentary, not a single myth narrative. Extracted
+    motifs are mostly generalized descriptions by Lang and require human review, especially
+    where terminology is dated or comparative claims are broad.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were applied only where the available list directly matched fire, water, shapeshifting/metamorphosis, or sacred theft.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:indigenous-australian-australian-legendary-tales-parker-gutenberg__l289-l342
+  passage_sha256=8542f9a987d8018d0377d1852b7a865e45817e80bb08cd5db584fd125653161b

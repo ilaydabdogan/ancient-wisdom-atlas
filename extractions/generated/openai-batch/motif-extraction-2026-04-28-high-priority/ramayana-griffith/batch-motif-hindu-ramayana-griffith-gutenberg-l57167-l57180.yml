@@ -1,0 +1,266 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l57167-l57180
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto CXXV. The Return. / Canto CXXVI. Bharat Consoled. / Canto CXXIX. The
+    Meeting With Bharat. / Canto CXXX. The Consecration.; lines 57167-57180
+  start: '57167'
+  end: '57180'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Rama gives rich treasures to every Vanar. Honored and satisfied, the Vanar
+    chieftains go home. Ayodhya enjoys ten thousand years of peace and prosperity
+    under Rama’s rule, without widowhood from murder, desolate houses, murrain, failed
+    harvests, child death, want, disease, or crime.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Rama gives rich treasures to every Vanar.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The treasures are described as coming from the mine and wave.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The chieftains are content with their honours and go homeward.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ayodhya is described as blessed with Rama’s rule for ten thousand years.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: During Rama’s rule, Ayodhya has peace and rest.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: No widow mourns a murdered mate, and no house is desolate.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The land has no murrain, and flocks and herds increase.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The earth supplies fruits, no harvest fails, no children die, and want, disease,
+    and crime are unknown.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: Rama gives treasures to the Vanars and rules Ayodhya.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Vanars
+  description: Recipients of rich treasures given by Rama.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Vanar chieftains
+  description: Chieftains who are content with their honours and go homeward.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: giver of treasures
+  assigned_to:
+  - fig:1
+  basis: Rama gives rich treasures to every Vanar.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ruler of Ayodhya
+  assigned_to:
+  - fig:1
+  basis: Ayodhya is described as blessed with Rama’s rule for ten thousand years.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: honored recipients
+  assigned_to:
+  - fig:2
+  basis: Every Vanar receives rich treasures from Rama.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: homeward chieftains
+  assigned_to:
+  - fig:3
+  basis: The chieftains, content with their honours, turn their steps homeward.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: treasures from mine and wave
+  literal_form: rich treasures from the mine and wave
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Ayodhya
+  literal_form: city or kingdom named Ayodhya
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: ten thousand years
+  literal_form: duration of Rama’s rule
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: fertile earth
+  literal_form: earth supplying fruits and unfailing harvests
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Rama rewards the Vanars
+  summary: Rama gives rich treasures to every Vanar.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Chieftains depart homeward
+  summary: The chieftains are content with their honours and turn homeward.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Peaceful rule in Ayodhya
+  summary: Ayodhya enjoys ten thousand years of peace, abundance, health, and freedom
+    from crime under Rama’s rule.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ideal prosperous kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Rama’s rule is associated with long-lasting peace, social safety, fertility,
+    health, and absence of crime in Ayodhya.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage describes outcomes of Rama’s rule but does not explicitly
+    state a coronation ideology or theory of legitimacy in this excerpt.
+- id: motif:2
+  label: homeward return after honor
+  taxonomy_refs:
+  - return
+  basis: The chieftains, satisfied with their honours, turn their steps homeward.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage names the homeward movement of the chieftains, but the broader
+    narrative context of return is not included in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 57167-57168
+  quote_or_summary: Rama gives rich treasures from mine and wave to every Vanar.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 57169-57170
+  quote_or_summary: The chieftains are content with their honours and go homeward.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 57171-57172
+  quote_or_summary: Ayodhya is blessed with Rama’s rule for ten thousand years of
+    peace and rest.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 57173-57174
+  quote_or_summary: No widow mourns a murdered mate, and no house is desolate.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 57175-57176
+  quote_or_summary: The land knows no murrain, and flocks and herds increase.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 57177-57180
+  quote_or_summary: The earth supplies fruits; harvests do not fail; children do not
+    die; want, disease, and crime are unknown.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are based only on the
+    excerpt’s explicit descriptions of reward, homeward movement, and Rama’s prosperous
+    rule. No comparison claims are made because the excerpt itself does not provide
+    an explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy refs apply directly to the passage objects or places.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l57167-l57180
+  passage_sha256=6c349e3a2f9fa90a132bb05fd9aecd825817938c17cd999df2579b863ee5bab8

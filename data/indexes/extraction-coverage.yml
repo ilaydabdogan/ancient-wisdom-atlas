@@ -10,46 +10,20 @@ summary:
   text_count: 58
   texts_with_extractions: 58
   texts_without_extractions: 0
-  texts_needing_full_extraction: 24
+  texts_needing_full_extraction: 23
   texts_needing_review_or_normalization: 58
-  extraction_record_count: 4314
-  candidate_motif_count: 20359
-  taxonomy_ref_count: 16243
-  comparison_claim_count: 3734
+  extraction_record_count: 4514
+  candidate_motif_count: 21371
+  taxonomy_ref_count: 16979
+  comparison_claim_count: 3979
   status_counts:
-    dense_draft: 34
-    developing: 16
-    thin: 8
+    dense_draft: 35
+    developing: 17
+    thin: 6
   priority_counts:
-    high: 8
-    medium: 50
+    high: 6
+    medium: 52
 texts:
-- source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
-  source_text_id: indigenous_australian.australian_legendary_tales.parker_gutenberg
-  title: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the
-    Piccaninnies'
-  tradition: indigenous_australian
-  culture: noongahburrah_euahlayi_context_colonial_collection
-  region: australia
-  date_range: living Indigenous traditions; 1896 public-domain English colonial collection
-  word_count: 33400
-  target_extraction_records: 9
-  coverage_ratio: 0.222
-  status: thin
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: true
-  extraction_record_count: 2
-  generated_record_count: 0
-  needs_review_count: 2
-  reviewed_count: 0
-  candidate_motif_count: 4
-  taxonomy_ref_count: 5
-  comparison_claim_count: 2
-  empty_motif_record_count: 0
-  extraction_paths:
-  - extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-fire-makers.yml
-  - extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-origin-narran-lake.yml
 - source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
   source_text_id: islamic.koran.rodwell_gutenberg
   title: The Koran (Al-Qur'an)
@@ -75,31 +49,6 @@ texts:
   extraction_paths:
   - extractions/islamic/project-gutenberg/koran/koran-rodwell-earthquake-works-judgment.yml
   - extractions/islamic/project-gutenberg/koran/koran-rodwell-recitation-created-man.yml
-- source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
-  source_text_id: islamic.koran.sale_gutenberg
-  title: The Koran (Al-Qur'an)
-  tradition: islamic
-  culture: arabic_islamic_later_translation
-  region: arabia_west_asia
-  date_range: 7th century source text; 1734 public-domain English translation
-  word_count: 423262
-  target_extraction_records: 40
-  coverage_ratio: 0.05
-  status: thin
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: true
-  extraction_record_count: 2
-  generated_record_count: 0
-  needs_review_count: 2
-  reviewed_count: 0
-  candidate_motif_count: 8
-  taxonomy_ref_count: 9
-  comparison_claim_count: 2
-  empty_motif_record_count: 0
-  extraction_paths:
-  - extractions/islamic/project-gutenberg/koran-sale/koran-sale-adam-names-eblis-garden-direction.yml
-  - extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml
 - source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
   source_text_id: islamicate_folklore.arabian_nights.lang_gutenberg
   title: The Arabian Nights Entertainments
@@ -399,6 +348,55 @@ texts:
   extraction_paths:
   - extractions/hindu/project-gutenberg/upanishads/upanishads-nachiketas-death-teacher.yml
   - extractions/hindu/project-gutenberg/upanishads/upanishads-self-deathless-wisdom.yml
+- source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  source_text_id: islamic.koran.sale_gutenberg
+  title: The Koran (Al-Qur'an)
+  tradition: islamic
+  culture: arabic_islamic_later_translation
+  region: arabia_west_asia
+  date_range: 7th century source text; 1734 public-domain English translation
+  word_count: 423262
+  target_extraction_records: 40
+  coverage_ratio: 0.65
+  status: developing
+  priority: medium
+  needs_full_extraction: true
+  needs_review_or_normalization: true
+  extraction_record_count: 26
+  generated_record_count: 24
+  needs_review_count: 26
+  reviewed_count: 0
+  candidate_motif_count: 81
+  taxonomy_ref_count: 53
+  comparison_claim_count: 17
+  empty_motif_record_count: 5
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1026-l1112.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1114-l1189.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1192-l1244.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1247-l1298.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1301-l1350.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1353-l1403.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1406-l1456.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l1459-l1511.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l149-l156.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l158-l239.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l240-l285.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l287-l292.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l294-l377.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l378-l462.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l463-l497.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l500-l578.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l581-l630.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l633-l714.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l68-l146.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l717-l755.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l758-l792.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l795-l897.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l900-l929.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/koran-sale/batch-motif-islamic-koran-sale-gutenberg-l931-l1023.yml
+  - extractions/islamic/project-gutenberg/koran-sale/koran-sale-adam-names-eblis-garden-direction.yml
+  - extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml
 - source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
   source_text_id: biblical.deuteronomy.web_classic
   title: Deuteronomy
@@ -3983,19 +3981,19 @@ texts:
     translation
   word_count: 399128
   target_extraction_records: 40
-  coverage_ratio: 9.25
+  coverage_ratio: 12.775
   status: dense_draft
   priority: medium
   needs_full_extraction: false
   needs_review_or_normalization: true
-  extraction_record_count: 370
-  generated_record_count: 366
-  needs_review_count: 370
+  extraction_record_count: 511
+  generated_record_count: 507
+  needs_review_count: 511
   reviewed_count: 0
-  candidate_motif_count: 1704
-  taxonomy_ref_count: 1427
-  comparison_claim_count: 209
-  empty_motif_record_count: 3
+  candidate_motif_count: 2467
+  taxonomy_ref_count: 2027
+  comparison_claim_count: 416
+  empty_motif_record_count: 7
   extraction_paths:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l10122-l10301.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l10303-l10413.yml
@@ -4315,22 +4313,163 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l47737-l47909.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l47912-l48013.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l48016-l48072.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l48075-l48164.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l48167-l48308.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l48311-l48458.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l4845-l4914.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l48460-l48585.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l48588-l48746.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l48748-l48929.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l48931-l49085.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l49087-l49274.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l4917-l5003.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l49276-l49447.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l49449-l49611.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l49613-l49779.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l49782-l49893.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l49896-l49982.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l49985-l50125.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l5006-l5160.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l50127-l50183.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l50186-l50367.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l50370-l50519.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l50521-l50647.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l50650-l50821.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l50823-l50850.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l50853-l50979.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l50981-l51135.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l51137-l51279.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l51281-l51416.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l51419-l51500.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l51503-l51674.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l5162-l5318.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l51677-l51816.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l51819-l51887.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l51890-l51946.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l51949-l52118.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l52120-l52240.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l52243-l52407.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l52409-l52579.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l52581-l52761.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l52764-l52908.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l52910-l53064.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l53066-l53172.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l53175-l53341.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l5320-l5394.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l53344-l53513.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l53515-l53681.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l53683-l53846.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l53848-l54019.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l5397-l5489.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l54021-l54176.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l54179-l54354.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l54356-l54507.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l54509-l54546.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l54549-l54683.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l54686-l54845.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l54847-l55004.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l5492-l5590.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l55006-l55121.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l55124-l55282.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l55285-l55354.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l55357-l55397.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l55400-l55568.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l55571-l55736.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l55739-l55880.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l55883-l56065.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l5593-l5733.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l56067-l56092.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l56095-l56231.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l56234-l56393.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l56396-l56450.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l56453-l56519.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l56522-l56608.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l56611-l56789.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l56792-l56825.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l56828-l56995.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l56998-l57165.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l57167-l57180.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l57183-l57268.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l57270-l57284.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l57286-l57377.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l5735-l5905.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l57379-l57463.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l57465-l57499.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l57501-l57580.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l57582-l57606.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l57608-l57690.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l57691-l57754.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l57756-l57837.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l57839-l57896.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l57898-l57933.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l57936-l58038.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l58041-l58109.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l58112-l58192.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l58194-l58313.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l58315-l58446.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l58449-l58532.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l58534-l58632.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l58635-l58745.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l58747-l58884.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l58887-l59007.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l59009-l59055.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l59057-l59142.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l5908-l6061.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l59144-l59296.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l59299-l59388.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l59390-l59483.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l59485-l59576.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l59578-l59724.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l59726-l59842.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l59844-l59934.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l59936-l60014.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l60016-l60062.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l60064-l60122.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l60124-l60157.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l60159-l60209.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l60212-l60652.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l6063-l6131.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l60654-l61097.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l61099-l61565.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l6134-l6289.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l61567-l61972.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l61975-l62090.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l62092-l62214.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l62216-l62330.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l62332-l62449.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l62451-l62563.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l62565-l62694.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l62696-l62815.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l62817-l62940.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l6291-l6393.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l62942-l63076.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l63078-l63190.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l63192-l63299.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l63301-l63465.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l63467-l63548.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l63550-l63687.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l63689-l63846.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l63848-l64027.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l6396-l6572.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l64029-l64181.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l64183-l64293.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l64295-l64428.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l64430-l64570.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l64572-l64708.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l64710-l64863.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l64865-l64999.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l65001-l65150.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l65152-l65262.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l65264-l65393.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l65395-l65547.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l65549-l65703.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l65705-l65848.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l6574-l6650.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l65850-l65967.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l65969-l66086.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l66088-l66271.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l661-l687.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l66273-l66368.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l6653-l6822.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l6824-l6999.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/ramayana-griffith/batch-motif-hindu-ramayana-griffith-gutenberg-l690-l862.yml
@@ -4367,6 +4506,67 @@ texts:
   - extractions/hindu/project-gutenberg/ramayana/ramayana-ganga-descent-bhagiratha.yml
   - extractions/hindu/project-gutenberg/ramayana/ramayana-ocean-threatened-bridge.yml
   - extractions/hindu/project-gutenberg/ramayana/ramayana-sandals-regency-bharata.yml
+- source_text_path: texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md
+  source_text_id: indigenous_australian.australian_legendary_tales.parker_gutenberg
+  title: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the
+    Piccaninnies'
+  tradition: indigenous_australian
+  culture: noongahburrah_euahlayi_context_colonial_collection
+  region: australia
+  date_range: living Indigenous traditions; 1896 public-domain English colonial collection
+  word_count: 33400
+  target_extraction_records: 9
+  coverage_ratio: 4.111
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 37
+  generated_record_count: 35
+  needs_review_count: 37
+  reviewed_count: 0
+  candidate_motif_count: 180
+  taxonomy_ref_count: 97
+  comparison_claim_count: 25
+  empty_motif_record_count: 1
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l1021-l1119.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l1121-l1234.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l1236-l1339.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l127-l224.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l1341-l1440.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l1443-l1549.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l1551-l1654.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l1656-l1739.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l1741-l1837.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l1839-l1964.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l1966-l2090.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l2092-l2197.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l2199-l2299.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l227-l287.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l2302-l2397.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l2400-l2492.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l2494-l2588.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l2590-l2687.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l2689-l2774.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l2776-l2889.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l289-l342.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l2891-l3002.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l3004-l3116.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l3119-l3222.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l3224-l3258.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l3261-l3372.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l3375-l3525.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l344-l455.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l457-l559.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l561-l655.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l657-l748.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l67-l124.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l750-l866.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l868-l931.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/australian-legendary-tales-parker/batch-motif-indigenous-australian-australian-legendary-tales-parker-gutenberg-l933-l1019.yml
+  - extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-fire-makers.yml
+  - extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-origin-narran-lake.yml
 - source_text_path: texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md
   source_text_id: japanese.fairy_tales.ozaki_gutenberg
   title: Japanese Fairy Tales

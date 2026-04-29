@@ -1,0 +1,552 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l51677-l51816
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XXVIII. The Chieftains. / Canto XXXI. The Magic Head. / Canto XXXVII.
+    Preparations. / Canto XXXVIII. The Ascent Of Suvela.; lines 51677-51816
+  start: '51677'
+  end: '51816'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Rama reacts to Sugriva's wounds, orders the Vanar army to besiege Lanka,
+    sends Angad as envoy to warn Ravana to restore the Maithil lady and seek pardon,
+    and Angad demonstrates his strength after Ravana orders him seized.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Rama sees bloody marks on Sugriva, embraces him, and reproves him for risking
+    his life rashly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sugriva says he could not endure looking upon the giant king who robbed Rama
+    of his wife.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Rama orders Lakshman to marshal the legions and says the armies will ascend
+    the walls defended by Ravana's forces.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rama and the Vanar captains take assigned positions around Lanka's gates and
+    surrounding woods.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The army surrounds Lanka so closely that even the wind can scarcely pass,
+    and its shout shakes the city.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Rama sends Angad to Ravana with a warning to restore the Maithil lady, seek
+    pardon, or face destruction.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Angad enters Ravana's abode by an aerial route and identifies himself as Rama's
+    envoy and Bali's son.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Angad tells Ravana that Vibhishan will be anointed king after Ravana is slain.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Ravana orders Angad seized and killed.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Angad allows four captors to seize him, holds them fast, leaps to the palace
+    roof, hurls them down, breaks a turret, and returns to Rama.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Rama / Raghu's son
+  description: Leader who reproves Sugriva, commands the siege, and sends Angad with
+    a warning to Ravana.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Sugriva
+  description: King and ally of Rama, seen with bloody traces on his limbs and face
+    after confronting Ravana.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Lakshman
+  description: Rama instructs him to marshal the legions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Ravana / Rákshas King
+  description: Giant king of Lanka, accused of stealing Rama's wife and commanding
+    Rakshasa forces.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Angad
+  description: Son of Bali and envoy sent by Rama into Ravana's presence; he displays
+    strength when seized.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Vibhishan
+  description: Named by Rama as one who feared for Sugriva; Angad says he will be
+    anointed king after Ravana's defeat.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:7
+  name_or_label: Maithil lady / Rama's wife
+  description: The woman Ravana is accused of stealing and whom Rama demands be restored.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: Vanar armies and captains
+  description: The Vanar hosts are marshalled around Lanka under captains including
+    Nila, Mainda, Dwivid, Angad, Hanuman, and Sugriva.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:9
+  name_or_label: Rakshasas / giant foes
+  description: Forces inside Lanka, appalled by the besieging army's shout and threatened
+    by Rama's warning.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:10
+  name_or_label: Four captors
+  description: Four members of Ravana's band seize Angad at Ravana's command and are
+    hurled down by him.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: besieging commander
+  assigned_to:
+  - fig:1
+  basis: Rama orders the legions, chooses the northern gate, and directs protection
+    of the troops.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: wronged husband demanding restoration
+  assigned_to:
+  - fig:1
+  basis: Rama's speeches identify Ravana as the one who stole his wife and demand
+    her return.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: wounded ally and king
+  assigned_to:
+  - fig:2
+  basis: Sugriva is described as a kingly ally whose limbs and face show bloody traces.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: marshal of legions
+  assigned_to:
+  - fig:3
+  basis: Rama directly orders Lakshman to marshal the legions.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: besieged monarch
+  assigned_to:
+  - fig:4
+  basis: Ravana stands with armed forces at Lanka's northern gate and sits among counsellors
+    in his abode.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:6
+  label: abductor and tyrant
+  assigned_to:
+  - fig:4
+  basis: Rama and Angad accuse Ravana of stealing the dame and oppressing others.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: envoy
+  assigned_to:
+  - fig:5
+  basis: Angad is sent by Rama to speak a warning in Ravana's presence and identifies
+    himself as envoy.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: strength-displaying warrior
+  assigned_to:
+  - fig:5
+  basis: Angad deliberately shows strength by restraining captors, leaping to the
+    roof, hurling them down, and breaking a turret.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: future anointed king
+  assigned_to:
+  - fig:6
+  basis: Angad says Vibhishan will be anointed king and reign in peace after Ravana's
+    death.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: stolen beloved
+  assigned_to:
+  - fig:7
+  basis: The passage repeatedly describes her as Rama's wife or dame stolen by Ravana
+    and demanded back.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:11
+  label: besieging host
+  assigned_to:
+  - fig:8
+  basis: The Vanars are ordered, assigned to gates, and surround Lanka's walls.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:12
+  label: defending host
+  assigned_to:
+  - fig:9
+  basis: Rakshasas defend the walls and are within the city when the besieging host
+    shouts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:13
+  label: failed captors
+  assigned_to:
+  - fig:10
+  basis: They seize Angad but are held, carried, and thrown down by him.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: blood
+  literal_form: Bloody traces on Sugriva and predicted Rakshasa blood in Lanka's streets.
+  associated_figures:
+  - fig:2
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: fortified gates and walls
+  literal_form: Lanka's walls, ramparts, and gates assigned to besieging captains.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: fire imagery
+  literal_form: Rama threatens sword and flame; Angad speeds like embodied flame;
+    Rama's shaft is called fiery.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: aerial path and sky
+  literal_form: Angad travels by an airy road, Ravana is warned that flight into the
+    sky will not save him, and Angad springs to the sky.
+  associated_figures:
+  - fig:5
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: mountain peak image
+  literal_form: Rama descends from a peak; Angad's breaking of the turret is compared
+    to Indra's lightning rending the peak of the Lord of Snow.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:6
+scenes:
+- id: scene:1
+  label: Rama reproves Sugriva
+  summary: Rama sees Sugriva wounded, embraces him, warns him against rash danger,
+    and hears Sugriva's explanation that he could not endure Ravana.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Deployment around Lanka
+  summary: Rama orders Lakshman to marshal the army; the Vanar captains take positions
+    at Lanka's gates and surrounding woods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The besieging shout
+  summary: The Vanar forces surround Lanka so completely that the city and its natural
+    and built features shake under their collective shout.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Rama's ultimatum sent by Angad
+  summary: Rama sends Angad to Ravana with a warning to restore the Maithil lady and
+    seek pardon or face destructive punishment.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Angad's embassy in Ravana's court
+  summary: Angad enters Ravana's abode, declares himself Rama's envoy, warns Ravana,
+    and says Vibhishan will be anointed king after Ravana's fall.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Seizure and display of strength
+  summary: Ravana orders Angad seized; Angad holds his captors, leaps to the roof,
+    throws them down, breaks a turret, and returns to Rama.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:10
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: stolen beloved recovered by threat of war
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Ravana is repeatedly accused of stealing Rama's wife or dame, and Rama demands
+    her return before battle.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage contains the demand and accusation, not the original abduction
+    or recovery.
+- id: motif:2
+  label: ascent and aerial movement in heroic conflict
+  taxonomy_refs:
+  - ascent
+  basis: Rama says the armies will ascend Lanka's walls, and Angad moves by an airy
+    route, leaps to the roof, and springs to the sky.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: Some ascent language is tactical movement rather than a full mythic ascent
+    episode.
+- id: motif:3
+  label: legitimate succession after tyrant's fall
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Angad declares that Vibhishan will be anointed king and reign in peace after
+    Ravana is slain.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage announces future anointing but does not narrate the coronation.
+- id: motif:4
+  label: merciful warning before destruction
+  taxonomy_refs: []
+  basis: Rama, described as acting from kingly duty, sends Angad with a final warning
+    that offers return of the lady and pardon before annihilation.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this motif label.
+- id: motif:5
+  label: heroic envoy displays power in enemy court
+  taxonomy_refs: []
+  basis: Angad enters Ravana's court as envoy and, after being seized, demonstrates
+    strength by overpowering captors and damaging the palace.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this envoy-display pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 51677-51691
+  quote_or_summary: Rama sees bloody traces on Sugriva, embraces and reproves him;
+    Sugriva says he could not endure the giant king who robbed Rama of his wife.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 51692-51728
+  quote_or_summary: Rama orders Lakshman to marshal the legions, says the armies will
+    ascend Lanka's walls, descends from the peak, and assigns posts at the gates to
+    Rama, Nila, Angad, Hanuman, and Sugriva.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 51729-51740
+  quote_or_summary: The Vanar forces surround Lanka on every side; their shout is
+    compared to the ocean's roar and shakes Lanka, alarming the giants.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 51741-51772
+  quote_or_summary: 'Rama sends Angad to warn Ravana: return the Maithil lady, seek
+    pardon, or Rama will destroy the Rakshasas and strike Ravana even if he flees
+    to the sky.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 51773-51795
+  quote_or_summary: Angad travels like embodied flame into Ravana's abode, announces
+    he is Rama's envoy and Bali's son, warns Ravana, demands restoration of the dame,
+    and says Vibhishan will be anointed king.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 51796-51816
+  quote_or_summary: Ravana orders Angad seized; Angad holds the four captors, leaps
+    to the palace roof, throws them down, breaks a turret like lightning rending a
+    snowy mountain peak, springs skyward, and returns to Rama.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal actions and figures are clear in the supplied passage. Motif assignments
+    use only the supplied taxonomy where directly supported; comparison claims are
+    omitted because the passage itself does not establish an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external traditions or comparisons were added beyond the supplied passage and available taxonomy references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l51677-l51816
+  passage_sha256=5e174a371182e80ccb495149a509ba7a7532821cc2e446122c7a08f8f56c5993

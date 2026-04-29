@@ -1,0 +1,76 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l149-l156
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: MY LORD, / A SKETCH / OF THE / LIFE OF GEORGE SALE.; lines 149-156
+  start: '149'
+  end: '156'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: |-
+    A SKETCH
+
+    OF THE
+
+    LIFE OF GEORGE SALE.
+  summary: The passage is a heading announcing a sketch of the life of George Sale.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a section heading for a biographical sketch.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: George Sale is named in the heading.
+  category: other
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: George Sale
+  description: Person named as the subject of the life sketch.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: biographical subject
+  assigned_to:
+  - fig:1
+  basis: The heading states that the section is a sketch of the life of George Sale.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 149-156
+  quote_or_summary: A SKETCH / OF THE / LIFE OF GEORGE SALE.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is only a heading and contains no narrative action, mythic symbols,
+    or comparative motif evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No motif or symbol candidates were extracted because the supplied passage is a biographical heading only.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l149-l156
+  passage_sha256=1b568e420bde691c261a1d6211ca412ff1fa21b747f60ed3dc8d4bc4e986940d

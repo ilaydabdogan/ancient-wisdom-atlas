@@ -1,0 +1,420 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l66088-l66271
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: FOOTNOTES / ILIAD. XVII. 426. / GORRESIO. / MACBETH.; lines 66088-66271
+  start: '66088'
+  end: '66271'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A sequence of editorial footnotes explains ethnonyms such as Yavanas and
+    Śakas, identifies or glosses many divine names, and comments on the hymn called
+    the Ádityahridaya. The notes especially present the solar deity through many epithets:
+    creator, sustainer, giver of light, mover of the world, destroyer of darkness
+    or ignorance, cause of rain and nourishment, possessor of rays, one with a seven-horsed
+    chariot, protector of the world, and a figure identified with the Hindu triad.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note on Yavanas states that the term formerly designated Greeks and was
+    associated in Sanskrit sources with north-western peoples such as Kámbojas, Daradas,
+    Páradas, Báhlíkas, and Śakas.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Several footnotes gloss divine names as members of the Hindu triad: Brahmá
+    as creator, Vishnu as preserver, and Śiva as destroyer.'
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The footnotes identify or gloss additional divine or semi-divine groups and
+    figures, including a war god, lord of creatures, king of gods, god of riches,
+    departed ancestors, Sádhyas, the two physicians of the gods, Maruts, the god of
+    wind, and the god of fire.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note states that the hymn entitled the Ádityahridaya begins at the referenced
+    verse, with the words 'thou art' understood at the beginning.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The solar deity is glossed through epithets describing him as lord of the
+    solar disk, creator or giver of life, mover of the world, sky-going, nourisher,
+    golden or radiant, cause of day, destroyer of darkness or ignorance, source of
+    rain and water, protector of the whole world, and identical with the twelve months.
+  category: attribute
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: obs:6
+  text: One epithet explains the solar deity's chariot as drawn by seven horses, or
+    alternatively as urging seven vital or sensory faculties.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: 'One note states that the solar figure is identified with the Hindu triad:
+    creator Brahmá, supporter Vishnu, and destroyer Śiva.'
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Yavanas
+  description: An ethnonym glossed as formerly designating Greeks and discussed in
+    relation to north-western peoples in Sanskrit sources.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Brahmá
+  description: The creator of the world and first of the Hindu triad; also named as
+    one taught the Vedas by the solar figure in one gloss.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: Vishnu
+  description: The second of the Hindu triad, glossed as pervading all beings and
+    preserving or supporting the world.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:4
+  name_or_label: Śiva
+  description: The third of the Hindu triad, glossed as bestower of blessings and
+    destroyer of the world.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:5
+  name_or_label: Solar deity / son of Aditi / lord of the solar disk
+  description: The central deity of the Ádityahridaya glosses, described through many
+    solar epithets involving creation, light, nourishment, rain, protection, destruction
+    of darkness, and the months.
+  role_refs:
+  - role:5
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Departed ancestors
+  description: Glossed as names or spirits of departed ancestors.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Two physicians of the gods
+  description: A divine pair glossed as the two physicians of the gods or as those
+    who pervade all beings.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Named foreign people
+  assigned_to:
+  - fig:1
+  basis: The note explains Yavanas as an ethnonym historically applied to Greeks and
+    associated with other north-western groups.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Creator
+  assigned_to:
+  - fig:2
+  basis: The note explicitly calls Brahmá creator of the world and first member of
+    the Hindu triad.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Preserver or supporter
+  assigned_to:
+  - fig:3
+  basis: The note glosses Vishnu as pervading all beings and preserving the world;
+    another note names the supporter as Vishnu.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:4
+  label: Destroyer
+  assigned_to:
+  - fig:4
+  basis: The note glosses Śiva as third member of the Hindu triad and destroyer of
+    the world.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:5
+  label: Solar hymn deity
+  assigned_to:
+  - fig:5
+  basis: The Ádityahridaya note and subsequent glosses present the addressed deity
+    as the lord of the solar disk with many solar attributes.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: Cosmic sustainer and protector
+  assigned_to:
+  - fig:5
+  basis: The glosses describe the solar deity as nourishing, supporting, protecting,
+    causing rain, producing corn, and giving life.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:7
+  label: Light-giver and darkness-destroyer
+  assigned_to:
+  - fig:5
+  basis: The glosses describe the deity as giver of light and destroyer of darkness
+    or ignorance.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: Ancestral spirits
+  assigned_to:
+  - fig:6
+  basis: The footnote glosses the names as spirits of departed ancestors.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: Divine healers
+  assigned_to:
+  - fig:7
+  basis: The footnote identifies the pair as the two physicians of the gods.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Solar disk
+  literal_form: Solar disk
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Rays of light
+  literal_form: Rays or mass of rays possessed by the solar deity
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: Seven horses
+  literal_form: A chariot drawn by seven horses
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Water and rain
+  literal_form: Rain and water caused by the solar figure
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: Fire deity
+  literal_form: The god of fire named in a gloss
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Editorial glossing of peoples and divine names
+  summary: The passage's footnotes explain ethnonyms and gloss a series of divine
+    names, placing some within the Hindu triad and other divine classes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Ádityahridaya solar hymn glosses
+  summary: The notes introduce the Ádityahridaya hymn and explain epithets of the
+    solar deity as creator, life-giver, light-giver, nourisher, cause of rain, destroyer
+    of darkness, protector, and figure identified with the triad.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Solar deity as cosmic sustainer
+  taxonomy_refs: []
+  basis: The solar figure is repeatedly glossed as creator or giver of life, mover
+    of the world, nourisher, supporter, cause of rain and food, and protector of the
+    whole world.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage is an editorial footnote sequence, not a narrative episode;
+    the motif is extracted from glossed epithets rather than from narrated action.
+- id: motif:2
+  label: Solar deity dispels darkness and ignorance
+  taxonomy_refs:
+  - wisdom
+  basis: Several glosses describe the solar figure as giver of light, destroyer of
+    darkness or ignorance, and one known through the Upanishads or connected with
+    teaching the Vedas.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy link to wisdom is inferential but supported by explicit references
+    to ignorance, knowledge, Upanishads, and Vedas in the glosses.
+- id: motif:3
+  label: Solar chariot with seven horses
+  taxonomy_refs: []
+  basis: One gloss explains the solar deity as having a chariot drawn by seven horses,
+    with an alternate interpretation involving seven vital or sensory faculties.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The chariot is mentioned in a lexical gloss rather than described in a
+    narrative scene.
+- id: motif:4
+  label: Deity encompassing creator, preserver, and destroyer
+  taxonomy_refs: []
+  basis: 'A note states that the solar figure is identified with the Hindu triad:
+    Brahmá the creator, Vishnu the supporter, and Śiva the destroyer.'
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage presents this as an explanatory note on an epithet, not as
+    a narrated manifestation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 66088-66100; footnotes 1070-1072
+  quote_or_summary: The notes explain Yavanas as formerly designating Greeks, connect
+    the term with Yavan or Ion, and discuss related north-western peoples and textual
+    occurrences.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 66105-66112; footnotes 1074-1076
+  quote_or_summary: Brahmá is glossed as creator and first of the triad; Vishnu as
+    pervader and preserver; Śiva as bestower of blessings and destroyer of the world.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 66113-66142; footnotes 1077-1092
+  quote_or_summary: The notes gloss divine and ancestral figures including war god,
+    lord of creatures, king of gods, god of riches, departed ancestors, Vasus, Sádhyas,
+    divine physicians, Maruts, wind god, fire god, and lord of creatures.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 66152-66154; footnote 1096
+  quote_or_summary: The note states that the hymn called the Ádityahridaya begins
+    at this verse and that 'thou art' is understood at the beginning.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 66155-66182; footnotes 1097-1114
+  quote_or_summary: The solar figure is glossed as son of Aditi and lord of the solar
+    disk, creator or giver of life, mover of the world, sky-going, nourisher, ray-bearing,
+    golden, resplendent, cause of day, seven-horsed, and destroyer of darkness or
+    ignorance.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 66179-66182; footnotes 1108-1111
+  quote_or_summary: One note explains the solar figure as boundless in knowledge or
+    thousand-rayed; another says he urges seven faculties or has a chariot drawn by
+    seven horses; another calls him destroyer of darkness or ignorance.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 66183-66271; footnotes 1115-1143
+  quote_or_summary: Further glosses describe the solar figure as pervading worlds,
+    identified with the triad, allaying pain, lord of all, teacher of the Vedas, source
+    of Rudra, cause of rain and water, mover in the solar orbit, destroyer of all,
+    identified with the world, protector, glorious, identical with the twelve months,
+    and giver of victory to devotees.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage consists of editorial footnotes and lexical/theological glosses
+    rather than a continuous mythic narrative. Extraction is strongest for named figures,
+    roles, and solar-symbolic epithets; comparative claims are omitted because the
+    passage does not itself establish a motif comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references were limited to supplied options; most solar motifs have no direct available taxonomy match.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l66088-l66271
+  passage_sha256=9a2e8dbae4907a7a08381f11a9fa43724e3f32ef2eaa719b3a82892affb71723

@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l63550-l63687
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: THE SUPPLIANT DOVE. / INDEX OF PRINCIPAL NAMES / FOOTNOTES / ILIAD. XVII.
+    426.; lines 63550-63687
+  start: '63550'
+  end: '63687'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage contains editorial and explanatory notes: references to ancient
+    poetry linking nature with human emotion; the southern region as Yama''s abode
+    for departed spirits; the body''s five elements; Bharat''s self-imprecating oath
+    to prove innocence in Rama''s banishment; ritual or customary details including
+    right-to-left walking, an Indra standard on a tree or high staff, the dignity
+    of Śatakratu gained through a hundred horse sacrifices, burning army huts after
+    a march, and a remote northern happy land without death, fear, or decline.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An editorial quotation states that ancient poetry often associates nature
+    with human joys and sorrows.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The southern region is described as the abode of Yama and of departed spirits.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The body is described as consisting of five elements and returning to them.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Bharat is said to invoke curses on his own head to prove innocence regarding
+    Rama's banishment.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Walking from right to left is noted as a distinct action.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A structure in honor of Indra is said to be erected on a tree or high staff.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The title Śatakratu is explained as 'Lord of a hundred sacrifices', connected
+    with performing a hundred horse sacrifices.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: When an army marched, it was customary to burn the huts in which it had spent
+    the night.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: A remote northern happy land is described where inhabitants have complete
+    happiness without exertion and lack vicissitude, decrepitude, death, and fear.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Yama
+  description: Named as the deity whose abode is in the southern region, glossed by
+    the translator as the Indian Pluto.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Departed spirits
+  description: The dead spirits said to dwell in the southern region.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Bharat
+  description: Said to invoke curses on himself to prove his innocence in Rama's banishment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Rama
+  description: The person whose banishment Bharat denies sharing in.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Indra
+  description: A deity in whose honor a structure is erected on a tree or high staff.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Inhabitants of the remote northern happy land
+  description: People described as enjoying complete happiness without exertion and
+    lacking death, fear, decrepitude, or change.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: afterlife-abode deity
+  assigned_to:
+  - fig:1
+  basis: Yama is associated with the southern region as abode of departed spirits.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: departed dead
+  assigned_to:
+  - fig:2
+  basis: Departed spirits are named as inhabitants of the southern region.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: self-imprecating oath speaker
+  assigned_to:
+  - fig:3
+  basis: Bharat invokes curses on his own head to prove innocence.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: banished person
+  assigned_to:
+  - fig:4
+  basis: Rama is the person whose banishment is mentioned in Bharat's oath context.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: honored deity
+  assigned_to:
+  - fig:5
+  basis: A tree or high staff structure is erected in honor of Indra.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: deathless happy-land inhabitants
+  assigned_to:
+  - fig:6
+  basis: The inhabitants of the northern land are described as free from death, fear,
+    and decline.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: southern region as abode of the dead
+  literal_form: southern region
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: five elements of the body
+  literal_form: five elements
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: right-to-left walking
+  literal_form: walking from right to left
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Indra structure on tree or high staff
+  literal_form: tree or high staff
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  - sacred_tree_axis
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: hundred horse sacrifices
+  literal_form: hundred Aśvamedhas or sacrifices of a horse
+  associated_figures: []
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: remote northern happy land
+  literal_form: happy land in the remote north
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Southern abode of Yama and the dead
+  summary: An explanatory note identifies the southern region as the dwelling place
+    of Yama and departed spirits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Body returns to elements
+  summary: An explanatory note states that the body consists of five elements and
+    returns to those elements.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Bharat's oath of innocence
+  summary: Bharat is explained as calling curses upon himself to demonstrate that
+    he had no part in banishing Rama.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Indra standard or structure
+  summary: A note explains an object erected on a tree or high staff in honor of Indra.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Śatakratu and horse sacrifices
+  summary: A note explains Śatakratu as a dignity gained through performing a hundred
+    horse sacrifices.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Army huts burned after departure
+  summary: A note describes the custom of burning huts in which an army had spent
+    the night when the army marched.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:7
+  label: Remote northern happy land
+  summary: A quoted explanatory note describes a northern land of effortless happiness
+    without death, fear, decrepitude, or moral inequality.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Southern abode of the dead under Yama
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage explicitly assigns Yama and departed spirits to the southern
+    region.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an editorial note rather than a narrative episode.
+- id: motif:2
+  label: Body dissolving back into elemental constituents
+  taxonomy_refs: []
+  basis: The passage states that the body consists of five elements and returns to
+    them.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The note gives a doctrinal explanation but does not narrate a death or
+    rebirth event.
+- id: motif:3
+  label: Self-imprecation to prove innocence
+  taxonomy_refs: []
+  basis: Bharat's curses are described as being invoked on his own head to prove innocence
+    in Rama's banishment.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage summarizes the intention of the curses but does not include
+    their full wording.
+- id: motif:4
+  label: Sacral honorific gained by repeated horse sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explains Śatakratu as a dignity obtained by performing a hundred
+    Aśvamedha horse sacrifices.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is an explanatory note about a title, not a full sacrificial scene.
+- id: motif:5
+  label: Sacred structure raised on tree or high staff for Indra
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage describes something erected upon a tree or high staff in honor
+    of Indra.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The precise object is not described in this line range; the axis/tree
+    interpretation should be reviewed.
+- id: motif:6
+  label: Deathless remote northern happy land
+  taxonomy_refs: []
+  basis: The passage describes a remote northern land with complete happiness, no
+    decrepitude, no death, no fear, and no change through the Yugas.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The description is a cited explanatory note and is not tied here to a
+    specific narrative journey.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Yama functionally with Pluto by glossing
+    him as the 'Indian Pluto'.
+  claim_level: same_function
+  target: Pluto as classical underworld deity
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the translator/editor in a note, not by the
+    Sanskrit narrative itself; it should not be taken as evidence of historical contact.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 63550-63687; epigraph after ILIAD. XVII. 426
+  quote_or_summary: "“Ancient poesy frequently associated nature with the joys and
+    sorrows of man.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: lines 63550-63687; note 335
+  quote_or_summary: "“The southern region is the abode of Yama the Indian Pluto, and
+    of departed spirits.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: lines 63550-63687; note 336
+  quote_or_summary: "“The five elements of which the body consists, and to which it
+    returns.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 63550-63687; note 351
+  quote_or_summary: Bharat invokes curses on his own head to prove he had no share
+    in banishing Rama.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: lines 63550-63687; note 353
+  quote_or_summary: "“Walking from right to left.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: quote
+  locator: lines 63550-63687; note 355
+  quote_or_summary: "“Erected upon a tree or high staff in honour of Indra.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: lines 63550-63687; note 359
+  quote_or_summary: Śatakratu is explained as Lord of a hundred sacrifices, a dignity
+    gained through performing a hundred Aśvamedha horse sacrifices.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: quote
+  locator: lines 63550-63687; note 364
+  quote_or_summary: "“When an army marched it was customary to burn the huts in which
+    it had spent the night.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text.
+- id: ev:9
+  type: summary
+  locator: lines 63550-63687; note 366
+  quote_or_summary: A remote northern happy land is described where inhabitants enjoy
+    effortless happiness, without vicissitude, decrepitude, death, fear, moral inequality,
+    or change through the four Yugas.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The line range is largely editorial notes rather than continuous narrative,
+    so motifs are extracted from explanatory statements and should be reviewed against
+    the associated cantos.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures, symbols, or comparisons were added beyond what is supported by the provided passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l63550-l63687
+  passage_sha256=75365cdb248a4939f0cf19143bbc6bb77ec536708c2dcd46a97b635424006d3f

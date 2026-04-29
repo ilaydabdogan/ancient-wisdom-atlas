@@ -1,0 +1,440 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l50127-l50183
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XI. The Summons. / Canto XX. The Spies. / Canto XXI. Ocean Threatened.
+    / Canto XXII. Ocean Threatened.; lines 50127-50183
+  start: '50127'
+  end: '50183'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: At Rama's command the Vanars uproot trees and cast timber, stones, and
+    hill fragments into the sea. A vast bridge, said to be one hundred leagues long,
+    is completed over five days. Rama's forces then cross toward Lanka, with Rama
+    and Lakshman borne aloft and the Vanar hosts passing over the bridge planned by
+    Nala.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Rama gives a command, and the Vanars rise from rest and obey it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Vanars uproot palms, asokas, sals, bamboos, flowering trees, and creepers,
+    and draw timber to the sea.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Stones, hills, rocks, hill fragments, and trees are cast into the sea as bridge
+    materials.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The ocean roars, swells, and heaves when mountains fall into it.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A bridge of wondrous strength is built across the ocean, described as one
+    hundred leagues long.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The work progresses over five days and is completed by sunset on the fifth
+    day.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Vibhishan stands on the ocean strand with a mace and shows impatience for
+    the onward way.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Sugriva tells Rama to ascend Hanuman's back and says Angad should assist Lakshman,
+    carrying them through the air above the sea.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Rama and Lakshman, described as Ikshvaku's sons, lead the legions while borne
+    overhead with Sugriva.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Vanar hosts cross in great numbers; some skim the waves, some pass through
+    the air, and many hasten over the bridge planned by Nala to Lanka's strand.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: Commander whose command sends the Vanars to gather materials; later
+    instructed by Sugriva to ascend Hanuman's back and leads the legions as one of
+    Ikshvaku's sons.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Vanars
+  description: Hosts who obey Rama, uproot trees, cast materials into the sea, build
+    the bridge, and cross toward Lanka.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Vibhishan
+  description: Stands exultant on the ocean strand with mace in hand, impatient for
+    the onward way.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Sugriva
+  description: King who advises Rama to ride Hanuman and says Angad should help Lakshman.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Hanuman
+  description: Named by Sugriva as the bearer whose broad back Rama should ascend.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Angad
+  description: Named by Sugriva as helper for Lakshman in being borne above the sea.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Lakshman
+  description: To be helped by Angad and borne above the sea; later included with
+    Rama as one of Ikshvaku's sons leading the legions.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: Nala
+  description: Planner of the bridge over which the hosts hasten to Lanka.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: commander issuing mandate
+  assigned_to:
+  - fig:1
+  basis: Rama's command causes the Vanars to rise and act.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bridge builders and marching army
+  assigned_to:
+  - fig:2
+  basis: The Vanars gather materials, complete the bridge, and cross toward Lanka.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:3
+  label: armed impatient ally
+  assigned_to:
+  - fig:3
+  basis: Vibhishan stands with mace in hand and longs for the onward way.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: royal adviser
+  assigned_to:
+  - fig:4
+  basis: Sugriva addresses Rama and proposes the aerial transport of Rama and Lakshman.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: aerial bearer or passenger
+  assigned_to:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Sugriva says Hanuman should bear Rama and Angad should help Lakshman through
+    the air above the sea.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: sea-crossing host
+  assigned_to:
+  - fig:2
+  basis: The host crosses by bridge, wave surface, and air toward Lanka.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: bridge planner
+  assigned_to:
+  - fig:8
+  basis: The bridge is described as planned by Nala.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ocean
+  literal_form: sea or ocean crossed by bridge, wave-skimming, and aerial passage
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: bridge
+  literal_form: great bridge of wondrous strength, one hundred leagues long, built
+    over the ocean
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: uprooted trees and mountain stones
+  literal_form: trees, rocks, hill fragments, and mountains used as material for the
+    bridge
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: air passage
+  literal_form: Rama and Lakshman borne above the sea; some hosts given passage through
+    the air
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Vanars gather bridge materials
+  summary: At Rama's command, the Vanars enter the forest, uproot many kinds of trees,
+    and bring timber toward the sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Stones and hills cast into the ocean
+  summary: Stones, hills, rocks, and tree-covered fragments are thrown into the sea,
+    causing tumult and oceanic roaring.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Completion of the ocean bridge
+  summary: A great bridge one hundred leagues long is built over five days, and the
+    Vanars pass over it without swaying it.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Preparation for onward crossing
+  summary: Vibhishan waits armed on the strand; Sugriva advises Rama to ride Hanuman
+    while Angad helps Lakshman through the air.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Crossing to Lanka
+  summary: Rama and Lakshman lead the legions while borne overhead; the Vanar hosts
+    cross by wave, air, and Nala's bridge to Lanka's shore.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: army builds a bridge across the sea
+  taxonomy_refs: []
+  basis: A large host constructs a strong bridge over the ocean using trees, rocks,
+    and hill fragments, enabling the army to reach Lanka.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage presents the event literally within the epic narrative; no
+    further symbolic interpretation is required by the excerpt.
+- id: motif:2
+  label: heroic crossing of a water barrier
+  taxonomy_refs:
+  - departure
+  basis: Rama's forces move from the ocean strand across the sea toward Lanka by bridge,
+    air, and wave-skimming passage.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy has no specific sea-bridge or water-crossing motif;
+    the 'departure' reference is a broad fit only.
+- id: motif:3
+  label: animal-allied host performs superhuman labor
+  taxonomy_refs: []
+  basis: The Vanars uproot forests, move stones and hills, build a vast bridge, and
+    cross in countless numbers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The label describes the passage-level pattern without asserting a wider
+    cross-cultural type.
+- id: motif:4
+  label: aerial transport of royal heroes
+  taxonomy_refs: []
+  basis: Sugriva proposes that Rama ascend Hanuman's back and that Angad help Lakshman,
+    carrying them above the sea through the air.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not elaborate the mechanics of the flight beyond the
+    stated bearing through the air.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 50127-50140
+  quote_or_summary: Rama commands; the Vanars obey, seek the forest, uproot palms,
+    asokas, sals, bamboos, flowering trees, and creepers, and draw timber to the sea.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 50141-50148
+  quote_or_summary: Engines overthrow piles of stone and hills; waters spring up,
+    and the ocean roars and swells as mountains fall.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 50149-50165
+  quote_or_summary: A strong bridge one hundred leagues long is built from rocks,
+    hill fragments, and flowering trees; it grows over successive days and is completed
+    on the fifth day.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 50166-50176
+  quote_or_summary: The Vanars move over the broad way; Vibhishan stands armed on
+    the strand; Sugriva tells Rama to ride Hanuman and says Angad should help Lakshman
+    through the air.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 50177-50183
+  quote_or_summary: With Sugriva, the sons of Ikshvaku lead the legions while borne
+    overhead; Vanars follow by wave, air, and Nala's bridge to Lanka's strand.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the provided passage. Motif labels
+    are descriptive and passage-level; only broad taxonomy alignment is used where
+    directly relevant.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or comparisons were used; comparison_claims left empty because the passage itself does not make an explicit comparative claim.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l50127-l50183
+  passage_sha256=f8dd690912c2a223717186143b93800f5b1de1df1f597e801383624d3e9d993f

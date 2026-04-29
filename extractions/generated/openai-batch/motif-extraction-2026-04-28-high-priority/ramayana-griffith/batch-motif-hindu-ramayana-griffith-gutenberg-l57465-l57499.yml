@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l57465-l57499
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: APPENDIX. / CAREY AND MARSHMAN. / SCHLEGEL. / GORRESIO.; lines 57465-57499
+  start: '57465'
+  end: '57499'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "« envoyez-lui quatre fils, qui soient vantés dans les trois mondes! »"
+  summary: Rishyaçringa tells the king he will perform another sacrifice so heaven
+    may grant the desired children. Divine beings assemble for shares of the offering.
+    Rishyaçringa petitions them on behalf of the sonless king Daçaratha, citing his
+    faith, austerities, and sacrifices, and asks that four renowned sons be sent to
+    him. The gods answer favorably and say the king will obtain his desired reward.
+  language: French
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Rishyaçringa announces that he will celebrate another sacrifice so that heaven
+    may grant the king the children he desires.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The son of Vibhándaka performs the new sacrifice for the king's welfare and
+    desire.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Gods and other divine beings are described as having come to receive a share
+    of the offering.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Named divine figures include Brahma, Śiva, Náráyana, the world-guardians,
+    mothers of the Immortals, and Indra with the Maruts.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Rishyaçringa petitions the gods with joined hands on behalf of the sonless
+    king Daçaratha.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The petition asks the gods to send Daçaratha four sons praised in the three
+    worlds.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The gods reply that Rishyaçringa and the king merit favorable hearing and
+    that the king will obtain the desired object as reward for the sacrifices.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Rishyaçringa
+  description: Young ascetic, son of Vibhándaka and husband of Śántá, who performs
+    the sacrifice and petitions the gods.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Daçaratha
+  description: King described as sonless, devout, austere, and seeking sons through
+    sacrifice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: The gods and divine beings
+  description: Collective divine assembly including gods, Gaudharvas, Siddhas, divine
+    Mounis, Yakshas, and other beings who receive shares of the offering and answer
+    the petition.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Brahma
+  description: Named among the divine beings present for the offering.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Śiva
+  description: Named as the immutable Śiva among the divine beings present.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Náráyana
+  description: Named as the august Náráyana among the divine beings present.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Indra
+  description: Named as master of heaven, manifest to sight and surrounded by the
+    Maruts.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: sacrificial officiant
+  assigned_to:
+  - fig:1
+  basis: He undertakes and celebrates the new sacrifice.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sonless royal petitioner
+  assigned_to:
+  - fig:2
+  basis: He is identified as a king deprived of sons who desires children.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: intercessor before the gods
+  assigned_to:
+  - fig:1
+  basis: He supplicates all the gods with joined hands on Daçaratha's behalf.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine recipient of offerings
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The passage says the divine beings came to receive a share of the offering.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: divine grantor
+  assigned_to:
+  - fig:3
+  basis: The gods reply favorably that the king will obtain the object of his desire.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: new sacrifice
+  literal_form: sacrifice performed so heaven may grant children
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: share of the offering
+  literal_form: portion of sacrificial offering received by divine beings
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: joined hands
+  literal_form: Rishyaçringa's gesture of supplication
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: four sons
+  literal_form: four sons requested for Daçaratha
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: three worlds
+  literal_form: the three worlds in which the requested sons are to be praised
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Announcement and performance of the new sacrifice
+  summary: Rishyaçringa tells the monarch he will celebrate another sacrifice to obtain
+    the desired children from heaven, then begins the rite.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Divine assembly for the offering
+  summary: A large company of gods and divine beings is described as present to receive
+    shares of the offering.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Intercession for four sons
+  summary: Rishyaçringa prays to the gods for sonless Daçaratha and asks that four
+    renowned sons be sent to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Favorable divine response
+  summary: The gods say the petitioner and king deserve favor and that Daçaratha will
+    obtain his desired reward for the sacrifices.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacrifice to obtain desired blessing
+  taxonomy_refs:
+  - sacrifice
+  basis: A new sacrifice is performed, divine beings receive offerings, and the gods
+    promise the king his desired reward.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage concerns the rite and promise, not the later fulfillment.
+- id: motif:2
+  label: sacred exchange of offerings for divine favor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The gods receive shares of the offering and respond that the king will obtain
+    the object of his desire as reward for sacrifices.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The exchange is framed through ritual reward rather than a negotiated
+    bargain.
+- id: motif:3
+  label: divinely granted royal children
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  basis: Rishyaçringa asks heaven and the gods to grant the sonless king four sons.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage requests and promises sons but does not narrate conception
+    or birth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 57469-57475
+  quote_or_summary: Rishyaçringa says he will celebrate another sacrifice so heaven
+    may grant the desired children, then begins the new sacrifice for the king's welfare
+    and desire.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 57477-57486
+  quote_or_summary: Gods and divine beings, including Brahma, Śiva, Náráyana, guardians
+    of the world, mothers of the Immortals, Yakshas, Indra, and the Maruts, are described
+    as present to receive a share of the offering.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 57486-57496
+  quote_or_summary: 'Rishyaçringa petitions the gods for Daçaratha, who is deprived
+    of sons, and asks: « envoyez-lui quatre fils, qui soient vantés dans les trois
+    mondes! »'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 57497-57499
+  quote_or_summary: The gods answer that Rishyaçringa and the king merit favor and
+    that, as reward for the sacrifices, the king will obtain the object most dear
+    to his desire.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly describes sacrifice, divine petition, and promised sons.
+    Motif labels involving birth or miraculous children are provisional because the
+    passage does not narrate the actual birth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode to another text or tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l57465-l57499
+  passage_sha256=d00c0bd78837d0ac517f5aa8ef204427e3cd76abec7cdef0db2df5f51da6ef1c

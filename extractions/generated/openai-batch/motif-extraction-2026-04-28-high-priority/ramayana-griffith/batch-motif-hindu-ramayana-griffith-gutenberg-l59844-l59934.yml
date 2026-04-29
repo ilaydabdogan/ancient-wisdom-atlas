@@ -1,0 +1,522 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l59844-l59934
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: HIPPOLYTE FAUCHE. / ADDITIONAL NOTES. / H. H. WILSON. / THE SUPPLIANT DOVE.;
+    lines 59844-59934
+  start: '59844'
+  end: '59934'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage contains notes and translated extracts: Rama is freed from
+    sorrow after Agastya''s teaching, recites a hymn facing the sun, purifies himself
+    with water, and prepares for Ravana. A note describes Ravana''s funeral rites
+    with Vedic fires, offerings, and cremation. Another translated passage gives Brahma''s
+    address to Rama, questioning his treatment of Sita in the fire and revealing Rama
+    as Narayana/Vishnu, a cosmic being whose body contains gods, worlds, day and night,
+    earth, mountains, streams, and the great serpent in the ocean.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Agastya departs after speaking; Rama hears his words and becomes free from
+    sorrow.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rama memorizes and recites a hymn while facing the sun, sips water three times
+    to become pure, takes his bow, sees Ravana, and meditates on the sun.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The funeral note says three named fires were placed on three sides of the
+    funeral pyre: south, west, and east.'
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note states that the poem assigns Aryan Brahman funeral ceremonies to
+    the Rakshases and compares this literary practice to Homeric treatment of Troy.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The translated funeral description includes a Vedic funeral pile, sandalwood,
+    grass, curds, ghee, ritual implements, a slain victim, perfumes, garlands, grain,
+    tila seeds, darbha grass, water, and the application of fire to the pile.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Brahma asks why Rama, described as creator of the world and best of the gods,
+    allows Sita to fall in the fire and does not know himself.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Rama replies that he takes himself to be a man named Rama and son of Dasharatha,
+    and asks to be told who he is and whence he has come.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Brahma identifies Rama as Narayana, Vishnu, Purusha, Madhusudana, Padmanabha,
+    and other divine names and attributes.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: 'Brahma describes Rama in cosmic terms: the sun and moon are his eyes, day
+    and night are connected with his eyelids, the Vedas are his rites, the world is
+    his body, and he bears earth, mountains, gods, demons, and the three worlds.'
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Brahma says Rama is seen as the great serpent at the bottom of the ocean.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Agastya
+  description: Speaker who departs after giving instruction before Rama's sun-facing
+    recitation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Rama / Raghava / Kakutstha
+  description: Hero who recites the hymn, purifies himself, prepares against Ravana,
+    and is later addressed by Brahma as a supreme cosmic deity.
+  role_refs:
+  - role:2
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Ravana / Raxasa prince
+  description: Dead Rakshasa prince whose funeral rites are described; also seen by
+    Rama before battle in the opening extract.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Rakshases / Raxasas
+  description: Group described as performing funeral rites for their prince and as
+    recipients of Aryan Brahman funeral ceremonies in the poem.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Vibhishana
+  description: Participant in Ravana's funeral rites who bathes, scatters tila seeds
+    with darbha grass and water, and applies fire to the pile.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Sita / daughter of Videha
+  description: Figure whom Brahma says Rama has allowed to fall in the fire and neglected.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Brahma
+  description: Divine speaker who addresses Rama, questions his conduct toward Sita,
+    and reveals Rama's divine and cosmic identity.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Indra and the other gods
+  description: Divine beings mentioned as addressing Rama before he speaks to the
+    chief of the gods.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Narayana / Vishnu
+  description: Divine identity and names attributed to Rama by Brahma, including forms
+    armed with discus and other divine attributes.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: departing sage-instructor
+  assigned_to:
+  - fig:1
+  basis: Agastya is said to have spoken and then gone away; Rama acts after hearing
+    him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sun-facing devotee and warrior
+  assigned_to:
+  - fig:2
+  basis: Rama recites the hymn facing the sun, sips water, takes his bow, and looks
+    toward Ravana.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: deceased enemy prince
+  assigned_to:
+  - fig:3
+  basis: The funeral extract treats Ravana as the Raxasa prince for whom obsequial
+    rites are performed.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: funeral ritual performer
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Raxasas and Vibhishana are described as performing or participating in
+    the funeral rites.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: self-identified human son of Dasharatha
+  assigned_to:
+  - fig:2
+  basis: Rama says he takes himself to be a man named Rama and son of Dasharatha.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: revealed supreme divine being
+  assigned_to:
+  - fig:2
+  - fig:9
+  basis: Brahma identifies Rama as Narayana, Vishnu, Purusha, creator, destroyer,
+    and bearer of worlds.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: woman entering or falling into fire
+  assigned_to:
+  - fig:6
+  basis: Brahma asks why Rama suffers Sita, the daughter of Videha, to fall in the
+    fire.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: divine revealer of identity
+  assigned_to:
+  - fig:7
+  basis: Brahma directly tells Rama who he is and describes his divine and cosmic
+    attributes.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:9
+  label: divine witnesses and speakers
+  assigned_to:
+  - fig:8
+  basis: Indra, Brahma, and other gods are said to address Rama.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sun
+  literal_form: The sun faced by Rama during recitation and meditation; also named
+    with the moon as one of Rama's eyes in Brahma's cosmic description.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: water of purification and funeral offering
+  literal_form: Water sipped three times by Rama; water also moistens tila seeds and
+    darbha grass in the funeral rites.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: funeral and ordeal fire
+  literal_form: Named fires around the pyre, fire applied to Ravana's funeral pile,
+    and fire into which Sita is said to fall.
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: funeral offerings and ritual materials
+  literal_form: Sandalwood, padmaka wood, usira grass, curds, ghee, deer-hair quilt,
+    wooden vessels, pestles, coverlet, perfumes, garlands, fried grain, tila seeds,
+    and darbha grass.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: great serpent in the ocean
+  literal_form: A great serpent seen at the bottom of the ocean in Brahma's description
+    of Rama.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: earth and mountains borne by the cosmic being
+  literal_form: The material objects, earth, and mountains borne by Rama in Brahma's
+    cosmic description.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: divine weapons and insignia
+  literal_form: Discus, horn bow, and sword named among the attributes of Rama as
+    Narayana/Vishnu.
+  associated_figures:
+  - fig:2
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rama prepares through solar recitation and purification
+  summary: After Agastya's departure, Rama hears the teaching, becomes free from sorrow,
+    memorizes and recites a hymn facing the sun, sips water three times, takes his
+    bow, sees Ravana, and meditates on the sun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ravana's funeral rites
+  summary: The notes describe Vedic-style funeral procedures for Ravana, including
+    the arrangement of fires, construction of a pyre, ritual offerings, slaying of
+    a victim, adornment of the body, use of water, tila, and darbha, and applying
+    fire to the pile.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Brahma reveals Rama's divine identity
+  summary: Brahma and the gods address Rama after Sita's fall into fire; Rama says
+    he thinks himself a human son of Dasharatha, and Brahma identifies him as Narayana/Vishnu
+    and a cosmic being whose body and attributes encompass gods, worlds, day and night,
+    earth, mountains, streams, and the great serpent.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: purification and solar devotion before confrontation
+  taxonomy_refs: []
+  basis: Rama recites a hymn facing the sun, sips water three times to become pure,
+    takes his bow, and looks toward Ravana.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is brief and does not include the full hymn or the subsequent
+    battle action.
+- id: motif:2
+  label: funerary sacrifice and cremation rites for a fallen ruler
+  taxonomy_refs:
+  - sacrifice
+  basis: The funeral description includes Vedic fires, offerings of curds and ghee,
+    a slain victim, adornment of the deceased, and application of fire to the pyre.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The details are presented in a later note and translated extract, not
+    as a continuous narrative scene in the supplied passage.
+- id: motif:3
+  label: woman in fire or fire ordeal allusion
+  taxonomy_refs:
+  - divine_judgment
+  basis: Brahma asks why Rama allows Sita, daughter of Videha, to fall in the fire.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage alludes to Sita's entry into fire but does not narrate the
+    ordeal's procedure or outcome.
+- id: motif:4
+  label: hero's hidden divine identity revealed by gods
+  taxonomy_refs: []
+  basis: Rama says he understands himself as a human son of Dasharatha, after which
+    Brahma identifies him as Narayana, Vishnu, Purusha, and other divine forms.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No specific taxonomy reference among the supplied motif families exactly
+    names this revelation pattern.
+- id: motif:5
+  label: cosmic body containing and sustaining the world
+  taxonomy_refs: []
+  basis: Brahma describes the sun and moon as Rama's eyes, day and night as linked
+    to his eyelids, the gods as bodily hairs, the world as his body, and earth and
+    mountains as borne by him.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The supplied taxonomy does not include a precise cosmic-body category.
+- id: motif:6
+  label: world-supporting oceanic serpent form
+  taxonomy_refs:
+  - serpent
+  basis: Brahma says Rama is seen as the great serpent at the bottom of the ocean
+    and also bears the three worlds.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The serpent appears within a broader list of divine identities and cosmic
+    attributes rather than as an independent episode.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly compares the poem's assignment of Aryan Brahman funeral
+    rites to the Rakshases with Homeric scenes that introduce Greek cult rites into
+    Troy.
+  claim_level: same_function
+  target: Homeric treatment of Trojan ritual using Greek cult practice
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editor's comparative comment within the supplied passage,
+    not a demonstrated historical-contact claim; it concerns literary attribution
+    of ritual practice rather than identical mythic narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 59844-59850
+  quote_or_summary: Agastya departs; Rama becomes free from sorrow, memorizes and
+    recites the hymn facing the sun, sips water three times, takes his bow, sees Ravana,
+    and meditates on the sun.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 59852-59860
+  quote_or_summary: 'Funeral note: three fires are placed on three sides of the pyre;
+    the poem gives Aryan Brahman funeral ceremonies to the Rakshases and is compared
+    to Homer introducing Greek cult rites into Troy.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 59862-59880
+  quote_or_summary: Muir's translated funeral extract describes a Vedic funeral pile
+    for the Raxasa prince with woods, grass, curds, ghee, ritual implements, a slain
+    victim, garlands, grain, tila, darbha, water, and application of fire to the pile.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 59884-59901
+  quote_or_summary: Brahma asks why Rama, creator and best of gods, suffers Sita to
+    fall in the fire; Rama says he thinks himself a man named Rama, son of Dasharatha,
+    and asks who he is.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 59902-59920
+  quote_or_summary: Brahma identifies Rama as Narayana, the boar, Brahma, Vishvaksena,
+    Hrishikesha, Purusha, Vishnu, Upendra, Madhusudana, Padmanabha, and bearer of
+    divine weapons and attributes.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 59920-59934
+  quote_or_summary: Brahma describes Rama with thousand feet, heads, and eyes; bearing
+    the earth and mountains; appearing as the great serpent in the ocean; sustaining
+    the three worlds; and containing gods, day and night, Vedas, and the whole world
+    as his body.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear, but it combines narrative excerpt, editorial notes,
+    and translated extracts from editions; motif labeling should be reviewed for segmentation
+    and taxonomy fit.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available references supplied in the request.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l59844-l59934
+  passage_sha256=62872eb06838ebb53ce53865fa4470a7e8db13c0aae482e5105cdc2d8d891c9e

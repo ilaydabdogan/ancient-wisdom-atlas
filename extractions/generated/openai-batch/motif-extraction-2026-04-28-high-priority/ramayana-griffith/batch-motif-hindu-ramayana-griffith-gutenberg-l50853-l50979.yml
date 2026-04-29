@@ -1,0 +1,457 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l50853-l50979
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XXII. Ocean Threatened. / Canto XXIII. The Omens. / Canto XXVIII. The
+    Chieftains. / Canto XXXI. The Magic Head.; lines 50853-50979
+  start: '50853'
+  end: '50979'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Ravana, fearing coming disaster, summons the magician Vidyujjihva and orders
+    him to create a head resembling Rama's, along with Rama's arrows and bow, to deceive
+    Sita. Ravana visits Sita in the grove, tells her a fabricated account of Rama's
+    death and the defeat of the Vanaras, and has the magic head and weapons displayed
+    before her. Sita gazes on the apparent head and bow of Rama and begins to lament.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ravana is troubled by fear, consults counsellors, and then summons Vidyujjihva
+    because of his magic skill.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ravana orders Vidyujjihva to prepare a head like Rama's, together with long
+    shafts and a mighty bow, to show to Sita.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Vidyujjihva obeys, displays magic skill, and receives an ornament from Ravana.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sita is found in the grove pale, wasted, weeping, on the ground, and thinking
+    of her husband.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ravana tells Sita that Rama has been slain by warriors sent by him and urges
+    her to become his bride.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ravana gives Sita a detailed account in which Rama's forces bridge the sea,
+    sleep on the shore, are attacked at night, and Rama is beheaded by Prahasta.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Vidyujjihva brings the magic head, arrows, and bow, and Ravana orders him
+    to place the head before Sita's face.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Sita gazes on the displayed head and bow, recognizes the features as Rama's,
+    and cries out in grief.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ravana
+  description: Lord of Lanka, called tyrant, monarch, giant king, and ruthless king;
+    he arranges the deception and speaks pitilessly to Sita.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Vidyujjihva
+  description: A figure with magic skill, called by Ravana to make a head like Rama's
+    and later shown bearing the magic head, arrows, and bow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Sita
+  description: Janak's daughter, a queen in the grove, pale, wasted, and weeping,
+    whose thoughts remain fixed on her husband.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Rama
+  description: Sita's husband; absent from the scene but represented by the magic
+    head, bow, and arrows and by Ravana's false report of his death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Prahasta
+  description: A warrior named in Ravana's account as leading troops and beheading
+    Rama while he slept.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Vanaras
+  description: Rama's allied troops in Ravana's narrated account; said to be slain,
+    scattered, or fled.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Lakshman, Hanuman, Sugriva, Mainda, and Dwivid
+  description: Named allies in Ravana's narrated account; some are said to flee and
+    others to fall or die.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Kaikeyi
+  description: Named by Sita in lament as the cause of Rama's exile and the ruin of
+    Raghu's line.
+  role_refs: []
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: king of Lanka
+  assigned_to:
+  - fig:1
+  basis: The passage calls him the lord or monarch of Lanka's isle.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: deceiver and coercive suitor
+  assigned_to:
+  - fig:1
+  basis: He orders a false head made, tells Sita Rama is dead, and urges her to become
+    his bride.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:3
+  label: magical artificer
+  assigned_to:
+  - fig:2
+  basis: He is summoned for magic skill and prepares the head and weapons used in
+    the deception.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:4
+  label: captive grieving wife
+  assigned_to:
+  - fig:3
+  basis: She is found in the grove weeping, thinking of her husband, and later laments
+    over the displayed head.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:5
+  label: absent husband represented by magical token
+  assigned_to:
+  - fig:4
+  basis: Rama is not physically present but is represented by a made head, arrows,
+    and bow.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: role:6
+  label: alleged slayer in false battle report
+  assigned_to:
+  - fig:5
+  basis: Ravana's speech says Prahasta's sword took Rama's head.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: defeated allies in narrated account
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Ravana's account says Rama's Vanara allies and named companions were killed,
+    fled, or captured.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: magic severed head
+  literal_form: A beauteous head made by magic to look like Rama's, shown wet with
+    blood before Sita.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: Rama's bow and arrows
+  literal_form: Long shafts and a mighty bow displayed with the magic head as identifying
+    signs of Rama.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: grove
+  literal_form: The grove where Sita lies on the ground, pale, wasted, and weeping.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sea and shore in the false battle account
+  literal_form: The sea is said to have been bridged by Rama's forces, who then rested
+    on the shore.
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ravana commissions the magical deception
+  summary: Ravana, troubled and fearful, summons Vidyujjihva and commands him to make
+    a head like Rama's with bow and arrows for display to Sita.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ravana confronts Sita in the grove
+  summary: Ravana finds Sita in grief and tells her that Rama has been slain, urging
+    her to abandon hope and become his bride.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: False report of the night slaughter
+  summary: Ravana describes a supposed battle in which Rama's sea-crossing army slept
+    on the shore, was attacked at night, and was destroyed or scattered.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Display of the magic head and weapons
+  summary: Vidyujjihva brings the magic head, arrows, and bow; Ravana has them placed
+    before Sita as proof of Rama's death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Sita's lament begins
+  summary: Sita looks at the apparent head and bow of Rama, recognizes his features,
+    and begins to lament, naming Kaikeyi as responsible for the ruin.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: false proof of the hero's death
+  taxonomy_refs: []
+  basis: A magical head and weapons resembling Rama's are displayed to convince Sita
+    that her husband has died.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The death report is presented within the passage as Ravana's deception,
+    not as an actual event.
+- id: motif:2
+  label: captive beloved coerced through deception
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Sita is isolated in the grove, distressed over her husband, while Ravana
+    uses a false death report to urge her to become his bride.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The wider abduction context is not narrated in this excerpt, though the
+    passage clearly shows coercive pressure by Ravana.
+- id: motif:3
+  label: magical simulacrum as emotional weapon
+  taxonomy_refs: []
+  basis: Vidyujjihva's magic creates a convincing head and associated weapons, used
+    to produce grief and despair in Sita.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage does not explain the mechanics or ontology of the magic beyond
+    its deceptive display.
+- id: motif:4
+  label: night attack on sleeping army in reported battle
+  taxonomy_refs: []
+  basis: Ravana's account says his forces attacked Rama's troops while they slept
+    on the shore and killed or scattered them.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is part of Ravana's fabricated speech within the passage, so it should
+    be treated as narrated deception rather than literal plot action.
+comparison_claims:
+- id: claim:1
+  claim: 'The scene fits a stolen-beloved pattern at the motif-family level: a woman
+    attached to an absent husband is pressured by a rival ruler through false proof
+    that the husband is dead.'
+  claim_level: same_motif
+  target: stolen_beloved motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied excerpt shows coercion and grief but does not itself narrate
+    the earlier taking of Sita; the comparison is therefore limited to the captive-beloved
+    pressure scene.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 50853-50867
+  quote_or_summary: Ravana, troubled by fear, summons Vidyujjihva and commands him
+    to prepare a head like Rama's with arrows and bow to show to Sita.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 50869-50872
+  quote_or_summary: Vidyujjihva obeys, displays magic skill, and Ravana gives him
+    a costly ornament.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 50873-50880
+  quote_or_summary: Ravana goes to the grove and finds Sita pale, wasted, weeping
+    on the ground, with her thoughts fixed on her husband.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 50881-50902
+  quote_or_summary: Ravana tells Sita that Rama has been slain by warriors he sent,
+    says her hope is gone, and urges her to become his queen.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 50903-50941
+  quote_or_summary: 'Ravana narrates a supposed night attack: Rama''s forces crossed
+    the sea and slept on shore; Prahasta''s troops attacked, Rama was beheaded, and
+    the Vanaras and named allies were slain or scattered.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 50942-50961
+  quote_or_summary: Vidyujjihva brings the blood-wet head, arrows, and bow; Ravana
+    orders the head placed before Sita and says she should see that her husband lies
+    dead.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 50962-50979
+  quote_or_summary: Sita gazes upon the head, Rama's bow, and the features she recognizes
+    as her husband's, then cries out in lament and blames Kaikeyi.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is based directly on the supplied passage. Motif and comparison
+    confidence is reduced where events occur inside Ravana's deceptive speech or depend
+    on recognizing the broader stolen-beloved frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external traditions or source material were used beyond the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l50853-l50979
+  passage_sha256=f123e2cacc30a9bc668c042866a90054649d4362c1c97426e23eeb3e05390e10
