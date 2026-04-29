@@ -15,6 +15,7 @@ NAV = [
   ["Explorer", "explorer/index.html"],
   ["Texts", "texts/index.html"],
   ["Motifs", "motifs/index.html"],
+  ["Taxonomy", "taxonomy/index.html"],
   ["Timeline", "timeline/index.html"],
   ["Comparisons", "comparisons/index.html"],
   ["Patterns", "patterns/index.html"],
@@ -338,6 +339,29 @@ def link_to_output(current_output, output, label)
   return esc(label) if output.nil? || output.empty?
 
   %(<a href="#{esc(relative_url(current_output, output))}">#{esc(label)}</a>)
+end
+
+def compact_text(value)
+  value.to_s.strip.gsub(/\s+/, " ")
+end
+
+def taxonomy_anchor(group_id)
+  "family-#{slugify(group_id)}"
+end
+
+def taxonomy_value_chips(values, group_lookup = {}, current_output = nil)
+  list = Array(values).compact.reject { |value| value.to_s.strip.empty? }
+  return %(<span class="muted">None yet</span>) if list.empty?
+
+  list.map do |value|
+    id = value.to_s
+    label = group_lookup.dig(id, "label") || titleize(id)
+    if current_output && group_lookup.key?(id)
+      %(<a class="chip" href="#{esc("##{taxonomy_anchor(id)}")}">#{esc(label)}</a>)
+    else
+      %(<span class="chip">#{esc(label)}</span>)
+    end
+  end.join
 end
 
 def tradition_totals(motifs)
@@ -892,6 +916,154 @@ def build_motifs(motif_index)
   end
 end
 
+def build_taxonomy(normalization, proposed_review)
+  current = "taxonomy/index.html"
+  groups = normalization.fetch("canonical_motif_groups", [])
+  group_lookup = groups.to_h { |group| [group["id"].to_s, group] }
+  hierarchies = normalization.fetch("hierarchies", {})
+  proposed_candidates = proposed_review.fetch("genuine_new_group_candidates", [])
+
+  hierarchy_rows = hierarchies.map do |id, data|
+    refs = [data["parent_refs"], data["child_refs"]].flatten.compact
+    search_text = [id, data["label"], data["description"], refs].flatten.compact.join(" ")
+    <<~HTML
+      <article class="taxonomy-family searchable" data-search="#{esc(search_text)}">
+        <div class="taxonomy-family-head">
+          <span class="row-kicker">Hierarchy</span>
+          <h3 id="#{esc(taxonomy_anchor(id))}">#{esc(data["label"] || titleize(id))}</h3>
+        </div>
+        <p>#{esc(compact_text(data["description"]))}</p>
+        <div class="taxonomy-field">
+          <strong>Parents</strong>
+          <div class="chip-row">#{taxonomy_value_chips(data["parent_refs"], group_lookup, current)}</div>
+        </div>
+        <div class="taxonomy-field">
+          <strong>Children</strong>
+          <div class="chip-row">#{taxonomy_value_chips(data["child_refs"], group_lookup, current)}</div>
+        </div>
+      </article>
+    HTML
+  end.join
+
+  family_rows = groups.reject { |group| group["id"].to_s.start_with?("_meta") }.map do |group|
+    search_text = [
+      group["id"],
+      group["label"],
+      group["description"],
+      group["children"],
+      group["aliases"],
+      group["related"]
+    ].flatten.compact.join(" ")
+    <<~HTML
+      <article class="taxonomy-family searchable" data-search="#{esc(search_text)}">
+        <div class="taxonomy-family-head">
+          <span class="row-kicker">#{esc(group["id"])}</span>
+          <h3 id="#{esc(taxonomy_anchor(group["id"]))}">#{esc(group["label"])}</h3>
+        </div>
+        <p>#{esc(compact_text(group["description"]))}</p>
+        <div class="taxonomy-fields">
+          <div class="taxonomy-field">
+            <strong>Children</strong>
+            <div class="chip-row">#{taxonomy_value_chips(group["children"], group_lookup, current)}</div>
+          </div>
+          <div class="taxonomy-field">
+            <strong>Aliases</strong>
+            <div class="chip-row">#{taxonomy_value_chips(group["aliases"], group_lookup, current)}</div>
+          </div>
+          <div class="taxonomy-field">
+            <strong>Related Families</strong>
+            <div class="chip-row">#{taxonomy_value_chips(group["related"], group_lookup, current)}</div>
+          </div>
+        </div>
+      </article>
+    HTML
+  end.join
+
+  proposed_rows = proposed_candidates.map do |candidate|
+    parent_links = taxonomy_value_chips(candidate["suggested_parent_group_ids"], group_lookup, current)
+    tradition_chips = Array(candidate["traditions"]).map do |tradition|
+      %(<span class="chip">#{esc(tradition_label(tradition))}</span>)
+    end.join
+    source_ids = Array(candidate["source_candidate_ids"]).join(", ")
+    search_text = [
+      candidate["id"],
+      candidate["label"],
+      candidate["rationale"],
+      candidate["traditions"],
+      candidate["source_candidate_ids"]
+    ].flatten.compact.join(" ")
+    <<~HTML
+      <article class="taxonomy-family proposed searchable" data-search="#{esc(search_text)}">
+        <div class="taxonomy-family-head">
+          <span class="row-kicker">Pending Review</span>
+          <h3 id="#{esc(taxonomy_anchor(candidate["id"]))}">#{esc(candidate["label"])}</h3>
+          <span class="pending-badge">#{esc(candidate["recommendation"].to_s.tr("_", " "))}</span>
+        </div>
+        <p>#{esc(candidate["rationale"])}</p>
+        <div class="taxonomy-fields">
+          <div class="taxonomy-field">
+            <strong>Traditions</strong>
+            <div class="chip-row">#{tradition_chips}</div>
+          </div>
+          <div class="taxonomy-field">
+            <strong>Suggested Parents</strong>
+            <div class="chip-row">#{parent_links}</div>
+          </div>
+          <div class="taxonomy-field">
+            <strong>Draft Evidence</strong>
+            <p class="muted">#{candidate["child_motif_count"]} child motifs, #{candidate["occurrence_count"]} occurrences. Consolidates: #{esc(source_ids)}</p>
+          </div>
+        </div>
+      </article>
+    HTML
+  end.join
+
+  body = <<~HTML
+    <section class="stats-grid">
+      <div class="stat"><strong>#{groups.count { |group| !group["id"].to_s.start_with?("_meta") }}</strong><span>approved families</span></div>
+      <div class="stat"><strong>#{hierarchies.length}</strong><span>review hierarchies</span></div>
+      <div class="stat"><strong>#{proposed_candidates.length}</strong><span>pending new groups</span></div>
+      <div class="stat"><strong>#{proposed_review.dig("summary", "source_candidates_folded").to_i}</strong><span>draft groups folded</span></div>
+    </section>
+
+    <section class="toolbar">
+      <input type="search" class="search-input" placeholder="Search taxonomy families, aliases, children, or proposed groups" data-search-target=".searchable">
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <h2>Review Hierarchies</h2>
+        <span class="muted">Broad parent structures used during normalization</span>
+      </div>
+      <div class="taxonomy-grid">#{hierarchy_rows}</div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <h2>Approved Canonical Families</h2>
+        <span class="muted">Rendered from taxonomy/motif-normalization.yml</span>
+      </div>
+      <div class="taxonomy-grid">#{family_rows}</div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <h2>Proposed New Groups</h2>
+        <span class="muted">Cross-tradition candidates from the normalization draft, pending review</span>
+      </div>
+      <div class="taxonomy-grid">#{proposed_rows}</div>
+    </section>
+  HTML
+
+  write_page(current, layout(
+    title: "Taxonomy",
+    subtitle: "Approved canonical motif families, review hierarchies, and cross-tradition new group candidates.",
+    current_output: current,
+    body: body,
+    page_class: "taxonomy-page"
+  ))
+end
+
 def build_extractions(extractions)
   current = "extractions/index.html"
   rows = extractions.map do |item|
@@ -1444,6 +1616,61 @@ STYLE_CSS = <<~CSS
     border-radius: 8px;
   }
 
+  .taxonomy-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+  }
+
+  .taxonomy-family {
+    display: grid;
+    gap: 14px;
+    padding: 18px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+  }
+
+  .taxonomy-family.proposed {
+    border-left: 4px solid var(--gold);
+  }
+
+  .taxonomy-family-head {
+    display: grid;
+    gap: 6px;
+  }
+
+  .taxonomy-family p {
+    margin: 0;
+    color: var(--muted);
+  }
+
+  .taxonomy-fields {
+    display: grid;
+    gap: 12px;
+  }
+
+  .taxonomy-field strong {
+    display: block;
+    margin-bottom: 8px;
+    color: var(--brick);
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+
+  .pending-badge {
+    width: fit-content;
+    padding: 4px 8px;
+    background: #fff3d8;
+    border: 1px solid #ead49a;
+    border-radius: 999px;
+    color: #755313;
+    font-size: 12px;
+    font-weight: 800;
+    text-transform: capitalize;
+  }
+
   .insight-band {
     display: grid;
     grid-template-columns: minmax(0, 1fr) 220px;
@@ -1572,7 +1799,7 @@ STYLE_CSS = <<~CSS
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    .doc-shell, .motif-detail-grid, .timeline-row, .insight-band, .explorer-controls, .explorer-row {
+    .doc-shell, .motif-detail-grid, .timeline-row, .insight-band, .explorer-controls, .explorer-row, .taxonomy-grid {
       grid-template-columns: 1fr;
     }
 
@@ -1662,6 +1889,9 @@ warn "loading extractions" if ENV["PAGES_DEBUG"]
 extractions = extraction_records
 warn "loading motif index" if ENV["PAGES_DEBUG"]
 motif_index = load_yaml(File.join(ROOT, "data", "indexes", "motif-occurrences.yml"))
+normalization = load_yaml(File.join(ROOT, "taxonomy", "motif-normalization.yml"))
+proposed_new_groups_path = File.join(ROOT, "taxonomy", "proposed-new-groups-review.yml")
+proposed_new_groups = File.exist?(proposed_new_groups_path) ? load_yaml(proposed_new_groups_path) : {}
 timeline_path = File.join(ROOT, "data", "indexes", "cultural-timeline.yml")
 warn "loading timeline" if ENV["PAGES_DEBUG"]
 timeline = File.exist?(timeline_path) ? load_yaml(timeline_path) : {}
@@ -1678,6 +1908,7 @@ build_step("texts") { build_texts(texts) }
 build_step("patterns") { build_patterns(patterns) }
 build_step("comparisons") { build_comparisons(comparisons) }
 build_step("motifs") { build_motifs(motif_index) }
+build_step("taxonomy") { build_taxonomy(normalization, proposed_new_groups) }
 build_step("timeline") { build_timeline(timeline, texts) }
 build_step("extractions") { build_extractions(extractions) }
 
