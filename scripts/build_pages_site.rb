@@ -377,28 +377,180 @@ def taxonomy_family_href(current_output, group_id)
   relative_url(current_output, taxonomy_family_output(group_id))
 end
 
-def taxonomy_constellation_data(normalization, proposed_review, current_output)
+def taxonomy_cluster_definitions
+  [
+    {
+      "id" => "creation_cosmos",
+      "label" => "Creation / Cosmos",
+      "description" => "Origins, world renewal, sacred centers, and cosmic time.",
+      "angle" => -2.45
+    },
+    {
+      "id" => "death_afterlife",
+      "label" => "Death / Afterlife",
+      "description" => "Descent, the dead, soul logic, burial, and transformation.",
+      "angle" => -1.50
+    },
+    {
+      "id" => "hero_ordeal",
+      "label" => "Hero / Ordeal",
+      "description" => "Heroic trials, warriors, guardians, fate, and recognition.",
+      "angle" => -0.35
+    },
+    {
+      "id" => "knowledge_revelation",
+      "label" => "Knowledge / Revelation",
+      "description" => "Wisdom, visions, mystical quest, divine appearing, and sacred speech.",
+      "angle" => 0.72
+    },
+    {
+      "id" => "divine_spirit",
+      "label" => "Divine / Spirit",
+      "description" => "Gods, spirits, divine birth, intervention, tricksters, and enchanted realms.",
+      "angle" => 1.62
+    },
+    {
+      "id" => "sacred_order",
+      "label" => "Sacred Order",
+      "description" => "Law, covenant, offering, exchange, social order, and moral consequence.",
+      "angle" => 2.55
+    },
+    {
+      "id" => "liminal_forms",
+      "label" => "Liminal Forms",
+      "description" => "Boundary objects, vessels, paradox, beauty, fire, water, and other bridges.",
+      "angle" => 3.40
+    }
+  ]
+end
+
+def taxonomy_cluster_for(group_or_id)
+  group = group_or_id.is_a?(Hash) ? group_or_id : { "id" => group_or_id.to_s }
+  id = group["id"].to_s
+  explicit = {
+    "cosmic_origin" => "creation_cosmos",
+    "primordial_sacrifice" => "creation_cosmos",
+    "axis_mundi" => "creation_cosmos",
+    "flood_and_renewal" => "creation_cosmos",
+    "sacred_time" => "creation_cosmos",
+    "world_ages_cosmic_decline" => "creation_cosmos",
+    "death_and_transformation" => "death_afterlife",
+    "descent" => "death_afterlife",
+    "afterlife_passage" => "death_afterlife",
+    "external_soul" => "death_afterlife",
+    "ancestor_rites" => "death_afterlife",
+    "heroic_funeral_rites" => "death_afterlife",
+    "immortality_without_renewal" => "death_afterlife",
+    "soul_loss_restoration" => "death_afterlife",
+    "death_by_fate" => "death_afterlife",
+    "restless_dead_haunting_vengeance" => "death_afterlife",
+    "hero_journey" => "hero_ordeal",
+    "initiation" => "hero_ordeal",
+    "threshold_guardian" => "hero_ordeal",
+    "divine_warrior" => "hero_ordeal",
+    "sacred_combat" => "hero_ordeal",
+    "royal_legitimacy" => "hero_ordeal",
+    "conditional_invulnerability_hidden_weakness" => "hero_ordeal",
+    "betrayal_violated_trust" => "hero_ordeal",
+    "recognition_tokens_hidden_identity" => "hero_ordeal",
+    "fate_figures_cosmic_weaving" => "hero_ordeal",
+    "theophany" => "knowledge_revelation",
+    "sacred_knowledge" => "knowledge_revelation",
+    "mystical_quest" => "knowledge_revelation",
+    "ascent" => "knowledge_revelation",
+    "dream_and_vision" => "knowledge_revelation",
+    "storytelling_as_power" => "knowledge_revelation",
+    "miraculous_child" => "divine_spirit",
+    "mother_goddess" => "divine_spirit",
+    "culture_hero" => "divine_spirit",
+    "trickster" => "divine_spirit",
+    "shapeshifter" => "divine_spirit",
+    "divine_intervention" => "divine_spirit",
+    "otherworld" => "divine_spirit",
+    "divine_race" => "divine_spirit",
+    "supreme_ruler" => "divine_spirit",
+    "sacred_twins" => "divine_spirit",
+    "serpent_guardian" => "divine_spirit",
+    "sacrifice" => "sacred_order",
+    "covenant" => "sacred_order",
+    "sacred_exchange" => "sacred_order",
+    "divine_judgment" => "sacred_order",
+    "sacred_law" => "sacred_order",
+    "pride_and_downfall" => "sacred_order",
+    "hospitality_test_stranger_guest" => "sacred_order",
+    "sacred_fire" => "liminal_forms",
+    "sacred_vessel" => "liminal_forms",
+    "sacred_treasures" => "liminal_forms",
+    "sacred_waters" => "liminal_forms",
+    "sacred_love" => "liminal_forms",
+    "lament_and_mourning" => "liminal_forms",
+    "beauty_and_paradox" => "liminal_forms",
+    "sacred_craft" => "liminal_forms",
+    "duality" => "liminal_forms"
+  }
+  return explicit[id] if explicit.key?(id)
+
+  text = [id, group["label"], group["description"], group["children"], group["aliases"]].flatten.compact.join(" ").downcase
+  return "death_afterlife" if text.match?(/death|dead|soul|afterlife|underworld|funeral|ancestor|haunt|rebirth|immortal/)
+  return "creation_cosmos" if text.match?(/origin|creation|cosmic|world|flood|renewal|axis|time|earth|sky/)
+  return "hero_ordeal" if text.match?(/hero|warrior|ordeal|guardian|battle|combat|fate|recognition|king/)
+  return "knowledge_revelation" if text.match?(/wisdom|knowledge|quest|vision|dream|speech|story|theophany|ascent/)
+  return "sacred_order" if text.match?(/law|covenant|sacrifice|offering|judgment|exchange|moral|rite|hospitality/)
+  return "divine_spirit" if text.match?(/divine|god|goddess|spirit|trickster|child|birth|otherworld|serpent|shapeshift/)
+
+  "liminal_forms"
+end
+
+def taxonomy_constellation_data(normalization, proposed_review, current_output, family_analyses = [])
   groups = normalization.fetch("canonical_motif_groups", []).reject { |group| group["id"].to_s.start_with?("_meta") }
   group_lookup = groups.to_h { |group| [group["id"].to_s, group] }
+  analysis_lookup = family_analyses.to_h { |analysis| [analysis.fetch(:group_id).to_s, analysis] }
   nodes = []
   links = []
   link_keys = {}
 
   groups.each do |group|
-    children = Array(group["children"]).map do |child_id|
+    group_id = group["id"].to_s
+    analysis = analysis_lookup[group_id]
+    child_rows = Array(analysis && analysis[:child_motifs]).sort_by do |child|
+      [-child[:occurrence_count].to_i, -child[:tradition_count].to_i, child[:label].to_s]
+    end
+    fallback_children = Array(group["children"]).map do |child_id|
       {
         "id" => child_id.to_s,
         "label" => titleize(child_id),
+        "occurrence_count" => 0,
+        "tradition_count" => 0,
+        "relationship" => "child",
         "url" => relative_url(current_output, motif_output(child_id))
       }
     end
+    children = if child_rows.any?
+      child_rows.first(80).map do |child|
+        {
+          "id" => child[:motif_id].to_s,
+          "label" => titleize(child[:label]),
+          "occurrence_count" => child[:occurrence_count].to_i,
+          "tradition_count" => child[:tradition_count].to_i,
+          "relationship" => child[:relationship].to_s,
+          "url" => relative_url(current_output, motif_output(child[:motif_id]))
+        }
+      end
+    else
+      fallback_children
+    end
     related = Array(group["related"]).select { |id| group_lookup.key?(id.to_s) }
     nodes << {
-      "id" => group["id"].to_s,
+      "id" => group_id,
       "label" => group["label"].to_s,
       "type" => "approved",
+      "cluster" => taxonomy_cluster_for(group),
       "description" => compact_text(group["description"]),
-      "child_count" => children.length,
+      "child_count" => child_rows.any? ? child_rows.length : fallback_children.length,
+      "visible_child_count" => children.length,
+      "occurrence_count" => analysis ? analysis[:occurrence_count].to_i : 0,
+      "tradition_count" => analysis ? analysis[:tradition_count].to_i : 0,
+      "date_range" => analysis ? analysis[:date_range_label].to_s : "not yet dated",
       "children" => children,
       "related" => related.map do |id|
         {
@@ -407,11 +559,11 @@ def taxonomy_constellation_data(normalization, proposed_review, current_output)
           "url" => taxonomy_family_href(current_output, id)
         }
       end,
-      "url" => taxonomy_family_href(current_output, group["id"])
+      "url" => taxonomy_family_href(current_output, group_id)
     }
 
     related.each do |target|
-      pair = [group["id"].to_s, target.to_s].sort
+      pair = [group_id, target.to_s].sort
       key = pair.join("--")
       next if link_keys[key]
 
@@ -430,12 +582,18 @@ def taxonomy_constellation_data(normalization, proposed_review, current_output)
       }
     end
     parents = Array(candidate["suggested_parent_group_ids"]).select { |id| group_lookup.key?(id.to_s) }
+    parent_group = parents.first ? group_lookup[parents.first.to_s] : nil
     nodes << {
       "id" => node_id,
       "label" => candidate["label"].to_s,
       "type" => "pending",
+      "cluster" => parent_group ? taxonomy_cluster_for(parent_group) : "liminal_forms",
       "description" => candidate["rationale"].to_s,
       "child_count" => children.length,
+      "visible_child_count" => children.length,
+      "occurrence_count" => candidate["occurrence_count"].to_i,
+      "tradition_count" => Array(candidate["traditions"]).length,
+      "date_range" => "pending review",
       "children" => children,
       "related" => parents.map do |id|
         {
@@ -444,7 +602,7 @@ def taxonomy_constellation_data(normalization, proposed_review, current_output)
           "url" => taxonomy_family_href(current_output, id)
         }
       end,
-      "url" => taxonomy_family_href(current_output, candidate["id"])
+      "url" => "#{relative_url(current_output, "taxonomy/index.html")}##{taxonomy_anchor(candidate["id"])}"
     }
 
     parents.each do |parent_id|
@@ -452,14 +610,20 @@ def taxonomy_constellation_data(normalization, proposed_review, current_output)
     end
   end
 
+  cluster_counts = nodes.each_with_object(Hash.new(0)) { |node, counts| counts[node["cluster"]] += 1 }
+  clusters = taxonomy_cluster_definitions.map do |cluster|
+    cluster.merge("node_count" => cluster_counts[cluster["id"]].to_i)
+  end.select { |cluster| cluster["node_count"].positive? }
+
   {
+    "clusters" => clusters,
     "nodes" => nodes,
     "links" => links
   }
 end
 
-def taxonomy_constellation_html(normalization, proposed_review, current_output, data_id:)
-  data = taxonomy_constellation_data(normalization, proposed_review, current_output)
+def taxonomy_constellation_html(normalization, proposed_review, current_output, data_id:, family_analyses: [])
+  data = taxonomy_constellation_data(normalization, proposed_review, current_output, family_analyses)
   <<~HTML
     <div class="constellation-map" data-source="#{esc(data_id)}">
       <div class="constellation-toolbar">
@@ -471,15 +635,16 @@ def taxonomy_constellation_html(normalization, proposed_review, current_output, 
         </select>
         <div class="constellation-legend" aria-label="Constellation legend">
           <span><i></i> canonical family</span>
-          <span><i class="small"></i> node size = child motifs</span>
+          <span><i class="small"></i> node size = evidence</span>
+          <span><i class="dash"></i> pending group</span>
         </div>
       </div>
       <div class="constellation-stage">
-        <svg class="constellation-svg" role="img" aria-label="Interactive constellation map of motif taxonomy families"></svg>
+        <svg class="constellation-svg" role="img" aria-label="Interactive clustered map of motif taxonomy families"></svg>
         <aside class="constellation-panel" aria-live="polite">
           <span class="row-kicker">Selected Family</span>
-          <h3>Choose A Star</h3>
-          <p>Search or click a node to inspect its children and related families.</p>
+          <h3>Choose A Family</h3>
+          <p>Search or click a node to inspect evidence density, children, and related families.</p>
         </aside>
       </div>
     </div>
@@ -1079,7 +1244,7 @@ def build_home(texts, comparisons, motif_index, extractions)
       </div>
       <div class="card-grid">
         #{card("Taxonomy Families", "Evidence-backed research pages for every canonical motif family, with child motifs, traditions, passages, comparisons, and timeline views.", href: relative_url(current, "taxonomy/families/index.html"), meta: "research index")}
-        #{card("Constellation Map", "A visual star chart of how canonical families cluster and relate to each other.", href: relative_url(current, "taxonomy/constellation.html"), meta: "visual map")}
+        #{card("Taxonomy Cluster Map", "A calmer knowledge graph of motif families, evidence density, and related symbolic regions.", href: relative_url(current, "taxonomy/constellation.html"), meta: "visual map")}
         #{card("Pattern Explorer", "Filter motif evidence by tradition and confidence, then inspect the passages behind the pattern.", href: relative_url(current, "explorer/index.html"), meta: "interactive")}
         #{card("Text Library", "Browse the public-domain source texts that anchor the extraction evidence.", href: relative_url(current, "texts/index.html"), meta: "corpus")}
       </div>
@@ -1576,7 +1741,8 @@ def build_taxonomy(normalization, proposed_review, motif_index, timeline)
     normalization,
     proposed_review,
     current,
-    data_id: "taxonomy-constellation-data"
+    data_id: "taxonomy-constellation-data",
+    family_analyses: family_analyses
   )
 
   hierarchy_rows = hierarchies.map do |id, data|
@@ -1694,8 +1860,8 @@ def build_taxonomy(normalization, proposed_review, motif_index, timeline)
 
     <section class="section">
       <div class="section-heading">
-        <h2>Constellation Map</h2>
-        <a href="#{relative_url(current, "taxonomy/constellation.html")}">Open full chart</a>
+        <h2>Taxonomy Cluster Map</h2>
+        <a href="#{relative_url(current, "taxonomy/constellation.html")}">Open full map</a>
       </div>
       #{constellation}
     </section>
@@ -1745,15 +1911,15 @@ def build_taxonomy(normalization, proposed_review, motif_index, timeline)
   standalone_body = <<~HTML
     <section class="section">
       <div class="section-heading">
-        <h2>Motif Family Star Chart</h2>
+        <h2>Motif Family Cluster Map</h2>
         <a href="#{relative_url(standalone_output, "taxonomy/index.html")}">Back to taxonomy</a>
       </div>
-      #{taxonomy_constellation_html(normalization, proposed_review, standalone_output, data_id: "taxonomy-constellation-data-full")}
+      #{taxonomy_constellation_html(normalization, proposed_review, standalone_output, data_id: "taxonomy-constellation-data-full", family_analyses: family_analyses)}
     </section>
   HTML
   write_page(standalone_output, layout(
-    title: "Taxonomy Constellation",
-    subtitle: "A force-directed star chart of canonical motif families and pending new group candidates.",
+    title: "Taxonomy Cluster Map",
+    subtitle: "A clustered knowledge graph of canonical motif families and pending new group candidates.",
     current_output: standalone_output,
     body: standalone_body,
     page_class: "taxonomy-page constellation-page"
@@ -2373,10 +2539,12 @@ STYLE_CSS = <<~CSS
   }
 
   .constellation-map {
+    isolation: isolate;
     overflow: hidden;
     background:
-      radial-gradient(circle at 20% 18%, rgba(186, 160, 79, 0.12), transparent 28%),
-      radial-gradient(circle at 80% 30%, rgba(22, 124, 128, 0.08), transparent 26%),
+      radial-gradient(circle at 24% 22%, rgba(186, 160, 79, 0.14), transparent 26%),
+      radial-gradient(circle at 76% 34%, rgba(106, 142, 134, 0.10), transparent 24%),
+      radial-gradient(circle at 50% 86%, rgba(157, 72, 45, 0.09), transparent 30%),
       #0b0b09;
     border: 1px solid #242219;
     border-radius: 8px;
@@ -2442,27 +2610,56 @@ STYLE_CSS = <<~CSS
     height: 8px;
   }
 
+  .constellation-legend i.dash {
+    width: 18px;
+    height: 0;
+    border-radius: 0;
+    background: transparent;
+    border-top: 1px dashed rgba(186, 160, 79, 0.82);
+    box-shadow: none;
+  }
+
   .constellation-stage {
     display: grid;
     grid-template-columns: minmax(0, 1fr) 360px;
-    min-height: 760px;
+    min-height: 720px;
   }
 
   .constellation-svg {
     width: 100%;
-    height: 760px;
-    min-height: 620px;
+    height: 720px;
+    min-height: 600px;
     display: block;
     background:
-      radial-gradient(circle at 50% 50%, rgba(186, 160, 79, 0.06), transparent 50%),
+      radial-gradient(circle at 50% 50%, rgba(186, 160, 79, 0.08), transparent 48%),
+      radial-gradient(circle at 12% 88%, rgba(244, 234, 208, 0.05), transparent 18%),
       linear-gradient(180deg, rgba(255,255,255,0.02), transparent);
     touch-action: manipulation;
+  }
+
+  .constellation-cluster-halo {
+    pointer-events: none;
+    fill: rgba(186, 160, 79, 0.025);
+    stroke: rgba(186, 160, 79, 0.10);
+    stroke-width: 1;
+  }
+
+  .constellation-cluster-label {
+    pointer-events: none;
+    fill: rgba(244, 234, 208, 0.24);
+    font-family: "Cormorant Garamond", Georgia, serif;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    text-anchor: middle;
+    text-shadow: 0 1px 14px #0b0b09;
   }
 
   .constellation-link {
     stroke: #2a2820;
     stroke-width: 1;
-    opacity: 0.48;
+    opacity: 0.42;
+    transition: opacity 160ms ease, stroke 160ms ease, stroke-width 160ms ease;
   }
 
   .constellation-link.pending {
@@ -2478,18 +2675,26 @@ STYLE_CSS = <<~CSS
 
   .constellation-link.is-dim,
   .constellation-node.is-dim,
+  .constellation-node-halo.is-dim,
   .constellation-label.is-dim,
-  .constellation-count.is-dim {
-    opacity: 0.16;
+  .constellation-node-metric.is-dim {
+    opacity: 0.12;
+  }
+
+  .constellation-node-halo {
+    pointer-events: none;
+    fill: rgba(186, 160, 79, 0.075);
+    opacity: 0.75;
+    transition: opacity 160ms ease;
   }
 
   .constellation-node {
     cursor: pointer;
     fill: #baa04f;
     stroke: rgba(255, 241, 179, 0.78);
-    stroke-width: 1;
-    filter: drop-shadow(0 0 10px rgba(186, 160, 79, 0.72));
-    transition: opacity 160ms ease, stroke-width 160ms ease, filter 160ms ease;
+    stroke-width: 1.2;
+    filter: drop-shadow(0 0 8px rgba(186, 160, 79, 0.64));
+    transition: opacity 160ms ease, stroke-width 160ms ease, filter 160ms ease, fill 160ms ease;
   }
 
   .constellation-node.pending {
@@ -2503,11 +2708,16 @@ STYLE_CSS = <<~CSS
     filter: drop-shadow(0 0 16px rgba(255, 226, 143, 0.96));
   }
 
+  .constellation-node.pending.is-active {
+    filter: drop-shadow(0 0 13px rgba(255, 226, 143, 0.78));
+  }
+
   .constellation-label {
     pointer-events: none;
     fill: #e9dbad;
     font-family: "Cormorant Garamond", Georgia, serif;
-    font-size: 14px;
+    font-size: 15px;
+    font-weight: 700;
     letter-spacing: 0;
     text-anchor: middle;
     text-shadow: 0 1px 8px #0b0b09;
@@ -2525,19 +2735,30 @@ STYLE_CSS = <<~CSS
     opacity: 0.22;
   }
 
+  .constellation-map.focus-labels .constellation-label.is-active {
+    opacity: 0.96;
+  }
+
   .constellation-label.pending {
     fill: rgba(233, 219, 173, 0.74);
     font-size: 12px;
   }
 
-  .constellation-count {
+  .constellation-node-metric {
     pointer-events: none;
-    fill: #0b0b09;
+    fill: rgba(244, 234, 208, 0.78);
     font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-    font-size: 9px;
-    font-weight: 800;
+    font-size: 10px;
+    font-weight: 700;
     text-anchor: middle;
-    dominant-baseline: central;
+    dominant-baseline: hanging;
+    opacity: 0;
+    transition: opacity 140ms ease;
+  }
+
+  .constellation-node-metric.is-active,
+  .constellation-map.show-all-labels .constellation-node-metric {
+    opacity: 0.72;
   }
 
   .constellation-panel {
@@ -2554,7 +2775,8 @@ STYLE_CSS = <<~CSS
   .constellation-panel h3 {
     color: #f6e7b4;
     font-family: "Cormorant Garamond", Georgia, serif;
-    font-size: 34px;
+    font-size: 32px;
+    line-height: 0.96;
   }
 
   .constellation-panel p {
@@ -2592,6 +2814,8 @@ STYLE_CSS = <<~CSS
   .constellation-panel-list a,
   .constellation-panel-list span {
     display: inline-flex;
+    align-items: baseline;
+    gap: 5px;
     padding: 5px 8px;
     background: rgba(186, 160, 79, 0.12);
     border: 1px solid rgba(186, 160, 79, 0.28);
@@ -2599,6 +2823,12 @@ STYLE_CSS = <<~CSS
     color: #f4ead0;
     font-size: 12px;
     text-decoration: none;
+  }
+
+  .constellation-panel-list small {
+    color: rgba(244, 234, 208, 0.58);
+    font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 10px;
   }
 
   .constellation-panel-metrics {
@@ -2619,7 +2849,7 @@ STYLE_CSS = <<~CSS
     display: block;
     color: #f6e7b4;
     font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-    font-size: 18px;
+    font-size: 17px;
   }
 
   .constellation-panel-metrics small {
@@ -3027,14 +3257,10 @@ APP_JS = <<~JS
       if (!dataScript || !svg || !panel) return;
 
       const data = JSON.parse(dataScript.textContent);
+      const clusters = data.clusters || [];
+      const clusterById = new Map(clusters.map((cluster) => [cluster.id, cluster]));
       const nodes = data.nodes.map((node, index) => ({ ...node, index }));
       const nodeById = new Map(nodes.map((node) => [node.id, node]));
-      const keyLabelIds = new Set(nodes
-        .filter((node) => node.type === "approved")
-        .slice()
-        .sort((left, right) => Number(right.child_count || 0) - Number(left.child_count || 0))
-        .slice(0, 10)
-        .map((node) => node.id));
       const links = data.links
         .map((link) => ({ ...link, sourceNode: nodeById.get(link.source), targetNode: nodeById.get(link.target) }))
         .filter((link) => link.sourceNode && link.targetNode);
@@ -3043,24 +3269,25 @@ APP_JS = <<~JS
         connected.get(link.source).add(link.target);
         connected.get(link.target).add(link.source);
       });
+
+      const numberFormat = new Intl.NumberFormat("en");
+      const keyLabelIds = new Set(nodes
+        .filter((node) => node.type === "approved")
+        .slice()
+        .sort((left, right) =>
+          Number(right.occurrence_count || 0) - Number(left.occurrence_count || 0) ||
+          Number(right.tradition_count || 0) - Number(left.tradition_count || 0)
+        )
+        .slice(0, 13)
+        .map((node) => node.id));
+      clusters.forEach((cluster) => {
+        const strongest = nodes
+          .filter((node) => node.cluster === cluster.id && node.type === "approved")
+          .sort((left, right) => Number(right.occurrence_count || 0) - Number(left.occurrence_count || 0))[0];
+        if (strongest) keyLabelIds.add(strongest.id);
+      });
+
       let selectedId = null;
-
-      const radiusFor = (node) => {
-        const base = node.type === "pending" ? 5 : 8;
-        const scale = node.type === "pending" ? 1.5 : 2.45;
-        const max = node.type === "pending" ? 12 : 25;
-        return Math.min(max, base + Math.sqrt(Math.max(node.child_count, 1)) * scale);
-      };
-
-      const hashAngle = (id) => {
-        let hash = 0;
-        for (let i = 0; i < id.length; i += 1) hash = (hash * 31 + id.charCodeAt(i)) >>> 0;
-        return (hash / 4294967295) * Math.PI * 2;
-      };
-
-      const clearSvg = () => {
-        while (svg.firstChild) svg.removeChild(svg.firstChild);
-      };
 
       const htmlEscape = (value) => String(value || "").replace(/[&<>"']/g, (char) => ({
         "&": "&amp;",
@@ -3076,113 +3303,124 @@ APP_JS = <<~JS
         return el;
       };
 
+      const clearSvg = () => {
+        while (svg.firstChild) svg.removeChild(svg.firstChild);
+      };
+
+      const metricFor = (node) => Math.max(
+        Number(node.occurrence_count || 0),
+        Number(node.child_count || 0),
+        1
+      );
+
+      const radiusFor = (node) => {
+        if (node.type === "pending") {
+          return Math.min(13, 5 + Math.sqrt(metricFor(node)) * 0.55);
+        }
+        return Math.min(31, 7 + Math.sqrt(metricFor(node)) * 0.29);
+      };
+
+      const truncateLabel = (value, limit = 30) => {
+        const label = String(value || "");
+        return label.length > limit ? `${label.slice(0, limit - 3)}...` : label;
+      };
+
       const keepInside = (node, width, height) => {
-        const r = radiusFor(node) + 34;
+        const r = radiusFor(node) + 28;
         node.x = Math.max(r, Math.min(width - r, node.x));
         node.y = Math.max(r, Math.min(height - r, node.y));
       };
 
-      const initializePositions = (width, height) => {
+      const clusterCenters = (width, height) => {
         const cx = width / 2;
         const cy = height / 2;
-        const inner = Math.min(width, height) * 0.30;
-        const outer = Math.min(width, height) * 0.44;
-        nodes.forEach((node) => {
-          const angle = hashAngle(node.id);
-          const distance = node.type === "pending" ? outer : inner + (node.index % 9) * 13;
-          node.x = cx + Math.cos(angle) * distance;
-          node.y = cy + Math.sin(angle) * distance;
-          node.vx = 0;
-          node.vy = 0;
-          node.r = radiusFor(node);
+        const rx = width * 0.31;
+        const ry = height * 0.31;
+        const centers = new Map();
+        clusters.forEach((cluster, index) => {
+          const angle = Number.isFinite(Number(cluster.angle))
+            ? Number(cluster.angle)
+            : ((index / Math.max(clusters.length, 1)) * Math.PI * 2) - Math.PI / 2;
+          centers.set(cluster.id, {
+            ...cluster,
+            x: cx + Math.cos(angle) * rx,
+            y: cy + Math.sin(angle) * ry,
+            rx: Math.max(94, Math.min(150, 72 + Number(cluster.node_count || 1) * 8)),
+            ry: Math.max(70, Math.min(118, 54 + Number(cluster.node_count || 1) * 6))
+          });
         });
+        return centers;
       };
 
-      const simulate = (width, height) => {
-        const cx = width / 2;
-        const cy = height / 2;
-        const edgeRadius = Math.min(width, height) * 0.43;
-        for (let step = 0; step < 430; step += 1) {
-          links.forEach((link) => {
-            const source = link.sourceNode;
-            const target = link.targetNode;
-            const dx = target.x - source.x;
-            const dy = target.y - source.y;
-            const distance = Math.sqrt(dx * dx + dy * dy) || 1;
-            const desired = link.type === "pending" ? 210 : 166;
-            const strength = link.type === "pending" ? 0.009 : 0.014;
-            const force = (distance - desired) * strength;
-            const fx = (dx / distance) * force;
-            const fy = (dy / distance) * force;
-            source.vx += fx;
-            source.vy += fy;
-            target.vx -= fx;
-            target.vy -= fy;
-          });
+      const layoutNodes = (width, height) => {
+        const centers = clusterCenters(width, height);
+        const fallbackCenter = { x: width / 2, y: height / 2, rx: 120, ry: 92 };
+        const grouped = new Map();
+        nodes.forEach((node) => {
+          if (!grouped.has(node.cluster)) grouped.set(node.cluster, []);
+          grouped.get(node.cluster).push(node);
+        });
 
-          for (let i = 0; i < nodes.length; i += 1) {
-            for (let j = i + 1; j < nodes.length; j += 1) {
-              const a = nodes[i];
-              const b = nodes[j];
-              const dx = b.x - a.x;
-              const dy = b.y - a.y;
-              const distanceSq = Math.max(dx * dx + dy * dy, 36);
-              const distance = Math.sqrt(distanceSq);
-              const minDistance = a.r + b.r + 42;
-              const push = distance < minDistance ? 0.11 : 430 / distanceSq;
-              const fx = (dx / distance) * push;
-              const fy = (dy / distance) * push;
-              a.vx -= fx;
-              a.vy -= fy;
-              b.vx += fx;
-              b.vy += fy;
-            }
-          }
-
-          nodes.forEach((node) => {
-            if (node.type === "pending") {
-              const angle = hashAngle(node.id);
-              const tx = cx + Math.cos(angle) * edgeRadius;
-              const ty = cy + Math.sin(angle) * edgeRadius;
-              node.vx += (tx - node.x) * 0.006;
-              node.vy += (ty - node.y) * 0.006;
-            } else {
-              node.vx += (cx - node.x) * 0.0026;
-              node.vy += (cy - node.y) * 0.0026;
-            }
-            node.vx *= 0.82;
-            node.vy *= 0.82;
-            node.x += node.vx;
-            node.y += node.vy;
-            keepInside(node, width, height);
-          });
-        }
+        grouped.forEach((bucket, clusterId) => {
+          const center = centers.get(clusterId) || fallbackCenter;
+          bucket
+            .sort((left, right) =>
+              (left.type === "pending" ? 1 : 0) - (right.type === "pending" ? 1 : 0) ||
+              Number(right.occurrence_count || 0) - Number(left.occurrence_count || 0) ||
+              left.label.localeCompare(right.label)
+            )
+            .forEach((node, index) => {
+              const goldenAngle = 2.399963229728653;
+              const angle = -Math.PI / 2 + index * goldenAngle;
+              const spread = node.type === "pending" ? 34 : 24;
+              const distance = index === 0 ? 0 : Math.sqrt(index) * spread;
+              const outward = node.type === "pending" ? 1.34 : 1;
+              node.r = radiusFor(node);
+              node.x = center.x + Math.cos(angle) * distance * outward;
+              node.y = center.y + Math.sin(angle) * distance * outward * 0.82;
+              if (node.type === "pending") {
+                node.x += (center.x - width / 2) * 0.16;
+                node.y += (center.y - height / 2) * 0.16;
+              }
+              keepInside(node, width, height);
+            });
+        });
+        return centers;
       };
 
       const showPanel = (node) => {
         const childItems = node.children || [];
         const relatedItems = node.related || [];
-        const visibleChildren = childItems.slice(0, 12);
-        const hiddenChildCount = Math.max(0, childItems.length - visibleChildren.length);
+        const visibleChildren = childItems.slice(0, 14);
+        const hiddenChildCount = Math.max(0, Number(node.child_count || childItems.length) - visibleChildren.length);
+        const cluster = clusterById.get(node.cluster);
+        const childLabel = node.type === "pending" ? "Draft Children" : "Top Child Motifs";
         const children = visibleChildren.length
-          ? visibleChildren.map((child) => `<a href="${htmlEscape(child.url)}">${htmlEscape(child.label)}</a>`).join("") +
-            (hiddenChildCount ? `<span>+${hiddenChildCount} more</span>` : "")
+          ? visibleChildren.map((child) => {
+            const count = Number(child.occurrence_count || 0);
+            const suffix = count > 0 ? ` <small>${numberFormat.format(count)}</small>` : "";
+            return `<a href="${htmlEscape(child.url)}">${htmlEscape(child.label)}${suffix}</a>`;
+          }).join("") + (hiddenChildCount > 0 ? `<span>+${numberFormat.format(hiddenChildCount)} more</span>` : "")
           : "<span>None yet</span>";
         const related = relatedItems.length
           ? relatedItems.map((item) => `<a href="${htmlEscape(item.url)}">${htmlEscape(item.label)}</a>`).join("")
           : "<span>None yet</span>";
         const kicker = node.type === "pending" ? "Pending Proposed Group" : "Canonical Family";
+        const relationLabel = node.type === "pending" ? "suggested parents" : "related families";
         panel.innerHTML = `
-          <span class="row-kicker">${htmlEscape(kicker)}</span>
+          <span class="row-kicker">${htmlEscape(kicker)}${cluster ? ` / ${htmlEscape(cluster.label)}` : ""}</span>
           <h3>${htmlEscape(node.label)}</h3>
           <p>${htmlEscape(node.description || "")}</p>
           <div class="constellation-panel-metrics">
-            <span><b>${Number(node.child_count || 0)}</b><small>child motifs</small></span>
-            <span><b>${relatedItems.length}</b><small>${node.type === "pending" ? "suggested parents" : "related families"}</small></span>
+            <span><b>${numberFormat.format(Number(node.occurrence_count || 0))}</b><small>occurrences</small></span>
+            <span><b>${numberFormat.format(Number(node.tradition_count || 0))}</b><small>traditions</small></span>
+            <span><b>${numberFormat.format(Number(node.child_count || 0))}</b><small>child motifs</small></span>
+            <span><b>${relatedItems.length}</b><small>${relationLabel}</small></span>
           </div>
-          ${node.url ? `<a class="constellation-panel-action" href="${htmlEscape(node.url)}">Open research page</a>` : ""}
+          ${node.date_range ? `<p><strong>Date range:</strong> ${htmlEscape(node.date_range)}</p>` : ""}
+          ${node.url ? `<a class="constellation-panel-action" href="${htmlEscape(node.url)}">${node.type === "pending" ? "Open review entry" : "Open research page"}</a>` : ""}
           <div class="constellation-panel-section">
-            <strong>Top Children <span>${node.child_count}</span></strong>
+            <strong>${childLabel} <span>${numberFormat.format(Number(node.child_count || childItems.length))}</span></strong>
             <div class="constellation-panel-list">${children}</div>
           </div>
           <div class="constellation-panel-section">
@@ -3200,17 +3438,36 @@ APP_JS = <<~JS
       const render = () => {
         const bounds = map.querySelector(".constellation-stage").getBoundingClientRect();
         const panelWidth = panel.getBoundingClientRect().width || 360;
-        const width = Math.max(620, Math.floor(bounds.width - (window.innerWidth > 900 ? panelWidth : 0)));
-        const height = Math.max(620, Math.floor(svg.getBoundingClientRect().height || 760));
+        const width = Math.max(640, Math.floor(bounds.width - (window.innerWidth > 900 ? panelWidth : 0)));
+        const height = Math.max(620, Math.floor(svg.getBoundingClientRect().height || 720));
         svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
         clearSvg();
-        initializePositions(width, height);
-        simulate(width, height);
 
+        const centers = layoutNodes(width, height);
+        const clusterLayer = svgEl("g", { class: "constellation-clusters" });
         const linkLayer = svgEl("g", { class: "constellation-links" });
+        const haloLayer = svgEl("g", { class: "constellation-node-halos" });
         const nodeLayer = svgEl("g", { class: "constellation-nodes" });
         const labelLayer = svgEl("g", { class: "constellation-labels" });
-        svg.append(linkLayer, nodeLayer, labelLayer);
+        const metricLayer = svgEl("g", { class: "constellation-metrics" });
+        svg.append(clusterLayer, linkLayer, haloLayer, nodeLayer, labelLayer, metricLayer);
+
+        centers.forEach((cluster) => {
+          const halo = svgEl("ellipse", {
+            class: "constellation-cluster-halo",
+            cx: cluster.x.toFixed(1),
+            cy: cluster.y.toFixed(1),
+            rx: cluster.rx.toFixed(1),
+            ry: cluster.ry.toFixed(1)
+          });
+          const label = svgEl("text", {
+            class: "constellation-cluster-label",
+            x: cluster.x.toFixed(1),
+            y: (cluster.y - cluster.ry - 14).toFixed(1)
+          });
+          label.textContent = cluster.label;
+          clusterLayer.append(halo, label);
+        });
 
         const linkEls = links.map((link) => {
           const el = svgEl("line", {
@@ -3226,7 +3483,19 @@ APP_JS = <<~JS
           return el;
         });
 
-        const nodeEls = nodes.map((node) => {
+        const haloEls = [];
+        const nodeEls = [];
+        const labelEls = [];
+        const metricEls = [];
+
+        nodes.forEach((node) => {
+          const halo = svgEl("circle", {
+            class: `constellation-node-halo ${node.type}`,
+            cx: node.x.toFixed(1),
+            cy: node.y.toFixed(1),
+            r: (node.r + 10).toFixed(1),
+            "data-id": node.id
+          });
           const circle = svgEl("circle", {
             class: `constellation-node ${node.type}`,
             cx: node.x.toFixed(1),
@@ -3237,42 +3506,45 @@ APP_JS = <<~JS
             role: "button",
             "aria-label": node.label
           });
-          const count = svgEl("text", {
-            class: `constellation-count ${node.type}`,
-            x: node.x.toFixed(1),
-            y: node.y.toFixed(1),
-            "data-id": node.id
-          });
-          count.textContent = node.child_count.toString();
-          nodeLayer.append(circle, count);
-          return circle;
-        });
-
-        const labelEls = nodes.map((node) => {
           const label = svgEl("text", {
             class: `constellation-label ${node.type}${keyLabelIds.has(node.id) ? " is-key" : ""}`,
             x: node.x.toFixed(1),
-            y: (node.y + node.r + 15).toFixed(1),
+            y: (node.y + node.r + 17).toFixed(1),
             "data-id": node.id
           });
-          label.textContent = node.label.length > 28 ? `${node.label.slice(0, 25)}...` : node.label;
+          label.textContent = truncateLabel(node.label);
+          const metric = svgEl("text", {
+            class: `constellation-node-metric ${node.type}`,
+            x: node.x.toFixed(1),
+            y: (node.y + node.r + 32).toFixed(1),
+            "data-id": node.id
+          });
+          metric.textContent = Number(node.occurrence_count || 0) > 0
+            ? `${numberFormat.format(Number(node.occurrence_count))} occ.`
+            : `${numberFormat.format(Number(node.child_count || 0))} children`;
+          haloLayer.appendChild(halo);
+          nodeLayer.appendChild(circle);
           labelLayer.appendChild(label);
-          return label;
+          metricLayer.appendChild(metric);
+          haloEls.push(halo);
+          nodeEls.push(circle);
+          labelEls.push(label);
+          metricEls.push(metric);
         });
-
-        const countEls = Array.from(svg.querySelectorAll(".constellation-count"));
 
         function highlight(id) {
           const activeSet = id ? connected.get(id) || new Set([id]) : null;
-          nodeEls.forEach((el) => {
-            const active = activeSet && activeSet.has(el.dataset.id);
-            el.classList.toggle("is-active", Boolean(id && el.dataset.id === id));
-            el.classList.toggle("is-dim", Boolean(id && !active));
-          });
-          [...labelEls, ...countEls].forEach((el) => {
+          [...nodeEls, ...haloEls, ...labelEls].forEach((el) => {
             const active = activeSet && activeSet.has(el.dataset.id);
             el.classList.toggle("is-active", Boolean(id && active));
             el.classList.toggle("is-dim", Boolean(id && !active));
+          });
+          metricEls.forEach((el) => {
+            el.classList.toggle("is-active", Boolean(id && el.dataset.id === id));
+            el.classList.toggle("is-dim", Boolean(id && el.dataset.id !== id));
+          });
+          nodeEls.forEach((el) => {
+            el.classList.toggle("is-active", Boolean(id && el.dataset.id === id));
           });
           linkEls.forEach((el) => {
             const active = id && (el.dataset.source === id || el.dataset.target === id);
@@ -3310,10 +3582,10 @@ APP_JS = <<~JS
               highlight(selectedId);
               return;
             }
-            const match = nodes.find((node) =>
-              node.label.toLowerCase().includes(query) ||
-              node.id.toLowerCase().includes(query)
-            );
+            const match = nodes.find((node) => {
+              const childText = (node.children || []).map((child) => `${child.id} ${child.label}`).join(" ");
+              return `${node.id} ${node.label} ${childText}`.toLowerCase().includes(query);
+            });
             if (match) selectNode(match);
           };
         }
@@ -3325,7 +3597,8 @@ APP_JS = <<~JS
           setLabelMode("focus");
         }
 
-        const firstApproved = nodes.find((node) => node.id === "death_and_transformation") || nodes.find((node) => node.type === "approved");
+        const firstApproved = nodes.find((node) => node.id === "death_and_transformation") ||
+          nodes.slice().sort((left, right) => Number(right.occurrence_count || 0) - Number(left.occurrence_count || 0))[0];
         selectNode((selectedId && nodeById.get(selectedId)) || firstApproved);
       };
 
