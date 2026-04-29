@@ -7,8 +7,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 ## Summary
 
 - Indexed motif IDs: 9072
-- Already mapped: 363
-- Unmapped: 8709
+- Already mapped: 683
+- Unmapped: 8389
 
 | Review Bucket | Unmapped Motifs |
 | --- | ---: |
@@ -23,7 +23,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | Conflict, Violence, Heroic Ordeal, And Victory | 1150 |
 | Objects, Places, Boundaries, And Thresholds | 249 |
 | Ethics, Psychology, Discipline, And Inner Life | 173 |
-| Needs Human Sorting | 1818 |
+| Needs Human Sorting | 1498 |
 
 ## Death, Descent, Afterlife, And Ancestors
 
@@ -6976,457 +6976,225 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | Motif ID | Label | Occurrences | Traditions |
 | --- | --- | ---: | --- |
 | `hunter_becomes_hunted` | hunter becomes hunted | 2 | greek, roman |
-| `inescapable_chain_of_existence` | inescapable chain of existence | 2 | sufi |
 | `inexhaustible_food_supply` | inexhaustible food supply | 2 | japanese, sufi |
 | `recognition_by_bodily_scar` | recognition by bodily scar | 2 | greek |
 | `abandonment_after_rejected_aid` | abandonment after rejected aid | 1 | greek |
-| `abandonment_of_the_corruptible_body` | Abandonment of the corruptible body | 1 | buddhist |
 | `abducted_captives_guide_rescuer_through_hidden_entrance` | Abducted captives guide rescuer through hidden entrance | 1 | japanese |
-| `abducted_infant_whose_fate_is_unknown` | abducted infant whose fate is unknown | 1 | celtic_welsh |
-| `abolition_of_artificial_standards_restores_natural_integrity` | abolition of artificial standards restores natural integrity | 1 | daoist |
-| `abolition_of_coercive_widow_inheritance` | abolition of coercive widow inheritance | 1 | islamic |
 | `absence_creates_longing_for_one_s_kind` | absence creates longing for one’s kind | 1 | daoist |
-| `absent_champion_invoked_to_restore_courage` | absent champion invoked to restore courage | 1 | greek |
-| `absent_protectors_invoked_in_crisis` | absent protectors invoked in crisis | 1 | hindu |
 | `absent_younger_rival_who_would_have_won` | absent younger rival who would have won | 1 | greek |
-| `absurd_exchange_value_reveals_corruption` | Absurd exchange value reveals corruption | 1 | buddhist |
-| `absurd_valuation_as_moral_exposure` | absurd valuation as moral exposure | 1 | buddhist |
 | `abundance_and_cultivated_fertility_imagery` | Abundance and cultivated fertility imagery | 1 | greek_roman |
 | `abundance_giving_cow` | abundance-giving cow | 1 | celtic_irish |
 | `abundant_dairy_yield_at_a_raiding_camp` | Abundant dairy yield at a raiding camp | 1 | celtic_irish |
-| `abundant_faraway_land` | abundant faraway land | 1 | greek |
 | `abundant_pictorial_simile` | abundant pictorial simile | 1 | greek |
-| `acceptance_of_destiny_after_loss` | acceptance of destiny after loss | 1 | daoist |
 | `acceptance_of_the_final_draught` | acceptance of the final draught | 1 | sufi |
-| `accidental_encounter_with_supernatural_beings_in_a_wild_place` | Accidental encounter with supernatural beings in a wild place | 1 | japanese |
 | `accidental_killing_by_the_would_be_protector` | Accidental killing by the would-be protector | 1 | islamicate_folklore |
-| `accumulation_of_wonderful_objects` | accumulation of wonderful objects | 1 | buddhist |
 | `accusation_of_black_magic_leading_to_condemnation` | accusation of black magic leading to condemnation | 1 | greek |
 | `actions_explained_by_a_past_loss` | actions explained by a past loss | 1 | greek |
-| `admired_feature_becomes_cause_of_ruin` | admired feature becomes cause of ruin | 1 | greek |
 | `adopted_predator_betrays_the_flock` | Adopted predator betrays the flock | 1 | greek |
 | `advance_delayed_for_reinforcements` | advance delayed for reinforcements | 1 | celtic_irish |
-| `adversarial_being_followed_by_the_unfaithful_majority` | Adversarial being followed by the unfaithful majority | 1 | islamic |
-| `afflicted_people_promised_succession_in_the_land` | Afflicted people promised succession in the land | 1 | islamic |
 | `age_contrast_in_paired_women` | age contrast in paired women | 1 | greek |
-| `aging_singer_laments_loss_of_voice` | Aging singer laments loss of voice | 1 | finnish_karelian |
-| `alarm_pursuit_and_defeat_after_theft` | alarm, pursuit, and defeat after theft | 1 | celtic_irish |
-| `allegorical_figures_explained_by_a_host` | Allegorical figures explained by a host | 1 | celtic_irish |
 | `allies_recognize_comrades_by_the_sound_of_blows` | Allies recognize comrades by the sound of blows | 1 | celtic_irish |
-| `ally_dies_or_nearly_dies_for_the_captive` | ally dies or nearly dies for the captive | 1 | hindu |
 | `altered_food_token_signals_changed_fidelity_status` | altered food token signals changed fidelity status | 1 | celtic_irish |
-| `altruistic_reception_of_refugees_by_fellow_believers` | altruistic reception of refugees by fellow believers | 1 | islamic |
 | `ambiguous_supernatural_identity_of_a_strange_captive` | ambiguous supernatural identity of a strange captive | 1 | hindu |
-| `ambitious_courtier_betrays_benefactor` | Ambitious courtier betrays benefactor | 1 | sufi |
 | `ambivalent_ecstatic_expression` | ambivalent ecstatic expression | 1 | sufi |
-| `ambush_overcome_with_lone_survivor` | ambush overcome with lone survivor | 1 | greek |
 | `analogous_explanations_for_similar_body_cutting_customs` | Analogous explanations for similar body-cutting customs | 1 | comparative |
 | `ancient_giant_race` | ancient giant race | 1 | islamic |
 | `ancient_oral_tale_transmission` | Ancient oral tale transmission | 1 | islamicate_folklore |
 | `ancient_poems_preserved_through_editorial_transmission` | ancient poems preserved through editorial transmission | 1 | greek |
 | `ancient_unconquered_people_resisting_empires` | Ancient unconquered people resisting empires | 1 | islamic |
-| `angelic_bearer_offers_transformative_drink` | angelic bearer offers transformative drink | 1 | sufi |
-| `angelic_messengers_with_multiple_wings` | Angelic messengers with multiple wings | 1 | islamic |
-| `angelic_obedience_and_restricted_intercession` | Angelic obedience and restricted intercession | 1 | islamic |
-| `angelic_prostration_before_a_newly_created_human` | Angelic prostration before a newly created human | 1 | islamic |
 | `animated_cult_image_made_by_magical_craft` | Animated cult image made by magical craft | 1 | sufi |
 | `animated_images_responding_to_music` | animated images responding to music | 1 | celtic_irish |
 | `animated_or_life_like_manufactured_image` | animated or life-like manufactured image | 1 | islamic |
 | `animated_or_sounding_calf_that_misleads_israel` | Animated or sounding calf that misleads Israel | 1 | islamic |
 | `animation_of_a_cult_object_by_supernatural_residue` | animation of a cult object by supernatural residue | 1 | islamic |
 | `animation_of_clay_creatures` | animation of clay creatures | 1 | islamic |
-| `annihilating_breath_reduces_bodies_to_ashes` | annihilating breath reduces bodies to ashes | 1 | celtic_irish |
-| `anonymous_champion_defeats_repeated_challengers` | Anonymous champion defeats repeated challengers | 1 | celtic_welsh |
 | `anthropomorphic_or_corporeal_deity` | anthropomorphic or corporeal deity | 1 | islamic |
 | `anticipation_of_future_life` | anticipation of future life | 1 | greek |
-| `apostasy_and_replacement_of_a_religious_community` | apostasy and replacement of a religious community | 1 | islamic |
-| `apotropaic_diversion_of_predator_hunger` | apotropaic diversion of predator hunger | 1 | finnish_karelian |
 | `appeal_for_liberation_from_bonds` | appeal for liberation from bonds | 1 | celtic_irish |
-| `appearance_of_christ_in_human_form_with_identity_proclamation` | Appearance of Christ in human form with identity proclamation | 1 | islamic |
 | `appetite_leads_to_captivity_or_control` | Appetite leads to captivity or control | 1 | buddhist |
 | `appointed_tryst_prevented_by_sudden_sleep` | Appointed tryst prevented by sudden sleep | 1 | celtic_irish |
-| `appointment_of_twelve_authorized_representatives` | appointment of twelve authorized representatives | 1 | islamic |
-| `arch_rebel_s_cruel_public_end_after_long_resistance` | arch-rebel's cruel public end after long resistance | 1 | islamic |
 | `archaic_motif_as_later_literary_insertion_or_adaptation` | archaic motif as later literary insertion or adaptation | 1 | celtic_irish |
 | `argument_as_waves_to_be_passed` | Argument as waves to be passed | 1 | greek |
-| `armed_founder_succeeds_where_unarmed_founder_fails` | Armed founder succeeds where unarmed founder fails | 1 | islamic |
-| `armed_watcher_defeats_supernatural_seeming_intruder` | armed watcher defeats supernatural-seeming intruder | 1 | celtic_welsh |
-| `arming_before_a_liminal_night_mission` | arming before a liminal night mission | 1 | greek |
-| `army_encamped_at_liminal_shore` | army encamped at liminal shore | 1 | hindu |
 | `army_suffers_under_extraordinary_snow_without_shelter` | army suffers under extraordinary snow without shelter | 1 | celtic_irish |
 | `assassination_following_political_disgrace` | Assassination following political disgrace | 1 | sufi |
-| `astral_intermediaries_beneath_a_supreme_deity` | Astral intermediaries beneath a supreme deity | 1 | islamic |
-| `astral_remnant_of_a_beheaded_deer` | Astral remnant of a beheaded deer | 1 | hindu |
 | `attempt_to_gain_loyalty_through_excessive_favors_fails` | attempt to gain loyalty through excessive favors fails | 1 | greek |
 | `attempted_reconciliation_of_institutional_religion_and_mysticism` | attempted reconciliation of institutional religion and mysticism | 1 | sufi |
 | `attempted_suicide_interrupted_by_caregiver` | attempted suicide interrupted by caregiver | 1 | roman |
-| `auspicious_flame_omen` | Auspicious flame omen | 1 | hindu |
 | `authorized_falsehood_for_civic_good` | authorized falsehood for civic good | 1 | greek |
-| `autochthonous_origin_from_mushrooms` | autochthonous origin from mushrooms | 1 | roman |
-| `autonomous_or_enchanted_game_board` | autonomous or enchanted game board | 1 | celtic_welsh |
-| `avenging_expedition_for_a_wronged_sister` | Avenging expedition for a wronged sister | 1 | celtic_welsh |
 | `avenging_insult_to_humble_or_marginal_figures` | avenging insult to humble or marginal figures | 1 | celtic_welsh |
-| `avenging_pursuit_and_beheading_of_deceiver` | avenging pursuit and beheading of deceiver | 1 | celtic_irish |
-| `avoid_corrupting_contact` | avoid corrupting contact | 1 | greek |
-| `avoidance_of_extremes_as_path_of_happiness` | avoidance of extremes as path of happiness | 1 | greek |
 | `avoidance_of_single_exit_refuges` | avoidance of single-exit refuges | 1 | celtic_irish |
-| `awakening_call_at_dawn` | Awakening call at dawn | 1 | sufi |
 | `bacchic_frenzy_as_simile_for_emotional_upheaval` | Bacchic frenzy as simile for emotional upheaval | 1 | roman |
-| `backbiting_as_cannibalistic_abomination` | backbiting as cannibalistic abomination | 1 | islamic |
-| `bad_omen_reversed_by_favorable_interpretation` | Bad omen reversed by favorable interpretation | 1 | sufi |
-| `bad_rule_through_wealth_replacing_skill` | bad rule through wealth replacing skill | 1 | greek |
 | `baited_food_leads_to_capture` | baited food leads to capture | 1 | greek |
-| `balder_s_life_in_the_mistletoe` | Balder's life in the mistletoe | 1 | comparative |
-| `banishment_of_afflictions_to_inaccessible_or_chthonic_containment_places` | Banishment of afflictions to inaccessible or chthonic containment places | 1 | finnish_karelian |
-| `banishment_of_an_invading_evil_from_the_body` | Banishment of an invading evil from the body | 1 | finnish_karelian |
-| `bardic_performance_nested_within_the_main_narrative` | bardic performance nested within the main narrative | 1 | greek |
 | `barter_as_exchange` | barter as exchange | 1 | greek |
 | `beautification_by_bath_before_presentation` | beautification by bath before presentation | 1 | islamicate_folklore |
 | `becoming_another_through_external_orientation` | becoming another through external orientation | 1 | daoist |
-| `beheading_of_defeated_enemies` | beheading of defeated enemies | 1 | celtic_irish |
 | `believers_threatened_by_tyrant_accept_martyrdom` | Believers threatened by tyrant accept martyrdom | 1 | islamic |
 | `benefactor_becomes_predator` | Benefactor becomes predator | 1 | persian |
-| `benefactor_repaid_with_harm` | benefactor repaid with harm | 1 | greek |
 | `benefit_friends_and_harm_enemies` | benefit friends and harm enemies | 1 | greek |
-| `besieged_camp_protected_by_obedience_to_absent_leader` | besieged camp protected by obedience to absent leader | 1 | roman |
-| `best_not_to_be_born` | Best not to be born | 1 | greek |
 | `betrayal_of_a_protector` | betrayal of a protector | 1 | greek |
-| `betrayal_of_duty_punished` | betrayal of duty punished | 1 | greek |
-| `betrayal_of_the_fugitive_heir_by_a_kinsman` | betrayal of the fugitive heir by a kinsman | 1 | sufi |
 | `betrayal_through_feast_or_drink` | betrayal through feast or drink | 1 | celtic_irish |
-| `betrayed_guests_make_a_doomed_last_stand` | betrayed guests make a doomed last stand | 1 | norse |
-| `betrayed_safe_conduct` | betrayed safe-conduct | 1 | celtic_irish |
 | `betrayer_bound_in_the_store_room` | betrayer bound in the store-room | 1 | greek |
 | `betraying_object_in_night_escape` | betraying object in night escape | 1 | roman |
-| `binding_injunction_or_prohibition_by_honour` | binding injunction or prohibition by honour | 1 | celtic_irish |
-| `bleeding_or_blood_distilling_plant` | bleeding or blood-distilling plant | 1 | greek |
-| `blemishless_and_sinless_condition_of_inhabitants` | Blemishless and sinless condition of inhabitants | 1 | celtic_irish |
-| `blind_elder_deceived_by_simulated_weather` | blind elder deceived by simulated weather | 1 | celtic_irish |
-| `blind_poet_receives_identity_through_blindness` | blind poet receives identity through blindness | 1 | greek |
-| `blinding_of_a_one_eyed_cannibal_giant_with_heated_spits` | Blinding of a one-eyed cannibal giant with heated spits | 1 | islamicate_folklore |
 | `blood_as_promised_satisfaction_for_injury` | blood as promised satisfaction for injury | 1 | hindu |
-| `blood_betrays_concealed_killing` | blood betrays concealed killing | 1 | indigenous_australian |
-| `blood_breaks_enchantment` | blood breaks enchantment | 1 | celtic_irish |
-| `blood_changes_a_plant_s_color` | Blood changes a plant's color | 1 | roman |
-| `blood_like_atmospheric_omen_or_marvel` | Blood-like atmospheric omen or marvel | 1 | greek |
 | `blood_omen_in_an_abandoned_object` | blood omen in an abandoned object | 1 | finnish_karelian |
 | `boar_episode` | boar episode | 1 | celtic_irish |
-| `boast_answered_by_supernatural_opposition` | boast answered by supernatural opposition | 1 | finnish_karelian |
-| `boast_counter_boast_and_vengeance_duel` | boast, counter-boast, and vengeance duel | 1 | greek |
 | `boastful_recounting_of_past_victories_to_silence_challengers` | boastful recounting of past victories to silence challengers | 1 | celtic_irish |
 | `boasting_when_detection_is_impossible` | Boasting when detection is impossible | 1 | greek |
-| `bodily_omen_of_right_and_left_eye_throbbing` | Bodily omen of right and left eye throbbing | 1 | hindu |
-| `bodily_penalty_mirrors_the_offending_body_part` | bodily penalty mirrors the offending body part | 1 | islamic |
-| `bodily_prostration_as_solemn_adoration` | Bodily prostration as solemn adoration | 1 | islamic |
-| `bodily_restoration_after_injury` | bodily restoration after injury | 1 | japanese |
 | `body_carried_by_unseen_forces` | body carried by unseen forces | 1 | sufi |
-| `body_diminishes_while_voice_remains` | body diminishes while voice remains | 1 | roman |
 | `body_shielding_failed_protection` | body-shielding failed protection | 1 | celtic_irish |
-| `boon_extorted_from_a_captured_pursuer` | boon extorted from a captured pursuer | 1 | celtic_irish |
-| `boon_of_protection_granted_to_a_defeated_host` | boon of protection granted to a defeated host | 1 | celtic_irish |
 | `boon_protected_antagonist_with_excluded_opponent_class` | boon-protected antagonist with excluded opponent class | 1 | hindu |
 | `boon_with_fatal_omitted_exception` | boon with fatal omitted exception | 1 | hindu |
 | `boon_with_omitted_vulnerability` | boon with omitted vulnerability | 1 | hindu |
 | `boons_satisfied_before_formal_homage` | boons satisfied before formal homage | 1 | celtic_welsh |
-| `borrowed_arms_for_a_challenge` | Borrowed arms for a challenge | 1 | celtic_welsh |
 | `borrowed_finery_exposed` | borrowed finery exposed | 1 | greek |
-| `bounded_long_enchantment_with_prophesied_release_condition` | bounded long enchantment with prophesied release condition | 1 | celtic_irish |
-| `broken_truce_followed_by_failed_mass_attack` | broken truce followed by failed mass attack | 1 | celtic_irish |
 | `buddhist_life_recast_as_christian_hagiography` | Buddhist life recast as Christian hagiography | 1 | buddhist |
 | `buddhist_tales_migrating_into_western_story_traditions` | Buddhist tales migrating into Western story traditions | 1 | buddhist |
 | `burden_of_toil` | burden of toil | 1 | greek |
-| `burden_removed_and_heart_opened` | burden removed and heart opened | 1 | islamic |
 | `burning_of_condemned_writings` | Burning of condemned writings | 1 | sufi |
-| `burning_or_disposal_of_anthropomorphic_effigy_at_midsummer` | burning or disposal of anthropomorphic effigy at midsummer | 1 | comparative |
 | `burning_the_camp_to_erase_pursuit_tracks` | burning the camp to erase pursuit tracks | 1 | indigenous_australian |
 | `cannibal_giant_in_a_castle_of_bones` | Cannibal giant in a castle of bones | 1 | islamicate_folklore |
-| `captive_as_foreshadowed_doom_of_captor` | captive as foreshadowed doom of captor | 1 | hindu |
 | `captive_herd_enclosed_for_royal_hunting` | captive herd enclosed for royal hunting | 1 | buddhist |
-| `captive_master_smith_under_coercion` | Captive master smith under coercion | 1 | norse |
-| `captive_refuses_treasure_secret_under_torture` | captive refuses treasure secret under torture | 1 | norse |
 | `captive_spouse_acquired_by_force` | Captive spouse acquired by force | 1 | greek |
 | `captive_treated_with_guarded_luxury` | captive treated with guarded luxury | 1 | hindu |
-| `captive_woman_lured_by_false_celebration` | captive woman lured by false celebration | 1 | islamicate_folklore |
 | `captives_in_a_distant_foreign_place` | captives in a distant foreign place | 1 | celtic_irish |
-| `captives_reclaimed_after_killing_their_captors` | Captives reclaimed after killing their captors | 1 | celtic_irish |
 | `captivity_and_refuge_as_image_of_status_change` | Captivity and refuge as image of status change | 1 | greek |
 | `captor_from_across_the_waves` | Captor from across the waves | 1 | celtic_irish |
 | `capture_caused_by_revealing_voice` | capture caused by revealing voice | 1 | greek |
-| `captured_prey_pleads_for_release` | captured prey pleads for release | 1 | greek |
 | `caretaker_harmed_by_those_he_cares_for` | caretaker harmed by those he cares for | 1 | greek |
-| `castaway_survives_by_clinging_to_floating_wood_and_reaching_land` | castaway survives by clinging to floating wood and reaching land | 1 | islamicate_folklore |
-| `casting_lots_to_reveal_a_hidden_offender` | Casting lots to reveal a hidden offender | 1 | islamic |
 | `catalogue_of_allied_forces_and_commanders` | Catalogue of allied forces and commanders | 1 | greek |
 | `catalogue_of_tale_telling_locations` | catalogue of tale-telling locations | 1 | buddhist |
-| `cattle_demand_as_trigger_in_a_cattle_driving_narrative` | Cattle-demand as trigger in a cattle-driving narrative | 1 | celtic_irish |
-| `cattle_driving_narrative_frame` | cattle-driving narrative frame | 1 | celtic_irish |
-| `cattle_raid_as_narrative_frame` | Cattle raid as narrative frame | 1 | celtic_irish |
-| `cattle_raid_by_youthful_raiders` | cattle raid by youthful raiders | 1 | celtic_irish |
-| `cattle_raid_ending_in_ambush_and_slaughter` | cattle raid ending in ambush and slaughter | 1 | celtic_irish |
-| `cattle_raid_resolved_by_treaty_and_restitution` | Cattle raid resolved by treaty and restitution | 1 | celtic_irish |
 | `celestial_and_monstrous_beings_taxonomy` | celestial and monstrous beings taxonomy | 1 | hindu |
-| `celestial_assistance_to_a_prophet` | celestial assistance to a prophet | 1 | islamic |
 | `celestial_musician` | celestial musician | 1 | sufi |
-| `celestial_omens_prompting_royal_action` | celestial omens prompting royal action | 1 | hindu |
 | `celestial_or_atmospheric_female_beings` | celestial or atmospheric female beings | 1 | hindu |
 | `celestial_origin_of_the_seven_sisters` | celestial origin of the Seven Sisters | 1 | indigenous_australian |
-| `celestial_performance_entrancing_human_guests` | Celestial performance entrancing human guests | 1 | hindu |
-| `celestial_placement_of_a_slain_giant_s_eyes` | celestial placement of a slain giant's eyes | 1 | norse |
 | `celestial_placement_of_people_and_objects` | celestial placement of people and objects | 1 | indigenous_australian |
 | `celestial_praise_and_ranked_angels` | celestial praise and ranked angels | 1 | islamic |
 | `celestial_pursuit_by_wolves` | Celestial pursuit by wolves | 1 | norse |
-| `celestial_reassurance_in_leaving_home` | Celestial reassurance in leaving home | 1 | finnish_karelian |
 | `ceremonial_praise_of_wedding_participants` | Ceremonial praise of wedding participants | 1 | finnish_karelian |
-| `chain_of_transferred_blame` | chain of transferred blame | 1 | islamicate_folklore |
-| `challenge_cry_draws_a_royal_opponent_from_his_stronghold` | Challenge cry draws a royal opponent from his stronghold | 1 | hindu |
-| `challenge_to_powerless_idols` | Challenge to powerless idols | 1 | islamic |
 | `challenge_to_prophetic_legitimacy_through_sexual_or_familial_conduct` | Challenge to prophetic legitimacy through sexual or familial conduct | 1 | islamic |
 | `challengers_humiliated_by_prior_defeats_recalled_in_public` | Challengers humiliated by prior defeats recalled in public | 1 | celtic_irish |
 | `champion_consumes_prodigious_portion` | champion consumes prodigious portion | 1 | celtic_irish |
-| `champion_spares_defeated_challengers` | Champion spares defeated challengers | 1 | celtic_irish |
-| `changeling_substitution_and_recovery` | changeling substitution and recovery | 1 | norse |
 | `changing_celestial_body_cannot_be_clothed` | changing celestial body cannot be clothed | 1 | greek |
-| `charioteer_as_decisive_martial_advantage` | charioteer as decisive martial advantage | 1 | hindu |
 | `charismatic_leader_commands_violent_obedience` | Charismatic leader commands violent obedience | 1 | islamic |
 | `charitable_distribution_within_ostentatious_gambling` | Charitable distribution within ostentatious gambling | 1 | islamic |
-| `charity_and_good_deeds_followed_by_heaven` | charity and good deeds followed by heaven | 1 | buddhist |
 | `charm_that_divides_spouses` | Charm that divides spouses | 1 | islamic |
-| `choice_between_unequal_perils` | Choice between unequal perils | 1 | greek |
-| `choosing_the_harder_living_capture_over_killing` | choosing the harder living capture over killing | 1 | celtic_irish |
 | `chosen_assistant_or_deputy_from_among_hesitant_kin` | chosen assistant or deputy from among hesitant kin | 1 | islamic |
-| `chosen_destiny_and_moral_responsibility` | chosen destiny and moral responsibility | 1 | greek |
 | `chosen_helpers_who_bear_witness` | chosen helpers who bear witness | 1 | islamic |
 | `chosen_twelve_as_doctrinal_propagators` | Chosen twelve as doctrinal propagators | 1 | islamic |
-| `civilization_discovered_and_lost_repeatedly` | Civilization discovered and lost repeatedly | 1 | greek |
-| `cleansing_and_healing_bath_vapors` | Cleansing and healing bath vapors | 1 | finnish_karelian |
-| `clever_figure_and_failed_imitator_pair` | clever figure and failed imitator pair | 1 | ainu |
 | `coded_recognition_at_the_sickbed` | coded recognition at the sickbed | 1 | islamicate_folklore |
-| `coerced_accomplice_in_a_deceptive_plot` | coerced accomplice in a deceptive plot | 1 | hindu |
 | `coerced_removal_by_magic_like_rod` | coerced removal by magic-like rod | 1 | celtic_irish |
 | `coerced_supernatural_labor_turns_prosperity_into_destruction` | coerced supernatural labor turns prosperity into destruction | 1 | norse |
 | `coercion_by_threat_and_blandishment` | coercion by threat and blandishment | 1 | hindu |
 | `coercion_of_supernatural_agents_by_magic` | Coercion of supernatural agents by magic | 1 | comparative |
 | `coercive_cutting_of_hair_to_overcome_resistance` | Coercive cutting of hair to overcome resistance | 1 | comparative |
 | `collective_deliberation_under_threat` | collective deliberation under threat | 1 | greek |
-| `collective_destruction_of_the_deceiving_predator` | Collective destruction of the deceiving predator | 1 | buddhist |
 | `collective_traditional_formation_of_an_epic` | Collective traditional formation of an epic | 1 | celtic_irish |
 | `collector_poet_unifying_scattered_lays_into_one_poem` | collector-poet unifying scattered lays into one poem | 1 | greek |
 | `color_origin_explanation_for_mulberry` | color-origin explanation for mulberry | 1 | roman |
 | `colour_as_affliction_sign` | Colour as affliction sign | 1 | sufi |
 | `comic_bodily_cure_through_sneezing` | Comic bodily cure through sneezing | 1 | greek |
 | `comic_or_cheerful_contrast_after_catastrophe` | comic or cheerful contrast after catastrophe | 1 | celtic_irish |
-| `comic_reversal_of_mourning` | Comic reversal of mourning | 1 | buddhist |
 | `communal_spouses_and_property_in_imagined_early_society` | Communal spouses and property in imagined early society | 1 | greek |
-| `community_founded_from_human_need` | community founded from human need | 1 | greek |
 | `community_refuses_aid_for_wrongful_act` | community refuses aid for wrongful act | 1 | indigenous_australian |
 | `community_represented_as_flourishing_seed` | Community represented as flourishing seed | 1 | islamic |
 | `companion_lured_into_trap` | companion lured into trap | 1 | greek |
 | `companions_bound_by_shared_misfortune` | Companions bound by shared misfortune | 1 | islamicate_folklore |
-| `compassionate_lament_for_condemned_outcasts` | Compassionate lament for condemned outcasts | 1 | daoist |
-| `compelled_messenger_carries_proof_of_defeat` | compelled messenger carries proof of defeat | 1 | celtic_irish |
-| `competing_or_false_prophet_defeated` | competing or false prophet defeated | 1 | sufi |
-| `competitive_inventory_of_royal_wealth` | competitive inventory of royal wealth | 1 | celtic_irish |
-| `composite_primordial_human` | composite primordial human | 1 | greek |
 | `concealed_believer_defends_the_threatened_righteous_man` | Concealed believer defends the threatened righteous man | 1 | islamic |
 | `concealed_identity_of_the_prophesied_threat` | Concealed identity of the prophesied threat | 1 | islamicate_folklore |
 | `concealed_identity_of_the_revered_poet` | concealed identity of the revered poet | 1 | persian |
-| `concealed_or_discarded_token_used_as_proof` | concealed or discarded token used as proof | 1 | celtic_irish |
 | `concealed_proof_revealed_to_expose_error` | Concealed proof revealed to expose error | 1 | greek |
-| `concealed_royal_identity_revealed_by_habitual_signs` | concealed royal identity revealed by habitual signs | 1 | norse |
 | `concealing_game_or_catch_from_its_fellows` | Concealing game or catch from its fellows | 1 | comparative |
-| `concealment_and_ill_fated_disclosure` | Concealment and ill-fated disclosure | 1 | celtic_welsh |
-| `conditional_invulnerability_with_human_exception` | conditional invulnerability with human exception | 1 | hindu |
 | `confession_extracted_by_nurse_confidante` | confession extracted by nurse-confidante | 1 | roman |
 | `conjured_banquet_before_feasting` | Conjured banquet before feasting | 1 | finnish_karelian |
 | `constitutional_and_ethical_decline` | constitutional and ethical decline | 1 | greek |
 | `constructed_clay_helper_with_inadequate_heart` | constructed clay helper with inadequate heart | 1 | norse |
 | `construction_of_an_ideal_commonwealth` | construction of an ideal commonwealth | 1 | greek |
-| `consuming_power_of_time_and_old_age` | consuming power of time and old age | 1 | roman |
 | `contagious_magic_through_severed_body_parts` | contagious magic through severed body parts | 1 | comparative |
 | `continuity_between_religious_traditions` | continuity between religious traditions | 1 | buddhist |
 | `contrasting_kind_and_cruel_elders` | contrasting kind and cruel elders | 1 | japanese |
-| `corrupt_appointment_leads_to_public_humiliation` | corrupt appointment leads to public humiliation | 1 | buddhist |
 | `corrupt_exchange_of_the_noble_for_wealth` | corrupt exchange of the noble for wealth | 1 | greek |
 | `corrupted_earlier_scripture_contrasted_with_protected_later_scripture` | Corrupted earlier scripture contrasted with protected later scripture | 1 | islamic |
-| `corruption_into_tyranny_through_seduction_and_implanted_passion` | Corruption into tyranny through seduction and implanted passion | 1 | greek |
-| `corruption_of_guardians_into_tyrants_through_private_property` | Corruption of guardians into tyrants through private property | 1 | greek |
-| `corruption_or_bypassing_of_guardians` | corruption or bypassing of guardians | 1 | roman |
-| `corruption_through_sweet_pleasure` | corruption through sweet pleasure | 1 | greek |
 | `cosmic_abundance_gathered_to_one_place` | cosmic abundance gathered to one place | 1 | hindu |
-| `cosmic_cycle_used_to_explain_existence_and_non_existence` | cosmic cycle used to explain existence and non-existence | 1 | daoist |
 | `cosmic_decree_of_impermanent_pleasure` | cosmic decree of impermanent pleasure | 1 | sufi |
 | `cosmic_dominion_praised_through_game_imagery` | cosmic dominion praised through game imagery | 1 | sufi |
-| `cosmic_partition_into_bounded_regions` | Cosmic partition into bounded regions | 1 | roman |
 | `cosmic_record_and_accumulated_anguish` | cosmic record and accumulated anguish | 1 | sufi |
-| `cosmic_response_to_the_future_buddha_s_wish` | Cosmic response to the future Buddha’s wish | 1 | buddhist |
 | `cosmic_scale_against_a_small_cast_object` | Cosmic scale against a small cast object | 1 | sufi |
-| `cosmic_stratification_of_seven_heavens` | cosmic stratification of seven heavens | 1 | islamic |
-| `cosmic_sustainer_against_collapse` | cosmic sustainer against collapse | 1 | islamic |
-| `cosmic_wheel_as_bondage` | cosmic wheel as bondage | 1 | sufi |
-| `cosmic_writing_of_decrees` | cosmic writing of decrees | 1 | islamic |
 | `counter_image_used_as_antidote_or_guarantee` | counter-image used as antidote or guarantee | 1 | comparative |
 | `counterproductive_remedy_intensifies_the_problem` | counterproductive remedy intensifies the problem | 1 | daoist |
 | `counterproductive_removal_of_a_perceived_cause` | Counterproductive removal of a perceived cause | 1 | greek |
 | `court_intrigue_through_misleading_explanation` | court intrigue through misleading explanation | 1 | hindu |
 | `crafted_human_image_lacks_animation_or_vital_functions` | Crafted human image lacks animation or vital functions | 1 | finnish_karelian |
-| `creative_breath_gives_life` | creative breath gives life | 1 | finnish_karelian |
-| `creator_assigns_reproductive_cycles_to_living_beings` | Creator assigns reproductive cycles to living beings | 1 | ainu |
 | `creator_deity_with_winged_envoys` | Creator deity with winged envoys | 1 | islamic |
-| `criminal_faction_creates_tyrant` | criminal faction creates tyrant | 1 | greek |
-| `critique_of_vicarious_holiness` | Critique of vicarious holiness | 1 | sufi |
 | `cross_cultural_analogue_notation` | cross-cultural analogue notation | 1 | daoist |
 | `cross_cultural_deity_identification` | cross-cultural deity identification | 1 | greek_roman |
 | `cross_cultural_identification_of_a_deity_with_a_local_counterpart` | Cross-cultural identification of a deity with a local counterpart | 1 | greek_roman |
 | `cross_cultural_identification_of_deities` | cross-cultural identification of deities | 1 | greek_roman |
 | `cross_cultural_renaming_of_the_same_mythic_story` | cross-cultural renaming of the same mythic story | 1 | roman |
-| `cross_traditional_lustration_by_sand_in_necessity` | cross-traditional lustration by sand in necessity | 1 | islamic |
 | `crowning_the_admired_host` | crowning the admired host | 1 | greek |
 | `crucifixion_substitute_variants` | crucifixion substitute variants | 1 | islamic |
-| `crying_or_sounding_shield_that_summons_wider_response` | Crying or sounding shield that summons wider response | 1 | celtic_irish |
-| `cryptic_written_disclosure_of_concealed_wrongdoing` | cryptic written disclosure of concealed wrongdoing | 1 | celtic_irish |
 | `cult_foundation_for_deified_former_mortal` | cult foundation for deified former mortal | 1 | roman |
-| `cunning_weak_figure_confounds_stronger_rival` | cunning weak figure confounds stronger rival | 1 | greek |
-| `cure_by_transference` | cure by transference | 1 | comparative |
 | `customary_burden_remains_after_shared_labor` | Customary burden remains after shared labor | 1 | greek |
-| `daily_champion_compact_controlling_army_movement` | daily champion compact controlling army movement | 1 | celtic_irish |
-| `daily_practice_of_extraordinary_martial_feats` | daily practice of extraordinary martial feats | 1 | celtic_irish |
-| `dawn_as_active_conqueror_of_night` | Dawn as active conqueror of night | 1 | sufi |
 | `dawn_consultation_between_host_and_guest_before_action` | dawn consultation between host and guest before action | 1 | roman |
 | `debate_over_preexistent_paradise` | debate over preexistent paradise | 1 | islamic |
-| `decapitation_of_invading_force_by_killing_three_leaders` | Decapitation of invading force by killing three leaders | 1 | celtic_irish |
-| `deceitful_dispossession_through_gaming` | Deceitful dispossession through gaming | 1 | hindu |
 | `deception_or_cunning_indicated_by_titles` | deception or cunning indicated by titles | 1 | buddhist |
 | `deceptive_adversaries_of_prophets` | deceptive adversaries of prophets | 1 | islamic |
 | `deceptive_adversaries_opposing_prophetic_mission` | deceptive adversaries opposing prophetic mission | 1 | islamic |
-| `deceptive_bargain_exposed_by_counter_stratagem` | deceptive bargain exposed by counter-stratagem | 1 | buddhist |
 | `deceptive_concealment_after_magical_harm` | deceptive concealment after magical harm | 1 | celtic_irish |
 | `deceptive_exchange_using_a_decoy_and_promised_woman` | deceptive exchange using a decoy and promised woman | 1 | celtic_irish |
-| `deceptive_flattery_exposed_and_rejected` | deceptive flattery exposed and rejected | 1 | buddhist |
 | `deceptive_food_hides_a_harmful_object` | Deceptive food hides a harmful object | 1 | finnish_karelian |
 | `deceptive_food_with_a_hidden_harmful_object` | Deceptive food with a hidden harmful object | 1 | finnish_karelian |
 | `deceptive_fortune` | Deceptive Fortune | 1 | sufi |
-| `deceptive_hollow_image_concealing_enemies` | deceptive hollow image concealing enemies | 1 | roman |
-| `deceptive_image_mistaken_for_reality` | Deceptive image mistaken for reality | 1 | greek |
-| `deceptive_liberator_becomes_tyrant` | deceptive liberator becomes tyrant | 1 | greek |
-| `deceptive_power_of_illusion` | deceptive power of illusion | 1 | greek |
-| `deceptive_provocation_to_secure_a_champion_s_pledge` | deceptive provocation to secure a champion's pledge | 1 | celtic_irish |
 | `deceptive_speaker_as_destroyer_of_land` | deceptive speaker as destroyer of land | 1 | islamic |
-| `deceptive_substitution_of_one_thing_for_another` | deceptive substitution of one thing for another | 1 | greek |
 | `deceptive_supernatural_agent_creates_or_restores_cult_images` | deceptive supernatural agent creates or restores cult images | 1 | islamic |
-| `deceptive_supernatural_spouse_who_consumes_the_human_partner` | deceptive supernatural spouse who consumes the human partner | 1 | buddhist |
-| `decline_across_generations_into_tyranny` | decline across generations into tyranny | 1 | greek |
-| `decline_through_corrupted_generation` | decline through corrupted generation | 1 | greek |
 | `decline_through_successive_metallic_ages` | decline through successive metallic ages | 1 | roman |
 | `declining_ages_of_humankind` | Declining ages of humankind | 1 | greek_roman |
-| `deeds_bear_delayed_consequences` | Deeds bear delayed consequences | 1 | hindu |
-| `defeat_of_champion_prompts_escalation` | Defeat of champion prompts escalation | 1 | hindu |
 | `defeated_adversary_becomes_sworn_ally` | defeated adversary becomes sworn ally | 1 | celtic_welsh |
-| `defeated_demon_chief_submits_by_losing_horns` | Defeated demon chief submits by losing horns | 1 | japanese |
-| `defeated_elder_summons_younger_champion` | defeated elder summons younger champion | 1 | hindu |
-| `defeated_giant_petrified_into_a_monument` | defeated giant petrified into a monument | 1 | norse |
-| `defeated_offender_compelled_to_make_courtly_satisfaction` | defeated offender compelled to make courtly satisfaction | 1 | celtic_welsh |
-| `defeated_opponent_spared_and_sent_as_messenger` | defeated opponent spared and sent as messenger | 1 | celtic_welsh |
-| `defeated_opponent_spared_on_condition_of_public_atonement` | defeated opponent spared on condition of public atonement | 1 | celtic_welsh |
 | `defeated_rival_gains_by_another_s_downfall` | Defeated rival gains by another's downfall | 1 | greek |
 | `defenders_casting_stones_and_a_great_block_from_the_wall` | defenders casting stones and a great block from the wall | 1 | roman |
-| `deification_condemned_as_idolatry` | deification condemned as idolatry | 1 | islamic |
 | `deification_of_revered_religious_leaders` | deification of revered religious leaders | 1 | islamic |
-| `deities_as_patrons_of_temporal_human_needs` | Deities as patrons of temporal human needs | 1 | finnish_karelian |
-| `deity_causing_sudden_panic_by_terrifying_voice` | deity causing sudden panic by terrifying voice | 1 | greek_roman |
-| `deity_encompassing_creator_preserver_and_destroyer` | Deity encompassing creator, preserver, and destroyer | 1 | hindu |
-| `deity_honoured_through_dramatic_festival` | deity honoured through dramatic festival | 1 | greek_roman |
 | `deity_incarnate_in_a_human_medium_or_avatar` | deity incarnate in a human medium or avatar | 1 | comparative |
 | `deity_incarnate_in_the_intoxicated_votary` | deity incarnate in the intoxicated votary | 1 | comparative |
 | `deity_praised_by_natural_and_human_singers` | deity praised by natural and human singers | 1 | greek |
-| `deity_s_favour_and_displeasure_control_fertility_and_famine` | Deity’s favour and displeasure control fertility and famine | 1 | greek_roman |
 | `delay_outlasts_opposition` | delay outlasts opposition | 1 | greek |
 | `delayed_aid_after_burned_dwelling` | Delayed aid after burned dwelling | 1 | buddhist |
 | `delayed_consequence_after_escaped_antagonist` | Delayed consequence after escaped antagonist | 1 | celtic_irish |
 | `delayed_cutting_of_girls_nails_with_consequence_explanation` | Delayed cutting of girls' nails with consequence explanation | 1 | comparative |
 | `delayed_private_recognition_or_disclosure` | delayed private recognition or disclosure | 1 | greek |
-| `deliverance_from_fiery_peril` | deliverance from fiery peril | 1 | islamic |
-| `deliverance_from_peril_followed_by_ingratitude` | Deliverance from peril followed by ingratitude | 1 | islamic |
-| `delivered_righteous_remnant` | Delivered righteous remnant | 1 | islamic |
-| `demand_for_a_validating_sign` | Demand for a validating sign | 1 | islamic |
 | `demand_for_concealed_communal_arrangements` | demand for concealed communal arrangements | 1 | greek |
-| `demand_for_extraordinary_signs_from_a_human_messenger` | Demand for extraordinary signs from a human messenger | 1 | islamic |
-| `demand_for_heavenly_written_proof` | demand for heavenly written proof | 1 | islamic |
-| `demand_for_revelatory_sign` | Demand for revelatory sign | 1 | islamic |
-| `demand_for_tangible_or_angelic_proof_rejected` | Demand for tangible or angelic proof rejected | 1 | islamic |
-| `demon_obstructing_communication_and_expelled_by_wine` | demon obstructing communication and expelled by wine | 1 | celtic_welsh |
-| `demonic_storyteller_frame` | Demonic storyteller frame | 1 | buddhist |
 | `denial_of_human_free_agency` | denial of human free agency | 1 | islamic |
 | `denial_or_avoidance_of_the_crucifixion` | Denial or avoidance of the Crucifixion | 1 | islamic |
 | `dependent_motion_through_hidden_causes` | dependent motion through hidden causes | 1 | daoist |
-| `dependent_young_spared_through_intercession` | dependent young spared through intercession | 1 | buddhist |
 | `deprivation_and_restoration_of_a_shared_sense_object` | deprivation and restoration of a shared sense-object | 1 | greek_roman |
-| `desolate_capital_as_omen_of_disaster` | desolate capital as omen of disaster | 1 | hindu |
 | `destined_defeat_of_sorceresses_by_former_pupil` | destined defeat of sorceresses by former pupil | 1 | celtic_welsh |
 | `destiny_in_popular_pictorial_elaboration` | Destiny in popular pictorial elaboration | 1 | daoist |
-| `destruction_followed_by_replacement_generations` | Destruction followed by replacement generations | 1 | islamic |
-| `destruction_of_harmful_image_or_statue` | Destruction of harmful image or statue | 1 | islamicate_folklore |
 | `destruction_of_idols_after_miraculous_proof` | destruction of idols after miraculous proof | 1 | islamic |
-| `destructive_erotic_attachment` | destructive erotic attachment | 1 | greek |
 | `destructive_female_lure` | Destructive female lure | 1 | buddhist |
 | `destructive_overuse_of_strength_and_magic_in_assigned_labor` | destructive overuse of strength and magic in assigned labor | 1 | finnish_karelian |
-| `destructive_servant_subverts_assigned_tasks` | destructive servant subverts assigned tasks | 1 | finnish_karelian |
-| `devastation_avenged_by_champion` | devastation avenged by champion | 1 | celtic_irish |
 | `development_from_inspired_prophet_to_political_founder` | development from inspired prophet to political founder | 1 | islamic |
-| `devil_as_betrayer_of_humanity` | Devil as betrayer of humanity | 1 | islamic |
-| `didactic_past_life_identification` | didactic past-life identification | 1 | buddhist |
 | `different_reception_of_similar_behavior` | different reception of similar behavior | 1 | greek |
-| `diminished_survivor_of_a_vanished_company` | diminished survivor of a vanished company | 1 | celtic_irish |
-| `diplomatic_gift_before_interview` | Diplomatic gift before interview | 1 | hindu |
-| `directional_guardian_deities` | directional guardian deities | 1 | hindu |
 | `disarming_rivals_before_vengeance` | disarming rivals before vengeance | 1 | greek |
 | `discordant_object_introduced_at_a_wedding_feast` | Discordant object introduced at a wedding feast | 1 | greek_roman |
 | `dishonest_custodian_denies_entrusted_property_through_impossible_explanation` | dishonest custodian denies entrusted property through impossible explanation | 1 | buddhist |
-| `disloyal_retainers_refuse_substitution_for_their_lord` | Disloyal retainers refuse substitution for their lord | 1 | celtic_welsh |
-| `dismemberment_as_admonitory_example` | dismemberment as admonitory example | 1 | roman |
-| `disputed_prize_settled_through_public_arbitration` | disputed prize settled through public arbitration | 1 | greek |
 | `disputed_royal_or_civic_compilation_of_epic_tradition` | disputed royal or civic compilation of epic tradition | 1 | greek |
 | `disputed_solar_identification_of_a_deity` | disputed solar identification of a deity | 1 | comparative |
-| `disrespect_before_failed_imitation` | disrespect before failed imitation | 1 | ainu |
-| `distant_perception_of_kin_s_distress` | Distant perception of kin's distress | 1 | celtic_irish |
-| `distinguishing_coerced_dependents_from_culpable_enemies` | distinguishing coerced dependents from culpable enemies | 1 | greek |
 | `divergent_manuscript_endings` | divergent manuscript endings | 1 | celtic_irish |
-| `divination_by_burning_branch` | divination by burning branch | 1 | finnish_karelian |
-| `divination_by_lots_prohibited` | divination by lots prohibited | 1 | islamic |
-| `divination_with_yew_wands` | divination with yew wands | 1 | celtic_irish |
 | `divinatory_arrows_held_by_cult_images` | divinatory arrows held by cult images | 1 | islamic |
-| `divinity_grants_sleep_after_lamentation` | divinity grants sleep after lamentation | 1 | greek |
-| `echoed_lament_and_farewell` | echoed lament and farewell | 1 | roman |
 | `edible_idol_consumed_under_famine` | edible idol consumed under famine | 1 | islamic |
 | `editorially_proposed_cross_cultural_fable_transfer` | Editorially proposed cross-cultural fable transfer | 1 | roman |
-| `education_as_an_indelible_imprint` | education as an indelible imprint | 1 | greek |
 | `effigy_fragments_as_fertility_charms` | Effigy fragments as fertility charms | 1 | comparative |
-| `effigy_or_container_receives_evil_and_is_destroyed` | Effigy or container receives evil and is destroyed | 1 | comparative |
-| `eloquence_represented_as_golden_chains_from_the_mouth` | eloquence represented as golden chains from the mouth | 1 | greek_roman |
 | `eloquent_envoy_mediates_alliance` | eloquent envoy mediates alliance | 1 | hindu |
 | `embedded_magical_or_exemplary_object_in_later_literature` | Embedded magical or exemplary object in later literature | 1 | buddhist |
-| `embedded_tale_within_judicial_inquiry` | embedded tale within judicial inquiry | 1 | islamicate_folklore |
 | `enchanted_drink_causing_sleep_at_a_feast` | Enchanted drink causing sleep at a feast | 1 | celtic_irish |
-| `enchanted_gaze_at_wondrous_apparition` | enchanted gaze at wondrous apparition | 1 | hindu |
-| `enchanted_hunt_leading_to_disorientation` | Enchanted hunt leading to disorientation | 1 | celtic_irish |
-| `enchanted_lodging_as_trap` | enchanted lodging as trap | 1 | celtic_irish |
 | `enchanted_music_compels_procession` | Enchanted music compels procession | 1 | norse |
 | `enchanted_music_that_causes_sleep` | Enchanted music that causes sleep | 1 | celtic_irish |
 | `enchanted_music_used_within_captivity` | Enchanted music used within captivity | 1 | celtic_irish |
-| `enchanted_object_that_immobilizes_the_toucher` | enchanted object that immobilizes the toucher | 1 | celtic_welsh |
-| `enchanted_prevention_of_landing` | Enchanted prevention of landing | 1 | celtic_irish |
 | `enchanted_sleep_prevents_a_meeting` | enchanted sleep prevents a meeting | 1 | celtic_irish |
-| `enchanted_sleep_prevents_the_promised_union` | Enchanted sleep prevents the promised union | 1 | celtic_irish |
-| `enchanted_slumber_or_captivity_imposed_by_elves` | enchanted slumber or captivity imposed by elves | 1 | celtic_irish |
 | `enchanted_woman_as_interlocutor` | enchanted woman as interlocutor | 1 | celtic_irish |
 | `enchanting_music_that_attracts_living_beings` | Enchanting music that attracts living beings | 1 | norse |
-| `enchanting_supernatural_music` | Enchanting supernatural music | 1 | celtic_irish |
 | `enchantress_using_magic_against_a_resisting_man` | enchantress using magic against a resisting man | 1 | roman |
 | `enclosed_refuge_in_the_wood` | enclosed refuge in the wood | 1 | celtic_irish |
-| `encounter_with_an_obscured_opponent_in_mist` | encounter with an obscured opponent in mist | 1 | celtic_irish |
-| `encounter_with_apparitions` | encounter with apparitions | 1 | celtic_irish |
 | `encounter_with_eyeless_people_who_see_by_another_organ` | Encounter with eyeless people who see by another organ | 1 | indigenous_australian |
 | `endurance_through_address_to_the_heart` | endurance through address to the heart | 1 | greek |
-| `engineered_kin_vengeance_through_a_doomed_challenger` | engineered kin-vengeance through a doomed challenger | 1 | celtic_irish |
 | `entangling_many_limbed_creature` | entangling many-limbed creature | 1 | roman |
 | `entrusted_treasure_hidden_in_ordinary_container_becomes_disputed_property` | entrusted treasure hidden in ordinary container becomes disputed property | 1 | islamicate_folklore |
 | `envious_imitation_of_a_beneficent_marvel_fails` | Envious imitation of a beneficent marvel fails | 1 | japanese |
@@ -7435,7 +7203,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `envy_leading_to_failed_imitation` | envy leading to failed imitation | 1 | greek |
 | `epic_catalogue_of_forces` | Epic catalogue of forces | 1 | greek |
 | `eponymous_progenitors_of_peoples` | eponymous progenitors of peoples | 1 | greek_roman |
-| `escalating_invocation_of_stronger_helpers` | Escalating invocation of stronger helpers | 1 | finnish_karelian |
 | `escape_from_captivity_ending_in_fatal_entanglement` | escape from captivity ending in fatal entanglement | 1 | greek |
 | `escape_from_fiery_iron_enclosure` | Escape from fiery iron enclosure | 1 | celtic_welsh |
 | `escape_plan_by_improvised_rafts` | Escape plan by improvised rafts | 1 | islamicate_folklore |
@@ -7444,173 +7211,86 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ethnic_taunt_opposing_martial_masculinity_to_luxurious_cultic_softness` | ethnic taunt opposing martial masculinity to luxurious cultic softness | 1 | roman |
 | `etiological_color_change` | etiological color change | 1 | roman |
 | `etiological_explanation_for_a_valley_of_madness` | etiological explanation for a valley of madness | 1 | celtic_irish |
-| `etiological_explanation_of_bear_s_human_likeness` | Etiological explanation of bear's human likeness | 1 | ainu |
 | `etiological_explanation_of_galah_bald_patch_and_red_prickly_lizard` | etiological explanation of Galah bald patch and red prickly lizard | 1 | indigenous_australian |
 | `etiological_explanation_of_natural_phenomena` | etiological explanation of natural phenomena | 1 | ainu |
 | `etiological_naming_from_supernatural_events` | Etiological naming from supernatural events | 1 | celtic_irish |
 | `etiological_naming_from_violent_event` | etiological naming from violent event | 1 | celtic_irish |
-| `etiology_of_an_abundance_horn` | etiology of an abundance horn | 1 | roman |
-| `etiology_of_echo_as_surviving_voice` | Etiology of echo as surviving voice | 1 | greek_roman |
 | `etiology_of_echoing_sound` | etiology of echoing sound | 1 | roman |
-| `exceptional_booty_rule_based_on_mode_of_expedition` | exceptional booty rule based on mode of expedition | 1 | islamic |
 | `exceptional_marital_privilege_of_a_prophet` | exceptional marital privilege of a prophet | 1 | islamic |
-| `excess_as_cause_of_decay` | excess as cause of decay | 1 | greek |
 | `excessive_response_to_exemplary_withdrawal` | excessive response to exemplary withdrawal | 1 | daoist |
-| `exchange_of_arms_becomes_fatal_exchange` | exchange of arms becomes fatal exchange | 1 | celtic_irish |
-| `exclusive_devotion_and_rejection_of_idols` | Exclusive devotion and rejection of idols | 1 | islamic |
-| `exclusive_devotion_to_the_one_lord` | Exclusive devotion to the one Lord | 1 | islamic |
 | `execution_of_disloyal_serving_women` | execution of disloyal serving women | 1 | greek |
-| `exemption_of_the_incapable_and_blame_of_the_able_who_refuse` | exemption of the incapable and blame of the able who refuse | 1 | islamic |
 | `exhortation_to_comrades_before_renewed_effort` | exhortation to comrades before renewed effort | 1 | roman |
 | `expanded_antagonist_backstory_before_main_action` | expanded antagonist backstory before main action | 1 | hindu |
 | `expelled_adversary_granted_delay` | expelled adversary granted delay | 1 | islamic |
 | `expert_art_cares_for_its_object` | expert art cares for its object | 1 | greek |
-| `expiation_before_restored_union` | Expiation before restored union | 1 | islamic |
-| `expiation_for_accidental_bloodshed` | Expiation for accidental bloodshed | 1 | islamic |
-| `expiation_for_killing_through_payment_liberation_or_fasting` | expiation for killing through payment, liberation, or fasting | 1 | islamic |
 | `extraordinary_companions_with_superhuman_locomotion` | extraordinary companions with superhuman locomotion | 1 | celtic_welsh |
-| `extraordinary_or_supernatural_ability_of_a_sage_figure` | extraordinary or supernatural ability of a sage figure | 1 | daoist |
 | `extraordinary_speed_and_reversed_race` | Extraordinary speed and reversed race | 1 | celtic_irish |
 | `eyewitness_authentication_of_a_fictional_marvel` | eyewitness authentication of a fictional marvel | 1 | greek |
 | `face_saving_reinterpretation_of_loss` | face-saving reinterpretation of loss | 1 | greek |
-| `failed_guardian_punished_after_youth_s_peril` | failed guardian punished after youth’s peril | 1 | islamicate_folklore |
 | `failed_invincible_spell` | failed invincible spell | 1 | hindu |
-| `failed_kin_slaying_plot_before_restoration_of_inheritance` | Failed kin-slaying plot before restoration of inheritance | 1 | hindu |
-| `failed_magical_or_musical_lure_replaced_by_practical_action` | failed magical or musical lure replaced by practical action | 1 | greek |
-| `failed_parley_followed_by_siege_of_a_fortified_dwelling` | Failed parley followed by siege of a fortified dwelling | 1 | celtic_irish |
 | `failed_persuasion_to_normalize_a_defect` | failed persuasion to normalize a defect | 1 | greek |
 | `failed_recognition_in_a_place_of_revelry` | failed recognition in a place of revelry | 1 | hindu |
-| `failed_supplication_for_mercy` | failed supplication for mercy | 1 | roman |
-| `failure_to_read_signs_of_crisis` | failure to read signs of crisis | 1 | greek |
-| `fairy_vengeance` | fairy vengeance | 1 | celtic_irish |
 | `faith_conquers_military_conquerors` | faith conquers military conquerors | 1 | islamic |
-| `faithful_admonisher_delivered_from_hostile_designs` | Faithful admonisher delivered from hostile designs | 1 | islamic |
-| `faithful_captive_refuses_captor` | faithful captive refuses captor | 1 | hindu |
 | `faithful_captive_refuses_improper_rescue` | faithful captive refuses improper rescue | 1 | hindu |
-| `faithful_defiance_before_temporal_power` | faithful defiance before temporal power | 1 | islamic |
 | `faithful_minority_advises_trust_against_overwhelming_inhabitants` | Faithful minority advises trust against overwhelming inhabitants | 1 | islamic |
 | `faithful_preservation_of_an_epic_tradition` | faithful preservation of an epic tradition | 1 | celtic_irish |
-| `faithful_remnant_contrasted_with_those_left_behind` | faithful remnant contrasted with those left behind | 1 | islamic |
-| `faithful_servant_asks_to_share_the_lord_s_banishment` | faithful servant asks to share the lord's banishment | 1 | hindu |
 | `faithful_servant_spares_intended_victim_and_hides_her` | faithful servant spares intended victim and hides her | 1 | japanese |
 | `faithful_wives_attain_heaven_and_glory` | Faithful wives attain heaven and glory | 1 | hindu |
 | `fall_from_court_through_stratagem` | Fall from court through stratagem | 1 | sufi |
-| `fall_from_former_status` | fall from former status | 1 | greek |
 | `fall_from_lesser_bondage_into_harsher_bondage` | fall from lesser bondage into harsher bondage | 1 | greek |
 | `fall_into_a_well_through_inattention` | Fall into a well through inattention | 1 | greek |
-| `fallen_chief_protected_by_companions` | fallen chief protected by companions | 1 | greek |
-| `fallen_fighter_s_resurgence_and_reversal` | fallen fighter’s resurgence and reversal | 1 | roman |
-| `fallen_youth_compared_to_a_plucked_flower` | Fallen youth compared to a plucked flower | 1 | roman |
 | `false_abstainer_revealed_through_intoxication` | false abstainer revealed through intoxication | 1 | islamicate_folklore |
 | `false_accusation_after_rejected_sexual_advance` | false accusation after rejected sexual advance | 1 | comparative |
 | `false_accusation_by_planted_tokens_and_forged_message` | False accusation by planted tokens and forged message | 1 | greek_roman |
-| `false_accusation_reversed_onto_accuser` | false accusation reversed onto accuser | 1 | buddhist |
 | `false_accusation_supported_by_planted_treasure` | False accusation supported by planted treasure | 1 | roman |
 | `false_alarm_spreading_through_repeated_report` | false alarm spreading through repeated report | 1 | buddhist |
 | `false_all_wise_enchanter` | False all-wise enchanter | 1 | greek |
 | `false_alliance_and_abandoned_allies` | false alliance and abandoned allies | 1 | islamic |
 | `false_alliance_leading_to_destruction` | false alliance leading to destruction | 1 | greek |
 | `false_allies_abandon_those_they_promise_to_help` | false allies abandon those they promise to help | 1 | islamic |
-| `false_bargain_with_a_stronger_predator` | false bargain with a stronger predator | 1 | greek |
-| `false_captivity_and_escape_tale` | false captivity and escape tale | 1 | greek |
 | `false_companion_abandons_ally_in_crisis` | False companion abandons ally in crisis | 1 | buddhist |
-| `false_courage_against_a_powerless_substitute` | false courage against a powerless substitute | 1 | greek |
-| `false_dawn_before_true_dawn` | false dawn before true dawn | 1 | sufi |
 | `false_friends_abandon_a_ruined_patron` | false friends abandon a ruined patron | 1 | islamicate_folklore |
-| `false_hospitality_conceals_predation` | False hospitality conceals predation | 1 | greek |
 | `false_inference_about_hidden_treasure_inside_a_living_source` | false inference about hidden treasure inside a living source | 1 | greek |
 | `false_marital_claim_over_captive_woman` | false marital claim over captive woman | 1 | islamicate_folklore |
-| `false_omen_exposed` | False omen exposed | 1 | greek |
-| `false_or_conflicting_succession_through_secret_appointments` | false or conflicting succession through secret appointments | 1 | sufi |
 | `false_or_denied_intercession` | false or denied intercession | 1 | islamic |
-| `false_or_premature_condemnation_corrected_by_proper_inquiry` | False or premature condemnation corrected by proper inquiry | 1 | buddhist |
-| `false_prophet_exposed_and_overthrown` | false prophet exposed and overthrown | 1 | islamic |
 | `false_reassurance_in_the_face_of_worsening_illness` | false reassurance in the face of worsening illness | 1 | greek |
 | `false_security_created_by_delayed_harm` | false security created by delayed harm | 1 | greek |
-| `false_teachers_serving_tyranny` | False teachers serving tyranny | 1 | greek |
 | `false_tears_and_praised_wrongdoing` | false tears and praised wrongdoing | 1 | roman |
 | `false_textual_alteration_exposed_before_public_assembly` | False textual alteration exposed before public assembly | 1 | sufi |
 | `false_voice_separates_protector_from_protected_figure` | false voice separates protector from protected figure | 1 | hindu |
 | `fantasy_of_wealth_from_a_small_possession` | fantasy of wealth from a small possession | 1 | islamicate_folklore |
 | `fatal_binding_of_unequal_companions` | Fatal binding of unequal companions | 1 | greek |
-| `fatal_boar_hunt` | fatal boar hunt | 1 | celtic_irish |
-| `fatal_disregard_of_a_guiding_middle_path` | Fatal disregard of a guiding middle path | 1 | roman |
-| `fatal_distraction_by_supernatural_radiance` | fatal distraction by supernatural radiance | 1 | finnish_karelian |
 | `fatal_gift_delivered_by_an_unsuspecting_messenger` | fatal gift delivered by an unsuspecting messenger | 1 | roman |
 | `fatal_music_from_a_supernatural_harp` | Fatal music from a supernatural harp | 1 | celtic_irish |
 | `fatal_prognosis_punished_by_the_patient` | fatal prognosis punished by the patient | 1 | celtic_irish |
-| `fatal_pursuit_of_splendid_spoils` | fatal pursuit of splendid spoils | 1 | roman |
 | `fatal_reversal_of_expected_abundance` | fatal reversal of expected abundance | 1 | ainu |
-| `fatal_sight_of_a_powerful_being` | fatal sight of a powerful being | 1 | indigenous_australian |
-| `fate_as_true_conqueror` | fate as true conqueror | 1 | hindu |
-| `fate_inscribed_by_heaven` | fate inscribed by heaven | 1 | sufi |
-| `fate_noose_around_a_doomed_army` | fate-noose around a doomed army | 1 | hindu |
-| `fates_weaving_destiny` | Fates weaving destiny | 1 | greek |
 | `feast_abundance_measured_by_many_oxen` | feast abundance measured by many oxen | 1 | celtic_irish |
-| `feast_leading_to_supernatural_hunting_challenge` | feast leading to supernatural hunting challenge | 1 | celtic_irish |
-| `feigning_ignorance_to_lure_the_guilty_party` | Feigning ignorance to lure the guilty party | 1 | japanese |
 | `fertile_highland_against_barren_desert` | Fertile highland against barren desert | 1 | islamic |
 | `festive_masquerade` | festive masquerade | 1 | greek_roman |
-| `feud_resolved_by_peace_agreement` | feud resolved by peace agreement | 1 | celtic_irish |
-| `fiery_angelic_beings_with_assigned_offices` | fiery angelic beings with assigned offices | 1 | islamic |
-| `fiery_origin_of_djinn` | Fiery origin of djinn | 1 | islamic |
-| `fiery_pit_as_instrument_of_religious_persecution` | fiery pit as instrument of religious persecution | 1 | islamic |
 | `figures_introduced_from_one_narrative_cycle_into_another` | Figures introduced from one narrative cycle into another | 1 | celtic_irish |
-| `filial_and_hierarchical_reverence_through_touching_feet` | filial and hierarchical reverence through touching feet | 1 | hindu |
 | `filial_loyalty_against_maternal_ambition` | filial loyalty against maternal ambition | 1 | hindu |
-| `filial_piety_and_grateful_maturity` | Filial piety and grateful maturity | 1 | islamic |
-| `final_duel_of_life_long_rivals` | Final duel of life-long rivals | 1 | hindu |
 | `final_prophet_after_earlier_prophets` | final prophet after earlier prophets | 1 | islamic |
-| `first_believer_affirms_prophet_s_mission` | first believer affirms prophet's mission | 1 | islamic |
 | `first_pair_and_origin_of_spouse` | first pair and origin of spouse | 1 | islamic |
 | `floral_lure_for_a_female_figure` | Floral lure for a female figure | 1 | greek |
-| `flower_as_model_of_endurance_through_loss` | flower as model of endurance through loss | 1 | sufi |
 | `folk_tradition_preserved_by_conquered_peoples_beside_aristocratic_court_literature` | Folk tradition preserved by conquered peoples beside aristocratic court literature | 1 | celtic_irish |
 | `folktale_circulating_under_varied_guises` | Folktale circulating under varied guises | 1 | buddhist |
-| `following_the_master_s_footsteps` | following the master’s footsteps | 1 | greek |
 | `fool_elevated_to_power` | fool elevated to power | 1 | persian |
 | `foolish_official_causes_communal_or_economic_loss` | Foolish official causes communal or economic loss | 1 | buddhist |
-| `forced_duel_between_comrades` | forced duel between comrades | 1 | celtic_irish |
-| `ford_obstruction_delaying_pursuit_or_attack` | Ford obstruction delaying pursuit or attack | 1 | celtic_irish |
-| `foredoomed_borrowing_of_arms` | foredoomed borrowing of arms | 1 | greek |
-| `foreign_host_invades_to_impose_tribute` | Foreign host invades to impose tribute | 1 | celtic_irish |
-| `forest_beings_invoked_as_witnesses_and_protectors` | forest beings invoked as witnesses and protectors | 1 | hindu |
 | `forest_hermitage_established_in_an_auspicious_natural_setting` | forest hermitage established in an auspicious natural setting | 1 | hindu |
-| `forest_obstruction_removed_for_supernatural_sight` | forest obstruction removed for supernatural sight | 1 | celtic_irish |
-| `forest_powers_as_herd_guardians` | forest powers as herd guardians | 1 | finnish_karelian |
-| `foretelling_fulfilled_in_old_age` | foretelling fulfilled in old age | 1 | celtic_irish |
-| `foretelling_or_announcing_armed_conflict` | foretelling or announcing armed conflict | 1 | celtic_irish |
 | `foretold_conjunction_of_northern_man_and_southern_woman` | foretold conjunction of northern man and southern woman | 1 | celtic_irish |
-| `foretold_dwelling_in_the_wilderness` | Foretold dwelling in the wilderness | 1 | hindu |
-| `forgiveness_if_enemies_desist` | forgiveness if enemies desist | 1 | islamic |
 | `forgotten_intercession_delays_release` | forgotten intercession delays release | 1 | islamic |
-| `former_act_produces_present_miracle` | Former act produces present miracle | 1 | buddhist |
-| `former_companions_forced_into_duel` | former companions forced into duel | 1 | celtic_irish |
-| `former_comrades_become_mortal_opponents` | former comrades become mortal opponents | 1 | celtic_irish |
 | `former_deeds_shaping_present_fate` | Former deeds shaping present fate | 1 | hindu |
 | `former_existence_of_mankind` | Former existence of mankind | 1 | greek |
 | `former_life_antagonist_repeats_hostility` | former-life antagonist repeats hostility | 1 | buddhist |
 | `formulaic_repetition_in_epic_poetry` | Formulaic repetition in epic poetry | 1 | hindu |
-| `fortress_sack_with_captives_treasure_and_cattle_taken` | Fortress sack with captives, treasure, and cattle taken | 1 | celtic_irish |
 | `fortunate_removal_contrasted_with_failed_imitation` | Fortunate removal contrasted with failed imitation | 1 | japanese |
 | `fortune_as_unstable_wheel_or_ball` | fortune as unstable wheel or ball | 1 | greek_roman |
-| `fosterage_with_reciprocal_obligation` | Fosterage with reciprocal obligation | 1 | celtic_welsh |
-| `found_writing_with_contents_suited_to_one_hearer_but_not_another` | found writing with contents suited to one hearer but not another | 1 | greek |
-| `foundation_text_of_a_cultural_past` | foundation text of a cultural past | 1 | norse |
-| `founding_myth_as_noble_lie` | Founding myth as noble lie | 1 | greek |
-| `founding_of_a_community_from_mutual_need` | Founding of a community from mutual need | 1 | greek |
 | `four_differently_colored_enchanted_fish` | four differently colored enchanted fish | 1 | islamicate_folklore |
 | `fragile_false_refuge` | Fragile false refuge | 1 | islamic |
 | `fragmentation_of_a_unified_authorial_work_by_skeptical_critics` | fragmentation of a unified authorial work by skeptical critics | 1 | greek |
-| `framed_past_life_exemplum` | framed past-life exemplum | 1 | buddhist |
 | `fraud_exposed_by_makers_of_the_false_treasure` | fraud exposed by makers of the false treasure | 1 | japanese |
 | `freedom_preferred_to_secure_confinement` | Freedom preferred to secure confinement | 1 | daoist |
 | `freedom_without_civic_necessity` | Freedom without civic necessity | 1 | greek |
-| `friend_versus_friend_duel` | friend versus friend duel | 1 | celtic_irish |
-| `funeral_duty_following_lamentation` | funeral duty following lamentation | 1 | hindu |
-| `futile_striving_against_one_s_own_shadow` | futile striving against one’s own shadow | 1 | daoist |
-| `futility_of_human_effort_against_decree` | futility of human effort against decree | 1 | sufi |
-| `giants_as_makers_of_landscape_features` | giants as makers of landscape features | 1 | norse |
 | `giants_hostile_to_christian_sound` | Giants hostile to Christian sound | 1 | norse |
 | `giants_hurl_stones_at_fleeing_humans` | Giants hurl stones at fleeing humans | 1 | islamicate_folklore |
 | `gigantic_expansion_revealing_latent_power` | gigantic expansion revealing latent power | 1 | hindu |

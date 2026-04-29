@@ -19,6 +19,8 @@ options = {
   dry_run: false
 }
 
+AUTO_ACCEPT_CONFIDENCE = %w[medium high].freeze
+
 OptionParser.new do |parser|
   parser.banner = "usage: ruby scripts/apply_normalization_suggestion_acceptance.rb --run-id RUN_ID [options]"
   parser.on("--run-id RUN_ID", "Normalization suggestion run id") { |value| options[:run_id] = value }
@@ -126,18 +128,18 @@ suggestions.sort_by { |suggestion| suggestion["motif_id"].to_s }.each do |sugges
     next
   end
 
-  if action == "map_to_existing_group" && confidence == "high" && known_groups[group_id]
+  if action == "map_to_existing_group" && AUTO_ACCEPT_CONFIDENCE.include?(confidence) && known_groups[group_id]
     raw_index[motif_id] = {
       "group_id" => group_id,
       "relationship" => suggestion["relationship"].to_s,
       "confidence" => confidence,
-      "review_status" => "model_auto_accepted_high_confidence",
+      "review_status" => "model_auto_accepted_medium_or_high_confidence",
       "source" => relative_path(suggestions_path),
       "accepted_on" => TODAY,
       "notes" => [suggestion["rationale"].to_s, suggestion["cautions"].to_s].reject(&:empty?).join(" Caution: "),
       "suggested_aliases" => Array(suggestion["suggested_aliases"]).map(&:to_s)
     }
-    accepted << review_row(suggestion, "auto-accepted high-confidence existing-group placement")
+    accepted << review_row(suggestion, "auto-accepted medium-or-high-confidence existing-group placement")
   else
     reason =
       if action == "new_group_candidate"
@@ -151,7 +153,7 @@ suggestions.sort_by { |suggestion| suggestion["motif_id"].to_s }.each do |sugges
       elsif action == "map_to_existing_group" && !known_groups[group_id]
         "suggested group is not present in main taxonomy"
       else
-        "not high-confidence existing-group placement"
+        "not medium-or-high-confidence existing-group placement"
       end
     review_needed << review_row(suggestion, reason)
   end
@@ -161,7 +163,7 @@ normalization["updated_on"] = TODAY if accepted.any?
 normalization["normalization_suggestion_acceptance"] = {
   "updated_on" => TODAY,
   "latest_run_id" => run_id,
-  "policy" => "Auto-accept only high-confidence map_to_existing_group suggestions whose target group already exists. Stage all new-group, exclusion, low-confidence, medium-confidence, and human-review suggestions separately.",
+  "policy" => "Auto-accept medium-or-high-confidence map_to_existing_group suggestions whose target group already exists. Stage all new-group, exclusion, low-confidence, and human-review suggestions separately.",
   "latest_suggestions_path" => relative_path(suggestions_path),
   "latest_review_data_path" => relative_path(review_data_path),
   "latest_report_path" => relative_path(report_path),
@@ -191,7 +193,7 @@ markdown << "# Motif Normalization Auto-Accept Review"
 markdown << ""
 markdown << "Generated on #{TODAY} from `#{relative_path(suggestions_path)}`."
 markdown << ""
-markdown << "Policy: auto-accept only high-confidence `map_to_existing_group` suggestions whose target group already exists. Everything else stays reviewable."
+markdown << "Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestions whose target group already exists. Everything else stays reviewable."
 markdown << ""
 markdown << "## Summary"
 markdown << ""

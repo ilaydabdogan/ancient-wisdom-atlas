@@ -7,11 +7,11 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 ## Summary
 
 - Suggestions reviewed: 700
-- Accepted draft mappings: 354
+- Accepted draft mappings: 34
 - New canonical group candidates: 18
 - Low-confidence / needs human review: 230
 - Suggested exclusions: 54
-- Already known in base normalization: 62
+- Already known in base normalization: 382
 
 ## New Group Candidates
 
