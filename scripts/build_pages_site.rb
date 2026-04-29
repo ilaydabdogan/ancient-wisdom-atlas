@@ -350,6 +350,10 @@ def taxonomy_anchor(group_id)
   "family-#{slugify(group_id)}"
 end
 
+def taxonomy_family_output(group_id)
+  ["taxonomy", "families", "#{slugify(group_id)}.html"].join("/")
+end
+
 def taxonomy_value_chips(values, group_lookup = {}, current_output = nil)
   list = Array(values).compact.reject { |value| value.to_s.strip.empty? }
   return %(<span class="muted">None yet</span>) if list.empty?
@@ -358,7 +362,7 @@ def taxonomy_value_chips(values, group_lookup = {}, current_output = nil)
     id = value.to_s
     label = group_lookup.dig(id, "label") || titleize(id)
     if current_output && group_lookup.key?(id)
-      %(<a class="chip" href="#{esc("##{taxonomy_anchor(id)}")}">#{esc(label)}</a>)
+      %(<a class="chip" href="#{esc(taxonomy_family_href(current_output, id))}">#{esc(label)}</a>)
     else
       %(<span class="chip">#{esc(label)}</span>)
     end
@@ -370,10 +374,7 @@ def safe_json_script(data)
 end
 
 def taxonomy_family_href(current_output, group_id)
-  anchor = "##{taxonomy_anchor(group_id)}"
-  return anchor if current_output == "taxonomy/index.html"
-
-  "#{relative_url(current_output, "taxonomy/index.html")}#{anchor}"
+  relative_url(current_output, taxonomy_family_output(group_id))
 end
 
 def taxonomy_constellation_data(normalization, proposed_review, current_output)
@@ -480,6 +481,206 @@ def taxonomy_child_motif_ids(normalization, proposed_review)
   (approved_children + pending_children).map(&:to_s).reject(&:empty?).uniq.sort
 end
 
+def build_taxonomy_family_pages(analyses)
+  analysis_lookup = analyses.to_h { |analysis| [analysis.fetch(:group_id), analysis] }
+  prototype_ids = analyses.first(5).map { |analysis| analysis.fetch(:group_id) }.to_set
+
+  analyses.each do |analysis|
+    group = analysis.fetch(:group)
+    group_id = analysis.fetch(:group_id)
+    current = taxonomy_family_output(group_id)
+    child_sort_id = "child-motifs-#{slugify(group_id)}"
+    max_tradition_count = analysis.fetch(:traditions).values.max.to_i
+    comparison = family_comparison_summary(analysis)
+
+    child_rows = analysis.fetch(:child_motifs)
+      .sort_by { |child| [-child.fetch(:occurrence_count).to_i, child.fetch(:label).to_s] }
+      .map do |child|
+        count = child.fetch(:occurrence_count).to_i
+        count_link = count.positive? ? %(<a href="#{esc(extraction_search_url(current, child.fetch(:motif_id)))}">#{count}</a>) : %(<span class="muted">0</span>)
+        <<~HTML
+          <tr data-sort-item data-count="#{count}" data-label="#{esc(child.fetch(:label).downcase)}">
+            <td>#{link_to_output(current, motif_output(child.fetch(:motif_id)), titleize(child.fetch(:label)))}</td>
+            <td>#{esc(child.fetch(:relationship))}</td>
+            <td>#{count_link}</td>
+            <td>#{child.fetch(:tradition_count)}</td>
+          </tr>
+        HTML
+      end.join
+
+    tradition_rows = analysis.fetch(:traditions)
+      .sort_by { |tradition, count| [-count.to_i, tradition_label(tradition)] }
+      .map do |tradition, count|
+        width = max_tradition_count.positive? ? ((count.to_f / max_tradition_count) * 100).round(1) : 0
+        anchor = "tradition-#{slugify(tradition)}"
+        <<~HTML
+          <a class="family-tradition-row searchable" href="##{esc(anchor)}" data-search="#{esc([tradition, tradition_label(tradition)].join(" "))}">
+            <span>#{esc(tradition_label(tradition))}</span>
+            <strong>#{count}</strong>
+            <i style="width: #{width}%"></i>
+          </a>
+        HTML
+      end.join
+
+    tradition_sections = analysis.fetch(:occurrences)
+      .group_by { |occurrence| occurrence["tradition"].to_s }
+      .sort_by { |tradition, rows| [-rows.length, tradition_label(tradition)] }
+      .map do |tradition, rows|
+        passage_rows = rows
+          .sort_by { |occurrence| [occurrence["source_title"].to_s, occurrence["passage_locator"].to_s, occurrence["family_motif_label"].to_s] }
+          .map do |occurrence|
+            source_output = output_for_repo_path(occurrence["source_text_path"])
+            extraction_output = output_for_repo_path(occurrence["extraction_path"])
+            <<~HTML
+              <tr>
+                <td>#{link_to_output(current, source_output, occurrence["source_title"].to_s.empty? ? occurrence["source_text_path"] : occurrence["source_title"])}</td>
+                <td>#{esc(occurrence["passage_locator"])}</td>
+                <td><span class="confidence #{esc(occurrence["confidence"])}">#{esc(occurrence["confidence"])}</span></td>
+                <td>#{link_to_output(current, motif_output(occurrence["family_motif_id"]), titleize(occurrence["family_motif_label"]))}</td>
+                <td>#{link_to_output(current, extraction_output, "record")}</td>
+              </tr>
+            HTML
+          end.join
+
+        <<~HTML
+          <article id="tradition-#{esc(slugify(tradition))}" class="family-tradition-section searchable" data-search="#{esc([tradition, tradition_label(tradition), rows.map { |row| row["family_motif_label"] }].flatten.join(" "))}">
+            <div class="family-tradition-head">
+              <div>
+                <span class="row-kicker">#{esc(tradition_label(tradition))}</span>
+                <h3>How This Tradition Tells It</h3>
+              </div>
+              <strong>#{rows.length} occurrences</strong>
+            </div>
+            <p>#{esc(family_tradition_summary(tradition, rows))}</p>
+            <div class="table-wrap">
+              <table>
+                <tr><th>Text</th><th>Line Range</th><th>Confidence</th><th>Child Motif</th><th>Extraction</th></tr>
+                #{passage_rows}
+              </table>
+            </div>
+          </article>
+        HTML
+      end.join
+
+    related_rows = Array(group["related"]).map(&:to_s).select { |id| analysis_lookup.key?(id) }.map do |related_id|
+      related = analysis_lookup.fetch(related_id)
+      <<~HTML
+        <article class="related-family-row">
+          <h3>#{link_to_output(current, taxonomy_family_output(related_id), related.fetch(:group)["label"])}</h3>
+          <p>#{esc(related_family_note(analysis, related))}</p>
+        </article>
+      HTML
+    end.join
+    related_rows = %(<p class="muted">No explicit related families are listed yet.</p>) if related_rows.empty?
+
+    timeline_rows = analysis.fetch(:timeline_entries)
+      .sort_by { |entry| [timeline_sort_value(entry), entry["title"].to_s] }
+      .map do |entry|
+        count = analysis.fetch(:occurrences).count do |occurrence|
+          Array(entry["current_text_paths"]).include?(occurrence["source_text_path"]) || occurrence["tradition"].to_s == entry["tradition_cluster"].to_s
+        end
+        <<~HTML
+          <article class="family-timeline-row">
+            <div class="timeline-date">#{esc(timeline_display(entry))}</div>
+            <div>
+              <h3>#{esc(entry["title"])}</h3>
+              <p>#{esc([tradition_label(entry["tradition_cluster"]), entry["timeline_label"], "#{count} tagged occurrences"].compact.join(" - "))}</p>
+            </div>
+          </article>
+        HTML
+      end.join
+    timeline_rows = %(<p class="muted">No timeline-backed source entry is available yet for this family.</p>) if timeline_rows.empty?
+
+    body = <<~HTML
+      <section class="family-hero-panel">
+        <p>#{esc(compact_text(group["description"]))}</p>
+        <div class="family-stats">
+          <div class="stat"><strong>#{analysis.fetch(:occurrence_count)}</strong><span>total occurrences</span></div>
+          <div class="stat"><strong>#{analysis.fetch(:child_motifs).length}</strong><span>child motifs</span></div>
+          <div class="stat"><strong>#{analysis.fetch(:tradition_count)}</strong><span>traditions present</span></div>
+          <div class="stat"><strong>#{esc(analysis.fetch(:date_range_label))}</strong><span>known era range</span></div>
+        </div>
+        #{prototype_ids.include?(group_id) ? "<span class=\"pending-badge\">research prototype</span>" : ""}
+      </section>
+
+      <section class="section">
+        <div class="section-heading">
+          <h2>Child Motifs</h2>
+          <label class="sort-control">Sort
+            <select class="family-sort" data-sort-control="##{esc(child_sort_id)}">
+              <option value="count">Most common first</option>
+              <option value="alpha">Alphabetical</option>
+            </select>
+          </label>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>Child Motif</th><th>Relationship</th><th>Occurrences</th><th>Traditions</th></tr></thead>
+            <tbody id="#{esc(child_sort_id)}">#{child_rows}</tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-heading">
+          <h2>Tradition Frequency</h2>
+          <span class="muted">Relative bars compare traditions inside this family.</span>
+        </div>
+        <div class="family-tradition-bars">#{tradition_rows}</div>
+      </section>
+
+      <section class="section">
+        <div class="section-heading">
+          <h2>How Each Tradition Tells It</h2>
+          <span class="muted">Grouped directly from extraction-record motif tags.</span>
+        </div>
+        <div class="family-tradition-list">#{tradition_sections}</div>
+      </section>
+
+      <section class="section family-comparison-grid">
+        <article>
+          <span class="row-kicker">Converges</span>
+          <h2>Shared Structure</h2>
+          <p>#{esc(comparison.fetch(:convergence))}</p>
+        </article>
+        <article>
+          <span class="row-kicker">Diverges</span>
+          <h2>Local Emphasis</h2>
+          <p>#{esc(comparison.fetch(:divergence))}</p>
+        </article>
+        <article>
+          <span class="row-kicker">Comparison Mode</span>
+          <h2>Reading Rule</h2>
+          <div class="chip-row">#{comparison.fetch(:modes).map { |mode| "<span class=\"chip\">#{esc(mode)}</span>" }.join}</div>
+        </article>
+      </section>
+
+      <section class="section">
+        <div class="section-heading">
+          <h2>Related Families</h2>
+        </div>
+        <div class="related-family-list">#{related_rows}</div>
+      </section>
+
+      <section class="section">
+        <div class="section-heading">
+          <h2>Timeline</h2>
+          <span class="muted">Approximate eras from the cultural timeline index.</span>
+        </div>
+        <div class="family-timeline">#{timeline_rows}</div>
+      </section>
+    HTML
+
+    write_page(current, layout(
+      title: group["label"],
+      subtitle: "#{analysis.fetch(:occurrence_count)} tagged occurrences across #{analysis.fetch(:tradition_count)} traditions.",
+      current_output: current,
+      body: body,
+      page_class: "family-research-page"
+    ))
+  end
+end
+
 def tradition_totals(motifs)
   motifs.each_with_object(Hash.new(0)) do |motif, totals|
     motif.fetch("occurrences", []).each do |occurrence|
@@ -515,6 +716,220 @@ def timeline_sort_value(entry)
   else
     999_999
   end
+end
+
+def year_label(year)
+  return "unknown" if year.nil?
+
+  value = year.to_i
+  value.negative? ? "#{value.abs} BCE" : "#{value} CE"
+end
+
+def timeline_end_value(entry)
+  explicit = entry["end_year"] || entry["approx_end_year"] || entry.dig("approximate_date_range", "end_year")
+  explicit ? explicit.to_i : timeline_sort_value(entry)
+end
+
+def timeline_display(entry)
+  entry.dig("approximate_date_range", "display") || entry["date_label"] || entry["date_range"] || year_label(timeline_sort_value(entry))
+end
+
+def extraction_search_url(current_output, query)
+  "#{relative_url(current_output, "extractions/index.html")}?q=#{CGI.escape(query.to_s)}"
+end
+
+def normalized_group_id_for(motif_id, normalization, group_ids, seen = Set.new)
+  motif_id = motif_id.to_s
+  return nil if motif_id.empty? || seen.include?(motif_id)
+
+  seen.add(motif_id)
+  raw_index = normalization.fetch("raw_motif_group_index", {})
+  aliases = normalization.fetch("aliases", {})
+  groups = Array(normalization["canonical_motif_groups"])
+
+  return raw_index.fetch(motif_id).fetch("group_id") if raw_index.key?(motif_id)
+  return motif_id if group_ids.include?(motif_id)
+
+  groups.each do |group|
+    next unless group.is_a?(Hash)
+    next unless Array(group["aliases"]).map(&:to_s).include?(motif_id) || Array(group["children"]).map(&:to_s).include?(motif_id)
+
+    return group.fetch("id")
+  end
+
+  alias_entry = aliases[motif_id]
+  return nil unless alias_entry
+
+  (Array(alias_entry["canonical_refs"]) + Array(alias_entry["parent_refs"])).each do |ref|
+    mapped = normalized_group_id_for(ref, normalization, group_ids, seen)
+    return mapped if mapped
+  end
+
+  nil
+end
+
+def timeline_indexes(timeline)
+  by_path = {}
+  by_tradition = Hash.new { |hash, key| hash[key] = [] }
+  timeline.fetch("entries", []).each do |entry|
+    Array(entry["current_text_paths"]).each { |path| by_path[path.to_s] = entry }
+    by_tradition[entry["tradition_cluster"].to_s] << entry if entry["tradition_cluster"]
+  end
+  { by_path: by_path, by_tradition: by_tradition }
+end
+
+def uniq_timeline_entries(entries)
+  seen = {}
+  entries.compact.select do |entry|
+    key = entry["id"].to_s.empty? ? entry.object_id : entry["id"].to_s
+    !seen.key?(key) && (seen[key] = true)
+  end
+end
+
+def timeline_entries_for_occurrences(occurrences, timeline_lookup)
+  by_path = timeline_lookup.fetch(:by_path)
+  by_tradition = timeline_lookup.fetch(:by_tradition)
+  entries = occurrences.flat_map do |occurrence|
+    direct = by_path[occurrence["source_text_path"].to_s]
+    direct ? [direct] : by_tradition[occurrence["tradition"].to_s]
+  end
+  uniq_timeline_entries(entries)
+end
+
+def timeline_range_label(entries)
+  return "not yet dated" if entries.empty?
+
+  starts = entries.map { |entry| timeline_sort_value(entry) }.reject { |year| year == 999_999 }
+  ends = entries.map { |entry| timeline_end_value(entry) }.reject { |year| year == 999_999 }
+  return "not yet dated" if starts.empty? && ends.empty?
+
+  "#{year_label(starts.min || ends.min)} to #{year_label(ends.max || starts.max)}"
+end
+
+def canonical_family_analyses(normalization, motif_index, timeline)
+  groups = normalization.fetch("canonical_motif_groups", []).reject { |group| group["id"].to_s.start_with?("_meta") }
+  group_ids = groups.map { |group| group.fetch("id").to_s }.to_set
+  raw_index = normalization.fetch("raw_motif_group_index", {})
+  motifs = motif_index.fetch("motifs", [])
+  motif_lookup = motifs.to_h { |motif| [motif.fetch("motif_id").to_s, motif] }
+  mapped_motifs_by_group = Hash.new { |hash, key| hash[key] = [] }
+
+  motifs.each do |motif|
+    motif_id = motif.fetch("motif_id").to_s
+    group_id = normalized_group_id_for(motif_id, normalization, group_ids)
+    mapped_motifs_by_group[group_id] << motif if group_id && group_ids.include?(group_id)
+  end
+
+  timeline_lookup = timeline_indexes(timeline)
+
+  groups.map do |group|
+    group_id = group.fetch("id").to_s
+    mapped_ids = mapped_motifs_by_group.fetch(group_id, []).map { |motif| motif.fetch("motif_id").to_s }.to_set
+    Array(group["children"]).each { |motif_id| mapped_ids.add(motif_id.to_s) }
+    Array(group["aliases"]).each { |motif_id| mapped_ids.add(motif_id.to_s) if motif_lookup.key?(motif_id.to_s) || raw_index.key?(motif_id.to_s) }
+
+    child_motifs = mapped_ids.to_a.sort.map do |motif_id|
+      motif = motif_lookup[motif_id]
+      raw = raw_index[motif_id] || {}
+      occurrences = Array(motif && motif["occurrences"])
+      {
+        motif_id: motif_id,
+        label: motif ? motif["label"].to_s : titleize(motif_id),
+        relationship: raw["relationship"] || (Array(group["children"]).map(&:to_s).include?(motif_id) ? "child" : "mapped"),
+        occurrence_count: occurrences.length,
+        tradition_count: motif ? motif.fetch("traditions", {}).keys.length : 0,
+        traditions: motif ? motif.fetch("traditions", {}) : {},
+        motif: motif
+      }
+    end
+
+    occurrences = child_motifs.flat_map do |child|
+      Array(child[:motif] && child[:motif]["occurrences"]).map do |occurrence|
+        occurrence.merge(
+          "family_motif_id" => child[:motif_id],
+          "family_motif_label" => child[:label],
+          "family_motif_relationship" => child[:relationship]
+        )
+      end
+    end
+
+    traditions = occurrences.each_with_object(Hash.new(0)) do |occurrence, counts|
+      counts[occurrence["tradition"].to_s] += 1 unless occurrence["tradition"].to_s.empty?
+    end.sort.to_h
+
+    timeline_entries = timeline_entries_for_occurrences(occurrences, timeline_lookup)
+
+    {
+      group: group,
+      group_id: group_id,
+      child_motifs: child_motifs,
+      occurrences: occurrences,
+      occurrence_count: occurrences.length,
+      traditions: traditions,
+      tradition_count: traditions.length,
+      timeline_entries: timeline_entries,
+      date_range_label: timeline_range_label(timeline_entries)
+    }
+  end.sort_by { |analysis| [-analysis[:tradition_count], -analysis[:occurrence_count], analysis[:group]["label"].to_s] }
+end
+
+def family_tradition_summary(tradition, occurrences)
+  top_motifs = occurrences
+    .each_with_object(Hash.new(0)) { |occurrence, counts| counts[occurrence["family_motif_label"].to_s] += 1 }
+    .sort_by { |label, count| [-count, label] }
+    .first(3)
+  top_sources = occurrences
+    .each_with_object(Hash.new(0)) { |occurrence, counts| counts[occurrence["source_title"].to_s] += 1 }
+    .sort_by { |title, count| [-count, title] }
+    .first(2)
+  motif_text = top_motifs.map { |label, count| "#{titleize(label)} (#{count})" }.join(", ")
+  source_text = top_sources.map(&:first).reject(&:empty?).join(" and ")
+  parts = ["In #{tradition_label(tradition)}, this family appears through #{motif_text.empty? ? "several tagged child motifs" : motif_text}."]
+  parts << "The strongest concentration is currently in #{source_text}." unless source_text.empty?
+  parts << "This is a deterministic summary of #{occurrences.length} tagged motif occurrences, not a claim of historical transmission."
+  parts.join(" ")
+end
+
+def family_comparison_summary(analysis)
+  occurrences = analysis.fetch(:occurrences)
+  traditions = analysis.fetch(:traditions)
+  child_motifs = analysis.fetch(:child_motifs)
+  cross_children = child_motifs
+    .select { |child| child[:tradition_count].to_i >= [3, traditions.length / 3].max }
+    .sort_by { |child| [-child[:tradition_count].to_i, -child[:occurrence_count].to_i, child[:label]] }
+    .first(6)
+  convergence = if cross_children.any?
+    "The strongest convergence is around #{cross_children.map { |child| titleize(child[:label]) }.join(", ")}. These child motifs recur across several tradition clusters and give the family its shared structure."
+  else
+    "The convergence is broad rather than concentrated in one child motif: traditions repeatedly tag passages into this family while emphasizing locally different scenes."
+  end
+
+  tradition_focus = occurrences.group_by { |occurrence| occurrence["tradition"].to_s }.map do |tradition, rows|
+    top = rows.each_with_object(Hash.new(0)) { |occurrence, counts| counts[occurrence["family_motif_label"].to_s] += 1 }
+      .sort_by { |label, count| [-count, label] }
+      .first
+    next unless top
+
+    "#{tradition_label(tradition)} leans toward #{titleize(top.first)}"
+  end.compact.first(6)
+  divergence = tradition_focus.empty? ? "The current evidence is not dense enough to separate regional emphases cleanly." : "#{tradition_focus.join("; ")}."
+
+  {
+    convergence: convergence,
+    divergence: divergence,
+    modes: ["structural", "thematic", "contact not inferred"]
+  }
+end
+
+def related_family_note(analysis, related_analysis)
+  return "Linked as an interpretive neighbor in the normalization taxonomy." unless related_analysis
+
+  left_records = analysis.fetch(:occurrences).map { |occurrence| occurrence["record_id"].to_s }.to_set
+  right_records = related_analysis.fetch(:occurrences).map { |occurrence| occurrence["record_id"].to_s }.to_set
+  overlap = (left_records & right_records).length
+  return "#{overlap} extraction records currently carry motifs from both families." if overlap.positive?
+
+  "Linked in the taxonomy as a neighboring symbolic function, even when the current passages do not overlap directly."
 end
 
 def card(title, body, href: nil, meta: nil)
@@ -1060,12 +1475,14 @@ def build_motifs(motif_index, extra_motif_ids = [])
   end
 end
 
-def build_taxonomy(normalization, proposed_review)
+def build_taxonomy(normalization, proposed_review, motif_index, timeline)
   current = "taxonomy/index.html"
   groups = normalization.fetch("canonical_motif_groups", [])
   group_lookup = groups.to_h { |group| [group["id"].to_s, group] }
   hierarchies = normalization.fetch("hierarchies", {})
   proposed_candidates = proposed_review.fetch("genuine_new_group_candidates", [])
+  family_analyses = canonical_family_analyses(normalization, motif_index, timeline)
+  build_taxonomy_family_pages(family_analyses)
   constellation = taxonomy_constellation_html(
     normalization,
     proposed_review,
@@ -1108,7 +1525,7 @@ def build_taxonomy(normalization, proposed_review)
       <article class="taxonomy-family searchable" data-search="#{esc(search_text)}">
         <div class="taxonomy-family-head">
           <span class="row-kicker">#{esc(group["id"])}</span>
-          <h3 id="#{esc(taxonomy_anchor(group["id"]))}">#{esc(group["label"])}</h3>
+          <h3 id="#{esc(taxonomy_anchor(group["id"]))}"><a href="#{esc(relative_url(current, taxonomy_family_output(group["id"])))}">#{esc(group["label"])}</a></h3>
         </div>
         <p>#{esc(compact_text(group["description"]))}</p>
         <div class="taxonomy-fields">
@@ -1127,6 +1544,12 @@ def build_taxonomy(normalization, proposed_review)
         </div>
       </article>
     HTML
+  end.join
+
+  prototype_cards = family_analyses.first(5).map do |analysis|
+    group = analysis.fetch(:group)
+    body = "#{analysis.fetch(:occurrence_count)} occurrences across #{analysis.fetch(:tradition_count)} traditions; #{analysis.fetch(:child_motifs).length} mapped child motifs."
+    card(group["label"], body, href: relative_url(current, taxonomy_family_output(group["id"])), meta: "research page")
   end.join
 
   proposed_rows = proposed_candidates.map do |candidate|
@@ -1190,6 +1613,14 @@ def build_taxonomy(normalization, proposed_review)
 
     <section class="section">
       <div class="section-heading">
+        <h2>Deep Family Prototypes</h2>
+        <span class="muted">The five richest cross-tradition families, generated from extraction evidence</span>
+      </div>
+      <div class="card-grid">#{prototype_cards}</div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
         <h2>Review Hierarchies</h2>
         <span class="muted">Broad parent structures used during normalization</span>
       </div>
@@ -1244,7 +1675,10 @@ def build_extractions(extractions)
   current = "extractions/index.html"
   rows = extractions.map do |item|
     data = item[:data]
-    motifs = data.fetch("candidate_motifs", []).map { |motif| motif["label"] }.join(", ")
+    motif_terms = data.fetch("candidate_motifs", []).flat_map do |motif|
+      [motif["label"], motif["taxonomy_refs"]]
+    end.flatten.compact.map(&:to_s)
+    motifs = motif_terms.join(", ")
     source_output = output_for_repo_path(data["source_text_path"])
     <<~HTML
       <article class="list-row searchable" data-search="#{esc([data["record_id"], data.dig("passage_locator", "label"), motifs, data["source_text_path"]].join(" "))}">
@@ -1260,7 +1694,7 @@ def build_extractions(extractions)
 
   body = <<~HTML
     <section class="toolbar">
-      <input type="search" class="search-input" placeholder="Search extraction records" data-search-target=".searchable">
+      <input type="search" class="search-input" placeholder="Search extraction records" data-search-target=".searchable" data-query-param="q">
     </section>
     <section class="list-panel">#{rows}</section>
   HTML
@@ -2068,6 +2502,146 @@ STYLE_CSS = <<~CSS
     background: rgba(184, 132, 23, 0.18);
   }
 
+  .family-research-page main {
+    width: min(1320px, calc(100% - 32px));
+  }
+
+  .family-hero-panel {
+    margin-top: 28px;
+    padding: 22px;
+    background: #f4f0e5;
+    border: 1px solid #ded2ae;
+    border-radius: 8px;
+  }
+
+  .family-hero-panel > p {
+    max-width: 920px;
+    margin: 0 0 18px;
+    color: var(--muted);
+    font-size: 18px;
+  }
+
+  .family-stats {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 12px;
+    margin-bottom: 12px;
+  }
+
+  .family-stats .stat {
+    box-shadow: none;
+  }
+
+  .family-stats .stat strong {
+    font-size: clamp(22px, 2.3vw, 34px);
+    overflow-wrap: anywhere;
+  }
+
+  .sort-control {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--muted);
+    font-weight: 700;
+  }
+
+  .sort-control select {
+    min-height: 40px;
+    padding: 8px 10px;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    background: var(--surface);
+    color: var(--ink);
+    font: inherit;
+  }
+
+  .family-tradition-bars,
+  .family-tradition-list,
+  .related-family-list,
+  .family-timeline {
+    display: grid;
+    gap: 12px;
+  }
+
+  .family-tradition-row {
+    position: relative;
+    display: grid;
+    grid-template-columns: minmax(170px, 1fr) 80px;
+    gap: 16px;
+    align-items: center;
+    min-height: 48px;
+    padding: 12px 14px;
+    overflow: hidden;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .family-tradition-row span,
+  .family-tradition-row strong {
+    position: relative;
+    z-index: 1;
+  }
+
+  .family-tradition-row strong {
+    text-align: right;
+  }
+
+  .family-tradition-row i {
+    position: absolute;
+    inset: 0 auto 0 0;
+    background: rgba(22, 124, 128, 0.13);
+  }
+
+  .family-tradition-section,
+  .related-family-row,
+  .family-timeline-row,
+  .family-comparison-grid article {
+    padding: 18px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+  }
+
+  .family-tradition-head {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    align-items: start;
+    margin-bottom: 10px;
+  }
+
+  .family-tradition-head strong {
+    color: var(--brick);
+    white-space: nowrap;
+  }
+
+  .family-comparison-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+  }
+
+  .related-family-row h3,
+  .family-timeline-row h3 {
+    margin-bottom: 8px;
+  }
+
+  .related-family-row p,
+  .family-timeline-row p {
+    margin: 0;
+    color: var(--muted);
+  }
+
+  .family-timeline-row {
+    display: grid;
+    grid-template-columns: 240px minmax(0, 1fr);
+    gap: 18px;
+  }
+
   .motif-detail-grid {
     display: grid;
     grid-template-columns: 260px minmax(0, 1fr);
@@ -2133,11 +2707,11 @@ STYLE_CSS = <<~CSS
       flex-direction: column;
     }
 
-    .stats-grid, .explorer-dashboard, .card-grid, .motif-cloud {
+    .stats-grid, .explorer-dashboard, .card-grid, .motif-cloud, .family-stats, .family-comparison-grid {
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    .doc-shell, .motif-detail-grid, .timeline-row, .insight-band, .explorer-controls, .explorer-row, .taxonomy-grid, .constellation-stage {
+    .doc-shell, .motif-detail-grid, .timeline-row, .insight-band, .explorer-controls, .explorer-row, .taxonomy-grid, .constellation-stage, .family-timeline-row {
       grid-template-columns: 1fr;
     }
 
@@ -2149,7 +2723,7 @@ STYLE_CSS = <<~CSS
   @media (max-width: 560px) {
     main { width: min(100% - 24px, 1180px); padding-top: 20px; }
     h1 { font-size: 40px; }
-    .stats-grid, .explorer-dashboard, .card-grid, .motif-cloud {
+    .stats-grid, .explorer-dashboard, .card-grid, .motif-cloud, .family-stats, .family-comparison-grid {
       grid-template-columns: 1fr;
     }
     .document { padding: 18px; }
@@ -2162,13 +2736,39 @@ APP_JS = <<~JS
       const selector = input.dataset.searchTarget;
       if (!selector) return;
       const items = Array.from(document.querySelectorAll(selector));
-      input.addEventListener("input", () => {
+      const applySearch = () => {
         const query = input.value.trim().toLowerCase();
         items.forEach((item) => {
           const haystack = (item.dataset.search || item.textContent).toLowerCase();
           item.classList.toggle("is-hidden", query.length > 0 && !haystack.includes(query));
         });
-      });
+      };
+      const queryParam = input.dataset.queryParam;
+      if (queryParam) {
+        const params = new URLSearchParams(window.location.search);
+        if (params.has(queryParam)) input.value = params.get(queryParam);
+      }
+      input.addEventListener("input", applySearch);
+      applySearch();
+    });
+
+    document.querySelectorAll("[data-sort-control]").forEach((control) => {
+      const target = document.querySelector(control.dataset.sortControl);
+      if (!target) return;
+      const sortItems = () => {
+        const rows = Array.from(target.querySelectorAll("[data-sort-item]"));
+        const mode = control.value;
+        rows.sort((left, right) => {
+          if (mode === "alpha") {
+            return (left.dataset.label || "").localeCompare(right.dataset.label || "");
+          }
+          return Number(right.dataset.count || 0) - Number(left.dataset.count || 0) ||
+            (left.dataset.label || "").localeCompare(right.dataset.label || "");
+        });
+        rows.forEach((row) => target.appendChild(row));
+      };
+      control.addEventListener("change", sortItems);
+      sortItems();
     });
 
     const explorerRows = Array.from(document.querySelectorAll(".explorer-row"));
@@ -2508,7 +3108,7 @@ build_step("texts") { build_texts(texts) }
 build_step("patterns") { build_patterns(patterns) }
 build_step("comparisons") { build_comparisons(comparisons) }
 build_step("motifs") { build_motifs(motif_index, taxonomy_child_motif_ids(normalization, proposed_new_groups)) }
-build_step("taxonomy") { build_taxonomy(normalization, proposed_new_groups) }
+build_step("taxonomy") { build_taxonomy(normalization, proposed_new_groups, motif_index, timeline) }
 build_step("timeline") { build_timeline(timeline, texts) }
 build_step("extractions") { build_extractions(extractions) }
 
