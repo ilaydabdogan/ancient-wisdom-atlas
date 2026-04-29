@@ -1,0 +1,181 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l12531-l12576
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / SERIES OF; lines 12531-12576
+  start: '12531'
+  end: '12576'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: |-
+    SERIES OF
+
+    Interlinear Translations
+  summary: The passage is a publisher's advertisement for a series of Latin and Greek
+    interlinear translations, including pricing, listed titles, an endorsement, and
+    publisher information.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage advertises a series of interlinear translations described as standard,
+    best translated, and complete.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The advertised books are described as 12mo volumes, bound in half leather,
+    with a reduced postpaid price of $1.50 each.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Latin interlinear translations listed include Virgil, Caesar, Horace,
+    Cicero, Sallust, Ovid, Juvenal, Livy, and Cornelius Nepos.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Greek interlinear translations listed include Homer's Iliad, Xenophon's
+    Anabasis, and the Gospel of St. John.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: S. Austin Allibone is quoted endorsing the use of interlinear classics in
+    connection with Greek and Latin grammar study.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: David McKay is identified as the publisher in Philadelphia, with the works
+    formerly published by Charles De Silver & Sons.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: S. Austin Allibone
+  description: Described as a distinguished author who writes an endorsement of the
+    Interlinear Classics.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: David McKay
+  description: Named as the publisher in Philadelphia.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Charles De Silver & Sons
+  description: Named as the former publisher.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: cited endorser
+  assigned_to:
+  - fig:1
+  basis: The passage introduces S. Austin Allibone and provides a quotation attributed
+    to him.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: publisher
+  assigned_to:
+  - fig:2
+  basis: The passage names David McKay as publisher in Philadelphia.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: former publisher
+  assigned_to:
+  - fig:3
+  basis: The passage says the works were formerly published by Charles De Silver &
+    Sons.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Advertisement for interlinear translations
+  summary: A publisher's notice presents a series of Latin and Greek interlinear translations,
+    lists available titles, gives format and price, includes an endorsement, and names
+    the current and former publishers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12531-12540
+  quote_or_summary: Advertisement heading for a series of interlinear translations;
+    the series is described as standard, best translated, complete, 12mo, half leather,
+    and priced at $1.50 postpaid.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 12542-12552
+  quote_or_summary: The Latin list includes Virgil, Caesar, Horace, Cicero, Sallust,
+    Ovid, Juvenal, Livy, and Cornelius Nepos, each with named translators.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 12554-12558
+  quote_or_summary: The Greek list includes Homer's Iliad, Xenophon's Anabasis, and
+    the Gospel of St. John, each with named translators.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 12560-12569
+  quote_or_summary: S. Austin Allibone is introduced as a distinguished author and
+    quoted arguing that interlinear classics can support the preservation of Greek
+    and Latin grammar study.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 12571-12574
+  quote_or_summary: "“DAVID McKAY, Publisher, Philadelphia,” followed by “Formerly
+    published by Charles De Silver & Sons.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is advertising and publisher matter rather than mythic narrative;
+    no motif or symbol candidates are supported by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparative mythology motifs were extracted because the provided lines contain a publisher advertisement, not narrative mythological content.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l12531-l12576
+  passage_sha256=2c2fb1fb72a526c36a5bf637105bec15418284c7f2132fab294caaaf821caa78
+

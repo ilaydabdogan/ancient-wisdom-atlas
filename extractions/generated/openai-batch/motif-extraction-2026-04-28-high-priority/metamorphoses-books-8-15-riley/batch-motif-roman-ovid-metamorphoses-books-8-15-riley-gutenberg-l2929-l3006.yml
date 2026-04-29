@@ -1,0 +1,608 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l2929-l3006
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: BOOK THE NINTH. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 2929-3006
+  start: '2929'
+  end: '3006'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage summarizes explanatory traditions about Hercules: his travels
+    with Geryon''s herds, combats with robbers, tyrants, giants, and monsters, his
+    aid to Atlas, the Hesperides apples, boundary pillars, and later scholarly interpretations
+    of the Hercules myth as heroic tradition, accumulated regional exploits, and possible
+    solar-zodiacal personification.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hercules returns from expeditions with the herds of Geryon and passes through
+    Gaul into Italy.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cacus is described as a celebrated robber whose haunts are caverns of Mount
+    Aventine, and he steals some of Hercules' oxen.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hercules destroys Cacus, with assistance attributed to Evander and Faunus,
+    and shares spoils with allies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Hercules kills Busiris, tyrant of Egypt, and thereby delivers Atlas from Busiris'
+    enmity.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says Hercules gave advice to the Mauritanian king and that it
+    was said he supported the heavens for a time to relieve Atlas.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Atlas gives Hercules a present identified either as fine sheep or, according
+    to Diodorus Siculus, orange and lemon trees.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The orange and lemon trees are said to be represented as golden apples watched
+    by a dragon in the garden of the Hesperides.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Hercules is said to raise two pillars at the ocean shore to mark the end of
+    his conquests and the impossibility of proceeding further.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Additional deeds attributed to Hercules include the deliverance of Prometheus
+    and deaths or defeats of robbers, a bull, kings, giants, and other opponents.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The quoted scholarly discussion says Hercules may have been a real hero whose
+    feats of strength were expanded by tradition and poetic fancy.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The quoted scholarly discussion says an astronomical theory regarded Hercules
+    as a personification of the Sun passing through the twelve signs of the Zodiac.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hercules
+  description: Heroic figure credited with travels, combats, carrying herds, destroying
+    opponents, aiding Atlas, receiving gifts, raising pillars, and being interpreted
+    as possible historic hero or solar personification.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Cacus
+  description: Celebrated robber haunting the caverns of Mount Aventine and stealing
+    Hercules' oxen.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Evander
+  description: Ally said by Dionysius of Halicarnassus to assist Hercules against
+    Cacus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Faunus
+  description: Ally said by Dionysius of Halicarnassus to assist Hercules against
+    Cacus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Atlas
+  description: Figure delivered from Busiris' enmity and later relieved when Hercules
+    is said to support the heavens for a time.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Busiris
+  description: Tyrant of Egypt killed by Hercules.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Dragon of the Hesperides
+  description: Dragon watching the golden apples in the garden of the Hesperides.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Prometheus
+  description: Figure whose deliverance is listed among deeds attributed to Hercules.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Cercopes
+  description: Two brothers described as famous robbers whose death is attributed
+    to Hercules.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Jupiter
+  description: God associated with thunder separating combatants and with raining
+    stones during a combat against Giants in Gaul.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: travelling hero
+  assigned_to:
+  - fig:1
+  basis: Hercules journeys through regions including Gaul, Italy, Africa, Egypt, and
+    ocean shores.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: slayer of robbers and opponents
+  assigned_to:
+  - fig:1
+  basis: The passage attributes to Hercules the destruction or killing of Cacus, Busiris,
+    and other opponents.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:3
+  label: benefactor or deliverer
+  assigned_to:
+  - fig:1
+  basis: He is said to deliver Atlas from Busiris and to have delivered Prometheus.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: possible solar personification in later theory
+  assigned_to:
+  - fig:1
+  basis: A cited theory regarded Hercules as the Sun passing through the twelve signs
+    of the Zodiac.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: robber antagonist
+  assigned_to:
+  - fig:2
+  - fig:9
+  basis: Cacus steals oxen and the Cercopes are called famous robbers.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:6
+  label: ally of Hercules
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Evander and Faunus are named as assisting Hercules against Cacus.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: beneficiary of deliverance
+  assigned_to:
+  - fig:5
+  basis: Atlas is delivered from the enmity of Busiris.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: giver of acknowledgment gift
+  assigned_to:
+  - fig:5
+  basis: Atlas gives Hercules sheep or trees in acknowledgment of his services.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: tyrant antagonist
+  assigned_to:
+  - fig:6
+  basis: Busiris is called the tyrant of Egypt and is killed by Hercules.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: guardian of golden apples
+  assigned_to:
+  - fig:7
+  basis: The dragon watches the golden apples in the garden of the Hesperides.
+  evidence_refs:
+  - ev:3
+- id: role:11
+  label: delivered figure
+  assigned_to:
+  - fig:8
+  basis: Prometheus' deliverance is listed among deeds attributed to Hercules.
+  evidence_refs:
+  - ev:5
+- id: role:12
+  label: divine intervener
+  assigned_to:
+  - fig:10
+  basis: Jupiter is associated with thunder ending one combat and stones falling during
+    another.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: caverns of Mount Aventine
+  literal_form: caverns on a mountain
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - cave
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: stolen oxen
+  literal_form: oxen from Hercules' herd
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: heavens borne on shoulders
+  literal_form: heavens supported on Hercules' shoulders
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: golden apples and trees
+  literal_form: orange and lemon trees represented as golden apples
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: dragon guardian
+  literal_form: dragon watching the golden apples
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: two boundary pillars
+  literal_form: two pillars raised on ocean shores
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: thunder separating combatants
+  literal_form: peal of thunder that separates Hercules and Cycnus
+  associated_figures:
+  - fig:1
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: rained stones
+  literal_form: vast quantities of stones rained down during combat against Giants
+  associated_figures:
+  - fig:1
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Cacus steals oxen and is destroyed
+  summary: Hercules arrives in Italy with Geryon's herds; Cacus steals some oxen from
+    his caverns on Mount Aventine; Hercules, assisted by Evander and Faunus, destroys
+    Cacus and shares spoils.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hercules aids Atlas and receives the Hesperides gift
+  summary: Hercules kills Busiris, aids Atlas, is said to support the heavens for
+    a time, and receives a gift later represented as golden apples watched by a dragon.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Pillars at the ocean limit
+  summary: At the ocean edge, Hercules is said to raise two pillars marking that he
+    had reached the end of his conquests and could go no farther.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Catalogue of further exploits
+  summary: The passage lists additional exploits attributed to Hercules, including
+    deliverance of Prometheus, defeat or death of robbers, a bull, a king, giants,
+    and combats interrupted by thunder or falling stones.
+  figure_refs:
+  - fig:1
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Scholarly interpretation of Hercules myth
+  summary: The quoted discussion presents Hercules as possibly a real hero expanded
+    by tradition, as a figure accumulating exploits of similar heroes, and as later
+    interpreted astronomically as the Sun passing through the twelve zodiac signs.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: travelling culture hero accumulating exploits
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage describes Hercules as a hero travelling through the known world,
+    performing many feats, and being interpreted as a historic hero whose tradition
+    accumulated similar heroic exploits.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is explanatory and scholarly rather than a single mythic episode;
+    'culture hero' is inferred from the described heroic function and supplied taxonomy.
+- id: motif:2
+  label: stolen cattle recovered from robber antagonist
+  taxonomy_refs:
+  - sacred_theft
+  basis: Cacus steals Hercules' oxen and is destroyed; Eryx is also said to have stolen
+    oxen and to be killed for refusing to deliver them.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage does not label the cattle as sacred; the taxonomy reference
+    is based only on the theft-and-recovery pattern.
+- id: motif:3
+  label: dragon-guarded wondrous fruit
+  taxonomy_refs:
+  - serpent
+  basis: The passage explains the golden apples of the Hesperides as fruit or trees
+    watched by a dragon.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy has 'serpent' rather than a distinct dragon-guardian
+    category.
+- id: motif:4
+  label: hero marks boundary of the known world
+  taxonomy_refs: []
+  basis: Hercules raises two pillars at the ocean shore to signify that he had reached
+    the limit of his conquests and could proceed no further.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches boundary pillars.
+- id: motif:5
+  label: hero temporarily bears the heavens
+  taxonomy_refs: []
+  basis: The passage says Hercules was said to support the heavens for a time on his
+    shoulders to relieve Atlas.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches sky-bearing or cosmic
+    burden.
+- id: motif:6
+  label: solar-zodiacal interpretation of a hero's labors
+  taxonomy_refs: []
+  basis: The quoted commentary says an astronomical theory treated Hercules as the
+    Sun passing through the twelve zodiac signs, linked to the twelve tasks.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is reported as a later theory rather than the passage's literal narrative
+    content.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself reports a comparison between Hercules' twelve tasks and
+    the Sun's passage through the twelve signs of the Zodiac.
+  claim_level: same_function
+  target: solar-zodiacal personification pattern
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage attributes this to an astronomical theory, probably Alexandrian,
+    and does not present it as the original meaning of the myth.
+- id: claim:2
+  claim: The passage reports that Hercules may have accumulated the fabled exploits
+    of similar heroes from other regions.
+  claim_level: same_motif
+  target: similar regional hero-exploit traditions
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The compared heroes or regions are not named in detail, so the claim
+    remains general.
+- id: claim:3
+  claim: The passage notes a proposed resemblance between Hercules' attributes and
+    those of an Egyptian deity and a Phoenician god identified with the Sun.
+  claim_level: same_function
+  target: Egyptian and Phoenician solar deity associations
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs:
+  - ev:9
+  confidence: low
+  limitations: The passage also cautions that Hercules was a popular hero before Greek-Egyptian
+    contact and questions importation of a popular hero from Phoenicia.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2929-2935
+  quote_or_summary: Hercules travels with Geryon's herds into Italy; Cacus, a robber
+    in the caverns of Mount Aventine, steals oxen; Hercules, aided by Evander and
+    Faunus, destroys him and shares spoils.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2935-2940
+  quote_or_summary: Hercules kills Busiris of Egypt, delivers Atlas from Busiris'
+    enmity, advises the Mauritanian king, and is said to support the heavens for a
+    time to relieve Atlas.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2940-2945
+  quote_or_summary: Atlas gives Hercules sheep or, according to Diodorus Siculus,
+    orange and lemon trees, later represented as golden apples watched by a dragon
+    in the garden of the Hesperides.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2945-2948
+  quote_or_summary: At the ocean limit of his conquests, Hercules is said to have
+    raised two pillars to mark that he had been there and could proceed no farther.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2949-2960
+  quote_or_summary: Further exploits attributed to Hercules include Prometheus' deliverance,
+    deaths of the Cercopes, defeat of the Bull of Marathon, deaths of Lygis, Alcyaneus,
+    Eryx, combat with Cycnus ended by thunder, and combat against Giants during which
+    Jupiter rained stones.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2969-2985
+  quote_or_summary: Keightley is quoted as saying Hercules may have been a real Dorian,
+    Theban, or Argive hero whose feats were raised by tradition into sonship of Zeus
+    and expanded across the known world with similar heroes' exploits.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2986-2994
+  quote_or_summary: The quoted discussion says the twelve tasks show an astronomical
+    theory in which Hercules was regarded as the Sun passing through the twelve Zodiac
+    signs, probably during the Alexandrian period.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 2992-2997
+  quote_or_summary: The passage reports proposed resemblance between Hercules' attributes
+    and an Egyptian deity and a Phoenician god probably identified with the Sun.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 2997-3002
+  quote_or_summary: The passage cautions that Hercules was a popular hero before Greek-Egyptian
+    intercourse, and that introduction of a popular hero from Phoenicia is unlikely.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an explanatory and scholarly discussion rather than a continuous
+    primary mythic narrative. Literal episode extraction is strong, while motif classification
+    is partly constrained by the supplied taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All claims are limited to the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l2929-l3006
+  passage_sha256=050d3645716b1ad93f000ec54192cadb5499ffa9e3bc1c0ab156eec0fbb8ad50
+

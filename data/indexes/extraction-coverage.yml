@@ -8,46 +8,23 @@ summary:
   - texts/permissioned/**/*.md
   extraction_glob: extractions/**/*.{yml,yaml}
   text_count: 58
-  texts_with_extractions: 52
-  texts_without_extractions: 6
-  texts_needing_full_extraction: 40
-  texts_needing_review_or_normalization: 52
-  extraction_record_count: 2114
-  candidate_motif_count: 9510
-  taxonomy_ref_count: 8018
-  comparison_claim_count: 2228
+  texts_with_extractions: 53
+  texts_without_extractions: 5
+  texts_needing_full_extraction: 39
+  texts_needing_review_or_normalization: 53
+  extraction_record_count: 2314
+  candidate_motif_count: 10566
+  taxonomy_ref_count: 8913
+  comparison_claim_count: 2435
   status_counts:
-    dense_draft: 18
+    dense_draft: 19
     developing: 16
-    no_extractions: 6
+    no_extractions: 5
     thin: 18
   priority_counts:
-    high: 24
-    medium: 34
+    high: 23
+    medium: 35
 texts:
-- source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
-  source_text_id: roman.ovid.metamorphoses_books_8_15_riley_gutenberg
-  title: The Metamorphoses of Ovid, Books VIII-XV
-  tradition: roman
-  culture: ancient_roman_myth_later_translation
-  region: mediterranean_rome
-  date_range: 1st-century CE Latin mythic poem; public-domain English translation
-  word_count: 137386
-  target_extraction_records: 35
-  coverage_ratio: 0.0
-  status: no_extractions
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: false
-  extraction_record_count: 0
-  generated_record_count: 0
-  needs_review_count: 0
-  reviewed_count: 0
-  candidate_motif_count: 0
-  taxonomy_ref_count: 0
-  comparison_claim_count: 0
-  empty_motif_record_count: 0
-  extraction_paths: []
 - source_text_path: texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md
   source_text_id: sufi.hafiz.divan.bell_gutenberg
   title: Poems from the Divan of Hafiz
@@ -447,31 +424,6 @@ texts:
   extraction_paths:
   - extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-fire-makers.yml
   - extractions/indigenous-australian/project-gutenberg/australian-legendary-tales/australian-legendary-tales-origin-narran-lake.yml
-- source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
-  source_text_id: islamic.koran.sale_gutenberg
-  title: The Koran (Al-Qur'an)
-  tradition: islamic
-  culture: arabic_islamic_later_translation
-  region: arabia_west_asia
-  date_range: 7th century source text; 1734 public-domain English translation
-  word_count: 423262
-  target_extraction_records: 40
-  coverage_ratio: 0.05
-  status: thin
-  priority: high
-  needs_full_extraction: true
-  needs_review_or_normalization: true
-  extraction_record_count: 2
-  generated_record_count: 0
-  needs_review_count: 2
-  reviewed_count: 0
-  candidate_motif_count: 8
-  taxonomy_ref_count: 9
-  comparison_claim_count: 2
-  empty_motif_record_count: 0
-  extraction_paths:
-  - extractions/islamic/project-gutenberg/koran-sale/koran-sale-adam-names-eblis-garden-direction.yml
-  - extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml
 - source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
   source_text_id: islamic.koran.rodwell_gutenberg
   title: The Koran (Al-Qur'an)
@@ -497,6 +449,31 @@ texts:
   extraction_paths:
   - extractions/islamic/project-gutenberg/koran/koran-rodwell-earthquake-works-judgment.yml
   - extractions/islamic/project-gutenberg/koran/koran-rodwell-recitation-created-man.yml
+- source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  source_text_id: islamic.koran.sale_gutenberg
+  title: The Koran (Al-Qur'an)
+  tradition: islamic
+  culture: arabic_islamic_later_translation
+  region: arabia_west_asia
+  date_range: 7th century source text; 1734 public-domain English translation
+  word_count: 423262
+  target_extraction_records: 40
+  coverage_ratio: 0.05
+  status: thin
+  priority: high
+  needs_full_extraction: true
+  needs_review_or_normalization: true
+  extraction_record_count: 2
+  generated_record_count: 0
+  needs_review_count: 2
+  reviewed_count: 0
+  candidate_motif_count: 8
+  taxonomy_ref_count: 9
+  comparison_claim_count: 2
+  empty_motif_record_count: 0
+  extraction_paths:
+  - extractions/islamic/project-gutenberg/koran-sale/koran-sale-adam-names-eblis-garden-direction.yml
+  - extractions/islamic/project-gutenberg/koran-sale/koran-sale-mary-gabriel-palm-infant-jesus.yml
 - source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
   source_text_id: islamicate_folklore.arabian_nights.lang_gutenberg
   title: The Arabian Nights Entertainments
@@ -3347,25 +3324,59 @@ texts:
   date_range: 1st-century CE Latin mythic poem; public-domain English translation
   word_count: 122093
   target_extraction_records: 31
-  coverage_ratio: 3.968
+  coverage_ratio: 5.419
   status: dense_draft
   priority: medium
   needs_full_extraction: false
   needs_review_or_normalization: true
-  extraction_record_count: 123
-  generated_record_count: 123
-  needs_review_count: 123
+  extraction_record_count: 168
+  generated_record_count: 168
+  needs_review_count: 168
   reviewed_count: 0
-  candidate_motif_count: 629
-  taxonomy_ref_count: 581
-  comparison_claim_count: 108
-  empty_motif_record_count: 3
+  candidate_motif_count: 854
+  taxonomy_ref_count: 767
+  comparison_claim_count: 155
+  empty_motif_record_count: 5
   extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10072-l10148.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10150-l10197.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10199-l10275.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10277-l10351.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10354-l10448.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1042-l1088.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10450-l10501.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10504-l10595.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10597-l10622.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10625-l10637.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10640-l10724.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10726-l10814.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10816-l10900.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10903-l10977.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1091-l1191.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10979-l11037.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11039-l11121.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11123-l11206.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11208-l11323.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11325-l11347.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11350-l11455.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11457-l11570.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11572-l11581.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11584-l11674.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11676-l11770.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11772-l11813.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l118-l203.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11816-l11893.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11895-l11971.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1193-l1221.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11973-l12064.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l12067-l12161.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l12164-l12245.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1224-l1310.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l12247-l12338.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l12340-l12383.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l12386-l12480.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l12482-l12529.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l12531-l12576.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1313-l1408.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1410-l1460.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l1463-l1562.yml
@@ -3483,4 +3494,193 @@ texts:
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9088-l9125.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9128-l9209.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9211-l9304.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9306-l9426.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9428-l9441.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9444-l9536.yml
   - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l947-l1039.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9538-l9591.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9593-l9653.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9655-l9741.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9743-l9815.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9818-l9899.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9901-l9983.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9985-l9993.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-1-7-riley/batch-motif-roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9996-l10069.yml
+- source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  source_text_id: roman.ovid.metamorphoses_books_8_15_riley_gutenberg
+  title: The Metamorphoses of Ovid, Books VIII-XV
+  tradition: roman
+  culture: ancient_roman_myth_later_translation
+  region: mediterranean_rome
+  date_range: 1st-century CE Latin mythic poem; public-domain English translation
+  word_count: 137386
+  target_extraction_records: 35
+  coverage_ratio: 4.429
+  status: dense_draft
+  priority: medium
+  needs_full_extraction: false
+  needs_review_or_normalization: true
+  extraction_record_count: 155
+  generated_record_count: 155
+  needs_review_count: 155
+  reviewed_count: 0
+  candidate_motif_count: 831
+  taxonomy_ref_count: 709
+  comparison_claim_count: 160
+  empty_motif_record_count: 4
+  extraction_paths:
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10032-l10109.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10111-l10175.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10178-l10207.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10210-l10310.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l103-l189.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10312-l10415.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10417-l10444.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10447-l10540.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10542-l10617.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10620-l10708.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1067-l1126.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10710-l10786.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10788-l10883.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10886-l10985.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10987-l11030.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11033-l11116.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11118-l11219.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11221-l11315.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1128-l1209.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11317-l11406.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11409-l11506.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11508-l11560.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11563-l11661.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11663-l11721.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11724-l11824.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11826-l11915.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11917-l11982.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11985-l12039.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1211-l1328.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1330-l1459.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1461-l1546.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1548-l1589.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1592-l1674.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1676-l1772.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1774-l1789.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1792-l1880.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1882-l1949.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l192-l231.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1951-l2042.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l2045-l2065.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l2068-l2150.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l2152-l2232.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l2235-l2321.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l2323-l2391.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l234-l271.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l2393-l2473.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l2475-l2572.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l2575-l2662.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l2664-l2745.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l274-l294.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l2748-l2841.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l2843-l2927.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l2929-l3006.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l297-l312.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3008-l3100.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3102-l3186.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l315-l333.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3188-l3238.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3241-l3332.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3334-l3411.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l336-l354.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3413-l3483.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3485-l3574.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l357-l370.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3576-l3652.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3655-l3750.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l373-l392.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3752-l3838.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3840-l3937.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3940-l3952.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l395-l408.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3955-l4038.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l4040-l4101.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l4104-l4203.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l411-l502.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l4205-l4260.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l4263-l4355.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l4357-l4418.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l4421-l4482.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l4485-l4585.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l4587-l4669.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l4672-l4753.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l4756-l4855.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l4858-l4949.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l4951-l5033.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l5035-l5125.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l504-l600.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l5127-l5208.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l5211-l5307.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l5309-l5389.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l5391-l5474.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l5476-l5534.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l5537-l5632.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l5635-l5712.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l5715-l5795.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l5797-l5875.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l5878-l5963.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l5965-l6001.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6004-l6101.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l602-l632.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6103-l6154.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6157-l6253.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6256-l6345.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6347-l6418.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l635-l725.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6420-l6505.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l65-l100.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6507-l6591.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6594-l6687.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6689-l6760.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6762-l6840.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6842-l6918.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6920-l7009.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7011-l7106.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7108-l7175.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7178-l7276.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7278-l7290.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l728-l812.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7293-l7322.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7325-l7421.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7423-l7527.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7529-l7561.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7564-l7646.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7648-l7732.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7734-l7787.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7789-l7876.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7878-l7962.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7964-l8061.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l8063-l8156.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l814-l896.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l8159-l8258.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l8260-l8334.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l8336-l8395.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l8398-l8452.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l8455-l8538.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l8540-l8622.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l8624-l8692.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l8694-l8768.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l8770-l8858.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l8860-l8963.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l8965-l9091.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l899-l983.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9093-l9130.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9133-l9233.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9235-l9321.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9323-l9399.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9401-l9443.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9446-l9543.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9545-l9638.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9640-l9674.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9677-l9769.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9771-l9861.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l985-l1065.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9863-l9933.yml
+  - extractions/generated/openai-batch/motif-extraction-2026-04-28-high-priority/metamorphoses-books-8-15-riley/batch-motif-roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9935-l10029.yml

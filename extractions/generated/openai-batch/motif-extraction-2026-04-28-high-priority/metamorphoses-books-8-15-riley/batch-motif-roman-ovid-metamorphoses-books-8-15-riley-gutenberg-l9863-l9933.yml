@@ -1,0 +1,480 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9863-l9933
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: BOOK THE THIRTEENTH. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines
+    9863-9933
+  start: '9863'
+  end: '9933'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Polyphemus becomes concerned with his appearance because of love, is warned
+    by Telemus that Ulysses will take his single eye, and dismisses the warning. He
+    goes to a sea-washed hill, plays a reed pipe, and sings to Galatea while a hidden
+    speaker lies with Acis and listens. In the song, Polyphemus praises and reproaches
+    Galatea with many natural comparisons and offers her his cave, fruit, flocks,
+    milk, and twin bear cubs if she will accept him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Polyphemus attends to his hair, beard, and facial appearance in water, and
+    his former violence is said to cease.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Telemus tells Polyphemus that Ulysses will take away the single eye in the
+    middle of his forehead; Polyphemus laughs and rejects the warning.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Polyphemus moves along the shore and returns when weary to a shaded cave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A wedge-shaped hill projects into the sea and is surrounded by ocean waves
+    on both sides.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Polyphemus sits on the hill with his flocks, a pine-tree staff before his
+    feet, and a pipe made of a hundred reeds.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A hidden speaker lies within a rock on the bosom of Acis and hears Polyphemus'
+    words from afar.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Polyphemus addresses Galatea, first praising her beauty with comparisons to
+    plants, glass, shells, sun, shade, fruit, ice, grapes, swan down, and curdled
+    milk, then reproaching her with comparisons to animals, oak, water, rocks, torrent,
+    peacock, fire, thistles, she-bear, ocean waves, water-snake, deer, wind, and air.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Polyphemus offers Galatea access to his cave, fruit trees, berries, cornels,
+    plums, chestnuts, arbute fruit, cattle, lambs, kids, milk, game, doves, and a
+    nest from a treetop.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Polyphemus says he has found twin cubs of a shaggy she-bear on the mountain
+    summit and has kept them for his mistress.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Polyphemus
+  description: A dreadful Cyclop with a single eye in the middle of his forehead;
+    he is in love, tends his appearance, receives Telemus' prophecy, plays a reed
+    pipe, and courts Galatea.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Telemus
+  description: Son of Eurymus, described as a prophet whom no omen had deceived; he
+    warns Polyphemus about Ulysses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ulysses
+  description: Named in Telemus' prophecy as the one who will take away Polyphemus'
+    single eye.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Galatea
+  description: The addressee of Polyphemus' courtship song; he praises her beauty,
+    accuses her of fleeing him, and offers her his possessions.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Acis
+  description: The hidden speaker reclines on Acis' bosom while listening to Polyphemus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: hidden speaker
+  description: A first-person listener hidden within a rock who records Polyphemus'
+    song while reclining with Acis.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Cyclop
+  assigned_to:
+  - fig:1
+  basis: The passage calls him the fierce Cyclop and gives him a single eye.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: lover and suitor
+  assigned_to:
+  - fig:1
+  basis: He tends his appearance, addresses Galatea, and offers goods and his cave
+    in courtship.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: prophecy recipient
+  assigned_to:
+  - fig:1
+  basis: Telemus warns him that Ulysses will take his eye, and he rejects the warning.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: truthful prophet
+  assigned_to:
+  - fig:2
+  basis: Telemus is described as one whom no omen had ever deceived and gives the
+    warning about Ulysses.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: foretold eye-taker
+  assigned_to:
+  - fig:3
+  basis: Telemus says Ulysses shall take away Polyphemus' single eye.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: beloved addressee
+  assigned_to:
+  - fig:4
+  basis: Polyphemus addresses Galatea in a courtship speech and asks her not to flee
+    him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:7
+  label: companion of hidden listener
+  assigned_to:
+  - fig:5
+  basis: The hidden speaker reclines on the bosom of Acis while listening.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: hidden witness
+  assigned_to:
+  - fig:6
+  basis: The speaker is hidden within a rock and hears Polyphemus' words from afar.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: single eye
+  literal_form: The single eye carried in the middle of Polyphemus' forehead.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: reflective water
+  literal_form: Water in which Polyphemus looks at and composes his features.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: shaded cave
+  literal_form: Polyphemus' shaded cave and later the cave in a part of the mountain,
+    protected from heat and winter.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - cave
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: sea-washed hill
+  literal_form: A wedge-shaped hill projecting into the sea, with ocean waves around
+    both sides.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: pine staff
+  literal_form: A pine tree used by Polyphemus as a staff, said to be more fit for
+    sail-yards.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: hundred-reed pipe
+  literal_form: A pipe formed of a hundred reeds, whose sound is felt by mountains
+    and waves.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: pastoral abundance
+  literal_form: Flocks, cattle, lambs, kids, distended udders, and snow-white milk
+    offered or described by Polyphemus.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: fruit and trees of courtship
+  literal_form: Apples, grapes, strawberries, cornels, plums, chestnuts, arbute fruit,
+    and trees placed at Galatea's service.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: fire comparison
+  literal_form: Galatea is described in the song as fiercer than fire.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:10
+  label: water-snake comparison
+  literal_form: Galatea is described in the song as more savage than a trodden water-snake.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:11
+  label: twin bear cubs
+  literal_form: Twin cubs of a shaggy she-bear found on the mountain summit and kept
+    for the mistress.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Prophecy and rejection
+  summary: Telemus warns Polyphemus that Ulysses will take his single eye, but Polyphemus
+    laughs and says another has already taken it away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cyclop on the sea hill
+  summary: Polyphemus sits on a sea-washed hill with his flocks, pine staff, and reed
+    pipe, while a hidden listener reclines with Acis and hears him.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Song to Galatea
+  summary: Polyphemus addresses Galatea with praise and reproach, using many natural
+    comparisons for her beauty, harshness, flight, and resistance.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Offer of cave, herds, milk, and gifts
+  summary: Polyphemus promises Galatea the comforts of his cave, fruits, trees, animals,
+    milk, and twin bear cubs.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:7
+  - sym:8
+  - sym:11
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: prophecy dismissed by its subject
+  taxonomy_refs: []
+  basis: A reliable prophet warns Polyphemus of Ulysses' future attack on his eye,
+    but Polyphemus laughs and rejects the warning.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage provides the warning and rejection but not the later fulfillment.
+- id: motif:2
+  label: monster or dangerous being softened by love
+  taxonomy_refs: []
+  basis: Polyphemus' love is associated with attention to grooming and the cessation
+    of his carnage and thirst for blood.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states the change but does not show whether it is lasting
+    or complete.
+- id: motif:3
+  label: courtship song with catalog of natural comparisons
+  taxonomy_refs: []
+  basis: Polyphemus sings to Galatea, comparing her beauty and resistance to many
+    plants, animals, waters, stones, fire, and other natural objects.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level pattern rather than a named taxonomy item supplied
+    in the request.
+- id: motif:4
+  label: suitor offers pastoral abundance to beloved
+  taxonomy_refs: []
+  basis: Polyphemus offers Galatea his cave, fruits, trees, cattle, milk, animals,
+    and bear cubs as inducements.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage records the offer but not Galatea's response within this excerpt.
+- id: motif:5
+  label: hidden lovers overhear rival suitor
+  taxonomy_refs: []
+  basis: A hidden speaker reclines with Acis while hearing Polyphemus' song to Galatea
+    from afar.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly name the hidden speaker in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9863-9876
+  quote_or_summary: Polyphemus grooms himself and looks in water; Telemus, son of
+    Eurymus, warns that Ulysses will take his single eye, but Polyphemus laughs, says
+    another has taken it already, and later moves along the shore or returns to his
+    shaded cave.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 9877-9889
+  quote_or_summary: A wedge-shaped hill projects into the sea. Polyphemus sits there
+    with flocks, a pine-tree staff, and a hundred-reed pipe; a hidden speaker lying
+    within a rock on Acis' bosom hears his words from afar.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 9890-9910
+  quote_or_summary: Polyphemus addresses Galatea with a long sequence of comparisons,
+    praising her as fair, blooming, bright, sweet, and soft, then reproaching her
+    as wild, hard, unstable, violent, fierce, cruel, deaf, savage, and fleet.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 9911-9929
+  quote_or_summary: Polyphemus says Galatea would not flee if she knew him; he describes
+    his mountain cave, fruits, trees, cattle, lambs, kids, milk, game, doves, and
+    nests as things available to her if he is her husband.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 9930-9933
+  quote_or_summary: Polyphemus says he found twin cubs of a shaggy she-bear on the
+    mountain summit and kept them for his mistress.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage clearly supports figures, settings, objects, speeches, and candidate
+    motifs. No comparison claims were made because the passage itself does not explicitly
+    compare this episode to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All taxonomy references are limited to supplied symbol references where the literal form appears in the passage; motif taxonomy references were left empty where unsupported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l9863-l9933
+  passage_sha256=35e9e370e9a3935a7f0bf178bd35c106c22914182148622ced6d7a0483592f94
+

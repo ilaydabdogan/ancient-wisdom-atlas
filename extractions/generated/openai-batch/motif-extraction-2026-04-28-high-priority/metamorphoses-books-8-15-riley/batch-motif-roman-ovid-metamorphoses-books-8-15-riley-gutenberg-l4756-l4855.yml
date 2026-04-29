@@ -1,0 +1,483 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l4756-l4855
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 4756-4855
+  start: '4756'
+  end: '4855'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains transformations of Cypriot peoples into bulls and
+    rocks, then narrates Pygmalion’s rejection of women, his creation and love of
+    an ivory statue, his prayer to Venus, the statue’s animation, their marriage,
+    and the birth of Paphos.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The explanatory section says the Cerastæ of Cyprus were said to have been
+    changed into bulls, connected with their barbarous sacrifices and with horn-like
+    promontories of Cyprus.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The explanatory section says the Propœtides were women of Cyprus described
+    as dissolute and transformed into rocks by poetic tradition.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pygmalion is shocked by the lives of the Propœtides and chooses to live without
+    a wife.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Pygmalion carves a snow-white ivory statue with exceptional beauty and falls
+    in love with his own workmanship.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Pygmalion kisses, speaks to, touches, adorns, and places the statue on a couch
+    as though she were a living companion.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: At a festival of Venus in Cyprus, Pygmalion makes an offering and prays for
+    a wife like the ivory statue.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A flame rises three times as a favorable omen from Venus.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After Pygmalion returns, the ivory statue grows warm, softens, and becomes
+    a real body with throbbing veins.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The animated maiden blushes, opens her eyes to the light, and sees Pygmalion
+    and the heavens.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Venus is present at the marriage she effected, and after nine lunar months
+    the maiden gives birth to Paphos, whose name is given to the island.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Cerastæ
+  description: A people of Cyprus said in the explanatory passage to have been changed
+    into bulls.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Propœtides
+  description: Cypriot women described as dissolute and as transformed into rocks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Pygmalion
+  description: A Paphian man who carves an ivory statue, loves it, prays to Venus,
+    and marries the animated maiden.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Ivory statue / maiden
+  description: A snow-white ivory figure carved by Pygmalion that is animated and
+    becomes his bride.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Venus
+  description: The goddess present at her festival who understands Pygmalion’s prayer,
+    gives a favorable omen, animates the statue, and attends the marriage.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Paphos
+  description: The child born after the marriage, from whom the island derived its
+    name.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: transformed Cypriot people
+  assigned_to:
+  - fig:1
+  basis: The passage says the Cerastæ were said to have been changed into bulls.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: petrified women
+  assigned_to:
+  - fig:2
+  basis: The passage says the Propœtides were said to have been transformed into rocks.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: craftsman
+  assigned_to:
+  - fig:3
+  basis: Pygmalion carves the ivory statue with wondrous skill.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: lover and petitioner
+  assigned_to:
+  - fig:3
+  basis: Pygmalion falls in love with the statue and prays for a wife like it.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: crafted beloved
+  assigned_to:
+  - fig:4
+  basis: The ivory statue is made by Pygmalion and treated as the object of his affection.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: animated bride
+  assigned_to:
+  - fig:4
+  basis: The statue becomes a living maiden and marries Pygmalion.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: divine animator and marriage patron
+  assigned_to:
+  - fig:5
+  basis: Venus understands the prayer, gives an omen, and is present at the marriage
+    she effected.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:8
+  label: eponymous child
+  assigned_to:
+  - fig:6
+  basis: Paphos is born from the union and gives his name to the island.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: bull transformation
+  literal_form: Bulls or oxen associated with the Cerastæ transformation and horn-name
+    explanation.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rock transformation
+  literal_form: Rocks into which the Propœtides are said to have been transformed.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ivory statue
+  literal_form: Snow-white ivory statue carved by Pygmalion.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: altar and sacrificial offering
+  literal_form: Festival altar of Venus with heifers sacrificed and frankincense smoking.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: favorable flame omen
+  literal_form: Flame kindled three times and rising into the air.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: softening wax comparison
+  literal_form: Hymettian wax softened by the sun and fingers, used to describe the
+    ivory becoming pliable.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: nine lunar months
+  literal_form: The horns of the moon gathered nine times into a full orb before Paphos
+    is born.
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Explanations of Cypriot transformations
+  summary: The passage rationalizes stories that the Cerastæ became bulls and the
+    Propœtides became rocks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pygmalion rejects women and makes an ivory figure
+  summary: Pygmalion, repelled by the Propœtides, lives without a wife, carves an
+    ivory statue, and falls in love with it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Pygmalion treats the statue as a beloved
+  summary: Pygmalion kisses, addresses, touches, clothes, ornaments, and couches the
+    statue as a companion.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Prayer to Venus and omen
+  summary: During Venus’s festival, Pygmalion sacrifices, prays for a wife like the
+    ivory statue, and receives a triple flame omen.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Animation of the ivory maiden
+  summary: Pygmalion returns to the statue; it grows warm, softens like wax, and becomes
+    a living body.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Marriage and birth of Paphos
+  summary: The maiden responds to Pygmalion, Venus attends their marriage, and after
+    nine lunar months Paphos is born.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: human group transformed into animals
+  taxonomy_refs:
+  - shapeshifter
+  basis: The Cerastæ are said to have been changed into bulls or oxen.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an explanatory rationalization rather than the full narrative
+    of the transformation.
+- id: motif:2
+  label: women transformed into rocks
+  taxonomy_refs:
+  - shapeshifter
+  basis: The Propœtides are described as transformed into rocks.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The transformation is presented in an explanatory note and not narrated
+    in detail here.
+- id: motif:3
+  label: crafted image becomes living beloved
+  taxonomy_refs:
+  - divine_beloved
+  basis: Pygmalion creates an ivory statue, loves it, prays to Venus, and the statue
+    becomes a living maiden and bride.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The available taxonomy does not include a specific animated-statue category;
+    divine_beloved is an approximate family reference.
+- id: motif:4
+  label: prayer and offering answered by deity
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Pygmalion offers at Venus’s altar, asks for a wife like the statue, and Venus
+    responds with a favorable omen and fulfilled request.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The exchange is devotional rather than a negotiated bargain.
+- id: motif:5
+  label: divinely effected marriage
+  taxonomy_refs:
+  - sacred_marriage
+  basis: Venus is present at the marriage which she effected between Pygmalion and
+    the animated maiden.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is not a marriage between deities; the taxonomy reference is used
+    for divine sanction of marriage.
+- id: motif:6
+  label: birth of eponymous child after divine intervention
+  taxonomy_refs:
+  - sacred_birth
+  basis: The animated bride gives birth to Paphos after a union made possible by Venus,
+    and the island derives its name from him.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The child’s divine status is not stated; the sacred element lies in the
+    divine animation and marriage arrangement.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4756-4770
+  quote_or_summary: The Cerastæ of Cyprus are said to have been changed into bulls;
+    the explanation links this to barbarous sacrifices, horn-like promontories, and
+    the name Cerastis from the Greek word for horn.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4772-4779
+  quote_or_summary: The Propœtides of Cyprus are described as dissolute women; the
+    explanation says poets told that they were transformed into rocks.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4780-4798
+  quote_or_summary: Pygmalion is shocked by the Propœtides, lives without a wife,
+    carves a snow-white ivory statue of surpassing beauty, and loves his own workmanship.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4800-4820
+  quote_or_summary: Pygmalion handles, kisses, speaks to, adorns, and couches the
+    statue, treating it as a maiden companion.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4822-4835
+  quote_or_summary: At Venus’s festival, Pygmalion offers sacrifice and asks for a
+    wife like the ivory statue; Venus understands, and a flame rises three times as
+    a favorable divine omen.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4835-4847
+  quote_or_summary: Pygmalion returns, kisses the image, and it grows warm; the ivory
+    softens like Hymettian wax and becomes a real body with throbbing veins.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4849-4855
+  quote_or_summary: Pygmalion thanks Venus; the maiden feels his kisses, blushes,
+    sees him and the heavens, Venus attends the marriage, and after nine lunar months
+    Paphos is born.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The Pygmalion narrative is explicit and detailed. Motif taxonomy assignments
+    are partly approximate because the supplied taxonomy lacks a specific animated-statue
+    motif. No comparison claims were made because the passage itself does not support
+    cross-textual or cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; comparison_claims left empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l4756-l4855
+  passage_sha256=516db4c1243bc2b476765c94b39301ea7d0febacc2bfa7d768bb3ea8067e1bcd
+

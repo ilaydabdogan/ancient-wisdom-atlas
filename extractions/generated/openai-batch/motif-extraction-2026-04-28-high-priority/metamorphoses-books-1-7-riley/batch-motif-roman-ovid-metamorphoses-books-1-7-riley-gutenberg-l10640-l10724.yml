@@ -1,0 +1,540 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10640-l10724
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE SEVENTH.; lines 10640-10724
+  start: '10640'
+  end: '10724'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Jason and the Argonauts arriving in Colchis to demand
+    the Golden Fleece. Medea, daughter of Aeetes, falls violently in love with Jason
+    and debates whether to aid him against the dangerous tasks set by her father,
+    including fire-breathing bulls, earth-born warriors, and a dragon. She weighs
+    love, reason, family loyalty, promises of marriage, departure from her homeland,
+    and fear of guilt.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jason and the Argonauts arrive in Colchis after earlier adventures and demand
+    the Golden Fleece.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: The Argonauts travel by sea in the Pagasaean ship and reach the waters of
+    the Phasis.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fleece is described as formerly belonging to Phryxus.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Aeetes' daughter Medea develops a violent passion for Jason and recognizes
+    a conflict between desire and reason.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: Jason faces tasks involving bulls, earth-born enemies, and a ravenous dragon.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Medea considers saving Jason through her own aid and requiring him to pledge
+    faith before the gods.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Medea imagines marriage to Jason and fame among Pelasgian women as the preserver
+    of their sons.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Medea weighs leaving her sister, brother, father, gods, and native soil.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Medea imagines sea dangers including mountains in the waves, Charybdis, and
+    Scylla.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Medea's speech ends by naming her contemplated action as criminality and urging
+    flight from guilt.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Jason
+  description: Leader associated with the Argonauts, son of Aeson, seeker of the Golden
+    Fleece, and object of Medea's love and aid.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Medea
+  description: Daughter of Aeetes who falls in love with Jason, debates aiding him,
+    and considers leaving her homeland and family.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: Aeetes
+  description: Medea's father and king whose commands and conditions for Jason are
+    described as severe.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:4
+  name_or_label: Argonauts / Minyae
+  description: Companions of Jason who travel by sea in the Pagasaean ship to Colchis.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Phineus
+  description: An aged distressed man under perpetual night whom the voyagers had
+    visited before reaching the Phasis.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: sons of the North wind
+  description: Youthful figures who drive away birds with the faces of virgins from
+    before Phineus' mouth.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: birds with faces of virgins
+  description: Birds driven away from Phineus by the sons of the North wind.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: bulls
+  description: Dangerous bulls whose mouths threaten to breathe upon Jason.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: earth-born enemies
+  description: Hostile beings or crops said to spring from the earth and threaten
+    Jason.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: dragon
+  description: A ravenous, never-sleeping dragon that threatens Jason.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:11
+  name_or_label: Cupid
+  description: Divine figure named by Medea as persuading one course while reason
+    persuades another.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: questing hero
+  assigned_to:
+  - fig:1
+  basis: Jason seeks the Golden Fleece and must face dangerous labors.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: enamored helper
+  assigned_to:
+  - fig:2
+  basis: Medea falls in love with Jason and considers aiding and preserving him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:3
+  label: conflicted daughter
+  assigned_to:
+  - fig:2
+  basis: Medea debates betraying her father's kingdom and leaving family, gods, and
+    homeland.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: role:4
+  label: beloved stranger
+  assigned_to:
+  - fig:1
+  basis: Medea calls Jason a stranger and desires marriage with him.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: task-setting father king
+  assigned_to:
+  - fig:3
+  basis: The conditions for the fleece are linked to the king and Medea calls her
+    father's commands rigid.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: voyaging companions
+  assigned_to:
+  - fig:4
+  basis: The Minyae travel with Jason by sea and reach the Phasis.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: ordeal adversaries
+  assigned_to:
+  - fig:8
+  - fig:9
+  - fig:10
+  basis: The bulls, earth-born enemies, and dragon are named as dangers Jason will
+    face.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: divine impulse toward love
+  assigned_to:
+  - fig:11
+  basis: Medea says Cupid persuades one thing while reason persuades another.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Golden Fleece
+  literal_form: fleece once belonging to Phryxus
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Pagasaean ship
+  literal_form: ship carrying the Minyae over the sea
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Phasis waters
+  literal_form: rapid muddy waters of the Phasis
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: dragon
+  literal_form: ravenous never-sleeping dragon
+  associated_figures:
+  - fig:1
+  - fig:10
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: earth-born enemies
+  literal_form: hostile crop or sons sprung from the earth
+  associated_figures:
+  - fig:1
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: sea hazards
+  literal_form: mountains in waves, Charybdis, and Scylla in the Sicilian deep
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: pledge before gods
+  literal_form: compact witnessed by the gods
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Arrival and demand for the fleece
+  summary: Jason and the Argonauts reach Colchis and ask the king for the Golden Fleece,
+    for which severe labors are set.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Medea's internal conflict
+  summary: Medea experiences violent love for Jason and debates between Cupid's persuasion
+    and reason.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Imagined ordeals of Jason
+  summary: Medea imagines Jason facing bulls, earth-born enemies, and a ravenous dragon
+    unless she aids him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Promise, marriage, and departure debated
+  summary: Medea considers requiring Jason's oath, saving him, marrying him, and leaving
+    family, gods, and homeland.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Sea journey imagined with Jason
+  summary: Medea imagines crossing wide seas with Jason despite reported maritime
+    hazards, then rebukes herself for contemplating guilt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Quest for a guarded golden prize
+  taxonomy_refs:
+  - mystical_quest
+  basis: Jason and the Argonauts demand the Golden Fleece and must confront severe
+    labors to obtain it.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage summarizes the quest opening rather than narrating the full
+    acquisition in detail.
+- id: motif:2
+  label: Enamored foreign helper aids the hero
+  taxonomy_refs: []
+  basis: Medea falls in love with Jason and considers using her aid to preserve him
+    from the tasks.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage presents the decision process; the practical aid is previewed
+    in the introductory summary.
+- id: motif:3
+  label: Hero tested by monstrous and earth-born adversaries
+  taxonomy_refs:
+  - initiation
+  basis: Jason's dangers include bulls, enemies sprung from the earth, and a ravenous
+    dragon.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The initiation label is interpretive and should be reviewed; the passage
+    itself frames the dangers as labors.
+- id: motif:4
+  label: Serpentine guardian or adversary
+  taxonomy_refs:
+  - serpent
+  basis: A ravenous, never-sleeping dragon is among the dangers guarding Jason's success.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The text says dragon, not serpent; the taxonomy association is based on
+    common dragon-serpent overlap and needs review.
+- id: motif:5
+  label: Love versus kinship loyalty
+  taxonomy_refs: []
+  basis: Medea debates saving Jason against betraying her father's kingdom and leaving
+    family, gods, and native soil.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this interpersonal conflict.
+- id: motif:6
+  label: Departure from homeland with beloved
+  taxonomy_refs:
+  - departure
+  basis: Medea imagines being borne away by winds, leaving family and homeland, and
+    crossing seas with Jason.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage presents the departure as contemplated, while the summary
+    indicates Medea is carried off with Jason.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10640-10648
+  quote_or_summary: The fable summary says Jason arrives in Colchis with the Argonauts,
+    demands the Golden Fleece, is preserved by Medea's enchantments, obtains the prize,
+    carries off Medea, and returns to Thessaly.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 10649-10657
+  quote_or_summary: The Minyae sail in the Pagasaean ship, after the Phineus episode,
+    and reach the rapid muddy waters of the Phasis.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 10658-10662
+  quote_or_summary: The voyagers ask for the fleece of Phryxus; difficult conditions
+    involving many labors are offered; Aeetes' daughter conceives a violent passion.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: quote
+  locator: lines 10662-10679
+  quote_or_summary: "“Cupid persuades one thing, reason another. I see which is the
+    more proper course, and I approve of it, while I follow the wrong one.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 10680-10694
+  quote_or_summary: Medea says that without her aid Jason will face bulls, enemies
+    sprung from the earth, and a ravenous never-sleeping dragon.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 10695-10706
+  quote_or_summary: Medea considers saving Jason, requiring him to pledge faith before
+    the gods, marrying him, and being celebrated as preserver of Greek youths.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: lines 10707-10716
+  quote_or_summary: Medea asks whether she will leave her sister, brother, father,
+    gods, and homeland, then reasons that her father is cruel, her country barbarous,
+    and her sister favorable.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: summary
+  locator: lines 10717-10722
+  quote_or_summary: Medea imagines mountains rising in the waves, Charybdis, Scylla,
+    and crossing wide seas while clinging to Jason.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:9
+  type: quote
+  locator: lines 10723-10724
+  quote_or_summary: "“Do but consider how great an offence thou art meditating, and,
+    while still thou mayst, fly from guilt.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels using supplied
+    taxonomy are conservative and marked where interpretive.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparative claim to another tradition or motif family beyond the local mythic narrative.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l10640-l10724
+  passage_sha256=6b7cf2c2b124495e5fa7739234139ad0324fc297f49c46c03b13aca7c5f6828e
+

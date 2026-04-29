@@ -1,0 +1,211 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3940-l3952
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 3940-3952
+  start: '3940'
+  end: '3952'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The explanatory note says that Ovid’s story of Iphis, set in Crete, involves
+    a young woman being changed into a man. It states that ancient history is silent
+    about the event, suggests possible rationalizing origins in disguise or androgynous
+    formation, and proposes that Ovid may have invented the story to show deities
+    rewarding piety and obedience.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies a story in which Iphis is changed from a young woman
+    into a man.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Ovid sets the story in the isle of Crete.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that ancient history is entirely silent about the alleged
+    fact behind the story.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage suggests that the story may have originated in a damsel disguised
+    in male dress until the point of marriage.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage also suggests that the story may have been based on an account
+    of androgynous formation.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says Ovid may have invented the story as a vehicle for showing
+    that deities recompense piety and strict obedience to their injunctions.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Iphis
+  description: A young woman in Ovid’s story who is changed into a man.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ovid
+  description: The poet who sets the story in Crete and may possibly have invented
+    it for a didactic purpose.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Deities
+  description: Divine beings said to recompense piety and strict obedience to their
+    injunctions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: damsel in male dress
+  description: A hypothetical disguised young woman proposed by the explanation as
+    one possible origin of the story.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: transformed person
+  assigned_to:
+  - fig:1
+  basis: Iphis is described as being changed from a young woman into a man.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: possible inventor of story
+  assigned_to:
+  - fig:2
+  basis: The passage says Ovid may possibly have invented the story himself.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: divine recompensers
+  assigned_to:
+  - fig:3
+  basis: The deities are said to recompense piety and strict obedience.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: hypothetical disguised bridegroom figure
+  assigned_to:
+  - fig:4
+  basis: The passage hypothesizes a damsel in male dress maintained in disguise to
+    the point of marriage.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Explanation of Iphis story and possible origins
+  summary: The note summarizes the Iphis transformation story, locates it in Crete,
+    states that historical evidence is lacking, offers rationalizing explanations,
+    and suggests a possible moral purpose involving divine reward for piety and obedience.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: bodily transformation from female to male
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage describes Iphis as changed from a young woman into a man.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: 'The taxonomy reference is approximate: the passage describes transformation,
+    but not voluntary shapeshifting.'
+- id: motif:2
+  label: divine reward for piety and obedience
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage states that the story may show deities recompensing piety and
+    strict obedience to their injunctions.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy term is broader than the passage’s specific emphasis
+    on recompense rather than punishment or formal judgment.
+- id: motif:3
+  label: gender disguise carried to marriage
+  taxonomy_refs: []
+  basis: The passage proposes as a possible origin a damsel in male dress whose disguise
+    continued to the point of marriage.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: This is a rationalizing hypothesis in the explanatory note, not necessarily
+    a motif in Ovid’s narrative itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3940-3943
+  quote_or_summary: The explanation describes the story of Iphis being changed from
+    a young woman into a man, says Ovid places it in Crete, and notes that ancient
+    history is silent about it.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 3943-3948
+  quote_or_summary: The explanation suggests possible origins in a damsel’s male disguise
+    continued to marriage, or in an account of androgynous formation.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 3950-3952
+  quote_or_summary: The explanation says Ovid may have invented the story to show
+    how deities recompense piety and strict obedience to their injunctions.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based on a short explanatory passage. Motif labels are
+    cautious because the note is interpretive and rationalizing rather than the primary
+    narrative scene.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself make a comparative claim beyond internal rationalizing explanations.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l3940-l3952
+  passage_sha256=75e627a67a6cca489eb63fa1974d55eb46e0b8f9eb4614e446594bda905113d6
+

@@ -1,0 +1,516 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l4421-l4482
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: BOOK THE TENTH. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 4421-4482
+  start: '4421'
+  end: '4482'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains Cyparissus as a youth associated with Apollo, transformed
+    into a cypress whose funerary use marks sorrow, and notes a variant association
+    with Sylvanus. It then introduces and narrates the story of Jupiter, who becomes
+    an eagle to carry off Ganymede to heaven, where Ganymede serves nectar as cup-bearer
+    despite Juno's displeasure. The bard frames the song as concerning youths beloved
+    by gods and girls punished for unlawful desires.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cyparissus is described as born at Carthaea in Cea, talented in polite arts,
+    and deemed a favorite of Apollo.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cyparissus' transformation into a cypress is explained through resemblance
+    between his name and the Greek name of the tree.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Apollo is said to have enjoined that the cypress should be a symbol of sorrow,
+    used at funerals and planted near graves and sepulchres.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Some ancient writers are said to describe Cyparissus as a youth beloved by
+    Sylvanus, who is therefore represented with cypress branches.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A bard sits amid a grove, wild beasts, and birds, tests the strings, and begins
+    a song invoking his parent Muse and Jove.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The bard states that the song will concern youths beloved by gods and girls
+    driven by unlawful flames and punished for wanton desires.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Jupiter is inflamed with passion for Ganymede and chooses to transform into
+    an eagle, the bird able to carry his thunderbolts.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: In eagle form, Jupiter strikes the air with fictitious wings and carries off
+    the youth of Ilium.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Ganymede is described as mingling cups and serving nectar to Jove, against
+    Juno's will.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The footnote explains the eagle as Jove's attendant bird and thunderbolt-carrier,
+    associated with high flight, gazing at the sun, immunity from lightning, and service
+    in wars against the Titans.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Cyparissus
+  description: A youth from Carthaea in Cea, associated with Apollo and transformed
+    into a cypress; in another report beloved by Sylvanus.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Apollo
+  description: A god for whom Cyparissus is deemed a favorite and who enjoins the
+    cypress as a symbol of sorrow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Sylvanus
+  description: A god said by some ancient writers to have loved Cyparissus and to
+    be represented with cypress branches.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: the bard
+  description: A singer seated amid trees, wild beasts, and birds, who tests strings
+    and raises a song beginning from Jove.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Jupiter / Jove
+  description: King of the gods, subject of the bard's invocation, who transforms
+    into an eagle to carry off Ganymede and is served nectar by him.
+  role_refs:
+  - role:6
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Ganymede
+  description: A beautiful youth of Ilium carried off by Jupiter and made cup-bearer
+    of the divinities, serving nectar to Jove.
+  role_refs:
+  - role:2
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Juno
+  description: A goddess whose will is opposed to Ganymede's service of nectar to
+    Jove.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: parent Muse
+  description: The Muse invoked by the bard at the beginning of his song.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Giants
+  description: Beings previously sung of by the bard in relation to Jove's victorious
+    thunderbolts on the Phlegraean plains.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: transformed youth
+  assigned_to:
+  - fig:1
+  basis: The explanation says Cyparissus' transformation into a cypress is part of
+    the story.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: beloved youth
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: Cyparissus is described as favored or beloved by gods, and Ganymede is introduced
+    among youths beloved by gods and desired by Jupiter.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: divine institutor of mourning symbol
+  assigned_to:
+  - fig:2
+  basis: Apollo is said to have enjoined the cypress as the symbol of sorrow used
+    in funerary contexts.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine lover with cypress emblem
+  assigned_to:
+  - fig:3
+  basis: Sylvanus is reported as loving Cyparissus and being represented with cypress
+    branches.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: singer and narrator
+  assigned_to:
+  - fig:4
+  basis: The bard attracts the grove and animals, tests the strings, and begins the
+    song.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: king of the gods
+  assigned_to:
+  - fig:5
+  basis: The bard calls Jove the figure to whom all things submit and later calls
+    him king of the gods above.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: divine shapeshifter
+  assigned_to:
+  - fig:5
+  basis: Jupiter transforms himself into an eagle.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: divine abductor
+  assigned_to:
+  - fig:5
+  basis: In eagle form he carries off Ganymede, the youth of Ilium.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: heavenly cup-bearer
+  assigned_to:
+  - fig:6
+  basis: Ganymede mingles cups and serves nectar to Jove after being carried off.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: opposing divine wife
+  assigned_to:
+  - fig:7
+  basis: Ganymede's service to Jove is said to occur much against Juno's will.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: invoked muse
+  assigned_to:
+  - fig:8
+  basis: The bard begins by invoking his parent Muse.
+  evidence_refs:
+  - ev:5
+- id: role:12
+  label: defeated adversaries of Jove
+  assigned_to:
+  - fig:9
+  basis: The bard refers to previous songs of the Giants and Jove's victorious thunderbolts.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: cypress as sorrow and funerary marker
+  literal_form: Cypress tree and cypress branches
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: eagle form of Jupiter
+  literal_form: Eagle
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: thunderbolts of Jove
+  literal_form: Thunderbolts / bolts
+  associated_figures:
+  - fig:5
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: nectar and cups
+  literal_form: Cups and nectar served by Ganymede
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: lyre or strings of song
+  literal_form: Strings struck with the bard's thumb; softer lyre
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: grave-planted funerary tree
+  literal_form: Cypress planted near graves and sepulchres
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Explanation of Cyparissus and the cypress
+  summary: The passage explains Cyparissus' association with Apollo, his transformation
+    into a cypress, and the cypress' use as a symbol of sorrow in funerary settings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Variant link between Cyparissus and Sylvanus
+  summary: A variant note says Cyparissus was beloved by Sylvanus, who is represented
+    holding cypress branches.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: The bard begins the divine-beloved song
+  summary: The bard sits among trees, beasts, and birds, tests his strings, invokes
+    the Muse and Jove, and announces themes of youths beloved by gods and punished
+    unlawful desires.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Jupiter abducts Ganymede in eagle form
+  summary: Jupiter desires Ganymede, transforms into an eagle, carries him off, and
+    Ganymede becomes the nectar-serving cup-bearer to Jove despite Juno's displeasure.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Human transformed into a tree of mourning
+  taxonomy_refs:
+  - shapeshifter
+  basis: Cyparissus is explicitly said to be transformed into a cypress, which Apollo
+    makes a symbol of sorrow and funerary use.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents an etiological explanation
+    of a tree's funerary symbolism rather than a full shapeshifter cycle.
+- id: motif:2
+  label: Youth beloved by a god
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage describes Cyparissus as favored by Apollo and beloved by Sylvanus
+    in another account, and frames Ganymede as one of the youths beloved by gods.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage treats Cyparissus partly in explanatory commentary and Ganymede
+    in the narrated fable.
+- id: motif:3
+  label: Divine abduction of a beloved youth
+  taxonomy_refs:
+  - stolen_beloved
+  - divine_beloved
+  basis: Jupiter, desiring Ganymede, becomes an eagle and carries him off.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not describe Ganymede's response beyond later service
+    as cup-bearer.
+- id: motif:4
+  label: God transforms into a bird
+  taxonomy_refs:
+  - shapeshifter
+  basis: Jupiter explicitly transforms into an eagle to abduct Ganymede.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The transformation is a divine disguise or assumed form, not necessarily
+    a permanent metamorphosis.
+- id: motif:5
+  label: Mortal taken into heaven for divine service
+  taxonomy_refs:
+  - ascent
+  basis: The fable summary says Ganymede is taken up into Heaven and made cup-bearer
+    of the divinities; the narration says he serves nectar to Jove.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage emphasizes abduction and service more than a voluntary ascent
+    journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4421-4428
+  quote_or_summary: Cyparissus is described as a youth from Carthaea in Cea, deemed
+    a favorite of Apollo; his transformation into a cypress is linked to the resemblance
+    between his name and the Greek name of the tree.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 4428-4432
+  quote_or_summary: Apollo is said to have made the cypress a symbol of sorrow, used
+    at funerals and planted near graves and sepulchres, with a melancholy aspect noted
+    as possible rationale.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 4434-4436
+  quote_or_summary: Some ancient writers say Cyparissus was beloved by Sylvanus, explaining
+    representations of Sylvanus with cypress branches.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 4444-4451
+  quote_or_summary: The bard sits amid a grove, wild beasts, and birds, tests the
+    strings, perceives harmony among different tones, and begins to sing.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 4451-4460
+  quote_or_summary: The bard invokes his parent Muse and Jove, recalls previous songs
+    of Giants and thunderbolts, and announces a softer song about youths beloved by
+    gods and girls punished for unlawful flames.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 4438-4442, 4462-4469
+  quote_or_summary: The fable states Jupiter is charmed by Ganymede, transforms into
+    an eagle, carries him to Heaven, and makes him cup-bearer; the narration says
+    Jupiter desires Ganymede, takes eagle form, carries off the youth of Ilium, and
+    Ganymede serves nectar to Jove against Juno's will.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: lines 4479-4482
+  quote_or_summary: The footnote explains the eagle as Jove's attendant bird, able
+    to carry thunderbolts and associated with high flight, the sun, immunity from
+    lightning, and service as Jupiter's armour-bearer.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels use only passage-supported
+    patterns and available broad taxonomy; some taxonomy matches are approximate,
+    especially tree transformation under shapeshifter and heavenly translation under
+    ascent.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources used; comparison_claims left empty because the passage itself provides thematic framing but no explicit cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l4421-l4482
+  passage_sha256=9fd6b16d311320261843741949a9f34292b8a46b2b4d4c03b765943b864ae4d5
+

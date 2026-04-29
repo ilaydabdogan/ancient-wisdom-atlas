@@ -1,0 +1,552 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l8063-l8156
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / BOOK THE TWELFTH. / EXPLANATION.; lines 8063-8156
+  start: '8063'
+  end: '8156'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of explanatory footnotes to Ovid, identifying variant
+    names, explaining ritual fires at marriage, clarifying terms for blood, Centaurs,
+    vessels, torches, votive stag horns, weapons, places, weaving, and naming figures
+    such as Nessus, Hercules, Deianira, Nestor, Castor, Cyllarus, and Mopsus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hippodame is identified with variant names in Propertius and Plutarch.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fires mentioned are explained as nuptial torches and altar fires for sacrifice
+    to Hymenaeus and other marriage divinities.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note explains a phrase concerning clots or globes of blood.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The notes repeatedly explain Centaurs as double-limbed or twofold beings with
+    a horse-part.
+  category: attribute
+  evidence_refs:
+  - ev:4
+  - ev:10
+  - ev:11
+- id: obs:5
+  text: A cask is explained as a vessel for wine and also for drawing water.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A torch or chandelier is explained as a fibrous, pitch- or wax-smeared light,
+    here possibly with several branches.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Stag horns are described as votive gifts frequently offered to deities, especially
+    Diana.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Virgil is cited as an example in which Mycon vows stag horns to Diana.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Nessus the Centaur is said to have died from Hercules' arrow when about to
+    offer violence to Deianira.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: A strap of leather is described as fastening a lance or javelin so it could
+    be drawn back after being thrown.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Nestor is characterized as showing a propensity for boasting.
+  category: attribute
+  evidence_refs:
+  - ev:12
+- id: obs:12
+  text: Mopsus is identified as a prophet and one of the Lapithae.
+  category: attribute
+  evidence_refs:
+  - ev:13
+- id: obs:13
+  text: The passage explains loom terminology for woof and warp threads.
+  category: object
+  evidence_refs:
+  - ev:14
+figures:
+- id: fig:1
+  name_or_label: Hippodame
+  description: A woman whose name is identified in the note with Ischomache and Deidamia
+    in other authors.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hymenaeus
+  description: A marriage divinity associated with altar sacrifice and nuptial fires.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Other tutelary divinities of marriage
+  description: Unnamed divinities of marriage associated with altar sacrifice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Centaurs
+  description: Double-limbed or twofold beings with a horse-part.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:10
+  - ev:11
+- id: fig:5
+  name_or_label: Diana
+  description: A deity, especially associated here with votive stag horns and the
+    chase.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Mycon
+  description: A figure in Virgil cited as vowing stag horns to Diana.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Nessus
+  description: A Centaur said to have been killed by an arrow of Hercules after threatening
+    Deianira.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Hercules
+  description: The figure whose arrow killed Nessus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Deianira
+  description: The woman toward whom Nessus was about to offer violence.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Nestor
+  description: A figure noted for boasting in this passage's explanation.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:12
+- id: fig:11
+  name_or_label: Mopsus
+  description: A prophet and one of the Lapithae.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:13
+- id: fig:12
+  name_or_label: Lapithae
+  description: A group to which Mopsus belongs.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:13
+roles:
+- id: role:1
+  label: variantly named woman
+  assigned_to:
+  - fig:1
+  basis: The note gives alternate names for Hippodame in Propertius and Plutarch.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: marriage divinity
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The fires are connected with sacrifice to Hymenaeus and other tutelary divinities
+    of marriage.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: twofold hybrid beings
+  assigned_to:
+  - fig:4
+  basis: The notes explain the Centaurs as double-limbed, twofold, and horse-part
+    beings.
+  evidence_refs:
+  - ev:4
+  - ev:10
+  - ev:11
+- id: role:4
+  label: recipient of votive stag horns
+  assigned_to:
+  - fig:5
+  basis: The note states that stag horns were especially offered to Diana.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: votary
+  assigned_to:
+  - fig:6
+  basis: Mycon is cited as vowing stag horns to Diana.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: slain Centaur aggressor
+  assigned_to:
+  - fig:7
+  basis: Nessus is described as a Centaur killed by Hercules' arrow when about to
+    offer violence to Deianira.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: slayer with arrow
+  assigned_to:
+  - fig:8
+  basis: Hercules' arrow caused Nessus' death.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: threatened woman
+  assigned_to:
+  - fig:9
+  basis: Nessus was about to offer violence to Deianira.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: boaster
+  assigned_to:
+  - fig:10
+  basis: The note says Nestor shows a propensity for boasting.
+  evidence_refs:
+  - ev:12
+- id: role:10
+  label: prophet
+  assigned_to:
+  - fig:11
+  basis: Mopsus is explicitly identified as a prophet.
+  evidence_refs:
+  - ev:13
+- id: role:11
+  label: people or group affiliation
+  assigned_to:
+  - fig:12
+  basis: Mopsus is identified as one of the Lapithae.
+  evidence_refs:
+  - ev:13
+symbols:
+- id: sym:1
+  label: nuptial and sacrificial fires
+  literal_form: fires of nuptial torches and altars
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: votive stag horns
+  literal_form: horns of a stag offered to deities, especially Diana
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: double-limbed Centaur body
+  literal_form: twofold body with human and horse aspects
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:10
+  - ev:11
+- id: sym:4
+  label: retractable lance or javelin strap
+  literal_form: leather thong fastening a lance or javelin so it can be drawn back
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: warp and woof threads
+  literal_form: loom threads named as woof and warp
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:14
+scenes:
+- id: scene:1
+  label: Marriage ritual fires explained
+  summary: The explanatory note identifies the fires as nuptial torches and altar
+    fires for sacrifices to Hymenaeus and other marriage divinities.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Votive offering of stag horns
+  summary: The note explains that stag horns were offered as votive gifts to deities,
+    especially Diana, and cites Mycon's vow in Virgil.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+- id: scene:3
+  label: Death of Nessus recalled
+  summary: The note recalls that Nessus the Centaur died from Hercules' arrow when
+    he was about to offer violence to Deianira.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:8
+- id: scene:4
+  label: Centaurs' twofold form explained
+  summary: Several notes clarify expressions referring to the Centaurs' double-limbed
+    or horse-part nature.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:10
+  - ev:11
+- id: scene:5
+  label: Prophet Mopsus identified
+  summary: The note identifies Mopsus as a prophet and as one of the Lapithae.
+  figure_refs:
+  - fig:11
+  - fig:12
+  symbol_refs: []
+  evidence_refs:
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: marriage rites with sacred fire and sacrifice
+  taxonomy_refs:
+  - sacred_marriage
+  - sacrifice
+  basis: The note explains fires as nuptial torches and altar fires for sacrifices
+    to marriage divinities.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a commentator's explanatory footnote, not the full narrative
+    scene.
+- id: motif:2
+  label: votive offering to a deity
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: Stag horns are described as votive gifts to deities, especially Diana, with
+    a cited vow by Mycon.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The note describes a general practice and a literary parallel rather than
+    narrating the offering itself.
+- id: motif:3
+  label: hybrid double-bodied beings
+  taxonomy_refs: []
+  basis: The notes repeatedly identify the Centaurs as double-limbed or twofold beings
+    with a horse-part.
+  evidence_refs:
+  - ev:4
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: No available taxonomy reference precisely matches hybrid embodiment; 'shapeshifter'
+    is not assigned because the passage does not describe transformation.
+- id: motif:4
+  label: violent encounter ending in death by arrow
+  taxonomy_refs: []
+  basis: Nessus is said to have been killed by Hercules' arrow while threatening Deianira.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The episode is only summarized in a footnote and no broader narrative
+    context is included.
+- id: motif:5
+  label: prophetic member of heroic people
+  taxonomy_refs:
+  - wisdom
+  basis: Mopsus is identified as a prophet and one of the Lapithae.
+  evidence_refs:
+  - ev:13
+  confidence: low
+  cautions: The note gives an identity, not an enacted prophecy or wisdom episode.
+comparison_claims:
+- id: claim:1
+  claim: The footnote explicitly compares the votive stag-horn practice with a Virgilian
+    example in which Mycon vows stag horns to Diana.
+  claim_level: same_function
+  target: 'Virgil, Seventh Eclogue: Mycon''s vow of stag horns to Diana'
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies only the commentator's brief citation and does
+    not quote the wider Virgilian context.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8063-8064
+  quote_or_summary: Footnote 25 says Hippodame is called Ischomache by Propertius
+    and Deidamia by Plutarch.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8066-8069
+  quote_or_summary: Footnote 26 explains the fires as nuptial torches and altar fires
+    for sacrifice to Hymenaeus and other marriage divinities.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8071-8072
+  quote_or_summary: Footnote 27 discusses translation of 'Sanguinis globos' as clots
+    or globes/goblets of blood.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8074-8076
+  quote_or_summary: Footnote 28 explains 'double-limbed' and cites a translation referring
+    to double-limbed fellows being inflamed.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8078-8080
+  quote_or_summary: Footnote 29 explains casks as vessels for wine and also vessels
+    used for drawing water.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8082-8086
+  quote_or_summary: Footnote 30 explains a word usually meaning a link or torch of
+    fibrous material smeared with pitch or wax, here apparently a multi-branched chandelier.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8088-8093
+  quote_or_summary: Footnote 31 states that stag horns were frequently offered as
+    votive gifts to deities, especially Diana, and cites Virgil's Mycon vowing stag
+    horns to Diana.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 8099-8102
+  quote_or_summary: Footnote 33 says Nessus the Centaur died from Hercules' arrow
+    when about to offer violence to Deianira.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 8109-8112
+  quote_or_summary: Footnote 35 describes the amentum as a leather thong attaching
+    a lance or javelin so it could be drawn back after being thrown.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 8114-8116
+  quote_or_summary: Footnote 36 says the passage alludes to the twofold nature or
+    horse-part of the Centaur.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 8120-8122
+  quote_or_summary: Footnote 38 says a phrase about piercing two breasts is poetic
+    license referring to the twofold form of the Centaurs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 8127-8129
+  quote_or_summary: Footnote 40 states that Nestor shows a propensity for boasting,
+    as in the Iliad.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: lines 8136-8138
+  quote_or_summary: Footnote 43 identifies Mopsus as a prophet and one of the Lapithae.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:14
+  type: summary
+  locator: lines 8149-8152
+  quote_or_summary: Footnote 46 explains terms for woof and warp threads in a loom.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a set of explanatory footnotes rather than a continuous mythic
+    narrative; extracted motifs are limited to ritual, symbolic, and identity information
+    directly stated in the notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were applied only where directly supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l8063-l8156
+  passage_sha256=dfde3dc2fc572286bcaa301dc3d4fb4b7457b173c9b802ae6bf3d23d8cc21cba
+

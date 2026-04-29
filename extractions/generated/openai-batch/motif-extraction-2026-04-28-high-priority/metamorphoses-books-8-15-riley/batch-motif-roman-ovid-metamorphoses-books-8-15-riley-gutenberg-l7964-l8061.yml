@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7964-l8061
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / BOOK THE TWELFTH. / EXPLANATION.; lines 7964-8061
+  start: '7964'
+  end: '8061'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Hail! thou glory of the Lapithæan race, once the greatest of men, but now
+    the only bird {of thy kind}, Cæneus.”"
+  summary: A centaur taunts Cæneus about having been born Cænis and having taken on
+    a male form. Cæneus wounds him, but the centaurs cannot pierce Cæneus with weapons.
+    Monychus urges the centaurs to overwhelm him with trees and other heavy masses
+    instead of wounds. Cæneus is buried under a heap of trees; his fate is disputed,
+    with some saying he was driven down to Tartarus and Mopsus saying he saw a unique
+    tawny bird emerge and identified it as Cæneus.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A centaur taunts Cæneus by calling him Cænis, referring to him as born a woman,
+    and telling him to leave warfare to men.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cæneus pierces the centaur's side with a hurled lance at the place where the
+    human and horse parts join.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Weapons striking Cæneus rebound, blunt, or shatter, and Cæneus remains unstabbbed
+    and bloodless from repeated blows.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Monychus says the centaurs are being overcome by one foe and proposes that
+    they heap stones, beams, mountains, and woods on Cæneus, using weight instead
+    of wounds.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The centaurs throw trees onto Cæneus until nearby Othrys is bare of trees
+    and Pelion has no shade.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Cæneus is overwhelmed under a heap of trees, struggles for air, and sometimes
+    moves the pile.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'The passage gives two reported outcomes: some say Cæneus''s body was forced
+    to Tartarus, while Mopsus says a tawny-winged bird came out of the pile into the
+    air.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Mopsus addresses the bird as Cæneus, calling him once the greatest of men
+    and now the only bird of his kind.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Cæneus / Cænis
+  description: A Lapith warrior taunted as formerly Cænis, born female, now fighting
+    as a man; his body is impervious to weapons, and he is later overwhelmed by trees,
+    with a reported transformation or emergence as a tawny bird.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Unnamed centaur opponent
+  description: A double-formed foe who taunts Cæneus, is wounded in the side where
+    man joins horse, and fails to harm Cæneus with pike and sword.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Monychus
+  description: A centaur who urges the others to defeat Cæneus by piling stones, beams,
+    mountains, and woods on him.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: The centaurs / double-limbed monsters
+  description: A group of foes who hurl and thrust weapons at Cæneus, then overwhelm
+    him with trees.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Mopsus, son of Ampycus
+  description: A witness who denies that Cæneus was hurled to Tartarus and says he
+    saw a tawny bird emerge from the pile; he identifies the bird as Cæneus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: invulnerable warrior
+  assigned_to:
+  - fig:1
+  basis: Weapons rebound, blunt, or shatter against Cæneus, who remains unstabbbed
+    and bloodless.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: attacking centaur foe
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The centaur opponent and the larger group attack Cæneus with weapons and
+    then with trees; Monychus directs the change in tactics.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: tactical speaker
+  assigned_to:
+  - fig:3
+  basis: Monychus proposes defeating Cæneus by weight rather than by wounds.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: transformed or disputed survivor figure
+  assigned_to:
+  - fig:1
+  basis: The passage reports competing fates for Cæneus, including Tartarus and a
+    tawny bird identified as Cæneus.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: witness and identifier
+  assigned_to:
+  - fig:5
+  basis: Mopsus reports seeing the bird and addresses it as Cæneus.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: blunted and shivered weapons
+  literal_form: Pike, sword, and other weapons that rebound, blunt, or shatter against
+    Cæneus
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: heap of trees and woods
+  literal_form: Trees and whole woods piled onto Cæneus until they press on his body
+    and obstruct his breath
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Othrys and Pelion stripped of trees
+  literal_form: Mount Othrys made bare of trees and Pelion left without shade
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: tawny-winged bird
+  literal_form: A bird with tawny wings emerging from the pile into the air, identified
+    by Mopsus as Cæneus
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Tartarus as alternate fate
+  literal_form: Roomy Tartarus named as the place some say Cæneus's body was hurled
+    by the weight of the wood
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Taunt and counterattack
+  summary: A centaur taunts Cæneus about his former identity as Cænis and his male
+    form; Cæneus responds by piercing the centaur with a lance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Failed weapon assault
+  summary: The centaur and then the larger group attack Cæneus with weapons, but their
+    weapons fail against his impervious body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Monychus proposes weight instead of wounds
+  summary: Monychus interprets the centaurs' failure as disgrace and urges them to
+    crush Cæneus under stones, beams, mountains, and woods.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Burial under trees
+  summary: The centaurs throw trees onto Cæneus until the mountains are stripped of
+    shade; Cæneus is buried under the mass, struggles for air, and cannot free himself.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Disputed fate and bird emergence
+  summary: 'The passage reports uncertainty: some claim Cæneus was forced to Tartarus,
+    while Mopsus says a unique tawny bird emerged and addresses it as Cæneus.'
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: invulnerable warrior defeated by crushing weight
+  taxonomy_refs: []
+  basis: Cæneus cannot be wounded by weapons, so the centaurs defeat him by piling
+    trees and other heavy masses onto him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This motif label is descriptive; no exact supplied taxonomy family directly
+    names invulnerability defeated by weight.
+- id: motif:2
+  label: human-to-bird transformation after burial or death
+  taxonomy_refs:
+  - shapeshifter
+  basis: Mopsus reports seeing a tawny-winged bird emerge from the pile and identifies
+    it as Cæneus, formerly a man.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The text explicitly marks the outcome as disputed, contrasting the bird
+    report with the claim that Cæneus's body went to Tartarus.
+- id: motif:3
+  label: death or underworld fate contested by metamorphic survival
+  taxonomy_refs:
+  - death_rebirth
+  basis: 'The passage gives competing endings: descent or hurling to Tartarus versus
+    emergence into the air as a unique bird.'
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly state resurrection; the death-rebirth
+    taxonomy is only approximate because the ending is reported as uncertain.
+- id: motif:4
+  label: gender transformation remembered in battle taunt
+  taxonomy_refs:
+  - shapeshifter
+  basis: The opponent recalls Cæneus's birth as Cænis and describes his male appearance
+    as a rewarded false resemblance to a man.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The prior transformation story is only alluded to in this passage and
+    not narrated in full here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7964-7976
+  quote_or_summary: A centaur taunts Cæneus as Cænis, says he was born a woman and
+    should take up distaff and thread instead of war; Cæneus then pierces his side
+    with a lance where man and horse join.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 7976-7994
+  quote_or_summary: The centaur's pike rebounds from Cæneus's face; a sword-blow echoes
+    as if on marble and the blade shivers; the centaurs' weapons fall blunted while
+    Cæneus remains unstabbbed and bloodless.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 7994-8011
+  quote_or_summary: Monychus says the centaurs are overcome by one foe and tells them
+    to heap stones, beams, entire mountains, and whole woods on Cæneus, so that weight
+    will take the place of wounds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 8012-8027
+  quote_or_summary: The centaurs throw wind-felled and other trees at Cæneus until
+    Othrys is bare and Pelion without shade; Cæneus swelters under piled oaks, loses
+    air, struggles to rise, and sometimes moves the heap.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 8027-8038
+  quote_or_summary: 'The event is doubtful: some say the body was hurled to Tartarus;
+    Mopsus says he saw “a bird with tawny wings” and greets it as Cæneus, “once the
+    greatest of men, but now the only bird.”'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 8038-8043
+  quote_or_summary: After this reported event, grief and resentment lead the speakers'
+    side to continue fighting the centaurs until some are killed and the rest dispersed
+    by flight and night.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main battle sequence and symbols are explicit. Motif assignments involving
+    transformation and death-rebirth are limited by the passage's stated uncertainty
+    about Cæneus's final fate.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes in the supplied passage mostly refer to earlier lines and were not used as motif evidence for this extraction.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l7964-l8061
+  passage_sha256=d5f27ba34ba1124acbe310722e57624f5e54037013bd3688aa8867df6f449c13
+

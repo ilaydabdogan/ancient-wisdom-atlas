@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10210-l10310
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE FOURTEENTH.; lines
+    10210-10310
+  start: '10210'
+  end: '10310'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Glaucus comes to Circe and asks her to use charms or herbs to make Scylla
+    return his love. Circe offers herself instead, is rejected, and retaliates against
+    Scylla by poisoning Scylla's bathing place with drugs and charms. Scylla enters
+    the water and is transformed so that dog-like monsters and Cerberean jaws replace
+    her lower body. Glaucus mourns and avoids Circe. Scylla remains there, later harms
+    Ulysses' companions, and is eventually transformed into a dangerous rock avoided
+    by sailors.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Glaucus travels by sea to the halls of Circe, daughter of the Sun, whose halls
+    are filled with wild beasts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Glaucus asks Circe to use incantations or herbs so that Scylla will share
+    his passion.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Circe declares her own desire for Glaucus and urges him to despise Scylla,
+    who despises him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Glaucus says his affections will not change while Scylla is alive.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Circe becomes angry at Scylla, bruises noxious herbs, mixes them with Hecatean
+    incantations, and leaves her hall in azure clothing.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Circe walks over the waves with dry feet toward the place associated with
+    Scylla.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Circe pollutes Scylla's bay with monster-breeding drugs, noxious root juices,
+    and a charm muttered thrice nine times.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: When Scylla enters the water, she sees her lower body transformed into barking
+    monsters and Cerberean jaws.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Scylla initially believes the dogs are not part of her body, flees from them,
+    and discovers she carries them with herself.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Glaucus bewails Scylla and flees from alliance with Circe.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Scylla remains on that spot, later deprives Ulysses of companions, and is
+    transformed into a craggy rock avoided by sailors.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Glaucus
+  description: A god described as the Euboean plougher of the swelling waves; he loves
+    Scylla and petitions Circe.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Circe
+  description: A goddess, daughter of the Sun, powerful with charms and herbs; she
+    desires Glaucus and poisons Scylla's bathing place.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Scylla
+  description: A nymph loved by Glaucus; Circe transforms her lower body into barking
+    monsters and Cerberean jaws, and she is later transformed into a rock.
+  role_refs:
+  - role:6
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:4
+  name_or_label: Hecate
+  description: Named in connection with the incantations Circe mingles with the bruised
+    herbs.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Ulysses
+  description: Named as the figure whose companions Scylla later deprives him of.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: rejected suitor
+  assigned_to:
+  - fig:1
+  basis: Glaucus reports promises, entreaties, caresses, and a rejected suit toward
+    Scylla.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: petitioner for magic aid
+  assigned_to:
+  - fig:1
+  basis: Glaucus asks Circe to utter an incantation or use herbs on his behalf.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: goddess and daughter of the Sun
+  assigned_to:
+  - fig:2
+  basis: Circe identifies herself as a goddess and daughter of the radiant Sun.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: enchantress using herbs and charms
+  assigned_to:
+  - fig:2
+  basis: Circe is said to be potent with charms and herbs and later uses herbs, drugs,
+    and charms against Scylla's bay.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:5
+  label: rejected lover and avenger
+  assigned_to:
+  - fig:2
+  basis: Circe desires Glaucus, is refused, and becomes enraged against Scylla, who
+    was preferred to her.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: beloved who rejects suit
+  assigned_to:
+  - fig:3
+  basis: Glaucus says Scylla has rejected his suit, and Circe describes Scylla as
+    one who despises him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: victim of magical transformation
+  assigned_to:
+  - fig:3
+  basis: Scylla enters the polluted water and is transformed with barking monsters
+    and Cerberean jaws attached to her body.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: dangerous transformed being
+  assigned_to:
+  - fig:3
+  basis: Scylla remains at the spot, later harms Ulysses' companions, and becomes
+    a rock avoided by sailors.
+  evidence_refs:
+  - ev:10
+- id: role:9
+  label: named source of incantatory association
+  assigned_to:
+  - fig:4
+  basis: The incantations mixed with the herbs are called incantations of Hecate.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: later sufferer through companions
+  assigned_to:
+  - fig:5
+  basis: The passage says Scylla deprived Ulysses of his companions.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: herbs and noxious root juices
+  literal_form: bruised herbs, horrid juices, monster-breeding drugs, and noxious
+    root juices
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: incantations and charm
+  literal_form: incantations of Hecate and a mysterious charm muttered thrice nine
+    times
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: polluted bathing water
+  literal_form: Scylla's little bay or bathing retreat, infected with drugs and root
+    juices
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: barking monsters and Cerberean jaws
+  literal_form: dog-like mouths and Cerberean jaws attached below Scylla's body
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: craggy rock
+  literal_form: a prominent rock with crags avoided by sailors
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:6
+  label: wild beasts in Circe's hall
+  literal_form: various wild beasts and a troop of fawning wild beasts in Circe's
+    halls
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:7
+  label: thrice nine number
+  literal_form: the charm is muttered thrice nine times
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Glaucus petitions Circe
+  summary: Glaucus reaches Circe's halls and asks her to use magical speech or herbs
+    so that Scylla will return his love.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Circe's rejected offer
+  summary: Circe urges Glaucus to turn from Scylla to herself, but Glaucus declares
+    his love will not change while Scylla lives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Circe prepares and delivers the poison
+  summary: Angered by rejection, Circe bruises noxious herbs, mingles Hecatean incantations,
+    travels over the waves, and pollutes Scylla's bay with drugs and a repeated charm.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Scylla's bodily metamorphosis
+  summary: Scylla enters the polluted water and discovers that barking monsters and
+    Cerberean jaws have become attached where her lower body had been.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Aftermath and rock transformation
+  summary: Glaucus mourns and avoids Circe; Scylla remains, later harms Ulysses' companions,
+    and is changed into a craggy rock avoided by sailors.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: magical transformation through poisoned water
+  taxonomy_refs:
+  - shapeshifter
+  basis: Circe uses herbs, drugs, incantations, and a polluted bay to alter Scylla's
+    body into a monstrous form.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The transformation is imposed on Scylla rather than a voluntary shapeshifting
+    act; taxonomy assignment is approximate.
+- id: motif:2
+  label: rejected divine lover retaliates against rival
+  taxonomy_refs: []
+  basis: Circe desires Glaucus, is rejected, and turns her anger against Scylla, the
+    preferred beloved.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy family exactly names erotic rivalry or jealous retaliation.
+- id: motif:3
+  label: monstrous body formed from attached animal mouths
+  taxonomy_refs: []
+  basis: Scylla's lower body becomes associated with barking monsters and Cerberean
+    jaws that remain attached to her.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is a literal metamorphic image rather than a broader taxonomy match
+    supplied in the available list.
+- id: motif:4
+  label: person transformed into dangerous coastal rock
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage says Scylla is transformed into a craggy rock that sailors avoid.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The passage summarizes this later transformation briefly and does not
+    describe its mechanism.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10210-10310; Book XIV, Fable I opening
+  quote_or_summary: Glaucus leaves several coastal places behind, swims through the
+    Etrurian seas, and arrives at Circe's grass-clad hills and halls filled with various
+    wild beasts.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10210-10310; Glaucus' petition
+  quote_or_summary: Glaucus asks Circe, as a goddess able to relieve him, to use incantations
+    or herbs so that Scylla may share his flame; he recounts his rejected promises,
+    entreaties, caresses, and suit.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10210-10310; Circe's reply
+  quote_or_summary: Circe says Glaucus should court someone willing, presents herself
+    as a goddess, daughter of the radiant Sun, powerful in charms and herbs, and tells
+    him to despise Scylla and accept Circe's attachment.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 10210-10310; Glaucus' refusal
+  quote_or_summary: "“Sooner shall foliage grow in the ocean, and {sooner} shall sea-weed
+    spring up on the tops of the mountains, than my affections shall change, while
+    Scylla is alive.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 10210-10310; Circe's anger and preparation
+  quote_or_summary: Unable and unwilling to injure Glaucus, Circe becomes enraged
+    against Scylla, bruises herbs with horrid juices, mingles them with Hecate's incantations,
+    puts on azure vestments, and leaves her hall.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10210-10310; Circe crosses the sea
+  quote_or_summary: Circe goes through the troop of fawning wild beasts, reaches the
+    tidal waves, and skims over the surface with dry feet as if walking on firm shore.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 10210-10310; poisoning the bay
+  quote_or_summary: Circe infects Scylla's little curved bay with monster-breeding
+    drugs, sprinkles juices from a noxious root, and mutters a mysterious charm thrice
+    nine times.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 10210-10310; Scylla enters the water
+  quote_or_summary: Scylla wades in and sees her loins grow hideous with barking monsters;
+    she flees the dog mouths but carries them with her and finds Cerberean jaws in
+    place of thighs, legs, and feet.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 10210-10310; Glaucus after the transformation
+  quote_or_summary: Glaucus remains in love, bewails Scylla, and flees from alliance
+    with Circe because of her hostile use of herbs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 10210-10310; later account of Scylla
+  quote_or_summary: Scylla remains at that spot, later deprives Ulysses of companions,
+    would have overwhelmed Trojan ships, and is transformed into a craggy rock avoided
+    by sailors.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage explicitly supports the figures, transformation sequence, and
+    symbols. Motif taxonomy mapping is limited because the available taxonomy has
+    no exact category for jealous magical retaliation or involuntary metamorphosis
+    by poisoned water.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Comparison claims were left empty because the passage does not itself provide a comparative claim beyond internal references to Ulysses and Trojan ships.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l10210-l10310
+  passage_sha256=a338e4c5ca4b594ebe42dd3867c2dff77c10f3c301c6bd8474f8560761bf7c6e
+

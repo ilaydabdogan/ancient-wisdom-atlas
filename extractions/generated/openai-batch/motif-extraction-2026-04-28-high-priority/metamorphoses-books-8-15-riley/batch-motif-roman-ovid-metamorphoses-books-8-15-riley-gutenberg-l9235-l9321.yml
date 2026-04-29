@@ -1,0 +1,542 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9235-l9321
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / BOOK THE THIRTEENTH. / EXPLANATION.; lines
+    9235-9321
+  start: '9235'
+  end: '9321'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: On the Thracian shore, Achilles appears from the ground as a shade and
+    demands that Polyxena be slain to honor his tomb. The Greeks lead Polyxena from
+    her mother to Achilles' tomb, where she speaks calmly, asks to die free and untouched
+    by male hands, and requests that her body be returned to her mother. Neoptolemus
+    stands with a sword, and the reluctant priest kills her. Trojan women and Hecuba
+    mourn her; Hecuba laments that Achilles' ashes and tomb still harm Priam's family
+    and that she is left alive to see further losses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Greek fleet is moored on the Thracian shore while the men wait for calm
+    sea and favorable wind.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Achilles rises from the ground as a shade and addresses the Greeks.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Achilles says the Greeks are departing without remembering him and demands
+    that Polyxena be slain to appease his ghost and honor his sepulchre.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Polyxena is taken from her mother's presence and led to the tomb, becoming
+    a sacrifice at Achilles' pile.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At the altar, Polyxena sees Neoptolemus standing with a sword and looking
+    at her.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Polyxena bares her throat and breast and says there will be no resistance
+    to the use of her blood.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Polyxena asks that she go to the Stygian shades as a free woman, that male
+    hands be withheld from touching a virgin, and that her body be returned unconsumed
+    to her mother.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The people weep; the priest also weeps and is reluctant while killing Polyxena
+    with steel.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Polyxena falls while keeping an undaunted countenance and attempts to preserve
+    her modesty as she dies.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Trojan matrons receive Polyxena and lament the children of Priam and the
+    losses of one house.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Hecuba embraces Polyxena's body, pours tears into the wounds, kisses her,
+    beats her breast, and trails her grey hair in the blood.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Hecuba says Achilles has destroyed many of her children and that even his
+    buried ashes rage against her family.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: Hecuba says Polyxena has made atonement at an enemy's tomb and calls the sacrifices
+    atoning sacrifices for an enemy.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Achilles
+  description: A dead warrior appearing as a shade from the ground; he demands that
+    Polyxena be killed to appease his ghost and honor his sepulchre.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: fig:2
+  name_or_label: Polyxena
+  description: The daughter of king Priam, described as noble, unfortunate, a virgin,
+    and more than an ordinary woman; she is sacrificed at Achilles' tomb.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:10
+- id: fig:3
+  name_or_label: Neoptolemus
+  description: A man standing by Polyxena at the altar, holding a sword and looking
+    at her face.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Priest
+  description: The priest who weeps, is reluctant, and kills Polyxena with steel.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Hecuba
+  description: Polyxena's mother, formerly royal, now captive and bereaved; she mourns
+    over Polyxena's body and laments her family's losses.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:6
+  name_or_label: Trojan matrons
+  description: Women who receive Polyxena's body and lament the losses of Priam's
+    house.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Greeks
+  description: The companions who obey Achilles' shade and lead Polyxena to the tomb.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: demanding shade
+  assigned_to:
+  - fig:1
+  basis: Achilles appears from the ground as a dead figure and speaks a demand to
+    the departing Greeks.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: posthumous enemy
+  assigned_to:
+  - fig:1
+  basis: Hecuba says Achilles remains an enemy in the tomb and that his ashes rage
+    against her family.
+  evidence_refs:
+  - ev:9
+- id: role:3
+  label: sacrificial victim
+  assigned_to:
+  - fig:2
+  basis: Polyxena is led to Achilles' tomb and killed as an appeasing sacrifice.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:10
+- id: role:4
+  label: royal daughter and captive petitioner
+  assigned_to:
+  - fig:2
+  basis: Polyxena identifies herself as Priam's daughter rather than merely a captive
+    and makes final requests before death.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: armed executioner figure
+  assigned_to:
+  - fig:3
+  basis: Neoptolemus stands by Polyxena at the altar wielding a sword.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: reluctant officiant
+  assigned_to:
+  - fig:4
+  basis: The priest weeps, is reluctant, and performs the killing.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: bereaved mother
+  assigned_to:
+  - fig:5
+  basis: Hecuba embraces Polyxena's body, laments her death, and speaks as her mother.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:8
+  label: mourner
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Hecuba and the Trojan matrons lament Polyxena and the losses of Priam's family.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:9
+  label: obedient companions
+  assigned_to:
+  - fig:7
+  basis: The Greeks obey Achilles' implacable shade and bring Polyxena to the tomb.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: tomb of Achilles
+  literal_form: sepulchre, tomb, and funeral pile of Achilles
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+  - ev:10
+- id: sym:2
+  label: shade of Achilles
+  literal_form: dead Achilles rising from the ground and speaking
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cruel altar
+  literal_form: altar at which Polyxena sees the rites being prepared
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: sword or piercing steel
+  literal_form: weapon held by Neoptolemus and steel used by the priest
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: blood and wounds
+  literal_form: Polyxena's blood, wound, and blood into which Hecuba trails her hair
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:10
+- id: sym:6
+  label: Stygian shades
+  literal_form: the realm or condition to which Polyxena says she will go after death
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: tears for burial
+  literal_form: tears requested by Polyxena as the means by which her mother should
+    obtain a sepulchre for her
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+scenes:
+- id: scene:1
+  label: Achilles' shade demands honor
+  summary: While the Greek fleet waits on the Thracian shore, Achilles rises from
+    the ground as a shade and demands that Polyxena be killed so his tomb will not
+    lack honor.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Polyxena brought to the tomb
+  summary: The Greeks obey Achilles' shade, take Polyxena from her mother, and lead
+    her to Achilles' tomb and funeral pile as a sacrifice.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Polyxena's final speech at the altar
+  summary: At the altar, Polyxena sees Neoptolemus with a sword, offers her throat
+    and breast, refuses slavery, asks to die free and untouched, and requests that
+    her body be returned to her mother.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Sacrificial killing
+  summary: The people and priest weep; the reluctant priest kills Polyxena, who keeps
+    her composure and modesty while dying.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Trojan mourning and Hecuba's lament
+  summary: Trojan women receive Polyxena's body and mourn the house of Priam. Hecuba
+    embraces the body, pours tears into the wounds, and laments that Achilles' ashes
+    still harm her family through an atoning sacrifice at his tomb.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Human sacrifice to appease a dead hero's ghost
+  taxonomy_refs:
+  - sacrifice
+  basis: Achilles' shade demands that Polyxena be killed to appease his ghost and
+    honor his sepulchre, and Hecuba later calls the death an atoning sacrifice at
+    an enemy's tomb.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:10
+  confidence: high
+  cautions: The passage presents the act as a sacrifice to a dead hero rather than
+    directly to a deity.
+- id: motif:2
+  label: Dead warrior returns as a demanding shade
+  taxonomy_refs:
+  - return
+  basis: Achilles rises from the ground after death, appears with his former threatening
+    bearing, and speaks to the Greeks.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes a ghostly appearance, not a full resurrection or
+    bodily return to life.
+- id: motif:3
+  label: Captive royal woman preserves dignity before death
+  taxonomy_refs: []
+  basis: Polyxena identifies herself as Priam's daughter, refuses servile degradation,
+    offers no resistance, requests a free woman's death, and maintains composure and
+    modesty as she dies.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this pattern.
+- id: motif:4
+  label: Bereaved mother laments last child and ruined house
+  taxonomy_refs: []
+  basis: Hecuba mourns Polyxena as her daughter and last affliction, recalls the deaths
+    of her children and the fall of Troy, and laments her survival into captivity.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This is a lament pattern rather than a supplied taxonomy motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9235-9236
+  quote_or_summary: The son of Atreus has moored his fleet on the Thracian shore until
+    the sea calms and the wind becomes favorable.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 9236-9244
+  quote_or_summary: Achilles rises from the ground like a threatening figure and asks
+    whether the Greeks are departing without remembering him; he demands that Polyxena
+    be slain to appease his ghost and honor his sepulchre.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 9244-9249
+  quote_or_summary: The companions obey Achilles' implacable shade; Polyxena is torn
+    from her mother's bosom, led to the tomb, and becomes a sacrifice at his ruthless
+    pile.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 9250-9257
+  quote_or_summary: At the cruel altar, Polyxena sees the rites prepared and Neoptolemus
+    standing with his sword; she says to use her blood quickly, offers no resistance,
+    and bares her throat and breast.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 9257-9273
+  quote_or_summary: Polyxena says she will not endure slavery, wishes her death could
+    be hidden from her mother, asks to go to the Stygian shades as a free woman without
+    male hands touching a virgin, and asks that her unconsumed body be returned to
+    her mother for burial with tears rather than gold.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 9274-9282
+  quote_or_summary: The people weep though Polyxena does not; the reluctant priest
+    weeps and kills her with steel; she falls on failing knees, keeps an undaunted
+    face, and tries to preserve her modesty.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 9282-9291
+  quote_or_summary: The Trojan matrons receive Polyxena, count the children of Priam
+    whom they have had to mourn, and lament the losses of Priam's house and Hecuba's
+    reduced state.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 9291-9297
+  quote_or_summary: Hecuba embraces Polyxena's soulless body, pours tears into the
+    wounds, kisses her, beats her breast, trails her grey hair in clotted blood, and
+    begins her lament.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 9298-9312
+  quote_or_summary: Hecuba laments that Achilles ruined Troy and bereaved her, that
+    even after his death he remained dreadful, and that his buried ashes rage against
+    her family as an enemy in the tomb.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 9312-9321
+  quote_or_summary: Hecuba says Polyxena, who had alleviated her sorrows, has made
+    atonement at the tomb of the enemy; she calls such deaths atoning sacrifices for
+    an enemy and asks why old age and the gods preserve her to see fresh deaths.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the supplied passage only. Motif labels are limited
+    to patterns directly present in the passage; no cross-text comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external taxonomy IDs beyond the supplied available motif family references were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l9235-l9321
+  passage_sha256=0f2c821b429535cd96cccd026d440c7d7ba4c766b9ad4248ef96ecb2be869db0
+

@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1211-l1328
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: BOOK THE EIGHTH. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 1211-1328
+  start: '1211'
+  end: '1328'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Them, the daughter of Latona, at length satiated with the calamities of the
+    house of Parthaon, bears aloft on wings springing from their bodies...
+  summary: Calydon mourns the dead Meleager. His father grieves; his mother dies by
+    her own hand; his sisters lament over his body, ashes, tomb, and inscribed name.
+    The daughter of Latona transforms most of the sisters by giving them wings, horny
+    mouths, and flight through the air, while Gorge and the daughter-in-law of Alcmena
+    are excepted.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Calydon is described as prostrate, with young and old, common people, nobles,
+    and Calydonian matrons mourning.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dead man’s father lies on the ground, covers his white hair and aged face
+    with dust, and reproaches his prolonged life.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The mother’s own hand exacts punishment from herself, with a sword piercing
+    her entrails.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The unhappy sisters beat their breasts, embrace and kiss the body, kiss the
+    bier, gather and press the ashes to their breasts, lie around the tomb, kiss the
+    name cut in stone, and pour tears on the name.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The daughter of Latona transforms the sisters except Gorge and the daughter-in-law
+    of noble Alcmena.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The transformation includes wings springing from the bodies, long wings stretched
+    over arms, horny mouths, and movement through the air.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A footnote identifies Meleager as the son of Œneus, king of Calydon, and says
+    Œneus had offended Diana by neglecting her rites.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Meleager
+  description: The dead man mourned by Calydon, his father, mother, and sisters; identified
+    in a footnote as son of Œneus, king of Calydon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Father of Meleager
+  description: An aged father who lies on the ground, covers his white hair and face
+    with dust, and chides his own long life.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mother of Meleager
+  description: The mother whose own hand punishes her for the ruthless deed by a sword
+    wound to her entrails.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Sisters of Meleager
+  description: Unhappy sisters who lament the body, ashes, tomb, and name, and are
+    transformed by the daughter of Latona, with exceptions named separately.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Daughter of Latona
+  description: The divine figure who bears the sisters aloft and changes their bodies
+    with wings and horny mouths.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Gorge
+  description: Named as an exception to the transformation of the sisters.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Daughter-in-law of noble Alcmena
+  description: Named as an exception to the transformation of the sisters.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Calydonian matrons of Evenus
+  description: Women of Calydon who tear their hair and bewail the dead man.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: mourned dead figure
+  assigned_to:
+  - fig:1
+  basis: The city, family, and sisters mourn him, embrace the body, handle the ashes,
+    and attend the tomb.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: mourner
+  assigned_to:
+  - fig:2
+  - fig:8
+  basis: The father and Calydonian matrons perform visible acts of grief.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: self-punishing mother
+  assigned_to:
+  - fig:3
+  basis: The mother’s own hand punishes her deed by the sword piercing her entrails.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: lamenting sisters
+  assigned_to:
+  - fig:4
+  basis: The sisters beat their breasts, embrace and kiss the body and bier, gather
+    ashes, and mourn at the tomb.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: transformed mourners
+  assigned_to:
+  - fig:4
+  basis: The daughter of Latona gives them wings and horny mouths and sends them through
+    the air.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: divine transformer
+  assigned_to:
+  - fig:5
+  basis: The daughter of Latona causes the sisters’ bodily transformation and flight.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: exception from transformation
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Gorge and the daughter-in-law of Alcmena are specifically excepted from the
+    group transformed.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ashes
+  literal_form: Gathered ashes of the dead man pressed to the sisters’ breasts.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: tomb and inscribed name
+  literal_form: A tomb with the dead man’s name cut in stone, kissed and wetted with
+    tears.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sword
+  literal_form: Sword piercing the mother’s entrails.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: wings
+  literal_form: Wings springing from bodies and stretched over arms during transformation.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: horny mouths
+  literal_form: Mouths made horny as part of the transformation.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Public and family mourning at Calydon
+  summary: Calydon and the dead man’s family mourn; the father lies in dust, the mother
+    dies by the sword, and the sisters lament at the body, ashes, tomb, and inscribed
+    name.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Transformation of the sisters
+  summary: The daughter of Latona, after the calamities of the house of Parthaon,
+    gives most of the sisters wings and horny mouths and sends them through the air,
+    excepting Gorge and the daughter-in-law of Alcmena.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: mourners transformed into birds
+  taxonomy_refs:
+  - shapeshifter
+  basis: The sisters who perform mourning rites are bodily changed with wings and
+    horny mouths and sent through the air.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage describes avian traits but does not name the resulting bird
+    species in the provided text.
+- id: motif:2
+  label: grief at body, ashes, tomb, and name
+  taxonomy_refs: []
+  basis: 'The sisters move through successive acts of mourning: embracing the body,
+    gathering ashes, lying at the tomb, and weeping over the inscribed name.'
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly corresponds to funerary lamentation.
+- id: motif:3
+  label: maternal self-punishment by sword
+  taxonomy_refs: []
+  basis: The mother’s own hand exacts punishment on herself with a sword after the
+    ruthless deed.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The provided excerpt does not narrate the earlier deed directly, so the
+    motive is only partially present in this line range.
+- id: motif:4
+  label: divine response to household calamity
+  taxonomy_refs:
+  - divine_judgment
+  basis: The daughter of Latona intervenes after the calamities of the house of Parthaon
+    and transforms the sisters.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage frames the transformation as divine action after calamity,
+    but does not explicitly state whether it is punishment, pity, release, or judgment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1211-1218
+  quote_or_summary: Calydon lies prostrate; young and old, people and nobles, and
+    Calydonian matrons mourn; the father soils his white hair and aged face with dust
+    and chides his long life.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1218-1221
+  quote_or_summary: "“her own hand... exacted punishment of the mother, the sword
+    piercing her entrails.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 1221-1231
+  quote_or_summary: The sisters beat their breasts, embrace and kiss the body and
+    bier, press the gathered ashes to their breasts, lie around the tomb, kiss the
+    inscribed name, and pour tears on it.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1231-1237
+  quote_or_summary: The daughter of Latona, after the calamities of the house of Parthaon,
+    gives wings and horny mouths to the sisters and sends them through the air, except
+    Gorge and the daughter-in-law of Alcmena.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: footnote 25 within lines 1211-1328
+  quote_or_summary: The note identifies Meleager as son of Œneus, king of Calydon,
+    who had offended Diana by neglecting her rites.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The central mourning and transformation episode is explicit. Motif labeling
+    is cautious because the passage provides transformation details but does not explicitly
+    name the final bird form or the divine motive.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes unrelated to this immediate episode were not extracted as figures or motifs, except footnote 25 where it identifies Meleager and gives relevant context for Diana.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l1211-l1328
+  passage_sha256=b7ce9451eb97c2364a87e942cb3ac3c6bb3aa88a4321f4df7a9607644d711350
+

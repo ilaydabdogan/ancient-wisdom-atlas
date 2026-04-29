@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9640-l9674
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / BOOK THE THIRTEENTH. / EXPLANATION. / EXPLANATION.; lines
+    9640-9674
+  start: '9640'
+  end: '9674'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of editorial footnotes explains references to Anchises and Venus,
+    the dove sacred to Venus, the seven gates as indicating Thebes, the female name
+    Corona, Aeneas' failed Cretan settlement and departure due to pestilence and drought,
+    the Strophades and the return of Calais and Zethes after pursuing the Harpies,
+    the island also called Cephalenia, Ambracia, and Augustus' temple and games for
+    Actian Apollo after his victory over Antony and Cleopatra.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Anchises is described as having enjoyed the favour of Venus, and the dove
+    is said to have been consecrated to Venus.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A reference to seven gates is explained as indicating the city of Thebes in
+    Boeotia.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Aeneas and his followers founded the city of Pergamea in Crete.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Pestilence, continued drought, and dense atmosphere obliged Aeneas and his
+    followers to leave Crete.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Strophades are identified as two islands in the Ionian Sea, named from
+    a Greek word meaning return.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Calais and Zethes pursued the Harpies that persecuted Phineus, then returned
+    home by Jupiter's command.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Augustus built a temple to Apollo at Actium and instituted games held every
+    fifth year in honour of his victory.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Anchises
+  description: Addressee associated with the favour of Venus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Venus
+  description: Goddess whose favour Anchises enjoyed and to whom the dove was consecrated.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Aeneas and his followers
+  description: Group that founded Pergamea in Crete and then left because of pestilence,
+    drought, and dense atmosphere.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Calais and Zethes
+  description: Pursuers of the Harpies who returned home by Jupiter's command.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Harpies
+  description: Beings said to have persecuted Phineus and to have been pursued by
+    Calais and Zethes.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Phineus
+  description: Figure persecuted by the Harpies.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Jupiter
+  description: Divine figure whose command caused Calais and Zethes to return home.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Augustus
+  description: Builder of a temple to Apollo at Actium and founder of quinquennial
+    games in honour of his victory.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Apollo
+  description: Deity honoured by Augustus' temple at Actium.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Antony and Cleopatra
+  description: Opponents whose fleet Augustus defeated near Actium.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: favoured mortal of a goddess
+  assigned_to:
+  - fig:1
+  basis: Anchises is said to have enjoyed the favour of Venus.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: goddess associated with favour and consecrated bird
+  assigned_to:
+  - fig:2
+  basis: Venus is the goddess whose favour Anchises enjoyed and to whom the dove was
+    consecrated.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: city founders
+  assigned_to:
+  - fig:3
+  basis: Aeneas and his followers founded Pergamea in Crete.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: forced leavers
+  assigned_to:
+  - fig:3
+  basis: They were obliged to leave the island due to pestilence, drought, and dense
+    atmosphere.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: pursuers who return by command
+  assigned_to:
+  - fig:4
+  basis: Calais and Zethes pursued the Harpies and returned home by command of Jupiter.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: persecutors pursued
+  assigned_to:
+  - fig:5
+  basis: The Harpies persecuted Phineus and were pursued by Calais and Zethes.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: persecuted figure
+  assigned_to:
+  - fig:6
+  basis: Phineus is named as the one persecuted by the Harpies.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: divine command giver
+  assigned_to:
+  - fig:7
+  basis: Jupiter commands the return home of Calais and Zethes.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: temple builder and victor
+  assigned_to:
+  - fig:8
+  basis: Augustus built a temple at Actium and instituted games after defeating Antony
+    and Cleopatra's fleet.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: deity honoured at temple and games
+  assigned_to:
+  - fig:9
+  basis: The temple and games are associated with Actian Apollo.
+  evidence_refs:
+  - ev:5
+- id: role:11
+  label: defeated opponents
+  assigned_to:
+  - fig:10
+  basis: Antony and Cleopatra's fleet was defeated by Augustus near Actium.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: dove consecrated to Venus
+  literal_form: dove
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: seven gates of Thebes
+  literal_form: seven gates
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Strophades as return islands
+  literal_form: two Ionian islands named from a Greek word meaning return
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: temple to Actian Apollo
+  literal_form: temple at Actium
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Anchises, Venus, and the dove
+  summary: The note explains that Anchises is associated with the favour of Venus
+    and that the dove is consecrated to the goddess.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Seven gates identify Thebes
+  summary: The note explains that seven gates would indicate the city of Thebes in
+    Boeotia.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Aeneas leaves Crete after failed settlement
+  summary: Aeneas and his followers found Pergamea in Crete, but pestilence, drought,
+    and dense atmosphere force them to leave.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Pursuit of the Harpies and return home
+  summary: Calais and Zethes pursue the Harpies that persecuted Phineus as far as
+    the Strophades, then return home by Jupiter's command.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Actian Apollo honoured after victory
+  summary: Augustus builds a temple to Apollo at Actium and institutes periodic games
+    after defeating the fleet of Antony and Cleopatra.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: mortal favoured by goddess
+  taxonomy_refs:
+  - divine_beloved
+  basis: Anchises is said to have enjoyed the favour of Venus.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The footnote gives only a brief explanatory statement and does not narrate
+    the relationship.
+- id: motif:2
+  label: departure compelled by plague and drought
+  taxonomy_refs:
+  - departure
+  basis: Aeneas and his followers leave Crete after pestilence, drought, and dense
+    atmosphere make their settlement untenable.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The note summarizes a journey episode rather than giving the full narrative
+    context.
+- id: motif:3
+  label: commanded return after pursuit
+  taxonomy_refs:
+  - return
+  basis: Calais and Zethes return home by Jupiter's command after pursuing the Harpies.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The motif is supported mainly by the etymological explanation of the Strophades
+    and a compressed narrative summary.
+- id: motif:4
+  label: victory commemorated by divine cult foundation
+  taxonomy_refs: []
+  basis: Augustus builds a temple to Apollo and institutes games in honour of his
+    victory near Actium.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No available taxonomy reference directly matches this commemorative cult-foundation
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9640-9643
+  quote_or_summary: Anchises is described as having enjoyed the favour of Venus; the
+    dove was consecrated to Venus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9645-9648
+  quote_or_summary: The mention of seven gates is explained as pointing to Thebes
+    in Boeotia.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9655-9659
+  quote_or_summary: Aeneas and his followers founded Pergamea in Crete, but pestilence,
+    continued drought, and dense atmosphere forced them to leave.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9661-9667
+  quote_or_summary: The Strophades were two Ionian islands named from a Greek word
+    for return because Calais and Zethes pursued the Harpies that persecuted Phineus
+    there and then returned home by Jupiter's command.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9670-9674
+  quote_or_summary: Augustus built a temple to Apollo at Actium and instituted games
+    every fifth year after defeating the fleet of Antony and Cleopatra nearby.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage consists of editorial footnotes with compressed mythological
+    and historical explanations. Literal extraction is straightforward, but motif
+    assignment is limited by the lack of full narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself make comparative claims beyond explanatory cross-references and etymologies.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l9640-l9674
+  passage_sha256=4a26fea85401818a5d3434b40c188daa5ed1c1ddd981677a8b1a69062be123e1
+

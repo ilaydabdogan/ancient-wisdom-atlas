@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10625-l10637
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 10625-10637
+  start: '10625'
+  end: '10637'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The explanation reports differing interpretations of Orithyia''s rape:
+    Plato treats it as an allegory of wind carrying her into the sea where she drowned,
+    while Apollodorus and Pausanias treat it as historical, saying Boreas, king of
+    Thrace, seized Orithyia near the Ilissus and took her to his dominions, where
+    she became mother of the twins Calaïs and Zethes. These twins later delivered
+    Phineus from Harpies that snatched food from his table.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Plato is said to interpret the story of Orithyia's rape as an allegory in
+    which wind accidentally blows her into the sea and she drowns.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Apollodorus and Pausanias are said to assert that the story is based on historical
+    facts.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Boreas is identified as king of Thrace.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Boreas seized Orithyia while she was passing the river Ilissus and carried
+    her into his dominions.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Orithyia is identified as daughter of Erectheus, king of Athens, and sister
+    of Procris.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Orithyia became the mother of twins, Calaïs and Zethes.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In the Argonautic expedition, Calaïs and Zethes delivered Phineus, king of
+    Bithynia, from the Harpies.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Harpies had been snatching away the victuals served at Phineus's table.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Orithyia
+  description: Daughter of Erectheus, sister of Procris, seized by Boreas and mother
+    of twins Calaïs and Zethes.
+  role_refs:
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Boreas
+  description: King of Thrace who seized Orithyia and carried her into his dominions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Erectheus
+  description: King of Athens and father of Orithyia.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Procris
+  description: Sister of Orithyia.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Calaïs
+  description: One of the twins born to Orithyia; a chief in the Argonautic expedition
+    who helped deliver Phineus from the Harpies.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Zethes
+  description: One of the twins born to Orithyia; a chief in the Argonautic expedition
+    who helped deliver Phineus from the Harpies.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Phineus
+  description: King of Bithynia, persecuted by Harpies and delivered by Calaïs and
+    Zethes.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Harpies
+  description: Beings that persecuted Phineus by snatching away food served at his
+    table.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: seizing king
+  assigned_to:
+  - fig:2
+  basis: Boreas is named king of Thrace and is said to have seized Orithyia.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: seized woman
+  assigned_to:
+  - fig:1
+  basis: Orithyia is the person seized and carried away by Boreas.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: royal father
+  assigned_to:
+  - fig:3
+  basis: Erectheus is identified as king of Athens and father of Orithyia.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: royal daughter
+  assigned_to:
+  - fig:1
+  basis: Orithyia is described as daughter of Erectheus, king of Athens.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: mother of twins
+  assigned_to:
+  - fig:1
+  basis: Orithyia became mother of twins Calaïs and Zethes.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: sister
+  assigned_to:
+  - fig:4
+  basis: Procris is named as Orithyia's sister.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: twin sons
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Calaïs and Zethes are identified as twins born to Orithyia.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: deliverers in expedition
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: In the Argonautic expedition, the chiefs delivered Phineus from the Harpies.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: persecuted king
+  assigned_to:
+  - fig:7
+  basis: Phineus, king of Bithynia, was subject to the Harpies' persecution.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: food-snatching persecutors
+  assigned_to:
+  - fig:8
+  basis: The Harpies snatched away victuals served at Phineus's table.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: wind
+  literal_form: wind that blows Orithyia into the sea in Plato's allegorical explanation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sea
+  literal_form: sea into which Orithyia is blown and where she drowns in the allegorical
+    reading
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: river Ilissus
+  literal_form: river Ilissus, the place Orithyia is passing when seized
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: twins
+  literal_form: the twin sons Calaïs and Zethes
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: snatched victuals
+  literal_form: food served at Phineus's table and taken away by the Harpies
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Allegorical drowning of Orithyia
+  summary: Plato's explanation presents Orithyia's rape as an allegory of wind accidentally
+    blowing her into the sea, where she drowns.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Seizure at the Ilissus
+  summary: In the account attributed to Apollodorus and Pausanias, Boreas seizes Orithyia
+    as she passes the river Ilissus and carries her to his dominions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Birth of Calaïs and Zethes
+  summary: Orithyia becomes mother of the twins Calaïs and Zethes.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Deliverance of Phineus
+  summary: During the Argonautic expedition, Calaïs and Zethes deliver Phineus from
+    Harpies that had been snatching away his food.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: abduction of a woman by a powerful ruler
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Boreas, king of Thrace, seizes Orithyia and carries her into his dominions.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage frames the event as rape or seizure, but it does not describe
+    Orithyia as a beloved or give her perspective.
+- id: motif:2
+  label: water-linked disappearance or death by wind and sea
+  taxonomy_refs: []
+  basis: Plato's allegorical version explains the rape story as Orithyia being blown
+    by wind into the sea and drowned.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is explicitly presented as an allegorical interpretation rather than
+    as the primary narrative.
+- id: motif:3
+  label: twin offspring of an abduction union
+  taxonomy_refs:
+  - sacred_twins
+  - sibling_pair
+  basis: After being carried into Boreas's dominions, Orithyia becomes mother of the
+    twins Calaïs and Zethes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage identifies twins but gives limited detail about their sacred
+    status.
+- id: motif:4
+  label: heroic deliverance from food-snatching persecutors
+  taxonomy_refs: []
+  basis: Calaïs and Zethes deliver Phineus from Harpies that habitually snatch food
+    from his table.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage summarizes the deliverance but does not describe the method
+    or outcome in detail.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10625-10629
+  quote_or_summary: Plato is said to regard the rape of Orithyia as an allegory in
+    which she was blown by wind into the sea and drowned.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 10629-10634
+  quote_or_summary: 'Apollodorus and Pausanias are said to treat the story as historical:
+    Boreas, king of Thrace, seized Orithyia, daughter of Erectheus and sister of Procris,
+    as she passed the river Ilissus and carried her to his dominions.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 10634-10635
+  quote_or_summary: Orithyia became mother of the twins Calaïs and Zethes.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 10635-10637
+  quote_or_summary: In the Argonautic expedition, Calaïs and Zethes delivered Phineus,
+    king of Bithynia, from Harpies that habitually snatched the food served at his
+    table.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a prose explanatory note with clear figures and actions, but
+    motif assignments are cautious because details are brief and partly mediated through
+    reported interpretations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this material to another tradition or motif family beyond the available taxonomy-style motif classification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l10625-l10637
+  passage_sha256=bc65f6815d2718316f7a747c00750635c5331fc278f0917418e460139cce30e1
+

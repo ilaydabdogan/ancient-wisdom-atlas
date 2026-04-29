@@ -1,0 +1,470 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11895-l11971
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 11895-11971
+  start: '11895'
+  end: '11971'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Aeacus offers Athens the forces of his island kingdom. Cephalus notes that
+    many youths he once saw are missing. Aeacus recounts a devastating pestilence,
+    attributed to Juno's anger, that darkened the air, infected waters, killed animals,
+    spread among humans, defeated medicine, and left sufferers dying in houses, roads,
+    and waters.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A ruler offers Athens the resources and military forces of his island kingdom.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cephalus accepts the offer and remarks that he misses many youths whom he
+    had seen during an earlier visit.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Aeacus says the missing people are now bones and ashes.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Aeacus attributes the pestilence among his people to the anger of vengeful
+    Juno, who hated a country named from her rival.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The calamity was first treated as natural and opposed with medicine, but the
+    havoc exceeded available help.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The heavens brought thick darkness, clouds, drowsy heat, repeated lunar cycles,
+    and deadly hot South winds.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The infection entered fountains and lakes, and many serpents wandered over
+    fields and tainted rivers with venom.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Dogs, birds, sheep, oxen, wild beasts, horses, boars, deer, and bears are
+    described as weakened, falling, or losing their usual traits.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Animal carcasses lie in woods, fields, and roads; scavenging animals do not
+    touch them, and their decay spreads contagion.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The pestilence reaches husbandmen and the city, producing fever, redness,
+    difficult breathing, swollen tongue, parched mouth, and thirst.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Physicians and attendants are also afflicted, and close attendance on the
+    sick hastens death.
+  category: relationship
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The infected lie near fountains, rivers, and wells; some die in the water,
+    while others continue drinking it.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:13
+  text: The sick flee houses, wander roads, lie on the ground, stretch toward the
+    heavens, and die wherever death overtakes them.
+  category: action
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Aeacus
+  description: Speaker who offers military aid and recounts the pestilence that struck
+    his people.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Cephalus
+  description: Visitor who accepts the offer and asks about the missing youths he
+    remembers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Athens
+  description: The city addressed as needing or receiving assistance from the island
+    kingdom.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Juno
+  description: Vengeful goddess whose anger is said to have caused the pestilence.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Aeacus's people
+  description: Population afflicted by the pestilence; many die and are reduced to
+    bones and ashes.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+- id: fig:6
+  name_or_label: Animals of the island
+  description: Dogs, birds, sheep, oxen, wild beasts, horses, boars, deer, and bears
+    afflicted or killed by the disease.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: Serpents
+  description: Many serpents wander over uncultivated fields and taint rivers with
+    venom.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: allied giver of aid
+  assigned_to:
+  - fig:1
+  basis: Aeacus offers the resources and forces of his kingdom to Athens.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: visiting respondent
+  assigned_to:
+  - fig:2
+  basis: Cephalus responds to the offer and comments on the missing youths.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: plague narrator
+  assigned_to:
+  - fig:1
+  basis: Aeacus recounts the calamity and its effects on his people.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: recipient of military support
+  assigned_to:
+  - fig:3
+  basis: Athens is addressed as receiving the island's resources and forces.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: vengeful divine cause
+  assigned_to:
+  - fig:4
+  basis: The pestilence is said to have fallen through Juno's anger.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: pestilence victims
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Both humans and animals are described as afflicted and dying from the disease.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:10
+  - ev:12
+- id: role:7
+  label: water-contaminating creatures
+  assigned_to:
+  - fig:7
+  basis: Serpents are said to taint rivers with their venom.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: serpents
+  literal_form: Many serpents wandering over fields and tainting rivers with venom.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: contaminated waters
+  literal_form: Fountains, lakes, rivers, and deep wells associated with infection,
+    thirst, drinking, and death.
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:11
+- id: sym:3
+  label: bones and ashes
+  literal_form: The dead people remembered by Cephalus are described as lying as bones
+    and ashes.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: dark and heated sky
+  literal_form: Thick darkness, clouds, drowsy heat, and deadly South winds precede
+    and accompany the pestilence.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Offer of island forces to Athens
+  summary: Aeacus tells Athens to take the island's resources as its own and offers
+    all the forces of his kingdom.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cephalus notices missing youths
+  summary: Cephalus accepts the aid and says he misses many young men he had seen
+    during an earlier visit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Aeacus names the dead and the divine cause
+  summary: Aeacus says the missing people are now bones and ashes and attributes the
+    pestilence to Juno's anger.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Environmental onset and poisoned waters
+  summary: The plague is accompanied by dark heated air, repeated lunar cycles, deadly
+    winds, infected waters, and venomous serpents in the rivers.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Destruction of animals
+  summary: Domestic and wild animals weaken, lose their ordinary behavior, die, and
+    leave carcasses that spread corruption.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Human pestilence and public death
+  summary: The disease spreads to people in the city and countryside, defeats medical
+    care, drives the sick to waters and roads, and leaves them dying in many places.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: divine anger causing communal pestilence
+  taxonomy_refs:
+  - divine_judgment
+  basis: The pestilence is explicitly attributed to the anger of vengeful Juno and
+    destroys much of Aeacus's people.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+  confidence: high
+  cautions: The passage gives a divine cause for the plague, but it does not present
+    a formal trial or legal judgment scene.
+- id: motif:2
+  label: serpents poisoning waters
+  taxonomy_refs:
+  - serpent
+  basis: Many serpents are described as wandering fields and tainting the rivers with
+    venom while infection also reaches fountains and lakes.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The serpents are part of the plague description; the passage does not
+    state that they are transformed beings or independent agents of divine punishment.
+- id: motif:3
+  label: contagion spreading through bodies, air, and water
+  taxonomy_refs:
+  - water
+  basis: The passage describes infected waters, rotting carcasses, corrupted air,
+    unquenchable thirst, and deaths in or near water sources.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:11
+  confidence: medium
+  cautions: This is a recurring disease pattern rather than a named taxonomy motif
+    family in the supplied list; the water taxonomy reference is symbolic rather than
+    a full motif-family match.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11895-11903
+  quote_or_summary: A speaker tells Athens not to ask for help but to take the island's
+    resources and all the forces of the kingdom.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 11903-11911
+  quote_or_summary: Cephalus accepts the offer, prays for the kingdom's increase,
+    and says he misses youths he once saw in the city.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 11911-11920
+  quote_or_summary: Aeacus sighs and says those Cephalus remembers are now bones and
+    ashes after a dreadful pestilence fell on his people through Juno's anger.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 11920-11924
+  quote_or_summary: The calamity first seemed natural and was met with medicine, but
+    the havoc exceeded all help.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 11924-11931
+  quote_or_summary: The sky encloses the earth in thick darkness, clouds, drowsy heat,
+    lunar cycles pass, and hot South winds blow deadly blasts.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 11931-11935
+  quote_or_summary: The infection comes into fountains and lakes; many serpents wander
+    over uncultivated fields and taint rivers with venom.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 11935-11950
+  quote_or_summary: The distemper is first seen in the destruction of dogs, birds,
+    sheep, oxen, wild beasts, horses, boars, deer, and bears.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 11951-11957
+  quote_or_summary: Carcasses lie in woods, fields, and roads; scavengers do not touch
+    them, and their decay spreads the contagion.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 11957-11964
+  quote_or_summary: The pestilence reaches husbandmen and the city, with symptoms
+    of internal heat, redness, difficult breathing, swollen tongue, parched mouth,
+    and noxious air.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 11964-11969
+  quote_or_summary: No physician remains safe; the disease attacks those who treat
+    the sick, and faithful attendants die sooner.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 11969-11971
+  quote_or_summary: The sick gather at fountains, rivers, and wells; some die amid
+    the water, while others drink from it.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: 11969-11971
+  quote_or_summary: Sufferers flee their houses, wander roads, lie on the ground,
+    stretch toward the heavens, and die wherever death overtakes them.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif assignment is strongest
+    for divine anger causing pestilence; serpent and water motifs are present as literal
+    images but need review for taxonomy fit. No passage-supported comparison claims
+    were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line subranges are approximate within the supplied canonical range because only the batch locator and passage text were provided.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l11895-l11971
+  passage_sha256=a627d326221952ce91980710173e4d22a3b0c59f1d28b35e557362e42e83520f
+

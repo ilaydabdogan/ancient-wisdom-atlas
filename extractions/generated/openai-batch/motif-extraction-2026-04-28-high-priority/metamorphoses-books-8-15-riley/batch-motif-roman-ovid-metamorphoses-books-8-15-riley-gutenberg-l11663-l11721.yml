@@ -1,0 +1,377 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11663-l11721
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 11663-11721
+  start: '11663'
+  end: '11721'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An old woman urges an unnamed addressee to reject ordinary suitors and
+    choose Vertumnus as a marriage partner. She praises his constancy, youth, grace,
+    local presence, shared delight in fruits and gardens, and ability to change into
+    every shape. She says Vertumnus pleads through her lips, warns the addressee to
+    fear avenging deities, the Idalian goddess, and the one from Rhamnus, and announces
+    that she will relate well-known Cypriot facts to persuade the addressee.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker identifies herself as an old woman who loves the addressee and
+    advises her to make a good match.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker tells the addressee to despise a common alliance and choose Vertumnus
+    as partner of her couch.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says Vertumnus frequents only these spots and is not wandering
+    throughout the world.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says the addressee will be Vertumnus's first and last love and
+    that he devotes his life to her alone.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says Vertumnus is young, naturally graceful, and can readily change
+    himself into every shape.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker says Vertumnus and the addressee have the same tastes, especially
+    concerning fruits and garden produce.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker says Vertumnus no longer longs for fruit, herbs, or anything else
+    except the addressee.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker asks the addressee to imagine that Vertumnus is present and pleading
+    through the speaker's lips.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The speaker warns the addressee to fear avenging deities, the Idalian goddess,
+    and the vengeful anger of her of Rhamnus.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The speaker says old age has allowed her to know many things and that she
+    will relate well-known facts from Cyprus to persuade the addressee.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: old woman speaker
+  description: An old woman who claims to love the addressee, gives counsel, offers
+    herself as surety for Vertumnus, and speaks as if pleading for him.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Vertumnus
+  description: Proposed partner of the addressee; described as constant, young, graceful,
+    able to change into every shape, fond of fruits and garden gifts, and passionately
+    in love with the addressee.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: unnamed addressee
+  description: The person addressed by the old woman, advised to choose Vertumnus
+    and to pity his passion.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: avenging Deities
+  description: Divine powers whom the speaker tells the addressee to fear.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Idalian Goddess
+  description: A goddess said to abhor cruel hearts.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: her of Rhamnus
+  description: A female divine figure associated by the speaker with vengeful anger.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: counselor
+  assigned_to:
+  - fig:1
+  basis: The speaker advises the addressee about choosing a marriage partner.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: intercessory speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker tells the addressee to imagine Vertumnus present and pleading
+    through her lips.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: suitor
+  assigned_to:
+  - fig:2
+  basis: Vertumnus is presented as the desired partner who woos the addressee.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: shape-changing beloved
+  assigned_to:
+  - fig:2
+  basis: Vertumnus is said to be able to change himself into every shape and to devote
+    himself to the addressee.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: prospective beloved
+  assigned_to:
+  - fig:3
+  basis: The addressee is urged to choose Vertumnus and pity his passion.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:6
+  label: divine enforcer of warning
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The speaker invokes these divine figures as powers to be feared if the addressee
+    remains cruel.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: tree and fruit
+  literal_form: fruit plucked from the tree; garden produce
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: shape-changing power
+  literal_form: ability to change himself into every shape
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: avenging divine powers
+  literal_form: avenging Deities, the Idalian Goddess, and her of Rhamnus
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: garden produce
+  literal_form: fruits, herbs, and garden juices
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: old woman's persuasion of the addressee
+  summary: The old woman urges the addressee to reject ordinary suitors and choose
+    Vertumnus, praising his fidelity, youth, grace, shared tastes, and shape-changing
+    ability.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: warning by divine vengeance and promise of an example
+  summary: The old woman says Vertumnus pleads through her, warns the addressee to
+    fear divine vengeance, and prepares to tell well-known Cypriot facts to persuade
+    her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: shape-shifting suitor
+  taxonomy_refs:
+  - shapeshifter
+  basis: Vertumnus is presented as a suitor who can readily change himself into every
+    shape and become whatever he is bidden.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage states the ability but does not narrate a transformation within
+    this excerpt.
+- id: motif:2
+  label: intercessory persuasion for a lover
+  taxonomy_refs: []
+  basis: The old woman speaks on behalf of Vertumnus, asks the addressee to imagine
+    him present, and says he pleads through her lips.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage gives a persuasion speech, not the outcome.
+- id: motif:3
+  label: divine punishment threatened against refusal or cruelty
+  taxonomy_refs:
+  - divine_judgment
+  basis: The addressee is warned to fear avenging deities, a goddess who abhors cruel
+    hearts, and vengeful anger from the figure of Rhamnus.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage contains a warning but no actual judgment or punishment in
+    the excerpt.
+- id: motif:4
+  label: garden and fruit affinity as basis for union
+  taxonomy_refs: []
+  basis: The speaker argues that Vertumnus and the addressee share tastes connected
+    with fruits, trees, herbs, and garden produce.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage links shared tastes to persuasion, but it does not explicitly
+    define a ritual or mythic union pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11663-11669
+  quote_or_summary: The old woman says she loves the addressee, urges her to despise
+    a common alliance, choose Vertumnus as partner, and take the speaker as surety
+    for him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 11669-11675
+  quote_or_summary: Vertumnus is said to frequent only these places, not to fall in
+    love with each new person he sees, and to devote his life to the addressee alone
+    as his first and last love.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 11675-11678
+  quote_or_summary: Vertumnus is described as young and graceful, and as able to change
+    himself into every shape and become whatever he is bidden.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 11678-11684
+  quote_or_summary: 'The speaker says Vertumnus and the addressee have the same tastes:
+    he receives the fruits she delights in, holds her gifts, and now longs not for
+    fruit, herbs, or garden produce but for her.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11684-11690
+  quote_or_summary: The old woman asks the addressee to pity Vertumnus, imagine him
+    present and pleading through her lips, and fear the avenging deities, the Idalian
+    goddess, and the vengeful anger of her of Rhamnus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 11692-11696
+  quote_or_summary: The speaker says old age has given her knowledge of many things
+    and that she will relate well-known facts throughout Cyprus to persuade the addressee
+    to relent.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited to the supplied excerpt. Some broader identities and
+    context known from Ovid are not asserted unless present in the passage. No comparison
+    claims are made because the excerpt itself does not support a specific cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes in the supplied range were not used except where the main passage directly supported figures and warnings; no external context was added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l11663-l11721
+  passage_sha256=e3cf6f5b87e7b38ffa33ea9fa4a2c92f16acb42c4f2318a6fc43ccdc81e1f20e
+

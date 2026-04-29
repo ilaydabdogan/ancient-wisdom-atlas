@@ -1,0 +1,521 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l8770-l8858
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE THIRTEENTH.; lines
+    8770-8858
+  start: '8770'
+  end: '8858'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Ulysses answers accusations in the contest for the arms, defending his
+    conduct in the cases of Palamedes and Philoctetes. He lists stratagems useful
+    to the Greek cause, including the capture of a Trojan prophet and the removal
+    of Minerva's hidden statue from Troy. He argues that wisdom and planning surpass
+    bodily force, appeals to the chiefs for the arms, and displays the statue. The
+    chiefs award him the arms. Ajax, overcome by anger and grief, takes his own sword
+    and declares that only Ajax shall conquer Ajax.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ulysses says Palamedes could not defend himself against a manifest charge,
+    and that the Greeks witnessed the evidence.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ulysses says Philoctetes remains on Lemnos, that he advised Philoctetes to
+    withdraw from war and voyage to rest his pains, and that the Greeks consented.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ulysses says the prophets demand Philoctetes for the destruction of Troy,
+    and he promises to attempt to bring Philoctetes back.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ulysses says he became possessor of Philoctetes' arrows, captured the Dardanian
+    prophet, and revealed divine answers and the fates of Troy.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Ulysses says he carried off the hidden statue of Phrygian Minerva from the
+    enemy, and that Troy could not be captured without that statue.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ulysses describes entering Troy by night through guards and swords, reaching
+    the highest towers, tearing the Goddess from her shrine, and bearing her off among
+    the enemy.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Ulysses contrasts Ajax's bodily strength with his own foresight, mind, and
+    judgment about the proper time for fighting.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Ulysses asks the chieftains to grant him the arms as compensation for years
+    of anxiety and service.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Ulysses reveals the fatal statue of Minerva before the chieftains.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The chiefs are moved, and Ulysses receives the arms of a brave man.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Ajax, unable to withstand his own wrath and grief, seizes his sword and says
+    he will use it against himself.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Ulysses
+  description: Speaker who defends his actions, claims wisdom and service, recounts
+    stealthy deeds, displays Minerva's statue, and receives the arms.
+  role_refs:
+  - role:1
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Ajax, son of Telamon
+  description: Rival claimant contrasted with Ulysses; after the judgment he is overcome
+    by anger and grief and turns his sword against himself.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Philoctetes, son of Poeas
+  description: Warrior remaining on Lemnos, afflicted by pains, desired by prophets
+    for the destruction of Troy, and associated with arrows.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Palamedes, son of Nauplius
+  description: Condemned figure whom Ulysses says could not defend himself against
+    a great and manifest crime.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Greek chieftains
+  description: Collective audience and judges who are moved by Ulysses' speech and
+    award him the arms.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Minerva
+  description: Goddess represented by the hidden Phrygian statue taken from her shrine
+    inside Troy.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:7
+  name_or_label: Dardanian prophet
+  description: Trojan prophet captured by Ulysses, after which Ulysses says he revealed
+    divine answers and the fates of Troy.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: speaker and claimant
+  assigned_to:
+  - fig:1
+  basis: Ulysses addresses the chiefs, defends himself, and asks for the reward of
+    the arms.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: rival claimant and defeated warrior
+  assigned_to:
+  - fig:2
+  basis: Ajax is contrasted with Ulysses and fails to receive the arms.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:3
+  label: strategist and sacred-object thief
+  assigned_to:
+  - fig:1
+  basis: Ulysses recounts entering Troy and removing Minerva's hidden statue from
+    her shrine.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: alienated but necessary warrior
+  assigned_to:
+  - fig:3
+  basis: Philoctetes is angry and diseased, yet prophets demand him for Troy's destruction
+    and Ulysses promises to bring him back.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: condemned accused man
+  assigned_to:
+  - fig:4
+  basis: Ulysses says Palamedes was charged and condemned on evidence witnessed by
+    the Greeks.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: winner of the arms
+  assigned_to:
+  - fig:1
+  basis: The chiefs are moved and the fluent man receives the arms.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: self-slain warrior
+  assigned_to:
+  - fig:2
+  basis: Ajax seizes his own sword and says he will use it against himself.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: judging assembly
+  assigned_to:
+  - fig:5
+  basis: The chiefs are addressed for the award and are moved by Ulysses' eloquence.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:9
+  label: deity represented by captured statue
+  assigned_to:
+  - fig:6
+  basis: The passage identifies a hidden statue of Phrygian Minerva and the Goddess
+    torn from her shrine.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:10
+  label: captured revealer of divine fates
+  assigned_to:
+  - fig:7
+  basis: Ulysses says he took the Dardanian prophet prisoner and revealed the answers
+    of the Deities and the fates of Troy.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: hidden statue of Minerva
+  literal_form: The hidden statue of the Phrygian Minerva, also called the fatal statue,
+    taken from Troy and revealed before the chiefs.
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: Philoctetes' arrows
+  literal_form: Arrows associated with Philoctetes, which Ulysses says he will possess.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: contested arms
+  literal_form: The arms awarded by the chiefs to Ulysses after his speech.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: Ajax's sword
+  literal_form: Ajax's own sword, formerly wet with Phrygian blood, which he says
+    he will use against himself.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: night infiltration
+  literal_form: The night through which Ulysses enters Troy past guards and swords
+    to reach the shrine.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: ship guide and rower comparison
+  literal_form: Ulysses compares his superiority to Ajax to the guide of a bark being
+    superior to a rower.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Defense concerning Palamedes and Philoctetes
+  summary: Ulysses answers blame for Palamedes' condemnation and for advising the
+    afflicted Philoctetes to remain away from war, while asserting that Philoctetes
+    is now required for Troy's destruction.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Catalogue of stealthy services against Troy
+  summary: Ulysses recounts capturing the Dardanian prophet, obtaining divine answers
+    and the fates of Troy, and carrying off the hidden statue of Minerva from within
+    the enemy city.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Wisdom set above bodily force
+  summary: Ulysses argues that Ajax has strength without intelligence, while Ulysses
+    serves by counsel, timing, foresight, and mind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Appeal for the arms and display of Minerva's statue
+  summary: Ulysses asks the chieftains to reward his long service, invokes hopes for
+    Troy's fall and the gods taken from the enemy, and reveals the statue of Minerva.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Award and Ajax's self-directed violence
+  summary: The chiefs are moved by Ulysses' eloquence and award him the arms; Ajax
+    is overcome by wrath and grief, seizes his own sword, and declares that he will
+    turn it against himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Theft of a protective sacred image as prerequisite for conquest
+  taxonomy_refs:
+  - sacred_theft
+  basis: Ulysses says Troy could not be captured without Minerva's hidden statue,
+    and recounts removing the Goddess from her shrine inside Troy.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage presents the removal as a military stratagem and fated condition;
+    broader cultic meaning is not elaborated here.
+- id: motif:2
+  label: Wisdom and strategy surpassing bodily strength
+  taxonomy_refs:
+  - wisdom
+  basis: Ulysses explicitly contrasts Ajax's strength and fighting ability with his
+    own mind, foresight, and command of timing.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is stated in partisan forensic speech by Ulysses, not as a neutral
+    narrator's maxim alone.
+- id: motif:3
+  label: Return of an alienated necessary warrior
+  taxonomy_refs:
+  - return
+  basis: Philoctetes is angry, diseased, and absent on Lemnos, yet prophets demand
+    him for Troy's destruction and Ulysses promises to bring him back.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage anticipates the recovery of Philoctetes but does not narrate
+    the actual return.
+- id: motif:4
+  label: Fatal loss of honor leading to self-destruction
+  taxonomy_refs: []
+  basis: After losing the arms to Ulysses, Ajax is overcome by wrath and grief, seizes
+    his sword, and declares he will use it against himself so that only Ajax may conquer
+    Ajax.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The excerpt stops at Ajax's declaration and does not include the completed
+    death within the provided lines.
+- id: motif:5
+  label: Fated tokens and persons required before a city can fall
+  taxonomy_refs: []
+  basis: Ulysses states that prophets require Philoctetes for Troy's destruction and
+    that the Fates would not allow Troy to be captured without Minerva's statue.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This groups two prerequisites stated in the speech; the passage does not
+    present a full systematic list of all conditions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8770-8778
+  quote_or_summary: Ulysses says Palamedes, son of Nauplius, could not defend a manifest
+    charge, and that the Greeks witnessed both the charges and the bribe.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8778-8799
+  quote_or_summary: Ulysses says Philoctetes remains on Lemnos; he advised rest from
+    war and voyage; prophets require Philoctetes for Troy's destruction; Ulysses says
+    he will attempt to bring him back and obtain his arrows.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8799-8803
+  quote_or_summary: Ulysses says he captured the Dardanian prophet and revealed divine
+    answers and the fates of Troy.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8803-8810
+  quote_or_summary: Ulysses says he carried off the hidden statue of Phrygian Minerva;
+    he adds that the Fates would not allow Troy to be captured without that statue.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8810-8816
+  quote_or_summary: Ulysses asks why he dared to pass the guards at night, enter Troy's
+    walls and towers, tear the Goddess from her shrine, and bear her off among the
+    enemy.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8821-8843
+  quote_or_summary: Ulysses says Ajax has strength without intelligence, while he
+    has care for the future; he compares mind over hands to a bark's guide over a
+    rower and a general over a soldier.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8844-8854
+  quote_or_summary: Ulysses asks the chieftains to reward his watchful service and,
+    invoking common hopes, doomed Trojan walls, and gods taken from the enemy, reveals
+    the fatal statue of Minerva.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 8855-8857
+  quote_or_summary: The chiefs are moved; the narration says what eloquence can do,
+    and the fluent man receives the arms of a brave one.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 8857-8858 and following sentence in supplied passage
+  quote_or_summary: Ajax, who had often resisted Hector, sword, flames, and Jove,
+    cannot withstand his own wrath; grief conquers him, he seizes his sword, and says
+    he will use it against himself.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage is explicit about principal actions, symbols, and rhetorical contrasts.
+    Motif labels are candidate abstractions from the passage and should be reviewed,
+    especially where the episode is only anticipated rather than completed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims added because the passage itself does not explicitly compare these events to external traditions or motif families beyond its internal Trojan-cycle references.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l8770-l8858
+  passage_sha256=0a7c9ecc2e4b86af3e111c580ef8a8c637700c7d7e4df395a9db6c5ddb55b17b
+

@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11325-l11347
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / BOOK THE SEVENTH. / EXPLANATION.; lines 11325-11347
+  start: '11325'
+  end: '11347'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Footnotes identify Bacchus's nurses under several names in Ovid, the Fasti,
+    and a Homeric commentator citing Pherecydes; discuss a manuscript reading that
+    affects whether Medea is called daughter of Aeetes; gloss a phrase about Medea's
+    arts or tricks; identify Pelias as Aeson's brother and usurper; and explain the
+    Iberian sea as the Atlantic or Western Ocean named from Iberia/Spain or possibly
+    the river Iberus/Ebro.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bacchus's nurses are called Nyseïdes in Book III, Hyades in the Fifth Book
+    of the Fasti, and Dodonides by a Homeric commentator quoting Pherecydes.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The footnote states that the Hyades are placed among the constellations.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'A manuscript reading is discussed: Tetheiâ or Thetide is replaced by Æetide,
+    interpreted as daughter of Æetes.'
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note argues that Bacchus would more plausibly apply to Medea, rather than
+    Tethys, for renewal of the age of the Nymphs who nursed him, because he had just
+    seen Medea renew Aeson's age.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Latin phrase 'Neve doli cessent' is glossed by Clarke as 'and that her
+    tricks might not cease.'
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Pelias is identified as Aeson's brother, who dethroned him and usurped his
+    kingdom.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Iberian sea is identified as the Atlantic or Western Ocean and connected
+    with Iberia, the ancient name of Spain, perhaps named from the river Iberus or
+    Ebro.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bacchus
+  description: A deity whose nurses are discussed and who is said to apply for their
+    age to be renewed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Bacchus's nurses / Nymphs
+  description: The nurses of Bacchus, identified by variant names including Nyseïdes,
+    Hyades, and Dodonides.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Medea / daughter of Æetes
+  description: Identified through the reading Æetide as the daughter of Æetes; described
+    as able to renew Aeson's age.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Æetes
+  description: Named as the father implied by the reading 'daughter of Æetes.'
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Tethys
+  description: Named as the alternative figure implied by the manuscript reading Thetide/Tetheiâ,
+    but rejected by the editor's note in this context.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Aeson
+  description: A figure whose age Medea is said to have renewed; identified as brother
+    of Pelias.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:7
+  name_or_label: Pelias
+  description: Aeson's brother who dethroned him and usurped his kingdom.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: petitioner for renewal
+  assigned_to:
+  - fig:1
+  basis: The note says Bacchus would apply to Medea to have the age of the Nymphs
+    renewed.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: divine nurses
+  assigned_to:
+  - fig:2
+  basis: The notes call them Bacchus's nurses and also Nymphs who nursed him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: daughter of Æetes
+  assigned_to:
+  - fig:3
+  basis: The reading Æetide is glossed as 'the daughter of Æetes.'
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: age-renewing practitioner of arts
+  assigned_to:
+  - fig:3
+  basis: The note says Medea renewed Aeson's age and glosses a phrase about her arts
+    or tricks.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: father of Medea
+  assigned_to:
+  - fig:4
+  basis: The reading 'daughter of Æetes' establishes the relationship.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: recipient of renewed age
+  assigned_to:
+  - fig:6
+  basis: The note says Medea renewed Aeson's age.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: brother-usurper
+  assigned_to:
+  - fig:7
+  basis: Pelias is said to be Aeson's brother who dethroned him and usurped his kingdom.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Iberian sea
+  literal_form: Atlantic or Western Ocean
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Hyades as constellations
+  literal_form: constellations
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Variant names and celestial placement of Bacchus's nurses
+  summary: A footnote lists alternative names for Bacchus's nurses across Ovid, the
+    Fasti, and a commentator citing Pherecydes, and notes that the Hyades are placed
+    among the constellations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Medea preferred over Tethys for age renewal
+  summary: A footnote explains that the reading 'daughter of Æetes' better fits the
+    context because Bacchus had just seen Medea renew Aeson's age and would therefore
+    ask her to renew the age of his nursing Nymphs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pelias's usurpation of Aeson
+  summary: A footnote identifies Pelias as Aeson's brother, who dethroned him and
+    took his kingdom.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Geographical gloss on the Iberian sea
+  summary: A footnote identifies the Iberian sea with the Atlantic or Western Ocean
+    and explains possible naming from Iberia or the river Iberus/Ebro.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: age renewal through Medea's arts
+  taxonomy_refs: []
+  basis: The passage notes Medea's renewal of Aeson's age and the proposed request
+    to renew the age of Bacchus's nursing Nymphs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a footnote and does not narrate the ritual or transformation
+    directly.
+- id: motif:2
+  label: dethronement and usurpation by a brother
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Pelias is described as Aeson's brother who dethroned him and usurped his
+    kingdom.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only an explanatory note, not the full royal conflict
+    narrative.
+- id: motif:3
+  label: nurses translated to constellations
+  taxonomy_refs:
+  - ascent
+  basis: Bacchus's nurses, named as Hyades in the Fasti, are said to be placed among
+    the constellations.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The note states the celestial placement but does not narrate the transformation
+    or ascent.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares names for Bacchus's nurses across Ovid's
+    Book III, the Fifth Book of the Fasti, and a Homeric commentator citing Pherecydes.
+  claim_level: linguistic_similarity
+  target: Nyseïdes / Hyades / Dodonides names for Bacchus's nurses
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a comparison of names and source traditions, not proof that
+    each source presents the same narrative episode in the same form.
+- id: claim:2
+  claim: The note contrasts manuscript readings that point either to Tethys or to
+    Medea as daughter of Æetes, favoring Medea on contextual grounds.
+  claim_level: linguistic_similarity
+  target: Tetheiâ/Thetide versus Æetide textual reading
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim concerns textual variants and editorial reasoning rather
+    than a mythic motif comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11325-11331, Footnote 41
+  quote_or_summary: Bacchus's nurses are called Nyseïdes in Book III, Hyades in the
+    Fasti, and Dodonides by a Homeric commentator citing Pherecydes; the Hyades are
+    placed among the constellations.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11333-11340, Footnote 42
+  quote_or_summary: Most manuscripts read Tetheiâ/Thetide, but Burmann replaces it
+    with Æetide, daughter of Æetes; the note argues that Bacchus would ask Medea,
+    not Tethys, to renew the age of his nursing Nymphs after seeing Medea do so for
+    Aeson.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 11342-11343, Footnote 43
+  quote_or_summary: Clarke translates 'Neve doli cessent' as 'and that her tricks
+    might not cease.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:4
+  type: summary
+  locator: lines 11345-11346, Footnote 44
+  quote_or_summary: Pelias is identified as Aeson's brother who dethroned him and
+    usurped his kingdom.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11348-11351, Footnote 45
+  quote_or_summary: The Iberian sea is explained as the Atlantic or Western Ocean,
+    named from Iberia/Spain, perhaps from the river Iberus or Ebro.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage consists of editorial footnotes rather than continuous mythic
+    narration; extraction emphasizes explicit identifications, relationships, and
+    allusions only.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line locator in the request ends at 11347, but the supplied passage text includes Footnote 45 beyond that range; evidence for the Iberian sea follows the supplied passage text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l11325-l11347
+  passage_sha256=5b4734cc4ad9bd1a25363f09ba53cd2bd9e9b3eafe337eb217b825c5d910bfc7
+

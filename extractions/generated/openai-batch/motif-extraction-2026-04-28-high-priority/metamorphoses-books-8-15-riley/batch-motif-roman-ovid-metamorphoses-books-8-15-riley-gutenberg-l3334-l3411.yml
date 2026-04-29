@@ -1,0 +1,547 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3334-l3411
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 3334-3411
+  start: '3334'
+  end: '3411'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Jupiter quiets the complaints of the divinities. The passage then recounts
+    aged Minos, Miletus’ flight across the Aegean and founding of a city in Asia,
+    and Cyane’s birth of the twins Byblis and Caunus. Byblis develops a forbidden
+    passion for her brother, first mistaking it for sisterly affection, then dreaming
+    of embracing him and debating whether dreams, divine precedents, mythic precedents,
+    death, or a private letter might resolve or express her desire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jupiter’s words influence the divinities, and their complaints cease when
+    they see Rhadamanthus, Æacus, and Minos weary with age.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Minos, formerly powerful, is described as enfeebled by age and alarmed by
+    the youthful Miletus, whom he suspects of aiming at his kingdom.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Miletus leaves of his own accord, crosses the Aegean in a swift ship, and
+    founds a city in Asia named after himself.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Cyane, daughter of the river Mæander, bears a double offspring: Byblis and
+    her brother Caunus.'
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator presents Byblis as an example that young women should love only
+    what is allowed.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Byblis is seized with passion for her brother, initially mistaking repeated
+    kisses and embraces for natural affection.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Byblis becomes increasingly concerned with appearing beautiful to Caunus and
+    envies women who are more beautiful.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: While awake Byblis does not admit criminal hopes, but in sleep she repeatedly
+    sees the one she loves and seems to embrace her brother.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After waking, Byblis speaks with a wavering mind about the dream, her desire,
+    her shared parentage with Caunus, divine sibling marriages, and whether to confess
+    by letter.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Jupiter
+  description: A divine speaker whose words influence the divinities.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Divinities
+  description: The divine audience whose complaints cease after Jupiter’s words.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Minos
+  description: Formerly powerful and now weary with years, enfeebled by age, and alarmed
+    by Miletus.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Miletus
+  description: Son of Deione, associated with Phœbus as sire, strong in youth, self-exiled
+    by ship, and founder of an Asian city.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Cyane
+  description: Daughter of the river Mæander and mother of Byblis and Caunus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Mæander
+  description: A river described as Cyane’s father and as often returning to the same
+    place.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Byblis
+  description: Daughter of Cyane, sister of Caunus, and a young woman seized with
+    forbidden passion for her brother.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:8
+  name_or_label: Caunus
+  description: Brother of Byblis, descendant of Apollo, and the object of Byblis’
+    desire.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:9
+  name_or_label: Venus and Cupid
+  description: Erotic divinities invoked by Byblis in her speech about the remembered
+    dream.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Saturn, Ops, Ocean, Tethys, and Juno
+  description: Divine figures named by Byblis as examples connected with sibling marriage
+    among the gods.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:11
+  name_or_label: Sons of Æolus
+  description: A group invoked by Byblis as not shunning the embraces of their sisters.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine persuader
+  assigned_to:
+  - fig:1
+  basis: Jupiter’s words influence the divinities.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine audience
+  assigned_to:
+  - fig:2
+  basis: The divinities cease complaining after Jupiter’s words.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: aged threatened ruler
+  assigned_to:
+  - fig:3
+  basis: Minos is enfeebled by age and alarmed by Miletus, whom he suspects of seeking
+    his kingdom.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: self-exiled founder
+  assigned_to:
+  - fig:4
+  basis: Miletus departs by ship and builds a city bearing his name.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: mother of sibling pair
+  assigned_to:
+  - fig:5
+  basis: Cyane gives birth to Byblis and Caunus.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: river father
+  assigned_to:
+  - fig:6
+  basis: Mæander is identified as Cyane’s father and as a river with winding banks.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: forbidden desiring sister
+  assigned_to:
+  - fig:7
+  basis: Byblis loves her brother in a manner the narrator marks as not allowed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:8
+  label: brother beloved
+  assigned_to:
+  - fig:8
+  basis: Caunus is Byblis’ brother and the object she loves and dreams of embracing.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:9
+  label: invoked erotic divinities
+  assigned_to:
+  - fig:9
+  basis: Byblis addresses Venus and winged Cupid while recalling erotic delight in
+    the dream.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: divine sibling-marriage precedents
+  assigned_to:
+  - fig:10
+  basis: Byblis names divine marriages among related gods while debating her desire.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: cited sibling-union precedent
+  assigned_to:
+  - fig:11
+  basis: Byblis says the sons of Æolus did not shun the embraces of their sisters.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: swift ship
+  literal_form: ship
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Aegean waters and winding river
+  literal_form: water
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: forbidden flame
+  literal_form: flame
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:4
+  label: dream vision
+  literal_form: sleep vision
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: private letter
+  literal_form: letter
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: deathbed kiss
+  literal_form: bed and kisses for the dead body
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Jupiter quiets the divinities and aged Minos fears Miletus
+  summary: Jupiter’s words end divine complaints; Minos, old and weakened, is afraid
+    of the youthful Miletus and suspects him of designs on the kingdom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Miletus crosses the sea and founds a city
+  summary: Miletus leaves voluntarily, sails over the Aegean, builds a city in Asia,
+    and becomes known to Cyane, who bears Byblis and Caunus.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Byblis’ affection becomes forbidden passion
+  summary: Byblis initially mistakes kisses and embraces for sisterly affection, but
+    her feeling changes into an unlawful passion marked by adornment, envy, agitation,
+    and changing forms of address.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Byblis dreams of embracing Caunus
+  summary: Byblis avoids criminal hopes while awake, but in sleep she sees and embraces
+    the object of her love, then wakes blushing and silent before recalling the dream.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Byblis debates desire, precedents, death, and confession
+  summary: Byblis interprets the dream, admits Caunus would be desirable if he were
+    not her brother, invokes erotic divinities, cites divine and mythic sibling unions,
+    rejects those precedents, prays for death if the flame cannot be expelled, and
+    considers confessing by private letter.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: departure by sea and city foundation
+  taxonomy_refs:
+  - departure
+  - culture_hero
+  basis: Miletus voluntarily flees, crosses the Aegean by ship, and founds an Asian
+    city named after himself.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states the founding action plainly, but does not elaborate
+    a full founder-hero cycle.
+- id: motif:2
+  label: sibling pair with forbidden desire
+  taxonomy_refs:
+  - sibling_pair
+  basis: Byblis and Caunus are born as siblings, and Byblis develops a passion for
+    Caunus that the narrator and Byblis mark as unlawful.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The available taxonomy reference captures the sibling pair but not the
+    full transgressive-incest motif.
+- id: motif:3
+  label: dream revealing or intensifying forbidden love
+  taxonomy_refs: []
+  basis: Byblis refuses criminal hopes while awake but repeatedly dreams of embracing
+    her brother and then interprets the dream in speech.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly corresponds to dream-confession or
+    erotic dream motifs.
+- id: motif:4
+  label: divine sibling marriage cited as precedent for human taboo
+  taxonomy_refs:
+  - sacred_marriage
+  basis: Byblis names marriages among related gods and contrasts divine privileges
+    with human customs while debating her desire for her brother.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy label is broader than the passage’s specific use of sibling
+    marriage as a debated precedent.
+- id: motif:5
+  label: secret confession by letter
+  taxonomy_refs: []
+  basis: Byblis concludes that if shame restrains her lips, a private letter will
+    confess the hidden flame.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage only introduces the intended letter; it does not yet narrate
+    its writing or delivery.
+comparison_claims:
+- id: claim:1
+  claim: Within Byblis’ own speech, her desired union with Caunus is compared to marriages
+    among related gods, including Saturn with Ops and Ocean with Tethys.
+  claim_level: same_motif
+  target: divine sibling-marriage precedents among the gods
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  confidence: high
+  limitations: The comparison is rhetorical and self-questioning; Byblis also says
+    human customs should not be reduced to divine ordinances.
+- id: claim:2
+  claim: Byblis also invokes the sons of Æolus as a mythic precedent for brothers
+    embracing sisters, then questions why she has furnished herself with such precedents.
+  claim_level: same_motif
+  target: sons of Æolus sibling-union precedent
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs:
+  - ev:7
+  confidence: high
+  limitations: The allusion is brief and not narrated in this passage; it functions
+    as part of Byblis’ internal debate rather than an external historical comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3334-3342
+  quote_or_summary: Jupiter’s words influence the divinities; complaints cease when
+    Rhadamanthus, Æacus, and Minos are seen weary with years; Minos is aged and alarmed
+    by Miletus, son of Deione and associated with Phœbus as sire.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3342-3351
+  quote_or_summary: Miletus voluntarily flees in a swift ship across the Aegean, founds
+    a city in Asia bearing his name, and with Cyane, daughter of the winding river
+    Mæander, has the double offspring Byblis and Caunus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3352-3364
+  quote_or_summary: Byblis is introduced as an example of loving only what is allowed;
+    she is seized with passion for her brother, first misreading kisses and embraces
+    as natural affection, then adorning herself and envying other women.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3364-3371
+  quote_or_summary: Byblis does not admit criminal hopes while awake, but in soft
+    sleep she often sees the one she loves, seems to embrace her brother, blushes
+    in sleep, then wakes and recalls the dream.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3372-3391
+  quote_or_summary: Byblis asks what the night vision means, says she could love Caunus
+    if he were not her brother, invokes Venus and Cupid, remembers the dream’s pleasure,
+    and wishes a changed name could make them in-laws instead of siblings.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 3391-3401
+  quote_or_summary: Byblis asks whether dreams have weight, notes that gods have their
+    own sisters in marriage, names Saturn with Ops and Ocean with Tethys, and then
+    questions applying divine ordinances to human customs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 3401-3411
+  quote_or_summary: Byblis prays that the forbidden flame be expelled or that she
+    die; imagines Caunus kissing her dead body; considers mutual inclination and the
+    sons of Æolus as precedents; then rejects lawless flames and says a private letter
+    may confess the latent flame.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explicit about kinship, desire, dream, and cited precedents.
+    Some taxonomy mappings are approximate because the supplied motif families do
+    not include a precise incest or forbidden-sibling-love category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All claims are limited to the supplied passage and metadata; no external Ovidian context has been added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l3334-l3411
+  passage_sha256=f993971d5885bf578870d05055459a1ffd5f4bb83c1e2d79e283363f3bfc769b
+

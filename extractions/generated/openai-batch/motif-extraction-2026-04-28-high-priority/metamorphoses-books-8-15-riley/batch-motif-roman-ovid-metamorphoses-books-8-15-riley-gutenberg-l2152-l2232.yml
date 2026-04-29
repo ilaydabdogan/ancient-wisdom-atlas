@@ -1,0 +1,510 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l2152-l2232
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE NINTH.; lines 2152-2232
+  start: '2152'
+  end: '2232'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Acheloüs recounts how, after taking serpent form, he was mocked and overpowered
+    by the Tirynthian, who cited his earlier victories over serpents and the Lernaean
+    monster. Acheloüs then changed into a bull, but his opponent threw him down, broke
+    off one horn, and the Naiads consecrated that horn as an abundance vessel associated
+    with Plenty. At dawn the young men depart, while Acheloüs hides his mutilated
+    horn and rustic features in the waves, covering the injury with willow branches
+    or reeds.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Acheloüs describes twisting his body into winding folds, darting a forked
+    tongue, and hissing in serpent form.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Tirynthian laughs at Acheloüs' serpent-form stratagem and refers to previous
+    serpent victories, including serpents in his cradle and the Lernaean monster.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: obs:3
+  text: The Tirynthian grips the upper part of Acheloüs' neck, causing pain like the
+    squeezing of pincers.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After being vanquished in serpent form, Acheloüs takes a third form, that
+    of a furious bull, and renews the fight.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Tirynthian seizes Acheloüs' horns, fixes them in the ground, fells him,
+    and breaks off one stubborn horn from his forehead.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The broken horn is heaped with fruit and flowers, consecrated by Naiads, and
+    associated with the Goddess Plenty.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:7
+  text: A nymph dressed in the manner of Diana brings autumn produce and choice fruit
+    in the plentiful horn.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:8
+  text: At dawn, the young men depart before the stream and troubled waters fully
+    subside.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:9
+  text: Acheloüs conceals his rustic features and mutilated horn amid the waves, and
+    the head injury is covered with willow branches or reeds.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Acheloüs
+  description: Narrating river figure who assumes serpent and bull forms, is defeated,
+    loses a horn, and later conceals his mutilation in the waves.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:11
+- id: fig:2
+  name_or_label: The Tirynthian / Hercules
+  description: Combatant who laughs at Acheloüs' arts, cites earlier serpent victories,
+    grips his neck, throws him as a bull, and breaks off his horn.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Lernaean Echidna / Hydra
+  description: Referenced many-headed serpent monster whose heads multiply from wounds
+    and whom the Tirynthian says he subdued and slew.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:4
+  name_or_label: Naiads
+  description: Water nymphs who consecrate Acheloüs' broken horn after it is heaped
+    with fruit and odoriferous flowers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Goddess Plenty
+  description: Bounteous goddess said to be enriched by Acheloüs' horn.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Nymph handmaid
+  description: A nymph, dressed in the manner of Diana, who brings autumn produce
+    and fruit in the plentiful horn.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: Young men
+  description: Group who depart at daybreak before the stream's waters have fully
+    quieted.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: shapeshifting combatant
+  assigned_to:
+  - fig:1
+  basis: Acheloüs takes serpent form and then a furious bull form during the fight.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: victorious serpent- and bull-subduing opponent
+  assigned_to:
+  - fig:2
+  basis: The Tirynthian recalls previous serpent victories, grips the serpent-form
+    neck, and defeats the bull-form Acheloüs by breaking a horn.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: prior many-headed serpent opponent
+  assigned_to:
+  - fig:3
+  basis: The Lernaean being is described as having heads multiplied from wounds and
+    as having been subdued and slain by the Tirynthian.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:4
+  label: mutilated river figure
+  assigned_to:
+  - fig:1
+  basis: Acheloüs hides his rustic features and mutilated horn in the waves and covers
+    the injury with willow or reeds.
+  evidence_refs:
+  - ev:11
+- id: role:5
+  label: consecrators of the horn
+  assigned_to:
+  - fig:4
+  basis: The Naiads are said to have consecrated the broken horn after it was filled
+    with fruit and flowers.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: recipient or beneficiary of abundance horn
+  assigned_to:
+  - fig:5
+  basis: The passage says the bounteous Goddess Plenty is enriched by Acheloüs' horn.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: attendant presenting produce
+  assigned_to:
+  - fig:6
+  basis: The nymph handmaid brings autumn produce and fruit in the plentiful horn.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: departing guests or hearers
+  assigned_to:
+  - fig:7
+  basis: The young men depart at dawn after Acheloüs' account.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: serpent form
+  literal_form: Acheloüs' body twisted into winding folds with forked tongue and hissings.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Lernaean serpent monster
+  literal_form: Many-headed Lernaean Echidna/Hydra whose wounds produced successor
+    heads.
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:3
+  label: bull form
+  literal_form: Acheloüs' third form, a furious bull with brawny neck and horns.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: broken horn of abundance
+  literal_form: A torn-off horn heaped with fruit and odoriferous flowers, later carrying
+    autumn produce and choice fruit.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: waves and troubled waters
+  literal_form: Stream, troubled waters, and waves in which Acheloüs conceals his
+    features and horn.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: sym:6
+  label: willow branches or reeds
+  literal_form: Plant coverings placed over Acheloüs' head injury.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Serpent-form challenge and heroic taunt
+  summary: Acheloüs assumes serpent form, and the Tirynthian mocks the tactic by citing
+    previous victories over serpents and the Lernaean monster.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: scene:2
+  label: Neck grip and defeat in serpent form
+  summary: The Tirynthian plants his fingers on Acheloüs' neck, and Acheloüs struggles
+    to free his jaws from the grip.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Bull-form combat and broken horn
+  summary: Acheloüs changes into a furious bull, but the Tirynthian seizes his horns,
+    throws him down, and tears one horn from his forehead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Consecration and presentation of the abundance horn
+  summary: The broken horn is filled with fruit and flowers, consecrated by the Naiads,
+    associated with Plenty, and used by a nymph to bring autumn produce.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Dawn departure and concealment of mutilation
+  summary: At sunrise the young men depart, while Acheloüs hides his features and
+    mutilated horn in the waves and covers his head injury with willow or reeds.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: shapeshifting combatant defeated by hero
+  taxonomy_refs:
+  - shapeshifter
+  basis: Acheloüs changes from serpent to bull in combat, but the Tirynthian overpowers
+    both forms.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage describes only the final serpent and bull phases within this
+    excerpt; any earlier forms are outside the provided passage.
+- id: motif:2
+  label: heroic serpent-subduing contest
+  taxonomy_refs:
+  - serpent
+  basis: The Tirynthian cites conquering serpents in infancy and the Lernaean monster,
+    then defeats Acheloüs' serpent form by seizing his neck.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: Acheloüs' serpent form is described as obtained or assumed, not as his
+    sole natural identity.
+- id: motif:3
+  label: severed horn becomes sacred abundance vessel
+  taxonomy_refs: []
+  basis: The horn broken from Acheloüs' forehead is heaped with fruits and flowers,
+    consecrated by Naiads, enriches Plenty, and carries autumn produce.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage presents consecration and use of the horn but does not narrate
+    a full independent cult origin beyond this episode.
+- id: motif:4
+  label: mutilated water-being conceals injury with water and plants
+  taxonomy_refs:
+  - water
+  basis: Acheloüs hides his rustic features and mutilated horn in the waves, and the
+    head injury is covered with willow branches or reeds.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The concealment is literal in this passage; broader symbolic meaning would
+    require external evidence.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Acheloüs' assumed serpent form with earlier
+    serpent opponents of the Tirynthian, especially the Lernaean monster, while also
+    stressing that Acheloüs is only one serpent and unlike the multiplying Hydra.
+  claim_level: same_function
+  target: Heraclean serpent-combat pattern, including cradle serpents and the Lernaean
+    Hydra
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The comparison is made inside the speech as a taunt; it supports shared
+    function as serpent opponents of Hercules, not identity or full equivalence between
+    Acheloüs and the Hydra.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2152-2154
+  quote_or_summary: "“twisted my body into winding folds” and darted a “forked tongue.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2154-2167
+  quote_or_summary: The Tirynthian laughs at Acheloüs' arts and says his cradle labour
+    was to conquer serpents; he contrasts Acheloüs with the Lernaean monster whose
+    heads multiplied from wounds and whom he subdued and slew.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2167-2171
+  quote_or_summary: The Tirynthian grips the upper part of Acheloüs' neck; Acheloüs
+    feels as if his throat is squeezed with pincers and struggles to free his jaws.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2173-2175
+  quote_or_summary: After being vanquished, Acheloüs says his third remaining form
+    was that of a furious bull, and he renews the fight in bull form.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2175-2181
+  quote_or_summary: The Tirynthian throws his arms around the bull's neck, seizes
+    the horns, drives them into the ground, fells him, and breaks off one horn.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: footnote 9
+  quote_or_summary: 'Footnote: Hercules as an infant in his cradle was said to have
+    strangled two serpents sent by Juno.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized note evidence.
+- id: ev:7
+  type: summary
+  locator: footnote 10
+  quote_or_summary: 'Footnote: accounts vary on the Hydra''s number of heads; where
+    one was cut off, two sprang up until Hercules seared the neck with hot iron.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized note evidence.
+- id: ev:8
+  type: summary
+  locator: lines 2181-2184
+  quote_or_summary: The broken horn, filled with fruit and fragrant flowers, is consecrated
+    by the Naiads, and Plenty is enriched by it.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 2184-2188
+  quote_or_summary: A nymph dressed after Diana's manner enters and brings autumn
+    produce and choice fruit in the plentiful horn.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 2190-2193
+  quote_or_summary: At daybreak, with the rising sun striking the hilltops, the young
+    men depart before the stream and troubled waters have quieted.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:11
+  type: summary
+  locator: lines 2193-2198
+  quote_or_summary: Acheloüs conceals his rustic features and mutilated horn among
+    the waves; the head injury is covered with willow branches or reeds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative actions and figures are explicit. Motif labels are conservative
+    and mostly passage-internal. Comparison is limited to the passage's own Heraclean
+    serpent references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage text and supplied metadata were used. Footnotes are treated as part of the provided passage evidence where cited.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l2152-l2232
+  passage_sha256=208c691415bb5c0e8c681e8ba4c4b19a55c44bca23c090ab6157dc2e6e97df07
+

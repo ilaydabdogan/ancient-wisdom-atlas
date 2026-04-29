@@ -1,0 +1,118 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7278-l7290
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 7278-7290
+  start: '7278'
+  end: '7290'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Two footnotes discuss translations and etymology for lines in which a figure
+    plunges into the deep and the Latin name of the diver or didapper, “mergus,” is
+    explained as deriving from diving.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A footnote cites the phrase “Plunges into the deep” and gives Clarke’s rendering
+    as going down into the deep.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A footnote says the Latin name of the diver or didapper, “mergus,” is accounted
+    for from its diving.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The commentator distinguishes the likely linguistic origin of the name from
+    the fiction related by the poet.
+  category: other
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: diver or didapper
+  description: A bird named “mergus” in Latin and associated with diving.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: diving bird
+  assigned_to:
+  - fig:1
+  basis: The note identifies “mergus” as the Latin name of the diver or didapper and
+    links it to diving.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: deep
+  literal_form: the deep
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Plunging into the deep
+  summary: A cited line describes a figure plunging or going down into the deep; the
+    note discusses the phrasing of that translation.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Name explained by diving
+  summary: The note explains the name “mergus” for the diver or didapper as derived
+    from the act of diving, while cautioning that the word’s origin does not depend
+    on the poetic fiction.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7278-7284
+  quote_or_summary: Footnote 62 discusses “Plunges into the deep” and Clarke’s rendering
+    of the Latin as going straight down into the deep.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7286-7290
+  quote_or_summary: Footnote 63 explains the Latin name “mergus” for the diver or
+    didapper as from diving, while distinguishing this etymology from the poetic fiction.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage consists only of translator/commentator footnotes, not a continuous
+    mythic narrative. No clear taxonomy motif candidate or comparison claim is supported
+    by this excerpt alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol was assigned because the available symbol list does not include “deep” or “bird,” and the passage does not explicitly mention water as such.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l7278-l7290
+  passage_sha256=b7957e207a77094cf35479305d01ef163b234690a01f0d083e735516be842f41
+

@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10277-l10351
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 10277-10351
+  start: '10277'
+  end: '10351'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After a year has passed, Philomela remains guarded in a stone house and
+    unable to speak. She uses a woven web with purple marks on white to disclose Tereus'
+    crime, sends it by an attendant to Progne, and Progne reads the message in silence
+    before turning to thoughts of revenge. The passage also includes translator footnotes
+    explaining names and terms in the surrounding narrative.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A full year is marked by Apollo completing the twice-six signs of the Zodiac.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Philomela cannot flee because a guard prevents her, the house walls are solid
+    stone, and her speechless mouth cannot disclose the crime by speech.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that grief produces ingenuity and that inventive skill
+    arises in misfortunes.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Philomela hangs the warp in a web of Barbarian design and interweaves purple
+    marks with white to reveal Tereus' villainy.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: obs:5
+  text: Philomela gives the finished web to an attendant and, by signs, asks her to
+    carry it to her mistress.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The attendant carries the web to Progne without understanding what she is
+    delivering.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Progne unfolds the web and reads the mournful tale of her sister.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Progne remains silent from grief, lacks words for indignation, does not weep,
+    and becomes wholly occupied with planning revenge.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Apollo
+  description: The god whose completion of the Zodiac year marks elapsed time.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Philomela
+  description: A guarded, speechless woman who creates and sends a woven message revealing
+    Tereus' crime.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Tereus
+  description: Named as the person whose villainy is revealed by Philomela's woven
+    message; a footnote identifies him as the Odrysian king from Thrace.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:4
+  name_or_label: Attendant
+  description: The person who receives Philomela's finished web and carries it to
+    Progne without understanding its contents.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Progne
+  description: The wife of the savage tyrant and Philomela's sister, who reads the
+    woven message and plans revenge.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: time-marking deity
+  assigned_to:
+  - fig:1
+  basis: Apollo's traversal of the Zodiac is used to mark the completed year.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: captive speechless victim
+  assigned_to:
+  - fig:2
+  basis: Philomela is guarded, confined by stone walls, and unable to speak.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: inventive messenger
+  assigned_to:
+  - fig:2
+  basis: Philomela encodes the crime in a woven web and sends it by signs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: perpetrator named in hidden message
+  assigned_to:
+  - fig:3
+  basis: The woven marks disclose the villainy of Tereus.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: unwitting carrier
+  assigned_to:
+  - fig:4
+  basis: The attendant carries the web to Progne without knowing what she is delivering.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: sister-recipient
+  assigned_to:
+  - fig:5
+  basis: Progne reads the mournful tale of her sister in the web.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: avenger in preparation
+  assigned_to:
+  - fig:5
+  basis: After reading, Progne becomes wholly occupied with contriving revenge.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: woven web message
+  literal_form: A web or woven textile carrying interwoven marks.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: purple marks on white
+  literal_form: Purple marks interwoven with white thread or fabric.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: stone house walls
+  literal_form: Hard walls of solid stone enclosing the house.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: speechless mouth
+  literal_form: Philomela's mouth deprived of speech as a means of discovery.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: signs of the Zodiac
+  literal_form: The twice-six signs of the Zodiac traversed by Apollo.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: communicative signs
+  literal_form: Signs by which Philomela asks the attendant to deliver the web.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: A year passes during Philomela's confinement
+  summary: The passage marks the completion of a year, while Philomela remains guarded
+    in a stone house and unable to speak.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Philomela creates a woven disclosure
+  summary: Philomela uses inventive skill in grief to weave purple marks into a web
+    as a way to reveal Tereus' crime.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: scene:3
+  label: The hidden message is delivered
+  summary: Philomela gives the finished web to an attendant and asks by signs that
+    it be taken to Progne; the attendant carries it without understanding it.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Progne reads and prepares revenge
+  summary: Progne unfolds the web, reads her sister's mournful tale, remains silent
+    from grief, and turns toward planning revenge.
+  figure_refs:
+  - fig:5
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: hidden message in textile
+  taxonomy_refs: []
+  basis: A woven web with colored marks communicates the crime to Progne.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage describes a specific textile message but does not name it
+    as a conventional motif.
+- id: motif:2
+  label: speechless captive finds alternate communication
+  taxonomy_refs: []
+  basis: Philomela is unable to speak or flee, yet uses weaving and signs to disclose
+    the crime.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The extraction is limited to the passage's immediate actions and does
+    not infer later transformation or broader mythic outcomes.
+- id: motif:3
+  label: grief-born ingenuity
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly connects grief and misfortune with ingenuity and inventive
+    skill.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy reference 'wisdom' is only a broad fit for practical
+    ingenuity, not an exact named motif in the passage.
+- id: motif:4
+  label: sister receives disclosure and plans revenge
+  taxonomy_refs:
+  - sibling_pair
+  basis: Progne reads the tale of her sister and becomes occupied with contriving
+    revenge.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The sibling relationship is explicit, but the passage emphasizes revenge
+    rather than a general sibling-pair motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10277-10278
+  quote_or_summary: Apollo has completed the year by passing through the twice-six
+    signs of the Zodiac.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 10278-10281
+  quote_or_summary: Philomela is prevented from flight by a guard, enclosed by solid
+    stone walls, and unable to reveal the crime by speech.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 10281-10283
+  quote_or_summary: "“in grief there is extreme ingenuity, and inventive skill arises
+    in misfortunes.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 10283-10286
+  quote_or_summary: Philomela weaves purple marks into white fabric in a Barbarian
+    design to disclose Tereus' villainy.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 10286-10289
+  quote_or_summary: Philomela gives the finished web to an attendant and uses signs
+    to request delivery to her mistress; the attendant carries it without knowing
+    its meaning.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 10289-10296
+  quote_or_summary: Progne unfolds the web, reads her sister's mournful tale, is silent
+    from grief, cannot find words or tears, and turns to contriving revenge.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: note
+  locator: 10348-10349
+  quote_or_summary: Footnote 61 explains 'Barbarian design' as probably a Phrygian
+    design.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: note
+  locator: 10342-10343
+  quote_or_summary: Footnote 59 identifies Tereus, the Odrysian king, with the Odrysae,
+    a people of Thrace.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main narrative actions and figures are explicit. Motif labels are descriptive
+    and cautious; no comparison claims are made because the passage itself does not
+    support a cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes in the supplied range were used only where they clarify terms directly related to the extracted passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l10277-l10351
+  passage_sha256=ef5b2038e1938af2030a643c2ab572adc9cfaaa1562cc128019b1bd043e3541f
+

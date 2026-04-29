@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10987-l11030
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 10987-11030
+  start: '10987'
+  end: '11030'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A group formerly altered into animal form is restored by plant juices,
+    an inverted wand, and reverse charms. They embrace their chief in gratitude. The
+    narrator says he remained there for a year and heard from one of Circe's ritual
+    handmaids about a venerated marble statue of a youth with a woodpecker on its
+    head in a sacred temple.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first-person group is sprinkled with juices from harmless plants.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The group is struck on the head by an inverted wand while reverse charms are
+    spoken.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: As the charms continue, the group rises upright from the ground and loses
+    bristles and cloven-foot features.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The group's shoulders and arms return to human arrangement.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The restored group embraces its chief, who is also in tears, and expresses
+    gratitude before speaking further.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The narrator remains there for a year and reports seeing and hearing many
+    things.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: One of four handmaids appointed for rites privately informs the narrator about
+    a matter concerning Circe.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A snow-white marble statue of a youth carries a woodpecker on its head and
+    stands in a hallowed temple decorated with chaplets.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The handmaid tells Macareus that the story will show the power of her mistress.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Macareus and the restored companions
+  description: The first-person plural group, including the narrator addressed as
+    Macareus, is restored from a bristled, cloven-footed form to human bodily features.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Circe
+  description: The female mistress associated with the wand, charms, rites, and later
+    private time with the group's chief.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: The chief
+  description: The leader of the restored group; he is embraced by the companions
+    and is described as weeping.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: One of four ritual handmaids
+  description: A handmaid appointed for rites who privately tells Macareus about the
+    statue and introduces a story concerning her mistress's power.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Youth represented by the marble statue
+  description: A youthful figure represented in snow-white marble, bearing a woodpecker
+    on its head and venerated in a sacred temple.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: restored transformed subjects
+  assigned_to:
+  - fig:1
+  basis: They lose animal features and regain human shoulders and arms after the ritual
+    actions.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: enchantress or ritual mistress
+  assigned_to:
+  - fig:2
+  basis: The passage links her wand and charms to the transformation's reversal, and
+    her handmaid calls attention to her power.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: chief of the companions
+  assigned_to:
+  - fig:3
+  basis: The restored group embraces the figure called their chief.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ritual attendant and informant
+  assigned_to:
+  - fig:4
+  basis: She is one of four handmaids appointed for rites and privately informs Macareus.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: venerated temple image
+  assigned_to:
+  - fig:5
+  basis: The youth appears as a statue in a hallowed temple, decorated with chaplets
+    and explicitly venerated.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: harmless plant juices
+  literal_form: Juices of harmless plants used in the restoration rite
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: inverted wand
+  literal_form: A wand held or used inverted to strike the head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: reverse charms
+  literal_form: Charms described as the converse of previously uttered charms
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: woodpecker on statue's head
+  literal_form: A woodpecker carried on the head of a youthful marble statue
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: hallowed temple with chaplets
+  literal_form: Sacred temple setting with chaplets decorating the statue
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Restoration from animal form
+  summary: The group is sprinkled with plant juices, struck with an inverted wand,
+    and restored by reverse charms from bristled and cloven-footed animal traits to
+    upright human form.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Grateful reunion with the chief
+  summary: After restoration, the companions embrace their weeping chief and express
+    gratitude.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Handmaid introduces the temple statue
+  summary: During the narrator's year-long stay, a ritual handmaid points out a white
+    marble statue of a youth with a woodpecker in a hallowed temple and begins to
+    explain its connection with her mistress's power.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Reversal of animal transformation by counter-magic
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage describes a group losing bristles and cloven-foot traits and
+    regaining human posture and limbs through plant substances, an inverted wand,
+    and reverse charms.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage excerpt shows restoration rather than the original transformation
+    event.
+- id: motif:2
+  label: Ritual restoration through plant, wand, and spoken formula
+  taxonomy_refs: []
+  basis: 'The restoration occurs through a sequence of ritual elements: plant juices,
+    a wand-blow, and repeated charms opposite to earlier charms.'
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this ritual complex beyond
+    its relation to transformation.
+- id: motif:3
+  label: Venerated cult image with animal attribute
+  taxonomy_refs: []
+  basis: A youthful marble statue with a woodpecker on its head is placed in a hallowed
+    temple, decorated with chaplets, and described as venerated.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The identity and story behind the statue are only introduced, not narrated
+    within this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The editorial footnotes connect this Circe-related passage with Homeric Odyssey
+    material, especially Book 10's Moly plant and a differing count of companions.
+  claim_level: same_motif
+  target: Homer, Odyssey Book 10 Circe and Moly episode
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supported by the passage's footnotes, not by a full
+    parallel analysis within the excerpt itself.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10987-10994
+  quote_or_summary: The group is sprinkled with harmless plant juices, struck on the
+    head with an inverted wand, and restored as reverse charms are chanted; bristles
+    and cloven-foot features vanish and human shoulders and arms return.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 10994-10996
+  quote_or_summary: The restored group tearfully embraces its chief and indicates
+    gratitude before speaking further.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 10997-11002
+  quote_or_summary: The narrator says a year detained him there and that one of four
+    handmaids appointed for rites privately informed him while Circe was apart with
+    his chief.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 11002-11010
+  quote_or_summary: The handmaid points out a snow-white marble statue of a youth
+    carrying a woodpecker on its head, set in a hallowed temple and adorned with chaplets;
+    she tells Macareus to learn the power of her mistress.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:5
+  type: note
+  locator: footnote 24, lines 11016-11019
+  quote_or_summary: The note says Homer gives a different number for the companions,
+    mentioning Eurylochus and twenty-two others.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:6
+  type: note
+  locator: footnote 26, lines 11022-11025
+  quote_or_summary: The note says Homer, in the tenth book of the Odyssey, describes
+    the plant Moly as having a black root and a milk-like flower.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Core narrative extraction is direct. Motif labels are cautious because the
+    excerpt includes restoration and an introduced statue story rather than the full
+    surrounding narrative. The comparison claim relies on editorial footnotes included
+    in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures or statue identity beyond names and labels present in the supplied passage have been inferred.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l10987-l11030
+  passage_sha256=f1871dfd7e850ccdafdbbcd898268042ec3c799ebf9b5e068084b2eae62a809d
+

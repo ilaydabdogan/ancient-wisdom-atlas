@@ -1,0 +1,530 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6507-l6591
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 6507-6591
+  start: '6507'
+  end: '6591'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“until she changes him into marble, as he is fastening on the neck of a
+    mangled heifer.”"
+  summary: A wolf continues its bloody slaughter until an unnamed female figure changes
+    it into marble. The petrified body retains its form except for color, marking
+    that it is no longer a living wolf. Peleus, still banished, is not allowed by
+    the Fates to settle there; he goes to the Magnetes and receives expiation for
+    murder from Acastus. The accompanying notes explain ritual, geographical, genealogical,
+    variant, and later narrative details connected with the wider episode.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The wolf continues slaughtering and is driven by the sweetness of blood.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An unnamed female figure changes the wolf into marble while it is fastening
+    on the neck of a mangled heifer.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The transformed body preserves everything except its color.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stone color shows that the figure is no longer a wolf and should no longer
+    be feared.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Fates do not permit the banished Peleus to settle in the land.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Peleus goes as a wandering exile to the Magnetes and receives expiation of
+    murder from Acastus.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A note describes supplicants’ symbols of peace as olive branches wrapped with
+    woolen bands, making the hand emblematic of harmlessness.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A note says marine deities were honored by pouring wine on the sea waves.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A note reports that Apollodorus gives Phthia, not Trachyn, as the place to
+    which exiled Peleus repaired.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A note says Hippolyta accused Peleus after he did not encourage her advances,
+    and Acastus later removed Peleus’s arms and left him on Mount Pelion among wild
+    beasts.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The same note says Mercury, or according to some Chiron, aided Peleus and
+    gave him a sword made by Vulcan.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: wolf
+  description: A wolf persisting in slaughter, transformed into marble while attacking
+    a heifer.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: unnamed female transformer
+  description: The female figure referred to as “she” who changes the wolf into marble.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Peleus
+  description: The banished son of Aeacus, a wandering exile who receives expiation
+    of murder; the notes also describe later danger and rescue involving him.
+  role_refs:
+  - role:3
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: the Fates
+  description: Powers that do not permit Peleus to settle in the land.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Acastus
+  description: The Hæmonian who gives Peleus expiation; a note identifies him as son
+    of Pelias and describes a later plot against Peleus.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:6
+  name_or_label: the Magnetes
+  description: The people or district to whom Peleus goes; a note identifies them
+    with Magnesia in Thessaly.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: fig:7
+  name_or_label: Hippolyta
+  description: Acastus’s wife, described in a note as enamored of Peleus and as accusing
+    him after he rejects her advances.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Mercury or Chiron
+  description: Alternative helper figures in the note who come to Peleus’s assistance
+    and give him a sword made by Vulcan.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: marine deities
+  description: Deities said in a note to be honored by pouring wine upon the sea waves.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Jupiter and Thetis
+  description: Figures in a note where Fulgentius interprets Jupiter as fire and Thetis
+    as water.
+  role_refs: []
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: blood-driven destructive animal
+  assigned_to:
+  - fig:1
+  basis: The wolf persists in furious slaughter and is urged by the sweetness of blood.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: transformer
+  assigned_to:
+  - fig:2
+  basis: The female figure changes the wolf into marble.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: banished wandering exile
+  assigned_to:
+  - fig:3
+  basis: Peleus is called banished and a wandering exile.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: settlement-denying fate powers
+  assigned_to:
+  - fig:4
+  basis: The Fates do not permit Peleus to settle in the land.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: giver of expiation
+  assigned_to:
+  - fig:5
+  basis: Acastus gives Peleus an expiation of murder.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: plotter against Peleus
+  assigned_to:
+  - fig:5
+  basis: The note says Acastus takes Peleus to Mount Pelion, removes his arms, and
+    leaves him among wild beasts.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: false accuser
+  assigned_to:
+  - fig:7
+  basis: The note says Hippolyta accused Peleus after he did not encourage her advances.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: accused and endangered hero
+  assigned_to:
+  - fig:3
+  basis: The note says Peleus is accused, disarmed, abandoned, helped, and later uses
+    the sword given to him.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: helper and weapon-giver
+  assigned_to:
+  - fig:8
+  basis: The note says Mercury, or according to some Chiron, comes to Peleus’s assistance
+    and gives him a sword made by Vulcan.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: petrified wolf
+  literal_form: marble or stone body retaining wolf form except for color
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: blood
+  literal_form: sweetness of the blood urging the wolf onward
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: mangled heifer
+  literal_form: heifer whose neck the wolf fastens upon
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: olive-and-wool peace tokens
+  literal_form: olive branches surrounded with woolen bandages
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sea-wave libation
+  literal_form: wine poured upon the sea waves for marine deities
+  associated_figures:
+  - fig:9
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: fire and water opposition
+  literal_form: Jupiter interpreted as fire and Thetis as water in Fulgentius’s explanation
+  associated_figures:
+  - fig:10
+  taxonomy_refs:
+  - fire
+  - water
+  evidence_refs:
+  - ev:10
+- id: sym:7
+  label: divine-made sword
+  literal_form: sword made by Vulcan and given to Peleus by Mercury or Chiron
+  associated_figures:
+  - fig:3
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: Mount Pelion exposure
+  literal_form: Mount Pelion as the place where Peleus is disarmed and left among
+    wild beasts
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Wolf petrified during slaughter
+  summary: A wolf continues its bloody attack until an unnamed female figure turns
+    it into marble while it grips a heifer; the stone form keeps the wolf’s shape
+    but not its color.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Peleus denied settlement and purified
+  summary: The Fates prevent banished Peleus from settling; he travels to the Magnetes
+    and receives expiation for murder from Acastus.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Explanatory note on supplication tokens
+  summary: A note explains that olive branches wrapped with wool served as symbols
+    of peace for people begging mercy or pardon.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Explanatory note on Peleus, Acastus, and rescue
+  summary: A note recounts Hippolyta’s accusation against Peleus, Acastus’s attempt
+    to have Peleus killed on Mount Pelion, and Peleus’s rescue by Mercury or Chiron
+    with a Vulcan-made sword.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: animal transformed into stone after bloodshed
+  taxonomy_refs:
+  - shapeshifter
+  basis: The wolf, driven by blood and slaughter, is changed into marble while attacking
+    a heifer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy has no specific petrification motif; “shapeshifter”
+    is only a broad fit because the change is imposed rather than voluntary.
+- id: motif:2
+  label: fated exile seeking purification for blood-guilt
+  taxonomy_refs:
+  - departure
+  basis: Peleus is a banished wandering exile whom the Fates prevent from settling,
+    and he receives expiation of murder from Acastus.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only the end point of the wandering and purification,
+    not the full exile narrative.
+- id: motif:3
+  label: supplication signaled by harmless peace tokens
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The note identifies olive branches bound with wool as tokens carried by those
+    begging for mercy or pardon, with the covered hand signifying harmlessness.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an explanatory note rather than a narrated action in the excerpt.
+- id: motif:4
+  label: false accusation followed by attempted exposure to beasts
+  taxonomy_refs: []
+  basis: The note says Hippolyta accuses Peleus after he rejects her advances, and
+    Acastus disarms and abandons him on Mount Pelion to be torn by wild beasts.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This motif is present only in the translator’s explanatory note, not in
+    the main lines of the excerpt.
+- id: motif:5
+  label: endangered hero aided by helper with divine-made weapon
+  taxonomy_refs: []
+  basis: The note says Mercury or Chiron aids Peleus and gives him a sword made by
+    Vulcan.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The helper is given in variant form, and the episode is summarized in
+    a note.
+comparison_claims:
+- id: claim:1
+  claim: The note reports a nearby variant in which Apollodorus sends exiled Peleus
+    to Phthia rather than to Trachyn.
+  claim_level: same_motif
+  target: Apollodorus’s account of Peleus’s exile itinerary
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note supplies only the destination difference and does not quote
+    or summarize Apollodorus’s full narrative.
+- id: claim:2
+  claim: The note attributes to Fulgentius an allegorical reading in which Jupiter
+    is fire and Thetis is water, making their non-union an opposition of elements.
+  claim_level: archetypal_reading
+  target: Fulgentius’s allegorical interpretation of Jupiter and Thetis
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a later interpretive explanation reported in a footnote, not
+    an explicit comparison made by Ovid’s narrative in the excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 6507-6510
+  quote_or_summary: The wolf persists in furious slaughter, urged by blood, until
+    she changes him into marble while he fastens on a mangled heifer’s neck.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short excerpt summarized with brief quotation.
+- id: ev:2
+  type: summary
+  locator: 6510-6513
+  quote_or_summary: The body preserves everything except color; the stone color shows
+    that he is no longer a wolf and should no longer be feared.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 6513-6518
+  quote_or_summary: The Fates do not allow banished Peleus to settle; he goes to the
+    Magnetes and receives expiation of murder from Hæmonian Acastus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: Footnote 23, Ver. 276
+  quote_or_summary: The note explains that olive branches wrapped with woolen bandages
+    were peace tokens held by those begging mercy or pardon, and that the wool-covered
+    hand signified inability to do harm.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Footnote 20, Ver. 247
+  quote_or_summary: The note says marine deities were honored by pouring wine on the
+    waves of the sea.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: Footnote 22, Ver. 269
+  quote_or_summary: The note says Apollodorus states that Peleus, when exiled, went
+    to Phthia and not to Trachyn.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: Footnote 32, Ver. 409
+  quote_or_summary: The note identifies Acastus as son of Pelias; his wife Hippolyta
+    accuses Peleus after he refuses her advances; Acastus disarms Peleus on Mount
+    Pelion and leaves him to wild beasts; Mercury or Chiron assists him with a sword
+    made by Vulcan.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: Footnote 19, Ver. 227
+  quote_or_summary: The note identifies Peleus as son of Æacus, who was son of Jupiter
+    by Ægina, daughter of Æsopus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: Footnote 31, Ver. 408
+  quote_or_summary: The note identifies the Magnetes as the people of Magnesia, a
+    district of Thessaly, famous for horsemanship.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: Footnote 18, Ver. 226
+  quote_or_summary: The note says Fulgentius suggests Jupiter, or fire, will not unite
+    with Thetis, who represents water.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main narrative extraction is direct, but many motifs and comparison claims
+    derive from translator footnotes rather than from the principal narrative lines.
+    The unnamed female transformer is not identified within the supplied excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available references and left empty where no close fit was supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l6507-l6591
+  passage_sha256=fedc9dfef28c21bb10c475fcf2fd779071d003972ec26bfe4e8890d715e8f6b6
+

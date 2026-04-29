@@ -1,0 +1,414 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l504-l600
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: BOOK XIII. / BOOK XIV. / BOOK XV. / BOOK THE EIGHTH.; lines 504-600
+  start: '504'
+  end: '600'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Scylla enters her father Nisus’s chamber at night, cuts off his fatal purple
+    lock, and brings it to Minos as a pledge of love and as the life of her father.
+    Minos rejects the gift and refuses to bring her to Crete. Scylla laments her isolation
+    and betrayal, then leaps into the sea to follow his ships. Nisus, newly transformed
+    into a sea eagle, tries to attack her; she is supported by feathers and transformed
+    into the bird called Ciris.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Night falls, and Scylla silently enters her father’s chamber while sleep has
+    come over the household.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Scylla cuts off and takes her father’s fatal lock, described as a purple lock
+    and as the spoil of her impiety.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Scylla goes through the enemy to Minos and says that love urged the deed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Scylla offers Minos the purple lock as a pledge of love and says it represents
+    the life of her father.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Minos refuses the offered lock, calls Scylla a reproach and monster, and says
+    he will not allow her into Crete.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Minos orders his fleet’s cables loosened and the ships rowed away.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Scylla, seeing the ships depart without the reward she expected, laments that
+    she cannot return to her country, father, or fellow-citizens.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Scylla declares that she will follow Minos and cling to the ship’s stern through
+    the sea.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Scylla leaps into the waves, follows the ships, and clings to the Gnossian
+    ship, with Cupid giving her strength.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Nisus, her father, has recently become a tawny-winged sea eagle and attempts
+    to tear Scylla with his beak.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Scylla lets go of the stern in fear, is supported by feathers, and is changed
+    into a bird called Ciris.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Scylla
+  description: Royal daughter of Nisus who steals her father’s fatal lock, offers
+    it to Minos, pursues his ship, and is changed into the bird Ciris.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Nisus
+  description: Scylla’s father, whose life is associated with the fatal lock; he is
+    later described as newly made into a tawny-winged sea eagle.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Minos
+  description: The king to whom Scylla brings the lock; he refuses the gift, rejects
+    Scylla, and departs by ship.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Cupid
+  description: Cupid gives Scylla strength as she leaps into the waves and follows
+    the ships.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: daughter
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Scylla as the daughter of Nisus and says she despoils
+    her father of the lock.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: betrayer of father and country
+  assigned_to:
+  - fig:1
+  basis: Scylla delivers the fortunes of her country and her own to Minos and treats
+    the lock as her father’s life.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: transformed bird
+  assigned_to:
+  - fig:1
+  basis: Scylla is supported by feathers and changed into a bird called Ciris.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: father whose fatal lock is stolen
+  assigned_to:
+  - fig:2
+  basis: Nisus is Scylla’s father, and the passage presents the lock as fatal and
+    as his life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: transformed sea eagle
+  assigned_to:
+  - fig:2
+  basis: Nisus is said to hover in the air, lately made a sea eagle with tawny wings.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: rejected recipient of treacherous gift
+  assigned_to:
+  - fig:3
+  basis: Minos refuses the lock Scylla holds out to him.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: departing king
+  assigned_to:
+  - fig:3
+  basis: Minos orders the fleet to depart and Scylla addresses him as he flees by
+    ship.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:8
+  label: divine strength-giver
+  assigned_to:
+  - fig:4
+  basis: Cupid is explicitly said to give Scylla strength as she follows the ships.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fatal purple lock
+  literal_form: A purple lock of hair cut from Nisus and presented to Minos.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: sea and waves
+  literal_form: The sea and waves through which Scylla pursues the departing ships.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: ship stern
+  literal_form: The crooked stern of the Gnossian ship that Scylla grasps and from
+    which she later lets go.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: feathers and bird form
+  literal_form: Feathers support Scylla as she falls, and she becomes the bird Ciris.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: sea eagle form
+  literal_form: Nisus’s tawny-winged sea eagle form with crooked beak.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Night theft of Nisus’s lock
+  summary: At night, Scylla enters her father’s chamber and cuts off his fatal lock.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Offer to Minos and rejection
+  summary: Scylla brings the lock to Minos as a pledge of love and as her father’s
+    life, but Minos refuses it and rejects her entrance into Crete.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Lament beside the departing fleet
+  summary: Scylla laments that Minos has abandoned her and that her own country, father,
+    and fellow-citizens are closed to her after her betrayal.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Pursuit through the sea
+  summary: Scylla leaps into the waves, follows the ships with Cupid’s help, and clings
+    to the Gnossian ship.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Transformation into Ciris
+  summary: Nisus, already changed into a sea eagle, attacks Scylla; she releases the
+    stern, is supported by feathers, and becomes the bird Ciris.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: theft of a life-bearing token
+  taxonomy_refs:
+  - sacred_theft
+  basis: Scylla secretly cuts off Nisus’s fatal lock, which she later describes as
+    the life of her father, and gives it to Minos.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy label is broader than the passage; the text presents the
+    lock as fatal and life-bearing but does not explicitly call it sacred.
+- id: motif:2
+  label: human transformation into birds
+  taxonomy_refs:
+  - shapeshifter
+  basis: Nisus is described as recently made a sea eagle, and Scylla is transformed
+    into the bird Ciris.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage states the transformations but gives little explanation of
+    their cause beyond the immediate pursuit and fear.
+- id: motif:3
+  label: rejected treacherous exchange for love
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Scylla offers the lock and the fortunes of her country in exchange for Minos
+    himself, but Minos refuses and departs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The exchange is explicitly framed as love and reward, not as a formally
+    sacred transaction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 504-511
+  quote_or_summary: At night Scylla silently enters her father’s chamber and takes
+    his fatal lock, described as the prize of crime and spoil of impiety.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 511-518
+  quote_or_summary: Scylla goes to Minos, identifies herself as the royal child of
+    Nisus, delivers her country’s fortunes, asks for Minos himself, and offers the
+    purple lock as her father’s life.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 518-527
+  quote_or_summary: Minos refuses the gift, denounces Scylla, says earth and sea should
+    be denied to her, refuses her entry into Crete, and orders the fleet to sail.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 528-570
+  quote_or_summary: Scylla laments Minos’s flight, says her country, father, fellow-citizens,
+    and neighbors are closed to her, calls the deed both crime and service to Minos,
+    and declares she will follow his stern through the seas.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 571-575
+  quote_or_summary: Scylla leaps into the waves, follows the ships with strength from
+    Cupid, and clings as an unwelcome companion to the Gnossian ship.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 575-580
+  quote_or_summary: Nisus, lately made a tawny-winged sea eagle, tries to tear Scylla
+    with his beak; she lets go, is supported by feathers, and is changed into the
+    bird Ciris, named from cutting the lock.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main narrative actions and transformations are explicit. Motif taxonomy
+    assignments are cautious, especially where available labels are broader than the
+    passage language. No comparison claims were made because the passage itself does
+    not explicitly support a cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes included in the supplied passage after this excerpt were not used except where directly relevant to the narrated passage; no unsupported external comparisons were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l504-l600
+  passage_sha256=c216459aa769d59a12581b4a398cbc3c6d9cb42745fc853dd7cb08e4908d881c
+

@@ -1,0 +1,515 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l395-l408
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: BOOK XII. / BOOK XIII. / BOOK XIV. / BOOK XV.; lines 395-408
+  start: '395'
+  end: '408'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Egeria laments the death of Numa... and she pines away into a fountain.
+  summary: A Book XV summary states that Numa succeeds and learns about Crotona, transformed
+    pebbles, and Pythagoras’s teachings on continual changes in matter. Egeria mourns
+    Numa and becomes a fountain. Other marvels include Tages springing from earth,
+    Romulus’s lance becoming a tree, Cippus acquiring horns, the Roman worship of
+    Aesculapius on the Tiber island, Julius Caesar’s deification and transformation
+    into a star, and the poet’s prediction of his own lasting fame.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Numa succeeds and inquires about the origin of Crotona.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Black pebbles are said to have been changed into white pebbles.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Numa attends Pythagoras’s lectures about the perpetual changes undergone by
+    matter.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Egeria laments Numa’s death and refuses Hippolytus’s consolations.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Egeria pines away into a fountain.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Hippolytus tells Egeria about his own transformation.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Tages springs from a clod of earth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The lance of Romulus becomes a tree.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Cippus becomes decked with horns.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Aesculapius is first worshipped by the Romans in the sacred isle of the Tiber.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Julius Caesar is deified and changed into a star.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The poet foretells imperishable fame for himself.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Numa
+  description: Successor who inquires about Crotona and attends Pythagoras’s lectures;
+    later named as dead and mourned by Egeria.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Pythagoras
+  description: Lecturer on the changes that all matter is eternally undergoing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Egeria
+  description: Mourner of Numa who refuses consolation and pines away into a fountain.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Hippolytus
+  description: Consoler who tells Egeria of his own transformation.
+  role_refs:
+  - role:6
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Tages
+  description: Figure who springs from a clod of earth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Romulus
+  description: Owner or associated figure of the lance that becomes a tree.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Cippus
+  description: Figure who becomes decked with horns.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Aesculapius
+  description: Figure first worshipped by the Romans in the sacred isle of the Tiber.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Julius Caesar
+  description: Figure whose deification and change into a star are related.
+  role_refs:
+  - role:5
+  - role:9
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: The Poet
+  description: Narrating poet who foretells imperishable fame for himself.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: successor
+  assigned_to:
+  - fig:1
+  basis: The passage says Numa succeeds.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: inquirer and listener
+  assigned_to:
+  - fig:1
+  basis: Numa makes inquiry about Crotona and attends Pythagoras’s lectures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: teacher of change
+  assigned_to:
+  - fig:2
+  basis: Pythagoras lectures on the eternal changes of matter.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mourner
+  assigned_to:
+  - fig:3
+  basis: Egeria laments Numa’s death.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: transformed figure
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:9
+  basis: The passage explicitly mentions transformation, metamorphosis, or changed
+    form for these figures.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: role:6
+  label: consoler and narrator of transformation
+  assigned_to:
+  - fig:4
+  basis: Hippolytus offers consolation and tells Egeria of his own transformation.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: associated owner of transformed weapon
+  assigned_to:
+  - fig:6
+  basis: Romulus is named in relation to the lance that becomes a tree.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: recipient of Roman worship
+  assigned_to:
+  - fig:8
+  basis: The passage says Aesculapius was first worshipped by the Romans on the Tiber
+    island.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: deified figure
+  assigned_to:
+  - fig:9
+  basis: The passage relates Julius Caesar’s deification and change into a star.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: self-commemorating narrator
+  assigned_to:
+  - fig:10
+  basis: The poet foretells imperishable fame for himself.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: black and white pebbles
+  literal_form: Pebbles changed from black into white.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fountain
+  literal_form: Fountain into which Egeria pines away.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: clod of earth
+  literal_form: Clod of earth from which Tages springs.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: lance becoming tree
+  literal_form: The lance of Romulus becomes a tree.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: horns
+  literal_form: Horns with which Cippus becomes decked.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: sacred isle of the Tiber
+  literal_form: Sacred island in the Tiber where Aesculapius is first worshipped by
+    the Romans.
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: star
+  literal_form: Star into which Julius Caesar is changed.
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Numa learns of origins and change
+  summary: Numa succeeds, investigates Crotona’s origin and changed pebbles, and attends
+    Pythagoras’s lectures on matter’s continual transformations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Egeria mourns and becomes a fountain
+  summary: Egeria laments Numa’s death, refuses Hippolytus’s consolations, hears of
+    his transformation, and pines away into a fountain.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Catalog of marvels of transformation
+  summary: 'The passage lists additional marvels: Tages springing from earth, Romulus’s
+    lance becoming a tree, and Cippus acquiring horns.'
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Roman worship and Caesar’s star
+  summary: The poet turns to recent events, including Roman worship of Aesculapius
+    on the Tiber island, Julius Caesar’s deification and transformation into a star,
+    and the poet’s prophecy of his own enduring fame.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: metamorphosis and continual change
+  taxonomy_refs:
+  - shapeshifter
+  basis: 'The passage centers on transformations: matter’s ongoing change, Egeria
+    into a fountain, Hippolytus’s transformation, Tages from earth, a lance into a
+    tree, Cippus with horns, and Caesar into a star.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The taxonomy ref is broad; not all examples are shapeshifting persons,
+    since some involve objects or cosmic transformation.
+- id: motif:2
+  label: mourning transformed into water
+  taxonomy_refs:
+  - death_rebirth
+  basis: Egeria mourns Numa’s death and pines away into a fountain.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage reports transformation after mourning, but does not explicitly
+    frame it as rebirth.
+- id: motif:3
+  label: earth-born emergence
+  taxonomy_refs:
+  - sacred_birth
+  basis: Tages springs from a clod of earth.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not describe parentage, divinity, or a full birth scene;
+    the motif label is inferred from the literal emergence from earth.
+- id: motif:4
+  label: weapon transformed into tree
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The lance of Romulus becomes a tree.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a tree transformation but does not explicitly call the
+    tree an axis or world center.
+- id: motif:5
+  label: apotheosis into a star
+  taxonomy_refs:
+  - ascent
+  basis: Julius Caesar is deified and changed into a star.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage does not describe the mechanics of ascent, only deification
+    and stellar transformation.
+- id: motif:6
+  label: wisdom teaching on cosmic change
+  taxonomy_refs:
+  - wisdom
+  basis: Pythagoras lectures on changes that all matter is eternally undergoing.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is a summary and does not include the lecture’s detailed content.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself groups Egeria’s transformation with other marvels of transformation,
+    presenting them as comparable wonders.
+  claim_level: same_function
+  target: Tages from earth, Romulus’s lance becoming a tree, and Cippus acquiring
+    horns
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made at the level of marvelous transformation only;
+    the passage does not claim shared origin, ritual meaning, or historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 395-399
+  quote_or_summary: Numa succeeds, inquires about the origin of Crotona, and learns
+    how black pebbles were changed into white.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 399-401
+  quote_or_summary: Numa attends Pythagoras’s lectures on the changes that all matter
+    is eternally undergoing.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 401-404
+  quote_or_summary: Egeria mourns Numa, rejects Hippolytus’s consolations, hears of
+    Hippolytus’s transformation, and pines away into a fountain.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 404-405
+  quote_or_summary: "“Tages sprang from a clod of earth”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 405-406
+  quote_or_summary: "“the lance of Romulus became a tree”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 406-406
+  quote_or_summary: "“Cippus became decked with horns”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 406-408
+  quote_or_summary: Aesculapius is first worshipped by the Romans in the sacred isle
+    of the Tiber.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 408-408
+  quote_or_summary: The poet relates Julius Caesar’s deification and change into a
+    star, and foretells imperishable fame for himself.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a book-level summary rather than a full narrative scene. Literal
+    figures and transformations are explicit, while some motif taxonomy assignments
+    are broad and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external details about Ovid, Roman cult, or named figures were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l395-l408
+  passage_sha256=d6458817b47d0027b582e6f014c985cc0311972197ab01bb87c7b5cbe3d27042
+

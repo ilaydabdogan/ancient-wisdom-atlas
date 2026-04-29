@@ -1,0 +1,507 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6762-l6840
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 6762-6840
+  start: '6762'
+  end: '6840'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A violent storm overwhelms a ship at sea. The crew panic as the vessel
+    breaks and sinks. Ceyx, clinging to wreckage, repeatedly thinks of and calls upon
+    Halcyone before being drowned by a wave. Halcyone, unaware of his death, prepares
+    for his return and prays to Juno for him. Juno sends Iris to Sleep so that a vision
+    in the form of dead Ceyx may reveal the misfortune to Halcyone.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The ship’s seams open after the wax covering is lost, allowing fatal waves
+    to enter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rain, sea, clouds, lightning, darkness, and thunderbolts are described as
+    mingled in a violent storm.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A wave is compared to a soldier capturing a city and then enters the ship
+    as if into a captured bark.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The people on the ship respond with fear, tears, stunned silence, prayer,
+    and memories of family and home.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ceyx thinks chiefly of Halcyone and is glad she is absent from the disaster.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The mast and helm are broken, and a wave sinks the ship to the bottom.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Ceyx clings to wreckage, invokes relatives, repeatedly names Halcyone, prays
+    that his body may come before her eyes, and is finally covered by a wave.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Halcyone, unaware of Ceyx’s death, prepares garments for his expected return.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Halcyone offers incense to the gods and especially prays at Juno’s temple
+    for Ceyx’s safety, return, and fidelity.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Juno refuses continued supplication for a dead man and commands Iris to go
+    to Sleep and send Halcyone a vision in the form of Ceyx.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Iris takes on a many-colored garment, marks the heavens with a curving arch,
+    and goes to Sleep’s abode beneath a rock.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Ceyx
+  description: A shipwrecked ruler or noble figure who clings to wreckage, calls on
+    Halcyone, and drowns.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Halcyone
+  description: The daughter of Æolus and wife of Ceyx, unaware of his death, preparing
+    for his return and praying for him.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Crew of the ship
+  description: People aboard the ship who panic, pray, remember family and home, and
+    in many cases drown with the vessel.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Juno
+  description: A goddess supplicated by Halcyone who sends Iris to Sleep to arrange
+    a revealing vision.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: Iris
+  description: Juno’s faithful messenger, clothed in many colors and traveling by
+    a curving arch through the heavens.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:6
+  name_or_label: Sleep
+  description: A king in a soporiferous court or abode beneath a rock, commanded to
+    send a vision to Halcyone.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: Lucifer
+  description: A celestial figure obscured that night and unable to depart from the
+    heavens.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: drowning voyager
+  assigned_to:
+  - fig:1
+  basis: Ceyx survives the sinking briefly by holding wreckage, then is buried by
+    a wave.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: absent husband remembered by wife
+  assigned_to:
+  - fig:1
+  basis: Halcyone prepares for and prays for Ceyx’s return while he is already dead.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:3
+  label: waiting wife
+  assigned_to:
+  - fig:2
+  basis: Halcyone reckons the nights, prepares garments, and expects Ceyx’s return.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: supplicant
+  assigned_to:
+  - fig:2
+  basis: Halcyone offers incense and prays at Juno’s temple for her husband.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: shipwreck victims
+  assigned_to:
+  - fig:3
+  basis: The crew panic during the storm, and many are overwhelmed in the deep water.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:6
+  label: divine sender of dream-message
+  assigned_to:
+  - fig:4
+  basis: Juno commands Iris to tell Sleep to send Halcyone a vision revealing Ceyx’s
+    death.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: divine messenger
+  assigned_to:
+  - fig:5
+  basis: Juno calls Iris the faithful messenger of her words and sends her to Sleep.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:8
+  label: lord of sleep and visions
+  assigned_to:
+  - fig:6
+  basis: Sleep is described as a king in a soporiferous court who can send a vision.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:9
+  label: obscured heavenly body
+  assigned_to:
+  - fig:7
+  basis: Lucifer is hidden beneath thick clouds on the night of Ceyx’s drowning.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: storm waters
+  literal_form: rain, sea, waves, waters of the skies, and fatal waves entering the
+    ship
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: lightning fire in water
+  literal_form: lightnings and thunderbolt flames making the waters appear on fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: ship and wreckage
+  literal_form: ship with broken mast and helm; fragments grasped after the sinking
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: dark arch of waters
+  literal_form: a darkening arch of waters that breaks over Ceyx and buries his head
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: incense and altars
+  literal_form: frankincense offered to the gods and altars of Juno approached by
+    Halcyone
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: many-colored arch of Iris
+  literal_form: Iris’s garment of a thousand colours and curving arch across the heavens
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:7
+  label: rock-hidden abode of Sleep
+  literal_form: the abode of Sleep concealed beneath a rock
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Storm breaches the ship
+  summary: A storm darkens the sky, mingles sea and rain, and drives waves through
+    the opened seams of the ship.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Panic and sinking
+  summary: The crew panic as the mast and helm break and the ship is forced to the
+    bottom; many drown while some grasp wreckage.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:3
+  label: Ceyx’s final calls to Halcyone
+  summary: Ceyx swims with a fragment of the wreck, repeatedly invokes Halcyone, wishes
+    his body to reach her, and is drowned beneath a breaking wave.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Halcyone prays unknowingly for the dead
+  summary: Halcyone counts the nights, prepares garments, and prays at Juno’s temple
+    for the safety and return of Ceyx, not knowing he has died.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Juno dispatches Iris to Sleep
+  summary: Juno commands Iris to go to Sleep and have him send Halcyone a vision in
+    dead Ceyx’s form; Iris travels by her colored arch to Sleep’s rock-hidden abode.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: fatal sea-storm and shipwreck
+  taxonomy_refs: []
+  basis: The passage centers on a storm that breaks and sinks a ship, drowning many
+    aboard.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a narrative pattern rather than a listed taxonomy motif in the
+    supplied references.
+- id: motif:2
+  label: dying spouse’s last invocation of beloved
+  taxonomy_refs: []
+  basis: Ceyx repeatedly thinks of and names Halcyone while drowning and wishes his
+    body to come before her.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage supports the motif locally but does not itself make a broader
+    comparative claim.
+- id: motif:3
+  label: unaware supplication for one already dead
+  taxonomy_refs: []
+  basis: Halcyone prays for Ceyx’s safety and return after he has drowned, and Juno
+    rejects continued supplication for the dead.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: No taxonomy reference from the supplied list precisely matches this pattern.
+- id: motif:4
+  label: divinely sent dream or vision of the dead
+  taxonomy_refs:
+  - shapeshifter
+  basis: Juno commands Iris to tell Sleep to send Halcyone a vision under the form
+    of dead Ceyx to reveal the real misfortune.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The shapeshifter taxonomy applies only cautiously because the passage
+    describes a vision taking Ceyx’s form, not necessarily a permanent bodily transformation.
+- id: motif:5
+  label: rainbow-like divine messenger
+  taxonomy_refs: []
+  basis: Iris wears many colors, marks the heavens with a curving arch, and carries
+    Juno’s command.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage presents the image and function, but no supplied motif-family
+    reference directly names the rainbow messenger pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6762-6772
+  quote_or_summary: The ship’s wax covering fails, seams open to fatal waves, rain
+    and sea mingle, darkness covers the sky, and lightning makes the waters appear
+    fiery.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 6773-6783
+  quote_or_summary: A tenth wave is likened to a soldier taking a city wall and enters
+    the ship as if breaching a captured bark.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 6784-6794
+  quote_or_summary: All aboard are alarmed; art and courage fail; some weep, some
+    are stunned, some pray, and some remember relatives, home, and what they left
+    behind.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 6795-6802
+  quote_or_summary: Ceyx thinks only of Halcyone, regrets her alone, rejoices that
+    she is absent, and cannot locate his native shore through the storm.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 6803-6812
+  quote_or_summary: The mast and helm break; a towering wave sinks the ship; many
+    of the crew drown, while some seize broken pieces of the vessel.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 6813-6825
+  quote_or_summary: Ceyx clings to a wreck fragment, invokes his father and father-in-law,
+    repeatedly calls Halcyone, prays his body may reach her, and is buried beneath
+    a breaking wave; Lucifer is obscured by clouds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 6826-6831
+  quote_or_summary: Halcyone, ignorant of the disaster, counts the nights and prepares
+    garments for Ceyx’s return and for herself to wear when he comes.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 6832-6837
+  quote_or_summary: Halcyone offers frankincense to the gods, especially worships
+    at Juno’s temple, and prays that her husband be safe, return, and prefer no other
+    woman.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 6838-6840
+  quote_or_summary: Juno cannot endure prayers for one who is dead and commands Iris
+    to go to Sleep and have him send Halcyone a vision in the form of dead Ceyx.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:10
+  type: summary
+  locator: line 6840 and final supplied sentence
+  quote_or_summary: Iris assumes a many-colored garment, marks the heavens with a
+    curving arch, and goes to Sleep’s abode concealed beneath a rock.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main figures, scenes, and literal patterns are explicit in the supplied
+    passage. Motif labels are descriptive and cautious because most do not directly
+    match the supplied taxonomy list. No comparison claims were added because the
+    passage does not itself support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata; footnote markers are treated as part of the passage text but not separately interpreted.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l6762-l6840
+  passage_sha256=082c22691c6f33c9f38323c00dcbd1ce8b41c4e3d91479503bba810d1c44c528
+

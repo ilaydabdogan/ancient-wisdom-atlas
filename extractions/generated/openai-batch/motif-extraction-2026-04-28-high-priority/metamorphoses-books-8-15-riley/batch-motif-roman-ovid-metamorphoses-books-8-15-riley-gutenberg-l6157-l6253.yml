@@ -1,0 +1,791 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6157-l6253
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: BOOK THE ELEVENTH. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 6157-6253
+  start: '6157'
+  end: '6253'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives explanatory material on Midas and Tmolus, then narrates
+    how Apollo and Neptune, in mortal form, build Troy’s walls for Laomedon, who refuses
+    the agreed reward. Neptune punishes Troy with inundation and demands the king’s
+    daughter for a sea monster. Hercules rescues her, is also denied his promised
+    reward, captures Troy, and Hesione is given to Telamon. The passage closes by
+    noting Peleus’ distinction in having a goddess as wife.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Midas is described as the son of Gordius and Cybele and as a rich, frugal
+    ruler of Greater Phrygia.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The account says it was reported that whatever Midas touched was turned into
+    gold.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The explanation connects Midas’ wealth with Bacchus’ favor, gold from the
+    river Pactolus, mines of Mount Bermius, and an infancy omen involving ants placing
+    grains of wheat in his mouth.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Midas is described as stupid and ignorant, with a fable in which he preferred
+    Pan’s music to Apollo’s and received asses’ ears.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Tmolus is said to have violated Arriphe, a nymph of Diana, and to have died
+    after being tossed by a bull and falling on sharp stakes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Apollo and Neptune assume mortal form and build the walls of rising Troy for
+    Laomedon in exchange for an agreed sum of gold.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After the walls are finished, Laomedon refuses the reward and adds perjury
+    to false words.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Neptune punishes Troy by driving his waters against its shores, making land
+    resemble sea, carrying off rural wealth, and overwhelming fields with waves.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The king’s daughter is demanded for a sea monster and is chained to rugged
+    rocks.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Alcides delivers the chained daughter and demands the promised horses as reward.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Laomedon denies Hercules the promised recompense, after which Hercules captures
+    conquered Troy’s twice-perjured walls.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Telamon receives Hesione after sharing in the warfare.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Peleus is said to be distinguished because a goddess was given to him as wife.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Midas
+  description: Rich and frugal Phrygian ruler associated with gold, Bacchus’ favor,
+    an infancy omen, foolish musical judgment, asses’ ears, and death after drinking
+    warm bullock’s blood.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Bacchus
+  description: Divinity whose worship Midas favored and whose good offices were used
+    to explain Midas’ success.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Apollo / son of Latona
+  description: God who revenges himself, leaves Tmolus, assumes mortal form with Neptune,
+    and helps build Troy’s walls.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Pan
+  description: God whose music Midas is said to have preferred to Apollo’s.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Tmolus
+  description: King of Lydia who violated Arriphe and died as punishment after being
+    tossed by a bull onto stakes; buried on the mountain later bearing his name.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Arriphe
+  description: A nymph of Diana violated by Tmolus.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Neptune / trident-bearing father of the raging deep / king of the
+    sea
+  description: Sea god who assumes mortal form, builds Troy’s walls with Apollo, and
+    punishes Laomedon’s perjury by inundating Troy and demanding the king’s daughter
+    for a sea monster.
+  role_refs:
+  - role:4
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: Laomedon
+  description: Phrygian king of Troy who promises payment to Apollo and Neptune, refuses
+    the reward, commits perjury, and later denies Hercules the promised horses.
+  role_refs:
+  - role:11
+  - role:12
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:9
+  name_or_label: Hesione / daughter of the king
+  description: Laomedon’s daughter, demanded for a sea monster, chained to rocks,
+    delivered by Alcides, and later obtained by Telamon.
+  role_refs:
+  - role:13
+  - role:14
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:10
+  name_or_label: Sea monster
+  description: Monster for whom Laomedon’s daughter is demanded after Neptune’s inundation
+    of Troy.
+  role_refs:
+  - role:15
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:11
+  name_or_label: Alcides / Hercules
+  description: Hero who delivers Laomedon’s daughter, demands promised horses, and
+    captures Troy after being denied reward.
+  role_refs:
+  - role:16
+  - role:17
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:12
+  name_or_label: Telamon
+  description: Companion and sharer in the warfare who receives Hesione.
+  role_refs:
+  - role:18
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:13
+  name_or_label: Peleus
+  description: Figure distinguished by having a goddess for his wife.
+  role_refs:
+  - role:19
+  evidence_refs:
+  - ev:8
+- id: fig:14
+  name_or_label: Unnamed goddess wife of Peleus
+  description: Goddess given to Peleus as wife.
+  role_refs:
+  - role:20
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: wealth-marked ruler
+  assigned_to:
+  - fig:1
+  basis: Midas is presented as a rich, frugal ruler whose touch was said to turn things
+    to gold.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: foolish judge of music
+  assigned_to:
+  - fig:1
+  basis: Midas is described as stupid and ignorant, preferring Pan’s music to Apollo’s
+    and receiving asses’ ears.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine patron of prosperity
+  assigned_to:
+  - fig:2
+  basis: Midas’ success is explained as owed to Bacchus’ good offices after Midas
+    favored his worship.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: divine builder in mortal form
+  assigned_to:
+  - fig:3
+  - fig:7
+  basis: Apollo and Neptune assume mortal form and build Troy’s walls for Laomedon.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: offended musical deity
+  assigned_to:
+  - fig:3
+  basis: The explanation says Apollo gave Midas asses’ ears after Midas preferred
+    Pan’s music.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: preferred rustic musician
+  assigned_to:
+  - fig:4
+  basis: Midas preferred Pan’s music to Apollo’s.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: punished violator
+  assigned_to:
+  - fig:5
+  basis: Tmolus violates Arriphe and dies through a punishment involving a bull and
+    stakes.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: violated nymph
+  assigned_to:
+  - fig:6
+  basis: Arriphe is identified as a nymph of Diana violated by Tmolus.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: divine punisher by flood
+  assigned_to:
+  - fig:7
+  basis: Neptune sends waters against Troy after Laomedon refuses the reward and commits
+    perjury.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: demander of exposed daughter
+  assigned_to:
+  - fig:7
+  basis: After the inundation, the king’s daughter is demanded for a sea monster to
+    appease the god.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:11
+  label: perjured king
+  assigned_to:
+  - fig:8
+  basis: Laomedon refuses the promised reward to the gods and adds perjury to false
+    words.
+  evidence_refs:
+  - ev:6
+- id: role:12
+  label: repeated defrauder of helpers
+  assigned_to:
+  - fig:8
+  basis: Laomedon denies both the gods’ payment and Hercules’ promised horses.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:13
+  label: exposed royal daughter
+  assigned_to:
+  - fig:9
+  basis: The king’s daughter is demanded for a sea monster and chained to rocks.
+  evidence_refs:
+  - ev:7
+- id: role:14
+  label: marriage prize after warfare
+  assigned_to:
+  - fig:9
+  basis: Hesione is obtained by Telamon after the capture of Troy.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:15
+  label: threatening sea monster
+  assigned_to:
+  - fig:10
+  basis: The daughter is demanded for a sea monster.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:16
+  label: rescuer of exposed maiden
+  assigned_to:
+  - fig:11
+  basis: Alcides delivers Laomedon’s daughter from the rocks.
+  evidence_refs:
+  - ev:7
+- id: role:17
+  label: avenger of denied reward
+  assigned_to:
+  - fig:11
+  basis: After denied recompense, Hercules captures conquered Troy.
+  evidence_refs:
+  - ev:7
+- id: role:18
+  label: rewarded war companion
+  assigned_to:
+  - fig:12
+  basis: Telamon shares in the warfare and obtains Hesione.
+  evidence_refs:
+  - ev:7
+- id: role:19
+  label: mortal husband of a goddess
+  assigned_to:
+  - fig:13
+  basis: Peleus is distinguished because a goddess was given to him as wife.
+  evidence_refs:
+  - ev:8
+- id: role:20
+  label: divine spouse
+  assigned_to:
+  - fig:14
+  basis: The passage says a goddess was given to Peleus for a wife.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: golden touch
+  literal_form: Whatever Midas touched reportedly turning into gold
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: infancy ants with wheat
+  literal_form: Ants creeping into Midas’ cradle and placing grains of wheat in his
+    mouth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: asses’ ears
+  literal_form: A pair of asses’ ears given to Midas
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bull and stakes
+  literal_form: A bull tossing Tmolus onto sharp pointed stakes
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: mountain burial and name
+  literal_form: Mountain that later bore Tmolus’ name
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: walls of Troy
+  literal_form: Walls of rising Troy built by Apollo and Neptune
+  associated_figures:
+  - fig:3
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: punitive waters
+  literal_form: Waters, sea-form land, and waves overwhelming fields around Troy
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: sea monster
+  literal_form: Sea monster to whom Laomedon’s daughter is demanded
+  associated_figures:
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: chains and rugged rocks
+  literal_form: The king’s daughter chained to rugged rocks
+  associated_figures:
+  - fig:9
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:10
+  label: promised horses
+  literal_form: Horses promised to Hercules as recompense for rescuing the daughter
+  associated_figures:
+  - fig:8
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:11
+  label: goddess wife
+  literal_form: A goddess given to Peleus as wife
+  associated_figures:
+  - fig:13
+  - fig:14
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Midas’ wealth and portents explained
+  summary: The passage explains Midas’ reported golden touch through wealth, frugality,
+    Bacchus’ favor, river or mine gold, and an infancy omen involving ants and wheat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Midas’ foolish musical judgment
+  summary: Midas is said to prefer Pan’s music to Apollo’s, after which Apollo gives
+    him asses’ ears; the explanation offers rationalizing interpretations.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Tmolus punished after violating Arriphe
+  summary: Tmolus violates Arriphe, a nymph of Diana, and dies when tossed by a bull
+    onto stakes; he is buried on the mountain later named for him.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Gods build Troy’s walls under contract
+  summary: Apollo and Neptune assume mortal form and build the walls of rising Troy
+    for Laomedon in exchange for an agreed sum of gold.
+  figure_refs:
+  - fig:3
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Laomedon’s perjury and Neptune’s inundation
+  summary: After the walls are complete, Laomedon refuses payment and perjures himself;
+    Neptune punishes Troy with destructive waters that overwhelm land and fields.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Hesione exposed and rescued
+  summary: Laomedon’s daughter is demanded for a sea monster and chained to rocks,
+    but Alcides delivers her and asks for the promised horses.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Second denied reward and capture of Troy
+  summary: Laomedon denies Hercules the promised recompense; Hercules captures Troy,
+    and Telamon receives Hesione.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:11
+  - fig:12
+  symbol_refs:
+  - sym:6
+  - sym:10
+  evidence_refs:
+  - ev:7
+- id: scene:8
+  label: Peleus’ divine marriage distinction
+  summary: Peleus is distinguished above other descendants of Jove because a goddess
+    is given to him as wife.
+  figure_refs:
+  - fig:13
+  - fig:14
+  symbol_refs:
+  - sym:11
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: wealth transformed into golden touch legend
+  taxonomy_refs: []
+  basis: The explanation says Midas’ wealth and extraction of gold may have produced
+    the report that everything he touched turned to gold.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents this as a rationalizing explanation rather than narrating
+    the transformation directly.
+- id: motif:2
+  label: infant omen of future wealth and frugality
+  taxonomy_refs: []
+  basis: Ants are said to have placed grains of wheat in Midas’ mouth in infancy,
+    portending that he would be rich and frugal.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No available taxonomy reference precisely matches the omen.
+- id: motif:3
+  label: wrong musical judgment marked by animal ears
+  taxonomy_refs:
+  - divine_judgment
+  basis: Midas’ preference of Pan’s music to Apollo’s is linked to Apollo giving him
+    asses’ ears as a mark of stupidity.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage explicitly calls the story a fable and gives rationalizing
+    alternatives.
+- id: motif:4
+  label: sexual violation punished by violent animal death
+  taxonomy_refs:
+  - divine_judgment
+  basis: Tmolus violates Arriphe and is punished by being tossed by a bull onto stakes,
+    resulting in death.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The punishing agent is not specified beyond the event being described
+    as punishment.
+- id: motif:5
+  label: gods disguised as mortals perform contracted labor
+  taxonomy_refs:
+  - shapeshifter
+  - sacred_exchange
+  basis: Apollo and Neptune assume mortal form and build Troy’s walls for an agreed
+    payment.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The transformation is into mortal form for labor; the passage does not
+    dwell on disguise beyond the assumption of form.
+- id: motif:6
+  label: perjury against gods punished by inundation
+  taxonomy_refs:
+  - divine_judgment
+  - flood_and_renewal
+  basis: Laomedon refuses the gods’ agreed reward and perjures himself; Neptune punishes
+    Troy by overwhelming land and fields with waters.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage has flood-like punishment but does not describe renewal, so
+    the flood_and_renewal reference is partial.
+- id: motif:7
+  label: royal daughter exposed to sea monster and rescued by hero
+  taxonomy_refs:
+  - sacrifice
+  - divine_judgment
+  basis: Laomedon’s daughter is demanded for a sea monster after Neptune’s punishment,
+    chained to rocks, and delivered by Alcides.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage says she is demanded to appease the god but does not describe
+    an actual completed sacrifice.
+- id: motif:8
+  label: hero defrauded of rescue reward sacks city
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Hercules rescues the daughter, is denied the promised horses, and captures
+    Troy in revenge.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The taxonomy reference is used broadly for violated exchange; the passage
+    frames it as denied recompense and revenge.
+- id: motif:9
+  label: woman awarded to war companion after conquest
+  taxonomy_refs:
+  - stolen_beloved
+  basis: After Troy is captured, Telamon obtains Hesione, who is given to him.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage states Hesione is given to Telamon but does not describe her
+    consent or abduction in detail.
+- id: motif:10
+  label: mortal distinguished by goddess wife
+  taxonomy_refs:
+  - sacred_marriage
+  - divine_beloved
+  basis: Peleus is singled out because a goddess was given to him as wife.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage only introduces the marriage distinction and does not narrate
+    the courtship or wedding.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6157-6174
+  quote_or_summary: Midas is described as son of Gordius and Cybele, rich and frugal;
+    the golden touch report is rationalized through Bacchus’ favor, gold from Pactolus
+    or Mount Bermius, and an infancy omen of ants placing wheat in his mouth.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 6175-6187
+  quote_or_summary: Midas is described as stupid and ignorant; the fable says he preferred
+    Pan’s music to Apollo’s and was given asses’ ears, with further rationalizing
+    interpretations and an account of his death after drinking warm bullock’s blood
+    to escape dreams.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 6189-6194
+  quote_or_summary: Tmolus’ ancestry is given; after violating Arriphe, a nymph of
+    Diana, he is punished by a bull and sharp stakes, dies, and is buried on the mountain
+    named for him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 6196-6205
+  quote_or_summary: The fable heading summarizes Apollo and Neptune building Troy’s
+    walls for Laomedon, Laomedon’s refusal of payment, Neptune’s inundation, the exposure
+    of Laomedon’s daughter to a sea monster, Hercules’ rescue, Laomedon’s second fraud,
+    Troy’s plundering, and Hesione’s marriage to Telamon.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 6207-6217
+  quote_or_summary: Apollo reaches Laomedon’s plains; with Neptune he assumes mortal
+    form and builds Troy’s walls for the Phrygian king after a sum of gold is agreed
+    for the defenses.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 6219-6224
+  quote_or_summary: "“The work is now finished; the king refuses the reward,” and
+    Neptune drives his waters to Troy, making land like sea and overwhelming fields
+    with waves."
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: 6224-6229
+  quote_or_summary: The king’s daughter is demanded for a sea monster and chained
+    to rocks; Alcides delivers her, asks for the promised horses, is denied recompense,
+    captures Troy, and Telamon obtains Hesione.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 6231-6234
+  quote_or_summary: Peleus is said to be distinguished because, unlike others, a goddess
+    was given to him as wife.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 6236-6253
+  quote_or_summary: Footnotes identify promontories near Troy, explain Jupiter Panomphaeus,
+    rationalize Neptune’s wall-building as clay mixed with water, and note Nereus’
+    prophetic sea-divinity.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the Troy episode and explanatory sections.
+    Motif taxonomy assignments are cautious where the available taxonomy only partly
+    matches, especially flood_and_renewal and stolen_beloved. No comparison claims
+    were made because the passage does not itself develop a cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Public-domain source summarized with one short excerpt.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l6157-l6253
+  passage_sha256=ca3f4c36340e70e9055c48db030a5ca21c30437e852fc5306a7d32b31bbf3ae4
+

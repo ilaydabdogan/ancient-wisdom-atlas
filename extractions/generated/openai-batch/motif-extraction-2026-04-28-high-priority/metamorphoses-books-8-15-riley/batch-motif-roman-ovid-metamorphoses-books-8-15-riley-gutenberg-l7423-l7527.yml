@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7423-l7527
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE TWELFTH.; lines 7423-7527
+  start: '7423'
+  end: '7527'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: In battle, Achilles repeatedly attacks Cygnus with lance, spear, and sword,
+    but Cygnus remains unwounded despite being unarmored or struck through armor.
+    Achilles tests his weapon on Menœtes, killing him, then returns to Cygnus. Unable
+    to wound Cygnus, Achilles overpowers him physically, throws him down, and strangles
+    him with the straps of his helmet. When Achilles tries to strip the defeated foe,
+    only armor remains; the God of the Ocean has changed Cygnus's body into a white
+    bird associated with his name.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Achilles' lance strikes Cygnus but does not pierce or wound him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cygnus says that his protection does not come from helmet, shield, or armor,
+    and identifies his birth as from one who rules Nereus, Nereus's daughter, and
+    the ocean.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cygnus throws a dart at Achilles, and it lodges in Achilles' shield after
+    passing through metal and multiple layers of hide.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Achilles repeatedly throws weapons at Cygnus, but Cygnus remains without wound,
+    even when unprotected and exposing himself.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Achilles compares his present failure to earlier successes in battle, naming
+    Lyrnessus, Tenedos, Thebes, Caÿcus, Telephus, and slain enemies on the shore.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Achilles tests the same spear on Menœtes and kills him by tearing through
+    his mail and breast.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Achilles strikes Cygnus again with the spear; the weapon rebounds from Cygnus's
+    shoulder as if from a wall or solid rock, and the blood seen there belongs to
+    Menœtes rather than to Cygnus.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Achilles attacks Cygnus hand to hand with a sword, piercing Cygnus's shield
+    and helmet, but the sword is blunted against Cygnus's hard body.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Achilles drives Cygnus backward, throws him over a stone, pins him down, and
+    tightens the helmet straps under his chin until his breathing is stopped.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: When Achilles prepares to strip Cygnus, he finds only the armor left behind,
+    because the God of the Ocean has changed Cygnus's body into a white bird.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Achilles, descendant of Æacus
+  description: A warrior called the grandson or descendant of Æacus and son of a Goddess;
+    he attacks Cygnus with lance, spear, sword, shield, and physical force.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Cygnus
+  description: A warrior who claims divine oceanic parentage and whose body cannot
+    be wounded by Achilles' weapons; after defeat, his body is changed into a white
+    bird.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:3
+  name_or_label: Menœtes
+  description: One of the Lycian multitude standing opposite Achilles; Achilles kills
+    him with a spear while testing his weapon's power.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: God of the Ocean
+  description: The divine figure who changes Cygnus's body into a white bird after
+    Cygnus is defeated.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: attacking warrior
+  assigned_to:
+  - fig:1
+  basis: Achilles repeatedly launches weapons and then engages in hand-to-hand force
+    against Cygnus.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+  - ev:9
+- id: role:2
+  label: unwounded opponent
+  assigned_to:
+  - fig:2
+  basis: Cygnus remains unharmed by lance, spear, and sword blows.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:3
+  label: claimant of divine oceanic birth
+  assigned_to:
+  - fig:2
+  basis: Cygnus says it is significant to be born of one who rules Nereus, his daughter,
+    and the whole ocean.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: transformed defeated body
+  assigned_to:
+  - fig:2
+  basis: After defeat, Cygnus's body is no longer present and has been changed into
+    a white bird.
+  evidence_refs:
+  - ev:10
+- id: role:5
+  label: victor by strangulation rather than wounding
+  assigned_to:
+  - fig:1
+  basis: Achilles cannot wound Cygnus with weapons but stops his breath by tightening
+    helmet straps.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:6
+  label: weapon-test victim
+  assigned_to:
+  - fig:3
+  basis: Achilles kills Menœtes to confirm that his hand and spear remain effective.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: divine transformer
+  assigned_to:
+  - fig:4
+  basis: The God of the Ocean changes Cygnus's body into a white bird.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: unavailing spear or lance
+  literal_form: Achilles' lance and spear striking Cygnus without wounding him
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: armor left behind
+  literal_form: Cygnus's armor remaining when Achilles tries to strip the vanquished
+    foe
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:3
+  label: white bird
+  literal_form: A white bird into which Cygnus's body is changed
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:4
+  label: helmet straps
+  literal_form: Straps of Cygnus's helmet tightened beneath his chin to stop breath
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: stone in the field
+  literal_form: A stone that obstructs Cygnus's retreating steps before Achilles throws
+    him down
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Cygnus resists Achilles' weapons
+  summary: Achilles strikes Cygnus with a lance, but Cygnus remains unwounded and
+    explains that his defense does not depend on armor but on his divine oceanic birth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Exchange of missiles
+  summary: Cygnus's dart lodges in Achilles' shield, while Achilles' repeated missiles
+    fail to wound Cygnus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Achilles tests the spear on Menœtes
+  summary: Doubting his own strength, Achilles throws the spear at Menœtes and kills
+    him, then uses the same weapon again against Cygnus without wounding him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Hand-to-hand defeat of Cygnus
+  summary: Achilles' sword cannot wound Cygnus's hard body, so Achilles overwhelms
+    him physically, trips him over a stone, pins him down, and stops his breath with
+    the helmet straps.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Transformation after defeat
+  summary: Achilles attempts to strip the defeated Cygnus but finds only armor, because
+    the God of the Ocean has transformed Cygnus's body into a white bird.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: invulnerable warrior defeated without piercing wounds
+  taxonomy_refs: []
+  basis: Cygnus cannot be wounded by Achilles' lance, spear, or sword, but is defeated
+    when Achilles stops his breath with helmet straps.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The available taxonomy list does not include a specific invulnerable-warrior
+    motif; label is descriptive.
+- id: motif:2
+  label: divine transformation of a defeated body into a bird
+  taxonomy_refs:
+  - shapeshifter
+  basis: After Cygnus is overcome, his body is changed by the God of the Ocean into
+    a white bird.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The transformation is performed by a deity; the passage does not describe
+    Cygnus voluntarily shapeshifting.
+- id: motif:3
+  label: divine oceanic parentage as source of protection
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Cygnus says his safety comes not from armor but from being born of one who
+    rules the oceanic powers.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states divine birth and implies its relevance to his invulnerability,
+    but does not fully explain the mechanism.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7423-7430
+  quote_or_summary: Achilles' heavy lance strikes Cygnus but avails nothing, bruising
+    his breast only with a blunt stroke.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 7430-7442
+  quote_or_summary: Cygnus tells Achilles that wounds are warded off from him, not
+    by helmet or shield, but because he is born of one who rules Nereus, Nereus's
+    daughter, and the whole ocean.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 7443-7449
+  quote_or_summary: Cygnus throws a dart at Achilles; it passes through brass and
+    nine folds of bull hide in Achilles' shield and stops in the tenth.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 7449-7456
+  quote_or_summary: Achilles hurls weapons at Cygnus again, but Cygnus remains without
+    a wound, even while unprotected and exposing himself.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 7456-7475
+  quote_or_summary: Achilles says his hand and spear had proved strong at Lyrnessus,
+    Tenedos, Thebes, Caÿcus, against Telephus, and among many slain on the shore.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 7476-7485
+  quote_or_summary: Achilles throws his spear at Menœtes of the Lycian multitude,
+    tearing through mail and breast and killing him, then draws the weapon from the
+    wound.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 7485-7495
+  quote_or_summary: Achilles uses the same spear against Cygnus; it strikes the left
+    shoulder and rebounds as from a wall or rock. The blood Achilles sees is Menœtes'
+    blood, not Cygnus's.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 7496-7504
+  quote_or_summary: Achilles leaps from his chariot and attacks Cygnus with a sword;
+    the shield and helmet are pierced, but the weapon is blunted on Cygnus's hard
+    body.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 7504-7520
+  quote_or_summary: Achilles beats Cygnus with the sword hilt, drives him backward
+    over a stone, throws him down, pins him with shield and knees, and tightens the
+    helmet straps until breath is cut off.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 7521-7527
+  quote_or_summary: When Achilles prepares to strip the vanquished foe, only armor
+    remains; the God of the Ocean has changed Cygnus's body into a white bird, matching
+    the name he bore.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is based directly on the supplied passage. Motif labeling
+    is conservative; only shapeshifting and divine parent-child taxonomy references
+    are used where supported by the text. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes outside the immediate Cygnus-Achilles episode were not used except where the passage itself discusses Nereid ancestry; no external mythology has been added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l7423-l7527
+  passage_sha256=b85ff9e9ee1fd9c6819b86041945fc4044b3d62f9e0b7a26583054e1dd3a5752
+

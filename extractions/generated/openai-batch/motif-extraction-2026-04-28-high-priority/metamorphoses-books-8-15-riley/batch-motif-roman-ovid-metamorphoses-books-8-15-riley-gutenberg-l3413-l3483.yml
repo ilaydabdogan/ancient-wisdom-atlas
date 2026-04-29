@@ -1,0 +1,506 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3413-l3483
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 3413-3483
+  start: '3413'
+  end: '3483'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Byblis decides to confess her passion in writing. She composes and revises
+    a wax-tablet letter to her brother Caunus, calling herself his lover, describing
+    bodily signs of desire, invoking Cupid and the example of the gods, and arguing
+    that their sibling relation could conceal a closer union. She seals the tablets
+    with tears and sends them by a male servant. Caunus reads part of the message,
+    angrily rejects it, threatens the servant, and the refusal is reported back to
+    Byblis, who is alarmed but again overcome by passion.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A woman raises herself, leans on her left elbow, and decides that the addressee
+    shall see her passion confessed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: She writes with an iron pen on clean wax tablets held in her hands.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: She repeatedly begins, hesitates, writes, corrects, scratches out, alters,
+    approves, throws down, and takes up the tablets.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The word “sister” is written and then considered for erasure before a different
+    form of address is composed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The letter identifies the writer as a lover, names Byblis, and says her health
+    depends on the addressee granting what she seeks.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The letter lists pale complexion, wasting, downcast looks, tearful eyes, sighs,
+    embraces, and kisses as signs of a wounded heart.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The letter describes a grievous wound in the soul, a raging fire within, and
+    a struggle against Cupid’s weapon.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The letter says the addressee alone can save or destroy the one who loves
+    him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The letter argues that youth does not yet know what is lawful and claims to
+    follow the example of the great gods.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The letter proposes that under a brother’s name they could conceal stolen
+    joys, private conversation, embraces, and kisses.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: The tablets are filled, the last line is placed in the margin, and she seals
+    them with a signet moistened by her tears.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: She gives the tablets to a male domestic and tells him to carry them to her
+    brother, after a pause.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:13
+  text: The tablets slip from her hands and fall; she treats this as an omen but sends
+    them anyway.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:14
+  text: The servant delivers the secret writing to the Maeandrian youth.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:15
+  text: After reading part of the tablets, the Maeandrian youth angrily throws them
+    away and calls the servant a pander to forbidden lust.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:16
+  text: The servant flees and reports Caunus’s threatening words to Byblis.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:17
+  text: On hearing of the refusal, Byblis turns pale, feels an icy chill, and then
+    her passion returns.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Byblis
+  description: The woman who writes and sends the wax-tablet confession; she is named
+    in the letter and later addressed directly after Caunus’s refusal.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Caunus / the Maeandrian youth
+  description: The brother and addressee of the tablets; he reads part of the message,
+    rejects it, and threatens the servant.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: male domestic / servant
+  description: The trusted male domestic who carries the tablets, delivers the secret
+    writing, is threatened by Caunus, and reports back to Byblis.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Cupid
+  description: A divine figure mentioned in the letter through the phrase describing
+    an attempted escape from Cupid’s ruthless weapon.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the great Gods
+  description: Divine figures invoked in the letter as examples for believing that
+    all things are lawful.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: confessing writer
+  assigned_to:
+  - fig:1
+  basis: Byblis composes, revises, seals, and sends a written confession of passion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: sister seeking nearer union
+  assigned_to:
+  - fig:1
+  basis: The letter treats the existing relation as that of sister and brother while
+    asking for a still closer connection.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: brother recipient
+  assigned_to:
+  - fig:2
+  basis: Byblis addresses the tablets to her brother, and the servant delivers them
+    to the Maeandrian youth.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: rejecting addressee
+  assigned_to:
+  - fig:2
+  basis: After reading part of the tablets, he angrily throws them away and denounces
+    the message as forbidden lust.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: messenger of secret writing
+  assigned_to:
+  - fig:3
+  basis: The male domestic carries and delivers the tablets, then brings back Caunus’s
+    threatening words.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: divine source of love’s weapon
+  assigned_to:
+  - fig:4
+  basis: The letter describes Byblis as struggling to escape the weapon of Cupid.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: divine precedent invoked
+  assigned_to:
+  - fig:5
+  basis: The letter claims that the lovers believe all things lawful and follow the
+    example of the great Gods.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: wax tablets
+  literal_form: clean wax tablets filled with Byblis’s written confession and later
+    delivered to Caunus
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: iron pen
+  literal_form: iron pen held by Byblis’s right hand while composing the message
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: flame or raging fire of passion
+  literal_form: flame kindled in the mind and raging fire within the soul
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: tears on signet
+  literal_form: tears wetting the signet used to seal the tablets
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: fallen tablets as omen
+  literal_form: tablets slipping from Byblis’s hands and falling before being sent
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: brother’s name
+  literal_form: the name or status of brother used as a cover for proposed stolen
+    joys
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:7
+  label: tomb inscription
+  literal_form: the possible inscription naming the addressee as the cause of the
+    writer’s death
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Byblis composes the confession
+  summary: Byblis decides to reveal her passion, prepares wax tablets, and struggles
+    through repeated writing and erasure before drafting a letter as a lover rather
+    than simply as a sister.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The letter argues for forbidden union
+  summary: The written message describes symptoms of love, invokes Cupid, asks the
+    addressee to save or destroy her, dismisses legal restraint as belonging to old
+    men, cites the gods, and proposes using the sibling relationship to hide stolen
+    joys.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: The tablets are sealed and sent
+  summary: Byblis fills the tablets, seals them with a tear-wet signet, instructs
+    a male domestic to carry them to her brother, notices the tablets fall as an omen,
+    and sends them anyway.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Caunus rejects the secret writing
+  summary: The servant delivers the tablets; Caunus reads part of the message, angrily
+    throws the tablets away, threatens the servant, and the servant reports the refusal
+    to Byblis.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Byblis reacts to refusal
+  summary: After hearing of Caunus’s refusal, Byblis turns pale and is chilled with
+    alarm, but her passion returns when her senses return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: forbidden sibling desire confessed in writing
+  taxonomy_refs: []
+  basis: The passage centers on Byblis writing a love confession to her brother and
+    Caunus rejecting it as forbidden lust.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy list has no direct incest or forbidden-love motif
+    family; no taxonomy reference is assigned.
+- id: motif:2
+  label: love as wound, fire, and divine weapon
+  taxonomy_refs: []
+  basis: The letter describes the lover’s condition through a wounded heart, a grievous
+    wound in the soul, a raging fire within, and Cupid’s weapon.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a figurative pattern within the passage rather than a full narrative
+    motif by itself.
+- id: motif:3
+  label: secret message as vehicle of transgressive desire
+  taxonomy_refs: []
+  basis: Byblis encodes her request in wax tablets, seals them, sends them secretly
+    through a trusted servant, and the recipient’s partial reading triggers the rejection.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif is inferred from the action sequence; it is not named by the
+    passage.
+- id: motif:4
+  label: ominous mishap before sending a message
+  taxonomy_refs: []
+  basis: The tablets slip from Byblis’s hands and fall; she is shocked by the omen
+    but sends them anyway.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage explicitly calls the fall an omen, but its later consequences
+    are not developed within this line range.
+- id: motif:5
+  label: divine precedent invoked to suspend human law
+  taxonomy_refs: []
+  basis: The letter contrasts old men’s concern with what is lawful and wicked with
+    youthful passion that believes all things lawful and follows the example of the
+    great Gods.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not specify which divine examples are meant.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3413-3427
+  quote_or_summary: Byblis resolves to let the addressee see her passion; she writes
+    on clean wax tablets with an iron pen, repeatedly hesitating, correcting, scratching
+    out, and changing what she has written.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 3427-3451
+  quote_or_summary: The draft shifts away from the word “sister” and speaks as a lover;
+    the letter names Byblis, describes bodily signs of love, mentions tears, kisses,
+    a wounded heart, a raging fire within, and a struggle against Cupid’s weapon.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 3452-3470
+  quote_or_summary: The letter says the addressee alone can save or destroy the lover,
+    asks to be more closely connected, dismisses legal inquiry as for old men, invokes
+    the example of the great Gods, proposes hiding stolen joys under a brother’s name,
+    and mentions a possible tomb inscription blaming him for her death.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 3471-3479
+  quote_or_summary: The tablets are filled and sealed with a signet wet with tears;
+    Byblis gives them to a trusted male domestic to carry to her brother. The tablets
+    fall from her hands, which shocks her as an omen, but she sends them.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 3479-3482
+  quote_or_summary: The servant delivers the secret writing to the Maeandrian youth;
+    after reading part, he angrily throws away the tablets, threatens the servant,
+    and calls him a pander to forbidden lust.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 3482-3483
+  quote_or_summary: The frightened servant reports Caunus’s threats to Byblis; on
+    hearing the refusal, she turns pale, feels an icy chill, then her frantic passion
+    returns.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage-level actions and figures are explicit. Motif labels are descriptive
+    and untaxed where the supplied taxonomy lacks a direct category for forbidden
+    sibling desire or secret-message confession. No comparison claims are made because
+    the passage only gives an unspecified appeal to the example of the gods.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were applied only to the literal fire and water symbols where supported by the available symbol list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l3413-l3483
+  passage_sha256=d6a6e0862bd2ebcaf45e3c755bdcfc0f5bb2d845aa4780fc9f4a1b9312d44399
+

@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11572-l11581
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / BOOK THE SEVENTH. / EXPLANATION. / EXPLANATION.; lines 11572-11581
+  start: '11572'
+  end: '11581'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Two explanatory footnotes identify Periphas as an ancient Attic king transformed
+    by Jupiter into an eagle, with his wife transformed into an osprey; and identify
+    Polypemon as Procrustes, slain by Theseus, while relating that Halcyone, daughter
+    of Scyron's son, was thrown into the sea by her father and changed into a kingfisher.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Periphas is described as a very ancient king of Attica before Cecrops.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Periphas was said to have been changed into an eagle by Jupiter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Periphas's wife was transformed into an osprey.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Polypemon is identified as another name of the robber Procrustes, who was
+    slain by Theseus.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Halcyone, daughter of Scyron's son, is said to have been thrown into the sea
+    by her father because of incontinence.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Halcyone was changed into a kingfisher that bore her name.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Periphas
+  description: A very ancient king of Attica before Cecrops, said to have been changed
+    into an eagle by Jupiter.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Jupiter
+  description: The deity who changed Periphas into an eagle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Periphas's wife
+  description: The wife of Periphas, transformed into an osprey.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Polypemon / Procrustes
+  description: A robber, identified by the name Polypemon, who was slain by Theseus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Theseus
+  description: The slayer of Procrustes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Halcyone
+  description: Daughter of Scyron's son, thrown into the sea by her father and changed
+    into a kingfisher.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Halcyone's father
+  description: The father who threw Halcyone into the sea.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Scyron
+  description: Named as the father of Halcyone's father.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: Cecrops
+  description: A chronological reference point; Periphas is said to have lived before
+    his time.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: ancient king
+  assigned_to:
+  - fig:1
+  basis: Periphas is described as a very ancient king of Attica.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: transformed person
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:6
+  basis: Periphas, his wife, and Halcyone are each described as changed or transformed
+    into birds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: divine transformer
+  assigned_to:
+  - fig:2
+  basis: Jupiter is said to have changed Periphas into an eagle.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: robber slain
+  assigned_to:
+  - fig:4
+  basis: Procrustes is identified as a robber slain by Theseus.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: slayer
+  assigned_to:
+  - fig:5
+  basis: Theseus is said to have slain Procrustes.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: punished daughter
+  assigned_to:
+  - fig:6
+  basis: Halcyone is described as thrown into the sea by her father after incontinence.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: punishing father
+  assigned_to:
+  - fig:7
+  basis: Halcyone's father is the one who threw her into the sea.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: eagle
+  literal_form: eagle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: osprey
+  literal_form: osprey
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sea
+  literal_form: sea
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: kingfisher
+  literal_form: kingfisher
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Periphas and wife transformed into birds
+  summary: Periphas, an ancient Attic king, is said to have been changed by Jupiter
+    into an eagle, while his wife was transformed into an osprey.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Procrustes slain by Theseus
+  summary: Polypemon is identified as Procrustes, a robber slain by Theseus.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Halcyone thrown into the sea and changed into a bird
+  summary: Halcyone, daughter of Scyron's son, is thrown into the sea by her father
+    and changed into a kingfisher.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: human transformed into bird
+  taxonomy_refs:
+  - shapeshifter
+  basis: Periphas, his wife, and Halcyone are each described as changed or transformed
+    from human figures into birds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The taxonomy label 'shapeshifter' is used broadly for metamorphosis; the
+    passage does not describe voluntary shape-changing.
+- id: motif:2
+  label: divine transformation of a mortal
+  taxonomy_refs:
+  - shapeshifter
+  basis: Jupiter changes Periphas into an eagle.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only a brief footnote summary is provided, with no narrative context or
+    motive.
+- id: motif:3
+  label: punitive exposure or drowning followed by bird metamorphosis
+  taxonomy_refs:
+  - shapeshifter
+  - water
+  basis: Halcyone is thrown into the sea by her father because of incontinence and
+    then changed into a kingfisher.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states the punishment and metamorphosis but does not specify
+    the agent of transformation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11572-11575
+  quote_or_summary: Footnote 72 identifies Periphas as an ancient Attic king before
+    Cecrops, changed into an eagle by Jupiter, while his wife was transformed into
+    an osprey.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11577-11581
+  quote_or_summary: Footnote 73 identifies Polypemon as Procrustes, slain by Theseus,
+    and states that Halcyone, daughter of Scyron's son, was thrown into the sea by
+    her father and changed into a kingfisher.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on brief explanatory footnotes. Motif candidates are
+    limited because the passage provides compressed mythographic summaries rather
+    than full narrative contexts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l11572-l11581
+  passage_sha256=af71bd8bc039264f635bd8366fd095765a7450a19393328cf62ac2e2af3a553b
+

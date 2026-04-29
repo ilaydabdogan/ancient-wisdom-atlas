@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l5965-l6001
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / BOOK THE ELEVENTH. / EXPLANATION.; lines 5965-6001
+  start: '5965'
+  end: '6001'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Midas, tormented by the gold he had desired, asks Bacchus for pardon and
+    release. Bacchus annuls the granted favor and orders him to go to the river near
+    Sardis, find its spring, and plunge his head beneath it to purge his body and
+    crime. The king obeys; the golden quality passes from his body into the stream,
+    explaining the gold-bearing fields and river region.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king is described as both rich and wretched and as hating the wealth he
+    had recently wished for.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king suffers hunger and thirst despite plenty and is tormented by gold.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The king raises his hands toward heaven and asks father Lenæus for pardon,
+    pity, and deliverance from his calamity.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Bacchus restores the king to his former state after the king confesses wrongdoing
+    and annuls the promise and favor previously granted.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Bacchus instructs the king to go to the river near Sardis, follow the water
+    to its source, and plunge his head beneath the bubbling spring.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The prescribed immersion is said to purge both the king's body and his crime.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When the king places himself beneath the waters, the golden quality tints
+    the river and leaves the human body for the stream.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The fields are described as receiving the ore of an ancient vein of gold and
+    as growing pallid and hard from imbibing gold from their clods.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A footnote identifies Midas as the Berecynthian hero and connects him with
+    Mount Berecynthus in Phrygia.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A footnote states that Sardis was the capital of Lydia and that the river
+    Pactolus flowed through it.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Midas / the king
+  description: A king, identified in the footnote as Midas, who suffers from the gold
+    he desired and seeks release from Bacchus.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:2
+  name_or_label: Bacchus / father Lenæus
+  description: A gentle divinity among the gods who grants pardon, annuls the favor,
+    restores the king, and prescribes the river purification.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: afflicted king
+  assigned_to:
+  - fig:1
+  basis: The passage describes him as rich and wretched, tormented by hated gold,
+    hunger, and thirst.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: penitent petitioner
+  assigned_to:
+  - fig:1
+  basis: He raises his hands toward heaven, admits wrongdoing, and asks for pardon
+    and deliverance.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine restorer
+  assigned_to:
+  - fig:2
+  basis: Bacchus restores the king to his former state and annuls the granted favor.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: purification instructor
+  assigned_to:
+  - fig:2
+  basis: Bacchus directs the king to the river source and tells him to plunge beneath
+    the spring to purge body and crime.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: hated gold
+  literal_form: gold, shining arms, golden virtue, ore in river-fields
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: purging waters
+  literal_form: river near Sardis, falling waters, bubbling spring, stream
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: sym:3
+  label: mountain height
+  literal_form: height of the mountain from which the waters fall
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: raised hands toward heaven
+  literal_form: gesture of raising hands toward heaven during petition
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Sardis and Pactolus region
+  literal_form: river adjoining Sardis; footnote identifies the Pactolus as flowing
+    through Sardis
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+scenes:
+- id: scene:1
+  label: Torment by desired gold
+  summary: The king suffers from the wealth he had wished for, experiencing hunger,
+    thirst, and distress amid gold.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Petition to Bacchus
+  summary: The king raises his hands toward heaven and asks father Lenæus for pardon
+    and deliverance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Divine annulment and water prescription
+  summary: Bacchus restores the king, annuls the prior favor, and instructs him to
+    purge himself at the river source near Sardis.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Transfer of gold into the river
+  summary: The king enters the prescribed waters; the golden quality leaves his body
+    and passes into the stream, accounting for gold-bearing fields.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: destructive fulfillment of a desired gift
+  taxonomy_refs:
+  - divine_judgment
+  - sacred_exchange
+  basis: The king's desired favor becomes a calamity that causes hunger, thirst, and
+    torment, and the god later annuls the favor.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage assumes the earlier granting of the favor but only summarizes
+    its annulment here.
+- id: motif:2
+  label: penitent appeal to a god for release
+  taxonomy_refs:
+  - divine_judgment
+  basis: The king admits wrongdoing and asks Bacchus for pardon, pity, and deliverance
+    from the calamity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage frames the suffering as deserved but does not present a formal
+    divine trial.
+- id: motif:3
+  label: ritual-like purification in spring or river
+  taxonomy_refs: []
+  basis: Bacchus tells the king to plunge beneath the bubbling spring to purge his
+    body and crime, and the king obeys.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No explicit institutional ritual name is given in the passage.
+- id: motif:4
+  label: origin explanation for gold-bearing river or fields
+  taxonomy_refs: []
+  basis: The golden quality passes from the king into the river, and the fields are
+    described as imbibing gold from the ancient vein.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an etiological reading of the passage's own explanatory statement.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5965-5971
+  quote_or_summary: The king is astonished at his misfortune, is both rich and wretched,
+    hates the wealth he had wished for, and suffers hunger, thirst, and torment from
+    hated gold.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 5971-5975
+  quote_or_summary: "“Grant me pardon, father Lenæus; I have done wrong, but have
+    pity on me, I pray, and deliver me from this specious calamity!”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 5975-5978
+  quote_or_summary: Bacchus, called a gentle divinity, restores the king after his
+    confession and annuls the given promise and favor.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5978-5985
+  quote_or_summary: Bacchus orders him to go to the river adjoining Sardis, follow
+    the waters from the mountain to the stream's rise, and plunge beneath the bubbling
+    spring to purge body and crime.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5985-5988
+  quote_or_summary: The king places himself beneath the prescribed waters; the golden
+    virtue tints the river and departs from the human body into the stream.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5988-5991
+  quote_or_summary: The fields are said to receive ore from an ancient vein of gold
+    and to grow hard and pallid from imbibing gold.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: Footnote 9, lines 5998-6000
+  quote_or_summary: The footnote says Midas is called the Berecynthian hero from Mount
+    Berecynthus in Phrygia.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: Footnote 10, lines 6000-6001
+  quote_or_summary: The footnote says Sardis was the capital of Lydia and that the
+    river Pactolus flowed through it.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    candidate-level and require review, especially taxonomy assignment for divine
+    judgment and sacred exchange.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims added because the passage does not itself compare this episode with another tradition or motif family beyond the available extraction taxonomy.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l5965-l6001
+  passage_sha256=7a2d0e96b6762f0a42a3954e07a0df6756186c5ea8dd5699f2593812fcffd42f
+

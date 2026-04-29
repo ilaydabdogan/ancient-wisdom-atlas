@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9985-l9993
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / BOOK THE SIXTH. / EXPLANATION. / EXPLANATION.; lines 9985-9993
+  start: '9985'
+  end: '9993'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Some commentators are so fanciful as to say, that the repetition of the words
+    ‘sub aqua’ ... expresses the croaking noise of the frogs.
+  summary: A footnote discusses a Latin phrase meaning “beneath the water,” reports
+    that some commentators interpret the repeated words as imitating frog croaking,
+    rejects the resemblance as fanciful, and compares it humorously with Aristophanes’
+    frogs’ chorus.
+  language: English with quoted Latin and Greek/Greek-like transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The note concerns the phrase “Beneath the water” at verse 376.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some commentators say the repetition of “sub aqua” expresses the croaking
+    noise of frogs.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The note calls that interpretation fanciful and says an exuberant fancy is
+    needed to find the resemblance.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note mentions Aristophanes, who makes frogs say a choral sound rendered
+    as “brekekekekex koäx koäx.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note ends with a humorous possibility that the Aristophanic sound may
+    have been the Attic dialect among frogs.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: some commentators
+  description: Unspecified commentators who interpret the repeated Latin words as
+    imitative of frog croaking.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: frogs in the Ovidian line
+  description: Frogs associated with the line quoted in Latin and with croaking or
+    attempting to curse beneath water.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Aristophanes
+  description: Named author who is said to make his frogs speak by way of chorus.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Aristophanes’ frogs
+  description: Frogs whose chorus is rendered as “brekekekekex koäx koäx.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: interpreter-commentator
+  assigned_to:
+  - fig:1
+  basis: They offer an interpretation of repeated words as imitative sound.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: croaking or cursing frogs beneath water
+  assigned_to:
+  - fig:2
+  basis: The cited line and note connect frogs with being under water, croaking, and
+    attempting to curse.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: comic author invoked for comparison
+  assigned_to:
+  - fig:3
+  basis: The note compares the alleged Ovidian sound effect with Aristophanes’ frogs’
+    chorus.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: choral speaking frogs
+  assigned_to:
+  - fig:4
+  basis: They are described as saying a repeated sound “by way of chorus.”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water / sub aqua
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: frogs
+  literal_form: frogs
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: repeated frog-sound phrase
+  literal_form: repeated words “sub aqua” and Aristophanic “brekekekekex koäx koäx”
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Commentarial interpretation of repeated words
+  summary: The footnote reports that some commentators treat the repeated Latin words
+    “sub aqua” as an imitation of frog croaking, while the note itself calls the interpretation
+    fanciful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Comparison with Aristophanes’ frog chorus
+  summary: The footnote contrasts the proposed Ovidian sound effect with Aristophanes’
+    representation of frogs speaking in chorus.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares a proposed sound imitation in Ovid’s repeated
+    “sub aqua” with Aristophanes’ frog chorus, presenting both as frog vocalization
+    effects while treating the Ovidian resemblance skeptically.
+  claim_level: linguistic_similarity
+  target: Aristophanes’ frogs’ chorus
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The comparison is confined to verbal sound imitation in a translator’s
+    footnote, not to a shared narrative motif or demonstrated historical relationship.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 9985-9987
+  quote_or_summary: Footnote 47 identifies the phrase “Beneath the water” and verse
+    376, then introduces discussion of repeated “sub aqua.”
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short citation/summary used.
+- id: ev:2
+  type: quote
+  locator: lines 9985-9990
+  quote_or_summary: "“Some commentators are so fanciful as to say, that the repetition
+    of the words ‘sub aqua’ ... expresses the croaking noise of the frogs.” The note
+    adds that such a resemblance requires “exuberant” fancy."
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 9990-9992
+  quote_or_summary: "“Aristophanes, who makes his frogs say, by way of chorus, ‘brekekekekex
+    koäx koäx.’”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 9992-9993
+  quote_or_summary: "“Possibly, however, that might have been the Attic dialect among
+    frogs.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: medium
+  notes: The extraction concerns a footnote about sound imitation rather than a mythic
+    narrative. No candidate motif family from the supplied taxonomy is strongly supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No motif-family candidate was assigned; only the passage-supported linguistic comparison with Aristophanes was recorded.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l9985-l9993
+  passage_sha256=db9194764a38ff424a67eda5997c5e4a03c964ae3ced49d4b63eed8df86f67b2
+

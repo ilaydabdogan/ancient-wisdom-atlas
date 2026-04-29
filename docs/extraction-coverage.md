@@ -6,12 +6,12 @@
 
 - Generated on: 2026-04-28
 - Canonical texts checked: 58
-- Texts with extraction records: 52
-- Texts without extraction records: 6
-- Texts needing full extraction: 40
-- Texts needing review or normalization: 52
-- Extraction records counted: 2114
-- Candidate motifs counted: 9510
+- Texts with extraction records: 53
+- Texts without extraction records: 5
+- Texts needing full extraction: 39
+- Texts needing review or normalization: 53
+- Extraction records counted: 2314
+- Candidate motifs counted: 10566
 
 ## Status Logic
 
@@ -27,7 +27,6 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 
 | Status | Records | Target | Motifs | Tradition | Text |
 | --- | ---: | ---: | ---: | --- | --- |
-| `no_extractions` | 0 | 35 | 0 | roman | [The Metamorphoses of Ovid, Books VIII-XV](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md) |
 | `no_extractions` | 0 | 9 | 0 | sufi | [Poems from the Divan of Hafiz](../texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md) |
 | `no_extractions` | 0 | 5 | 0 | sufi | [The Persian Mystics: Jalálu'd-dín Rúmí](../texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md) |
 | `no_extractions` | 0 | 4 | 0 | sufi | [The Persian Mystics: Jámí](../texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md) |
@@ -44,8 +43,8 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `thin` | 2 | 13 | 6 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) |
 | `thin` | 4 | 40 | 13 | hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) |
 | `thin` | 2 | 9 | 4 | indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) |
-| `thin` | 2 | 40 | 8 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | `thin` | 2 | 40 | 6 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-rodwell.md) |
+| `thin` | 2 | 40 | 8 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | `thin` | 2 | 28 | 6 | islamicate_folklore | [The Arabian Nights Entertainments](../texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md) |
 | `thin` | 1 | 15 | 2 | sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) |
 | `thin` | 1 | 4 | 2 | sufi | [The Confessions of Al Ghazzali](../texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md) |
@@ -60,10 +59,11 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 228 | 228 | 974 | greek | [The Republic](../texts/public-domain/greek/project-gutenberg/republic-jowett.md) |
 | `dense_draft` | 198 | 198 | 1041 | greek_roman | [Myths and Legends of Ancient Greece and Rome](../texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md) |
 | `dense_draft` | 169 | 169 | 676 | buddhist | [Buddhist birth stories; or, Jataka tales, Volume 1](../texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md) |
+| `dense_draft` | 168 | 168 | 854 | roman | [The Metamorphoses of Ovid, Books I-VII](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md) |
 | `dense_draft` | 167 | 167 | 895 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md) |
 | `dense_draft` | 157 | 157 | 749 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 1 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-1-frazer.md) |
+| `dense_draft` | 155 | 155 | 831 | roman | [The Metamorphoses of Ovid, Books VIII-XV](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md) |
 | `dense_draft` | 132 | 132 | 703 | greek | [The Odyssey](../texts/public-domain/greek/project-gutenberg/odyssey-butler.md) |
-| `dense_draft` | 123 | 123 | 629 | roman | [The Metamorphoses of Ovid, Books I-VII](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md) |
 | `dense_draft` | 121 | 121 | 632 | roman | [The Aeneid of Virgil](../texts/public-domain/roman/project-gutenberg/aeneid-mackail.md) |
 | `dense_draft` | 117 | 117 | 795 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
 | `dense_draft` | 80 | 80 | 331 | persian | [The Persian Literature, Volume 2, The Gulistan](../texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md) |
@@ -141,7 +141,6 @@ ruby scripts/batch_prepare_motif_requests.rb \
 
 | Priority | Status | Records | Target | Needs Review | Tradition | Text |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| high | `no extractions` | 0 | 35 | 0 | roman | [The Metamorphoses of Ovid, Books VIII-XV](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md) |
 | high | `no extractions` | 0 | 9 | 0 | sufi | [Poems from the Divan of Hafiz](../texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md) |
 | high | `no extractions` | 0 | 5 | 0 | sufi | [The Persian Mystics: Jalálu'd-dín Rúmí](../texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md) |
 | high | `no extractions` | 0 | 4 | 0 | sufi | [The Persian Mystics: Jámí](../texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md) |
@@ -158,8 +157,8 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | high | `thin` | 2 | 13 | 2 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) |
 | high | `thin` | 4 | 40 | 4 | hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) |
 | high | `thin` | 2 | 9 | 2 | indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) |
-| high | `thin` | 2 | 40 | 2 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | high | `thin` | 2 | 40 | 2 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-rodwell.md) |
+| high | `thin` | 2 | 40 | 2 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | high | `thin` | 2 | 28 | 2 | islamicate_folklore | [The Arabian Nights Entertainments](../texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md) |
 | high | `thin` | 1 | 15 | 1 | sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) |
 | high | `thin` | 1 | 4 | 1 | sufi | [The Confessions of Al Ghazzali](../texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md) |
@@ -198,4 +197,5 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | medium | `dense draft` | 117 | 26 | 117 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
 | medium | `dense draft` | 80 | 11 | 80 | persian | [The Persian Literature, Volume 2, The Gulistan](../texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md) |
 | medium | `dense draft` | 121 | 25 | 121 | roman | [The Aeneid of Virgil](../texts/public-domain/roman/project-gutenberg/aeneid-mackail.md) |
-| medium | `dense draft` | 123 | 31 | 123 | roman | [The Metamorphoses of Ovid, Books I-VII](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md) |
+| medium | `dense draft` | 168 | 31 | 168 | roman | [The Metamorphoses of Ovid, Books I-VII](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md) |
+| medium | `dense draft` | 155 | 35 | 155 | roman | [The Metamorphoses of Ovid, Books VIII-XV](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md) |

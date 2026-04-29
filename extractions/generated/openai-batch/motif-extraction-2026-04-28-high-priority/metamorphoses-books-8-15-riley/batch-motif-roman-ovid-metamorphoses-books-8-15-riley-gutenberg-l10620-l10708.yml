@@ -1,0 +1,434 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10620-l10708
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: BOOK THE FOURTEENTH. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines
+    10620-10708
+  start: '10620'
+  end: '10708'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The commentary discusses ancient Sibyls, their alleged prophetic verses,
+    their use by Christian authors, ancient lists of multiple Sibyls, Ovid's treatment
+    of the Sibyls as one long-lived figure favored by Apollo, Roman custody and consultation
+    of Sibylline books, and the story in which an aged woman sells prophetic books
+    to Tarquinius after burning some of them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says early Christian writers, including Justin, Constantine, and
+    Augustine, used or quoted Sibylline verses in connection with Christian claims.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes Sibyls as women who, in frenzied enthusiasm, uttered
+    obscure sentences that were treated as predictions by those consulting them.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Virgil and Ovid are said to represent Aeneas as going to the cave of the Cumaean
+    Sibyl to learn the outcome of future wars.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage reports variant ancient traditions about the number, names, and
+    localities of the Sibyls.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The commentary says Ovid represents the various Sibyls as the same person
+    and explains her long existence by Apollo granting her a life lasting many ages.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Romans are said to have possessed verses attributed to the Sibyls and
+    to have consulted them during public calamities.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Sibylline books are described as kept in a stone chest beneath the temple
+    of Jupiter Capitolinus.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: An aged woman is said to have offered Sibylline books to Tarquinius Superbus,
+    burned some after refusals, and eventually sold the remaining books for the original
+    price.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Sibyls
+  description: Ancient women associated with frenzied prophetic utterance and obscure
+    sentences treated as predictions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Cumaean Sibyl / Deiphobe
+  description: The Sibyl connected with Cumae and named Deiphobe in the passage's
+    list; represented as consulted by Aeneas.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Aeneas
+  description: A hero represented by Virgil and Ovid as going to the Cumaean Sibyl's
+    cave to learn about future wars.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Apollo
+  description: The deity said to have granted the Sibyl a life lasting many ages in
+    Ovid's explanation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Roman keepers of the Sibylline books
+  description: Officers and later colleges assigned to keep and consult the Sibylline
+    books for the Roman state.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Tarquinius Superbus
+  description: The Roman king to whom an aged woman presented Sibylline books for
+    purchase.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Aged woman
+  description: A woman who presented Sibylline books to Tarquinius, burned books after
+    refusals, and demanded the original price for the remaining books.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: prophetic woman / oracle-giver
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes Sibyls as women whose obscure utterances passed for
+    predictions and says the Cumaean Sibyl was consulted by Aeneas.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: seeker of prophecy
+  assigned_to:
+  - fig:3
+  basis: Aeneas is represented as going to the Sibyl's cave to learn the success of
+    wars.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: divine granter of extended life
+  assigned_to:
+  - fig:4
+  basis: Apollo is said to have granted the Sibyl a life lasting many ages.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: state guardians and consultants of sacred books
+  assigned_to:
+  - fig:5
+  basis: The officers' business was to keep the Sibylline books and inspect them during
+    public calamity.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: royal purchaser of prophetic books
+  assigned_to:
+  - fig:6
+  basis: Tarquinius is said to have bought the remaining Sibylline books after the
+    aged woman's repeated demands and burnings.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: seller and destroyer of prophetic books
+  assigned_to:
+  - fig:7
+  basis: The aged woman offered the books for sale and burned some of them after refusals.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Sibyl's cave
+  literal_form: cave of the Cumaean Sibyl
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Sibylline books
+  literal_form: books or verses containing oracles attributed to the Sibyls
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: burning of books
+  literal_form: the aged woman burning offered Sibylline books after refusal
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: stone chest beneath temple
+  literal_form: stone chest beneath the temple of Jupiter Capitolinus
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: many-ages lifespan
+  literal_form: a life to last for many ages
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Aeneas consults the Cumaean Sibyl
+  summary: Aeneas is represented as going to the Sibyl's cave to learn the expected
+    outcome of his wars.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Multiple Sibyl traditions enumerated
+  summary: The passage lists different ancient accounts of one, two, three, or ten
+    Sibyls, with names and places, and then states that Ovid treats them as one long-lived
+    figure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Roman custody and consultation of Sibylline books
+  summary: Roman officials keep Sibylline books, consult them during public calamity,
+    report to the Senate, and store them beneath Jupiter Capitolinus's temple.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Aged woman sells the Sibylline books
+  summary: An aged woman offers books of Sibylline oracles to Tarquinius, burns some
+    after his refusals, and finally sells the remaining books for the original price.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: oracular wisdom in obscure speech
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on Sibyls whose obscure utterances are treated as predictions,
+    on Sibylline verses, and on state consultation of prophetic books.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage is explanatory commentary rather than a full mythic narrative.
+- id: motif:2
+  label: quest for prophetic knowledge at a cave oracle
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: Aeneas is said to go to the cave of the Cumaean Sibyl to learn the outcome
+    of future wars.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage only summarizes the consultation and does not narrate the
+    full episode.
+- id: motif:3
+  label: sacred exchange of prophetic books
+  taxonomy_refs:
+  - sacred_exchange
+  - wisdom
+  basis: The aged woman demands payment for books containing Sibylline oracles; after
+    destroying some, she obtains the same original price for the remainder.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The sacred status of the books is inferred from their contents and later
+    public use; the passage frames the story as reported by ancient writers.
+- id: motif:4
+  label: divinely extended prophetic lifespan
+  taxonomy_refs: []
+  basis: The commentary states that Ovid explains the Sibyl's prolonged existence
+    by Apollo granting her life for many ages.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No available taxonomy reference exactly matches extended life granted
+    by a god.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats multiple regional Sibyl traditions as consolidated
+    in Ovid into one long-lived Sibyl figure.
+  claim_level: same_function
+  target: Delphian, Erythraean, Cumaean, Samian, Hellespontine, Libyan, Persian or
+    Babylonian, Phrygian, and Tiburtine Sibyl traditions
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is based on the commentator's summary of Ovid and ancient
+    catalogues, not on a direct quotation from Ovid's narrative.
+- id: claim:2
+  claim: The passage notes a later Christian use of Sibylline verses as prophetic
+    support while also reporting later judgments that many such verses were spurious
+    or interpolated.
+  claim_level: same_function
+  target: Christian apologetic use of Sibylline prophecy
+  evidence_refs:
+  - ev:1
+  - ev:8
+  counter_evidence_refs:
+  - ev:8
+  confidence: medium
+  limitations: This is a reception-history comparison within the commentary, not a
+    mythic parallel asserted by the ancient narrative itself.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10620-10629
+  quote_or_summary: Early church authors and Constantine are said to have used or
+    quoted Sibylline verses in support of Christianity, though authorship was doubted.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain Project Gutenberg text; Riley translation.
+- id: ev:2
+  type: summary
+  locator: 10642-10646
+  quote_or_summary: Certain ancient women are described as uttering obscure sentences
+    in a frenzied enthusiasm, which credulous consultants treated as predictions.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain Project Gutenberg text; Riley translation.
+- id: ev:3
+  type: summary
+  locator: 10646-10649
+  quote_or_summary: Virgil and Ovid are said to represent Aeneas as going to the Cumaean
+    Sibyl's cave to learn the success of future wars.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain Project Gutenberg text; Riley translation.
+- id: ev:4
+  type: summary
+  locator: 10649-10682
+  quote_or_summary: The passage cites ancient writers who give differing numbers,
+    names, and locations for Sibyls, including lists from one Sibyl up to Varro's
+    ten.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain Project Gutenberg text; Riley translation.
+- id: ev:5
+  type: summary
+  locator: 10682-10686
+  quote_or_summary: The commentary says Ovid represents the various Sibyls as the
+    same person and explains her long existence by Apollo granting her life for many
+    ages.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain Project Gutenberg text; Riley translation.
+- id: ev:6
+  type: summary
+  locator: 10687-10699
+  quote_or_summary: Romans are said to have had verses attributed to Sibyls, consulted
+    them during public calamities, assigned official keepers, and stored the books
+    in a stone chest beneath Jupiter Capitolinus's temple.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain Project Gutenberg text; Riley translation.
+- id: ev:7
+  type: summary
+  locator: 10700-10708
+  quote_or_summary: Ancient writers are said to report that an aged woman offered
+    Sibylline books to Tarquinius, burned books after refusals, and finally sold the
+    remaining books for the original price; Pliny and Solinus give a variant with
+    three original books and two destroyed.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain Project Gutenberg text; Riley translation.
+- id: ev:8
+  type: summary
+  locator: 10631-10640
+  quote_or_summary: Castalio defended the truth of the Sibylline oracles while admitting
+    interpolation; other writers judged them spurious and pious frauds, described
+    as the general opinion of the commentator's day.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain Project Gutenberg text; Riley translation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is commentary and reception history rather than Ovidian narrative;
+    extraction therefore emphasizes explicit reported traditions and avoids unsupported
+    mythic reconstruction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l10620-l10708
+  passage_sha256=c9a6a201a9bb7c19a9bc2da9e015569400e223387fc8e2c64bc79df520677e50
+

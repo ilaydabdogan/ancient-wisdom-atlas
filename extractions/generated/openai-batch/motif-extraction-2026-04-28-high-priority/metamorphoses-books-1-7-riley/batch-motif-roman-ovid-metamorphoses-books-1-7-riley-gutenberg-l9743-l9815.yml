@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9743-l9815
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / BOOK THE SIXTH. / EXPLANATION.; lines 9743-9815
+  start: '9743'
+  end: '9815'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Still did she weep on... she dissolves; and even yet does the marble distil
+    tears.
+  summary: A grieving woman is carried by a mighty wind to her native land, becomes
+    fixed on a mountain top, dissolves into marble, and the marble is said still to
+    shed tears. Notes identify the mountain as Mount Sipylus and describe a rock there
+    resembling a sorrowful female figure.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The female figure continues weeping before being carried away.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A mighty wind envelops her and bears her to her native land.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: She is fixed on the top of a mountain and dissolves.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The marble continues to distil tears.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: A note identifies the mountain as Mount Sipylus and says a summit rock resembled
+    a sorrowful female figure from a distance.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A note says Latona fled from the serpent Python and gave birth to Apollo and
+    Diana on Delos.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A note says Tantalus, father of Niobe, was accused of divulging the secrets
+    of the gods.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Niobe
+  description: A grieving woman implied by the notes to be Niobe; she is borne to
+    her native land and becomes marble that sheds tears.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Latona
+  description: Mentioned in a note as fleeing from the serpent Python and being in
+    labor with Apollo and Diana.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Python
+  description: A serpent said in a note to have been sent against Latona by Juno.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Apollo and Diana
+  description: Children of Latona, named in a note concerning Latona's labor on Delos.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Tantalus
+  description: Identified in notes as the father of Niobe and accused of divulging
+    divine secrets.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: mourning transformed figure
+  assigned_to:
+  - fig:1
+  basis: She continues weeping, is carried away, and becomes marble that sheds tears.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: daughter of Tantalus
+  assigned_to:
+  - fig:1
+  basis: A note identifies Tantalus as the father of Niobe.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: fleeing mother in labor
+  assigned_to:
+  - fig:2
+  basis: A note says Latona fled Python and was in labor with Apollo and Diana.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: pursuing serpent
+  assigned_to:
+  - fig:3
+  basis: A note identifies Python as the serpent sent against Latona.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: children born to Latona
+  assigned_to:
+  - fig:4
+  basis: A note names Apollo and Diana in connection with Latona's labor.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: father of Niobe
+  assigned_to:
+  - fig:5
+  basis: Notes identify Tantalus as Niobe's father.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: revealer of divine secrets
+  assigned_to:
+  - fig:5
+  basis: A note says Tantalus was accused of divulging the secrets of the gods.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: mountain top
+  literal_form: top of a mountain; Mount Sipylus
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: weeping marble
+  literal_form: marble that distils tears
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: mighty wind
+  literal_form: hurricane of mighty wind
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: serpent Python
+  literal_form: serpent Python
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Delos as appearing island
+  literal_form: Delos, formerly floating, becoming immovable and rising to the surface
+    of the sea
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Niobe borne to the mountain and turned to marble
+  summary: The weeping figure is carried by wind to her native land, fixed on a mountain
+    top, transformed into marble, and the marble is said still to shed tears.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Latona, Python, and Delos in explanatory note
+  summary: A note recounts that Latona fled the serpent Python, Delos became immovable
+    for her childbirth, and Apollo and Diana were born there.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: mourner transformed into enduring stone
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage describes a weeping figure becoming fixed on a mountain and changing
+    into marble that continues to shed tears.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The supplied taxonomy lacks a more specific petrification or metamorphosis-into-stone
+    category; 'shapeshifter' is used broadly for bodily transformation.
+- id: motif:2
+  label: serpent pursuit of divine mother
+  taxonomy_refs:
+  - serpent
+  - sacred_birth
+  basis: The explanatory note says Latona fled the serpent Python while in labor with
+    Apollo and Diana, and Delos became immovable for the birth.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is contained in a footnote explaining an allusion rather than in
+    the main narrative lines.
+- id: motif:3
+  label: forbidden disclosure of divine secrets
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: A note says Tantalus was accused of indiscreetly divulging the secrets of
+    the gods.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only a brief explanatory note, not a narrative episode.
+comparison_claims:
+- id: claim:1
+  claim: The note links the story of Niobe's transformation with a visible rock on
+    Mount Sipylus that resembles a sorrowful female figure.
+  claim_level: visual_similarity
+  target: rock on the summit of Mount Sipylus resembling a sorrowful female figure
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based on the translator's explanatory note and concerns
+    visual resemblance, not independent evidence for historical origin.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9743-9745
+  quote_or_summary: '"Still did she weep on... she dissolves; and even yet does the
+    marble distil tears."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 9808-9815, footnote 44
+  quote_or_summary: Footnote identifies the mountain as Mount Sipylus and says Pausanias
+    reports a summit rock resembling a sorrowful female figure, with the resemblance
+    said to persist.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9769-9779, footnote 37
+  quote_or_summary: Footnote says Latona fled the serpent Python sent by Juno; Delos
+    became immovable for Latona's labor with Apollo and Diana and was associated with
+    rising visibly from the sea.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9780-9783, footnote 38
+  quote_or_summary: Footnote says Tantalus, father of Niobe, was accused of indiscreetly
+    divulging the secrets of the gods.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9746-9748, footnote 31
+  quote_or_summary: Footnote identifies Tantalus as Niobe's father and king of both
+    Phrygia and Lydia.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main narrative is brief and much of the additional material comes from
+    explanatory footnotes. Motif labels using the supplied taxonomy are approximate
+    where no exact petrification category exists.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l9743-l9815
+  passage_sha256=80a6433e07bad790c2fba68cb7fb05a6955eb9672dd754ae5cb0ecc7790e0e6d
+

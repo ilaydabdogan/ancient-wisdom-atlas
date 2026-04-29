@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l4205-l4260
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / BOOK THE TENTH. / EXPLANATION.; lines 4205-4260
+  start: '4205'
+  end: '4260'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A divine-born bard sits on a grassy hilltop plain without shade and plays
+    his strings; shade then comes over the place as many kinds of trees and vines
+    gather. The passage lists these trees, including oak, poplar, laurel, palm, and
+    pine, and the notes connect some trees with earlier transformations such as the
+    Heliades into poplars, Daphne into laurel, and Attis into a pine-like trunk pleasing
+    to the Mother of the Gods.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting is a hill with a level grassy plain on top, initially lacking
+    shade.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A bard described as sprung from the Gods seats himself in the place and touches
+    his tuneful strings.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the bard plays, shade comes over the formerly unshaded spot.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Many named trees and plants are present or arrive, including oak, poplar,
+    laurel, hazel, fir, plane, maple, willow, lotus, box, tamarisk, myrtle, ivy, vine,
+    elm, ash, palm, and pine.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The pine is said to be pleasing to the Mother of the Gods because Attis put
+    off human form and hardened into that trunk.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note identifies the grove of the Heliades as an allusion to poplars into
+    which the daughters of the sun were changed after Phaëton's death.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note explains the virgin laurel by reference to Daphne, who refused Apollo's
+    solicitations.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A note states that palm branches were considered emblematic of victory.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: divine-born bard
+  description: A bard described as sprung from the Gods who sits on the hilltop plain
+    and plays tuneful strings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Attis
+  description: A figure who put off human form and hardened into a trunk associated
+    with the pine.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Mother of the Gods
+  description: A goddess to whom the pine is said to be pleasing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Heliades
+  description: Daughters of the sun who, according to the note, were changed into
+    poplars after the death of Phaëton.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Daphne
+  description: A virgin associated with the laurel, described in the note as refusing
+    Apollo's solicitations.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: divine-born musician
+  assigned_to:
+  - fig:1
+  basis: The passage describes the bard as sprung from the Gods and as touching tuneful
+    strings before shade comes over the spot.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: human transformed into tree trunk
+  assigned_to:
+  - fig:2
+  basis: The passage states that Attis put off human form and hardened into that trunk.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: goddess associated with sacred tree preference
+  assigned_to:
+  - fig:3
+  basis: The pine is described as pleasing to the Mother of the Gods because of Attis's
+    transformation.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: figures transformed into poplars
+  assigned_to:
+  - fig:4
+  basis: The note says the Heliades were changed into poplars after Phaëton's death.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: figure associated with laurel
+  assigned_to:
+  - fig:5
+  basis: The note links the virgin laurel to Daphne and says she refused Apollo's
+    solicitations.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: hilltop grassy plain
+  literal_form: hill with a level grassy plain
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sudden shade
+  literal_form: shade over the spot after music
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: gathered trees and grove
+  literal_form: many named trees, vines, and plants surrounding the bard
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: pine linked with Attis
+  literal_form: pine with tufted foliage, pleasing to the Mother of the Gods
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: poplars of the Heliades
+  literal_form: grove of the Heliades identified as poplars
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: laurel of Daphne
+  literal_form: virgin laurel associated with Daphne
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: victory palm
+  literal_form: bending palm, reward of the conqueror
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: bard brings shade to an unshaded hilltop
+  summary: On a level grassy hilltop without shade, a divine-born bard sits and plays
+    his strings; shade comes over the place.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: trees with metamorphic associations are listed
+  summary: The passage and notes identify trees associated with transformed or mythic
+    figures, including the pine linked to Attis, poplars linked to the Heliades, and
+    laurel linked to Daphne.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: music summons a shade-giving grove
+  taxonomy_refs: []
+  basis: The bard plays his strings after sitting in a place without shade, and shade
+    then comes over the spot as many trees and vines are named.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage describes the sequence but does not explicitly state a causal
+    command or magical summoning beyond the narrative timing.
+- id: motif:2
+  label: human transformation into tree
+  taxonomy_refs:
+  - shapeshifter
+  basis: Attis is said to have put off human form and hardened into a trunk; the notes
+    also mention the Heliades changed into poplars.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy label is broad; the specific passage concerns metamorphosis
+    into trees rather than voluntary shapeshifting.
+- id: motif:3
+  label: mythic person remembered through a tree
+  taxonomy_refs: []
+  basis: The pine is linked with Attis, poplars with the Heliades, and laurel with
+    Daphne.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is an inferred pattern from multiple tree identifications in the
+    passage and notes.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4205-4210
+  quote_or_summary: A hilltop level grassy plain lacks shade; a divine-born bard sits
+    there, touches his tuneful strings, and shade comes over the spot.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4210-4218
+  quote_or_summary: The passage lists trees present after the shade appears, including
+    the tree of Chaonia, grove of the Heliades, mast-tree, lime, beech, laurel, hazel,
+    oak, fir, holm, plane, maple, willow, lotus, box, tamarisk, myrtle, and tine-tree.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4220-4227
+  quote_or_summary: Ivy, vines, elms with vines, ashes, pitch-trees, arbute, palm,
+    and pine are also named among the trees and plants that came.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 4225-4228
+  quote_or_summary: The pine is described as pleasing to the Mother of the Gods because
+    Attis “put off the human form, and hardened into that trunk.”
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 4232-4235
+  quote_or_summary: The note explains that the grove of the Heliades alludes to the
+    poplars into which the daughters of the sun were changed after Phaëton's death.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 4237-4239
+  quote_or_summary: The note says the laurel is called virgin from Daphne, who refused
+    Apollo's solicitations.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 4250-4254
+  quote_or_summary: The note explains that palm branches were considered emblematic
+    of victory because of their flexibility and resistance to breaking under weight.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal setting, figures, and tree associations are explicit. Motif labels
+    are cautious because some patterning is inferred from the list and explanatory
+    notes. No comparison claims were made because the passage itself does not support
+    cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. Taxonomy references limited to available terms directly supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l4205-l4260
+  passage_sha256=74a61de0d5e74181cad5cb891ddbe6528b68056d210e9e61f36bb7e7017bef2c
+

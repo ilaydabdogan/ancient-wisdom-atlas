@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10417-l10444
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / BOOK THE FOURTEENTH. / EXPLANATION.; lines
+    10417-10444
+  start: '10417'
+  end: '10444'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of explanatory footnotes to Book Fourteenth. It notes
+    Aeneas' annual games at his father's tomb in Sicily; names and parentage of the
+    Sirens; identifies Palinurus as the pilot who fell overboard asleep and drowned;
+    explains traditions and etymologies concerning Inarime, Pithecusae, and Prochyta,
+    including a claim that Prochyta was torn from Inarime by an earthquake.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Aeneas is said to have instituted annual games at the tomb of his father in
+    Sicily.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sirens are described as daughters of the river Acheloüs and are named
+    Parthenope, Lysia, and Leucosia.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Palinurus is identified as the pilot who fell overboard while asleep and drowned.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Inarime is identified as an island near the coast of Campania, also called
+    Ischia and Ænaria.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note reports a linguistic explanation that Virgil may have coined the
+    word Inarime from a Homeric expression.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Prochyta is described as an island said to have been torn away from Inarime
+    by an earthquake.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Aeneas
+  description: Founder of annual games at his father's tomb in Sicily.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Aeneas' father
+  description: The father whose tomb in Sicily receives annual games.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: The Sirens
+  description: A group said to be daughters of the river Acheloüs; their names are
+    Parthenope, Lysia, and Leucosia.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Acheloüs
+  description: River named as father of the Sirens.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Palinurus
+  description: Pilot who, while asleep, fell overboard and drowned.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Founder of commemorative games
+  assigned_to:
+  - fig:1
+  basis: The note says Aeneas instituted annual games at his father's tomb.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Honored dead father
+  assigned_to:
+  - fig:2
+  basis: The games are held at the father's tomb.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Named Siren daughters
+  assigned_to:
+  - fig:3
+  basis: The Sirens are named and said to be daughters of Acheloüs.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: River father
+  assigned_to:
+  - fig:4
+  basis: Acheloüs is identified as the father of the Sirens.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Drowned pilot
+  assigned_to:
+  - fig:5
+  basis: Palinurus is identified as the pilot who fell overboard and drowned.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Tomb
+  literal_form: Tomb of Aeneas' father in Sicily
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Annual games
+  literal_form: Annual games instituted at the tomb
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Sirens
+  literal_form: 'Named Sirens: Parthenope, Lysia, and Leucosia'
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Island Inarime
+  literal_form: Island near Campania, also called Ischia and Ænaria
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Island Prochyta
+  literal_form: Island said to be torn away from Inarime by an earthquake
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Games at the father's tomb
+  summary: Aeneas honors his father by instituting annual games at his tomb in Sicily.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Genealogy of the Sirens
+  summary: The Sirens are identified as daughters of Acheloüs and are individually
+    named.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Drowning of the pilot
+  summary: Palinurus, asleep, falls overboard and drowns.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Island separation by earthquake
+  summary: Prochyta is said to have separated from Inarime because of an earthquake.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Commemorative games for a dead father
+  taxonomy_refs: []
+  basis: The passage says Aeneas instituted annual games at his father's tomb in Sicily.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a footnote summarizing another episode rather than narrating
+    the ritual in detail.
+- id: motif:2
+  label: Named supernatural singers with river parentage
+  taxonomy_refs: []
+  basis: The Sirens are identified by names and as daughters of the river Acheloüs.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage provides genealogy only; it does not describe the Sirens'
+    actions or powers.
+- id: motif:3
+  label: Sleeping pilot lost at sea
+  taxonomy_refs: []
+  basis: Palinurus is identified as a pilot who fell overboard while asleep and drowned.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The evidence is a brief explanatory note and does not provide a full narrative
+    sequence.
+- id: motif:4
+  label: Island origin through earthquake separation
+  taxonomy_refs: []
+  basis: Prochyta is said to have been torn away from Inarime by an earthquake, with
+    an etymological explanation of its name.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage reports a local explanatory tradition rather than developing
+    a mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly links Aeneas' annual games at his father's tomb to the
+    fifth book of the Aeneid.
+  claim_level: same_motif
+  target: Virgil, Aeneid Book 5
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage is an editorial footnote; it does not quote or summarize
+    the Aeneid episode in detail.
+- id: claim:2
+  claim: The note explicitly links the drowning of Palinurus to the end of the fifth
+    book of the Aeneid.
+  claim_level: same_motif
+  target: Virgil, Aeneid Book 5
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only a brief identification of Palinurus and the
+    referenced location in the Aeneid.
+- id: claim:3
+  claim: The note reports a proposed linguistic connection between the word Inarime
+    and a Homeric expression, mediated by Virgil's usage and followed by Ovid and
+    others.
+  claim_level: linguistic_similarity
+  target: Homeric expression and later Latin poetic usage of Inarime
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:7
+  confidence: medium
+  limitations: The passage presents this as a scholarly etymological suggestion and
+    also reports an alternative etymology for Pithecusae.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10417-10420
+  quote_or_summary: A footnote says Aeneas instituted annual games at his father's
+    tomb in Sicily and that these are described in Aeneid Book 5.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10422-10425
+  quote_or_summary: A footnote says the Sirens were daughters of the river Acheloüs
+    and names them Parthenope, Lysia, and Leucosia.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10427-10430
+  quote_or_summary: A footnote identifies the deprived pilot as Palinurus, who fell
+    overboard asleep and drowned, with a cross-reference to Aeneid Book 5.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10432-10434
+  quote_or_summary: A footnote identifies Inarime as an island near Campania, also
+    called Ischia and Ænaria.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 10434-10439
+  quote_or_summary: A footnote says Inarime is thought to have been coined by Virgil
+    from a Homeric expression and then used by Ovid, Lucan, and others.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10442-10444
+  quote_or_summary: A footnote says Prochyta was said to have been torn away from
+    Inarime by an earthquake, and gives a Greek etymology for the name.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 10439-10441
+  quote_or_summary: The note reports an alternative explanation from Pliny that Pithecusae
+    was named from a Greek word for an earthen cask or vessel because of local potteries.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on short editorial footnotes. Literal identifications
+    are clear, while motif candidates are limited because the passage is explanatory
+    rather than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy motif family was assigned because the passage does not directly support the listed families with sufficient specificity.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l10417-l10444
+  passage_sha256=6b309fd875a552db022b34d2e5680f4e2781777493c1551dfd101b49d797c306
+

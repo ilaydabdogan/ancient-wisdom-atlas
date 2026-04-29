@@ -1,0 +1,505 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1882-l1949
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 1882-1949
+  start: '1882'
+  end: '1949'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After Erisicthon fells a tree and damages a grove, the Dryads appeal to
+    Ceres for punishment. Ceres sends the mountain deity Oreas in a dragon-drawn chariot
+    to Scythia to command Famine to enter Erisicthon. Famine infects him in his sleep,
+    and he wakes with an insatiable hunger that increases with every meal, compared
+    to the ocean receiving rivers and fire consuming fuel.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Erisicthon pursues a design that results in a tree being pulled down with
+    ropes after many blows.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The falling tree levels a large part of the wood, and the Dryads grieve over
+    the loss of the grove.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Dryads, dressed in black, go to Ceres and request Erisicthon's punishment.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Ceres assents and chooses Famine as the punishment for Erisicthon.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ceres says that the Destinies do not allow Ceres and Famine to come together
+    directly.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Ceres sends Oreas to an icy, desolate region of Scythia and gives her a dragon-drawn
+    chariot for the journey.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Oreas finds Famine on Caucasus in a stony field, tearing up sparse herbs with
+    nails and teeth.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Famine is described as emaciated, pale, hollow-eyed, with visible bowels,
+    projecting bones, and stiff joints.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Famine enters Erisicthon's bedchamber at night while he sleeps and breathes
+    hunger into his body.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: In sleep, Erisicthon dreams of eating, moves his jaws, grinds his teeth, and
+    devours only air.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: When Erisicthon wakes, his desire for food is overpowering, and no amount
+    of food is sufficient for him.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Erisicthon's appetite is compared to the ocean receiving rivers without satiety
+    and to fire that becomes more voracious with more fuel.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Erisicthon
+  description: A sacrilegious man who fells the tree and is punished with insatiable
+    hunger.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Dryads
+  description: Sister nymphs of the grove who grieve the tree's loss and ask Ceres
+    to punish Erisicthon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ceres
+  description: A goddess who assents to the Dryads' request and arranges Famine as
+    Erisicthon's punishment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Oreas
+  description: A rustic mountain deity sent by Ceres to deliver commands to Famine.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Famine
+  description: A personified being dwelling in a desolate Scythian region; she enters
+    Erisicthon and fills him with hunger.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Dragons
+  description: Beings yoked to Ceres' chariot and guided through the air by Oreas.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Sleep
+  description: A personified or figurative presence that soothes Erisicthon while
+    he is still under its influence.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: sacrilegious offender
+  assigned_to:
+  - fig:1
+  basis: The passage calls Erisicthon sacrilegious and connects his offense with the
+    felled tree and damaged grove.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: grieving petitioners
+  assigned_to:
+  - fig:2
+  basis: The Dryads grieve the grove and request punishment from Ceres.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine judge or punisher
+  assigned_to:
+  - fig:3
+  basis: Ceres assents to the Dryads' request and contrives the punishment of Famine.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine messenger
+  assigned_to:
+  - fig:4
+  basis: Oreas is addressed by Ceres and sent to command Famine.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: personified punitive agent
+  assigned_to:
+  - fig:5
+  basis: Famine carries out Ceres' command by entering Erisicthon and filling him
+    with hunger.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: recipient of punishment
+  assigned_to:
+  - fig:1
+  basis: Famine is ordered to bury herself in Erisicthon's breast, and he becomes
+    insatiably hungry.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:7
+  label: aerial chariot animals
+  assigned_to:
+  - fig:6
+  basis: The dragons draw the chariot used by Oreas to travel aloft.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: sleeping-state presence
+  assigned_to:
+  - fig:7
+  basis: Sleep continues soothing Erisicthon while he dreams of food.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: felled tree
+  literal_form: Tree cut down with blows and ropes, causing damage to the wood and
+    grief among the Dryads.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: black array
+  literal_form: Black clothing worn by the Dryads while grieving and petitioning Ceres.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: dragon-drawn chariot
+  literal_form: Ceres' chariot drawn by dragons and guided through the air by Oreas.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: icy desolate Scythia
+  literal_form: A cold, barren region without corn or trees where Famine dwells.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: Caucasus mountain
+  literal_form: A steep mountain where Oreas unyokes the dragons and sees Famine.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Famine's wings
+  literal_form: Two wings with which Famine embraces the sleeping Erisicthon.
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: ocean receiving rivers
+  literal_form: Ocean taking in rivers from the whole earth without becoming satiated
+    with water.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: devouring fire
+  literal_form: Fire consuming beams of wood without number and craving more fuel
+    as more is given.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Tree felling and Dryad petition
+  summary: Erisicthon's tree-felling damages the grove; the Dryads mourn and ask Ceres
+    for punishment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ceres commissions Oreas
+  summary: Ceres agrees to punish Erisicthon with Famine but sends Oreas because Ceres
+    and Famine cannot meet; she gives Oreas the dragon-drawn chariot.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Oreas encounters Famine
+  summary: Oreas travels to Scythia, reaches Caucasus, and sees the emaciated Famine
+    in a stony field before delivering Ceres' command from a distance.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Famine enters Erisicthon
+  summary: At night, Famine enters Erisicthon's bedchamber, embraces him in sleep,
+    breathes into him, and scatters hunger through his veins.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Insatiable hunger manifests
+  summary: Erisicthon dreams of eating, wakes ravenous, consumes vast quantities,
+    and remains unsatisfied; the passage compares him to ocean and fire.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine punishment after sacrilege
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Dryads appeal to Ceres after the grove's destruction, and Ceres arranges
+    a supernatural punishment for Erisicthon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage presents punishment clearly, but broader legal or ritual context
+    is outside this excerpt.
+- id: motif:2
+  label: Personified hunger as invading affliction
+  taxonomy_refs: []
+  basis: Famine is personified, receives a divine command, enters the sleeping offender,
+    and fills his body with hunger.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly names personified famine or disease-like
+    possession.
+- id: motif:3
+  label: Insatiable appetite as curse
+  taxonomy_refs: []
+  basis: After Famine's intervention, Erisicthon cannot be satisfied by food, and
+    eating only increases his desire.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The available motif list has no exact 'insatiable hunger' category.
+- id: motif:4
+  label: Sacred tree violation and retribution
+  taxonomy_refs: []
+  basis: A felled tree and loss of the grove prompt Dryad grief and a request for
+    divine punishment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage shows tree violation and divine response, but does not explicitly
+    identify the tree as a cosmic axis or use the supplied sacred_tree_axis motif.
+- id: motif:5
+  label: Aerial divine errand in a dragon-drawn chariot
+  taxonomy_refs: []
+  basis: Ceres gives Oreas a chariot with dragons to travel through the air to Famine's
+    remote dwelling.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a travel mechanism in the passage rather than a fully developed
+    motif family in the supplied taxonomy.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage itself likens Erisicthon''s unsatisfied appetite to natural
+    images of inexhaustible intake: the ocean receiving rivers and fire consuming
+    fuel.'
+  claim_level: same_function
+  target: insatiable consumption pattern represented by ocean and devouring fire
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal simile within the passage, not evidence of historical
+    contact or common inheritance with another tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1882-1888
+  quote_or_summary: Erisicthon's tree is brought down with blows and ropes; the fallen
+    tree damages the wood, and the Dryads grieve, dress in black, and ask Ceres to
+    punish him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1888-1897
+  quote_or_summary: 'Ceres assents to the Dryads'' request and devises a punishment:
+    deadly Famine; she states that the Destinies do not allow Ceres and Famine to
+    come together.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1897-1905
+  quote_or_summary: Ceres instructs Oreas to go to a bleak region of Scythia where
+    Hunger dwells and gives her the chariot and dragons to guide aloft.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1906-1924
+  quote_or_summary: Oreas reaches Scythia and Caucasus, unyokes the dragons, and sees
+    Famine in a stony field, emaciated and tearing sparse herbs with nails and teeth.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1928-1936
+  quote_or_summary: Famine carries out Ceres' order, enters Erisicthon's bedchamber
+    at night, embraces him with her wings, breathes into him, and spreads hunger through
+    his veins.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1937-1944
+  quote_or_summary: While asleep, Erisicthon dreams of food and vainly chews air;
+    when awake, his desire for eating is outrageous and no quantity of food is enough
+    for him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1944-1949
+  quote_or_summary: The passage compares Erisicthon's jaws to the ocean that receives
+    rivers without satiety and to fire that grows more voracious with added fuel.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif taxonomy
+    mapping is conservative because several prominent elements, such as personified
+    Famine and insatiable hunger, lack exact supplied taxonomy references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unprovided context used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l1882-l1949
+  passage_sha256=7e3dfb21f3b71fc21dbd1a99930336e1326be2748725fd970779ec6022b2ead6
+

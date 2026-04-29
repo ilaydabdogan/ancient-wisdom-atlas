@@ -1,0 +1,496 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l11973-l12064
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 11973-12064
+  start: '11973'
+  end: '12064'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Æacus describes a devastating malady among his people: bodies lie everywhere;
+    prayers, sacrifices, and temple rites fail; sacrificial animals collapse before
+    being killed; corpses accumulate near sacred places; some people die by suicide;
+    funerary customs break down as the dead lie unburied or are burned without proper
+    honors; unlamented souls wander because survivors, tomb space, and funeral wood
+    are lacking.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says he hated life and wished to share the fate of his people.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker saw a multitude of bodies strewn on the earth, compared to fallen
+    rotten apples and acorns.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A lofty temple of Jupiter stands opposite the speaker, raised on long steps.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: People offered incense and prayers at the altars in vain; husbands and fathers
+    sometimes died at the altars while praying for family members.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Bulls brought for sacrifice fell while the priest prayed and poured wine between
+    their horns, before they were wounded.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speaker’s own sacrificial victim to Jupiter collapsed without a blow,
+    had scanty blood, and diseased entrails that no longer showed true divine warnings.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Carcasses lay before sacred doors and altars.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Some people ended their lives by hanging, seeking to dispel fear of death
+    by death itself.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: 'Funeral rites broke down: processions could not pass through the city gates,
+    bodies lay unburied or were placed on pyres without customary honors, and people
+    fought over funeral piles.'
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: There were not enough mourners, tomb space, or trees for funeral fires; souls
+    of sons, husbands, old, and young wandered unlamented.
+  category: setting
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Æacus
+  description: The speaker of the passage, identified in the footnote as pointing
+    toward the temple while speaking.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Jupiter
+  description: The deity to whom the lofty temple belongs and to whom the speaker
+    offers sacrifice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: the speaker’s people
+  description: The afflicted population among whom bodies are strewn, prayers fail,
+    deaths occur, and funerary rites collapse.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: husbands and fathers at the altars
+  description: Petitioners who pray for wives or sons and may die at the altars while
+    still holding frankincense.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: priest
+  description: A ritual officiant who prays and pours pure wine between the horns
+    of bulls brought to the temples.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: sacrificial bulls and victim
+  description: Animals brought or offered for sacrifice that collapse before being
+    wounded or without a blow.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: unlamented souls
+  description: Souls of sons, husbands, old, and young said to wander because mourners
+    are lacking.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: speaker-witness
+  assigned_to:
+  - fig:1
+  basis: The speaker recounts what he felt and saw during the calamity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: sacrificer
+  assigned_to:
+  - fig:1
+  basis: The speaker says he offered sacrifice to Jupiter for himself, his country,
+    and his three sons.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: temple deity and recipient of sacrifice
+  assigned_to:
+  - fig:2
+  basis: The temple belongs to Jupiter, and sacrifice is offered to him.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: plague-stricken community
+  assigned_to:
+  - fig:3
+  basis: The passage describes the people dying in multitudes and overwhelming rites
+    and burial practices.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:5
+  label: failed petitioners
+  assigned_to:
+  - fig:4
+  basis: Husbands and fathers entreat for family members at altars but do not prevail
+    and may die there.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: ritual officiant
+  assigned_to:
+  - fig:5
+  basis: The priest makes supplications and pours wine during the temple sacrifice.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: sacrificial animals
+  assigned_to:
+  - fig:6
+  basis: The animals are brought to temples or offered in sacrifice and collapse before
+    normal slaughter.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: unlamented dead
+  assigned_to:
+  - fig:7
+  basis: Souls are described as wandering without mourners.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: Jupiter’s temple
+  literal_form: lofty temple raised on high with long steps
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: altars
+  literal_form: altars where incense, prayers, deaths, and carcasses occur
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: frankincense or incense
+  literal_form: incense offered in vain and frankincense left unconsumed in a dead
+    petitioner’s hand
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sacrificial wine
+  literal_form: pure wine poured between the horns of bulls
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: diseased entrails
+  literal_form: entrails that have lost marks of truth and divine warnings
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: funeral pyres and fires
+  literal_form: lofty pyres and fires used for the dead without usual honors
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:7
+  label: halter
+  literal_form: halter used by some to end their lives
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: tombs and funeral wood
+  literal_form: insufficient tomb space and trees for funeral fires
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs:
+  - tree
+  - fire
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Witnessing the multitude of dead
+  summary: The speaker describes his despair and the sight of his people lying strewn
+    on the ground like fallen fruit.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Failed supplication at Jupiter’s temple
+  summary: The speaker points to Jupiter’s temple and recalls futile offerings, petitioners
+    dying at the altars, and incense left unconsumed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Sacrificial signs corrupted by disease
+  summary: Bulls and the speaker’s own sacrificial victim collapse before being struck,
+    while blood is scant and entrails no longer yield reliable divine warnings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Death intrudes upon sacred places
+  summary: Carcasses are cast before sacred doors and altars, making death present
+    at the ritual sites.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Funerary collapse and unlamented wandering
+  summary: Some die by hanging; burial processions and rites cannot be maintained;
+    the dead are unburied or burned without honors; mourners, tomb space, and funeral
+    wood are insufficient, and souls wander unlamented.
+  figure_refs:
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: failed sacrifice and unanswered prayer during plague
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage repeatedly shows incense, prayers, and animal sacrifice failing
+    amid disease and death at Jupiter’s temple and altars.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage emphasizes ritual failure but does not state a doctrinal reason
+    for the gods’ silence.
+- id: motif:2
+  label: disease corrupts divinatory signs
+  taxonomy_refs: []
+  basis: The sacrificial entrails are described as diseased and as having lost the
+    marks of truth and warnings of the gods.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a localized ritual-divinatory detail rather than a broad named
+    taxonomy motif in the supplied list.
+- id: motif:3
+  label: mass death overwhelms funerary order
+  taxonomy_refs: []
+  basis: The dead cannot be processed through city gates, receive no customary rites,
+    crowd pyres, and exceed available tomb space and funeral wood.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: No specific taxonomy reference supplied for plague-driven breakdown of
+    funeral rites.
+- id: motif:4
+  label: unlamented souls wandering after improper funerary rites
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage says souls of sons, husbands, old, and young wander unlamented
+    when mourners and proper burial provisions are lacking.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The passage gives an after-death condition but not a full afterlife journey
+    map.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11973-11976
+  quote_or_summary: 'The speaker asks whether his feelings were proper: to hate life
+    and want to share the fate of his people.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 11976-11980
+  quote_or_summary: "“there was the multitude strewed {on the earth}, just as when
+    rotten apples fall” and as acorns fall from a shaken holm-oak."
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 11980-11984 and footnote 103
+  quote_or_summary: A lofty temple with long steps is identified as Jupiter’s; the
+    footnote explains that Æacus is supposed to point toward it while speaking.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11984-11990
+  quote_or_summary: Incense is offered at altars in vain; husbands and fathers praying
+    for wives or sons sometimes die at the altars while still holding unconsumed frankincense.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11990-11994
+  quote_or_summary: Bulls brought to temples fall before being wounded while the priest
+    prays and pours pure wine between their horns.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 11994-12001
+  quote_or_summary: The speaker offers sacrifice to Jupiter for himself, his country,
+    and his three sons; the victim collapses without a blow, has scanty blood, and
+    diseased entrails that have lost divine signs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 12001-12004
+  quote_or_summary: Carcasses are seen thrown before sacred doors and even before
+    altars; the note says dead bodies were considered offensive to the gods.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 12004-12007
+  quote_or_summary: Some people end their lives with the halter, using death to dispel
+    fear of death and voluntarily inviting fate.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 12007-12014
+  quote_or_summary: Funeral rites cannot be performed as usual; city gates cannot
+    receive the processions, bodies lie unburied or are placed on pyres without honors,
+    and people struggle for funeral piles and burn the dead on others’ fires.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 12014-12018
+  quote_or_summary: Those who should weep are absent; souls of sons, husbands, old,
+    and young wander unlamented; there is not enough room for tombs or trees for fires.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the supplied passage and footnotes. Motif assignment
+    is cautious because the passage centers on plague, ritual failure, and funerary
+    breakdown, while the supplied taxonomy includes only partial matches.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific historical or cross-traditional comparison beyond internal similes and general motif candidates.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l11973-l12064
+  passage_sha256=40f74dde017240aa02d07eb2d4fc55e159f987db368d5a8a89553b546e4f4a10
+

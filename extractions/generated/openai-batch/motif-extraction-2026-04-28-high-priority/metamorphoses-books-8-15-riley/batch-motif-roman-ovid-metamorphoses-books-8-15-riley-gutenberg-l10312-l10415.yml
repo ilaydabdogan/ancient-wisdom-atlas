@@ -1,0 +1,516 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l10312-l10415
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / BOOK THE FOURTEENTH. / EXPLANATION.; lines
+    10312-10415
+  start: '10312'
+  end: '10415'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives explanatory traditions about Circe as a daughter of the
+    Sun and a sorceress associated with poisons and simples; describes Scylla as a
+    monstrous being or as a dangerous strait associated with barking waves and whirlpools;
+    then narrates Aeneas passing dangerous coasts, Dido receiving and loving him,
+    Dido's suicide after his departure, Aeneas' sacrifices for his father, and Jupiter's
+    transformation of the fraudulent Cercopians into ape-like beings deprived of articulate
+    speech.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Circe is explained through multiple genealogies and is said to have been regarded
+    as a sorceress because she knew the properties of simples and mixed poisonous
+    draughts.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The explanation states that Circe and Medea were sometimes treated as sisters
+    because of a similarity in character and because both were called daughters of
+    the Sun.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Scylla is described in cited traditions as a horrifying being with many feet,
+    six necks, monstrous heads, and multiple rows of teeth.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Scylla and Charybdis are explained as opposite sides of a narrow strait with
+    high crags, dangerous whirlpools, rapid currents, and a sea-noise compared to
+    barking dogs.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Dido receives Aeneas in her home and affection, and later falls on a sword
+    on a pile made under the pretext of sacred rites.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Aeneas sails onward, performs sacrifice, honors his father's tomb, and passes
+    several dangerous or named coastal places.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Jupiter changes the fraudulent and perjuring Cercopians into ugly, hairy,
+    ape-like animals and removes their use of language, leaving them only harsh jabbering.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Circe
+  description: A figure explained as daughter of the Sun and Perse in one tradition,
+    associated with knowledge of simples, poisonous draughts, and sorcery.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Medea
+  description: A figure compared with Circe because of similarity of character and
+    shared designation as a daughter of the Sun.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Scylla
+  description: A monstrous being in cited tradition and also a name associated with
+    the Italian side of a dangerous strait.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Charybdis
+  description: A named peril on the Sicilian side of the strait, associated with dangerous
+    whirlpools.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Dido
+  description: The Sidonian woman who receives Aeneas, loves him, and falls on a sword
+    after his departure.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Aeneas
+  description: The Trojan voyager received by Dido, later sailing onward and honoring
+    his father's tomb.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Jupiter
+  description: The father of the Gods who punishes the Cercopians by transforming
+    them.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Cercopians / Cercopes
+  description: A fraudulent race punished by Jupiter and changed into ape-like animals.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: sorceress or poison-mixer
+  assigned_to:
+  - fig:1
+  basis: Circe is said to know simples, mix poisonous draughts, and be regarded as
+    a sorceress.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: similar sorceress-like counterpart
+  assigned_to:
+  - fig:2
+  basis: Medea is linked with Circe through similarity of character and shared solar
+    parentage in the explanation.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: monstrous sea being
+  assigned_to:
+  - fig:3
+  basis: Scylla is described with multiple necks, heads, feet, and teeth and as horrifying
+    to behold.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: maritime hazard
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Scylla and Charybdis are associated with opposite sides of a dangerous strait
+    of crags, whirlpools, and rapid currents.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: abandoned beloved and suicide victim
+  assigned_to:
+  - fig:5
+  basis: Dido receives Aeneas in affection and later falls on the sword after his
+    departure.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: Trojan voyager and ritual performer
+  assigned_to:
+  - fig:6
+  basis: Aeneas sails from place to place and performs sacrifice and honors his father's
+    tomb.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: divine punisher
+  assigned_to:
+  - fig:7
+  basis: Jupiter changes the Cercopians because he abhors their frauds, perjuries,
+    and crimes.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: fraudulent transformed people
+  assigned_to:
+  - fig:8
+  basis: The Cercopians are described as a fraudulent race whose bodies and speech
+    are altered into ape-like form.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: poisonous draughts and simples
+  literal_form: medicinal or poisonous plants and mixed drinks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dangerous sea strait
+  literal_form: narrow strait, crags, whirlpools, currents, barking waves
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: funeral or ritual pile and sword
+  literal_form: pile erected under pretext of sacred rites and a sword
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: sacrificial rite at father's tomb
+  literal_form: sacrifice and honor paid to the tomb of Aeneas' father
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: ape-like transformation
+  literal_form: contracted limbs, flattened noses, wrinkled faces, yellow hair, loss
+    of language
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: heated sulphur and almost-burned ships
+  literal_form: regions smoking with heated sulphur and ships almost burned by Iris
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Circe explained as sorceress
+  summary: The explanation surveys Circe's parentage in several authors and explains
+    her reputation for sorcery through her knowledge of plants and poisonous mixtures.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Circe and Medea compared
+  summary: The explanation reports that Circe and Medea may have been called sisters
+    because of perceived similarity in their characters and shared association with
+    the Sun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Scylla and Charybdis as monster and strait
+  summary: The passage describes Scylla's monstrous form in cited literary tradition
+    and then rationalizes Scylla and Charybdis as dangerous locations in a narrow
+    sea passage.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Dido receives and loses Aeneas
+  summary: Dido receives Aeneas, loves him, and later kills herself on a sword after
+    his departure.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Aeneas continues his voyage
+  summary: Aeneas sails on, performs sacrifice, honors his father's tomb, escapes
+    damage to his ships, and passes named islands and perilous coastlines.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Jupiter transforms the Cercopians
+  summary: Jupiter punishes the Cercopians for fraud and perjury by transforming them
+    into ape-like animals and depriving them of articulate speech.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: knowledge of plants construed as sorcery
+  taxonomy_refs:
+  - wisdom
+  basis: Circe's acquaintance with simples and poisonous mixtures is given as the
+    reason she was generally regarded as a sorceress.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is explanatory and rationalizing rather than a direct narrative
+    of magical action.
+- id: motif:2
+  label: monstrous sea hazard at a dangerous strait
+  taxonomy_refs: []
+  basis: Scylla and Charybdis are presented as a horrific monster and/or perilous
+    maritime features with whirlpools, currents, crags, and barking sea-noise.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No available motif-family taxonomy reference precisely names this sea-monster
+    navigation pattern.
+- id: motif:3
+  label: abandoned beloved's self-destruction
+  taxonomy_refs: []
+  basis: Dido receives Aeneas in affection and later falls on a sword after his departure.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage summarizes the event briefly and does not elaborate Dido's
+    interior speech or motivation beyond loss of Aeneas.
+- id: motif:4
+  label: voyage through named perils after departure
+  taxonomy_refs:
+  - departure
+  basis: Aeneas departs, sails from coast to coast, honors his father, and passes
+    dangerous or supernatural maritime locations.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is an itinerary-like summary; the broader heroic context is
+    not fully present in the excerpt.
+- id: motif:5
+  label: divine punishment by animal metamorphosis
+  taxonomy_refs:
+  - divine_judgment
+  - shapeshifter
+  basis: Jupiter punishes the fraudulent Cercopians by transforming their bodies into
+    ape-like forms and removing their speech.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The transformation is imposed by a god, not a voluntary shapeshift.
+- id: motif:6
+  label: loss of human speech after transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: The transformed Cercopians lose the use of language and can only complain
+    in harsh jabbering.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is a sub-element of the larger animal metamorphosis motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself reports that Circe and Medea were treated as sisters because
+    of a perceived resemblance in character and shared association with the Sun.
+  claim_level: same_function
+  target: Circe and Medea traditions
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal explanatory claim in the passage; it does not prove
+    historical relationship beyond the cited literary rationalization.
+- id: claim:2
+  claim: The passage states that Virgil substantially followed Homer's description
+    of Scylla, while also giving geographical and rationalizing explanations of Scylla
+    and Charybdis.
+  claim_level: same_motif
+  target: Homeric and Virgilian Scylla traditions
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:8
+  confidence: medium
+  limitations: The passage reports literary dependence and rationalizing variants
+    but does not provide full texts for direct comparison.
+- id: claim:3
+  claim: The explanation records a rationalizing variant in which Scylla is interpreted
+    not as a monster but as a pirate ship with a woman figurehead and dog-surrounded
+    lower parts.
+  claim_level: same_motif
+  target: Scylla as monster and Scylla as pirate ship rationalization
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  limitations: This is a reported interpretation by named authors in the passage and
+    not the main narrative event.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10316-10333
+  quote_or_summary: Circe is described through several genealogies and as generally
+    viewed as a sorceress because she knew simples and mixed poisonous draughts.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: 10335-10347
+  quote_or_summary: The explanation says Circe and Medea may have been called sisters
+    because of the resemblance of their characters, and both daughters of the Sun
+    because they knew simples.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: 10349-10358
+  quote_or_summary: Scylla is described from Homer and other writers as terrifying,
+    with twelve feet, six long necks, monstrous heads, and triple rows of teeth; another
+    account lists different kinds of heads.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: 10358-10369
+  quote_or_summary: Scylla and Charybdis are associated with opposite sides of the
+    strait between Messina and Reggio, dangerous whirlpools, rapid currents, and a
+    sea-noise like barking dogs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: 10389-10395
+  quote_or_summary: Dido receives Aeneas in her home and affection; on a pile raised
+    under pretext of sacred rites she falls on a sword.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: 10395-10404
+  quote_or_summary: Aeneas sails onward, returns to Eryx and Acestes, sacrifices and
+    honors his father's tomb, escapes ships nearly burned by Iris, and passes sulphurous
+    regions, Siren rocks, and named islands.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: 10406-10415
+  quote_or_summary: Jupiter, abhorring the frauds and perjuries of the Cercopians,
+    changes them into ugly animals with contracted limbs, flattened noses, wrinkled
+    faces, yellow hair, and no articulate language.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: 10371-10380
+  quote_or_summary: Palæphatus and Eusebius are said to interpret Scylla as a pirate
+    ship with a woman carved on its head and dog-surrounded lower parts; Bochart gives
+    Phoenician etymologies for Scylla and Charybdis.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is partly explanatory commentary and partly narrative summary.
+    Literal events and named rationalizations are clear, but some motif-family assignments
+    are approximate because the available taxonomy lacks exact labels for Scylla/Charybdis
+    navigation hazards and Dido's abandonment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All entries are based only on the supplied passage and metadata. No external taxonomy IDs beyond the provided available references were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l10312-l10415
+  passage_sha256=1130bcbcc521e254cb30f27481d727396f266c8e57736155e439622344460bed
+

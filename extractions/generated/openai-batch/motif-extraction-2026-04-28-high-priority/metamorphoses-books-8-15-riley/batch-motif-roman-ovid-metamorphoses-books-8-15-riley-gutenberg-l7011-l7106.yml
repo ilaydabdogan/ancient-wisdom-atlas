@@ -1,0 +1,429 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7011-l7106
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 7011-7106
+  start: '7011'
+  end: '7106'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial footnotes explain cenotaphs for drowned persons, beliefs about
+    unburied souls at the Styx, genealogy of Aeolus and Halcyone, ancient ship types
+    and nautical terms, the violent tenth wave, fear of shipwreck as an unburied death
+    by water, Olympus as a term for heaven, and domestic garment-making customs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cenotaphs or honorary tombs were erected for drowned persons whose bodies
+    could not be found.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note reports a belief that souls without funeral honours wandered in agony
+    on the banks of the Styx for one hundred years.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note gives a genealogy in which Aeolus is descended from Hippotas through
+    Sergesta and Jupiter, and also identifies him as Halcyone's father in Ovid's account.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note explains a biremis as a ship with two ranks of rowers and lists other
+    multi-ranked ships.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note reports a belief that every tenth wave exceeded the others in violence.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note contrasts death on shore, with funeral rites and burial, against
+    death by shipwreck, where the body might become food for fish.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The note reports an ancient belief that the soul was an emanation from aether
+    or fire, making extinction by water contrary to nature.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The note says Olympus is often used by poets to mean the heavens because the
+    mountain was thought to be the abode of the Gods.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The note says clients and women of noble family made garments for Roman patricians
+    and male relatives.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: souls without funeral honours
+  description: Souls of those who had received no funeral honours and were believed
+    to wander by the Styx.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: drowned persons whose bodies could not be found
+  description: Dead persons commemorated by cenotaphs because their bodies were unrecovered
+    after drowning.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Aeolus
+  description: Named as grandson of Hippotas through Sergesta and Jupiter, and as
+    Halcyone's father in Ovid's account.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Halcyone
+  description: Identified as daughter of Aeolus in Ovid's account, with an alternative
+    parentage noted from Lucian.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Jupiter
+  description: Named as father of Aeolus through Sergesta in the genealogy summarized
+    by the note.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: the Gods
+  description: Divine beings whose abode was thought to be Mount Olympus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: women of noble family
+  description: Women described as making garments for husbands, children, and brothers.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: unhonored wandering dead
+  assigned_to:
+  - fig:1
+  basis: The souls lacking funeral honours are said to wander in agony by the Styx.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: commemorated absent dead
+  assigned_to:
+  - fig:2
+  basis: Cenotaphs were erected for drowned persons whose bodies could not be found.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: descendant in divine genealogy
+  assigned_to:
+  - fig:3
+  basis: Aeolus is described as born to Jupiter through Sergesta and as descended
+    from Hippotas.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: father of Halcyone in Ovid's account
+  assigned_to:
+  - fig:3
+  basis: The note says Ovid makes Aeolus the father of Halcyone.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: daughter in variant genealogy
+  assigned_to:
+  - fig:4
+  basis: Halcyone is identified as Aeolus's daughter in Ovid and as differently descended
+    according to Lucian.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: divine father
+  assigned_to:
+  - fig:5
+  basis: Sergesta is said to have borne Aeolus to Jupiter.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: inhabitants of Olympus
+  assigned_to:
+  - fig:6
+  basis: Olympus is described as the supposed abode of the Gods.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: household garment makers
+  assigned_to:
+  - fig:7
+  basis: Women of noble family are said to make garments for husbands, children, and
+    brothers.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: cenotaph
+  literal_form: honorary tomb for a drowned person whose body could not be found
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: banks of the Styx
+  literal_form: afterlife riverbank where unhonored souls wander
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: shipwreck water
+  literal_form: sea water associated with drowning, loss of burial, and the body becoming
+    food for fish
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: fire or aether of the soul
+  literal_form: soul described as an emanation from aether or fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Olympus
+  literal_form: mountain used by poets to signify the heavens and divine abode
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  - cosmic_mountain
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: tenth wave
+  literal_form: every tenth wave believed to be more violent than the others
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: cenotaphs and unhonored souls
+  summary: The footnote explains that cenotaphs commemorated drowned persons without
+    recoverable bodies and links such memorials to a belief that unburied souls wandered
+    at the Styx for one hundred years.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: genealogy of Aeolus and Halcyone
+  summary: The footnote summarizes Aeolus's descent from Hippotas through Sergesta
+    and Jupiter, and notes Ovid's and Lucian's differing statements about Halcyone's
+    parentage.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: sea voyage and shipwreck beliefs
+  summary: The footnotes explain the biremis, nautical practices, the tenth wave,
+    and the fear of shipwreck as death by water without burial rites.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Olympus as heaven
+  summary: The footnote explains poetic use of Olympus for the heavens because the
+    mountain was thought to house the Gods.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: garment preparation by household women
+  summary: The footnote describes Roman garment-making by clients and noble women
+    for male family members.
+  figure_refs:
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: unburied dead delayed at the afterlife boundary
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage states that souls without funeral honours were believed to wander
+    in agony on the banks of the Styx for one hundred years.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is an explanatory footnote, not the narrative episode itself.
+- id: motif:2
+  label: shipwreck as feared death without burial
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage says shore death allowed funeral rites, while shipwreck could
+    leave the body as fish food and without a sepulchre.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The motif is inferred from the explanatory account of ancient beliefs
+    about burial and shipwreck.
+- id: motif:3
+  label: opposition of fiery soul and destructive water
+  taxonomy_refs:
+  - duality
+  basis: The passage reports a belief that the soul came from aether or fire and that
+    extinguishing it by water was contrary to nature.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The footnote describes a belief rather than a developed narrative pattern.
+- id: motif:4
+  label: divine parent-child genealogy
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The genealogy says Sergesta bore Aeolus to Jupiter, and that Aeolus was regarded
+    as father of Halcyone in Ovid's version.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a genealogical note only, with limited narrative detail.
+- id: motif:5
+  label: divine mountain as heavenly abode
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: The passage says Olympus, because of its height, was thought to be the abode
+    of the Gods and was used poetically for the heavens.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a lexical and cultural explanation, not a full mountain-as-axis
+    narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Footnote 34; lines 7011-7017
+  quote_or_summary: Cenotaphs were erected for drowned persons whose bodies could
+    not be found; a stated reason was the belief that souls without funeral honours
+    wandered in agony on the banks of the Styx for one hundred years.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: Footnote 35; lines 7019-7024
+  quote_or_summary: Aeolus is described as grandson of Hippotas through Sergesta,
+    who bore him to Jupiter; Ovid says he was Halcyone's father, while Lucian gives
+    a different descent.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: Footnote 37; lines 7030-7048
+  quote_or_summary: The note explains that Ceyx's ship was a biremis with two ranks
+    of rowers and discusses other multi-ranked ships and their supposed inventors.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: Footnote 41; lines 7065-7067
+  quote_or_summary: The note states a belief that every tenth wave exceeded the others
+    in violence.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: Footnote 42; lines 7069-7082
+  quote_or_summary: The note says those dying on shore could receive funeral rites,
+    while the shipwrecked might be fish food; it also reports the belief that the
+    soul came from aether or fire and that extinction by water was contrary to nature.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: Footnote 46; lines 7097-7100
+  quote_or_summary: Olympus is said to be used by poets for the heavens because the
+    high mountain in Thessaly was supposed to be the abode of the Gods.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary only.
+- id: ev:7
+  type: summary
+  locator: Footnote 47; lines 7102-7106
+  quote_or_summary: The note states that clients wove garments for Roman patricians
+    and that women of noble family made clothing for husbands, children, and brothers.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is composed of explanatory footnotes, so motifs are extracted
+    from reported beliefs and cultural explanations rather than from a continuous
+    myth narrative. No separate comparison claims were recorded beyond the passage's
+    own source references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l7011-l7106
+  passage_sha256=6303631cae562a10439a3bfb69f95316c7d719e9fa270f42606f46dc181e548e
+

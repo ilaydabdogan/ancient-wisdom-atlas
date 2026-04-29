@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l5797-l5875
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE ELEVENTH.; lines 5797-5875
+  start: '5797'
+  end: '5875'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Lyæus punishes the Edonian matrons for killing the bard of his sacred rites
+    by fixing them in the woods with roots. Their toes and feet are driven into the
+    earth, and their bodies change into oak, with arms resembling boughs. Footnotes
+    identify related details about Orpheus and explanatory translation notes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lyæus grieves for the loss of the bard of his sacred rites and does not allow
+    the matrons' crime to go unpunished.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Edonian matrons who committed the crime are fastened in the woods by a
+    twisting or pliant root.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The toes of each matron are drawn out and thrust into the solid earth, fixing
+    her in place.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A trapped-bird simile describes the matrons' vain attempts to escape as making
+    their confinement more evident.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: As a matron looks at her toes, feet, and nails, she sees wood growing up over
+    her legs.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The matron's thigh, breast, shoulders, and extended arms become oak or bough-like
+    wood.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A footnote states that the limbs of Orpheus were collected by the Muses and
+    buried in Macedonia, while his head was carried to Lesbos.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lyæus
+  description: A divine figure who grieves for the lost bard of his rites and punishes
+    the Edonian matrons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Edonian matrons
+  description: Women who committed the crime against the bard and are transformed
+    into oak after being fixed in the earth.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: bard of Lyæus's sacred rites
+  description: The lost bard whose death or loss causes Lyæus to grieve; a footnote
+    identifies Orpheus in connection with the scattered limbs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: Muses
+  description: In a footnote, they collect Orpheus's limbs and bury them in Dium in
+    Macedonia.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: punishing divine avenger
+  assigned_to:
+  - fig:1
+  basis: Lyæus punishes the matrons for the crime and for the loss of the bard of
+    his sacred rites.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: perpetrators of the crime
+  assigned_to:
+  - fig:2
+  basis: The passage says the Edonian matrons committed the crime.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: transformed victims of punishment
+  assigned_to:
+  - fig:2
+  basis: They are fixed into the earth and their bodies become oak.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: slain or lost sacred bard
+  assigned_to:
+  - fig:3
+  basis: Lyæus grieves for the loss of the bard; the footnote refers to Orpheus's
+    scattered limbs.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: burial agents in explanatory note
+  assigned_to:
+  - fig:4
+  basis: The footnote says the Muses collected and buried Orpheus's limbs.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: root
+  literal_form: twisting or pliant root fastening the matrons to the ground
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: oak
+  literal_form: solid oak replacing the matron's thigh, breast, shoulders, and arms
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: woods
+  literal_form: wooded setting where the punishment occurs
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: snared bird simile
+  literal_form: bird caught by the leg in a concealed snare
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Divine punishment in the woods
+  summary: Lyæus, grieving for the bard of his rites, punishes the Edonian matrons
+    by fastening them in the woods with roots.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Failed flight and entrapment
+  summary: The matrons attempt to flee after being fixed in the earth, but the pliant
+    root holds them fast; the passage compares them to a bird caught in a snare.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Transformation into oak
+  summary: A matron sees wood growing over her legs, and her thigh, breast, shoulders,
+    and arms become oak or boughs.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Explanatory note on Orpheus's remains
+  summary: A footnote states that Orpheus's limbs were collected by the Muses and
+    buried in Macedonia, while his head was carried to Lesbos.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine punishment for sacrilegious violence
+  taxonomy_refs:
+  - divine_judgment
+  basis: Lyæus punishes the Edonian matrons for the crime committed against the bard
+    of his sacred rites.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage emphasizes punishment, but the broader circumstances of the
+    crime are outside this excerpt.
+- id: motif:2
+  label: human transformed into tree
+  taxonomy_refs:
+  - shapeshifter
+  basis: The matrons' bodies become oak, including legs, breast, shoulders, and bough-like
+    arms.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The taxonomy label 'shapeshifter' is used only as an available broad family
+    for bodily transformation; the women do not voluntarily change shape.
+- id: motif:3
+  label: rooted immobility before transformation
+  taxonomy_refs:
+  - tree
+  basis: The matrons are fixed to the ground by roots before their bodies become oak.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is a passage-level symbolic pattern rather than a named taxonomy
+    motif family.
+- id: motif:4
+  label: dismembered bard and ritual burial in note
+  taxonomy_refs: []
+  basis: The footnote says Orpheus's limbs were collected by the Muses and buried,
+    and his head was carried to Lesbos.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This information appears in an explanatory footnote rather than in the
+    main narrative lines of the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5797-5802
+  quote_or_summary: Lyæus, grieving for the loss of the bard of his sacred rites,
+    punishes the Edonian matrons who committed the crime by fastening them in the
+    woods with a twisting root.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 5802-5812
+  quote_or_summary: The toes of each matron are drawn out and thrust into the earth;
+    when she tries to flee, the pliant root holds her fast.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 5804-5810
+  quote_or_summary: The passage compares each fixed matron to a bird whose leg is
+    caught in a hidden snare and whose fluttering tightens the noose.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 5812-5819
+  quote_or_summary: A matron sees wood growing over her legs; when she strikes her
+    thigh she meets solid oak, and her breast, shoulders, and extended arms become
+    oak or boughs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: footnote 4 within lines 5850-5853
+  quote_or_summary: The footnote says Orpheus's limbs were collected by the Muses
+    and buried in Dium in Macedonia, while his head was carried to Lesbos.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: citation
+  locator: footnote 7 within lines 5873-5875
+  quote_or_summary: The translator notes that 'springing forward' renders a term also
+    translated by Clarke as 'bouncing hard to get away.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; brief citation/summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main narrative clearly supports divine punishment and tree transformation.
+    Motif taxonomy mapping is necessarily broad because the available taxonomy does
+    not include a specific 'human transformed into tree' family. No comparison claims
+    were added because the passage itself does not make a comparative claim beyond
+    the internal simile.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Footnotes were treated as part of the provided passage but distinguished from the main narrative where relevant.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l5797-l5875
+  passage_sha256=2268413fcc2f3b0ff561d6efef014e0037677cdeb200d8d689a0d9811f1d8ce2
+

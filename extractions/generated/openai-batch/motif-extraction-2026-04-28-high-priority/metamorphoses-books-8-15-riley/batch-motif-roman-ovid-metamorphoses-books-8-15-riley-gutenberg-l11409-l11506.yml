@@ -1,0 +1,645 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11409-l11506
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 11409-11506
+  start: '11409'
+  end: '11506'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage summarizes several connected episodes: Latinus receives Aeneas
+    because of an oracle about Lavinia; Diomedes’ companions are reported transformed
+    into birds; a rude shepherd is said to have been changed into a wild olive; Turnus
+    attacks Aeneas’ fleet with fire, but Cybele transforms the ships into sea nymphs;
+    after Turnus and Ardea fall, a bird rises from Ardea’s ashes; Venus obtains divine
+    status for her son.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Latinus is said to have been told by an oracle that a foreign prince would
+    come into his country and marry Lavinia.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Latinus receives Aeneas hospitably, allies with him, and promises Lavinia
+    to him in marriage.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Turnus, who had been betrothed to Lavinia, declares war against Aeneas.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Diomedes’ companions are reported to have fled to an island and to have been
+    changed into birds as punishment by Venus.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A rude shepherd is described as having been changed into a wild olive, with
+    the explanation noting uncertainty about the source of the story.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Turnus carries torches against the pine ships of Aeneas, and the ships begin
+    to burn.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Mother of the Gods remembers that the ships’ pines came from Ida and declares
+    that she will save them from the flames.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Thunder, showers, hail, wind, and swelling waves accompany the goddess’s intervention.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: 'The ships are submerged and transformed: wood becomes flesh, sterns become
+    heads, oars become fingers and swimming feet, cordage becomes hair, and yards
+    become arms.'
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The transformed ships become ocean Naiads who play in the waves and often
+    help tossed ships, except those carrying Greeks.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: After Turnus falls and Ardea is consumed by flames, a new bird rises from
+    the ashes and retains features associated with the captured city.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The fable heading states that Venus obtains from Jupiter that her son be received
+    among the gods after many heroic deeds.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Latinus
+  description: Ruler who receives the oracle, welcomes Aeneas, forms an alliance,
+    and promises Lavinia in marriage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Lavinia
+  description: Daughter of Latinus, promised to Aeneas after having been betrothed
+    to Turnus.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Aeneas
+  description: Foreign prince received by Latinus, promised Lavinia, opposed by Turnus,
+    and identified as Venus’s son in the fable heading.
+  role_refs:
+  - role:2
+  - role:10
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Turnus
+  description: Nephew of Amata and former betrothed of Lavinia; he wages war, attacks
+    Aeneas’ fleet with fire, and later falls.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:9
+- id: fig:5
+  name_or_label: Diomedes
+  description: Hero whose throne is usurped; he retreats to Italy, builds Argyripa,
+    and is associated with companions changed into birds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Companions of Diomedes
+  description: Companions who flee to an island and are reported to have been transformed
+    into birds.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Rude shepherd
+  description: Unnamed shepherd said to have been changed into a wild olive.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Cybele / the Mother of the Gods
+  description: Goddess who remembers the Idaean pines, travels through the air with
+    harnessed lions, opposes Turnus’s fire, and transforms the ships.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:9
+  name_or_label: Ships of Aeneas / sea Nymphs
+  description: Pine ships threatened by fire and transformed into ocean Naiads with
+    bodily features.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:10
+  name_or_label: Venus
+  description: Goddess said to punish Diomedes’ companions in the explanatory note
+    and to obtain divine status for her son in the fable heading.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:11
+  name_or_label: Jupiter
+  description: God from whom Venus obtains that her son be received among the gods,
+    according to the fable heading.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:4
+- id: fig:12
+  name_or_label: Bird of Ardea
+  description: Newly known bird that rises from Ardea’s ashes and preserves the city’s
+    name and signs of ruin.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: oracle-receiving alliance maker
+  assigned_to:
+  - fig:1
+  basis: Latinus receives an oracle and responds by welcoming Aeneas, making alliance,
+    and promising Lavinia.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: foreign promised bridegroom
+  assigned_to:
+  - fig:3
+  basis: Aeneas is the foreign prince received by Latinus and promised Lavinia.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: promised and formerly betrothed daughter
+  assigned_to:
+  - fig:2
+  basis: Lavinia is promised to Aeneas though previously betrothed to Turnus.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: rejected suitor and war-maker
+  assigned_to:
+  - fig:4
+  basis: Turnus, Lavinia’s former betrothed, declares war and later attacks the ships
+    with fire.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: exiled hero associated with transformed companions
+  assigned_to:
+  - fig:5
+  basis: Diomedes retreats to Italy after usurpation, and his companions are linked
+    with a bird transformation story.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: punished transformed companions
+  assigned_to:
+  - fig:6
+  basis: The companions are reported to have been changed into birds, with Venus named
+    as punisher.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: human transformed into tree
+  assigned_to:
+  - fig:7
+  basis: The unnamed shepherd is described as changed into a wild olive.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: protective mother goddess and transformer
+  assigned_to:
+  - fig:8
+  basis: Cybele protects the Idaean pine ships from fire and causes their transformation
+    into sea nymphs.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:9
+  label: vessels transformed into helper nymphs
+  assigned_to:
+  - fig:9
+  basis: The ships receive living bodies as ocean Naiads and help tossed ships except
+    Greek-bearing ones.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:10
+  label: heroic son marked for deification
+  assigned_to:
+  - fig:3
+  basis: The fable heading says Venus’s son is to be received among the gods after
+    many heroic deeds.
+  evidence_refs:
+  - ev:4
+- id: role:11
+  label: divine mother advocate and punisher
+  assigned_to:
+  - fig:10
+  basis: Venus is linked both to punishment of Diomedes’ companions and to obtaining
+    divine status for her son.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:12
+  label: divine grantor of apotheosis
+  assigned_to:
+  - fig:11
+  basis: Jupiter is named as the god from whom Venus obtains her son’s reception among
+    the gods.
+  evidence_refs:
+  - ev:4
+- id: role:13
+  label: embodiment of a destroyed city
+  assigned_to:
+  - fig:12
+  basis: The bird arises from Ardea’s ashes and retains the city’s name and signs
+    of loss.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Fire
+  literal_form: Torches, flames, heated embers, and burning houses or ships.
+  associated_figures:
+  - fig:4
+  - fig:9
+  - fig:12
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: sym:2
+  label: Pine fleet
+  literal_form: Ships or fabrics of pine made from trees cut on the heights of Ida.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs:
+  - tree
+  - mountain
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: Ocean and waves
+  literal_form: The sea into which the ships are carried and where the transformed
+    Naiads live.
+  associated_figures:
+  - fig:9
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: Wild olive
+  literal_form: Tree form into which the rude shepherd is said to be changed.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Birds of Diomedea
+  literal_form: Birds identified in reports as transformed companions of Diomedes.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Bird from Ardea’s ashes
+  literal_form: New bird rising from the burnt city’s heap and beating ashes with
+    its wings.
+  associated_figures:
+  - fig:12
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: Ida
+  literal_form: Mountain heights where the pines used for the ships had been cut.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs:
+  - mountain
+  - tree
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Oracle, marriage promise, and war
+  summary: Latinus hears an oracle about a foreign son-in-law, welcomes Aeneas, promises
+    Lavinia to him, and Turnus responds by declaring war.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Diomedes’ companions become birds
+  summary: The explanatory note recounts Diomedes’ exile and the report that his fleeing
+    companions were transformed into birds by Venus.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:10
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Shepherd transformed into wild olive
+  summary: A brief explanatory note mentions an unnamed shepherd changed into a wild
+    olive and says the story may derive from local tradition.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Turnus attacks the fleet with fire
+  summary: Turnus brings torches against Aeneas’ pine ships, and their pitch, wax,
+    masts, sails, and benches begin to burn or smoke.
+  figure_refs:
+  - fig:4
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Cybele saves and transforms the ships
+  summary: Cybele recalls the Idaean origin of the pines, declares the flames powerless,
+    summons storm effects, severs the cables, submerges the ships, and changes them
+    into living sea nymphs.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Behavior of the transformed nymphs
+  summary: The former ships, now ocean Naiads, inhabit the sea, help tossed ships,
+    and avoid aiding vessels carrying Greeks.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:8
+- id: scene:7
+  label: Fall of Ardea and emergence of a bird
+  summary: After Turnus falls and Ardea is burned, a new bird flies from the ashes
+    and retains the city’s name and signs of distress.
+  figure_refs:
+  - fig:4
+  - fig:12
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:9
+- id: scene:8
+  label: Venus seeks divine reception for her son
+  summary: The fable heading states that Venus obtains from Jupiter that her son be
+    received among the gods after many heroic deeds.
+  figure_refs:
+  - fig:3
+  - fig:10
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Oracle-backed foreign marriage and conflict over succession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: An oracle about a foreign prince marrying Lavinia leads Latinus to ally with
+    Aeneas, while Turnus’s prior betrothal produces war.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an explanatory summary rather than the full narrative;
+    the taxonomy link to royal legitimacy is based on marriage alliance and conflict,
+    not an explicit coronation claim.
+- id: motif:2
+  label: Punitive transformation of humans into birds
+  taxonomy_refs:
+  - shapeshifter
+  basis: Diomedes’ companions are reported to have been changed into birds by Venus
+    as punishment.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage notes variant ancient accounts and presents the story as a
+    reported tradition.
+- id: motif:3
+  label: Human transformed into tree
+  taxonomy_refs:
+  - shapeshifter
+  basis: The unnamed shepherd is said to have been changed into a wild olive.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage itself says ancient authors are silent and suggests local
+    tradition as the likely source.
+- id: motif:4
+  label: Divine rescue through transformation of threatened vessels
+  taxonomy_refs:
+  - mother_goddess
+  - shapeshifter
+  basis: Cybele protects the Idaean pine ships from Turnus’s fire by changing them
+    into sea nymphs.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The motif combines divine protection and metamorphosis; no direct comparison
+    beyond the passage is asserted.
+- id: motif:5
+  label: Former objects become living helpers at sea
+  taxonomy_refs:
+  - shapeshifter
+  basis: The former ships become ocean Naiads who help tossed ships, except those
+    carrying Greeks.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The helper function is stated after the transformation; the exclusion
+    of Greeks is specific to this narrative context.
+- id: motif:6
+  label: Bird arising from a burned city
+  taxonomy_refs:
+  - death_rebirth
+  basis: After Ardea is consumed by flames, a new bird rises from the heap and preserves
+    the city’s name and signs of ruin.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage describes emergence after destruction but does not explicitly
+    call this rebirth or identify it with a phoenix pattern.
+- id: motif:7
+  label: Hero received among the gods through divine intercession
+  taxonomy_refs:
+  - ascent
+  - divine_parent_child
+  basis: The fable heading states that Venus obtains from Jupiter that her son be
+    received among the gods after heroic deeds.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only the heading summarizes this episode in the supplied passage; details
+    of the apotheosis are not included here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11409-11417
+  quote_or_summary: Latinus is told by an oracle that a foreign prince will marry
+    Lavinia; he receives Aeneas, allies with him, promises Lavinia, and Turnus declares
+    war because Lavinia had been betrothed to him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:2
+  type: summary
+  locator: 11418-11439
+  quote_or_summary: The explanation recounts Diomedes’ exile, his companions’ flight
+    to Diomedea, and reports that they were transformed into birds by Venus as punishment;
+    variant bird identifications are noted.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:3
+  type: summary
+  locator: 11441-11444
+  quote_or_summary: The note says ancient authors are silent about the rude shepherd
+    changed into a wild olive and suggests Ovid may have drawn it from local tradition.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:4
+  type: summary
+  locator: 11446-11452
+  quote_or_summary: The fable heading summarizes that Turnus burns Aeneas’ fleet,
+    Cybele transforms the ships into sea nymphs, Ardea burns and produces a bird,
+    and Venus obtains from Jupiter that her son be received among the gods.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:5
+  type: summary
+  locator: 11454-11463
+  quote_or_summary: Turnus brings devouring torches against the pine ships; flames
+    burn pitch and wax, climb masts and sails, and the benches smoke.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:6
+  type: summary
+  locator: 11463-11475
+  quote_or_summary: The Mother of the Gods recalls that the pines were cut on Ida,
+    arrives with cymbal, pipe, and lions, declares she will save the ships, and thunder,
+    showers, hail, winds, and waves follow.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:7
+  type: summary
+  locator: 11475-11486
+  quote_or_summary: 'The goddess breaks the cables, carries the ships under the ocean,
+    and their forms change: wood to flesh, sterns to heads, oars to fingers and feet,
+    keel to backbone, cordage to hair, and yards to arms.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:8
+  type: summary
+  locator: 11486-11496
+  quote_or_summary: The transformed ships are ocean Naiads, play in the waves, retain
+    memory of danger, help tossed ships, but not those carrying Greeks; they rejoice
+    at Greek-related shipwrecks or petrification.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:9
+  type: summary
+  locator: 11498-11506
+  quote_or_summary: War continues despite the prodigy; Turnus falls, Ardea burns,
+    and a new bird flies from the ashes, retaining the city’s voice, leanness, paleness,
+    name, and lamenting wings.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are candidate classifications using only available taxonomy references; some are
+    based on summarized explanatory material rather than full narrated episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support a broader comparative claim beyond reporting variants and local tradition.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l11409-l11506
+  passage_sha256=7fde443f498abdbfac70eff13ce9f3884062eddc2427f58ad980f48105f4c0ce
+

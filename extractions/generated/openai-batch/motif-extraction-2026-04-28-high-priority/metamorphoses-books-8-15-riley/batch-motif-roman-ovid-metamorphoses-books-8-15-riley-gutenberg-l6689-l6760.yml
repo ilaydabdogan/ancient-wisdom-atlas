@@ -1,0 +1,488 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l6689-l6760
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 6689-6760
+  start: '6689'
+  end: '6760'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Ceyx is moved by Halcyone’s tears but insists on sailing without her, promising
+    a swift return by an oath. Halcyone gives him a tearful farewell and watches the
+    ship recede until she can no longer see it. At sea, the crew sets sail, but a
+    violent storm rises; commands cannot be heard, the crew acts in disorder, and
+    the ship is tossed between mountainous waves and engulfing depths described with
+    underworld imagery.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ceyx is affected by Halcyone’s words and tears but does not abandon his voyage
+    or allow her to share its danger.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ceyx swears by the fire of his sire that, if the fates allow, he will return
+    before the moon has twice completed its orbit.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Halcyone sees the ship being prepared, shudders as though foreseeing the future,
+    weeps, embraces Ceyx, says farewell, and sinks to the ground.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: As the ship departs, Halcyone watches Ceyx, returns his hand signals, then
+    follows the ship, sails, and mast with her sight until she can no longer see them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the ship is no longer visible, Halcyone seeks her deserted bed, and
+    the bed and place renew her tears by reminding her of Ceyx’s absence.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The crew sets oars, fixes yards, spreads canvas from the mast, and catches
+    the breeze after leaving harbor.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: At night, before the voyage is complete, the sea grows white with swelling
+    waves and the East wind blows more violently.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The master orders the top sails lowered and the sail furled, but the storm
+    prevents execution and the roar of the sea prevents voices from being heard.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: 'Crew members act without coordinated orders: some draw in oars, some secure
+    the sides, some withdraw sails, one pumps out waves, and another removes yards.'
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The master becomes alarmed and admits he does not know the ship’s condition
+    or what to order or forbid.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage describes simultaneous noises from men, cordage, waves, and thunder.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The sea is described as rising toward the heavens, changing color, foaming,
+    and tossing the ship upward and downward.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The ship is compared at one moment to looking down from a mountain summit
+    and at another to looking upward from infernal waters near Acheron.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: Waves strike the ship with force compared to siege engines and charging lions.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ceyx
+  description: Halcyone’s husband, described as the son of the Morning Star, who insists
+    on undertaking the voyage and promises to return.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Halcyone
+  description: The daughter of Aeolus and wife of Ceyx, who weeps, fears the voyage,
+    bids farewell, watches the departing ship, and returns to her deserted bed.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Sailors or youths
+  description: The crew who draw the oars, set the rigging and sails, and attempt
+    to respond to the storm.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Master of the ship
+  description: The ship’s master who orders the sails lowered but later becomes alarmed
+    and unsure what to command.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: departing husband
+  assigned_to:
+  - fig:1
+  basis: Ceyx is Halcyone’s husband and leaves by ship despite her fear.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: oath-giver
+  assigned_to:
+  - fig:1
+  basis: He swears by the fire of his sire that he will return quickly if fate permits.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: lamenting wife
+  assigned_to:
+  - fig:2
+  basis: Halcyone weeps, embraces Ceyx, says farewell, and mourns his absence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: watcher of departure
+  assigned_to:
+  - fig:2
+  basis: She follows Ceyx and the ship with her eyes until they disappear.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: ship crew
+  assigned_to:
+  - fig:3
+  basis: The youths and sailors row, set sail, and attempt emergency actions during
+    the storm.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: ship commander unable to command
+  assigned_to:
+  - fig:4
+  basis: The master gives orders but later admits confusion and lack of control amid
+    the storm.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire-oath
+  literal_form: the fire of Ceyx’s sire invoked in an oath
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: moon as return measure
+  literal_form: the moon completing its orb twice as a time limit for return
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: departing ship
+  literal_form: ship drawn from the dock, launched, equipped, rowed, sailed, and later
+    storm-tossed
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: deserted bed
+  literal_form: Halcyone’s bed and its place, which renew her tears and mark Ceyx’s
+    absence
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: storm sea
+  literal_form: swelling waves, foaming sea, roaring waters, and engulfing billows
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: mountain-height wave image
+  literal_form: the ship aloft as if on the summit of a mountain
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: underworld water image
+  literal_form: Stygian waves, Acheron, and infernal waters used to describe the sea’s
+    dark depths
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: sails, mast, and oars
+  literal_form: oars, rigging, yards, canvas, mast, and sails used in the voyage and
+    storm response
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ceyx consoles Halcyone and swears to return
+  summary: Ceyx is moved by Halcyone’s tears, refuses to abandon the voyage or bring
+    her into danger, and promises a quick return by oath if fate allows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Farewell at launch
+  summary: The ship is launched and prepared; Halcyone shudders, weeps, embraces Ceyx,
+    says farewell, and collapses to the ground.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Halcyone watches the ship vanish
+  summary: Halcyone watches Ceyx and the ship recede, returns his hand signal, follows
+    the sails as long as possible, and then returns to the bed that reminds her of
+    his absence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Storm overtakes the voyage
+  summary: After leaving harbor and setting sail, the ship meets a violent night storm;
+    orders are inaudible, the crew acts in disorder, the master loses confidence,
+    and the ship is battered by waves.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: departure despite loving protest
+  taxonomy_refs:
+  - departure
+  basis: Ceyx departs by ship despite Halcyone’s fear and sorrow, with a farewell
+    scene marking the separation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage covers the departure and separation but not the full outcome
+    of the voyage.
+- id: motif:2
+  label: storm as disordering force
+  taxonomy_refs:
+  - chaos
+  basis: The storm overwhelms commands, makes voices inaudible, causes disordered
+    action, and is described as sea, winds, waves, and thunder acting together violently.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: This is a storm scene rather than a cosmogonic chaos account; the taxonomy
+    reference is based on imagery of disorder and loss of control.
+- id: motif:3
+  label: descent imagery in a storm-tossed voyage
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The ship’s downward motion is described with Acheron, Stygian waves, and
+    infernal waters, suggesting underworld imagery within the storm scene.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The passage uses simile and imagery; it does not narrate an actual journey
+    to the underworld.
+- id: motif:4
+  label: divine or celestial parentage named in human crisis
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Ceyx is called son of the Morning Star and Halcyone daughter of Aeolus while
+    the scene concerns their marital parting and impending danger.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The parents are only mentioned as identifiers; they do not act in this
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6689-6702
+  quote_or_summary: Ceyx is moved by Halcyone but refuses to abandon the voyage or
+    let her share the danger; he swears by the fire of his sire that he will return
+    before the moon has twice completed its orb, if fate allows.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 6702-6711
+  quote_or_summary: The ship is ordered launched and equipped; Halcyone shudders,
+    weeps, embraces Ceyx, says farewell, and sinks to the ground.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 6712-6728
+  quote_or_summary: The youths row away; Halcyone sees Ceyx on the stern making hand
+    signals, returns them, watches the ship and sails disappear, then lies on the
+    deserted bed that renews her tears.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 6729-6740
+  quote_or_summary: After leaving harbor, the crew manages oars, yards, mast, and
+    canvas; before the course is complete, night brings whitening waves and a more
+    violent East wind.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 6740-6749
+  quote_or_summary: The master orders the top sails lowered and the sail furled, but
+    the storm prevents execution and the sea’s roar prevents voices being heard; crew
+    members act on their own to handle oars, sides, sails, water, and yards.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 6749-6757
+  quote_or_summary: The storm increases, winds attack from every side, and the master
+    admits he does not know the ship’s condition or what to order; shouts, cordage,
+    waves, and thunder make noise together.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 6757-6760
+  quote_or_summary: The sea rises toward the heavens, foams, shifts color, and tosses
+    the ship so it seems first high as if on a mountain summit and then sunk among
+    Acheron and infernal waters.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:8
+  type: summary
+  locator: '6760'
+  quote_or_summary: Waves strike the ship with crashing force, compared to siege engines
+    battering towers and lions rushing on weapons.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal event extraction is well supported by the supplied passage. Motif
+    assignments are cautious, especially where taxonomy terms are broader than the
+    immediate scene. No comparison claims were made because the passage itself does
+    not explicitly support comparison to another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to provided motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l6689-l6760
+  passage_sha256=0007046f3ecef8a6679f78999be9ab41f119f716711b8b3365b8c2c732f30222
+

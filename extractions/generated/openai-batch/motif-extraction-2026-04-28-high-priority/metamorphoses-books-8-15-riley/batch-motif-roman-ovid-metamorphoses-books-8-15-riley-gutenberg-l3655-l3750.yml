@@ -1,0 +1,678 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3655-l3750
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 3655-3750
+  start: '3655'
+  end: '3750'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage first explains variants and rationalizations of the story
+    of Byblis and Caunus, including Byblis pursuing her brother, variants of her transformation
+    or death, and a suggested historical explanation involving Persian sibling marriage
+    customs. It then introduces the fable of Ligdus, Telethusa, Isis, and Iphis: Ligdus
+    orders that a female child be killed; Isis appears to pregnant Telethusa in a
+    dream, commands her to save the child, and promises aid.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The explanation says Ovid and Antoninus Liberalis both depict Byblis traveling
+    through several countries in search of her brother, who flees her passion, and
+    both trace her to Caria.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One variant says Byblis was transformed into a Hamadryad near the moment she
+    was about to throw herself from a mountain summit.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ovid's version says Byblis was changed into a fountain that later bore her
+    name.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The explanation reports a rationalized version in which Byblis dies of grief
+    after Caunus leaves his father's court to avoid her importunities, and her frequent
+    weeping by a fountain is magnified into a transformation story.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A variant attributed through Photius to Conon says Caunus fell in love with
+    Byblis and that she hanged herself on a walnut tree.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage suggests that the Byblis and Caunus story may have originated
+    as a covert reproach against Persian customs requiring monarchs to marry their
+    sisters.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The fable summary says Ligdus commands pregnant Telethusa to destroy the infant
+    if it is a girl.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: The fable summary says Isis appears to Telethusa in a dream, forbids her to
+    obey Ligdus, and promises protection.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: obs:9
+  text: The fable summary says Telethusa gives birth to a daughter named Iphis, who
+    passes for a son and is later married to Ianthe.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The fable summary says Isis transforms Iphis into a man as a reward for Telethusa's
+    piety.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: In the dream vision, Isis appears with moon horns, ears of corn, a diadem,
+    divine or sacred attendants, sistra, Osiris, and a foreign serpent.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Isis addresses Telethusa as one of her votaries and tells her to bring up
+    the child whatever it shall be.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Byblis
+  description: Daughter of Miletus and Cyanea; sister of Caunus; associated with variants
+    of illicit passion, grief, death, and transformation into a fountain or Hamadryad.
+  role_refs:
+  - role:1
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Caunus
+  description: Brother of Byblis; in one account he flees from her passion, while
+    another variant says he fell in love with her.
+  role_refs:
+  - role:2
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Miletus
+  description: Father of Caunus and Byblis; said to have gone from Crete to Caria
+    and given his name to a conquered city.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Cyanea
+  description: Daughter of Mæander and mother of Caunus and Byblis in the explanatory
+    account.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Ligdus
+  description: A freeborn but poor man of Phæstian land who commands that a female
+    child born to his pregnant wife be killed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Telethusa
+  description: Pregnant wife of Ligdus; called a votary of Isis; receives a dream
+    command from Isis to save and raise the child.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:7
+  name_or_label: Isis / daughter of Inachus
+  description: Goddess who appears in Telethusa's dream with divine emblems and attendants,
+    forbids obedience to Ligdus's command, promises aid, and later transforms Iphis
+    into a man.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: Iphis
+  description: Child of Telethusa; born female, named Iphis, passes for a son, marries
+    Ianthe, and is later transformed into a man by Isis.
+  role_refs:
+  - role:10
+  - role:11
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Ianthe
+  description: Person whom Iphis later marries according to the fable summary.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Anubis
+  description: Barking attendant present with Isis in the dream vision.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:6
+- id: fig:11
+  name_or_label: Bubastis
+  description: Holy attendant present with Isis in the dream vision.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:6
+- id: fig:12
+  name_or_label: Apis
+  description: Particoloured figure present with Isis in the dream vision.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:6
+- id: fig:13
+  name_or_label: Osiris
+  description: Named in the dream vision as present with Isis.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:6
+- id: fig:14
+  name_or_label: Lucina
+  description: Childbirth divinity named by Isis in reference to Telethusa's delivery.
+  role_refs:
+  - role:14
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: pursuing or grieving sister
+  assigned_to:
+  - fig:1
+  basis: Byblis is described as seeking her brother, conceiving a criminal passion,
+    and dying of grief or being transformed in variant accounts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: fleeing brother
+  assigned_to:
+  - fig:2
+  basis: Caunus leaves his father's court or flees to avoid Byblis's passion in the
+    explanatory account.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: colonizing father
+  assigned_to:
+  - fig:3
+  basis: Miletus is described as leading a colony from Crete into Caria and founding
+    or naming a city.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mother in genealogical explanation
+  assigned_to:
+  - fig:4
+  basis: Cyanea is named as mother of Caunus and Byblis.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: father commanding exposure or killing
+  assigned_to:
+  - fig:5
+  basis: Ligdus commands Telethusa that a female newborn should be put to death.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: pregnant mother under command
+  assigned_to:
+  - fig:6
+  basis: Telethusa is pregnant and receives Ligdus's command concerning the child.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: votary receiving divine dream
+  assigned_to:
+  - fig:6
+  basis: Isis addresses Telethusa as one of her votaries and speaks to her in a night
+    vision.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:8
+  label: protective dream goddess
+  assigned_to:
+  - fig:7
+  basis: Isis appears in a dream, tells Telethusa to evade her husband's command,
+    and promises assistance.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:9
+  label: sibling pair in illicit-love variant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The explanatory passage centers on Byblis and Caunus as siblings involved
+    in variants of forbidden passion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:10
+  label: concealed female child
+  assigned_to:
+  - fig:8
+  basis: Iphis is born a daughter but passes for a son.
+  evidence_refs:
+  - ev:4
+- id: role:11
+  label: transformed spouse
+  assigned_to:
+  - fig:8
+  basis: Iphis is married to Ianthe and then transformed into a man by Isis.
+  evidence_refs:
+  - ev:4
+- id: role:12
+  label: marriage partner
+  assigned_to:
+  - fig:9
+  basis: Ianthe is named as the person Iphis marries.
+  evidence_refs:
+  - ev:4
+- id: role:13
+  label: divine attendant in epiphany
+  assigned_to:
+  - fig:10
+  - fig:11
+  - fig:12
+  - fig:13
+  basis: These figures accompany Isis in the dream vision.
+  evidence_refs:
+  - ev:6
+- id: role:14
+  label: childbirth divinity invoked in speech
+  assigned_to:
+  - fig:14
+  basis: Isis refers to Lucina giving Telethusa ease by delivery.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fountain of Byblis
+  literal_form: fountain that bears Byblis's name
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: mountain summit
+  literal_form: summit of a mountain from which Byblis is about to throw herself in
+    one variant
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: walnut tree
+  literal_form: walnut tree on which Byblis is said to have hanged herself in one
+    variant
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Hamadryad transformation
+  literal_form: Byblis transformed into a Hamadryad
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: Isis lunar and grain regalia
+  literal_form: moon horns, ears of corn, and diadem on Isis in the dream vision
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: sistra
+  literal_form: sistra present with Isis in the dream vision
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: foreign serpent
+  literal_form: foreign serpent filled with soporiferous poison in Isis's retinue
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: silence gesture
+  literal_form: a figure suppresses his voice and enjoins silence with his finger
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Byblis pursuit and transformation variants
+  summary: The explanation compares accounts in which Byblis pursues Caunus to Caria
+    and is then transformed either into a Hamadryad or into a fountain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rationalized Byblis account
+  summary: The explanation gives a historical-rationalizing account in which Caunus
+    leaves to avoid Byblis, Byblis dies of grief, and her weeping near a fountain
+    becomes the basis for the fountain transformation story.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Alternative hanging variant
+  summary: A cited variant says Caunus loved Byblis and that Byblis hanged herself
+    on a walnut tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Ligdus orders female infant killed
+  summary: Ligdus tells pregnant Telethusa that he hopes for a male child and commands
+    that a female child be put to death, despite grief and Telethusa's pleas.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Isis dream epiphany
+  summary: Isis appears at night before Telethusa's bed with divine emblems and attendants,
+    tells her to set aside her cares, evade her husband's command, raise the child
+    whatever its sex, and trust in the goddess's aid.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:10
+  - fig:11
+  - fig:12
+  - fig:13
+  - fig:14
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Iphis concealed and transformed
+  summary: The fable summary says Telethusa bears a daughter named Iphis, allows her
+    to pass as a son, and Isis later transforms Iphis into a man before or at the
+    marriage to Ianthe.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Transformation into natural feature after forbidden passion or grief
+  taxonomy_refs:
+  - shapeshifter
+  basis: Byblis is said in variants to become a Hamadryad or a fountain after the
+    crisis involving Caunus.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The taxonomy term 'shapeshifter' is broad; the passage describes imposed
+    or narrated metamorphosis rather than voluntary shape-changing.
+- id: motif:2
+  label: Illicit sibling desire leading to separation and death
+  taxonomy_refs:
+  - sibling_pair
+  basis: The explanation centers on Byblis and Caunus as siblings whose forbidden
+    passion causes flight, grief, death, or transformation in different accounts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The motif is a negative sibling relationship, not a cooperative sacred
+    sibling pair.
+- id: motif:3
+  label: Threatened female infant saved through divine intervention
+  taxonomy_refs:
+  - miraculous_child
+  - sacred_birth
+  basis: Ligdus orders a female infant killed, but Isis appears in a dream to Telethusa
+    and commands her to raise the child, promising divine aid.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The birth itself is not described as miraculous; the divine intervention
+    concerns preservation and later transformation.
+- id: motif:4
+  label: Dream epiphany of protective goddess
+  taxonomy_refs: []
+  basis: Isis appears to Telethusa in a night vision with emblems and attendants and
+    gives protective instructions.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No specific available taxonomy reference exactly matches a divine dream-command
+    motif.
+- id: motif:5
+  label: Concealed sex and divine gender transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: Iphis is born female, passes for a son, and is later transformed into a man
+    by Isis.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage summary states the later transformation but the detailed transformation
+    scene is outside this line range.
+- id: motif:6
+  label: Political or cultural rationalization of mythic incest story
+  taxonomy_refs: []
+  basis: The explanation proposes that the Byblis and Caunus story may reflect native
+    disgust at Persian royal sibling-marriage ordinances.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: This is an explanatory conjecture in the passage, introduced as possible
+    rather than certain.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly compares Ovid''s Byblis story with Antoninus Liberalis:
+    both share the pursuit to Caria, but Antoninus has Byblis become a Hamadryad while
+    Ovid has her become a fountain.'
+  claim_level: same_motif
+  target: Antoninus Liberalis account of Byblis
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only a summary of Antoninus and Ovid, not the full
+    parallel texts.
+- id: claim:2
+  claim: The passage presents another variant, attributed through Photius to Conon,
+    in which Caunus rather than Byblis falls in love and Byblis hangs herself on a
+    walnut tree; this is a related but not identical Byblis-Caunus motif variant.
+  claim_level: same_motif
+  target: Photius / Conon variant of Byblis and Caunus
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:1
+  confidence: medium
+  limitations: The variant reverses the lover and changes the ending, so the shared
+    motif is limited to the sibling pair and tragic forbidden passion.
+- id: claim:3
+  claim: The passage cautiously proposes that the Byblis-Caunus story may be connected
+    to Persian royal sibling-marriage ordinances as a native reproach against conquerors.
+  claim_level: historical_contact
+  target: Persian royal sister-marriage custom in Asia Minor
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage itself frames the connection as possible, not demonstrated.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3655-3665
+  quote_or_summary: Ovid and Antoninus Liberalis are said to make Byblis travel in
+    search of her brother to Caria; Antoninus has her transformed into a Hamadryad
+    near a mountain summit, while Ovid has her changed into a fountain bearing her
+    name.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3666-3690
+  quote_or_summary: The explanation gives a Carian historical setting, names Miletus
+    and Cyanea as parents of Caunus and Byblis, says Caunus left to avoid Byblis and
+    she died of grief after weeping by a fountain, and notes a Conon variant in which
+    Caunus loved Byblis and she hanged herself on a walnut tree.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3691-3701
+  quote_or_summary: The passage says Persian monarchs were enjoined to marry their
+    sisters and suggests the Byblis-Caunus story may have arisen from native disgust
+    as a covert reproach against such alliances; it also states the moral as a warning
+    to youth to regulate passions.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3703-3711
+  quote_or_summary: The fable summary says Ligdus orders Telethusa to destroy a female
+    infant; Isis appears in a dream, forbids obedience, promises protection; Telethusa
+    bears a daughter, Iphis, who passes as a son and later marries Ianthe; Isis transforms
+    Iphis into a man.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3714-3734
+  quote_or_summary: Ligdus, a poor freeborn man, tells pregnant Telethusa he wishes
+    for a painless birth and a male child; because he lacks means to raise a female,
+    he commands with reluctance that a female newborn be put to death, while both
+    weep and Telethusa pleads against the command.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 3735-3746
+  quote_or_summary: In a night vision before Telethusa's bed, the daughter of Inachus
+    appears with moon horns, golden ears of corn, a diadem, Anubis, Bubastis, Apis,
+    a silence-enjoining figure, sistra, Osiris, and a foreign serpent filled with
+    soporific poison.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: 3746-3750
+  quote_or_summary: "“O Telethusa, one of my votaries, lay aside thy grievous cares,
+    and evade the commands of thy husband; ... bring up {the child}, whatever it shall
+    be. I am a befriending Goddess...”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based entirely on the supplied passage. Motif labels using
+    available taxonomy are sometimes approximate because the available taxonomy lacks
+    exact categories for divine dream command, infanticide threat, or gender transformation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures, motifs, or comparisons beyond those supported by the supplied passage and metadata have been added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l3655-l3750
+  passage_sha256=8773370d8610214f11be824479efd407f179843b13e578cc8b548a70936604b3
+

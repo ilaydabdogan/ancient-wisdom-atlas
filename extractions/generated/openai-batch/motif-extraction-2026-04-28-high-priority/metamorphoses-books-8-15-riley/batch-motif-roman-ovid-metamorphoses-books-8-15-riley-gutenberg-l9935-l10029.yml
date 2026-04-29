@@ -1,0 +1,534 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9935-l10029
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: BOOK THE THIRTEENTH. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines
+    9935-10029
+  start: '9935'
+  end: '10029'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“But, even then, still it was Acis, changed into a river; and the stream
+    has since retained that ancient name.”"
+  summary: Polyphemus addresses Galatea from the shore, boasting of his size, appearance,
+    single eye, and divine parentage while begging for her favor. He complains that
+    she loves Acis instead, threatens to tear Acis apart, and compares his rejected
+    passion to the flames of Aetna. Galatea narrates that Polyphemus sees her with
+    Acis, pursues them, and crushes Acis with a fragment of mountain. Galatea then
+    causes Acis, within the limits allowed by the Fates, to be transformed from blood
+    beneath the rock into clear water, reeds, a horned youth, and finally a river
+    bearing his name.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Polyphemus calls on Galatea to rise from the azure sea and accept his presents.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Polyphemus says he recently saw his reflection in limpid water and was pleased
+    by his figure.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Polyphemus describes himself as huge, hairy, rough with bristles, and having
+    one eye in the middle of his forehead.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Polyphemus compares his hair and roughness to natural coverings such as leaves,
+    a mane, feathers, and wool.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Polyphemus says his father reigns in Galatea's seas and offers him as a father-in-law.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: Polyphemus says Galatea loves Acis instead of him and threatens to tear Acis
+    apart and scatter his limbs through fields and waves.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Polyphemus compares his inflamed passion to Aetna transferred into his breast
+    with its flames.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: After speaking, Polyphemus rises, wanders in the woods, sees Galatea and Acis,
+    and announces that their union will be the last.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Galatea plunges into the adjoining sea, while Acis flees and calls on Galatea
+    and her parents to admit him into their realms.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Cyclop hurls a fragment torn from the mountain, and the edge of the rock
+    crushes Acis.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Acis's purple blood changes color, becomes like muddied stream water, then
+    becomes clear.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The thrown rock opens, a reed rises through its chinks, waters sound from
+    the hollow mouth of the rock, and a horned youth encircled with reeds emerges
+    before Acis is identified as a river.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Polyphemus / the Cyclop
+  description: A huge one-eyed Cyclop who courts Galatea, boasts of his body and appearance,
+    threatens Acis, and crushes him with a mountain fragment.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Galatea
+  description: A daughter of Nereus and sea nymph, addressed by Polyphemus, beloved
+    of Acis, narrator of the events, and agent of Acis's transformation within what
+    the Fates allow.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Acis
+  description: The hero son of Symaethis, loved by Galatea, crushed by the Cyclop's
+    rock, and changed into a river that retains his name.
+  role_refs:
+  - role:7
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Galatea's parents / Nereus and Doris
+  description: Galatea's parents are invoked by Acis for admission into their realms;
+    the footnote identifies Galatea as daughter of Nereus and Doris.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+  - ev:8
+roles:
+- id: role:1
+  label: rejected suitor
+  assigned_to:
+  - fig:1
+  basis: Polyphemus begs Galatea for pity and complains that she rejects the Cyclop
+    for Acis.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: jealous attacker
+  assigned_to:
+  - fig:1
+  basis: He threatens Acis, pursues him, and throws the rock that crushes him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: one-eyed giant
+  assigned_to:
+  - fig:1
+  basis: He describes his vast body and the single eye in the middle of his forehead.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: beloved sea nymph
+  assigned_to:
+  - fig:2
+  basis: Polyphemus calls Galatea from the sea; the note identifies her as a sea nymph,
+    daughter of Nereus and Doris.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:5
+  label: narrator-witness
+  assigned_to:
+  - fig:2
+  basis: The narration states that Galatea saw Polyphemus's complaints and then recounts
+    the pursuit and transformation.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:6
+  label: transforming agent
+  assigned_to:
+  - fig:2
+  basis: Galatea says she did what the Fates allowed so that Acis might assume the
+    properties of his grandsire.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: beloved rival
+  assigned_to:
+  - fig:3
+  basis: Polyphemus asks why Galatea loves Acis and prefers him to the Cyclop's embraces.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: victim of crushing rock
+  assigned_to:
+  - fig:3
+  basis: The mountain fragment hurled by the Cyclop crushes Acis.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: transformed river
+  assigned_to:
+  - fig:3
+  basis: After blood and water imagery, Acis emerges with horns and reeds and is identified
+    as changed into a river.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: invoked sea-realm parents
+  assigned_to:
+  - fig:4
+  basis: Acis calls on Galatea's parents to admit him into their realms; the footnote
+    names Galatea's parents as Nereus and Doris.
+  evidence_refs:
+  - ev:5
+  - ev:8
+symbols:
+- id: sym:1
+  label: water and sea
+  literal_form: azure sea, limpid water, adjoining sea, clear stream, river
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: single eye
+  literal_form: one eye in the middle of Polyphemus's forehead, compared to a large
+    buckler and to the Sun's one eye
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Aetna and internal flames
+  literal_form: Aetna transferred into Polyphemus's breast with all its flames
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: mountain fragment and crushing rock
+  literal_form: fragment torn from the mountain; rock that crushes Acis and later
+    opens
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: reeds and horns of the river-youth
+  literal_form: a vigorous reed, twining reeds, and new-made horns encircling the
+    emerging youth
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: tree and natural coverings
+  literal_form: grove-like hair, tree without leaves, horse mane, feathers, wool,
+    beard and rough hair
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Polyphemus courts Galatea
+  summary: Polyphemus calls Galatea from the sea, praises his own appearance, describes
+    his one eye and size, and offers his sea-ruling father as her father-in-law.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Jealous threat against Acis
+  summary: Polyphemus complains that Galatea prefers Acis, threatens to dismember
+    Acis, and describes his passion as fiery Aetna inside his breast.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Discovery, flight, and crushing
+  summary: Polyphemus sees Galatea and Acis, declares their union will be the last,
+    frightens Aetna with his voice, and crushes Acis with a mountain fragment while
+    Galatea flees to the sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Acis becomes a river
+  summary: 'Galatea acts within the permission of the Fates: Acis''s blood becomes
+    water, the rock opens, reeds and flowing waters appear, and Acis emerges as a
+    horned river-youth before becoming a river that keeps his name.'
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: violent rejected suitor attacks beloved rival
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Polyphemus is rejected by Galatea, complains that she loves Acis, and attacks
+    Acis after seeing the pair together.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage presents jealousy and rivalry, but it does not describe an
+    actual abduction or theft of the beloved.
+- id: motif:2
+  label: death followed by transformation into water being or river
+  taxonomy_refs:
+  - death_rebirth
+  - water
+  basis: Acis is crushed by a rock, after which his blood becomes water and he emerges
+    as a horned youth before being identified as a river retaining his name.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is metamorphosis rather than literal restoration of the same mortal
+    life.
+- id: motif:3
+  label: annihilation imagined as union with the beloved
+  taxonomy_refs:
+  - annihilation_union
+  basis: Polyphemus threatens to scatter Acis's torn limbs through the fields and
+    Galatea's waves so that Acis may be united with her.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The threatened dismemberment is spoken by Polyphemus and is not exactly
+    what occurs in the narrative.
+- id: motif:4
+  label: single monstrous eye compared to cosmic sight
+  taxonomy_refs: []
+  basis: Polyphemus defends his single eye by comparing it to the one eye of the Sun
+    that beholds all things from heaven.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: No supplied taxonomy reference directly matches this image.
+- id: motif:5
+  label: fiery inner passion likened to volcanic mountain
+  taxonomy_refs:
+  - fire
+  - mountain
+  basis: Polyphemus describes rejected passion as Aetna carried within his breast
+    with its flames.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a metaphorical image within a speech rather than a separate narrative
+    event.
+comparison_claims:
+- id: claim:1
+  claim: The translator's note states that Polyphemus's song is in some measure imitated
+    from the Cyclop's song in Theocritus's Eleventh Idyll.
+  claim_level: historical_contact
+  target: Theocritus, Eleventh Idyll, Cyclop's song
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim rests on the editorial footnote supplied in the passage,
+    not on a detailed side-by-side comparison in the extracted text.
+- id: claim:2
+  claim: The translator's note says Virgil and Theocritus also represent Polyphemus
+    as boasting of his good looks, supporting a cautious comparison of this self-praise
+    motif across nearby classical literature.
+  claim_level: same_function
+  target: Virgil and Theocritus representations of Polyphemus boasting of his looks
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The footnote names parallels but does not quote or locate the parallel
+    passages.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9935-9956
+  quote_or_summary: Polyphemus calls Galatea from the azure sea, says he saw and admired
+    his reflection in clear water, boasts of his huge body, one central eye, and says
+    his father reigns in her seas.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9942-9950
+  quote_or_summary: Polyphemus describes his hair as grove-like and defends roughness
+    by comparing it with leaves on trees, a horse's mane, feathers on birds, wool
+    on sheep, and beard and hair on men.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9957-9973
+  quote_or_summary: Polyphemus says he fears Galatea more than lightning, asks why
+    she loves Acis, threatens to tear Acis apart and scatter his limbs through fields
+    and waves, and compares his slighted passion to Aetna's flames in his breast.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9975-9983
+  quote_or_summary: Galatea says Polyphemus rises after his complaints, wanders like
+    an enraged bull, sees her and unsuspecting Acis, declares their union will be
+    the last, and his voice makes Aetna tremble.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9983-9988
+  quote_or_summary: Galatea flees into the adjoining sea, and Acis flees while calling
+    to Galatea and her parents to admit him into their realms as destruction approaches.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9988-9991
+  quote_or_summary: The Cyclop pursues and hurls a fragment torn from the mountain;
+    even the extreme angle of the rock completely crushes Acis.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 9991-10006
+  quote_or_summary: 'Galatea says she does what the Fates allow so Acis may assume
+    his grandsire''s properties: his purple blood changes to muddy-stream color and
+    then clear water; the rock opens, a reed grows, waters resound, and a horned reed-crowned
+    youth emerges before Acis is identified as a river.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: Footnote 70
+  quote_or_summary: The note identifies Galatea as a sea nymph, daughter of Nereus
+    and Doris.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: Footnote 73
+  quote_or_summary: The note says this song of Polyphemus is, in some measure, imitated
+    from the Cyclop's song in the Eleventh Idyll of Theocritus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: Footnote 76
+  quote_or_summary: The note says Virgil and Theocritus also represent Polyphemus
+    as boasting of his good looks.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Narrative sequence and transformation are explicit. Motif labeling is cautious,
+    especially where taxonomy categories only approximate the passage. Comparison
+    claims rely solely on supplied translator footnotes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text, metadata, available taxonomy references, and footnotes included in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l9935-l10029
+  passage_sha256=f78a44a24937b619ce2fa30ecd26a31363e00fbdd67572fdbd58de7e25d10588
+

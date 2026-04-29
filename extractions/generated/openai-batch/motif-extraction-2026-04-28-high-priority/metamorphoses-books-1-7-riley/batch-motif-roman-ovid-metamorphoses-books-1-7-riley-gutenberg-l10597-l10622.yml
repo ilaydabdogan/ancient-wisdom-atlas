@@ -1,0 +1,404 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10597-l10622
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 10597-10622
+  start: '10597'
+  end: '10622'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The notes identify chronological and genealogical details about Erectheus,
+    Pandion, and Cephalus; locate the Cicones in Thrace near Mount Ismarus and the
+    Bistonian lake; explain that the object sought was the fleece of the ram that
+    carried Phryxus across the Hellespont to Colchis; and discuss whether the sea
+    had not been navigated before or whether the Argo was the first ship or first
+    warship.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Erectheus is described as a king of Athens whose placement in Ovid's order
+    is corrected by reference to other accounts.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Cephalus is described with variant parentage: son of Deioneus, grandson of
+    Aeolus, and in some accounts son of Mercury.'
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Cicones are described as a Thracian people living near Mount Ismarus and
+    the Bistonian lake.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The object sought is identified as the fleece of the ram that carried Phryxus
+    along the Hellespont to Colchis.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note offers interpretations that the relevant part of the sea had not
+    been navigated before, or that the Argo was the first ship or first warship.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Erectheus
+  description: King of Athens mentioned in a corrected succession order.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Pandion
+  description: Father of Progne and Philomela, named in relation to Erectheus and
+    the Athenian succession.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Cephalus
+  description: Figure with variant genealogy; his fuller story is said to appear in
+    the next Book.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Deioneus
+  description: Named as father of Cephalus in one account and as father-in-law of
+    Cephalus according to Strabo.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Aeolus
+  description: Named as grandfather of Cephalus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Mercury
+  description: Named as Cephalus's father in some accounts.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: The Cicones
+  description: A people of Thrace living near Mount Ismarus and the Bistonian lake.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Ram
+  description: The ram whose fleece is sought and which carried Phryxus along the
+    Hellespont to Colchis.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Phryxus
+  description: The person carried by the ram along the Hellespont to Colchis.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Argo
+  description: A vessel discussed as possibly the first ship or first ship of war.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Athenian king
+  assigned_to:
+  - fig:1
+  basis: The note calls Erectheus king of Athens.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: father in genealogy
+  assigned_to:
+  - fig:2
+  basis: Pandion is identified as father of Progne and Philomela.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: genealogically variant hero
+  assigned_to:
+  - fig:3
+  basis: Cephalus is given different parentage in different accounts.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: claimed parent or relation
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: Deioneus and Mercury are each connected to Cephalus by variant accounts of
+    parentage or relation.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: ancestor
+  assigned_to:
+  - fig:5
+  basis: Aeolus is named as Cephalus's grandfather.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: Thracian people
+  assigned_to:
+  - fig:7
+  basis: The Cicones are identified as a people of Thrace.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: animal carrier and source of fleece
+  assigned_to:
+  - fig:8
+  basis: The ram carries Phryxus and its fleece is sought.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: transported figure
+  assigned_to:
+  - fig:9
+  basis: Phryxus is carried by the ram to Colchis.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: primeval or first vessel
+  assigned_to:
+  - fig:10
+  basis: The Argo is discussed as possibly the first ship or first warship.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fleece
+  literal_form: The fleece of the ram
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: ram
+  literal_form: Ram that carried Phryxus
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Hellespont crossing
+  literal_form: Hellespont traversed by Phryxus on the ram
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Mount Ismarus
+  literal_form: Mountain near which the Cicones lived
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Bistonian lake
+  literal_form: Lake near which the Cicones lived
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Argo
+  literal_form: Ship or ship of war
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: unnavigated sea
+  literal_form: Part of the sea described as possibly not navigated before
+  associated_figures:
+  - fig:10
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Athenian succession correction
+  summary: The note corrects Ovid's order for Erectheus by citing an alternate succession
+    of Athenian rulers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cephalus genealogy variants
+  summary: The note lists different accounts of Cephalus's parentage and relations.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ciconian location
+  summary: The note locates the Cicones in Thrace near Mount Ismarus and the Bistonian
+    lake.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Fleece and ram transport
+  summary: The note identifies the sought object as the fleece of the ram that carried
+    Phryxus over the Hellespont to Colchis.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Argo and first navigation
+  summary: The note discusses whether a sea had not been navigated before and whether
+    the Argo was the first ship or first warship.
+  figure_refs:
+  - fig:10
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: quest for a notable fleece
+  taxonomy_refs:
+  - mystical_quest
+  basis: The note identifies the object sought as the fleece of the ram associated
+    with Phryxus's journey to Colchis.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is a footnote and only briefly identifies the sought object;
+    it does not narrate the full quest.
+- id: motif:2
+  label: animal transport across water to a distant land
+  taxonomy_refs:
+  - departure
+  basis: The ram is said to have carried Phryxus along the Hellespont to Colchis.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The taxonomy match is approximate because the note does not describe the
+    circumstances, departure ritual, or outcome.
+- id: motif:3
+  label: first ship or first warship
+  taxonomy_refs: []
+  basis: The note reports poetic claims that the Argo was the first ship and offers
+    the alternative that it may have been the first ship of war.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No available taxonomy reference directly matches a first-vessel or first-navigation
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10597-10603, Footnote 72
+  quote_or_summary: Erectheus is said to have been king of Athens before Pandion;
+    the note gives an alternate Athenian succession and identifies Pandion as father
+    of Progne and Philomela.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 10605-10611, Footnote 73
+  quote_or_summary: Cephalus is described as son of Deioneus and grandson of Aeolus;
+    other writers make him son of Mercury, and Strabo calls him son-in-law of Deioneus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 10613-10615, Footnote 74
+  quote_or_summary: The Cicones are identified as a Thracian people living near Mount
+    Ismarus and the Bistonian lake.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 10617-10619, Footnote 75
+  quote_or_summary: The sought object is the fleece of the ram that carried Phryxus
+    along the Hellespont to Colchis.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 10621-10622, Footnote 76
+  quote_or_summary: The note says the passage may mean the sea had not been navigated
+    before, and mentions poetic claims that the Argo was the first ship, with the
+    alternative that it was the first warship.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source text; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on explanatory footnotes rather than a continuous narrative
+    passage. Motif identifications are limited because the notes summarize rather
+    than narrate the myths.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No comparison claims were added because the passage does not itself support a comparative claim beyond source variants and explanatory notes.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l10597-l10622
+  passage_sha256=4dfcf089c3ad3b26cb1cb894160f98fd49d99cbb74170621995dfb2eea0762e9
+

@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10450-l10501
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 10450-10501
+  start: '10450'
+  end: '10501'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Tereus reacts to having eaten his son by pushing away the table, invoking
+    the serpent-haired Furies, lamenting himself as his son's sepulchre, and pursuing
+    the daughters of Pandion. The women are changed into birds, one going to the woods
+    and one to houses, with blood still visible on the feathers of one. Tereus is
+    also changed into a bird, the epops or lapwing, with a crest and spear-like bill.
+    Pandion dies prematurely and goes to Tartarus. Notes identify the Viperous sisters
+    as the Furies and the Cecropian daughters as Progne and Philomela.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Thracian pushes away the table with a loud cry after consuming a horrid
+    repast identified as the entrails of his own son.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The Thracian summons the Viperous sisters from the Stygian valley.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:3
+  text: He weeps and calls himself the wretched sepulchre of his own son.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: He follows the daughters of Pandion with a drawn sword.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The daughters of Pandion are supported by wings; one goes to the woods and
+    the other takes a place beneath house roofs.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: One female bird still has marks of murder on her breast and blood-stained
+    feathers.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The pursuer is transformed into a bird called epops, with a crested plume
+    and a prolonged bill in place of a spear.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Pandion is sent to the shades of Tartarus before old age.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: The Thracian / Tereus
+  description: The Thracian who has eaten his son, invokes the Furies, pursues the
+    daughters of Pandion, and is changed into the bird called epops.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Progne
+  description: One of the daughters of Pandion; footnote identifies the Cecropian
+    or Athenian Nymphs as Progne and Philomela.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Philomela
+  description: One of the daughters of Pandion; footnote identifies the Cecropian
+    or Athenian Nymphs as Progne and Philomela.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Itys / the son
+  description: The son whose entrails have been eaten; footnote refers to Progne striking
+    poor Itys.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Viperous sisters / Furies
+  description: Beings summoned from the Stygian valley; footnote identifies them as
+    the Furies with serpent-wreathed hair.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Pandion
+  description: Father of Progne and Philomela and king of Athens, who is dispatched
+    to Tartarus before his time.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+roles:
+- id: role:1
+  label: grieving cannibal father
+  assigned_to:
+  - fig:1
+  basis: He calls himself the sepulchre of his own son after consuming the repast
+    of entrails.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: armed pursuer transformed into bird
+  assigned_to:
+  - fig:1
+  basis: He pursues with a drawn sword and is later changed into the crested epops
+    with a spear-like bill.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: fleeing daughters transformed into birds
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The daughters of Pandion are described as supported by wings, with one going
+    to the woods and the other beneath roofs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: slain son consumed as meal
+  assigned_to:
+  - fig:4
+  basis: The passage describes the half-digested entrails and the father as his son's
+    sepulchre; a note names Itys as struck by Progne.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: underworld avenging powers
+  assigned_to:
+  - fig:5
+  basis: They are summoned from the Stygian valley and identified in the note as the
+    Furies.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: bereaved father sent to Tartarus
+  assigned_to:
+  - fig:6
+  basis: Pandion is identified as father of Progne and Philomela and is dispatched
+    to the shades of Tartarus.
+  evidence_refs:
+  - ev:4
+  - ev:7
+symbols:
+- id: sym:1
+  label: Stygian valley
+  literal_form: underworld valley from which the Viperous sisters are summoned
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: serpent-wreathed hair
+  literal_form: serpents in the hair of the Furies
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: blood-stained feathers
+  literal_form: feathers still stained with blood and murder marks on the breast
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: wings
+  literal_form: wings supporting the bodies of the daughters of Pandion
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: crested epops with spear-like bill
+  literal_form: bird with a crested plume and prolonged bill in place of a long spear
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Tartarus
+  literal_form: shades of Tartarus as Pandion's destination after death
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Discovery and lament after the cannibal meal
+  summary: The Thracian pushes away the table, invokes the Furies, wishes to expel
+    the meal from his body, and laments that he is the sepulchre of his own son.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Pursuit and bird transformations
+  summary: The Thracian pursues the daughters of Pandion with a sword; they are borne
+    by wings and take to woods and houses, while the pursuer becomes the crested epops
+    with an armed-looking face.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Pandion's death
+  summary: The affliction causes Pandion to be sent to Tartarus before his proper
+    time.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: human transformation into birds
+  taxonomy_refs:
+  - shapeshifter
+  basis: The daughters of Pandion are described as winged, and the Thracian is changed
+    into the bird called epops.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The transformation is passive and punitive or consequential in the narrative;
+    the available taxonomy term is broader than the specific event.
+- id: motif:2
+  label: serpent-haired underworld avengers summoned
+  taxonomy_refs:
+  - serpent
+  basis: The Viperous sisters are summoned from the Stygian valley and identified
+    as Furies whose hair is wreathed with serpents.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The serpent element appears in the explanatory footnote rather than in
+    the narrative line itself.
+- id: motif:3
+  label: premature descent to Tartarus after family affliction
+  taxonomy_refs: []
+  basis: Pandion is dispatched to the shades of Tartarus before the late period of
+    old age because of the affliction.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage reports death and underworld destination, but does not narrate
+    a detailed afterlife journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10450-10456
+  quote_or_summary: The Thracian rejects the table, summons powers from the Stygian
+    valley, wishes to discharge the horrid repast and half-digested entrails, weeps,
+    and calls himself his son's sepulchre.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10484-10485, footnote 68
+  quote_or_summary: The note identifies the victim as Itys by explaining the line
+    in which Progne strikes poor Itys with the sword.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10451 and 10492-10495, footnote 70
+  quote_or_summary: The Viperous sisters are summoned from the Stygian valley; the
+    note identifies them as the Furies, so called because their hair is wreathed with
+    serpents.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10457-10461 and 10496-10501, footnote 71
+  quote_or_summary: The Thracian follows the daughters of Pandion with a drawn sword;
+    their bodies are supported by wings. The note identifies them as Progne and Philomela,
+    daughters of Pandion, king of Athens.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 10461-10464
+  quote_or_summary: One winged daughter goes to the woods and the other beneath roofs;
+    marks of murder remain on the breast and feathers are stained with blood.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10464-10468
+  quote_or_summary: The grieving pursuer is turned into the bird epops, with a crested
+    plume and a prolonged bill replacing the long spear; its face appears armed.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 10468-10470
+  quote_or_summary: The affliction sends Pandion to the shades of Tartarus before
+    his day and before prolonged old age.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction relies on the provided narrative and explanatory footnotes. Motif
+    labels are limited to directly attested transformations, serpent imagery, and
+    Tartarus destination; no external comparisons are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support a comparison beyond the local narrative and notes.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l10450-l10501
+  passage_sha256=1e5ead3789daba771be4ae7be8b9877776de9e1cbc73881b403ae6a3ef3df660
+

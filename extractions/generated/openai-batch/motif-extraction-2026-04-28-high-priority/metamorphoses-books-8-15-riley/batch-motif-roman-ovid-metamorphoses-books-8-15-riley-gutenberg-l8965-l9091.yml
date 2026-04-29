@@ -1,0 +1,994 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l8965-l9091
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / BOOK THE THIRTEENTH.; lines
+    8965-9091
+  start: '8965'
+  end: '9091'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A sequence of editorial footnotes explaining Ovid’s allusions to Trojan
+    War figures and episodes: Philoctetes in Lemnos; Nestor, Hector, Diomedes, Ulysses,
+    and Ajax in battle; Rhesus and Dolon in the night raid; Helenus as prophet and
+    captive; Achilles’ spear and lineage matters; Apollo’s pestilence; Sarpedon’s
+    divine parentage; Ajax and Hector’s fatal gift exchange; and the Palladium as
+    Troy’s protective statue.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Philoctetes is described as being in Lemnos and making clothing from bird
+    feathers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nestor is described as wounded by Paris, overtaken by Hector, and rescued
+    by Diomedes while Ulysses fled.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ajax is described as protecting wounded Ulysses with his shield at Menelaus’
+    request.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Some Greek warriors drew lots to decide who should accept Hector’s challenge.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Rhesus and Dolon are described as killed in episodes involving Ulysses and
+    Diomedes; Dolon is also described as forced to disclose information about the
+    Trojan camp.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Helenus is described as skilled in prophecy, captured by Diomedes and Ulysses,
+    spared, married to Andromache, and later ruling part of Chaonia.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Achilles’ spear is described as cut from wood on Mount Pelion and given by
+    Chiron to Peleus.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Peleus and Telamon are described as banished for murdering their brother Phocus.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Ulysses’ maternal ancestry is traced through Autolycus to Mercury and Chione.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Apollo is described as sending a pestilence after being offended, and Chryseis
+    is returned to Chryses to stop it.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Sarpedon is described as the son of Jupiter and Europa, king of Lycia, ally
+    of the Trojans, and slain by Patroclus.
+  category: relationship
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: Hector and Ajax meet in single combat without either conquering, then exchange
+    gifts that later prove fatal to both.
+  category: sequence
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: The Palladium is described as a hidden statue of Minerva that protects Troy
+    while it remains in Trojan possession.
+  category: object
+  evidence_refs:
+  - ev:13
+- id: obs:14
+  text: Trenches before the Greek ships are described as later destroyed by Neptune.
+  category: setting
+  evidence_refs:
+  - ev:14
+figures:
+- id: fig:1
+  name_or_label: Philoctetes
+  description: A figure in Lemnos who made clothing from bird feathers; his case is
+    contrasted with death as exile.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Nestor
+  description: A warrior wounded by Paris and nearly overtaken by Hector before Diomedes
+    rescued him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Paris
+  description: The figure who wounded Nestor.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Hector
+  description: A Trojan warrior who overtook Nestor, issued a challenge, fought Ajax,
+    and later died by being dragged with Ajax’s belt.
+  role_refs:
+  - role:3
+  - role:4
+  - role:15
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:12
+- id: fig:5
+  name_or_label: Diomedes
+  description: A Greek warrior who rescued Nestor and participated with Ulysses in
+    the Dolon and Rhesus episodes and the capture of Helenus.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Ulysses
+  description: A Greek figure described as fleeing during Nestor’s danger, being protected
+    by Ajax when wounded, killing or capturing enemies with Diomedes, and having divine
+    ancestry through his mother’s line.
+  role_refs:
+  - role:6
+  - role:7
+  - role:16
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:7
+  name_or_label: Ajax Telamon
+  description: A Greek warrior who protected Ulysses with his shield, was wished for
+    in the lot against Hector, fought Hector without a victor, and later died by Hector’s
+    sword.
+  role_refs:
+  - role:5
+  - role:4
+  - role:15
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:12
+- id: fig:8
+  name_or_label: Menelaus
+  description: A figure who requested that Ajax protect wounded Ulysses; another note
+    alludes to his loss of his wife.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:15
+- id: fig:9
+  name_or_label: Rhesus
+  description: A Thracian king who arrived at Troy and was slain by Ulysses and Diomedes.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Dolon
+  description: A spy sent by Hector, intercepted by Ulysses and Diomedes, forced to
+    disclose information, and slain.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:5
+- id: fig:11
+  name_or_label: Helenus
+  description: A son of Priam, skilled in prophecy, taken prisoner by Diomedes and
+    Ulysses, spared, married to Andromache, and later ruler in Chaonia.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+  - ev:16
+- id: fig:12
+  name_or_label: Andromache
+  description: Helenus is described as marrying her after the death of Pyrrhus.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:6
+- id: fig:13
+  name_or_label: Chiron
+  description: A centaur who gave the Pelion-wood spear to Peleus.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:7
+- id: fig:14
+  name_or_label: Peleus
+  description: Father of Achilles and recipient of Achilles’ spear from Chiron; also
+    named as banished with Telamon for the murder of Phocus.
+  role_refs:
+  - role:14
+  - role:17
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:15
+  name_or_label: Achilles
+  description: Owner of the spear from Mount Pelion; also described as concealed among
+    the daughters of Lycomedes and later associated with killing Thersites.
+  role_refs:
+  - role:18
+  evidence_refs:
+  - ev:7
+  - ev:17
+  - ev:18
+- id: fig:16
+  name_or_label: Apollo
+  description: An offended god who sent a pestilence until Chryseis was restored to
+    Chryses.
+  role_refs:
+  - role:19
+  evidence_refs:
+  - ev:10
+- id: fig:17
+  name_or_label: Chryseis
+  description: A captive restored to her father Chryses so the pestilence might be
+    stopped.
+  role_refs:
+  - role:20
+  evidence_refs:
+  - ev:10
+- id: fig:18
+  name_or_label: Chryses
+  description: Priest of Apollo and father of Chryseis.
+  role_refs:
+  - role:21
+  evidence_refs:
+  - ev:10
+- id: fig:19
+  name_or_label: Sarpedon
+  description: Son of Jupiter and Europa, king of Lycia, ally of the Trojans, and
+    slain by Patroclus.
+  role_refs:
+  - role:22
+  - role:23
+  evidence_refs:
+  - ev:11
+- id: fig:20
+  name_or_label: Jupiter
+  description: Named as father of Sarpedon by Europa.
+  role_refs:
+  - role:24
+  evidence_refs:
+  - ev:11
+- id: fig:21
+  name_or_label: Europa
+  description: Named as mother of Sarpedon by Jupiter.
+  role_refs:
+  - role:25
+  evidence_refs:
+  - ev:11
+- id: fig:22
+  name_or_label: Patroclus
+  description: The figure who slew Sarpedon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:11
+- id: fig:23
+  name_or_label: Mercury
+  description: Named as father of Autolycus by Chione in Ulysses’ maternal genealogy.
+  role_refs:
+  - role:24
+  evidence_refs:
+  - ev:9
+- id: fig:24
+  name_or_label: Autolycus
+  description: Maternal ancestor of Ulysses and son of Mercury by Chione.
+  role_refs:
+  - role:16
+  evidence_refs:
+  - ev:9
+- id: fig:25
+  name_or_label: Telamon
+  description: Father of Ajax and one of those banished for the murder of Phocus.
+  role_refs:
+  - role:17
+  evidence_refs:
+  - ev:8
+- id: fig:26
+  name_or_label: Phocus
+  description: Brother murdered by Peleus and Telamon.
+  role_refs:
+  - role:26
+  evidence_refs:
+  - ev:8
+- id: fig:27
+  name_or_label: Neptune
+  description: The god said to have destroyed the trenches and embankments before
+    the Greek ships.
+  role_refs:
+  - role:27
+  evidence_refs:
+  - ev:14
+- id: fig:28
+  name_or_label: Minerva
+  description: The deity represented by the Palladium, the hidden statue protecting
+    Troy.
+  role_refs:
+  - role:28
+  evidence_refs:
+  - ev:13
+roles:
+- id: role:1
+  label: exiled survivor
+  assigned_to:
+  - fig:1
+  basis: Philoctetes is associated with Lemnos and exile, and makes clothing from
+    feathers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wounded endangered warrior
+  assigned_to:
+  - fig:2
+  basis: Nestor is wounded and nearly overtaken before rescue.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: slayer or attacker
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:22
+  basis: Paris wounds Nestor; Hector pursues Nestor; Patroclus slays Sarpedon.
+  evidence_refs:
+  - ev:2
+  - ev:11
+- id: role:4
+  label: chosen or matched champion
+  assigned_to:
+  - fig:4
+  - fig:7
+  basis: Hector issues the challenge and later meets Ajax in single combat.
+  evidence_refs:
+  - ev:4
+  - ev:12
+- id: role:5
+  label: rescuer or protector
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: Diomedes rescues Nestor; Ajax protects wounded Ulysses with a shield.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: night-raid participant
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Ulysses and Diomedes are linked to the deaths of Rhesus and Dolon and the
+    capture of Helenus.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: wounded protected ally
+  assigned_to:
+  - fig:6
+  basis: Ulysses is protected by Ajax’s shield when wounded.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: requesting ally and bereaved husband
+  assigned_to:
+  - fig:8
+  basis: Menelaus requests protection for Ulysses, and another note alludes to his
+    loss of his wife.
+  evidence_refs:
+  - ev:3
+  - ev:15
+- id: role:9
+  label: slain enemy figure
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: Rhesus and Dolon are both described as slain in Trojan War episodes.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: captured spy and informer
+  assigned_to:
+  - fig:10
+  basis: Dolon is sent as a spy, intercepted, and compelled to reveal camp information.
+  evidence_refs:
+  - ev:5
+- id: role:11
+  label: prophet captive spared
+  assigned_to:
+  - fig:11
+  basis: Helenus is skilled in prophecy, captured, and spared.
+  evidence_refs:
+  - ev:6
+- id: role:12
+  label: marriage partner in succession note
+  assigned_to:
+  - fig:12
+  basis: Andromache is named as Helenus’ wife before his succession in Chaonia.
+  evidence_refs:
+  - ev:6
+- id: role:13
+  label: centaur weapon giver
+  assigned_to:
+  - fig:13
+  basis: Chiron gives the Pelion-wood spear to Peleus.
+  evidence_refs:
+  - ev:7
+- id: role:14
+  label: weapon recipient and heroic father
+  assigned_to:
+  - fig:14
+  basis: Peleus receives the spear and is father of Achilles.
+  evidence_refs:
+  - ev:7
+- id: role:15
+  label: fatal gift exchanger
+  assigned_to:
+  - fig:4
+  - fig:7
+  basis: Hector and Ajax exchange gifts that become fatal to both.
+  evidence_refs:
+  - ev:12
+- id: role:16
+  label: figure in divine ancestry
+  assigned_to:
+  - fig:6
+  - fig:24
+  basis: Ulysses’ maternal ancestry is traced through Autolycus to Mercury.
+  evidence_refs:
+  - ev:9
+- id: role:17
+  label: banished kin-slayer
+  assigned_to:
+  - fig:14
+  - fig:25
+  basis: Peleus and Telamon are banished for the murder of Phocus.
+  evidence_refs:
+  - ev:8
+- id: role:18
+  label: heroic weapon owner and concealed youth
+  assigned_to:
+  - fig:15
+  basis: Achilles owns the spear and is said to have been discovered while concealed
+    among Lycomedes’ daughters.
+  evidence_refs:
+  - ev:7
+  - ev:17
+- id: role:19
+  label: offended plague-sending god
+  assigned_to:
+  - fig:16
+  basis: Apollo sends pestilence after being offended.
+  evidence_refs:
+  - ev:10
+- id: role:20
+  label: returned captive daughter
+  assigned_to:
+  - fig:17
+  basis: Chryseis is restored to her father to stop the pestilence.
+  evidence_refs:
+  - ev:10
+- id: role:21
+  label: priestly father
+  assigned_to:
+  - fig:18
+  basis: Chryses is named as priest of Apollo and father of Chryseis.
+  evidence_refs:
+  - ev:10
+- id: role:22
+  label: divine child
+  assigned_to:
+  - fig:19
+  basis: Sarpedon is named as son of Jupiter and Europa.
+  evidence_refs:
+  - ev:11
+- id: role:23
+  label: slain allied king
+  assigned_to:
+  - fig:19
+  basis: Sarpedon is king of Lycia, aids the Trojans, and is slain by Patroclus.
+  evidence_refs:
+  - ev:11
+- id: role:24
+  label: divine father
+  assigned_to:
+  - fig:20
+  - fig:23
+  basis: Jupiter fathers Sarpedon; Mercury fathers Autolycus.
+  evidence_refs:
+  - ev:9
+  - ev:11
+- id: role:25
+  label: mother of divine child
+  assigned_to:
+  - fig:21
+  basis: Europa is named as Sarpedon’s mother by Jupiter.
+  evidence_refs:
+  - ev:11
+- id: role:26
+  label: murdered brother
+  assigned_to:
+  - fig:26
+  basis: Phocus is the brother murdered by Peleus and Telamon.
+  evidence_refs:
+  - ev:8
+- id: role:27
+  label: destroyer of defenses
+  assigned_to:
+  - fig:27
+  basis: Neptune is said to destroy the trenches and embankments before the ships.
+  evidence_refs:
+  - ev:14
+- id: role:28
+  label: deity represented by protective statue
+  assigned_to:
+  - fig:28
+  basis: The Palladium is the statue of Minerva protecting Troy.
+  evidence_refs:
+  - ev:13
+symbols:
+- id: sym:1
+  label: bird-feather clothing
+  literal_form: clothing made from feathers of birds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: protective shield
+  literal_form: Ajax’s shield covering wounded Ulysses
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Pelion-wood spear
+  literal_form: spear of Achilles cut from wood on Mount Pelion and given by Chiron
+    to Peleus
+  associated_figures:
+  - fig:13
+  - fig:14
+  - fig:15
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: divine pestilence
+  literal_form: pestilence sent by offended Apollo
+  associated_figures:
+  - fig:16
+  - fig:17
+  - fig:18
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:5
+  label: fatal exchanged gifts
+  literal_form: Hector’s belt received from Ajax and Ajax’s sword received from Hector
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:6
+  label: Palladium
+  literal_form: hidden statue of Minerva guarding Troy while held by the Trojans
+  associated_figures:
+  - fig:28
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+- id: sym:7
+  label: trenches and embankments before ships
+  literal_form: defensive trenches and embankments before the Greek ships
+  associated_figures:
+  - fig:27
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:14
+scenes:
+- id: scene:1
+  label: Philoctetes’ Lemnian survival
+  summary: Philoctetes is described as surviving in Lemnos and making clothing from
+    bird feathers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Battlefield rescue and shield protection
+  summary: Nestor is wounded and endangered until Diomedes rescues him, while Ajax
+    separately protects wounded Ulysses with a shield.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Lot for Hector’s challenge
+  summary: Greek warriors draw lots to determine who will accept Hector’s challenge.
+  figure_refs:
+  - fig:4
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Dolon and Rhesus night-raid episode
+  summary: Dolon is intercepted and forced to reveal information, and Rhesus is slain
+    soon after his arrival.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Helenus as prophetic captive and later ruler
+  summary: Helenus is captured by Diomedes and Ulysses, spared because of his prophetic
+    skill, marries Andromache, and later rules part of Chaonia.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:11
+  - fig:12
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Heroic spear genealogy
+  summary: Achilles’ spear is traced to Mount Pelion wood and to Chiron’s gift to
+    Peleus.
+  figure_refs:
+  - fig:13
+  - fig:14
+  - fig:15
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Apollo’s pestilence and restoration of Chryseis
+  summary: Apollo sends pestilence after being offended, and Chryseis is returned
+    to Chryses to stop it.
+  figure_refs:
+  - fig:16
+  - fig:17
+  - fig:18
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:10
+- id: scene:8
+  label: Fatal exchange of Hector and Ajax
+  summary: Hector and Ajax fight without a victor, exchange gifts, and those gifts
+    later become instruments of death.
+  figure_refs:
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:12
+- id: scene:9
+  label: Palladium as Troy’s guardian
+  summary: The Palladium, a hidden statue of Minerva, is described as ensuring Troy’s
+    safety while it remains in Trojan possession.
+  figure_refs:
+  - fig:28
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:13
+- id: scene:10
+  label: Neptune destroys the ship defenses
+  summary: The trenches and embankments before the Greek ships are said to be destroyed
+    later by Neptune.
+  figure_refs:
+  - fig:27
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:14
+candidate_motifs:
+- id: motif:1
+  label: exile survival through improvised animal-derived clothing
+  taxonomy_refs: []
+  basis: Philoctetes in Lemnos makes clothing from bird feathers during exile.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a note, not a full narrative episode, and gives only a
+    brief detail.
+- id: motif:2
+  label: battlefield rescue of an endangered elder or ally
+  taxonomy_refs: []
+  basis: Nestor is nearly killed but rescued by Diomedes; Ulysses is protected by
+    Ajax’s shield when wounded.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The notes summarize separate allusions and do not present a continuous
+    scene.
+- id: motif:3
+  label: heroic weapon received through a prior sacred or semi-divine giver
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Achilles’ spear comes from Mount Pelion wood and was given by the centaur
+    Chiron to Peleus.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage states the gift but does not elaborate a ritual or contractual
+    exchange.
+- id: motif:4
+  label: divine parentage in heroic genealogy
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Sarpedon is son of Jupiter and Europa; Ulysses’ maternal genealogy is traced
+    to Mercury through Autolycus.
+  evidence_refs:
+  - ev:9
+  - ev:11
+  confidence: high
+  cautions: The material is genealogical annotation rather than a birth narrative.
+- id: motif:5
+  label: offended god sends pestilence requiring restoration
+  taxonomy_refs:
+  - divine_judgment
+  basis: Apollo sends pestilence after being offended, and Chryseis is returned to
+    Chryses so the plague may stop.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The note summarizes the episode briefly and does not supply Apollo’s full
+    grievance.
+- id: motif:6
+  label: fatal gift exchange between enemy champions
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Hector and Ajax exchange gifts after inconclusive combat; Hector is later
+    dragged by the belt he received and Ajax kills himself with Hector’s sword.
+  evidence_refs:
+  - ev:12
+  confidence: high
+  cautions: The exchange is clearly stated, though the passage does not call it sacred.
+- id: motif:7
+  label: protective hidden cult statue securing a city
+  taxonomy_refs: []
+  basis: The Palladium, a hidden statue of Minerva, is said to guard Troy’s safety
+    while possessed by the Trojans.
+  evidence_refs:
+  - ev:13
+  confidence: high
+  cautions: The note does not narrate the statue’s theft or removal, only its protective
+    function.
+- id: motif:8
+  label: prophetic captive spared and later enthroned
+  taxonomy_refs:
+  - wisdom
+  - royal_legitimacy
+  basis: Helenus is skilled in prophecy, captured, spared, married to Andromache,
+    and later succeeds to a Chaonian throne.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The succession is reported in a compressed note and is not framed as a
+    legitimacy ritual.
+comparison_claims:
+- id: claim:1
+  claim: The notes explicitly connect several alluded Trojan War episodes to Homeric
+    Iliad material, including Nestor’s danger, the Dolon and Rhesus episode, and Hector’s
+    challenge or combat with Ajax.
+  claim_level: same_motif
+  target: Homeric Iliad Trojan War episodes
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:12
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is based on editorial notes citing Homeric passages;
+    the Ovidian narrative lines themselves are not included in this passage excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8965-8972; footnotes 12-13
+  quote_or_summary: Attius is cited for Philoctetes in Lemnos making clothing from
+    bird feathers; the note contrasts Philoctetes’ exile with Palamedes’ death.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8974-8982; footnotes 14-15
+  quote_or_summary: Nestor is wounded by Paris and overtaken by Hector; Diomedes rescues
+    him while Ulysses flees; the note refers to Homeric words given to Diomedes.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8984-8986; footnote 16
+  quote_or_summary: Ajax, at Menelaus’ request, protected wounded Ulysses with his
+    shield.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8988-8992; footnote 17
+  quote_or_summary: Greek warriors drew lots to decide who should accept Hector’s
+    challenge; Homer says the Greeks wished the lot to fall to Ajax Telamon, Ajax
+    Oileus, or Agamemnon.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8994-9004 and 9065-9069; footnotes 18, 19, 35
+  quote_or_summary: Rhesus is slain by Ulysses and Diomedes on the night of his arrival;
+    Dolon, sent by Hector as a spy, is intercepted, compelled to disclose Trojan camp
+    information and Rhesus’ arrival, and slain.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9006-9010; footnote 20
+  quote_or_summary: Helenus is skilled in prophecy; after being captured by Diomedes
+    and Ulysses, his life is saved; he marries Andromache and later succeeds to part
+    of Chaonia.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 9015-9018; footnote 22
+  quote_or_summary: Achilles’ spear was cut from wood on Mount Pelion and given by
+    the centaur Chiron to Peleus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 9023-9026; footnote 24
+  quote_or_summary: Peleus and Telamon are described as banished for murdering their
+    brother Phocus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 9028-9031; footnote 25
+  quote_or_summary: Anticlea, mother of Ulysses, is daughter of Autolycus; Mercury
+    is father of Autolycus by Chione.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 9056-9060; footnote 33
+  quote_or_summary: Ulysses was sent to restore Chryseis to Chryses, priest of Apollo,
+    so that the pestilence sent by the offended god might be stayed.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 9071-9073; footnote 36
+  quote_or_summary: Sarpedon is son of Jupiter and Europa, king of Lycia, ally of
+    the Trojans, and slain by Patroclus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 9079-9084; footnote 39
+  quote_or_summary: 'Hector and Ajax Telamon fight in single combat with neither victorious;
+    they exchange gifts fatal to both: Hector is dragged by Ajax’s belt and Ajax kills
+    himself with Hector’s sword.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: lines 9089-9091; footnote 41
+  quote_or_summary: The hidden statue is the Palladium, a statue of Minerva destined
+    to guard Troy’s safety as long as the Trojans possess it.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:14
+  type: summary
+  locator: lines 9051-9054; footnote 32
+  quote_or_summary: The note describes trenches and embankments before the Greek ships,
+    later destroyed by Neptune.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:15
+  type: summary
+  locator: lines 9044-9046; footnote 30
+  quote_or_summary: A note says an allusion is made to Menelaus’ loss of his wife.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:16
+  type: summary
+  locator: lines 9086-9087; footnote 40
+  quote_or_summary: The Dardanian prophet is identified as Helenus, son of Priam.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:17
+  type: summary
+  locator: lines 9020-9021; footnote 23
+  quote_or_summary: Achilles was discovered while concealed among the daughters of
+    Lycomedes, king of Scyros.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:18
+  type: summary
+  locator: lines 9062-9063; footnote 34
+  quote_or_summary: Thersites is described as beaten by Ulysses and later killed by
+    Achilles with a blow of his fist.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage consists of editorial footnotes summarizing mythic allusions,
+    not a continuous Ovidian narrative. Literal identifications are mostly explicit;
+    motif grouping is therefore provisional and should be reviewed against the surrounding
+    primary text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l8965-l9091
+  passage_sha256=b514a057584400ad8d1f49bfdade7a56a51e320cc1df7f8ff6df17cac643d6be
+

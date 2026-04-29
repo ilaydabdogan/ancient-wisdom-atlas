@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l602-l632
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: BOOK XIII. / BOOK XIV. / BOOK XV. / BOOK THE EIGHTH.; lines 602-632
+  start: '602'
+  end: '632'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Pasiphaë, who was the mother of the Minotaur.
+  summary: The passage consists of editorial footnotes explaining omitted narrative
+    material about Minos and Megara, geographical notes on the Syrtes and Armenia,
+    an identification of Pasiphaë as mother of the Minotaur, and variant details about
+    the transformation and identity of Ciris.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The footnote states that the poet omits the continuation of Minos' siege and
+    his storming of Megara.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Syrtes are described as two famous quicksands in the Mediterranean Sea
+    near the coast of Africa.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The inhabitants near the Syrtes are described as savage, inhospitable, and
+    as plundering shipwrecked vessels.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Armenia is described geographically as lying between Mount Taurus and the
+    Caucasian chain and extending from Cappadocia to the Caspian Sea.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Armenia's tigers are described as noted for extreme fierceness.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Pasiphaë is identified as the mother of the Minotaur.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Ciris is connected with a Greek word meaning to clip or cut.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Virgil is said to describe the transformation of Ciris into a solitary variegated
+    bird with a purple breast and reddish legs.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The footnote reports uncertainty over what kind of bird Ciris was and adds
+    that Hyginus identified the Ciris as a fish.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Minos
+  description: A figure whose siege and storming of Megara are mentioned as omitted
+    by the poet.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Inhabitants near the Syrtes
+  description: People on neighboring coasts described as savage, inhospitable, and
+    as plundering shipwrecked vessels.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Pasiphaë
+  description: Identified as the mother of the Minotaur.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Minotaur
+  description: Named as the child of Pasiphaë.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Ciris
+  description: A transformed being described in variant accounts as a bird and, according
+    to Hyginus, as a fish.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: besieger and conqueror
+  assigned_to:
+  - fig:1
+  basis: The passage mentions Minos' continuation of a siege and his storming of Megara.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: coastal plunderers
+  assigned_to:
+  - fig:2
+  basis: The inhabitants are described as plundering shipwrecked vessels.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: mother
+  assigned_to:
+  - fig:3
+  basis: Pasiphaë is identified as the mother of the Minotaur.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: child of Pasiphaë
+  assigned_to:
+  - fig:4
+  basis: The Minotaur is named in the statement identifying Pasiphaë as its mother.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: transformed being
+  assigned_to:
+  - fig:5
+  basis: The footnote refers to the transformation of Ciris and variant descriptions
+    of its resulting form.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: quicksands
+  literal_form: Syrtes, two quicksands in the Mediterranean Sea
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: mountain boundary
+  literal_form: Mount Taurus and the Caucasian chain
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: transformed bird
+  literal_form: variegated bird with a purple breast and reddish legs
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: fish variant
+  literal_form: Ciris identified as a fish in Hyginus' account
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Omitted siege of Megara
+  summary: The note reports that the poet leaves out the continuation of Minos' siege
+    and his storming of Megara.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dangerous Syrtes coast
+  summary: The note describes the Syrtes as dangerous quicksands near Africa, with
+    nearby inhabitants who plunder shipwrecked vessels.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ciris transformation traditions
+  summary: The note explains the name Ciris, refers to Virgil's description of the
+    transformation into a bird, records uncertainty about the bird's kind, and notes
+    Hyginus' fish variant.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: transformation into animal form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage explicitly refers to the transformation of Ciris and gives bird
+    and fish identifications for the transformed form.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is an editorial note and does not narrate the transformation
+    directly.
+- id: motif:2
+  label: monstrous offspring identified through mother
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Pasiphaë is identified by her maternal relation to the Minotaur.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage only states the relationship and does not describe the birth,
+    parentage beyond the mother, or divinity.
+- id: motif:3
+  label: shipwreck danger and coastal plunder
+  taxonomy_refs: []
+  basis: The Syrtes are described as dangerous quicksands, and the nearby inhabitants
+    are said to plunder shipwrecked vessels.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No available taxonomy reference directly matches this motif.
+comparison_claims:
+- id: claim:1
+  claim: The footnote links the Ciris transformation in Ovid's context with Virgil's
+    Ciris, where the transformation is described in more detail.
+  claim_level: same_motif
+  target: Virgil's Ciris transformation account
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim depends on the editorial note; the passage does not provide
+    the full Ovidian or Virgilian narrative.
+- id: claim:2
+  claim: The footnote records a variant identification of Ciris as a fish in Hyginus,
+    contrasting with bird identifications.
+  claim_level: same_motif
+  target: Hyginus' identification of Ciris as a fish
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the variant identification is summarized; no context from Hyginus
+    is supplied.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 602-604, Footnote 7
+  quote_or_summary: The poet omits the continuation of the siege by Minos and his
+    taking of Megara by storm.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 606-614, Footnote 8
+  quote_or_summary: The Syrtes are two famous quicksands in the Mediterranean near
+    Africa; nearby inhabitants are described as plundering shipwrecked vessels.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 616-623, Footnote 9
+  quote_or_summary: Armenia is located between Mount Taurus and the Caucasian chain,
+    extending from Cappadocia to the Caspian Sea; its tigers are described as extremely
+    fierce.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: lines 625-626, Footnote 10
+  quote_or_summary: "“Pasiphaë, who was the mother of the Minotaur.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 628-632, Footnote 11
+  quote_or_summary: Ciris is derived from a Greek word meaning to clip or cut; Virgil
+    describes the transformation as a variegated bird, while the note also reports
+    uncertainty over the bird type and Hyginus' fish identification.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly editorial annotation rather than primary narrative,
+    so motif extraction is limited and needs review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All extracted items are based only on the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l602-l632
+  passage_sha256=e9417781a9a220524fddc2c3d406f4ecdb6be3ae55f73200d81f909982274ec3
+

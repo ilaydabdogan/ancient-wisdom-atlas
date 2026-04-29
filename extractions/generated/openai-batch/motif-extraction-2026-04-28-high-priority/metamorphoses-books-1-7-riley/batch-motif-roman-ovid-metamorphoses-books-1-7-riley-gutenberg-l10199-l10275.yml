@@ -1,0 +1,495 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10199-l10275
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 10199-10275
+  start: '10199'
+  end: '10275'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Pandion tearfully entrusts Philomela to his son-in-law Tereus and joins
+    their hands as a pledge. During the sea voyage Tereus exults that he has obtained
+    the object of his desire. On reaching his own shore he takes Philomela to a concealed
+    dwelling in an ancient wood, imprisons and violates her. Philomela denounces him
+    and threatens to reveal the crime to people, woods, rocks, Heaven, and the gods.
+    Tereus binds her and cuts out her tongue to prevent speech. He later returns to
+    Progne, falsely reports Philomela's death, and Progne performs mourning rites
+    for an imaginary shade.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pandion entrusts Philomela to Tereus and asks him to protect her with paternal
+    love and return her quickly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pandion joins the right hands of Tereus and Philomela as a pledge of fidelity
+    before their departure.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After Philomela boards the painted ship and the land is left behind, Tereus
+    says he has gained the object of his desires.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Tereus is compared to the ravenous bird of Jupiter keeping watch over a captured
+    hare.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the voyage, Tereus drags Philomela into a lofty dwelling concealed in
+    an ancient wood and shuts her up.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Philomela is described as pale, trembling, dreading everything, and asking
+    where her sister is.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Tereus violates Philomela by force while she calls on her father, sister,
+    and the gods.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Philomela denounces Tereus for confounding family and marriage bonds and says
+    he has made her the supplanter of her sister.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Philomela threatens to declare Tereus's deeds publicly, or, if imprisoned
+    in the woods, to fill the woods and move the rocks with her complaint.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Tereus draws his sword, seizes Philomela by the hair, bends her arms behind
+    her back, and compels her to submit to chains.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Tereus cuts out Philomela's tongue while she is trying to speak and calling
+    on her father.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The severed tongue is described as quivering on the dark earth like the tail
+    of a mangled snake.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: Tereus returns to Progne and falsely tells her that Philomela is dead.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:14
+  text: Progne puts on black garments, sets up an honorary sepulchre, offers expiation
+    to an imaginary shade, and laments her sister.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Pandion
+  description: Father who entrusts Philomela to Tereus and asks for her return.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Philomela
+  description: Daughter of Pandion taken on the ship, imprisoned in the woods, violated,
+    and mutilated by Tereus.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Tereus
+  description: Pandion's son-in-law who transports Philomela, imprisons her, violates
+    her, cuts out her tongue, and deceives Progne.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Progne
+  description: Philomela's sister and Tereus's wife, who is falsely told that Philomela
+    is dead and mourns her.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Gods above / Heaven
+  description: Divine witnesses invoked by Pandion and Philomela.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: entrusting father
+  assigned_to:
+  - fig:1
+  basis: Pandion tearfully commits Philomela to Tereus's protection and asks for her
+    quick return.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: entrusted daughter
+  assigned_to:
+  - fig:2
+  basis: Philomela is given to Tereus's care with instructions to return to her father.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: imprisoned and silenced victim
+  assigned_to:
+  - fig:2
+  basis: She is shut in a concealed woodland dwelling, assaulted, chained, and has
+    her tongue cut out.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: affinal guardian
+  assigned_to:
+  - fig:3
+  basis: Tereus receives Philomela from Pandion as a son-in-law charged to protect
+    her.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: captor and violator
+  assigned_to:
+  - fig:3
+  basis: He takes Philomela away, imprisons her, violates her, and mutilates her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:6
+  label: deceiver
+  assigned_to:
+  - fig:3
+  basis: He tells Progne a fictitious story of Philomela's death.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: deceived mourner
+  assigned_to:
+  - fig:4
+  basis: Progne believes Tereus's false report and performs mourning rites for Philomela.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: invoked divine witnesses
+  assigned_to:
+  - fig:5
+  basis: Pandion appeals to the gods in entrusting Philomela, and Philomela calls
+    on Heaven and the gods to hear her complaint.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: painted ship and sea voyage
+  literal_form: painted ship, oars, sea, land left behind
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: concealed woodland dwelling
+  literal_form: lofty dwelling concealed in an ancient wood
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: right hands joined as pledge
+  literal_form: right hands of Tereus and Philomela joined by Pandion
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: ravenous bird and hare simile
+  literal_form: bird of Jupiter with crooked talons holding a hare in its nest
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: wounded lamb, wolf, and bloodied dove similes
+  literal_form: frightened lamb snatched from a wolf; dove with blood-soaked feathers
+    dreading talons
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: severed tongue like mangled snake
+  literal_form: cut-out tongue quivering on black earth like the tail of a mangled
+    snake
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: imaginary sepulchre and shade
+  literal_form: honorary sepulchre and imaginary shade for Philomela
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Pandion's farewell and pledge
+  summary: Pandion tearfully entrusts Philomela to Tereus, asks for her protection
+    and return, joins their hands, and sends greetings to his absent daughter and
+    grandson.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Voyage and predatory desire
+  summary: Philomela is taken aboard a ship; once the land is behind them, Tereus
+    exults that he has obtained the object of his desire and is likened to a predatory
+    bird watching a captive hare.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Concealed imprisonment and violation
+  summary: On his own shore Tereus takes Philomela into a hidden dwelling in an ancient
+    wood, shuts her up, and violates her as she calls on her family and the gods.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Philomela's denunciation and threat to testify
+  summary: Philomela denounces Tereus for violating kinship and marriage bonds and
+    declares that she will reveal the crime to people or to the woods, rocks, Heaven,
+    and the gods.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Mutilation and enforced silence
+  summary: Tereus binds Philomela and cuts out her tongue; the tongue is described
+    as quivering on the dark ground like a mangled snake's tail.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: False death report and mourning rites
+  summary: Tereus returns to Progne, falsely reports Philomela's death, and Progne
+    puts on mourning garments, erects a sepulchre, offers expiation, and laments her
+    sister.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: entrusted woman abducted by her guardian
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Philomela is entrusted by her father to Tereus, but he treats her as the
+    object of his desire, carries her away, imprisons her, and violates her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy label is approximate because the passage emphasizes predatory
+    abduction and violation rather than reciprocal beloved status.
+- id: motif:2
+  label: silencing of a witness through mutilation
+  taxonomy_refs: []
+  basis: After Philomela threatens to reveal the crime, Tereus binds her and cuts
+    out her tongue to prevent speech.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly names this motif.
+- id: motif:3
+  label: false death report leading to mistaken mourning rites
+  taxonomy_refs: []
+  basis: Tereus tells Progne that Philomela has died, and Progne mourns, erects a
+    sepulchre, and offers rites for an imaginary shade.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level narrative pattern without a supplied taxonomy
+    reference.
+- id: motif:4
+  label: appeal to divine witnesses for future satisfaction
+  taxonomy_refs:
+  - divine_judgment
+  basis: Philomela invokes Heaven and the gods and declares that Tereus will one day
+    give satisfaction if the gods behold these things.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage contains an appeal and expectation of satisfaction, but no
+    divine judgment is enacted within this passage.
+- id: motif:5
+  label: predator-prey imagery for captive victim
+  taxonomy_refs: []
+  basis: Tereus and Philomela are described through images of a bird holding a hare,
+    a wolf and lamb, a bloodied dove, and a mangled snake-like tongue.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is an imagery pattern rather than a narrative event motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10199-10218
+  quote_or_summary: Pandion tearfully commits Philomela to Tereus, asks him to protect
+    her and return her soon, joins their right hands as a pledge, and says farewell
+    with foreboding.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10218-10228
+  quote_or_summary: After Philomela is placed on the painted ship and the land is
+    left behind, Tereus exults that the object of his desires is with him and is compared
+    to Jupiter's bird holding a hare in its nest.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10228-10240
+  quote_or_summary: At his own shore Tereus drags Philomela into a lofty dwelling
+    hidden in an ancient wood, shuts her up, violates her by force, and she calls
+    on her father, sister, and the gods; similes compare her to a lamb and dove escaping
+    predators.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10240-10259
+  quote_or_summary: Philomela denounces Tereus, says he has made her the supplanter
+    of her sister and husband of both, wishes for death before the crime, and threatens
+    to proclaim his deeds to people, woods, rocks, Heaven, and the gods.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 10260-10270
+  quote_or_summary: Tereus, angered and afraid, draws his sword, seizes Philomela,
+    binds her, cuts out her tongue as she tries to speak and calls on her father,
+    and the severed tongue quivers like a mangled snake's tail.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10271-10275
+  quote_or_summary: Tereus returns to Progne, falsely reports Philomela's death, and
+    Progne puts on black garments, erects a sepulchre, offers expiation to an imaginary
+    shade, and laments.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong from the supplied passage. Motif taxonomy mapping
+    is limited because several clear patterns in the passage do not have direct supplied
+    taxonomy labels. No comparison claims were made because the passage itself does
+    not support comparison beyond its own imagery and events.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the provided passage and metadata; no external plot continuation or later transformation episodes are included.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l10199-l10275
+  passage_sha256=a17ae4d32cbcecf20215e3bd369b7d7221b1818a51b967adf89f677c0d85b3b3
+

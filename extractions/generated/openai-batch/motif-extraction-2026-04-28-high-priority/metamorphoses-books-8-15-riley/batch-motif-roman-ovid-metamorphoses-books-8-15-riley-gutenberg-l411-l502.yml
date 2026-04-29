@@ -1,0 +1,476 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l411-l502
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: BOOK XIII. / BOOK XIV. / BOOK XV. / BOOK THE EIGHTH.; lines 411-502
+  start: '411'
+  end: '502'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces the tale of Minos besieging Megara/Alcathoë, whose
+    safety depends on a purple lock of King Nisus's hair. Nisus's daughter Scylla
+    watches the war from a resonant tower, becomes infatuated with Minos, imagines
+    offering herself as a hostage or pledge of peace, and finally resolves that the
+    purple lock of her father is the key to obtaining Minos and ending the war.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Minos begins a war against Megara/Alcathoë and lays waste surrounding coasts.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The preservation of Nisus's city depends on a purple lock of hair growing
+    among his grey hairs.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: A regal tower has vocal or resonant walls associated with the golden harp
+    of the son of Latona.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The daughter of Nisus often ascends the tower, strikes the stones, and watches
+    the fighting from there.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The daughter of Nisus closely observes Minos's face, weapons, clothing, horse,
+    and martial actions.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The daughter of Nisus speaks of wishing to fly to Minos's camp and ask what
+    dowry he would require, while initially excluding her father's city from that
+    price.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: She later decides to deliver up her country together with herself as a dowry
+    to Minos, in order to end the war.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: She identifies her father as the obstacle because he keeps the keys of the
+    gates and possesses the purple lock she wants.
+  category: relationship
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:9
+  text: The introductory summary states that Scylla cuts off the fatal lock, gives
+    it to Minos, is rejected by him, throws herself into the sea, and is transformed
+    into a bird after Nisus attacks her as a sea eagle.
+  category: sequence
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Minos
+  description: The Cretan/Gnossian king and son of Europa, leading the siege and admired
+    by Scylla.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Nisus
+  description: King of the city under siege, father of Scylla, and bearer of the purple
+    lock that safeguards his kingdom.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Scylla / daughter of Nisus
+  description: Nisus's daughter, who watches the war, falls in love with Minos, desires
+    the purple lock, and is summarized as cutting it off and giving it to Minos.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Son of Latona
+  description: A divine figure reported to have laid his golden harp on the tower
+    wall, causing its sound to adhere to the stone.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Europa
+  description: Named as Minos's mother in Scylla's speech about Minos's beauty.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Jupiter
+  description: Named in Scylla's speech as the god inflamed with love for Europa.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: besieging war leader
+  assigned_to:
+  - fig:1
+  basis: Minos lays waste the coasts, tries his arms against the city, and is commander
+    of the enemy camp.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: city king and father
+  assigned_to:
+  - fig:2
+  basis: Nisus holds the city, has a daughter, and keeps the keys of the gates.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: enamored observer
+  assigned_to:
+  - fig:3
+  basis: Scylla watches from the tower and becomes intensely focused on Minos's appearance
+    and actions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: bearer of protective lock
+  assigned_to:
+  - fig:2
+  basis: The purple lock among Nisus's hair is described as the safeguard of his kingdom.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: desired beloved enemy
+  assigned_to:
+  - fig:1
+  basis: Scylla grieves that Minos is the enemy of one who loves him and imagines
+    joining him as hostage, companion, or pledge of peace.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: would-be betrayer of city
+  assigned_to:
+  - fig:3
+  basis: She resolves to deliver her country with herself as a dowry and seeks the
+    lock of her father.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: divine musician associated with tower
+  assigned_to:
+  - fig:4
+  basis: The son of Latona is reported to have placed his golden harp on the wall,
+    leaving sound in the stone.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: mother of Minos
+  assigned_to:
+  - fig:5
+  basis: Scylla refers to the woman who bore Minos while speaking of his beauty.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: divine lover of Europa
+  assigned_to:
+  - fig:6
+  basis: Scylla says Jupiter was inflamed with love for Europa.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: purple lock safeguarding a kingdom
+  literal_form: A purple lock of hair growing from the middle of Nisus's crown.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: sym:2
+  label: resonant tower
+  literal_form: A regal tower with vocal walls whose stones retain the sound of a
+    divine harp.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: city gates and keys
+  literal_form: Gates strengthened with brass and keys kept by Scylla's father.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: imagined wings
+  literal_form: Scylla's imagined movement on wings through the air to Minos's camp.
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: sea transformation setting
+  literal_form: The sea into which Scylla throws herself in the introductory summary.
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: fire as imagined ordeal
+  literal_form: Scylla says she could dare to go through flames and amid swords.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Siege and vulnerable city
+  summary: Minos attacks the city ruled by Nisus, whose kingdom is protected by a
+    purple lock of hair.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Observation from the resonant tower
+  summary: Scylla ascends the tower associated with divine music and watches the war
+    until she knows the enemy chiefs and their equipment.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Infatuation with Minos
+  summary: Scylla admires Minos in armor, with weapons, and on horseback, and becomes
+    unable to govern her thoughts calmly.
+  figure_refs:
+  - fig:3
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Deliberation over betrayal
+  summary: Scylla debates whether war is fortunate because it revealed Minos to her,
+    imagines joining him as a pledge of peace, and then resolves to offer herself
+    and her country as a dowry.
+  figure_refs:
+  - fig:3
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Desire for the protective lock
+  summary: Scylla identifies the purple lock of her father as the object she needs,
+    valuing it above gold because it would make her mistress of her wish.
+  figure_refs:
+  - fig:3
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Summary of betrayal, pursuit, and bird transformation
+  summary: The fable heading summarizes that Scylla cuts the fatal lock, gives it
+    to Minos, is rejected, leaps into the sea, and is transformed into the bird Ciris
+    after Nisus attacks her as a sea eagle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: protective life-token hidden in a ruler's body
+  taxonomy_refs: []
+  basis: The city's safety depends on a purple lock growing among the king's hairs,
+    making a bodily token the safeguard of the kingdom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage states the lock protects the kingdom, but does not explain
+    the origin or mechanics of its power.
+- id: motif:2
+  label: betrayal of kin and city for an enemy beloved
+  taxonomy_refs:
+  - divine_beloved
+  basis: Scylla loves Minos, the enemy of her father and city, and resolves to deliver
+    her country with herself as dowry.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: 'The taxonomy reference is only partial: Minos is genealogically connected
+    to divine figures, but in this passage he is not himself presented as a god.'
+- id: motif:3
+  label: sacred or fatal theft of a protective object
+  taxonomy_refs:
+  - sacred_theft
+  basis: The fable summary says Scylla cuts off and gives Minos the fatal lock that
+    preserves Nisus's city; the main passage shows her deciding she needs that lock.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: medium
+  cautions: The lock is described as fatal and protective, but not explicitly called
+    sacred in the passage.
+- id: motif:4
+  label: transformation after betrayal and pursuit
+  taxonomy_refs:
+  - shapeshifter
+  basis: The introductory summary states that Nisus becomes a sea eagle, attacks Scylla,
+    and she is changed into the bird Ciris.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The transformation is present in the fable summary, not in the narrated
+    portion included after it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 411-424
+  quote_or_summary: The fable summary says Minos besieges Megara; the city's preservation
+    depends on Nisus's lock; Scylla falls in love, cuts off the lock, gives it to
+    Minos, is rejected, leaps into the sea, and is transformed after Nisus attacks
+    her as a sea eagle.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 431-442
+  quote_or_summary: Minos lays waste the Lelegeian coasts and attacks Alcathoë, ruled
+    by Nisus, whose purple lock is the safeguard of his powerful kingdom.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 442-452
+  quote_or_summary: A regal tower with vocal walls is said to retain the sound of
+    the golden harp laid there by the son of Latona; Nisus's daughter often ascends
+    it and strikes the resounding stones.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 452-472
+  quote_or_summary: From the tower, Nisus's daughter watches the fighting, learns
+    the chiefs and their equipment, and especially admires Minos in helmet, shield,
+    with javelin and bow, and on a white horse.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 472-490
+  quote_or_summary: Scylla says she grieves that Minos is the enemy of the one who
+    loves him, imagines flying to his camp, and asks what dowry he would require,
+    provided he did not ask for her father's city.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 490-499
+  quote_or_summary: Scylla reasons that if the city must fall, her love rather than
+    Minos's arms should open the walls; she resolves to deliver her country with herself
+    as dowry, but notes that guards watch the approaches and her father keeps the
+    keys.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 499-502
+  quote_or_summary: '"I {only} want the lock of my father. That purple lock is more
+    precious to me than gold; it will make me happy, and mistress of my own wish."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction relies only on the supplied passage. Motif labels are candidates
+    and need human review, especially where the available taxonomy only partially
+    fits the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself make an explicit comparison to another tradition or motif family beyond the candidate motif patterns extracted from the narrative.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l411-l502
+  passage_sha256=6cddff19d1f2c3033d97b68eaf12ab527c1facb169e3ea4a812f20b3e3372e4e
+

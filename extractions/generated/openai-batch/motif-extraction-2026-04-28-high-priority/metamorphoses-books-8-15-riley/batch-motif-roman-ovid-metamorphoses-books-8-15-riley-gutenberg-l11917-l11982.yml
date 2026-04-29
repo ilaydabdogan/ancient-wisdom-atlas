@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11917-l11982
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 11917-11982
+  start: '11917'
+  end: '11982'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Hersilia ascends the hill of Romulus with the virgin daughter of Thaumas.
+    A star falls from the sky to earth, sets Hersilia's hair ablaze, and she ascends
+    with the star to the sky. The founder of Rome receives her, changes her body and
+    former name, calls her Ora, and she remains united to Quirmus. The remainder of
+    the passage consists of translator's footnotes explaining references to Teucer,
+    Norican fire, funeral customs, Anaxarete, a return to youthful form, Mavors, a
+    melting sling-plummet, and temple couches for deities.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hersilia goes up the hill of Romulus with the virgin daughter of Thaumas.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A star falls from the skies to the earth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The blaze from the star sets Hersilia's hair on fire.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Hersilia ascends with the star to the skies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The founder of the Roman city receives Hersilia and changes both her body
+    and her former name.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Hersilia is given the name Ora and is described as a goddess united to Quirmus.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A footnote says Teucer was banished by Telamon after the Trojan war and founded
+    Salamis in Cyprus.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A footnote describes Greek and Roman customs for relatives walking with a
+    corpse to a tomb or funeral pile.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A footnote says ancient writers believed a sling-thrown leaden plummet could
+    become red hot and even melt away from rapid motion.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A footnote describes pulvinaria as cushions or couches in temples for deities
+    and used in lectisternia festivals.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Hersilia
+  description: A woman whose hair is set on fire by a falling star and who ascends
+    to the sky; she is renamed Ora and described as a goddess.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: virgin daughter of Thaumas
+  description: A female figure who ascends the hill of Romulus with Hersilia.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: founder of the Roman city
+  description: The figure who receives Hersilia in the sky and changes her body and
+    name.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Quirmus
+  description: The figure to whom the goddess Ora is said to remain united.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Teucer
+  description: In a footnote, a returning Trojan-war figure banished by his father
+    and said to found Salamis in Cyprus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Telamon
+  description: In a footnote, Teucer's father, who banishes Teucer.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ascending transformed woman
+  assigned_to:
+  - fig:1
+  basis: Hersilia ascends with the star to the skies after her hair catches fire.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: renamed goddess
+  assigned_to:
+  - fig:1
+  basis: The passage says she is called Ora and is a goddess united to Quirmus.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: female companion on ascent to hill
+  assigned_to:
+  - fig:2
+  basis: She accompanies Hersilia up the hill of Romulus.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: receiver and transformer
+  assigned_to:
+  - fig:3
+  basis: He receives Hersilia and changes her body and former name.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: divine consort or union partner
+  assigned_to:
+  - fig:4
+  basis: Ora is described as still united to Quirmus.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: exiled founder
+  assigned_to:
+  - fig:5
+  basis: The footnote says Teucer is exiled and founds Salamis in Cyprus.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: banishing father
+  assigned_to:
+  - fig:6
+  basis: The footnote says Telamon banished Teucer.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: falling star
+  literal_form: A star falling from the skies to the earth, then accompanying Hersilia's
+    ascent.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire from star-blaze
+  literal_form: The blaze of the falling star sets Hersilia's hair on fire.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hill of Romulus
+  literal_form: The hill of Romulus, where Hersilia ascends with the virgin daughter
+    of Thaumas.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: new divine name
+  literal_form: The name Ora given to Hersilia after her ascent and reception.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: temple couches for deities
+  literal_form: Pulvinaria, cushions or couches placed in temples for the gods.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Ascent from the hill of Romulus
+  summary: Hersilia ascends the hill with the virgin daughter of Thaumas; a star falls,
+    sets her hair ablaze, and she rises with it to the sky.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reception and renaming in the sky
+  summary: The founder of Rome receives Hersilia, changes her body and name, calls
+    her Ora, and she is described as united to Quirmus.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Translator's explanatory notes
+  summary: The footnotes explain mythic and cultural references, including Teucer's
+    exile and foundation of Salamis, funeral customs, heated sling-shot, and pulvinaria.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ascent to the sky with celestial fire
+  taxonomy_refs:
+  - ascent
+  basis: Hersilia's hair is ignited by a falling star and she ascends with the star
+    to the skies.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage supports ascent clearly; broader labels such as apotheosis
+    are descriptive but not present in the supplied taxonomy.
+- id: motif:2
+  label: human figure transformed and renamed as goddess
+  taxonomy_refs: []
+  basis: The founder of the Roman city receives Hersilia, changes her body and former
+    name, calls her Ora, and the text calls Ora a goddess.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No specific supplied taxonomy reference directly names apotheosis or divine
+    renaming.
+- id: motif:3
+  label: divine union after transformation
+  taxonomy_refs: []
+  basis: After the transformation and renaming, Ora is described as still united to
+    Quirmus.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states union but does not narrate a marriage rite or describe
+    the nature of the union.
+- id: motif:4
+  label: exile followed by city foundation
+  taxonomy_refs:
+  - departure
+  basis: The footnote reports that Teucer was banished by his father, fled to Cyprus,
+    and founded Salamis.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is in a translator's explanatory footnote rather than the main narrative
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11917-11922
+  quote_or_summary: Hersilia ascends the hill of Romulus with the virgin daughter
+    of Thaumas; a falling star reaches earth, ignites Hersilia's hair, and she ascends
+    with the star to the skies.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 11922-11925
+  quote_or_summary: The founder of the Roman city receives Hersilia, changes her body
+    and name, calls her Ora, and the passage says this goddess is still united to
+    Quirmus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: Footnote 56, lines 11927-11934
+  quote_or_summary: Teucer returns after the Trojan war, is banished by Telamon for
+    not avenging Ajax, flees to Cyprus, and founds Salamis.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: Footnote 58, lines 11942-11952
+  quote_or_summary: The note describes Greek and Roman arrangements of male and female
+    relatives in funeral processions to a tomb or funeral pile.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: Footnote 62, lines 11973-11978
+  quote_or_summary: The note says ancients believed a leaden plummet from a sling
+    could grow red hot and even melt and disappear because of rapid motion.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: Footnote 63, lines 11980-11982
+  quote_or_summary: The note explains that pulvinaria were cushions or couches placed
+    in temples for the gods and used for divine images at lectisternia and in the
+    Roman Circus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main narrative of Hersilia's ascent and transformation is clear. Footnotes
+    are secondary explanatory material and were treated separately. No comparison
+    claims were made because the passage itself does not support a direct comparative
+    claim beyond local explanations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The spelling 'Quirmus' is retained from the supplied passage. No unsupported identification of the virgin daughter of Thaumas was added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l11917-l11982
+  passage_sha256=4dfc265028ae3fb8beec1943c12cd88e83f41610245bc0fbc6fcff70f94cb72f
+

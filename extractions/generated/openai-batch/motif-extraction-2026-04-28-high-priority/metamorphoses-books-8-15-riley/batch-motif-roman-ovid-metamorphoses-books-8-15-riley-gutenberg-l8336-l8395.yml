@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l8336-l8395
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / BOOK THE TWELFTH. / EXPLANATION. / EXPLANATION.; lines 8336-8395
+  start: '8336'
+  end: '8395'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After Achilles has been burned and reduced to ashes, the passage states
+    that his glory endures. His shield and arms become the subject of a dispute, with
+    the principal hopes resting on Ajax son of Telamon and the son of Laertes. Agamemnon
+    declines to decide alone and transfers judgment to the assembled Argive leaders.
+    A footnote identifies Vulcan as the god who made Achilles' armor at Thetis' request
+    and notes that fire also burned his body.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Achilles is described as burned, reduced to ashes, and able to fill only a
+    small urn, while his glory is said to fill the whole world.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same divinity is said to have armed Achilles and burned him; the footnote
+    identifies this divinity as Vulcan, who made the armor at Thetis' request, while
+    fire burned the body.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: obs:3
+  text: Achilles' shield gives occasion for war, and arms are wielded over possession
+    of arms.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Several Greek leaders are said not to claim the arms, while the hope of the
+    glory rests only with the son of Telamon and the son of Laertes.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Agamemnon avoids taking sole responsibility for the decision and orders the
+    Argive leaders to sit in the camp and judge the dispute.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Achilles, son of Peleus and grandson of Æacus
+  description: A renowned warrior, called the dread of the Phrygians and glory and
+    defence of the Pelasgian name; after death he is ashes, but his glory lives.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Vulcan
+  description: Identified in the footnote as the God of Fire who made Achilles' armor
+    at Thetis' request.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Thetis
+  description: Identified in the footnote as Achilles' mother, at whose request Vulcan
+    made the armor.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Ajax, son of Telamon
+  description: One of the two figures for whom the hope of gaining the glory of Achilles'
+    arms exists.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Son of Laërtes
+  description: One of the two figures for whom the hope of gaining the glory of Achilles'
+    arms exists.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Agamemnon, descendant of Tantalus
+  description: The leader who avoids deciding the dispute alone and refers the matter
+    to the Argive leaders.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:7
+  name_or_label: Argive leaders
+  description: The assembled leaders in the Greek camp to whom judgment of the arms
+    dispute is transferred.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: fallen hero
+  assigned_to:
+  - fig:1
+  basis: Achilles has been burned and reduced to ashes, while his heroic glory remains.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: owner of contested arms
+  assigned_to:
+  - fig:1
+  basis: His shield and arms become the cause of conflict after his death.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine maker associated with fire
+  assigned_to:
+  - fig:2
+  basis: The footnote identifies Vulcan as God of Fire and maker of Achilles' armor.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: divine mother requester
+  assigned_to:
+  - fig:3
+  basis: The footnote says the armor was made at the request of Achilles' mother,
+    Thetis.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: claimant to heroic arms
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage says the hope of so much glory exists only in the son of Telamon
+    and the son of Laërtes.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: delegating judge
+  assigned_to:
+  - fig:6
+  basis: Agamemnon removes from himself the burden and odium of deciding and transfers
+    judgment to the Argive leaders.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: collective judges
+  assigned_to:
+  - fig:7
+  basis: The Argive leaders are ordered to sit in the camp and judge the dispute.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ashes in a little urn
+  literal_form: ashes and urn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: shield and arms
+  literal_form: shield, arms, armor
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: fire
+  literal_form: burning fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: camp assembly
+  literal_form: Argive leaders sitting in the midst of the camp
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Achilles after cremation
+  summary: Achilles has been burned and is now ashes in a small urn, but his glory
+    is said to live and fill the whole world.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dispute over Achilles' arms
+  summary: Achilles' shield and arms provoke conflict; the passage narrows the contest
+    to Ajax son of Telamon and the son of Laërtes.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Agamemnon delegates judgment
+  summary: Agamemnon avoids deciding the contest alone and transfers judgment to the
+    assembled Argive leaders in the camp.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: enduring fame after heroic death
+  taxonomy_refs: []
+  basis: The passage contrasts Achilles' cremated remains with his glory, which is
+    said to fill the world.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage emphasizes fame after death rather than literal survival,
+    resurrection, or rebirth.
+- id: motif:2
+  label: contest for a dead hero's arms
+  taxonomy_refs: []
+  basis: Achilles' shield and arms become the cause of a dispute, with two principal
+    claimants identified.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage introduces the dispute but does not yet narrate its full outcome.
+- id: motif:3
+  label: judgment delegated to a warrior assembly
+  taxonomy_refs: []
+  basis: Agamemnon refuses sole responsibility and assigns the decision to the Argive
+    leaders assembled in the camp.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a procedural narrative pattern rather than a named taxonomy motif
+    in the provided list.
+- id: motif:4
+  label: divine-made equipment linked to the hero's death by fire
+  taxonomy_refs: []
+  basis: The same divine power is associated with both arming Achilles and burning
+    him; the footnote identifies Vulcan, God of Fire, as maker of the armor.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The association depends partly on the translator's explanatory footnote.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8336-8344
+  quote_or_summary: Achilles has been burned; he is now ashes that would not fill
+    a little urn, but his glory lives and can fill the whole world.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 8345-8347
+  quote_or_summary: "“Even his very shield gives occasion for war”; arms are wielded
+    for arms."
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 8347-8352
+  quote_or_summary: The son of Tydeus, Ajax son of Oïleus, the sons of Atreus, and
+    others do not claim the arms; the hope of glory rests only with the son of Telamon
+    and the son of Laërtes.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8352-8356
+  quote_or_summary: The descendant of Tantalus avoids the burden and odium of deciding,
+    orders the Argive leaders to sit in the camp, and transfers judgment of the dispute
+    to them.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: footnote 54, lines 8383-8386
+  quote_or_summary: The footnote states that Vulcan, God of Fire, made Achilles' armor
+    at Thetis' request, and that Achilles' body was burned by fire.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: footnote 56, lines 8392-8395
+  quote_or_summary: The footnote identifies Agamemnon as descendant of Tantalus and
+    says he refused to take on alone the burden of deciding the contention between
+    Ajax and Ulysses.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction relies directly on the supplied passage and translator footnotes.
+    Motif labels are descriptive because the provided taxonomy does not contain exact
+    matches for the arms-contest and delegated-judgment patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l8336-l8395
+  passage_sha256=34e3b2d95964d1255740bf7478d4ffae01f2dc0a96fda418dd1594cf11a8b8e7
+

@@ -1,0 +1,441 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l10150-l10197
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 10150-10197
+  start: '10150'
+  end: '10197'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Tereus sails to the harbor near Athens and asks his father-in-law to allow
+    Philomela to visit her sister Progne. Philomela appears richly adorned, and Tereus
+    is overcome by desire. He considers bribing her attendants and nurse, tempting
+    Philomela with gifts, or seizing her by force and defending the act by war. He
+    presses the request as if it came only from Progne, adding false tears. Philomela
+    herself begs her father to allow the visit. The father is overcome by their entreaties.
+    After a banquet and sleep, Tereus remains awake, imagining Philomela and feeding
+    his passion.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tereus orders ships launched, enters the Cecropian harbor, and lands on the
+    shores of the Piraeus.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Tereus joins right hands with his father-in-law and begins to explain his
+    reason for coming: Progne''s request and a promised speedy return of Philomela
+    if she is sent.'
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Philomela appears richly dressed and is described as surpassingly beautiful,
+    with a comparison to Naiads and Dryads if similarly adorned.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Tereus becomes inflamed at seeing Philomela, with his passion described through
+    images of fire beneath corn and burning dry leaves or grass.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Tereus desires to corrupt Philomela's attendants and nurse, tempt Philomela
+    with large gifts, spend his kingdom, or seize her and secure her by war.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Tereus urges Progne's request while pleading his own wishes, and he pretends
+    that excessive urging and tears are also Progne's wishes.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator states that Tereus is thought affectionate through his attempted
+    wrongdoing and receives praise from his crime.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Philomela embraces her father and asks, by her own safety, to visit her sister.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Tereus watches Philomela's embraces and kisses toward her father and interprets
+    them as fuel for his passion.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The father is overcome by both Tereus' and Philomela's entreaties.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A royal banquet is served with wine in golden vessels, and the household gives
+    itself to sleep.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Tereus remains sleepless, recalls Philomela's appearance and movements, imagines
+    what he has not seen, and feeds his own flames.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Tereus / the Odrysian king
+  description: A king who comes by ship to his father-in-law, requests Philomela's
+    visit under Progne's name, and secretly burns with desire for Philomela.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Philomela
+  description: A richly adorned virgin whose beauty provokes Tereus' desire; she asks
+    her father to let her visit her sister.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Philomela's father / Tereus' father-in-law
+  description: The father who receives Tereus, is embraced by Philomela, and is overcome
+    by both entreaties.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Progne
+  description: Tereus' wife and Philomela's sister, whose request for Philomela's
+    visit is invoked by Tereus; she is absent in this passage.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Philomela's attendants and nurse
+  description: Guardians or caretakers whom Tereus considers corrupting in order to
+    gain access to Philomela.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: visiting envoy and supplicant
+  assigned_to:
+  - fig:1
+  basis: Tereus arrives by ship, joins hands with his father-in-law, and makes a request
+    concerning Philomela's visit.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: concealed desirer
+  assigned_to:
+  - fig:1
+  basis: Tereus' desire for Philomela is hidden beneath the stated request and is
+    repeatedly described as burning passion.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:3
+  label: potential abductor or aggressor
+  assigned_to:
+  - fig:1
+  basis: Tereus considers seizing Philomela and securing her by cruel war.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: requested traveler
+  assigned_to:
+  - fig:2
+  basis: Philomela asks her father to allow her to visit her sister.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: object of illicit desire
+  assigned_to:
+  - fig:2
+  basis: Tereus becomes inflamed on seeing Philomela and imagines possessing her affections.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:6
+  label: granting parent and host
+  assigned_to:
+  - fig:3
+  basis: The father-in-law receives Tereus, is petitioned, and is overcome by the
+    requests.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:7
+  label: absent wife and sister whose request is invoked
+  assigned_to:
+  - fig:4
+  basis: Tereus frames his request as Progne's desire for Philomela's visit.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:8
+  label: potentially corruptible guardians
+  assigned_to:
+  - fig:5
+  basis: Tereus thinks of corrupting Philomela's attendants and nurse.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: burning passion
+  literal_form: fire, internal flame, fuel, and burning dry vegetation used as images
+    for desire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: joined right hands
+  literal_form: right hand joined to right hand at the beginning of the discourse
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: voyage by ship
+  literal_form: ships, sails, and oars carrying Tereus to the harbor
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: rich adornment
+  literal_form: costly apparel and ornaments worn by Philomela
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: golden banquet vessels
+  literal_form: wine served in golden vessels at the royal banquet
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Arrival and formal request
+  summary: Tereus arrives by ship at the Piraeus, joins hands with his father-in-law,
+    and begins asking that Philomela be sent to visit Progne with a promise of quick
+    return.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Philomela's appearance and Tereus' concealed desire
+  summary: Philomela appears richly adorned; Tereus is inflamed by her beauty and
+    begins considering bribery, gifts, seizure, and war.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Deceptive persuasion
+  summary: Tereus presses the request as if it were Progne's alone, adds tears, and
+    is taken for affectionate despite the narrator identifying his attempt as wrongdoing.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Philomela's plea and paternal consent
+  summary: Philomela embraces her father and begs to visit her sister; Tereus watches
+    her gestures as further fuel for his desire, and the father is overcome by both
+    petitions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Banquet and sleepless desire
+  summary: After a royal banquet and sleep for the household, Tereus remains awake,
+    recalling and imagining Philomela and feeding his own passion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: deceptive kinship request to obtain a woman
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Tereus uses Progne's request and a promise of quick return to obtain Philomela,
+    while secretly considering seizure and coercion.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage shows plotting and deceptive persuasion; the actual removal
+    or seizure is not completed within this line range.
+- id: motif:2
+  label: destructive desire figured as fire
+  taxonomy_refs: []
+  basis: Tereus' lust is repeatedly described with fire imagery, including burning
+    vegetation, internal flame, fuel, and feeding his own flames.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an imagery pattern within the passage rather than a separately
+    named mythic episode.
+- id: motif:3
+  label: corruption or bypassing of guardians
+  taxonomy_refs: []
+  basis: Tereus contemplates corrupting Philomela's attendants and nurse as part of
+    his pursuit.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents the intention only; no successful corruption occurs
+    here.
+- id: motif:4
+  label: false tears and praised wrongdoing
+  taxonomy_refs: []
+  basis: Tereus adds tears as if Progne ordered them and is regarded as affectionate
+    through his attempted wrongdoing.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No external comparison is asserted; the motif is limited to the deception
+    described in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10150-10155
+  quote_or_summary: Tereus launches ships, enters the Cecropian harbor, lands at the
+    Piraeus, joins right hands with his father-in-law, and begins requesting Philomela's
+    visit with a promise of speedy return.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata supplied; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 10155-10164
+  quote_or_summary: Philomela arrives richly adorned and beautiful; Tereus becomes
+    inflamed at seeing her, with fire imagery comparing his desire to burning corn,
+    leaves, and dry grass.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata supplied; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 10164-10172
+  quote_or_summary: Tereus desires to corrupt Philomela's attendants and nurse, tempt
+    her with large gifts, spend his kingdom, or seize her and secure her by cruel
+    war.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata supplied; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 10172-10180
+  quote_or_summary: Tereus impatiently presses Progne's request while pleading his
+    own wishes, pretends Progne ordered his excessive urgency and tears, and is judged
+    affectionate through his attempted wrongdoing.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata supplied; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: lines 10181-10190
+  quote_or_summary: Philomela embraces her father and begs to visit her sister; Tereus
+    watches the embraces and kisses as incentives and fuel for his passion.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata supplied; summarized rather than quoted.
+- id: ev:6
+  type: summary
+  locator: lines 10190-10197
+  quote_or_summary: The father is overcome by the entreaties; after a banquet with
+    wine in golden vessels and general sleep, Tereus stays awake, recalling and imagining
+    Philomela and feeding his own flames.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source metadata supplied; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates identify
+    local patterns and one cautious taxonomy alignment; no broader comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external figures, later events, or cross-text comparisons have been added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l10150-l10197
+  passage_sha256=b477ff87834169af40cd8e5c5cf9df8f9b5f980658133d2aa12d544ebda0f2cb
+

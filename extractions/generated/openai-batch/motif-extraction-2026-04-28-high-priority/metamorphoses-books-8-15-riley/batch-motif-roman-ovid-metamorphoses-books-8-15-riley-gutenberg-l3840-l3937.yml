@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l3840-l3937
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 3840-3937
+  start: '3840'
+  end: '3937'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After a prayerful appeal in Isis's temple, the goddess gives moving and
+    sounding signs. Iphis changes from female to male, offerings and an inscription
+    are made in the temple, and the next morning Venus, Juno, and Hymenaeus attend
+    the marriage rites as Iphis gains Ianthe.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The goddess appears to move her altars, the temple doors shake, her horns
+    shine like the moon, and the sistrum sounds.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mother leaves the temple concerned but pleased by the omen.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'Iphis follows the mother and shows physical changes: longer strides, increased
+    strength, sterner features, shorter hair, and more vigour than before.'
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that Iphis, formerly female, is now male.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Offerings are brought to the temple, and an inscription states that Iphis
+    as a male offers gifts vowed as a female.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: On the following morning, Venus, Juno, and Hymenaeus go to the marriage fires,
+    and Iphis as a youth gains Ianthe.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A footnote identifies the goddess's horns with Isis sometimes being worshipped
+    in cow form.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A footnote explains that marriage offerings were made on altars of Hymenaeus
+    and other deities guarding conjugal rites.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the Goddess / Isis
+  description: The deity in the temple whose altars move, doors shake, horns shine,
+    and sistrum sounds; a footnote connects her horns with Isis.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: the mother
+  description: The mother leaves the temple after the omen, still concerned but pleased.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Iphis
+  description: Iphis follows the mother, changes bodily from female to male, offers
+    the vowed gifts as a male, and gains Ianthe.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Ianthe
+  description: Ianthe is gained by Iphis after the transformation, in the context
+    of the marriage rites.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Venus
+  description: Venus repairs to the social fires on the following morning.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Juno
+  description: Juno repairs to the social fires on the following morning.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Hymenaeus
+  description: Hymenaeus repairs to the social fires; a footnote associates his altars
+    with marriage offerings.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: divine omen-giver and transformer
+  assigned_to:
+  - fig:1
+  basis: The goddess gives temple signs immediately before Iphis's bodily change from
+    female to male.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: concerned mother and temple supplicant
+  assigned_to:
+  - fig:2
+  basis: The mother leaves the temple after the signs, both concerned and pleased
+    by the omen.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: transformed youth
+  assigned_to:
+  - fig:3
+  basis: The passage states that Iphis, lately female, is now male, with bodily signs
+    of the change.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: vow-fulfiller
+  assigned_to:
+  - fig:3
+  basis: Iphis offers gifts as a male that had been vowed as a female.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: marriage partner
+  assigned_to:
+  - fig:4
+  basis: The passage states that Iphis gains Ianthe after the gods come to the social
+    fires.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: marriage rite deity
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Venus, Juno, and Hymenaeus attend the social fires, and the footnote explains
+    offerings to deities guarding conjugal rites.
+  evidence_refs:
+  - ev:6
+  - ev:8
+symbols:
+- id: sym:1
+  label: shining horns
+  literal_form: The goddess's horns shine, resembling the moon; the footnote connects
+    the horns with Isis in cow form.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:2
+  label: sistrum
+  literal_form: A tinkling sistrum sounds during the goddess's temple sign.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: temple altars and doors
+  literal_form: The goddess's altars seem to move, and the temple doors shake.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: vowed offerings
+  literal_form: Offerings are brought to the temple after the transformation.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: inscription of transformed identity
+  literal_form: An inscription says that Iphis, a male, offers the presents which
+    he had vowed as a female.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: social fires
+  literal_form: Marriage fires attended by Venus, Juno, and Hymenaeus on the following
+    morning.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Temple omen and bodily transformation
+  summary: In the temple, the goddess gives signs through moving altars, shaking doors,
+    shining horns, and the sistrum; Iphis then shows bodily changes and is declared
+    male.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Offering and inscription
+  summary: Offerings are brought to the temple, and an inscription records that Iphis
+    as male fulfills gifts vowed as female.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Marriage rites after transformation
+  summary: The next morning, Venus, Juno, and Hymenaeus attend the social fires, and
+    Iphis as a youth gains Ianthe.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Divinely caused transformation from female to male
+  taxonomy_refs:
+  - shapeshifter
+  basis: The goddess's omen is followed by Iphis's physical change and the explicit
+    statement that Iphis is now male after having been female.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy term 'shapeshifter' is broader than the passage's specific
+    divine sex transformation; Iphis does not initiate the change independently.
+- id: motif:2
+  label: Vow fulfilled after divine intervention
+  taxonomy_refs:
+  - sacred_exchange
+  basis: After the transformation, offerings are made in the temple, and the inscription
+    states that Iphis offers gifts vowed before the change.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage records vow and offering, but the exact terms of the prior
+    vow are outside this line range.
+- id: motif:3
+  label: Marriage enabled by divine transformation
+  taxonomy_refs:
+  - sacred_marriage
+  basis: After Iphis is transformed, marriage deities attend the social fires, and
+    Iphis gains Ianthe.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  confidence: low
+  cautions: The marriage is human rather than a marriage between deities; 'sacred_marriage'
+    is used only cautiously because deities preside over the rites.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3840-3844
+  quote_or_summary: The goddess moves or seems to move her altars; the temple doors
+    shake; her moonlike horns shine; the sistrum sounds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3844-3846
+  quote_or_summary: The mother leaves the temple, not free from concern but pleased
+    by the auspicious omen.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3846-3851
+  quote_or_summary: Iphis follows with longer strides; facial fairness changes; strength
+    increases; features become sterner; hair is shorter; vigour increases.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 3851-3852
+  quote_or_summary: "“now thou art a male, who so lately wast a female.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 3852-3857
+  quote_or_summary: Offerings are brought to the temple, and an inscription says that
+    Iphis as a male offers the presents vowed as a female.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3858-3861
+  quote_or_summary: The next morning, Venus, Juno, and Hymenaeus repair to the social
+    fires, and Iphis as a youth gains Ianthe.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: Footnote 79
+  quote_or_summary: The note explains that Isis was sometimes worshipped under cow
+    form, accounting for the horns.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: Footnote 80
+  quote_or_summary: The note explains that on marriages, offerings were made on the
+    altars of Hymenaeus and other deities guarding conjugal rites.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal event sequence is clear in the passage. Motif taxonomy alignment
+    is cautious because available motif families are broader than the specific Iphis
+    transformation episode. No comparison claims are made beyond the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and footnotes were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l3840-l3937
+  passage_sha256=06d4cc81c794f4caaef9d75b0fa90b7ea714d1e5f43ff266e50d3cc57fcb4ec8
+

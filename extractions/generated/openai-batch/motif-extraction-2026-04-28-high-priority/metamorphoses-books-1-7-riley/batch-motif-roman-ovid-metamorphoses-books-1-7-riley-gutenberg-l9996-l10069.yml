@@ -1,0 +1,523 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9996-l10069
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: BOOK THE SIXTH. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 9996-10069
+  start: '9996'
+  end: '10069'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains a prior story as possibly a satire or an origin story
+    for frogs, then recounts Marsyas challenging Apollo on the flute, being defeated
+    and flayed alive, and the tears of his mourners becoming the river Marsyas. It
+    also notes Pelops mourning Niobe and revealing an ivory shoulder inserted after
+    the gods reassembled his dismembered body.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The explanation says the preceding story may have been based on a tradition
+    about Latona’s cruel treatment by country clowns, may have been satire on peasant
+    manners, or may explain the origin of frogs.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Marsyas challenged Apollo to a trial of skill on the flute and was overcome.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Apollo punished Marsyas by flaying him alive.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Marsyas cries out in regret and says the flute was not worth such punishment.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage describes Marsyas’s exposed body after his skin is stripped off.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Country inhabitants, Fauns, Satyrs, Olympus, Nymphs, and mountain herdsmen
+    lament Marsyas.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The earth receives the falling tears, turns them into a stream, and sends
+    them forth as the river Marsyas in Phrygia.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Pelops mourns for Niobe and reveals ivory on his left shoulder.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Pelops’s shoulder was originally flesh-colored, but after his father cut his
+    limbs apart, the gods rejoined the limbs and inserted ivory where the shoulder
+    part was missing.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: A footnote says Apollo was said to have fastened Marsyas to a pine-tree or
+    plane-tree, and that Marsyas’s skin was later suspended in Celenæ.
+  category: other
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: A footnote says Herodotus tells the story of Marsyas under the name Silenus,
+    and Hyginus says Apollo hewed Marsyas to pieces.
+  category: other
+  evidence_refs:
+  - ev:10
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Marsyas
+  description: A Satyr who challenged Apollo on the flute, was defeated, flayed, mourned,
+    and gave his name to a river formed from tears.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Apollo / son of Latona
+  description: The god who overcame Marsyas in flute-playing and punished him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Fauns, Satyrs, Olympus, Nymphs, and other mourners
+  description: Country and woodland beings, including Marsyas’s brothers and mountain
+    herdsmen, who lament Marsyas.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Fruitful earth
+  description: The earth receives the tears shed for Marsyas, drinks them in, turns
+    them into a stream, and sends it forth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Pelops
+  description: Niobe’s brother, said to mourn her and to have an ivory left shoulder
+    inserted after his dismembered limbs were rejoined.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: The gods
+  description: They rejoined Pelops’s dismembered limbs and inserted ivory where a
+    shoulder part was missing.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Pelops’s father
+  description: The figure whose hands cut Pelops’s limbs asunder, according to the
+    passage.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Latona
+  description: Mentioned in the explanation as having possibly suffered cruel treatment
+    from country clowns in a prior story; also identified as Apollo’s mother by the
+    phrase son of Latona.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: Defeated challenger
+  assigned_to:
+  - fig:1
+  basis: Marsyas challenged Apollo in flute-playing and was overcome.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Punished victim
+  assigned_to:
+  - fig:1
+  basis: Marsyas is flayed after his defeat and speaks in regret during the punishment.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Victorious divine punisher
+  assigned_to:
+  - fig:2
+  basis: Apollo defeats Marsyas and punishes him by flaying.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: Mourners
+  assigned_to:
+  - fig:3
+  basis: The listed country and woodland figures lament Marsyas.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Transformer of tears into river
+  assigned_to:
+  - fig:4
+  basis: The earth receives tears, turns them into a stream, and sends forth the river
+    Marsyas.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Mourning kinsman
+  assigned_to:
+  - fig:5
+  basis: Pelops alone is said to mourn for Niobe as well.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: Reassembled body with ivory replacement
+  assigned_to:
+  - fig:5
+  basis: Pelops’s limbs were rejoined and ivory was inserted in place of the missing
+    shoulder part.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: Restorers of dismembered body
+  assigned_to:
+  - fig:6
+  basis: The gods are said to have joined Pelops’s limbs after they were cut apart.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: Dismembering father
+  assigned_to:
+  - fig:7
+  basis: Pelops’s limbs are said to have been cut asunder by his father’s hands.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Flute
+  literal_form: Tritonian reed / flute
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Flayed skin
+  literal_form: Marsyas’s skin stripped from his limbs
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+- id: sym:3
+  label: Tears becoming watercourse
+  literal_form: Tears received by earth and turned into a stream and river
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: River Marsyas
+  literal_form: A river in Phrygia bearing Marsyas’s name
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Ivory shoulder
+  literal_form: Ivory inserted in Pelops’s left shoulder in place of a missing bodily
+    part
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: Pine-tree or plane-tree
+  literal_form: Tree to which Apollo was said to have fastened Marsyas in a footnote
+    variant
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Marsyas defeated and flayed
+  summary: Marsyas challenges Apollo on the flute, loses, protests that the flute
+    was not worth the cost, and is flayed alive.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Mourning tears become the river Marsyas
+  summary: Woodland and country figures mourn Marsyas; the earth receives their tears
+    and turns them into a stream that becomes the river Marsyas in Phrygia.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Pelops reveals his ivory shoulder
+  summary: Pelops mourns for Niobe, draws aside his clothing, and reveals an ivory
+    left shoulder inserted after the gods restored his dismembered body.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Explanatory note on prior frog origin story
+  summary: The explanation offers possible origins for a previous Latona story, including
+    satire on peasants and an aetiology for frogs.
+  figure_refs:
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Divine punishment for presumptuous musical challenge
+  taxonomy_refs:
+  - divine_judgment
+  basis: A satyr challenges Apollo in flute-playing, is defeated, and receives severe
+    divine punishment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage frames the punishment as for presumption in the fable heading,
+    but does not elaborate a general moral beyond the action.
+- id: motif:2
+  label: Tears transformed into named river
+  taxonomy_refs: []
+  basis: The mourners’ tears are received by the earth, transformed into a stream,
+    and identified as the river Marsyas.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy family directly names river aetiology; water is
+    recorded at symbol level.
+- id: motif:3
+  label: Dismembered body restored with non-flesh replacement
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: Pelops’s limbs, cut apart by his father, are rejoined by the gods, with ivory
+    inserted for the missing shoulder part so that he is made entire.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage describes bodily restoration but does not explicitly narrate
+    Pelops’s death or return to life in this excerpt.
+- id: motif:4
+  label: Poetic explanation for animal origin
+  taxonomy_refs: []
+  basis: The explanation says a prior story may have been framed to account poetically
+    for the origin of frogs.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This motif refers to the explanatory note for the preceding story rather
+    than the Marsyas fable itself.
+comparison_claims:
+- id: claim:1
+  claim: The footnote reports that Herodotus tells the Marsyas story under the name
+    Silenus, indicating a related version of the same story-pattern in another ancient
+    source.
+  claim_level: same_motif
+  target: Herodotus version of the Marsyas/Silenus story
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief footnote notice and does not quote or
+    summarize Herodotus’s version in detail.
+- id: claim:2
+  claim: The footnote reports a Hyginus variant in which Apollo hews Marsyas to pieces,
+    showing a related punitive dismemberment variant of the Marsyas episode.
+  claim_level: same_motif
+  target: Hyginus version of Apollo and Marsyas
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only the variant detail and does not supply a
+    full parallel narrative.
+- id: claim:3
+  claim: The footnote’s pine-tree or plane-tree attachment is visually similar to
+    the main episode’s flaying of Marsyas, adding a tree-bound variant image to the
+    same punishment scene.
+  claim_level: visual_similarity
+  target: Tree-bound flaying image of Marsyas
+  evidence_refs:
+  - ev:3
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is confined to the footnote’s variant object and the
+    main scene’s punishment; no broader historical claim is made.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9996-1003
+  quote_or_summary: The explanation says the Latona story may come from a tradition
+    about cruel treatment by country clowns, from satire on peasantry, or from a poetic
+    account of the origin of frogs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1005-1014
+  quote_or_summary: The fable heading and opening narration state that the Satyr Marsyas
+    challenged Apollo on the flute, was overcome, and was punished by the son of Latona.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 1014-1018
+  quote_or_summary: "“the flute is not of so much value!” As he shrieked aloud, his
+    skin was stript off from the surface of his limbs"
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 1018-1023
+  quote_or_summary: Marsyas is described as one entire wound, with blood flowing,
+    exposed nerves, throbbing veins, and visible internal organs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1023-1028
+  quote_or_summary: Country inhabitants, Fauns, woodland deities, Marsyas’s Satyr
+    brothers, Olympus, Nymphs, and mountain herdsmen lament him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1029-1034
+  quote_or_summary: The fruitful earth receives the falling tears, turns them into
+    a stream, and sends them forth as the clear Phrygian river named Marsyas.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 1035-1040
+  quote_or_summary: After the people return to present events and mourn Amphion’s
+    line, Pelops alone is said to mourn for Niobe and reveals ivory on his left shoulder.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 1040-1048
+  quote_or_summary: Pelops’s shoulder had once been flesh; the gods later rejoined
+    the limbs cut apart by his father, found one shoulder part missing, inserted ivory,
+    and made him entire.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 1054-1062
+  quote_or_summary: A footnote says Apollo fastened Marsyas to a pine-tree or, according
+    to Pliny, a plane-tree, and that the skin was later suspended in Celenæ.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 1050-1053
+  quote_or_summary: A footnote says Herodotus tells the story of Marsyas under the
+    name Silenus and that Fulgentius describes Marsyas in paintings with a pig’s tail.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 1062-1067
+  quote_or_summary: A footnote says Hyginus reports that Apollo hewed Marsyas to pieces,
+    and comments on the graphic description of the flaying.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The Marsyas and Pelops episodes are explicit in the supplied passage. Motif
+    taxonomy alignment is partly interpretive, especially for Pelops and for the prior
+    frog-origin explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line locators follow the supplied range approximately within the passage text. No external sources were used beyond the passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l9996-l10069
+  passage_sha256=7b393b78251ae45af1cbaee3f71f11cef79285c8b801ac4ab24587ab7670c3ae
+

@@ -1,0 +1,373 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l5476-l5534
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 5476-5534
+  start: '5476'
+  end: '5534'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of explanatory footnotes on Roman curtains and race-course
+    counting eggs; genealogical notes concerning Neptune, Onchestius, Megareus or
+    Macareus, and Hippomenes; brief notes on Tamaseus, theatre seating, Cybele’s turreted
+    crown and lion-drawn chariot, anatomical terminology in a metamorphosis, and Pliny’s
+    remark on lions’ tails as signs of temper.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ancient curtains or hangings were used in halls, sitting rooms, bed chambers,
+    over doors, windows, and in temples to veil a divinity’s statue.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Roman circus races are described as consisting of seven rounds, counted by
+    seven egg-shaped objects called ova placed on or removed from the spina.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The egg form of the ova is explained as honoring Castor and Pollux, who were
+    said to have been produced from eggs.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A genealogical note says Hyginus identifies Neptune as the father of Megareus,
+    or Macareus, and says Hippomenes was fourth from Neptune inclusively through Onchestius.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Onchestius is said to have founded a Boeotian city named for him in honor
+    of Neptune, who had a temple there.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cybele, described as Goddess of the Earth, is said to have been usually represented
+    crowned with turrets and drawn in a chariot by lions.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Pliny the Elder is cited for the claim that a lion’s temper is signified by
+    its tail.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Castor and Pollux
+  description: A pair said to have been produced from eggs and honored by egg-shaped
+    race markers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Neptune
+  description: A deity described as father of Onchestius and, in Hyginus, father of
+    Megareus or Macareus; honored by a temple at Onchestius’s city.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Megareus or Macareus
+  description: A figure said by Hyginus or a scholiast to be a son of Neptune; Pausanias
+    says Megareus aided Nisus against Minos and was slain in that war.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Onchestius
+  description: A figure described as son of Neptune and founder of a Boeotian city
+    named for himself in honor of Neptune.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Hippomenes
+  description: A figure described as fourth from Neptune inclusively.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Cybele
+  description: Goddess of the Earth, represented with a turreted crown and a lion-drawn
+    chariot.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Lions
+  description: Animals drawing Cybele’s chariot; Pliny says their temper is shown
+    by the tail.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: egg-born twin pair
+  assigned_to:
+  - fig:1
+  basis: The note says Castor and Pollux were said to have been produced from eggs.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: divine father
+  assigned_to:
+  - fig:2
+  basis: The note identifies Neptune as father of Onchestius and, in Hyginus, father
+    of Megareus or Macareus.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: honored deity
+  assigned_to:
+  - fig:2
+  basis: Onchestius is said to have founded a city in honor of Neptune, who had a
+    temple there.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine descendant
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Megareus or Macareus and Onchestius are both described in relation to Neptune
+    as father.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: city founder
+  assigned_to:
+  - fig:4
+  basis: The note says Onchestius founded a city of that name in Boeotia.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: remote descendant of Neptune
+  assigned_to:
+  - fig:5
+  basis: The note says Hippomenes was the fourth from Neptune inclusively.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: earth goddess in iconic chariot representation
+  assigned_to:
+  - fig:6
+  basis: Cybele is described as Goddess of the Earth, crowned with turrets, and drawn
+    in a chariot by lions.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: chariot-drawing animals
+  assigned_to:
+  - fig:7
+  basis: The note says Cybele was represented as drawn in a chariot by lions.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: egg-shaped race markers
+  literal_form: Seven conical balls resembling eggs, called ova, used to count rounds
+    of a Roman circus race.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: egg birth
+  literal_form: Eggs from which Castor and Pollux were said to have been produced.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: turreted crown
+  literal_form: A crown with turrets worn in representations of Cybele.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: lion-drawn chariot
+  literal_form: A chariot drawn by lions in representations of Cybele.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: temple veil
+  literal_form: Curtains used in temples to veil the statue of the Divinity.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: lion tail as temper sign
+  literal_form: A lion’s tail indicating whether the lion is angry or in good temper.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Roman race rounds counted by eggs
+  summary: A Roman circus race is explained as seven rounds around the spina, counted
+    with seven egg-shaped ova; the egg form is linked to Castor and Pollux’s egg birth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Neptune lineage and Onchestian foundation
+  summary: The footnote gives a variant genealogy involving Neptune, Onchestius, Megareus
+    or Macareus, and Hippomenes, and says Onchestius founded a Boeotian city in Neptune’s
+    honor.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Cybele’s iconographic representation
+  summary: Cybele is described as Goddess of the Earth, typically represented with
+    a turreted crown and a chariot drawn by lions.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Lion tail as behavioral sign
+  summary: Pliny is cited for the idea that the state of a lion’s tail shows its temper.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: egg-born sacred twin pair
+  taxonomy_refs:
+  - sacred_twins
+  basis: Castor and Pollux are presented as a pair said to have been produced from
+    eggs, with egg-shaped race markers adopted in their honor.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an explanatory footnote and does not narrate the twins’
+    birth; it only reports the belief briefly.
+- id: motif:2
+  label: divine parent and heroic lineage
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Neptune is identified as father of Onchestius and, in a cited variant, father
+    of Megareus or Macareus; Hippomenes is placed in descent from Neptune.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The genealogy is presented as commentary with variant source references,
+    not as a full mythic episode.
+- id: motif:3
+  label: earth goddess with animal-drawn chariot
+  taxonomy_refs:
+  - mother_goddess
+  basis: Cybele is described as Goddess of the Earth, represented with turreted crown
+    and lion-drawn chariot.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage calls Cybele Goddess of the Earth but does not explicitly
+    use maternal language; the taxonomy link is therefore cautious.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5476-5487, Footnote 55
+  quote_or_summary: Curtains or hangings were used in domestic spaces, over doors
+    and windows, and in temples to veil the statue of the Divinity.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation/commentary; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5489-5504, Footnote 56
+  quote_or_summary: Seven egg-shaped ova counted the seven rounds of a Roman circus
+    race; their egg form honored Castor and Pollux, who were said to have been produced
+    from eggs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation/commentary; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5506-5515, Footnote 57
+  quote_or_summary: Hyginus says Neptune was father of Megareus or Macareus; Neptune
+    was father of Onchestius; Hippomenes was fourth from Neptune; Onchestius founded
+    a Boeotian city in Neptune’s honor; Pausanias says Megareus aided Nisus against
+    Minos and was slain.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation/commentary; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5527-5529, Footnote 61
+  quote_or_summary: Cybele, Goddess of the Earth, was usually represented with a turreted
+    crown and drawn in a chariot by lions.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation/commentary; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5532-5534, Footnote 63
+  quote_or_summary: 'Pliny remarks that a lion’s temper is shown by its tail: motion
+    indicates anger and quiet indicates good temper.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain translation/commentary; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is primarily footnote commentary rather than narrative myth.
+    Extracted motifs are limited to explicit mythological or iconographic statements
+    in the notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not directly support a clear comparative claim beyond cited source variants and iconographic notes.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l5476-l5534
+  passage_sha256=5261c173678c8ca391ddaab8a9056fa6f9eed129431c23400f316efa2f805c50
+

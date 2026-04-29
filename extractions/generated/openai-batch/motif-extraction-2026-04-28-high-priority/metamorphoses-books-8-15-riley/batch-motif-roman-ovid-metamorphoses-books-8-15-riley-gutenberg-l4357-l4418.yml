@@ -1,0 +1,414 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l4357-l4418
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / BOOK THE TENTH. / EXPLANATION. / EXPLANATION.; lines 4357-4418
+  start: '4357'
+  end: '4418'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of explanatory footnotes on Roman circus cones resembling
+    cypress trees, ancient necklaces and animal adornment, the Roman child’s bulla,
+    earrings among various peoples, the island of Cea, and the cypress as a Roman
+    funerary sign associated with Pluto and human mortality.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In the Roman Circus, a lengthwise wall called the spina had three large cone-
+    or pyramid-shaped wooden goals at each end, resembling cypress trees.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Necklaces were used by ancient Indian, Persian, Egyptian, Greek, and Roman
+    wearers, and were especially bridal ornaments for Greek and Roman females.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says amber from the trees into which Phaëton’s sisters were changed
+    was sent to be worn by Latian matrons.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Horses and favorite animals could be decorated with necklaces.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The bulla was a metal ball, compared in shape to a bubble of water, worn suspended
+    from the neck by Roman children.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The bulla was laid aside with the toga praetexta and consecrated to the Lares.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Earrings were worn by both sexes among several named peoples, while among
+    Greeks and Romans the note says females alone customarily wore them.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Cea is identified as one of the Cyclades, with Carthaea as one of its four
+    cities.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The poet is said to account for the Roman custom of placing cypress branches
+    before doors of houses where a dead body lay.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Pliny is cited as saying the cypress was sacred to Pluto and therefore used
+    at funerals and placed on the funeral pile.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The cypress is described as withering after its bark is cut and as emblematic
+    of the frail tenure of human life.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Phaëton’s sisters
+  description: They are mentioned as having been changed into trees that distilled
+    amber.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Latian matrons
+  description: They are described as wearers of amber derived from the transformed
+    trees.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Roman children
+  description: They are described as wearers of the bulla suspended from the neck.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Lares
+  description: They are the household deities to whom the bulla was consecrated when
+    laid aside.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Pluto
+  description: He is named as the deity to whom the cypress was sacred.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Dead body in the house
+  description: A dead body lying in a house is the condition for placing cypress branches
+    before the door.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: transformed tree figures
+  assigned_to:
+  - fig:1
+  basis: The note states that Phaëton’s sisters were changed into trees.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: ornament wearers
+  assigned_to:
+  - fig:2
+  basis: The note says the amber was sent to be worn by Latian matrons.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: child amulet wearers
+  assigned_to:
+  - fig:3
+  basis: Roman children are described as wearing bullae suspended from the neck.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipients of consecrated childhood ornament
+  assigned_to:
+  - fig:4
+  basis: The bulla was consecrated to the Lares when laid aside.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: underworld deity associated with cypress
+  assigned_to:
+  - fig:5
+  basis: Pliny is cited for the cypress being sacred to Pluto.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: occasion for funerary sign
+  assigned_to:
+  - fig:6
+  basis: Cypress branches were placed before houses in which a dead body lay.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: cypress-shaped circus goals
+  literal_form: wooden cones or pyramids resembling cypress trees at the ends of the
+    circus spina
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: necklace
+  literal_form: monile or bead necklace made of berries, glass, emeralds, amber, or
+    other materials
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: amber from transformed trees
+  literal_form: amber distilled from trees into which Phaëton’s sisters were changed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bulla
+  literal_form: metal ball suspended from a child’s neck, shaped like a bubble of
+    water
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: earring
+  literal_form: ring and drop, often gold or bronze, with valued pearl pendants
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: cypress funeral branch
+  literal_form: branches of cypress placed before doors of houses where a dead body
+    lay
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: funeral pile cypress
+  literal_form: cypress used at funerals and placed upon the pile
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Circus goal explanation
+  summary: The footnote explains the spina of the Roman Circus and the cypress-like
+    wooden cones called metae at its ends.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Adornment with necklaces
+  summary: The footnote describes necklaces as ancient ornaments, including bridal
+    use, animal decoration, and amber derived from transformed trees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Child bulla and consecration
+  summary: The footnote describes the bulla worn by Roman children and its later consecration
+    to the Lares when laid aside.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Earring customs
+  summary: The footnote describes earrings among several peoples and notes differing
+    use by sex among Greeks and Romans.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Cea identified
+  summary: The footnote identifies Cea as a Cycladic island and Carthaea as one of
+    its cities.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Cypress at death and funerals
+  summary: The footnote explains cypress branches at houses with a dead body, the
+    association of cypress with Pluto, its use at funerals and funeral piles, and
+    its emblematic link to fragile human life.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: metamorphosis into trees producing an ornamental substance
+  taxonomy_refs:
+  - shapeshifter
+  basis: The note recalls Phaëton’s sisters being changed into trees and amber from
+    those trees being worn by Latian matrons.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a footnote alluding to an earlier episode rather than narrating
+    the full transformation in this passage.
+- id: motif:2
+  label: childhood amulet relinquished and consecrated at a life transition
+  taxonomy_refs:
+  - initiation
+  - sacred_exchange
+  basis: The bulla is described as a child’s neck ornament that is laid aside with
+    the toga praetexta and consecrated to the Lares.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage explains a Roman custom; it does not narrate an initiation
+    episode.
+- id: motif:3
+  label: tree branch as sign of death and funerary presence
+  taxonomy_refs: []
+  basis: Cypress branches are placed before a house containing a dead body, and cypress
+    is used at funerals and on the funeral pile.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy family precisely matches a funerary tree sign without
+    implying rebirth or seasonal renewal.
+- id: motif:4
+  label: tree emblem of mortal fragility
+  taxonomy_refs: []
+  basis: The cypress withers once its bark is cut and is described as emblematic of
+    the frail tenure of human life.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The emblematic interpretation is supplied by the footnote, not by a narrative
+    scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4357-4365, Footnote 18
+  quote_or_summary: The Roman Circus spina had at each end three wooden cones or pyramids
+    shaped like cypress trees, called metae or goals.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 4367-4384, Footnote 19
+  quote_or_summary: The note describes ancient necklaces, bridal use among Greek and
+    Roman females, amber from Phaëton’s transformed sisters, and necklaces used on
+    horses and favorite animals.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 4386-4400, Footnote 20
+  quote_or_summary: The bulla is explained as a metal ball shaped like a water bubble,
+    worn by Roman children and later consecrated to the Lares when laid aside with
+    the toga praetexta.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 4402-4412, Footnote 21
+  quote_or_summary: The note explains Greek and Roman terms for earrings and describes
+    use among several peoples, including gendered use among Greeks and Romans.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 4414-4415, Footnote 22
+  quote_or_summary: Cea is identified as one of the Cyclades and Carthaea as one of
+    its four cities.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 4417-4418 and continuation, Footnote 23
+  quote_or_summary: The note explains the Roman custom of placing cypress branches
+    before houses with a dead body, cypress as sacred to Pluto, its funerary use,
+    and its emblematic link to fragile human life.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mainly antiquarian footnotes rather than mythic narration;
+    object and custom extraction is strong, while motif classification is more tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Comparison claims left empty because the passage provides customs and explanatory notes but no explicit motif-family comparison requiring extraction.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l4357-l4418
+  passage_sha256=9464d7b0ccc9dcc59b77458bfdc1bb437abbfd068f21d637dd6545b91fa2c193
+

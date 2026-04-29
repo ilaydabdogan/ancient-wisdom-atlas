@@ -1,0 +1,465 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l11317-l11406
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 11317-11406
+  start: '11317'
+  end: '11406'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker identified as the grandson of Œneus recounts hardships after
+    being driven from Argos under Venus' vengeance. Agmon defies Venus and is transformed
+    into a bird; several companions also become swanlike birds and fly away. Venulus
+    then travels through Apulian regions and sees a cave occupied by Pan and formerly
+    by Nymphs. An Apulian shepherd once frightened the Nymphs, mocked their dancing
+    with obscene rustic abuse, and was enclosed by a growing tree, becoming a wild
+    olive whose bitter berries preserve the character of his speech.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first-person speaker says he was driven from Argos and endured hardships
+    at sea and on land, attributing the sufferings to Venus' vengeance.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Agmon, described as impetuous and embittered by misfortunes, openly says that
+    he and the men under Diomedes despise Venus' hate.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'After Agmon''s words, his voice diminishes and his body changes: hair becomes
+    feathers, arms become wings, feet gain toes, and his mouth hardens into a pointed
+    horn-like beak.'
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Lycus, Idas, Nycteus, Rhetenor, and Abas are astounded at Agmon and then assume
+    a similar form; many companions fly around the oars with wingbeats.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The transformed birds are said not to be swans, but to approach the form of
+    white swans.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Venulus leaves the Calydonian realms, Peucetian bays, and Messapian fields,
+    and sees a cavern shaded by dense grove and supplied by a smooth stream.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Pan, described as half goat, occupies the cavern, which the Nymphs formerly
+    possessed.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: An Apulian shepherd first frightens the Nymphs away, then follows them, mocks
+    their dances with grotesque capers, and adds filthy rustic abuse.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A growing tree closes the shepherd's throat, and the wild olive's bitter berries
+    are said to indicate the infamy and coarseness of his tongue.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Grandson of Œneus
+  description: First-person speaker who recounts exile from Argos, hardships, and
+    survival with a small remnant of companions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Venus / Cytherea
+  description: Goddess named as exacting vengeance and as the one whose anger Agmon
+    provokes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Agmon
+  description: A Pleuronian companion of impetuous temper who speaks defiantly against
+    Venus and is changed into a birdlike form.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Lycus, Idas, Nycteus, Rhetenor, and Abas
+  description: Named companions who are astounded at Agmon and then assume a similar
+    bird form.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Greater portion of the company
+  description: Group of companions who fly off and beat their wings around the oars
+    after transformation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Venulus
+  description: Traveler who leaves several Apulian regions and sees the cavern associated
+    with Pan and the Nymphs.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Pan
+  description: God described as half goat and current occupant of the cavern.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Nymphs
+  description: Former possessors of the cavern who are frightened by an Apulian shepherd
+    and later dance after recovering presence of mind.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:9
+  name_or_label: Apulian shepherd
+  description: Shepherd who frightens the Nymphs, mocks them with grotesque capers
+    and filthy speech, and is enclosed by a growing wild olive tree.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: surviving narrator
+  assigned_to:
+  - fig:1
+  basis: He recounts the events in first person and says he remains with a very small
+    remnant of companions.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: offended divine avenger
+  assigned_to:
+  - fig:2
+  basis: The passage names Venus' vengeance and says Agmon's expressions revive her
+    anger.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: defiant speaker transformed
+  assigned_to:
+  - fig:3
+  basis: Agmon speaks contemptuously of Venus and immediately undergoes bodily transformation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: companions transformed into birds
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The named companions and much of the company assume similar forms and fly
+    away.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: traveler-observer
+  assigned_to:
+  - fig:6
+  basis: Venulus departs from named regions and beholds the cavern.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: divine cavern occupant
+  assigned_to:
+  - fig:7
+  basis: Pan is identified as the half-goat god who occupies the cavern.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: frightened dancers
+  assigned_to:
+  - fig:8
+  basis: The Nymphs are frightened by the shepherd, recover, and form dances.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: abusive mocker transformed into tree
+  assigned_to:
+  - fig:9
+  basis: The shepherd mocks and abuses the Nymphs before a growing tree closes his
+    throat.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: deep ocean and threatening waves
+  literal_form: ocean, storm, Caphareus, threatening waves
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: swanlike bird transformation
+  literal_form: feathers, down, wings, toes, pointed horn-like mouth, white swanlike
+    birds
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: cavern
+  literal_form: cavern overshadowed by a dense grove
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: smooth stream
+  literal_form: smooth stream trickling through the cavern setting
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: wild olive tree
+  literal_form: growing tree and wild olive
+  associated_figures:
+  - fig:9
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: bitter berries
+  literal_form: bitter berries of the wild olive
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Agmon defies Venus during postwar wanderings
+  summary: After severe wanderings by sea and land, Agmon argues that no further suffering
+    remains to fear and declares contempt for Venus' hatred.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Companions become swanlike birds
+  summary: Agmon's body turns into a bird form, and several companions and much of
+    the company also transform and fly away around the oars.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Venulus sees the cave of Pan and the Nymphs
+  summary: Venulus passes through named regions and beholds a shaded, stream-fed cavern
+    occupied by Pan and formerly possessed by Nymphs.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Shepherd mocks Nymphs and becomes wild olive
+  summary: An Apulian shepherd frightens the Nymphs, mocks their dancing with obscene
+    abuse, and is silenced when a growing wild olive closes his throat.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: punitive avian metamorphosis after insulting a goddess
+  taxonomy_refs:
+  - shapeshifter
+  - divine_judgment
+  basis: Agmon's contemptuous speech toward Venus is followed by his transformation
+    into a bird, and companions are likewise transformed into swanlike birds.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents Venus' anger as provoked, but the mechanics of the
+    transformation are narrated rather than explicitly described as a spoken sentence
+    or formal judgment.
+- id: motif:2
+  label: group transformation of companions into birds
+  taxonomy_refs:
+  - shapeshifter
+  basis: Several named companions and most of the company assume similar bird forms
+    and fly away together.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage describes the form as near to white swans but not exactly
+    swans.
+- id: motif:3
+  label: punitive vegetal metamorphosis for abusive speech
+  taxonomy_refs:
+  - shapeshifter
+  - divine_judgment
+  basis: The shepherd's filthy abuse of the Nymphs is followed by a growing tree closing
+    his throat; the wild olive's bitter berries preserve the infamy and coarseness
+    of his speech.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage implies punishment after the abuse, but does not explicitly
+    name which divine or supernatural figure causes the tree transformation.
+- id: motif:4
+  label: transformed body preserving moralized traits
+  taxonomy_refs:
+  - shapeshifter
+  basis: The wild olive's bitter berries are said to indicate the shepherd's manners
+    and the infamy of his tongue.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The moral reading is stated in the passage's explanatory language, not
+    inferred from outside taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11317-11329
+  quote_or_summary: The speaker says Venus exacted vengeance, and he endured hardships
+    on the ocean and on shore after being driven from Argos.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11329-11341
+  quote_or_summary: Agmon, impetuous and embittered, says there is nothing further
+    for patience to refuse and declares that the men under Diomedes despise Venus'
+    hate.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11342-11353
+  quote_or_summary: Agmon's words provoke Venus and revive her anger; as he prepares
+    to answer, his voice diminishes and his body changes into feathers, down, wings,
+    toes, and a pointed horn-like mouth.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11353-11362
+  quote_or_summary: Lycus, Idas, Nycteus, Rhetenor, and Abas are astounded and take
+    similar form; much of the company flies off around the oars, in birds not swans
+    but approaching white swans; the speaker remains with a small remnant.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11364-11370
+  quote_or_summary: Venulus leaves the Calydonian, Peucetian, and Messapian regions
+    and sees a cavern shaded by dense grove and trickling with a smooth stream; Pan
+    occupies it, though Nymphs once possessed it.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 11370-11377
+  quote_or_summary: An Apulian shepherd alarms and scares the Nymphs; when they recover
+    and dance, he follows, mocks their movements with grotesque capers, and uses filthy
+    rustic abuse.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 11377-11382
+  quote_or_summary: Before the shepherd can be silent, a growing tree closes his throat;
+    the wild olive's bitter berries indicate the infamy and coarseness of his tongue.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage explicitly narrates two metamorphoses and provides explanatory
+    moralizing for the wild olive. Motif assignment is strongest for shapeshifting/punitive
+    transformation; divine judgment is clearer for Venus than for the shepherd episode,
+    where the agent of transformation is not directly named.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparisons were added; taxonomy references are limited to the supplied motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l11317-l11406
+  passage_sha256=5096c777c5a77b8820f54d19713844a98bd0ac5003bded0f75ff219a615f0032
+

@@ -1,0 +1,598 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l7178-l7276
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 7178-7276
+  start: '7178'
+  end: '7276'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives explanatory traditions about Ceyx and Halcyone, including
+    Ceyx’s kingship, his voyage to consult Apollo’s oracle, shipwreck, Halcyone’s
+    grief, and their transformation into birds, with an alternate account in which
+    Jupiter punishes their pride. It then narrates the story of Æsacus, who pursues
+    the nymph Hesperie; she is bitten by a snake and dies, whereupon Æsacus leaps
+    into the sea in grief. Tethys pities him, prevents his death, covers him with
+    feathers, and he becomes a diving sea-bird.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ceyx is described as king of Trachyn and as a prince to whom people came for
+    atonement after murders.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ceyx travels to Claros to consult Apollo’s oracle after the deaths of his
+    brother Dædalion and niece Chione, and he is shipwrecked on the return journey.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Halcyone is said to die from grief or to throw herself into the sea after
+    Ceyx’s shipwreck.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ceyx and Halcyone are said to be changed into birds identified with kingfishers
+    in one explanation.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: An alternate account attributes the destruction of Ceyx and Halcyone to pride
+    and says Jupiter changed them into a cormorant and a kingfisher.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An old observer points out a didapper and identifies it as formerly Æsacus,
+    a royal Trojan figure related to Priam and Hector.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Æsacus avoids cities and court life, frequenting lonely mountains and fields.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Æsacus sees Hesperie on the banks of her father’s stream, and she flees from
+    him.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: During the pursuit, a snake hidden in the grass wounds Hesperie’s foot with
+    venom, and her life ends with her flight.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Æsacus laments that his pursuit occasioned Hesperie’s death and says he will
+    give consolation by his own death.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Æsacus throws himself from a rock into the sea, but Tethys receives him softly
+    and covers him with feathers as he swims.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Æsacus repeatedly plunges into the sea after receiving wings; his new form
+    explains the didapper’s shape and diving behavior.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Ceyx
+  description: King of Trachyn; husband of Halcyone; shipwrecked after consulting
+    Apollo’s oracle; in traditions changed into a bird.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Halcyone
+  description: Wife of Ceyx; afflicted by his shipwreck; said to die of grief or throw
+    herself into the sea; in traditions changed into a bird.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Jupiter
+  description: In the Apollodorus variant, Jupiter is enraged by Ceyx and Halcyone
+    assuming divine names and changes them into birds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Æsacus
+  description: Son of a king and brother of Hector; avoids cities, pursues Hesperie,
+    grieves over her death, leaps into the sea, and becomes a didapper.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: Hesperie / Hesperia
+  description: Nymph and daughter of Cebrenus; seen by Æsacus near her father’s stream;
+    flees from him and dies from a snakebite.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Serpent / snake
+  description: A snake hidden in the grass wounds Hesperie’s foot with venom as she
+    flees.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:7
+  name_or_label: Tethys
+  description: Pities Æsacus as he falls into the sea, receives him softly, and covers
+    him with feathers.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Old observer / speaker
+  description: An old man observes birds over the sea and narrates the former identity
+    of the didapper as Æsacus.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: king and atonement-giver
+  assigned_to:
+  - fig:1
+  basis: Ceyx is called king of Trachyn, knowledgeable and experienced, and approached
+    for atonement after murders.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: shipwrecked husband transformed into bird
+  assigned_to:
+  - fig:1
+  basis: Ceyx is shipwrecked after consulting the oracle and is said in traditions
+    to be changed into a bird.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: grieving wife
+  assigned_to:
+  - fig:2
+  basis: Halcyone is afflicted after Ceyx’s shipwreck and dies of grief or throws
+    herself into the sea.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: bird-transformed spouse
+  assigned_to:
+  - fig:2
+  basis: Halcyone is included in the bird transformation traditions and specifically
+    becomes a kingfisher in the Apollodorus variant.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: divine punisher and transformer
+  assigned_to:
+  - fig:3
+  basis: Jupiter is enraged by the couple’s assumption of divine names and changes
+    both into birds.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: royal Trojan youth
+  assigned_to:
+  - fig:4
+  basis: The old speaker identifies the didapper as son of a king, brother of Hector,
+    and linked to the Trojan royal line.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: pursuing lover transformed into diving bird
+  assigned_to:
+  - fig:4
+  basis: Æsacus pursues Hesperie, mourns her death, leaps into the sea, receives wings,
+    and repeatedly plunges into the water.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:8
+  label: fleeing nymph and snakebite victim
+  assigned_to:
+  - fig:5
+  basis: Hesperie flees from Æsacus and is killed when a snake wounds her foot with
+    venom.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:9
+  label: venomous killer
+  assigned_to:
+  - fig:6
+  basis: The snake wounds Hesperie’s foot and leaves venom in her body.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: pitying sea-divinity or rescuer
+  assigned_to:
+  - fig:7
+  basis: Tethys pities Æsacus as he falls, receives him softly, and covers him with
+    feathers.
+  evidence_refs:
+  - ev:8
+- id: role:11
+  label: frame narrator and witness
+  assigned_to:
+  - fig:8
+  basis: The old observer watches birds over the sea and explains the didapper’s former
+    human identity.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: kingfisher and cormorant bird forms
+  literal_form: Birds into which Ceyx and Halcyone are said to be changed; one variant
+    names Ceyx a cormorant and Halcyone a kingfisher.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: didapper
+  literal_form: Diving sea-bird pointed out by the old speaker and identified as transformed
+    Æsacus.
+  associated_figures:
+  - fig:4
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: serpent
+  literal_form: Snake lurking in the grass that wounds Hesperie’s foot with venom.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: sea and waves
+  literal_form: The sea into which Halcyone may throw herself and into which Æsacus
+    leaps and repeatedly plunges.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: lonely mountains
+  literal_form: Mountains frequented by Æsacus away from cities and the royal court.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: undermined rock
+  literal_form: Rock from which Æsacus hurls himself into the sea after Hesperie’s
+    death.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Explanations of Ceyx and Halcyone
+  summary: Ceyx is described as king of Trachyn; after family losses he consults Apollo’s
+    oracle and is shipwrecked, while Halcyone dies of grief or throws herself into
+    the sea. Traditions say they become birds, with one variant making Jupiter the
+    punishing transformer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Old observer identifies the didapper
+  summary: An old observer watches birds over the sea and says that the didapper was
+    formerly Æsacus, a royal figure in the Trojan lineage and brother of Hector.
+  figure_refs:
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Æsacus encounters and pursues Hesperie
+  summary: Æsacus, who prefers mountains and fields to cities, sees Hesperie drying
+    her hair near her father’s stream; she flees, and he pursues her with love while
+    she is driven by fear.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Hesperie’s snakebite and death
+  summary: A snake hidden in the grass wounds Hesperie’s foot and leaves venom in
+    her body. Æsacus embraces her lifeless body and laments that his pursuit caused
+    the disaster.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Æsacus leaps into the sea and becomes a diving bird
+  summary: Æsacus hurls himself from a rock into the sea, but Tethys pities him, receives
+    him softly, and gives him feathers. Denied the death he seeks, he repeatedly dives
+    into the sea, and his transformed body explains the didapper’s form and behavior.
+  figure_refs:
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: human transformation into birds
+  taxonomy_refs:
+  - shapeshifter
+  basis: Ceyx and Halcyone are said to become birds, and Æsacus is transformed into
+    a didapper after leaping into the sea.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The taxonomy label is broader than the specific Ovidian metamorphosis
+    pattern.
+- id: motif:2
+  label: divine punishment by metamorphosis
+  taxonomy_refs:
+  - divine_judgment
+  - shapeshifter
+  basis: The Apollodorus variant says Jupiter punishes Ceyx and Halcyone for assuming
+    the names of Jupiter and Juno by changing them into birds.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This motif is present only in the summarized alternate account, not in
+    the main Æsacus narrative.
+- id: motif:3
+  label: fatal serpent bite during flight
+  taxonomy_refs:
+  - serpent
+  basis: Hesperie flees from Æsacus and a snake hidden in the grass wounds her foot
+    with venom, causing her death.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The serpent is a literal cause of death; no additional symbolic function
+    is stated in the passage.
+- id: motif:4
+  label: grief-driven leap into water followed by metamorphosis
+  taxonomy_refs:
+  - shapeshifter
+  - water
+  basis: Æsacus attempts to die by leaping into the sea after Hesperie’s death, but
+    Tethys prevents the death and transforms him with feathers into a diving bird.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: Although the sequence resembles death-and-return patterns, the passage
+    emphasizes denied death and metamorphosis rather than resurrection.
+- id: motif:5
+  label: beloved’s pursuit leads to unintended death
+  taxonomy_refs: []
+  basis: Æsacus pursues Hesperie; she dies from a snakebite while fleeing, and he
+    explicitly says he gave the occasion for her death.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy reference precisely matches this pursuit-and-accidental-death
+    pattern.
+- id: motif:6
+  label: enduring or conjugal affection represented by birds
+  taxonomy_refs: []
+  basis: The explanatory note says the kingfisher was considered by the ancients to
+    be a symbol of conjugal affection, and the old observer commends bird-love preserved
+    to the end of existence.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage applies this most directly to Ceyx and Halcyone; its relation
+    to Æsacus is adjacent in the narrative frame rather than identical.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents Apollodorus’ account as an alternate version
+    of the Ceyx and Halcyone bird-transformation story, differing from Ovid’s favorable
+    portrayal by making pride and Jupiter’s anger the cause.
+  claim_level: same_motif
+  target: Apollodorus’ variant of Ceyx and Halcyone
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage provides only a brief summary of Apollodorus and does not
+    quote the source directly.
+- id: claim:2
+  claim: The passage notes a Hyginus-linked variant in which Halcyone either dies
+    of grief or throws herself into the sea after Ceyx’s shipwreck, indicating variation
+    within the same Ceyx-Halcyone death and transformation tradition.
+  claim_level: same_motif
+  target: Hyginus-linked account of Halcyone after Ceyx’s shipwreck
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage mentions Hyginus only for the mode of Halcyone’s death
+    and does not detail the full comparative version.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7178-7185
+  quote_or_summary: Ceyx is king of Trachyn, known for knowledge and experience; people
+    seek him for atonement, and he sends Hercules’ children to Theseus when threatened
+    by Eurystheus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 7186-7194
+  quote_or_summary: After the deaths of Dædalion and Chione, Ceyx consults Apollo’s
+    oracle at Claros and is shipwrecked on his return; Halcyone dies of grief or throws
+    herself into the sea, and the pair are said to become birds identified with kingfishers
+    and conjugal affection.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 7195-7202
+  quote_or_summary: 'The explanation reports Apollodorus’ less favorable version:
+    the couple’s pride causes their destruction, and Jupiter changes Ceyx into a cormorant
+    and Halcyone into a kingfisher because they assumed divine names.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 7204-7208
+  quote_or_summary: The fable summary states that Hesperia flees from Æsacus, is bitten
+    by a serpent, dies immediately, and Æsacus throws himself into the sea and is
+    transformed into a didapper.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 7209-7223
+  quote_or_summary: An old observer watches birds over the sea, praises their lasting
+    love, points to a didapper, and identifies it as formerly Æsacus, descended from
+    the Trojan royal line and brother of Hector.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 7224-7232
+  quote_or_summary: Æsacus avoids cities and the court, frequents lonely mountains
+    and fields, sees Hesperie drying her hair by her father’s stream, and pursues
+    her when she flees in fear.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 7233-7241
+  quote_or_summary: A snake hidden in the grass wounds Hesperie’s foot with venom;
+    she dies, and Æsacus embraces her body, lamenting that his pursuit caused her
+    death and declaring he should die too.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 7242-7251
+  quote_or_summary: Æsacus hurls himself from a wave-worn rock into the sea; Tethys
+    pities him, receives him softly, covers him with feathers, and prevents him from
+    obtaining the death he seeks.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 7252-7261
+  quote_or_summary: With new wings, Æsacus repeatedly throws himself into the waves;
+    his feathers break the fall, his body becomes long and lean, and his love of plunging
+    into the sea explains his name and form.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal narrative elements are explicit. Motif labels involving metamorphosis,
+    serpent death, and divine punishment are well supported; broader symbolic or comparative
+    claims are more cautious because the passage is an explanatory translation note
+    plus narrative excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and available taxonomy references were used. Taxonomy refs were left empty where no supplied category closely matched the observed pattern.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l7178-l7276
+  passage_sha256=6c41fa38a303b9f6efb41f1d76250563a9b273f0d0d8afda44626514f9904dcc
+

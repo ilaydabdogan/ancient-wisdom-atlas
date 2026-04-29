@@ -1,0 +1,468 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l1951-l2042
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / EXPLANATION. / EXPLANATION.; lines 1951-2042
+  start: '1951'
+  end: '2042'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recounts how Erisicthon's hunger consumes his estate, leading
+    him to sell his daughter. She prays to Neptune, who changes her into a male fisherman
+    so that her pursuing master is deceived. Her father later repeatedly sells her
+    because she can change shape and escape as various animals. Erisicthon's hunger
+    ultimately drives him to eat his own body. Achelous then says that he too can
+    change form, including into a snake and horned animal, though one horn is now
+    lost.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Erisicthon's appetite diminishes his paternal estate, but his hunger remains
+    undiminished.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After consuming his estate, the hungry father sells his daughter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The daughter stretches her hands over the neighbouring sea and prays to Neptune
+    for deliverance from a master.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Neptune answers by altering her form and giving her the appearance and dress
+    of a man who catches fish.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The master asks the apparent fisherman where the woman who had been standing
+    on the shore has gone.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The transformed daughter says she has seen no man or woman standing on the
+    shore except herself, and the master believes her and leaves.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After the master leaves, the daughter's own shape is restored to her.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Her father repeatedly sells her to other masters, and she escapes at different
+    times as a mare, a bird, a cow, and a stag.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Erisicthon begins to tear his own limbs with bites and feeds on his own body.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Achelous says that he has a limited power of changing his body, appearing
+    at times as himself, as a snake, and as a horned leader of a herd.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Achelous says that one side of his forehead is deprived of its weapon, referring
+    to a lost horn.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Erisicthon
+  description: Hungry father, identified in the notes as the son of Triopas; his appetite
+    consumes his estate and later his own body.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: Daughter of Erisicthon / granddaughter of Triopas
+  description: A noble-born daughter sold by her father; Neptune changes her into
+    a male fisherman, and she later escapes repeated sales by changing into animals.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Neptune
+  description: God of the sea who had possessed the prize of the daughter's ravished
+    virginity and who changes her form in answer to her prayer.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Master
+  description: The purchaser or pursuer who had seen the daughter on the shore, questions
+    the transformed woman, believes her answer, and leaves.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Achelous
+  description: Speaker who says he too can change his body into a snake or a horned
+    herd-leader, though one horn is lost.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:10
+roles:
+- id: role:1
+  label: insatiably hungry father
+  assigned_to:
+  - fig:1
+  basis: His hunger consumes his property, leads to the sale of his daughter, and
+    ends in self-consumption.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: sold and shape-changing daughter
+  assigned_to:
+  - fig:2
+  basis: She is sold by her father, transformed by Neptune, restored, and later escapes
+    repeated sales through animal forms.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: sea-god transformer
+  assigned_to:
+  - fig:3
+  basis: Neptune hears the prayer over the sea and changes the daughter's form into
+    that of a male fisher.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: deceived master
+  assigned_to:
+  - fig:4
+  basis: He questions the transformed daughter, believes her, and withdraws.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: self-described limited shapeshifter
+  assigned_to:
+  - fig:5
+  basis: Achelous states that he can change his body into several forms but has lost
+    one horn.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: neighbouring sea
+  literal_form: sea or water over which the daughter stretches her hands in prayer
+    to Neptune
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: male fisherman's disguise
+  literal_form: appearance of a man with habit befitting fishers, including rod and
+    hook imagery in the master's address
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: animal escape forms
+  literal_form: mare, bird, cow, and stag
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: snake form
+  literal_form: Achelous wreathed as a snake
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: horns as weapons
+  literal_form: horns of the herd-leader form, with one side of the forehead deprived
+    of its weapon
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: self-consuming body
+  literal_form: Erisicthon's own limbs and body consumed by his bites
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Hunger, poverty, and sale of the daughter
+  summary: Erisicthon's appetite consumes his estate; with only his daughter left,
+    he sells her under pressure of want.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Prayer to Neptune and transformation into a fisherman
+  summary: The daughter prays over the sea to Neptune for deliverance, and he changes
+    her into a male fisherman.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Deception of the pursuing master
+  summary: The master questions the apparent fisherman about the vanished woman, but
+    the transformed daughter answers in a way that hides her identity; the master
+    believes her and leaves, after which her form is restored.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Repeated sale and animal escapes
+  summary: The father uses his daughter's power of transformation for gain, repeatedly
+    selling her while she escapes as different animals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Erisicthon's self-consumption
+  summary: When his hunger outstrips all provision, Erisicthon bites and consumes
+    his own body.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Achelous describes his own changes
+  summary: Achelous shifts from the story of others to his own limited ability to
+    change form, naming snake and horned-animal forms and pointing to his lost horn.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Shape-changing escape from enslavement or pursuit
+  taxonomy_refs:
+  - shapeshifter
+  basis: The daughter is transformed by Neptune to escape her master and later escapes
+    repeated sales by changing into animal forms.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents the transformations literally within the mythic narrative;
+    no broader cross-cultural comparison is stated.
+- id: motif:2
+  label: Divine transformation in answer to prayer
+  taxonomy_refs:
+  - shapeshifter
+  basis: The daughter prays to Neptune over the sea, and Neptune changes her form
+    so she can evade her master.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly frame the transformation as a formal ritual
+    or covenant.
+- id: motif:3
+  label: Insatiable hunger leading to self-consumption
+  taxonomy_refs: []
+  basis: Erisicthon's hunger consumes his estate and finally drives him to tear and
+    eat his own body.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy family directly matches hunger or self-cannibalism.
+- id: motif:4
+  label: Limited shapeshifter with serpent and horned forms
+  taxonomy_refs:
+  - shapeshifter
+  - serpent
+  basis: Achelous says he can change his body into several forms, including a snake
+    and a horned herd-leader, though his transformations are limited and one horn
+    is gone.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The loss of the horn is mentioned but its full narrative cause lies outside
+    this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly places Achelous' own body-changing power alongside
+    the earlier account of the daughter's transformations, making an internal comparison
+    between two shapeshifting figures.
+  claim_level: same_function
+  target: Erisicthon's daughter and Achelous as body-changing figures within the same
+    narrated passage
+  evidence_refs:
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison supported by Achelous' transition from
+    'instances of others' to 'I too'; it does not establish historical contact or
+    a broader comparative tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1951-1957
+  quote_or_summary: Erisicthon's appetite diminishes his estate; after swallowing
+    down his estate into his paunch, only his daughter remains, and he sells her under
+    want.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1957-1960
+  quote_or_summary: The daughter stretches her hands over the neighbouring sea and
+    asks Neptune to deliver her from a master, identifying him as possessor of the
+    prize of her ravished virginity.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1960-1963
+  quote_or_summary: Neptune does not despise her prayer; although her master had just
+    seen her, he changes her form and gives her the appearance and habit of a man
+    who catches fish.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1963-1970
+  quote_or_summary: The master addresses the apparent fisherman with rod and hook
+    imagery and asks where the woman with dishevelled hair and humble garb has gone.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1970-1979
+  quote_or_summary: The transformed daughter says she has seen no man or woman on
+    the shore except herself; the master believes her, leaves, and her own shape is
+    restored.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1980-1985
+  quote_or_summary: When her father discovers her transformable body, he often sells
+    her to other masters; she escapes as a mare, bird, cow, or stag, sustaining her
+    hungry parent dishonestly.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 1985-1988
+  quote_or_summary: After his provisions are consumed, Erisicthon tears his own limbs
+    with bites and feeds his body by diminishing it.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 1988-1995
+  quote_or_summary: 'Achelous says that he too can often change his body, though within
+    limits: he appears as himself, as a snake, and as a horned leader of a herd; one
+    side of his forehead is now deprived of its weapon.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: note
+  locator: Footnote 93
+  quote_or_summary: The note identifies Erisicthon as the son of Triopas.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: note
+  locator: Footnote 101
+  quote_or_summary: The note states that Achelous is addressing Theseus, Pirithoüs,
+    and Lelex.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative content is clear for shapeshifting, divine transformation,
+    and self-consumption. Motif taxonomy matching is strongest for shapeshifter and
+    serpent; other motif labels are descriptive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Footnotes unrelated to the selected narrative were not modeled except where they identify Erisicthon or Achelous.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l1951-l2042
+  passage_sha256=12080cf14cd9c6072fc016ac2c50a5b991e0de3373a949ca309a62810054f809
+

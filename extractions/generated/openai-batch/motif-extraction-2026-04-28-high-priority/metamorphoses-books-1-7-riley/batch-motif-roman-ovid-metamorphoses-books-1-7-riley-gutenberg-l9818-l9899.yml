@@ -1,0 +1,583 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-1-7-riley-gutenberg-l9818-l9899
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+passage_locator:
+  label: EXPLANATION. / BOOK THE SIXTH. / EXPLANATION. / EXPLANATION.; lines 9818-9899
+  start: '9818'
+  end: '9899'
+  translation: The Metamorphoses of Ovid, Books I-VII
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains variants of the Niobe story, including her genealogy,
+    different reported numbers of children, the deaths of her children attributed
+    to Apollo and Diana, and rationalizing interpretations involving plague. It notes
+    Apollo's arrows, laurel branches used for protection, burial and petrification
+    variants, Niobe's transformation into a rock on a Lydian mountain, and possible
+    surviving daughters. It then introduces the story of Latona, who is denied water
+    at a pond by countrymen and transforms them into frogs, after which people more
+    zealously venerate the divinity who bore the twins.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage reports multiple ancient authorities for Niobe's parentage and
+    gives differing counts for her children.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The destruction of Niobe's children is explained as possibly referring to
+    a plague at Thebes, with male deaths attributed to Apollo and female deaths to
+    Diana.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Apollo's angry arrows are described as a symbol associated with disease-causing
+    heat, while his harp is associated with a propitious state.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: During plague, laurel branches were placed on house doors in hope of Apollo's
+    protection.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage gives variant accounts of where Niobe's sons and daughters died
+    and explains delayed burial as fear of plague contagion.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Niobe is said to have gone to Mount Sipylus, where a rock resembled a grieving
+    woman; Ovid's version says she was carried to a Lydian mountain and changed into
+    a rock.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Two daughters, Meliboea or Chloris and Amycle, are reported in one account
+    to have appeased Diana and survived, though another version says all Niobe's children
+    died.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Latona, thirsty while carrying her two children, is prevented from drinking
+    at a pond by countrymen who muddy the water.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Latona punishes the countrymen by transforming them into frogs.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: After the manifestation of divine wrath, people venerate with greater zeal
+    the deity who produced the twins.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Niobe
+  description: Daughter of Tantalus, sister of Pelops, mother of many children whose
+    deaths are discussed; later associated with a grieving rock on Mount Sipylus.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Apollo
+  description: God to whom the deaths of men from plague and the deaths of Niobe's
+    sons are attributed; associated with arrows when angry and a harp when propitious.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Diana
+  description: Goddess to whom the deaths of women from plague and the deaths of Niobe's
+    daughters are attributed; in one account she is appeased by two daughters and
+    preserves their lives.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Children of Niobe
+  description: Niobe's sons and daughters, whose number varies by authority and whose
+    deaths or possible survival are discussed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Meliboea or Chloris
+  description: A daughter of Niobe said in one version to have survived after appeasing
+    Diana; her surname Chloris is linked to paleness after fear at her sisters' deaths.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Amycle
+  description: A daughter of Niobe said in one version to have survived after appeasing
+    Diana.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Latona
+  description: A goddess, fatigued and thirsty while carrying her two children, who
+    is denied water and transforms the offending countrymen into frogs.
+  role_refs:
+  - role:6
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Latona's two children / twins
+  description: The two children carried by Latona; later referred to as twins produced
+    by the deity.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:9
+  name_or_label: Countrymen / clowns
+  description: People working near a pond who prevent Latona from drinking and muddy
+    the water; they are transformed into frogs.
+  role_refs:
+  - role:8
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Thebans
+  description: People in Thebes who, in one version, are changed into stones, explaining
+    why Niobe's children remained unburied for nine days.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: bereaved mother
+  assigned_to:
+  - fig:1
+  basis: Niobe's children and husband die, and she is associated with overwhelming
+    grief.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: transformed figure
+  assigned_to:
+  - fig:1
+  basis: Ovid relates that Niobe was changed into a rock on a Lydian mountain.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: punishing divinity
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:7
+  basis: Apollo and Diana are linked to deadly punishment, while Latona transforms
+    those who deny her water.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:4
+  label: victims of death or transformation
+  assigned_to:
+  - fig:4
+  - fig:9
+  - fig:10
+  basis: Niobe's children die, the countrymen are changed into frogs, and Thebans
+    are said to be changed into stones in one account.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: possible survivors
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Pausanias reports that Meliboea or Chloris and Amycle appeased Diana and
+    were preserved alive.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: divine mother in distress
+  assigned_to:
+  - fig:7
+  basis: Latona is fatigued by carrying her two children and is parched with thirst
+    during a journey.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: divine children
+  assigned_to:
+  - fig:8
+  basis: Latona carries two children, later described as twins produced by the deity.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: offenders against a deity
+  assigned_to:
+  - fig:9
+  basis: The countrymen prevent Latona from drinking and muddy the water.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: angry arrows of Apollo
+  literal_form: arrows
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: propitious harp of Apollo
+  literal_form: harp
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: protective laurel branches
+  literal_form: branches of laurel placed on doors
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: mountain of Niobe's grief
+  literal_form: Mount Sipylus / Lydian mountain
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: grieving rock
+  literal_form: rock resembling a woman overwhelmed with grief
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: river of Ismenus
+  literal_form: river in Boeotia receiving Ismenus's name
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: denied pond water
+  literal_form: pond water muddied by countrymen
+  associated_figures:
+  - fig:7
+  - fig:9
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: frog transformation
+  literal_form: frogs
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: stone transformation of Thebans
+  literal_form: stones
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Rationalized destruction of Niobe's children
+  summary: The passage reviews ancient accounts of Niobe and interprets the deaths
+    of her children as a plague at Thebes attributed poetically to Apollo and Diana.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Apollo's plague symbols and laurel protection
+  summary: The passage explains Apollo's arrows as a sign of anger and plague, his
+    harp as a propitious sign, and laurel branches as a protective appeal during plague.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Burial, river death, and Niobe's rock
+  summary: Variant accounts place Niobe's children in different death settings, explain
+    their delayed burial, mention Ismenus throwing himself into a river, and describe
+    Niobe's association with a grieving rock on a Lydian mountain.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:10
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:9
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Possible survival of two daughters
+  summary: One account says Meliboea or Chloris and Amycle appeased Diana and survived,
+    while another says all Niobe's children died by Apollo and Diana.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Latona denied water and transforms the countrymen
+  summary: Latona seeks water at a pond while carrying her children; countrymen prevent
+    her from drinking and muddy the water, so she turns them into frogs.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Veneration after manifested divine wrath
+  summary: After the divine punishment, people dread the manifested wrath and more
+    zealously venerate the deity who produced the twins.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Plague deaths attributed to divine arrows
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage says deaths from plague were attributed to Apollo and Diana,
+    with Apollo's arrows symbolizing his anger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage itself presents this as a rationalizing explanation rather
+    than only a narrative episode.
+- id: motif:2
+  label: Protective plant sign placed at the threshold
+  taxonomy_refs: []
+  basis: Laurel branches are placed on doors during plague in hope that Apollo will
+    spare the marked houses.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No available motif-family taxonomy directly matches threshold protection
+    by laurel.
+- id: motif:3
+  label: Bereaved woman transformed into stone
+  taxonomy_refs:
+  - shapeshifter
+  basis: Niobe is said to be carried to a Lydian mountain and changed into a rock;
+    a real rock is described as resembling a grieving woman from a distance.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The taxonomy label 'shapeshifter' is broader than the passage's involuntary
+    transformation into stone.
+- id: motif:4
+  label: Divine punishment for denying water
+  taxonomy_refs:
+  - divine_judgment
+  basis: Latona is denied water by countrymen who muddy the pond, and she punishes
+    them by transforming them into frogs.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage is an introductory summary of the fable rather than the full
+    narrative.
+- id: motif:5
+  label: Humans transformed into animals
+  taxonomy_refs:
+  - shapeshifter
+  basis: The countrymen who obstruct Latona are transformed into frogs.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Transformation is imposed by a goddess, not self-directed shapeshifting.
+- id: motif:6
+  label: Divine mother and twins
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Latona is described as bearing or carrying two children, later referred to
+    as twins, and receives increased worship after divine wrath is manifested.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not name the twins in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares ancient versions of the Niobe story that
+    share the destruction of her children while differing in the number of children
+    and details of death or survival.
+  claim_level: same_motif
+  target: Niobe child-destruction variants in Homer, Herodotus, Diodorus Siculus,
+    Apollodorus, Hesiod, Pausanias, and Ovid
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage reports these authorities through the translator's explanatory
+    note and does not quote their original texts.
+- id: claim:2
+  claim: The passage presents the poetic attribution of plague deaths to Apollo and
+    Diana as a recurring explanatory pattern in Greek and Roman mythic interpretation.
+  claim_level: same_function
+  target: Poetic plague-death attribution to Apollo for men and Diana for women
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to authorities named or summarized in the
+    passage; broader historical claims require external evidence.
+- id: claim:3
+  claim: The passage connects Ovid's transformation of Niobe into a rock with Pausanias's
+    report of a Lydian rock resembling a grieving woman, treating the myth as related
+    to a visible landscape feature.
+  claim_level: same_function
+  target: Etiological transformation tale explaining a landscape feature on Mount
+    Sipylus
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage offers a rationalizing link between myth and place, but
+    does not prove the direction of influence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9818-9832
+  quote_or_summary: Niobe is identified as daughter of Tantalus and sister of Pelops;
+    ancient authors differ on her number of children; the destruction of the children
+    is interpreted as a Theban plague, with Apollo killing males by arrows and Diana
+    causing women's deaths.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9833-9845
+  quote_or_summary: The note links contagious disease to earth exhalations and solar
+    heat, interprets Apollo's arrows as angry rays causing atmospheric corruption,
+    identifies arrows and harp as Apollo's angry and propitious symbols, and reports
+    laurel branches placed on doors during plague for protection.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9846-9862
+  quote_or_summary: Ovid, Pausanias, and Homer are compared on the deaths and burial
+    of Niobe's children; Ismenus throws himself into a Boeotian river; Niobe retires
+    to Mount Sipylus, where a rock resembles a grieving woman, and Ovid says she is
+    changed into a rock on a Lydian mountain.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9863-9869
+  quote_or_summary: Pausanias says Meliboea or Chloris and Amycle appeased Diana and
+    were preserved alive, though he inclines toward Homer's version that all Niobe's
+    children died by Apollo and Diana; Chloris's name is linked to paleness from fright.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9870-9878
+  quote_or_summary: Latona, fatigued from carrying two children and parched with thirst,
+    seeks water at a pond; countrymen prevent her from drinking and muddy the water;
+    she punishes them by transforming them into frogs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 9879-9899
+  quote_or_summary: '"all, both women and men, dread the wrath of the divinity" and
+    venerate more zealously "the great godhead of the Deity who produced the twins."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is largely explanatory and comparative, so motifs are extracted
+    from both summarized mythic episodes and the translator's rationalizing interpretations.
+    Some taxonomy mappings are broad and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources were used; all claims are based on the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-1-7-riley-gutenberg__l9818-l9899
+  passage_sha256=20fdb7625cb8016cfc85a4a1e31756e61aa37dbc7bfd48cbbc0345efadb024e0
+

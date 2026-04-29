@@ -1,0 +1,446 @@
+---
+record_id: batch.motif.roman-ovid-metamorphoses-books-8-15-riley-gutenberg-l9401-l9443
+source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+passage_locator:
+  label: EXPLANATION. / EXPLANATION. / BOOK THE THIRTEENTH. / EXPLANATION.; lines
+    9401-9443
+  start: '9401'
+  end: '9443'
+  translation: The Metamorphoses of Ovid, Books VIII-XV
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After Jove assents, Memnon's funeral pile burns and collapses. Smoke, embers,
+    and flames gather into living winged forms that become birds called Memnonides.
+    These birds circle the pyre, divide into two groups, fight, and fall as a sacrifice
+    to Memnon's ashes. They are said to repeat this battle annually in honor of their
+    parent. Aurora continues to shed affectionate tears as dew over the world.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jove nods assent before the transformation at Memnon's funeral pile.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Memnon's lofty pile sinks with fires, black smoke, and flying embers.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The embers roll into one body, take form, and assume heat and life from the
+    flames.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The newly formed beings first resemble birds and then become real birds with
+    wings.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The birds share the same natal origin and are described as innumerable sisters.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The birds circle the pile three times and raise a clamour together; on the
+    fourth flight they separate.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Two opposing bird groups fight with beaks, claws, wings, and breasts.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The birds fall as kindred bodies, described as a sacrifice to the entombed
+    ashes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The birds are named Memnonides after Memnon and are said to fight annually
+    when the Sun has run through the twelve signs of the Zodiac.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Aurora sheds tears of affection and sprinkles them as dew over the world.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A footnote suggests the annual battle may allude to gladiatorial fights at
+    funerals of Roman patricians.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Jove
+  description: A divine figure who nods assent before the described events.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Memnon
+  description: The dead man associated with the funeral pile, entombed ashes, and
+    birds named Memnonides after him.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Memnonides
+  description: Birds suddenly formed from embers and flames of Memnon's pile, sharing
+    the same birth, fighting and dying in honor of their parent.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Aurora
+  description: A grieving figure who sheds tears of affection and sprinkles them as
+    dew over the world.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Sun
+  description: The Sun marks the annual cycle by running through the twelve signs
+    of the Zodiac.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: assenting deity
+  assigned_to:
+  - fig:1
+  basis: Jove nods assent immediately before the transformation of the funeral pile
+    begins.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dead progenitor
+  assigned_to:
+  - fig:2
+  basis: The birds are born from the pile and are named after Memnon, their progenitor
+    and parent.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: honored dead
+  assigned_to:
+  - fig:2
+  basis: The birds fall as a sacrifice to the entombed ashes and later fight in honor
+    of their parent.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: ash-born birds
+  assigned_to:
+  - fig:3
+  basis: The forms arise from embers and flames and become real birds.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: ritual combatants
+  assigned_to:
+  - fig:3
+  basis: The two tribes of birds fight and are doomed to perish in battle in honor
+    of their parent.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: mourning mother or beloved figure
+  assigned_to:
+  - fig:4
+  basis: Aurora is intent on her own sorrows and sheds tears of affection as dew.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: annual-cycle marker
+  assigned_to:
+  - fig:5
+  basis: The Sun's passage through the twelve Zodiac signs marks the repeated battle.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: funeral pile
+  literal_form: Memnon's lofty burning pile
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: fire
+  literal_form: towering fires and flames of the funeral pile
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: black smoke and embers
+  literal_form: black smoke, black embers, and ash from the funeral pile
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: birds from ashes
+  literal_form: Memnonides birds formed from embers and flames
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: triple circling
+  literal_form: three circuits around the pile and a fourth separating flight
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: annual zodiac cycle
+  literal_form: the Sun running through the twelve signs of the Zodiac
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: dew tears
+  literal_form: Aurora's tears sprinkled as dew over the world
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Burning pile becomes living birds
+  summary: After Jove's assent, Memnon's pyre sinks in fire and smoke; embers gather,
+    take form, receive life from the flames, and become birds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Memnonides circle and fight
+  summary: The birds circle Memnon's pile three times, separate on the fourth flight,
+    divide into opposing groups, and fight until kindred bodies fall as a sacrifice
+    to the ashes.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Annual combat and mourning dew
+  summary: The birds receive the name Memnonides and are said to repeat their fatal
+    battle after each solar zodiac cycle in honor of their parent; Aurora continues
+    to shed tears that become dew over the world.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: life emerging from funeral fire and ashes
+  taxonomy_refs:
+  - death_rebirth
+  basis: The embers and flames of Memnon's pile gather, take life, and become birds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage describes transformation and new life from a pyre, but not
+    a full resurrection of Memnon himself.
+- id: motif:2
+  label: metamorphosis into birds
+  taxonomy_refs:
+  - shapeshifter
+  basis: The forms arising from embers first resemble birds and then become real birds
+    called Memnonides.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage presents a transformation of ash or embers into birds rather
+    than a living human changing shape.
+- id: motif:3
+  label: sacrificial combat for the honored dead
+  taxonomy_refs:
+  - sacrifice
+  basis: The birds fight in opposing groups, fall as a sacrifice to the entombed ashes,
+    and are doomed to perish in battle in honor of their parent.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage's sacrificial language is explicit, but the ritual status
+    of the birds' actions may require human review.
+- id: motif:4
+  label: mourning tears as world dew
+  taxonomy_refs:
+  - water
+  - seasonal_cycle
+  basis: Aurora sheds tears of affection and sprinkles them in dew over all the world.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage connects tears with dew, but a broader seasonal-cycle reading
+    is only lightly supported by this excerpt.
+- id: motif:5
+  label: annual memorial recurrence
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Memnonides fight after the Sun has run through the twelve signs of the
+    Zodiac, repeating a fatal battle in honor of their parent.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The timing is annual and zodiacal, but the exact calendrical or cultic
+    context is not developed in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The footnote cautiously relates the Memnonides' fatal combat in honor of
+    a parent to funerary gladiatorial combats for Roman patricians.
+  claim_level: same_function
+  target: funerary gladiatorial fights at Roman patrician funerals
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The connection is proposed by the note as a possible allusion and is
+    not directly stated in the narrative passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9401-9404
+  quote_or_summary: Jove nods assent; Memnon's lofty pile sinks with towering fires,
+    and black smoke darkens the day.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9404-9409
+  quote_or_summary: Black embers fly together, take form, receive heat and life from
+    the flames, gain wings, and become real birds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9409-9413
+  quote_or_summary: Innumerable sister birds of the same origin flutter, circle the
+    pile three times with a shared clamour, and separate on the fourth flight.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9413-9418
+  quote_or_summary: Two fierce tribes of birds fight from opposite sides with beaks,
+    claws, wings, and breasts; their kindred bodies fall as a sacrifice to the entombed
+    ashes.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9418-9422
+  quote_or_summary: The progenitor gives the suddenly formed birds the name Memnonides;
+    after the Sun passes through the twelve Zodiac signs, they fight and perish in
+    honor of their parent.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9423-9426
+  quote_or_summary: Aurora, intent on her own sorrows, sheds tears of affection and
+    sprinkles them as dew over the world.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 9439-9443, footnote 56
+  quote_or_summary: The note says the parent-honoring battle may allude to gladiatorial
+    fights at Roman patrician funerals.
+  source_text_path: texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The main narrative details are explicit. Motif assignments involving death-rebirth,
+    shapeshifting, and seasonal cycle are plausible but should be reviewed because
+    the passage describes avian generation from ashes rather than human resurrection,
+    and the Roman gladiatorial comparison appears only in a footnote.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage text and metadata; comparison limited to the supplied footnote.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:roman-ovid-metamorphoses-books-8-15-riley-gutenberg__l9401-l9443
+  passage_sha256=80d85b587613e4a667a57dc3e5f6634de163b58e23a02be5b456b2ff808e0bb4
+
