@@ -1216,6 +1216,7 @@ canonical_motif_groups:
   - external_soul_or_life_bound_to_external_object
   - external_soul_or_life_placed_outside_the_body
   - external_soul_or_life_stored_outside_the_body
+  - hidden_external_soul
   aliases: []
   related:
   - sacred_vessel
@@ -1415,6 +1416,60 @@ canonical_motif_groups:
   draft_reason_existing_groups_insufficient: Existing lament_and_mourning emphasizes
     grief and recognition, while funeral games are public ritual honors and social
     reordering after heroic death.
+- id: ambivalent_spirit_injury_healing
+  label: Ambivalent Spirit as Injurer and Healer
+  description: A spirit or nonhuman power that causes injury, illness, or danger is
+    also the source of healing, protection, cure, or immunity.
+  children:
+  - healing_or_protection_by_the_spirit_that_causes_injury
+  aliases: []
+  related:
+  - sacred_treasures
+  - death_and_transformation
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - divine_intervention
+  draft_reason_existing_groups_insufficient: Existing groups cover divine aid or healing
+    signs, but not the recurrent logic that the same dangerous spirit both wounds
+    and cures.
+- id: soul_loss_restoration
+  label: Soul Loss and Restoration
+  description: A soul, life-force, or vital double is lost, stolen, wandering, or
+    displaced and must be found, hunted, recalled, or ritually restored to heal or
+    revive a person.
+  children:
+  - hunting_and_restoring_a_lost_soul
+  aliases: []
+  related:
+  - afterlife_passage
+  - shapeshifter
+  - sacred_knowledge
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - death_and_transformation
+  - divine_intervention
+  draft_reason_existing_groups_insufficient: Existing groups cover descent, resurrection,
+    and transformation, but not the healing function of retrieving a displaced soul
+    without full death or underworld travel.
+- id: spirit_affliction_expulsion
+  label: Spirit Affliction and Expulsion
+  description: Illness, misfortune, possession, or disorder is attributed to harmful
+    spirits, intrusive forces, or nonhuman agents and treated through expulsion, cleansing,
+    appeasement, or ritual removal.
+  children:
+  - illness_or_misfortune_attributed_to_harmful_spirits_and_treated_by_expulsion
+  aliases: []
+  related:
+  - divine_judgment
+  - sacrifice
+  - sacred_knowledge
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - divine_intervention
+  - sacred_exchange
+  draft_reason_existing_groups_insufficient: Existing groups cover sacred exchange,
+    sacrifice, and divine action, but not the diagnostic and healing structure of
+    affliction by spirits and ritual expulsion.
 raw_motif_group_index:
   _meta_textual:
     group_id: _meta_textual
@@ -3117,6 +3172,121 @@ raw_motif_group_index:
     notes: 'Crop-mother or maiden spirit imagery fits the sacred feminine as fertility
       and agricultural power. Caution: The phrase ''without individualized myth''
       is a comparative classification note; preserve but do not treat as motif content.'
+  goddess_aided_survival_at_the_edge_of_death:
+    group_id: divine_intervention
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The main function is direct divine aid preserving a figure from death
+      or near-death danger. Caution: If the passage emphasizes renewal after death
+      rather than rescue from death, also review under death_and_transformation.'
+  grief_for_absent_kin_leading_to_decline_or_death:
+    group_id: lament_and_mourning
+    relationship: child
+    confidence: high
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The label matches mourning/grief that becomes physically destructive or
+      fatal. Caution: Preserve kinship and absence details as evidence notes rather
+      than promoting a separate motif from one occurrence.'
+  grieving_parent_mourns_absent_son_as_dead:
+    group_id: lament_and_mourning
+    relationship: child
+    confidence: high
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is a specific form of lament for an absent or presumed-dead family
+      member. Caution: Likely over-specific; parent/son roles should be retained as
+      local evidence detail.'
+  healing_or_protection_by_the_spirit_that_causes_injury:
+    group_id: ambivalent_spirit_injury_healing
+    relationship: functional_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The motif centers on an ambivalent nonhuman agent whose power both harms
+      and heals, which is not well captured by existing healing sign or divine intervention
+      groups. Caution: Review whether this recurs broadly enough; may belong under
+      divine_intervention if the source stresses divine aid rather than ambivalent
+      spirit agency.'
+  heroic_death_or_farewell:
+    group_id: divine_warrior
+    relationship: child
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Heroic death and farewell in a Norse context likely belongs with warrior
+      death, honor, and sacred combat patterns already grouped under divine_warrior.
+      Caution: If the passage emphasizes lament rather than heroic combat status,
+      review also under lament_and_mourning or death_by_fate.'
+  hidden_external_soul:
+    group_id: external_soul_life_token
+    relationship: child
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The external soul is a distinct comparative motif in which life or vulnerability
+      is stored outside the body. Caution: Could overlap with sacred_vessel or sacred_treasures
+      when the soul is held in an object; preserve container/object details separately.'
+  honored_hero_cremation_with_precious_container_and_companion_burial:
+    group_id: lament_and_mourning
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Heroic funerary treatment and companion burial fit the mourning/hero death
+      complex better than a general afterlife journey. Caution: Could also index under
+      sacrifice or sacred_treasures if the companion burial or precious container
+      is ritually central.'
+  human_animal_identity_through_transferred_soul:
+    group_id: shapeshifter
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A transferred soul producing human-animal identity is a form of identity/body
+      transformation across species boundaries. Caution: If the source concerns reincarnation,
+      soul-loss, or animist ontology rather than form-change, human review may prefer
+      a soul-specific candidate.'
+  human_interruption_of_divine_rite_prevents_immortality:
+    group_id: death_and_transformation
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The motif turns on a failed passage from mortality toward immortality
+      or transformed life. Caution: May belong under initiation if the interrupted
+      rite is a status ordeal; preserve failed-immortality detail.'
+  hunting_and_restoring_a_lost_soul:
+    group_id: soul_loss_restoration
+    relationship: functional_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The active retrieval and restoration of a lost soul is a recurring healing/death-boundary
+      pattern not well captured by descent or resurrection alone. Caution: Needs review
+      for shamanic or culturally specific framing; avoid flattening distinct healing
+      rites into generic resurrection.'
+  ignored_warning_leads_to_heroic_death:
+    group_id: death_by_fate
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A warning ignored before heroic death often marks an inescapable destined
+      death or doomed heroic path. Caution: If emphasis is moral failure rather than
+      fate, divine_judgment or pride_and_downfall may be better.'
+  illness_or_misfortune_attributed_to_harmful_spirits_and_treated_by_expulsion:
+    group_id: spirit_affliction_expulsion
+    relationship: ritual_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Spirit-caused affliction treated by expulsion is a distinct healing/exorcistic
+      pattern not covered by judgment or sacrifice alone. Caution: Culturally sensitive;
+      review terminology against source tradition and avoid assuming demonology where
+      the source uses other spirit categories.'
 expansion_draft:
   generated_on: '2026-04-28'
   source_suggestions_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
@@ -3124,11 +3294,11 @@ expansion_draft:
   purpose: Draft expansion generated from model normalization suggestions. Review
     before merging into taxonomy/motif-normalization.yml.
   include_low_confidence: false
-  suggestion_count: 120
-  accepted_mapping_count: 91
-  new_group_candidate_count: 12
-  excluded_count: 3
-  needs_review_count: 26
+  suggestion_count: 140
+  accepted_mapping_count: 103
+  new_group_candidate_count: 15
+  excluded_count: 4
+  needs_review_count: 33
   already_known_count: 0
 expansion_review_flags:
   low_confidence_or_needs_human_review:
@@ -3524,6 +3694,113 @@ expansion_review_flags:
       but the label is culturally specific and role-based.
     cautions: May describe a deity's office rather than a motif; review whether passage
       narrates guidance, judgment, or ritual authority.
+  - motif_id: goat_formed_woodland_spirit
+    label: Goat-formed woodland spirit
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: A goat-formed spirit could indicate shapeshifting, woodland otherworld
+      beings, or a culturally specific satyr/faun-like figure.
+    cautions: Bucket placement under death/descent is not supported by the label alone;
+      source context is needed before mapping.
+  - motif_id: goat_like_woodland_spirit_race
+    label: goat-like woodland spirit race
+    occurrences: 1
+    traditions:
+    - greek_roman
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label likely refers to a class of woodland spirits rather than
+      a narrative motif; it may be otherworldly, animal-hybrid, or simply a being
+      type.
+    cautions: Could be a culturally specific entity label; avoid treating a race/species
+      name as a motif without recurring narrative function.
+  - motif_id: healing_of_the_fallen_soul
+    label: healing of the fallen soul
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The phrase may denote moral restoration, afterlife purification, mystical
+      healing, or commentary language.
+    cautions: Needs passage evidence to distinguish soul-healing as sacred knowledge,
+      divine judgment, death-transformation, or a non-motif theological abstraction.
+  - motif_id: human_mariner_beholds_dancing_sea_spirits
+    label: human mariner beholds dancing sea spirits
+    occurrences: 1
+    traditions:
+    - greek_roman
+    suggested_action: map_to_existing_group
+    suggested_group_id: theophany
+    suggested_group_label: Theophany and Divine Manifestation
+    relationship: symbolic_variant
+    confidence: low
+    reason: low confidence
+    rationale: A human witness encountering sea spirits is a manifestation of nonordinary
+      divine or spirit presence.
+    cautions: Could be an otherworld/sea encounter rather than a theophany; source
+      context is needed to know whether it is revelatory, decorative, or narrative
+      setting.
+  - motif_id: ideal_realized_in_death_and_misery
+    label: ideal realized in death and misery
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label is abstract and may describe a philosophical interpretation
+      rather than a stable narrative motif.
+    cautions: Needs passage evidence; could relate to lament, sacrifice, tragic recognition,
+      or a commentary artifact.
+  - motif_id: immanent_spirit_becoming_external_deity
+    label: immanent spirit becoming external deity
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label appears theoretical or comparative and may describe a religious-development
+      claim rather than a motif in a passage.
+    cautions: Review for whether this is source evidence, scholarly commentary, or
+      an ontology category; avoid taxonomy placement based on theory alone.
+  - motif_id: immortal_soul_as_source_of_motion
+    label: Immortal soul as source of motion
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: This is likely a philosophical doctrine about soul rather than a narrative
+      or ritual motif.
+    cautions: May be better excluded as doctrinal commentary unless the passage uses
+      it as a recurring mythic image or cosmological pattern.
   new_group_candidates:
   - id: apotropaic_protection
     label: Apotropaic Protection Against Spirits
@@ -3564,6 +3841,7 @@ expansion_review_flags:
     - external_soul_or_life_bound_to_external_object
     - external_soul_or_life_placed_outside_the_body
     - external_soul_or_life_stored_outside_the_body
+    - hidden_external_soul
     aliases: []
     related:
     - sacred_vessel
@@ -3766,6 +4044,60 @@ expansion_review_flags:
     draft_reason_existing_groups_insufficient: Existing lament_and_mourning emphasizes
       grief and recognition, while funeral games are public ritual honors and social
       reordering after heroic death.
+  - id: ambivalent_spirit_injury_healing
+    label: Ambivalent Spirit as Injurer and Healer
+    description: A spirit or nonhuman power that causes injury, illness, or danger
+      is also the source of healing, protection, cure, or immunity.
+    children:
+    - healing_or_protection_by_the_spirit_that_causes_injury
+    aliases: []
+    related:
+    - sacred_treasures
+    - death_and_transformation
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - divine_intervention
+    draft_reason_existing_groups_insufficient: Existing groups cover divine aid or
+      healing signs, but not the recurrent logic that the same dangerous spirit both
+      wounds and cures.
+  - id: soul_loss_restoration
+    label: Soul Loss and Restoration
+    description: A soul, life-force, or vital double is lost, stolen, wandering, or
+      displaced and must be found, hunted, recalled, or ritually restored to heal
+      or revive a person.
+    children:
+    - hunting_and_restoring_a_lost_soul
+    aliases: []
+    related:
+    - afterlife_passage
+    - shapeshifter
+    - sacred_knowledge
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - death_and_transformation
+    - divine_intervention
+    draft_reason_existing_groups_insufficient: Existing groups cover descent, resurrection,
+      and transformation, but not the healing function of retrieving a displaced soul
+      without full death or underworld travel.
+  - id: spirit_affliction_expulsion
+    label: Spirit Affliction and Expulsion
+    description: Illness, misfortune, possession, or disorder is attributed to harmful
+      spirits, intrusive forces, or nonhuman agents and treated through expulsion,
+      cleansing, appeasement, or ritual removal.
+    children:
+    - illness_or_misfortune_attributed_to_harmful_spirits_and_treated_by_expulsion
+    aliases: []
+    related:
+    - divine_judgment
+    - sacrifice
+    - sacred_knowledge
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    draft_reason_existing_groups_insufficient: Existing groups cover sacred exchange,
+      sacrifice, and divine action, but not the diagnostic and healing structure of
+      affliction by spirits and ritual expulsion.
   excluded_from_pattern_queries:
   - motif_id: animal_or_lizard_form_of_the_soul_as_a_variant_marker
     label: animal or lizard form of the soul as a variant marker
@@ -3813,5 +4145,21 @@ expansion_review_flags:
       divine figures rather than a narrative or symbolic motif.
     cautions: Preserve as commentary/provenance if useful, but exclude from motif
       pattern queries.
+  - motif_id: hidden_token_of_the_dead_mother_misunderstood_as_evidence_of_wrongdoing
+    label: hidden token of the dead mother misunderstood as evidence of wrongdoing
+    occurrences: 1
+    traditions:
+    - japanese
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: over_specific_label
+    confidence: medium
+    reason: model suggested exclusion from pattern queries
+    rationale: This appears to be a highly specific plot detail involving a token,
+      misunderstanding, and family relation rather than a reusable motif group.
+    cautions: If similar recognition-token or false-accusation patterns recur elsewhere,
+      review under a future narrative-recognition or social-judgment group; currently
+      preserve as evidence detail only.
   already_known_in_base_normalization: []
 
