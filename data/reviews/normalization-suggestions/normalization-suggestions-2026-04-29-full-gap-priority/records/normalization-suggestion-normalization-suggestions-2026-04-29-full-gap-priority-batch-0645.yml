@@ -1,0 +1,342 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0645
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.proxy-wooing-for-marriage
+  motif_id: proxy_wooing_for_marriage
+  label: Proxy wooing for marriage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Marriage negotiation by proxy is a social-plot motif not cleanly covered
+    by sacred_marriage or sacred_love without evidence of sacred, royal, or cosmic
+    function.
+  cautions: Single occurrence; may be literary plot mechanics rather than a mythic
+    motif. Map to sacred_marriage only if the union establishes sovereignty, fertility,
+    legitimacy, or cosmic order.
+  suggested_aliases:
+  - proxy courtship
+  - wooing by emissary
+  - marriage arranged through intermediary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - sacred_marriage
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-confession-to-save-an-innocent-person
+  motif_id: public_confession_to_save_an_innocent_person
+  label: public confession to save an innocent person
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: A confession that risks public harm to save another functions as self-surrender
+    for another's restoration.
+  cautions: Could instead belong under divine_judgment if the emphasis is legal vindication,
+    or sacred_law if framed as moral duty rather than sacrificial self-offering.
+  suggested_aliases:
+  - self-incriminating confession to save the innocent
+  - confession as self-sacrifice
+  - truth-telling to avert wrongful punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-humiliation-penance-after-alleged-child-killing
+  motif_id: public_humiliation_penance_after_alleged_child_killing
+  label: public humiliation penance after alleged child-killing
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines accusation, child-killing, public shame, and penance;
+    the governing function is unclear without passage evidence.
+  cautions: Could be atonement, divine judgment, social punishment, false accusation,
+    or episode-specific humiliation. Avoid mapping to sacrifice unless penance is
+    ritually framed as offering or purification.
+  suggested_aliases:
+  - public penance after alleged infanticide
+  - humiliating penance for child-killing accusation
+  - shame penance after accused child murder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-and-restoration-through-the-scent-of-a-lost-beloved
+  motif_id: recognition_and_restoration_through_the_scent_of_a_lost_beloved
+  label: Recognition and restoration through the scent of a lost beloved
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Recognition of the beloved through scent fits love-longing imagery where
+    presence restores or transforms the lover.
+  cautions: If the passage centers on mystical perception rather than beloved reunion,
+    dream_and_vision or mystical_quest may be useful secondary mappings. Preserve
+    scent as local symbolic detail.
+  suggested_aliases:
+  - scent of the beloved
+  - recognition by beloved's fragrance
+  - restoration through beloved's scent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-by-personal-tokens
+  motif_id: recognition_by_personal_tokens
+  label: recognition by personal tokens
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Personal tokens proving identity recur as a recognition mechanism but
+    are not well captured by sacred_treasures, which emphasizes power objects.
+  cautions: May be ordinary narrative recognition rather than sacred motif; only promote
+    if similar recognition-token labels recur across sources.
+  suggested_aliases:
+  - recognition token
+  - identity token
+  - personal token as proof of identity
+  suggested_new_group:
+    id: recognition_tokens
+    label: Recognition Tokens and Identity Proofs
+    description: Objects, marks, likenesses, signs, or exchanged tokens reveal identity,
+      kinship, legitimacy, or a lost relationship, often preventing harm or enabling
+      reunion.
+    parent_group_ids:
+    - sacred_treasures
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_love
+    - miraculous_child
+    reason_existing_groups_insufficient: Existing sacred_treasures covers empowered
+      objects, but these tokens primarily function as identity proofs and reunion
+      devices rather than sources of authority or supernatural power.
+- suggestion_id: normalization.suggestion.recognition-of-a-child-through-likeness-to-the-absent-father
+  motif_id: recognition_of_a_child_through_likeness_to_the_absent_father
+  label: recognition of a child through likeness to the absent father
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Recognition of a child by paternal likeness concerns lineage, identity,
+    and the child's place in a significant family destiny.
+  cautions: If the passage is purely domestic recognition with no sacred, heroic,
+    or dynastic importance, it may be too specific for motif querying. Could also
+    relate to royal_legitimacy when succession is at stake.
+  suggested_aliases:
+  - child recognized by father's likeness
+  - paternal resemblance proves identity
+  - recognition of offspring by resemblance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-prevents-kin-slaying-by-poison
+  motif_id: recognition_prevents_kin_slaying_by_poison
+  label: Recognition prevents kin-slaying by poison
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The central function is recognition of identity averting kin-slaying;
+    poison is likely the episode-specific threat.
+  cautions: Preserve poison and kin-slaying as evidence details. If the narrative
+    emphasizes moral reckoning or fate more than recognition, divine_judgment may
+    be secondary.
+  suggested_aliases:
+  - recognition averts kin-slaying
+  - recognition prevents poisoning of kin
+  - identity revealed before family murder
+  suggested_new_group:
+    id: recognition_tokens
+    label: Recognition Tokens and Identity Proofs
+    description: Objects, marks, likenesses, signs, or exchanged tokens reveal identity,
+      kinship, legitimacy, or a lost relationship, often preventing harm or enabling
+      reunion.
+    parent_group_ids:
+    - sacred_treasures
+    related_group_ids:
+    - sacred_love
+    - miraculous_child
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing groups do not cover recognition
+      scenes as a narrative function; sacred_treasures only fits when an object itself
+      has sacred or empowered status.
+- suggestion_id: normalization.suggestion.recognition-reunion-of-parent-and-child
+  motif_id: recognition_reunion_of_parent_and_child
+  label: recognition reunion of parent and child
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Parent-child recognition and reunion fits the protected or destiny-marked
+    child complex when the child identity matters narratively.
+  cautions: May be ordinary family-reunion plot if no sacred, heroic, or destiny function
+    is present. Consider a recognition-token group if the recognition mechanism is
+    central.
+  suggested_aliases:
+  - parent-child recognition reunion
+  - lost child recognized by parent
+  - reunion of parent and child through recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - recognition_tokens
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-token-exchanged-while-one-beloved-sleeps
+  motif_id: recognition_token_exchanged_while_one_beloved_sleeps
+  label: recognition token exchanged while one beloved sleeps
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The exchanged token functions as delayed proof of encounter and beloved
+    identity; sleeping is likely a local episode detail.
+  cautions: Could also index under sacred_love if longing or reunion is the main motif.
+    Do not treat the token as sacred_treasure unless it has power beyond recognition.
+  suggested_aliases:
+  - beloved's recognition token
+  - sleeping beloved token exchange
+  - token proving hidden encounter
+  suggested_new_group:
+    id: recognition_tokens
+    label: Recognition Tokens and Identity Proofs
+    description: Objects, marks, likenesses, signs, or exchanged tokens reveal identity,
+      kinship, legitimacy, or a lost relationship, often preventing harm or enabling
+      reunion.
+    parent_group_ids:
+    - sacred_treasures
+    related_group_ids:
+    - sacred_love
+    - storytelling_as_power
+    reason_existing_groups_insufficient: The motif's function is identity proof and
+      reunion, not an intrinsically sacred or powerful object.
+- suggestion_id: normalization.suggestion.recognition-tokens-from-the-abducted-beloved
+  motif_id: recognition_tokens_from_the_abducted_beloved
+  label: recognition tokens from the abducted beloved
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Tokens from an abducted beloved prove identity, maintain relationship,
+    and enable reunion or rescue.
+  cautions: Also related to stolen_beloved and sacred_love; map there if the abduction
+    quest is more central than token recognition.
+  suggested_aliases:
+  - tokens of the abducted beloved
+  - recognition tokens from lost beloved
+  - beloved's proof token after abduction
+  suggested_new_group:
+    id: recognition_tokens
+    label: Recognition Tokens and Identity Proofs
+    description: Objects, marks, likenesses, signs, or exchanged tokens reveal identity,
+      kinship, legitimacy, or a lost relationship, often preventing harm or enabling
+      reunion.
+    parent_group_ids:
+    - sacred_treasures
+    related_group_ids:
+    - sacred_love
+    - stolen_beloved
+    - hero_journey
+    reason_existing_groups_insufficient: Stolen_beloved covers the loss or abduction,
+      and sacred_treasures covers power objects, but neither captures token-mediated
+      recognition as the core mechanism.
+batch_notes:
+- Several labels in this batch cluster around recognition scenes. A durable recognition_tokens
+  group may be warranted if similar identity-proof motifs recur across traditions,
+  but single domestic recognition episodes should remain provisional.
+- Avoid collapsing all marriage or beloved motifs into sacred_marriage or sacred_love
+  unless the passage evidence supports sacred, mystical, royal, or transformative
+  function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed for recognition-token
+    group promotion and contextual family/romance plot labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0645
+  input_sha256: 34169a7e7e5b6805a35600d53a4d64910c11603f4510762c8a46c25a00d73d89

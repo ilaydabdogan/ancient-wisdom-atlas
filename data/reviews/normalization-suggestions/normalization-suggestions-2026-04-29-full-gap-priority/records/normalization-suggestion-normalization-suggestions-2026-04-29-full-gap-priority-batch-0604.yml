@@ -1,0 +1,324 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0604
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bride-won-by-dangerous-contest
+  motif_id: bride_won_by_dangerous_contest
+  label: bride won by dangerous contest
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe courtship by ordeal, heroic contest, or marriage
+    as prize, but no current group cleanly covers bride-winning contests.
+  cautions: Single occurrence and potentially gendered/episode-specific; review source
+    context before creating a marriage-contest or heroic ordeal mapping.
+  suggested_aliases:
+  - marriage contest
+  - bride as contest prize
+  - dangerous courtship contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - initiation
+    - sacred_love
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bridegroom-chosen-under-restricted-sight
+  motif_id: bridegroom_chosen_under_restricted_sight
+  label: Bridegroom chosen under restricted sight
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Restricted sight in mate selection may be a courtship taboo, ordeal,
+    deception, or fate motif depending on the episode.
+  cautions: Too context-dependent for direct mapping; could involve sacred law, trickster
+    deception, dream/vision, or marriage custom.
+  suggested_aliases:
+  - restricted sight courtship
+  - blind bridegroom choice
+  - mate selection under taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - sacred_law
+    - trickster
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-a-tree-in-seasonal-fire
+  motif_id: burning_a_tree_in_seasonal_fire
+  label: burning a tree in seasonal fire
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A tree burned in a seasonal fire is best treated as a calendrical ritual
+    renewal pattern.
+  cautions: If the tree functions mainly as world tree or axis, add axis_mundi; if
+    the fire is world-ending, use flood_and_renewal or sacred_fire instead.
+  suggested_aliases:
+  - seasonal fire rite
+  - ritual tree burning
+  - calendar fire with tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burying-daughters-alive-female-infanticide
+  motif_id: burying_daughters_alive_female_infanticide
+  label: Burying daughters alive / female infanticide
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label names a morally charged social practice or condemnation rather
+    than a clear mythic motif without passage evidence.
+  cautions: Culturally sensitive and potentially legal/ethical rather than narrative;
+    review whether the passage frames it as divine judgment, sacred law, social reform,
+    or historical polemic.
+  suggested_aliases:
+  - female infanticide
+  - burying daughters alive
+  - condemnation of infanticide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - ethical_command
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-lover-unable-to-break-bonds
+  motif_id: captive_lover_unable_to_break_bonds
+  label: Captive lover unable to break bonds
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lover held captive and unable to escape fits love as bondage, longing,
+    and ordeal within the sacred love complex.
+  cautions: If the bonds are mystical ego-dissolution rather than literal captivity,
+    mystical_quest or annihilation_union may be secondary; if only plot detail, keep
+    granular.
+  suggested_aliases:
+  - lover in bonds
+  - captivity of the lover
+  - love as bondage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.care-for-the-mother-of-the-endangered-hero
+  motif_id: care_for_the_mother_of_the_endangered_hero
+  label: Care for the mother of the endangered hero
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: The endangered hero and protective care around his mother belong near
+    threatened or protected infancy and heroic destiny motifs.
+  cautions: If the focus is adult hero family obligation rather than birth/infancy
+    danger, this may be an episode-specific social-care detail.
+  suggested_aliases:
+  - protection of hero's mother
+  - care for mother of threatened hero
+  - endangered hero family care
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - mother_goddess
+    - hero_journey
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-body-responding-to-human-beauty
+  motif_id: celestial_body_responding_to_human_beauty
+  label: celestial body responding to human beauty
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In a Sufi context, cosmic response to beauty likely expresses sacred
+    love, longing, and beauty as spiritually potent.
+  cautions: If the passage functions as cosmological omen or astral animation rather
+    than love mysticism, dream_and_vision or cosmic_origin may be better.
+  suggested_aliases:
+  - cosmic response to beauty
+  - celestial sympathy with beauty
+  - beauty moves the heavens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - beauty_and_paradox
+    - dream_and_vision
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-maiden-weaving-on-the-rainbow
+  motif_id: celestial_maiden_weaving_on_the_rainbow
+  label: celestial maiden weaving on the rainbow
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines a celestial female figure, weaving, and rainbow imagery,
+    but its narrative function is unclear.
+  cautions: Could be a sky/otherworld figure, sacred craft image, bride/courtship
+    motif, or passage-specific description; avoid collapsing to sacred feminine without
+    evidence.
+  suggested_aliases:
+  - rainbow-weaving maiden
+  - celestial weaver maiden
+  - sky maiden weaving
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_craft
+    - mother_goddess
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-maidens-as-spinners-and-weavers
+  motif_id: celestial_maidens_as_spinners_and_weavers
+  label: celestial maidens as spinners and weavers
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Celestial female spinners/weavers may indicate fate, craft, otherworldly
+    women, or courtship imagery, none of which is explicit from the label alone.
+  cautions: If spinning/weaving controls destiny, a new fate-weaving group may be
+    warranted; if merely descriptive, preserve as evidence detail.
+  suggested_aliases:
+  - celestial weavers
+  - sky maidens as spinners
+  - divine female weaving
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_craft
+    - death_by_fate
+    - mother_goddess
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champion-avenges-insult-to-a-lady-s-maiden
+  motif_id: champion_avenges_insult_to_a_lady_s_maiden
+  label: champion avenges insult to a lady's maiden
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A champion avenging an insult fits honor-based combat and vengeance within
+    heroic martial order.
+  cautions: May be a chivalric episode detail rather than sacred combat; if focus
+    is gendered honor or courtly service, source review is needed.
+  suggested_aliases:
+  - champion avenges insult
+  - defense of lady's attendant
+  - honor combat for insult
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - royal_legitimacy
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence courtship, gender, or episode-specific
+  motifs; human review should verify whether they are recurring motifs or narrative
+  details.
+- Do not infer transmission or cultural borrowing from these proposed placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally sensitive and gendered
+    labels require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0604
+  input_sha256: c2b33f3150b24946439c21901662dfbc5df7376bfd28346b919471819a39160b

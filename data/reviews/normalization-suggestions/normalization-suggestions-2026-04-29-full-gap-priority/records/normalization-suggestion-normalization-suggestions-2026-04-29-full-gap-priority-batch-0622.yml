@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0622
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heart-bound-or-snared-by-beauty
+  motif_id: heart_bound_or_snared_by_beauty
+  label: heart bound or snared by beauty
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label frames beauty as an entrapping force of love, close to sacred/mystical
+    longing motifs already grouped under sacred_love.
+  cautions: Single occurrence; if the passage stresses paradox of beauty and pain
+    rather than longing, beauty_and_paradox may be a secondary fit.
+  suggested_aliases:
+  - beauty ensnares the heart
+  - heart captured by beauty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.helper-rewarded-after-lovers-reunion
+  motif_id: helper_rewarded_after_lovers_reunion
+  label: helper rewarded after lovers' reunion
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The narrative function supports lovers' reunion, which belongs near love
+    and longing patterns.
+  cautions: May be an episode-specific reward/resolution detail rather than a durable
+    motif; verify whether the helper role recurs across sources.
+  suggested_aliases:
+  - rewarded helper in lovers reunion
+  - helper rewarded for reuniting lovers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hereditary-feud-over-a-slain-father
+  motif_id: hereditary_feud_over_a_slain_father
+  label: Hereditary feud over a slain father
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A feud inherited after a father's killing is a kinship-driven vengeance
+    conflict, fitting sacred or heroic combat better than love/family alone.
+  cautions: Could belong under divine_warrior if centered on heroic honor, or lament_and_mourning
+    if centered on grief rather than feud.
+  suggested_aliases:
+  - blood feud over slain father
+  - vengeance for slain father
+  - inherited feud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-birth-story-headings
+  motif_id: hero_birth_story_headings
+  label: hero birth story headings
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording refers to headings or textual organization, not a narrative
+    motif about heroic birth itself.
+  cautions: If source evidence contains actual extraordinary birth episodes, those
+    should be indexed separately under miraculous_child or sacred_birth.
+  suggested_aliases:
+  - hero birth headings
+  - birth-story headings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-goes-to-battle-as-to-a-love-tryst
+  motif_id: hero_goes_to_battle_as_to_a_love_tryst
+  label: Hero goes to battle as to a love tryst
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The core action is heroic battle, with erotic comparison intensifying
+    the warrior's relationship to combat.
+  cautions: May also touch sacred_love or beauty_and_paradox if the passage foregrounds
+    eroticized danger rather than warfare.
+  suggested_aliases:
+  - battle as love tryst
+  - eroticized heroic combat
+  - warrior approaches battle as lover
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-kills-beloved-hound-to-protect-a-fugitive-animal
+  motif_id: hero_kills_beloved_hound_to_protect_a_fugitive_animal
+  label: hero kills beloved hound to protect a fugitive animal
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines heroic action, animal protection, beloved animal loss,
+    and possible taboo/loyalty conflict without a clear existing parent.
+  cautions: Likely episode-specific; could fit sacrifice, sacred_law, animal-helper/fugitive-animal
+    patterns, or heroic ordeal depending on source context.
+  suggested_aliases:
+  - beloved hound killed to spare fugitive animal
+  - hero sacrifices hound to protect animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-rescues-bound-maiden-from-monster
+  motif_id: hero_rescues_bound_maiden_from_monster
+  label: hero rescues bound maiden from monster
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Maiden Rescue from Monster
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is a common rescue-combat pattern combining endangered captive,
+    monster threat, and heroic deliverance not cleanly represented by current groups.
+  cautions: Could be indexed provisionally under sacred_combat or hero_journey, but
+    those lose the captive-maiden rescue function.
+  suggested_aliases:
+  - hero rescues captive maiden
+  - maiden rescued from monster
+  - bound maiden delivered by hero
+  suggested_new_group:
+    id: maiden_rescue
+    label: Maiden Rescue from Monster
+    description: A hero rescues a bound, captive, exposed, or threatened maiden or
+      beloved figure from a monster, dragon, sea beast, giant, or similar lethal power,
+      often through combat and sometimes leading to marriage or recognition.
+    parent_group_ids:
+    - hero_journey
+    - sacred_combat
+    related_group_ids:
+    - sacred_love
+    - divine_warrior
+    - threshold_guardian
+    reason_existing_groups_insufficient: Existing combat and hero-journey groups cover
+      the fight or ordeal but not the recurrent rescue-of-captive-maiden structure.
+- suggestion_id: normalization.suggestion.hero-rescues-rock-bound-maiden
+  motif_id: hero_rescues_rock_bound_maiden
+  label: Hero rescues rock-bound maiden
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Maiden Rescue from Monster
+  relationship: narrower_than
+  confidence: medium
+  rationale: A rock-bound maiden rescue is a specific variant of the exposed/bound
+    maiden rescued by a hero pattern.
+  cautions: If no monster or combat is present in the passage, review whether the
+    key function is captivity, exposure, sacrifice, or rescue.
+  suggested_aliases:
+  - rock-bound maiden rescued
+  - hero frees exposed maiden
+  - maiden bound to rock
+  suggested_new_group:
+    id: maiden_rescue
+    label: Maiden Rescue from Monster
+    description: A hero rescues a bound, captive, exposed, or threatened maiden or
+      beloved figure from a monster, dragon, sea beast, giant, or similar lethal power,
+      often through combat and sometimes leading to marriage or recognition.
+    parent_group_ids:
+    - hero_journey
+    - sacred_combat
+    related_group_ids:
+    - sacred_love
+    - divine_warrior
+    - threshold_guardian
+    reason_existing_groups_insufficient: Existing combat and hero-journey groups cover
+      the fight or ordeal but not the recurrent rescue-of-captive-maiden structure.
+- suggestion_id: normalization.suggestion.hero-wins-a-bride-surrounded-by-flames
+  motif_id: hero_wins_a_bride_surrounded_by_flames
+  label: Hero wins a bride surrounded by flames
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on winning a bride through a perilous love ordeal,
+    with flames functioning as the trial boundary.
+  cautions: Also relevant to initiation, hero_journey, or sacred_fire if the flame
+    barrier is the main ritual or supernatural threshold.
+  suggested_aliases:
+  - bride won through wall of flame
+  - flame-encircled bride
+  - hero crosses fire to win bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-disguise-in-humble-or-gender-coded-service
+  motif_id: heroic_disguise_in_humble_or_gender_coded_service
+  label: heroic disguise in humble or gender-coded service
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: role_variant
+  confidence: medium
+  rationale: Disguise changes visible status, role, or gender-coded presentation to
+    cross social boundaries, fitting the transformation/disguise group.
+  cautions: If the disguise primarily serves exile, hidden kingship, or ordeal, hero_journey
+    or royal_legitimacy may be secondary mappings.
+  suggested_aliases:
+  - hero in humble disguise
+  - gender-coded service disguise
+  - disguised hero in service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for normalization review and do not imply
+  historical transmission or borrowing.
+- Several labels are single-occurrence and episode-specific; preserve local detail
+  as evidence notes even when mapped to broad groups.
+- A recurring maiden-rescue pattern appears insufficiently represented by existing
+  groups and may warrant a new review group if additional examples appear.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch reviewed for provisional group placement; human review recommended
+    for episode-specific animal sacrifice/protection and proposed maiden_rescue group.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0622
+  input_sha256: a0808750c35a349e4ddccce75bc15798e6da2f73f9bc898656157aa8502e08b2

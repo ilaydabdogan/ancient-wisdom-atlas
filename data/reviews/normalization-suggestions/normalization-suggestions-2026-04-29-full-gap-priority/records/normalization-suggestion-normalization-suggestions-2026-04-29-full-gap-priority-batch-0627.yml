@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0627
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.jealous-stepmother-demands-child-s-heart
+  motif_id: jealous_stepmother_demands_child_s_heart
+  label: jealous stepmother demands child's heart
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label fits a recurrent family-persecution pattern not well covered
+    by existing sacred-birth or child-protection groups.
+  cautions: Single occurrence here; the demanded heart may be episode-specific and
+    should be preserved as evidence detail.
+  suggested_aliases:
+  - persecuted stepchild
+  - jealous stepmother persecutes child
+  - child threatened by stepmother
+  suggested_new_group:
+    id: jealous_stepmother_persecuted_child
+    label: Jealous Stepmother and Persecuted Child
+    description: A jealous stepmother, co-wife, or rival maternal figure endangers,
+      falsely accuses, expels, or seeks the death of a child or stepchild within a
+      family conflict.
+    parent_group_ids:
+    - miraculous_child
+    related_group_ids:
+    - sacred_love
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing child groups emphasize sacred destiny
+      or protection, while this motif centers on domestic jealousy and child persecution.
+- suggestion_id: normalization.suggestion.jealous-stepmother-endangers-children
+  motif_id: jealous_stepmother_endangers_children
+  label: Jealous stepmother endangers children
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: narrower_than
+  confidence: medium
+  rationale: A jealous stepmother threatening children is the core persecuted-child
+    family motif.
+  cautions: Needs review against local kinship context; may overlap with miraculous_child
+    only if the children have marked destiny or divine protection.
+  suggested_aliases:
+  - persecuted children by stepmother
+  - jealous stepmother threatens children
+  - hostile stepmother
+  suggested_new_group:
+    id: jealous_stepmother_persecuted_child
+    label: Jealous Stepmother and Persecuted Child
+    description: A jealous stepmother, co-wife, or rival maternal figure endangers,
+      falsely accuses, expels, or seeks the death of a child or stepchild within a
+      family conflict.
+    parent_group_ids:
+    - miraculous_child
+    related_group_ids:
+    - sacred_love
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing child groups emphasize sacred destiny
+      or protection, while this motif centers on domestic jealousy and child persecution.
+- suggestion_id: normalization.suggestion.jealous-stepmother-falsely-accuses-innocent-stepchild
+  motif_id: jealous_stepmother_falsely_accuses_innocent_stepchild
+  label: jealous stepmother falsely accuses innocent stepchild
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: functional_variant
+  confidence: medium
+  rationale: False accusation by a jealous stepmother is a family-persecution variant
+    of the persecuted stepchild pattern.
+  cautions: If the passage emphasizes legal ordeal or vindication, divine_judgment
+    may be a secondary mapping.
+  suggested_aliases:
+  - falsely accused stepchild
+  - persecuted innocent stepchild
+  - jealous stepmother slanders child
+  suggested_new_group:
+    id: jealous_stepmother_persecuted_child
+    label: Jealous Stepmother and Persecuted Child
+    description: A jealous stepmother, co-wife, or rival maternal figure endangers,
+      falsely accuses, expels, or seeks the death of a child or stepchild within a
+      family conflict.
+    parent_group_ids:
+    - miraculous_child
+    related_group_ids:
+    - sacred_love
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing child groups emphasize sacred destiny
+      or protection, while this motif centers on domestic jealousy and child persecution.
+- suggestion_id: normalization.suggestion.jealous-supernatural-lover-or-captor
+  motif_id: jealous_supernatural_lover_or_captor
+  label: jealous supernatural lover or captor
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on possessive supernatural love or captivity, fitting
+    love as dangerous or binding.
+  cautions: If the captor's realm is central, otherworld may be a secondary mapping;
+    if coercion rather than love dominates, needs human review.
+  suggested_aliases:
+  - possessive supernatural lover
+  - supernatural lover as captor
+  - jealous otherworld lover
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-wife-or-stepmother-harms-children
+  motif_id: jealous_wife_or_stepmother_harms_children
+  label: jealous wife or stepmother harms children
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: broader_label
+  confidence: medium
+  rationale: The motif generalizes the hostile stepmother/co-wife harming children
+    pattern.
+  cautions: Because it includes wife or stepmother, review whether the antagonist
+    is a rival spouse, maternal figure, or broader succession threat.
+  suggested_aliases:
+  - jealous co-wife harms children
+  - hostile stepmother harms children
+  - persecuted children by rival wife
+  suggested_new_group:
+    id: jealous_stepmother_persecuted_child
+    label: Jealous Stepmother and Persecuted Child
+    description: A jealous stepmother, co-wife, or rival maternal figure endangers,
+      falsely accuses, expels, or seeks the death of a child or stepchild within a
+      family conflict.
+    parent_group_ids:
+    - miraculous_child
+    related_group_ids:
+    - sacred_love
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing child groups emphasize sacred destiny
+      or protection, while this motif centers on domestic jealousy and child persecution.
+- suggestion_id: normalization.suggestion.killing-of-male-children-and-sparing-of-daughters
+  motif_id: killing_of_male_children_and_sparing_of_daughters
+  label: Killing of male children and sparing of daughters
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mass threat against children by gender can function as threatened infancy
+    or protected-child background.
+  cautions: May be historical, legal, or polemical context rather than a mythic child
+    motif; review source evidence before final mapping.
+  suggested_aliases:
+  - threatened male infants
+  - gendered killing of children
+  - children spared by gender
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-comparing-joy-to-free-flowing-water-and-sorrow-to-frozen-or-imprisoned-water
+  motif_id: lament_comparing_joy_to_free_flowing_water_and_sorrow_to_frozen_or_imprisoned_water
+  label: lament comparing joy to free-flowing water and sorrow to frozen or imprisoned
+    water
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The core function is lament and grief expressed through water imagery.
+  cautions: Water imagery is metaphorical here; do not map to sacred_waters unless
+    the passage gives water a ritual or transformative function.
+  suggested_aliases:
+  - lament with water imagery
+  - sorrow as frozen water
+  - joy as flowing water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-over-object-of-the-absent-beloved
+  motif_id: lament_over_object_of_the_absent_beloved
+  label: Lament over object of the absent beloved
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Grief focused on an absent beloved's object expresses love, longing,
+    and separation.
+  cautions: If the lament is chiefly funerary or heroic, lament_and_mourning may be
+    a better primary group.
+  suggested_aliases:
+  - beloved's object as focus of lament
+  - lament for absent beloved
+  - longing through beloved's token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-over-the-fallen-warrior-by-mother-and-widow
+  motif_id: lament_over_the_fallen_warrior_by_mother_and_widow
+  label: lament over the fallen warrior by mother and widow
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: role_variant
+  confidence: high
+  rationale: A mother and widow mourning a fallen warrior directly fits lament for
+    heroic death.
+  cautions: May also relate to heroic_funeral_rites or divine_warrior if ritual honors
+    or warrior duty are foregrounded.
+  suggested_aliases:
+  - mother and widow lament fallen warrior
+  - women lament dead hero
+  - kin lament warrior death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lamenting-survivor-beside-slain-beloved-and-kin
+  motif_id: lamenting_survivor_beside_slain_beloved_and_kin
+  label: lamenting survivor beside slain beloved and kin
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: A survivor lamenting slain beloved and kin is a clear grief and tragic-recognition
+    motif.
+  cautions: If the scene primarily motivates vengeance or combat, sacred_combat may
+    be a secondary mapping.
+  suggested_aliases:
+  - survivor laments slain kin
+  - lament beside the dead beloved
+  - mourning slain beloved and family
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several family-jealousy child-harm labels cluster together and may justify a durable
+  review group for persecuted stepchildren or hostile stepmothers.
+- Lament labels should usually preserve whether the grief is erotic, familial, heroic,
+  or funerary rather than collapsing all to death transformation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review should confirm source context and
+    whether the proposed persecuted-stepchild group is warranted.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0627
+  input_sha256: 7a07b957fc2b000a74676f66fb78d79f1c71404581fd67e7966d4981a3491dc7

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0591
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.water-applied-to-revive-or-tend-a-fallen-hero
+  motif_id: water_applied_to_revive_or_tend_a_fallen_hero
+  label: water applied to revive or tend a fallen hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Water is used in a restorative or revival context after heroic collapse,
+    fitting renewal from death or near-death.
+  cautions: If the passage only describes ordinary first aid or tending wounds, it
+    may be too episode-specific for motif queries; consider sacred_waters as secondary
+    if water's sacred quality is explicit.
+  suggested_aliases:
+  - reviving water
+  - water used to restore fallen hero
+  - healing water for fallen warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-arising-or-acting-as-agent-of-fate
+  motif_id: water_arising_or_acting_as_agent_of_fate
+  label: Water arising or acting as agent of fate
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could mean water as a fated death agent, omen, boundary, or
+    personified natural force.
+  cautions: Source context is needed to decide between sacred_waters, death_by_fate,
+    divine_judgment, or a passage-specific natural image.
+  suggested_aliases:
+  - water as agent of fate
+  - fateful water
+  - water arising as destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-as-boundary-against-hostile-beings
+  motif_id: water_as_boundary_against_hostile_beings
+  label: water as boundary against hostile beings
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: high
+  rationale: Water functions as a protective boundary separating a figure or space
+    from hostile beings.
+  cautions: If the emphasis is ritual apotropaic protection rather than crossing or
+    boundary symbolism, sacred_law may be a useful secondary review link.
+  suggested_aliases:
+  - protective water boundary
+  - water barrier against hostile beings
+  - water as apotropaic boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-as-image-of-changeability
+  motif_id: water_as_image_of_changeability
+  label: water as image of changeability
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif uses water as a symbolic image of instability, transformation,
+    or change.
+  cautions: May be poetic imagery rather than a narrative motif; exclude or preserve
+    only as evidence detail if it does not recur or affect narrative function.
+  suggested_aliases:
+  - water as changeability
+  - water as mutable image
+  - water symbolism of change
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-as-indexed-natural-theme
+  motif_id: water_as_indexed_natural_theme
+  label: Water as indexed natural theme
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording indicates an indexing or classification artifact rather than
+    a concrete motif.
+  cautions: If the source passage gives water a specific cosmological, ethical, or
+    transformative function, create a narrower evidence label under sacred_waters
+    or cosmic_origin instead.
+  suggested_aliases:
+  - water theme index
+  - indexed water theme
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-associated-divinities-and-origin-setting
+  motif_id: water_associated_divinities_and_origin_setting
+  label: water-associated divinities and origin setting
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Water divinities and an origin setting point toward primordial waters
+    or aquatic creation context.
+  cautions: If the passage mainly identifies deities rather than creation, sacred_waters
+    or divine_intervention may be better; avoid treating any water reference as a
+    flood motif.
+  suggested_aliases:
+  - water divinities in origin setting
+  - primordial water deities
+  - aquatic origin setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-barrier-halts-pursuit-while-magician-escapes
+  motif_id: water_barrier_halts_pursuit_while_magician_escapes
+  label: water barrier halts pursuit while magician escapes
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: high
+  rationale: A water barrier functions as a liminal protective boundary enabling escape
+    from pursuit.
+  cautions: The magician-escape framing may also overlap with trickster or shapeshifter
+    episodes; keep the water-boundary function as the mapping basis.
+  suggested_aliases:
+  - water barrier escape
+  - water halts pursuit
+  - protective water barrier
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-borne-escape-after-battle
+  motif_id: water_borne_escape_after_battle
+  label: water-borne escape after battle
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be a simple battle episode, a liminal water crossing, or
+    a heroic escape motif.
+  cautions: Do not map to sacred_waters unless water marks boundary, transformation,
+    divine aid, or ritualized passage; may be too episode-specific.
+  suggested_aliases:
+  - escape by water after battle
+  - waterborne flight after combat
+  - post-battle river escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-boundary-crossed-by-an-outsider
+  motif_id: water_boundary_crossed_by_an_outsider
+  label: water boundary crossed by an outsider
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: high
+  rationale: Crossing a water boundary fits the established passage-through-waters
+    pattern.
+  cautions: If the important feature is outsider status or violation of sacred space,
+    also review under threshold_guardian, sacred_law, or divine_judgment depending
+    on consequences.
+  suggested_aliases:
+  - outsider crosses water boundary
+  - water boundary crossing
+  - liminal water crossing by outsider
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-creates-paradise-garden-from-desert
+  motif_id: water_creates_paradise_garden_from_desert
+  label: water creates paradise garden from desert
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Water functions as a life-giving and transformative sacred element that
+    turns barrenness into paradise.
+  cautions: If the passage is primarily mystical allegory of divine grace or beloved
+    presence, sacred_love or mystical_quest may be useful secondary mappings.
+  suggested_aliases:
+  - life-giving water creates garden
+  - water transforms desert to paradise
+  - paradise garden from water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use water broadly; mappings distinguish water as boundary, life-giving
+  force, primordial origin, or meta-index artifact rather than treating them as flood
+  motifs.
+- Single-occurrence, episode-specific escape labels should be reviewed against source
+  passages before being promoted beyond evidence-level details.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0591
+  input_sha256: 16ca9e8e11429f80f65fdcc436c2b3716077474811650b73cfdf3eadee3c8dba

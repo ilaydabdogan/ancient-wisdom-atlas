@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0570
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.nighttime-concealment-before-sunrise
+  motif_id: nighttime_concealment_before_sunrise
+  label: nighttime concealment before sunrise
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a time-bound hiding episode rather than a stable
+    celestial or ritual-time motif.
+  cautions: Single occurrence and context-dependent; could be plot detail, threshold
+    timing, trickster concealment, or sacred-time symbolism.
+  suggested_aliases:
+  - concealment before dawn
+  - night hiding until sunrise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nomadic-movement-following-water-and-pasture
+  motif_id: nomadic_movement_following_water_and_pasture
+  label: nomadic movement following water and pasture
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as ecological or ethnographic setting rather than a symbolic
+    narrative motif.
+  cautions: Retain as source/context metadata if relevant; only map if the passage
+    frames movement as sacred journey, exile, or divine guidance.
+  suggested_aliases:
+  - seasonal pastoral movement
+  - movement following pasture and water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.numbered-otherworld-guardians-as-a-test
+  motif_id: numbered_otherworld_guardians_as_a_test
+  label: numbered otherworld guardians as a test
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: Otherworld guardians who test a figure match the threshold-guardian function
+    of regulating passage between realms or states.
+  cautions: If the emphasis is a full postmortem route, add secondary review under
+    afterlife_passage; preserve the numbered structure as evidence detail.
+  suggested_aliases:
+  - otherworld guardians as test
+  - guardians testing passage
+  - numbered threshold guardians
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obstruction-of-weapon-preparation-by-releasing-water
+  motif_id: obstruction_of_weapon_preparation_by_releasing_water
+  label: obstruction of weapon preparation by releasing water
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines water manipulation with combat sabotage, but the dominant
+    motif is unclear without passage evidence.
+  cautions: Could fit sacred_combat, sacred_waters, trickster obstruction, or an episode-specific
+    tactical detail; avoid mapping solely because water appears.
+  suggested_aliases:
+  - water released to obstruct weapon preparation
+  - weapon-making impeded by water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-day-war-ending-at-sunset
+  motif_id: one_day_war_ending_at_sunset
+  label: one-day war ending at sunset
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A battle ritually or narratively bounded by a day belongs best with combat
+    structured by sacred or temporal limits.
+  cautions: If sunset is merely chronology, it may be too specific for motif queries;
+    consider sacred_time only if the day/sunset boundary has ritual force.
+  suggested_aliases:
+  - battle ending at sunset
+  - day-long war
+  - combat bounded by sunset
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oracular-restraint-and-required-recantation
+  motif_id: oracular_restraint_and_required_recantation
+  label: Oracular restraint and required recantation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns constrained prophetic/oracular speech, already near
+    the constrained_oracle child under dream_and_vision.
+  cautions: Could also relate to sacred_law or divine_judgment if recantation is imposed
+    as punishment; source context should decide secondary placement.
+  suggested_aliases:
+  - constrained oracle
+  - restrained oracle
+  - required recantation of oracle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oral-preservation-by-trained-bards
+  motif_id: oral_preservation_by_trained_bards
+  label: oral preservation by trained bards
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Trained oral preservation fits narrative transmission and cultural memory
+    under storytelling_as_power.
+  cautions: If this is only a scholarly note on textual history, exclude under _meta_textual
+    instead; verify whether the passage presents bardic preservation as motif or commentary.
+  suggested_aliases:
+  - bardic oral preservation
+  - trained bardic transmission
+  - oral transmission by bards
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-explanation-for-gold-bearing-river-or-fields
+  motif_id: origin_explanation_for_gold_bearing_river_or_fields
+  label: origin explanation for gold-bearing river or fields
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is an etiological origin label, but no current group cleanly covers
+    local landscape/resource etiologies.
+  cautions: Could be passage-specific aetiology, sacred_waters, sacred_treasures,
+    or divine_intervention depending on how gold appears; avoid creating a broad group
+    from one occurrence.
+  suggested_aliases:
+  - etiology of gold-bearing river
+  - origin of gold-bearing fields
+  - gold-bearing landscape origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-a-lake-or-flood-hollow-through-struggle-with-water-beings
+  motif_id: origin_of_a_lake_or_flood_hollow_through_struggle_with_water_beings
+  label: Origin of a lake or flood hollow through struggle with water beings
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on sacred water-beings and the formation of a watery
+    landscape feature.
+  cautions: Culturally specific Indigenous Australian landscape traditions need careful
+    source review; do not force into flood_and_renewal unless world-order destruction
+    and renewal are explicit.
+  suggested_aliases:
+  - lake origin through water-being struggle
+  - flood hollow origin
+  - water beings shape lake
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-the-world
+  motif_id: origin_of_the_world
+  label: origin of the world
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: alias
+  confidence: high
+  rationale: This is a direct broad label for cosmogony or world creation, matching
+    cosmic_origin.
+  cautions: Preserve specific mechanism in notes when known, such as chaos, egg, speech,
+    separation of waters, or primordial sacrifice.
+  suggested_aliases:
+  - world origin
+  - cosmogony
+  - creation of the world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several single-occurrence labels may be passage-specific or scholarly/contextual
+  artifacts and should be checked against source evidence before indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes multiple single-occurrence nature/time/etiology labels where
+    context is needed to distinguish motif from episode detail or commentary.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0570
+  input_sha256: e4b7272ec8ec908b2f96cd98501a7358d66a61594459fd0fea3a8b880544c124

@@ -1,0 +1,311 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0613
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.domestic-work-reveals-the-secluded-maiden
+  motif_id: domestic_work_reveals_the_secluded_maiden
+  label: domestic work reveals the secluded maiden
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like an episode-specific recognition or courtship device
+    involving gendered domestic labor, but no current group cleanly covers it.
+  cautions: Single occurrence; may be a narrative detail rather than a durable motif.
+    Could relate to sacred_love, initiation, or social/gender roles depending on passage
+    context.
+  suggested_aliases:
+  - maiden revealed by domestic work
+  - secluded maiden recognition through work
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.double-marriage-resolves-surviving-characters
+  motif_id: double_marriage_resolves_surviving_characters
+  label: Double marriage resolves surviving characters
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes plot resolution mechanics rather than a symbolic
+    or recurring mythic pattern.
+  cautions: If the passage emphasizes sacred marriage, dynastic legitimacy, or social
+    restoration, preserve evidence under sacred_marriage or royal_legitimacy instead.
+  suggested_aliases:
+  - double marriage as plot resolution
+  - paired marriages resolve survivors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.double-personification-of-one-natural-object
+  motif_id: double_personification_of_one_natural_object
+  label: double personification of one natural object
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may indicate duality, personified nature, or a comparative-classification
+    observation; the label alone does not specify narrative function.
+  cautions: The comparative tradition tag and abstract wording may signal a scholarly
+    artifact. Do not map to duality unless the doubled personification structures
+    opposition or complementarity in the source.
+  suggested_aliases:
+  - two personifications of one natural object
+  - doubled nature personification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drowned-maiden-incorporated-into-the-sea-and-shoreline
+  motif_id: drowned_maiden_incorporated_into_the_sea_and_shoreline
+  label: Drowned maiden incorporated into the sea and shoreline
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A dead figure becoming part of the sea and shoreline is a postmortem
+    transformation into landscape or natural environment.
+  cautions: Could also relate to sacred_waters if the sea is the primary sacred medium,
+    or to lament if the emphasis is tragic mourning rather than transformation.
+  suggested_aliases:
+  - drowned maiden transformed into shoreline
+  - dead maiden becomes sea landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dutiful-child-sustains-aged-helpless-parents
+  motif_id: dutiful_child_sustains_aged_helpless_parents
+  label: Dutiful child sustains aged helpless parents
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Filial care for helpless parents functions as an ethical social obligation,
+    aligning with sacred law and social order.
+  cautions: If the passage frames the act as sacrificial devotion or karmic merit,
+    sacred_exchange or sacrifice may be relevant secondary mappings.
+  suggested_aliases:
+  - filial duty sustains aged parents
+  - child supports helpless parents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dutiful-daughter-supports-ruined-father
+  motif_id: dutiful_daughter_supports_ruined_father
+  label: dutiful daughter supports ruined father
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on filial duty and family obligation as a social-ethical
+    norm.
+  cautions: Single occurrence and gender-specific wording may be episode-level. If
+    self-denial is central, consider sacrifice or sacred_exchange as secondary context.
+  suggested_aliases:
+  - filial daughter supports father
+  - daughter sustains ruined father
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.elder-brother-as-father-and-refuge
+  motif_id: elder_brother_as_father_and_refuge
+  label: elder brother as father and refuge
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: The label describes a kinship role substitution and refuge function not
+    clearly covered by existing sibling_pair or sacred law groups.
+  cautions: Could map to sibling_pair if sibling relation drives the narrative, or
+    to sacred_law if it expresses normative family duty. Source context is needed.
+  suggested_aliases:
+  - elder brother as paternal protector
+  - brother as refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_twins
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.element-resistant-child-recognized-by-paternal-signs
+  motif_id: element_resistant_child_recognized_by_paternal_signs
+  label: Element-resistant child recognized by paternal signs
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: high
+  rationale: A child marked by extraordinary resistance and paternal recognition signs
+    fits the miraculous child complex of threatened, marked, or destined infancy.
+  cautions: If the passage emphasizes lineage authentication or succession more than
+    the child’s marvels, royal_legitimacy may be a secondary mapping.
+  suggested_aliases:
+  - miraculous child recognized by paternal signs
+  - element-proof child
+  - child marked by paternal signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_birth
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-mill-produces-desired-abundance
+  motif_id: enchanted_mill_produces_desired_abundance
+  label: enchanted mill produces desired abundance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: An enchanted mill is a power object that generates abundance, fitting
+    sacred treasures and magical objects of efficacy.
+  cautions: If the mill’s production explains sea salt, catastrophe, or cosmic origin,
+    additional mappings to cosmic_origin, sacred_waters, or flood_and_renewal may
+    be needed.
+  suggested_aliases:
+  - magic mill produces abundance
+  - enchanted abundance mill
+  - wish-producing mill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-music-summons-animals-birds-forest-beings-and-sky-daughters
+  motif_id: enchanted_music_summons_animals_birds_forest_beings_and_sky_daughters
+  label: Enchanted music summons animals, birds, forest beings, and sky daughters
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Enchanted music functions as sacred expressive power that summons beings
+    and alters the scene, closest to narrative/song as power.
+  cautions: Could also fit sacred_knowledge if the music is a learned magical skill,
+    otherworld if it summons enchanted beings, or sacred_love if sky daughters are
+    courtship figures.
+  suggested_aliases:
+  - magical music summons beings
+  - enchanted song summons animals and spirits
+  - music summons sky daughters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - otherworld
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  source evidence and avoid promoting them to taxonomy motif families without recurrence.
+- Family-duty labels currently fit best under sacred_law as ethical/social obligation,
+  but a future kinship-duty group may be warranted if many similar labels recur.
+- Love/family bucket assignment is not always semantically decisive; some items here
+  fit objects, transformation, sacred law, or textual-artifact review better than
+  love motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placement suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0613
+  input_sha256: aa41906a16379b09b07ae5e287bdba74b16fd48804b88db9c82552da5f107f19

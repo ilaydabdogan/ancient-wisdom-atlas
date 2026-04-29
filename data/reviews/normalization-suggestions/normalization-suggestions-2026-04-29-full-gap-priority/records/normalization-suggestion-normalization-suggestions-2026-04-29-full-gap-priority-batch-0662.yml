@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0662
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bride-seeking-after-failed-love
+  motif_id: bride_seeking_after_failed_love
+  label: bride-seeking after failed love
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on failed love followed by renewed bride-seeking, fitting
+    love as quest or longing.
+  cautions: Single occurrence; if the passage emphasizes social marriage alliance,
+    heroic quest, or dynastic order rather than longing, review under hero_journey
+    or royal_legitimacy.
+  suggested_aliases:
+  - bride quest after failed love
+  - renewed bride seeking
+  - love quest after rejection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burden-limited-to-capacity
+  motif_id: burden_limited_to_capacity
+  label: burden limited to capacity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The phrase likely reflects a sacred legal or ethical principle that obligation
+    is proportioned to human capacity.
+  cautions: Could be an abstract doctrinal maxim rather than a narrative motif; if
+    only commentary or quotation, consider excluding from pattern queries.
+  suggested_aliases:
+  - no burden beyond capacity
+  - obligation limited by ability
+  - divine law proportioned to capacity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-associated-with-trial-or-judgment
+  motif_id: burning_associated_with_trial_or_judgment
+  label: Burning associated with trial or judgment
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Burning functions here as a test or judgment, aligning with sacred reckoning
+    rather than general fire symbolism.
+  cautions: If the passage emphasizes fire as divine presence or sacrificial medium,
+    sacred_fire or sacrifice may be better secondary mappings.
+  suggested_aliases:
+  - trial by burning
+  - fire as judgment
+  - burning ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-city-destruction
+  motif_id: burning_city_destruction
+  label: burning city destruction
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: narrower_than
+  confidence: low
+  rationale: Destruction of a city by fire may fit catastrophe and renewal if it marks
+    the end of an old order.
+  cautions: Do not map to cosmic renewal unless the source frames the burning as judgment,
+    purification, or civic/world reconstitution; otherwise it may be a historical
+    episode detail.
+  suggested_aliases:
+  - city destroyed by fire
+  - conflagration of a city
+  - urban burning catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-of-a-hostile-city
+  motif_id: burning_of_a_hostile_city
+  label: burning of a hostile city
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Burning an enemy city is a warfare action and likely belongs with sacred
+    or heroic combat when mythically framed.
+  cautions: If the fire is primarily divine punishment, use divine_judgment; if world-renewing
+    catastrophe is explicit, use flood_and_renewal.
+  suggested_aliases:
+  - enemy city burned
+  - hostile city destroyed by fire
+  - fiery destruction of enemy city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-monster-terrorizes-a-city
+  motif_id: cannibal_monster_terrorizes_a_city
+  label: cannibal monster terrorizes a city
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines monster threat, cannibalism, and civic terror, but
+    no existing group cleanly captures monster-terror motifs.
+  cautions: Could fit threshold_guardian, chaos, divine_warrior, sacred_combat, or
+    a future monster/ogre-threat group depending on whether the focus is passage,
+    disorder, or heroic combat.
+  suggested_aliases:
+  - cannibal city monster
+  - monster terrorizes city
+  - man-eating monster threat
+  suggested_new_group:
+    id: monster_threat
+    label: Monster Threat and Civic Terror
+    description: Monstrous, cannibal, ogre-like, demonic, or hybrid beings threaten
+      a community, city, travelers, or social order and require appeasement, combat,
+      rescue, or expulsion.
+    parent_group_ids:
+    - chaos
+    - divine_warrior
+    - threshold_guardian
+    related_group_ids:
+    - sacred_combat
+    - divine_intervention
+    reason_existing_groups_insufficient: Existing groups cover combat, chaos, and
+      threshold guardians, but not recurring communal terror by monsters as a distinct
+      narrative problem.
+- suggestion_id: normalization.suggestion.captured-enemy-brought-before-king-for-interrogation
+  motif_id: captured_enemy_brought_before_king_for_interrogation
+  label: captured enemy brought before king for interrogation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a specific court or battle episode detail rather than a
+    durable symbolic motif.
+  cautions: If the interrogation becomes a formal judgment scene or royal legitimacy
+    test, review under divine_judgment or royal_legitimacy.
+  suggested_aliases:
+  - enemy prisoner before king
+  - royal interrogation of captive
+  - captured foe questioned at court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-as-wealth-and-social-measure
+  motif_id: cattle_as_wealth_and_social_measure
+  label: cattle as wealth and social measure
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Cattle wealth is strongly tied to cattle-raid and status contests already
+    grouped under sacred_combat.
+  cautions: If the passage is economic or legal description without raiding, rivalry,
+    or sacred status, this may be a social-context note rather than a motif.
+  suggested_aliases:
+  - cattle as wealth
+  - cattle as status measure
+  - livestock wealth status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-ruler-and-zodiacal-order
+  motif_id: celestial_ruler_and_zodiacal_order
+  label: Celestial ruler and zodiacal order
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A ruler associated with celestial or zodiacal order fits cosmic sovereignty
+    and ordered rule.
+  cautions: If the focus is cosmology rather than rulership, cosmic_origin, duality,
+    or sacred_knowledge may be relevant; Sufi context may also imply mystical_quest
+    symbolism.
+  suggested_aliases:
+  - celestial kingship
+  - zodiacal sovereignty
+  - cosmic ruler of zodiacal order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champion-bound-by-queen-s-bargain
+  motif_id: champion_bound_by_queen_s_bargain
+  label: champion bound by queen's bargain
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bargain binding a champion functions as an oath, obligation, or pact
+    that constrains action.
+  cautions: If the queen's role primarily concerns sovereignty, marriage, or royal
+    testing, royal_legitimacy or sacred_love may be better secondary mappings.
+  suggested_aliases:
+  - champion bound by bargain
+  - queen's binding bargain
+  - hero constrained by pact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  source evidence before promoting any new canonical motif.
+- 'Fire-related labels should be separated by function: ordeal/judgment, warfare destruction,
+  sacred presence, sacrifice, or world-renewing catastrophe.'
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed for low-confidence
+    and culturally/contextually dependent labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0662
+  input_sha256: 9f0677175280221aeb9e3274d54dbd2b58c40659c3e4260ef4f6972968c039bf

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0660
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.army-mustered-for-siege-of-enemy-city
+  motif_id: army_mustered_for_siege_of_enemy_city
+  label: army mustered for siege of enemy city
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes collective warfare preparation around a siege, fitting
+    the broad sacred-combat/ritual-warfare group better than kingship alone.
+  cautions: Single occurrence and may be only an episode-level military detail unless
+    the passage frames the siege as ritually or cosmically significant.
+  suggested_aliases:
+  - siege muster
+  - army mustered for siege
+  - host assembled for siege
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.artisan-excellence-provoking-envy-and-murder-plot
+  motif_id: artisan_excellence_provoking_envy_and_murder_plot
+  label: artisan excellence provoking envy and murder plot
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines craft excellence, envy, and plotted violence; no existing
+    group clearly captures the narrative function without source context.
+  cautions: Could fit sacred_craft if the craft is ritually or divinely significant,
+    pride_and_downfall if envy/hubris is central, or conflict motifs if murder plot
+    drives the episode.
+  suggested_aliases:
+  - envy of artisan skill
+  - craft excellence provokes murder plot
+  - jealousy of master artisan
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-compilation-after-disorder
+  motif_id: authoritative_compilation_after_disorder
+  label: authoritative compilation after disorder
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe restoration of textual or legal order after crisis,
+    but it could also be a transmission/editorial artifact.
+  cautions: If this refers to scripture or textual canon formation, treat carefully;
+    it may belong in _meta_textual rather than motif queries unless the passage narrativizes
+    compilation as sacred ordering.
+  suggested_aliases:
+  - canon compilation after disorder
+  - authoritative collection after crisis
+  - restoration of order through compilation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authority-halts-excessive-combat-to-spare-the-defeated
+  motif_id: authority_halts_excessive_combat_to_spare_the_defeated
+  label: authority halts excessive combat to spare the defeated
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on legitimate authority restraining violence according
+    to norms of order and mercy.
+  cautions: If the passage emphasizes battlefield honor or ritualized warfare, sacred_combat
+    may be a secondary fit; if divine punishment is involved, consider divine_judgment.
+  suggested_aliases:
+  - restraint of excessive combat
+  - authority spares the defeated
+  - mercy toward defeated enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authority-restores-separated-companions
+  motif_id: authority_restores_separated_companions
+  label: authority restores separated companions
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A superior authority reunites separated figures, functioning as restorative
+    intervention in the narrative.
+  cautions: Authority may be royal, monastic, karmic, or divine; if purely administrative
+    or interpersonal, this may be too contextual for motif indexing.
+  suggested_aliases:
+  - restoration of separated companions
+  - authority reunites companions
+  - companion reunion by higher authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.banishment-of-poets-from-the-ideal-order
+  motif_id: banishment_of_poets_from_the_ideal_order
+  label: banishment of poets from the ideal order
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns regulating speech and art to preserve an ideal civic
+    or moral order.
+  cautions: May be philosophical argument rather than mythic motif; if it is commentary
+    on poetics, consider excluding from pattern queries.
+  suggested_aliases:
+  - poets excluded from ideal state
+  - regulation of poetry in ideal order
+  - banishment of poets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-horse-oath-imagery
+  motif_id: battle_horse_oath_imagery
+  label: Battle-horse oath imagery
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label combines oath imagery with battle-horse symbolism, making the
+    binding vow the clearest existing motif function.
+  cautions: If the horse is primarily a warrior or eschatological image, sacred_combat
+    or divine_warrior may be better secondary mappings.
+  suggested_aliases:
+  - battle horse oath
+  - oath by battle horses
+  - war-horse oath imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-hero-mourned-by-city-and-nature
+  motif_id: beloved_hero_mourned_by_city_and_nature
+  label: beloved hero mourned by city and nature
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on communal and cosmic mourning for a hero, directly
+    fitting lament and mourning.
+  cautions: Nature mourning may carry cosmic-order implications, but the primary function
+    remains grief and recognition of loss.
+  suggested_aliases:
+  - city and nature mourn hero
+  - cosmic mourning for beloved hero
+  - beloved hero lamented by city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.besieged-king-awakens-giant-champion-in-crisis
+  motif_id: besieged_king_awakens_giant_champion_in_crisis
+  label: besieged king awakens giant champion in crisis
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A king in siege crisis summons or awakens an extraordinary champion for
+    combat, fitting sacred warrior intervention.
+  cautions: The label is episode-specific; if the giant champion is more monster,
+    helper, or sleeping-hero figure, a different future group may be needed.
+  suggested_aliases:
+  - awakened giant champion
+  - king awakens champion in siege
+  - sleeping champion summoned in crisis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.besieging-host-before-a-fortified-city
+  motif_id: besieging_host_before_a_fortified_city
+  label: besieging host before a fortified city
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A host arrayed before a fortified city is a warfare/siege scene, best
+    held under sacred_combat if retained.
+  cautions: Likely an episode-level battle setting rather than a reusable motif unless
+    the siege has ritual, heroic, or cosmic significance.
+  suggested_aliases:
+  - besieging host
+  - army before fortified city
+  - siege of fortified city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence military or authority scenes;
+  preserve as evidence details unless source context shows recurrent ritual, sacred,
+  or narrative function.
+- Do not infer transmission or shared origin from siege, oath, or civic-order placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; items with philosophical, textual, or episode-specific
+    wording need source verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0660
+  input_sha256: a6a17511ecce289b5c0d8e5464953945ccc31d5d9534ac131b7b81151871f72e

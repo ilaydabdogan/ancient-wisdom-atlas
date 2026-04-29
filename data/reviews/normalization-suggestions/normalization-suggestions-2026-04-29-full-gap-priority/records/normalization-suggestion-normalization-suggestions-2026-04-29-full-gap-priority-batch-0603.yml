@@ -1,0 +1,328 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0603
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bound-maiden-threatened-by-devouring-monster
+  motif_id: bound_maiden_threatened_by_devouring_monster
+  label: bound maiden threatened by devouring monster
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: A devouring monster threatening a bound maiden may function as perilous
+    threshold, rescue ordeal, or monster-combat episode.
+  cautions: Single occurrence and gendered rescue framing may be episode-specific;
+    could also fit sacred_combat, divine_warrior, or sacred_love depending on source
+    context.
+  suggested_aliases:
+  - maiden threatened by monster
+  - bound captive threatened by monster
+  - monster threatens captive bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bound-or-imprisoned-deity
+  motif_id: bound_or_imprisoned_deity
+  label: bound or imprisoned deity
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A bound deity concerns divine agency constrained or contained, but its
+    narrative function is unclear from the label alone.
+  cautions: Could indicate sacred combat, trickster binding, imprisonment in the underworld,
+    ritual containment, or a source-specific episode; needs passage evidence.
+  suggested_aliases:
+  - imprisoned god
+  - bound god
+  - divine captivity
+  - constrained deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bride-as-skilled-weaver-and-household-producer
+  motif_id: bride_as_skilled_weaver_and_household_producer
+  label: bride as skilled weaver and household producer
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: low
+  rationale: The label describes an idealized household role and social expectation
+    rather than a clearly mythic love or marriage motif.
+  cautions: May be a social-role or ethnographic detail, not a reusable motif; if
+    weaving has magical or fate-making power, another placement may be needed.
+  suggested_aliases:
+  - skilled weaving bride
+  - productive bride
+  - bride as household maker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bride-choice-assembly
+  motif_id: bride_choice_assembly
+  label: bride-choice assembly
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Marriage Choice and Bride-Winning
+  relationship: narrower_than
+  confidence: medium
+  rationale: Bride-selection assemblies are recurring marriage-choice structures not
+    well represented by sacred_marriage or sacred_love when no divine/cosmic union
+    is implied.
+  cautions: Confirm whether the episode is a formal svayamvara-like assembly, a legal
+    custom, or a passage-specific courtship detail.
+  suggested_aliases:
+  - bride selection assembly
+  - public bride choice
+  - suitor assembly
+  - marriage choice assembly
+  suggested_new_group:
+    id: marriage_choice_bride_winning
+    label: Marriage Choice and Bride-Winning
+    description: Courtship or marriage is decided through public choice, assembly,
+      contest, consent, bride-price, alliance, or heroic achievement rather than through
+      an explicitly sacred or cosmic marriage.
+    parent_group_ids:
+    - sacred_love
+    - sacred_law
+    related_group_ids:
+    - hero_journey
+    - sacred_combat
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing sacred_love and sacred_marriage
+      groups emphasize mystical, cosmic, or divine union, while these labels describe
+      social and narrative mechanisms for obtaining or choosing a spouse.
+- suggestion_id: normalization.suggestion.bride-from-flowers-bypasses-marriage-restriction
+  motif_id: bride_from_flowers_bypasses_marriage_restriction
+  label: Bride from flowers bypasses marriage restriction
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bride created from flowers centers on magical transformation or creation
+    of a human spouse from nonhuman material.
+  cautions: The marriage-restriction bypass is legally important; secondary review
+    under sacred_law or a future marriage-choice group may be useful.
+  suggested_aliases:
+  - flower bride
+  - bride made from flowers
+  - created bride bypasses restriction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bride-offer-used-as-military-inducement
+  motif_id: bride_offer_used_as_military_inducement
+  label: bride offer used as military inducement
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: The bride offer functions as an inducement within warfare or heroic service
+    rather than as sacred love itself.
+  cautions: May be a political bargain, alliance mechanism, or episode-specific plot
+    device; avoid normalizing coercive marriage framing without source review.
+  suggested_aliases:
+  - bride promised for military aid
+  - marriage reward for combat
+  - bride as war inducement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bride-or-beloved-linked-to-martial-prowess
+  motif_id: bride_or_beloved_linked_to_martial_prowess
+  label: Bride or beloved linked to martial prowess
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The beloved is tied to warrior achievement, aligning with combat as a
+    socially or ritually meaningful proving ground.
+  cautions: If the emphasis is courtship, consent, or spouse selection, a marriage-choice
+    group would be better; if the emphasis is longing, sacred_love may be secondary.
+  suggested_aliases:
+  - beloved tied to martial prowess
+  - bride linked to warrior achievement
+  - courtship through combat prowess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bride-or-beloved-rides-into-funeral-fire
+  motif_id: bride_or_beloved_rides_into_funeral_fire
+  label: Bride or beloved rides into funeral fire
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif links beloved union with death and funeral fire, fitting love
+    that crosses or consummates in death.
+  cautions: Could also index under sacrifice, heroic_funeral_rites, or sacred_fire
+    if the rite rather than the love bond is primary; culturally sensitive review
+    recommended.
+  suggested_aliases:
+  - beloved enters funeral fire
+  - bride joins funeral pyre
+  - love joined in death by fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bride-s-own-answer-required
+  motif_id: bride_s_own_answer_required
+  label: Bride’s own answer required
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Marriage Choice and Bride-Winning
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on consent or choice in marriage, which is not captured
+    by sacred_marriage or sacred_love alone.
+  cautions: May be legal-social detail rather than mythic motif; verify that the bride's
+    answer has narrative consequence.
+  suggested_aliases:
+  - bride consent required
+  - bride gives her own answer
+  - woman's consent in marriage
+  suggested_new_group:
+    id: marriage_choice_bride_winning
+    label: Marriage Choice and Bride-Winning
+    description: Courtship or marriage is decided through public choice, assembly,
+      contest, consent, bride-price, alliance, or heroic achievement rather than through
+      an explicitly sacred or cosmic marriage.
+    parent_group_ids:
+    - sacred_love
+    - sacred_law
+    related_group_ids:
+    - hero_journey
+    - sacred_combat
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups cover sacred or mystical
+      love, but not ordinary narrative structures of marriage choice, consent, contests,
+      and alliance-making.
+- suggestion_id: normalization.suggestion.bride-winning-martial-contest
+  motif_id: bride_winning_martial_contest
+  label: bride-winning martial contest
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Marriage Choice and Bride-Winning
+  relationship: narrower_than
+  confidence: high
+  rationale: A martial contest to win a bride is a clear bride-winning structure combining
+    courtship and heroic ordeal.
+  cautions: May also support sacred_combat or hero_journey, especially when the contest
+    proves royal or divine status; do not reduce it to sacred_marriage unless cosmic
+    union is explicit.
+  suggested_aliases:
+  - bride contest
+  - contest to win bride
+  - martial bride-winning
+  - suitor contest
+  suggested_new_group:
+    id: marriage_choice_bride_winning
+    label: Marriage Choice and Bride-Winning
+    description: Courtship or marriage is decided through public choice, assembly,
+      contest, consent, bride-price, alliance, or heroic achievement rather than through
+      an explicitly sacred or cosmic marriage.
+    parent_group_ids:
+    - sacred_love
+    - sacred_law
+    related_group_ids:
+    - hero_journey
+    - sacred_combat
+    - royal_legitimacy
+    reason_existing_groups_insufficient: The current taxonomy has sacred_marriage
+      and sacred_love, but not a broader courtship mechanism group for contests, assemblies,
+      consent, and marriage-alliance episodes.
+batch_notes:
+- Several labels in this batch point to a possible recurring normalization group for
+  marriage choice, consent, and bride-winning contests distinct from sacred_marriage
+  or mystical sacred_love.
+- Single-occurrence gendered courtship and rescue labels should be checked against
+  source context before being promoted as reusable motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review needed especially for culturally
+    sensitive marriage, consent, and funeral-fire motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0603
+  input_sha256: 91bc83538021f9fe10aa2701f4adcd24eaaf1b7e1caf3e88ee9128cd5858ac0f

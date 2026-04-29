@@ -1,0 +1,323 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0576
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.raid-or-foray-tale-without-supernatural-element
+  motif_id: raid_or_foray_tale_without_supernatural_element
+  label: raid or foray tale without supernatural element
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label classifies a tale type by absence of supernatural content rather
+    than naming a symbolic motif.
+  cautions: If the raid itself has ritual or heroic significance, index the passage
+    under sacred_combat instead of excluding it.
+  suggested_aliases:
+  - non-supernatural raid tale
+  - foray tale without supernatural element
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-magic
+  motif_id: rain_magic
+  label: rain-magic
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: Rainmaking is a recurrent ritual-weather pattern, but the current groups
+    do not cleanly distinguish weather magic from sacred exchange or divine intervention.
+  cautions: Culturally specific ritual terms need source review; avoid reducing Indigenous
+    ritual practice to generic magic without evidence.
+  suggested_aliases:
+  - rainmaking rite
+  - weather magic
+  - ritual rainmaking
+  suggested_new_group:
+    id: rainmaking_weather_rites
+    label: Rainmaking and Weather Rites
+    description: Ritual, magical, or sacred acts intended to bring, withhold, redirect,
+      or renew rain and weather for communal survival, fertility, or abundance.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    related_group_ids:
+    - sacred_waters
+    - sacred_time
+    reason_existing_groups_insufficient: Existing groups cover reciprocity and divine
+      action broadly but do not preserve the recurring nature/weather-control function
+      of rainmaking motifs.
+- suggestion_id: normalization.suggestion.rain-procuring-idol
+  motif_id: rain_procuring_idol
+  label: rain-procuring idol
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could involve rainmaking ritual, an idol as forbidden object,
+    or polemical commentary against idolatry.
+  cautions: The label may reflect culturally charged or theological framing; source
+    context is needed before mapping to idol, sacred_exchange, or weather rites.
+  suggested_aliases:
+  - rain-bringing idol
+  - rainmaking image
+  - idol used to procure rain
+  suggested_new_group:
+    id: rainmaking_weather_rites
+    label: Rainmaking and Weather Rites
+    description: Ritual, magical, or sacred acts intended to bring, withhold, redirect,
+      or renew rain and weather for communal survival, fertility, or abundance.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    related_group_ids:
+    - sacred_waters
+    - sacred_treasures
+    - sacred_law
+    reason_existing_groups_insufficient: Weather-procuring function is not preserved
+      by mapping only to idol or sacred_treasures, while the object-specific idolatry
+      framing also requires review.
+- suggestion_id: normalization.suggestion.rain-renewing-parched-land-as-a-sign
+  motif_id: rain_renewing_parched_land_as_a_sign
+  label: Rain renewing parched land as a sign
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Rain reviving dry land functions as a divine sign and intervention in
+    the natural order.
+  cautions: If the passage emphasizes resurrection analogy, consider secondary mapping
+    to death_and_transformation; if it emphasizes water symbolism, sacred_waters may
+    also apply.
+  suggested_aliases:
+  - reviving rain as sign
+  - rain renewal of dry land
+  - parched land renewed by rain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-stone-brought-into-civic-space-during-drought
+  motif_id: rain_stone_brought_into_civic_space_during_drought
+  label: Rain-stone brought into civic space during drought
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rain-stone used during drought points to a weather rite mediated by
+    a power object in communal space.
+  cautions: The label is highly specific and comparative; verify whether this is a
+    source motif or scholarly aggregation before indexing.
+  suggested_aliases:
+  - rain stone rite
+  - drought rain-stone procession
+  - rainmaking stone
+  suggested_new_group:
+    id: rainmaking_weather_rites
+    label: Rainmaking and Weather Rites
+    description: Ritual, magical, or sacred acts intended to bring, withhold, redirect,
+      or renew rain and weather for communal survival, fertility, or abundance.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    related_group_ids:
+    - sacred_treasures
+    - sacred_waters
+    - sacred_law
+    reason_existing_groups_insufficient: Sacred_treasures captures the object, but
+      not the communal weather-procurement function central to the label.
+- suggestion_id: normalization.suggestion.rainbow-as-bridge-between-heaven-and-earth
+  motif_id: rainbow_as_bridge_between_heaven_and_earth
+  label: rainbow as bridge between heaven and earth
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A rainbow bridge linking heaven and earth performs the axis-mundi function
+    of connecting cosmic levels.
+  cautions: If the passage emphasizes messenger travel or theophany rather than cosmic
+    structure, divine_intervention or theophany may be secondary mappings.
+  suggested_aliases:
+  - rainbow bridge
+  - bridge between heaven and earth
+  - celestial bridge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rainmaker-creates-water-and-abundance
+  motif_id: rainmaker_creates_water_and_abundance
+  label: rainmaker creates water and abundance
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is a rainmaking or weather-abundance motif, possibly involving culture-hero
+    or ritual specialist agency.
+  cautions: Source evidence is needed to distinguish ritual action, divine intervention,
+    ancestral creation, and culture-hero provisioning.
+  suggested_aliases:
+  - rainmaker brings abundance
+  - rainmaker creates water
+  - water and abundance through rainmaking
+  suggested_new_group:
+    id: rainmaking_weather_rites
+    label: Rainmaking and Weather Rites
+    description: Ritual, magical, or sacred acts intended to bring, withhold, redirect,
+      or renew rain and weather for communal survival, fertility, or abundance.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    related_group_ids:
+    - culture_hero
+    - sacred_waters
+    - sacred_time
+    reason_existing_groups_insufficient: Existing groups can cover divine help or
+      culture founding, but not the specific rainmaking/weather-provision pattern.
+- suggestion_id: normalization.suggestion.rare-noble-nature-endangered-by-corrupting-environment
+  motif_id: rare_noble_nature_endangered_by_corrupting_environment
+  label: rare noble nature endangered by corrupting environment
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as an ethical or philosophical theme rather than a clear
+    mythic narrative motif.
+  cautions: May belong under wisdom, sacred_law, pride_and_downfall, or be excluded
+    as commentary depending on passage context.
+  suggested_aliases:
+  - noble nature threatened by environment
+  - virtue endangered by corrupt surroundings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-a-supernatural-or-otherworldly-figure
+  motif_id: recognition_of_a_supernatural_or_otherworldly_figure
+  label: recognition of a supernatural or otherworldly figure
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Recognition of a nonordinary figure is a revelation or manifestation
+    event, especially when the being's hidden identity is disclosed.
+  cautions: If the figure belongs to an enchanted realm rather than a deity, otherworld
+    may be a better mapping; if no sacred manifestation occurs, treat as a plot detail.
+  suggested_aliases:
+  - recognition of otherworldly figure
+  - supernatural identity recognized
+  - disclosure of supernatural figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recovery-and-restoration-of-a-ring-from-water
+  motif_id: recovery_and_restoration_of_a_ring_from_water
+  label: recovery and restoration of a ring from water
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The ring is the central power or status object, while recovery from water
+    is a specific episode detail.
+  cautions: If the water recovery marks an ordeal or boundary crossing, sacred_waters
+    or initiation may be secondary; otherwise preserve the water detail as evidence,
+    not a separate motif.
+  suggested_aliases:
+  - ring recovered from water
+  - restored ring from water
+  - lost ring recovered
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch point to recurring rainmaking/weather-control material
+  not cleanly represented by current groups; consider a Rainmaking and Weather Rites
+  group if additional evidence supports it.
+- The review bucket 'nature_elements_cosmos' appears noisy for some labels, including
+  raid tale classification and ethical-philosophical themes.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; rainmaking-related items especially need source-sensitive
+    human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0576
+  input_sha256: e4c958dc85bb249a371d50c2a1cc9144f30ab6ea61f14698ce44356d78602a80

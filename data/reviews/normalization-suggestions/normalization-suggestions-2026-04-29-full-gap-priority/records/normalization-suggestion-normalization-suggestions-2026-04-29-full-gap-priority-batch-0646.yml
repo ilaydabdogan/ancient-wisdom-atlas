@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0646
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.refusal-of-arranged-royal-marriage
+  motif_id: refusal_of_arranged_royal_marriage
+  label: Refusal of arranged royal marriage
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: Refusal of imposed marriage may belong with love and agency, but the
+    function depends on whether the passage centers love, sovereignty, chastity, or
+    plot conflict.
+  cautions: Single occurrence; may be a courtship plot detail rather than a reusable
+    sacred-love motif. Could also touch royal_legitimacy if dynastic marriage is central.
+  suggested_aliases:
+  - marriage refusal
+  - refused arranged marriage
+  - rejection of royal marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-love-and-aid-during-martial-duty
+  motif_id: refusal_of_love_and_aid_during_martial_duty
+  label: Refusal of love and aid during martial duty
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label frames love or aid as refused because martial duty takes precedence,
+    making warrior obligation the main function.
+  cautions: Could be indexed secondarily under sacred_love if the passage emphasizes
+    tragic love or relational sacrifice rather than combat duty.
+  suggested_aliases:
+  - love refused for martial duty
+  - aid refused during battle duty
+  - warrior duty over love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-love-causing-bodily-diminishment
+  motif_id: rejected_love_causing_bodily_diminishment
+  label: Rejected love causing bodily diminishment
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Love-sickness that physically wastes the lover fits the existing sacred_love
+    child pattern of love as affliction.
+  cautions: If the passage emphasizes metamorphosis, medical pathology, or punishment
+    more than longing, shapeshifter or divine_judgment may be relevant.
+  suggested_aliases:
+  - love sickness causing wasting
+  - bodily wasting from rejected love
+  - unrequited love as affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-lover-dies-at-the-beloved-s-threshold
+  motif_id: rejected_lover_dies_at_the_beloved_s_threshold
+  label: Rejected lover dies at the beloved’s threshold
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Death caused by rejected love at the beloved's boundary is an extreme
+    love-as-affliction and love-death pattern.
+  cautions: Highly episode-specific; preserve threshold detail as evidence. Could
+    also support death_and_transformation only if death produces transformation or
+    postmortem consequence.
+  suggested_aliases:
+  - lover dies at threshold
+  - death from rejected love
+  - unrequited lover at beloved's door
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-sorceress-punishes-beloved
+  motif_id: rejected_sorceress_punishes_beloved
+  label: rejected sorceress punishes beloved
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines rejected love, magical retaliation, and punishment,
+    but no existing group cleanly captures erotic magical vengeance.
+  cautions: May fit sacred_love, divine_judgment, shapeshifter, or a future magic/curse
+    group depending on the source. Avoid treating all punishment as divine judgment
+    if the agent is a sorceress.
+  suggested_aliases:
+  - rejected enchantress punishes lover
+  - erotic magical revenge
+  - punishment by rejected sorceress
+  suggested_new_group:
+    id: erotic_magic_and_curses
+    label: Erotic Magic and Love Curses
+    description: Love, rejection, desire, or rivalry expressed through spells, curses,
+      enchantment, compulsion, or magical retaliation.
+    parent_group_ids:
+    - sacred_love
+    related_group_ids:
+    - shapeshifter
+    - divine_judgment
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing sacred_love covers longing and affliction,
+      but not the recurrent narrative function of magical coercion or retaliatory
+      enchantment in erotic contexts.
+- suggestion_id: normalization.suggestion.rejected-suitor-s-war-over-a-bride
+  motif_id: rejected_suitor_s_war_over_a_bride
+  label: Rejected suitor’s war over a bride
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bride dispute triggers warfare, matching sacred_combat patterns where
+    social or relational violation catalyzes conflict.
+  cautions: Could also relate to sacred_marriage or sacred_love if marriage alliance,
+    sovereignty, or desire is the central motif. Single occurrence and specific wording.
+  suggested_aliases:
+  - war over a bride
+  - rejected suitor starts war
+  - bride dispute as war catalyst
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-duel-with-a-beloved-foster-companion
+  motif_id: reluctant_duel_with_a_beloved_foster_companion
+  label: Reluctant duel with a beloved foster-companion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A duel against a beloved companion is a conflict-of-loyalties variant
+    of sacred or heroic combat.
+  cautions: Preserve foster-companion relation as evidence. Could also support lament_and_mourning
+    if the passage centers grief after the duel.
+  suggested_aliases:
+  - reluctant duel with companion
+  - combat against beloved comrade
+  - foster-brother duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-or-mismatched-bride
+  motif_id: reluctant_or_mismatched_bride
+  label: Reluctant or mismatched bride
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: The label belongs broadly to marriage and love conflict, but its narrative
+    function is unclear from wording alone.
+  cautions: May be a social-marriage plot detail, sovereignty-marriage motif, abduction/coercion
+    episode, or character description. Do not normalize without passage context.
+  suggested_aliases:
+  - reluctant bride
+  - mismatched bride
+  - unwilling marriage partner
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renewed-challenge-after-apparent-pacification
+  motif_id: renewed_challenge_after_apparent_pacification
+  label: renewed challenge after apparent pacification
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase describes a generic plot recurrence rather than a clear love,
+    family, or sacred motif.
+  cautions: Likely depends entirely on source context; may be combat, courtship, ordeal,
+    or narrative pacing. Consider exclusion if it is only a passage-level plot artifact.
+  suggested_aliases:
+  - challenge resumes after pacification
+  - renewed contest after seeming peace
+  - apparent reconciliation followed by challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciation-of-a-beloved-or-companion
+  motif_id: renunciation_of_a_beloved_or_companion
+  label: Renunciation of a beloved or companion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Giving up a beloved or companion fits love transformed through loss,
+    sacrifice, or quest obligation.
+  cautions: If renunciation is explicitly ascetic or devotional, mystical_quest or
+    sacrifice may be better primary mappings. If it is merely a plot separation, keep
+    as evidence detail.
+  suggested_aliases:
+  - renouncing the beloved
+  - giving up a companion
+  - beloved relinquished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence courtship or relationship-conflict
+  details; human review should verify whether they recur as motifs or are passage-specific
+  plot summaries.
+- The current group set has sacred_love for longing and affliction, but no stable
+  group for erotic magic, coercive enchantment, or love curses; one provisional candidate
+  is suggested for review only.
+- Do not infer transmission or shared origin from placements across Greek, Roman,
+  Norse, Celtic, or Islamicate materials.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for love/family/body bucket; multiple
+    items require passage context before final mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0646
+  input_sha256: 570f0c172cccf5d59e97519b2b72c6a10890a0248c5bc03bda6a42f66eda0e6f

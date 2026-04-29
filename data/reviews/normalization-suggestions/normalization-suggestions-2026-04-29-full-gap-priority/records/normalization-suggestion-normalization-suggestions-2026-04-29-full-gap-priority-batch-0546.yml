@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0546
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.enchanted-weapons-made-from-fragments-of-a-felled-tree
+  motif_id: enchanted_weapons_made_from_fragments_of_a_felled_tree
+  label: enchanted weapons made from fragments of a felled tree
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is enchanted weaponry as a power object; the tree-fragment
+    origin is important evidence detail.
+  cautions: Could relate to sacred_tree_axis or sacred_craft if the passage emphasizes
+    the felled tree's cosmological status or weapon-making process.
+  suggested_aliases:
+  - enchanted weapons from sacred tree fragments
+  - magic weapons from felled tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.end-time-creature-emerging-from-the-earth
+  motif_id: end_time_creature_emerging_from_the_earth
+  label: End-time creature emerging from the earth
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: medium
+  rationale: An end-time creature likely functions as an apocalyptic sign within judgment
+    and moral reckoning.
+  cautions: Islamic eschatological specificity is culturally sensitive; may warrant
+    a future apocalyptic-signs group rather than simple divine_judgment mapping.
+  suggested_aliases:
+  - apocalyptic beast from the earth
+  - end-time beast
+  - eschatological creature
+  suggested_new_group:
+    id: apocalyptic_signs
+    label: Apocalyptic Signs and End-Time Portents
+    description: Creatures, portents, cosmic disruptions, or revealed signs that announce
+      final judgment, end-time transformation, or the closing of an age.
+    parent_group_ids:
+    - divine_judgment
+    - flood_and_renewal
+    related_group_ids:
+    - theophany
+    - dream_and_vision
+    - chaos
+    reason_existing_groups_insufficient: Existing groups cover judgment and catastrophe,
+      but do not clearly capture recurring eschatological portents or end-time beings
+      as signs.
+- suggestion_id: normalization.suggestion.enemy-force-as-flood
+  motif_id: enemy_force_as_flood
+  label: Enemy force as flood
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label uses flood imagery for an invading or hostile force, but the
+    narrative function is combat or threat, not world-renewing flood.
+  cautions: Do not map to flood_and_renewal unless actual destructive flood and renewal
+    are present; may be a poetic simile rather than a motif.
+  suggested_aliases:
+  - army as flood
+  - enemy host like flood
+  - flood metaphor for invasion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-by-sea-from-a-blinded-giant
+  motif_id: escape_by_sea_from_a_blinded_giant
+  label: escape by sea from a blinded giant
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a specific escape episode after an ordeal with a monstrous opponent,
+    fitting heroic journey/trial structure.
+  cautions: Likely episode-specific; if the focus is monster outwitting, a future
+    monster-ordeal or trickster-escape group may be better. Sea travel alone should
+    not force sacred_waters.
+  suggested_aliases:
+  - escape from blinded giant
+  - sea escape after giant-blinding
+  - hero escapes blinded giant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-deferred-until-night-is-prevented-by-daylight-discovery
+  motif_id: escape_deferred_until_night_is_prevented_by_daylight_discovery
+  label: Escape deferred until night is prevented by daylight discovery
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a plot-timing detail rather than a durable symbolic
+    or narrative motif.
+  cautions: If recurring as a night/day concealment pattern in multiple sources, review
+    under hero_journey or trickster; otherwise preserve only as episode evidence.
+  suggested_aliases:
+  - delayed escape foiled by daylight
+  - daylight discovery prevents escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-from-whirlpool-by-clinging-to-a-tree
+  motif_id: escape_from_whirlpool_by_clinging_to_a_tree
+  label: Escape from whirlpool by clinging to a tree
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a peril-survival episode within an ordeal journey, with water
+    and tree details serving the escape mechanism.
+  cautions: Could secondarily touch sacred_waters or axis_mundi, but only if the whirlpool
+    or tree has explicit sacred boundary/cosmic function.
+  suggested_aliases:
+  - whirlpool escape by tree
+  - survival by clinging to tree
+  - escape from sea vortex
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eternal-world-without-creator
+  motif_id: eternal_world_without_creator
+  label: eternal world without creator
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns cosmology and creation doctrine by negation, but may
+    be philosophical commentary rather than a narrative motif.
+  cautions: Sufi context needs source review; avoid flattening theological or polemical
+    claims into a creation motif without passage evidence.
+  suggested_aliases:
+  - uncreated eternal world
+  - world without creator
+  - eternal cosmos
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-explanation-of-emu-winglessness-and-bustard-egg-number
+  motif_id: etiological_explanation_of_emu_winglessness_and_bustard_egg_number
+  label: etiological explanation of emu winglessness and bustard egg number
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is an animal etiological explanation, but no current group cleanly
+    covers animal-form origin tales.
+  cautions: Indigenous Australian source context should be reviewed carefully; avoid
+    overgeneralizing local animal knowledge or Dreaming narratives from a single generated
+    label.
+  suggested_aliases:
+  - animal trait etiology
+  - origin of emu winglessness
+  - origin of bustard egg number
+  suggested_new_group:
+    id: animal_etiology
+    label: Animal Etiology and Origin of Animal Traits
+    description: Narratives explaining why animals have particular bodies, behaviors,
+      markings, cries, habitats, or reproductive traits.
+    parent_group_ids:
+    - shapeshifter
+    - culture_hero
+    related_group_ids:
+    - sacred_law
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing animal-related groups emphasize
+      transformation, trickster action, or sacred law, not recurring explanations
+      of animal traits.
+- suggestion_id: normalization.suggestion.etiology-of-sea-salt-and-whirlpool-from-sunken-magic-mill
+  motif_id: etiology_of_sea_salt_and_whirlpool_from_sunken_magic_mill
+  label: etiology of sea salt and whirlpool from sunken magic mill
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The magic mill is a power object whose loss explains sea salt and whirlpool
+    phenomena.
+  cautions: Could support a future etiological-nature group if many such labels recur;
+    do not map to flood_and_renewal without catastrophe-renewal structure.
+  suggested_aliases:
+  - magic mill creates sea salt
+  - sunken mill whirlpool etiology
+  - sea salt from magic mill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.external-aims-cause-loss-of-proper-nature
+  motif_id: external_aims_cause_loss_of_proper_nature
+  label: External aims cause loss of proper nature
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as a Daoist wisdom or ethical-psychological teaching
+    about preserving intrinsic nature.
+  cautions: May be philosophical abstraction rather than motif; source evidence needed
+    before mapping to wisdom, non_action, or excluding as commentary.
+  suggested_aliases:
+  - loss of proper nature through external striving
+  - external aims corrupt innate nature
+  - preserving proper nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  local evidence but avoid promoting them to canonical motifs without recurrence.
+- Etiological animal and natural-feature explanations may need a durable review group
+  if they recur across the remaining gap audit.
+- Do not treat water imagery as flood_and_renewal unless actual world/order destruction
+  and renewal are present.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft machine suggestions; human review recommended for culturally specific
+    Islamic, Daoist, Indigenous Australian, and theological/philosophical labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0546
+  input_sha256: bdefaaed1f57e96eb94012cddc15e583258756e854bdc50c20a8fc00d3a0fc3b

@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0601
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.beloved-s-presence-as-cure
+  motif_id: beloved_s_presence_as_cure
+  label: beloved’s presence as cure
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label closely matches the existing sacred_love child pattern love_as_an_affliction_cured_only_by_the_beloved.
+  cautions: Single occurrence; confirm whether the cure is symbolic, magical, emotional,
+    or merely a plot detail.
+  suggested_aliases:
+  - love as affliction cured by beloved
+  - beloved as healer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-supplies-weapon-for-hero-s-rescue
+  motif_id: beloved_supplies_weapon_for_hero_s_rescue
+  label: Beloved supplies weapon for hero’s rescue
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines beloved-helper, weapon object, and hero rescue functions
+    without enough evidence to choose sacred_love, hero_journey, or sacred_treasures.
+  cautions: May be an episode-specific plot detail rather than a durable motif; review
+    whether the weapon is sacred or the beloved’s aid is narratively central.
+  suggested_aliases:
+  - beloved as armed helper
+  - lover supplies rescue weapon
+  - weapon supplied by beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-used-as-envoy-to-obtain-cattle
+  motif_id: beloved_used_as_envoy_to_obtain_cattle
+  label: Beloved used as envoy to obtain cattle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a highly contextual plot role combining beloved, envoy,
+    and cattle acquisition rather than a reusable mythic motif.
+  cautions: If tied to a cattle raid or ritual exchange, source evidence could support
+    sacred_combat or sacred_exchange as secondary indexing.
+  suggested_aliases:
+  - beloved as envoy
+  - envoy sent to obtain cattle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-wounds-the-hero-during-a-quarrel
+  motif_id: beloved_wounds_the_hero_during_a_quarrel
+  label: beloved wounds the hero during a quarrel
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: beauty_and_paradox
+  suggested_group_label: Beauty Paired with Pain and Paradox
+  relationship: functional_variant
+  confidence: low
+  rationale: A beloved who wounds the hero fits the love-pain paradox better than
+    general combat if the quarrel is erotic or relational.
+  cautions: Could be a specific combat or domestic conflict episode; map to sacred_love
+    instead if the emphasis is enduring love rather than wounding paradox.
+  suggested_aliases:
+  - beloved as wounder
+  - love quarrel wounds hero
+  - pain inflicted by beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-child-discovers-slain-parent
+  motif_id: bereaved_child_discovers_slain_parent
+  label: bereaved child discovers slain parent
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: Discovery of a slain parent by a child is a grief and tragic-recognition
+    scene centered on kin bereavement.
+  cautions: If the discovery initiates revenge, succession, or an ordeal, sacred_combat,
+    royal_legitimacy, or initiation may be relevant secondary mappings.
+  suggested_aliases:
+  - child discovers dead parent
+  - child recognizes slain parent
+  - kin discovery of violent death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-father-mourning-a-fallen-son
+  motif_id: bereaved_father_mourning_a_fallen_son
+  label: Bereaved father mourning a fallen son
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The label directly describes parental mourning for a dead son, matching
+    the lament and mourning group.
+  cautions: If the son is a warrior and funeral honors are central, heroic_funeral_rites
+    or divine_warrior may also apply.
+  suggested_aliases:
+  - father laments fallen son
+  - parental lament for dead son
+  - mourning fallen child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-mother-laments-last-child-and-ruined-house
+  motif_id: bereaved_mother_laments_last_child_and_ruined_house
+  label: Bereaved mother laments last child and ruined house
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: A mother’s lament for a lost child and ruined household is a clear mourning
+    and tragic-loss pattern.
+  cautions: The ruined house may imply dynastic collapse or social-order loss; consider
+    royal_legitimacy only if lineage or rule is central.
+  suggested_aliases:
+  - mother laments lost child
+  - maternal lament for ruined house
+  - last-child lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-parent-incites-collective-revenge
+  motif_id: bereaved_parent_incites_collective_revenge
+  label: Bereaved parent incites collective revenge
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The narrative function is mobilizing collective vengeance after kin death,
+    aligning with sacred or heroic combat cycles.
+  cautions: If the emphasis is grief rather than vengeance, lament_and_mourning should
+    be primary; if divine punishment is explicit, divine_judgment may apply.
+  suggested_aliases:
+  - bereavement incites revenge
+  - parent calls for vengeance
+  - kin grief mobilizes collective revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-survivor-whose-family-is-replaced-by-spouse
+  motif_id: bereaved_survivor_whose_family_is_replaced_by_spouse
+  label: bereaved survivor whose family is replaced by spouse
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and could concern grief, remarriage, kinship substitution,
+    or social restoration.
+  cautions: Likely too contextual without passage evidence; review whether it functions
+    as sacred_love, lament_and_mourning, or a family/social-order motif not yet represented.
+  suggested_aliases:
+  - spouse replaces lost family
+  - bereaved survivor finds replacement kinship
+  - marriage after family loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.betrayal-of-a-later-husband-to-restore-a-first-marriage
+  motif_id: betrayal_of_a_later_husband_to_restore_a_first_marriage
+  label: betrayal of a later husband to restore a first marriage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a specific marital-conflict and loyalty-reversal plot not cleanly
+    covered by existing love, covenant, or social-order groups.
+  cautions: Could be an episode-specific detail; needs review for whether the central
+    motif is sacred marriage, fidelity, betrayal, or restoration of lawful bond.
+  suggested_aliases:
+  - second husband betrayed for first spouse
+  - restoration of first marriage through betrayal
+  - marital loyalty reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence kinship or beloved plot details;
+  avoid promoting them unless they recur across sources.
+- Where grief leads to action, distinguish lament/mourning from vengeance, combat,
+  succession, or judgment functions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placement suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0601
+  input_sha256: e1e359cea1406c860421f8f0cc727ef94f34bf3b1029b8f935e90ed38f52ffc5

@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0612
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.desire-to-remake-the-world
+  motif_id: desire_to_remake_the_world
+  label: desire to remake the world
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: In a Sufi context, world-remaking desire likely expresses transformative
+    spiritual longing or interior quest rather than literal cosmogenesis.
+  cautions: If the passage describes social reform, apocalypse, or creation theology,
+    cosmic_origin, divine_judgment, or needs_human_review may fit better.
+  suggested_aliases:
+  - world-remaking desire
+  - transformative longing to remake the world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.desired-prized-animal-to-be-seized-by-force
+  motif_id: desired_prized_animal_to_be_seized_by_force
+  label: Desired prized animal to be seized by force
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: In Celtic Irish material, forcibly seizing a prized animal often functions
+    as a raid or contest catalyst, aligning with sacred combat and cattle-raid patterns.
+  cautions: Could be an over-specific episode detail if no ritualized warfare, sovereignty,
+    or heroic conflict is present.
+  suggested_aliases:
+  - prized animal seized by force
+  - violent seizure of prized animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-desire-figured-as-fire
+  motif_id: destructive_desire_figured_as_fire
+  label: destructive desire figured as fire
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label frames desire as a consuming force, fitting love/longing motifs
+    with destructive or painful intensity.
+  cautions: Do not map to sacred_fire unless the fire itself is divine, ritual, or
+    cosmological rather than metaphorical.
+  suggested_aliases:
+  - love as destructive fire
+  - burning desire
+  - consuming passion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devotional-abasement-before-the-beloved-s-passing
+  motif_id: devotional_abasement_before_the_beloved_s_passing
+  label: Devotional abasement before the beloved's passing
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_beloved
+  suggested_group_label: Divine Beloved
+  relationship: ritual_variant
+  confidence: high
+  rationale: Sufi abasement before the beloved fits devotional longing and humility
+    before the sacred beloved.
+  cautions: If the beloved is strictly human and the emphasis is mourning rather than
+    devotion, sacred_love or lament_and_mourning may be better.
+  suggested_aliases:
+  - abasement before the beloved
+  - humility before the divine beloved
+  - devotional prostration before beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directional-winds-as-personified-regional-powers
+  motif_id: directional_winds_as_personified_regional_powers
+  label: Directional winds as personified regional powers
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Personified Winds and Directional Powers
+  relationship: child
+  confidence: medium
+  rationale: Personified directional winds are recurring elemental/cosmographic powers
+    not cleanly covered by existing love, sacred waters, fire, or cosmic origin groups.
+  cautions: May be simple natural personification or geographic cataloging; human
+    review should decide whether weather/elemental powers warrant a durable group.
+  suggested_aliases:
+  - personified winds
+  - directional wind powers
+  - regional wind deities
+  suggested_new_group:
+    id: personified_winds
+    label: Personified Winds and Directional Powers
+    description: Winds, directions, or regional atmospheric forces personified as
+      divine, semi-divine, or agentive powers that shape space, weather, travel, or
+      cosmological order.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - divine_intervention
+    - sacred_waters
+    - sacred_fire
+    - axis_mundi
+    reason_existing_groups_insufficient: Existing groups cover fire, water, creation,
+      and divine intervention but lack a general place for personified air, winds,
+      directions, and weather powers.
+- suggestion_id: normalization.suggestion.disadvantaged-birth-followed-by-rise
+  motif_id: disadvantaged_birth_followed_by_rise
+  label: disadvantaged birth followed by rise
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Low or disadvantaged birth followed by ascent can mark an extraordinary
+    destiny, matching sacred birth or miraculous-child patterns.
+  cautions: If the rise is political rather than sacred or childhood-marked, royal_legitimacy
+    or hero_journey may be better.
+  suggested_aliases:
+  - low birth followed by rise
+  - humble birth and ascent
+  - disadvantaged origin with destined rise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disciples-as-helpless-children-or-flock-without-guide
+  motif_id: disciples_as_helpless_children_or_flock_without_guide
+  label: Disciples as helpless children or flock without guide
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: role_variant
+  confidence: medium
+  rationale: The image stresses the need for a guide on the spiritual path, a core
+    function in mystical quest motifs.
+  cautions: May be a metaphorical teaching image rather than a narrative motif; if
+    only pastoral rhetoric, consider excluding from pattern queries.
+  suggested_aliases:
+  - disciples as helpless flock
+  - seekers without guide
+  - spiritual children needing guide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disputed-birthplace-and-parentage-of-a-famous-poet
+  motif_id: disputed_birthplace_and_parentage_of_a_famous_poet
+  label: Disputed birthplace and parentage of a famous poet
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label concerns biographical or scholarly uncertainty about a poet
+    rather than a mythic narrative motif.
+  cautions: If a source mythologizes the poet's birth as divine or miraculous, preserve
+    that evidence separately under miraculous_child or sacred_birth.
+  suggested_aliases:
+  - disputed poet biography
+  - uncertain poet birthplace
+  - uncertain poet parentage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distant-token-reveals-a-loved-one-s-disaster
+  motif_id: distant_token_reveals_a_loved_one_s_disaster
+  label: distant token reveals a loved one's disaster
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: A remote token signaling another person's catastrophe fits the life-token
+    complex, where an external object reflects life, danger, or fate.
+  cautions: If the token is only a message device or recognition object, sacred_treasures
+    or needs_human_review may be better than external_soul.
+  suggested_aliases:
+  - life-token reveals disaster
+  - distant disaster token
+  - remote token of beloved's fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinity-of-love-prevents-calling-love-evil
+  motif_id: divinity_of_love_prevents_calling_love_evil
+  label: divinity of Love prevents calling Love evil
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label treats Love as divine and therefore morally protected, fitting
+    sacred love as a cosmic or sacred force.
+  cautions: May be philosophical argument or rhetorical commentary rather than narrative
+    motif; review source context before final indexing.
+  suggested_aliases:
+  - Love as divine and not evil
+  - divine Love beyond blame
+  - sacredness of Love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and metaphorical; preserve local
+  evidence notes and avoid over-promoting abstractions into canonical motifs.
+- The review bucket appears broad/misaligned for some nature, combat, and meta-textual
+  labels; placements rely on semantic function rather than bucket assignment.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review required before
+    taxonomy edits.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0612
+  input_sha256: 6a9cded9591554bdbe1e06ff6c218eb234cd110bda20961c76b7628a3da3b8af

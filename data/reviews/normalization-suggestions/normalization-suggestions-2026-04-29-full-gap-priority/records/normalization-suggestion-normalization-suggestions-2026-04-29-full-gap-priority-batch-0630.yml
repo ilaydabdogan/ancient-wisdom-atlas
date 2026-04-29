@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0630
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.love-sickness-as-wasting-illness
+  motif_id: love_sickness_as_wasting_illness
+  label: Love-sickness as wasting illness
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: child
+  confidence: high
+  rationale: The existing sacred_love group already includes love_as_an_affliction_cured_only_by_the_beloved;
+    wasting illness is a bodily variant of love as affliction.
+  cautions: Single occurrence; preserve wasting-body detail as evidence and do not
+    infer mystical love unless passage supports it.
+  suggested_aliases:
+  - love sickness as bodily wasting
+  - love as wasting illness
+  - love affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-sickness-changes-appearance
+  motif_id: love_sickness_changes_appearance
+  label: love-sickness changes appearance
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: child
+  confidence: high
+  rationale: Physical alteration caused by love-sickness fits the broader love-as-affliction
+    pattern already present under sacred_love.
+  cautions: Appearance change should remain a granular evidence note; avoid mapping
+    to shapeshifter unless actual form change occurs.
+  suggested_aliases:
+  - love sickness alters appearance
+  - love affliction changes the body
+  - bodily signs of love sickness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-sickness-cured-by-reunion-token
+  motif_id: love_sickness_cured_by_reunion_token
+  label: love-sickness cured by reunion token
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The cure of love-sickness through a token of reunion fits love as affliction
+    healed by connection with the beloved.
+  cautions: The token may also function as a sacred treasure or recognition object;
+    source context should decide whether object agency is important.
+  suggested_aliases:
+  - love sickness cured by token
+  - reunion token heals love affliction
+  - beloved token as cure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-sickness-from-gazing-upon-a-desired-woman
+  motif_id: love_sickness_from_gazing_upon_a_desired_woman
+  label: love sickness from gazing upon a desired woman
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: Love-sickness triggered by sight is a narrower cause within the broader
+    love-as-affliction motif.
+  cautions: Gendered wording is passage-specific; preserve but avoid making a canonical
+    gendered subgroup from one occurrence.
+  suggested_aliases:
+  - love sickness caused by sight
+  - desire from gazing
+  - love affliction from beholding the beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-sickness-healed-by-the-beloved
+  motif_id: love_sickness_healed_by_the_beloved
+  label: Love-sickness healed by the beloved
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: alias
+  confidence: high
+  rationale: This is essentially the existing child motif love_as_an_affliction_cured_only_by_the_beloved
+    under sacred_love.
+  cautions: Map as an alias or granular child rather than a new motif; do not assume
+    sacred or mystical valence without context.
+  suggested_aliases:
+  - love as an affliction cured only by the beloved
+  - beloved heals love sickness
+  - love sickness cured by beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-sickness-or-secret-love-as-bodily-illness
+  motif_id: love_sickness_or_secret_love_as_bodily_illness
+  label: love-sickness or secret love as bodily illness
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: high
+  rationale: Love or concealed desire manifesting as illness belongs under sacred_love's
+    love-as-affliction pattern.
+  cautions: If the passage emphasizes concealment, social taboo, or diagnosis rather
+    than longing, it may need secondary review under social/family motifs not yet
+    represented.
+  suggested_aliases:
+  - secret love as illness
+  - love as bodily illness
+  - hidden love sickness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-sickness-relieved-by-news-of-the-beloved
+  motif_id: love_sickness_relieved_by_news_of_the_beloved
+  label: love-sickness relieved by news of the beloved
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: high
+  rationale: Relief through news of the beloved is a functional variant of love-sickness
+    cured by contact or connection with the beloved.
+  cautions: Could overlap with messenger/news motifs if the narrative function is
+    communication rather than love affliction.
+  suggested_aliases:
+  - news of beloved relieves love sickness
+  - beloved's news as cure
+  - love affliction eased by message
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-sickness-requiring-the-beloved-s-cure
+  motif_id: love_sickness_requiring_the_beloved_s_cure
+  label: love-sickness requiring the beloved's cure
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: alias
+  confidence: high
+  rationale: This directly matches the existing sacred_love child love_as_an_affliction_cured_only_by_the_beloved.
+  cautions: Treat as alias/duplicate of the existing child, not as a new canonical
+    group.
+  suggested_aliases:
+  - love as an affliction cured only by the beloved
+  - love sickness healed by the beloved
+  - beloved's cure for love sickness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-story-with-supernatural-background
+  motif_id: love_story_with_supernatural_background
+  label: love-story with supernatural background
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad and contextual; it may involve sacred_love, otherworld,
+    divine intervention, or merely genre/background setting.
+  cautions: Needs source evidence to determine whether the supernatural element drives
+    the motif or is only setting; may be too vague for pattern queries.
+  suggested_aliases:
+  - supernatural love story
+  - love tale with otherworld background
+  - enchanted love narrative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lover-as-prey-of-the-beloved-hunter
+  motif_id: lover_as_prey_of_the_beloved_hunter
+  label: lover as prey of the beloved-hunter
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, lover-as-prey imagery likely expresses sacred longing,
+    surrender, and the beloved's overwhelming power.
+  cautions: Metaphor is culturally and poetically specific; if the passage emphasizes
+    annihilation of self, secondary relation to mystical_quest or annihilation_union
+    may be appropriate.
+  suggested_aliases:
+  - beloved as hunter
+  - lover as hunted prey
+  - sufi hunting metaphor of love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items cluster under the existing sacred_love group, especially its child love_as_an_affliction_cured_only_by_the_beloved.
+- Preserve bodily illness, gaze, token, news, and hunter/prey details as granular
+  evidence rather than promoting them individually from single occurrences.
+- Do not infer historical transmission from the recurrence of love-sickness labels
+  across Celtic, Greek, Islamicate folklore, and Sufi materials.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify passage
+    context for broad or metaphorical labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0630
+  input_sha256: 71302a3e98a54eb6cc34606a4903116daa6f79db39aeed0f8ec78acaefdcb025

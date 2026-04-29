@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0561
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.layered-cosmos-of-seven-heavens-and-earths
+  motif_id: layered_cosmos_of_seven_heavens_and_earths
+  label: layered cosmos of seven heavens and earths
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Layered Cosmos and Multiple Heavens
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes a structured vertical cosmology not fully captured
+    by axis_mundi, ascent, or cosmic_origin.
+  cautions: Single occurrence; if the passage emphasizes ascent, revelation, or creation
+    rather than cosmological structure, map secondarily to ascent or cosmic_origin.
+  suggested_aliases:
+  - seven heavens and earths
+  - multiple heavens
+  - tiered cosmos
+  - layered universe
+  suggested_new_group:
+    id: layered_cosmos
+    label: Layered Cosmos and Multiple Heavens
+    description: A cosmology organized into multiple heavens, earths, underworlds,
+      or stacked realms, often marking sacred vertical order and possible routes of
+      ascent, descent, or revelation.
+    parent_group_ids:
+    - cosmic_origin
+    - axis_mundi
+    related_group_ids:
+    - ascent
+    - descent
+    - theophany
+    reason_existing_groups_insufficient: Axis_mundi covers connectors between realms,
+      and ascent/descent cover movement through them, but neither directly indexes
+      the cosmological structure of multiple layered realms.
+- suggestion_id: normalization.suggestion.lethal-sea-lure-and-drowning-power
+  motif_id: lethal_sea_lure_and_drowning_power
+  label: Lethal sea lure and drowning power
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deadly lure drawing victims into the sea resembles existing perilous
+    lure and fatal enchantment patterns at a dangerous threshold.
+  cautions: If no guardian, spirit, or liminal agent is present and the focus is only
+    water danger, sacred_waters may be a secondary or better placement.
+  suggested_aliases:
+  - perilous sea lure
+  - drowning enchantment
+  - fatal water lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-as-flow-of-water-and-wind
+  motif_id: life_as_flow_of_water_and_wind
+  label: Life as flow of water and wind
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears symbolic or mystical, but could mean vitality, divine
+    breath, impermanence, or spiritual circulation.
+  cautions: Do not collapse into sacred_waters solely because water is mentioned;
+    Sufi context may point to mystical_quest, annihilation_union, or sacred_knowledge
+    depending on passage evidence.
+  suggested_aliases:
+  - life as flowing water and wind
+  - vital flow of water and wind
+  - life as elemental flow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-bound-to-a-tree-or-plant
+  motif_id: life_bound_to_a_tree_or_plant
+  label: life bound to a tree or plant
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: A life-force bound to a plant fits the external-soul complex where life
+    or vulnerability is stored outside the body.
+  cautions: If the tree functions mainly as cosmic axis or ancestor embodiment, add
+    secondary mapping to axis_mundi or death_and_transformation.
+  suggested_aliases:
+  - life bound to plant
+  - life bound tree spirit
+  - plant life-token
+  - tree as external soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-bound-to-an-external-object-burned-in-fire
+  motif_id: life_bound_to_an_external_object_burned_in_fire
+  label: Life bound to an external object burned in fire
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: The key function is life bound to an external object whose destruction
+    causes death, already covered by external_soul children.
+  cautions: Fire is instrumental here; do not map to sacred_fire unless the fire itself
+    has sacred, purifying, or divine function.
+  suggested_aliases:
+  - burning the life-token
+  - external life object burned
+  - life object destroyed by fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-from-water
+  motif_id: life_from_water
+  label: life from water
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Water as the source or medium of life fits the broad sacred_waters group
+    better than flood or passage motifs.
+  cautions: If the passage concerns creation of all living things from water, cosmic_origin
+    should be a secondary placement.
+  suggested_aliases:
+  - life created from water
+  - water as source of life
+  - living things from water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-giving-heavenly-water
+  motif_id: life_giving_heavenly_water
+  label: life-giving heavenly water
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Heavenly water that gives life belongs under sacred_waters as life-giving
+    or revivifying water.
+  cautions: If emphasis is divine provision or revelation from above, divine_intervention
+    or theophany may also be relevant.
+  suggested_aliases:
+  - heavenly life-giving water
+  - water sent from heaven
+  - revivifying heavenly water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-giving-rain-after-despair
+  motif_id: life_giving_rain_after_despair
+  label: life-giving rain after despair
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rain arriving after despair functions as divine provision and renewal
+    in human affairs.
+  cautions: If the passage emphasizes seasonal fertility or sacred time rather than
+    intervention, sacred_time or sacred_waters may be better secondary mappings.
+  suggested_aliases:
+  - rain after despair
+  - merciful rain
+  - life-restoring rain
+  - divine rain after drought
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-giving-water
+  motif_id: life_giving_water
+  label: Life-giving water
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label is a broad water-as-vitality motif and fits the existing sacred_waters
+    group.
+  cautions: In Sufi usage the water may symbolize knowledge, love, or spiritual renewal;
+    consider mystical_quest or sacred_knowledge if passage evidence supports that
+    function.
+  suggested_aliases:
+  - water of life
+  - revivifying water
+  - living water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-giving-water-as-perilous-attraction
+  motif_id: life_giving_water_as_perilous_attraction
+  label: life-giving water as perilous attraction
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines revivifying water with dangerous attraction, which
+    could signal sacred_love, mystical_quest, threshold peril, or water symbolism.
+  cautions: Needs source context to determine whether peril is an initiatory test,
+    mystical longing, deception, or literal water danger.
+  suggested_aliases:
+  - perilous water of life
+  - dangerous attraction to life-giving water
+  - life-giving water as lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several water labels are broad symbolic labels; reviewers should distinguish creation-from-water,
+  divine rain/provision, purification, perilous lure, and mystical metaphor before
+  final indexing.
+- Fire in the external-object item appears instrumental rather than a sacred-fire
+  motif unless passage evidence says otherwise.
+- Layered cosmology may warrant a durable group if additional multiple-heaven or stacked-realm
+  motifs recur.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placement suggestions generated for batch 0561.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0561
+  input_sha256: 8f87c43f48ef19e28c5158d4054d17cb18183a73e399dc33d3faf6dc4aadf9a2

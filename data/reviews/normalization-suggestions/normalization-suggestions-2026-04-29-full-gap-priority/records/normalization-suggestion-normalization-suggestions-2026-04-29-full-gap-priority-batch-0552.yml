@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0552
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.funerary-duty-beside-the-waters
+  motif_id: funerary_duty_beside_the_waters
+  label: funerary duty beside the waters
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on funerary obligation, which fits ritual care for
+    the dead; the waters may be a local rite setting or passage symbol.
+  cautions: Needs source context to decide whether water is essential as sacred waters,
+    an afterlife passage marker, or merely a ritual location.
+  suggested_aliases:
+  - funerary duty at water
+  - waterside funerary rite
+  - funerary obligation beside waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giant-leader-perceived-as-a-moving-mountain
+  motif_id: giant_leader_perceived_as_a_moving_mountain
+  label: Giant leader perceived as a moving mountain
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_mountain
+  suggested_group_label: Cosmic Mountain
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The image uses mountain symbolism for a giant figure, but may be descriptive
+    hyperbole rather than a sacred mountain motif.
+  cautions: Do not map to axis_mundi unless the giant-mountain image functions cosmologically
+    or as a realm connector; could be an episode-specific simile.
+  suggested_aliases:
+  - giant as moving mountain
+  - leader likened to moving mountain
+  - mountain-like giant leader
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giant-like-fall-into-watery-depths
+  motif_id: giant_like_fall_into_watery_depths
+  label: giant-like fall into watery depths
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: low
+  rationale: A fall into watery depths may mark death, descent, or water as boundary,
+    but the label alone is too episode-specific.
+  cautions: Could fit descent, death_and_transformation, or simply a dramatic death
+    scene; avoid treating water as flood or renewal without evidence.
+  suggested_aliases:
+  - fall into watery depths
+  - plunge into deep water
+  - giant-like watery fall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giant-s-dangerous-appetite-restrained-by-enchanted-sleep
+  motif_id: giant_s_dangerous_appetite_restrained_by_enchanted_sleep
+  label: giant’s dangerous appetite restrained by enchanted sleep
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Giants, Ogres, and Devouring Beings
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on a dangerous giant appetite controlled by magical
+    sleep, not well covered by existing nature, combat, or transformation groups.
+  cautions: May be too specific if only one episode; review whether many giant/devourer
+    labels recur before adding a durable group.
+  suggested_aliases:
+  - giant appetite restrained by sleep
+  - devouring giant subdued by enchanted sleep
+  - enchanted sleep restrains hunger
+  suggested_new_group:
+    id: giants_and_devourers
+    label: Giants, Ogres, and Devouring Beings
+    description: Giant, ogre, or monstrous beings whose excessive size, appetite,
+      sleep, or bodily force threatens social or cosmic order and must be restrained,
+      tricked, or ritually managed.
+    parent_group_ids:
+    - chaos
+    - threshold_guardian
+    related_group_ids:
+    - divine_warrior
+    - trickster
+    - sacred_combat
+    - death_and_transformation
+    reason_existing_groups_insufficient: Existing groups cover combat, chaos, and
+      threshold danger, but do not preserve recurring giant/devourer body-scale and
+      appetite motifs.
+- suggestion_id: normalization.suggestion.giants-as-makers-and-embodiments-of-mountains
+  motif_id: giants_as_makers_and_embodiments_of_mountains
+  label: Giants as makers and embodiments of mountains
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_mountain
+  suggested_group_label: Cosmic Mountain
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Giants forming or embodying mountains fits mountain as sacred or cosmic
+    landscape, especially where bodies shape terrain.
+  cautions: If the episode concerns primordial body-world creation, primordial_sacrifice
+    may be a secondary fit; if only an etiological detail, preserve granularity.
+  suggested_aliases:
+  - giants embodied as mountains
+  - giants make mountains
+  - mountains from giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grief-driven-plunge-into-water
+  motif_id: grief_driven_plunge_into_water
+  label: grief-driven plunge into water
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motivating function is grief leading to an extreme act; water is
+    the medium of the lament-driven action.
+  cautions: If the plunge causes death or transformation, death_and_transformation
+    or sacred_waters may be secondary; avoid mapping to flood.
+  suggested_aliases:
+  - mourning plunge into water
+  - grief-motivated water plunge
+  - lament-driven drowning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grief-overflowing-as-blood-and-water
+  motif_id: grief_overflowing_as_blood_and_water
+  label: grief overflowing as blood and water
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Blood and water imagery expresses overwhelming grief, aligning with lament
+    rather than elemental cosmology.
+  cautions: Could also belong to sacred_love or mystical_quest if the grief is longing
+    for the divine beloved; preserve the bodily-fluid imagery as evidence detail.
+  suggested_aliases:
+  - grief as blood and water
+  - tears and blood of grief
+  - overflowing grief imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grief-transformed-into-water
+  motif_id: grief_transformed_into_water
+  label: grief transformed into water
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The transformation into water appears to symbolize or materialize mourning
+    and loss.
+  cautions: If a person literally becomes a spring, river, or water body, death_and_transformation
+    may be a stronger secondary mapping.
+  suggested_aliases:
+  - mourning transformed into water
+  - grief becomes water
+  - tears become waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grieving-deity-over-flood-and-destruction
+  motif_id: grieving_deity_over_flood_and_destruction
+  label: grieving deity over flood and destruction
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label explicitly involves flood and destruction, with divine grief
+    as an emotional variant within catastrophe narratives.
+  cautions: If the focus is divine compassion rather than world-destroying flood,
+    divine_intervention or lament_and_mourning may be relevant; verify the destruction-renewal
+    structure.
+  suggested_aliases:
+  - divine grief after flood
+  - deity mourns flood destruction
+  - grieving god over catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grieving-hero-on-mountain-height
+  motif_id: grieving_hero_on_mountain_height
+  label: grieving hero on mountain height
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: low
+  rationale: The core action is heroic grief, while the mountain may be a setting,
+    ascent marker, or sacred height.
+  cautions: Needs context to decide whether mountain height is symbolically important
+    enough for cosmic_mountain/ascent or merely scenic localization.
+  suggested_aliases:
+  - hero mourns on mountain
+  - mountain-top lament
+  - grieving hero at height
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch combine emotional grief with water or mountain imagery;
+  suggested placements prioritize narrative function over elemental imagery unless
+  flood, sacred waters, or cosmic mountain functions are explicit.
+- Giant-related labels are weakly represented in the current groups; consider a future
+  giants/devourers group only if additional recurring labels support it.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence and episode-specific labels
+    should be checked against source passages before indexing broadly.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0552
+  input_sha256: d2a37aa79f5b1669caf4c5c804d5371470e3b1169ce01f849dcf023afae195ba

@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0513
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-morning-service-interrupted-by-death
+  motif_id: ritual_morning_service_interrupted_by_death
+  label: ritual morning service interrupted by death
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a narrative incident where death interrupts ritual,
+    but its recurring symbolic function is unclear.
+  cautions: Single occurrence and highly contextual; may be passage-specific rather
+    than a motif. Needs source evidence to determine whether the focus is death pollution,
+    ritual failure, omen, or plot event.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-noise-and-striking-to-drive-away-spirits
+  motif_id: ritual_noise_and_striking_to_drive_away_spirits
+  label: Ritual noise and striking to drive away spirits
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Noise and striking used to expel spirits fits the existing ritual expulsion
+    complex currently folded under sacrifice.
+  cautions: Could also belong under sacred_law as apotropaic practice if framed mainly
+    as protective prohibition rather than expulsion rite.
+  suggested_aliases:
+  - noise used to drive away spirits
+  - apotropaic noise
+  - spirit-expelling noise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-noise-used-to-drive-away-spirits
+  motif_id: ritual_noise_used_to_drive_away_spirits
+  label: ritual noise used to drive away spirits
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: This is a close duplicate of ritual noise and striking for spirit expulsion,
+    matching the existing ritual expulsion cluster under sacrifice.
+  cautions: Preserve as an alias or duplicate candidate; review whether it should
+    be merged with ritual_noise_and_striking_to_drive_away_spirits.
+  suggested_aliases:
+  - ritual noise and striking to drive away spirits
+  - apotropaic noise
+  - spirit-expelling noise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-offering-to-gods-at-household-return
+  motif_id: ritual_offering_to_gods_at_household_return
+  label: ritual offering to gods at household return
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An offering to gods on return is a reciprocal ritual act repairing or
+    reaffirming sacred relationship.
+  cautions: If the passage emphasizes homecoming narrative rather than offering, hero_journey
+    or return may be a secondary context; single occurrence may be too specific.
+  suggested_aliases:
+  - return offering
+  - household return offering
+  - offering after homecoming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-offerings-to-guardian-spirits-on-birthdays
+  motif_id: ritual_offerings_to_guardian_spirits_on_birthdays
+  label: ritual offerings to guardian spirits on birthdays
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Birthday offerings to guardian spirits are reciprocal ritual maintenance
+    of relations with protective sacred beings.
+  cautions: Could also index to divine_intervention if the guardian-spirit role is
+    central, or sacred_time if the birthday cycle is emphasized.
+  suggested_aliases:
+  - birthday offerings to guardian spirits
+  - offerings to guardian spirits
+  - genius birthday offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-pollution-from-contact-with-death
+  motif_id: ritual_pollution_from_contact_with_death
+  label: ritual pollution from contact with death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Death-contact pollution is a ritual purity and prohibition pattern already
+    aligned with sacred_law and spirit-contagion variants.
+  cautions: If the passage centers on funerary rites for the dead rather than impurity
+    rules, ancestor_rites or heroic_funeral_rites may be relevant secondary mappings.
+  suggested_aliases:
+  - death pollution
+  - pollution from contact with death
+  - mortuary impurity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-procession-of-death-effigy
+  motif_id: ritual_procession_of_death_effigy
+  label: ritual procession of Death effigy
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A procession of a Death effigy likely belongs to ritual expulsion or
+    removal of death/misfortune, currently grouped under sacrifice.
+  cautions: Could fit sacred_time if part of a seasonal Death expulsion rite; source
+    context needed before narrowing.
+  suggested_aliases:
+  - Death effigy procession
+  - procession of Death
+  - ritual expulsion of Death effigy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-of-food-and-water-through-drowning-or-expulsion-of-death
+  motif_id: ritual_purification_of_food_and_water_through_drowning_or_expulsion_of_death
+  label: Ritual purification of food and water through drowning or expulsion of Death
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes ritual expulsion of Death to purify communal substances,
+    matching the expulsion/purification cluster under sacrifice.
+  cautions: Over-specific composite label; may also involve sacred_waters, sacred_law,
+    or sacred_time if drowning, purity rules, or seasonal rite are central.
+  suggested_aliases:
+  - expulsion of Death for purification
+  - drowning of Death
+  - purification through expelling Death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-relocation-of-a-tree-spirit-before-or-after-felling
+  motif_id: ritual_relocation_of_a_tree_spirit_before_or_after_felling
+  label: Ritual relocation of a tree-spirit before or after felling
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves tree spirit agency and ritual handling, but no existing
+    group cleanly covers relocation of indwelling nature spirits.
+  cautions: Could map to sacred_law as ritual prohibition, sacred_exchange as appeasement,
+    otherworld/divine_intervention as spirit agency, or axis_mundi only if the tree
+    has cosmic-center function.
+  suggested_aliases:
+  - relocation of tree spirit
+  - tree-spirit transfer before felling
+  - ritual transfer of tree spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-removal-of-sickness-through-disposal-of-death
+  motif_id: ritual_removal_of_sickness_through_disposal_of_death
+  label: Ritual removal of sickness through disposal of Death
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Disposing of Death to remove sickness fits ritual expulsion of harmful
+    forces, already clustered under sacrifice.
+  cautions: May overlap with sacred_law/apotropaic protection or healing rites; preserve
+    the personified Death detail as evidence.
+  suggested_aliases:
+  - disposal of Death to remove sickness
+  - ritual expulsion of sickness
+  - sickness removed by expelling Death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several comparative Death-expulsion labels appear closely related and may be candidates
+  for deduplication under the existing ritual_expulsion cluster currently grouped
+  beneath sacrifice.
+- Consider whether repeated Death-effigy, drowning-of-Death, and sickness-removal
+  labels eventually warrant a more explicit child group for ritual expulsion of death/misfortune;
+  this batch alone does not require a new group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0513
+  input_sha256: e20fb352d48a0a16d7d89222275a4d01f2e71ab0846d7eedec1a6692296be12b

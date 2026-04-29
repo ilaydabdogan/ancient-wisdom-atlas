@@ -1,0 +1,339 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0568
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mountain-stronghold-overcome-by-concealed-night-ambush
+  motif_id: mountain_stronghold_overcome_by_concealed_night_ambush
+  label: mountain stronghold overcome by concealed night ambush
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a specific battle tactic at a mountain fort rather than
+    a clear mountain-axis or sacred-combat motif.
+  cautions: May be an episode-specific military detail; map to sacred_combat only
+    if the source frames the ambush as ritually or cosmically significant.
+  suggested_aliases:
+  - night ambush of mountain stronghold
+  - concealed ambush at mountain fortress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mountain-vantage-reveals-hidden-figures
+  motif_id: mountain_vantage_reveals_hidden_figures
+  label: mountain vantage reveals hidden figures
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A mountain viewpoint revealing hidden beings may be ordinary scene-setting,
+    perception, or revelation depending on passage evidence.
+  cautions: Do not map to cosmic_mountain or theophany unless the mountain functions
+    as sacred center, ascent site, or revelatory threshold.
+  suggested_aliases:
+  - mountain viewpoint reveals hidden figures
+  - revelation from a mountain vantage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - ascent
+    - dream_and_vision
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mountains-and-trees-used-as-heroic-weapons
+  motif_id: mountains_and_trees_used_as_heroic_weapons
+  label: Mountains and trees used as heroic weapons
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Natural cosmic-scale objects used as weapons fit heroic or divine combat
+    better than mountain/tree symbolism as axis mundi.
+  cautions: If the episode is purely martial without sacred or cosmic framing, sacred_combat
+    may be a better broad review group; preserve mountain/tree specificity as evidence.
+  suggested_aliases:
+  - natural objects used as heroic weapons
+  - mountains used as weapons
+  - trees used as weapons in heroic combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mountains-stabilizing-the-earth
+  motif_id: mountains_stabilizing_the_earth
+  label: mountains stabilizing the earth
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Mountains functioning to stabilize the earth concerns cosmic ordering
+    and creation structure rather than a journey up a sacred mountain.
+  cautions: Could warrant a future earth-foundation or cosmic-stabilization child
+    if this motif recurs; do not collapse into cosmic_mountain unless a specific sacred
+    mountain or axis function appears.
+  suggested_aliases:
+  - mountains as earth stabilizers
+  - mountains as cosmic pegs
+  - mountains anchoring the earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - cosmic_mountain
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.movement-from-darkness-into-light
+  motif_id: movement_from_darkness_into_light
+  label: movement from darkness into light
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Darkness-to-light movement often marks guidance, revelation, or transformation
+    into truth, fitting sacred knowledge more than literal ascent.
+  cautions: If the passage describes moral reckoning, conversion, cosmology, or eschatology,
+    divine_judgment, initiation, or cosmic_origin may be secondary; source context
+    is needed.
+  suggested_aliases:
+  - darkness into light
+  - guidance from darkness to light
+  - illumination after darkness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - theophany
+    - divine_judgment
+    - duality
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.music-that-charms-nature
+  motif_id: music_that_charms_nature
+  label: music that charms nature
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Enchanting Music and Orphic Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Music exerting power over nature is a recurring expressive enchantment
+    pattern not cleanly covered by sacred_song or storytelling_as_power.
+  cautions: May fit sacred_song if devotional or wisdom-bearing; may fit culture_hero
+    if music establishes civilization; avoid treating all music as sacred power without
+    evidence.
+  suggested_aliases:
+  - enchanting music
+  - music charms animals and nature
+  - Orphic music over nature
+  suggested_new_group:
+    id: enchanting_music
+    label: Enchanting Music and Orphic Power
+    description: Music, song, or poetic performance exerts transformative, pacifying,
+      animating, or compelling power over nature, animals, spirits, humans, or violence.
+    parent_group_ids:
+    - storytelling_as_power
+    - sacred_knowledge
+    related_group_ids:
+    - sacred_song
+    - sacred_love
+    - culture_hero
+    - threshold_guardian
+    reason_existing_groups_insufficient: Existing groups cover sacred song as wisdom/devotion
+      or storytelling as narrative survival, but not music as an active enchantment
+      of nature or violence.
+- suggestion_id: normalization.suggestion.music-that-charms-nature-and-restrains-violence
+  motif_id: music_that_charms_nature_and_restrains_violence
+  label: music that charms nature and restrains violence
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Enchanting Music and Orphic Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif combines nature-enchantment with pacification of violence,
+    matching a possible broader music-as-sacred-power group.
+  cautions: If the passage emphasizes political peace or ethical restraint rather
+    than musical enchantment, sacred_law or sacred_combat may be secondary review
+    options.
+  suggested_aliases:
+  - music restrains violence
+  - pacifying music
+  - music charms nature and calms conflict
+  suggested_new_group:
+    id: enchanting_music
+    label: Enchanting Music and Orphic Power
+    description: Music, song, or poetic performance exerts transformative, pacifying,
+      animating, or compelling power over nature, animals, spirits, humans, or violence.
+    parent_group_ids:
+    - storytelling_as_power
+    - sacred_knowledge
+    related_group_ids:
+    - sacred_song
+    - sacred_combat
+    - culture_hero
+    - threshold_guardian
+    reason_existing_groups_insufficient: Existing groups do not clearly represent
+      music as a performative force that enchants the natural world and pacifies violent
+      beings or conflict.
+- suggestion_id: normalization.suggestion.mythic-beings-mediate-between-earth-and-heaven
+  motif_id: mythic_beings_mediate_between_earth_and_heaven
+  label: mythic beings mediate between earth and heaven
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: role_variant
+  confidence: medium
+  rationale: Mediation between earth and heaven fits the vertical-connection function
+    of the axis mundi, here embodied by beings rather than a place or object.
+  cautions: If the beings are primarily messengers or helpers in human affairs, divine_intervention
+    may be better; if they reveal divine presence, consider theophany.
+  suggested_aliases:
+  - beings mediating earth and heaven
+  - heaven-earth mediators
+  - mythic mediators between realms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - theophany
+    - ascent
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-world-used-as-weapons-in-battle
+  motif_id: natural_world_used_as_weapons_in_battle
+  label: natural world used as weapons in battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Using elements of nature as weapons in battle belongs to heroic or divine
+    combat when the combat has mythic scale.
+  cautions: Could be too broad or scene-specific; sacred_combat may be preferable
+    if the focus is warfare rather than a divine/heroic warrior figure.
+  suggested_aliases:
+  - nature used as weapons
+  - natural elements as battle weapons
+  - cosmic-scale weapons in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nature-animated-by-local-nymphs
+  motif_id: nature_animated_by_local_nymphs
+  label: Nature animated by local nymphs
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Local nymphs animating nature point to an enchanted landscape inhabited
+    by nonordinary beings alongside the human world.
+  cautions: If the passage emphasizes civic/local cult guardianship, divine_intervention
+    may fit; if it is merely a taxonomy of nature spirits, review as possible contextual
+    detail.
+  suggested_aliases:
+  - animated nature spirits
+  - nymphs inhabiting nature
+  - local spirits animate landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - theophany
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and scene-specific; preserve
+  evidence notes and avoid promoting to taxonomy families without recurrence.
+- Mountain labels should not automatically map to cosmic_mountain unless the source
+  gives the mountain sacred-center, axis, ascent, refuge, or revelation function.
+- Music-as-enchantment appears insufficiently covered by current groups and may merit
+  review as a new normalization group if more Orphic or charm-song motifs recur.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify passage function
+    and avoid transmission claims.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0568
+  input_sha256: d61c67d39b97554ae19027fe8d15fa74d75322382da8ac9d92eafa2a62571ea1

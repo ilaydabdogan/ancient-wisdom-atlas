@@ -1,0 +1,282 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0636
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mother-searches-for-lost-son
+  motif_id: mother_searches_for_lost_son
+  label: Mother searches for lost son
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: stolen_beloved
+  suggested_group_label: Stolen Or Lost Beloved
+  relationship: functional_variant
+  confidence: medium
+  rationale: A kin-search for a lost son fits the lost-beloved quest pattern when
+    loss initiates search or ordeal.
+  cautions: Could instead be miraculous_child or lament_and_mourning if the son is
+    dead, threatened, or primarily mourned rather than sought.
+  suggested_aliases:
+  - mother searches for lost child
+  - maternal quest for lost son
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-son-grief-at-separation
+  motif_id: mother_son_grief_at_separation
+  label: mother-son grief at separation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on grief caused by familial separation, fitting the
+    broader mourning and lament group.
+  cautions: If separation triggers a quest, exile, or sacred duty, hero_journey or
+    sacrifice may be relevant as secondary context.
+  suggested_aliases:
+  - maternal grief at separation
+  - parent-child separation grief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-beloved-refuses-joy-and-sustenance
+  motif_id: mourning_beloved_refuses_joy_and_sustenance
+  label: mourning beloved refuses joy and sustenance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: Refusal of food and joy due to grief is a concrete mourning behavior
+    and fits existing lament_and_mourning.
+  cautions: If the refusal is an ascetic vow or self-offering, sacrifice or renunciation
+    may also be relevant.
+  suggested_aliases:
+  - grief refusal of sustenance
+  - mourning fast for beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-father-and-unavenged-son
+  motif_id: mourning_father_and_unavenged_son
+  label: mourning father and unavenged son
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core is parental mourning for a dead son, with vengeance as contextual
+    pressure.
+  cautions: If vengeance drives the narrative, sacred_combat or divine_warrior may
+    be a better secondary mapping; preserve unavenged detail.
+  suggested_aliases:
+  - father mourns slain son
+  - unavenged son lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-landscape-around-an-absent-beloved
+  motif_id: mourning_landscape_around_an_absent_beloved
+  label: mourning landscape around an absent beloved
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An absent beloved whose loss charges the surrounding landscape fits love,
+    longing, and grief imagery.
+  cautions: Could map to lament_and_mourning if grief expression is primary, or to
+    nature symbolism if the landscape acts independently.
+  suggested_aliases:
+  - landscape mourning absent beloved
+  - beloved absence reflected in landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-mother-s-tears-generate-waters-and-landscape
+  motif_id: mourning_mother_s_tears_generate_waters_and_landscape
+  label: Mourning mother's tears generate waters and landscape
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Tears producing waters and landscape is an etiological creation or landscape-generation
+    motif caused by mourning.
+  cautions: Also belongs near lament_and_mourning and sacred_waters; do not treat
+    as flood_and_renewal unless destructive inundation and renewal are present.
+  suggested_aliases:
+  - tears create waters
+  - mourning tears shape landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-parents-touch-the-slain-child
+  motif_id: mourning_parents_touch_the_slain_child
+  label: mourning parents touch the slain child
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Parents grieving over a slain child is a specific mourning scene within
+    the lament group.
+  cautions: Likely too episode-specific for canonical promotion unless recurrent;
+    if touch has ritual or revival function, death_and_transformation may apply.
+  suggested_aliases:
+  - parents mourn slain child
+  - parental lament over dead child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multiple-warriors-promised-the-same-bride-for-military-service
+  motif_id: multiple_warriors_promised_the_same_bride_for_military_service
+  label: multiple warriors promised the same bride for military service
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The bride promise functions as a reward or catalyst for warrior service
+    and conflict, fitting sacred_combat more than love symbolism.
+  cautions: Highly contextual and may be a plot artifact; review whether it recurs
+    as a bride-prize/warrior-service pattern before broad indexing.
+  suggested_aliases:
+  - bride promised for warrior service
+  - multiple suitors rewarded with same bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.music-mediating-hidden-sorrow-and-desire
+  motif_id: music_mediating_hidden_sorrow_and_desire
+  label: music mediating hidden sorrow and desire
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, music expressing concealed sorrow and desire aligns
+    with sacred longing and the divine beloved complex.
+  cautions: Could also fit sacred_song under mystical_quest if the emphasis is devotional
+    performance or revelatory song rather than love-longing.
+  suggested_aliases:
+  - music of hidden longing
+  - song mediates sorrow and desire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutual-benefit-love
+  motif_id: mutual_benefit_love
+  label: mutual-benefit love
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as an abstract ethical or social concept rather than
+    a clear narrative motif.
+  cautions: Could belong to sacred_love, sacred_exchange, or ethics depending on passage
+    evidence; may also be commentary rather than motif.
+  suggested_aliases:
+  - reciprocal love
+  - beneficial love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence grief or family-separation scenes; preserve
+  episode detail and avoid promoting them without recurrence.
+- Love, mourning, and quest functions overlap in this batch; final placement should
+  follow passage function rather than kinship terms alone.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements suggested for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0636
+  input_sha256: 47929705eb615ac094101e8124b744d8e51219bc052110ba36557e15c492594c

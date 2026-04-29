@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0590
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.vessel-requiring-human-wind-and-steering-assistance
+  motif_id: vessel_requiring_human_wind_and_steering_assistance
+  label: Vessel requiring human, wind, and steering assistance
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a voyage ordeal, a magical vessel, or a passage-specific
+    navigation detail.
+  cautions: Single occurrence and function is unclear; do not map to sacred_vessel
+    unless the vessel has sacred or transformative power.
+  suggested_aliases:
+  - assisted vessel navigation
+  - vessel requiring wind and steering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    - hero_journey
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vessel-that-provides-nourishment-and-releases-destructive-water
+  motif_id: vessel_that_provides_nourishment_and_releases_destructive_water
+  label: vessel that provides nourishment and releases destructive water
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vessel holding nourishment and destructive water functions as a powerful
+    container of life-giving and dangerous forces.
+  cautions: If destructive water causes world-scale renewal, add secondary review
+    for flood_and_renewal; if only a local episode, keep vessel specificity as evidence
+    detail.
+  suggested_aliases:
+  - nourishing vessel releasing destructive water
+  - ambivalent sacred vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - flood_and_renewal
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violation-of-otherworld-dwelling-brings-later-retribution
+  motif_id: violation_of_otherworld_dwelling_brings_later_retribution
+  label: violation of otherworld dwelling brings later retribution
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on transgressing an otherworld dwelling and suffering
+    delayed consequences from that realm.
+  cautions: Could also involve divine_judgment if the passage frames retribution as
+    moral reckoning rather than otherworld boundary violation.
+  suggested_aliases:
+  - otherworld dwelling violation punished
+  - retribution for violating otherworld home
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violation-of-otherworld-hill-followed-by-revenge-on-descendants
+  motif_id: violation_of_otherworld_hill_followed_by_revenge_on_descendants
+  label: violation of otherworld hill followed by revenge on descendants
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: An otherworld hill violated by humans fits the enchanted-realm boundary
+    complex with retaliatory consequences.
+  cautions: The descendant-revenge detail may be episode-specific; consider divine_judgment
+    only if moral or ancestral reckoning is explicit.
+  suggested_aliases:
+  - otherworld hill violation punished
+  - revenge for violating otherworld hill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - threshold_guardian
+    - cosmic_mountain
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.voluntary-poverty-as-protection-from-worldly-oppression
+  motif_id: voluntary_poverty_as_protection_from_worldly_oppression
+  label: voluntary poverty as protection from worldly oppression
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Voluntary poverty in a Sufi context is a renunciatory discipline protecting
+    the seeker from worldly attachment or domination.
+  cautions: Could be an ethical teaching rather than a narrative motif; if the emphasis
+    is exchange or surrender, renunciation under sacred_exchange may be a useful alias.
+  suggested_aliases:
+  - voluntary poverty
+  - poverty as spiritual protection
+  - renunciatory poverty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-as-destructive-flood-or-torrent
+  motif_id: warrior_as_destructive_flood_or_torrent
+  label: warrior as destructive flood or torrent
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The core function is warrior violence described through destructive water
+    imagery, not a flood-renewal narrative.
+  cautions: Do not map to flood_and_renewal unless the passage includes catastrophe
+    followed by renewal; this may be poetic simile.
+  suggested_aliases:
+  - warrior as torrent
+  - warrior flood simile
+  - destructive-water warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-as-ravaging-fire
+  motif_id: warrior_as_ravaging_fire
+  label: warrior as ravaging fire
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif casts warrior destruction in fire imagery within a combat context.
+  cautions: May be poetic comparison only; choose world_destroying_fire only if the
+    fire judges or renews a world/order.
+  suggested_aliases:
+  - fire-like warrior
+  - warrior as destructive fire
+  - ravaging-fire warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_fire
+    - world_destroying_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-excess-restrained-before-dawn
+  motif_id: warrior_excess_restrained_before_dawn
+  label: warrior excess restrained before dawn
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe martial fury, ritual timing, dawn symbolism, or
+    a specific episode of restraint.
+  cautions: Single occurrence; needs source context before mapping to divine_warrior,
+    sacred_combat, sacred_time, or ethical discipline.
+  suggested_aliases:
+  - restrained warrior excess
+  - warrior fury checked before dawn
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_combat
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warriors-likened-to-destructive-elements
+  motif_id: warriors_likened_to_destructive_elements
+  label: Warriors likened to destructive elements
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label generalizes elemental similes for warrior destructiveness within
+    a martial motif field.
+  cautions: Likely a broad poetic image; do not infer actual cosmic catastrophe or
+    elemental cult without passage evidence.
+  suggested_aliases:
+  - elemental warrior simile
+  - warriors as destructive forces
+  - warriors as destructive elements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_fire
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warriors-using-trees-and-rocks-as-weapons
+  motif_id: warriors_using_trees_and_rocks_as_weapons
+  label: warriors using trees and rocks as weapons
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes an unusual combat tactic using natural objects as
+    weapons.
+  cautions: May be an episode-specific battle detail rather than a reusable motif;
+    do not map to axis_mundi or cosmic_mountain unless the trees or rocks have sacred-center
+    function.
+  suggested_aliases:
+  - natural objects used as weapons
+  - trees and rocks as weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are elemental images used for warriors; they should
+  remain combat-symbolic variants unless the passage shows actual cosmic flood, fire,
+  or renewal.
+- Otherworld violation labels fit the otherworld boundary complex but may need secondary
+  review for judgment or inherited vengeance.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence and poetic-simile labels should
+    be checked against source passages before indexing broadly.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0590
+  input_sha256: '05224118de3dfb18e3667db0d01fd96fd39a717a5c65261b85117dad8c1243e0'

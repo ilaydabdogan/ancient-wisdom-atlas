@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0605
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.champion-challenges-on-behalf-of-a-maiden
+  motif_id: champion_challenges_on_behalf_of_a_maiden
+  label: Champion challenges on behalf of a maiden
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve sacred love, heroic combat, courtship contest, or episode-specific
+    chivalric action depending on passage function.
+  cautions: Single occurrence; do not map to sacred_love unless the maiden relationship
+    or love-longing is central, or to sacred_combat unless the challenge has ritual/heroic
+    combat significance.
+  suggested_aliases:
+  - champion fights for maiden
+  - courtship champion challenge
+  - combat on behalf of maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - sacred_combat
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.charitable-leader-who-gives-away-personal-resources
+  motif_id: charitable_leader_who_gives_away_personal_resources
+  label: charitable leader who gives away personal resources
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Giving away personal resources expresses reciprocal charity, generosity,
+    and social-sacred obligation.
+  cautions: If the emphasis is ethical rulership rather than gift/renunciation, royal_legitimacy
+    or sacred_law may be useful secondary mappings.
+  suggested_aliases:
+  - charitable ruler gives resources
+  - leader gives away wealth
+  - generous leader
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-and-animal-theft-juxtaposed-in-one-sequence
+  motif_id: child_and_animal_theft_juxtaposed_in_one_sequence
+  label: child and animal theft juxtaposed in one sequence
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes juxtaposition in a sequence rather than a stable
+    symbolic or narrative motif.
+  cautions: If source evidence shows actual abduction or theft as the functional pattern,
+    remap to stolen_beloved, trickster, or a future abduction/theft group; preserve
+    child/animal detail as evidence.
+  suggested_aliases:
+  - juxtaposed child and animal theft
+  - child theft and animal theft sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-avenges-murdered-parent
+  motif_id: child_avenges_murdered_parent
+  label: Child avenges murdered parent
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kin vengeance for a murdered parent restores moral order through punishment
+    of wrongdoing.
+  cautions: If the passage emphasizes warrior honor or feud more than moral reckoning,
+    sacred_combat or divine_warrior may be better; if a destined child is central,
+    miraculous_child may be secondary.
+  suggested_aliases:
+  - filial vengeance
+  - child avenger of parent
+  - avenging a murdered parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-carried-away-by-traders-and-accomplice
+  motif_id: child_carried_away_by_traders_and_accomplice
+  label: child carried away by traders and accomplice
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: May be child abduction, trafficking, exile, threatened infancy, or merely
+    a plot detail.
+  cautions: Single occurrence and highly contextual; map to miraculous_child only
+    if the carried-away child has protected or destined significance, or to departure
+    if it begins a transformative journey.
+  suggested_aliases:
+  - child abducted by traders
+  - child carried off by accomplice
+  - traders carry away child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - departure
+    - stolen_beloved
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-heir-killed-to-prevent-future-vengeance
+  motif_id: child_heir_killed_to_prevent_future_vengeance
+  label: child heir killed to prevent future vengeance
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A threatened child heir targeted because of future destiny fits the endangered-child
+    pattern.
+  cautions: If the emphasis is dynastic purge or political succession rather than
+    the child's destiny, royal_legitimacy or divine_judgment may be secondary or preferable.
+  suggested_aliases:
+  - threatened child heir
+  - child heir killed to avert revenge
+  - heir destroyed to prevent vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-killed-by-being-thrown-from-a-tower
+  motif_id: child_killed_by_being_thrown_from_a_tower
+  label: child killed by being thrown from a tower
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a specific mode of child death, not enough by itself to
+    identify a broader motif.
+  cautions: Could fit divine_judgment, miraculous_child, death_by_fate, or passage-specific
+    violence depending on narrative role; avoid indexing solely by death method.
+  suggested_aliases:
+  - child thrown from tower
+  - tower death of child
+  - child killed by fall from tower
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - divine_judgment
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-leader-with-animal-companions
+  motif_id: child_leader_with_animal_companions
+  label: child leader with animal companions
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: An extraordinary child leader marked by animal companions fits the miraculous
+    or destined child complex.
+  cautions: If animal helpers are the central pattern, a future animal-helper group
+    may be needed; if leadership/founding is central, culture_hero may be secondary.
+  suggested_aliases:
+  - child hero with animal companions
+  - animal companions of child leader
+  - destined child with animal helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-moses-and-the-live-coal
+  motif_id: child_moses_and_the_live_coal
+  label: Child Moses and the live coal
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: over_specific_label
+  confidence: high
+  rationale: This is an episode from a prophet's extraordinary childhood and endangered-child
+    destiny cycle.
+  cautions: The live coal detail should remain evidence-level; secondary links to
+    sacred_fire or divine_intervention may apply if the passage emphasizes divine
+    testing or protection.
+  suggested_aliases:
+  - Moses and the live coal
+  - infant Moses live coal test
+  - prophetic child tested by coal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-raised-in-royal-care-becomes-eminent-religious-disciple
+  motif_id: child_raised_in_royal_care_becomes_eminent_religious_disciple
+  label: child raised in royal care becomes eminent religious disciple
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A child raised under exceptional royal protection who later gains religious
+    eminence fits the destined or protected child pattern.
+  cautions: If the emphasis is later discipleship and religious training rather than
+    childhood destiny, initiation or sacred_knowledge may be better secondary mappings.
+  suggested_aliases:
+  - royally raised child becomes disciple
+  - child in royal care becomes religious disciple
+  - protected child becomes eminent disciple
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence and should remain provisional until passage evidence
+  confirms whether they are recurring motifs or episode-specific details.
+- Several child-centered labels plausibly map to miraculous_child only when the child
+  is marked by destiny, protection, threat, or later sacred significance.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed for contextual
+    abduction, vengeance, and episode-specific violence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0605
+  input_sha256: 5685906d659fed0bf31c8070f0cda3215c6617d048cf8ec1df618177be8cdfbc

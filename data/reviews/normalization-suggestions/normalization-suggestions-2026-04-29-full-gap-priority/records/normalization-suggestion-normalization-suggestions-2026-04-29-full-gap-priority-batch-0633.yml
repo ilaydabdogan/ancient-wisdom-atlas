@@ -1,0 +1,324 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0633
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.marriage-like-settlement-through-dowry-after-raid
+  motif_id: marriage_like_settlement_through_dowry_after_raid
+  label: Marriage-like settlement through dowry after raid
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: The label links marriage settlement to a raid aftermath, which may function
+    as conflict resolution within heroic warfare.
+  cautions: Could be legal compensation, forced marriage, political alliance, or episode-specific
+    social detail; source evidence is needed before grouping.
+  suggested_aliases:
+  - dowry settlement after raid
+  - marriage settlement after raid
+  - raid resolved by marriage compensation
+  suggested_new_group:
+    id: marriage_alliance_and_exchange
+    label: Marriage Alliance and Exchange
+    description: Marriage, betrothal, dowry, bridewealth, or spouse exchange used
+      to settle conflict, create alliance, transfer status, or negotiate kinship obligations.
+    parent_group_ids:
+    - sacred_love
+    - royal_legitimacy
+    - sacred_exchange
+    related_group_ids:
+    - sacred_combat
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover sacred love, exchange,
+      kingship, and combat, but not ordinary or political marriage negotiation as
+      a recurring social-order motif.
+- suggestion_id: normalization.suggestion.marriage-obtained-through-frightening-display-of-power
+  motif_id: marriage_obtained_through_frightening_display_of_power
+  label: marriage obtained through frightening display of power
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines marriage coercion with intimidation or power display,
+    but no existing group cleanly captures this function.
+  cautions: Culturally sensitive and potentially coercive; avoid normalizing under
+    sacred_love without evidence of mutual or sacred union. May be local episode detail.
+  suggested_aliases:
+  - coerced marriage through display of power
+  - marriage by intimidation
+  - frightening power display wins spouse
+  suggested_new_group:
+    id: marriage_alliance_and_exchange
+    label: Marriage Alliance and Exchange
+    description: Marriage, betrothal, dowry, bridewealth, or spouse exchange used
+      to settle conflict, create alliance, transfer status, or negotiate kinship obligations,
+      including contested or coercive arrangements when recurrent.
+    parent_group_ids:
+    - sacred_love
+    - royal_legitimacy
+    - sacred_exchange
+    related_group_ids:
+    - divine_warrior
+    - sacred_law
+    reason_existing_groups_insufficient: Sacred_love is too positive or mystical,
+      while divine_warrior and royal_legitimacy do not preserve the marriage-acquisition
+      function.
+- suggestion_id: normalization.suggestion.marriage-proposal-by-envoys
+  motif_id: marriage_proposal_by_envoys
+  label: Marriage proposal by envoys
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This appears to be a procedural courtship or alliance detail rather than
+    a broad symbolic motif by itself.
+  cautions: May fit royal_legitimacy or marriage alliance if the envoy proposal establishes
+    succession, sovereignty, or political order; otherwise treat as evidence detail.
+  suggested_aliases:
+  - envoys deliver marriage proposal
+  - proposal through messengers
+  - marriage embassy
+  suggested_new_group:
+    id: marriage_alliance_and_exchange
+    label: Marriage Alliance and Exchange
+    description: Marriage, betrothal, dowry, bridewealth, or spouse exchange used
+      to settle conflict, create alliance, transfer status, or negotiate kinship obligations.
+    parent_group_ids:
+    - sacred_love
+    - royal_legitimacy
+    - sacred_exchange
+    related_group_ids:
+    - sacred_law
+    reason_existing_groups_insufficient: A recurring cluster of marriage negotiation
+      labels would need a social-alliance group; a single envoy detail may not warrant
+      promotion.
+- suggestion_id: normalization.suggestion.marriage-refusing-royal-child-punished-or-pressured-by-parent
+  motif_id: marriage_refusing_royal_child_punished_or_pressured_by_parent
+  label: marriage-refusing royal child punished or pressured by parent
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: Royal marriage pressure may involve succession, dynastic order, or sovereign
+    family control.
+  cautions: Could instead be a folktale family-conflict motif, gendered coercion,
+    or personal autonomy theme; review before mapping to kingship.
+  suggested_aliases:
+  - royal child refuses marriage
+  - parent pressures royal child to marry
+  - punishment for refusing royal marriage
+  suggested_new_group:
+    id: marriage_alliance_and_exchange
+    label: Marriage Alliance and Exchange
+    description: Marriage, betrothal, dowry, bridewealth, or spouse exchange used
+      to settle conflict, create alliance, transfer status, or negotiate kinship obligations,
+      especially where kin authority and status are central.
+    parent_group_ids:
+    - sacred_love
+    - royal_legitimacy
+    - sacred_law
+    related_group_ids:
+    - divine_judgment
+    reason_existing_groups_insufficient: Royal_legitimacy may cover dynastic stakes,
+      but not the recurrent family/marriage refusal pattern if it appears across sources.
+- suggestion_id: normalization.suggestion.married-woman-s-desire-for-an-outside-hero-triggers-conflict
+  motif_id: married_woman_s_desire_for_an_outside_hero_triggers_conflict
+  label: married woman's desire for an outside hero triggers conflict
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Desire or longing catalyzes heroic conflict, fitting the love-as-danger
+    or love-as-quest trigger field.
+  cautions: If the emphasis is warfare, honor, or sovereignty rather than desire,
+    sacred_combat or royal_legitimacy may be better secondary mappings.
+  suggested_aliases:
+  - desire for outside hero triggers conflict
+  - adulterous longing as conflict catalyst
+  - married woman's longing for hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-object-frightening-the-child
+  motif_id: martial_object_frightening_the_child
+  label: martial object frightening the child
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly specific scene detail centered on a child
+    reacting to a martial object.
+  cautions: If the object is a sacred weapon conferring identity or destiny, review
+    under sacred_treasures, miraculous_child, or divine_warrior; otherwise exclude
+    from broad motif queries.
+  suggested_aliases:
+  - child frightened by martial object
+  - child frightened by weapon or armor
+  - war gear frightens child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-lament-for-absent-endangered-son
+  motif_id: maternal_lament_for_absent_endangered_son
+  label: maternal lament for absent endangered son
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: A mother's grief for an absent and endangered son is a clear lament pattern.
+  cautions: If the son is a miraculous or destined child, miraculous_child may be
+    a secondary context, but the main function is lament.
+  suggested_aliases:
+  - mother laments endangered absent son
+  - maternal lament for missing son
+  - mother's lament for threatened son
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-lament-over-loss-of-the-cherished-son
+  motif_id: maternal_lament_over_loss_of_the_cherished_son
+  label: maternal lament over loss of the cherished son
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly describes lament and mourning over the loss of a son.
+  cautions: May overlap with mother_goddess or death_and_transformation if the mother/son
+    pair has cosmic or resurrection significance.
+  suggested_aliases:
+  - mother laments lost son
+  - maternal grief for cherished son
+  - lament over beloved son
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-rescue-and-claim-over-revived-child
+  motif_id: maternal_rescue_and_claim_over_revived_child
+  label: maternal rescue and claim over revived child
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mother rescues and claims a revived child, aligning with protected
+    or extraordinary child motifs.
+  cautions: The revival element may also belong under resurrection or death_and_transformation;
+    confirm whether the child is literally restored from death.
+  suggested_aliases:
+  - mother rescues revived child
+  - maternal claim over restored child
+  - revived child claimed by mother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-separation-and-collective-nursing
+  motif_id: maternal_separation_and_collective_nursing
+  label: Maternal separation and collective nursing
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Separation from the mother and unusual nursing arrangements fit protected
+    or extraordinary infancy patterns.
+  cautions: If collective nursing is a social custom rather than a destiny-marking
+    childhood episode, this may be too contextual for motif queries.
+  suggested_aliases:
+  - collective nursing after maternal separation
+  - child nursed collectively
+  - separated infant receives communal nursing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items point to a possible recurring marriage-alliance/exchange normalization
+  group, but most have single occurrences and need source review before taxonomy changes.
+- Avoid mapping coercive or politically arranged marriage labels into sacred_love
+  unless the passage emphasizes longing, sacred union, or transformative love rather
+  than social control.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft model suggestions only; marriage and coercion-related labels require
+    human review for social, legal, and cultural context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0633
+  input_sha256: 55f9c8ba71ad0176e36df8e7117b12753142df854d43d845bd5c94e29a10e229

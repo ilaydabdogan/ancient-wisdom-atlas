@@ -1,0 +1,328 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0632
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.maiden-whose-footsteps-produce-flowers
+  motif_id: maiden_whose_footsteps_produce_flowers
+  label: maiden whose footsteps produce flowers
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a supernatural feminine fertility or beauty sign,
+    but existing groups do not cleanly cover flower-producing maiden imagery.
+  cautions: Single occurrence; could be sacred feminine, otherworldly beauty, fertility,
+    or passage-specific description depending on context.
+  suggested_aliases:
+  - flower-footed maiden
+  - flowers from footsteps
+  - maiden producing flowers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - mother_goddess
+    - sacred_love
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.manumission-associated-with-generosity
+  motif_id: manumission_associated_with_generosity
+  label: Manumission associated with generosity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Freeing a dependent person as generosity fits ethical command, social
+    obligation, and sacred social order more than family/body motifs.
+  cautions: If the passage frames manumission as almsgiving or merit-making, sacred_exchange
+    may be a useful secondary relation.
+  suggested_aliases:
+  - freeing slaves as generosity
+  - manumission as ethical generosity
+  - liberation of dependents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marine-nymphs-as-personified-sea-beings
+  motif_id: marine_nymphs_as_personified_sea_beings
+  label: marine nymphs as personified sea beings
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies a class of sea beings rather than a clear narrative
+    function or symbolic pattern.
+  cautions: May be person/place/entity tagging rather than motif; map only if the
+    passage shows sea-personification, theophany, otherworld, or dangerous threshold
+    function.
+  suggested_aliases:
+  - sea nymphs
+  - marine personifications
+  - personified sea beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - otherworld
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marked-or-love-attracting-body-feature
+  motif_id: marked_or_love_attracting_body_feature
+  label: marked or love-attracting body feature
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A bodily mark or feature that attracts love belongs with love-longing
+    motifs when it drives desire or attachment.
+  cautions: Could be too generic as a beauty-description detail; review whether it
+    has plot function rather than ornamental characterization.
+  suggested_aliases:
+  - love-attracting mark
+  - erotic body mark
+  - desire-causing feature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-alliance-offered-to-a-stranger
+  motif_id: marriage_alliance_offered_to_a_stranger
+  label: marriage alliance offered to a stranger
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Offering marriage to a stranger functions as alliance-making and reciprocal
+    social exchange.
+  cautions: If the marriage authorizes rule or succession, royal_legitimacy may be
+    a better mapping; if purely episodic, preserve as evidence detail.
+  suggested_aliases:
+  - marriage alliance with stranger
+  - stranger offered marriage
+  - marriage as alliance offer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-alliance-without-bride-price
+  motif_id: marriage_alliance_without_bride_price
+  label: marriage alliance without bride-price
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The missing bride-price foregrounds marriage as negotiated exchange,
+    obligation, or exception to normal reciprocity.
+  cautions: May be legal/social detail rather than a motif unless it affects alliance,
+    status, or narrative conflict.
+  suggested_aliases:
+  - marriage without bride-price
+  - bride-price waived
+  - marital exchange exception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-as-bondage-under-affinal-household
+  motif_id: marriage_as_bondage_under_affinal_household
+  label: marriage as bondage under affinal household
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Marriage Lament and Affinal Transition
+  relationship: narrower_than
+  confidence: medium
+  rationale: This recurring-seeming wedding-lament pattern treats marriage as loss
+    of freedom under the spouse's kin, not simply sacred love or exchange.
+  cautions: Review with Finnish-Karelian wedding-song context; may be genre-specific
+    lament rather than cross-tradition motif.
+  suggested_aliases:
+  - marriage as bondage
+  - bride under affinal household
+  - marriage as loss of freedom
+  suggested_new_group:
+    id: marriage_lament_affinal_transition
+    label: Marriage Lament and Affinal Transition
+    description: Marriage figured as departure from natal home into a stranger or
+      affinal household, often with imagery of bondage, entrapment, grief, or loss
+      of former identity.
+    parent_group_ids:
+    - sacred_love
+    - sacred_exchange
+    related_group_ids:
+    - lament_and_mourning
+    - initiation
+    - sacred_law
+    reason_existing_groups_insufficient: Existing love and exchange groups do not
+      preserve the specific ritual-social transition and lament imagery of marriage
+      as displacement or subordination.
+- suggestion_id: normalization.suggestion.marriage-as-entry-into-a-stranger-household
+  motif_id: marriage_as_entry_into_a_stranger_household
+  label: Marriage as entry into a stranger household
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Marriage Lament and Affinal Transition
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on marriage as threshold crossing from natal kin into
+    an unfamiliar affinal household.
+  cautions: Likely tied to wedding lament genre; verify whether it is ritual speech,
+    narrative event, or ethnographic description.
+  suggested_aliases:
+  - entry into stranger household
+  - bride enters affinal home
+  - marriage as household transition
+  suggested_new_group:
+    id: marriage_lament_affinal_transition
+    label: Marriage Lament and Affinal Transition
+    description: Marriage figured as departure from natal home into a stranger or
+      affinal household, often with imagery of bondage, entrapment, grief, or loss
+      of former identity.
+    parent_group_ids:
+    - sacred_love
+    - sacred_exchange
+    related_group_ids:
+    - lament_and_mourning
+    - initiation
+    - sacred_law
+    reason_existing_groups_insufficient: Existing love and exchange groups do not
+      preserve the specific ritual-social transition and lament imagery of marriage
+      as displacement or subordination.
+- suggestion_id: normalization.suggestion.marriage-conditioned-on-cattle-raid-success
+  motif_id: marriage_conditioned_on_cattle_raid_success
+  label: Marriage conditioned on cattle raid success
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: The condition links marriage eligibility or alliance to cattle-raid success,
+    matching the existing cattle-raid and sacred-combat complex.
+  cautions: If the passage emphasizes marriage exchange more than the raid ordeal,
+    sacred_exchange may be a secondary mapping.
+  suggested_aliases:
+  - bride won by cattle raid
+  - marriage after cattle raid
+  - raid-success marriage condition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-figured-as-entrapment
+  motif_id: marriage_figured_as_entrapment
+  label: Marriage figured as entrapment
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Marriage Lament and Affinal Transition
+  relationship: narrower_than
+  confidence: medium
+  rationale: Marriage is framed as captivity or entrapment, part of the same affinal
+    transition/lament cluster as bondage and stranger-household imagery.
+  cautions: Could be metaphorical lament rather than a narrative motif; review source
+    genre before broad indexing.
+  suggested_aliases:
+  - marriage as entrapment
+  - marriage as captivity
+  - wedding as trap
+  suggested_new_group:
+    id: marriage_lament_affinal_transition
+    label: Marriage Lament and Affinal Transition
+    description: Marriage figured as departure from natal home into a stranger or
+      affinal household, often with imagery of bondage, entrapment, grief, or loss
+      of former identity.
+    parent_group_ids:
+    - sacred_love
+    - sacred_exchange
+    related_group_ids:
+    - lament_and_mourning
+    - initiation
+    - sacred_law
+    reason_existing_groups_insufficient: Existing love and exchange groups do not
+      preserve the specific ritual-social transition and lament imagery of marriage
+      as displacement or subordination.
+batch_notes:
+- Several marriage labels appear to form a Finnish-Karelian wedding-lament or affinal-transition
+  cluster; human review should decide whether to add one durable group or keep them
+  as contextual evidence under sacred_exchange/sacred_love.
+- Avoid treating social marriage details as sacred_marriage unless the passage explicitly
+  links marriage to cosmic, divine, royal, fertility, or sovereignty functions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages needed for culturally
+    specific marriage-lament and sea-being labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0632
+  input_sha256: 53f3f2a7b0fc29eff8130eff478afbd2bcc532b2c0050e6f96c0e6d453dc660a

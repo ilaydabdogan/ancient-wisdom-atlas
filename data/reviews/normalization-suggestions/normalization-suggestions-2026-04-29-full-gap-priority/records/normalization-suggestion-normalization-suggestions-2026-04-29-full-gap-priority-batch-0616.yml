@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0616
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.falling-fire-child-from-heaven
+  motif_id: falling_fire_child_from_heaven
+  label: falling Fire-child from heaven
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines sacred birth or miraculous child imagery with heavenly descent
+    and fire symbolism; placement depends on episode function.
+  cautions: Single occurrence and composite label; could be miraculous_child, sacred_fire,
+    theophany, or divine_intervention depending on source evidence.
+  suggested_aliases:
+  - heavenly fire child
+  - fire-child from heaven
+  - child descending from heaven
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-accusation-after-rejected-desire
+  motif_id: false_accusation_after_rejected_desire
+  label: false accusation after rejected desire
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: False Accusation and Sexual Rejection
+  relationship: functional_variant
+  confidence: medium
+  rationale: A recurring narrative pattern where rejected desire turns into slander
+    or accusation that endangers the innocent.
+  cautions: Could also fit divine_judgment if punishment or vindication is central;
+    verify recurrence before promoting.
+  suggested_aliases:
+  - rejected desire leads to false accusation
+  - false accusation by spurned lover
+  - sexual rejection and slander
+  suggested_new_group:
+    id: false_accusation_and_rejected_desire
+    label: False Accusation and Rejected Desire
+    description: False blame, slander, or accusation arising after rejected erotic
+      desire, often endangering an innocent figure and triggering ordeal, exile, punishment,
+      or vindication.
+    parent_group_ids:
+    - sacred_love
+    - divine_judgment
+    related_group_ids:
+    - sacred_law
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing love and judgment groups cover desire
+      and moral reckoning broadly, but not the distinctive narrative function of accusation
+      after rejected desire.
+- suggestion_id: normalization.suggestion.false-accusation-leads-to-bride-s-animal-trampling
+  motif_id: false_accusation_leads_to_bride_s_animal_trampling
+  label: false accusation leads to bride's animal trampling
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines false accusation, bride/marriage context, and a specific
+    trampling outcome.
+  cautions: Likely too episode-specific as a canonical motif; may belong under a future
+    false-accusation group or be preserved as evidence detail.
+  suggested_aliases:
+  - bride punished after false accusation
+  - false accusation and animal trampling
+  - slandered bride ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-blame-for-child-murder
+  motif_id: false_blame_for_child_murder
+  label: false blame for child murder
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: functional_variant
+  confidence: low
+  rationale: False blame for kin murder is an accusation-and-vindication pattern,
+    but no current group directly captures false accusation.
+  cautions: Could fit divine_judgment if sacred punishment or vindication is central;
+    otherwise may need a broader false-accusation or persecuted-innocent group.
+  suggested_aliases:
+  - false accusation of child murder
+  - wrongful blame for infanticide
+  - slandered child-killer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-bride-or-false-marriage-lure
+  motif_id: false_bride_or_false_marriage_lure
+  label: false bride or false marriage lure
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceptive bride or marriage lure functions as a perilous threshold
+    temptation or trap that must be resisted or escaped.
+  cautions: If the episode centers on love, marriage substitution, or social deception
+    rather than liminal danger, a future marriage-deception group may be better.
+  suggested_aliases:
+  - false bride lure
+  - false marriage trap
+  - deceptive marriage lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-love-of-one-s-own-devotional-display
+  motif_id: false_love_of_one_s_own_devotional_display
+  label: false love of one's own devotional display
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a spiritual obstacle in which self-regard masquerades
+    as devotion, fitting interior mystical discipline.
+  cautions: Could also be indexed under pride_and_downfall if the passage emphasizes
+    hubris and correction rather than contemplative purification.
+  suggested_aliases:
+  - self-love disguised as devotion
+  - devotional vanity
+  - false mystical love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.family-and-wealth-as-tests-of-fidelity
+  motif_id: family_and_wealth_as_tests_of_fidelity
+  label: family and wealth as tests of fidelity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Family attachments and wealth operate as tests that reveal or transform
+    fidelity and commitment.
+  cautions: If fidelity is specifically covenantal or marital, sacred_law, covenant,
+    or sacred_love may be useful secondary placements.
+  suggested_aliases:
+  - worldly attachments test fidelity
+  - family and wealth as spiritual test
+  - fidelity tested by kin and wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.family-annihilation-by-supernatural-arrows
+  motif_id: family_annihilation_by_supernatural_arrows
+  label: family annihilation by supernatural arrows
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural destruction of a family by arrows likely functions as divine
+    or sacred punishment and moral reckoning.
+  cautions: If framed as heroic combat or plague-like violence rather than judgment,
+    divine_warrior or death_by_fate may be relevant.
+  suggested_aliases:
+  - supernatural arrows destroy family
+  - family destroyed by divine arrows
+  - annihilation by divine missiles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.family-betrayal-or-revenge-destroys-life-token
+  motif_id: family_betrayal_or_revenge_destroys_life_token
+  label: family betrayal or revenge destroys life-token
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: Destruction of a life-token directly matches the external soul/life-token
+    complex, with family betrayal as local trigger.
+  cautions: Preserve the betrayal/revenge context as evidence detail; the core motif
+    is life dependent on an external token.
+  suggested_aliases:
+  - life-token destroyed by kin betrayal
+  - revenge destroys external soul token
+  - family betrayal destroys life object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.family-bonds-competing-with-public-or-heroic-purpose
+  motif_id: family_bonds_competing_with_public_or_heroic_purpose
+  label: Family bonds competing with public or heroic purpose
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif frames kinship attachments as a conflict with heroic duty,
+    public mission, or quest purpose.
+  cautions: If the passage emphasizes civic ethics or kingship rather than hero ordeal,
+    sacred_law or royal_legitimacy may be better secondary mappings.
+  suggested_aliases:
+  - family duty versus heroic purpose
+  - kinship bonds versus public duty
+  - domestic ties competing with heroic mission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional; several labels in this batch are single-occurrence
+  and depend heavily on source context.
+- False-accusation labels recur enough in this mini-batch to consider a review candidate,
+  but promotion should depend on broader gap evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Automated draft suggestions only; human review needed for source-context
+    decisions and possible false-accusation grouping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0616
+  input_sha256: 628afb808e2b4c697f25e3716b2fcfae3f7275603b6e45bc96f6be17fde8f4b6

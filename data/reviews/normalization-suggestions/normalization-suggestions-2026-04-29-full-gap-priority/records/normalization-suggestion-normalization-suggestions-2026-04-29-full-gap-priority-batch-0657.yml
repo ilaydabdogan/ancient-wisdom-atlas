@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0657
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wife-at-domestic-work-before-catastrophic-news
+  motif_id: wife_at_domestic_work_before_catastrophic_news
+  label: wife at domestic work before catastrophic news
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an episode-specific domestic staging detail before
+    bad news rather than a durable motif.
+  cautions: If the passage emphasizes lament, recognition, or household reversal,
+    preserve that evidence under a more functional motif.
+  suggested_aliases:
+  - domestic work before catastrophic news
+  - wife receives catastrophic news
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wife-brings-weapons-and-performs-lament
+  motif_id: wife_brings_weapons_and_performs_lament
+  label: Wife brings weapons and performs lament
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is a spouse performing lament around heroic weapons,
+    fitting mourning and heroic grief.
+  cautions: Could also relate to heroic_funeral_rites or divine_warrior if the weapons
+    and martial honor are central.
+  suggested_aliases:
+  - spousal lament with weapons
+  - wife laments over hero's arms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wife-s-reproach-as-summons-to-heroic-recovery
+  motif_id: wife_s_reproach_as_summons_to_heroic_recovery
+  label: wife's reproach as summons to heroic recovery
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spouse's reproach functions as a call that restores or reactivates
+    heroic identity.
+  cautions: May be too episode-specific; if the emphasis is social shame or marital
+    speech, source review is needed.
+  suggested_aliases:
+  - spousal reproach as heroic summons
+  - wife's rebuke restores hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.winged-maiden-as-swift-supernatural-envoy
+  motif_id: winged_maiden_as_swift_supernatural_envoy
+  label: winged maiden as swift supernatural envoy
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A supernatural envoy delivering or redirecting action fits divine intervention
+    and guidance.
+  cautions: If her winged form or gendered figure is central, shapeshifter or a messenger-deity
+    subgroup could be considered later.
+  suggested_aliases:
+  - supernatural winged envoy
+  - winged female messenger
+  - divine messenger maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withered-rose-as-image-of-lost-beauty
+  motif_id: withered_rose_as_image_of_lost_beauty
+  label: withered rose as image of lost beauty
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: beauty_and_paradox
+  suggested_group_label: Beauty Paired with Pain and Paradox
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The withered rose is a symbolic image of beauty joined to loss and transience.
+  cautions: If the passage is only poetic imagery without recurring motif function,
+    preserve as evidence detail rather than canonical child.
+  suggested_aliases:
+  - withered rose of lost beauty
+  - faded rose as transience
+  - lost beauty as withered flower
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wives-revenge-against-an-abusive-husband
+  motif_id: wives_revenge_against_an_abusive_husband
+  label: wives' revenge against an abusive husband
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns gendered violence and retaliation, but its mythic
+    function is unclear from the label alone.
+  cautions: Culturally sensitive and source-dependent; avoid flattening into generic
+    conflict or judgment without evidence.
+  suggested_aliases:
+  - wives avenge abuse
+  - revenge against abusive husband
+  - spousal retaliation against abuse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.woman-on-tower-watching-battle-and-fearing-for-absent-husband
+  motif_id: woman_on_tower_watching_battle_and_fearing_for_absent_husband
+  label: woman on tower watching battle and fearing for absent husband
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The scene centers on anticipatory grief and tragic recognition around
+    a warrior spouse in battle.
+  cautions: The tower vantage may be an episode-specific setting; map only if fear,
+    lament, or recognition is the motif function.
+  suggested_aliases:
+  - wife watches battle from tower
+  - woman fears for absent husband in battle
+  - anticipatory lament for warrior husband
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.women-only-land-with-seasonal-husbands
+  motif_id: women_only_land_with_seasonal_husbands
+  label: Women-only land with seasonal husbands
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: low
+  rationale: A gender-segregated land with unusual seasonal marriage rules may function
+    as an alternate or enchanted social realm.
+  cautions: Needs human review for cultural specificity; could instead be social-order,
+    marriage, or ethnographic detail rather than otherworld.
+  suggested_aliases:
+  - women-only realm
+  - seasonal husbands in women's land
+  - female-only land with periodic spouses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worldly-life-as-child-s-play
+  motif_id: worldly_life_as_child_s_play
+  label: worldly life as child’s play
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The image devalues ordinary worldly life as immature illusion within
+    a contemplative path toward sacred reality.
+  cautions: Could also be wisdom teaching; avoid treating child imagery as a miraculous-child
+    motif.
+  suggested_aliases:
+  - world as child's play
+  - worldly life as play
+  - ordinary life as childish game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worldly-reputation-lost-through-beloved-idols-and-drink-imagery
+  motif_id: worldly_reputation_lost_through_beloved_idols_and_drink_imagery
+  label: worldly reputation lost through beloved idols and drink imagery
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Sufi beloved and wine/idol imagery often marks love that overturns ordinary
+    honor and social reputation.
+  cautions: Highly poetic and composite; may be better as evidence under divine_beloved,
+    renunciation, or mystical_quest depending on passage context.
+  suggested_aliases:
+  - loss of reputation through divine beloved
+  - beloved and wine overturn worldly honor
+  - scandal of mystical love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, scene-specific, or poetic images;
+  preserve source detail while mapping only the durable function.
+- Love/family labels often resolve into lament, mystical love, heroic summons, or
+  social-order questions rather than requiring a separate gender-family group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; culturally sensitive and highly contextual items
+    flagged for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0657
+  input_sha256: 89fcfb2b68094a2328bfd349fdf77e66b6ca021feb58a53261dcd9a756c71135
