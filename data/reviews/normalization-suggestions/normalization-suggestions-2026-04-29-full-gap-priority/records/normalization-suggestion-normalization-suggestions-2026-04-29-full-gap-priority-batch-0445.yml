@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0445
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unique-weapon-needed-to-slay-a-giant
+  motif_id: unique_weapon_needed_to_slay_a_giant
+  label: unique weapon needed to slay a giant
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A special weapon required for victory functions as a power object conferring
+    decisive ability.
+  cautions: Could also fit divine_warrior or sacred_combat if the emphasis is heroic
+    combat rather than the weapon's special status.
+  suggested_aliases:
+  - unique slaying weapon
+  - special weapon required to kill giant
+  - giant-slaying power weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-charity-toward-all-creatures
+  motif_id: universal_charity_toward_all_creatures
+  label: Universal charity toward all creatures
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Universal compassion in a Sufi context likely expresses transformed spiritual
+    disposition on the mystical path.
+  cautions: Bucket assignment may be misleading; if framed as ethical teaching rather
+    than mystical attainment, sacred_law or sacred_knowledge may be better.
+  suggested_aliases:
+  - universal compassion toward creatures
+  - charity toward all beings
+  - compassion for all creatures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unwounded-hero-after-mass-slaughter
+  motif_id: unwounded_hero_after_mass_slaughter
+  label: unwounded hero after mass slaughter
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The invulnerable or untouched warrior after battle fits heroic sacred-combat
+    imagery around extraordinary martial power.
+  cautions: May be an episode-specific battle detail; if no sacred or superhuman framing
+    is present, preserve as evidence rather than a durable motif.
+  suggested_aliases:
+  - invulnerable battle hero
+  - unwounded warrior after slaughter
+  - hero untouched after battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.valuable-object-induces-betrayal-and-begins-a-revenge-cycle
+  motif_id: valuable_object_induces_betrayal_and_begins_a_revenge_cycle
+  label: valuable object induces betrayal and begins a revenge cycle
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: A coveted object driving betrayal and revenge can function as a charged
+    power object in the narrative.
+  cautions: If the object is merely wealth or loot without sacred power, this may
+    be too contextual and should be treated as a plot artifact.
+  suggested_aliases:
+  - coveted object triggers betrayal
+  - treasure causing revenge cycle
+  - valuable object as betrayal catalyst
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.variant-chronology-of-heroic-combat-tradition
+  motif_id: variant_chronology_of_heroic_combat_tradition
+  label: variant chronology of heroic combat tradition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes variant chronology in a tradition, not a symbolic
+    or narrative motif.
+  cautions: Preserve as textual provenance if useful, but exclude from motif pattern
+    queries.
+  suggested_aliases:
+  - variant combat chronology
+  - chronological variant in heroic combat tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.variant-defeat-of-a-hero-and-transfer-of-land
+  motif_id: variant_defeat_of_a_hero_and_transfer_of_land
+  label: Variant defeat of a hero and transfer of land
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a narrative motif of conquest/succession, but the word variant
+    suggests a source-specific textual form.
+  cautions: Review evidence to decide whether this is sacred combat, royal legitimacy,
+    land-transfer sovereignty, or a textual artifact.
+  suggested_aliases:
+  - hero defeated and land transferred
+  - land transfer after heroic defeat
+  - defeat as transfer of territory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.variant-manuscript-alignment-of-a-hero
+  motif_id: variant_manuscript_alignment_of_a_hero
+  label: variant manuscript alignment of a hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is about manuscript alignment or textual comparison, not a motif
+    in the story world.
+  cautions: Keep only as provenance or editorial metadata if needed.
+  suggested_aliases:
+  - manuscript alignment variant
+  - hero alignment in manuscript variant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.variant-rationalization-of-monster-as-human
+  motif_id: variant_rationalization_of_monster_as_human
+  label: variant rationalization of monster as human
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes interpretive rationalization across variants rather
+    than the monster motif itself.
+  cautions: If a passage narrates a monster transformed into or revealed as human,
+    remap to shapeshifter or threshold_guardian after evidence review.
+  suggested_aliases:
+  - monster rationalized as human
+  - euhemerized monster variant
+  - humanized monster variant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-by-burning-the-enemy-hall
+  motif_id: vengeance_by_burning_the_enemy_hall
+  label: Vengeance by burning the enemy hall
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Burning an enemy hall as vengeance is a violent feud or warfare action
+    with ritualized heroic-conflict resonance.
+  cautions: Could also touch sacred_fire if fire has purifying or divine force; otherwise
+    avoid over-symbolizing a tactical revenge episode.
+  suggested_aliases:
+  - hall-burning vengeance
+  - vengeful burning of enemy hall
+  - enemy hall burned in feud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-for-a-slain-predecessor-in-battle
+  motif_id: vengeance_for_a_slain_predecessor_in_battle
+  label: vengeance for a slain predecessor in battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: This closely matches the existing child motif vow_of_vengeance_for_a_fallen_king_hero
+    under divine_warrior.
+  cautions: If the predecessor is not royal or heroic, sacred_combat may be the broader
+    group while preserving the kinship/succession detail.
+  suggested_aliases:
+  - vengeance for fallen predecessor
+  - revenge for slain battle predecessor
+  - avenging a fallen hero in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels beginning with 'variant' appear to be textual or comparative artifacts
+  rather than motif labels and should be reviewed for exclusion from Pattern Explorer
+  queries.
+- Conflict-bucket items often need source evidence to distinguish ordinary battle
+  plot details from sacred combat, divine warrior, or sacred-object motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional automated placement suggestions only; human review needed especially
+    for single-occurrence and variant-labeled items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0445
+  input_sha256: d7df0fd95d83354a6ec7ad2c2ad9c00cb923b648e74961b1010fa2b11b240f2b

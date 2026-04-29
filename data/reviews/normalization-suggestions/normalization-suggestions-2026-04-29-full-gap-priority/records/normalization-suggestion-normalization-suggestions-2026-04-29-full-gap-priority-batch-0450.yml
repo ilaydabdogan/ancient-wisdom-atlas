@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0450
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.warrior-band-mourning-an-absent-lord
+  motif_id: warrior_band_mourning_an_absent_lord
+  label: warrior band mourning an absent lord
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: Collective grief for an absent lord fits mourning and loss, especially
+    near existing city_mourns_absent_ruler.
+  cautions: If the passage emphasizes political loyalty or warrior-retinue structure
+    more than grief, royal_legitimacy or sacred_combat may be secondary.
+  suggested_aliases:
+  - warrior retinue mourns absent ruler
+  - companions mourn absent lord
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-band-rejects-an-unfit-companion
+  motif_id: warrior_band_rejects_an_unfit_companion
+  label: Warrior band rejects an unfit companion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns membership norms in a warrior band, but its mythic
+    function is unclear without passage evidence.
+  cautions: Could be heroic initiation, social exclusion, warrior code, comic episode,
+    or episode-specific plot detail; do not canonicalize from one occurrence.
+  suggested_aliases:
+  - rejection of unfit warrior companion
+  - warrior band excludes unsuitable member
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-boast-before-fatal-combat
+  motif_id: warrior_boast_before_fatal_combat
+  label: warrior boast before fatal combat
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A pre-combat boast belongs to heroic combat rhetoric and fatal warrior
+    confrontation.
+  cautions: If the fatality is governed by destiny, death_by_fate may be a secondary
+    mapping; if merely formulaic speech, preserve as evidence detail.
+  suggested_aliases:
+  - heroic boast before fatal combat
+  - pre-battle warrior boast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-boasts-of-distinct-victories-and-wounds
+  motif_id: warrior_boasts_of_distinct_victories_and_wounds
+  label: warrior boasts of distinct victories and wounds
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Boasting of victories and wounds is a heroic-warrior self-presentation
+    within combat culture.
+  cautions: May be too speech-formulaic or episode-specific for pattern queries unless
+    similar boasting recurs.
+  suggested_aliases:
+  - warrior boasts of battle record
+  - hero boasts of wounds and victories
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-characterized-through-weapons-clothing-and-bodily-appearance
+  motif_id: warrior_characterized_through_weapons_clothing_and_bodily_appearance
+  label: warrior characterized through weapons, clothing, and bodily appearance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a descriptive or characterization technique rather than
+    a recurring narrative motif.
+  cautions: If specific weapons or garments confer sacred authority or power, index
+    those details under sacred_treasures or royal_legitimacy instead.
+  suggested_aliases:
+  - warrior appearance characterization
+  - hero described by arms and dress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-chooses-loyalty-and-reputation-over-supernatural-safety
+  motif_id: warrior_chooses_loyalty_and_reputation_over_supernatural_safety
+  label: Warrior chooses loyalty and reputation over supernatural safety
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warrior surrendering safety for loyalty and reputation fits self-offering
+    or duty-before-life logic.
+  cautions: Could also support divine_warrior, sacred_combat, or death_by_fate if
+    the passage emphasizes battle destiny rather than sacrifice.
+  suggested_aliases:
+  - warrior chooses honor over safety
+  - loyalty and fame over supernatural protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-code-invoked-by-a-helpless-combatant-and-violated
+  motif_id: warrior_code_invoked_by_a_helpless_combatant_and_violated
+  label: Warrior code invoked by a helpless combatant and violated
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on an ethical combat rule and its violation, fitting
+    sacred law and social order.
+  cautions: If divine punishment follows, divine_judgment should be secondary; if
+    the focus is battlefield conduct, sacred_combat may be secondary.
+  suggested_aliases:
+  - violated warrior code
+  - combat law invoked by helpless warrior
+  - breach of warrior ethics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-compared-to-a-boar-at-bay
+  motif_id: warrior_compared_to_a_boar_at_bay
+  label: warrior compared to a boar at bay
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: This is likely a single simile or poetic image rather than a durable
+    narrative motif.
+  cautions: If a warrior literally transforms into or is ritually identified with
+    a boar, review under shapeshifter or animal symbolism; label alone suggests literary
+    description.
+  suggested_aliases:
+  - boar-at-bay warrior simile
+  - warrior as cornered boar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-disables-chariot-before-killing-enemy
+  motif_id: warrior_disables_chariot_before_killing_enemy
+  label: warrior disables chariot before killing enemy
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a tactical battle sequence detail rather than a broad
+    mythic motif.
+  cautions: If the disabled chariot has ritual, cosmic, or ethical significance, review
+    under sacred_combat or divine_warrior.
+  suggested_aliases:
+  - chariot disabled before enemy killing
+  - battle tactic disabling chariot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-displays-severed-enemy-head-and-taunts-opponents
+  motif_id: warrior_displays_severed_enemy_head_and_taunts_opponents
+  label: Warrior displays severed enemy head and taunts opponents
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Displaying a severed enemy head and taunting opponents functions as ritualized
+    war display and intimidation.
+  cautions: Could be over-specific if only an episode detail; if head-taking has cultic
+    or trophy significance across sources, a future head-trophy subgroup may be warranted.
+  suggested_aliases:
+  - severed head trophy display
+  - warrior taunts with enemy head
+  - battlefield trophy taunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence heroic-combat labels; preserve episode detail cautiously
+  and avoid promoting formulaic boasts, similes, and tactics into canonical motifs
+  without recurrence.
+- Several warrior-code and honor labels may need a future durable group for heroic
+  ethics if they recur across traditions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements for warrior-band and battlefield-detail labels; human
+    review should distinguish narrative motif from poetic or tactical description.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0450
+  input_sha256: 48c872adb912ec1e6f2d71e53010ac38350798a2a3311584b64fd34abeb8c55e

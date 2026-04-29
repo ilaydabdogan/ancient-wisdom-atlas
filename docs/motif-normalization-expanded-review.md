@@ -6,12 +6,12 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 
 ## Summary
 
-- Suggestions reviewed: 4320
-- Accepted draft mappings: 145
-- New canonical group candidates: 71
-- Low-confidence / needs human review: 1142
-- Suggested exclusions: 237
-- Already known in base normalization: 2796
+- Suggestions reviewed: 4520
+- Accepted draft mappings: 147
+- New canonical group candidates: 73
+- Low-confidence / needs human review: 1187
+- Suggested exclusions: 251
+- Already known in base normalization: 2935
 
 ## New Group Candidates
 
@@ -68,6 +68,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `monster_lair_devouring_threat` | Monster Lair and Devouring Threat | 1 | Existing groups cover guardians, combat, and descent but lack a stable place for devouring monster habitation as an ordeal setting. |
 | `monstrous_perception` | Monstrous Perception and Shared Senses | 1 | Existing groups cover vision, guardians, and transformation, but not recurring abnormal bodily perception as the key motif. |
 | `past_life_identity` | Past-Life Identity and Karmic Continuity | 7 | Existing death, wisdom, and judgment groups do not specifically cover rebirth-identity disclosure and karmic continuity across lives. |
+| `place_naming_etiology` | Place Naming and Etiological Memory | 1 | Existing groups cover heroic combat or legitimacy, but not the etiological function of explaining and sacralizing place names. |
 | `predator_deception_fable_reversal` | Predator Deception and Fable Reversal | 7 | Existing trickster group covers boundary-breaking and deception broadly, but these labels cluster around fable predator-prey ethics and reversals rather than a culture hero or liminal trickster figure. |
 | `rainmaking_weather_rites` | Rainmaking and Weather Rites | 1 | Existing groups can cover reciprocity, water, or divine action, but none clearly preserves the distinct weather-ritual function shared by rainmaking labels. |
 | `recognition_tokens_hidden_identity` | Recognition Tokens and Hidden Identity | 8 | Existing groups cover sacred power objects, disguise, and journeys, but not the recurring narrative function of signs proving identity or a denied encounter. |
@@ -87,6 +88,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `vulnerable_hero` | Vulnerable Hero and Fatal Weak Spot | 1 | Existing groups cover heroic death, external souls, and fate, but not the recurring combat pattern of near-invulnerability defeated through a bodily weak spot. |
 | `vulnerable_point` | Vulnerable Point of the Invulnerable Foe | 1 | Sacred combat captures the battle setting, but not the specific structural motif of invulnerability limited by a hidden or exposed weakness. |
 | `vulnerable_spot` | Vulnerable Spot and Conditional Invulnerability | 1 | Existing groups cover externalized life tokens and heroic combat, but not vulnerability located in the body or conditional invulnerability as the decisive death mechanism. |
+| `warrior_frenzy` | Warrior Frenzy and Supernatural Battle Fury | 1 | Existing combat groups cover warrior roles and battles but not the distinctive bodily transformation or altered-state fury of the warrior. |
 | `world_ages_decline` | World Ages and Cosmic Decline | 2 | Existing groups cover individual downfall, sacred cycles, and judgment, but not a structured sequence of declining cosmic or human ages. |
 
 ## Low Confidence Or Human Review
@@ -594,7 +596,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `holy_site_memorialization_over_hidden_sleepers` | holy site memorialization over hidden sleepers | needs_human_review | `death_and_transformation` Death, Rebirth, and Transformation | low | low confidence |
 | `holy_water_from_saintly_body` | holy water from saintly body | needs_human_review | `sacred_waters` Sacred Waters and Passage Through Water | low | low confidence |
 
-_Showing first 500 of 1142 review rows._
+_Showing first 500 of 1187 review rows._
 
 ## Suggested Exclusions
 
@@ -808,9 +810,12 @@ _Showing first 500 of 1142 review rows._
 | `separate_romance_cycles_later_connected_through_shared_figures` | Separate romance cycles later connected through shared figures | high | The label describes later literary cycle linkage and textual organization, not a narrative motif within the story world. |
 | `shared_introductory_story_across_multiple_j_takas` | shared introductory story across multiple Jātakas | high | The label describes reuse of an introductory frame across texts, not a symbolic or narrative motif itself. |
 | `skeptical_demythologizing_colophon` | skeptical demythologizing colophon | high | A colophon commenting skeptically on myth is a textual framing artifact, not a narrative motif. |
+| `sleeping_drunk_killed_without_awareness` | Sleeping drunk killed without awareness | medium | The label reads as an episode-specific manner of killing rather than a reusable mythic motif in the current taxonomy. |
 | `sleeping_women_after_royal_revelry` | sleeping women after royal revelry | medium | This reads as a scene detail after courtly revelry rather than a symbolic or narrative motif. |
 | `solar_interpretation_of_a_deity_s_epithet` | solar interpretation of a deity's epithet | high | The label describes interpretation of an epithet, not a narrative or symbolic motif in the source world. |
+| `solar_zodiacal_interpretation_of_a_hero_s_labors` | solar-zodiacal interpretation of a hero's labors | high | The label describes an interpretive reading of heroic labors rather than a mythic action or symbolic motif in the narrative. |
 | `story_narrated_as_true_event` | story narrated as true event | high | The label describes narrative framing or truth-claim status rather than a symbolic or narrative motif. |
+| `structured_eighteen_day_war` | structured eighteen-day war | medium | The exact eighteen-day structure appears source-specific rather than a reusable motif. |
 | `suppression_and_execution_of_sectarian_chiefs` | Suppression and execution of sectarian chiefs | medium | The label reads as a specific historical-political event summary rather than a reusable symbolic motif. |
 | `survivor_messenger_carries_defeat_to_a_greater_antagonist` | survivor messenger carries defeat to a greater antagonist | medium | This reads as a plot mechanics detail about reporting a battle outcome rather than a durable symbolic motif. |
 | `survivors_report_slaughter_and_summon_wider_army` | survivors report slaughter and summon wider army | medium | The label is a specific narrative transition from massacre report to army mobilization, not a broad mythic motif. |
@@ -821,6 +826,7 @@ _Showing first 500 of 1142 review rows._
 | `tale_migration_across_traditions` | tale migration across traditions | high | The label describes transmission or diffusion of a tale between traditions, not a narrative motif within the tale. |
 | `tale_migration_through_cultural_and_commercial_contact` | Tale migration through cultural and commercial contact | high | This is a historical-contact or transmission claim rather than a symbolic or narrative motif. |
 | `tender_footed_goddess_as_poetic_comparison` | tender-footed goddess as poetic comparison | high | The phrase explicitly marks a poetic comparison rather than a recurring narrative or symbolic motif. |
+| `tower_survey_of_enemy_champions` | Tower survey of enemy champions | medium | The label describes a highly specific scene-setting episode rather than a reusable mythic pattern. |
 | `traditional_skewered_meat_over_ashes` | traditional skewered meat over ashes | medium | The label reads as a culinary or ethnographic detail rather than a symbolic narrative motif. |
 | `transformation_of_inherited_traditions_into_new_forms` | Transformation of inherited traditions into new forms | high | The label describes reception, adaptation, or reinterpretation of tradition rather than a narrative or ritual motif. |
 | `transformed_sacred_biography_across_traditions` | Transformed sacred biography across traditions | high | This is a comparative or reception-history observation about sacred biography, not a motif within a source narrative. |
@@ -830,12 +836,22 @@ _Showing first 500 of 1142 review rows._
 | `transmission_of_mystical_poetry_across_cultures` | Transmission of mystical poetry across cultures | high | This is a reception/transmission claim about poetic traditions rather than a symbolic motif. |
 | `transmission_of_romance_through_adaptation_and_translation` | Transmission of romance through adaptation and translation | high | Adaptation and translation history is a scholarly/textual artifact, not a recurring narrative motif. |
 | `transmission_of_sacred_biographical_narrative_across_languages_and_traditions` | transmission of sacred-biographical narrative across languages and traditions | high | The label describes textual transmission across languages and traditions rather than a narrative or symbolic motif. |
+| `treacherous_plea_rejected_by_captor` | treacherous plea rejected by captor | medium | This reads as a narrow episode-level interaction rather than a stable mythic motif. |
+| `triadic_catalogue_of_warrior_groups` | triadic catalogue of warrior groups | medium | A catalogue form is likely a textual or compositional feature, not a symbolic motif for pattern queries. |
+| `triadic_warrior_praise` | triadic warrior praise | medium | The label appears to describe praise style or rhetorical structure rather than a narrative motif. |
 | `uncertain_founder_or_author_figure` | uncertain founder or author figure | high | The wording describes uncertainty about attribution or identity rather than a narrative motif. |
+| `variant_chronology_of_heroic_combat_tradition` | variant chronology of heroic combat tradition | high | The label describes variant chronology in a tradition, not a symbolic or narrative motif. |
 | `variant_literary_versions_from_a_shared_older_framework` | variant literary versions from a shared older framework | high | The label describes textual relationship or source criticism, not a narrative or symbolic motif. |
+| `variant_manuscript_alignment_of_a_hero` | variant manuscript alignment of a hero | high | This is about manuscript alignment or textual comparison, not a motif in the story world. |
+| `variant_rationalization_of_monster_as_human` | variant rationalization of monster as human | high | The label describes interpretive rationalization across variants rather than the monster motif itself. |
 | `victims_selected_by_bodily_fatness` | Victims selected by bodily fatness | medium | This appears to be a highly specific selection criterion within an episode rather than a reusable mythic motif. |
+| `warrior_characterized_through_weapons_clothing_and_bodily_appearance` | warrior characterized through weapons, clothing, and bodily appearance | medium | This reads as a descriptive or characterization technique rather than a recurring narrative motif. |
+| `warrior_compared_to_a_boar_at_bay` | warrior compared to a boar at bay | high | This is likely a single simile or poetic image rather than a durable narrative motif. |
+| `warrior_disables_chariot_before_killing_enemy` | warrior disables chariot before killing enemy | medium | This appears to be a tactical battle sequence detail rather than a broad mythic motif. |
+| `warrior_killed_by_thrown_stone_and_finishing_thrust` | warrior killed by thrown stone and finishing thrust | medium | The label describes a precise combat death mechanism rather than a reusable mythic pattern. |
 | `wealth_measured_in_cattle` | wealth measured in cattle | medium | The label describes a culturally specific wealth metric rather than a narrative or symbolic motif. |
 | `well_known_tale_retold_by_many_writers` | well-known tale retold by many writers | high | The label describes reception and textual circulation rather than a narrative or symbolic motif. |
 | `withdrawal_to_private_room_creates_suspicion` | withdrawal to private room creates suspicion | medium | The label reads as a contextual plot beat rather than a recurring mythic or symbolic motif. |
 | `woman_enters_domestic_meal_with_textile_tool` | woman enters domestic meal with textile tool | medium | The label reads as an episode-specific domestic staging detail rather than a reusable symbolic motif. |
 
-_Showing first 237 of 237 exclusion rows._
+_Showing first 251 of 251 exclusion rows._

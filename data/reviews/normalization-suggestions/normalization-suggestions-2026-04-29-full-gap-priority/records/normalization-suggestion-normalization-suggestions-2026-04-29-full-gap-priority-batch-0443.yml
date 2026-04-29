@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0443
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.transfer-of-hero-s-weapons-to-companion
+  motif_id: transfer_of_hero_s_weapons_to_companion
+  label: transfer of hero's weapons to companion
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transfer of a dead or departing hero's arms can function as memorialization,
+    succession, or reaffirmation of heroic order.
+  cautions: If the passage emphasizes authority transfer rather than memorial rites,
+    royal_legitimacy or divine_warrior may be better secondary mappings.
+  suggested_aliases:
+  - heroic arms transferred to companion
+  - inheritance of hero's weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-abandonment-leading-to-vengeance
+  motif_id: treacherous_abandonment_leading_to_vengeance
+  label: treacherous abandonment leading to vengeance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Betrayal provoking vengeance fits the conflict cycle already represented
+    by vengeance-trigger motifs under sacred_combat.
+  cautions: May be an episode-specific plot detail; if no sacred or heroic-combat
+    framing is present, treat as evidence detail rather than durable motif.
+  suggested_aliases:
+  - betrayal followed by vengeance
+  - abandonment as vengeance trigger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-host-murders-protected-guest-for-treasure
+  motif_id: treacherous_host_murders_protected_guest_for_treasure
+  label: treacherous host murders protected guest for treasure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines violated hospitality, greed, murder, and treasure;
+    no current group cleanly captures guest-host betrayal.
+  cautions: Could belong under sacred_law, divine_judgment, pride_and_downfall, or
+    a future hospitality-violation group depending on source context.
+  suggested_aliases:
+  - murder of guest for treasure
+  - violated guest protection
+  - treacherous hospitality
+  suggested_new_group:
+    id: violated_hospitality
+    label: Violated Hospitality and Guest Betrayal
+    description: Breach of sacred or social guest-host obligations through murder,
+      betrayal, refusal of protection, or exploitation of a protected stranger.
+    parent_group_ids:
+    - sacred_law
+    - divine_judgment
+    related_group_ids:
+    - sacred_exchange
+    - covenant
+    reason_existing_groups_insufficient: Existing groups cover sacred law and judgment
+      broadly but do not preserve the recurring narrative function of hospitality
+      as a protected bond whose violation triggers moral crisis.
+- suggestion_id: normalization.suggestion.treacherous-plea-rejected-by-captor
+  motif_id: treacherous_plea_rejected_by_captor
+  label: treacherous plea rejected by captor
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a narrow episode-level interaction rather than a stable
+    mythic motif.
+  cautions: If repeated as a formal supplication or mercy-test scene, review under
+    divine_judgment or sacred_law; otherwise preserve only as passage evidence.
+  suggested_aliases:
+  - deceptive supplication refused
+  - captor rejects treacherous plea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triadic-catalogue-of-warrior-groups
+  motif_id: triadic_catalogue_of_warrior_groups
+  label: triadic catalogue of warrior groups
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A catalogue form is likely a textual or compositional feature, not a
+    symbolic motif for pattern queries.
+  cautions: If the triad itself has ritual or cosmological force in the passage, human
+    review may index under sacred_combat or duality.
+  suggested_aliases:
+  - warrior group catalogue
+  - triadic warrior catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triadic-warrior-brothers-with-matching-equipment
+  motif_id: triadic_warrior_brothers_with_matching_equipment
+  label: triadic warrior brothers with matching equipment
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: narrower_than
+  confidence: medium
+  rationale: Warrior brothers acting as a matched triad are a sibling-pair/paired-kin
+    variant, extended from two to three.
+  cautions: The matching equipment may be a catalogue detail; if emphasis is martial
+    display rather than sibling structure, sacred_combat may be a secondary mapping.
+  suggested_aliases:
+  - matched warrior brothers
+  - triadic sibling warriors
+  - warrior brothers with matching gear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triadic-warrior-praise
+  motif_id: triadic_warrior_praise
+  label: triadic warrior praise
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe praise style or rhetorical structure rather
+    than a narrative motif.
+  cautions: If praise speech performs ritual empowerment or public immortality, review
+    under storytelling_as_power; otherwise exclude from motif queries.
+  suggested_aliases:
+  - triadic praise of warriors
+  - warrior praise triad
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trial-by-retrieval-from-the-enemy
+  motif_id: trial_by_retrieval_from_the_enemy
+  label: trial by retrieval from the enemy
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: high
+  rationale: A required retrieval from an enemy functions as an ordeal or proof that
+    changes status or validates the actor.
+  cautions: If the retrieval is purely military without status transformation, sacred_combat
+    may be a better parent.
+  suggested_aliases:
+  - retrieval ordeal
+  - enemy retrieval trial
+  - proof by recovering enemy-held object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trial-of-newcomers-for-sincere-faith
+  motif_id: trial_of_newcomers_for_sincere_faith
+  label: trial of newcomers for sincere faith
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Testing newcomers for sincerity fits initiation as a threshold test of
+    identity, belonging, and commitment.
+  cautions: Could also map to covenant or sacred_law if the passage centers legal
+    membership or communal obligation rather than ordeal.
+  suggested_aliases:
+  - sincerity test for newcomers
+  - faith trial at entry
+  - testing new believers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trial-through-material-attachments
+  motif_id: trial_through_material_attachments
+  label: trial through material attachments
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Testing by attachment to possessions fits the contemplative path of renunciation
+    and inner transformation.
+  cautions: If framed as legal almsgiving or communal duty, sacred_exchange or sacred_law
+    may be more appropriate.
+  suggested_aliases:
+  - test of material attachment
+  - ordeal of renunciation
+  - trial by possessions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several conflict-bucket labels are single-occurrence and episode-specific; suggested
+  placements should be treated as provisional evidence organization, not taxonomy
+  promotion.
+- Hospitality violation may need a future group if similar guest-host betrayal labels
+  recur across traditions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft model suggestions only; human review needed for over-specific Greek
+    episode labels and Celtic triadic rhetorical/catalogue labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0443
+  input_sha256: 0aa1acb99611b5c063408a2eacbe1e8168144e90b4481f51d53244e27f0dc9da

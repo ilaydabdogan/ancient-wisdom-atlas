@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0442
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.testing-promised-benefactors-after-gaining-power
+  motif_id: testing_promised_benefactors_after_gaining_power
+  label: Testing promised benefactors after gaining power
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a moral test of loyalty, gratitude, or promise-keeping
+    after status change, but the function is unclear from wording alone.
+  cautions: Could fit divine_judgment, sacred_law, royal_legitimacy, or a passage-specific
+    plot test; source context is needed.
+  suggested_aliases:
+  - testing benefactors after gaining power
+  - promise testing after empowerment
+  - gratitude test after accession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.testing-promises-after-rescue
+  motif_id: testing_promises_after_rescue
+  label: testing promises after rescue
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Testing promises after rescue centers on reciprocal obligation after
+    aid, matching exchange, vow, and obligation logic.
+  cautions: If the passage emphasizes legal vow-breaking, covenant or divine_judgment
+    may be better; if only a local plot device, keep as evidence detail.
+  suggested_aliases:
+  - promise tested after rescue
+  - rescue obligation test
+  - testing repayment after deliverance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.third-victory-grants-lasting-title-and-possession
+  motif_id: third_victory_grants_lasting_title_and_possession
+  label: Third victory grants lasting title and possession
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repeated victory conferring title and possession functions as legitimizing
+    rule, status, or claim through ordeal.
+  cautions: The threefold victory detail may be local narrative structure; if no political
+    or territorial legitimacy is involved, sacred_combat may be the better group.
+  suggested_aliases:
+  - third victory grants title
+  - victory confers possession
+  - threefold victory legitimizes claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-day-combat-ordeal-or-assault
+  motif_id: three_day_combat_ordeal_or_assault
+  label: three-day combat ordeal or assault
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A multi-day combat ordeal fits the sacred or heroic combat complex as
+    a ritually marked battle trial.
+  cautions: The three-day duration may be an episode-specific detail; if transformation
+    rather than combat is central, initiation may be a secondary mapping.
+  suggested_aliases:
+  - three-day combat ordeal
+  - three-day assault
+  - multi-day heroic combat trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threshold-enlarged-for-an-exceptional-hero
+  motif_id: threshold_enlarged_for_an_exceptional_hero
+  label: Threshold enlarged for an exceptional hero
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An altered threshold marking a hero's exceptional scale or status fits
+    heroic passage and threshold crossing symbolism.
+  cautions: Could be a literal architectural detail or comic exaggeration; map to
+    threshold_guardian only if a guardian or boundary test is present.
+  suggested_aliases:
+  - enlarged threshold for hero
+  - doorway widened for exceptional hero
+  - heroic threshold expansion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.thunder-deity-with-fiery-weapon-and-chariot
+  motif_id: thunder_deity_with_fiery_weapon_and_chariot
+  label: thunder deity with fiery weapon and chariot
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: A thunder god armed with a fiery weapon and chariot is a divine warrior
+    image tied to sacred combat and cosmic force.
+  cautions: Fiery weapon imagery may also relate to sacred_fire or sacred_treasures,
+    but the deity's combat role is primary in this label.
+  suggested_aliases:
+  - thunder god with fiery weapon
+  - storm deity in chariot
+  - thunder warrior deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.token-or-reward-associated-with-entering-combat
+  motif_id: token_or_reward_associated_with_entering_combat
+  label: token or reward associated with entering combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: A combat token or reward may function as a power object, status marker,
+    or object conferring entry into heroic contest.
+  cautions: Could instead belong to sacred_combat or royal_legitimacy depending on
+    whether the token is a prize, credential, weapon, or authority marker.
+  suggested_aliases:
+  - combat entry token
+  - reward for entering combat
+  - battle token or prize
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tokens-of-a-rival-s-power-shown-before-combat
+  motif_id: tokens_of_a_rival_s_power_shown_before_combat
+  label: tokens of a rival’s power shown before combat
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Displaying tokens of a rival's power before combat functions as pre-battle
+    challenge, intimidation, or recognition within combat narrative.
+  cautions: If the objects themselves confer divine authority or power, sacred_treasures
+    may be a secondary placement; the label is likely too specific for a new group.
+  suggested_aliases:
+  - rival power tokens before combat
+  - pre-battle display of enemy power
+  - tokens shown before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.toponymic-naming-from-heroic-events
+  motif_id: toponymic_naming_from_heroic_events
+  label: toponymic naming from heroic events
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place Naming and Etiological Memory
+  relationship: functional_variant
+  confidence: medium
+  rationale: Naming a place from a heroic event is an etiological pattern not cleanly
+    held by combat, kingship, or journey groups.
+  cautions: Single occurrence; may be a learned place-name gloss or passage artifact
+    rather than a durable motif. Review against other etiological naming labels before
+    adding.
+  suggested_aliases:
+  - place named from heroic event
+  - toponymic etiology
+  - heroic event explains place name
+  suggested_new_group:
+    id: place_naming_etiology
+    label: Place Naming and Etiological Memory
+    description: Events, deeds, deaths, encounters, or sacred acts explain the origin
+      of a place name and preserve mythic or heroic memory in the landscape.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_combat
+    - world_center
+    reason_existing_groups_insufficient: Existing groups cover heroic combat or legitimacy,
+      but not the etiological function of explaining and sacralizing place names.
+- suggestion_id: normalization.suggestion.tower-survey-of-enemy-champions
+  motif_id: tower_survey_of_enemy_champions
+  label: Tower survey of enemy champions
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a highly specific scene-setting episode rather than
+    a reusable mythic pattern.
+  cautions: If repeated as a formal catalog or recognition scene across sources, it
+    might be reviewed under storytelling_as_power or sacred_combat; otherwise preserve
+    as evidence detail only.
+  suggested_aliases:
+  - survey of enemy champions from tower
+  - catalogue of enemy warriors
+  - wall or tower viewing scene
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements only; several single-occurrence combat labels
+  may be episode details rather than durable motifs.
+- Avoid treating shared combat or heroic-testing placements as evidence of transmission
+  or common origin.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Batch contains multiple over-specific heroic-combat labels; human review
+    should verify narrative function before indexing broadly.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0442
+  input_sha256: 9ee4c0e35ab274987afba80d2da550734a80e947a585be10c4c28163ccfb3749

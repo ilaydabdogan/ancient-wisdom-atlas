@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0436
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.smith-s-crafted-revenge
+  motif_id: smith_s_crafted_revenge
+  label: smith's crafted revenge
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a smith's crafted object or device used to enact
+    revenge, making craft the distinctive function.
+  cautions: Could instead belong under sacred_combat or divine_judgment if the passage
+    emphasizes vengeance, feud, or punishment more than crafting.
+  suggested_aliases:
+  - crafted revenge
+  - smith revenge
+  - weaponized craft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.solar-allegory-of-a-hero-s-exploit
+  motif_id: solar_allegory_of_a_hero_s_exploit
+  label: solar allegory of a hero's exploit
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording sounds interpretive or allegorical rather than a narrative
+    motif, and no solar-symbol group currently exists.
+  cautions: May be commentary rather than passage motif; if actual solar radiance
+    or divine sun agency is present, sacred_fire or divine_intervention may be relevant.
+  suggested_aliases:
+  - solar hero allegory
+  - heroic exploit as solar allegory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.solar-hero-marked-by-radiance-and-golden-armour
+  motif_id: solar_hero_marked_by_radiance_and_golden_armour
+  label: solar hero marked by radiance and golden armour
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Radiance and solar brilliance align with divine light as a sacred marker
+    of heroic status.
+  cautions: Golden armour may also be a sacred treasure or heroic identity marker;
+    avoid treating solar imagery as fire unless divine light is explicit.
+  suggested_aliases:
+  - solar radiance of hero
+  - golden-armoured solar hero
+  - radiant hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.solar-invocation-grants-victory-and-protection
+  motif_id: solar_invocation_grants_victory_and_protection
+  label: solar invocation grants victory and protection
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine solar power is invoked and directly grants protection and victory
+    in human conflict.
+  cautions: Could receive secondary indexing under sacred_fire for solar light or
+    divine_warrior if the sun deity functions as combat patron.
+  suggested_aliases:
+  - solar aid in battle
+  - sun invocation for victory
+  - divine protection through solar invocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.solar-zodiacal-interpretation-of-a-hero-s-labors
+  motif_id: solar_zodiacal_interpretation_of_a_hero_s_labors
+  label: solar-zodiacal interpretation of a hero's labors
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes an interpretive reading of heroic labors rather than
+    a mythic action or symbolic motif in the narrative.
+  cautions: Preserve as reception or commentary metadata if needed; do not use as
+    evidence for solar or zodiacal motif transmission.
+  suggested_aliases:
+  - zodiacal interpretation of labors
+  - solar interpretation of hero labors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spared-defeated-enemy-shamed-rather-than-killed
+  motif_id: spared_defeated_enemy_shamed_rather_than_killed
+  label: spared defeated enemy shamed rather than killed
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns a combat outcome governed by honor, restraint, and
+    humiliation instead of killing.
+  cautions: If the passage emphasizes ethical mercy, royal conduct, or dharmic judgment,
+    sacred_law, royal_legitimacy, or divine_judgment may be better secondary mappings.
+  suggested_aliases:
+  - enemy spared and shamed
+  - humiliation of defeated enemy
+  - mercy after victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.special-opponent-overcome-by-matching-feat-or-weapon
+  motif_id: special_opponent_overcome_by_matching_feat_or_weapon
+  label: special opponent overcome by matching feat or weapon
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A distinctive opponent is defeated by a corresponding feat or weapon,
+    a structured heroic-combat pattern.
+  cautions: If the decisive element is the weapon's supernatural object-status, also
+    consider sacred_treasures.
+  suggested_aliases:
+  - matched weapon defeats special opponent
+  - opponent overcome by matching feat
+  - counter-feat in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.specialized-secret-or-exceptional-weapon-decides-combat
+  motif_id: specialized_secret_or_exceptional_weapon_decides_combat
+  label: Specialized secret or exceptional weapon decides combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A rare, secret, or exceptional weapon functions as a power object that
+    determines the combat outcome.
+  cautions: May also index under sacred_combat when the combat structure is more important
+    than the weapon's special status.
+  suggested_aliases:
+  - secret weapon decides combat
+  - exceptional weapon in combat
+  - specialized heroic weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spoils-accumulated-after-ordeal-combats
+  motif_id: spoils_accumulated_after_ordeal_combats
+  label: spoils accumulated after ordeal combats
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes rewards or spoils gained through repeated ordeal
+    combats, a heroic warfare sequence.
+  cautions: Could be too episode-specific if the spoils are merely plot inventory;
+    consider sacred_treasures if individual objects carry power.
+  suggested_aliases:
+  - combat spoils after ordeal
+  - spoils from heroic combats
+  - accumulated spoils of battle trials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spoils-and-doomed-transfer-of-heroic-arms
+  motif_id: spoils_and_doomed_transfer_of_heroic_arms
+  label: Spoils and doomed transfer of heroic arms
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The doomed transfer of a dead hero's arms often belongs to post-heroic
+    memorial, honor, and succession conflict around funeral aftermath.
+  cautions: If the focus is the arms as power objects, use sacred_treasures; if the
+    focus is warrior honor and conflict, divine_warrior or sacred_combat may be better.
+  suggested_aliases:
+  - transfer of heroic arms
+  - doomed heroic arms
+  - spoils of a dead hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch combine combat with solar or interpretive wording;
+  human review should distinguish narrative motif from later allegorical commentary.
+- Where weapons or arms decide combat, choose between sacred_combat and sacred_treasures
+  based on whether the source emphasizes the combat structure or the object’s special
+  power.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional suggestions only; single-occurrence labels require source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0436
+  input_sha256: 77442db4f6aa6ec0873552bec77779aa2000fabf30f6c8ed11251e355235ba2d

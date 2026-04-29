@@ -44866,6 +44866,1970 @@ raw_motif_group_index:
     - hero destroys demonic host
     - single warrior defeats demon army
     - divine hero against demonic host
+  single_warrior_as_army_like_threat:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A lone warrior embodying army-scale threat fits heroic or sacred combat
+      imagery already grouped under divine_warrior. Caution: Single occurrence; may
+      be an episode-specific heroic exaggeration rather than a durable motif.'
+    suggested_aliases:
+    - lone warrior as host
+    - single champion as army
+  single_warrior_blocks_an_army_at_a_ford:
+    group_id: sacred_combat
+    relationship: narrower_than
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A single-combat stand at a ford is explicitly represented in sacred_combat''s
+      description and related ford combat material. Caution: Ford imagery may also
+      involve threshold logic, but the primary function here is martial obstruction.'
+    suggested_aliases:
+    - champion blocks army at ford
+    - ford combat against a host
+  single_warrior_defeats_multiple_armed_chiefs:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A lone heroic combatant defeating many armed leaders fits the divine_warrior/sacred-combat
+      cluster of exceptional martial power. Caution: If the passage emphasizes political
+      conquest or royal authority, royal_legitimacy may be a secondary fit.'
+    suggested_aliases:
+    - single warrior defeats many chiefs
+    - lone champion defeats armed leaders
+  single_warrior_halts_or_redirects_an_armed_group:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The label describes a martial encounter where one champion determines
+      the movement of an armed force. Caution: Could be a tactical plot detail unless
+      the episode is framed as heroic ordeal, ritualized combat, or sacred warfare.'
+    suggested_aliases:
+    - lone warrior redirects host
+    - single champion halts war-band
+  single_warrior_holding_a_ford:
+    group_id: sacred_combat
+    relationship: narrower_than
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Holding a ford by single combat is a core example of ritualized martial
+      threshold defense in the current sacred_combat group. Caution: May also relate
+      to threshold_guardian if the ford is emphasized as a liminal boundary rather
+      than battlefield site.'
+    suggested_aliases:
+    - champion holding the ford
+    - single combat at the ford
+  single_warrior_holds_back_a_host:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A lone champion holding back a host expresses exceptional heroic combat
+      power within the divine_warrior/sacred-combat field. Caution: Overlaps with
+      several ford/host variants in this batch; consider consolidating as granular
+      children rather than separate motifs.'
+    suggested_aliases:
+    - lone champion holds back host
+    - single warrior stops an army
+  sleeping_champion_awakens_for_war:
+    group_id: divine_warrior
+    relationship: role_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A dormant champion awakened for battle fits the exceptional warrior role
+      and sacred-combat activation pattern. Caution: If sleep/death-like dormancy
+      and return are central, death_and_transformation or dying_and_returning may
+      be relevant secondary mappings.'
+    suggested_aliases:
+    - awakened champion for battle
+    - sleeping warrior roused for war
+  small_war_band_inflicts_disproportionate_losses_before_annihilation:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A doomed small band causing outsized destruction fits heroic war-band
+      combat and ritualized martial ordeal. Caution: If the emphasis is tragic death
+      and remembrance rather than combat function, lament_and_mourning or heroic_funeral_rites
+      may be secondary.'
+    suggested_aliases:
+    - doomed war-band inflicts great losses
+    - small band overwhelmed after heroic combat
+  smith_s_crafted_revenge:
+    group_id: sacred_craft
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The label centers on a smith''s crafted object or device used to enact
+      revenge, making craft the distinctive function. Caution: Could instead belong
+      under sacred_combat or divine_judgment if the passage emphasizes vengeance,
+      feud, or punishment more than crafting.'
+    suggested_aliases:
+    - crafted revenge
+    - smith revenge
+    - weaponized craft
+  solar_hero_marked_by_radiance_and_golden_armour:
+    group_id: sacred_fire
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Radiance and solar brilliance align with divine light as a sacred marker
+      of heroic status. Caution: Golden armour may also be a sacred treasure or heroic
+      identity marker; avoid treating solar imagery as fire unless divine light is
+      explicit.'
+    suggested_aliases:
+    - solar radiance of hero
+    - golden-armoured solar hero
+    - radiant hero
+  solar_invocation_grants_victory_and_protection:
+    group_id: divine_intervention
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A divine solar power is invoked and directly grants protection and victory
+      in human conflict. Caution: Could receive secondary indexing under sacred_fire
+      for solar light or divine_warrior if the sun deity functions as combat patron.'
+    suggested_aliases:
+    - solar aid in battle
+    - sun invocation for victory
+    - divine protection through solar invocation
+  spared_defeated_enemy_shamed_rather_than_killed:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The motif concerns a combat outcome governed by honor, restraint, and
+      humiliation instead of killing. Caution: If the passage emphasizes ethical mercy,
+      royal conduct, or dharmic judgment, sacred_law, royal_legitimacy, or divine_judgment
+      may be better secondary mappings.'
+    suggested_aliases:
+    - enemy spared and shamed
+    - humiliation of defeated enemy
+    - mercy after victory
+  special_opponent_overcome_by_matching_feat_or_weapon:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A distinctive opponent is defeated by a corresponding feat or weapon,
+      a structured heroic-combat pattern. Caution: If the decisive element is the
+      weapon''s supernatural object-status, also consider sacred_treasures.'
+    suggested_aliases:
+    - matched weapon defeats special opponent
+    - opponent overcome by matching feat
+    - counter-feat in combat
+  specialized_secret_or_exceptional_weapon_decides_combat:
+    group_id: sacred_treasures
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A rare, secret, or exceptional weapon functions as a power object that
+      determines the combat outcome. Caution: May also index under sacred_combat when
+      the combat structure is more important than the weapon''s special status.'
+    suggested_aliases:
+    - secret weapon decides combat
+    - exceptional weapon in combat
+    - specialized heroic weapon
+  spoils_accumulated_after_ordeal_combats:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The label describes rewards or spoils gained through repeated ordeal combats,
+      a heroic warfare sequence. Caution: Could be too episode-specific if the spoils
+      are merely plot inventory; consider sacred_treasures if individual objects carry
+      power.'
+    suggested_aliases:
+    - combat spoils after ordeal
+    - spoils from heroic combats
+    - accumulated spoils of battle trials
+  spoils_and_doomed_transfer_of_heroic_arms:
+    group_id: heroic_funeral_rites
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The doomed transfer of a dead hero''s arms often belongs to post-heroic
+      memorial, honor, and succession conflict around funeral aftermath. Caution:
+      If the focus is the arms as power objects, use sacred_treasures; if the focus
+      is warrior honor and conflict, divine_warrior or sacred_combat may be better.'
+    suggested_aliases:
+    - transfer of heroic arms
+    - doomed heroic arms
+    - spoils of a dead hero
+  spoken_praise_restores_or_increases_hero_s_courage:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Heroic speech that restores courage functions within battle ordeal and
+      warrior performance. Caution: Could fit storytelling_as_power or wisdom if the
+      passage emphasizes speech efficacy rather than combat context.'
+    suggested_aliases:
+    - praise restores courage
+    - battle praise strengthens hero
+    - spoken encouragement before combat
+  strategic_destruction_to_provoke_battle:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Deliberate destruction used to trigger battle is a warfare catalyst motif.
+      Caution: May be a passage-specific tactic rather than sacred combat unless the
+      conflict has mythic or ritual significance.'
+    suggested_aliases:
+    - provocation by destruction
+    - destruction as battle catalyst
+    - strategic ravaging before combat
+  strength_enhancing_belt_used_in_trial:
+    group_id: sacred_treasures
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A belt that confers strength in an ordeal is a power object enabling heroic
+      capacity. Caution: If the emphasis is the ordeal rather than the object, initiation
+      or divine_warrior may be secondary.'
+    suggested_aliases:
+    - strength belt
+    - power belt in ordeal
+    - magical belt grants strength
+  stripping_arms_or_spoils_from_the_fallen_enemy:
+    group_id: sacred_combat
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Taking arms or spoils from a defeated enemy is a recurring heroic-warfare
+      action. Caution: Could be too conventional or episode-specific unless tied to
+      honor, ritual claiming, or heroic status.'
+    suggested_aliases:
+    - stripping fallen enemy's arms
+    - taking spoils from the slain
+    - battlefield spoils from defeated foe
+  struggle_over_the_slain_body_and_spoils:
+    group_id: heroic_funeral_rites
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Conflict over a slain body concerns heroic death, possession, honor, and
+      burial/memorial order. Caution: If the passage centers on battlefield victory
+      or trophy-taking rather than corpse recovery, sacred_combat may be a better
+      primary group.'
+    suggested_aliases:
+    - contest over slain body
+    - battle for corpse and spoils
+    - struggle for fallen hero's body
+  subduing_the_inner_monster:
+    group_id: initiation
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Overcoming an internal monster suggests a transformative ordeal of self-mastery.
+      Caution: Could be ethical psychology, allegorical commentary, or literal monster
+      combat depending on source context.'
+    suggested_aliases:
+    - inner monster subdued
+    - self-mastery over monstrous impulse
+    - internal monster as ordeal
+  substitute_warrior_in_another_hero_s_armor:
+    group_id: sacred_combat
+    relationship: role_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A warrior assuming another hero''s armor is a battlefield role-substitution
+      and identity-signaling motif. Caution: May also involve disguise, sacred_treasures,
+      or warrior honor; preserve the armor-substitution detail.'
+    suggested_aliases:
+    - warrior in another hero's armor
+    - substitution by armor
+    - borrowed armor in battle
+  substitute_warrior_in_borrowed_armor:
+    group_id: sacred_combat
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A warrior substitution through armor belongs to heroic battle and warfare
+      motifs, but the label is episode-specific. Caution: May be better preserved
+      as evidence under a narrower future heroic-disguise or warrior-identity motif
+      if such labels recur.'
+    suggested_aliases:
+    - warrior substitution in borrowed armor
+    - borrowed armor disguise in battle
+  substitute_warrior_wears_hero_s_armor:
+    group_id: sacred_combat
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The motif concerns battlefield identity and substitution through a hero''s
+      armor, fitting the sacred combat/heroic warfare cluster. Caution: Likely a duplicate
+      or close variant of other borrowed-armor labels; avoid promoting without broader
+      recurrence.'
+    suggested_aliases:
+    - substitute warrior in hero's armor
+    - borrowed heroic armor in battle
+  substitution_by_wearing_another_hero_s_armor:
+    group_id: sacred_combat
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'This is the same heroic battlefield substitution pattern expressed as
+      armor-based impersonation. Caution: Could also touch shapeshifter/disguise thematically,
+      but no literal transformation is indicated; treat as combat evidence detail.'
+    suggested_aliases:
+    - armor-based heroic substitution
+    - hero impersonation through armor
+  summoning_aid_through_sorrowful_warrior_music:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Music functions as a battle-related summons for aid, fitting ritualized
+      or charged warfare. Caution: If the emphasis is on song as sacred speech rather
+      than combat mobilization, storytelling_as_power or sacred_knowledge may be relevant
+      as secondary context.'
+    suggested_aliases:
+    - warrior music summons aid
+    - battle aid summoned by lamenting music
+  summoning_of_a_warrior_host_after_warning:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The motif describes martial mobilization after a warning, a warfare sequence
+      within the sacred combat cluster. Caution: May be a plot mechanics detail unless
+      warning and host-summoning have ritual or supernatural force in the passage.'
+    suggested_aliases:
+    - warrior host summoned after warning
+    - martial host mobilized by warning
+  summoning_warriors_by_three_great_shouts:
+    group_id: sacred_combat
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A formalized triple shout used to summon warriors fits ritualized battle
+      communication within sacred combat. Caution: The number three and shout formula
+      may be locally significant; preserve as evidence detail rather than canonicalizing
+      the exact form.'
+    suggested_aliases:
+    - three shouts summon warriors
+    - ritual battle shout summons host
+  supernatural_amplification_of_heroic_dread:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Supernatural intensification of a hero''s battle-terror supports the sacred
+      warrior''s combat power and battlefield effect. Caution: Could also fit divine_intervention
+      if external beings are the main agents; source context should decide primary
+      placement.'
+    suggested_aliases:
+    - heroic dread amplified supernaturally
+    - supernatural battle terror
+  supernatural_battle_assistance_through_conjured_army_and_mist:
+    group_id: divine_intervention
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A conjured army and mist directly assisting battle is supernatural intervention
+      in human conflict. Caution: Secondary relation to sacred_combat is likely; do
+      not treat mist imagery alone as a separate nature motif.'
+    suggested_aliases:
+    - supernatural battle aid by mist and army
+    - conjured army assists in battle
+  supernatural_beings_amplify_a_hero_s_battle_terror:
+    group_id: divine_intervention
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The explicit agents are supernatural beings intervening to intensify a
+      hero''s battle-terror. Caution: Also overlaps divine_warrior because the effect
+      is martial dread; likely duplicate of supernatural_amplification_of_heroic_dread
+      with agent specified.'
+    suggested_aliases:
+    - supernatural beings intensify battle terror
+    - supernatural amplification of heroic dread
+  supernatural_beings_manifesting_in_combat:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Supernatural presence appearing during battle fits sacred combat where
+      nonhuman powers participate in warfare. Caution: Could instead be divine_intervention
+      or theophany if manifestation, not combat order, is central.'
+    suggested_aliases:
+    - supernatural manifestation in battle
+    - divine beings in combat
+  supernatural_cattle_event_initiating_a_heroic_conflict:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A cattle-related event catalyzing heroic conflict closely matches the
+      existing cattle_raid_catalyst child under sacred_combat. Caution: Preserve supernatural
+      cattle detail as evidence; avoid treating all cattle episodes as sacred combat
+      without conflict function.'
+    suggested_aliases:
+    - supernatural cattle catalyst
+    - cattle event catalyst for heroic conflict
+  supernatural_cries_from_warriors_weapons:
+    group_id: sacred_treasures
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Weapons that cry supernaturally function as animated or power-bearing
+      martial objects. Caution: If the cries primarily foretell battle or death, dream_and_vision
+      or death_by_fate may be relevant secondary contexts.'
+    suggested_aliases:
+    - speaking weapons
+    - omens from weapons
+    - animated warrior weapons
+  supernatural_female_lament_for_a_hero:
+    group_id: lament_and_mourning
+    relationship: role_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The core action is lamentation for a hero, with a supernatural female
+      figure as the lamenting role. Caution: Could overlap with fate omen or death
+      prophecy if the lament occurs before death rather than after loss.'
+    suggested_aliases:
+    - supernatural lament for hero
+    - female otherworld lament
+    - heroic death lament
+  supernatural_helper_sustains_solitary_hero_against_overwhelming_host:
+    group_id: divine_intervention
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A supernatural helper directly aids and sustains a hero in crisis, matching
+      divine intervention in human affairs. Caution: If the helper is primarily a
+      warrior deity or battle manifestation, divine_warrior may be a secondary placement.'
+    suggested_aliases:
+    - supernatural helper in battle
+    - divine aid to solitary hero
+    - hero sustained by supernatural helper
+  supernatural_hindrance_at_a_ford_during_heroic_combat:
+    group_id: threshold_guardian
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A ford is a liminal crossing, and supernatural hindrance there functions
+      as a threshold obstruction during combat. Caution: If the episode centers on
+      warfare rather than passage or boundary, sacred_combat may be the better parent.'
+    suggested_aliases:
+    - supernatural ford obstruction
+    - battle hindrance at ford
+    - liminal ford obstacle
+  supernatural_hindrance_of_a_hero_in_single_combat:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Supernatural interference within single combat fits the sacred_combat
+      field of ritually charged heroic conflict. Caution: Could be divine_intervention
+      if the nonhuman agency is more important than the duel structure.'
+    suggested_aliases:
+    - supernatural interference in single combat
+    - hero hindered in duel
+    - supernatural obstruction in duel
+  supernatural_obstruction_in_battle:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A supernatural obstacle operating in battle belongs with sacred or ritually
+      significant warfare. Caution: Broad generated label; review source evidence
+      for whether this is divine intervention, fate, magic, or a threshold episode.'
+    suggested_aliases:
+    - supernatural battle obstruction
+    - supernatural battle hindrance
+    - nonhuman obstruction in combat
+  supernatural_scale_sign_accompanies_heroic_deed:
+    group_id: dream_and_vision
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A supernatural sign accompanying a deed functions as an omen or revelatory
+      sign confirming heroic significance. Caution: If the sign is a direct divine
+      manifestation, theophany or divine_intervention may fit better; label is abstract.'
+    suggested_aliases:
+    - supernatural omen accompanying heroic deed
+    - cosmic sign of heroic act
+    - heroic deed confirmed by omen
+  supernatural_smiths_make_magic_weapons:
+    group_id: sacred_craft
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Supernatural smithing of magic weapons is sacred or nonhuman craft producing
+      power objects. Caution: Also relates to sacred_treasures because the weapons
+      are power objects; index craft when making is central.'
+    suggested_aliases:
+    - divine smiths forge magic weapons
+    - supernatural weapon forging
+    - magic weapons made by smiths
+  supernatural_unseen_helpers_in_battle:
+    group_id: divine_intervention
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Unseen supernatural helpers directly intervene in battle outcomes, fitting
+      divine or sacred aid in human affairs. Caution: If the emphasis is warrior combat
+      rather than aid, sacred_combat or divine_warrior may be useful secondary context.'
+    suggested_aliases:
+    - unseen supernatural battle aid
+    - supernatural helpers in combat
+    - invisible helpers in battle
+  supernatural_war_terror_surrounding_the_hero:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A hero surrounded by supernatural battle-terror belongs to sacred combat
+      charisma and divine-warrior imagery. Caution: Could also be an over-specific
+      heroic aura or battle-frenzy detail; verify that the terror is supernatural
+      and recurrently meaningful.'
+    suggested_aliases:
+    - supernatural battle terror
+    - heroic war terror
+    - supernatural battle aura
+  supernatural_weapon_expanding_to_immense_size:
+    group_id: sacred_treasures
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A weapon with supernatural size-changing power is a sacred or magical
+      power object. Caution: If the weapon''s main function is cosmic combat, divine_warrior
+      or sacred_combat may be relevant secondary mappings.'
+    suggested_aliases:
+    - expanding supernatural weapon
+    - magical weapon enlarges
+    - immense battle weapon
+  supernatural_weapon_overcomes_invulnerable_armor:
+    group_id: sacred_treasures
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The label centers on a supernatural weapon whose special power defeats
+      otherwise invulnerable protection. Caution: May be episode-specific; preserve
+      armor-defeating function as evidence detail rather than creating a narrow weapon
+      subtype.'
+    suggested_aliases:
+    - supernatural armor-piercing weapon
+    - divine weapon defeats invulnerability
+    - weapon overcomes invulnerable armor
+  supernatural_weapon_that_cannot_be_discharged_in_vain:
+    group_id: sacred_treasures
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A weapon with an unfailing supernatural rule is a sacred power object
+      used in combat. Caution: If the passage emphasizes divine judgment through the
+      weapon, divine_judgment may be a secondary frame.'
+    suggested_aliases:
+    - unfailing supernatural weapon
+    - weapon never discharged in vain
+    - infallible divine weapon
+  supernatural_woman_brings_an_extraordinary_battle_object_to_a_hero:
+    group_id: divine_intervention
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A supernatural figure providing a battle object to a hero is direct sacred
+      aid in human conflict. Caution: The battle object itself may also fit sacred_treasures;
+      the supernatural woman''s identity may require culturally specific review.'
+    suggested_aliases:
+    - supernatural woman grants battle object
+    - female supernatural helper gives weapon
+    - divine woman equips hero
+  supernaturally_made_or_consecrated_weapon:
+    group_id: sacred_treasures
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A weapon made or consecrated by supernatural means is a sacred power object.
+      Caution: If crafting process is central, sacred_craft may be a secondary group;
+      if combat function is central, sacred_combat may also apply.'
+    suggested_aliases:
+    - consecrated weapon
+    - supernaturally forged weapon
+    - divinely made weapon
+  survivor_of_combat_left_permanently_maimed:
+    group_id: sacred_combat
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Permanent maiming after battle is a combat consequence and heroic-warrior
+      ordeal detail. Caution: Likely too specific to promote; if maiming transforms
+      status, initiation or death_and_transformation may be secondary.'
+    suggested_aliases:
+    - permanent maiming after combat
+    - maimed survivor of battle
+    - battle survivor permanently wounded
+  taunt_that_rouses_a_warrior:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A taunt that provokes a warrior into combat functions as a conflict-trigger
+      or battle-ordeal device. Caution: Single occurrence; could be an episode-specific
+      battle detail unless it recurs as a formal provocation pattern.'
+    suggested_aliases:
+    - warrior provoked by taunt
+    - taunt as battle provocation
+  temporary_healing_against_fatal_wounds:
+    group_id: death_and_transformation
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Healing that delays or counters fatal wounds belongs to the death-threshold
+      and life-restoration complex. Caution: If the passage emphasizes magical medicine,
+      sacred object, or divine healer more than death reversal, secondary mapping
+      may be needed.'
+    suggested_aliases:
+    - temporary healing of fatal wounds
+    - death-delaying healing
+    - healing against mortal wounds
+  temptation_toward_idolatry_after_deliverance:
+    group_id: covenant
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Post-deliverance idolatry temptation marks threatened breach of sacred
+      allegiance after divine rescue. Caution: Could also fit divine_judgment or forbidden_knowledge/idol
+      depending on whether punishment, prohibition, or false worship is central.'
+    suggested_aliases:
+    - idolatry after deliverance
+    - temptation to break sacred allegiance
+    - post-deliverance covenant breach
+  terrifying_roar_as_weapon_of_battle:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A supernatural or fearsome battle roar functions as a warrior power in
+      sacred combat. Caution: Could be too granular if it is only a descriptive flourish;
+      confirm whether the roar affects battle outcome or cosmic order.'
+    suggested_aliases:
+    - battle roar as weapon
+    - terrifying war cry
+    - fearsome roar in combat
+  terrifying_warrior_whose_approach_scatters_an_army:
+    group_id: divine_warrior
+    relationship: role_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The motif centers on an awe-inspiring warrior whose presence routs enemies,
+      fitting divine-warrior combat imagery. Caution: May be a heroic hyperbole rather
+      than a sacred motif if no supernatural or cosmic framing is present.'
+    suggested_aliases:
+    - warrior whose approach routs an army
+    - fearsome warrior scattering enemies
+    - terrifying battle presence
+  test_of_divinity_through_impious_meal:
+    group_id: divine_judgment
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'An impious meal used to test divine identity typically provokes recognition
+      and punishment by sacred authority. Caution: If the focus is forbidden food,
+      cannibalistic sacrifice, or hospitality violation, secondary mappings may be
+      appropriate.'
+    suggested_aliases:
+    - impious meal testing a god
+    - testing divinity by sacrilegious food
+    - sacrilegious hospitality test
+  testing_and_choosing_the_tireless_steed:
+    group_id: sacred_treasures
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A tested, exceptional steed functions like a power-bearing heroic aid
+      or sacred possession. Caution: Could warrant a future animal-helper or magical-mount
+      grouping; current placement is by object/aid function rather than animal symbolism.'
+    suggested_aliases:
+    - choosing the tireless steed
+    - testing the heroic steed
+    - supernatural steed selection
+  testing_loyalty_under_concealment:
+    group_id: initiation
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Concealed identity used to test loyalty is an ordeal of recognition, fidelity,
+      and social status. Caution: May also fit return/homecoming or royal legitimacy
+      if the concealed figure is a returning ruler; source context should guide final
+      mapping.'
+    suggested_aliases:
+    - loyalty tested in disguise
+    - concealed identity loyalty test
+    - recognition test under concealment
+  testing_promises_after_rescue:
+    group_id: sacred_exchange
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Testing promises after rescue centers on reciprocal obligation after aid,
+      matching exchange, vow, and obligation logic. Caution: If the passage emphasizes
+      legal vow-breaking, covenant or divine_judgment may be better; if only a local
+      plot device, keep as evidence detail.'
+    suggested_aliases:
+    - promise tested after rescue
+    - rescue obligation test
+    - testing repayment after deliverance
+  third_victory_grants_lasting_title_and_possession:
+    group_id: royal_legitimacy
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Repeated victory conferring title and possession functions as legitimizing
+      rule, status, or claim through ordeal. Caution: The threefold victory detail
+      may be local narrative structure; if no political or territorial legitimacy
+      is involved, sacred_combat may be the better group.'
+    suggested_aliases:
+    - third victory grants title
+    - victory confers possession
+    - threefold victory legitimizes claim
+  three_day_combat_ordeal_or_assault:
+    group_id: sacred_combat
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A multi-day combat ordeal fits the sacred or heroic combat complex as
+      a ritually marked battle trial. Caution: The three-day duration may be an episode-specific
+      detail; if transformation rather than combat is central, initiation may be a
+      secondary mapping.'
+    suggested_aliases:
+    - three-day combat ordeal
+    - three-day assault
+    - multi-day heroic combat trial
+  threshold_enlarged_for_an_exceptional_hero:
+    group_id: hero_journey
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'An altered threshold marking a hero''s exceptional scale or status fits
+      heroic passage and threshold crossing symbolism. Caution: Could be a literal
+      architectural detail or comic exaggeration; map to threshold_guardian only if
+      a guardian or boundary test is present.'
+    suggested_aliases:
+    - enlarged threshold for hero
+    - doorway widened for exceptional hero
+    - heroic threshold expansion
+  thunder_deity_with_fiery_weapon_and_chariot:
+    group_id: divine_warrior
+    relationship: role_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A thunder god armed with a fiery weapon and chariot is a divine warrior
+      image tied to sacred combat and cosmic force. Caution: Fiery weapon imagery
+      may also relate to sacred_fire or sacred_treasures, but the deity''s combat
+      role is primary in this label.'
+    suggested_aliases:
+    - thunder god with fiery weapon
+    - storm deity in chariot
+    - thunder warrior deity
+  tokens_of_a_rival_s_power_shown_before_combat:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Displaying tokens of a rival''s power before combat functions as pre-battle
+      challenge, intimidation, or recognition within combat narrative. Caution: If
+      the objects themselves confer divine authority or power, sacred_treasures may
+      be a secondary placement; the label is likely too specific for a new group.'
+    suggested_aliases:
+    - rival power tokens before combat
+    - pre-battle display of enemy power
+    - tokens shown before battle
+  transfer_of_hero_s_weapons_to_companion:
+    group_id: heroic_funeral_rites
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Transfer of a dead or departing hero''s arms can function as memorialization,
+      succession, or reaffirmation of heroic order. Caution: If the passage emphasizes
+      authority transfer rather than memorial rites, royal_legitimacy or divine_warrior
+      may be better secondary mappings.'
+    suggested_aliases:
+    - heroic arms transferred to companion
+    - inheritance of hero's weapons
+  triadic_warrior_brothers_with_matching_equipment:
+    group_id: sacred_twins
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Warrior brothers acting as a matched triad are a sibling-pair/paired-kin
+      variant, extended from two to three. Caution: The matching equipment may be
+      a catalogue detail; if emphasis is martial display rather than sibling structure,
+      sacred_combat may be a secondary mapping.'
+    suggested_aliases:
+    - matched warrior brothers
+    - triadic sibling warriors
+    - warrior brothers with matching gear
+  trial_by_retrieval_from_the_enemy:
+    group_id: initiation
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A required retrieval from an enemy functions as an ordeal or proof that
+      changes status or validates the actor. Caution: If the retrieval is purely military
+      without status transformation, sacred_combat may be a better parent.'
+    suggested_aliases:
+    - retrieval ordeal
+    - enemy retrieval trial
+    - proof by recovering enemy-held object
+  trial_of_newcomers_for_sincere_faith:
+    group_id: initiation
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Testing newcomers for sincerity fits initiation as a threshold test of
+      identity, belonging, and commitment. Caution: Could also map to covenant or
+      sacred_law if the passage centers legal membership or communal obligation rather
+      than ordeal.'
+    suggested_aliases:
+    - sincerity test for newcomers
+    - faith trial at entry
+    - testing new believers
+  trial_through_material_attachments:
+    group_id: mystical_quest
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Testing by attachment to possessions fits the contemplative path of renunciation
+      and inner transformation. Caution: If framed as legal almsgiving or communal
+      duty, sacred_exchange or sacred_law may be more appropriate.'
+    suggested_aliases:
+    - test of material attachment
+    - ordeal of renunciation
+    - trial by possessions
+  triumph_followed_by_sudden_downfall:
+    group_id: pride_and_downfall
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A victory or high point immediately reversed by ruin fits the downfall
+      pattern already represented in this group. Caution: Label alone does not show
+      hubris or divine punishment; if it is only battle fortune, sacred_combat may
+      be a secondary fit.'
+    suggested_aliases:
+    - victory followed by reversal
+    - sudden downfall after triumph
+  ultimatum_between_restitution_and_war:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A demand for restitution under threat of war functions as a prewar conflict
+      trigger or negotiated-exchange breakdown. Caution: Could also belong under sacred_law
+      or covenant if the passage emphasizes justice, lawful restitution, or dharmic
+      obligation more than war onset.'
+    suggested_aliases:
+    - restitution ultimatum before war
+    - war threatened after failed restitution
+  unarmed_hero_defeats_an_armed_challenger:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'An unarmed hero defeating an armed opponent is a heroic combat superiority
+      motif within the warrior complex. Caution: If the source stresses ordeal, initiation,
+      or trickery rather than warrior status, initiation or trickster may be relevant
+      instead.'
+    suggested_aliases:
+    - unarmed victory over armed foe
+    - hero defeats armed opponent without weapons
+  unequal_group_attack_answered_by_heroic_slaughter:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A hero answering many attackers with overwhelming slaughter fits heroic/sacred
+      combat prowess. Caution: If the episode emphasizes unjust violence, vengeance,
+      or social judgment, sacred_combat or divine_judgment may also apply.'
+    suggested_aliases:
+    - hero slaughters attacking group
+    - one hero overcomes many attackers
+  unfair_or_morally_burdened_victory:
+    group_id: divine_judgment
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The motif centers on moral evaluation of victory rather than combat success
+      itself. Caution: May also belong under sacred_combat if the source focuses on
+      warrior honor codes; review whether sacred or social judgment is explicit.'
+    suggested_aliases:
+    - morally tainted victory
+    - dishonorable victory
+    - burdened victory
+  unfair_or_preemptive_killing_in_a_duel_criticized_by_another_warrior:
+    group_id: divine_judgment
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A duel killing criticized as unfair is a moral reckoning over martial
+      conduct. Caution: Over-specific narrative detail; if indexing combat conventions,
+      sacred_combat may be a better primary group.'
+    suggested_aliases:
+    - dishonorable duel killing criticized
+    - preemptive killing condemned by warrior
+  unique_or_privileged_weapon_of_the_hero:
+    group_id: sacred_treasures
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A distinctive weapon that marks or empowers the hero fits sacred treasures
+      and power objects. Caution: If the weapon mainly establishes kingship or lawful
+      succession, royal_legitimacy may be a secondary mapping; if it is just equipment,
+      avoid overreading sacred status.'
+    suggested_aliases:
+    - hero's privileged weapon
+    - unique heroic weapon
+    - special weapon of the hero
+  unique_weapon_needed_to_slay_a_giant:
+    group_id: sacred_treasures
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A special weapon required for victory functions as a power object conferring
+      decisive ability. Caution: Could also fit divine_warrior or sacred_combat if
+      the emphasis is heroic combat rather than the weapon''s special status.'
+    suggested_aliases:
+    - unique slaying weapon
+    - special weapon required to kill giant
+    - giant-slaying power weapon
+  universal_charity_toward_all_creatures:
+    group_id: mystical_quest
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Universal compassion in a Sufi context likely expresses transformed spiritual
+      disposition on the mystical path. Caution: Bucket assignment may be misleading;
+      if framed as ethical teaching rather than mystical attainment, sacred_law or
+      sacred_knowledge may be better.'
+    suggested_aliases:
+    - universal compassion toward creatures
+    - charity toward all beings
+    - compassion for all creatures
+  unwounded_hero_after_mass_slaughter:
+    group_id: divine_warrior
+    relationship: role_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The invulnerable or untouched warrior after battle fits heroic sacred-combat
+      imagery around extraordinary martial power. Caution: May be an episode-specific
+      battle detail; if no sacred or superhuman framing is present, preserve as evidence
+      rather than a durable motif.'
+    suggested_aliases:
+    - invulnerable battle hero
+    - unwounded warrior after slaughter
+    - hero untouched after battle
+  vengeance_by_burning_the_enemy_hall:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Burning an enemy hall as vengeance is a violent feud or warfare action
+      with ritualized heroic-conflict resonance. Caution: Could also touch sacred_fire
+      if fire has purifying or divine force; otherwise avoid over-symbolizing a tactical
+      revenge episode.'
+    suggested_aliases:
+    - hall-burning vengeance
+    - vengeful burning of enemy hall
+    - enemy hall burned in feud
+  vengeance_for_a_slain_predecessor_in_battle:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'This closely matches the existing child motif vow_of_vengeance_for_a_fallen_king_hero
+      under divine_warrior. Caution: If the predecessor is not royal or heroic, sacred_combat
+      may be the broader group while preserving the kinship/succession detail.'
+    suggested_aliases:
+    - vengeance for fallen predecessor
+    - revenge for slain battle predecessor
+    - avenging a fallen hero in battle
+  vengeance_preparation_with_war_chariot:
+    group_id: sacred_combat
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Preparation for vengeance using a war chariot fits heroic or ritualized
+      combat context, but the chariot detail is episode-specific. Caution: Single
+      occurrence; could be a narrative prop or battle-preparation detail rather than
+      a stable motif unless vengeance or ritual warfare is emphasized.'
+    suggested_aliases:
+    - war chariot vengeance preparation
+    - battle preparation for revenge
+  verbal_provocation_to_awaken_battle_fury:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Speech used to awaken battle fury fits warrior activation within sacred
+      or heroic combat. Caution: If the passage emphasizes poetic incitement, satire,
+      or speech power more than warrior role, storytelling_as_power may be a secondary
+      fit.'
+    suggested_aliases:
+    - provocation awakens battle fury
+    - incitement to warrior rage
+    - verbal arousal of battle frenzy
+  victorious_hero_overthrows_hostile_knights:
+    group_id: hero_journey
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A hero defeating hostile opponents is a generic ordeal/victory episode
+      within the hero journey. Caution: Likely too specific for canonical promotion;
+      if the combat establishes sacred order or kingship, sacred_combat or royal_legitimacy
+      may be relevant.'
+    suggested_aliases:
+    - hero defeats hostile knights
+    - heroic victory over hostile warriors
+  victory_confirmed_by_celestial_signs:
+    group_id: dream_and_vision
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Celestial signs confirming victory function as omens or revealed signs
+      validating an event. Caution: If the signs specifically authorize rule or divine
+      favor after battle, royal_legitimacy or divine_intervention may be useful secondary
+      mappings.'
+    suggested_aliases:
+    - celestial omens confirm victory
+    - victory validated by heavenly signs
+  victory_followed_by_homage_and_vassalage:
+    group_id: royal_legitimacy
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Homage and vassalage after victory establish or confirm hierarchical political
+      authority. Caution: If the passage is purely military surrender without sacral
+      or royal legitimation, sacred_combat may be a narrower evidence context.'
+    suggested_aliases:
+    - victory followed by homage
+    - defeated foes become vassals
+    - post-victory vassalage
+  victory_memorial_through_dedicated_arms:
+    group_id: sacred_treasures
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Dedicated arms used as a memorial make weapons into ritually charged objects
+      of victory and remembrance. Caution: Could also fit heroic_funeral_rites or
+      royal_legitimacy if the arms commemorate a dead hero or authorize rule; verify
+      dedication context.'
+    suggested_aliases:
+    - dedicated arms as victory memorial
+    - weapons dedicated after victory
+    - victory trophy arms
+  victory_proclamation_to_cosmic_and_territorial_features:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A victory proclamation addressed to land or cosmic features frames warfare
+      as territorially and ritually significant. Caution: Single occurrence; may be
+      poetic rhetoric or passage-specific praise rather than a durable motif.'
+    suggested_aliases:
+    - victory proclamation to land and cosmos
+    - ritual proclamation of victory
+  violation_of_hospitality_toward_a_poor_stranger:
+    group_id: sacred_law
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Hospitality obligations are social-sacred norms; violation signals breach
+      of moral order. Caution: If the stranger is a disguised deity and punishment
+      follows, secondary mapping to divine_judgment or divine_intervention may be
+      needed.'
+    suggested_aliases:
+    - breach of hospitality
+    - violation of sacred hospitality
+    - inhospitality toward stranger
+  virtuous_elder_rewarded_after_miraculous_act:
+    group_id: divine_judgment
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Reward for virtue after a miracle is a moral-reckoning pattern, even if
+      positive rather than punitive. Caution: If the core is supernatural aid rather
+      than moral recompense, divine_intervention may be the better primary group.'
+    suggested_aliases:
+    - virtue rewarded by miracle
+    - miraculous reward for elder virtue
+    - righteous elder rewarded
+  volunteer_champion_precedes_commander_in_combat:
+    group_id: sacred_combat
+    relationship: role_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A champion taking the vanguard role is a structured combat motif within
+      heroic or ritualized warfare. Caution: May be a tactical episode rather than
+      symbolic motif unless tied to duty, vow, sacrifice, or cosmic battle.'
+    suggested_aliases:
+    - vanguard champion
+    - volunteer champion in battle
+    - champion precedes commander
+  war_brought_by_a_woman_s_transfer:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A woman’s transfer provoking war matches existing sacred_combat children
+      where violation, exchange, or household reversal triggers conflict. Caution:
+      Review for gendered framing; if the focus is marriage exchange, sovereignty,
+      or abduction, sacred_marriage, royal_legitimacy, or stolen_beloved may be relevant
+      secondary mappings.'
+    suggested_aliases:
+    - woman's transfer triggers war
+    - female transfer as war catalyst
+    - marriage or transfer causing war
+  war_camp_storytelling_of_heroic_feats:
+    group_id: storytelling_as_power
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The motif centers on narration of heroic deeds as memory, morale, or transmission
+      in a martial setting. Caution: Could also support sacred_combat if the storytelling
+      directly causes battle action or ritual obligation.'
+    suggested_aliases:
+    - heroic feats recounted in war camp
+    - war camp heroic storytelling
+    - martial storytelling of deeds
+  war_engine_defeated_by_hidden_pitfall:
+    group_id: sacred_combat
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A battlefield stratagem defeating a war engine fits the warfare and combat
+      complex, but the pitfall detail is episode-specific. Caution: Single occurrence;
+      may be a tactical plot detail rather than a reusable mythic motif unless the
+      hidden-pitfall pattern recurs.'
+    suggested_aliases:
+    - hidden pitfall defeats war engine
+    - battlefield ambush against war machine
+  war_leader_boasts_of_devastation_and_refuses_retreat:
+    group_id: divine_warrior
+    relationship: role_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The label centers on a warrior-leader role marked by martial boast, destruction,
+      and refusal to withdraw. Caution: May be heroic rhetoric rather than divine
+      or sacred combat; review whether the passage frames the leader cosmically, ritually,
+      or simply militarily.'
+    suggested_aliases:
+    - boastful war leader refuses retreat
+    - martial boast before devastation
+    - warrior refuses retreat
+  war_leader_in_a_radiant_chariot:
+    group_id: divine_warrior
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A radiant chariot marks a martial leader with sacred, heroic, or divine-warrior
+      imagery. Caution: Could also fit sacred_treasures if the chariot itself is the
+      power object, or theophany if radiance signals divine manifestation.'
+    suggested_aliases:
+    - radiant war chariot
+    - warrior in shining chariot
+    - divine chariot warrior
+  war_prize_carried_off_from_enemy_territory:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Taking a prize from enemy territory is a raid or martial acquisition pattern
+      within the warfare complex. Caution: If the prize is a sacred object, captive,
+      cattle, or bride, a more specific group may be needed; label alone is generic.'
+    suggested_aliases:
+    - war booty from enemy territory
+    - raided prize carried off
+    - enemy spoil taken
+  warning_against_arrogant_suitors:
+    group_id: pride_and_downfall
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The warning targets arrogant figures whose overreach may invite punishment
+      or downfall. Caution: Could be a passage-specific admonition unless the suitors''
+      arrogance leads to divine or heroic reckoning.'
+    suggested_aliases:
+    - warning to arrogant suitors
+    - hubristic suitors warned
+    - admonition against suitor arrogance
+  warning_before_a_fated_combat:
+    group_id: death_by_fate
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A warning before combat marked as fated directly invokes destiny governing
+      heroic death or battle outcome. Caution: If fate is not explicit in the source,
+      sacred_combat or dream_and_vision may be a safer parent.'
+    suggested_aliases:
+    - fated combat warning
+    - warning of destined battle
+    - forewarning of fated duel
+  warning_before_a_likely_fatal_encounter:
+    group_id: death_by_fate
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A forewarning of a fatal encounter sits near the fate-and-death complex,
+      especially in heroic combat contexts. Caution: Likely fatal is weaker than fated;
+      if no destiny or prophecy is present, this may be only narrative foreshadowing.'
+    suggested_aliases:
+    - warning of fatal encounter
+    - forewarning before deadly meeting
+    - fatal encounter warning
+  warning_before_battle_is_ignored_or_belittled:
+    group_id: pride_and_downfall
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Ignoring or belittling a battle warning suggests overconfidence before
+      destructive consequence. Caution: If the warning is prophetic or fate-bound,
+      death_by_fate may be a secondary mapping; if no downfall follows, it may be
+      a plot detail.'
+    suggested_aliases:
+    - ignored battle warning
+    - belittled warning before battle
+    - overconfidence before battle
+  warning_before_combat_with_an_exceptional_opponent:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The motif frames combat as an ordeal against an extraordinary opponent,
+      fitting the heroic warfare complex. Caution: Could map to death_by_fate if the
+      warning predicts destined death, or divine_warrior if the opponent has sacred
+      or supernatural status.'
+    suggested_aliases:
+    - warning before facing exceptional opponent
+    - forewarning before heroic duel
+    - warning before extraordinary combatant
+  warning_before_fated_combat:
+    group_id: death_by_fate
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A warning before combat framed as fated fits the destiny-and-death complex
+      around unavoidable warrior death. Caution: If the warning is mainly tactical
+      advice or prophecy rather than fate, sacred_combat or dream_and_vision may be
+      better.'
+    suggested_aliases:
+    - fated combat warning
+    - prophetic warning before battle
+  warning_ignored_before_fatal_encounter:
+    group_id: death_by_fate
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A disregarded warning before a fatal meeting often marks the approach
+      of unavoidable heroic death. Caution: If the warning concerns moral transgression
+      rather than destiny, divine_judgment may be a secondary fit; confirm fatalism
+      in source.'
+    suggested_aliases:
+    - ignored warning before death
+    - fatal encounter warning ignored
+  warning_to_avoid_a_dangerous_hero:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The warning frames encounter with a hero as a combat or ordeal danger.
+      Caution: Could be simple narrative advice unless the hero’s dangerous status
+      is ritually, fatefully, or mythically marked.'
+    suggested_aliases:
+    - avoidance warning about dangerous hero
+    - warning against confronting hero
+  warning_to_the_hero_before_a_scheduled_duel:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A scheduled duel belongs to ritualized heroic combat, with the warning
+      functioning as pre-combat counsel or omen. Caution: If the duel is explicitly
+      doomed or prophesied, death_by_fate may be a secondary mapping.'
+    suggested_aliases:
+    - pre-duel warning to hero
+    - warning before scheduled single combat
+  warnings_sent_to_a_pursued_hero:
+    group_id: hero_journey
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Warnings sent during pursuit fit the hero’s ordeal journey, especially
+      flight, danger, and survival through aid. Caution: Could instead fit sacred_combat
+      if pursuit is a warfare episode, or fatal_message_failure if messages fail or
+      are altered.'
+    suggested_aliases:
+    - pursued hero warned
+    - warning aid during pursuit
+  warrior_as_hound:
+    group_id: divine_warrior
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The hound image marks a warrior identity or ferocity within heroic combat
+      symbolism. Caution: If the passage involves literal animal transformation or
+      name etymology, shapeshifter or textual evidence notes may be needed.'
+    suggested_aliases:
+    - hound-warrior
+    - warrior compared to hound
+    - canine warrior identity
+  warrior_band_destroyed_while_its_leader_survives_wounded:
+    group_id: sacred_combat
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The label describes a specific catastrophic battle outcome within heroic
+      or ritual warfare. Caution: Likely too episode-specific for a canonical motif;
+      preserve details as evidence unless similar war-band destruction patterns recur.'
+    suggested_aliases:
+    - destroyed warrior band with wounded survivor leader
+    - leader survives destruction of war band
+  warrior_band_mourning_an_absent_lord:
+    group_id: lament_and_mourning
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Collective grief for an absent lord fits mourning and loss, especially
+      near existing city_mourns_absent_ruler. Caution: If the passage emphasizes political
+      loyalty or warrior-retinue structure more than grief, royal_legitimacy or sacred_combat
+      may be secondary.'
+    suggested_aliases:
+    - warrior retinue mourns absent ruler
+    - companions mourn absent lord
+  warrior_boast_before_fatal_combat:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A pre-combat boast belongs to heroic combat rhetoric and fatal warrior
+      confrontation. Caution: If the fatality is governed by destiny, death_by_fate
+      may be a secondary mapping; if merely formulaic speech, preserve as evidence
+      detail.'
+    suggested_aliases:
+    - heroic boast before fatal combat
+    - pre-battle warrior boast
+  warrior_boasts_of_distinct_victories_and_wounds:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Boasting of victories and wounds is a heroic-warrior self-presentation
+      within combat culture. Caution: May be too speech-formulaic or episode-specific
+      for pattern queries unless similar boasting recurs.'
+    suggested_aliases:
+    - warrior boasts of battle record
+    - hero boasts of wounds and victories
+  warrior_chooses_loyalty_and_reputation_over_supernatural_safety:
+    group_id: sacrifice
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A warrior surrendering safety for loyalty and reputation fits self-offering
+      or duty-before-life logic. Caution: Could also support divine_warrior, sacred_combat,
+      or death_by_fate if the passage emphasizes battle destiny rather than sacrifice.'
+    suggested_aliases:
+    - warrior chooses honor over safety
+    - loyalty and fame over supernatural protection
+  warrior_code_invoked_by_a_helpless_combatant_and_violated:
+    group_id: sacred_law
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The motif centers on an ethical combat rule and its violation, fitting
+      sacred law and social order. Caution: If divine punishment follows, divine_judgment
+      should be secondary; if the focus is battlefield conduct, sacred_combat may
+      be secondary.'
+    suggested_aliases:
+    - violated warrior code
+    - combat law invoked by helpless warrior
+    - breach of warrior ethics
+  warrior_displays_severed_enemy_head_and_taunts_opponents:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Displaying a severed enemy head and taunting opponents functions as ritualized
+      war display and intimidation. Caution: Could be over-specific if only an episode
+      detail; if head-taking has cultic or trophy significance across sources, a future
+      head-trophy subgroup may be warranted.'
+    suggested_aliases:
+    - severed head trophy display
+    - warrior taunts with enemy head
+    - battlefield trophy taunt
+  warrior_eulogy_through_catalogue_of_qualities_and_possessions:
+    group_id: heroic_funeral_rites
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A warrior eulogy cataloguing virtues and possessions functions as memorialization
+      and heroic honor after loss or death. Caution: If the catalogue is only a poetic
+      praise passage and not tied to death, burial, or commemoration, it may be a
+      literary artifact rather than a motif.'
+    suggested_aliases:
+    - heroic eulogy catalogue
+    - warrior memorial praise
+    - catalogue of heroic qualities and possessions
+  warrior_exhortation_before_crisis:
+    group_id: divine_warrior
+    relationship: role_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Pre-crisis exhortation is a warrior-role speech that prepares combat duty
+      and heroic action. Caution: May be too generic if it is only ordinary battle
+      rhetoric; consider sacred_combat if the crisis is framed as ritualized warfare.'
+    suggested_aliases:
+    - battle exhortation before crisis
+    - warrior encouragement speech
+    - pre-battle exhortation
+  warrior_exhortation_foretelling_blood_and_lamentation:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The exhortation anticipates battle violence and lament, fitting ritualized
+      or heroic warfare as crisis speech. Caution: Could also support lament_and_mourning
+      if the emphasis is tragic foreshadowing rather than combat incitement; preserve
+      blood-and-lament detail as evidence.'
+    suggested_aliases:
+    - battle exhortation with lament prophecy
+    - warrior speech foretelling bloodshed
+    - combat exhortation foreshadowing mourning
+  warrior_identity_challenged_through_surrender_of_weapons:
+    group_id: initiation
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Surrendering weapons tests or transforms warrior identity, fitting an
+      ordeal of status and self-understanding. Caution: If the passage emphasizes
+      renunciation or spiritual teaching over ordeal, mystical_quest or sacred_knowledge
+      may be a better secondary mapping.'
+    suggested_aliases:
+    - weapon surrender as identity test
+    - renunciation of warrior arms
+    - warrior status challenged by disarmament
+  warrior_image_conquering_inner_afflictions:
+    group_id: mystical_quest
+    relationship: symbolic_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The warrior image is metaphorical for interior spiritual struggle and
+      overcoming afflictions on the mystical path. Caution: Do not map to literal
+      sacred combat unless the passage frames actual warfare; preserve martial imagery
+      as metaphor.'
+    suggested_aliases:
+    - inner jihad imagery
+    - spiritual warrior conquering afflictions
+    - martial metaphor for inner discipline
+  warrior_incited_by_patron_to_repay_hospitality_in_battle:
+    group_id: sacred_exchange
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The core function is reciprocal obligation: hospitality creates a debt
+      repaid through battle service. Caution: May also fit sacred_combat if the source
+      emphasizes warfare more than exchange; verify whether hospitality is socially
+      sacred or merely tactical persuasion.'
+    suggested_aliases:
+    - battle service repays hospitality
+    - hospitality debt in combat
+    - patron incites warrior through reciprocity
+  warrior_memorialized_by_raised_stone:
+    group_id: heroic_funeral_rites
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A raised memorial stone for a warrior fits heroic commemoration after
+      death. Caution: If the stone functions primarily as sacred center, boundary
+      marker, or power object, secondary placement may be needed.'
+    suggested_aliases:
+    - warrior memorial stone
+    - raised stone memorial for hero
+    - hero commemorated by standing stone
+  warrior_refuses_to_slay_revered_teacher:
+    group_id: sacred_law
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The refusal centers on ethical conflict between warrior duty and reverence
+      for a teacher within sacred social order. Caution: May also belong with sacred_combat
+      or divine_judgment if the passage emphasizes battlefield obligation or moral
+      reckoning.'
+    suggested_aliases:
+    - conflict between warrior duty and teacher reverence
+    - refusal to kill revered preceptor
+    - ethical restraint in sacred combat
+  warrior_regains_strength_and_fights_alone_against_many:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A renewed warrior standing alone against many fits heroic sacred-combat
+      imagery and warrior prowess. Caution: If strength is restored by explicit divine
+      aid, divine_intervention may be a secondary mapping; if only battle episode
+      detail, avoid over-indexing.'
+    suggested_aliases:
+    - lone warrior against many
+    - restored strength before heroic combat
+    - single champion withstands host
+  warrior_s_destructive_chariot_aristeia:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'An aristeia is a heightened warrior excellence scene, fitting sacred or
+      heroic combat patterns. Caution: The chariot detail is culturally and episode-specific;
+      preserve as evidence rather than a separate canonical motif unless it recurs.'
+    suggested_aliases:
+    - chariot aristeia
+    - destructive warrior rampage
+    - heroic battle excellence
+  warrior_s_vaunting_challenge_to_the_opposing_host:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A formal boast or challenge before battle is a ritualized combat speech
+      act within warfare. Caution: Could be a speech-performance motif if repeated
+      broadly; current evidence is single occurrence and battle-contextual.'
+    suggested_aliases:
+    - warrior boast before battle
+    - vaunting battle challenge
+    - challenge to opposing host
+  warrior_spares_noncombatant_attendant:
+    group_id: sacred_law
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Sparing a noncombatant expresses ethical limits and social rules governing
+      violence. Caution: If framed as personal mercy rather than sacred or customary
+      law, it may be an episode-specific ethical detail.'
+    suggested_aliases:
+    - mercy toward noncombatant
+    - warrior spares attendant
+    - ethical restraint in battle
+  warriors_adorn_themselves_before_battle:
+    group_id: sacred_combat
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Pre-battle adornment frames warfare as ritually or symbolically prepared
+      combat. Caution: Single occurrence; may be an episode detail or heroic display
+      rather than a durable motif if no ritual or sacred function is present.'
+    suggested_aliases:
+    - pre_battle_adornment
+    - warrior_adornment_before_combat
+  weapon_corrupts_ascetic_discipline:
+    group_id: mystical_quest
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A weapon undermining ascetic discipline concerns the failure or testing
+      of spiritual practice. Caution: Could also fit sacred_treasures if the weapon
+      is a power object, or pride_and_downfall if moral decline is central.'
+    suggested_aliases:
+    - martial_power_corrupts_asceticism
+    - weapon_as_spiritual_temptation
+  weapon_fails_against_protected_foe:
+    group_id: sacred_treasures
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The failure of a weapon against a protected foe points to protective power,
+      invulnerability, or a counter-power object/sign. Caution: If protection comes
+      from divine favor rather than an object or mark, divine_intervention may be
+      a better mapping.'
+    suggested_aliases:
+    - weapon_ineffective_against_protection
+    - protected_foe_resists_weapon
+  weapon_inheritance_and_transferred_heroic_prowess:
+    group_id: sacred_treasures
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'An inherited weapon that transmits heroic ability is a power object conferring
+      status and potency. Caution: May also support royal_legitimacy or heroic_funeral_rites
+      if the inheritance marks succession after a hero''s death.'
+    suggested_aliases:
+    - inherited_weapon_transfers_prowess
+    - heroic_weapon_inheritance
+  weapon_resistant_opponent:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A weapon-resistant opponent functions as a heroic combat ordeal or sign
+      of extraordinary battle power. Caution: If resistance derives from a charm,
+      external soul, divine protection, or sacred object, secondary mapping may be
+      needed.'
+    suggested_aliases:
+    - weapon_resistance
+    - invulnerable_opponent_in_combat
+  weapon_substitution_before_combat:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Changing weapons before combat is a tactical or ritualized combat preparation
+      pattern. Caution: Could be a trickster or deception motif if substitution is
+      fraudulent, or sacred_treasures if the substituted weapon has special power.'
+    suggested_aliases:
+    - pre_combat_weapon_exchange
+    - weapon_switch_before_battle
+  weapon_substitution_disables_opponent:
+    group_id: trickster
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Weapon substitution that disables an opponent suggests deception or boundary-crossing
+      strategy rather than ordinary combat alone. Caution: If the substitution is
+      formal or martial rather than deceptive, sacred_combat may be the better primary
+      group.'
+    suggested_aliases:
+    - deceptive_weapon_substitution
+    - weapon_switch_disables_foe
+  weapon_substitution_or_disarmed_warrior:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Disarming or substituting weapons is a combat ordeal detail and fits the
+      broader sacred/heroic combat group. Caution: Single occurrence; may be an episode-specific
+      battle tactic rather than a reusable motif.'
+    suggested_aliases:
+    - disarmed warrior
+    - weapon substitution in combat
+  weaponized_war_chariot_massacre:
+    group_id: sacred_combat
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The label describes an extreme martial episode centered on chariot warfare,
+      fitting heroic or ritualized battle contexts. Caution: Likely too specific for
+      canonical promotion; preserve chariot and massacre details as evidence notes.'
+    suggested_aliases:
+    - chariot massacre
+    - war chariot as weapon
+  wise_warning_rejected_before_ruin:
+    group_id: pride_and_downfall
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Rejecting wise counsel before destruction is a classic downfall pattern
+      driven by failure of humility or discernment. Caution: If the passage emphasizes
+      teaching rather than ruin, sacred_knowledge or divine_judgment may be secondary.'
+    suggested_aliases:
+    - rejected wise warning
+    - ignored counsel before ruin
+    - warning rejected before downfall
+  withheld_sustenance_as_captivity_ordeal:
+    group_id: initiation
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Deprivation during captivity functions as an ordeal that tests endurance
+      and status. Caution: Could be a captivity episode detail without initiatory
+      transformation; review for narrative function.'
+    suggested_aliases:
+    - deprivation in captivity
+    - withholding food as ordeal
+    - captivity deprivation ordeal
+  woman_weaving_the_war_caused_around_her:
+    group_id: storytelling_as_power
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Weaving the surrounding war functions as embedded representation or narrative
+      memory within the story. Caution: If the focus is blame, gender, or war causation
+      rather than narrative depiction, human review may prefer sacred_combat or exclude
+      as episode-specific.'
+    suggested_aliases:
+    - weaving the war
+    - woman weaving surrounding conflict
+    - textile as war narrative
 normalization_suggestion_acceptance:
   updated_on: '2026-04-29'
   latest_run_id: normalization-suggestions-2026-04-29-full-gap-priority
@@ -44875,6 +46839,6 @@ normalization_suggestion_acceptance:
   latest_suggestions_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
   latest_review_data_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
   latest_report_path: docs/motif-normalization-auto-accept-review.md
-  latest_suggestion_count: 4320
-  latest_auto_accepted_count: 142
-  latest_review_needed_count: 4178
+  latest_suggestion_count: 4520
+  latest_auto_accepted_count: 139
+  latest_review_needed_count: 4381

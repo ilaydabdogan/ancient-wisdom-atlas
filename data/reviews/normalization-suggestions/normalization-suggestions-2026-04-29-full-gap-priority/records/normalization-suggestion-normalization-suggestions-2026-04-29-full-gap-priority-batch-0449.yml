@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0449
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.warning-before-fated-combat
+  motif_id: warning_before_fated_combat
+  label: warning before fated combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warning before combat framed as fated fits the destiny-and-death complex
+    around unavoidable warrior death.
+  cautions: If the warning is mainly tactical advice or prophecy rather than fate,
+    sacred_combat or dream_and_vision may be better.
+  suggested_aliases:
+  - fated combat warning
+  - prophetic warning before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-despite-command-to-be-silent
+  motif_id: warning_despite_command_to_be_silent
+  label: warning despite command to be silent
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe loyal warning, forbidden speech, disobedience,
+    prophecy, or plot mechanics.
+  cautions: Single occurrence and source context is needed; do not map to sacred_knowledge
+    or combat solely from the word warning.
+  suggested_aliases:
+  - forbidden warning
+  - warning in defiance of silence command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-ignored-before-disappearance
+  motif_id: warning_ignored_before_disappearance
+  label: warning ignored before disappearance
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Ignored warning followed by disappearance may involve taboo violation,
+    abduction, death, transformation, or local sacred geography.
+  cautions: Culturally sensitive and ambiguous; passage evidence is needed before
+    placement under otherworld, death, or divine judgment.
+  suggested_aliases:
+  - ignored warning before vanishing
+  - taboo warning ignored before disappearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-ignored-before-fatal-encounter
+  motif_id: warning_ignored_before_fatal_encounter
+  label: warning ignored before fatal encounter
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A disregarded warning before a fatal meeting often marks the approach
+    of unavoidable heroic death.
+  cautions: If the warning concerns moral transgression rather than destiny, divine_judgment
+    may be a secondary fit; confirm fatalism in source.
+  suggested_aliases:
+  - ignored warning before death
+  - fatal encounter warning ignored
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-message-corrupted-in-transit
+  motif_id: warning_message_corrupted_in_transit
+  label: warning message corrupted in transit
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a communication-failure motif that may drive tragedy, combat,
+    or fate, but no current group cleanly captures it.
+  cautions: May be an episode-specific plot device rather than a durable mythic motif;
+    review before creating a speech/message group.
+  suggested_aliases:
+  - corrupted warning message
+  - failed transmission of warning
+  suggested_new_group:
+    id: fatal_message_failure
+    label: Fatal Message Failure
+    description: Warnings, commands, or vital messages are delayed, altered, suppressed,
+      or misunderstood, causing danger, death, conflict, or irreversible loss.
+    parent_group_ids:
+    - storytelling_as_power
+    - death_by_fate
+    related_group_ids:
+    - sacred_combat
+    - dream_and_vision
+    reason_existing_groups_insufficient: Existing groups cover sacred speech, fate,
+      and combat outcomes but not the narrative function of a failed warning or corrupted
+      message.
+- suggestion_id: normalization.suggestion.warning-to-avoid-a-dangerous-hero
+  motif_id: warning_to_avoid_a_dangerous_hero
+  label: warning to avoid a dangerous hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The warning frames encounter with a hero as a combat or ordeal danger.
+  cautions: Could be simple narrative advice unless the hero’s dangerous status is
+    ritually, fatefully, or mythically marked.
+  suggested_aliases:
+  - avoidance warning about dangerous hero
+  - warning against confronting hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-to-the-hero-before-a-scheduled-duel
+  motif_id: warning_to_the_hero_before_a_scheduled_duel
+  label: Warning to the hero before a scheduled duel
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A scheduled duel belongs to ritualized heroic combat, with the warning
+    functioning as pre-combat counsel or omen.
+  cautions: If the duel is explicitly doomed or prophesied, death_by_fate may be a
+    secondary mapping.
+  suggested_aliases:
+  - pre-duel warning to hero
+  - warning before scheduled single combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warnings-sent-to-a-pursued-hero
+  motif_id: warnings_sent_to_a_pursued_hero
+  label: warnings sent to a pursued hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Warnings sent during pursuit fit the hero’s ordeal journey, especially
+    flight, danger, and survival through aid.
+  cautions: Could instead fit sacred_combat if pursuit is a warfare episode, or fatal_message_failure
+    if messages fail or are altered.
+  suggested_aliases:
+  - pursued hero warned
+  - warning aid during pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-as-hound
+  motif_id: warrior_as_hound
+  label: warrior as hound
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The hound image marks a warrior identity or ferocity within heroic combat
+    symbolism.
+  cautions: If the passage involves literal animal transformation or name etymology,
+    shapeshifter or textual evidence notes may be needed.
+  suggested_aliases:
+  - hound-warrior
+  - warrior compared to hound
+  - canine warrior identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-band-destroyed-while-its-leader-survives-wounded
+  motif_id: warrior_band_destroyed_while_its_leader_survives_wounded
+  label: warrior band destroyed while its leader survives wounded
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a specific catastrophic battle outcome within heroic
+    or ritual warfare.
+  cautions: Likely too episode-specific for a canonical motif; preserve details as
+    evidence unless similar war-band destruction patterns recur.
+  suggested_aliases:
+  - destroyed warrior band with wounded survivor leader
+  - leader survives destruction of war band
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels revolve around warnings before combat or danger; consider whether
+  a future 'omens and warnings' or 'fatal message failure' group is warranted if these
+  recur across batches.
+- Single-occurrence warning labels should be reviewed against passage evidence to
+  distinguish prophecy, tactical advice, taboo warning, and episode-specific plot
+  mechanics.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; warning motifs are semantically close but functionally
+    diverse.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0449
+  input_sha256: a99b7560cb25bd50b3aae59092e639197f4b4f762678f4f3b8b1c952fa1f26dc

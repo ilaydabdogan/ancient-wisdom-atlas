@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0451
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.warrior-drawn-into-combat-by-gifts-and-an-alluring-woman
+  motif_id: warrior_drawn_into_combat_by_gifts_and_an_alluring_woman
+  label: warrior drawn into combat by gifts and an alluring woman
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns inducement into battle and may fit warrior combat
+    obligation, but gifts and an alluring woman make the function context-dependent.
+  cautions: Single occurrence and potentially episode-specific; could be heroic manipulation,
+    hospitality exchange, erotic lure, or combat catalyst rather than a durable motif.
+  suggested_aliases:
+  - combat inducement by gifts
+  - warrior lured into battle
+  - alluring woman as battle catalyst
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-eulogy-through-catalogue-of-qualities-and-possessions
+  motif_id: warrior_eulogy_through_catalogue_of_qualities_and_possessions
+  label: warrior eulogy through catalogue of qualities and possessions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warrior eulogy cataloguing virtues and possessions functions as memorialization
+    and heroic honor after loss or death.
+  cautions: If the catalogue is only a poetic praise passage and not tied to death,
+    burial, or commemoration, it may be a literary artifact rather than a motif.
+  suggested_aliases:
+  - heroic eulogy catalogue
+  - warrior memorial praise
+  - catalogue of heroic qualities and possessions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-exhortation-before-crisis
+  motif_id: warrior_exhortation_before_crisis
+  label: warrior exhortation before crisis
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Pre-crisis exhortation is a warrior-role speech that prepares combat
+    duty and heroic action.
+  cautions: May be too generic if it is only ordinary battle rhetoric; consider sacred_combat
+    if the crisis is framed as ritualized warfare.
+  suggested_aliases:
+  - battle exhortation before crisis
+  - warrior encouragement speech
+  - pre-battle exhortation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-exhortation-foretelling-blood-and-lamentation
+  motif_id: warrior_exhortation_foretelling_blood_and_lamentation
+  label: warrior exhortation foretelling blood and lamentation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The exhortation anticipates battle violence and lament, fitting ritualized
+    or heroic warfare as crisis speech.
+  cautions: Could also support lament_and_mourning if the emphasis is tragic foreshadowing
+    rather than combat incitement; preserve blood-and-lament detail as evidence.
+  suggested_aliases:
+  - battle exhortation with lament prophecy
+  - warrior speech foretelling bloodshed
+  - combat exhortation foreshadowing mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-fasting-for-vengeance
+  motif_id: warrior_fasting_for_vengeance
+  label: Warrior fasting for vengeance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: low
+  rationale: Fasting as self-denial before vengeance can function as sacrificial discipline
+    or vow-like offering linked to violent redress.
+  cautions: Needs source context; could be mourning, oath, ritual impurity, ascetic
+    discipline, or episode-specific refusal rather than sacrifice.
+  suggested_aliases:
+  - vengeance fast
+  - fasting vow for revenge
+  - warrior abstinence before vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-fury-manifesting-as-supernatural-heat
+  motif_id: warrior_fury_manifesting_as_supernatural_heat
+  label: warrior fury manifesting as supernatural heat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Warrior Frenzy and Supernatural Battle Fury
+  relationship: child
+  confidence: medium
+  rationale: Supernatural heat from battle fury is a recurrent heroic-warrior transformation
+    pattern not captured well by divine_warrior alone.
+  cautions: Do not collapse into sacred_fire unless fire or divine light is central;
+    verify recurrence before adding a group.
+  suggested_aliases:
+  - battle fury as heat
+  - supernatural warrior heat
+  - heroic frenzy heat
+  - berserk battle heat
+  suggested_new_group:
+    id: warrior_frenzy
+    label: Warrior Frenzy and Supernatural Battle Fury
+    description: A warrior's battle rage, frenzy, or altered combat state manifests
+      through supernatural bodily signs such as heat, distortion, radiance, terrifying
+      force, or loss of ordinary identity.
+    parent_group_ids:
+    - divine_warrior
+    - sacred_combat
+    related_group_ids:
+    - shapeshifter
+    - sacred_fire
+    - initiation
+    reason_existing_groups_insufficient: Existing combat groups cover warrior roles
+      and battles but not the distinctive bodily transformation or altered-state fury
+      of the warrior.
+- suggestion_id: normalization.suggestion.warrior-identity-challenged-through-surrender-of-weapons
+  motif_id: warrior_identity_challenged_through_surrender_of_weapons
+  label: warrior identity challenged through surrender of weapons
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Surrendering weapons tests or transforms warrior identity, fitting an
+    ordeal of status and self-understanding.
+  cautions: If the passage emphasizes renunciation or spiritual teaching over ordeal,
+    mystical_quest or sacred_knowledge may be a better secondary mapping.
+  suggested_aliases:
+  - weapon surrender as identity test
+  - renunciation of warrior arms
+  - warrior status challenged by disarmament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-identity-expressed-through-preference-for-battle-sound
+  motif_id: warrior_identity_expressed_through_preference_for_battle_sound
+  label: Warrior identity expressed through preference for battle-sound
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label expresses warrior identity through sensory affinity for battle,
+    but may be a poetic characterization rather than a motif.
+  cautions: Single occurrence and highly specific; exclude or preserve as evidence
+    detail if it does not recur as a narrative pattern.
+  suggested_aliases:
+  - love of battle sound
+  - warrior affinity for battle noise
+  - battle sound as warrior identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-image-conquering-inner-afflictions
+  motif_id: warrior_image_conquering_inner_afflictions
+  label: warrior image conquering inner afflictions
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The warrior image is metaphorical for interior spiritual struggle and
+    overcoming afflictions on the mystical path.
+  cautions: Do not map to literal sacred combat unless the passage frames actual warfare;
+    preserve martial imagery as metaphor.
+  suggested_aliases:
+  - inner jihad imagery
+  - spiritual warrior conquering afflictions
+  - martial metaphor for inner discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-incited-by-patron-to-repay-hospitality-in-battle
+  motif_id: warrior_incited_by_patron_to_repay_hospitality_in_battle
+  label: warrior incited by patron to repay hospitality in battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The core function is reciprocal obligation: hospitality creates a debt
+    repaid through battle service.'
+  cautions: May also fit sacred_combat if the source emphasizes warfare more than
+    exchange; verify whether hospitality is socially sacred or merely tactical persuasion.
+  suggested_aliases:
+  - battle service repays hospitality
+  - hospitality debt in combat
+  - patron incites warrior through reciprocity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence Celtic or Greek heroic-combat details; treat
+  as provisional evidence notes unless recurrence across sources is confirmed.
+- Warrior speech and identity labels may be literary characterization rather than
+  motif-level patterns.
+- Avoid treating martial imagery in Sufi material as literal combat when the passage
+  indicates inner discipline or mystical struggle.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for taxonomy review; warrior-frenzy
+    candidate may merit a new group if supported by additional labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0451
+  input_sha256: cfbbf829be01585bbef118750238f033b84e79f4733cfb8e4e303211f40b8312

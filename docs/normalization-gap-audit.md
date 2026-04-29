@@ -7,8 +7,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 ## Summary
 
 - Indexed motif IDs: 9072
-- Already mapped: 3097
-- Unmapped: 5975
+- Already mapped: 3236
+- Unmapped: 5836
 
 | Review Bucket | Unmapped Motifs |
 | --- | ---: |
@@ -20,7 +20,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | Love, Family, Gender, Birth, And The Body | 624 |
 | Animals, Trickster, Disguise, And Transformation | 430 |
 | Nature, Elements, Celestial Order, And Cosmos | 638 |
-| Conflict, Violence, Heroic Ordeal, And Victory | 507 |
+| Conflict, Violence, Heroic Ordeal, And Victory | 368 |
 | Objects, Places, Boundaries, And Thresholds | 249 |
 | Ethics, Psychology, Discipline, And Inner Life | 173 |
 | Needs Human Sorting | 884 |
@@ -4513,206 +4513,67 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `servant_urges_wounded_hero_to_resume_action` | Servant urges wounded hero to resume action | 1 | celtic_irish |
 | `silenced_victim_gives_nonverbal_testimony` | silenced victim gives nonverbal testimony | 1 | roman |
 | `single_vulnerable_body_part_of_otherwise_protected_hero` | single vulnerable body part of otherwise protected hero | 1 | roman |
-| `single_warrior_as_army_like_threat` | single warrior as army-like threat | 1 | celtic_irish |
-| `single_warrior_blocks_an_army_at_a_ford` | single warrior blocks an army at a ford | 1 | celtic_irish |
-| `single_warrior_defeats_multiple_armed_chiefs` | single warrior defeats multiple armed chiefs | 1 | hindu |
-| `single_warrior_halts_or_redirects_an_armed_group` | single warrior halts or redirects an armed group | 1 | celtic_irish |
-| `single_warrior_holding_a_ford` | single warrior holding a ford | 1 | celtic_irish |
-| `single_warrior_holds_back_a_host` | single warrior holds back a host | 1 | celtic_irish |
 | `slain_heroic_brothers_as_protectors_of_friends` | slain heroic brothers as protectors of friends | 1 | celtic_irish |
-| `sleeping_champion_awakens_for_war` | sleeping champion awakens for war | 1 | hindu |
 | `sleeping_drunk_killed_without_awareness` | Sleeping drunk killed without awareness | 1 | roman |
-| `small_war_band_inflicts_disproportionate_losses_before_annihilation` | small war-band inflicts disproportionate losses before annihilation | 1 | celtic_irish |
-| `smith_s_crafted_revenge` | smith's crafted revenge | 1 | norse |
 | `solar_allegory_of_a_hero_s_exploit` | solar allegory of a hero's exploit | 1 | hindu |
-| `solar_hero_marked_by_radiance_and_golden_armour` | solar hero marked by radiance and golden armour | 1 | hindu |
-| `solar_invocation_grants_victory_and_protection` | solar invocation grants victory and protection | 1 | hindu |
 | `solar_zodiacal_interpretation_of_a_hero_s_labors` | solar-zodiacal interpretation of a hero's labors | 1 | roman |
-| `spared_defeated_enemy_shamed_rather_than_killed` | spared defeated enemy shamed rather than killed | 1 | hindu |
-| `special_opponent_overcome_by_matching_feat_or_weapon` | special opponent overcome by matching feat or weapon | 1 | celtic_irish |
-| `specialized_secret_or_exceptional_weapon_decides_combat` | Specialized secret or exceptional weapon decides combat | 1 | celtic_irish |
-| `spoils_accumulated_after_ordeal_combats` | spoils accumulated after ordeal combats | 1 | celtic_welsh |
-| `spoils_and_doomed_transfer_of_heroic_arms` | Spoils and doomed transfer of heroic arms | 1 | greek |
-| `spoken_praise_restores_or_increases_hero_s_courage` | spoken praise restores or increases hero's courage | 1 | celtic_irish |
 | `steadfast_remembrance_before_battle` | steadfast remembrance before battle | 1 | islamic |
-| `strategic_destruction_to_provoke_battle` | strategic destruction to provoke battle | 1 | hindu |
-| `strength_enhancing_belt_used_in_trial` | strength-enhancing belt used in trial | 1 | norse |
-| `stripping_arms_or_spoils_from_the_fallen_enemy` | stripping arms or spoils from the fallen enemy | 1 | greek |
 | `structured_eighteen_day_war` | structured eighteen-day war | 1 | hindu |
-| `struggle_over_the_slain_body_and_spoils` | struggle over the slain body and spoils | 1 | greek |
-| `subduing_the_inner_monster` | subduing the inner monster | 1 | greek |
 | `submerged_weapon_image` | submerged weapon image | 1 | celtic_irish |
-| `substitute_warrior_in_another_hero_s_armor` | substitute warrior in another hero's armor | 1 | greek |
-| `substitute_warrior_in_borrowed_armor` | substitute warrior in borrowed armor | 1 | greek |
-| `substitute_warrior_wears_hero_s_armor` | Substitute warrior wears hero's armor | 1 | greek_roman |
-| `substitution_by_wearing_another_hero_s_armor` | substitution by wearing another hero's armor | 1 | greek |
 | `suffering_of_the_poor_rising_upward_as_destructive_force` | suffering of the poor rising upward as destructive force | 1 | persian |
-| `summoning_aid_through_sorrowful_warrior_music` | summoning aid through sorrowful warrior music | 1 | celtic_irish |
-| `summoning_of_a_warrior_host_after_warning` | summoning of a warrior host after warning | 1 | celtic_irish |
-| `summoning_warriors_by_three_great_shouts` | summoning warriors by three great shouts | 1 | celtic_irish |
-| `supernatural_amplification_of_heroic_dread` | supernatural amplification of heroic dread | 1 | celtic_irish |
-| `supernatural_battle_assistance_through_conjured_army_and_mist` | Supernatural battle assistance through conjured army and mist | 1 | celtic_irish |
-| `supernatural_beings_amplify_a_hero_s_battle_terror` | supernatural beings amplify a hero's battle-terror | 1 | celtic_irish |
-| `supernatural_beings_manifesting_in_combat` | supernatural beings manifesting in combat | 1 | celtic_irish |
-| `supernatural_cattle_event_initiating_a_heroic_conflict` | supernatural cattle event initiating a heroic conflict | 1 | celtic_irish |
-| `supernatural_cries_from_warriors_weapons` | supernatural cries from warriors' weapons | 1 | celtic_irish |
-| `supernatural_female_lament_for_a_hero` | Supernatural female lament for a hero | 1 | celtic_irish |
-| `supernatural_helper_sustains_solitary_hero_against_overwhelming_host` | supernatural helper sustains solitary hero against overwhelming host | 1 | celtic_irish |
-| `supernatural_hindrance_at_a_ford_during_heroic_combat` | Supernatural hindrance at a ford during heroic combat | 1 | celtic_irish |
-| `supernatural_hindrance_of_a_hero_in_single_combat` | Supernatural hindrance of a hero in single combat | 1 | celtic_irish |
-| `supernatural_obstruction_in_battle` | supernatural obstruction in battle | 1 | celtic_irish |
-| `supernatural_scale_sign_accompanies_heroic_deed` | Supernatural-scale sign accompanies heroic deed | 1 | hindu |
-| `supernatural_smiths_make_magic_weapons` | Supernatural smiths make magic weapons | 1 | norse |
-| `supernatural_unseen_helpers_in_battle` | supernatural unseen helpers in battle | 1 | celtic_irish |
-| `supernatural_war_terror_surrounding_the_hero` | Supernatural war-terror surrounding the hero | 1 | celtic_irish |
-| `supernatural_weapon_expanding_to_immense_size` | Supernatural weapon expanding to immense size | 1 | celtic_irish |
-| `supernatural_weapon_overcomes_invulnerable_armor` | Supernatural weapon overcomes invulnerable armor | 1 | hindu |
-| `supernatural_weapon_that_cannot_be_discharged_in_vain` | Supernatural weapon that cannot be discharged in vain | 1 | hindu |
-| `supernatural_woman_brings_an_extraordinary_battle_object_to_a_hero` | Supernatural woman brings an extraordinary battle object to a hero | 1 | celtic_irish |
 | `supernatural_women_cause_heroic_sickness` | supernatural women cause heroic sickness | 1 | celtic_irish |
-| `supernaturally_made_or_consecrated_weapon` | supernaturally made or consecrated weapon | 1 | finnish_karelian |
 | `supplication_softening_the_enemy` | Supplication softening the enemy | 1 | greek |
-| `survivor_of_combat_left_permanently_maimed` | Survivor of combat left permanently maimed | 1 | celtic_irish |
-| `taunt_that_rouses_a_warrior` | taunt that rouses a warrior | 1 | hindu |
-| `temporary_healing_against_fatal_wounds` | temporary healing against fatal wounds | 1 | celtic_irish |
-| `temptation_toward_idolatry_after_deliverance` | temptation toward idolatry after deliverance | 1 | islamic |
 | `tension_between_warrior_duty_and_ascetic_forest_rule` | tension between warrior duty and ascetic forest rule | 1 | hindu |
-| `terrifying_roar_as_weapon_of_battle` | terrifying roar as weapon of battle | 1 | hindu |
-| `terrifying_warrior_whose_approach_scatters_an_army` | terrifying warrior whose approach scatters an army | 1 | hindu |
-| `test_of_divinity_through_impious_meal` | test of divinity through impious meal | 1 | greek_roman |
-| `testing_and_choosing_the_tireless_steed` | testing and choosing the tireless steed | 1 | norse |
-| `testing_loyalty_under_concealment` | testing loyalty under concealment | 1 | greek |
 | `testing_or_recognizing_true_religious_identity_in_conflict` | Testing or recognizing true religious identity in conflict | 1 | islamic |
 | `testing_promised_benefactors_after_gaining_power` | Testing promised benefactors after gaining power | 1 | buddhist |
-| `testing_promises_after_rescue` | testing promises after rescue | 1 | buddhist |
-| `third_victory_grants_lasting_title_and_possession` | Third victory grants lasting title and possession | 1 | celtic_welsh |
-| `three_day_combat_ordeal_or_assault` | three-day combat ordeal or assault | 1 | celtic_irish |
-| `threshold_enlarged_for_an_exceptional_hero` | Threshold enlarged for an exceptional hero | 1 | finnish_karelian |
-| `thunder_deity_with_fiery_weapon_and_chariot` | thunder deity with fiery weapon and chariot | 1 | norse |
 | `token_or_reward_associated_with_entering_combat` | token or reward associated with entering combat | 1 | celtic_irish |
-| `tokens_of_a_rival_s_power_shown_before_combat` | tokens of a rival’s power shown before combat | 1 | hindu |
 | `toponymic_naming_from_heroic_events` | toponymic naming from heroic events | 1 | celtic_irish |
 | `tower_survey_of_enemy_champions` | Tower survey of enemy champions | 1 | greek |
-| `transfer_of_hero_s_weapons_to_companion` | transfer of hero's weapons to companion | 1 | greek_roman |
 | `treacherous_abandonment_leading_to_vengeance` | treacherous abandonment leading to vengeance | 1 | greek |
 | `treacherous_host_murders_protected_guest_for_treasure` | treacherous host murders protected guest for treasure | 1 | greek |
 | `treacherous_plea_rejected_by_captor` | treacherous plea rejected by captor | 1 | greek |
 | `triadic_catalogue_of_warrior_groups` | triadic catalogue of warrior groups | 1 | celtic_irish |
-| `triadic_warrior_brothers_with_matching_equipment` | triadic warrior brothers with matching equipment | 1 | celtic_irish |
 | `triadic_warrior_praise` | triadic warrior praise | 1 | celtic_irish |
-| `trial_by_retrieval_from_the_enemy` | trial by retrieval from the enemy | 1 | roman |
-| `trial_of_newcomers_for_sincere_faith` | trial of newcomers for sincere faith | 1 | islamic |
-| `trial_through_material_attachments` | trial through material attachments | 1 | islamic |
-| `triumph_followed_by_sudden_downfall` | triumph followed by sudden downfall | 1 | greek |
-| `ultimatum_between_restitution_and_war` | ultimatum between restitution and war | 1 | hindu |
 | `unarmed_bodily_force_overcomes_armed_mounted_warrior` | unarmed bodily force overcomes armed mounted warrior | 1 | hindu |
-| `unarmed_hero_defeats_an_armed_challenger` | Unarmed hero defeats an armed challenger | 1 | celtic_irish |
 | `uncanny_battle_immunity_through_appearance` | uncanny battle immunity through appearance | 1 | celtic_welsh |
 | `uncurable_wound_with_heart_displaced` | uncurable wound with heart displaced | 1 | celtic_irish |
-| `unequal_group_attack_answered_by_heroic_slaughter` | unequal group attack answered by heroic slaughter | 1 | celtic_irish |
-| `unfair_or_morally_burdened_victory` | unfair or morally burdened victory | 1 | celtic_irish |
-| `unfair_or_preemptive_killing_in_a_duel_criticized_by_another_warrior` | Unfair or preemptive killing in a duel criticized by another warrior | 1 | celtic_irish |
-| `unique_or_privileged_weapon_of_the_hero` | unique or privileged weapon of the hero | 1 | celtic_irish |
-| `unique_weapon_needed_to_slay_a_giant` | unique weapon needed to slay a giant | 1 | celtic_welsh |
-| `universal_charity_toward_all_creatures` | Universal charity toward all creatures | 1 | sufi |
-| `unwounded_hero_after_mass_slaughter` | unwounded hero after mass slaughter | 1 | celtic_irish |
 | `valuable_object_induces_betrayal_and_begins_a_revenge_cycle` | valuable object induces betrayal and begins a revenge cycle | 1 | roman |
 | `variant_chronology_of_heroic_combat_tradition` | variant chronology of heroic combat tradition | 1 | celtic_irish |
 | `variant_defeat_of_a_hero_and_transfer_of_land` | Variant defeat of a hero and transfer of land | 1 | celtic_irish |
 | `variant_manuscript_alignment_of_a_hero` | variant manuscript alignment of a hero | 1 | celtic_irish |
 | `variant_rationalization_of_monster_as_human` | variant rationalization of monster as human | 1 | roman |
-| `vengeance_by_burning_the_enemy_hall` | Vengeance by burning the enemy hall | 1 | norse |
-| `vengeance_for_a_slain_predecessor_in_battle` | vengeance for a slain predecessor in battle | 1 | celtic_irish |
-| `vengeance_preparation_with_war_chariot` | vengeance preparation with war chariot | 1 | celtic_irish |
 | `vengeful_destruction_of_an_enemy_people` | vengeful destruction of an enemy people | 1 | finnish_karelian |
 | `verbal_defeat_turning_into_violence` | Verbal defeat turning into violence | 1 | persian |
-| `verbal_provocation_to_awaken_battle_fury` | verbal provocation to awaken battle fury | 1 | celtic_irish |
-| `victorious_hero_overthrows_hostile_knights` | victorious hero overthrows hostile knights | 1 | celtic_welsh |
 | `victorious_hero_spares_defeated_female_opponent` | victorious hero spares defeated female opponent | 1 | hindu |
-| `victory_confirmed_by_celestial_signs` | victory confirmed by celestial signs | 1 | hindu |
-| `victory_followed_by_homage_and_vassalage` | Victory followed by homage and vassalage | 1 | celtic_welsh |
 | `victory_followed_by_unresolved_disaster` | Victory followed by unresolved disaster | 1 | japanese |
-| `victory_memorial_through_dedicated_arms` | Victory memorial through dedicated arms | 1 | roman |
-| `victory_proclamation_to_cosmic_and_territorial_features` | victory proclamation to cosmic and territorial features | 1 | celtic_irish |
 | `victory_recorded_on_a_warrior_s_shield` | victory recorded on a warrior's shield | 1 | greek_roman |
-| `violation_of_hospitality_toward_a_poor_stranger` | Violation of hospitality toward a poor stranger | 1 | greek |
 | `violence_against_a_pregnant_or_unborn_lineage` | Violence against a pregnant or unborn lineage | 1 | celtic_irish |
-| `virtuous_elder_rewarded_after_miraculous_act` | Virtuous elder rewarded after miraculous act | 1 | japanese |
-| `volunteer_champion_precedes_commander_in_combat` | volunteer champion precedes commander in combat | 1 | hindu |
-| `war_brought_by_a_woman_s_transfer` | war brought by a woman’s transfer | 1 | celtic_irish |
-| `war_camp_storytelling_of_heroic_feats` | War-camp storytelling of heroic feats | 1 | celtic_irish |
 | `war_contagion_through_collective_outcry` | War contagion through collective outcry | 1 | roman |
 | `war_council_contest_between_eloquence_and_action` | war-council contest between eloquence and action | 1 | roman |
-| `war_engine_defeated_by_hidden_pitfall` | war engine defeated by hidden pitfall | 1 | celtic_irish |
 | `war_following_contention` | war following contention | 1 | greek_roman |
-| `war_leader_boasts_of_devastation_and_refuses_retreat` | War leader boasts of devastation and refuses retreat | 1 | celtic_irish |
-| `war_leader_in_a_radiant_chariot` | war leader in a radiant chariot | 1 | hindu |
-| `war_prize_carried_off_from_enemy_territory` | war prize carried off from enemy territory | 1 | celtic_irish |
-| `warning_against_arrogant_suitors` | warning against arrogant suitors | 1 | greek |
-| `warning_before_a_fated_combat` | warning before a fated combat | 1 | celtic_irish |
-| `warning_before_a_likely_fatal_encounter` | warning before a likely fatal encounter | 1 | celtic_irish |
-| `warning_before_battle_is_ignored_or_belittled` | warning before battle is ignored or belittled | 1 | celtic_irish |
-| `warning_before_combat_with_an_exceptional_opponent` | warning before combat with an exceptional opponent | 1 | celtic_irish |
-| `warning_before_fated_combat` | warning before fated combat | 1 | celtic_irish |
 | `warning_despite_command_to_be_silent` | warning despite command to be silent | 1 | celtic_welsh |
 | `warning_ignored_before_disappearance` | warning ignored before disappearance | 1 | indigenous_australian |
-| `warning_ignored_before_fatal_encounter` | warning ignored before fatal encounter | 1 | celtic_irish |
 | `warning_message_corrupted_in_transit` | warning message corrupted in transit | 1 | norse |
-| `warning_to_avoid_a_dangerous_hero` | warning to avoid a dangerous hero | 1 | greek |
-| `warning_to_the_hero_before_a_scheduled_duel` | Warning to the hero before a scheduled duel | 1 | celtic_irish |
-| `warnings_sent_to_a_pursued_hero` | warnings sent to a pursued hero | 1 | celtic_irish |
-| `warrior_as_hound` | warrior as hound | 1 | celtic_irish |
-| `warrior_band_destroyed_while_its_leader_survives_wounded` | warrior band destroyed while its leader survives wounded | 1 | celtic_irish |
-| `warrior_band_mourning_an_absent_lord` | warrior band mourning an absent lord | 1 | celtic_irish |
 | `warrior_band_rejects_an_unfit_companion` | Warrior band rejects an unfit companion | 1 | celtic_irish |
-| `warrior_boast_before_fatal_combat` | warrior boast before fatal combat | 1 | hindu |
-| `warrior_boasts_of_distinct_victories_and_wounds` | warrior boasts of distinct victories and wounds | 1 | celtic_irish |
 | `warrior_characterized_through_weapons_clothing_and_bodily_appearance` | warrior characterized through weapons, clothing, and bodily appearance | 1 | celtic_irish |
-| `warrior_chooses_loyalty_and_reputation_over_supernatural_safety` | Warrior chooses loyalty and reputation over supernatural safety | 1 | celtic_irish |
-| `warrior_code_invoked_by_a_helpless_combatant_and_violated` | Warrior code invoked by a helpless combatant and violated | 1 | hindu |
 | `warrior_compared_to_a_boar_at_bay` | warrior compared to a boar at bay | 1 | greek |
 | `warrior_disables_chariot_before_killing_enemy` | warrior disables chariot before killing enemy | 1 | hindu |
-| `warrior_displays_severed_enemy_head_and_taunts_opponents` | Warrior displays severed enemy head and taunts opponents | 1 | greek |
 | `warrior_drawn_into_combat_by_gifts_and_an_alluring_woman` | warrior drawn into combat by gifts and an alluring woman | 1 | celtic_irish |
-| `warrior_eulogy_through_catalogue_of_qualities_and_possessions` | warrior eulogy through catalogue of qualities and possessions | 1 | celtic_irish |
-| `warrior_exhortation_before_crisis` | warrior exhortation before crisis | 1 | greek |
-| `warrior_exhortation_foretelling_blood_and_lamentation` | warrior exhortation foretelling blood and lamentation | 1 | celtic_irish |
 | `warrior_fasting_for_vengeance` | Warrior fasting for vengeance | 1 | greek |
 | `warrior_fury_manifesting_as_supernatural_heat` | warrior fury manifesting as supernatural heat | 1 | celtic_irish |
-| `warrior_identity_challenged_through_surrender_of_weapons` | warrior identity challenged through surrender of weapons | 1 | hindu |
 | `warrior_identity_expressed_through_preference_for_battle_sound` | Warrior identity expressed through preference for battle-sound | 1 | celtic_irish |
-| `warrior_image_conquering_inner_afflictions` | warrior image conquering inner afflictions | 1 | sufi |
-| `warrior_incited_by_patron_to_repay_hospitality_in_battle` | warrior incited by patron to repay hospitality in battle | 1 | celtic_irish |
 | `warrior_killed_by_thrown_stone_and_finishing_thrust` | warrior killed by thrown stone and finishing thrust | 1 | greek |
-| `warrior_memorialized_by_raised_stone` | warrior memorialized by raised stone | 1 | celtic_irish |
 | `warrior_neglects_public_duties_through_private_attachment` | warrior neglects public duties through private attachment | 1 | celtic_welsh |
-| `warrior_refuses_to_slay_revered_teacher` | Warrior refuses to slay revered teacher | 1 | hindu |
-| `warrior_regains_strength_and_fights_alone_against_many` | Warrior regains strength and fights alone against many | 1 | celtic_irish |
-| `warrior_s_destructive_chariot_aristeia` | warrior's destructive chariot aristeia | 1 | roman |
 | `warrior_s_fame_through_repeated_contests` | warrior's fame through repeated contests | 1 | celtic_welsh |
-| `warrior_s_vaunting_challenge_to_the_opposing_host` | Warrior’s vaunting challenge to the opposing host | 1 | hindu |
-| `warrior_spares_noncombatant_attendant` | warrior spares noncombatant attendant | 1 | celtic_irish |
 | `warrior_surrounded_and_killed_by_massed_spears` | Warrior surrounded and killed by massed spears | 1 | celtic_irish |
-| `warriors_adorn_themselves_before_battle` | Warriors adorn themselves before battle | 1 | celtic_irish |
 | `warriors_identified_by_standards_mounts_and_chariots` | Warriors identified by standards, mounts, and chariots | 1 | hindu |
 | `weak_victim_s_kin_gathers_helpers_against_a_stronger_cunning_enemy` | Weak victim's kin gathers helpers against a stronger cunning enemy | 1 | japanese |
-| `weapon_corrupts_ascetic_discipline` | weapon corrupts ascetic discipline | 1 | hindu |
-| `weapon_fails_against_protected_foe` | weapon fails against protected foe | 1 | greek |
-| `weapon_inheritance_and_transferred_heroic_prowess` | weapon inheritance and transferred heroic prowess | 1 | greek |
 | `weapon_recovered_from_the_slain_body` | weapon recovered from the slain body | 1 | celtic_irish |
-| `weapon_resistant_opponent` | weapon-resistant opponent | 1 | celtic_irish |
-| `weapon_substitution_before_combat` | weapon substitution before combat | 1 | celtic_irish |
-| `weapon_substitution_disables_opponent` | weapon substitution disables opponent | 1 | japanese |
-| `weapon_substitution_or_disarmed_warrior` | weapon substitution or disarmed warrior | 1 | celtic_irish |
 | `weapon_turned_back_upon_the_attacker` | weapon turned back upon the attacker | 1 | celtic_irish |
-| `weaponized_war_chariot_massacre` | weaponized war-chariot massacre | 1 | celtic_irish |
 | `wine_and_promised_woman_as_inducement_to_dangerous_combat` | wine and promised woman as inducement to dangerous combat | 1 | celtic_irish |
-| `wise_warning_rejected_before_ruin` | wise warning rejected before ruin | 1 | hindu |
-| `withheld_sustenance_as_captivity_ordeal` | Withheld sustenance as captivity ordeal | 1 | celtic_irish |
 | `woman_as_healer_of_wounded_warriors` | Woman as healer of wounded warriors | 1 | celtic_irish |
 | `woman_protects_and_heals_wounded_warriors` | woman protects and heals wounded warriors | 1 | celtic_irish |
 | `woman_received_as_war_prize` | woman received as war prize | 1 | greek |
-| `woman_weaving_the_war_caused_around_her` | woman weaving the war caused around her | 1 | greek |
 | `women_marvel_at_the_beautiful_warrior_after_a_fearsome_manifestation` | women marvel at the beautiful warrior after a fearsome manifestation | 1 | celtic_irish |
 | `women_only_island_confronting_arriving_male_heroes` | Women-only island confronting arriving male heroes | 1 | greek_roman |
 | `wondrous_equipment_enabling_a_heroic_feat` | wondrous equipment enabling a heroic feat | 1 | finnish_karelian |

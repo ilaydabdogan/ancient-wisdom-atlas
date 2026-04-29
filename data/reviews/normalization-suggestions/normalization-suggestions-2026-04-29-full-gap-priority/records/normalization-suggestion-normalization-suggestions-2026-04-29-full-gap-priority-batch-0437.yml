@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0437
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.spoken-praise-restores-or-increases-hero-s-courage
+  motif_id: spoken_praise_restores_or_increases_hero_s_courage
+  label: spoken praise restores or increases hero's courage
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Heroic speech that restores courage functions within battle ordeal and
+    warrior performance.
+  cautions: Could fit storytelling_as_power or wisdom if the passage emphasizes speech
+    efficacy rather than combat context.
+  suggested_aliases:
+  - praise restores courage
+  - battle praise strengthens hero
+  - spoken encouragement before combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.steadfast-remembrance-before-battle
+  motif_id: steadfast_remembrance_before_battle
+  label: steadfast remembrance before battle
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe devotional discipline sustaining warriors before
+    combat.
+  cautions: In Islamic context, remembrance may be dhikr or ethical command; could
+    belong to mystical_quest, sacred_law, divine_intervention, or sacred_combat depending
+    on source evidence.
+  suggested_aliases:
+  - remembrance before battle
+  - devotional remembrance in combat
+  - steadfast dhikr before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.strategic-destruction-to-provoke-battle
+  motif_id: strategic_destruction_to_provoke_battle
+  label: strategic destruction to provoke battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Deliberate destruction used to trigger battle is a warfare catalyst motif.
+  cautions: May be a passage-specific tactic rather than sacred combat unless the
+    conflict has mythic or ritual significance.
+  suggested_aliases:
+  - provocation by destruction
+  - destruction as battle catalyst
+  - strategic ravaging before combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.strength-enhancing-belt-used-in-trial
+  motif_id: strength_enhancing_belt_used_in_trial
+  label: strength-enhancing belt used in trial
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A belt that confers strength in an ordeal is a power object enabling
+    heroic capacity.
+  cautions: If the emphasis is the ordeal rather than the object, initiation or divine_warrior
+    may be secondary.
+  suggested_aliases:
+  - strength belt
+  - power belt in ordeal
+  - magical belt grants strength
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stripping-arms-or-spoils-from-the-fallen-enemy
+  motif_id: stripping_arms_or_spoils_from_the_fallen_enemy
+  label: stripping arms or spoils from the fallen enemy
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: Taking arms or spoils from a defeated enemy is a recurring heroic-warfare
+    action.
+  cautions: Could be too conventional or episode-specific unless tied to honor, ritual
+    claiming, or heroic status.
+  suggested_aliases:
+  - stripping fallen enemy's arms
+  - taking spoils from the slain
+  - battlefield spoils from defeated foe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.structured-eighteen-day-war
+  motif_id: structured_eighteen_day_war
+  label: structured eighteen-day war
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The exact eighteen-day structure appears source-specific rather than
+    a reusable motif.
+  cautions: If structured ritual duration recurs across sources, review under sacred_time
+    or sacred_combat; otherwise preserve as evidence detail.
+  suggested_aliases:
+  - eighteen-day war
+  - fixed-duration war
+  - structured war duration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.struggle-over-the-slain-body-and-spoils
+  motif_id: struggle_over_the_slain_body_and_spoils
+  label: struggle over the slain body and spoils
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: Conflict over a slain body concerns heroic death, possession, honor,
+    and burial/memorial order.
+  cautions: If the passage centers on battlefield victory or trophy-taking rather
+    than corpse recovery, sacred_combat may be a better primary group.
+  suggested_aliases:
+  - contest over slain body
+  - battle for corpse and spoils
+  - struggle for fallen hero's body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.subduing-the-inner-monster
+  motif_id: subduing_the_inner_monster
+  label: subduing the inner monster
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Overcoming an internal monster suggests a transformative ordeal of self-mastery.
+  cautions: Could be ethical psychology, allegorical commentary, or literal monster
+    combat depending on source context.
+  suggested_aliases:
+  - inner monster subdued
+  - self-mastery over monstrous impulse
+  - internal monster as ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.submerged-weapon-image
+  motif_id: submerged_weapon_image
+  label: submerged weapon image
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A weapon in water may be a power object, threshold image, or local poetic
+    detail.
+  cautions: Label is image-based and lacks narrative function; could relate to sacred_waters,
+    sacred_treasures, death, or be an over-specific passage artifact.
+  suggested_aliases:
+  - weapon submerged in water
+  - underwater weapon image
+  - weapon beneath water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.substitute-warrior-in-another-hero-s-armor
+  motif_id: substitute_warrior_in_another_hero_s_armor
+  label: substitute warrior in another hero's armor
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: A warrior assuming another hero's armor is a battlefield role-substitution
+    and identity-signaling motif.
+  cautions: May also involve disguise, sacred_treasures, or warrior honor; preserve
+    the armor-substitution detail.
+  suggested_aliases:
+  - warrior in another hero's armor
+  - substitution by armor
+  - borrowed armor in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence heroic combat details; preserve
+  as evidence notes unless recurrence supports durable child motifs.
+- Avoid treating ordinary battle tactics as sacred combat unless source evidence marks
+  ritual, heroic, cosmic, or moral significance.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review needed especially for devotional
+    Islamic remembrance and image-based submerged weapon label.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0437
+  input_sha256: 499d421a2544cb07ae48416074b81d74e11d0d8aca43b954d3b2f3c7375e7d8d
