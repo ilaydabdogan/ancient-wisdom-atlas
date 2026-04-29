@@ -84,6 +84,8 @@ See [docs/roadmap.md](docs/roadmap.md) for the staged plan: foundation, corpus b
 
 See [docs/first-500-corpus.md](docs/first-500-corpus.md) for the first large collection target: 500 corpus units across ancient Near Eastern, Egyptian, biblical, Greek/Roman, South Asian, Buddhist, East Asian, Islamic/Persianate, Norse/Celtic, Mesoamerican, African, and Oceanic material.
 
+See [TEXTS.md](TEXTS.md) for a generated checklist of every complete Markdown source text already included and every first-500 planned unit still unchecked.
+
 ## Pattern Logic
 
 See [docs/pattern-discovery-logic.md](docs/pattern-discovery-logic.md) for how themes, symbols, motifs, and comparisons should be extracted and scored.
