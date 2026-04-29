@@ -1305,6 +1305,12 @@ canonical_motif_groups:
   children:
   - death_by_destruction_of_an_external_animal_soul
   - death_caused_by_damage_to_external_life_object
+  - external_soul_or_separable_soul
+  - external_soul_secured_in_a_totemic_object
+  - external_soul_soul_recall_and_soul_transfer
+  - externalized_life_or_soul_stored_outside_the_body
+  - externalized_life_strength_or_soul
+  - fatal_loss_or_capture_of_reflection_soul_in_water
   aliases: []
   related:
   - sacred_treasures
@@ -1373,6 +1379,42 @@ canonical_motif_groups:
   draft_reason_existing_groups_insufficient: Existing groups cover death, rebirth,
     vessels, and shapeshifting, but not the specific pattern of vital essence externalized
     from the body.
+- id: ancestor_rites
+  label: Ancestor Rites and Feeding the Dead
+  description: Ritual care, feeding, invitation, appeasement, or dismissal of dead
+    souls or ancestors to maintain proper relations between living and dead.
+  children:
+  - feeding_and_dismissing_the_souls_of_the_dead
+  aliases: []
+  related:
+  - afterlife_passage
+  - death_and_transformation
+  - sacrifice
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - sacred_exchange
+  draft_reason_existing_groups_insufficient: Sacred_exchange covers offering broadly,
+    but does not preserve the specific living-dead ritual relationship and dismissal
+    function.
+- id: heroic_funeral_rites
+  label: Heroic Funeral Rites and Memorialization
+  description: Rites, contests, burial honors, and memorial acts performed for a dead
+    hero, companion, ruler, or kin figure to honor the dead and reaffirm social order.
+  children:
+  - funeral_games_after_heroic_death
+  - funeral_rites_and_memorial_if_the_missing_father_is_dead
+  - funeral_rites_for_a_dead_companion
+  aliases: []
+  related:
+  - sacred_combat
+  - divine_warrior
+  - sacrifice
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - lament_and_mourning
+  draft_reason_existing_groups_insufficient: Existing lament_and_mourning emphasizes
+    grief and recognition, while funeral games are public ritual honors and social
+    reordering after heroic death.
 raw_motif_group_index:
   _meta_textual:
     group_id: _meta_textual
@@ -2947,6 +2989,134 @@ raw_motif_group_index:
     notes: 'Near-duplicate external soul/life-token wording, emphasizing storage outside
       the body. Caution: Review for duplicate collapse with the other external soul
       labels in this batch.'
+  external_soul_or_separable_soul:
+    group_id: external_soul
+    relationship: uncertain
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The motif concerns life or soul existing outside the body, a recurring
+      tale-type concept not well covered by descent or rebirth groups. Caution: May
+      overlap with shapeshifting, death transformation, or sacred vessel depending
+      on where the soul is kept.'
+  external_soul_secured_in_a_totemic_object:
+    group_id: external_soul
+    relationship: child
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is a specific form of the external-soul motif, with the soul secured
+      in an object. Caution: The ''totemic'' language may need source review; if the
+      object itself is emphasized, it may also index sacred_treasures or sacred_vessel.'
+  external_soul_soul_recall_and_soul_transfer:
+    group_id: external_soul
+    relationship: broader_label
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The label combines external soul with recall and transfer, all centered
+      on mobility of soul apart from body. Caution: May be too composite; human review
+      should decide whether recall/transfer deserve separate ritual or healing indexing.'
+  externalized_life_or_soul_stored_outside_the_body:
+    group_id: external_soul
+    relationship: alias
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is effectively a direct phrasing of the external-soul motif. Caution:
+      Storage medium should be preserved as evidence if known.'
+  externalized_life_strength_or_soul:
+    group_id: external_soul
+    relationship: alias
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is a broad alias for separable life-force or soul outside the body.
+      Caution: If strength rather than soul is central, compare with power-object
+      or vulnerability motifs during review.'
+  fatal_loss_or_capture_of_reflection_soul_in_water:
+    group_id: external_soul
+    relationship: functional_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A reflection-soul captured in water is a specific separable-soul vulnerability
+      involving water as medium. Caution: Also relates to sacred_waters; do not reduce
+      to water passage unless crossing or purification is present.'
+  fate_goddesses_present_at_birth_and_death:
+    group_id: death_by_fate
+    relationship: role_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Fate goddesses personify destiny governing life boundaries, especially
+      birth and death. Caution: If the passage emphasizes birth destiny more than
+      death, it may also relate to sacred_birth or miraculous_child.'
+  fear_that_a_dead_wrongdoer_may_be_rejected_at_death_s_gate_and_return:
+    group_id: afterlife_passage
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The motif depends on a postmortem gate and the possibility of failed passage
+      or return from death''s boundary. Caution: May also involve divine_judgment
+      if rejection is moral evaluation; Buddhist doctrinal context should be checked.'
+  feeding_and_dismissing_the_souls_of_the_dead:
+    group_id: ancestor_rites
+    relationship: ritual_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is a ritual relation with the dead involving offering, hospitality,
+      and dismissal, not simply descent or afterlife travel. Caution: May map to sacred_exchange
+      in broad queries; candidate is useful only if ancestor/dead-feeding rites recur
+      across sources.'
+  funeral_games_after_heroic_death:
+    group_id: heroic_funeral_rites
+    relationship: ritual_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Funeral games are a recurring heroic memorial rite not well covered by
+      lament alone. Caution: Could be treated as a child of lament/mourning or sacred
+      combat if limited to one source; review recurrence before promotion.'
+  funeral_rites_and_memorial_if_the_missing_father_is_dead:
+    group_id: heroic_funeral_rites
+    relationship: ritual_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The motif concerns conditional funerary memorial obligations for a dead
+      or absent kin figure. Caution: The ''missing father'' detail may be passage-specific;
+      preserve as evidence detail rather than canonical label.'
+  funeral_rites_for_a_dead_companion:
+    group_id: heroic_funeral_rites
+    relationship: ritual_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Formal rites for a companion after death fit a funerary memorialization
+      pattern. Caution: If the passage emphasizes grief rather than rite, map under
+      lament_and_mourning instead.'
+  future_life_or_renewed_discourse_after_death:
+    group_id: death_and_transformation
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The label points to continued or renewed life after death, fitting the
+      broader death-transformation complex. Caution: If the passage maps a postmortem
+      route, afterlife_passage may be better; if it asserts bodily raising, resurrection
+      may be better.'
+  generic_crop_mother_or_maiden_spirit_without_individualized_myth:
+    group_id: mother_goddess
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Crop-mother or maiden spirit imagery fits the sacred feminine as fertility
+      and agricultural power. Caution: The phrase ''without individualized myth''
+      is a comparative classification note; preserve but do not treat as motif content.'
 expansion_draft:
   generated_on: '2026-04-28'
   source_suggestions_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
@@ -2954,11 +3124,11 @@ expansion_draft:
   purpose: Draft expansion generated from model normalization suggestions. Review
     before merging into taxonomy/motif-normalization.yml.
   include_low_confidence: false
-  suggestion_count: 100
-  accepted_mapping_count: 77
-  new_group_candidate_count: 10
+  suggestion_count: 120
+  accepted_mapping_count: 91
+  new_group_candidate_count: 12
   excluded_count: 3
-  needs_review_count: 20
+  needs_review_count: 26
   already_known_count: 0
 expansion_review_flags:
   low_confidence_or_needs_human_review:
@@ -3263,6 +3433,97 @@ expansion_review_flags:
       textual artifact.
     cautions: Needs passage evidence to distinguish a motif of posthumous proclamation
       from an epigraphic or editorial detail.
+  - motif_id: false_noble_ancestry_claim_in_a_place_of_the_dead
+    label: False noble ancestry claim in a place of the dead
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label mixes deception, ancestry, status, and underworld setting;
+      the primary motif function is unclear.
+    cautions: Could be a passage-specific detail, a status deception motif, or an
+      underworld encounter; source context is needed before mapping.
+  - motif_id: feigned_death_to_escape_a_predator
+    label: feigned death to escape a predator
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Feigning death is a deception or survival tactic rather than actual
+      death, descent, or rebirth.
+    cautions: Could belong under trickster, animal/predator encounter, or escape motif
+      depending on passage context; current taxonomy has no clear escape-by-deception
+      group.
+  - motif_id: feigning_death_to_escape_captivity
+    label: Feigning death to escape captivity
+    occurrences: 1
+    traditions:
+    - buddhist
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The motif is an escape strategy using apparent death, not clearly a
+      death-transformation pattern.
+    cautions: May be a narrative trick, captivity escape, or ethical exemplum; needs
+      source review before grouping.
+  - motif_id: food_placed_on_corpse_as_possible_sin_eating_survival
+    label: food placed on corpse as possible sin-eating survival
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label appears to be a comparative ritual interpretation rather
+      than a stable narrative motif.
+    cautions: Culturally sensitive funerary practice; 'sin-eating survival' is interpretive
+      and requires evidence review.
+  - motif_id: fright_causing_sudden_death
+    label: fright causing sudden death
+    occurrences: 1
+    traditions:
+    - buddhist
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: A sudden death by fright is a death circumstance, but no existing group
+      clearly captures fear-induced death.
+    cautions: May be an anecdotal plot detail or moral causality motif; needs passage
+      context to avoid over-indexing.
+  - motif_id: funerary_deity_as_administrator_of_death_rites
+    label: funerary deity as administrator of death rites
+    occurrences: 1
+    traditions:
+    - greek_roman
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: role_variant
+    confidence: low
+    reason: low confidence
+    rationale: A funerary deity role may relate to afterlife passage or ritual administration,
+      but the label is culturally specific and role-based.
+    cautions: May describe a deity's office rather than a motif; review whether passage
+      narrates guidance, judgment, or ritual authority.
   new_group_candidates:
   - id: apotropaic_protection
     label: Apotropaic Protection Against Spirits
@@ -3394,6 +3655,12 @@ expansion_review_flags:
     children:
     - death_by_destruction_of_an_external_animal_soul
     - death_caused_by_damage_to_external_life_object
+    - external_soul_or_separable_soul
+    - external_soul_secured_in_a_totemic_object
+    - external_soul_soul_recall_and_soul_transfer
+    - externalized_life_or_soul_stored_outside_the_body
+    - externalized_life_strength_or_soul
+    - fatal_loss_or_capture_of_reflection_soul_in_water
     aliases: []
     related:
     - sacred_treasures
@@ -3462,6 +3729,43 @@ expansion_review_flags:
     draft_reason_existing_groups_insufficient: Existing groups cover death, rebirth,
       vessels, and shapeshifting, but not the specific pattern of vital essence externalized
       from the body.
+  - id: ancestor_rites
+    label: Ancestor Rites and Feeding the Dead
+    description: Ritual care, feeding, invitation, appeasement, or dismissal of dead
+      souls or ancestors to maintain proper relations between living and dead.
+    children:
+    - feeding_and_dismissing_the_souls_of_the_dead
+    aliases: []
+    related:
+    - afterlife_passage
+    - death_and_transformation
+    - sacrifice
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - sacred_exchange
+    draft_reason_existing_groups_insufficient: Sacred_exchange covers offering broadly,
+      but does not preserve the specific living-dead ritual relationship and dismissal
+      function.
+  - id: heroic_funeral_rites
+    label: Heroic Funeral Rites and Memorialization
+    description: Rites, contests, burial honors, and memorial acts performed for a
+      dead hero, companion, ruler, or kin figure to honor the dead and reaffirm social
+      order.
+    children:
+    - funeral_games_after_heroic_death
+    - funeral_rites_and_memorial_if_the_missing_father_is_dead
+    - funeral_rites_for_a_dead_companion
+    aliases: []
+    related:
+    - sacred_combat
+    - divine_warrior
+    - sacrifice
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - lament_and_mourning
+    draft_reason_existing_groups_insufficient: Existing lament_and_mourning emphasizes
+      grief and recognition, while funeral games are public ritual honors and social
+      reordering after heroic death.
   excluded_from_pattern_queries:
   - motif_id: animal_or_lizard_form_of_the_soul_as_a_variant_marker
     label: animal or lizard form of the soul as a variant marker

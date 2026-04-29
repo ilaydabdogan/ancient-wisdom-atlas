@@ -1,0 +1,331 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-28-unmapped-tiny.batch-0012
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.feigned-death-to-escape-a-predator
+  motif_id: feigned_death_to_escape_a_predator
+  label: feigned death to escape a predator
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Feigning death is a deception or survival tactic rather than actual death,
+    descent, or rebirth.
+  cautions: Could belong under trickster, animal/predator encounter, or escape motif
+    depending on passage context; current taxonomy has no clear escape-by-deception
+    group.
+  suggested_aliases:
+  - pretended death
+  - death feint
+  - feigned death as escape tactic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigning-death-to-escape-captivity
+  motif_id: feigning_death_to_escape_captivity
+  label: Feigning death to escape captivity
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif is an escape strategy using apparent death, not clearly a death-transformation
+    pattern.
+  cautions: May be a narrative trick, captivity escape, or ethical exemplum; needs
+    source review before grouping.
+  suggested_aliases:
+  - pretended death to escape
+  - death feint in captivity
+  - escape through simulated death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - initiation
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-placed-on-corpse-as-possible-sin-eating-survival
+  motif_id: food_placed_on_corpse_as_possible_sin_eating_survival
+  label: food placed on corpse as possible sin-eating survival
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to be a comparative ritual interpretation rather than
+    a stable narrative motif.
+  cautions: Culturally sensitive funerary practice; 'sin-eating survival' is interpretive
+    and requires evidence review.
+  suggested_aliases:
+  - food offering to corpse
+  - corpse food rite
+  - possible sin-eating survival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - sacred_exchange
+    - afterlife_passage
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fright-causing-sudden-death
+  motif_id: fright_causing_sudden_death
+  label: fright causing sudden death
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A sudden death by fright is a death circumstance, but no existing group
+    clearly captures fear-induced death.
+  cautions: May be an anecdotal plot detail or moral causality motif; needs passage
+    context to avoid over-indexing.
+  suggested_aliases:
+  - death from fright
+  - terror-induced death
+  - sudden death by fear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-games-after-heroic-death
+  motif_id: funeral_games_after_heroic_death
+  label: Funeral games after heroic death
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Funeral games are a recurring heroic memorial rite not well covered by
+    lament alone.
+  cautions: Could be treated as a child of lament/mourning or sacred combat if limited
+    to one source; review recurrence before promotion.
+  suggested_aliases:
+  - funeral games
+  - games for the dead hero
+  - heroic memorial contests
+  suggested_new_group:
+    id: heroic_funeral_rites
+    label: Heroic Funeral Rites and Memorialization
+    description: Rites, contests, burial honors, and memorial acts performed for a
+      dead hero, companion, ruler, or kin figure to honor the dead and reaffirm social
+      order.
+    parent_group_ids:
+    - lament_and_mourning
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - sacrifice
+    reason_existing_groups_insufficient: Existing lament_and_mourning emphasizes grief
+      and recognition, while funeral games are public ritual honors and social reordering
+      after heroic death.
+- suggestion_id: normalization.suggestion.funeral-rites-and-memorial-if-the-missing-father-is-dead
+  motif_id: funeral_rites_and_memorial_if_the_missing_father_is_dead
+  label: funeral rites and memorial if the missing father is dead
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns conditional funerary memorial obligations for a dead
+    or absent kin figure.
+  cautions: The 'missing father' detail may be passage-specific; preserve as evidence
+    detail rather than canonical label.
+  suggested_aliases:
+  - funeral rites for missing kin
+  - memorial for absent father
+  - conditional funeral rites
+  suggested_new_group:
+    id: heroic_funeral_rites
+    label: Heroic Funeral Rites and Memorialization
+    description: Rites, contests, burial honors, and memorial acts performed for a
+      dead hero, companion, ruler, or kin figure to honor the dead and reaffirm social
+      order.
+    parent_group_ids:
+    - lament_and_mourning
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - hero_journey
+    reason_existing_groups_insufficient: Existing groups cover mourning broadly but
+      not formal funerary duties and memorialization as ritual acts.
+- suggestion_id: normalization.suggestion.funeral-rites-for-a-dead-companion
+  motif_id: funeral_rites_for_a_dead_companion
+  label: Funeral rites for a dead companion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Formal rites for a companion after death fit a funerary memorialization
+    pattern.
+  cautions: If the passage emphasizes grief rather than rite, map under lament_and_mourning
+    instead.
+  suggested_aliases:
+  - burial rites for companion
+  - funerary honors for companion
+  - companion's funeral rites
+  suggested_new_group:
+    id: heroic_funeral_rites
+    label: Heroic Funeral Rites and Memorialization
+    description: Rites, contests, burial honors, and memorial acts performed for a
+      dead hero, companion, ruler, or kin figure to honor the dead and reaffirm social
+      order.
+    parent_group_ids:
+    - lament_and_mourning
+    related_group_ids:
+    - sacred_exchange
+    - sacrifice
+    - hero_journey
+    reason_existing_groups_insufficient: Existing lament_and_mourning does not distinguish
+      ritual care for the dead companion from emotional grief.
+- suggestion_id: normalization.suggestion.funerary-deity-as-administrator-of-death-rites
+  motif_id: funerary_deity_as_administrator_of_death_rites
+  label: funerary deity as administrator of death rites
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: A funerary deity role may relate to afterlife passage or ritual administration,
+    but the label is culturally specific and role-based.
+  cautions: May describe a deity's office rather than a motif; review whether passage
+    narrates guidance, judgment, or ritual authority.
+  suggested_aliases:
+  - funerary deity
+  - deity administering death rites
+  - divine officiant of funerals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - divine_intervention
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.future-life-or-renewed-discourse-after-death
+  motif_id: future_life_or_renewed_discourse_after_death
+  label: future life or renewed discourse after death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label points to continued or renewed life after death, fitting the
+    broader death-transformation complex.
+  cautions: If the passage maps a postmortem route, afterlife_passage may be better;
+    if it asserts bodily raising, resurrection may be better.
+  suggested_aliases:
+  - life after death
+  - renewed speech after death
+  - postmortem discourse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.generic-crop-mother-or-maiden-spirit-without-individualized-myth
+  motif_id: generic_crop_mother_or_maiden_spirit_without_individualized_myth
+  label: generic crop-mother or maiden spirit without individualized myth
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: narrower_than
+  confidence: medium
+  rationale: Crop-mother or maiden spirit imagery fits the sacred feminine as fertility
+    and agricultural power.
+  cautions: The phrase 'without individualized myth' is a comparative classification
+    note; preserve but do not treat as motif content.
+  suggested_aliases:
+  - crop mother
+  - maiden crop spirit
+  - grain mother spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several death-bucket labels are escape tactics, funerary rites, or interpretive
+  notes rather than death-return motifs; avoid forcing them into descent or resurrection.
+- The three funeral-rite labels suggest a possible recurring group for heroic funerary
+  memorialization, but recurrence across sources should be checked before taxonomy
+  promotion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_normalizer
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    funerary and comparative ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-28'
+batch:
+  run_id: normalization-suggestions-2026-04-28-unmapped-tiny
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-28-unmapped-tiny-batch-0012
+  input_sha256: daa4b4948e70ebd735e9397dd2f8eb0a3b04677529176ea775f94f7c77f3c9e4
+

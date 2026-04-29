@@ -6,10 +6,10 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 
 ## Summary
 
-- Suggestions reviewed: 100
-- Accepted draft mappings: 77
-- New canonical group candidates: 10
-- Low-confidence / needs human review: 20
+- Suggestions reviewed: 120
+- Accepted draft mappings: 91
+- New canonical group candidates: 12
+- Low-confidence / needs human review: 26
 - Suggested exclusions: 3
 - Already known in base normalization: 0
 
@@ -17,12 +17,14 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 
 | Group ID | Label | Children Added | Review Note |
 | --- | --- | ---: | --- |
+| `ancestor_rites` | Ancestor Rites and Feeding the Dead | 1 | Sacred_exchange covers offering broadly, but does not preserve the specific living-dead ritual relationship and dismissal function. |
 | `apotropaic_protection` | Apotropaic Protection Against Spirits | 3 | Existing sacred-object and judgment groups do not capture the recurring protective/averting function against spirits or pollution. |
 | `exorcism_spirit_expulsion` | Exorcism, Purification, and Spirit Expulsion | 2 | Existing groups cover judgment, covenantal purity, and intervention, but not the distinct ritual function of expelling possessing or disease-bearing spirits. |
 | `external_detachable_soul` | External or Detachable Soul | 2 | Existing groups cover death, rebirth, vessels, and shapeshifting, but not the specific pattern of vital essence externalized from the body. |
-| `external_soul` | External Soul and Life-Token | 2 | Existing groups cover death, objects, and transformation broadly but do not preserve the distinctive externalized-life mechanism. |
+| `external_soul` | External Soul and Life-Token | 8 | Existing groups cover death, objects, and transformation broadly but do not preserve the distinctive externalized-life mechanism. |
 | `external_soul_hidden_life` | External Soul and Hidden Life | 3 | Existing death and transformation groups do not capture the distinctive externalization of life-force or vulnerability. |
 | `external_soul_life_token` | External Soul and Life Token | 12 | Existing object groups cover sacred power objects or vessels, but not the recurring narrative function of an externally stored life or soul. |
+| `heroic_funeral_rites` | Heroic Funeral Rites and Memorialization | 3 | Existing lament_and_mourning emphasizes grief and recognition, while funeral games are public ritual honors and social reordering after heroic death. |
 | `perilous_lure_fatal_enchantment` | Perilous Lure and Fatal Enchantment | 1 | Existing groups cover thresholds, love, and death, but none directly covers lethal enchantment or seductive supernatural luring as the narrative mechanism. |
 | `ritual_expulsion_boundary_sealing` | Ritual Expulsion and Boundary Sealing | 3 | Existing groups include sacrifice, sacred law, and threshold guardianship, but not the recurring ritual sequence of expulsion plus boundary closure. |
 | `spirit_contagion` | Spirit Contagion and Death Pollution | 1 | Sacred law and divine judgment are too broad for repeated ritual-pollution and spirit-contagion labels. |
@@ -52,8 +54,14 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `death_through_loss_of_shadow` | Death through loss of shadow | new_group_candidate | `` External Soul and Life-Token | low | low confidence |
 | `detained_sleeper_s_soul_causing_illness` | detained sleeper’s soul causing illness | needs_human_review | ``  | low | low confidence |
 | `enduring_tomb_proclamation` | Enduring tomb proclamation | needs_human_review | ``  | low | low confidence |
+| `false_noble_ancestry_claim_in_a_place_of_the_dead` | False noble ancestry claim in a place of the dead | needs_human_review | ``  | low | low confidence |
+| `feigned_death_to_escape_a_predator` | feigned death to escape a predator | needs_human_review | ``  | low | low confidence |
+| `feigning_death_to_escape_captivity` | Feigning death to escape captivity | needs_human_review | ``  | low | low confidence |
+| `food_placed_on_corpse_as_possible_sin_eating_survival` | food placed on corpse as possible sin-eating survival | needs_human_review | ``  | low | low confidence |
+| `fright_causing_sudden_death` | fright causing sudden death | needs_human_review | ``  | low | low confidence |
+| `funerary_deity_as_administrator_of_death_rites` | funerary deity as administrator of death rites | needs_human_review | ``  | low | low confidence |
 
-_Showing first 20 of 20 review rows._
+_Showing first 26 of 26 review rows._
 
 ## Suggested Exclusions
 
