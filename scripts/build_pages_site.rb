@@ -65,6 +65,10 @@ def esc(value)
   CGI.escapeHTML(value.to_s)
 end
 
+def format_count(value)
+  value.to_i.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse
+end
+
 def load_yaml(path)
   YAML.safe_load(File.read(path), permitted_classes: [Date, Time], aliases: false) || {}
 end
@@ -738,13 +742,13 @@ def build_taxonomy_family_pages(analyses)
       .sort_by { |child| [-child.fetch(:occurrence_count).to_i, child.fetch(:label).to_s] }
       .map do |child|
         count = child.fetch(:occurrence_count).to_i
-        count_link = count.positive? ? %(<a href="#{esc(extraction_search_url(current, child.fetch(:motif_id)))}">#{count}</a>) : %(<span class="muted">0</span>)
+        count_link = count.positive? ? %(<a href="#{esc(extraction_search_url(current, child.fetch(:motif_id)))}">#{format_count(count)}</a>) : %(<span class="muted">0</span>)
         <<~HTML
           <tr data-sort-item data-count="#{count}" data-label="#{esc(child.fetch(:label).downcase)}">
             <td>#{link_to_output(current, motif_output(child.fetch(:motif_id)), titleize(child.fetch(:label)))}</td>
             <td>#{esc(child.fetch(:relationship))}</td>
             <td>#{count_link}</td>
-            <td>#{child.fetch(:tradition_count)}</td>
+            <td>#{format_count(child.fetch(:tradition_count))}</td>
           </tr>
         HTML
       end.join
@@ -757,7 +761,7 @@ def build_taxonomy_family_pages(analyses)
         <<~HTML
           <a class="family-tradition-row searchable" href="##{esc(anchor)}" data-search="#{esc([tradition, tradition_label(tradition)].join(" "))}">
             <span>#{esc(tradition_label(tradition))}</span>
-            <strong>#{count}</strong>
+            <strong>#{format_count(count)}</strong>
             <i style="width: #{width}%"></i>
           </a>
         HTML
@@ -767,39 +771,40 @@ def build_taxonomy_family_pages(analyses)
       .group_by { |occurrence| occurrence["tradition"].to_s }
       .sort_by { |tradition, rows| [-rows.length, tradition_label(tradition)] }
       .map do |tradition, rows|
-        passage_rows = rows
-          .sort_by { |occurrence| [occurrence["source_title"].to_s, occurrence["passage_locator"].to_s, occurrence["family_motif_label"].to_s] }
-          .map do |occurrence|
-            source_output = output_for_repo_path(occurrence["source_text_path"])
-            extraction_output = output_for_repo_path(occurrence["extraction_path"])
-            <<~HTML
-              <tr>
-                <td>#{link_to_output(current, source_output, occurrence["source_title"].to_s.empty? ? occurrence["source_text_path"] : occurrence["source_title"])}</td>
-                <td>#{esc(occurrence["passage_locator"])}</td>
-                <td><span class="confidence #{esc(occurrence["confidence"])}">#{esc(occurrence["confidence"])}</span></td>
-                <td>#{link_to_output(current, motif_output(occurrence["family_motif_id"]), titleize(occurrence["family_motif_label"]))}</td>
-                <td>#{link_to_output(current, extraction_output, "record")}</td>
-              </tr>
-            HTML
-          end.join
+        sorted_rows = rows.sort_by { |occurrence| [occurrence["source_title"].to_s, occurrence["passage_locator"].to_s, occurrence["family_motif_label"].to_s] }
+        preview_rows = sorted_rows.first(8)
+        hidden_rows = sorted_rows.drop(8)
+        more_rows = if hidden_rows.any?
+          <<~HTML
+            <details class="family-more-passages">
+              <summary>Show #{format_count(hidden_rows.length)} more passages</summary>
+              #{family_occurrence_table(hidden_rows, current)}
+            </details>
+          HTML
+        else
+          ""
+        end
+        tradition_search = [
+          tradition,
+          tradition_label(tradition),
+          rows.map { |row| row["family_motif_label"] }.uniq.sort.first(80)
+        ].flatten.join(" ")
 
         <<~HTML
-          <article id="tradition-#{esc(slugify(tradition))}" class="family-tradition-section searchable" data-search="#{esc([tradition, tradition_label(tradition), rows.map { |row| row["family_motif_label"] }].flatten.join(" "))}">
-            <div class="family-tradition-head">
+          <details id="tradition-#{esc(slugify(tradition))}" class="family-tradition-section searchable" data-search="#{esc(tradition_search)}">
+            <summary class="family-tradition-head">
               <div>
                 <span class="row-kicker">#{esc(tradition_label(tradition))}</span>
                 <h3>How This Tradition Tells It</h3>
               </div>
-              <strong>#{rows.length} occurrences</strong>
+              <strong>#{format_count(rows.length)} occurrences</strong>
+            </summary>
+            <div class="family-tradition-body">
+              <p>#{esc(family_tradition_summary(tradition, rows))}</p>
+              #{family_occurrence_table(preview_rows, current)}
+              #{more_rows}
             </div>
-            <p>#{esc(family_tradition_summary(tradition, rows))}</p>
-            <div class="table-wrap">
-              <table>
-                <tr><th>Text</th><th>Line Range</th><th>Confidence</th><th>Child Motif</th><th>Extraction</th></tr>
-                #{passage_rows}
-              </table>
-            </div>
-          </article>
+          </details>
         HTML
       end.join
 
@@ -832,19 +837,69 @@ def build_taxonomy_family_pages(analyses)
       end.join
     timeline_rows = %(<p class="muted">No timeline-backed source entry is available yet for this family.</p>) if timeline_rows.empty?
 
+    top_child_chips = analysis.fetch(:child_motifs)
+      .sort_by { |child| [-child.fetch(:occurrence_count).to_i, -child.fetch(:tradition_count).to_i, child.fetch(:label).to_s] }
+      .first(10)
+      .map do |child|
+        count = child.fetch(:occurrence_count).to_i
+        href = count.positive? ? extraction_search_url(current, child.fetch(:motif_id)) : relative_url(current, motif_output(child.fetch(:motif_id)))
+        <<~HTML
+          <a class="family-chip" href="#{esc(href)}">
+            <span>#{esc(titleize(child.fetch(:label)))}</span>
+            <strong>#{format_count(count)}</strong>
+          </a>
+        HTML
+      end.join
+
+    top_tradition_chips = analysis.fetch(:traditions)
+      .sort_by { |tradition, count| [-count.to_i, tradition_label(tradition)] }
+      .first(8)
+      .map do |tradition, count|
+        <<~HTML
+          <a class="family-chip" href="#tradition-#{esc(slugify(tradition))}">
+            <span>#{esc(tradition_label(tradition))}</span>
+            <strong>#{format_count(count)}</strong>
+          </a>
+        HTML
+      end.join
+
     body = <<~HTML
-      <section class="family-hero-panel">
+      <nav class="family-tabs" aria-label="Family page sections">
+        <a href="#overview">Overview</a>
+        <a href="#child-motifs">Child Motifs</a>
+        <a href="#traditions">Traditions</a>
+        <a href="#evidence">Evidence</a>
+        <a href="#comparison">Comparison</a>
+        <a href="#related">Related</a>
+        <a href="#timeline">Timeline</a>
+      </nav>
+
+      <section id="overview" class="family-hero-panel">
         <p>#{esc(compact_text(group["description"]))}</p>
         <div class="family-stats">
-          <div class="stat"><strong>#{analysis.fetch(:occurrence_count)}</strong><span>total occurrences</span></div>
-          <div class="stat"><strong>#{analysis.fetch(:child_motifs).length}</strong><span>child motifs</span></div>
-          <div class="stat"><strong>#{analysis.fetch(:tradition_count)}</strong><span>traditions present</span></div>
+          <div class="stat"><strong>#{format_count(analysis.fetch(:occurrence_count))}</strong><span>total occurrences</span></div>
+          <div class="stat"><strong>#{format_count(analysis.fetch(:child_motifs).length)}</strong><span>child motifs</span></div>
+          <div class="stat"><strong>#{format_count(analysis.fetch(:tradition_count))}</strong><span>traditions present</span></div>
           <div class="stat"><strong>#{esc(analysis.fetch(:date_range_label))}</strong><span>known era range</span></div>
+        </div>
+        <div class="family-highlight-grid">
+          <article>
+            <span class="row-kicker">Strongest Child Motifs</span>
+            <div class="family-chip-list">#{top_child_chips}</div>
+          </article>
+          <article>
+            <span class="row-kicker">Densest Traditions</span>
+            <div class="family-chip-list">#{top_tradition_chips}</div>
+          </article>
+          <article>
+            <span class="row-kicker">Reading Note</span>
+            <p>These counts are generated from tagged extraction evidence. Similarity means structural or thematic recurrence unless a source record explicitly supports historical contact.</p>
+          </article>
         </div>
         #{prototype_ids.include?(group_id) ? "<span class=\"pending-badge\">research prototype</span>" : ""}
       </section>
 
-      <section class="section">
+      <section id="child-motifs" class="section">
         <div class="section-heading">
           <h2>Child Motifs</h2>
           <label class="sort-control">Sort
@@ -862,7 +917,7 @@ def build_taxonomy_family_pages(analyses)
         </div>
       </section>
 
-      <section class="section">
+      <section id="traditions" class="section">
         <div class="section-heading">
           <h2>Tradition Frequency</h2>
           <span class="muted">Relative bars compare traditions inside this family.</span>
@@ -870,15 +925,18 @@ def build_taxonomy_family_pages(analyses)
         <div class="family-tradition-bars">#{tradition_rows}</div>
       </section>
 
-      <section class="section">
+      <section id="evidence" class="section">
         <div class="section-heading">
           <h2>How Each Tradition Tells It</h2>
-          <span class="muted">Grouped directly from extraction-record motif tags.</span>
+          <span class="muted">Evidence is collapsed by default so the page stays scannable.</span>
+        </div>
+        <div class="family-evidence-toolbar">
+          <input type="search" class="search-input" placeholder="Filter traditions or child motifs on this page" data-search-target=".family-tradition-section">
         </div>
         <div class="family-tradition-list">#{tradition_sections}</div>
       </section>
 
-      <section class="section family-comparison-grid">
+      <section id="comparison" class="section family-comparison-grid">
         <article>
           <span class="row-kicker">Converges</span>
           <h2>Shared Structure</h2>
@@ -896,14 +954,14 @@ def build_taxonomy_family_pages(analyses)
         </article>
       </section>
 
-      <section class="section">
+      <section id="related" class="section">
         <div class="section-heading">
           <h2>Related Families</h2>
         </div>
         <div class="related-family-list">#{related_rows}</div>
       </section>
 
-      <section class="section">
+      <section id="timeline" class="section">
         <div class="section-heading">
           <h2>Timeline</h2>
           <span class="muted">Approximate eras from the cultural timeline index.</span>
@@ -977,6 +1035,33 @@ end
 
 def extraction_search_url(current_output, query)
   "#{relative_url(current_output, "extractions/index.html")}?q=#{CGI.escape(query.to_s)}"
+end
+
+def family_occurrence_rows(rows, current_output)
+  rows.map do |occurrence|
+    source_output = output_for_repo_path(occurrence["source_text_path"])
+    extraction_output = output_for_repo_path(occurrence["extraction_path"])
+    <<~HTML
+      <tr>
+        <td>#{link_to_output(current_output, source_output, occurrence["source_title"].to_s.empty? ? occurrence["source_text_path"] : occurrence["source_title"])}</td>
+        <td>#{esc(occurrence["passage_locator"])}</td>
+        <td><span class="confidence #{esc(occurrence["confidence"])}">#{esc(occurrence["confidence"])}</span></td>
+        <td>#{link_to_output(current_output, motif_output(occurrence["family_motif_id"]), titleize(occurrence["family_motif_label"]))}</td>
+        <td>#{link_to_output(current_output, extraction_output, "record")}</td>
+      </tr>
+    HTML
+  end.join
+end
+
+def family_occurrence_table(rows, current_output)
+  <<~HTML
+    <div class="table-wrap family-evidence-table">
+      <table>
+        <tr><th>Text</th><th>Line Range</th><th>Confidence</th><th>Child Motif</th><th>Extraction</th></tr>
+        #{family_occurrence_rows(rows, current_output)}
+      </table>
+    </div>
+  HTML
 end
 
 def normalized_group_id_for(motif_id, normalization, group_ids, seen = Set.new)
@@ -2941,6 +3026,40 @@ STYLE_CSS = <<~CSS
     width: min(1320px, calc(100% - 32px));
   }
 
+  .family-tabs {
+    position: sticky;
+    top: 0;
+    z-index: 9;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 18px 0 22px;
+    padding: 10px;
+    background: rgba(246, 247, 242, 0.92);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    backdrop-filter: blur(12px);
+  }
+
+  .family-tabs a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 34px;
+    padding: 7px 10px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    color: var(--ink);
+    font-size: 13px;
+    font-weight: 800;
+    text-decoration: none;
+  }
+
+  .family-tabs a:hover {
+    border-color: #cbb76d;
+    background: #f4f0e5;
+  }
+
   .family-hero-panel {
     margin-top: 28px;
     padding: 22px;
@@ -2970,6 +3089,61 @@ STYLE_CSS = <<~CSS
   .family-stats .stat strong {
     font-size: clamp(22px, 2.3vw, 34px);
     overflow-wrap: anywhere;
+  }
+
+  .family-highlight-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr) minmax(260px, 0.8fr);
+    gap: 12px;
+    margin: 4px 0 12px;
+  }
+
+  .family-highlight-grid article {
+    min-width: 0;
+    padding: 14px;
+    background: rgba(255, 255, 255, 0.52);
+    border: 1px solid #ded2ae;
+    border-radius: 8px;
+  }
+
+  .family-highlight-grid p {
+    margin: 8px 0 0;
+    color: var(--muted);
+  }
+
+  .family-chip-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 10px;
+  }
+
+  .family-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    max-width: 100%;
+    padding: 6px 8px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    color: var(--ink);
+    font-size: 12px;
+    font-weight: 800;
+    text-decoration: none;
+  }
+
+  .family-chip span {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .family-chip strong {
+    color: var(--brick);
+    font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 11px;
   }
 
   .sort-control {
@@ -3041,17 +3215,85 @@ STYLE_CSS = <<~CSS
     box-shadow: var(--shadow);
   }
 
+  details.family-tradition-section {
+    padding: 0;
+    overflow: hidden;
+  }
+
   .family-tradition-head {
     display: flex;
     justify-content: space-between;
     gap: 16px;
     align-items: start;
-    margin-bottom: 10px;
+    margin-bottom: 0;
+  }
+
+  details.family-tradition-section > summary.family-tradition-head {
+    cursor: pointer;
+    padding: 16px 18px;
+    list-style: none;
+  }
+
+  details.family-tradition-section > summary.family-tradition-head::-webkit-details-marker {
+    display: none;
+  }
+
+  details.family-tradition-section > summary.family-tradition-head::after {
+    content: "+";
+    display: inline-grid;
+    place-items: center;
+    width: 26px;
+    height: 26px;
+    margin-left: auto;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    color: var(--brick);
+    font-weight: 900;
+  }
+
+  details.family-tradition-section[open] > summary.family-tradition-head::after {
+    content: "-";
   }
 
   .family-tradition-head strong {
     color: var(--brick);
     white-space: nowrap;
+  }
+
+  .family-tradition-body {
+    display: grid;
+    gap: 14px;
+    padding: 0 18px 18px;
+  }
+
+  .family-tradition-body > p {
+    margin: 0;
+    color: var(--muted);
+  }
+
+  .family-evidence-toolbar {
+    margin-bottom: 14px;
+  }
+
+  .family-evidence-table table {
+    font-size: 14px;
+  }
+
+  .family-more-passages {
+    padding: 10px 12px;
+    background: #f8f7f1;
+    border: 1px dashed var(--line);
+    border-radius: 8px;
+  }
+
+  .family-more-passages > summary {
+    cursor: pointer;
+    color: var(--teal);
+    font-weight: 800;
+  }
+
+  .family-more-passages .table-wrap {
+    margin-top: 12px;
   }
 
   .family-comparison-grid {
@@ -3142,7 +3384,7 @@ STYLE_CSS = <<~CSS
       flex-direction: column;
     }
 
-    .stats-grid, .explorer-dashboard, .card-grid, .motif-cloud, .family-stats, .family-comparison-grid {
+    .stats-grid, .explorer-dashboard, .card-grid, .motif-cloud, .family-stats, .family-comparison-grid, .family-highlight-grid {
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
@@ -3159,7 +3401,7 @@ STYLE_CSS = <<~CSS
   @media (max-width: 560px) {
     main { width: min(100% - 24px, 1180px); padding-top: 20px; }
     h1 { font-size: 40px; }
-    .stats-grid, .explorer-dashboard, .card-grid, .motif-cloud, .family-stats, .family-comparison-grid {
+    .stats-grid, .explorer-dashboard, .card-grid, .motif-cloud, .family-stats, .family-comparison-grid, .family-highlight-grid {
       grid-template-columns: 1fr;
     }
     .document { padding: 18px; }
@@ -3206,6 +3448,16 @@ APP_JS = <<~JS
       control.addEventListener("change", sortItems);
       sortItems();
     });
+
+    const openFamilyHashTarget = () => {
+      if (!window.location.hash) return;
+      const target = document.getElementById(window.location.hash.slice(1));
+      if (target && target.matches("details.family-tradition-section")) {
+        target.open = true;
+      }
+    };
+    openFamilyHashTarget();
+    window.addEventListener("hashchange", openFamilyHashTarget);
 
     const explorerRows = Array.from(document.querySelectorAll(".explorer-row"));
     const explorerSearch = document.querySelector(".explorer-search");
