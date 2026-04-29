@@ -1,0 +1,311 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-28-unmapped-tiny.batch-0015
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.immortality-and-unity-of-the-created-state
+  motif_id: immortality_and_unity_of_the_created_state
+  label: Immortality and unity of the created state
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears philosophical or doctrinal and does not clearly express
+    a narrative motif without passage context.
+  cautions: May belong under sacred_knowledge, death_and_transformation, or a future
+    soul/immortality group depending on evidence.
+  suggested_aliases:
+  - immortal created state
+  - unity of created being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immortality-experienced-as-lamentation
+  motif_id: immortality_experienced_as_lamentation
+  label: immortality experienced as lamentation
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: child
+  confidence: medium
+  rationale: The emphasis is on grief or tragic recognition associated with deathlessness
+    rather than resurrection or return.
+  cautions: If the passage centers on the curse or mechanics of immortality, a separate
+    immortality motif may be needed.
+  suggested_aliases:
+  - lament of immortality
+  - deathlessness as grief
+  - immortality as sorrow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immortality-substance-withheld-and-destroyed
+  motif_id: immortality_substance_withheld_and_destroyed
+  label: immortality substance withheld and destroyed
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: An object or substance confers immortality and is withheld or destroyed,
+    fitting power-object logic.
+  cautions: Could also relate to forbidden_knowledge or death_and_transformation if
+    the passage stresses denied access to deathlessness.
+  suggested_aliases:
+  - elixir of immortality withheld
+  - destroyed immortality substance
+  - lost immortality medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immortality-without-eternal-youth
+  motif_id: immortality_without_eternal_youth
+  label: Immortality without eternal youth
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Immortality Without Renewal
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a recurring mythic pattern where deathlessness is separated from
+    youth or renewal, not covered well by resurrection or death-rebirth.
+  cautions: Single occurrence in this audit; promote only if additional examples recur
+    across traditions.
+  suggested_aliases:
+  - deathlessness without youth
+  - immortality without rejuvenation
+  - eternal life without renewal
+  suggested_new_group:
+    id: immortality_without_renewal
+    label: Immortality Without Renewal
+    description: Deathlessness, extended life, or escape from death becomes incomplete,
+      burdensome, or defective because youth, vitality, release, or transformation
+      is absent.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - lament_and_mourning
+    - sacred_treasures
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing death_and_transformation groups
+      emphasize death, return, or renewal; this motif specifically concerns failed
+      or incomplete immortality.
+- suggestion_id: normalization.suggestion.impermanence-of-glory-after-a-great-teacher-s-death
+  motif_id: impermanence_of_glory_after_a_great_teacher_s_death
+  label: Impermanence of glory after a great teacher’s death
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label frames reflection after death as tragic recognition of impermanence
+    and loss.
+  cautions: May be a doctrinal teaching on impermanence rather than a narrative motif;
+    consider sacred_knowledge if didactic context dominates.
+  suggested_aliases:
+  - impermanence after teacher's death
+  - teacher death and fading glory
+  - postmortem impermanence teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.indestructible-immortal-soul
+  motif_id: indestructible_immortal_soul
+  label: indestructible immortal soul
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is likely a doctrinal claim about the soul rather than a narrative
+    motif; context is needed.
+  cautions: Could support afterlife_passage, sacred_knowledge, or a new soul/immortality
+    group, but should not be forced into resurrection.
+  suggested_aliases:
+  - immortal soul
+  - indestructible soul
+  - deathless soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inner-division-of-the-soul
+  motif_id: inner_division_of_the_soul
+  label: inner division of the soul
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The divided soul expresses internal opposition or complementarity rather
+    than a death journey itself.
+  cautions: If treated as psychology or ethics in the source, sacred_knowledge or
+    an inner_life group may fit better.
+  suggested_aliases:
+  - divided soul
+  - soul in conflict
+  - tripartite or divided psyche
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intermediary-spirits-carry-prayers-and-divine-gifts
+  motif_id: intermediary_spirits_carry_prayers_and_divine_gifts
+  label: intermediary spirits carry prayers and divine gifts
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Intermediary spirits mediate traffic between human and divine realms
+    through prayers and gifts.
+  cautions: If ritual exchange is central, also review under sacred_exchange; if psychopompic,
+    review under afterlife_passage.
+  suggested_aliases:
+  - spirit intermediaries
+  - daimons carry prayers
+  - intermediaries between human and divine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intoxication-as-spirit-possession-or-inspiration
+  motif_id: intoxication_as_spirit_possession_or_inspiration
+  label: intoxication as spirit possession or inspiration
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Intoxication functions as altered perception, possession, or inspired
+    access to nonordinary knowledge.
+  cautions: Comparative label may be broad; if ritual mechanics dominate, consider
+    sacred_exchange or initiation.
+  suggested_aliases:
+  - inspired intoxication
+  - spirit possession through intoxication
+  - ecstatic drunkenness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invulnerability-through-externalized-soul
+  motif_id: invulnerability_through_externalized_soul
+  label: Invulnerability through externalized soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: External Soul and Hidden Life
+  relationship: child
+  confidence: high
+  rationale: 'This is a distinct and widely recognizable tale motif: life or vulnerability
+    is stored outside the body.'
+  cautions: Do not collapse into generic immortality; the key function is externalized
+    life as source of invulnerability and vulnerability.
+  suggested_aliases:
+  - external soul
+  - hidden life
+  - life outside the body
+  - soul kept elsewhere
+  suggested_new_group:
+    id: external_soul_hidden_life
+    label: External Soul and Hidden Life
+    description: A being's life, soul, death, or vulnerability is stored outside the
+      body in an object, animal, place, or nested container, making the being invulnerable
+      until it is found or destroyed.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - sacred_vessel
+    - sacred_treasures
+    - shapeshifter
+    reason_existing_groups_insufficient: Existing groups cover death, transformation,
+      and power objects, but not the specific narrative structure of life externalized
+      outside the body.
+batch_notes:
+- Several labels in this batch are philosophical or doctrinal statements about soul
+  and immortality; human review should check whether they are narrative motifs or
+  source-exposition artifacts.
+- Avoid mapping immortality labels automatically to resurrection or death_and_transformation
+  unless the passage includes death followed by return or renewal.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; single-occurrence items should
+    be checked against passage evidence before taxonomy promotion.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-28'
+batch:
+  run_id: normalization-suggestions-2026-04-28-unmapped-tiny
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-28-unmapped-tiny-batch-0015
+  input_sha256: 1a745953da77f5e12d8f5d21f8b05f7d15d1956619415d40bda783e0a8b5bef0
+

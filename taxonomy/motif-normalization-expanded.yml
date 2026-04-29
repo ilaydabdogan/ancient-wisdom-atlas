@@ -1350,6 +1350,7 @@ canonical_motif_groups:
   - external_life_or_soul_hidden_in_hair
   - external_life_or_soul_hidden_outside_the_body
   - external_life_soul_fate_safety_or_strength_kept_outside_the_body
+  - invulnerability_through_externalized_soul
   aliases: []
   related:
   - shapeshifter
@@ -1470,6 +1471,49 @@ canonical_motif_groups:
   draft_reason_existing_groups_insufficient: Existing groups cover sacred exchange,
     sacrifice, and divine action, but not the diagnostic and healing structure of
     affliction by spirits and ritual expulsion.
+- id: immortality_without_renewal
+  label: Immortality Without Renewal
+  description: Deathlessness, extended life, or escape from death becomes incomplete,
+    burdensome, or defective because youth, vitality, release, or transformation is
+    absent.
+  children:
+  - immortality_without_eternal_youth
+  aliases: []
+  related:
+  - lament_and_mourning
+  - sacred_treasures
+  - sacred_knowledge
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - death_and_transformation
+  draft_reason_existing_groups_insufficient: Existing death_and_transformation groups
+    emphasize death, return, or renewal; this motif specifically concerns failed or
+    incomplete immortality.
+- id: external_soul_life_object
+  label: External Soul and Life-Object
+  description: Life, death, consciousness, or vulnerability is bound to a soul, object,
+    animal, plant, container, or other receptacle kept outside the body; harming,
+    guarding, or handling it controls the person or spirit.
+  children:
+  - invulnerability_through_soul_removal_and_guarded_soul_box
+  - life_bound_tree_spirit
+  - life_object_as_death_object
+  - life_or_consciousness_controlled_by_handling_an_external_soul_object
+  - life_or_death_bound_to_an_animal_receptacle
+  - life_or_soul_deposited_in_an_external_object
+  - life_or_soul_kept_outside_the_body
+  aliases: []
+  related:
+  - shapeshifter
+  - sacred_knowledge
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - death_and_transformation
+  - sacred_vessel
+  - sacred_treasures
+  draft_reason_existing_groups_insufficient: Existing groups cover containers, treasures,
+    and death-transformation generally, but not the specific narrative mechanism of
+    an externalized soul or life-token controlling mortality.
 raw_motif_group_index:
   _meta_textual:
     group_id: _meta_textual
@@ -3287,6 +3331,155 @@ raw_motif_group_index:
       pattern not covered by judgment or sacrifice alone. Caution: Culturally sensitive;
       review terminology against source tradition and avoid assuming demonology where
       the source uses other spirit categories.'
+  immortality_experienced_as_lamentation:
+    group_id: lament_and_mourning
+    relationship: child
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The emphasis is on grief or tragic recognition associated with deathlessness
+      rather than resurrection or return. Caution: If the passage centers on the curse
+      or mechanics of immortality, a separate immortality motif may be needed.'
+  immortality_substance_withheld_and_destroyed:
+    group_id: sacred_treasures
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'An object or substance confers immortality and is withheld or destroyed,
+      fitting power-object logic. Caution: Could also relate to forbidden_knowledge
+      or death_and_transformation if the passage stresses denied access to deathlessness.'
+  immortality_without_eternal_youth:
+    group_id: immortality_without_renewal
+    relationship: narrower_than
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is a recurring mythic pattern where deathlessness is separated from
+      youth or renewal, not covered well by resurrection or death-rebirth. Caution:
+      Single occurrence in this audit; promote only if additional examples recur across
+      traditions.'
+  impermanence_of_glory_after_a_great_teacher_s_death:
+    group_id: lament_and_mourning
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The label frames reflection after death as tragic recognition of impermanence
+      and loss. Caution: May be a doctrinal teaching on impermanence rather than a
+      narrative motif; consider sacred_knowledge if didactic context dominates.'
+  inner_division_of_the_soul:
+    group_id: duality
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The divided soul expresses internal opposition or complementarity rather
+      than a death journey itself. Caution: If treated as psychology or ethics in
+      the source, sacred_knowledge or an inner_life group may fit better.'
+  intermediary_spirits_carry_prayers_and_divine_gifts:
+    group_id: divine_intervention
+    relationship: role_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Intermediary spirits mediate traffic between human and divine realms through
+      prayers and gifts. Caution: If ritual exchange is central, also review under
+      sacred_exchange; if psychopompic, review under afterlife_passage.'
+  intoxication_as_spirit_possession_or_inspiration:
+    group_id: dream_and_vision
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Intoxication functions as altered perception, possession, or inspired
+      access to nonordinary knowledge. Caution: Comparative label may be broad; if
+      ritual mechanics dominate, consider sacred_exchange or initiation.'
+  invulnerability_through_externalized_soul:
+    group_id: external_soul_hidden_life
+    relationship: child
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is a distinct and widely recognizable tale motif: life or vulnerability
+      is stored outside the body. Caution: Do not collapse into generic immortality;
+      the key function is externalized life as source of invulnerability and vulnerability.'
+  invulnerability_through_soul_removal_and_guarded_soul_box:
+    group_id: external_soul_life_object
+    relationship: child
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The motif centers on life or vulnerability being stored outside the body,
+      a recurring tale-pattern not well captured by existing death, vessel, or treasure
+      groups. Caution: Single occurrence in this audit; confirm source evidence distinguishes
+      soul-removal from ordinary protective objects or vessels.'
+  iron_as_apotropaic_protection_against_spirits:
+    group_id: sacred_treasures
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'Iron functions as a protective power object against spirits, fitting the
+      sacred_treasures group’s protection-object scope. Caution: May deserve a future
+      apotropaic/protective magic group if many charms, metals, amulets, or spirit-repelling
+      objects recur.'
+  life_bound_tree_spirit:
+    group_id: external_soul_life_object
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'A life-bound tree spirit is a plant-form variant of life externally bound
+      to a tree or life-token. Caution: If the passage emphasizes the sacred tree
+      as cosmic axis rather than mortality linkage, axis_mundi/sacred_tree_axis may
+      be the better placement.'
+  life_object_as_death_object:
+    group_id: external_soul_life_object
+    relationship: child
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'The object that sustains life also becomes the means of death, matching
+      the external life-object mechanism. Caution: Confirm it is not merely a sacred
+      treasure, curse object, or weapon without an external-soul relation.'
+  life_or_consciousness_controlled_by_handling_an_external_soul_object:
+    group_id: external_soul_life_object
+    relationship: child
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is a direct statement of the external soul/life-object pattern: handling
+      an external receptacle controls life or consciousness. Caution: Review whether
+      consciousness-control should also cross-index with enchantment, possession,
+      or sacred knowledge if evidence supports it.'
+  life_or_death_bound_to_an_animal_receptacle:
+    group_id: external_soul_life_object
+    relationship: symbolic_variant
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'An animal receptacle is a specific external-soul container controlling
+      life or death. Caution: If the animal primarily acts as guide, guardian, mount,
+      or shapeshifted form, cross-review with shapeshifter or threshold_guardian.'
+  life_or_soul_deposited_in_an_external_object:
+    group_id: external_soul_life_object
+    relationship: child
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is the core external-soul motif: life or soul is deposited outside
+      the body in an object. Caution: May overlap with sacred_vessel or sacred_treasures
+      depending on whether the receptacle is a container or power object.'
+  life_or_soul_kept_outside_the_body:
+    group_id: external_soul_life_object
+    relationship: broader_label
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
+    notes: 'This is the broad label for the external-soul pattern in which life or
+      soul is kept outside the body. Caution: Use narrower child labels where the
+      receptacle is specified as object, animal, tree, box, or vessel.'
 expansion_draft:
   generated_on: '2026-04-28'
   source_suggestions_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-28-unmapped-tiny/suggestions.jsonl
@@ -3294,11 +3487,11 @@ expansion_draft:
   purpose: Draft expansion generated from model normalization suggestions. Review
     before merging into taxonomy/motif-normalization.yml.
   include_low_confidence: false
-  suggestion_count: 140
-  accepted_mapping_count: 103
-  new_group_candidate_count: 15
+  suggestion_count: 160
+  accepted_mapping_count: 119
+  new_group_candidate_count: 17
   excluded_count: 4
-  needs_review_count: 33
+  needs_review_count: 37
   already_known_count: 0
 expansion_review_flags:
   low_confidence_or_needs_human_review:
@@ -3801,6 +3994,66 @@ expansion_review_flags:
       or ritual motif.
     cautions: May be better excluded as doctrinal commentary unless the passage uses
       it as a recurring mythic image or cosmological pattern.
+  - motif_id: immortality_and_unity_of_the_created_state
+    label: Immortality and unity of the created state
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label appears philosophical or doctrinal and does not clearly express
+      a narrative motif without passage context.
+    cautions: May belong under sacred_knowledge, death_and_transformation, or a future
+      soul/immortality group depending on evidence.
+  - motif_id: indestructible_immortal_soul
+    label: indestructible immortal soul
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: This is likely a doctrinal claim about the soul rather than a narrative
+      motif; context is needed.
+    cautions: Could support afterlife_passage, sacred_knowledge, or a new soul/immortality
+      group, but should not be forced into resurrection.
+  - motif_id: killed_animal_soul_or_spirit_monitors_human_treatment
+    label: Killed animal soul or spirit monitors human treatment
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Could concern animal souls, hunting ethics, ancestor-like spirits,
+      taboo, or moral reciprocity; the best placement depends on passage context.
+    cautions: Avoid forcing into divine_judgment unless a sacred authority evaluates
+      conduct; avoid sacrifice unless the killing is ritually framed.
+  - motif_id: life_and_death_dependent_on_human_will
+    label: life and death dependent on human will
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label is broad and could indicate fate, divine privilege, resurrection
+      power, medical agency, curse, or voluntary death.
+    cautions: Needs source evidence before mapping to death_and_transformation, death_by_fate,
+      divine_intervention, or sacred_knowledge.
   new_group_candidates:
   - id: apotropaic_protection
     label: Apotropaic Protection Against Spirits
@@ -3977,6 +4230,7 @@ expansion_review_flags:
     - external_life_or_soul_hidden_in_hair
     - external_life_or_soul_hidden_outside_the_body
     - external_life_soul_fate_safety_or_strength_kept_outside_the_body
+    - invulnerability_through_externalized_soul
     aliases: []
     related:
     - shapeshifter
@@ -4098,6 +4352,49 @@ expansion_review_flags:
     draft_reason_existing_groups_insufficient: Existing groups cover sacred exchange,
       sacrifice, and divine action, but not the diagnostic and healing structure of
       affliction by spirits and ritual expulsion.
+  - id: immortality_without_renewal
+    label: Immortality Without Renewal
+    description: Deathlessness, extended life, or escape from death becomes incomplete,
+      burdensome, or defective because youth, vitality, release, or transformation
+      is absent.
+    children:
+    - immortality_without_eternal_youth
+    aliases: []
+    related:
+    - lament_and_mourning
+    - sacred_treasures
+    - sacred_knowledge
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - death_and_transformation
+    draft_reason_existing_groups_insufficient: Existing death_and_transformation groups
+      emphasize death, return, or renewal; this motif specifically concerns failed
+      or incomplete immortality.
+  - id: external_soul_life_object
+    label: External Soul and Life-Object
+    description: Life, death, consciousness, or vulnerability is bound to a soul,
+      object, animal, plant, container, or other receptacle kept outside the body;
+      harming, guarding, or handling it controls the person or spirit.
+    children:
+    - invulnerability_through_soul_removal_and_guarded_soul_box
+    - life_bound_tree_spirit
+    - life_object_as_death_object
+    - life_or_consciousness_controlled_by_handling_an_external_soul_object
+    - life_or_death_bound_to_an_animal_receptacle
+    - life_or_soul_deposited_in_an_external_object
+    - life_or_soul_kept_outside_the_body
+    aliases: []
+    related:
+    - shapeshifter
+    - sacred_knowledge
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - death_and_transformation
+    - sacred_vessel
+    - sacred_treasures
+    draft_reason_existing_groups_insufficient: Existing groups cover containers, treasures,
+      and death-transformation generally, but not the specific narrative mechanism
+      of an externalized soul or life-token controlling mortality.
   excluded_from_pattern_queries:
   - motif_id: animal_or_lizard_form_of_the_soul_as_a_variant_marker
     label: animal or lizard form of the soul as a variant marker
