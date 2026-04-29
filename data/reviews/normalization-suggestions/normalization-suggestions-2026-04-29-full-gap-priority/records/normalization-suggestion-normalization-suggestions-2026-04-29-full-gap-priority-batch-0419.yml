@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0419
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.poetic-contest-with-prize-dedication
+  motif_id: poetic_contest_with_prize_dedication
+  label: poetic contest with prize dedication
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: A poetic contest centers on speech performance and public recognition,
+    but prize dedication may be ritual or festival-specific.
+  cautions: Single Greek occurrence; may be an event detail rather than a durable
+    motif. Verify whether the dedication has sacred function.
+  suggested_aliases:
+  - poetic competition
+  - prize dedication after contest
+  - ritualized poetic contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poetic-praise-increases-warrior-courage
+  motif_id: poetic_praise_increases_warrior_courage
+  label: Poetic praise increases warrior courage
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'Poetic speech has efficacy: praise changes a warrior''s courage and
+    action.'
+  cautions: Also relates to divine_warrior or sacred_combat if the passage emphasizes
+    battle role over speech power.
+  suggested_aliases:
+  - praise empowers warrior
+  - battle praise as courage-giving speech
+  - poetic exhortation before combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-battle-funeral-lament-by-bereaved-women
+  motif_id: post_battle_funeral_lament_by_bereaved_women
+  label: post-battle funeral lament by bereaved women
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif centers on grief and lament after battle, matching the established
+    mourning group.
+  cautions: If formal rites or honors are foregrounded, heroic_funeral_rites may be
+    a secondary placement.
+  suggested_aliases:
+  - battlefield lament
+  - women's funeral lament
+  - lament for fallen warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-hero-cult
+  motif_id: posthumous_hero_cult
+  label: posthumous hero cult
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A cult for a dead hero extends memorial and ritual care after heroic
+    death.
+  cautions: Could warrant a future hero-cult group if many cultic afterlife or civic
+    worship labels recur; distinguish from mere burial honors.
+  suggested_aliases:
+  - hero cult after death
+  - cult of the dead hero
+  - posthumous heroic veneration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-proof-of-victory-from-position-of-bodies
+  motif_id: posthumous_proof_of_victory_from_position_of_bodies
+  label: posthumous proof of victory from position of bodies
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label concerns evidence of combat outcome after death, but it is
+    highly episode-specific.
+  cautions: May be a narrative proof detail rather than a reusable motif; preserve
+    as evidence under combat or warrior death only if recurrent.
+  suggested_aliases:
+  - dead bodies prove victory
+  - posthumous combat outcome sign
+  - victory shown by corpse position
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.postponement-of-conflict-until-a-destined-great-battle
+  motif_id: postponement_of_conflict_until_a_destined_great_battle
+  label: postponement of conflict until a destined great battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The conflict is governed by destiny and deferred until a fated climactic
+    battle.
+  cautions: If the emphasis is warfare structure rather than fate, sacred_combat may
+    be the better primary group.
+  suggested_aliases:
+  - fated battle deferred
+  - conflict reserved for destined battle
+  - postponed combat by destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.praise-of-solar-deity-before-renewed-combat
+  motif_id: praise_of_solar_deity_before_renewed_combat
+  label: Praise of solar deity before renewed combat
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Praise of a deity before combat seeks divine support or renewed capacity
+    in battle.
+  cautions: Could also fit sacred_fire or theophany if solar manifestation is central;
+    avoid reducing solar deity to fire unless text supports it.
+  suggested_aliases:
+  - solar invocation before battle
+  - hymn to sun god before combat
+  - divine praise renews combat strength
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.praise-of-the-opponent-as-heroic-characterization
+  motif_id: praise_of_the_opponent_as_heroic_characterization
+  label: praise of the opponent as heroic characterization
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as literary characterization rather than a symbolic or
+    narrative motif.
+  cautions: If praise has ritual, magical, or social force in the passage, review
+    under storytelling_as_power or sacred_combat instead.
+  suggested_aliases:
+  - opponent praise as characterization
+  - heroic characterization through praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.praise-or-rebuke-restores-a-warrior-s-courage
+  motif_id: praise_or_rebuke_restores_a_warrior_s_courage
+  label: praise or rebuke restores a warrior's courage
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Evaluative speech restores courage and changes the warrior's capacity
+    to act.
+  cautions: May be grouped with poetic_praise_increases_warrior_courage; retain rebuke
+    as a distinct speech-act detail if evidence supports it.
+  suggested_aliases:
+  - rebuke restores courage
+  - praise restores warrior courage
+  - speech restores battle courage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pre-combat-arming-and-approach-to-the-ford
+  motif_id: pre_combat_arming_and_approach_to_the_ford
+  label: pre-combat arming and approach to the ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: Arming and moving to the ford are part of a ritually charged combat sequence,
+    especially in Celtic single-combat contexts.
+  cautions: If the ford encounter functions mainly as a boundary test, threshold_guardian
+    or initiation may be relevant secondary placements.
+  suggested_aliases:
+  - arming before ford combat
+  - approach to ford for single combat
+  - pre-battle arming sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence heroic-combat or literary-speech
+  details; preserve local evidence and avoid promoting to canonical taxonomy without
+  recurrence.
+- Speech acts affecting warriors may justify later review for a more specific battle-poetry
+  or efficacious-praise subgroup, but current groups can hold them provisionally.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: atlas_ai
+  reviewed_at: ''
+  notes: Provisional placements only; human review should check passage context for
+    ritual efficacy versus literary characterization.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0419
+  input_sha256: 6c51507cf6116465c1591b5cac9bf439131ccfa7fdf789f3f5c1da47d70e7a39

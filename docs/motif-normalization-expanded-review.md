@@ -6,12 +6,12 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 
 ## Summary
 
-- Suggestions reviewed: 4120
-- Accepted draft mappings: 143
-- New canonical group candidates: 70
-- Low-confidence / needs human review: 1096
-- Suggested exclusions: 227
-- Already known in base normalization: 2654
+- Suggestions reviewed: 4320
+- Accepted draft mappings: 145
+- New canonical group candidates: 71
+- Low-confidence / needs human review: 1142
+- Suggested exclusions: 237
+- Already known in base normalization: 2796
 
 ## New Group Candidates
 
@@ -51,6 +51,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `funerary_rites` | Funerary Rites and Mortuary Ritual | 1 | Existing groups cover afterlife navigation, ancestor feeding, and heroic funerals, but not ordinary mortuary rites such as cremation procedures. |
 | `golden_age_primordial_peace` | Golden Age and Primordial Peace | 1 | Existing groups cover creation, cycles, kingship, and judgment, but none specifically captures the mythic memory of an original peaceful age or divine peace-place before rupture. |
 | `greed_temperance_reversal` | Greed, Temperance, and Moral Reversal | 4 | Pride/downfall covers overreach, but these labels specifically concern avarice, temperance, and wealth or desire reversals. |
+| `heroic_relics` | Heroic Relics and Oracular Remains | 1 | Existing groups cover funeral rites and power objects, but not the recurring function of a dead hero's remains as an active postmortem sacred agent. |
 | `heroic_wounds_and_martial_proof` | Heroic Wounds and Martial Proof | 2 | Existing combat groups cover battle, duty, and warrior death but not the evidentiary use of wounds or bodily marks to prove service or honor. |
 | `hospitality_test` | Hospitality Test and Stranger Guest | 3 | Sacred_exchange covers reciprocal hospitality but does not preserve the distinctive test structure and liminal stranger role found across several labels in this batch. |
 | `inexhaustible_provision` | Inexhaustible Provision and Abundance | 1 | Existing groups cover sacred objects, vessels, and exchange, but none specifically preserve the recurring function of inexhaustible abundance or self-renewing provision. |
@@ -63,7 +64,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `mercy_compassion_forgiveness` | Mercy, Compassion, and Forgiveness | 5 | Existing groups cover combat, law, judgment, and discipline, but none cleanly captures mercy or forgiveness as the primary narrative function. |
 | `miracle_contest_supernatural_proof` | Miracle Contest and Supernatural Proof | 2 | Existing groups can cover divine action or revelation, but they do not specifically capture adversarial miracle contests as proof of authority. |
 | `miraculous_provision` | Miraculous Provision and Inexhaustible Food | 1 | Existing groups cover offering, exchange, and power objects, but not the distinct function of miraculous abundance or inexhaustible sustenance. |
-| `monster_combat` | Monster Combat and Heroic Overcoming | 2 | Existing combat groups emphasize divine warriors, sacred warfare, or threshold guardians; they do not clearly hold non-divine heroic monster-slaying episodes where the creature is the central ordeal. |
+| `monster_combat` | Monster Combat and Heroic Overcoming | 3 | Existing combat groups emphasize divine warriors, sacred warfare, or threshold guardians; they do not clearly hold non-divine heroic monster-slaying episodes where the creature is the central ordeal. |
 | `monster_lair_devouring_threat` | Monster Lair and Devouring Threat | 1 | Existing groups cover guardians, combat, and descent but lack a stable place for devouring monster habitation as an ordeal setting. |
 | `monstrous_perception` | Monstrous Perception and Shared Senses | 1 | Existing groups cover vision, guardians, and transformation, but not recurring abnormal bodily perception as the key motif. |
 | `past_life_identity` | Past-Life Identity and Karmic Continuity | 7 | Existing death, wisdom, and judgment groups do not specifically cover rebirth-identity disclosure and karmic continuity across lives. |
@@ -593,7 +594,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `holy_site_memorialization_over_hidden_sleepers` | holy site memorialization over hidden sleepers | needs_human_review | `death_and_transformation` Death, Rebirth, and Transformation | low | low confidence |
 | `holy_water_from_saintly_body` | holy water from saintly body | needs_human_review | `sacred_waters` Sacred Waters and Passage Through Water | low | low confidence |
 
-_Showing first 500 of 1096 review rows._
+_Showing first 500 of 1142 review rows._
 
 ## Suggested Exclusions
 
@@ -765,18 +766,27 @@ _Showing first 500 of 1096 review rows._
 | `political_or_cultural_rationalization_of_mythic_incest_story` | Political or cultural rationalization of mythic incest story | high | The label describes interpretation or rationalization of a myth rather than the mythic motif itself. |
 | `poverty_and_crime_arising_from_failed_education_and_constitution` | poverty and crime arising from failed education and constitution | medium | The label reads as political-philosophical analysis or commentary rather than a recurring mythic narrative motif. |
 | `praise_contrasted_with_refusal_to_fight` | praise contrasted with refusal to fight | medium | The label reads like a passage-level contrast or characterization note rather than a stable mythic motif. |
+| `praise_of_the_opponent_as_heroic_characterization` | praise of the opponent as heroic characterization | medium | The label reads as literary characterization rather than a symbolic or narrative motif. |
 | `pre_coinage_object_exchange` | Pre-coinage object exchange | high | This is likely an economic or historical-context observation about exchange media, not a symbolic narrative motif. |
 | `predator_prey_imagery_for_captive_victim` | predator-prey imagery for captive victim | medium | The label describes imagery applied to a captive victim, likely a literary or rhetorical observation rather than a narrative motif. |
+| `predator_simile_for_battlefield_rescue` | predator simile for battlefield rescue | medium | This appears to describe a poetic simile used in a battle scene rather than a reusable narrative motif. |
+| `preliminary_tale_before_major_heroic_narrative` | preliminary tale before major heroic narrative | high | The label describes narrative arrangement or textual framing, not a symbolic motif in the story world. |
+| `preludes_leading_to_a_central_heroic_narrative` | Preludes leading to a central heroic narrative | high | This is a textual or compositional framing observation rather than a mythic motif. |
 | `prequel_tale_explaining_resources_for_a_larger_raid` | Prequel tale explaining resources for a larger raid | high | The label describes narrative placement and explanatory function within an epic cycle, not a symbolic motif. |
 | `preservation_of_older_stories_by_incorporation_into_a_great_epic` | Preservation of older stories by incorporation into a great epic | high | This is a transmission or redaction observation about story preservation, not a narrative motif inside the tradition. |
 | `preservation_through_selective_transmission` | preservation through selective transmission | high | The label describes a process of textual or oral transmission rather than a symbolic or narrative motif. |
 | `prose_narrative_interwoven_with_chanted_or_rhetorical_verse` | prose narrative interwoven with chanted or rhetorical verse | high | The label describes literary form or composition rather than a symbolic or narrative motif. |
+| `protected_archer_behind_warrior_s_shield` | protected archer behind warrior’s shield | medium | This reads as a specific battle tactic or episode detail rather than a durable symbolic motif. |
 | `proverbial_image_of_the_solitary_log` | proverbial image of the solitary log | medium | The label reads as a proverbial or rhetorical image rather than a narrative motif. |
+| `quarrel_of_heroic_leaders_as_poetic_nucleus` | quarrel of heroic leaders as poetic nucleus | high | The phrase 'as poetic nucleus' describes literary structure or scholarly analysis rather than a motif in the narrative world. |
 | `quarrel_over_superiority_of_fruits` | Quarrel over superiority of fruits | medium | This reads as a narrow contest or dialogue detail about fruits rather than a broad mythic pattern. |
 | `rear_ranged_fighters_supporting_armored_front_line` | rear ranged fighters supporting armored front line | high | This is a tactical battlefield arrangement rather than a symbolic or narrative motif in the current taxonomy. |
 | `reciprocal_prayer_at_textual_conclusion` | Reciprocal prayer at textual conclusion | medium | The label points to a closing textual convention rather than a recurring narrative or symbolic motif. |
 | `recognizable_troop_appearance` | recognizable troop appearance | medium | The label reads like descriptive episode detail about a troop's appearance rather than a reusable mythic motif. |
+| `regional_heroic_glorification_and_counter_tradition` | Regional heroic glorification and counter-tradition | high | The label describes reception, regional tradition, or scholarly comparison rather than a narrative motif. |
+| `regional_heroic_tradition_survival` | Regional heroic-tradition survival | high | This is a tradition-survival or reception-history observation, not a reusable symbolic or narrative motif. |
 | `rejection_of_false_magical_embellishment` | rejection of false magical embellishment | medium | The wording suggests editorial or interpretive rejection of an embellishment rather than a motif in the story world. |
+| `religious_hero_reidentified_across_traditions` | religious hero reidentified across traditions | high | The label describes cross-traditional identification or reception of a hero rather than a motif within the narrative itself. |
 | `religious_plurality_under_political_independence` | religious plurality under political independence | medium | The label reads as a historical-social condition rather than a symbolic, ritual, or narrative motif. |
 | `religious_syncretism_and_festival_transfer` | religious syncretism and festival transfer | high | The label describes historical/religious interpretation of festival transfer rather than a narrative or symbolic motif. |
 | `restoration_analogy_after_defeat_of_an_opponent` | restoration analogy after defeat of an opponent | medium | The wording points to an analogy or interpretive comparison rather than a stable narrative motif. |
@@ -790,6 +800,7 @@ _Showing first 500 of 1096 review rows._
 | `sacred_story_made_by_religious_reinterpretation` | Sacred story made by religious reinterpretation | high | The label describes reinterpretation or religious redaction of a story rather than a narrative motif within the story. |
 | `safe_withdrawal_from_a_known_threat` | safe withdrawal from a known threat | medium | Reads as a generic plot action or prudential behavior rather than a symbolic or recurring motif. |
 | `same_story_adapted_to_local_customs` | Same story adapted to local customs | high | The label describes adaptation, reception, or comparative transmission of a story rather than a narrative motif. |
+| `scout_reports_the_approaching_enemy_host` | scout reports the approaching enemy host | medium | This reads as a common battle-scene narrative detail rather than a symbolic or structural mythic motif. |
 | `sea_god_compared_with_poseidon` | sea god compared with Poseidon | high | The label describes comparative identification with Poseidon rather than a narrative or symbolic motif. |
 | `secluded_royal_interview` | secluded royal interview | medium | The label reads as a scene or courtly plot circumstance rather than a durable symbolic or narrative motif. |
 | `secret_confession_by_letter` | secret confession by letter | medium | This appears to be a communication device or plot mechanism rather than a broad mythic motif. |
@@ -827,4 +838,4 @@ _Showing first 500 of 1096 review rows._
 | `withdrawal_to_private_room_creates_suspicion` | withdrawal to private room creates suspicion | medium | The label reads as a contextual plot beat rather than a recurring mythic or symbolic motif. |
 | `woman_enters_domestic_meal_with_textile_tool` | woman enters domestic meal with textile tool | medium | The label reads as an episode-specific domestic staging detail rather than a reusable symbolic motif. |
 
-_Showing first 227 of 227 exclusion rows._
+_Showing first 237 of 237 exclusion rows._

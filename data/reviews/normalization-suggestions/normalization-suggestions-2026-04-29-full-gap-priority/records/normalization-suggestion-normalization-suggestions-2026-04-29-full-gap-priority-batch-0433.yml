@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0433
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.single-combat-decides-a-phase-of-battle
+  motif_id: single_combat_decides_a_phase_of_battle
+  label: single combat decides a phase of battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Single combat determining battle outcome fits ritualized warfare and
+    combat as a decisive social or cosmic contest.
+  cautions: Single occurrence; preserve phase-of-battle detail as evidence rather
+    than canonical child unless it recurs.
+  suggested_aliases:
+  - decisive single combat
+  - single combat deciding battle phase
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-delays-invasion
+  motif_id: single_combat_delays_invasion
+  label: single combat delays invasion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A duel used to delay invasion is a ritualized or strategic combat substitute
+    within wider war.
+  cautions: Could also index hero_journey if the emphasis is the hero's delaying ordeal
+    rather than warfare structure.
+  suggested_aliases:
+  - duel delays invasion
+  - single combat as delaying tactic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-sequence-in-battle
+  motif_id: single_combat_sequence_in_battle
+  label: single combat sequence in battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: A sequence of duels embedded in battle fits the broader sacred_combat
+    pattern of ritualized warfare.
+  cautions: If the passage is merely battlefield narration without ritual or decisive
+    function, it may be an episode detail.
+  suggested_aliases:
+  - battle duel sequence
+  - sequence of single combats
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-substituted-for-mass-battle
+  motif_id: single_combat_substituted_for_mass_battle
+  label: single combat substituted for mass battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Replacing mass battle with a duel is a clear ritualized warfare structure.
+  cautions: May overlap with legal ordeal or royal legitimacy if the duel determines
+    rightful rule or judgment.
+  suggested_aliases:
+  - single combat in place of mass battle
+  - duel substituted for battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-substitutes-for-wider-battle
+  motif_id: single_combat_substitutes_for_wider_battle
+  label: Single combat substitutes for wider battle
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: alias
+  confidence: high
+  rationale: This is effectively the same motif as single combat substituted for mass
+    or wider battle.
+  cautions: Normalize spelling/case variants while preserving source tradition and
+    episode context.
+  suggested_aliases:
+  - single combat substituted for mass battle
+  - duel substitutes for wider battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-taunt-and-counter-taunt-before-weapon-exchange
+  motif_id: single_combat_taunt_and_counter_taunt_before_weapon_exchange
+  label: single-combat taunt and counter-taunt before weapon exchange
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Verbal taunts before weapon exchange are a formalized prelude within
+    single combat and ritual warfare.
+  cautions: Likely too granular as a motif unless many combat-speech formulas recur;
+    could also relate to storytelling or heroic honor rhetoric.
+  suggested_aliases:
+  - taunt before single combat
+  - combat boast and counter-boast
+  - pre-duel taunt exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-to-settle-a-collective-war
+  motif_id: single_combat_to_settle_a_collective_war
+  label: single combat to settle a collective war
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A duel settling a collective war is a paradigmatic combat substitute
+    for communal conflict.
+  cautions: If the duel is framed as oath, treaty, or divine adjudication, covenant
+    or divine_judgment may be secondary mappings.
+  suggested_aliases:
+  - duel to settle war
+  - single combat settles collective conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-used-to-delay-an-invading-army
+  motif_id: single_combat_used_to_delay_an_invading_army
+  label: single combat used to delay an invading army
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: alias
+  confidence: high
+  rationale: This is a close wording variant of single combat delays invasion.
+  cautions: Treat as an alias/duplicate unless source evidence distinguishes a different
+    function.
+  suggested_aliases:
+  - single combat delays invasion
+  - duel used to delay invading army
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-helper-holds-off-attackers-with-limited-weapons
+  motif_id: single_helper_holds_off_attackers_with_limited_weapons
+  label: Single helper holds off attackers with limited weapons
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A lone helper holding off attackers is a heroic combat role, closer to
+    warrior-defense than ritualized duel structure.
+  cautions: Could be an episode-specific battle detail; map to sacred_combat instead
+    if the formal combat setting is central.
+  suggested_aliases:
+  - lone helper holds off attackers
+  - single defender with limited weapons
+  - heroic rearguard defense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-hero-against-a-large-hostile-group
+  motif_id: single_hero_against_a_large_hostile_group
+  label: single hero against a large hostile group
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on a heroic warrior facing many opponents, fitting
+    the warrior role within sacred combat.
+  cautions: If the passage is an initiation ordeal or heroic journey episode rather
+    than sacred battle, hero_journey or initiation may be better secondary mappings.
+  suggested_aliases:
+  - lone hero against many
+  - single warrior against hostile group
+  - hero against overwhelming odds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are near-duplicates around single combat substituting for, delaying,
+  or deciding wider battle. Consider consolidating them as aliases or children under
+  sacred_combat rather than promoting separate canonical motifs.
+- Single-combat labels may overlap with divine_warrior, heroic ordeal, legal ordeal,
+  covenant, or divine_judgment depending on passage framing; source evidence should
+  decide secondary mappings.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0433
+  input_sha256: 2a436841e6ce498e4f08b0cc59c9d02e6a26c3c5c1061408af44187d5d532d8e

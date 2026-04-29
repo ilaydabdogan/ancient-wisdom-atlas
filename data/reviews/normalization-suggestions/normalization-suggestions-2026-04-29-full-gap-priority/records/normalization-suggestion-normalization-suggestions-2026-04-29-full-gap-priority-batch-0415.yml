@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0415
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.omens-announcing-war-before-settlement
+  motif_id: omens_announcing_war_before_settlement
+  label: omens announcing war before settlement
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Omens announcing war function as prophetic signs revealing future conflict.
+  cautions: The settlement context may be historical or etiological; verify that the
+    omen is narrated as sacred portent rather than chronology.
+  suggested_aliases:
+  - war omen
+  - portent announcing war
+  - omens before war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.omens-before-combat
+  motif_id: omens_before_combat
+  label: Omens before combat
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: Pre-combat omens are signs that disclose or foreshadow the sacred significance
+    or outcome of battle.
+  cautions: May also support sacred_combat when the battle itself is ritually or cosmically
+    framed.
+  suggested_aliases:
+  - battle omens
+  - combat portents
+  - omens before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-blood-cloud-before-battle
+  motif_id: ominous_blood_cloud_before_battle
+  label: ominous blood cloud before battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A blood-cloud before battle is a visual portent foreshadowing violence
+    and death.
+  cautions: Highly image-specific; preserve blood-cloud detail as evidence. If the
+    cloud is a divine manifestation, theophany may be a secondary fit.
+  suggested_aliases:
+  - blood cloud portent
+  - battle blood omen
+  - ominous battle cloud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-farewell-before-battle
+  motif_id: ominous_farewell_before_battle
+  label: ominous farewell before battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe foreshadowing of heroic death, lament, or a passage-specific
+    farewell scene.
+  cautions: Do not map to dream_and_vision unless an actual omen or prophetic sign
+    is present; could instead belong under lament_and_mourning or death_by_fate.
+  suggested_aliases:
+  - farewell before battle
+  - fatal farewell
+  - pre-battle farewell
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-lone-warrior-approaching-a-camp
+  motif_id: ominous_lone_warrior_approaching_a_camp
+  label: ominous lone warrior approaching a camp
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase may mark a warrior-encounter motif, a threatening apparition,
+    or a scene-specific narrative detail.
+  cautions: Needs passage evidence to distinguish divine_warrior, threshold_guardian,
+    sacred_combat, or mere battlefield staging.
+  suggested_aliases:
+  - lone warrior omen
+  - approaching warrior as portent
+  - ominous warrior arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-midnight-battlefield
+  motif_id: ominous_midnight_battlefield
+  label: Ominous midnight battlefield
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This reads as an atmospheric setting rather than a stable motif unless
+    a vision, omen, or ritual event occurs there.
+  cautions: May be excluded as passage detail if no supernatural sign or recurring
+    battlefield-night pattern is present.
+  suggested_aliases:
+  - midnight battlefield
+  - ominous battlefield at night
+  - night battlefield portent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-portents-before-battle
+  motif_id: ominous_portents_before_battle
+  label: ominous portents before battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: Portents before battle are prophetic signs revealing impending violence
+    or outcome.
+  cautions: If the emphasis is the sacred legitimacy of combat, sacred_combat may
+    be a useful secondary grouping.
+  suggested_aliases:
+  - battle portents
+  - ominous battle omens
+  - omens before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-token-foretelling-hero-s-destruction
+  motif_id: ominous_token_foretelling_hero_s_destruction
+  label: ominous token foretelling hero's destruction
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A token that foretells destruction functions as a material omen or prophetic
+    sign.
+  cautions: If the token has independent sacred power, also review under sacred_treasures;
+    if destruction is fated, death_by_fate may be secondary.
+  suggested_aliases:
+  - prophetic token
+  - token foretelling death
+  - death-omen token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-warnings-ignored-before-a-fatal-visit
+  motif_id: ominous_warnings_ignored_before_a_fatal_visit
+  label: ominous warnings ignored before a fatal visit
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ignored warnings before a fatal visit often frame death as foretold yet
+    unavoidable.
+  cautions: If the warnings are dreams, omens, or prophetic speech, dream_and_vision
+    may be a parallel mapping; source context should confirm fatalistic framing.
+  suggested_aliases:
+  - ignored death warning
+  - fatal visit warning
+  - warnings ignored before death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-youthful-hero-overcomes-many-opponents-in-games
+  motif_id: one_youthful_hero_overcomes_many_opponents_in_games
+  label: one youthful hero overcomes many opponents in games
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A youthful hero defeating many opponents in games displays precocious
+    prowess as a status-transforming ordeal.
+  cautions: Could also fit miraculous_child or hero_journey if the episode marks childhood
+    signs or heroic departure; avoid treating ordinary games as sacred combat without
+    evidence.
+  suggested_aliases:
+  - youthful hero defeats many
+  - heroic games ordeal
+  - precocious hero in games
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are omen/portent variants around battle; dream_and_vision
+  is the best existing broad group when the sign function is explicit.
+- Atmospheric or scene-specific labels should remain under human review unless passage
+  evidence shows prophecy, sacred combat, fate, or ritual function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional placements only; confirm with source passages, especially for
+    over-specific Celtic Irish and Hindu battle-scene labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0415
+  input_sha256: 193b88cb4f6e61900b741b69f53f03bfc00484e6c53a3796967cb19363a38feb

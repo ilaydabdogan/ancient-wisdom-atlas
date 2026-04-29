@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0432
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.single-combat-against-boastful-foreign-champion
+  motif_id: single_combat_against_boastful_foreign_champion
+  label: single combat against boastful foreign champion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A champion duel in a conflict setting fits the sacred_combat group; boastful/foreign
+    details are episode-specific.
+  cautions: Single occurrence; preserve challenger characterization as evidence detail
+    rather than a separate motif.
+  suggested_aliases:
+  - boastful foreign champion duel
+  - single combat with foreign champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-anticipated-at-a-ford
+  motif_id: single_combat_anticipated_at_a_ford
+  label: single combat anticipated at a ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: The sacred_combat group explicitly includes single combat at fords as
+    ritually significant warfare.
+  cautions: Ford setting may also be a threshold motif if the passage emphasizes boundary
+    crossing more than combat.
+  suggested_aliases:
+  - anticipated ford duel
+  - single combat at ford
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-as-decision-of-collective-conflict
+  motif_id: single_combat_as_decision_of_collective_conflict
+  label: single combat as decision of collective conflict
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A representative duel resolving a wider conflict is a clear ritualized
+    warfare function.
+  cautions: If the passage is primarily legal or political arbitration, royal_legitimacy
+    or sacred_law may be secondary.
+  suggested_aliases:
+  - champion duel deciding war
+  - single combat deciding collective conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-as-settlement-of-a-marital-and-political-dispute
+  motif_id: single_combat_as_settlement_of_a_marital_and_political_dispute
+  label: single combat as settlement of a marital and political dispute
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The duel functions as ritualized settlement of a broader social and political
+    conflict.
+  cautions: Composite label; marital dispute may also relate to sacred_marriage or
+    royal_legitimacy depending on source evidence.
+  suggested_aliases:
+  - duel settling marital dispute
+  - single combat settling political dispute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-at-a-defended-ford
+  motif_id: single_combat_at_a_defended_ford
+  label: single combat at a defended ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Single combat at a ford is explicitly within the sacred_combat scope;
+    defended ford marks the combat threshold.
+  cautions: Could also index threshold_guardian if a defender blocks passage rather
+    than merely fights in battle.
+  suggested_aliases:
+  - defended ford duel
+  - ford single combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-between-champions
+  motif_id: single_combat_between_champions
+  label: single combat between champions
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: A duel between champions is a basic narrower form of ritualized or heroic
+    combat.
+  cautions: Label is broad and may be ordinary martial narrative unless the combat
+    has representative, ritual, or order-setting function.
+  suggested_aliases:
+  - champion duel
+  - single combat of champions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-between-opposing-champions
+  motif_id: single_combat_between_opposing_champions
+  label: single combat between opposing champions
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: Opposing champions meeting in single combat fits the representative combat
+    pattern in sacred_combat.
+  cautions: Check whether the source frames the duel as dharma, divine warrior action,
+    or ordinary battlefield episode.
+  suggested_aliases:
+  - opposing champion duel
+  - single combat of opposing champions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-between-representative-champions
+  motif_id: single_combat_between_representative_champions
+  label: single combat between representative champions
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Representative champions fighting on behalf of groups is a strong ritual-warfare
+    and conflict-resolution pattern.
+  cautions: Could overlap with royal_legitimacy if the duel determines succession,
+    sovereignty, or marriage alliance.
+  suggested_aliases:
+  - representative champion duel
+  - single combat by champions on behalf of armies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-challenge-at-a-ford
+  motif_id: single_combat_challenge_at_a_ford
+  label: single combat challenge at a ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A challenge to duel at a ford belongs with the established single-combat-at-ford
+    pattern under sacred_combat.
+  cautions: If the challenger primarily guards a crossing, threshold_guardian may
+    be a useful secondary relation.
+  suggested_aliases:
+  - ford duel challenge
+  - challenge to single combat at ford
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-challenge-before-assembled-armies
+  motif_id: single_combat_challenge_before_assembled_armies
+  label: single-combat challenge before assembled armies
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A public duel challenge before armies is a representative ritual-combat
+    form within warfare.
+  cautions: Preserve assembled-armies context as evidence; avoid promoting unless
+    this formula recurs across sources.
+  suggested_aliases:
+  - duel challenge before armies
+  - single combat before assembled armies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- This batch clusters closely around representative single combat and ford-duel variants;
+  sacred_combat is the best existing normalization group.
+- Several labels are single-occurrence and over-specific; preserve local details such
+  as ford, foreign champion, marriage dispute, and assembled armies as evidence notes
+  rather than new canonical groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: model:auto
+  reviewed_at: ''
+  notes: Provisional placements only; human review should decide whether a reusable
+    child such as single_combat_duel should be added under sacred_combat if many more
+    variants recur.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0432
+  input_sha256: 928d0a6d8670d133aeb5321639fa1b7fc7d3e91dfe31594955bd0f71ed0add4d

@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0418
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.perilous-island-warning
+  motif_id: perilous_island_warning
+  label: Perilous island warning
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warning about a perilous island likely marks a dangerous threshold
+    or liminal obstacle in a journey.
+  cautions: Single occurrence; if the warning is merely travel advice without supernatural
+    or initiatory function, treat as contextual detail.
+  suggested_aliases:
+  - dangerous island warning
+  - perilous threshold warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perilous-wilderness-as-ordeal
+  motif_id: perilous_wilderness_as_ordeal
+  label: perilous wilderness as ordeal
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly frames wilderness danger as an ordeal, matching
+    transformative trial or initiation logic.
+  cautions: If the passage emphasizes exile or quest sequence more than transformation,
+    hero_journey may be a useful secondary group.
+  suggested_aliases:
+  - wilderness ordeal
+  - forest ordeal
+  - dangerous wilderness trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petition-to-a-hero-for-protection
+  motif_id: petition_to_a_hero_for_protection
+  label: petition to a hero for protection
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A protective appeal to a heroic or semi-divine agent fits intervention
+    and guidance in human danger.
+  cautions: If the hero is purely human and the scene is courtly or martial patronage,
+    this may be too contextual for motif queries.
+  suggested_aliases:
+  - appeal to hero for protection
+  - hero as protector
+  - protective petition to champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petrifying-gaze-and-severed-head-as-weapon
+  motif_id: petrifying_gaze_and_severed_head_as_weapon
+  label: petrifying gaze and severed head as weapon
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A severed head retaining petrifying power functions as a supernatural
+    weapon or power object.
+  cautions: Could also be indexed under divine_warrior or sacred_combat if the passage
+    centers on battle use; preserve monster-head specificity as evidence.
+  suggested_aliases:
+  - petrifying severed head
+  - monster head as weapon
+  - gorgon head weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petrifying-head-used-as-supernatural-weapon
+  motif_id: petrifying_head_used_as_supernatural_weapon
+  label: Petrifying head used as supernatural weapon
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: The head is explicitly a supernatural weapon, fitting power objects that
+    confer dangerous sacred ability.
+  cautions: Likely duplicate or close alias of other petrifying-head labels; normalize
+    together if source evidence is equivalent.
+  suggested_aliases:
+  - petrifying head weapon
+  - supernatural head weapon
+  - gorgon head as weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petrifying-monster-head-weapon
+  motif_id: petrifying_monster_head_weapon
+  label: Petrifying monster-head weapon
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A monster head used as a petrifying weapon is a dangerous supernatural
+    power object.
+  cautions: Likely duplicate or variant of petrifying_head_used_as_supernatural_weapon;
+    avoid creating separate canonical motifs unless distinct episodes recur.
+  suggested_aliases:
+  - petrifying monster head
+  - monster head weapon
+  - petrifying severed head
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.piety-interrupted-by-violence
+  motif_id: piety_interrupted_by_violence
+  label: Piety interrupted by violence
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe an episode-specific contrast between devotion
+    and violence rather than a stable motif.
+  cautions: 'Needs source context: could fit mystical_quest, sacrifice, divine_judgment,
+    martyrdom-like ordeal, or be a narrative incident.'
+  suggested_aliases:
+  - devotion interrupted by violence
+  - violence intrudes on piety
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plot-against-a-prophet-averted-by-warning
+  motif_id: plot_against_a_prophet_averted_by_warning
+  label: plot against a prophet averted by warning
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warning that averts a plot against a prophet fits protective divine
+    guidance or intervention.
+  cautions: If the warning is human intelligence rather than sacred guidance, this
+    may belong only as narrative detail; culturally sensitive prophetic context should
+    be reviewed.
+  suggested_aliases:
+  - prophet protected by warning
+  - plot averted by divine warning
+  - warning saves prophet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poet-rewarded-through-royal-patronage
+  motif_id: poet_rewarded_through_royal_patronage
+  label: Poet rewarded through royal patronage
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Royal reward for poetic performance may concern patronage, speech power,
+    or courtly social order, but the motif function is unclear.
+  cautions: Could fit storytelling_as_power or royal_legitimacy if poetry has sacred/public
+    authority; otherwise may be literary-historical detail rather than mythic motif.
+  suggested_aliases:
+  - royal patronage of poet
+  - poet rewarded by king
+  - patronage reward for poetry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poetic-contest-between-rival-poets
+  motif_id: poetic_contest_between_rival_poets
+  label: poetic contest between rival poets
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A contest between poets centers on speech, performance, and narrative
+    authority as a form of power.
+  cautions: If the contest is only biographical or literary-historical, exclude from
+    motif queries; if judged by rulers or gods, royal_legitimacy or divine_judgment
+    may be secondary.
+  suggested_aliases:
+  - rival poets contest
+  - poetic competition
+  - contest of poetic skill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several petrifying-head labels appear to be close duplicates and should be considered
+  for alias consolidation under a single granular child of sacred_treasures if they
+  recur.
+- Single-occurrence courtly or literary labels involving poets need source review
+  to distinguish mythic speech-power motifs from biographical or textual artifacts.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for low-context single-occurrence
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0418
+  input_sha256: c4a8ff806edeaecaffeff16a22f33403ed26593ae037bc8caf7a063878968a12

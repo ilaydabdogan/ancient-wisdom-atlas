@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0428
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.reused-weapon-links-separate-killings
+  motif_id: reused_weapon_links_separate_killings
+  label: reused weapon links separate killings
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes an episode-specific forensic or narrative linkage
+    rather than a reusable mythic pattern.
+  cautions: If the weapon has sacred agency, curse, fate, or royal authority, review
+    under sacred_treasures or death_by_fate instead.
+  suggested_aliases:
+  - weapon linking killings
+  - reused weapon in killings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revealed-recitation-as-guidance-and-warning
+  motif_id: revealed_recitation_as_guidance_and_warning
+  label: revealed recitation as guidance and warning
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: high
+  rationale: Revealed recitation that guides and warns is a form of transmitted sacred
+    knowledge or divine instruction.
+  cautions: May also relate to divine_judgment when warning and reckoning are the
+    main emphasis; avoid treating recitation itself as conflict unless source evidence
+    supports it.
+  suggested_aliases:
+  - revelation as recitation
+  - revealed guidance and warning
+  - recited revelation as warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-banquet-of-slain-kin
+  motif_id: revenge_banquet_of_slain_kin
+  label: revenge banquet of slain kin
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: Kin vengeance tied to a banquet is a specific vengeance episode within
+    heroic conflict and ritualized violence.
+  cautions: The banquet detail may be episode-specific; if the meal involves cannibalism,
+    sacrifice, or oath-breaking, secondary review may be needed.
+  suggested_aliases:
+  - kin vengeance banquet
+  - revenge feast for slain kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-captivity-for-slain-kin
+  motif_id: revenge_captivity_for_slain_kin
+  label: Revenge captivity for slain kin
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Taking or imposing captivity as revenge for slain kin fits feud violence
+    and heroic conflict.
+  cautions: If captivity is the central ordeal rather than vengeance, initiation or
+    hero_journey may be relevant; source context needed.
+  suggested_aliases:
+  - captivity as kin revenge
+  - revenge captivity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-for-slain-kin
+  motif_id: revenge_for_slain_kin
+  label: revenge for slain kin
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: Vengeance for dead kin is a common heroic-warrior conflict motive already
+    near vow_of_vengeance_for_a_fallen_king_hero.
+  cautions: May overlap with divine_judgment if revenge is framed as sacred justice
+    rather than feud obligation.
+  suggested_aliases:
+  - kin vengeance
+  - blood revenge for slain kin
+  - vengeance for killed relatives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-harms-the-avenger
+  motif_id: revenge_harms_the_avenger
+  label: revenge harms the avenger
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The harmful consequence of revenge functions as moral reckoning for violent
+    action.
+  cautions: Could fit pride_and_downfall or sacred_combat depending on whether the
+    emphasis is moral consequence, hubris, or heroic feud dynamics.
+  suggested_aliases:
+  - vengeance rebounds on avenger
+  - revenge destroys the revenger
+  - avenger harmed by revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-through-binding-or-immobilizing-craft
+  motif_id: revenge_through_binding_or_immobilizing_craft
+  label: Revenge through binding or immobilizing craft
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines revenge, binding, and craft; placement depends on
+    whether the craft is magical, divine, technical, or merely a plot device.
+  cautions: May fit sacred_combat, sacred_craft, sacred_treasures, or trickster depending
+    on source evidence; do not create a binding motif from one occurrence.
+  suggested_aliases:
+  - immobilizing craft as revenge
+  - binding craft revenge
+  - crafted restraint as vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-through-enchanted-object-and-provoked-conflict
+  motif_id: revenge_through_enchanted_object_and_provoked_conflict
+  label: revenge through enchanted object and provoked conflict
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: An enchanted object that provokes conflict as revenge functions as a
+    power object driving heroic violence.
+  cautions: If the conflict mechanism is more important than the object, sacred_combat
+    may be a better primary group; preserve revenge detail as evidence.
+  suggested_aliases:
+  - enchanted object provokes revenge conflict
+  - vengeful power object
+  - revenge by enchanted object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-through-transformed-body-remains
+  motif_id: revenge_through_transformed_body_remains
+  label: Revenge through transformed body remains
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key distinctive element is postmortem body remains transformed into
+    an active means of vengeance.
+  cautions: May also fit sacred_treasures if the remains become a power object, or
+    divine_judgment if vengeance is moral reckoning.
+  suggested_aliases:
+  - vengeful transformed remains
+  - body remains transformed for revenge
+  - postmortem revenge through remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-urged-after-kin-or-allies-are-slain
+  motif_id: revenge_urged_after_kin_or_allies_are_slain
+  label: revenge urged after kin or allies are slain
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: A call to avenge slain kin or allies is a vengeance-duty variant within
+    heroic and ritualized warfare.
+  cautions: If framed as dharma, oath, or divine command, secondary mapping to sacred_law,
+    covenant, or divine_judgment may be appropriate.
+  suggested_aliases:
+  - urged vengeance for slain kin
+  - call to avenge slain allies
+  - revenge duty after slaughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence vengeance variants. Prefer mapping them as
+  granular children or evidence notes under sacred_combat unless repeated cross-tradition
+  evidence supports a durable revenge/feud subgroup.
+- Do not infer transmission or common origin from the shared revenge vocabulary; these
+  are provisional query placements only.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements based on label semantics only; source passages should
+    be checked for whether revenge is moral judgment, feud duty, sacred combat, or
+    an episode-specific plot artifact.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0428
+  input_sha256: 4e719d34a997334f455e13365d7fc2283eb309f08d4a9124f70e098da070cfa5

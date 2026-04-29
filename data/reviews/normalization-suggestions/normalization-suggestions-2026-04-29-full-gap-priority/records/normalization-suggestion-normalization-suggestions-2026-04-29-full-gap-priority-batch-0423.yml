@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0423
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.public-crowning-after-verbal-contest
+  motif_id: public_crowning_after_verbal_contest
+  label: Public crowning after verbal contest
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A public crowning following a contest functions as legitimation of rule
+    or status through ordeal and recognition.
+  cautions: Single occurrence; if the verbal contest is the central motif rather than
+    the crowning, storytelling_as_power or a contest motif may be more appropriate.
+  suggested_aliases:
+  - crowning after contest
+  - verbal contest legitimizes rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-denunciation-of-a-treacherous-ally
+  motif_id: public_denunciation_of_a_treacherous_ally
+  label: public denunciation of a treacherous ally
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate moral reckoning, political speech, betrayal, or
+    a passage-specific conflict scene.
+  cautions: Needs source context to determine whether this is divine judgment, sacred
+    law, heroic conflict, or merely narrative dialogue.
+  suggested_aliases:
+  - denunciation of treachery
+  - public accusation of ally betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-heroic-boasting-verified-by-dangerous-objects
+  motif_id: public_heroic_boasting_verified_by_dangerous_objects
+  label: public heroic boasting verified by dangerous objects
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Dangerous objects verify heroic status or power, fitting power objects
+    that confer or reveal sacred ability.
+  cautions: Could also belong under initiation or sacred_combat if the object-test
+    is primarily an ordeal or warrior proof.
+  suggested_aliases:
+  - heroic boast verified by object test
+  - dangerous object proves hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-lament-demanding-single-combat
+  motif_id: public_lament_demanding_single_combat
+  label: public lament demanding single combat
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A public lament that calls for single combat links grief to ritually
+    charged heroic combat.
+  cautions: If the passage emphasizes mourning more than combat obligation, lament_and_mourning
+    should be primary.
+  suggested_aliases:
+  - lament calling for single combat
+  - mourning demand for duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-lamentation-over-slain-warrior
+  motif_id: public_lamentation_over_slain_warrior
+  label: Public lamentation over slain warrior
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: child
+  confidence: high
+  rationale: The motif directly describes communal or public mourning for a fallen
+    warrior.
+  cautions: May secondarily support heroic_funeral_rites if formal rites or memorial
+    honors are present.
+  suggested_aliases:
+  - lament over fallen warrior
+  - mourning slain warrior
+  - public warrior lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-pledge-compels-dangerous-combat
+  motif_id: public_pledge_compels_dangerous_combat
+  label: public pledge compels dangerous combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A public pledge binding a hero to dangerous action fits vow or obligation
+    as a sacred/social bond.
+  cautions: Could also map to sacred_combat if the combat itself is more important
+    than the binding pledge.
+  suggested_aliases:
+  - pledge compels combat
+  - binding vow to fight
+  - public combat oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-protective-deities-as-paired-mounted-warriors
+  motif_id: public_protective_deities_as_paired_mounted_warriors
+  label: public protective deities as paired mounted warriors
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Protective deities acting as warrior guardians fit divine aid and protective
+    intervention in human affairs.
+  cautions: The paired form may also support sacred_twins, and mounted-warrior iconography
+    may be culturally specific; review before flattening.
+  suggested_aliases:
+  - protective paired warrior deities
+  - mounted divine protectors
+  - paired divine horsemen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-test-of-strength-after-failed-first-attempt
+  motif_id: public_test_of_strength_after_failed_first_attempt
+  label: Public test of strength after failed first attempt
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A public strength test functions as an ordeal that verifies status, ability,
+    or destiny.
+  cautions: May be an episode-specific contest rather than a transformative initiation;
+    source context should confirm status change or recognition.
+  suggested_aliases:
+  - public strength test
+  - failed first attempt before strength proof
+  - strength ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punitive-destruction-of-enemy-pleasure-ground
+  motif_id: punitive_destruction_of_enemy_pleasure_ground
+  label: Punitive destruction of enemy pleasure-ground
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Punitive destruction of an enemy space in heroic or divine conflict fits
+    sacred combat and warrior action restoring order.
+  cautions: If the destruction is explicitly moral punishment by sacred authority,
+    divine_judgment may be a better primary group; the pleasure-ground detail is over-specific.
+  suggested_aliases:
+  - punitive destruction of enemy space
+  - enemy grove destroyed in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quarrel-of-heroic-leaders-as-poetic-nucleus
+  motif_id: quarrel_of_heroic_leaders_as_poetic_nucleus
+  label: quarrel of heroic leaders as poetic nucleus
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'as poetic nucleus' describes literary structure or scholarly
+    analysis rather than a motif in the narrative world.
+  cautions: If source passages independently encode a recurring heroic-leader quarrel,
+    preserve that separately under sacred_combat or pride_and_downfall.
+  suggested_aliases:
+  - heroic quarrel as poetic nucleus
+  - poetic nucleus of leader quarrel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch combine public performance, heroic status, and conflict;
+  source context is needed to distinguish social recognition from sacred ordeal.
+- Do not infer historical transmission from Greek, Roman, Celtic, Buddhist, or Hindu
+  placements; these are only provisional taxonomy suggestions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional automated suggestions; human review recommended for single-occurrence
+    and culturally specific combat/public speech labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0423
+  input_sha256: b327810de858cd13c379cd7c7aa3a674582145b97ac475c1647a76893b6cb2a4

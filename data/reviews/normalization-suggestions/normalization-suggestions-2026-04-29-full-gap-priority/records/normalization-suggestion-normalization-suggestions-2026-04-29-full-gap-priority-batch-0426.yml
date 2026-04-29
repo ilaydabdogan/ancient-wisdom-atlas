@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0426
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.regenerating-monstrous-body-in-combat
+  motif_id: regenerating_monstrous_body_in_combat
+  label: regenerating monstrous body in combat
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Monster Combat and Supernatural Adversary
+  relationship: functional_variant
+  confidence: medium
+  rationale: A regenerating monster in battle is a combat ordeal centered on a supernatural
+    adversary, not well captured by divine_warrior unless the combat establishes sacred
+    order.
+  cautions: Single occurrence; may be episode-specific or fit divine_warrior if the
+    passage frames the battle as cosmic-order combat.
+  suggested_aliases:
+  - self-regenerating monster
+  - regenerating combat adversary
+  - supernatural monster in battle
+  suggested_new_group:
+    id: monster_combat
+    label: Monster Combat and Supernatural Adversary
+    description: Combat against monsters, demons, giants, or magically resilient adversaries
+      whose nonhuman traits intensify the heroic or sacred ordeal.
+    parent_group_ids:
+    - sacred_combat
+    - divine_warrior
+    related_group_ids:
+    - chaos
+    - initiation
+    - death_and_transformation
+    reason_existing_groups_insufficient: Existing combat groups emphasize warriors,
+      warfare, or divine order; they do not cleanly cover monster-specific battle
+      ordeals and supernatural bodily resilience.
+- suggestion_id: normalization.suggestion.regional-heroic-glorification-and-counter-tradition
+  motif_id: regional_heroic_glorification_and_counter_tradition
+  label: Regional heroic glorification and counter-tradition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes reception, regional tradition, or scholarly comparison
+    rather than a narrative motif.
+  cautions: Preserve as provenance or tradition-history note if useful; do not use
+    as evidence of transmission in motif queries.
+  suggested_aliases:
+  - regional heroic counter-tradition
+  - heroic glorification in regional tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-heroic-tradition-survival
+  motif_id: regional_heroic_tradition_survival
+  label: Regional heroic-tradition survival
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a tradition-survival or reception-history observation, not a
+    reusable symbolic or narrative motif.
+  cautions: Keep as textual/provenance metadata if needed; avoid pattern-query indexing.
+  suggested_aliases:
+  - survival of regional heroic tradition
+  - heroic tradition survival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-contestant-withdraws-from-nearly-completed-feat
+  motif_id: rejected_contestant_withdraws_from_nearly_completed_feat
+  label: Rejected contestant withdraws from nearly completed feat
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: low
+  rationale: A nearly completed feat in a contest may be an ordeal or status test,
+    but rejection and withdrawal make the narrative function unclear.
+  cautions: May be an over-specific episode detail, a marriage/contest motif, or a
+    social-status exclusion rather than initiation.
+  suggested_aliases:
+  - withdrawal from nearly completed contest feat
+  - rejected contestant abandons feat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-forbidden-passion-turns-toward-revenge
+  motif_id: rejected_forbidden_passion_turns_toward_revenge
+  label: Rejected forbidden passion turns toward revenge
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on desire or forbidden love becoming destructive after
+    rejection, fitting the dangerous side of sacred/literary love motifs.
+  cautions: If the passage emphasizes vengeance, curse, or moral punishment over love,
+    divine_judgment or sacred_combat may be secondary; likely too specific as a canonical
+    child.
+  suggested_aliases:
+  - rejected passion becomes revenge
+  - forbidden love transformed into vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-messenger-warning-a-community
+  motif_id: rejected_messenger_warning_a_community
+  label: rejected messenger warning a community
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A messenger warning a community functions as divine guidance mediated
+    through an agent, especially in prophetic warning narratives.
+  cautions: If the warning leads to punishment for refusal, also consider divine_judgment;
+    this overlaps with rejected prophet labels in the same batch.
+  suggested_aliases:
+  - rejected warning messenger
+  - messenger warns unbelieving community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-prophet-or-preacher-warns-an-unbelieving-people
+  motif_id: rejected_prophet_or_preacher_warns_an_unbelieving_people
+  label: Rejected prophet or preacher warns an unbelieving people
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: The current divine_intervention group already includes prophet_call_under_opposition,
+    and this label is a close warning/rejection variant.
+  cautions: Often paired with divine_judgment when communal rejection triggers punishment;
+    preserve unbelieving-people context as evidence detail.
+  suggested_aliases:
+  - rejected prophet warning a people
+  - prophet warns unbelieving community
+  - prophetic warning rejected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-prophetic-warning
+  motif_id: rejected_prophetic_warning
+  label: rejected prophetic warning
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A rejected prophetic warning is a concise variant of divine guidance
+    through a prophet or messenger under opposition.
+  cautions: Map with divine_judgment when the passage foregrounds punishment after
+    rejection; overlaps with nearby rejected-prophet labels.
+  suggested_aliases:
+  - prophetic warning rejected
+  - unheeded prophetic warning
+  - rejected divine warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-domestic-wealth-for-battle-won-treasure
+  motif_id: rejection_of_domestic_wealth_for_battle_won_treasure
+  label: rejection of domestic wealth for battle-won treasure
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Choosing battle-won treasure over domestic wealth may express warrior
+    value or raid economy, linking weakly to sacred_combat.
+  cautions: Could be an over-specific heroic ethos, marriage/domestic rejection, or
+    treasure motif; source evidence needed before indexing.
+  suggested_aliases:
+  - battle-won treasure preferred to domestic wealth
+  - warrior rejects household wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-hero-reidentified-across-traditions
+  motif_id: religious_hero_reidentified_across_traditions
+  label: religious hero reidentified across traditions
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes cross-traditional identification or reception of
+    a hero rather than a motif within the narrative itself.
+  cautions: Preserve as comparative or reception metadata; do not treat as transmission
+    evidence in this normalization task.
+  suggested_aliases:
+  - cross-traditional hero reidentification
+  - religious hero identified across traditions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several rejected-prophet/messenger labels appear to be near-duplicates and could
+  be consolidated under divine_intervention with secondary divine_judgment when punishment
+  follows rejection.
+- Regional tradition-survival and cross-tradition reidentification labels are best
+  treated as meta-textual/reception artifacts rather than motif-query terms.
+- Consider whether a durable monster_combat group is warranted if more supernatural
+  adversary and regenerating-monster labels recur.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review should verify source
+    context, especially for single-occurrence heroic contest and treasure labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0426
+  input_sha256: 95638a9f0af7f1ced08038f53849c6628fcefae70b2393ad491b7817ee1c09e1

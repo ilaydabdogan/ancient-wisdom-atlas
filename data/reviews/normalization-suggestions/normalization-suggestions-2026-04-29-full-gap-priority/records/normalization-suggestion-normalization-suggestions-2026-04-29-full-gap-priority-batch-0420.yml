@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0420
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.predator-simile-for-battlefield-rescue
+  motif_id: predator_simile_for_battlefield_rescue
+  label: predator simile for battlefield rescue
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to describe a poetic simile used in a battle scene rather
+    than a reusable narrative motif.
+  cautions: If the passage centers on animal-like warrior identity rather than simile,
+    review under divine_warrior or sacred_combat.
+  suggested_aliases:
+  - predatory battlefield simile
+  - animal simile in battle rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predatory-war-rush-as-hungry-wolves
+  motif_id: predatory_war_rush_as_hungry_wolves
+  label: predatory war-rush as hungry wolves
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label frames battle frenzy through predatory animal imagery, fitting
+    warfare as a charged combat pattern if more than a simile.
+  cautions: May be only a poetic battlefield simile; exclude if no ritual, heroic,
+    or narrative function beyond comparison.
+  suggested_aliases:
+  - warriors as hungry wolves
+  - predatory battle rush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predatory-warrior-singles-out-a-victim
+  motif_id: predatory_warrior_singles_out_a_victim
+  label: predatory warrior singles out a victim
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: A warrior selecting prey-like victims can fit the heroic or divine-warrior
+    combat role.
+  cautions: Could be an ordinary battle detail with no sacred or mythic function;
+    verify whether the warrior role is emphasized.
+  suggested_aliases:
+  - warrior singles out victim
+  - predatory combat targeting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preliminary-tale-before-major-heroic-narrative
+  motif_id: preliminary_tale_before_major_heroic_narrative
+  label: preliminary tale before major heroic narrative
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes narrative arrangement or textual framing, not a symbolic
+    motif in the story world.
+  cautions: Preserve as structural metadata if useful for source organization, but
+    do not index as a motif pattern.
+  suggested_aliases:
+  - preliminary tale
+  - prefatory heroic narrative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preludes-leading-to-a-central-heroic-narrative
+  motif_id: preludes_leading_to_a_central_heroic_narrative
+  label: Preludes leading to a central heroic narrative
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a textual or compositional framing observation rather than a
+    mythic motif.
+  cautions: Could support narrative-structure metadata, but should be excluded from
+    motif pattern queries.
+  suggested_aliases:
+  - heroic narrative preludes
+  - preludes to central tale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preventing-the-enemy-survivor-from-carrying-the-tale-home
+  motif_id: preventing_the_enemy_survivor_from_carrying_the_tale_home
+  label: preventing the enemy survivor from carrying the tale home
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The action concerns control of reputation, witness, and aftermath within
+    heroic conflict.
+  cautions: May be episode-specific; if the focus is narrative transmission rather
+    than combat practice, consider storytelling_as_power or exclusion.
+  suggested_aliases:
+  - silencing the enemy survivor
+  - blocking the survivor's report
+  - preventing battle news from returning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.proper-reverence-toward-cosmic-guardians
+  motif_id: proper_reverence_toward_cosmic_guardians
+  label: proper reverence toward cosmic guardians
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Cosmic guardians who require reverence before safe passage or order fits
+    the threshold-guardian function.
+  cautions: If the stress is ethical worship rather than passage or boundary, sacred_law
+    or divine_judgment may be secondary.
+  suggested_aliases:
+  - reverence to cosmic guardians
+  - honoring world guardians
+  - proper homage to guardians
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophet-as-public-warner-and-admonisher
+  motif_id: prophet_as_public_warner_and_admonisher
+  label: Prophet as public warner and admonisher
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The prophet functions as a divinely sent agent of warning and guidance
+    in human affairs.
+  cautions: Could also belong under sacred_knowledge if the emphasis is revelation
+    or teaching rather than public warning.
+  suggested_aliases:
+  - prophetic warner
+  - public admonishing prophet
+  - divine warning through prophet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophet-refusing-reward-for-preaching
+  motif_id: prophet_refusing_reward_for_preaching
+  label: prophet refusing reward for preaching
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusal of payment frames prophetic service as not a transactional human
+    exchange but sacred obligation.
+  cautions: May also fit renunciation or divine_intervention; verify whether the passage
+    emphasizes prophetic legitimacy, ascetic refusal, or sacred economy.
+  suggested_aliases:
+  - refusal of preaching reward
+  - prophet asks no payment
+  - unpaid prophetic mission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-mission-as-witness-herald-and-warner
+  motif_id: prophetic_mission_as_witness_herald_and_warner
+  label: prophetic mission as witness, herald, and warner
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A divinely appointed witness, herald, and warner is a guidance role enacted
+    through a prophetic agent.
+  cautions: If the emphasis is revealed message or testimony as knowledge, sacred_knowledge
+    may be a secondary placement.
+  suggested_aliases:
+  - prophetic witness and warner
+  - heralding prophetic mission
+  - prophet as witness herald warner
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Greek battlefield labels appear to be poetic similes or episode-level combat
+  descriptions; human review should distinguish reusable warrior motifs from literary
+  description.
+- Prophetic labels are in a conflict bucket but semantically fit divine guidance,
+  sacred knowledge, or sacred exchange more than combat.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for narrative
+    function versus textual or poetic artifact.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0420
+  input_sha256: 3f3ab593c5cda5e506e7aeb27ee003b1ae6384f297449990290dfea6ab6c7dd1

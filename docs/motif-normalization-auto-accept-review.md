@@ -6,143 +6,156 @@ Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestion
 
 ## Summary
 
-- Suggestions reviewed: 4120
-- Auto-accepted into main taxonomy: 129
-- Staged for review: 3991
+- Suggestions reviewed: 4320
+- Auto-accepted into main taxonomy: 142
+- Staged for review: 4178
 
 ## Auto-Accepted
 
 | Motif ID | Label | Group | Relationship | Occurrences | Traditions |
 | --- | --- | --- | --- | ---: | --- |
-| `homeland_defended_by_heroic_war_band` | Homeland defended by heroic war-band | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
-| `honourable_refusal_to_fight_a_wounded_opponent` | honourable refusal to fight a wounded opponent | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | celtic_irish |
-| `hopeless_heroic_last_stand` | hopeless heroic last stand | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | roman |
-| `horn_call_before_final_battle` | Horn call before final battle | `divine_warrior` Divine Warrior and Sacred Combat | symbolic_variant | 1 | norse |
-| `hospitality_and_reciprocal_reward` | hospitality and reciprocal reward | `sacred_exchange` Sacred Exchange and Reciprocity | functional_variant | 1 | celtic_welsh |
-| `hospitality_offered_to_a_visiting_warrior` | hospitality offered to a visiting warrior | `sacred_exchange` Sacred Exchange and Reciprocity | functional_variant | 1 | celtic_irish |
-| `hostile_chariot_gesture_before_combat` | hostile chariot gesture before combat | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | celtic_irish |
-| `household_loyalty_tested_under_an_absent_lord` | household loyalty tested under an absent lord | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | functional_variant | 1 | greek |
-| `identity_tested_by_hidden_token` | identity tested by hidden token | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | greek |
-| `ill_omens_before_battle` | ill omens before battle | `dream_and_vision` Dream, Vision, and Altered Perception | functional_variant | 1 | hindu |
-| `ill_omens_before_doomed_battle` | ill omens before doomed battle | `death_by_fate` Death Attributed to Fate or Destiny | functional_variant | 1 | hindu |
-| `impartial_judge_killed_by_the_contest_he_witnesses` | impartial judge killed by the contest he witnesses | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | celtic_irish |
-| `impassable_wilderness_obstacle_before_enemy_territory` | impassable wilderness obstacle before enemy territory | `hero_journey` The Hero's Journey | functional_variant | 1 | japanese |
-| `impossible_bridge_made_from_a_weapon` | Impossible bridge made from a weapon | `sacred_craft` Sacred Craft and Divinely Aided Construction | functional_variant | 1 | celtic_welsh |
-| `impossible_contests_at_a_giant_court` | impossible contests at a giant court | `initiation` Initiation and Transformative Ordeal | functional_variant | 1 | norse |
-| `impossible_task_warnings_against_transgression` | impossible-task warnings against transgression | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | hindu |
-| `improper_or_unfair_combat_punished` | Improper or unfair combat punished | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | celtic_irish |
-| `improvised_natural_weapons_in_heroic_battle` | Improvised natural weapons in heroic battle | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | hindu |
-| `improvised_objects_of_feast_and_house_turned_into_weapons` | improvised objects of feast and house turned into weapons | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | roman |
-| `improvised_weapon_from_injury_becomes_killing_weapon` | improvised weapon from injury becomes killing weapon | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | celtic_irish |
-| `improvised_weapons_after_formal_arms_fail` | improvised weapons after formal arms fail | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | celtic_irish |
-| `indistinguishable_combatants_require_a_recognition_token` | indistinguishable combatants require a recognition token | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | hindu |
-| `innumerable_slaughter_as_heroic_measure` | innumerable slaughter as heroic measure | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | celtic_irish |
-| `inseparable_pair_sharing_wild_places_and_battle` | inseparable pair sharing wild places and battle | `sacred_twins` Sacred Twins and Sibling Pairs | role_variant | 1 | roman |
-| `instrument_of_victory_becomes_instrument_of_control` | instrument of victory becomes instrument of control | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | greek |
-| `insult_escalating_into_factional_combat` | Insult escalating into factional combat | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
-| `intercession_that_turns_away_heroic_wrath` | Intercession that turns away heroic wrath | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | hindu |
-| `invincible_elder_champion_routs_opposing_heroes` | Invincible elder champion routs opposing heroes | `divine_warrior` Divine Warrior and Sacred Combat | role_variant | 1 | hindu |
-| `invincible_warrior_whose_force_overwhelms_armies` | invincible warrior whose force overwhelms armies | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | hindu |
-| `invisible_or_magically_veiled_warrior_attacks_from_concealment` | invisible or magically veiled warrior attacks from concealment | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
-| `invulnerable_saint_and_reversed_weapons` | Invulnerable saint and reversed weapons | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | sufi |
-| `isolated_hero_surrounded_by_many_and_rescued_by_comrades` | isolated hero surrounded by many and rescued by comrades | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | greek |
-| `jealous_supernatural_woman_marks_or_transforms_the_hero` | jealous supernatural woman marks or transforms the hero | `shapeshifter` Shapeshifter and Transformation | functional_variant | 1 | celtic_irish |
-| `kin_feud_remembered_and_partially_answered_through_battle_service` | Kin-feud remembered and partially answered through battle service | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
-| `kin_linked_battle_fury` | kin-linked battle fury | `divine_warrior` Divine Warrior and Sacred Combat | role_variant | 1 | celtic_irish |
-| `kin_rescue_that_turns_the_battle` | kin-rescue that turns the battle | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
-| `kinsmen_fighting_in_a_civil_war` | kinsmen fighting in a civil war | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
-| `knight_vindicates_a_falsely_blamed_woman_through_combat` | Knight vindicates a falsely blamed woman through combat | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | celtic_welsh |
-| `lament_for_a_fallen_warrior` | lament for a fallen warrior | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | narrower_than | 1 | celtic_irish |
-| `lament_for_a_fallen_warrior_kinsman` | lament for a fallen warrior-kinsman | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | narrower_than | 1 | hindu |
-| `lament_for_a_lost_heroic_age` | lament for a lost heroic age | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | symbolic_variant | 1 | celtic_irish |
-| `lament_for_the_fallen_hero` | Lament for the fallen hero | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | narrower_than | 1 | greek |
-| `lament_for_the_land_defending_hero` | lament for the land-defending hero | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | narrower_than | 1 | celtic_irish |
-| `lament_leading_to_revenge_battle` | Lament leading to revenge battle | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
-| `lament_of_the_last_survivor_of_a_heroic_band` | lament of the last survivor of a heroic band | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | narrower_than | 1 | celtic_irish |
-| `last_act_of_a_mortally_wounded_warrior` | last act of a mortally wounded warrior | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | celtic_irish |
-| `last_stand_of_the_outnumbered_warrior` | last stand of the outnumbered warrior | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | sufi |
-| `last_survivor_lamenting_a_vanished_heroic_company` | Last survivor lamenting a vanished heroic company | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | functional_variant | 1 | celtic_irish |
-| `life_token_indicating_the_absent_hero_s_fate` | life-token indicating the absent hero's fate | `external_soul` External Soul and Life-Token | functional_variant | 1 | islamicate_folklore |
-| `liminal_combat_at_a_ford` | liminal combat at a ford | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
-| `lone_hero_against_overwhelming_demon_host` | lone hero against overwhelming demon host | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | hindu |
-| `lone_hero_defeats_overwhelming_hostile_host` | lone hero defeats overwhelming hostile host | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | hindu |
-| `lone_hero_overthrows_a_demon_army` | lone hero overthrows a demon army | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | hindu |
-| `lone_warrior_destroys_an_advance_detachment` | lone warrior destroys an advance detachment | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | celtic_irish |
-| `lone_warrior_holding_a_ford_against_a_host` | lone warrior holding a ford against a host | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
-| `lowly_stranger_reveals_hidden_heroic_strength` | lowly stranger reveals hidden heroic strength | `hero_journey` The Hero's Journey | functional_variant | 1 | greek |
-| `magic_weapon_binds_a_powerful_hero` | magic weapon binds a powerful hero | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | hindu |
-| `magic_weapon_mastery` | magic weapon mastery | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | celtic_irish |
-| `magical_concealment_in_combat` | magical concealment in combat | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
-| `magical_invisibility_covering_in_battle` | Magical invisibility covering in battle | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
-| `magical_objects_used_in_successive_trials` | magical objects used in successive trials | `initiation` Initiation and Transformative Ordeal | functional_variant | 1 | buddhist |
-| `magical_weapon_pursues_offender_until_submission` | magical weapon pursues offender until submission | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | hindu |
-| `magical_weapons_controlled_by_formula_or_power` | magical weapons controlled by formula or power | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | hindu |
-| `maimed_warrior_continues_with_altered_weapon_use` | Maimed warrior continues with altered weapon use | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | norse |
-| `marked_ally_distinguished_before_combat` | Marked ally distinguished before combat | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
-| `martial_invocation_with_heroic_epithets` | martial invocation with heroic epithets | `divine_warrior` Divine Warrior and Sacred Combat | ritual_variant | 1 | celtic_irish |
-| `mass_funeral_after_battle` | mass funeral after battle | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | narrower_than | 1 | roman |
-| `medicinal_or_restorative_bath_for_the_injured_hero` | Medicinal or restorative bath for the injured hero | `sacred_waters` Sacred Waters and Passage Through Water | functional_variant | 1 | celtic_irish |
-| `merciful_release_of_a_captured_enemy_spy` | merciful release of a captured enemy spy | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
-| `merciful_release_of_enemy_envoys` | merciful release of enemy envoys | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
-| `merciful_warning_before_destruction` | merciful warning before destruction | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | hindu |
-| `mercy_and_healing_for_a_defeated_enemy_at_court` | mercy and healing for a defeated enemy at court | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | role_variant | 1 | celtic_welsh |
-| `messenger_as_mercy_and_warner` | Messenger as mercy and warner | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | islamic |
-| `miraculous_prolongation_of_heroic_life` | miraculous prolongation of heroic life | `death_and_transformation` Death, Rebirth, and Transformation | functional_variant | 1 | celtic_irish |
-| `miraculous_sign_contest_against_magicians` | Miraculous sign contest against magicians | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
-| `missed_decisive_victory_through_rage_for_slaughter` | missed decisive victory through rage for slaughter | `pride_and_downfall` Pride, Hubris, and Downfall | functional_variant | 1 | roman |
-| `mockery_of_cowardice_after_failed_bravado` | Mockery of cowardice after failed bravado | `pride_and_downfall` Pride, Hubris, and Downfall | functional_variant | 1 | greek |
-| `modest_gift_rewarded_greedy_choice_punished` | modest gift rewarded, greedy choice punished | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | japanese |
-| `monster_defeated_by_severing_grasping_limbs` | monster defeated by severing grasping limbs | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | hindu |
-| `monster_haunting_a_dangerous_threshold` | monster haunting a dangerous threshold | `threshold_guardian` Threshold Guardian | functional_variant | 1 | japanese |
-| `monster_in_a_cave_seizing_sailors` | Monster in a cave seizing sailors | `threshold_guardian` Threshold Guardian | functional_variant | 1 | greek |
-| `monster_ravages_land_and_is_slain_by_hero` | monster ravages land and is slain by hero | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | greek |
-| `monster_remains_transformed_into_fearsome_war_instruments` | Monster remains transformed into fearsome war instruments | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | buddhist |
-| `monsters_dwelling_on_a_remote_oceanic_island` | monsters dwelling on a remote oceanic island | `otherworld` Otherworld and Enchanted Realm | narrower_than | 1 | greek |
-| `monstrous_harbour_obstruction_overcome_by_heroes` | Monstrous harbour obstruction overcome by heroes | `threshold_guardian` Threshold Guardian | functional_variant | 1 | greek_roman |
-| `mortal_challenges_deity_in_craft_contest` | mortal challenges deity in craft contest | `pride_and_downfall` Pride, Hubris, and Downfall | functional_variant | 1 | roman |
-| `mortal_lament_for_vanished_heroic_company` | Mortal lament for vanished heroic company | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | functional_variant | 1 | celtic_irish |
-| `mortal_wounds_an_immortal` | mortal wounds an immortal | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | greek |
-| `mourning_fast_before_renewed_combat` | mourning fast before renewed combat | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | ritual_variant | 1 | greek |
-| `mourning_over_the_slain_royal_warrior` | mourning over the slain royal warrior | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | functional_variant | 1 | hindu |
-| `mutual_destruction_in_revenge` | mutual destruction in revenge | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | greek |
-| `mutual_fall_of_last_combatants` | Mutual fall of last combatants | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
-| `mutual_killing_in_single_combat` | mutual killing in single combat | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
-| `mutual_refusal_of_victory_after_equal_combat` | mutual refusal of victory after equal combat | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_welsh |
-| `natural_fruit_turned_into_a_lethal_weapon` | natural fruit turned into a lethal weapon | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | japanese |
-| `natural_objects_used_as_colossal_weapons` | natural objects used as colossal weapons | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | hindu |
-| `natural_objects_used_as_heroic_weapons` | Natural objects used as heroic weapons | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | hindu |
-| `near_invulnerable_warrior` | near-invulnerable warrior | `divine_warrior` Divine Warrior and Sacred Combat | role_variant | 1 | celtic_irish |
-| `near_total_mutual_destruction_in_night_battle` | near-total mutual destruction in night battle | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | celtic_irish |
-| `nearly_invulnerable_warrior` | nearly invulnerable warrior | `divine_warrior` Divine Warrior and Sacred Combat | alias | 1 | celtic_irish |
-| `nested_containers_of_a_monster_s_strength` | nested containers of a monster's strength | `external_soul` External Soul and Life-Token | functional_variant | 1 | comparative |
-| `night_attack_on_sleeping_army_in_reported_battle` | night attack on sleeping army in reported battle | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | hindu |
-| `night_raid_through_enemy_camp` | night raid through enemy camp | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | roman |
-| `night_reconnaissance_into_the_enemy_camp` | night reconnaissance into the enemy camp | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | greek |
-| `night_renewed_demonic_assault_in_heroic_battle_backstory` | night-renewed demonic assault in heroic battle backstory | `divine_warrior` Divine Warrior and Sacred Combat | over_specific_label | 1 | hindu |
-| `nightfall_delaying_destined_combat` | Nightfall delaying destined combat | `sacred_combat` Sacred Combat and Ritual Warfare | narrower_than | 1 | roman |
-| `noise_weapons_and_aggressive_action_used_to_expel_invisible_beings` | Noise, weapons, and aggressive action used to expel invisible beings | `sacrifice` Sacrifice and Offering | ritual_variant | 1 | comparative |
-| `non_wounding_display_of_elite_skill` | Non-wounding display of elite skill | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
-| `noncombatant_drawn_into_battle` | noncombatant drawn into battle | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | roman |
-| `nostalgic_lament_for_vanished_heroic_companions` | Nostalgic lament for vanished heroic companions | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | narrower_than | 1 | celtic_irish |
-| `object_won_after_failed_mediation_and_combat` | object won after failed mediation and combat | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | celtic_irish |
-| `old_age_contrasted_with_heroic_youth` | old age contrasted with heroic youth | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | symbolic_variant | 1 | celtic_irish |
-| `old_warrior_lamenting_lost_heroic_age` | old warrior lamenting lost heroic age | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | narrower_than | 1 | celtic_irish |
-| `omenic_weapon_signaling_victory` | omenic weapon signaling victory | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | celtic_irish |
-| `submission_to_inscrutable_divine_will` | submission to inscrutable divine will | `mystical_quest` Mystical Quest and Interior Journey | functional_variant | 1 | sufi |
-| `substitute_medium_for_sacred_washing` | substitute medium for sacred washing | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | islamic |
-| `subterranean_dwarf_smiths_make_magical_divine_gifts` | Subterranean dwarf smiths make magical divine gifts | `sacred_craft` Sacred Craft and Divinely Aided Construction | narrower_than | 1 | norse |
-| `succession_on_earth_as_divine_test` | Succession on earth as divine test | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
-| `sun_as_reflection_of_divine_glory` | sun as reflection of divine glory | `sacred_fire` Sacred Fire and Divine Light | symbolic_variant | 1 | greek |
-| `supernatural_beings_converted_by_sacred_recitation` | supernatural beings converted by sacred recitation | `sacred_knowledge` Sacred Knowledge and Wisdom | functional_variant | 1 | islamic |
-| `supernatural_conversion_through_sacred_recitation` | Supernatural conversion through sacred recitation | `sacred_knowledge` Sacred Knowledge and Wisdom | functional_variant | 1 | islamic |
-| `supernatural_or_divinely_sent_auxiliary_creatures` | supernatural or divinely sent auxiliary creatures | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | greek |
-| `supernatural_smiths_forge_divine_or_magical_objects` | Supernatural smiths forge divine or magical objects | `sacred_craft` Sacred Craft and Divinely Aided Construction | narrower_than | 1 | norse |
-| `supplicant_heard_and_delivered_by_god` | Supplicant heard and delivered by God | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
-| `supplication_to_war_goddess_for_victory` | supplication to war goddess for victory | `divine_warrior` Divine Warrior and Sacred Combat | ritual_variant | 1 | roman |
-| `taboo_against_touching_guarded_sacred_trees` | taboo against touching guarded sacred trees | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | hindu |
-| `taboo_on_eating_a_vital_animal_part` | taboo on eating a vital animal part | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | comparative |
-| `taboo_on_eating_new_fruits_before_ritual_permission` | taboo on eating new fruits before ritual permission | `sacred_time` Sacred Time and Ritual Cycle | ritual_variant | 1 | comparative |
-| `taboo_protection_of_the_divine_ruler_or_priest` | taboo protection of the divine ruler or priest | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | ritual_variant | 1 | comparative |
+| `omens_announcing_war_before_settlement` | omens announcing war before settlement | `dream_and_vision` Dream, Vision, and Altered Perception | functional_variant | 1 | roman |
+| `omens_before_combat` | Omens before combat | `dream_and_vision` Dream, Vision, and Altered Perception | functional_variant | 1 | hindu |
+| `ominous_blood_cloud_before_battle` | ominous blood cloud before battle | `dream_and_vision` Dream, Vision, and Altered Perception | symbolic_variant | 1 | celtic_irish |
+| `ominous_portents_before_battle` | ominous portents before battle | `dream_and_vision` Dream, Vision, and Altered Perception | functional_variant | 1 | hindu |
+| `ominous_token_foretelling_hero_s_destruction` | ominous token foretelling hero's destruction | `dream_and_vision` Dream, Vision, and Altered Perception | functional_variant | 1 | celtic_irish |
+| `ominous_warnings_ignored_before_a_fatal_visit` | ominous warnings ignored before a fatal visit | `death_by_fate` Death Attributed to Fate or Destiny | functional_variant | 1 | norse |
+| `one_youthful_hero_overcomes_many_opponents_in_games` | one youthful hero overcomes many opponents in games | `initiation` Initiation and Transformative Ordeal | functional_variant | 1 | celtic_irish |
+| `oral_transmission_of_heroic_legend_in_domestic_settings` | Oral transmission of heroic legend in domestic settings | `storytelling_as_power` Storytelling and Narrative as Sacred Power | functional_variant | 1 | celtic_irish |
+| `outnumbered_faithful_band_assured_victory` | outnumbered faithful band assured victory | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | islamic |
+| `outnumbered_hero_defeats_pursuing_host` | outnumbered hero defeats pursuing host | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | celtic_welsh |
+| `outnumbered_hero_fighting_multiple_adversaries` | Outnumbered hero fighting multiple adversaries | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | hindu |
+| `outnumbered_hero_turns_to_dangerous_supernatural_aid` | outnumbered hero turns to dangerous supernatural aid | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | roman |
+| `outward_profession_contrasted_with_inward_faith` | Outward profession contrasted with inward faith | `sacred_law` Sacred Law and Social Order | narrower_than | 1 | islamic |
+| `outward_submission_distinguished_from_inward_faith` | outward submission distinguished from inward faith | `sacred_law` Sacred Law and Social Order | narrower_than | 1 | islamic |
+| `overwhelming_hero_defeats_massed_enemies` | overwhelming hero defeats massed enemies | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | hindu |
+| `paired_champion_single_combats` | paired champion single combats | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
+| `pathos_of_slain_young_warriors_through_genealogy_and_simile` | pathos of slain young warriors through genealogy and simile | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | meta_artifact | 1 | greek |
+| `peacemaker_halts_royal_violence` | peacemaker halts royal violence | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | functional_variant | 1 | hindu |
+| `perilous_island_warning` | Perilous island warning | `threshold_guardian` Threshold Guardian | functional_variant | 1 | roman |
+| `perilous_wilderness_as_ordeal` | perilous wilderness as ordeal | `initiation` Initiation and Transformative Ordeal | functional_variant | 1 | hindu |
+| `petition_to_a_hero_for_protection` | petition to a hero for protection | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | hindu |
+| `petrifying_gaze_and_severed_head_as_weapon` | petrifying gaze and severed head as weapon | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | greek_roman |
+| `petrifying_head_used_as_supernatural_weapon` | Petrifying head used as supernatural weapon | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | greek_roman |
+| `petrifying_monster_head_weapon` | Petrifying monster-head weapon | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | roman |
+| `plot_against_a_prophet_averted_by_warning` | plot against a prophet averted by warning | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
+| `poetic_contest_between_rival_poets` | poetic contest between rival poets | `storytelling_as_power` Storytelling and Narrative as Sacred Power | functional_variant | 1 | greek |
+| `poetic_praise_increases_warrior_courage` | Poetic praise increases warrior courage | `storytelling_as_power` Storytelling and Narrative as Sacred Power | functional_variant | 1 | celtic_irish |
+| `post_battle_funeral_lament_by_bereaved_women` | post-battle funeral lament by bereaved women | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | narrower_than | 1 | hindu |
+| `posthumous_hero_cult` | posthumous hero cult | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | ritual_variant | 1 | greek_roman |
+| `postponement_of_conflict_until_a_destined_great_battle` | postponement of conflict until a destined great battle | `death_by_fate` Death Attributed to Fate or Destiny | functional_variant | 1 | celtic_irish |
+| `praise_of_solar_deity_before_renewed_combat` | Praise of solar deity before renewed combat | `divine_intervention` Divine Intervention and Guidance | ritual_variant | 1 | hindu |
+| `praise_or_rebuke_restores_a_warrior_s_courage` | praise or rebuke restores a warrior's courage | `storytelling_as_power` Storytelling and Narrative as Sacred Power | functional_variant | 1 | celtic_irish |
+| `pre_combat_arming_and_approach_to_the_ford` | pre-combat arming and approach to the ford | `sacred_combat` Sacred Combat and Ritual Warfare | narrower_than | 1 | celtic_irish |
+| `preventing_the_enemy_survivor_from_carrying_the_tale_home` | preventing the enemy survivor from carrying the tale home | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `proper_reverence_toward_cosmic_guardians` | proper reverence toward cosmic guardians | `threshold_guardian` Threshold Guardian | ritual_variant | 1 | hindu |
+| `prophet_as_public_warner_and_admonisher` | Prophet as public warner and admonisher | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | islamic |
+| `prophet_refusing_reward_for_preaching` | prophet refusing reward for preaching | `sacred_exchange` Sacred Exchange and Reciprocity | functional_variant | 1 | islamic |
+| `prophetic_mission_as_witness_herald_and_warner` | prophetic mission as witness, herald, and warner | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | islamic |
+| `prophetic_warning_rejected_by_a_people` | prophetic warning rejected by a people | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
+| `prophetic_warning_rejected_by_affluent_or_former_peoples` | prophetic warning rejected by affluent or former peoples | `divine_judgment` Divine Judgment and Moral Reckoning | narrower_than | 1 | islamic |
+| `prophetic_warning_rejected_by_unbelievers` | Prophetic warning rejected by unbelievers | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
+| `protective_object_enabling_monster_combat` | protective object enabling monster combat | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | norse |
+| `protective_shield_rescue_in_battle` | protective shield rescue in battle | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | roman |
+| `protector_hero_arrives_to_save_a_younger_warrior` | protector hero arrives to save a younger warrior | `divine_warrior` Divine Warrior and Sacred Combat | role_variant | 1 | hindu |
+| `protector_prevents_killing_of_fallen_warrior` | protector prevents killing of fallen warrior | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | japanese |
+| `proud_monster_seeks_a_worthy_opponent` | Proud monster seeks a worthy opponent | `divine_warrior` Divine Warrior and Sacred Combat | role_variant | 1 | hindu |
+| `proud_warrior_ignores_ominous_warnings` | proud warrior ignores ominous warnings | `pride_and_downfall` Pride, Hubris, and Downfall | functional_variant | 1 | hindu |
+| `public_acclamation_of_the_arriving_hero` | public acclamation of the arriving hero | `hero_journey` The Hero's Journey | functional_variant | 1 | celtic_irish |
+| `public_athletic_combat_with_prize_distribution` | public athletic combat with prize distribution | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | ritual_variant | 1 | roman |
+| `public_athletic_contest_proves_the_stranger_s_hidden_excellence` | Public athletic contest proves the stranger’s hidden excellence | `hero_journey` The Hero's Journey | functional_variant | 1 | greek |
+| `public_contest_with_ranked_prizes` | public contest with ranked prizes | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | ritual_variant | 1 | greek |
+| `public_crowning_after_verbal_contest` | Public crowning after verbal contest | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | functional_variant | 1 | greek |
+| `public_heroic_boasting_verified_by_dangerous_objects` | public heroic boasting verified by dangerous objects | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | celtic_irish |
+| `public_lament_demanding_single_combat` | public lament demanding single combat | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | roman |
+| `public_lamentation_over_slain_warrior` | Public lamentation over slain warrior | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | child | 1 | greek |
+| `public_pledge_compels_dangerous_combat` | public pledge compels dangerous combat | `covenant` Covenant and Sacred Bond | functional_variant | 1 | celtic_irish |
+| `public_protective_deities_as_paired_mounted_warriors` | public protective deities as paired mounted warriors | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | greek_roman |
+| `public_test_of_strength_after_failed_first_attempt` | Public test of strength after failed first attempt | `initiation` Initiation and Transformative Ordeal | functional_variant | 1 | buddhist |
+| `punitive_destruction_of_enemy_pleasure_ground` | Punitive destruction of enemy pleasure-ground | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | hindu |
+| `quarrel_over_warrior_weapon_as_cause_of_conflict` | quarrel over warrior weapon as cause of conflict | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | celtic_irish |
+| `quarrelsome_companions_unified_by_a_leader_before_battle` | Quarrelsome companions unified by a leader before battle | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | japanese |
+| `radiant_war_hero_compared_to_celestial_and_fiery_images` | radiant war hero compared to celestial and fiery images | `divine_warrior` Divine Warrior and Sacred Combat | symbolic_variant | 1 | greek |
+| `raising_a_demon_army_for_punitive_battle` | raising a demon army for punitive battle | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | hindu |
+| `rebuke_against_cowardly_retreat` | rebuke against cowardly retreat | `divine_warrior` Divine Warrior and Sacred Combat | over_specific_label | 1 | greek |
+| `recognition_and_cataloguing_of_warriors_before_battle` | recognition and cataloguing of warriors before battle | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `recognition_catalogue_of_warriors` | Recognition catalogue of warriors | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | greek |
+| `recovery_of_fallen_comrade_s_body_and_weapons` | Recovery of fallen comrade's body and weapons | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | functional_variant | 1 | roman |
+| `recurrent_battle_against_supernatural_adversaries` | recurrent battle against supernatural adversaries | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | celtic_irish |
+| `recurring_heroic_combats_and_slayings` | recurring heroic combats and slayings | `sacred_combat` Sacred Combat and Ritual Warfare | broader_label | 1 | celtic_irish |
+| `refusal_to_challenge_an_exceptionally_dangerous_hero` | Refusal to challenge an exceptionally dangerous hero | `divine_warrior` Divine Warrior and Sacred Combat | role_variant | 1 | celtic_irish |
+| `refused_mercy_before_fatal_single_combat` | refused mercy before fatal single combat | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `rejected_forbidden_passion_turns_toward_revenge` | Rejected forbidden passion turns toward revenge | `sacred_love` Sacred Love and Longing | functional_variant | 1 | roman |
+| `rejected_messenger_warning_a_community` | rejected messenger warning a community | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | islamic |
+| `rejected_prophet_or_preacher_warns_an_unbelieving_people` | Rejected prophet or preacher warns an unbelieving people | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | islamic |
+| `rejected_prophetic_warning` | rejected prophetic warning | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
+| `religious_reverence_for_an_outside_cultural_hero` | religious reverence for an outside cultural hero | `culture_hero` Culture Hero and Founder | role_variant | 1 | ainu |
+| `reluctant_combat_between_foster_brothers` | reluctant combat between foster-brothers | `sacred_combat` Sacred Combat and Ritual Warfare | narrower_than | 1 | celtic_irish |
+| `renunciation_of_contested_land_to_avoid_bloodshed` | renunciation of contested land to avoid bloodshed | `sacred_exchange` Sacred Exchange and Reciprocity | functional_variant | 1 | daoist |
+| `repentance_and_forgiveness_between_brothers_before_battle` | Repentance and forgiveness between brothers before battle | `sacred_law` Sacred Law and Social Order | functional_variant | 1 | hindu |
+| `reported_supernatural_or_heroic_ally_in_battle` | reported supernatural or heroic ally in battle | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | celtic_irish |
+| `rescue_of_woman_from_monster` | Rescue of woman from monster | `hero_journey` The Hero's Journey | functional_variant | 1 | roman |
+| `restoration_test_on_natural_and_stone_bodies_before_healing_hero` | restoration test on natural and stone bodies before healing hero | `death_and_transformation` Death, Rebirth, and Transformation | functional_variant | 1 | finnish_karelian |
+| `retaliatory_violence_after_a_slain_kinsman` | Retaliatory violence after a slain kinsman | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | roman |
+| `revealed_recitation_as_guidance_and_warning` | revealed recitation as guidance and warning | `sacred_knowledge` Sacred Knowledge and Wisdom | functional_variant | 1 | islamic |
+| `revenge_banquet_of_slain_kin` | revenge banquet of slain kin | `sacred_combat` Sacred Combat and Ritual Warfare | narrower_than | 1 | norse |
+| `revenge_captivity_for_slain_kin` | Revenge captivity for slain kin | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `revenge_for_slain_kin` | revenge for slain kin | `sacred_combat` Sacred Combat and Ritual Warfare | narrower_than | 1 | celtic_irish |
+| `revenge_harms_the_avenger` | revenge harms the avenger | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | greek |
+| `revenge_through_enchanted_object_and_provoked_conflict` | revenge through enchanted object and provoked conflict | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | celtic_irish |
+| `revenge_through_transformed_body_remains` | Revenge through transformed body remains | `death_and_transformation` Death, Rebirth, and Transformation | functional_variant | 1 | norse |
+| `revenge_urged_after_kin_or_allies_are_slain` | revenge urged after kin or allies are slain | `sacred_combat` Sacred Combat and Ritual Warfare | narrower_than | 1 | hindu |
+| `righteous_rewarded_after_moral_testing_or_distinction` | righteous rewarded after moral testing or distinction | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
+| `rival_claim_to_heroic_object_followed_by_self_destruction` | rival claim to heroic object followed by self-destruction | `divine_warrior` Divine Warrior and Sacred Combat | over_specific_label | 1 | roman |
+| `rival_heroes_first_meeting_as_foes` | rival heroes first meeting as foes | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
+| `rival_warriors_challenge_each_other_before_public_combat` | rival warriors challenge each other before public combat | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
+| `rival_warriors_reconciled_into_shared_command` | rival warriors reconciled into shared command | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | japanese |
+| `rivalry_and_rebuke_spur_greater_battle_deeds` | Rivalry and rebuke spur greater battle deeds | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | celtic_irish |
+| `royal_muster_for_war` | royal muster for war | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | role_variant | 1 | celtic_irish |
+| `royal_war_sally_after_champions_are_slain` | royal war sally after champions are slain | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | hindu |
+| `saintly_miraculous_intervention_in_distant_battle` | saintly miraculous intervention in distant battle | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | sufi |
+| `scout_s_catalogue_of_enemy_champions` | scout's catalogue of enemy champions | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | celtic_irish |
+| `secret_helper_warns_fugitive_of_danger` | secret helper warns fugitive of danger | `hero_journey` The Hero's Journey | functional_variant | 1 | islamicate_folklore |
+| `sensory_paradise_rewards` | sensory paradise rewards | `afterlife_passage` Afterlife Navigation and Passage | narrower_than | 1 | islamic |
+| `sentient_weapon_refuses_unjust_killing` | sentient weapon refuses unjust killing | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | finnish_karelian |
+| `serial_single_combats_against_a_dominant_champion` | serial single combats against a dominant champion | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `servant_attempts_to_dissuade_hero_from_doomed_battle` | servant attempts to dissuade hero from doomed battle | `death_by_fate` Death Attributed to Fate or Destiny | functional_variant | 1 | celtic_irish |
+| `severed_enemy_head_as_proof_of_superior_prowess` | severed enemy head as proof of superior prowess | `sacred_combat` Sacred Combat and Ritual Warfare | narrower_than | 1 | celtic_irish |
+| `severed_head_displayed_as_victory_token` | severed head displayed as victory token | `sacred_combat` Sacred Combat and Ritual Warfare | narrower_than | 1 | celtic_irish |
+| `severed_head_trophy_as_warning` | severed-head trophy as warning | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `severed_monster_body_part_as_trophy_and_proof` | severed monster body part as trophy and proof | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | japanese |
+| `severely_wounded_warrior_continuing_after_evisceration` | severely wounded warrior continuing after evisceration | `divine_warrior` Divine Warrior and Sacred Combat | narrower_than | 1 | celtic_irish |
+| `sick_hero_aided_by_supernatural_healing` | Sick hero aided by supernatural healing | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | celtic_irish |
+| `sick_hero_invited_to_another_land` | sick hero invited to another land | `otherworld` Otherworld and Enchanted Realm | functional_variant | 1 | celtic_irish |
+| `single_combat_against_boastful_foreign_champion` | single combat against boastful foreign champion | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | celtic_irish |
+| `single_combat_anticipated_at_a_ford` | single combat anticipated at a ford | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `single_combat_as_decision_of_collective_conflict` | single combat as decision of collective conflict | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | roman |
+| `single_combat_as_settlement_of_a_marital_and_political_dispute` | single combat as settlement of a marital and political dispute | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | greek |
+| `single_combat_at_a_defended_ford` | single combat at a defended ford | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `single_combat_between_champions` | single combat between champions | `sacred_combat` Sacred Combat and Ritual Warfare | narrower_than | 1 | roman |
+| `single_combat_between_opposing_champions` | single combat between opposing champions | `sacred_combat` Sacred Combat and Ritual Warfare | narrower_than | 1 | hindu |
+| `single_combat_between_representative_champions` | single combat between representative champions | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | greek |
+| `single_combat_challenge_at_a_ford` | single combat challenge at a ford | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `single_combat_challenge_before_assembled_armies` | single-combat challenge before assembled armies | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | greek |
+| `single_combat_decides_a_phase_of_battle` | single combat decides a phase of battle | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `single_combat_delays_invasion` | single combat delays invasion | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `single_combat_sequence_in_battle` | single combat sequence in battle | `sacred_combat` Sacred Combat and Ritual Warfare | narrower_than | 1 | hindu |
+| `single_combat_substituted_for_mass_battle` | single combat substituted for mass battle | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `single_combat_substitutes_for_wider_battle` | Single combat substitutes for wider battle | `sacred_combat` Sacred Combat and Ritual Warfare | alias | 1 | celtic_welsh |
+| `single_combat_taunt_and_counter_taunt_before_weapon_exchange` | single-combat taunt and counter-taunt before weapon exchange | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | hindu |
+| `single_combat_to_settle_a_collective_war` | single combat to settle a collective war | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | greek |
+| `single_combat_used_to_delay_an_invading_army` | single combat used to delay an invading army | `sacred_combat` Sacred Combat and Ritual Warfare | alias | 1 | celtic_irish |
+| `single_helper_holds_off_attackers_with_limited_weapons` | Single helper holds off attackers with limited weapons | `divine_warrior` Divine Warrior and Sacred Combat | role_variant | 1 | celtic_irish |
+| `single_hero_against_a_large_hostile_group` | single hero against a large hostile group | `divine_warrior` Divine Warrior and Sacred Combat | role_variant | 1 | greek |
+| `single_hero_against_overwhelming_host` | single hero against overwhelming host | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `single_hero_blocks_an_army_at_a_ford` | single hero blocks an army at a ford | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `single_hero_carries_off_a_contested_trophy_portion` | Single hero carries off a contested trophy portion | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | celtic_irish |
+| `single_hero_defeats_multiple_challengers_at_fords` | Single hero defeats multiple challengers at fords | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `single_hero_defeats_multiple_elite_captains` | single hero defeats multiple elite captains | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
+| `single_hero_defeats_overwhelming_host` | single hero defeats overwhelming host | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
+| `single_hero_defeats_overwhelming_hostile_host` | single hero defeats overwhelming hostile host | `sacred_combat` Sacred Combat and Ritual Warfare | alias | 1 | hindu |
+| `single_hero_overwhelmed_by_unfair_combat` | single hero overwhelmed by unfair combat | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `single_hero_withstands_and_destroys_a_demonic_host` | single hero withstands and destroys a demonic host | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | hindu |
 
 ## Staged For Review
 
@@ -649,4 +662,4 @@ Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestion
 | `communal_warrior_discipline_as_civic_salvation` | Communal warrior discipline as civic salvation | map_to_existing_group | `sacred_combat` Sacred Combat and Ritual Warfare | medium | already mapped in main taxonomy |
 | `community_founded_from_human_need` | community founded from human need | map_to_existing_group | `sacred_law` Sacred Law and Social Order | medium | already mapped in main taxonomy |
 
-_Showing first 500 of 3991 review rows._
+_Showing first 500 of 4178 review rows._

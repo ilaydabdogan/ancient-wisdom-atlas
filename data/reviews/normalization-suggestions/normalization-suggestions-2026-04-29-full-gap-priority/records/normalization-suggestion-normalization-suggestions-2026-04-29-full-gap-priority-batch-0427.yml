@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0427
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.religious-reverence-for-an-outside-cultural-hero
+  motif_id: religious_reverence_for_an_outside_cultural_hero
+  label: religious reverence for an outside cultural hero
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on reverence for a culture-hero figure, even if the
+    figure is outside the local group.
+  cautions: Needs source review to determine whether this is actual cultic/religious
+    reverence, reception of an outsider, or an ethnographic/contextual detail.
+  suggested_aliases:
+  - outside cultural hero venerated religiously
+  - revered foreign culture hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-combat-between-foster-brothers
+  motif_id: reluctant_combat_between_foster_brothers
+  label: reluctant combat between foster-brothers
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: Forced or reluctant combat between kin-like warriors fits heroic combat
+    as a ritually and socially charged conflict.
+  cautions: Could also relate to sacred_twins/sibling_pair if foster-brotherhood is
+    central, or lament if tragic recognition dominates.
+  suggested_aliases:
+  - reluctant combat between sworn kin
+  - foster-brothers forced into combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciation-of-contested-land-to-avoid-bloodshed
+  motif_id: renunciation_of_contested_land_to_avoid_bloodshed
+  label: renunciation of contested land to avoid bloodshed
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Voluntary surrender of a valued claim to preserve peace fits renunciation
+    as sacred exchange or repair of relationship.
+  cautions: Daoist non-action or ethical rulership may be more salient than exchange;
+    review whether the passage frames it as moral self-restraint, political wisdom,
+    or ritual renunciation.
+  suggested_aliases:
+  - renouncing land to prevent bloodshed
+  - peace-preserving renunciation of territory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repentance-and-forgiveness-between-brothers-before-battle
+  motif_id: repentance_and_forgiveness_between_brothers_before_battle
+  label: Repentance and forgiveness between brothers before battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repentance and forgiveness before violence emphasize ethical repair and
+    restoration of social order.
+  cautions: If the battle duty is central, sacred_combat or divine_warrior may be
+    secondary; if brotherhood drives the motif, sacred_twins/sibling_pair may be relevant.
+  suggested_aliases:
+  - fraternal forgiveness before battle
+  - repentance between brothers before combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reported-supernatural-or-heroic-ally-in-battle
+  motif_id: reported_supernatural_or_heroic_ally_in_battle
+  label: reported supernatural or heroic ally in battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural or extraordinary ally appearing in battle is direct nonordinary
+    aid in human conflict.
+  cautions: The word 'reported' may indicate hearsay or narrative framing rather than
+    event evidence; if the ally is a warrior deity, divine_warrior may be a secondary
+    group.
+  suggested_aliases:
+  - supernatural ally in battle
+  - heroic battle helper
+  - divine aid in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-of-woman-from-monster
+  motif_id: rescue_of_woman_from_monster
+  label: Rescue of woman from monster
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero rescuing a threatened woman from a monster is a classic heroic
+    ordeal and rescue episode.
+  cautions: Existing groups lack a clean monster-slaying/rescue group; if combat with
+    chaos or divine order is emphasized, divine_warrior or sacred_combat may fit better.
+  suggested_aliases:
+  - hero rescues woman from monster
+  - monster-slaying rescue of woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-of-sita-after-trial-like-public-exchange
+  motif_id: restoration_of_sita_after_trial_like_public_exchange
+  label: restoration of Sita after trial-like public exchange
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is episode-specific and may concern trial, public vindication,
+    marital restoration, or royal/social order.
+  cautions: Culturally and textually specific; avoid flattening Sita's ordeal into
+    generic judgment without reviewing passage evidence and interpretive framing.
+  suggested_aliases:
+  - public vindication and restoration of Sita
+  - trial-like restoration of spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-test-on-natural-and-stone-bodies-before-healing-hero
+  motif_id: restoration_test_on_natural_and_stone_bodies_before_healing_hero
+  label: restoration test on natural and stone bodies before healing hero
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Testing restoration on bodies before healing a hero fits revival, bodily
+    restoration, and death-transformation patterns.
+  cautions: Highly specific; if the key motif is magical healing technique rather
+    than death reversal, a future healing/ritual medicine group may be needed.
+  suggested_aliases:
+  - restoration test before healing hero
+  - body restoration trial before revival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retainers-foreboding-before-lord-s-combat
+  motif_id: retainers_foreboding_before_lord_s_combat
+  label: retainers’ foreboding before lord’s combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: low
+  rationale: Foreboding before combat functions as ominous perception or anticipatory
+    sign of fate.
+  cautions: May be a narrative mood detail rather than a motif; if no omen, dream,
+    or supernatural perception is present, exclude or treat as evidence detail.
+  suggested_aliases:
+  - foreboding before combat
+  - retainers sense lord's impending combat doom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliatory-violence-after-a-slain-kinsman
+  motif_id: retaliatory_violence_after_a_slain_kinsman
+  label: Retaliatory violence after a slain kinsman
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kin-slaying followed by vengeance is a socially charged conflict pattern
+    within heroic or ritualized violence.
+  cautions: If framed as moral retribution, divine_judgment may be secondary; if purely
+    plot revenge with no sacred dimension, it may be too generic for broad pattern
+    queries.
+  suggested_aliases:
+  - blood vengeance for slain kinsman
+  - kin revenge violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and conflict-focused; suggested
+  placements should be treated as provisional broad-query mappings rather than taxonomy
+  additions.
+- Existing groups do not yet cleanly separate heroic rescue, feud vengeance, monster-slaying,
+  and ethical reconciliation before battle; human review may identify a need for a
+  more specific conflict/heroic ethics grouping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Automated provisional normalization suggestions; source passages should be
+    checked before applying mappings.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0427
+  input_sha256: b5f3819c30d9dcc8f2b451fe3b2da8876b9f03a8f2f762fbbb00e36f205d90f9

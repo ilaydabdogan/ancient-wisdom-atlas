@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0416
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.oracular-remains-of-a-hero
+  motif_id: oracular_remains_of_a_hero
+  label: oracular remains of a hero
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Heroic Relics and Oracular Remains
+  relationship: child
+  confidence: medium
+  rationale: The label combines heroic remains with postmortem prophetic power, not
+    merely funeral honor or sacred treasure possession.
+  cautions: Single occurrence; could map to heroic_funeral_rites, sacred_treasures,
+    or dream_and_vision if the passage emphasizes burial, relic objecthood, or oracle
+    function instead.
+  suggested_aliases:
+  - prophetic hero relics
+  - oracular relics
+  - heroic remains as oracle
+  suggested_new_group:
+    id: heroic_relics
+    label: Heroic Relics and Oracular Remains
+    description: The body, bones, tomb, ashes, or relics of a dead hero retain power,
+      authority, protection, healing, or oracular speech for the living community.
+    parent_group_ids:
+    - heroic_funeral_rites
+    - sacred_treasures
+    related_group_ids:
+    - afterlife_passage
+    - divine_intervention
+    - dream_and_vision
+    reason_existing_groups_insufficient: Existing groups cover funeral rites and power
+      objects, but not the recurring function of a dead hero's remains as an active
+      postmortem sacred agent.
+- suggestion_id: normalization.suggestion.oral-transmission-of-heroic-legend-in-domestic-settings
+  motif_id: oral_transmission_of_heroic_legend_in_domestic_settings
+  label: Oral transmission of heroic legend in domestic settings
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on oral storytelling as cultural memory and heroic-legend
+    transmission.
+  cautions: Domestic setting may be passage-specific; exclude if it is only a note
+    about manuscript or performance context rather than a narrative motif.
+  suggested_aliases:
+  - heroic legend oral transmission
+  - domestic oral storytelling
+  - oral heroic tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordeal-of-successive-waves-in-argument
+  motif_id: ordeal_of_successive_waves_in_argument
+  label: ordeal of successive waves in argument
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase could denote rhetorical contest, repeated trial imagery, or
+    a passage-specific metaphor.
+  cautions: Do not map to sacred_waters or initiation unless waves are literal or
+    ordeal-transformative in the source; may be an over-specific literary artifact.
+  suggested_aliases:
+  - successive argumentative ordeals
+  - wave-like verbal contest
+  - repeated argumentative trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outnumbered-faithful-band-assured-victory
+  motif_id: outnumbered_faithful_band_assured_victory
+  label: outnumbered faithful band assured victory
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A faithful minority assured victory in conflict fits sacred combat under
+    divine sanction.
+  cautions: If the emphasis is promise, trust, or divine aid rather than combat itself,
+    divine_intervention or covenant may be relevant secondary mappings.
+  suggested_aliases:
+  - faithful minority assured victory
+  - small faithful band victorious
+  - divinely assured victory of the outnumbered
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outnumbered-hero-defeats-pursuing-host
+  motif_id: outnumbered_hero_defeats_pursuing_host
+  label: outnumbered hero defeats pursuing host
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: An outnumbered hero defeating a hostile force is a heroic combat variant
+    within sacred or mythic warfare.
+  cautions: If no sacred or cosmic significance is present, this may be a heroic-episode
+    detail rather than a broad motif.
+  suggested_aliases:
+  - outnumbered hero victory
+  - hero defeats pursuing army
+  - single hero against host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outnumbered-hero-fighting-multiple-adversaries
+  motif_id: outnumbered_hero_fighting_multiple_adversaries
+  label: Outnumbered hero fighting multiple adversaries
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: The label describes the heroic combat pattern of one warrior confronting
+    many opponents.
+  cautions: May be too generic for pattern queries if it lacks sacred stakes, ordeal
+    function, or narrative transformation.
+  suggested_aliases:
+  - one against many combat
+  - outnumbered warrior
+  - hero versus multiple adversaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outnumbered-hero-turns-to-dangerous-supernatural-aid
+  motif_id: outnumbered_hero_turns_to_dangerous_supernatural_aid
+  label: outnumbered hero turns to dangerous supernatural aid
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is seeking supernatural aid in crisis, with danger attached
+    to the intervention.
+  cautions: Could also fit divine_warrior if combat is central, or sacred_exchange
+    if aid requires a vow, offering, or costly bargain.
+  suggested_aliases:
+  - dangerous supernatural aid in battle
+  - hero seeks perilous divine help
+  - supernatural aid to outnumbered hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outward-care-paired-with-withheld-sustenance
+  motif_id: outward_care_paired_with_withheld_sustenance
+  label: outward care paired with withheld sustenance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests deceptive care, neglect, or ordeal by deprivation,
+    but the narrative function is unclear.
+  cautions: May be an over-specific episode detail; only map to sacrifice, sacred_exchange,
+    or divine_judgment if the source shows ritual withholding, moral reckoning, or
+    sacred obligation.
+  suggested_aliases:
+  - care masking deprivation
+  - withheld sustenance under guise of care
+  - deceptive nurturing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outward-profession-contrasted-with-inward-faith
+  motif_id: outward_profession_contrasted_with_inward_faith
+  label: Outward profession contrasted with inward faith
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns the distinction between external religious status
+    and inner faith within sacred moral order.
+  cautions: Could fit wisdom or mystical_quest if framed as inner knowledge rather
+    than legal-ethical classification; handle Islamic theological categories carefully.
+  suggested_aliases:
+  - outer profession versus inner faith
+  - external confession contrasted with belief
+  - outward religion and inward faith
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outward-submission-distinguished-from-inward-faith
+  motif_id: outward_submission_distinguished_from_inward_faith
+  label: outward submission distinguished from inward faith
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label marks sacred social/religious classification by distinguishing
+    outward compliance from inner belief.
+  cautions: Could belong under wisdom or mystical_quest if the passage emphasizes
+    spiritual insight; culturally specific doctrinal nuance needs human review.
+  suggested_aliases:
+  - outward submission versus inward faith
+  - external submission and inner belief
+  - submission distinguished from faith
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several combat labels are single-occurrence heroic episode variants; map provisionally
+  to divine_warrior only where mythic or sacred stakes are present.
+- Labels involving Islamic inward faith versus outward profession/submission should
+  be reviewed for doctrinal nuance and not treated as generic hypocrisy motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for batch 0416; human review recommended
+    for ambiguous single-occurrence and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0416
+  input_sha256: 7668682008327aa5ec725f0a53202efa24c2b0cfa95399ba7813e851548d4515
