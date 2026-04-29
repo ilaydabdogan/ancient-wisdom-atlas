@@ -436,11 +436,29 @@ canonical_motif_groups:
   - world_egg
   - failed_creation
   - waters_divided
-  aliases: []
+  - place_name_etiology_from_a_death_at_a_ford
+  - place_name_explained_by_violent_death
+  - place_name_origin_from_a_death_and_burial
+  - place_name_origin_from_violent_death_or_event
+  - supernatural_etiological_place_naming
+  - supernatural_relocation_of_useful_stones_with_landscape_formation
+  - toponymic_naming_from_heroic_events
+  - eponymous_ancestor_and_land_name_origin
+  - eponymous_progenitors_of_peoples
+  - genealogical_origin_of_peoples_from_named_ancestors
+  aliases:
+  - place_name_etiology
+  - etiological_landscape_naming
+  - etiological_landscape_formation
+  - place_naming_etiology
+  - eponymous_ancestor
+  - eponymous_ancestors_people_origins
+  - ancestral_origins
   related:
   - primordial_sacrifice
   - axis_mundi
   - flood_and_renewal
+  - world_ages_cosmic_decline
 - id: primordial_sacrifice
   label: Primordial Sacrifice and Dismemberment
   description: 'The cosmos created through the death, sacrifice, or dismemberment
@@ -506,6 +524,7 @@ canonical_motif_groups:
   - descent
   - divine_judgment
   - death_and_transformation
+  - restless_dead_haunting_vengeance
 - id: death_and_transformation
   label: Death, Rebirth, and Transformation
   description: 'The pattern of death followed by return, renewal, or transformation
@@ -528,6 +547,7 @@ canonical_motif_groups:
   - sacrifice
   - initiation
   - flood_and_renewal
+  - restless_dead_haunting_vengeance
 - id: ascent
   label: Ascent and Heavenly Journey
   description: 'The upward journey toward the divine # climbing the mountain, ascending
@@ -637,6 +657,7 @@ canonical_motif_groups:
   - descent
   - threshold_guardian
   - mystical_quest
+  - recognition_tokens_hidden_identity
 - id: sacrifice
   label: Sacrifice and Offering
   description: 'The giving up of something precious # life, status, possession, self
@@ -675,7 +696,21 @@ canonical_motif_groups:
 '
   children:
   - broken_and_renewed_covenant
-  aliases: []
+  - mercy_overcoming_anger_toward_a_foe
+  - mercy_to_a_defeated_enemy
+  - mercy_toward_a_defeated_attacker
+  - mercy_toward_an_enemy
+  - mercy_toward_living_creatures_as_proof_of_moral_discipline
+  - suppliant_denied_mercy
+  - suppliant_ransom_offer_refused
+  - supplication_and_ransom_refused
+  - supplication_at_the_feet_for_pardon
+  - supplication_at_the_knees_before_imminent_killing
+  - supplication_for_peace_with_unarmed_hands
+  - supplication_with_ransom_refused
+  aliases:
+  - mercy_compassion_forgiveness
+  - supplication_mercy_refusal
   related:
   - sacrifice
   - sacred_exchange
@@ -694,6 +729,8 @@ canonical_motif_groups:
   related:
   - sacrifice
   - covenant
+  - betrayal_violated_trust
+  - hospitality_test_stranger_guest
 - id: divine_judgment
   label: Divine Judgment and Moral Reckoning
   description: 'The weighing, testing, or evaluation of souls, deeds, or peoples by
@@ -707,7 +744,16 @@ canonical_motif_groups:
   - ritual_prohibition
   - moral_consequence_following_action
   - ancestral_exemplars_judging_later_imitators
-  aliases: []
+  - false_accusation_after_rejected_sexual_advance
+  - false_accusation_by_planted_tokens_and_forged_message
+  - false_accusation_supported_by_planted_treasure
+  - greed_contrasted_with_temperance
+  - greed_escalating_after_acquisition_of_wealth
+  - greed_transforms_wealth_into_beggary
+  - greedy_coercion_punished_by_overwhelming_production
+  aliases:
+  - false_accusation_vindication
+  - greed_temperance_reversal
   related:
   - descent
   - afterlife_passage
@@ -741,7 +787,15 @@ canonical_motif_groups:
   - animal_pleads_usefulness_to_avoid_death
   - feigned_death_to_escape_a_predator
   - feigning_death_to_escape_captivity
-  aliases: []
+  - predator_destroyed_by_swallowing_an_indigestible_concealed_object
+  - predator_feigns_weakness_to_lure_victims
+  - predator_invents_pretext_against_weaker_victim
+  - predator_loses_prey_by_abandoning_proper_role
+  - predator_lures_prey_into_enclosed_dwelling
+  - predator_profits_from_another_s_misfortune
+  - predator_s_peace_proposal_requires_removal_of_protection
+  aliases:
+  - predator_deception_fable_reversal
   related:
   - sacred_knowledge
   - threshold_guardian
@@ -862,11 +916,15 @@ canonical_motif_groups:
   - warrior_honor_and_burial
   - warrior_duty_under_crisis
   - vow_of_vengeance_for_a_fallen_king_hero
-  aliases: []
+  - bodily_wounds_as_proof_of_service
+  - body_part_trophies_as_proof_of_combat
+  aliases:
+  - heroic_wounds_and_martial_proof
   related:
   - sacrifice
   - divine_judgment
   - royal_legitimacy
+  - conditional_invulnerability_hidden_weakness
 - id: royal_legitimacy
   label: Royal Legitimacy and Sacred Kingship
   description: 'The establishment, maintenance, or transfer of legitimate rule through
@@ -899,6 +957,8 @@ canonical_motif_groups:
   - cosmic_origin
   - sacred_twins
   - divine_judgment
+  - world_ages_cosmic_decline
+  - fate_figures_cosmic_weaving
 - id: sacred_fire
   label: Sacred Fire and Divine Light
   description: 'Fire as divine presence, purifying force, sacrificial medium, or cosmic
@@ -940,11 +1000,18 @@ canonical_motif_groups:
   - healing_sign
   - protective_mark
   - idol
-  aliases: []
+  - oracular_remains_of_a_hero
+  - saint_s_tomb_as_pilgrimage_center
+  - saintly_shrine_and_relic_devotion
+  aliases:
+  - heroic_relics
+  - saintly_tomb_pilgrimage
+  - saintly_shrine_relic_devotion
   related:
   - royal_legitimacy
   - sacred_vessel
   - initiation
+  - recognition_tokens_hidden_identity
 - id: divine_intervention
   label: Divine Intervention and Guidance
   description: 'The direct action of gods or sacred powers in human affairs # sending
@@ -962,7 +1029,13 @@ canonical_motif_groups:
   - healing_or_protection_by_the_spirit_that_causes_injury
   - dead_or_departed_agent_mediating_rain
   - immanent_spirit_becoming_external_deity
-  aliases: []
+  - inexhaustible_food_supply
+  - inexhaustible_material_supply
+  - abundance_giving_cow
+  aliases:
+  - miraculous_provision
+  - inexhaustible_provision
+  - animal_source_of_abundance
   related:
   - divine_judgment
   - theophany
@@ -1004,6 +1077,8 @@ canonical_motif_groups:
   - covenant
   - sacrifice
   - cosmic_origin
+  - world_ages_cosmic_decline
+  - fate_figures_cosmic_weaving
 - id: sacred_law
   label: Sacred Law and Social Order
   description: 'The divine origin of law, ethical codes, and social obligations. Includes
@@ -1030,6 +1105,8 @@ canonical_motif_groups:
   - covenant
   - divine_judgment
   - royal_legitimacy
+  - betrayal_violated_trust
+  - hospitality_test_stranger_guest
 - id: storytelling_as_power
   label: Storytelling and Narrative as Sacred Power
   description: 'The act of telling stories as a means of survival, transmission of
@@ -1044,7 +1121,21 @@ canonical_motif_groups:
   - liberator_threatened_by_captive
   - wit_overwhelms_supernatural_force
   - authorship_as_public_immortality
-  aliases: []
+  - enchanted_drink_causing_sleep_at_a_feast
+  - enchanted_music_compels_procession
+  - enchanted_music_that_causes_sleep
+  - enchanting_music_that_attracts_living_beings
+  - magical_music_causing_universal_emotion_or_sleep
+  - magical_music_controlling_emotion_and_sleep
+  - magical_music_subdues_opponents
+  - music_that_compels_emotion_and_sleep
+  - music_that_induces_sleep_or_weakens_vigilance
+  aliases:
+  - magical_compulsion
+  - enchanted_music
+  - enchanted_music_sound_power
+  - enchantment_compulsion
+  - enchanting_music
   related:
   - sacred_knowledge
   - initiation
@@ -1108,7 +1199,12 @@ canonical_motif_groups:
   - pride_as_brief_rule_followed_by_downfall_dissolution
   - pride_humbled_in_divine_containment
   - endurance_of_a_record_contrasted_with_daily_transience
-  aliases: []
+  - envious_imitation_of_a_beneficent_marvel_fails
+  - envy_as_harmful_force
+  - envy_as_possession_leading_to_obstruction
+  - envy_leading_to_failed_imitation
+  aliases:
+  - envy_rivalry_failed_imitation
   related:
   - divine_judgment
   - sacred_knowledge
@@ -1132,6 +1228,7 @@ canonical_motif_groups:
   - divine_warrior
   - sacrifice
   - divine_judgment
+  - conditional_invulnerability_hidden_weakness
 - id: dream_and_vision
   label: Dream, Vision, and Altered Perception
   description: 'Dreams, visions, and altered states as sources of sacred knowledge,
@@ -1164,6 +1261,7 @@ canonical_motif_groups:
   - divine_judgment
   - lament_and_mourning
   - sacrifice
+  - fate_figures_cosmic_weaving
 - id: beauty_and_paradox
   label: Beauty Paired with Pain and Paradox
   description: 'The aesthetic and spiritual insight that beauty and suffering, sweetness
@@ -1226,7 +1324,17 @@ canonical_motif_groups:
 '
   children:
   - divinely_inherited_bridgecraft
-  aliases: []
+  - animated_cult_image_made_by_magical_craft
+  - animated_images_responding_to_music
+  - animated_or_life_like_manufactured_image
+  - animation_of_a_cult_object_by_supernatural_residue
+  - animation_of_clay_creatures
+  - crafted_human_image_lacks_animation_or_vital_functions
+  - artificially_fashioned_woman_endowed_by_multiple_gods
+  aliases:
+  - animated_images_artificial_life
+  - artificial_human_animation
+  - artificially_created_being
   related:
   - axis_mundi
   - culture_hero
@@ -1285,6 +1393,7 @@ canonical_motif_groups:
   - sacred_treasures
   - sacred_knowledge
   - shapeshifter
+  - conditional_invulnerability_hidden_weakness
 - id: ancestor_rites
   label: Ancestor Rites and Feeding the Dead
   description: Ritual care, feeding, invitation, appeasement, or dismissal of dead
@@ -1298,6 +1407,7 @@ canonical_motif_groups:
   - death_and_transformation
   - sacrifice
   - sacred_exchange
+  - restless_dead_haunting_vengeance
 - id: heroic_funeral_rites
   label: Heroic Funeral Rites and Memorialization
   description: Rites, contests, burial honors, and memorial acts performed for a dead
@@ -1307,7 +1417,11 @@ canonical_motif_groups:
   - funeral_rites_and_memorial_if_the_missing_father_is_dead
   - funeral_rites_for_a_dead_companion
   - enduring_tomb_proclamation
-  aliases: []
+  - denial_of_burial_by_elemental_engulfment
+  - denial_of_burial_to_the_defeated_enemy
+  - denied_funerary_rites_and_corpse_exposure
+  aliases:
+  - denied_burial
   related:
   - sacred_combat
   - divine_warrior
@@ -1342,6 +1456,157 @@ canonical_motif_groups:
   - sacred_knowledge
   - death_and_transformation
   - divine_intervention
+- id: conditional_invulnerability_hidden_weakness
+  label: Conditional Invulnerability and Hidden Weakness
+  description: 'The repeated structure is stronger than ordinary combat: apparent
+    invulnerability is limited by an omitted exception, exposed body point, special
+    method, or self-disclosed weakness.'
+  children:
+  - armored_or_protected_enemy_defeated_through_a_single_exposed_point
+  - boon_protected_antagonist_with_excluded_opponent_class
+  - boon_with_fatal_omitted_exception
+  - boon_with_omitted_vulnerability
+  - divine_boon_with_fatal_exception
+  - enemy_made_invulnerable_by_a_boon_with_exceptions
+  - invulnerability_boon_with_fatal_human_exception
+  - invulnerability_boon_with_overlooked_human_vulnerability
+  - hero_killed_through_a_vulnerable_heel
+  - hero_slain_through_a_vulnerable_body_part
+  - invulnerable_or_iron_framed_warrior_withstands_blows
+  - invulnerable_or_weapon_resistant_warrior_body
+  - invulnerable_warrior_defeated_by_crushing_weight
+  - invulnerable_warrior_defeated_without_piercing_wounds
+  - invulnerable_warrior_resistant_to_weapons
+  - monster_invulnerable_to_ordinary_weapons_killed_by_alternate_means
+  - monster_reveals_or_discloses_its_own_vulnerability
+  - monster_slaying_through_indirect_sight
+  - monster_self_destruction_after_fulfilled_solution_condition
+  aliases:
+  - vulnerable_point
+  - conditional_boon_loophole
+  - conditional_boon_fatal_loophole
+  - conditional_invulnerability
+  - vulnerable_spot
+  - vulnerable_hero
+  - invulnerable_warrior_body
+  - invulnerable_monster_defeated
+  - condition_defeats_monster
+  related:
+  - divine_warrior
+  - sacred_combat
+  - external_soul
+  review_status: human_accepted
+  accepted_on: '2026-04-29'
+  accepted_from: taxonomy/proposed-new-groups-review.yml
+- id: betrayal_violated_trust
+  label: Betrayal and Violated Trust
+  description: Protector betrayal and feast/drink betrayal are different scenes, but
+    both make the broken bond itself the mythic engine.
+  children:
+  - betrayal_of_a_protector
+  - betrayal_through_feast_or_drink
+  aliases:
+  - betrayal_violated_trust
+  related:
+  - sacred_exchange
+  - sacred_law
+  review_status: human_accepted
+  accepted_on: '2026-04-29'
+  accepted_from: taxonomy/proposed-new-groups-review.yml
+- id: world_ages_cosmic_decline
+  label: World Ages and Cosmic Decline
+  description: 'The child motifs form a clear sequence pattern: a better primordial
+    age gives way to decline, loss, or degeneration across later ages.'
+  children:
+  - decline_through_successive_metallic_ages
+  - declining_ages_of_humankind
+  - primeval_age_followed_by_degeneration
+  - primordial_innocence_followed_by_loss_of_effortless_abundance
+  - divine_peace_stead_and_golden_age
+  aliases:
+  - world_ages_decline
+  - ages_of_decline
+  - golden_age_primordial_peace
+  related:
+  - sacred_time
+  - cosmic_origin
+  - duality
+  review_status: human_accepted
+  accepted_on: '2026-04-29'
+  accepted_from: taxonomy/proposed-new-groups-review.yml
+- id: hospitality_test_stranger_guest
+  label: Hospitality Test and Stranger Guest
+  description: The guest or suppliant functions as a sacred test of the host, making
+    hospitality itself the ordeal.
+  children:
+  - hospitality_and_testing_of_the_stranger_guest
+  - hospitality_test_involving_a_suppliant_stranger
+  - host_tested_by_vulnerable_stranger
+  aliases:
+  - hospitality_test
+  related:
+  - sacred_exchange
+  - sacred_law
+  review_status: human_accepted
+  accepted_on: '2026-04-29'
+  accepted_from: taxonomy/proposed-new-groups-review.yml
+- id: recognition_tokens_hidden_identity
+  label: Recognition Tokens and Hidden Identity
+  description: Tokens, scent, scars, voice, talismans, and messengers repeatedly prove
+    identity or a denied encounter.
+  children:
+  - recognition_by_scent_on_food_or_object
+  - recognition_of_herald_by_visible_tokens
+  - recognition_through_a_talisman_or_token
+  - recognition_through_hidden_identity_and_voice
+  - recognition_token_as_bodily_scar
+  - recognition_token_proving_an_otherwise_denied_encounter
+  - recognition_token_sent_by_envoy
+  - recognition_token_sent_through_a_messenger
+  aliases:
+  - recognition_tokens_hidden_identity
+  related:
+  - hero_journey
+  - sacred_treasures
+  review_status: human_accepted
+  accepted_on: '2026-04-29'
+  accepted_from: taxonomy/proposed-new-groups-review.yml
+- id: restless_dead_haunting_vengeance
+  label: Restless Dead, Haunting, and Vengeance
+  description: The dead remain active after death through haunting, return, or vengeance
+    when social, familial, or ritual order is unresolved.
+  children:
+  - restless_dead_haunting_former_homes
+  - vengeful_phantom_kin
+  aliases:
+  - restless_dead_haunting
+  - restless_dead_vengeful_spirits
+  related:
+  - ancestor_rites
+  - afterlife_passage
+  - death_and_transformation
+  review_status: human_accepted
+  accepted_on: '2026-04-29'
+  accepted_from: taxonomy/proposed-new-groups-review.yml
+- id: fate_figures_cosmic_weaving
+  label: Fate Figures and Cosmic Weaving
+  description: The evidence moves beyond death-by-fate into personified or woven destiny
+    that governs time, revolutions, atmosphere, or cosmic order.
+  children:
+  - three_fate_figures_governing_time_and_revolutions
+  - three_fate_sisters_who_govern_destiny
+  - weaving_the_web_of_fate
+  - web_of_fate_as_cosmic_or_atmospheric_image
+  aliases:
+  - fate_figures_destiny
+  - fate_and_cosmic_weaving
+  related:
+  - death_by_fate
+  - duality
+  - sacred_time
+  review_status: human_accepted
+  accepted_on: '2026-04-29'
+  accepted_from: taxonomy/proposed-new-groups-review.yml
 raw_motif_group_index:
   _meta_textual:
     group_id: _meta_textual
@@ -54652,6 +54917,886 @@ raw_motif_group_index:
     - battle frenzy threatening community
     - returning warrior rage
     - heroic combat fury endangering allies
+  armored_or_protected_enemy_defeated_through_a_single_exposed_point:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  boon_protected_antagonist_with_excluded_opponent_class:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  boon_with_fatal_omitted_exception:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  boon_with_omitted_vulnerability:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  divine_boon_with_fatal_exception:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  enemy_made_invulnerable_by_a_boon_with_exceptions:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  invulnerability_boon_with_fatal_human_exception:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  invulnerability_boon_with_overlooked_human_vulnerability:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  hero_killed_through_a_vulnerable_heel:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  hero_slain_through_a_vulnerable_body_part:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  invulnerable_or_iron_framed_warrior_withstands_blows:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  invulnerable_or_weapon_resistant_warrior_body:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  invulnerable_warrior_defeated_by_crushing_weight:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  invulnerable_warrior_defeated_without_piercing_wounds:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  invulnerable_warrior_resistant_to_weapons:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  monster_invulnerable_to_ordinary_weapons_killed_by_alternate_means:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  monster_reveals_or_discloses_its_own_vulnerability:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  monster_slaying_through_indirect_sight:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  monster_self_destruction_after_fulfilled_solution_condition:
+    group_id: conditional_invulnerability_hidden_weakness
+    group_label: Conditional Invulnerability and Hidden Weakness
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  betrayal_of_a_protector:
+    group_id: betrayal_violated_trust
+    group_label: Betrayal and Violated Trust
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  betrayal_through_feast_or_drink:
+    group_id: betrayal_violated_trust
+    group_label: Betrayal and Violated Trust
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  decline_through_successive_metallic_ages:
+    group_id: world_ages_cosmic_decline
+    group_label: World Ages and Cosmic Decline
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  declining_ages_of_humankind:
+    group_id: world_ages_cosmic_decline
+    group_label: World Ages and Cosmic Decline
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  primeval_age_followed_by_degeneration:
+    group_id: world_ages_cosmic_decline
+    group_label: World Ages and Cosmic Decline
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  primordial_innocence_followed_by_loss_of_effortless_abundance:
+    group_id: world_ages_cosmic_decline
+    group_label: World Ages and Cosmic Decline
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  divine_peace_stead_and_golden_age:
+    group_id: world_ages_cosmic_decline
+    group_label: World Ages and Cosmic Decline
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  hospitality_and_testing_of_the_stranger_guest:
+    group_id: hospitality_test_stranger_guest
+    group_label: Hospitality Test and Stranger Guest
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  hospitality_test_involving_a_suppliant_stranger:
+    group_id: hospitality_test_stranger_guest
+    group_label: Hospitality Test and Stranger Guest
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  host_tested_by_vulnerable_stranger:
+    group_id: hospitality_test_stranger_guest
+    group_label: Hospitality Test and Stranger Guest
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  recognition_by_scent_on_food_or_object:
+    group_id: recognition_tokens_hidden_identity
+    group_label: Recognition Tokens and Hidden Identity
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  recognition_of_herald_by_visible_tokens:
+    group_id: recognition_tokens_hidden_identity
+    group_label: Recognition Tokens and Hidden Identity
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  recognition_through_a_talisman_or_token:
+    group_id: recognition_tokens_hidden_identity
+    group_label: Recognition Tokens and Hidden Identity
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  recognition_through_hidden_identity_and_voice:
+    group_id: recognition_tokens_hidden_identity
+    group_label: Recognition Tokens and Hidden Identity
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  recognition_token_as_bodily_scar:
+    group_id: recognition_tokens_hidden_identity
+    group_label: Recognition Tokens and Hidden Identity
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  recognition_token_proving_an_otherwise_denied_encounter:
+    group_id: recognition_tokens_hidden_identity
+    group_label: Recognition Tokens and Hidden Identity
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  recognition_token_sent_by_envoy:
+    group_id: recognition_tokens_hidden_identity
+    group_label: Recognition Tokens and Hidden Identity
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  recognition_token_sent_through_a_messenger:
+    group_id: recognition_tokens_hidden_identity
+    group_label: Recognition Tokens and Hidden Identity
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  restless_dead_haunting_former_homes:
+    group_id: restless_dead_haunting_vengeance
+    group_label: Restless Dead, Haunting, and Vengeance
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  vengeful_phantom_kin:
+    group_id: restless_dead_haunting_vengeance
+    group_label: Restless Dead, Haunting, and Vengeance
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  three_fate_figures_governing_time_and_revolutions:
+    group_id: fate_figures_cosmic_weaving
+    group_label: Fate Figures and Cosmic Weaving
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  three_fate_sisters_who_govern_destiny:
+    group_id: fate_figures_cosmic_weaving
+    group_label: Fate Figures and Cosmic Weaving
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  weaving_the_web_of_fate:
+    group_id: fate_figures_cosmic_weaving
+    group_label: Fate Figures and Cosmic Weaving
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  web_of_fate_as_cosmic_or_atmospheric_image:
+    group_id: fate_figures_cosmic_weaving
+    group_label: Fate Figures and Cosmic Weaving
+    relationship: child
+    review_action: accepted_new_group
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  animated_cult_image_made_by_magical_craft:
+    group_id: sacred_craft
+    group_label: Sacred Craft and Divinely Aided Construction
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  animated_images_responding_to_music:
+    group_id: sacred_craft
+    group_label: Sacred Craft and Divinely Aided Construction
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  animated_or_life_like_manufactured_image:
+    group_id: sacred_craft
+    group_label: Sacred Craft and Divinely Aided Construction
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  animation_of_a_cult_object_by_supernatural_residue:
+    group_id: sacred_craft
+    group_label: Sacred Craft and Divinely Aided Construction
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  animation_of_clay_creatures:
+    group_id: sacred_craft
+    group_label: Sacred Craft and Divinely Aided Construction
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  crafted_human_image_lacks_animation_or_vital_functions:
+    group_id: sacred_craft
+    group_label: Sacred Craft and Divinely Aided Construction
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  artificially_fashioned_woman_endowed_by_multiple_gods:
+    group_id: sacred_craft
+    group_label: Sacred Craft and Divinely Aided Construction
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  bodily_wounds_as_proof_of_service:
+    group_id: divine_warrior
+    group_label: Divine Warrior and Sacred Combat
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  body_part_trophies_as_proof_of_combat:
+    group_id: divine_warrior
+    group_label: Divine Warrior and Sacred Combat
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  denial_of_burial_by_elemental_engulfment:
+    group_id: heroic_funeral_rites
+    group_label: Heroic Funeral Rites and Memorialization
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  denial_of_burial_to_the_defeated_enemy:
+    group_id: heroic_funeral_rites
+    group_label: Heroic Funeral Rites and Memorialization
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  denied_funerary_rites_and_corpse_exposure:
+    group_id: heroic_funeral_rites
+    group_label: Heroic Funeral Rites and Memorialization
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  enchanted_drink_causing_sleep_at_a_feast:
+    group_id: storytelling_as_power
+    group_label: Storytelling and Narrative as Sacred Power
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  enchanted_music_compels_procession:
+    group_id: storytelling_as_power
+    group_label: Storytelling and Narrative as Sacred Power
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  enchanted_music_that_causes_sleep:
+    group_id: storytelling_as_power
+    group_label: Storytelling and Narrative as Sacred Power
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  enchanting_music_that_attracts_living_beings:
+    group_id: storytelling_as_power
+    group_label: Storytelling and Narrative as Sacred Power
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  magical_music_causing_universal_emotion_or_sleep:
+    group_id: storytelling_as_power
+    group_label: Storytelling and Narrative as Sacred Power
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  magical_music_controlling_emotion_and_sleep:
+    group_id: storytelling_as_power
+    group_label: Storytelling and Narrative as Sacred Power
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  magical_music_subdues_opponents:
+    group_id: storytelling_as_power
+    group_label: Storytelling and Narrative as Sacred Power
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  music_that_compels_emotion_and_sleep:
+    group_id: storytelling_as_power
+    group_label: Storytelling and Narrative as Sacred Power
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  music_that_induces_sleep_or_weakens_vigilance:
+    group_id: storytelling_as_power
+    group_label: Storytelling and Narrative as Sacred Power
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  envious_imitation_of_a_beneficent_marvel_fails:
+    group_id: pride_and_downfall
+    group_label: Pride, Hubris, and Downfall
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  envy_as_harmful_force:
+    group_id: pride_and_downfall
+    group_label: Pride, Hubris, and Downfall
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  envy_as_possession_leading_to_obstruction:
+    group_id: pride_and_downfall
+    group_label: Pride, Hubris, and Downfall
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  envy_leading_to_failed_imitation:
+    group_id: pride_and_downfall
+    group_label: Pride, Hubris, and Downfall
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  false_accusation_after_rejected_sexual_advance:
+    group_id: divine_judgment
+    group_label: Divine Judgment and Moral Reckoning
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  false_accusation_by_planted_tokens_and_forged_message:
+    group_id: divine_judgment
+    group_label: Divine Judgment and Moral Reckoning
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  false_accusation_supported_by_planted_treasure:
+    group_id: divine_judgment
+    group_label: Divine Judgment and Moral Reckoning
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  greed_contrasted_with_temperance:
+    group_id: divine_judgment
+    group_label: Divine Judgment and Moral Reckoning
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  greed_escalating_after_acquisition_of_wealth:
+    group_id: divine_judgment
+    group_label: Divine Judgment and Moral Reckoning
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  greed_transforms_wealth_into_beggary:
+    group_id: divine_judgment
+    group_label: Divine Judgment and Moral Reckoning
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  greedy_coercion_punished_by_overwhelming_production:
+    group_id: divine_judgment
+    group_label: Divine Judgment and Moral Reckoning
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  inexhaustible_food_supply:
+    group_id: divine_intervention
+    group_label: Divine Intervention and Guidance
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  inexhaustible_material_supply:
+    group_id: divine_intervention
+    group_label: Divine Intervention and Guidance
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  abundance_giving_cow:
+    group_id: divine_intervention
+    group_label: Divine Intervention and Guidance
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  mercy_overcoming_anger_toward_a_foe:
+    group_id: covenant
+    group_label: Covenant and Sacred Bond
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  mercy_to_a_defeated_enemy:
+    group_id: covenant
+    group_label: Covenant and Sacred Bond
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  mercy_toward_a_defeated_attacker:
+    group_id: covenant
+    group_label: Covenant and Sacred Bond
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  mercy_toward_an_enemy:
+    group_id: covenant
+    group_label: Covenant and Sacred Bond
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  mercy_toward_living_creatures_as_proof_of_moral_discipline:
+    group_id: covenant
+    group_label: Covenant and Sacred Bond
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  suppliant_denied_mercy:
+    group_id: covenant
+    group_label: Covenant and Sacred Bond
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  suppliant_ransom_offer_refused:
+    group_id: covenant
+    group_label: Covenant and Sacred Bond
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  supplication_and_ransom_refused:
+    group_id: covenant
+    group_label: Covenant and Sacred Bond
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  supplication_at_the_feet_for_pardon:
+    group_id: covenant
+    group_label: Covenant and Sacred Bond
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  supplication_at_the_knees_before_imminent_killing:
+    group_id: covenant
+    group_label: Covenant and Sacred Bond
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  supplication_for_peace_with_unarmed_hands:
+    group_id: covenant
+    group_label: Covenant and Sacred Bond
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  supplication_with_ransom_refused:
+    group_id: covenant
+    group_label: Covenant and Sacred Bond
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  oracular_remains_of_a_hero:
+    group_id: sacred_treasures
+    group_label: Sacred Treasures and Power Objects
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  saint_s_tomb_as_pilgrimage_center:
+    group_id: sacred_treasures
+    group_label: Sacred Treasures and Power Objects
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  saintly_shrine_and_relic_devotion:
+    group_id: sacred_treasures
+    group_label: Sacred Treasures and Power Objects
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  place_name_etiology_from_a_death_at_a_ford:
+    group_id: cosmic_origin
+    group_label: Cosmic Origin and Creation
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  place_name_explained_by_violent_death:
+    group_id: cosmic_origin
+    group_label: Cosmic Origin and Creation
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  place_name_origin_from_a_death_and_burial:
+    group_id: cosmic_origin
+    group_label: Cosmic Origin and Creation
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  place_name_origin_from_violent_death_or_event:
+    group_id: cosmic_origin
+    group_label: Cosmic Origin and Creation
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  supernatural_etiological_place_naming:
+    group_id: cosmic_origin
+    group_label: Cosmic Origin and Creation
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  supernatural_relocation_of_useful_stones_with_landscape_formation:
+    group_id: cosmic_origin
+    group_label: Cosmic Origin and Creation
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  toponymic_naming_from_heroic_events:
+    group_id: cosmic_origin
+    group_label: Cosmic Origin and Creation
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  eponymous_ancestor_and_land_name_origin:
+    group_id: cosmic_origin
+    group_label: Cosmic Origin and Creation
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  eponymous_progenitors_of_peoples:
+    group_id: cosmic_origin
+    group_label: Cosmic Origin and Creation
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  genealogical_origin_of_peoples_from_named_ancestors:
+    group_id: cosmic_origin
+    group_label: Cosmic Origin and Creation
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  predator_destroyed_by_swallowing_an_indigestible_concealed_object:
+    group_id: trickster
+    group_label: Trickster and Boundary Crosser
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  predator_feigns_weakness_to_lure_victims:
+    group_id: trickster
+    group_label: Trickster and Boundary Crosser
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  predator_invents_pretext_against_weaker_victim:
+    group_id: trickster
+    group_label: Trickster and Boundary Crosser
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  predator_loses_prey_by_abandoning_proper_role:
+    group_id: trickster
+    group_label: Trickster and Boundary Crosser
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  predator_lures_prey_into_enclosed_dwelling:
+    group_id: trickster
+    group_label: Trickster and Boundary Crosser
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  predator_profits_from_another_s_misfortune:
+    group_id: trickster
+    group_label: Trickster and Boundary Crosser
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
+  predator_s_peace_proposal_requires_removal_of_protection:
+    group_id: trickster
+    group_label: Trickster and Boundary Crosser
+    relationship: child
+    review_action: folded_into_existing
+    review_status: human_accepted
+    source: taxonomy/proposed-new-groups-review.yml
+    notes: Applied Ilayda review decision on 2026-04-29.
 normalization_suggestion_acceptance:
   updated_on: '2026-04-29'
   latest_run_id: normalization-suggestions-2026-04-29-full-gap-priority
@@ -54664,3 +55809,6 @@ normalization_suggestion_acceptance:
   latest_suggestion_count: 5300
   latest_auto_accepted_count: 96
   latest_review_needed_count: 5204
+  human_review_update_on: '2026-04-29'
+  accepted_new_group_count: 7
+  applied_fold_decision_count: 12

@@ -1,36 +1,34 @@
 # Proposed New Groups Review
 
-Reviewed on: 2026-04-29
+Status: human review applied on 2026-04-29.
 
-The expansion draft had 85 proposed new canonical groups. After consolidation and Ilayda's fold decisions, 7 remain as genuine cross-tradition candidates. The other 66 source candidates should be folded into existing groups because they are single-tradition, comparative-only, near-duplicates, or better treated as children of an existing family.
+The seven remaining cross-tradition candidates were accepted into `taxonomy/motif-normalization.yml`. The twelve user-approved fold decisions were merged into existing canonical families. No proposed new groups remain pending for the GitHub Pages Taxonomy view.
 
-## Recommended To Accept As Pending New Groups
+## Accepted New Groups
 
-| Candidate | Traditions | Recommendation |
-| --- | ---: | --- |
-| Conditional Invulnerability and Hidden Weakness | 5 | Accept as new group |
-| Betrayal and Violated Trust | 2 | Accept as new group |
-| World Ages and Cosmic Decline | 3 | Accept as new group |
-| Hospitality Test and Stranger Guest | 2 | Accept as new group |
-| Recognition Tokens and Hidden Identity | 4 | Accept as new group |
-| Restless Dead, Haunting, and Vengeance | 2 | Accept as new group |
-| Fate Figures and Cosmic Weaving | 2 | Accept as new group |
+- `conditional_invulnerability_hidden_weakness`: Conditional Invulnerability and Hidden Weakness (19 child motifs)
+- `betrayal_violated_trust`: Betrayal and Violated Trust (2 child motifs)
+- `world_ages_cosmic_decline`: World Ages and Cosmic Decline (5 child motifs)
+- `hospitality_test_stranger_guest`: Hospitality Test and Stranger Guest (3 child motifs)
+- `recognition_tokens_hidden_identity`: Recognition Tokens and Hidden Identity (8 child motifs)
+- `restless_dead_haunting_vengeance`: Restless Dead, Haunting, and Vengeance (2 child motifs)
+- `fate_figures_cosmic_weaving`: Fate Figures and Cosmic Weaving (4 child motifs)
 
-## Newly Folded By Review Decision
+## Applied Fold Decisions
 
-| Candidate | Fold Into |
-| --- | --- |
-| Artificial Life and Animated Images | `sacred_craft` |
-| Heroic Wounds and Martial Proof | `divine_warrior` |
-| Denied Burial and Corpse Exposure | `heroic_funeral_rites` |
-| Enchanted Music and Magical Compulsion | `storytelling_as_power` |
-| Envy, Rivalry, and Failed Imitation | `pride_and_downfall` |
-| False Accusation and Vindication | `divine_judgment` |
-| Greed, Temperance, and Moral Reversal | `divine_judgment` |
-| Miraculous and Inexhaustible Provision | `divine_intervention` |
-| Mercy, Supplication, and Forgiveness | `covenant` |
-| Relics, Tombs, and Posthumous Power | `sacred_treasures` |
-| Etiological Naming and Landscape Origin | `cosmic_origin` |
-| Predator Deception and Fable Reversal | `trickster` |
+- Artificial Life and Animated Images -> `sacred_craft` (7 child motifs from `animated_images_artificial_life`, `artificial_human_animation`, `artificially_created_being`).
+- Heroic Wounds and Martial Proof -> `divine_warrior` (2 child motifs from `heroic_wounds_and_martial_proof`).
+- Denied Burial and Corpse Exposure -> `heroic_funeral_rites` (3 child motifs from `denied_burial`).
+- Enchanted Music and Magical Compulsion -> `storytelling_as_power` (9 child motifs from `magical_compulsion`, `enchanted_music`, `enchanted_music_sound_power`, `enchantment_compulsion`, `enchanting_music`).
+- Envy, Rivalry, and Failed Imitation -> `pride_and_downfall` (4 child motifs from `envy_rivalry_failed_imitation`).
+- False Accusation and Vindication -> `divine_judgment` (3 child motifs from `false_accusation_vindication`).
+- Greed, Temperance, and Moral Reversal -> `divine_judgment` (4 child motifs from `greed_temperance_reversal`).
+- Miraculous and Inexhaustible Provision -> `divine_intervention` (3 child motifs from `miraculous_provision`, `inexhaustible_provision`, `animal_source_of_abundance`).
+- Mercy, Supplication, and Forgiveness -> `covenant` (12 child motifs from `mercy_compassion_forgiveness`, `supplication_mercy_refusal`).
+- Relics, Tombs, and Posthumous Power -> `sacred_treasures` (3 child motifs from `heroic_relics`, `saintly_tomb_pilgrimage`, `saintly_shrine_relic_devotion`).
+- Etiological Naming and Landscape Origin -> `cosmic_origin` (10 child motifs from `place_name_etiology`, `etiological_landscape_naming`, `etiological_landscape_formation`, `place_naming_etiology`, `eponymous_ancestor`, `eponymous_ancestors_people_origins`, `ancestral_origins`).
+- Predator Deception and Fable Reversal -> `trickster` (7 child motifs from `predator_deception_fable_reversal`).
 
-The full fold map is in `taxonomy/proposed-new-groups-review.yml`.
+## Pending Review
+
+None.

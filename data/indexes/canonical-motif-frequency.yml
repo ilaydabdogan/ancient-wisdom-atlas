@@ -6,9 +6,9 @@ method: Counts distinct traditions for indexed motif IDs that map to canonical_m
   through raw_motif_group_index, group children/aliases, or normalization aliases.
 indexed_motif_count: 9072
 indexed_occurrence_count: 31658
-canonical_motif_group_count: 53
-mapped_motif_count: 3770
-unmapped_motif_count: 5302
+canonical_motif_group_count: 60
+mapped_motif_count: 3880
+unmapped_motif_count: 5192
 canonical_motifs:
 - canonical_motif_id: death_and_transformation
   label: Death, Rebirth, and Transformation
@@ -20,6 +20,7 @@ canonical_motifs:
   - sacrifice
   - initiation
   - flood_and_renewal
+  - restless_dead_haunting_vengeance
   is_meta_group: false
   traditions:
     ainu: 5
@@ -1878,22 +1879,22 @@ canonical_motifs:
     buddhist: 19
     celtic_irish: 18
     celtic_welsh: 11
-    comparative: 5
+    comparative: 6
     daoist: 2
     egyptian: 2
     finnish_karelian: 4
     greek: 297
-    greek_roman: 90
+    greek_roman: 91
     hindu: 116
     indigenous_australian: 4
     islamic: 1299
-    islamicate_folklore: 8
+    islamicate_folklore: 10
     japanese: 7
     jewish_christian: 7
     maya_quiche: 2
-    norse: 35
-    persian: 20
-    roman: 213
+    norse: 36
+    persian: 21
+    roman: 214
     sufi: 217
   mapped_motifs:
   - motif_id: divine_judgment
@@ -2392,6 +2393,20 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       islamic: 1
+  - motif_id: false_accusation_after_rejected_sexual_advance
+    label: false accusation after rejected sexual advance
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: false_accusation_by_planted_tokens_and_forged_message
+    label: False accusation by planted tokens and forged message
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
   - motif_id: false_accusation_reversed_onto_accuser
     label: false accusation reversed onto accuser
     relationship: functional_variant
@@ -2399,6 +2414,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       buddhist: 1
+  - motif_id: false_accusation_supported_by_planted_treasure
+    label: False accusation supported by planted treasure
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
   - motif_id: false_or_premature_condemnation_corrected_by_proper_inquiry
     label: False or premature condemnation corrected by proper inquiry
     relationship: functional_variant
@@ -2448,6 +2470,34 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       islamic: 1
+  - motif_id: greed_contrasted_with_temperance
+    label: Greed contrasted with temperance
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      persian: 1
+  - motif_id: greed_escalating_after_acquisition_of_wealth
+    label: greed escalating after acquisition of wealth
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamicate_folklore: 1
+  - motif_id: greed_transforms_wealth_into_beggary
+    label: greed transforms wealth into beggary
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamicate_folklore: 1
+  - motif_id: greedy_coercion_punished_by_overwhelming_production
+    label: greedy coercion punished by overwhelming production
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
   - motif_id: guilty_enemy_preserved_as_permanent_monument
     label: guilty enemy preserved as permanent monument
     relationship: functional_variant
@@ -3261,8 +3311,8 @@ canonical_motifs:
     traditions:
       ainu: 1
   tradition_count: 21
-  occurrence_count: 2389
-  mapped_motif_count: 192
+  occurrence_count: 2396
+  mapped_motif_count: 199
 - canonical_motif_id: sacred_exchange
   label: Sacred Exchange and Reciprocity
   description: The principle of reciprocal giving between humans and the divine, or
@@ -3271,6 +3321,8 @@ canonical_motifs:
   related:
   - sacrifice
   - covenant
+  - betrayal_violated_trust
+  - hospitality_test_stranger_guest
   is_meta_group: false
   traditions:
     ainu: 13
@@ -4030,6 +4082,7 @@ canonical_motifs:
   - descent
   - threshold_guardian
   - mystical_quest
+  - recognition_tokens_hidden_identity
   is_meta_group: false
   traditions:
     ainu: 3
@@ -6127,19 +6180,20 @@ canonical_motifs:
   - primordial_sacrifice
   - axis_mundi
   - flood_and_renewal
+  - world_ages_cosmic_decline
   is_meta_group: false
   traditions:
     ainu: 2
-    celtic_irish: 10
+    celtic_irish: 16
     celtic_welsh: 5
     comparative: 1
     daoist: 6
     finnish_karelian: 16
     greek: 30
-    greek_roman: 8
+    greek_roman: 9
     hindu: 34
-    indigenous_australian: 1
-    islamic: 64
+    indigenous_australian: 2
+    islamic: 66
     islamicate_folklore: 1
     japanese: 3
     jewish_christian: 2
@@ -6418,6 +6472,20 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       norse: 1
+  - motif_id: eponymous_ancestor_and_land_name_origin
+    label: Eponymous ancestor and land-name origin
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: eponymous_progenitors_of_peoples
+    label: eponymous progenitors of peoples
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
   - motif_id: failed_creation
     label: failed creation
     relationship: child
@@ -6428,6 +6496,13 @@ canonical_motifs:
   - motif_id: first_human_formed_from_earth_and_animated_by_god
     label: first human formed from earth and animated by God
     relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: genealogical_origin_of_peoples_from_named_ancestors
+    label: Genealogical origin of peoples from named ancestors
+    relationship: child
     occurrence_count: 1
     tradition_count: 1
     traditions:
@@ -6537,6 +6612,34 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       greek_roman: 1
+  - motif_id: place_name_etiology_from_a_death_at_a_ford
+    label: place-name etiology from a death at a ford
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: place_name_explained_by_violent_death
+    label: place-name explained by violent death
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: place_name_origin_from_a_death_and_burial
+    label: place-name origin from a death and burial
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: place_name_origin_from_violent_death_or_event
+    label: place-name origin from violent death or event
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
   - motif_id: pre_creation_divine_throne_over_waters
     label: pre-creation divine throne over waters
     relationship: symbolic_variant
@@ -6544,6 +6647,20 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       islamic: 1
+  - motif_id: supernatural_etiological_place_naming
+    label: supernatural etiological place-naming
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: supernatural_relocation_of_useful_stones_with_landscape_formation
+    label: supernatural relocation of useful stones with landscape formation
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      indigenous_australian: 1
   - motif_id: threefold_colored_substance_generates_natural_kinds
     label: Threefold colored substance generates natural kinds
     relationship: symbolic_variant
@@ -6551,6 +6668,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       finnish_karelian: 1
+  - motif_id: toponymic_naming_from_heroic_events
+    label: toponymic naming from heroic events
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
   - motif_id: vague_or_half_forgotten_first_maker
     label: vague or half-forgotten First Maker
     relationship: role_variant
@@ -6573,8 +6697,8 @@ canonical_motifs:
     traditions:
       finnish_karelian: 1
   tradition_count: 19
-  occurrence_count: 242
-  mapped_motif_count: 58
+  occurrence_count: 252
+  mapped_motif_count: 68
 - canonical_motif_id: descent
   label: Descent and Underworld Journey
   description: The journey downward into the underworld, the land of the dead, or
@@ -7251,12 +7375,12 @@ canonical_motifs:
   is_meta_group: false
   traditions:
     ainu: 15
-    buddhist: 43
+    buddhist: 44
     celtic_irish: 42
     celtic_welsh: 11
     comparative: 2
     finnish_karelian: 6
-    greek: 118
+    greek: 124
     greek_roman: 15
     hindu: 32
     indigenous_australian: 15
@@ -7510,6 +7634,55 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       greek: 1
+  - motif_id: predator_destroyed_by_swallowing_an_indigestible_concealed_object
+    label: predator destroyed by swallowing an indigestible concealed object
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      buddhist: 1
+  - motif_id: predator_feigns_weakness_to_lure_victims
+    label: Predator feigns weakness to lure victims
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: predator_invents_pretext_against_weaker_victim
+    label: predator invents pretext against weaker victim
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: predator_loses_prey_by_abandoning_proper_role
+    label: Predator loses prey by abandoning proper role
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: predator_lures_prey_into_enclosed_dwelling
+    label: predator lures prey into enclosed dwelling
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: predator_profits_from_another_s_misfortune
+    label: Predator profits from another’s misfortune
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: predator_s_peace_proposal_requires_removal_of_protection
+    label: predator's peace proposal requires removal of protection
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
   - motif_id: public_exposure_and_laughter_of_the_gods
     label: public exposure and laughter of the gods
     relationship: functional_variant
@@ -7609,8 +7782,8 @@ canonical_motifs:
     traditions:
       japanese: 1
   tradition_count: 18
-  occurrence_count: 466
-  mapped_motif_count: 46
+  occurrence_count: 473
+  mapped_motif_count: 53
 - canonical_motif_id: sacred_twins
   label: Sacred Twins and Sibling Pairs
   description: 'The pair of twins or siblings # often one mortal and one divine, or
@@ -8413,6 +8586,8 @@ canonical_motifs:
   - covenant
   - sacrifice
   - cosmic_origin
+  - world_ages_cosmic_decline
+  - fate_figures_cosmic_weaving
   is_meta_group: false
   traditions:
     buddhist: 3
@@ -9352,6 +9527,8 @@ canonical_motifs:
   - cosmic_origin
   - sacred_twins
   - divine_judgment
+  - world_ages_cosmic_decline
+  - fate_figures_cosmic_weaving
   is_meta_group: false
   traditions:
     ainu: 2
@@ -9475,124 +9652,6 @@ canonical_motifs:
   tradition_count: 17
   occurrence_count: 459
   mapped_motif_count: 12
-- canonical_motif_id: culture_hero
-  label: Culture Hero and Founder
-  description: The figure who brings civilization, law, fire, agriculture, or sacred
-    knowledge to humanity. Often overlaps with trickster (Prometheus, Maui) but distinguished
-    by the emphasis on founding or establishing human culture.
-  related:
-  - trickster
-  - sacred_knowledge
-  - royal_legitimacy
-  is_meta_group: false
-  traditions:
-    ainu: 6
-    celtic_irish: 38
-    celtic_welsh: 5
-    comparative: 2
-    daoist: 3
-    finnish_karelian: 42
-    greek: 31
-    greek_roman: 35
-    hindu: 21
-    indigenous_australian: 6
-    islamic: 15
-    islamicate_folklore: 1
-    japanese: 12
-    mesopotamian: 1
-    norse: 14
-    persian: 1
-    roman: 42
-  mapped_motifs:
-  - motif_id: culture_hero
-    label: Culture Hero
-    relationship: canonical_group
-    occurrence_count: 266
-    tradition_count: 17
-    traditions:
-      ainu: 5
-      celtic_irish: 37
-      celtic_welsh: 5
-      comparative: 2
-      daoist: 3
-      finnish_karelian: 41
-      greek: 30
-      greek_roman: 35
-      hindu: 21
-      indigenous_australian: 6
-      islamic: 11
-      islamicate_folklore: 1
-      japanese: 12
-      mesopotamian: 1
-      norse: 14
-      persian: 1
-      roman: 41
-  - motif_id: armed_founder_succeeds_where_unarmed_founder_fails
-    label: Armed founder succeeds where unarmed founder fails
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: divinely_granted_cultural_emblems
-    label: Divinely granted cultural emblems
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: divinely_sanctioned_foundational_lawgiver
-    label: divinely sanctioned foundational lawgiver
-    relationship: role_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: founding_ancestor_renounces_idolatry
-    label: Founding ancestor renounces idolatry
-    relationship: role_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: heroic_bearer_of_household_gods_into_a_new_land
-    label: heroic bearer of household gods into a new land
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: heroic_removal_of_local_oppression
-    label: heroic removal of local oppression
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: origin_of_brewing
-    label: Origin of brewing
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      finnish_karelian: 1
-  - motif_id: religious_reverence_for_an_outside_cultural_hero
-    label: religious reverence for an outside cultural hero
-    relationship: role_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      ainu: 1
-  - motif_id: sacred_or_paradisal_origin_of_useful_metal_implements
-    label: Sacred or paradisal origin of useful metal implements
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  tradition_count: 17
-  occurrence_count: 275
-  mapped_motif_count: 10
 - canonical_motif_id: covenant
   label: Covenant and Sacred Bond
   description: A binding agreement between the human and the divine, or between sacred
@@ -9605,22 +9664,23 @@ canonical_motifs:
   - ethical_command
   is_meta_group: false
   traditions:
-    buddhist: 1
+    buddhist: 2
     celtic_irish: 24
-    celtic_welsh: 5
+    celtic_welsh: 6
     comparative: 2
     daoist: 2
     finnish_karelian: 8
-    greek: 28
+    greek: 33
     greek_roman: 1
-    hindu: 30
+    hindu: 31
     islamic: 215
-    islamicate_folklore: 1
+    islamicate_folklore: 2
+    japanese: 1
     jewish_christian: 7
     norse: 11
     persian: 1
-    roman: 22
-    sufi: 11
+    roman: 23
+    sufi: 12
   mapped_motifs:
   - motif_id: covenant
     label: Covenant
@@ -9734,6 +9794,41 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       islamic: 1
+  - motif_id: mercy_overcoming_anger_toward_a_foe
+    label: mercy overcoming anger toward a foe
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
+  - motif_id: mercy_to_a_defeated_enemy
+    label: mercy to a defeated enemy
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_welsh: 1
+  - motif_id: mercy_toward_a_defeated_attacker
+    label: Mercy toward a defeated attacker
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      japanese: 1
+  - motif_id: mercy_toward_an_enemy
+    label: mercy toward an enemy
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamicate_folklore: 1
+  - motif_id: mercy_toward_living_creatures_as_proof_of_moral_discipline
+    label: mercy toward living creatures as proof of moral discipline
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      buddhist: 1
   - motif_id: monotheistic_reform_against_idolatry
     label: monotheistic reform against idolatry
     relationship: functional_variant
@@ -9895,6 +9990,55 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       islamic: 1
+  - motif_id: suppliant_denied_mercy
+    label: suppliant denied mercy
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: suppliant_ransom_offer_refused
+    label: suppliant ransom offer refused
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: supplication_and_ransom_refused
+    label: Supplication and ransom refused
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: supplication_at_the_feet_for_pardon
+    label: supplication at the feet for pardon
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: supplication_at_the_knees_before_imminent_killing
+    label: supplication at the knees before imminent killing
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: supplication_for_peace_with_unarmed_hands
+    label: supplication for peace with unarmed hands
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: supplication_with_ransom_refused
+    label: supplication with ransom refused
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
   - motif_id: temptation_toward_idolatry_after_deliverance
     label: temptation toward idolatry after deliverance
     relationship: functional_variant
@@ -9937,9 +10081,127 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       islamic: 1
-  tradition_count: 16
-  occurrence_count: 369
-  mapped_motif_count: 43
+  tradition_count: 17
+  occurrence_count: 381
+  mapped_motif_count: 55
+- canonical_motif_id: culture_hero
+  label: Culture Hero and Founder
+  description: The figure who brings civilization, law, fire, agriculture, or sacred
+    knowledge to humanity. Often overlaps with trickster (Prometheus, Maui) but distinguished
+    by the emphasis on founding or establishing human culture.
+  related:
+  - trickster
+  - sacred_knowledge
+  - royal_legitimacy
+  is_meta_group: false
+  traditions:
+    ainu: 6
+    celtic_irish: 38
+    celtic_welsh: 5
+    comparative: 2
+    daoist: 3
+    finnish_karelian: 42
+    greek: 31
+    greek_roman: 35
+    hindu: 21
+    indigenous_australian: 6
+    islamic: 15
+    islamicate_folklore: 1
+    japanese: 12
+    mesopotamian: 1
+    norse: 14
+    persian: 1
+    roman: 42
+  mapped_motifs:
+  - motif_id: culture_hero
+    label: Culture Hero
+    relationship: canonical_group
+    occurrence_count: 266
+    tradition_count: 17
+    traditions:
+      ainu: 5
+      celtic_irish: 37
+      celtic_welsh: 5
+      comparative: 2
+      daoist: 3
+      finnish_karelian: 41
+      greek: 30
+      greek_roman: 35
+      hindu: 21
+      indigenous_australian: 6
+      islamic: 11
+      islamicate_folklore: 1
+      japanese: 12
+      mesopotamian: 1
+      norse: 14
+      persian: 1
+      roman: 41
+  - motif_id: armed_founder_succeeds_where_unarmed_founder_fails
+    label: Armed founder succeeds where unarmed founder fails
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: divinely_granted_cultural_emblems
+    label: Divinely granted cultural emblems
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: divinely_sanctioned_foundational_lawgiver
+    label: divinely sanctioned foundational lawgiver
+    relationship: role_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: founding_ancestor_renounces_idolatry
+    label: Founding ancestor renounces idolatry
+    relationship: role_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: heroic_bearer_of_household_gods_into_a_new_land
+    label: heroic bearer of household gods into a new land
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: heroic_removal_of_local_oppression
+    label: heroic removal of local oppression
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: origin_of_brewing
+    label: Origin of brewing
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      finnish_karelian: 1
+  - motif_id: religious_reverence_for_an_outside_cultural_hero
+    label: religious reverence for an outside cultural hero
+    relationship: role_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      ainu: 1
+  - motif_id: sacred_or_paradisal_origin_of_useful_metal_implements
+    label: Sacred or paradisal origin of useful metal implements
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  tradition_count: 17
+  occurrence_count: 275
+  mapped_motif_count: 10
 - canonical_motif_id: sacred_law
   label: Sacred Law and Social Order
   description: The divine origin of law, ethical codes, and social obligations. Includes
@@ -9949,6 +10211,8 @@ canonical_motifs:
   - covenant
   - divine_judgment
   - royal_legitimacy
+  - betrayal_violated_trust
+  - hospitality_test_stranger_guest
   is_meta_group: false
   traditions:
     ainu: 1
@@ -13103,6 +13367,7 @@ canonical_motifs:
   - royal_legitimacy
   - sacred_vessel
   - initiation
+  - recognition_tokens_hidden_identity
   is_meta_group: false
   traditions:
     buddhist: 7
@@ -13118,9 +13383,16 @@ canonical_motifs:
     japanese: 8
     jewish_christian: 3
     norse: 14
-    roman: 21
-    sufi: 3
+    roman: 22
+    sufi: 6
   mapped_motifs:
+  - motif_id: saint_s_tomb_as_pilgrimage_center
+    label: saint's tomb as pilgrimage center
+    relationship: child
+    occurrence_count: 2
+    tradition_count: 1
+    traditions:
+      sufi: 2
   - motif_id: accumulation_of_wonderful_objects
     label: accumulation of wonderful objects
     relationship: narrower_than
@@ -13933,6 +14205,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       islamic: 1
+  - motif_id: oracular_remains_of_a_hero
+    label: oracular remains of a hero
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
   - motif_id: personified_divine_weapons_obey_the_hero
     label: personified divine weapons obey the hero
     relationship: functional_variant
@@ -14157,6 +14436,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       celtic_irish: 1
+  - motif_id: saintly_shrine_and_relic_devotion
+    label: Saintly shrine and relic devotion
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
   - motif_id: sanctuary_object_protects_a_wrongdoer
     label: Sanctuary object protects a wrongdoer
     relationship: functional_variant
@@ -14333,8 +14619,8 @@ canonical_motifs:
     traditions:
       finnish_karelian: 1
   tradition_count: 15
-  occurrence_count: 173
-  mapped_motif_count: 173
+  occurrence_count: 177
+  mapped_motif_count: 176
 - canonical_motif_id: sacred_fire
   label: Sacred Fire and Divine Light
   description: Fire as divine presence, purifying force, sacrificial medium, or cosmic
@@ -14715,18 +15001,18 @@ canonical_motifs:
   is_meta_group: false
   traditions:
     buddhist: 3
-    celtic_irish: 7
+    celtic_irish: 12
     celtic_welsh: 1
-    finnish_karelian: 5
+    finnish_karelian: 6
     greek: 17
     greek_roman: 3
     hindu: 1
     islamic: 4
     islamicate_folklore: 7
     japanese: 1
-    norse: 1
+    norse: 3
     persian: 1
-    roman: 2
+    roman: 3
     sufi: 4
   mapped_motifs:
   - motif_id: authorship_as_public_immortality
@@ -14834,6 +15120,34 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       islamicate_folklore: 1
+  - motif_id: enchanted_drink_causing_sleep_at_a_feast
+    label: Enchanted drink causing sleep at a feast
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: enchanted_music_compels_procession
+    label: Enchanted music compels procession
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  - motif_id: enchanted_music_that_causes_sleep
+    label: Enchanted music that causes sleep
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: enchanting_music_that_attracts_living_beings
+    label: Enchanting music that attracts living beings
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
   - motif_id: enchantment_of_the_soul_by_speech
     label: enchantment of the soul by speech
     relationship: functional_variant
@@ -14911,6 +15225,27 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       islamic: 1
+  - motif_id: magical_music_causing_universal_emotion_or_sleep
+    label: Magical music causing universal emotion or sleep
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: magical_music_controlling_emotion_and_sleep
+    label: magical music controlling emotion and sleep
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: magical_music_subdues_opponents
+    label: Magical music subdues opponents
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      finnish_karelian: 1
   - motif_id: music_compelling_or_softening_supernatural_powers
     label: music compelling or softening supernatural powers
     relationship: functional_variant
@@ -14918,6 +15253,20 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       greek_roman: 1
+  - motif_id: music_that_compels_emotion_and_sleep
+    label: music that compels emotion and sleep
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: music_that_induces_sleep_or_weakens_vigilance
+    label: music that induces sleep or weakens vigilance
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
   - motif_id: oral_tradition_passed_to_future_generations
     label: oral tradition passed to future generations
     relationship: functional_variant
@@ -15129,8 +15478,8 @@ canonical_motifs:
     traditions:
       greek: 1
   tradition_count: 14
-  occurrence_count: 57
-  mapped_motif_count: 57
+  occurrence_count: 66
+  mapped_motif_count: 66
 - canonical_motif_id: afterlife_passage
   label: Afterlife Navigation and Passage
   description: The dead person's journey through the afterlife as a navigable landscape
@@ -15140,6 +15489,7 @@ canonical_motifs:
   - descent
   - divine_judgment
   - death_and_transformation
+  - restless_dead_haunting_vengeance
   is_meta_group: false
   traditions:
     ainu: 5
@@ -15331,7 +15681,7 @@ canonical_motifs:
   is_meta_group: false
   traditions:
     buddhist: 7
-    celtic_irish: 11
+    celtic_irish: 12
     comparative: 7
     finnish_karelian: 15
     greek: 90
@@ -15339,11 +15689,19 @@ canonical_motifs:
     hindu: 26
     islamic: 140
     islamicate_folklore: 3
-    japanese: 1
+    japanese: 3
     norse: 6
     roman: 27
-    sufi: 23
+    sufi: 24
   mapped_motifs:
+  - motif_id: inexhaustible_food_supply
+    label: inexhaustible food supply
+    relationship: child
+    occurrence_count: 2
+    tradition_count: 2
+    traditions:
+      japanese: 1
+      sufi: 1
   - motif_id: miraculous_water_from_rock
     label: miraculous water from rock
     relationship: functional_variant
@@ -15379,6 +15737,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       hindu: 1
+  - motif_id: abundance_giving_cow
+    label: abundance-giving cow
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
   - motif_id: aerial_conveyance_to_witness_battlefield_devastation
     label: aerial conveyance to witness battlefield devastation
     relationship: functional_variant
@@ -16905,6 +17270,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       finnish_karelian: 1
+  - motif_id: inexhaustible_material_supply
+    label: inexhaustible material supply
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      japanese: 1
   - motif_id: instrument_of_divine_action
     label: instrument of divine action
     relationship: child
@@ -17935,8 +18307,8 @@ canonical_motifs:
     traditions:
       hindu: 1
   tradition_count: 13
-  occurrence_count: 375
-  mapped_motif_count: 370
+  occurrence_count: 379
+  mapped_motif_count: 373
 - canonical_motif_id: dream_and_vision
   label: Dream, Vision, and Altered Perception
   description: Dreams, visions, and altered states as sources of sacred knowledge,
@@ -18624,6 +18996,496 @@ canonical_motifs:
   tradition_count: 13
   occurrence_count: 94
   mapped_motif_count: 94
+- canonical_motif_id: pride_and_downfall
+  label: Pride, Hubris, and Downfall
+  description: The pattern of overreaching pride followed by destruction or humbling.
+    Includes failed towers, punished transgressors, kings brought low, and the moral
+    that power without wisdom or humility leads to ruin.
+  related:
+  - divine_judgment
+  - sacred_knowledge
+  - royal_legitimacy
+  is_meta_group: false
+  traditions:
+    ainu: 1
+    buddhist: 1
+    celtic_irish: 2
+    finnish_karelian: 1
+    greek: 30
+    greek_roman: 2
+    hindu: 4
+    islamic: 7
+    japanese: 1
+    norse: 1
+    persian: 4
+    roman: 8
+    sufi: 4
+  mapped_motifs:
+  - motif_id: admired_feature_becomes_cause_of_ruin
+    label: admired feature becomes cause of ruin
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: ambitious_courtier_betrays_benefactor
+    label: Ambitious courtier betrays benefactor
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
+  - motif_id: boast_answered_by_supernatural_opposition
+    label: boast answered by supernatural opposition
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      finnish_karelian: 1
+  - motif_id: boast_before_combat_followed_by_decisive_defeat
+    label: Boast before combat followed by decisive defeat
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: boast_of_many_children_against_a_divine_rival
+    label: boast of many children against a divine rival
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: boastful_challenger_immediately_destroyed
+    label: boastful challenger immediately destroyed
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: boastful_contestant_humbled_in_combat
+    label: boastful contestant humbled in combat
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: boastful_lesser_light_humbled_by_extinction
+    label: boastful lesser light humbled by extinction
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: corruption_into_tyranny_through_seduction_and_implanted_passion
+    label: Corruption into tyranny through seduction and implanted passion
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: death_pursuing_the_wealth_seeker
+    label: death pursuing the wealth-seeker
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      persian: 1
+  - motif_id: decline_across_generations_into_tyranny
+    label: decline across generations into tyranny
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: decline_through_corrupted_generation
+    label: decline through corrupted generation
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: derisive_boast_provokes_vengeance
+    label: derisive boast provokes vengeance
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: destructive_passion_leading_to_death
+    label: destructive passion leading to death
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      buddhist: 1
+  - motif_id: discord_grows_when_met_with_violence
+    label: discord grows when met with violence
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: disrespect_before_failed_imitation
+    label: disrespect before failed imitation
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      ainu: 1
+  - motif_id: endurance_of_a_record_contrasted_with_daily_transience
+    label: Endurance of a record contrasted with daily transience
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      persian: 1
+  - motif_id: envious_imitation_of_a_beneficent_marvel_fails
+    label: Envious imitation of a beneficent marvel fails
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      japanese: 1
+  - motif_id: envy_as_harmful_force
+    label: envy as harmful force
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: envy_as_possession_leading_to_obstruction
+    label: envy as possession leading to obstruction
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: envy_leading_to_failed_imitation
+    label: envy leading to failed imitation
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: excess_as_cause_of_decay
+    label: excess as cause of decay
+    relationship: symbolic_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: fall_from_former_status
+    label: fall from former status
+    relationship: broader_label
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: fall_of_overconfident_monumental_work
+    label: fall of overconfident monumental work
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: false_confidence_leads_to_disaster
+    label: false confidence leads to disaster
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: false_courage_against_a_powerless_substitute
+    label: false courage against a powerless substitute
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: fame_seeking_destruction_of_a_sacred_building_by_fire
+    label: Fame-seeking destruction of a sacred building by fire
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: fatal_disregard_of_a_guiding_middle_path
+    label: Fatal disregard of a guiding middle path
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: fatal_pursuit_of_splendid_spoils
+    label: fatal pursuit of splendid spoils
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: hero_warned_to_limit_pursuit_but_exceeds_bounds
+    label: hero warned to limit pursuit but exceeds bounds
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: heroic_anger_as_civic_danger
+    label: Heroic anger as civic danger
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: heroic_wrath_with_destructive_consequences
+    label: Heroic wrath with destructive consequences
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: hidden_subterranean_wealth_unleashes_vice_and_war
+    label: hidden subterranean wealth unleashes vice and war
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: human_imitation_of_celestial_paradise_followed_by_heavenly_destruction
+    label: Human imitation of celestial paradise followed by heavenly destruction
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: humbling_of_overconfident_believers
+    label: Humbling of overconfident believers
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: impermanence_of_royal_glory
+    label: Impermanence of royal glory
+    relationship: symbolic_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
+  - motif_id: impermanence_of_royal_grandeur
+    label: impermanence of royal grandeur
+    relationship: symbolic_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
+  - motif_id: insatiable_greed
+    label: Insatiable greed
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      persian: 1
+  - motif_id: intoxication_by_freedom_leading_to_tyranny
+    label: intoxication by freedom leading to tyranny
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: jealous_imitation_of_a_revered_figure
+    label: Jealous imitation of a revered figure
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: kinslaying_for_a_hoard
+    label: kinslaying for a hoard
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  - motif_id: limited_mission_with_forbidden_overreach
+    label: limited mission with forbidden overreach
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: luxury_produces_conflict
+    label: luxury produces conflict
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: missed_decisive_victory_through_rage_for_slaughter
+    label: missed decisive victory through rage for slaughter
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: mockery_of_cowardice_after_failed_bravado
+    label: Mockery of cowardice after failed bravado
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: mortal_challenges_deity_in_craft_contest
+    label: mortal challenges deity in craft contest
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: obstinate_refusal_of_rescue_or_guidance
+    label: obstinate refusal of rescue or guidance
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: pleasure_causing_neglect_of_duty
+    label: pleasure causing neglect of duty
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: precarious_height_and_downfall_of_the_powerful
+    label: precarious height and downfall of the powerful
+    relationship: symbolic_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
+  - motif_id: pretender_made_ridiculous
+    label: Pretender made ridiculous
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: pride_as_brief_rule_followed_by_downfall_dissolution
+    label: Pride as brief rule followed by downfall/dissolution
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      persian: 1
+  - motif_id: pride_humbled_in_divine_containment
+    label: pride humbled in divine containment
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: protector_corrupted_into_predator_tyrant
+    label: protector corrupted into predator-tyrant
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: protector_transformed_into_tyrant
+    label: protector transformed into tyrant
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: proud_adversary_refuses_divine_command
+    label: proud adversary refuses divine command
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: proud_warrior_ignores_ominous_warnings
+    label: proud warrior ignores ominous warnings
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: public_expert_exposed_by_private_failure
+    label: public expert exposed by private failure
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: rejection_of_a_divine_warner_by_proud_opponents
+    label: rejection of a divine warner by proud opponents
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: reversal_of_fortune_humbles_the_proud
+    label: reversal of fortune humbles the proud
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: successive_declining_generations_of_humanity
+    label: Successive declining generations of humanity
+    relationship: broader_label
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: triumph_followed_by_sudden_downfall
+    label: triumph followed by sudden downfall
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: warning_against_arrogant_suitors
+    label: warning against arrogant suitors
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: warning_before_battle_is_ignored_or_belittled
+    label: warning before battle is ignored or belittled
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: wealth_leading_to_insolence_and_admonition
+    label: wealth leading to insolence and admonition
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: wealth_transformed_into_golden_touch_legend
+    label: wealth transformed into golden touch legend
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: wise_warning_rejected_before_ruin
+    label: wise warning rejected before ruin
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  tradition_count: 13
+  occurrence_count: 66
+  mapped_motif_count: 66
 - canonical_motif_id: threshold_guardian
   label: Threshold Guardian
   description: The figure who guards the boundary between worlds, states, or levels
@@ -19080,9 +19942,10 @@ canonical_motifs:
   - sacrifice
   - divine_judgment
   - royal_legitimacy
+  - conditional_invulnerability_hidden_weakness
   is_meta_group: false
   traditions:
-    celtic_irish: 74
+    celtic_irish: 75
     celtic_welsh: 1
     finnish_karelian: 2
     greek: 96
@@ -19092,7 +19955,7 @@ canonical_motifs:
     japanese: 3
     jewish_christian: 1
     norse: 15
-    roman: 20
+    roman: 21
     sufi: 1
   mapped_motifs:
   - motif_id: divine_aid_in_battle
@@ -19252,6 +20115,20 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       norse: 1
+  - motif_id: bodily_wounds_as_proof_of_service
+    label: Bodily wounds as proof of service
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: body_part_trophies_as_proof_of_combat
+    label: body-part trophies as proof of combat
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
   - motif_id: boon_protected_demonic_warriors
     label: boon-protected demonic warriors
     relationship: functional_variant
@@ -21213,469 +22090,8 @@ canonical_motifs:
     traditions:
       celtic_irish: 1
   tradition_count: 12
-  occurrence_count: 307
-  mapped_motif_count: 302
-- canonical_motif_id: pride_and_downfall
-  label: Pride, Hubris, and Downfall
-  description: The pattern of overreaching pride followed by destruction or humbling.
-    Includes failed towers, punished transgressors, kings brought low, and the moral
-    that power without wisdom or humility leads to ruin.
-  related:
-  - divine_judgment
-  - sacred_knowledge
-  - royal_legitimacy
-  is_meta_group: false
-  traditions:
-    ainu: 1
-    buddhist: 1
-    celtic_irish: 2
-    finnish_karelian: 1
-    greek: 29
-    greek_roman: 1
-    hindu: 4
-    islamic: 6
-    norse: 1
-    persian: 4
-    roman: 8
-    sufi: 4
-  mapped_motifs:
-  - motif_id: admired_feature_becomes_cause_of_ruin
-    label: admired feature becomes cause of ruin
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: ambitious_courtier_betrays_benefactor
-    label: Ambitious courtier betrays benefactor
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      sufi: 1
-  - motif_id: boast_answered_by_supernatural_opposition
-    label: boast answered by supernatural opposition
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      finnish_karelian: 1
-  - motif_id: boast_before_combat_followed_by_decisive_defeat
-    label: Boast before combat followed by decisive defeat
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: boast_of_many_children_against_a_divine_rival
-    label: boast of many children against a divine rival
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: boastful_challenger_immediately_destroyed
-    label: boastful challenger immediately destroyed
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: boastful_contestant_humbled_in_combat
-    label: boastful contestant humbled in combat
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: boastful_lesser_light_humbled_by_extinction
-    label: boastful lesser light humbled by extinction
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: corruption_into_tyranny_through_seduction_and_implanted_passion
-    label: Corruption into tyranny through seduction and implanted passion
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: death_pursuing_the_wealth_seeker
-    label: death pursuing the wealth-seeker
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      persian: 1
-  - motif_id: decline_across_generations_into_tyranny
-    label: decline across generations into tyranny
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: decline_through_corrupted_generation
-    label: decline through corrupted generation
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: derisive_boast_provokes_vengeance
-    label: derisive boast provokes vengeance
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: destructive_passion_leading_to_death
-    label: destructive passion leading to death
-    relationship: narrower_than
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      buddhist: 1
-  - motif_id: discord_grows_when_met_with_violence
-    label: discord grows when met with violence
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: disrespect_before_failed_imitation
-    label: disrespect before failed imitation
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      ainu: 1
-  - motif_id: endurance_of_a_record_contrasted_with_daily_transience
-    label: Endurance of a record contrasted with daily transience
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      persian: 1
-  - motif_id: excess_as_cause_of_decay
-    label: excess as cause of decay
-    relationship: symbolic_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: fall_from_former_status
-    label: fall from former status
-    relationship: broader_label
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: fall_of_overconfident_monumental_work
-    label: fall of overconfident monumental work
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: false_confidence_leads_to_disaster
-    label: false confidence leads to disaster
-    relationship: narrower_than
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: false_courage_against_a_powerless_substitute
-    label: false courage against a powerless substitute
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: fame_seeking_destruction_of_a_sacred_building_by_fire
-    label: Fame-seeking destruction of a sacred building by fire
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek_roman: 1
-  - motif_id: fatal_disregard_of_a_guiding_middle_path
-    label: Fatal disregard of a guiding middle path
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: fatal_pursuit_of_splendid_spoils
-    label: fatal pursuit of splendid spoils
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: hero_warned_to_limit_pursuit_but_exceeds_bounds
-    label: hero warned to limit pursuit but exceeds bounds
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: heroic_anger_as_civic_danger
-    label: Heroic anger as civic danger
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: heroic_wrath_with_destructive_consequences
-    label: Heroic wrath with destructive consequences
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: hidden_subterranean_wealth_unleashes_vice_and_war
-    label: hidden subterranean wealth unleashes vice and war
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: human_imitation_of_celestial_paradise_followed_by_heavenly_destruction
-    label: Human imitation of celestial paradise followed by heavenly destruction
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: humbling_of_overconfident_believers
-    label: Humbling of overconfident believers
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: impermanence_of_royal_glory
-    label: Impermanence of royal glory
-    relationship: symbolic_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      sufi: 1
-  - motif_id: impermanence_of_royal_grandeur
-    label: impermanence of royal grandeur
-    relationship: symbolic_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      sufi: 1
-  - motif_id: insatiable_greed
-    label: Insatiable greed
-    relationship: narrower_than
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      persian: 1
-  - motif_id: intoxication_by_freedom_leading_to_tyranny
-    label: intoxication by freedom leading to tyranny
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: jealous_imitation_of_a_revered_figure
-    label: Jealous imitation of a revered figure
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: kinslaying_for_a_hoard
-    label: kinslaying for a hoard
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      norse: 1
-  - motif_id: limited_mission_with_forbidden_overreach
-    label: limited mission with forbidden overreach
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: luxury_produces_conflict
-    label: luxury produces conflict
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: missed_decisive_victory_through_rage_for_slaughter
-    label: missed decisive victory through rage for slaughter
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: mockery_of_cowardice_after_failed_bravado
-    label: Mockery of cowardice after failed bravado
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: mortal_challenges_deity_in_craft_contest
-    label: mortal challenges deity in craft contest
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: obstinate_refusal_of_rescue_or_guidance
-    label: obstinate refusal of rescue or guidance
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: pleasure_causing_neglect_of_duty
-    label: pleasure causing neglect of duty
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  - motif_id: precarious_height_and_downfall_of_the_powerful
-    label: precarious height and downfall of the powerful
-    relationship: symbolic_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      sufi: 1
-  - motif_id: pretender_made_ridiculous
-    label: Pretender made ridiculous
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: pride_as_brief_rule_followed_by_downfall_dissolution
-    label: Pride as brief rule followed by downfall/dissolution
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      persian: 1
-  - motif_id: pride_humbled_in_divine_containment
-    label: pride humbled in divine containment
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  - motif_id: protector_corrupted_into_predator_tyrant
-    label: protector corrupted into predator-tyrant
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: protector_transformed_into_tyrant
-    label: protector transformed into tyrant
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: proud_adversary_refuses_divine_command
-    label: proud adversary refuses divine command
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: proud_warrior_ignores_ominous_warnings
-    label: proud warrior ignores ominous warnings
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  - motif_id: public_expert_exposed_by_private_failure
-    label: public expert exposed by private failure
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: rejection_of_a_divine_warner_by_proud_opponents
-    label: rejection of a divine warner by proud opponents
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: reversal_of_fortune_humbles_the_proud
-    label: reversal of fortune humbles the proud
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: successive_declining_generations_of_humanity
-    label: Successive declining generations of humanity
-    relationship: broader_label
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: triumph_followed_by_sudden_downfall
-    label: triumph followed by sudden downfall
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: warning_against_arrogant_suitors
-    label: warning against arrogant suitors
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: warning_before_battle_is_ignored_or_belittled
-    label: warning before battle is ignored or belittled
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: wealth_leading_to_insolence_and_admonition
-    label: wealth leading to insolence and admonition
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: wealth_transformed_into_golden_touch_legend
-    label: wealth transformed into golden touch legend
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: wise_warning_rejected_before_ruin
-    label: wise warning rejected before ruin
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  tradition_count: 12
-  occurrence_count: 62
-  mapped_motif_count: 62
+  occurrence_count: 309
+  mapped_motif_count: 304
 - canonical_motif_id: sacred_combat
   label: Sacred Combat and Ritual Warfare
   description: Warfare, raiding, or single combat as a sacred or ritually significant
@@ -21685,6 +22101,7 @@ canonical_motifs:
   - divine_warrior
   - sacrifice
   - divine_judgment
+  - conditional_invulnerability_hidden_weakness
   is_meta_group: false
   traditions:
     celtic_irish: 243
@@ -25011,12 +25428,12 @@ canonical_motifs:
     celtic_irish: 16
     celtic_welsh: 1
     comparative: 1
-    greek: 68
+    greek: 70
     greek_roman: 5
     hindu: 5
     islamic: 1
     norse: 3
-    roman: 17
+    roman: 18
     sufi: 4
   mapped_motifs:
   - motif_id: battle_for_the_body_of_a_fallen_hero
@@ -25201,6 +25618,27 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       greek_roman: 1
+  - motif_id: denial_of_burial_by_elemental_engulfment
+    label: denial of burial by elemental engulfment
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: denial_of_burial_to_the_defeated_enemy
+    label: denial of burial to the defeated enemy
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: denied_funerary_rites_and_corpse_exposure
+    label: denied funerary rites and corpse exposure
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
   - motif_id: disfigurement_in_honour_of_heroes
     label: disfigurement in honour of heroes
     relationship: ritual_variant
@@ -25853,8 +26291,8 @@ canonical_motifs:
     traditions:
       greek: 1
   tradition_count: 10
-  occurrence_count: 121
-  mapped_motif_count: 119
+  occurrence_count: 124
+  mapped_motif_count: 122
 - canonical_motif_id: mother_goddess
   label: Sacred Feminine and Mother Goddess
   description: The divine mother, earth goddess, source-feminine, or nurturing-and-terrible
@@ -25983,6 +26421,7 @@ canonical_motifs:
   - divine_judgment
   - lament_and_mourning
   - sacrifice
+  - fate_figures_cosmic_weaving
   is_meta_group: false
   traditions:
     celtic_irish: 18
@@ -26630,6 +27069,311 @@ canonical_motifs:
   tradition_count: 10
   occurrence_count: 90
   mapped_motif_count: 90
+- canonical_motif_id: sacred_craft
+  label: Sacred Craft and Divinely Aided Construction
+  description: 'Building, crafting, or constructing as a sacred act # the bridge built
+    with divine aid, the temple constructed by the gods, the weapon forged with cosmic
+    fire.'
+  related:
+  - axis_mundi
+  - culture_hero
+  - sacred_treasures
+  is_meta_group: false
+  traditions:
+    celtic_irish: 2
+    celtic_welsh: 1
+    finnish_karelian: 8
+    greek: 4
+    greek_roman: 4
+    hindu: 2
+    islamic: 8
+    norse: 7
+    roman: 3
+    sufi: 1
+  mapped_motifs:
+  - motif_id: animated_cult_image_made_by_magical_craft
+    label: Animated cult image made by magical craft
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
+  - motif_id: animated_images_responding_to_music
+    label: animated images responding to music
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: animated_or_life_like_manufactured_image
+    label: animated or life-like manufactured image
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: animation_of_a_cult_object_by_supernatural_residue
+    label: animation of a cult object by supernatural residue
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: animation_of_clay_creatures
+    label: animation of clay creatures
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: artificially_fashioned_woman_endowed_by_multiple_gods
+    label: Artificially fashioned woman endowed by multiple gods
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: captive_master_smith_under_coercion
+    label: Captive master smith under coercion
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  - motif_id: craft_feat_performed_through_three_ritualized_blows
+    label: craft feat performed through three ritualized blows
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: crafted_human_image_lacks_animation_or_vital_functions
+    label: Crafted human image lacks animation or vital functions
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      finnish_karelian: 1
+  - motif_id: divine_descent_of_a_sacred_architectural_model
+    label: divine descent of a sacred architectural model
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: divine_fire_and_metalworking_craft
+    label: divine fire and metalworking craft
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: divine_smith_and_helpers_forge_a_hero_s_armor
+    label: divine smith and helpers forge a hero's armor
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: divine_smith_at_the_fiery_forge
+    label: Divine smith at the fiery forge
+    relationship: role_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: divine_smiths_forging_heavenly_weapons
+    label: divine smiths forging heavenly weapons
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: divinely_aided_mastery_over_craft_and_natural_forces
+    label: divinely aided mastery over craft and natural forces
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: divinely_forged_replacement_armor
+    label: Divinely forged replacement armor
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: divinely_inherited_bridgecraft
+    label: divinely inherited bridgecraft
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: forged_abundance_object
+    label: forged abundance object
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      finnish_karelian: 1
+  - motif_id: forging_a_wondrous_object_from_small_or_unlikely_materials
+    label: Forging a wondrous object from small or unlikely materials
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      finnish_karelian: 1
+  - motif_id: goddess_as_patroness_of_textile_crafts
+    label: Goddess as patroness of textile crafts
+    relationship: role_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: hero_host_as_builder_of_the_communal_hall
+    label: hero-host as builder of the communal hall
+    relationship: role_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      finnish_karelian: 1
+  - motif_id: heroic_bridge_fixed_in_sacred_geography
+    label: heroic bridge fixed in sacred geography
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: hierarchy_of_divine_crafted_and_imitative_making
+    label: Hierarchy of divine, crafted, and imitative making
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: impossible_bridge_made_from_a_weapon
+    label: Impossible bridge made from a weapon
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_welsh: 1
+  - motif_id: magical_craft_from_fragments
+    label: magical craft from fragments
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      finnish_karelian: 1
+  - motif_id: magical_craft_production_in_a_single_night
+    label: magical craft production in a single night
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      finnish_karelian: 1
+  - motif_id: magical_rescue_tool_forged_by_smith
+    label: Magical rescue-tool forged by smith
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      finnish_karelian: 1
+  - motif_id: marvelous_palace_with_deathless_crafted_guardians
+    label: marvelous palace with deathless crafted guardians
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: obstructed_magical_smithing
+    label: Obstructed magical smithing
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  - motif_id: primordial_sacred_architecture_rebuilt_on_revealed_model
+    label: Primordial sacred architecture rebuilt on revealed model
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: sacred_object_assisting_temple_construction
+    label: Sacred object assisting temple construction
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: smith_s_crafted_revenge
+    label: smith's crafted revenge
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  - motif_id: subterranean_dwarf_smiths_make_magical_divine_gifts
+    label: Subterranean dwarf smiths make magical divine gifts
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  - motif_id: supernatural_construction_by_spirits
+    label: Supernatural construction by spirits
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: supernatural_smiths_forge_divine_or_magical_objects
+    label: Supernatural smiths forge divine or magical objects
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  - motif_id: supernatural_smiths_make_magic_weapons
+    label: Supernatural smiths make magic weapons
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  - motif_id: temple_built_to_avert_plague
+    label: Temple built to avert plague
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: underground_supernatural_smiths_and_miners
+    label: underground supernatural smiths and miners
+    relationship: role_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  - motif_id: volcanic_underworld_like_forge_of_divine_weapons
+    label: volcanic underworld-like forge of divine weapons
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: wondrous_object_forged_from_extraordinary_ingredients
+    label: Wondrous object forged from extraordinary ingredients
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      finnish_karelian: 1
+  tradition_count: 10
+  occurrence_count: 40
+  mapped_motif_count: 40
 - canonical_motif_id: otherworld
   label: Otherworld and Enchanted Realm
   description: 'The other world # fairyland, the Country of the Young, the enchanted
@@ -26998,261 +27742,6 @@ canonical_motifs:
   tradition_count: 9
   occurrence_count: 51
   mapped_motif_count: 49
-- canonical_motif_id: sacred_craft
-  label: Sacred Craft and Divinely Aided Construction
-  description: 'Building, crafting, or constructing as a sacred act # the bridge built
-    with divine aid, the temple constructed by the gods, the weapon forged with cosmic
-    fire.'
-  related:
-  - axis_mundi
-  - culture_hero
-  - sacred_treasures
-  is_meta_group: false
-  traditions:
-    celtic_irish: 1
-    celtic_welsh: 1
-    finnish_karelian: 7
-    greek: 3
-    greek_roman: 4
-    hindu: 2
-    islamic: 5
-    norse: 7
-    roman: 3
-  mapped_motifs:
-  - motif_id: captive_master_smith_under_coercion
-    label: Captive master smith under coercion
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      norse: 1
-  - motif_id: craft_feat_performed_through_three_ritualized_blows
-    label: craft feat performed through three ritualized blows
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: divine_descent_of_a_sacred_architectural_model
-    label: divine descent of a sacred architectural model
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: divine_fire_and_metalworking_craft
-    label: divine fire and metalworking craft
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek_roman: 1
-  - motif_id: divine_smith_and_helpers_forge_a_hero_s_armor
-    label: divine smith and helpers forge a hero's armor
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: divine_smith_at_the_fiery_forge
-    label: Divine smith at the fiery forge
-    relationship: role_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: divine_smiths_forging_heavenly_weapons
-    label: divine smiths forging heavenly weapons
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: divinely_aided_mastery_over_craft_and_natural_forces
-    label: divinely aided mastery over craft and natural forces
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: divinely_forged_replacement_armor
-    label: Divinely forged replacement armor
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek_roman: 1
-  - motif_id: divinely_inherited_bridgecraft
-    label: divinely inherited bridgecraft
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  - motif_id: forged_abundance_object
-    label: forged abundance object
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      finnish_karelian: 1
-  - motif_id: forging_a_wondrous_object_from_small_or_unlikely_materials
-    label: Forging a wondrous object from small or unlikely materials
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      finnish_karelian: 1
-  - motif_id: goddess_as_patroness_of_textile_crafts
-    label: Goddess as patroness of textile crafts
-    relationship: role_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek_roman: 1
-  - motif_id: hero_host_as_builder_of_the_communal_hall
-    label: hero-host as builder of the communal hall
-    relationship: role_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      finnish_karelian: 1
-  - motif_id: heroic_bridge_fixed_in_sacred_geography
-    label: heroic bridge fixed in sacred geography
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  - motif_id: hierarchy_of_divine_crafted_and_imitative_making
-    label: Hierarchy of divine, crafted, and imitative making
-    relationship: narrower_than
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: impossible_bridge_made_from_a_weapon
-    label: Impossible bridge made from a weapon
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_welsh: 1
-  - motif_id: magical_craft_from_fragments
-    label: magical craft from fragments
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      finnish_karelian: 1
-  - motif_id: magical_craft_production_in_a_single_night
-    label: magical craft production in a single night
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      finnish_karelian: 1
-  - motif_id: magical_rescue_tool_forged_by_smith
-    label: Magical rescue-tool forged by smith
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      finnish_karelian: 1
-  - motif_id: marvelous_palace_with_deathless_crafted_guardians
-    label: marvelous palace with deathless crafted guardians
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: obstructed_magical_smithing
-    label: Obstructed magical smithing
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      norse: 1
-  - motif_id: primordial_sacred_architecture_rebuilt_on_revealed_model
-    label: Primordial sacred architecture rebuilt on revealed model
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: sacred_object_assisting_temple_construction
-    label: Sacred object assisting temple construction
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: smith_s_crafted_revenge
-    label: smith's crafted revenge
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      norse: 1
-  - motif_id: subterranean_dwarf_smiths_make_magical_divine_gifts
-    label: Subterranean dwarf smiths make magical divine gifts
-    relationship: narrower_than
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      norse: 1
-  - motif_id: supernatural_construction_by_spirits
-    label: Supernatural construction by spirits
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: supernatural_smiths_forge_divine_or_magical_objects
-    label: Supernatural smiths forge divine or magical objects
-    relationship: narrower_than
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      norse: 1
-  - motif_id: supernatural_smiths_make_magic_weapons
-    label: Supernatural smiths make magic weapons
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      norse: 1
-  - motif_id: temple_built_to_avert_plague
-    label: Temple built to avert plague
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek_roman: 1
-  - motif_id: underground_supernatural_smiths_and_miners
-    label: underground supernatural smiths and miners
-    relationship: role_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      norse: 1
-  - motif_id: volcanic_underworld_like_forge_of_divine_weapons
-    label: volcanic underworld-like forge of divine weapons
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: wondrous_object_forged_from_extraordinary_ingredients
-    label: Wondrous object forged from extraordinary ingredients
-    relationship: narrower_than
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      finnish_karelian: 1
-  tradition_count: 9
-  occurrence_count: 33
-  mapped_motif_count: 33
 - canonical_motif_id: external_soul
   label: External Soul and Life-Token
   description: A being's life, soul, vulnerability, shadow, reflection, or vital force
@@ -27265,6 +27754,7 @@ canonical_motifs:
   - sacred_treasures
   - sacred_knowledge
   - shapeshifter
+  - conditional_invulnerability_hidden_weakness
   is_meta_group: false
   traditions:
     buddhist: 1
@@ -27984,6 +28474,7 @@ canonical_motifs:
   - death_and_transformation
   - sacrifice
   - sacred_exchange
+  - restless_dead_haunting_vengeance
   is_meta_group: false
   traditions:
     comparative: 2
@@ -28124,6 +28615,159 @@ canonical_motifs:
   tradition_count: 8
   occurrence_count: 18
   mapped_motif_count: 18
+- canonical_motif_id: conditional_invulnerability_hidden_weakness
+  label: Conditional Invulnerability and Hidden Weakness
+  description: 'The repeated structure is stronger than ordinary combat: apparent
+    invulnerability is limited by an omitted exception, exposed body point, special
+    method, or self-disclosed weakness.'
+  related:
+  - divine_warrior
+  - sacred_combat
+  - external_soul
+  is_meta_group: false
+  traditions:
+    celtic_irish: 2
+    comparative: 1
+    greek_roman: 2
+    hindu: 9
+    roman: 5
+  mapped_motifs:
+  - motif_id: armored_or_protected_enemy_defeated_through_a_single_exposed_point
+    label: armored or protected enemy defeated through a single exposed point
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: boon_protected_antagonist_with_excluded_opponent_class
+    label: boon-protected antagonist with excluded opponent class
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: boon_with_fatal_omitted_exception
+    label: boon with fatal omitted exception
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: boon_with_omitted_vulnerability
+    label: boon with omitted vulnerability
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: divine_boon_with_fatal_exception
+    label: divine boon with fatal exception
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: enemy_made_invulnerable_by_a_boon_with_exceptions
+    label: enemy made invulnerable by a boon with exceptions
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: hero_killed_through_a_vulnerable_heel
+    label: hero killed through a vulnerable heel
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: hero_slain_through_a_vulnerable_body_part
+    label: hero slain through a vulnerable body part
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: invulnerability_boon_with_fatal_human_exception
+    label: invulnerability boon with fatal human exception
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: invulnerability_boon_with_overlooked_human_vulnerability
+    label: Invulnerability boon with overlooked human vulnerability
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: invulnerable_or_iron_framed_warrior_withstands_blows
+    label: invulnerable or iron-framed warrior withstands blows
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: invulnerable_or_weapon_resistant_warrior_body
+    label: invulnerable or weapon-resistant warrior body
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: invulnerable_warrior_defeated_by_crushing_weight
+    label: invulnerable warrior defeated by crushing weight
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: invulnerable_warrior_defeated_without_piercing_wounds
+    label: invulnerable warrior defeated without piercing wounds
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: invulnerable_warrior_resistant_to_weapons
+    label: Invulnerable warrior resistant to weapons
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: monster_invulnerable_to_ordinary_weapons_killed_by_alternate_means
+    label: Monster invulnerable to ordinary weapons killed by alternate means
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: monster_reveals_or_discloses_its_own_vulnerability
+    label: monster reveals or discloses its own vulnerability
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: monster_self_destruction_after_fulfilled_solution_condition
+    label: monster self-destruction after fulfilled solution condition
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: monster_slaying_through_indirect_sight
+    label: Monster-slaying through indirect sight
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  tradition_count: 5
+  occurrence_count: 19
+  mapped_motif_count: 19
 - canonical_motif_id: supreme_ruler
   label: Supreme Ruler and Cosmic Sovereignty
   description: A supreme ruler figure who descends from above or emerges to rule all
@@ -28358,6 +29002,79 @@ canonical_motifs:
   tradition_count: 4
   occurrence_count: 11
   mapped_motif_count: 11
+- canonical_motif_id: recognition_tokens_hidden_identity
+  label: Recognition Tokens and Hidden Identity
+  description: Tokens, scent, scars, voice, talismans, and messengers repeatedly prove
+    identity or a denied encounter.
+  related:
+  - hero_journey
+  - sacred_treasures
+  is_meta_group: false
+  traditions:
+    celtic_irish: 2
+    greek: 1
+    hindu: 2
+    islamicate_folklore: 3
+  mapped_motifs:
+  - motif_id: recognition_by_scent_on_food_or_object
+    label: Recognition by scent on food or object
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: recognition_of_herald_by_visible_tokens
+    label: recognition of herald by visible tokens
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: recognition_through_a_talisman_or_token
+    label: recognition through a talisman or token
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamicate_folklore: 1
+  - motif_id: recognition_through_hidden_identity_and_voice
+    label: Recognition through hidden identity and voice
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamicate_folklore: 1
+  - motif_id: recognition_token_as_bodily_scar
+    label: recognition token as bodily scar
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: recognition_token_proving_an_otherwise_denied_encounter
+    label: recognition token proving an otherwise denied encounter
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamicate_folklore: 1
+  - motif_id: recognition_token_sent_by_envoy
+    label: recognition token sent by envoy
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: recognition_token_sent_through_a_messenger
+    label: recognition token sent through a messenger
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  tradition_count: 4
+  occurrence_count: 8
+  mapped_motif_count: 8
 - canonical_motif_id: soul_loss_restoration
   label: Soul Loss and Restoration
   description: A soul, life-force, or vital double is lost, stolen, wandering, or
@@ -28514,6 +29231,58 @@ canonical_motifs:
   tradition_count: 3
   occurrence_count: 5
   mapped_motif_count: 5
+- canonical_motif_id: world_ages_cosmic_decline
+  label: World Ages and Cosmic Decline
+  description: 'The child motifs form a clear sequence pattern: a better primordial
+    age gives way to decline, loss, or degeneration across later ages.'
+  related:
+  - sacred_time
+  - cosmic_origin
+  - duality
+  is_meta_group: false
+  traditions:
+    greek_roman: 1
+    norse: 1
+    roman: 3
+  mapped_motifs:
+  - motif_id: decline_through_successive_metallic_ages
+    label: decline through successive metallic ages
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: declining_ages_of_humankind
+    label: Declining ages of humankind
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: divine_peace_stead_and_golden_age
+    label: Divine peace-stead and Golden Age
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  - motif_id: primeval_age_followed_by_degeneration
+    label: primeval age followed by degeneration
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: primordial_innocence_followed_by_loss_of_effortless_abundance
+    label: primordial innocence followed by loss of effortless abundance
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  tradition_count: 3
+  occurrence_count: 5
+  mapped_motif_count: 5
 - canonical_motif_id: beauty_and_paradox
   label: Beauty Paired with Pain and Paradox
   description: The aesthetic and spiritual insight that beauty and suffering, sweetness
@@ -28560,6 +29329,145 @@ canonical_motifs:
   tradition_count: 3
   occurrence_count: 4
   mapped_motif_count: 4
+- canonical_motif_id: fate_figures_cosmic_weaving
+  label: Fate Figures and Cosmic Weaving
+  description: The evidence moves beyond death-by-fate into personified or woven destiny
+    that governs time, revolutions, atmosphere, or cosmic order.
+  related:
+  - death_by_fate
+  - duality
+  - sacred_time
+  is_meta_group: false
+  traditions:
+    greek: 1
+    norse: 3
+  mapped_motifs:
+  - motif_id: three_fate_figures_governing_time_and_revolutions
+    label: three fate figures governing time and revolutions
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: three_fate_sisters_who_govern_destiny
+    label: Three fate sisters who govern destiny
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  - motif_id: weaving_the_web_of_fate
+    label: Weaving the web of fate
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  - motif_id: web_of_fate_as_cosmic_or_atmospheric_image
+    label: web of fate as cosmic or atmospheric image
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  tradition_count: 2
+  occurrence_count: 4
+  mapped_motif_count: 4
+- canonical_motif_id: hospitality_test_stranger_guest
+  label: Hospitality Test and Stranger Guest
+  description: The guest or suppliant functions as a sacred test of the host, making
+    hospitality itself the ordeal.
+  related:
+  - sacred_exchange
+  - sacred_law
+  is_meta_group: false
+  traditions:
+    greek: 2
+    norse: 1
+  mapped_motifs:
+  - motif_id: hospitality_and_testing_of_the_stranger_guest
+    label: Hospitality and testing of the stranger guest
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  - motif_id: hospitality_test_involving_a_suppliant_stranger
+    label: hospitality test involving a suppliant stranger
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: host_tested_by_vulnerable_stranger
+    label: host tested by vulnerable stranger
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  tradition_count: 2
+  occurrence_count: 3
+  mapped_motif_count: 3
+- canonical_motif_id: betrayal_violated_trust
+  label: Betrayal and Violated Trust
+  description: Protector betrayal and feast/drink betrayal are different scenes, but
+    both make the broken bond itself the mythic engine.
+  related:
+  - sacred_exchange
+  - sacred_law
+  is_meta_group: false
+  traditions:
+    celtic_irish: 1
+    greek: 1
+  mapped_motifs:
+  - motif_id: betrayal_of_a_protector
+    label: betrayal of a protector
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: betrayal_through_feast_or_drink
+    label: betrayal through feast or drink
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  tradition_count: 2
+  occurrence_count: 2
+  mapped_motif_count: 2
+- canonical_motif_id: restless_dead_haunting_vengeance
+  label: Restless Dead, Haunting, and Vengeance
+  description: The dead remain active after death through haunting, return, or vengeance
+    when social, familial, or ritual order is unresolved.
+  related:
+  - ancestor_rites
+  - afterlife_passage
+  - death_and_transformation
+  is_meta_group: false
+  traditions:
+    celtic_irish: 1
+    greek_roman: 1
+  mapped_motifs:
+  - motif_id: restless_dead_haunting_former_homes
+    label: restless dead haunting former homes
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: vengeful_phantom_kin
+    label: Vengeful phantom kin
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  tradition_count: 2
+  occurrence_count: 2
+  mapped_motif_count: 2
 - canonical_motif_id: divine_race
   label: Divine Race and Arrival of the Gods
   description: A race or people of divine or semi-divine origin who arrive, conquer,

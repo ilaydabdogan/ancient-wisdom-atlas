@@ -1,7 +1,7 @@
 ---
 review_version: '1'
 reviewed_on: '2026-04-29'
-status: draft_review
+status: human_review_applied
 source_expanded_taxonomy_path: taxonomy/motif-normalization-expanded.yml
 source_candidate_count: 85
 review_policy:
@@ -11,145 +11,13 @@ review_policy:
   note: A proposed group remains pending only when its child motifs currently span
     two or more tradition labels after consolidation.
 summary:
-  consolidated_pending_candidates: 7
+  consolidated_pending_candidates: 0
   source_candidates_retained: 19
   source_candidates_folded: 66
-genuine_new_group_candidates:
-- id: conditional_invulnerability_hidden_weakness
-  label: Conditional Invulnerability and Hidden Weakness
-  status: pending_review
-  recommendation: accept_new_group
-  source_candidate_ids:
-  - vulnerable_point
-  - conditional_boon_loophole
-  - conditional_boon_fatal_loophole
-  - conditional_invulnerability
-  - vulnerable_spot
-  - vulnerable_hero
-  - invulnerable_warrior_body
-  - invulnerable_monster_defeated
-  - condition_defeats_monster
-  traditions:
-  - celtic_irish
-  - comparative
-  - greek_roman
-  - hindu
-  - roman
-  child_motif_count: 19
-  occurrence_count: 19
-  suggested_parent_group_ids:
-  - divine_warrior
-  - sacred_combat
-  - external_soul
-  rationale: 'The repeated structure is stronger than ordinary combat: apparent invulnerability
-    is limited by an omitted exception, exposed body point, special method, or self-disclosed
-    weakness.'
-- id: betrayal_violated_trust
-  label: Betrayal and Violated Trust
-  status: pending_review
-  recommendation: accept_new_group
-  source_candidate_ids:
-  - betrayal_violated_trust
-  traditions:
-  - celtic_irish
-  - greek
-  child_motif_count: 2
-  occurrence_count: 2
-  suggested_parent_group_ids:
-  - sacred_exchange
-  - sacred_law
-  rationale: Protector betrayal and feast/drink betrayal are different scenes, but
-    both make the broken bond itself the mythic engine.
-- id: world_ages_cosmic_decline
-  label: World Ages and Cosmic Decline
-  status: pending_review
-  recommendation: accept_new_group
-  source_candidate_ids:
-  - world_ages_decline
-  - ages_of_decline
-  - golden_age_primordial_peace
-  traditions:
-  - greek_roman
-  - norse
-  - roman
-  child_motif_count: 5
-  occurrence_count: 5
-  suggested_parent_group_ids:
-  - sacred_time
-  - cosmic_origin
-  - duality
-  rationale: 'The child motifs form a clear sequence pattern: a better primordial
-    age gives way to decline, loss, or degeneration across later ages.'
-- id: hospitality_test_stranger_guest
-  label: Hospitality Test and Stranger Guest
-  status: pending_review
-  recommendation: accept_new_group
-  source_candidate_ids:
-  - hospitality_test
-  traditions:
-  - greek
-  - norse
-  child_motif_count: 3
-  occurrence_count: 3
-  suggested_parent_group_ids:
-  - sacred_exchange
-  - sacred_law
-  rationale: The guest or suppliant functions as a sacred test of the host, making
-    hospitality itself the ordeal.
-- id: recognition_tokens_hidden_identity
-  label: Recognition Tokens and Hidden Identity
-  status: pending_review
-  recommendation: accept_new_group
-  source_candidate_ids:
-  - recognition_tokens_hidden_identity
-  traditions:
-  - celtic_irish
-  - greek
-  - hindu
-  - islamicate_folklore
-  child_motif_count: 8
-  occurrence_count: 8
-  suggested_parent_group_ids:
-  - hero_journey
-  - sacred_treasures
-  rationale: Tokens, scent, scars, voice, talismans, and messengers repeatedly prove
-    identity or a denied encounter.
-- id: restless_dead_haunting_vengeance
-  label: Restless Dead, Haunting, and Vengeance
-  status: pending_review
-  recommendation: accept_new_group
-  source_candidate_ids:
-  - restless_dead_haunting
-  - restless_dead_vengeful_spirits
-  traditions:
-  - celtic_irish
-  - greek_roman
-  child_motif_count: 2
-  occurrence_count: 2
-  suggested_parent_group_ids:
-  - ancestor_rites
-  - afterlife_passage
-  - death_and_transformation
-  rationale: The dead remain active after death through haunting, return, or vengeance
-    when social, familial, or ritual order is unresolved.
-- id: fate_figures_cosmic_weaving
-  label: Fate Figures and Cosmic Weaving
-  status: pending_review
-  recommendation: accept_new_group
-  source_candidate_ids:
-  - fate_figures_destiny
-  - fate_and_cosmic_weaving
-  traditions:
-  - greek
-  - norse
-  child_motif_count: 4
-  occurrence_count: 4
-  suggested_parent_group_ids:
-  - death_by_fate
-  - duality
-  - sacred_time
-  rationale: The evidence moves beyond death-by-fate into personified or woven destiny
-    that governs time, revolutions, atmosphere, or cosmic order.
+  accepted_new_groups: 7
+  applied_fold_decisions: 12
+  pending_new_groups: 0
+genuine_new_group_candidates: []
 fold_recommendations:
 - source_candidate_ids:
   - animal_supernatural_helpers
@@ -402,3 +270,298 @@ fold_recommendations:
   - predator_deception_fable_reversal
   fold_into: trickster
   reason: Animal trickery and reversal are core trickster territory.
+accepted_new_groups:
+- id: conditional_invulnerability_hidden_weakness
+  label: Conditional Invulnerability and Hidden Weakness
+  status: accepted_into_main_taxonomy
+  recommendation: accept_new_group
+  source_candidate_ids:
+  - vulnerable_point
+  - conditional_boon_loophole
+  - conditional_boon_fatal_loophole
+  - conditional_invulnerability
+  - vulnerable_spot
+  - vulnerable_hero
+  - invulnerable_warrior_body
+  - invulnerable_monster_defeated
+  - condition_defeats_monster
+  traditions:
+  - celtic_irish
+  - comparative
+  - greek_roman
+  - hindu
+  - roman
+  child_motif_count: 19
+  occurrence_count: 19
+  suggested_parent_group_ids:
+  - divine_warrior
+  - sacred_combat
+  - external_soul
+  rationale: 'The repeated structure is stronger than ordinary combat: apparent invulnerability
+    is limited by an omitted exception, exposed body point, special method, or self-disclosed
+    weakness.'
+  accepted_on: '2026-04-29'
+  mapped_child_motif_ids:
+  - armored_or_protected_enemy_defeated_through_a_single_exposed_point
+  - boon_protected_antagonist_with_excluded_opponent_class
+  - boon_with_fatal_omitted_exception
+  - boon_with_omitted_vulnerability
+  - divine_boon_with_fatal_exception
+  - enemy_made_invulnerable_by_a_boon_with_exceptions
+  - invulnerability_boon_with_fatal_human_exception
+  - invulnerability_boon_with_overlooked_human_vulnerability
+  - hero_killed_through_a_vulnerable_heel
+  - hero_slain_through_a_vulnerable_body_part
+  - invulnerable_or_iron_framed_warrior_withstands_blows
+  - invulnerable_or_weapon_resistant_warrior_body
+  - invulnerable_warrior_defeated_by_crushing_weight
+  - invulnerable_warrior_defeated_without_piercing_wounds
+  - invulnerable_warrior_resistant_to_weapons
+  - monster_invulnerable_to_ordinary_weapons_killed_by_alternate_means
+  - monster_reveals_or_discloses_its_own_vulnerability
+  - monster_slaying_through_indirect_sight
+  - monster_self_destruction_after_fulfilled_solution_condition
+- id: betrayal_violated_trust
+  label: Betrayal and Violated Trust
+  status: accepted_into_main_taxonomy
+  recommendation: accept_new_group
+  source_candidate_ids:
+  - betrayal_violated_trust
+  traditions:
+  - celtic_irish
+  - greek
+  child_motif_count: 2
+  occurrence_count: 2
+  suggested_parent_group_ids:
+  - sacred_exchange
+  - sacred_law
+  rationale: Protector betrayal and feast/drink betrayal are different scenes, but
+    both make the broken bond itself the mythic engine.
+  accepted_on: '2026-04-29'
+  mapped_child_motif_ids:
+  - betrayal_of_a_protector
+  - betrayal_through_feast_or_drink
+- id: world_ages_cosmic_decline
+  label: World Ages and Cosmic Decline
+  status: accepted_into_main_taxonomy
+  recommendation: accept_new_group
+  source_candidate_ids:
+  - world_ages_decline
+  - ages_of_decline
+  - golden_age_primordial_peace
+  traditions:
+  - greek_roman
+  - norse
+  - roman
+  child_motif_count: 5
+  occurrence_count: 5
+  suggested_parent_group_ids:
+  - sacred_time
+  - cosmic_origin
+  - duality
+  rationale: 'The child motifs form a clear sequence pattern: a better primordial
+    age gives way to decline, loss, or degeneration across later ages.'
+  accepted_on: '2026-04-29'
+  mapped_child_motif_ids:
+  - decline_through_successive_metallic_ages
+  - declining_ages_of_humankind
+  - primeval_age_followed_by_degeneration
+  - primordial_innocence_followed_by_loss_of_effortless_abundance
+  - divine_peace_stead_and_golden_age
+- id: hospitality_test_stranger_guest
+  label: Hospitality Test and Stranger Guest
+  status: accepted_into_main_taxonomy
+  recommendation: accept_new_group
+  source_candidate_ids:
+  - hospitality_test
+  traditions:
+  - greek
+  - norse
+  child_motif_count: 3
+  occurrence_count: 3
+  suggested_parent_group_ids:
+  - sacred_exchange
+  - sacred_law
+  rationale: The guest or suppliant functions as a sacred test of the host, making
+    hospitality itself the ordeal.
+  accepted_on: '2026-04-29'
+  mapped_child_motif_ids:
+  - hospitality_and_testing_of_the_stranger_guest
+  - hospitality_test_involving_a_suppliant_stranger
+  - host_tested_by_vulnerable_stranger
+- id: recognition_tokens_hidden_identity
+  label: Recognition Tokens and Hidden Identity
+  status: accepted_into_main_taxonomy
+  recommendation: accept_new_group
+  source_candidate_ids:
+  - recognition_tokens_hidden_identity
+  traditions:
+  - celtic_irish
+  - greek
+  - hindu
+  - islamicate_folklore
+  child_motif_count: 8
+  occurrence_count: 8
+  suggested_parent_group_ids:
+  - hero_journey
+  - sacred_treasures
+  rationale: Tokens, scent, scars, voice, talismans, and messengers repeatedly prove
+    identity or a denied encounter.
+  accepted_on: '2026-04-29'
+  mapped_child_motif_ids:
+  - recognition_by_scent_on_food_or_object
+  - recognition_of_herald_by_visible_tokens
+  - recognition_through_a_talisman_or_token
+  - recognition_through_hidden_identity_and_voice
+  - recognition_token_as_bodily_scar
+  - recognition_token_proving_an_otherwise_denied_encounter
+  - recognition_token_sent_by_envoy
+  - recognition_token_sent_through_a_messenger
+- id: restless_dead_haunting_vengeance
+  label: Restless Dead, Haunting, and Vengeance
+  status: accepted_into_main_taxonomy
+  recommendation: accept_new_group
+  source_candidate_ids:
+  - restless_dead_haunting
+  - restless_dead_vengeful_spirits
+  traditions:
+  - celtic_irish
+  - greek_roman
+  child_motif_count: 2
+  occurrence_count: 2
+  suggested_parent_group_ids:
+  - ancestor_rites
+  - afterlife_passage
+  - death_and_transformation
+  rationale: The dead remain active after death through haunting, return, or vengeance
+    when social, familial, or ritual order is unresolved.
+  accepted_on: '2026-04-29'
+  mapped_child_motif_ids:
+  - restless_dead_haunting_former_homes
+  - vengeful_phantom_kin
+- id: fate_figures_cosmic_weaving
+  label: Fate Figures and Cosmic Weaving
+  status: accepted_into_main_taxonomy
+  recommendation: accept_new_group
+  source_candidate_ids:
+  - fate_figures_destiny
+  - fate_and_cosmic_weaving
+  traditions:
+  - greek
+  - norse
+  child_motif_count: 4
+  occurrence_count: 4
+  suggested_parent_group_ids:
+  - death_by_fate
+  - duality
+  - sacred_time
+  rationale: The evidence moves beyond death-by-fate into personified or woven destiny
+    that governs time, revolutions, atmosphere, or cosmic order.
+  accepted_on: '2026-04-29'
+  mapped_child_motif_ids:
+  - three_fate_figures_governing_time_and_revolutions
+  - three_fate_sisters_who_govern_destiny
+  - weaving_the_web_of_fate
+  - web_of_fate_as_cosmic_or_atmospheric_image
+applied_fold_decisions:
+- label: Artificial Life and Animated Images
+  fold_into: sacred_craft
+  source_candidate_ids:
+  - animated_images_artificial_life
+  - artificial_human_animation
+  - artificially_created_being
+  child_motif_count: 7
+  review_status: human_accepted
+  applied_on: '2026-04-29'
+- label: Heroic Wounds and Martial Proof
+  fold_into: divine_warrior
+  source_candidate_ids:
+  - heroic_wounds_and_martial_proof
+  child_motif_count: 2
+  review_status: human_accepted
+  applied_on: '2026-04-29'
+- label: Denied Burial and Corpse Exposure
+  fold_into: heroic_funeral_rites
+  source_candidate_ids:
+  - denied_burial
+  child_motif_count: 3
+  review_status: human_accepted
+  applied_on: '2026-04-29'
+- label: Enchanted Music and Magical Compulsion
+  fold_into: storytelling_as_power
+  source_candidate_ids:
+  - magical_compulsion
+  - enchanted_music
+  - enchanted_music_sound_power
+  - enchantment_compulsion
+  - enchanting_music
+  child_motif_count: 9
+  review_status: human_accepted
+  applied_on: '2026-04-29'
+- label: Envy, Rivalry, and Failed Imitation
+  fold_into: pride_and_downfall
+  source_candidate_ids:
+  - envy_rivalry_failed_imitation
+  child_motif_count: 4
+  review_status: human_accepted
+  applied_on: '2026-04-29'
+- label: False Accusation and Vindication
+  fold_into: divine_judgment
+  source_candidate_ids:
+  - false_accusation_vindication
+  child_motif_count: 3
+  review_status: human_accepted
+  applied_on: '2026-04-29'
+- label: Greed, Temperance, and Moral Reversal
+  fold_into: divine_judgment
+  source_candidate_ids:
+  - greed_temperance_reversal
+  child_motif_count: 4
+  review_status: human_accepted
+  applied_on: '2026-04-29'
+- label: Miraculous and Inexhaustible Provision
+  fold_into: divine_intervention
+  source_candidate_ids:
+  - miraculous_provision
+  - inexhaustible_provision
+  - animal_source_of_abundance
+  child_motif_count: 3
+  review_status: human_accepted
+  applied_on: '2026-04-29'
+- label: Mercy, Supplication, and Forgiveness
+  fold_into: covenant
+  source_candidate_ids:
+  - mercy_compassion_forgiveness
+  - supplication_mercy_refusal
+  child_motif_count: 12
+  review_status: human_accepted
+  applied_on: '2026-04-29'
+- label: Relics, Tombs, and Posthumous Power
+  fold_into: sacred_treasures
+  source_candidate_ids:
+  - heroic_relics
+  - saintly_tomb_pilgrimage
+  - saintly_shrine_relic_devotion
+  child_motif_count: 3
+  review_status: human_accepted
+  applied_on: '2026-04-29'
+- label: Etiological Naming and Landscape Origin
+  fold_into: cosmic_origin
+  source_candidate_ids:
+  - place_name_etiology
+  - etiological_landscape_naming
+  - etiological_landscape_formation
+  - place_naming_etiology
+  - eponymous_ancestor
+  - eponymous_ancestors_people_origins
+  - ancestral_origins
+  child_motif_count: 10
+  review_status: human_accepted
+  applied_on: '2026-04-29'
+- label: Predator Deception and Fable Reversal
+  fold_into: trickster
+  source_candidate_ids:
+  - predator_deception_fable_reversal
+  child_motif_count: 7
+  review_status: human_accepted
+  applied_on: '2026-04-29'

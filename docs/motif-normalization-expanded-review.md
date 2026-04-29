@@ -7,101 +7,53 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 ## Summary
 
 - Suggestions reviewed: 5300
-- Accepted draft mappings: 164
-- New canonical group candidates: 85
+- Accepted draft mappings: 54
+- New canonical group candidates: 37
 - Low-confidence / needs human review: 1370
 - Suggested exclusions: 296
-- Already known in base normalization: 3470
+- Already known in base normalization: 3580
 
 ## New Group Candidates
 
 | Group ID | Label | Children Added | Review Note |
 | --- | --- | ---: | --- |
 | `adversary_tempter` | Adversary and Tempter | 1 | Trickster emphasizes liminal disorder and culture-making, while divine_judgment emphasizes reckoning; neither directly captures the theological role of an adversary who tempts and misleads. |
-| `ages_of_decline` | Ages of Decline and Degeneration | 2 | Existing groups cover creation, cycles, judgment, and downfall, but not the world-age schema of progressive degeneration from an initial age. |
-| `ancestral_origins` | Ancestral Origins and Genealogical Descent | 1 | Existing ancestor_rites covers ritual care of the dead, while royal_legitimacy covers political authorization; neither broadly covers genealogical origin of peoples from founding ancestors. |
-| `animal_source_of_abundance` | Animal Source of Abundance | 1 | Existing groups cover fertility, exchange, and power objects, but do not directly capture provision or inexhaustible abundance mediated by an animal. |
 | `animal_supernatural_helpers` | Animal and Supernatural Helpers | 1 | Existing groups cover divine intervention and heroic journey broadly, but not the recurring narrative role of nonhuman helper alliances. |
-| `animated_images_artificial_life` | Animated Images and Artificial Life | 5 | Existing groups cover sacred craft, treasures, vessels, and idols, but not the specific function of artificial or cultic objects becoming animate. |
 | `apocalyptic_barrier` | Apocalyptic Barrier and Restrained Chaos | 1 | Threshold_guardian focuses on figures guarding passage, while divine_judgment is too broad; this motif centers on a constructed or divinely sanctioned barrier that contains apocalyptic chaos until the end time. |
-| `artificial_human_animation` | Artificial Human and Animation | 1 | Existing groups cover creation, craft, and transformation broadly, but do not isolate the recurring made-body animation problem. |
-| `artificially_created_being` | Artificially Created Being | 1 | Existing groups cover sacred birth, craft, and divine gifts, but not the distinct creation of an artificial humanlike being endowed with life or qualities. |
-| `betrayal_violated_trust` | Betrayal and Violated Trust | 2 | Existing groups cover reciprocity, law, and judgment, but not the narrative rupture of trust itself across protector, guest, kin, duty, and feast betrayal patterns. |
 | `celestial_transformation` | Celestial Transformation and Star Placement | 1 | Existing groups cover cosmic origin and death transformation broadly, but not the distinct and recurrent pattern of astral emplacement or constellation etiologies. |
-| `condition_defeats_monster` | Riddle or Condition Defeats Monster | 1 | Existing combat and threshold groups do not capture the specific defeat mechanism in which knowledge or a fulfilled condition destroys the threat. |
-| `conditional_boon_fatal_loophole` | Conditional Boon and Fatal Loophole | 1 | Existing groups cover divine intervention, sacred combat, and externalized vulnerability, but not the specific narrative structure of a boon whose exception enables defeat. |
-| `conditional_boon_loophole` | Conditional Boon and Loophole Vulnerability | 3 | Existing groups cover exchange, judgment, power objects, and external souls, but not the specific narrative structure of conditional invulnerability created by a boon and undone by its exception. |
-| `conditional_invulnerability` | Conditional Invulnerability | 3 | Existing groups cover externalized life, sacred objects, fate, and combat, but not the common narrative logic of near-invulnerability defined by conditional exceptions. |
 | `cosmic_praise` | Cosmic Praise and Universal Worship | 2 | Existing groups cover sacred song, revelation, and cosmic origin, but not the distinct motif of all creation as an active participant in divine praise. |
 | `cosmic_praise_universal_worship` | Cosmic Praise and Universal Worship | 1 | Existing groups cover divine manifestation, wisdom, song, and sovereignty, but not the recurring liturgical image of the whole cosmos as worshiping subject. |
 | `deceptive_war_stratagem` | Deceptive War Stratagem | 2 | Sacred_combat covers warfare broadly and trickster covers boundary-crossing deception, but neither specifically captures martial stratagems such as false gifts or lures used to defeat enemies. |
-| `denied_burial` | Denied Burial and Corpse Exposure | 3 | Existing heroic_funeral_rites covers honoring and memorialization of the dead, but these labels center on the inverse pattern: denial, exposure, and dishonor. |
 | `divine_ecstasy` | Divine Ecstasy and Sacred Revelry | 1 | Existing groups cover divine action, sacrifice, and sacred exchange but do not preserve the distinctive ecstatic-revelry function of divine retinues and cultic frenzy. |
 | `divine_incarnation` | Divine Incarnation and Embodiment | 3 | Existing theophany covers manifestation, but not the specific pattern of divine presence taking human embodiment or possession-like mediation. |
 | `earthquake_etiology` | Earthquake Etiology and Subterranean Being | 1 | Existing groups include creation, chaos, and primordial body transformation, but not recurring etiologies for earth movement caused by living or bound beings. |
 | `eclipse_monster` | Eclipse Monster and Devouring Celestial Bodies | 1 | Existing chaos and serpent groups capture broad disorder or serpent symbolism, but not the specific celestial-eclipse function. |
-| `enchanted_music` | Enchanted Music and Compulsion | 3 | Existing groups include sacred song as wisdom expression and lethal singers as threshold guardians, but not the broader recurring function of music as enchantment or coercive magic. |
-| `enchanted_music_sound_power` | Enchanted Music and Sound Power | 1 | Existing sacred_song emphasizes mystical/devotional expression, while storytelling_as_power emphasizes narrative; neither clearly covers music as direct magical compulsion or enchantment. |
-| `enchanting_music` | Enchanting Music and Compelled States | 2 | Existing groups cover sacred song as wisdom and dangerous singers as threshold guardians, but not the broader recurring function of music as a force that compels consciousness or supernatural beings. |
-| `enchantment_compulsion` | Enchantment and Magical Compulsion | 2 | Existing groups cover sacred song as wisdom/devotion and perilous lure as threshold danger, but not broader magical compulsion by music or enchantment. |
-| `envy_rivalry_failed_imitation` | Envy, Rivalry, and Failed Imitation | 4 | Existing pride/downfall and divine_judgment groups cover moral consequence broadly, but do not preserve the specific envy-driven imitation and failure structure. |
-| `eponymous_ancestor` | Eponymous Ancestor and Place-Name Origin | 1 | Existing ancestor_rites covers ritual care for the dead, while culture_hero and royal_legitimacy do not specifically capture name-origin etiology through an ancestor. |
-| `eponymous_ancestors_people_origins` | Eponymous Ancestors and People Origins | 1 | Culture_hero covers founding gifts and institutions, while royal_legitimacy covers rule; neither preserves the specific ethnogonic function of named progenitors. |
-| `etiological_landscape_formation` | Etiological Landscape Formation | 1 | Cosmic_origin is too broad and sacred_craft/sacred_treasures emphasize making or power objects rather than local landscape formation and explanation. |
-| `etiological_landscape_naming` | Etiological Naming and Landscape Origin | 1 | Existing groups cover cosmic creation, sacred centers, and landscape-shaping bodies, but not the narrower etiological function of naming or explaining local places. |
-| `false_accusation_vindication` | False Accusation and Vindication | 3 | Existing judgment and law groups cover moral reckoning but not the specific recurrent narrative mechanism of false charge, evidence manipulation, and vindication. |
 | `fatal_message_death_warrant` | Fatal Message and Death Warrant | 1 | Existing groups cover sacred knowledge, judgment, and power objects, but not the specific narrative mechanism of a bearer unknowingly carrying their own death order. |
-| `fate_and_cosmic_weaving` | Fate, Destiny, and Cosmic Weaving | 2 | Existing death_by_fate covers destined death specifically, while this label concerns the broader symbolic construction of fate. |
-| `fate_figures_destiny` | Fate Figures and Destiny | 2 | Existing death_by_fate covers death attributed to destiny, but not personified fate figures governing time or cosmic order. |
 | `first_pair_spouse_origin` | First Pair and Human Spouse Origin | 1 | Existing groups cover cosmic creation, sacred union, and birth, but not the specific anthropogonic creation of the first couple or spouse as the basis for human social order. |
 | `funerary_rites` | Funerary Rites and Mortuary Ritual | 1 | Existing groups cover afterlife navigation, ancestor feeding, and heroic funerals, but not ordinary mortuary rites such as cremation procedures. |
-| `golden_age_primordial_peace` | Golden Age and Primordial Peace | 1 | Existing groups cover creation, cycles, kingship, and judgment, but none specifically captures the mythic memory of an original peaceful age or divine peace-place before rupture. |
-| `greed_temperance_reversal` | Greed, Temperance, and Moral Reversal | 4 | Pride/downfall covers overreach, but these labels specifically concern avarice, temperance, and wealth or desire reversals. |
-| `heroic_relics` | Heroic Relics and Oracular Remains | 1 | Existing groups cover funeral rites and power objects, but not the recurring function of a dead hero's remains as an active postmortem sacred agent. |
-| `heroic_wounds_and_martial_proof` | Heroic Wounds and Martial Proof | 2 | Existing combat groups cover battle, duty, and warrior death but not the evidentiary use of wounds or bodily marks to prove service or honor. |
-| `hospitality_test` | Hospitality Test and Stranger Guest | 3 | Sacred_exchange covers reciprocal hospitality but does not preserve the distinctive test structure and liminal stranger role found across several labels in this batch. |
-| `inexhaustible_provision` | Inexhaustible Provision and Abundance | 1 | Existing groups cover sacred objects, vessels, and exchange, but none specifically preserve the recurring function of inexhaustible abundance or self-renewing provision. |
-| `invulnerable_monster_defeated` | Invulnerable Monster Defeated by Special Means | 3 | Existing combat groups cover sacred battle broadly but do not preserve the recurring narrative function of conditional invulnerability and special defeat. |
-| `invulnerable_warrior_body` | Invulnerable Warrior Body | 5 | Existing combat groups cover battle roles, but not the specific recurring structure of bodily invulnerability and exceptional means of defeat. |
 | `karmic_continuity` | Karmic Continuity and Past-Life Explanation | 1 | Existing groups cover rebirth, judgment, and wisdom broadly but do not preserve the specifically karmic past-life-to-present explanatory function. |
 | `karmic_recurrence` | Karmic Recurrence Across Lives | 1 | Existing groups cover fate, judgment, and transformation, but not recurring causality across former and present lives. |
-| `magical_compulsion` | Enchantment, Spell-Sleep, and Magical Compulsion | 1 | Existing groups cover dreams, otherworlds, and threshold lures, but not the recurring mechanism of enchantment or magical compulsion itself. |
 | `martyrdom_witness` | Martyrdom and Witness Under Persecution | 1 | Existing sacrifice and divine judgment groups cover self-surrender and moral reckoning, but do not preserve the specific religious function of steadfast witness under persecution. |
-| `mercy_compassion_forgiveness` | Mercy, Compassion, and Forgiveness | 5 | Existing groups cover combat, law, judgment, and discipline, but none cleanly captures mercy or forgiveness as the primary narrative function. |
 | `miracle_contest_supernatural_proof` | Miracle Contest and Supernatural Proof | 2 | Existing groups can cover divine action or revelation, but they do not specifically capture adversarial miracle contests as proof of authority. |
-| `miraculous_provision` | Miraculous Provision and Inexhaustible Food | 1 | Existing groups cover offering, exchange, and power objects, but not the distinct function of miraculous abundance or inexhaustible sustenance. |
 | `monster_combat` | Monster Combat and Heroic Overcoming | 3 | Existing combat groups emphasize divine warriors, sacred warfare, or threshold guardians; they do not clearly hold non-divine heroic monster-slaying episodes where the creature is the central ordeal. |
 | `monster_lair_devouring_threat` | Monster Lair and Devouring Threat | 1 | Existing groups cover guardians, combat, and descent but lack a stable place for devouring monster habitation as an ordeal setting. |
 | `monstrous_perception` | Monstrous Perception and Shared Senses | 1 | Existing groups cover vision, guardians, and transformation, but not recurring abnormal bodily perception as the key motif. |
 | `origin_of_death` | Origin of Death | 1 | Existing groups cover death, rebirth, afterlife travel, and defective immortality, but not the etiological explanation for the first arrival of death. |
 | `past_life_identity` | Past-Life Identity and Karmic Continuity | 7 | Existing death, wisdom, and judgment groups do not specifically cover rebirth-identity disclosure and karmic continuity across lives. |
-| `place_name_etiology` | Place-Name Etiology and Memorial Landscape | 4 | Existing death and funeral groups do not capture the etiological function of naming places from events. |
-| `place_naming_etiology` | Place Naming and Etiological Memory | 1 | Existing groups cover heroic combat or legitimacy, but not the etiological function of explaining and sacralizing place names. |
-| `predator_deception_fable_reversal` | Predator Deception and Fable Reversal | 7 | Existing trickster group covers boundary-breaking and deception broadly, but these labels cluster around fable predator-prey ethics and reversals rather than a culture hero or liminal trickster figure. |
 | `rainmaking_weather_rites` | Rainmaking and Weather Rites | 1 | Existing groups can cover reciprocity, water, or divine action, but none clearly preserves the distinct weather-ritual function shared by rainmaking labels. |
-| `recognition_tokens_hidden_identity` | Recognition Tokens and Hidden Identity | 8 | Existing groups cover sacred power objects, disguise, and journeys, but not the recurring narrative function of signs proving identity or a denied encounter. |
-| `restless_dead_haunting` | Restless Dead and Haunting | 1 | Existing groups cover care for ancestors, afterlife routes, and soul restoration, but not the recurring agency of unquiet dead haunting the living world. |
-| `restless_dead_vengeful_spirits` | Restless Dead and Vengeful Spirits | 1 | Existing groups cover afterlife navigation, ancestor rites, and death transformation, but not recurring hostile agency of the unquiet dead. |
 | `ritual_coercion` | Ritual Coercion of Supernatural Agents | 1 | Sacred exchange covers reciprocity and offering, while divine intervention centers on sacred agency; neither clearly captures human ritual compulsion of supernatural beings. |
 | `ritual_healing` | Ritual Healing and Restorative Medicine | 1 | Current groups cover divine agency, objects, waters, and soul restoration, but not the recurring healing function across substances, places, helpers, and rites. |
 | `ritual_inversion` | Ritual Inversion and Status Reversal | 1 | Existing groups cover law, hierarchy, and sacred time but not the specific ritual mechanism of sanctioned inversion or status reversal. |
 | `ritual_reversal` | Ritual Reversal and Sacred Inversion | 1 | Existing groups cover sacred order, calendrical cycles, and trickster boundary-breaking, but none directly captures sanctioned temporary inversion as a ritual function. |
 | `sacred_animals` | Sacred Animals and Divine Embodiment | 1 | Existing groups cover transformation, serpents, and divine intervention but not stable sacred embodiment or distributed divine presence in animal species. |
-| `saintly_shrine_relic_devotion` | Saintly Shrine and Relic Devotion | 1 | Existing groups cover power objects, ancestor rites, and intervention, but not the combined ritual complex of saintly tomb/relic veneration and devotional access to blessing. |
-| `saintly_tomb_pilgrimage` | Saintly Tomb and Pilgrimage Center | 1 | Existing groups cover ancestor rites, heroic funerals, and sacred centers, but not recurring shrine pilgrimage to a saintly tomb as an active devotional locus. |
 | `solar_capture` | Solar Capture and Celestial Control | 1 | Existing groups cover cosmic origin and sacred time but not narrative acts that physically restrain or control celestial bodies. |
 | `solar_chariot` | Solar Chariot and Celestial Vehicle | 1 | Existing groups cover ascent, fire/light, and sacred objects, but not the cosmological function of a celestial vehicle carrying the sun or divine light through ordered time. |
 | `solar_deity_cosmic_order` | Solar Deity and Cosmic Order | 2 | Existing groups cover sacred fire/light or sovereignty broadly, but not the recurring solar role as cosmological sustainer and regulator. |
 | `soul_location_body_anthropology` | Soul Location and Body-Soul Anthropology | 1 | Existing external_soul covers life kept outside the body, while this label concerns embodied soul-location or vital anthropology. |
 | `spirit_possession` | Spirit Possession and Divine Indwelling | 1 | Existing groups cover manifestation, intervention, vision, and spirit affliction, but not the distinctive embodiment/indwelling function of possession. |
-| `supplication_mercy_refusal` | Supplication, Mercy, and Refused Appeal | 7 | Existing groups cover combat, exchange, and moral reckoning, but not the ritualized posture and social obligation of supplication itself. |
 | `sympathetic_magic` | Sympathetic Magic and Ritual Correspondence | 4 | Existing groups cover law, exchange, sacrifice, and power objects, but not the distinctive ritual logic of resemblance or contact acting at a distance. |
 | `transformative_ingestion` | Transformative Ingestion | 1 | Existing groups cover sacrifice, sacred law, and rebirth, but none cleanly captures ingestion as the mechanism of transferred qualities across ritual and narrative contexts. |
-| `vulnerable_hero` | Vulnerable Hero and Fatal Weak Spot | 1 | Existing groups cover heroic death, external souls, and fate, but not the recurring combat pattern of near-invulnerability defeated through a bodily weak spot. |
-| `vulnerable_point` | Vulnerable Point of the Invulnerable Foe | 1 | Sacred combat captures the battle setting, but not the specific structural motif of invulnerability limited by a hidden or exposed weakness. |
-| `vulnerable_spot` | Vulnerable Spot and Conditional Invulnerability | 1 | Existing groups cover externalized life tokens and heroic combat, but not vulnerability located in the body or conditional invulnerability as the decisive death mechanism. |
 | `warrior_frenzy` | Warrior Frenzy and Supernatural Battle Fury | 1 | Existing combat groups cover warrior roles and battles but not the distinctive bodily transformation or altered-state fury of the warrior. |
-| `world_ages_decline` | World Ages and Cosmic Decline | 2 | Existing groups cover individual downfall, sacred cycles, and judgment, but not a structured sequence of declining cosmic or human ages. |
 
 ## Low Confidence Or Human Review
 
