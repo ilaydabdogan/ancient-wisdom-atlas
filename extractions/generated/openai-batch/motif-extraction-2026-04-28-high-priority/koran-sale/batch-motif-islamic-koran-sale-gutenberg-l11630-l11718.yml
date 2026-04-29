@@ -1,0 +1,483 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l11630-l11718
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER II. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER III. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 11630-11718
+  start: '11630'
+  end: '11718'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recalls Muhammad preparing the faithful for war, mentions anxious
+    companies supported by God, cites victory at Bedr despite inferior numbers, promises
+    angelic assistance from heaven, states that victory belongs to God alone, and
+    warns believers to avoid usury, fear the fire prepared for unbelievers, and seek
+    remission and paradise. Notes identify the military setting with the battle of
+    Ohod and describe the mountain, armies, archers, defeat, and Muhammad's wounds.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The addressed figure went forth early from his family to prepare the faithful
+    a camp for war.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two companies became anxious and faint-hearted, while God is described as
+    supporting them both.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: obs:3
+  text: God is said to have given victory at Bedr when the faithful were inferior
+    in number.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The faithful are told that their Lord could assist them with three thousand
+    angels sent down from heaven, and with five thousand if they persevere and fear
+    God when enemies come suddenly.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The angels are described as distinguished by their horses and attire; the
+    note says commentators described their horses and sashes.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that victory is from God alone.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says God may cut off, cast down, forgive, or punish unjust doers,
+    and that God spares and punishes whom he pleases.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:8
+  text: Believers are commanded not to devour usury doubled twofold, to fear God,
+    and to obey God and his apostle.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A fire is described as prepared for unbelievers.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Paradise is described as prepared for the godly and as having breadth equal
+    to the heavens and the earth.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The note identifies the war setting with the battle of Ohod, near a mountain
+    north of Medina, and describes Muhammad arranging his camp with the mountain at
+    his back.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The note says Muhammad was struck down by stones and wounded in the face with
+    arrows during the battle of Ohod.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The deity who hears and knows, supports the faithful companies, grants
+    victory, sends angelic assistance, owns heaven and earth, and spares or punishes
+    whom he pleases.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Muhammad / the addressed apostle
+  description: The addressed figure who went forth from his family to prepare the
+    faithful a camp for war; the note identifies him as Muhammad and describes his
+    wounds at Ohod.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: the faithful / true believers
+  description: The community prepared for war, exhorted to trust God, fear God, avoid
+    usury, obey God and his apostle, and seek remission and paradise.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: two companies
+  description: Two groups among the faithful who became anxious and faint-hearted;
+    the note identifies them as families of Banu Salma and Banu'l Hareth composing
+    two wings of Muhammad's army.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:5
+  name_or_label: angels
+  description: Heaven-sent assistants promised in numbers of three thousand and five
+    thousand, distinguished by horses and attire.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: unbelievers / enemies / unjust doers
+  description: Opponents who may come suddenly, may be cut off, cast down, overthrown,
+    forgiven, or punished, and for whom fire is prepared.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: divine supporter
+  assigned_to:
+  - fig:1
+  basis: God is said to support the two anxious companies and to assist the faithful
+    with angels.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: giver of victory
+  assigned_to:
+  - fig:1
+  basis: The passage says God had given victory at Bedr and that victory is from God
+    alone.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: judge who spares and punishes
+  assigned_to:
+  - fig:1
+  basis: The passage says God may punish or turn toward unjust doers, and spares and
+    punishes whom he pleases.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: prophetic war leader
+  assigned_to:
+  - fig:2
+  basis: The addressed figure prepares the faithful a camp for war; the note identifies
+    the figure with Muhammad in the Ohod setting.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:5
+  label: faithful recipients of exhortation
+  assigned_to:
+  - fig:3
+  basis: The faithful are told to trust, fear God, avoid usury, obey, and seek remission
+    and paradise.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:6
+  label: faint-hearted companies
+  assigned_to:
+  - fig:4
+  basis: Two companies are described as anxiously thoughtful and faint-hearted, though
+    supported by God.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:7
+  label: angelic auxiliaries
+  assigned_to:
+  - fig:5
+  basis: Angels are promised as assistance from heaven in numbers of three thousand
+    and five thousand.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: opponents subject to defeat or punishment
+  assigned_to:
+  - fig:6
+  basis: The enemies or unbelievers may be cut off, cast down, overthrown, forgiven,
+    punished, and are associated with a prepared fire.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire prepared for unbelievers
+  literal_form: fire
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: paradise broad as heavens and earth
+  literal_form: paradise
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: heaven-sent angelic host
+  literal_form: angels sent down from heaven with horses and attire
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: mountain at the army's back
+  literal_form: mountain of Ohod
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Preparation of the faithful for war
+  summary: The addressed figure leaves his family early to prepare the faithful a
+    camp for war, while two companies become anxious and God is described as their
+    supporter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: scene:2
+  label: Promise of angelic assistance
+  summary: After recalling victory at Bedr, the passage presents divine assistance
+    as thousands of angels sent down from heaven, with larger aid promised if the
+    faithful persevere and fear God.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Divine control of victory, mercy, and punishment
+  summary: The passage states that victory comes from God alone and that God may defeat,
+    forgive, or punish unjust doers, since all in heaven and earth belongs to him.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Ethical warning and eschatological promise
+  summary: Believers are warned against usury, told to fear the fire prepared for
+    unbelievers, and urged to seek remission and paradise prepared for the godly.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Ohod battle note
+  summary: The note identifies the war context with the battle of Ohod, describes
+    the mountain placement, archers leaving their post, the defeat, casualties, and
+    Muhammad's wounds.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine aid in battle through heavenly auxiliaries
+  taxonomy_refs: []
+  basis: The faithful are promised assistance by thousands of angels sent down from
+    heaven, and victory is said to come from God alone.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No exact supplied taxonomy family names this motif; label is descriptive.
+- id: motif:2
+  label: divine judgment of enemies and unjust doers
+  taxonomy_refs:
+  - divine_judgment
+  basis: God may cut off, cast down, forgive, or punish unjust doers, and a fire is
+    prepared for unbelievers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage combines military defeat, mercy, punishment, and eschatological
+    warning rather than giving a single narrative judgment scene.
+- id: motif:3
+  label: paradise as reward for the godly
+  taxonomy_refs: []
+  basis: The faithful are urged to seek remission and paradise, described as broad
+    as the heavens and the earth and prepared for the godly.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The supplied taxonomy does not include a direct paradise or afterlife-reward
+    motif family; no journey is narrated.
+- id: motif:4
+  label: mountain-backed battlefield formation
+  taxonomy_refs: []
+  basis: The note says Muhammad formed a camp near Ohod and contrived to have the
+    mountain at his back.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a historical-battlefield detail in a note, not a developed mythic
+    mountain motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits the supplied divine_judgment motif family insofar as it
+    presents God as the one who may punish, forgive, or spare unjust doers and warns
+    of fire prepared for unbelievers.
+  claim_level: same_motif
+  target: divine_judgment
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage is exhortative and theological, not a detailed judgment
+    narrative.
+- id: claim:2
+  claim: The promised angels function as a heavenly auxiliary force for the faithful
+    in battle.
+  claim_level: same_function
+  target: angelic or heavenly helpers in battle
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: No external corpus comparison or historical-contact claim is supported
+    by the provided passage alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11641-11646
+  quote_or_summary: The addressed figure goes forth early from his family to prepare
+    the faithful a camp for war; two companies become anxious and faint-hearted, but
+    God supports them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11647-11654 and note n
+  quote_or_summary: God had given victory at Bedr when the faithful were inferior
+    in number; the Lord's assistance is described as three thousand angels sent down
+    from heaven, or five thousand if the faithful persevere. The note describes the
+    angels' horses and sashes.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11655-11660
+  quote_or_summary: God gives good tidings so hearts may rest secure; victory is from
+    God alone, and unbelievers may be cut off, cast down, overthrown, or punished.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11661-11663
+  quote_or_summary: All in heaven and earth belongs to God; he spares whom he pleases
+    and punishes whom he pleases.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11664-11671
+  quote_or_summary: Believers are told not to devour usury doubled twofold, to fear
+    God and the fire prepared for unbelievers, to obey God and his apostle, and to
+    seek remission and paradise broad as heaven and earth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: note k, lines 11672-11706
+  quote_or_summary: The note places the setting at the battle of Ohod near a mountain
+    north of Medina, describes Muhammad's army and camp with the mountain at his back,
+    the archers leaving their post, the defeat, and Muhammad's wounds.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: note l, lines 11707-11714
+  quote_or_summary: The two companies are identified as families of Banu Salma and
+    Banu'l Hareth, the two wings of Muhammad's army, affected by discouraging advice
+    but kept firm by divine influence.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the main exhortation and notes. Motif labeling
+    is cautious because several elements are theological or historical rather than
+    developed narrative motifs, and only one supplied motif family directly matches.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Initial fragmentary footnotes preceding the main Chapter III passage were not treated as a separate scene because their base verses are outside the supplied context.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l11630-l11718
+  passage_sha256=b6a72ea88b3a9abf3180df52f60c608af5f2a074820526b733b9911742c45e32

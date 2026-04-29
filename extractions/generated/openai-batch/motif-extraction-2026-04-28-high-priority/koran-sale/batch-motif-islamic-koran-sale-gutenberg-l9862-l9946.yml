@@ -1,0 +1,569 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l9862-l9946
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER I. / IN THE NAME OF THE MOST MERCIFUL GOD / CHAPTER II. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 9862-9946
+  start: '9862'
+  end: '9946'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ordinances for retaliation in cases of killing, mercy
+    through forgiveness and compensation, rules for bequests near death, and the obligation
+    of fasting, especially during Ramadan, when the Koran is said to have been sent
+    down from heaven as guidance and distinction between good and evil. Notes also
+    mention sect leaders abandoning followers at the last day and the practice of
+    invoking God's name when slaughtering animals for food.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note states that at the last day leaders or originators of new sects will
+    forsake their disciples.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note states that animals killed for food are accompanied by saying 'In the
+    name of GOD,' and neglect of this makes the meat unlawful in the described practice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The law of retaliation is ordained for slain persons, with equivalences named
+    for free persons, servants, and women.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Forgiveness by the slain person's brother permits prosecution for satisfaction
+    and a fine set with humanity.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Killing the murderer after the stated indulgence is described as transgression
+    that brings grievous punishment.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A person at the point of death who leaves goods is instructed to bequeath
+    a reasonable legacy to parents and kindred.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Changing a legacy after hearing it is assigned as sin to those who change
+    it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Fasting is ordained for true believers as it was ordained for those before
+    them.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Sick persons and travelers are permitted to fast an equal number of other
+    days.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: Those who do not keep the fast under the stated condition must redeem the
+    neglect by maintaining a poor man, according to the passage and its note.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: obs:11
+  text: The month of Ramadan is identified as the month in which the Koran was sent
+    down from heaven.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The Koran is described as direction for men and as a distinction between good
+    and evil.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: GOD / LORD
+  description: The divine authority who ordains, grants mercy, hears and knows, directs
+    believers, and is glorified and thanked.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: true believers
+  description: The addressed community receiving ordinances on retaliation, bequests,
+    fasting, and Ramadan.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: slain person and murderer
+  description: Persons involved in the law of retaliation; the murderer may be forgiven,
+    subject to satisfaction, or killed under the law.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: brother or relations of the slain
+  description: The brother may forgive; a note says relations of the deceased may
+    choose death for the murderer or pecuniary satisfaction.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: fig:5
+  name_or_label: dying testator
+  description: A person at the point of death who leaves goods and bequeaths a legacy.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: parents and kindred
+  description: Recipients named for a reasonable legacy from a dying person.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: sick person or traveler
+  description: Persons exempted from fasting on the present days and instructed to
+    fast the same number of other days.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: poor man
+  description: A poor man maintained as redemption for neglect of fasting under the
+    stated condition.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:9
+  name_or_label: leaders of new sects and disciples
+  description: Figures in the note who are said to separate from one another at the
+    last day.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine lawgiver
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly states that laws are ordained and calls them indulgence
+    and mercy from the LORD.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: divine judge and guide
+  assigned_to:
+  - fig:1
+  basis: God is said to punish transgression, hear and know, direct believers, and
+    provide guidance through the Koran.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: addressed ritual-legal community
+  assigned_to:
+  - fig:2
+  basis: The passage directly addresses true believers as recipients of laws on retaliation
+    and fasting.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: parties in homicide law
+  assigned_to:
+  - fig:3
+  basis: The slain and murderer are the subject of retaliation, forgiveness, satisfaction,
+    and punishment provisions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: forgiving or compensating kin
+  assigned_to:
+  - fig:4
+  basis: The brother may forgive, and the note describes relatives choosing execution
+    or pecuniary satisfaction.
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: role:6
+  label: bequeather near death
+  assigned_to:
+  - fig:5
+  basis: The dying person leaves goods and bequeaths a legacy.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: kinship beneficiaries
+  assigned_to:
+  - fig:6
+  basis: Parents and kindred are named as recipients of a reasonable legacy.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: temporarily exempt fasters
+  assigned_to:
+  - fig:7
+  basis: Sick persons and travelers are told to fast the same number of days later.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:9
+  label: recipient of compensatory maintenance
+  assigned_to:
+  - fig:8
+  basis: Maintaining a poor man is stated as redemption for neglect of the fast under
+    the relevant condition.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:10
+  label: eschatological abandoners and followers
+  assigned_to:
+  - fig:9
+  basis: A note says heads of new sects will forsake their disciples at the last day.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: law of retaliation
+  literal_form: ordinance for the slain with stated equivalences and possible forgiveness
+    or compensation
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: legacy at death
+  literal_form: reasonable bequest by a dying person to parents and kindred
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: fast
+  literal_form: a certain number of days of fasting, with later replacement days for
+    the sick or travelers
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: month of Ramadan
+  literal_form: the month in which fasting is commanded and the Koran was sent down
+    from heaven
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Koran sent down from heaven
+  literal_form: the Koran described as descending from heaven as direction and distinction
+    between good and evil
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: name of God at slaughter
+  literal_form: spoken formula 'In the name of GOD' over an animal killed for food
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Last-day abandonment by sect leaders
+  summary: A note explains a passage as referring to sect leaders forsaking their
+    disciples at the last day.
+  figure_refs:
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Invocation over animal slaughter
+  summary: A note describes the practice of saying God's name when killing an animal
+    for food, with the meat considered unlawful if the invocation is neglected.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Retaliation, forgiveness, and compensation for killing
+  summary: The passage ordains retaliation for the slain, allows forgiveness and satisfaction,
+    and warns against further killing after the indulgence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+- id: scene:4
+  label: Deathbed bequest and correction of injustice
+  summary: A dying person is to leave a reasonable legacy to parents and kindred;
+    changing the legacy is sinful, while composing a mistaken or unjust matter is
+    not a crime.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Fasting ordinance and exemptions
+  summary: Believers are commanded to fast a certain number of days, with provisions
+    for sickness, travel, and maintenance of a poor man under the stated condition.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: scene:6
+  label: Ramadan and heavenly descent of the Koran
+  summary: Ramadan is identified as the month of fasting and as the time when the
+    Koran was sent down from heaven for guidance and moral distinction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine law with mercy and punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: God is presented as the source of ordinances, mercy, and grievous punishment
+    for transgression.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is primarily legal and devotional; the motif label abstracts
+    from legal statements rather than a narrative episode.
+- id: motif:2
+  label: ritual fasting as obedient fear of God
+  taxonomy_refs: []
+  basis: Fasting is ordained for believers, linked to fearing God, fulfilling a number
+    of days, glorifying God, and giving thanks.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy family directly names fasting.
+- id: motif:3
+  label: heavenly revelation as guidance and moral distinction
+  taxonomy_refs:
+  - wisdom
+  basis: The Koran is said to be sent down from heaven as direction and distinction
+    between good and evil.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The available 'wisdom' taxonomy reference is broad; the passage specifically
+    concerns revelation and guidance.
+- id: motif:4
+  label: sacred compensation for injury or omission
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage allows satisfaction and fines in homicide cases and maintenance
+    of a poor man as redemption for neglect of fasting under the stated condition.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: These are legal compensations; interpreting them as sacred exchange should
+    be reviewed.
+- id: motif:5
+  label: eschatological abandonment of followers by false leaders
+  taxonomy_refs:
+  - divine_judgment
+  basis: A note says leaders or heads of new sects will forsake their disciples at
+    the last day.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This motif is drawn from an explanatory note rather than the main translated
+    verse text in this excerpt.
+- id: motif:6
+  label: divine-name consecration of food slaughter
+  taxonomy_refs:
+  - sacrifice
+  basis: A note states that animals killed for food are accompanied by the formula
+    'In the name of GOD' and are unlawful to eat if the formula is omitted.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage concerns lawful slaughter for food, not necessarily sacrifice
+    in the narrower ritual sense.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns the believers' fast with a prior pattern of
+    fasting ordained for those before them.
+  claim_level: same_function
+  target: fasting ordained for earlier communities
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The earlier communities are not identified in this excerpt, and no
+    historical mechanism is described beyond the statement of prior ordination.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9862-9867
+  quote_or_summary: A note explains that at the last day the heads of new sects will
+    forsake or disown their disciples.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9868-9871
+  quote_or_summary: A note says Muslims invoke God's name when killing animals for
+    food and regard the meat as unlawful if the invocation is neglected.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9873-9877
+  quote_or_summary: The law of retaliation is ordained for the slain; forgiveness
+    by the brother allows prosecution for just satisfaction and a humane fine.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9878-9881
+  quote_or_summary: The passage calls the rule an indulgence and mercy from the Lord;
+    one who transgresses by killing the murderer afterward suffers grievous punishment,
+    and the law of retaliation is said to have life for those of understanding.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9882-9890
+  quote_or_summary: A person near death who leaves goods should bequeath a reasonable
+    legacy to parents and kindred; changing it is sinful, but composing a mistaken
+    or unjust matter is not a crime.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9891-9898
+  quote_or_summary: Fasting is ordained for believers as for those before them; sick
+    persons or travelers fast other days, and a poor man may be maintained as redemption
+    under the stated condition.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 9899-9906
+  quote_or_summary: Ramadan is the month to fast, in which the Koran was sent down
+    from heaven as guidance and distinction between good and evil; sick persons and
+    travelers fast the same number of other days.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 9922-9935
+  quote_or_summary: A note reports differing expositions of the fasting compensation
+    passage, including interpretations restricting it to persons unable to fast or
+    those with legal excuse.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 9908-9916
+  quote_or_summary: Notes qualify the retaliation rule and describe the practice of
+    relatives choosing either execution of the murderer or pecuniary satisfaction,
+    particularly in Persia.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main legal and ritual content is clear. Some motif assignments are broad
+    and should be reviewed because the excerpt is legal-discursive rather than mythic
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All observations are based on the supplied excerpt and metadata only; no external identifications or unstated parallels have been added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l9862-l9946
+  passage_sha256=107c2903cc4f463312e7f5349e88276bccac4b93c12c8cfbc0f3b68ef1587c9e

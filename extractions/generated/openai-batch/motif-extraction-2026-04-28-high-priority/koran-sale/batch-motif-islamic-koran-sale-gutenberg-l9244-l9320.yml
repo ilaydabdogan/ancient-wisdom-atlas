@@ -1,0 +1,646 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l9244-l9320
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER I. / IN THE NAME OF THE MOST MERCIFUL GOD / CHAPTER II. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 9244-9320
+  start: '9244'
+  end: '9320'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes an explanatory story about an orphan's heifer, an
+    angelic encounter, a murder among the Israelites, and a sacrificed cow whose contact
+    revives the dead victim long enough to identify the killer. It then addresses
+    corrupt handling of scripture, claims about limited punishment in hell, reward
+    and punishment in the afterlife, covenants with the children of Israel, violations
+    of those covenants, resurrection-day punishment, and the succession of Moses,
+    Jesus son of Mary, and other apostles who are rejected or slain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man leaves his child son a cow-calf, which wanders in the desert until the
+    son reaches maturity.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The young man brings the heifer to market, where an angel in human form offers
+    him increasing sums of gold.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The young man refuses to sell without consulting his mother, and the mother
+    tells him to ask the angel what must be done with the heifer.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The angel says the children of Israel will soon buy the heifer at any price.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: An Israelite named Hammiel is killed by a relation, and the body is moved
+    to another place to prevent discovery.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: God commands that a cow with particular marks be killed; the only matching
+    animal is the orphan's heifer.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The heifer is bought for a very large amount of gold and sacrificed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The dead body is struck with part of the sacrificed heifer, revives, identifies
+    the killer, and dies again.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:9
+  text: Some people are described as corruptly writing the book of the law with their
+    hands and saying it is from God in order to sell it for a small price.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage contrasts companions of hell fire, who remain there forever, with
+    companions of paradise, who also remain there forever.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The children of Israel are said to have accepted covenants concerning exclusive
+    worship of God, kindness, prayer, alms, bloodshed, and dispossession.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The passage says some later slew one another, expelled brethren from houses,
+    redeemed captives, rejected part of the law, and faced shame and resurrection-day
+    punishment.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The passage says Moses received the book of the law, apostles succeeded him,
+    Jesus son of Mary received evident miracles, and some apostles were rejected,
+    accused, or slain.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: orphaned young man
+  description: Son who inherits the cow-calf, consults his mother, and owns the heifer
+    later bought by the children of Israel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: mother of the young man
+  description: Mother who tells her son about the heifer, requires consultation before
+    sale, and perceives that the buyer is an angel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: angel in the shape of a man
+  description: Angelic figure appearing as a man in the market, offering gold for
+    the heifer and later predicting that the children of Israel will buy it at any
+    price.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Hammiel
+  description: Israelite murder victim whose body is revived long enough to name his
+    killer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: relation who killed Hammiel
+  description: Relative of Hammiel who kills him and moves the body to conceal the
+    act.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Moses
+  description: Figure before whom the friends of the slain man accuse others; later
+    named as receiver of the book of the law.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:7
+  name_or_label: God
+  description: Divine figure who commands the killing of a marked cow, gives covenant
+    commands, judges false claims, and delivers law and messengers.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:8
+  name_or_label: children of Israel
+  description: Collective group who buy the heifer, receive covenants, and are accused
+    of later violations.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:9
+  name_or_label: corrupt transcribers of the law
+  description: People described as writing the book of the law corruptly and attributing
+    it to God for gain.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: companions of hell fire
+  description: Those who do evil and are encompassed by iniquity, described as remaining
+    in hell fire forever.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: companions of paradise
+  description: Those who believe and do good works, described as remaining in paradise
+    forever.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:4
+- id: fig:12
+  name_or_label: Jesus son of Mary
+  description: Figure said to have been given evident miracles and strengthened with
+    the holy spirit.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:7
+- id: fig:13
+  name_or_label: apostles succeeding Moses
+  description: Messengers said to come after Moses, some rejected, accused of imposture,
+    or slain.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: obedient heifer-owner
+  assigned_to:
+  - fig:1
+  basis: He repeatedly consults his mother before accepting offers for the heifer.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: maternal adviser
+  assigned_to:
+  - fig:2
+  basis: She directs the son about the heifer and tells him to ask the angel what
+    must be done with it.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: disguised angelic buyer
+  assigned_to:
+  - fig:3
+  basis: The figure is explicitly called an angel in the shape of a man and offers
+    gold for the heifer.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: revived murder witness
+  assigned_to:
+  - fig:4
+  basis: The dead body revives and names the person who killed him before dying again.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: concealed murderer
+  assigned_to:
+  - fig:5
+  basis: The relation kills Hammiel and moves the body to prevent discovery.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: recipient of accusation and law
+  assigned_to:
+  - fig:6
+  basis: Moses receives the murder accusation and is later named as recipient of the
+    book of the law.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:7
+  label: divine commander and judge
+  assigned_to:
+  - fig:7
+  basis: God commands the cow sacrifice, challenges false claims, gives covenant terms,
+    and is associated with punishment and reward.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:8
+  label: covenant community
+  assigned_to:
+  - fig:8
+  basis: The children of Israel receive covenant obligations and are accused of violating
+    them.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:9
+  label: scripture corrupters for gain
+  assigned_to:
+  - fig:9
+  basis: They are described as writing corruptly and selling the claim that it is
+    from God for a small price.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: eschatological punished group
+  assigned_to:
+  - fig:10
+  basis: They do evil and remain in hell fire forever.
+  evidence_refs:
+  - ev:4
+- id: role:11
+  label: eschatological rewarded group
+  assigned_to:
+  - fig:11
+  basis: They believe and do good works and remain in paradise forever.
+  evidence_refs:
+  - ev:4
+- id: role:12
+  label: miracle-supported messenger figure
+  assigned_to:
+  - fig:12
+  basis: Jesus son of Mary is said to receive evident miracles and strengthening by
+    the holy spirit.
+  evidence_refs:
+  - ev:7
+- id: role:13
+  label: rejected messengers
+  assigned_to:
+  - fig:13
+  basis: Apostles are described as being rejected, accused of imposture, or slain.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: heifer or cow
+  literal_form: A cow-calf/heifer with particular marks, later killed as commanded
+    by God.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: gold price
+  literal_form: Three pieces, six pieces, doubled offers, and later a price as much
+    as the hide or weight could hold in gold.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: part of sacrificed heifer
+  literal_form: A part of the sacrificed heifer used to strike the dead body.
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: hell fire
+  literal_form: Fire of hell described as touching or containing wrongdoers forever.
+  associated_figures:
+  - fig:10
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: paradise
+  literal_form: Paradise as the abiding place of those who believe and do good works.
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: book of the law
+  literal_form: The book of the law, known, transcribed, corrupted, partly believed,
+    partly rejected, and delivered to Moses.
+  associated_figures:
+  - fig:6
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: covenant
+  literal_form: Accepted covenant containing commands about worship, kindness, prayer,
+    alms, bloodshed, and habitation.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: The orphan's heifer and the disguised angel
+  summary: A young man inherits a cow-calf, brings the mature heifer to market, refuses
+    increased angelic offers without his mother's approval, and learns that the children
+    of Israel will later buy the animal at any price.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Murder disclosed through sacrificed heifer
+  summary: Hammiel is killed and his body moved; after accusations fail for lack of
+    evidence, God commands the killing of a marked cow, the orphan's heifer is purchased
+    and sacrificed, and the dead man revives to name his killer.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Comparison to Jewish heifer laws
+  summary: The note states that the story seems borrowed from the red heifer law and
+    from a heifer slain for expiation of an uncertain murder.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Corrupt scripture and afterlife division
+  summary: The passage condemns people who corruptly transcribe the law for gain,
+    challenges claims that hell will last only a limited number of days, and contrasts
+    eternal hell fire with eternal paradise.
+  figure_refs:
+  - fig:7
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Covenant accepted and violated
+  summary: The children of Israel are reminded of covenants requiring exclusive worship,
+    social duties, prayer, alms, and prohibitions on bloodshed and dispossession;
+    the passage then accuses them of killing, expelling, selective obedience, and
+    facing resurrection-day punishment.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Prophetic succession and rejection
+  summary: The passage says the law was given to Moses, apostles followed him, Jesus
+    son of Mary received miracles and the holy spirit, and some apostles were rejected,
+    accused, or killed.
+  figure_refs:
+  - fig:6
+  - fig:12
+  - fig:13
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Sacrificial animal reveals a hidden murderer by reviving the dead victim
+  taxonomy_refs:
+  - sacrifice
+  - resurrection
+  - divine_judgment
+  basis: A commanded cow sacrifice leads to the dead body being struck with part of
+    the animal, reviving long enough to identify the killer.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is extracted from Sale's note and translation passage; exact relation
+    to Qur'anic wording requires separate review.
+- id: motif:2
+  label: Disguised angel tests or reveals the destiny of a sacred animal
+  taxonomy_refs:
+  - sacred_exchange
+  basis: An angel in human shape offers gold for the heifer, the owner consults his
+    mother, and the angel foretells the heifer's future purchase by the children of
+    Israel.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explicitly call the exchange a test; that function
+    is inferred cautiously from the sequence.
+- id: motif:3
+  label: Covenant commands followed by communal violation and punishment
+  taxonomy_refs:
+  - covenant
+  - divine_judgment
+  basis: The children of Israel accept covenants but are later accused of bloodshed,
+    dispossession, selective belief, and receive shame and resurrection-day punishment.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The motif is broad and based on direct covenant and punishment language.
+- id: motif:4
+  label: Eschatological separation of evil-doers and believers
+  taxonomy_refs:
+  - divine_judgment
+  - resurrection
+  basis: Evil-doers are companions of hell fire forever, while believers who do good
+    works are companions of paradise forever; resurrection-day punishment is also
+    mentioned.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: No detailed afterlife journey is described in this passage.
+- id: motif:5
+  label: Corruption of sacred writing for material gain
+  taxonomy_refs: []
+  basis: The passage condemns those who transcribe the law corruptly and claim it
+    is from God in order to sell it for a small price.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly matches this motif.
+- id: motif:6
+  label: Prophetic succession met by rejection or violence
+  taxonomy_refs: []
+  basis: Moses receives the law, apostles succeed him, Jesus is supported by miracles
+    and the holy spirit, and some apostles are accused or slain.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage summarizes the pattern but does not narrate individual rejection
+    episodes here.
+comparison_claims:
+- id: claim:1
+  claim: The heifer story is explicitly compared in the passage's note to Jewish red
+    heifer law and to the heifer slain for expiation of an uncertain murder.
+  claim_level: same_function
+  target: Red heifer law in Numbers xix and heifer for uncertain murder in Deuteronomy
+    xxi. 1-9, as cited by the note
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage says the story 'seems to be borrowed,' but this is an editorial
+    comparison within the provided text, not independent proof of historical borrowing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9244-9259
+  quote_or_summary: A man leaves his child son a cow-calf; when grown, the son takes
+    the heifer to market, meets an angel in human form offering gold, consults his
+    mother, and hears that the children of Israel will buy the heifer at any price.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9260-9272
+  quote_or_summary: Hammiel is killed by a relation; after accusations before Moses
+    lack evidence, God commands a marked cow to be killed, the orphan's heifer is
+    bought for much gold, sacrificed, and the dead body revives after being struck
+    with part of it to name the killer before dying again.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9272-9276
+  quote_or_summary: The note says the whole story seems borrowed from the Jewish red
+    heifer law for purification after corpse contact and from the heifer slain for
+    expiation of an uncertain murder, citing Deut. xxi. 1-9.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9284-9294
+  quote_or_summary: The passage condemns illiterate or corrupt handlers of the law
+    who write and sell false claims as from God, rejects claims that hell fire lasts
+    only a limited number of days, and contrasts eternal hell for evil-doers with
+    eternal paradise for believers who do good works.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9295-9302
+  quote_or_summary: 'God recalls accepting a covenant from the children of Israel:
+    worship none but God, show kindness to parents, kindred, orphans, and poor, speak
+    well, pray, give alms, and avoid shedding a brother''s blood or dispossessing
+    one another.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9303-9312
+  quote_or_summary: The passage accuses the covenant group of killing one another,
+    expelling brethren, redeeming captives while dispossession remains unlawful, believing
+    part of the law and rejecting part, and facing shame in life and grievous punishment
+    on the day of resurrection.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 9313-9320
+  quote_or_summary: The passage says the book of the law was delivered to Moses, apostles
+    followed him, Jesus son of Mary received evident miracles and the holy spirit,
+    and some apostles were rejected, accused of imposture, or slain.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the supplied passage. Motif labels are cautious
+    where the passage summarizes doctrinal statements or editorial notes rather than
+    narrating full episodes. The only comparison claim is limited to the comparison
+    explicitly stated in the passage note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage text and metadata. Taxonomy references were limited to supplied available refs where directly supportable.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l9244-l9320
+  passage_sha256=9aab260e3f151059395afd75d376b9f483cc5e1fc7a00322827c15f6d1e46db3

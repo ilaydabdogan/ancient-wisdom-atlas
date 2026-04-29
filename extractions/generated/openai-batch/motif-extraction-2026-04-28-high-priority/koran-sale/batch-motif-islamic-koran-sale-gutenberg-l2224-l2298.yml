@@ -1,0 +1,465 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l2224-l2298
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: THE KORAN. / PRELIMINARY DISCOURSE / SECTION I. / SECTION II.; lines 2224-2298
+  start: '2224'
+  end: '2298'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the state of Christianity, especially eastern churches,
+    around the time of Mohammed's appearance. It presents Christian institutions as
+    divided by doctrinal controversies, corrupted by clerical ambition, superstition,
+    bribery, political interference, violent rivalry for office, and general moral
+    decline, and says these conditions aided the spread of Mohammedism.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The section heading frames the passage as an account of Christianity, eastern
+    churches, Judaism, and the establishment of Mohammed's religion at the time of
+    Mohammed's appearance.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Christian groups were divided by controversies, schisms,
+    and contentions that destroyed peace, love, and charity among them.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says superstitions and corruptions were established in the church
+    of Rome during the described period.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says worship of saints and images had reached a scandalous pitch
+    and gave advantages to the propagation of Mohammedism.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The eastern church is described as engaged in perpetual controversies and
+    torn by disputes involving Arians, Sabellians, Nestorians, and Eutychians.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage describes contentious prelates travelling between councils and
+    clergy connected with court using dependants and bribery.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Damasus and Ursicinus are described as contesting the episcopal seat at Rome
+    with open violence and murder.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Viventius the governor is described as unable to suppress the violence and
+    as retiring into the country.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage says 137 people were found killed in one day in the church of
+    Sicininus during the conflict.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage describes bishops or officeholders as enriched by presents, travelling
+    in chariots and sedans, and feasting sumptuously.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Constantius is described as confusing Christian religion with superstitions,
+    perplexing it with questions, exciting disputes, and fomenting altercations.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Justinian is described as thinking it no crime to condemn to death a man of
+    a different persuasion from his own.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The passage says corruption of doctrine and morals among princes and clergy
+    was followed by general depravity among the people, who sought money by any means.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Christian world / Christian churches
+  description: The collective Christian world and churches discussed as divided by
+    controversies and moral corruption.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Clergy, prelates, and bishops
+  description: Religious leaders described as ambitious, contentious, involved in
+    councils, patronage, bribery, and luxury.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Eastern church
+  description: The eastern church, described as engaged in perpetual controversy after
+    the Nicene council.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Damasus
+  description: One of the contenders for the episcopal seat at Rome; he eventually
+    prevailed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Ursicinus
+  description: One of the contenders for the episcopal seat at Rome.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Viventius
+  description: The governor who was unable to suppress the violence between Damasus
+    and Ursicinus and retired into the country.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Constantius
+  description: An emperor described as exciting and fomenting religious disputes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Justinian
+  description: An emperor described as willing to condemn a man to death for differing
+    religious persuasion.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: People of all conditions
+  description: The general people described as depraved and focused on getting money
+    by any means.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Mohammed
+  description: Named in the section heading as the temporal point of reference for
+    the account of Christianity, Judaism, and the establishment of his religion.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divided religious body
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The Christian world and eastern church are described as divided by schisms,
+    contentions, and doctrinal controversies.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: contentious and corrupt religious leadership
+  assigned_to:
+  - fig:2
+  basis: The clergy and prelates are associated with ambition, councils, bribery,
+    patronage, and luxury.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: rival claimants to ecclesiastical office
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Damasus and Ursicinus are described as contesting the Roman episcopal seat
+    with violence and murder.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: civil authority unable to suppress conflict
+  assigned_to:
+  - fig:6
+  basis: Viventius is said to have been unable to suppress the violence and to have
+    withdrawn.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: imperial fomenter of religious disputes
+  assigned_to:
+  - fig:7
+  basis: Constantius is described as exciting disputes and fomenting altercations.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: imperial religious coercer
+  assigned_to:
+  - fig:8
+  basis: Justinian is described as willing to condemn to death a man of different
+    persuasion.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: morally depraved populace
+  assigned_to:
+  - fig:9
+  basis: The people are described as following the corruption of princes and clergy
+    and seeking money by any means.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: founder associated with new religion's establishment
+  assigned_to:
+  - fig:10
+  basis: The section heading refers to Mohammed's appearance and methods for establishing
+    his religion.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: worshipped saints and images
+  literal_form: Saints and images as objects of worship
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: episcopal seat
+  literal_form: The episcopal seat at Rome contested by Damasus and Ursicinus
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: chariots and sedans
+  literal_form: Chariots and sedans used by enriched church officeholders when going
+    abroad in state
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Historical frame at Mohammed's appearance
+  summary: The section introduces the religious condition of Christianity, eastern
+    churches, and Judaism at the time of Mohammed's appearance and the establishment
+    of his religion.
+  figure_refs:
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Christian schism and loss of religious substance
+  summary: The Christian world is described as losing peace, charity, and the substance
+    of religion through controversy, ambition, schisms, and rancour.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Corrupt worship aiding Mohammedism
+  summary: The passage states that superstitions and corruptions, especially worship
+    of saints and images, became established and gave advantage to the propagation
+    of Mohammedism.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Eastern church controversies and clerical patronage
+  summary: After the Nicene council, the eastern church is described as torn by controversies
+    while prelates travel between councils and clergy use patronage and bribery.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Violent contest for the Roman episcopal seat
+  summary: Damasus and Ursicinus contend for the episcopal seat at Rome, violence
+    and murder occur, Viventius withdraws, and Damasus prevails.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Imperial interference and general depravity
+  summary: Constantius and Justinian are described as worsening religious conflict
+    through dispute and coercion, and corruption among rulers and clergy is followed
+    by general depravity among the people.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Religious fragmentation before the rise of a new religious movement
+  taxonomy_refs: []
+  basis: The passage portrays Christianity as divided and corrupted and explicitly
+    says these conditions gave advantages to the propagation of Mohammedism.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a historical-polemical pattern in the passage, not a mythic narrative
+    motif; no supplied taxonomy reference directly matches it.
+- id: motif:2
+  label: Contest for sacred office leading to violence
+  taxonomy_refs: []
+  basis: The struggle between Damasus and Ursicinus for the episcopal seat is described
+    as escalating to open violence, murder, and many deaths.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage treats the event as church history rather than myth; the motif
+    label is a descriptive extraction only.
+- id: motif:3
+  label: Ruler-backed doctrinal coercion
+  taxonomy_refs: []
+  basis: Constantius is said to foment religious disputes, and Justinian is described
+    as willing to condemn a person to death for differing persuasion.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives examples of political-religious coercion but does not
+    develop a full narrative sequence.
+- id: motif:4
+  label: Moral corruption spreading from leaders to people
+  taxonomy_refs: []
+  basis: The passage says corruption of doctrine and morals among princes and clergy
+    was necessarily followed by general depravity among the people.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is an ethical-historical pattern, not a taxonomy-supported myth motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2224-2231
+  quote_or_summary: Section title states that the topic is the state of Christianity,
+    especially eastern churches, and Judaism at the time of Mohammed's appearance,
+    along with methods and circumstances for establishing his religion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 2232-2253
+  quote_or_summary: Christianity is described as afflicted by clerical ambition, abstruse
+    controversy, schisms, contentions, malice, rancour, and loss of the substance
+    of religion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 2253-2261
+  quote_or_summary: The passage says superstitions and corruptions were established
+    in the church of Rome and that worship of saints and images reached a scandalous
+    pitch, giving advantages to Mohammedism.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 2262-2277
+  quote_or_summary: After the Nicene council, the eastern church is described as torn
+    by Arian, Sabellian, Nestorian, and Eutychian disputes, with prelates travelling
+    to councils and clergy using dependants and bribery.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 2278-2290
+  quote_or_summary: Damasus and Ursicinus contest the Roman episcopal seat through
+    violence and murder; Viventius withdraws; 137 are reported killed in one day in
+    the church of Sicininus; officeholders are described as enriched and luxurious.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: lines 2291-2296
+  quote_or_summary: Constantius is blamed for exciting and fomenting disputes, and
+    Justinian is described as willing to condemn to death a man of different persuasion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary only.
+- id: ev:7
+  type: summary
+  locator: lines 2296-2298
+  quote_or_summary: The passage says corruption among princes and clergy was followed
+    by general depravity of the people, who made it their business to get money by
+    any means.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is historical and polemical rather than mythic. Literal extraction
+    is straightforward, but motif candidates are descriptive patterns without direct
+    taxonomy matches. No comparison claims were added because the passage itself does
+    not support a specific comparative mythology claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were not applied because none were directly supported by this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l2224-l2298
+  passage_sha256=f5235810550de7b543837e328bd6f5d0c7139669eeebae7bda75b713fd57c701

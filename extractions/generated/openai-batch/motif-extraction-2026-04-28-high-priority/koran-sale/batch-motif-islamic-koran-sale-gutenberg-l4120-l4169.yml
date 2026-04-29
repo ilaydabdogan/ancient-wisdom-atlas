@@ -1,0 +1,513 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l4120-l4169
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 4120-4169
+  start: '4120'
+  end: '4169'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Islamic eschatological signs in Sale''s commentary:
+    the time of the final day is known only to God, lesser signs include decay of
+    faith, social disorder, war, distress, and tribute refusal, while greater signs
+    include the sun rising in the west, the emergence of a composite beast from the
+    earth that marks believers and unbelievers, a miraculous conquest of Constantinople,
+    and the coming of the Antichrist.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The time of the day is said to be secret to all except God, and Gabriel is
+    described as acknowledging ignorance when Mohammed asked him about it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The approach of the day is said to be knowable by signs divided into lesser
+    and greater signs.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The lesser signs include decay of faith, the elevation of mean persons, a
+    maid-servant becoming mother of her mistress or master, tumults, war with the
+    Turks, distress, tribute refusal by Irk and Syria, and Medina's buildings reaching
+    Ahb or Yahb.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One greater sign is the sun rising in the west.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A beast is said to rise out of the earth at or near Mecca, Mount Saf, Tyef,
+    or another place.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The beast is described as enormous and composite, with body parts and traits
+    of several animals.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The beast carries the rod of Moses and the seal of Solomon, strikes believers
+    on the face with one and marks unbelievers on the face with the other.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The beast is said to demonstrate the vanity of all religions except Islam
+    and to speak Arabic.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Constantinople is said to be taken by 70,000 descendants of Isaac when the
+    walls fall as they proclaim God's oneness and greatness.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The conquerors are said to abandon spoil and return when news arrives of the
+    Antichrist's appearance.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The Antichrist is called al Masih al Dajjal, described as one-eyed, and marked
+    on the forehead with letters signifying infidel.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The only one said to know the secret time of the day.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Gabriel
+  description: The angel who acknowledges ignorance about the time when Mohammed asks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mohammed
+  description: The figure who asks Gabriel about the time of the day.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: The beast
+  description: A great composite beast rising from the earth, carrying the rod of
+    Moses and seal of Solomon, and marking believers and unbelievers.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Believers
+  description: Persons marked on the face with the word meaning believer.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Unbelievers
+  description: Persons marked on the face with the word meaning infidel.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Posterity of Isaac
+  description: Seventy thousand descendants of Isaac who take Constantinople without
+    force of arms.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Antichrist / al Masih al Dajjal
+  description: The false or lying Christ, one-eyed and marked on the forehead with
+    letters signifying infidel.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: holder of secret knowledge
+  assigned_to:
+  - fig:1
+  basis: The timing of the day is secret to all but God.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ignorant angelic respondent
+  assigned_to:
+  - fig:2
+  basis: Gabriel acknowledges ignorance when asked about the time.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: questioner
+  assigned_to:
+  - fig:3
+  basis: Mohammed asks Gabriel about the time.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: earth-emerging portent
+  assigned_to:
+  - fig:4
+  basis: The beast rises out of the earth as one of the greater signs.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: marker of true religious status
+  assigned_to:
+  - fig:4
+  basis: The beast marks believers and unbelievers on the face so every person may
+    be known for what he really is.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: marked believers
+  assigned_to:
+  - fig:5
+  basis: Believers are struck and marked on the face with a word meaning believer.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: marked unbelievers
+  assigned_to:
+  - fig:6
+  basis: Unbelievers are marked on the face with a word meaning infidel.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: miraculous conquerors
+  assigned_to:
+  - fig:7
+  basis: They take Constantinople without force of arms as the walls fall during their
+    proclamation.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: end-time adversary
+  assigned_to:
+  - fig:8
+  basis: The Antichrist appears as one of the greater signs and is called the false
+    or lying Christ.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Sun rising in the west
+  literal_form: The sun rising in the west
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Composite earth beast
+  literal_form: A beast rising out of the earth with traits of bull, hog, elephant,
+    stag, ostrich, lion, tiger, cat, ram, camel, and ass
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Rod of Moses
+  literal_form: Rod carried by the beast and used to strike believers on the face
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Seal of Solomon
+  literal_form: Seal carried by the beast and used to mark unbelievers on the face
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Facial marks of believer and infidel
+  literal_form: Words meaning believer and infidel marked on faces
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: sym:6
+  label: Falling city walls
+  literal_form: Walls of Constantinople falling while God's oneness and greatness
+    are proclaimed
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Secret timing and signs of the day
+  summary: The passage states that the timing of the day is known only to God, while
+    its approach is indicated by lesser and greater signs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Lesser signs of decline and disorder
+  summary: The lesser signs are listed as religious decay, disrupted social order,
+    tumults, wars, distress, tribute refusal, and urban expansion around Medina.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: 'Greater signs: reversed sun and earth beast'
+  summary: The greater signs begin with the sun rising in the west and the appearance
+    of a huge composite beast from the earth.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Beast marks believers and unbelievers
+  summary: The beast carries the rod of Moses and the seal of Solomon, marks believers
+    and unbelievers on the face, speaks Arabic, and declares Islam uniquely valid.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Miraculous taking of Constantinople
+  summary: Seventy thousand descendants of Isaac take Constantinople without force
+    of arms when its walls fall during their proclamation, then abandon spoil at news
+    of the Antichrist.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Appearance of the Antichrist
+  summary: The Antichrist, called al Masih al Dajjal, is described as one-eyed and
+    marked on the forehead with letters signifying infidel.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Hidden timing of the final day
+  taxonomy_refs:
+  - divine_judgment
+  basis: The day’s time is known only to God, while even Gabriel is ignorant of it.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is commentary summarizing eschatological tradition rather
+    than a narrative scene from the Qur'anic text itself.
+- id: motif:2
+  label: End-time signs before judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage explicitly organizes preceding portents into lesser and greater
+    signs of the approaching day.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy lacks a specific apocalypse or eschatological-portents
+    category; divine_judgment is the closest supplied reference.
+- id: motif:3
+  label: Monstrous beast revealing true allegiance
+  taxonomy_refs:
+  - divine_judgment
+  basis: A composite beast rises from the earth and marks believers and unbelievers
+    so each person may be known for what he really is.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage’s description is mediated by Sale and includes polemical commentary.
+- id: motif:4
+  label: Miraculous conquest by sacred proclamation
+  taxonomy_refs: []
+  basis: Constantinople’s walls fall while the conquerors cry that there is no god
+    but God and God is most great, rather than by force of arms.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: No close supplied taxonomy reference clearly covers this motif.
+- id: motif:5
+  label: End-time false messiah marked as infidel
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Antichrist is described as the false or lying Christ, one-eyed, and marked
+    with letters signifying infidel.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The extracted passage cuts off during the Antichrist description, so the
+    episode is incomplete.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself links the described earth beast to the beast in Revelation,
+    calling it the result of a confused idea of that figure.
+  claim_level: same_motif
+  target: The beast in Revelation chapter 13
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The statement is Sale's evaluative comparison within the passage; the
+    excerpt does not provide Revelation's text for direct comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4120-4124
+  quote_or_summary: The time of the day is secret to all but God; Gabriel acknowledges
+    ignorance when Mohammed asks about it; signs may indicate its approach.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 4125-4136
+  quote_or_summary: The lesser signs include decay of faith, low persons raised to
+    dignity, social inversion involving a maid-servant, tumults, war with the Turks,
+    distress, tribute refusal by Irk and Syria, and Medina's buildings reaching Ahb
+    or Yahb.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: quote
+  locator: lines 4137-4139
+  quote_or_summary: '"The sun''s rising in the west" is listed as the first greater
+    sign.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 4140-4143
+  quote_or_summary: A beast will rise out of the earth, with possible locations including
+    the temple of Mecca, Mount Saf, Tyef, or another place.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 4143-4151
+  quote_or_summary: The beast is described as immense and composite, with features
+    of bull, hog, elephant, stag, ostrich, lion, tiger, cat, ram, camel, and ass.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: lines 4151-4157
+  quote_or_summary: The beast carries Moses' rod and Solomon's seal; it cannot be
+    overtaken or escaped, and marks believers and unbelievers on the face with words
+    identifying them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: summary
+  locator: lines 4157-4159
+  quote_or_summary: The beast demonstrates the vanity of all religions except Islam
+    and speaks Arabic.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:8
+  type: summary
+  locator: lines 4161-4166
+  quote_or_summary: Seventy thousand descendants of Isaac take Constantinople without
+    arms when the walls fall as they proclaim God's oneness and greatness; they leave
+    the spoil after news of the Antichrist.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:9
+  type: summary
+  locator: lines 4167-4169
+  quote_or_summary: The Antichrist, called al Masih al Dajjal, is described as the
+    false or lying Christ, one-eyed, and marked on the forehead with letters meaning
+    infidel.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:10
+  type: quote
+  locator: lines 4159-4160
+  quote_or_summary: '"All this stuff seems to be the result of a confused idea of
+    the beast in the Revelations."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Motif taxonomy mapping
+    is partly approximate because the supplied taxonomy has no specific eschatological-portents
+    or apocalypse category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Sale's passage is commentary and includes evaluative wording; descriptions have been kept literal or explicitly attributed to the passage where possible.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l4120-l4169
+  passage_sha256=f6ee36afb54262659e11e5f67ccdf61d3cc547b27df38964bb61c8ce0d25fb42

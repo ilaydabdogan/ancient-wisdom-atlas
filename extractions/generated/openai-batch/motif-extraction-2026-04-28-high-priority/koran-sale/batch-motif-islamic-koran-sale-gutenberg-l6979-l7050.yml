@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l6979-l7050
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: OF CERTAIN NEGATIVE PRECEPTS IN THE KORN. / SECTION VI. / OF THE INSTITUTIONS
+    OF THE KORAN IN CIVIL AFFAIRS. / SECTION VII.; lines 6979-7050
+  start: '6979'
+  end: '7050'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the pre-Islamic Arabian custom of four sacred months
+    during which warfare and violence were suspended, explains their association with
+    pilgrimage and security, notes exceptions and rare violations, and states that
+    Mohammed approved the institution and that the Koran confirms it with conditions
+    regarding those who do or do not acknowledge the months as sacred.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ancient Arabs observed four months as sacred, during which war was unlawful
+    and hostilities ceased.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: During the sacred months, a person feared by an enemy could live securely,
+    even when meeting the murderer of a father or brother.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sacred-month institution was said to be observed by Arabian tribes generally,
+    with named exceptions.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Violations of the sacred-month prohibition were rare and wars fought without
+    regard to it were termed impious.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The sacred months are named as al Moharram, Rajeb, Dhu'lkaada, and Dhu'lhajja,
+    corresponding to the first, seventh, eleventh, and twelfth months of the year.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Dhu'lhajja is connected with pilgrimage to Mecca, and the surrounding months
+    were kept inviolable so that people could travel safely to and from the festival.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Rajeb is described as more strictly observed than the other sacred months
+    and is linked with fasting among pagan Arabs.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Mohammed approved the sacred-month observance, and Koranic passages are said
+    to confirm and enforce it while permitting attack on those who do not recognize
+    the distinction.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: ancient Arabs
+  description: People described as observing four sacred months and suspending war
+    and hostilities during them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Arabian tribes
+  description: Tribal groups among whom the sacred-month institution generally obtained.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Tay, Khatham, and some descendants of Al Hareth Ebn Caab
+  description: Named exceptions said not to distinguish sacred time or place.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: tribes of Koreish and Kais Ailan
+  description: Tribes named in an instance of war carried on without regard to the
+    sacred months.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Mohammed
+  description: Described as approving the sacred-month institution; also mentioned
+    as having served under his uncles in the war between Koreish and Kais Ailan.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:6
+  name_or_label: pilgrims and travelers to Mecca
+  description: People for whose safe passage to and from the festival the pilgrimage
+    month and adjacent months were kept inviolable.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: observers of sacred truce time
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says the Arabs and their tribes observed four sacred months in
+    which warfare and hostilities ceased.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: exceptions to sacred-time observance
+  assigned_to:
+  - fig:3
+  basis: The named groups are said to distinguish no time or place as sacred.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: violators in an impious war
+  assigned_to:
+  - fig:4
+  basis: The war between Koreish and Kais Ailan is given as an instance of warfare
+    carried on without regard to the sacred months.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: approver of the institution
+  assigned_to:
+  - fig:5
+  basis: The passage says the observance seemed reasonable to Mohammed, met with his
+    approbation, and was confirmed and enforced by the Koran.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: protected festival travelers
+  assigned_to:
+  - fig:6
+  basis: The passage states that the pilgrimage month and adjacent months were kept
+    inviolable so that everyone might safely pass and repass to and from the festival.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: four sacred months
+  literal_form: A set of four months in the year treated as sacred time.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: removed spearheads
+  literal_form: The heads taken off spears during the sacred months.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: pilgrimage to Mecca
+  literal_form: Travel to Mecca for the festival during Dhu'lhajja.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: inviolable passage
+  literal_form: Safe passage to and from the pilgrimage festival during protected
+    months.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: suspension of violence in sacred months
+  summary: Ancient Arabs set aside four months as sacred, during which warfare, incursions,
+    and violence were suspended and even enemies were secure.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: tribal observance and violation
+  summary: The institution is described as widespread among Arabian tribes, with exceptions;
+    rare violations were remembered as impious wars, including one involving Koreish
+    and Kais Ailan.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: pilgrimage protected by sacred time
+  summary: Dhu'lhajja and adjacent months are kept inviolable so that people may travel
+    safely to and from the pilgrimage festival at Mecca.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Koranic confirmation of sacred months
+  summary: Mohammed approves the sacred-month institution, and the Koran is said to
+    confirm it while limiting the prohibition of war to those who acknowledge the
+    months as sacred.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacred time as truce from violence
+  taxonomy_refs: []
+  basis: The passage centers on sacred months during which war and violence are suspended
+    and enemies are protected.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This motif label is descriptive and not drawn from the supplied taxonomy
+    list.
+- id: motif:2
+  label: ritual disarmament marking peace
+  taxonomy_refs: []
+  basis: The passage states that Arabs took the heads from their spears during the
+    sacred months while ceasing hostilities.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives the act literally; its symbolic function as a marker
+    of peace is inferred from its placement in the truce description.
+- id: motif:3
+  label: protected pilgrimage journey
+  taxonomy_refs: []
+  basis: The pilgrimage month and adjacent months are kept inviolable so that people
+    may safely go to and return from the festival at Mecca.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this motif.
+- id: motif:4
+  label: religious adoption of earlier customary law
+  taxonomy_refs: []
+  basis: The passage says Mohammed approved the pre-existing sacred-month custom and
+    that the Koran confirms and enforces it with stated conditions.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is an institutional pattern more than a mythic narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage presents the Koranic sacred-month rule as continuing the function
+    of an earlier Arabian sacred-month custom: both regulate warfare by setting apart
+    protected times, though the Koranic rule is described as conditional regarding
+    opponents who do not acknowledge those months.'
+  claim_level: same_function
+  target: pre-Islamic Arabian sacred-month observance
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the passage and concerns legal-religious
+    function, not evidence of a broader cross-cultural motif family.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6984-6995
+  quote_or_summary: Ancient Arabs observed four sacred months, during which war was
+    unlawful, spearheads were removed, incursions and hostilities ceased, and even
+    a person meeting a father's or brother's murderer could not offer violence.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 6996-7010
+  quote_or_summary: The institution is said to have obtained among Arabian tribes
+    except Tay, Khatham, and some descendants of Al Hareth Ebn Caab; transgressions
+    were rare and wars disregarding the months were termed impious, including a war
+    between Koreish and Kais Ailan in which Mohammed served under his uncles.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 7011-7024
+  quote_or_summary: The sacred months are named as al Moharram, Rajeb, Dhu'lkaada,
+    and Dhu'lhajja; Dhu'lhajja is the pilgrimage month at Mecca, and it with the preceding
+    and following months was kept inviolable for safe travel to and from the festival.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 7025-7033
+  quote_or_summary: Rajeb is described as more strictly observed than the other sacred
+    months, probably because pagan Arabs fasted then; Ramadan is contrasted as later
+    set apart by Mohammed for fasting.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 7038-7050
+  quote_or_summary: The sacred-month observance seemed reasonable to Mohammed and
+    met with his approval; passages of the Koran are said to confirm and enforce it,
+    forbidding war in those months against those who acknowledge them as sacred while
+    permitting attacks on those who do not.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is expository and institutional rather than mythic; literal extraction
+    is strong, while motif labels are descriptive and require human review for taxonomy
+    alignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. No supplied taxonomy motif family was directly assigned.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l6979-l7050
+  passage_sha256=71c02e5f7124de787e029c179e23dd4a7b4e91ebe9cb4cebcdd83cb27b1d80b2

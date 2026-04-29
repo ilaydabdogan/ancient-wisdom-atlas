@@ -1,0 +1,518 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l6279-l6346
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION III / SECTION IV. / SECTION V. / OF CERTAIN NEGATIVE PRECEPTS IN
+    THE KORN.; lines 6279-6346
+  start: '6279'
+  end: '6346'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Sale's account of Qur'anic and Muhammadan condemnation
+    of pre-Islamic Arabian practices, especially burying daughters alive, exposing
+    or killing infants, and sacrificing children to idols. It gives reported procedures,
+    tribal examples, a rescuer of female children, and brief comparisons with other
+    ancient and later societies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the law of Mohammed stopped the practice of burying
+    daughters alive among Pagan Arabs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated motives for burying daughters alive include fear of poverty, disgrace
+    from captivity, or scandalous behavior.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One reported procedure says a father let a daughter live until about six years
+    old, had her perfumed and adorned, led her to a well or pit, pushed her in, and
+    filled the pit level with the ground.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Another reported procedure says a pit was dug at childbirth; a daughter was
+    thrown into it, while a son was saved alive.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The custom is said to have been common among several tribes, particularly
+    Koreish and Kendah, with Koreish associated with burying daughters in Mount Abu
+    Dalma near Mecca.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ssa is said to have redeemed female children from death by giving two pregnant
+    she-camels and one he-camel for each child.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Al Farazdak is said to have called himself the son of the giver of life to
+    the dead and cited a Qur'anic statement about saving a soul.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that exposing infants and putting them to death was common
+    among ancient peoples and gives examples involving Egyptians, laws attributed
+    to Lycurgus, China, and Greeks.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage states that the Qur'an condemns this practice in several passages.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage says some commentators take a Qur'anic passage also to condemn
+    child sacrifice to idols, especially in fulfillment of a vow to sacrifice one
+    son if a certain number of sons were born.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Named as the source of the law that stopped the custom and abrogated
+    other superstitious customs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: fig:2
+  name_or_label: Pagan Arabs
+  description: Collective group said to have practiced burying daughters alive before
+    the law stopped it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Daughters / female children
+  description: Female children described as being buried alive, exposed, redeemed,
+    or killed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Father
+  description: In one reported procedure, the father orders the daughter prepared,
+    leads her to a pit or well, pushes her in, and covers the pit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Mother / woman in labour
+  description: A mother is told to perfume and adorn the daughter; another report
+    places a woman in labor at the edge of a pit.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Ssa
+  description: Grandfather of al Farazdak, said to have redeemed female children from
+    death by payment of camels.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: al Farazdak
+  description: Poet who alluded to his grandfather's actions by calling himself the
+    son of the giver of life to the dead.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Idols
+  description: Objects of worship to which children are said to have been sacrificed
+    in another condemned custom.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Sons
+  description: Male children described as saved alive in one birth-pit account and
+    as possible victims in vows of child sacrifice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:8
+roles:
+- id: role:1
+  label: abrogating lawgiver
+  assigned_to:
+  - fig:1
+  basis: The passage says the law of Mohammed put a stop to the custom and abrogated
+    other superstitious customs.
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: role:2
+  label: child-killing agent
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The passage attributes the burying of daughters alive to Pagan Arabs and
+    describes a father carrying out the act.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: threatened child
+  assigned_to:
+  - fig:3
+  - fig:9
+  basis: Daughters are the main victims; sons are saved in one account but may be
+    sacrificed in fulfillment of vows in another custom.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: role:4
+  label: maternal participant in reported procedure
+  assigned_to:
+  - fig:5
+  basis: The mother is involved in preparing the daughter, and a woman in labor is
+    placed at the edge of a pit in another report.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: redeemer of children
+  assigned_to:
+  - fig:6
+  basis: Ssa is said to have redeemed female children from death with camels.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: poetic witness to rescue lineage
+  assigned_to:
+  - fig:7
+  basis: Al Farazdak cites his descent from the rescuer in a boast.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: cult recipient of sacrifice
+  assigned_to:
+  - fig:8
+  basis: Children are said to have been sacrificed to idols.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: pit or well
+  literal_form: A well or pit dug for killing and burying a daughter.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: birth pit
+  literal_form: A pit dug at the brink where a woman in labor was delivered, used
+    to decide the newborn's fate by sex.
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Mount Abu Dalma
+  literal_form: A mountain near Mecca where Koreish are said to have buried daughters
+    alive.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: camel ransom
+  literal_form: Two pregnant she-camels and one he-camel given for each female child
+    redeemed from death.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: idols
+  literal_form: Idols to which children are said to have been sacrificed.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: vowed number of sons
+  literal_form: A vow that if a certain number of sons were born, one son would be
+    offered in sacrifice.
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Abolition and condemnation of burying daughters alive
+  summary: The passage states that Mohammed's law stopped the practice of burying
+    daughters alive and that the Qur'an condemns it in several passages.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: scene:2
+  label: Daughter led to the pit
+  summary: A reported account describes a father having his daughter perfumed and
+    adorned, leading her to a pit or well, pushing her into it, and filling it in.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Gendered birth-pit decision
+  summary: Another report describes a pit at childbirth, where a daughter is thrown
+    in but a son is preserved alive.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:9
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Tribal and local setting of the custom
+  summary: The passage says the practice was common in certain tribes, especially
+    Koreish and Kendah, and locates Koreish burials at Mount Abu Dalma near Mecca.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Redemption of female children
+  summary: Ssa is said to redeem female children from death with camels, and al Farazdak
+    later boasts of descent from him.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Child sacrifice to idols
+  summary: 'The passage reports that some commentators saw another condemned Arabian
+    custom in the Qur''an: sacrificing a child to idols in fulfillment of a vow connected
+    with the birth of sons.'
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Burying daughters alive / female infanticide
+  taxonomy_refs: []
+  basis: The passage centers on the condemned practice of burying daughters alive
+    and gives procedures and motives for it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: This is a negative legal and ethnographic account in Sale's commentary,
+    not a mythic narrative episode in itself.
+- id: motif:2
+  label: Child rescued from death by ransom
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Ssa redeems female children from death by giving specified camels for each
+    child.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is tentative because the passage presents a social
+    ransom rather than a clearly sacral exchange.
+- id: motif:3
+  label: Child sacrifice to idols after a vow
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage describes a custom of sacrificing one child to idols if a vowed
+    number of sons were born.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage reports this through commentators and does not quote the Qur'anic
+    verse directly in this excerpt.
+- id: motif:4
+  label: Religious law abolishes harmful custom
+  taxonomy_refs: []
+  basis: The passage says Mohammed's law stopped burying daughters alive and abrogated
+    other superstitious customs.
+  evidence_refs:
+  - ev:1
+  - ev:9
+  confidence: medium
+  cautions: This is a legal-reform pattern rather than a listed taxonomy motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself states that the Arabs were not singular in exposing infants
+    or putting them to death, and it names ancient and later examples as comparable
+    practices.
+  claim_level: same_function
+  target: Infant exposure or child killing among Egyptians as exception, Lycurgan
+    Sparta, China, and Greeks as discussed in Sale's notes
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage offers brief examples and does not establish historical
+    contact, common inheritance, or detailed ritual equivalence.
+- id: claim:2
+  claim: The passage says child sacrifice to idols was an Arabian custom and was also
+    common among other nations of old.
+  claim_level: same_motif
+  target: Child sacrifice to idols in other ancient nations
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The compared nations are not named in this excerpt, and the statement
+    is mediated through Sale's summary of commentators.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6279-6286
+  quote_or_summary: Mohammed's law is said to have stopped the Pagan Arab custom of
+    burying daughters alive, motivated by poverty, disgrace, captivity, or scandal;
+    a daughter's birth is described as considered a misfortune.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6286-6295
+  quote_or_summary: One account says a father allowed a daughter to live until six,
+    had her perfumed and adorned, brought her to a well or pit, pushed her in, and
+    filled the pit level with the ground.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6295-6298
+  quote_or_summary: Another account says a pit was dug at childbirth; if the child
+    was a daughter, she was thrown in, but if a son, he was saved alive.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6298-6301
+  quote_or_summary: The custom is described as common among several tribes, especially
+    Koreish and Kendah; Koreish are said to bury daughters alive in Mount Abu Dalma
+    near Mecca.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6301-6308
+  quote_or_summary: Ssa, grandfather of al Farazdak, is said to have redeemed female
+    children with two pregnant she-camels and a he-camel each; al Farazdak calls himself
+    son of the giver of life to the dead and invokes a Qur'anic saying about saving
+    a soul.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6308-6338
+  quote_or_summary: The passage states that exposing infants and killing children
+    were common among ancient peoples, noting Egyptians as extraordinary for raising
+    all children and citing Lycurgus, China, and Greek treatment of daughters.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6338-6341
+  quote_or_summary: The practice is said to be condemned by the Qur'an in several
+    passages.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 6341-6345
+  quote_or_summary: Some commentators are said to understand a Qur'anic passage as
+    also condemning the sacrifice of children to idols, especially to fulfill a vow
+    to sacrifice one child if a certain number of sons were born.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 6345-6346
+  quote_or_summary: The passage states that several other superstitious customs were
+    likewise abrogated by Mohammed but are not discussed further here.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about actions, figures, and comparisons, but motif
+    labeling is partly interpretive because the excerpt is commentary/legal-ethnographic
+    prose rather than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references were applied only where directly supportable or marked with caution.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l6279-l6346
+  passage_sha256=f42c2e605e04d6ff7a5ca59d00a1e6767042856c0e79173cd2e56e6235515e64

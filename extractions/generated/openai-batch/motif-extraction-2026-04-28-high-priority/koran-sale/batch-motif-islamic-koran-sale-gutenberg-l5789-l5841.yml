@@ -1,0 +1,581 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l5789-l5841
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 5789-5841
+  start: '5789'
+  end: '5841'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes rules and rites of the pilgrimage to Mecca: ethical
+    restraint, visiting the temple, circumambulating the Caaba and black stone, running
+    between Saf and Merw in memory of Hagar seeking water, standing at Mount Arafat,
+    prayer at Mozdalifa and the sacred monument, and throwing stones at pillars in
+    Mina in imitation of Abraham, with an alternate tradition linking the rite to
+    Adam.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: During pilgrimage a man is instructed to guard his words and actions, avoid
+    quarrelling, ill language, sexual converse, and obscene discourse, and direct
+    his intention to the work.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pilgrims arriving at Mecca immediately visit the temple before beginning prescribed
+    ceremonies.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The listed ceremonies include procession around the Caaba, running between
+    Saf and Merw, stationing on Mount Arafat, slaying victims, and shaving heads in
+    Mina.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Caaba is compassed seven times, beginning at the corner where the black
+    stone is fixed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The first three circuits are made with a short quick pace and the last four
+    with an ordinary pace; the passage attributes this order to Mohammed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When passing the black stone, pilgrims either kiss it or touch it with the
+    hand and kiss the hand.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The running between Saf and Merw is performed seven times, partly walking
+    slowly and partly running between two pillars.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Saf and Merw action is said to represent Hagar seeking water for her son.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: On the ninth of Dhu'lhajja pilgrims leave Mina for Mount Arafat, remain in
+    devotion until sunset, go to Mozdalifa for the night, and visit the sacred monument
+    by daybreak.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: After leaving the sacred monument, pilgrims hasten to Mina and throw seven
+    stones at three marks or pillars.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The stoning rite is explained as an imitation of Abraham driving away the
+    devil when going to sacrifice his son; another tradition makes the rite as old
+    as Adam driving the devil away in the same place.
+  category: relationship
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: pilgrims
+  description: People performing the pilgrimage rites at Mecca, Arafat, Mozdalifa,
+    and Mina.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Mohammed
+  description: Named as the one who ordered the quick pace in part of the Caaba circumambulation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Hagar
+  description: Named as seeking water for her son; her action is represented by the
+    running between Saf and Merw.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Hagar's son
+  description: The son for whom Hagar is said to have sought water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Abraham
+  description: Named as meeting the devil and driving him away by throwing stones
+    while going to sacrifice his son.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: the devil
+  description: Named as disturbing Abraham in his devotions or tempting him to disobedience,
+    and as driven away by stones; also said in another tradition to have been put
+    to flight by Adam.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: God
+  description: Named as commanding Abraham to drive the devil away by throwing stones.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Adam
+  description: Named in an alternate explanation as putting the devil to flight in
+    the same place and by the same means.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: pilgrim-devotee
+  assigned_to:
+  - fig:1
+  basis: The passage describes pilgrims' required conduct and ritual actions during
+    the pilgrimage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:2
+  label: ritual prescriber
+  assigned_to:
+  - fig:2
+  basis: The quick pace in the first three circuits is said to have been ordered by
+    Mohammed.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: ancestral seeker of water
+  assigned_to:
+  - fig:3
+  basis: The running between Saf and Merw is said to represent Hagar seeking water.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: child for whom water is sought
+  assigned_to:
+  - fig:4
+  basis: Hagar is described as seeking water for her son.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: ancestral sacrificer and resister of temptation
+  assigned_to:
+  - fig:5
+  basis: Abraham is described as going to sacrifice his son and driving away the devil
+    by stones.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: tempter or disturber
+  assigned_to:
+  - fig:6
+  basis: The devil is described as disturbing Abraham or tempting him to disobedience.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: divine commander
+  assigned_to:
+  - fig:7
+  basis: God is said to command Abraham to drive the devil away by throwing stones.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: alternate primeval exemplar
+  assigned_to:
+  - fig:8
+  basis: An alternate tradition says Adam put the devil to flight in the same place
+    and by the same means.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Caaba
+  literal_form: Temple/shrine compassed by pilgrims seven times.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: black stone
+  literal_form: Stone fixed at a corner of the Caaba, kissed or touched during circumambulation.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sevenfold circuit
+  literal_form: Seven circumambulations of the Caaba and seven passages between Saf
+    and Merw.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Saf and Merw
+  literal_form: Two mounts between which pilgrims run and walk.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: water sought by Hagar
+  literal_form: Water sought by Hagar for her son.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Mount Arafat
+  literal_form: Mountain where pilgrims station themselves and perform devotions until
+    sunset.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:7
+  label: sacrificial victims
+  literal_form: Victims slain as part of the prescribed ceremonies.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: shaved heads
+  literal_form: Pilgrims' heads shaved in the valley of Mina.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:9
+  label: thrown stones
+  literal_form: Seven stones thrown at three marks or pillars in Mina.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:10
+  label: three marks or pillars
+  literal_form: Three targets in Mina at which stones are thrown.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:11
+  label: sacred monument
+  literal_form: Al Mashr al harm, visited by daybreak after the night at Mozdalifa.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: ethical preparation for pilgrimage
+  summary: The passage states that the pilgrim should maintain restraint in speech,
+    action, quarrelling, sexual converse, and obscene discourse.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: arrival at Mecca and overview of rites
+  summary: 'Pilgrims visit the temple and begin the main ceremonies: Caaba procession,
+    Saf and Merw running, Arafat station, sacrifice, and shaving in Mina.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: circumambulation of the Caaba and black stone
+  summary: Pilgrims circle the Caaba seven times from the black-stone corner, with
+    prescribed pacing, and kiss or touch the black stone when passing it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: running between Saf and Merw as Hagar representation
+  summary: Pilgrims move seven times between Saf and Merw, alternating walking and
+    running; the action is said to represent Hagar seeking water for her son.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Arafat, Mozdalifa, and sacred monument
+  summary: On the ninth of Dhu'lhajja pilgrims go from Mina to Mount Arafat for devotions
+    until sunset, spend the night at Mozdalifa in prayer and reading, and visit the
+    sacred monument by daybreak.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  - sym:11
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: stoning at Mina
+  summary: Pilgrims throw seven stones at three pillars in Mina; the rite is explained
+    as imitating Abraham driving away the devil, with an alternate Adamic explanation.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: pilgrimage journey through prescribed sacred stations
+  taxonomy_refs: []
+  basis: The passage presents an ordered pilgrimage sequence through Mecca, the Caaba,
+    Saf and Merw, Arafat, Mozdalifa, the sacred monument, and Mina.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is descriptive and ritual-historical rather than a narrative
+    of a single pilgrim's journey.
+- id: motif:2
+  label: sevenfold circumambulation of a sacred shrine
+  taxonomy_refs: []
+  basis: Pilgrims circle the Caaba seven times, beginning at the black-stone corner,
+    and observe prescribed pacing.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader cosmological interpretation of the sevenfold circuit is stated
+    in the passage.
+- id: motif:3
+  label: ritual reenactment of Hagar seeking water
+  taxonomy_refs: []
+  basis: The running between Saf and Merw is explicitly said to represent Hagar seeking
+    water for her son.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not narrate the full Hagar story beyond the search for
+    water.
+- id: motif:4
+  label: sacrifice within pilgrimage rites
+  taxonomy_refs:
+  - sacrifice
+  basis: The prescribed ceremonies include slaying victims, and the stoning etiology
+    refers to Abraham going to sacrifice his son.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage does not describe the actual sacrificial procedure in detail.
+- id: motif:5
+  label: ritual expulsion of a tempter by stones
+  taxonomy_refs: []
+  basis: Pilgrims throw stones at pillars in Mina, explained as imitating Abraham
+    driving away the devil, with an alternate Adamic precedent.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives more than one etiology for the rite.
+- id: motif:6
+  label: sacred mountain station for devotion
+  taxonomy_refs: []
+  basis: Pilgrims station themselves on Mount Arafat and perform devotions until sunset.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage identifies the mountain as a ritual station but does not assign
+    an explicit symbolic meaning beyond the rite.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the Saf and Merw running as a ritual representation
+    of Hagar's search for water for her son.
+  claim_level: same_motif
+  target: Hagar seeking water for her son
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the passage's own stated explanation and
+    does not establish historical development beyond that claim.
+- id: claim:2
+  claim: The passage presents the Mina stoning as an imitation of Abraham driving
+    away the devil with stones when tempted or disturbed before sacrificing his son.
+  claim_level: same_motif
+  target: Abraham driving away the devil by throwing stones
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:7
+  confidence: medium
+  limitations: The passage also reports an alternate tradition assigning the same
+    rite to Adam, so the etiology is not singular within the passage.
+- id: claim:3
+  claim: The passage reports an alternate comparison in which the Mina stoning corresponds
+    to Adam putting the devil to flight in the same place and by the same means.
+  claim_level: same_motif
+  target: Adam driving away the devil by throwing stones
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: This is introduced as what 'others pretend,' and is presented as an
+    alternate explanation rather than the main one.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5789-5792
+  quote_or_summary: During pilgrimage, a man should guard words and actions, avoid
+    quarrelling, ill language, converse with women, and obscene discourse, and apply
+    his intention to the good work.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 5793-5799
+  quote_or_summary: On arriving at Mecca, pilgrims visit the temple and perform rites
+    including procession around the Caaba, running between Saf and Merw, stationing
+    on Mount Arafat, slaying victims, and shaving heads in Mina.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 5801-5811
+  quote_or_summary: The Caaba is compassed seven times from the black-stone corner;
+    the first three circuits use a quick pace and the last four an ordinary pace,
+    said to be ordered by Mohammed; pilgrims kiss or touch the black stone.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 5812-5818
+  quote_or_summary: The Saf and Merw running is performed seven times, partly walking
+    and partly running between two pillars, and is said to represent Hagar seeking
+    water for her son.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 5819-5825
+  quote_or_summary: On the ninth of Dhu'lhajja, pilgrims go from Mina to Mount Arafat
+    for devotions until sunset, then to Mozdalifa for the night in prayer and reading,
+    and by daybreak visit the sacred monument.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 5825-5831
+  quote_or_summary: Pilgrims hasten to Mina and throw seven stones at three marks
+    or pillars, in imitation of Abraham driving away the devil by stones when the
+    devil disturbed or tempted him as he went to sacrifice his son.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 5831-5832
+  quote_or_summary: Another explanation says the stoning rite is as old as Adam, who
+    put the devil to flight in the same place by the same means.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The ritual actions and named etiologies are explicit. Broader motif labels
+    are kept conservative because the passage is an expository description of pilgrimage
+    rites, not a continuous mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The passage is from Sale's public-domain English text and appears to be explanatory prose on pilgrimage practices and associated traditions. No external sources were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l5789-l5841
+  passage_sha256=0d560bbb50528a8c2b14275df44685e92007fd10a52385516b3c5f30f339083d

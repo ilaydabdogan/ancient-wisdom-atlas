@@ -1,0 +1,513 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l2765-l2812
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: THE KORAN. / PRELIMINARY DISCOURSE / SECTION I. / SECTION II.; lines 2765-2812
+  start: '2765'
+  end: '2812'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage narrates Mohammed's retreat to Tyet with Zeid, his rejection
+    there, his return under protection, continued preaching at pilgrimage assemblies,
+    the gaining of Yathreb converts, his announcement of a night journey from Mecca
+    to Jerusalem and heaven, reactions to that announcement, Abu Becr's support, and
+    an oath of fidelity taken by twelve men of Yathreb at al Akaba.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mohammed, accompanied by his servant Zeid, went to Tyet as a place of retreat
+    after being obliged to seek shelter elsewhere.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chiefs of Thakf received Mohammed coldly, and later slaves and inferior
+    people compelled him to leave the city and return to Mecca.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After returning to Mecca, Mohammed placed himself under the protection of
+    al Motam Ebn Adi.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Mohammed continued preaching at public assemblies during the pilgrimage and
+    gained proselytes, including six inhabitants of Yathreb from the Khazraj tribe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says Mohammed announced that he had made a night journey from
+    Mecca to Jerusalem and from there to heaven.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage reports an interpretation that the announced heavenly journey
+    involved claiming conversation with God and receiving institutions from him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Several followers are said to have left Mohammed after the night-journey story,
+    while Abu Becr vouched for his truthfulness.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Twelve men of Yathreb or Medina came to Mecca and took an oath of fidelity
+    to Mohammed at al Akaba, a hill north of the city.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: The central preacher and prophet-figure described as retreating, preaching,
+    announcing a night journey, and receiving an oath of fidelity.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Zeid
+  description: Mohammed's servant who accompanied him to Tyet.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: chiefs of the tribe of Thakf
+  description: Two chiefs at Tyet to whom Mohammed applied and who received him coldly.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: slaves and inferior people at Tyet
+  description: People who rose against Mohammed and forced him to depart from the
+    city.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: al Motam Ebn Adi
+  description: The person under whose protection Mohammed placed himself after returning
+    to Mecca.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: six inhabitants of Yathreb of Khazraj
+  description: Proselytes gained by Mohammed who returned home and commended the new
+    religion.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: God
+  description: The divine being with whom Mohammed is said, in the passage's account,
+    to have claimed conversation in heaven.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Gabriel
+  description: The angelic mediator through whom Mohammed was previously said to have
+    received things, according to the passage.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Moses
+  description: A comparative figure described as having conversed with God in the
+    mount and received institutions.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Abu Becr
+  description: The supporter who vouched for Mohammed's veracity regarding the night-journey
+    story.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:5
+- id: fig:11
+  name_or_label: twelve men of Yathreb or Medina
+  description: A group of men who came to Mecca and took an oath of fidelity to Mohammed
+    at al Akaba.
+  role_refs:
+  - role:14
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: rejected retreat-seeker
+  assigned_to:
+  - fig:1
+  basis: He sought shelter at Tyet but was received coldly and compelled to depart.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: public preacher
+  assigned_to:
+  - fig:1
+  basis: He continued to preach at public assemblies during the pilgrimage.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: announcer of night journey
+  assigned_to:
+  - fig:1
+  basis: He gave out that he had made a night journey from Mecca to Jerusalem and
+    heaven.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipient of fidelity oath
+  assigned_to:
+  - fig:1
+  basis: Twelve men took an oath of fidelity to him at al Akaba.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: servant companion
+  assigned_to:
+  - fig:2
+  basis: Zeid accompanied Mohammed to Tyet and is identified as his servant.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: cold receivers
+  assigned_to:
+  - fig:3
+  basis: The chiefs of Thakf received Mohammed very coldly.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: expellers
+  assigned_to:
+  - fig:4
+  basis: They rose against Mohammed and obliged him to depart.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: protector
+  assigned_to:
+  - fig:5
+  basis: Mohammed placed himself under al Motam Ebn Adi's protection.
+  evidence_refs:
+  - ev:1
+- id: role:9
+  label: new proselytes and transmitters
+  assigned_to:
+  - fig:6
+  basis: They were gained as proselytes and returned home commending the new religion.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: divine interlocutor
+  assigned_to:
+  - fig:7
+  basis: The passage says Mohammed was represented as pretending to have conversed
+    with God in heaven.
+  evidence_refs:
+  - ev:4
+- id: role:11
+  label: angelic mediator
+  assigned_to:
+  - fig:8
+  basis: The passage says Mohammed had earlier attributed what he received to the
+    ministry of Gabriel.
+  evidence_refs:
+  - ev:4
+- id: role:12
+  label: Mosaic comparator
+  assigned_to:
+  - fig:9
+  basis: Moses is invoked as a precedent for conversing with God on the mount and
+    receiving institutions.
+  evidence_refs:
+  - ev:4
+- id: role:13
+  label: veracity-voucher
+  assigned_to:
+  - fig:10
+  basis: Abu Becr declared that if Mohammed affirmed the story, he believed it.
+  evidence_refs:
+  - ev:5
+- id: role:14
+  label: oath-takers
+  assigned_to:
+  - fig:11
+  basis: They came to Mecca and took an oath of fidelity at al Akaba.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: night journey route
+  literal_form: Mecca to Jerusalem and thence to heaven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: heaven
+  literal_form: heaven as the destination where conversation with God is claimed
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: mount of Moses
+  literal_form: the mount where Moses had conversed with God
+  associated_figures:
+  - fig:7
+  - fig:9
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: al Akaba hill
+  literal_form: a hill north of Mecca where the oath of fidelity was taken
+  associated_figures:
+  - fig:1
+  - fig:11
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: oath of fidelity
+  literal_form: an oath taken by twelve men of Yathreb or Medina to Mohammed
+  associated_figures:
+  - fig:1
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Retreat to Tyet and expulsion
+  summary: Mohammed travels with Zeid to Tyet seeking shelter, is coldly received
+    by local chiefs, and is later forced by lower-status inhabitants to leave and
+    return to Mecca.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preaching and Yathreb proselytes
+  summary: Despite discouragement among his followers, Mohammed continues public preaching
+    during pilgrimage assemblies and gains several proselytes from Yathreb, who promote
+    the religion on returning home.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Announcement of the night journey
+  summary: Mohammed is said to announce that he made a night journey from Mecca to
+    Jerusalem and then to heaven; the passage frames this as a claim to divine conversation
+    and immediate institutions.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Crisis of belief and Abu Becr's support
+  summary: The night-journey story causes some followers to leave, but Abu Becr supports
+    Mohammed's truthfulness, which the passage says restores and increases his credit.
+  figure_refs:
+  - fig:1
+  - fig:10
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Oath at al Akaba
+  summary: Twelve men of Yathreb or Medina come to Mecca and take an oath of fidelity
+    to Mohammed at al Akaba, a hill north of the city.
+  figure_refs:
+  - fig:1
+  - fig:11
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: night ascent to heaven
+  taxonomy_refs:
+  - ascent
+  basis: The passage states that Mohammed announced a night journey from Mecca to
+    Jerusalem and then to heaven.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is a later translator's preliminary discourse and presents
+    the event through polemical framing rather than as a Qur'anic narrative excerpt.
+- id: motif:2
+  label: divine encounter as legitimating revelation
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says the claimed heavenly encounter involved conversation with
+    God and receiving institutions immediately from him.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The claim is reported through the author's interpretation of Mohammed's
+    motives; the passage does not give a direct sacred narrative in Mohammed's own
+    words.
+- id: motif:3
+  label: fidelity oath forming a covenantal community
+  taxonomy_refs:
+  - covenant
+  basis: Twelve men of Yathreb or Medina take an oath of fidelity to Mohammed at al
+    Akaba.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The term covenant is not used in the passage; the classification rests
+    on the oath of fidelity.
+- id: motif:4
+  label: rejected preacher seeking refuge
+  taxonomy_refs:
+  - departure
+  basis: Mohammed seeks retreat at Tyet, is rejected, and returns to Mecca under another
+    person's protection.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a biographical movement pattern rather than an explicitly mythic
+    departure scene in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Mohammed's claimed heavenly conversation with
+    God to Moses conversing with God on the mount and receiving institutions.
+  claim_level: same_function
+  target: Mosaic mount revelation tradition
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the passage author's comparison and does not by itself establish
+    historical contact, common inheritance, or equivalence of the two traditions.
+- id: claim:2
+  claim: The passage reports an interpretation that Mohammed's sayings could be made
+    to serve a function like the Jewish oral law.
+  claim_level: same_function
+  target: Jewish oral law as a legitimating oral tradition
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is attributed to Dr. Prideaux's speculation and is not a narrative
+    motif stated by the passage's sacred source.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2765-2775
+  quote_or_summary: Mohammed goes with Zeid to Tyet seeking retreat; chiefs of Thakf
+    receive him coldly; lower-status people force him to leave; he returns to Mecca
+    under al Motam Ebn Adi's protection.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2776-2782
+  quote_or_summary: Mohammed continues public preaching at pilgrimage assemblies,
+    gains proselytes, including six Khazraj inhabitants of Yathreb, who commend the
+    religion after returning home.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 2783-2785
+  quote_or_summary: '"his night journey from Mecca to Jerusalem and thence to heaven"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 2785-2798
+  quote_or_summary: The passage discusses interpretations of the night journey, including
+    claimed conversation with God, comparison to Moses on the mount, receiving institutions
+    immediately from God, and earlier reception through Gabriel.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2799-2808
+  quote_or_summary: The story is said to have caused several followers to leave; Abu
+    Becr vouched for Mohammed's veracity, restoring and increasing his credit according
+    to the passage.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2809-2812
+  quote_or_summary: Twelve men of Yathreb or Medina come to Mecca and take an oath
+    of fidelity to Mohammed at al Akaba, a hill north of the city; the oath is called
+    the women's oath.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage provides clear biographical events and explicit comparison to
+    Moses, but its interpretive tone is polemical and secondary; motif labels should
+    be reviewed by a human editor.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata. The passage is from Sale's preliminary discourse, not a direct Qur'anic verse passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l2765-l2812
+  passage_sha256=e57f5862c240bbff7df3ded73d875c1478fe25ee9788a252f3b28a5bfb6bd0b1

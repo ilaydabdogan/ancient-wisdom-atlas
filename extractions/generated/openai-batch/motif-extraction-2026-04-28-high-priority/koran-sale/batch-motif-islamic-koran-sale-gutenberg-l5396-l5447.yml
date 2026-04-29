@@ -1,0 +1,430 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l5396-l5447
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 5396-5447
+  start: '5396'
+  end: '5447'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains the names and perceived effects of Islamic alms, describes
+    their connection with prayer and merit, gives examples of charitable practice,
+    lists legal categories and rates of almsgiving, notes a Ramadan alms obligation,
+    and describes early collection and distribution by Mohammed and his successors.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says alms are called Zact because they increase a person's store
+    by drawing down blessing and purify substance and soul; they are called Sadakat
+    because they prove sincerity in worship of God.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that giving alms is frequently commanded in the Koran and
+    often recommended together with prayer.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A saying attributed to Omar Ebn Abd'alaziz presents prayer and alms as carrying
+    a person halfway to God, fasting as bringing one to the door of God's palace,
+    and alms as procuring admission.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says Mohammedans esteem almsdeeds highly meritorious and gives
+    Hasan, son of Ali and grandson of Mohammed, as an example of extreme generosity
+    toward the poor.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that charity is extended by many to brutes.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: 'The legal alms are described as due from five categories: cattle, money,
+    corn, fruits, and wares sold.'
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The ordinary legal portion is described as one part in forty, or two and a
+    half percent, subject to minimum quantity and possession-period conditions.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage describes a larger fifth-part alms for certain gains from mines,
+    the sea, arts, professions, or gains suspected of injustice beyond family support.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: At the end of Ramadan, every Moslem is described as obliged to give a measure
+    of common provisions in alms for himself and each family member, if he has a family.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The passage states that Mohammed first collected the legal alms himself and
+    used them for poor relations, followers, and especially those serving in his wars
+    in the way of God; his successors continued the practice.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: GOD
+  description: The deity in whose worship alms show sincerity and by whom prayer is
+    heard.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Mohammedans / Moslems
+  description: The community described as esteeming almsdeeds, practicing charity,
+    and being subject to alms obligations.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: Omar Ebn Abd'alaziz
+  description: A khalif quoted as saying that prayer, fasting, and alms move a person
+    toward God and admission to God's palace.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Hasan, son of Ali and grandson of Mohammed
+  description: An example of a meritorious almsgiver who divided his substance with
+    the poor and twice gave away all he had.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: the poor
+  description: Recipients of Hasan's divided substance and of early distributions
+    of legal alms.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: fig:6
+  name_or_label: Mohammed
+  description: The first collector of legal alms, described as distributing them as
+    he thought fit.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: Mohammed's successors
+  description: Those who continued the early practice of collecting and applying the
+    legal alms.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: divine recipient and hearer of prayer
+  assigned_to:
+  - fig:1
+  basis: Alms prove sincerity in worship of God and are said to help prayer be heard
+    by God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: almsgiver
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The community is described as meritorious in almsdeeds, and Hasan is singled
+    out for repeated giving to the poor.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: authoritative speaker on ritual efficacy
+  assigned_to:
+  - fig:3
+  basis: Omar Ebn Abd'alaziz is quoted explaining the combined efficacy of prayer,
+    fasting, and alms.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipient of charity
+  assigned_to:
+  - fig:5
+  basis: The poor receive Hasan's divided substance and early legal alms distributions.
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: role:5
+  label: collector and distributor of legal alms
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Mohammed collected legal alms first, and his successors continued the practice.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: purifying alms
+  literal_form: Zact / legal alms
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: admission to God's palace
+  literal_form: door of God's palace and admission procured by alms
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fixed alms portion
+  literal_form: one part in forty / two and a half percent
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Ramadan provision measure
+  literal_form: a measure of wheat, barley, dates, raisins, rice, or other common
+    provisions
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Alms named and interpreted
+  summary: The passage explains the terms Zact and Sadakat as names for alms and links
+    them to blessing, purification, and sincerity in worship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Alms joined with prayer and fasting
+  summary: Alms are described as commanded and recommended with prayer; Omar Ebn Abd'alaziz
+    uses an image of movement toward God and admission to God's palace.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Examples of charitable practice
+  summary: Mohammedans are described as esteeming almsdeeds, Hasan is presented as
+    an exemplary giver to the poor, and charity is said to extend even to animals.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Legal categories and rates of alms
+  summary: The passage lists the property categories subject to legal alms, ordinary
+    rates and conditions, larger fifth-part cases, and the Ramadan provision obligation.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Early collection and distribution
+  summary: Mohammed is said to have collected the legal alms and applied them to poor
+    relations, followers, and fighters in the way of God; his successors continued
+    this practice.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: ritual almsgiving as purification and blessing
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Alms are described as drawing down blessing, purifying substance and soul,
+    and proving sincerity in worship.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is expository legal-religious commentary rather than a narrative
+    myth.
+- id: motif:2
+  label: charitable gift as access to the divine
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The quoted saying attributes to alms the power to secure admission after
+    prayer and fasting bring the worshipper toward God.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The access imagery is metaphorical and occurs in a cited saying, not a
+    narrative scene.
+- id: motif:3
+  label: obligatory redistribution of wealth to sanctify communal life
+  taxonomy_refs:
+  - covenant
+  - sacred_exchange
+  basis: The passage sets out mandatory alms categories, rates, Ramadan provisions,
+    and early communal collection and distribution.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The covenant framing is inferred from obligation and communal religious
+    law; the word covenant is not used in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage's note explicitly invites comparison between alms as purification
+    and Luke xi.41, where giving alms is linked with things being clean.
+  claim_level: same_function
+  target: Luke xi.41 almsgiving and cleansing
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial comparison in the passage notes; it supports functional
+    similarity only, not historical contact or shared origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5396-5402
+  quote_or_summary: Alms are called Zact because they increase a man's store by drawing
+    down blessing and purify remaining substance and soul; Sadakat because they prove
+    sincerity in worship of God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5404-5408
+  quote_or_summary: Giving alms is frequently commanded in the Koran and often recommended
+    jointly with prayer, with alms held efficacious in causing prayer to be heard
+    by God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 5408-5411
+  quote_or_summary: 'Omar Ebn Abd''alaziz is quoted: prayer and alms carry a person
+    halfway to God, fasting brings one to the door of his palace, and alms procures
+    admission.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation summarized from passage.
+- id: ev:4
+  type: summary
+  locator: lines 5411-5416
+  quote_or_summary: Almsdeeds are highly meritorious; Hasan is said to have thrice
+    divided his substance equally between himself and the poor and twice given away
+    all he had.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5416-5417
+  quote_or_summary: The generality are said to extend charity even to brutes.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5418-5425
+  quote_or_summary: Legal alms are due from cattle, money, corn, fruits, and wares
+    sold, commonly one part in forty or two and a half percent, with quantity and
+    possession-period conditions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5425-5431
+  quote_or_summary: A fifth part is due in some cases for gains from mines, the sea,
+    arts or professions beyond family support, especially where unjust gain is suspected.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5431-5435
+  quote_or_summary: At the end of Ramadan, every Moslem must give a measure of common
+    provisions for himself and each family member, if he has any.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 5436-5444
+  quote_or_summary: Mohammed first collected the legal alms and used them for poor
+    relations, followers, and especially those serving in his wars in the way of God;
+    successors continued this practice.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: note
+  locator: lines 5445-5447 footnote 2
+  quote_or_summary: 'The note compares the passage''s purification claim with Luke
+    xi.41: giving alms and all things being clean to the giver.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is legal and devotional commentary rather than mythic narrative.
+    Motif labels are limited to supported ritual-symbolic patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy refs were applied because the passage's main images are alms, portions, provisions, and palace admission rather than the listed symbol terms.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l5396-l5447
+  passage_sha256=e13ccf59807cc21d56dcbac1431336d7d11c038217f6b87fad43c0bfe5f16c1a

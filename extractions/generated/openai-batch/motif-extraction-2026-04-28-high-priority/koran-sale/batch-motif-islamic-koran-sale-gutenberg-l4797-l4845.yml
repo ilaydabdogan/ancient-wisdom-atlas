@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l4797-l4845
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 4797-4845
+  start: '4797'
+  end: '4845'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Islamic paradise as a heavenly garden under God's
+    throne, with precious materials, the tree Tuba, abundant fruit and provisions,
+    rivers and springs of water, milk, wine, and honey, and the Hur al-ayn. It also
+    notes names for the realm, including al-Jannat, Jannat al-Ferdaws, and Jannat
+    Aden.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Paradise is described as situated above the seven heavens or in the seventh
+    heaven, next under the throne of God.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The garden's earth, stones, buildings, and tree trunks are described with
+    precious or fragrant materials including wheat flour, musk, saffron, pearls, jacinths,
+    gold, and silver.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The tree Tuba is described as standing in the palace of Mohammed while one
+    branch reaches to the house of every true believer.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The tree Tuba provides fruit, cooked birds or flesh according to desire, bending
+    boughs, silken garments, and saddled riding animals from its fruits.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Rivers of paradise are described as flowing with water, milk, wine, and honey,
+    rising from the roof of the tree Tuba.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Additional springs and fountains are described with rubies, emeralds, camphire,
+    musk, and saffron, and include Salsabil and Tasnim.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Hur al-ayn are described as resplendent girls of paradise, created of
+    pure musk, secluded in pavilions of hollow pearls, and a principal felicity of
+    the faithful.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The happy mansion is called al-Jannat, Jannat al-Ferdaws, and Jannat Aden,
+    with a note that Eden is generally interpreted differently from its Hebrew acceptation.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Referenced through the throne under which paradise is situated.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mohammed
+  description: His palace is named as the place where the tree Tuba stands; he is
+    also called their prophet in the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: true believer / blessed / faithful
+  description: Recipients of the provisions and felicities of paradise.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Hur al-ayn
+  description: Girls of paradise with large black eyes, created of pure musk and secluded
+    in pearl pavilions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine enthroned figure
+  assigned_to:
+  - fig:1
+  basis: Paradise is located next under the throne of God.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: prophet associated with heavenly palace
+  assigned_to:
+  - fig:2
+  basis: The passage says the tree Tuba stands in the palace of Mohammed and refers
+    to the prophet's affirmations.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: recipient of paradisal reward
+  assigned_to:
+  - fig:3
+  basis: The true believer, blessed, and faithful receive the tree's provisions and
+    the felicities of paradise.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: paradisal companion
+  assigned_to:
+  - fig:4
+  basis: The Hur al-ayn are described as a principal felicity of the faithful.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: heavenly garden
+  literal_form: al-Jannat / garden of paradise
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: tree Tuba
+  literal_form: large tree of happiness in paradise
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: rivers of paradise
+  literal_form: rivers of water, milk, wine, and honey
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: precious springs and fountains
+  literal_form: springs and fountains with ruby and emerald pebbles and fragrant beds
+    and sides
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: pearl pavilions
+  literal_form: pavilions of hollow pearls enclosing the Hur al-ayn
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Location and materials of paradise
+  summary: Paradise is placed above the seven heavens or in the seventh heaven under
+    God's throne and described as a garden made of fragrant and precious substances.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Abundance from the tree Tuba
+  summary: The tree Tuba in Mohammed's palace extends to believers and supplies fruit,
+    prepared food, garments, riding animals, and shade of extraordinary extent.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rivers and fountains of paradise
+  summary: Paradise is adorned with rivers of water, milk, wine, and honey rising
+    from Tuba, along with smaller named springs and fountains made with precious and
+    fragrant materials.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Hur al-ayn in pearl pavilions
+  summary: The Hur al-ayn are described as paradisal girls created of pure musk, free
+    from impurities, secluded in immense hollow-pearl pavilions, and enjoyed by the
+    faithful.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Names of the paradisal mansion
+  summary: The passage lists names for paradise, including al-Jannat, Jannat al-Ferdaws,
+    and Jannat Aden, and comments on the interpretation of Eden.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: heavenly afterlife garden of reward
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage describes a postmortem happy mansion for the faithful, located
+    in the heavens and filled with provisions, rivers, and companions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes the afterlife realm but does not narrate a journey
+    through it.
+- id: motif:2
+  label: life-giving or abundance-bestowing heavenly tree
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The tree Tuba is central in paradise, extends to believers, supplies food,
+    clothing, mounts, and shade, and is the source of paradisal rivers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly call the tree an axis or world tree; the
+    taxonomy match is based on its heavenly centrality and generative abundance.
+- id: motif:3
+  label: rivers of blessed abundance
+  taxonomy_refs: []
+  basis: The passage describes paradisal rivers flowing with water, milk, wine, and
+    honey, plus precious named springs and fountains.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No more specific available taxonomy reference is provided beyond water
+    and milk symbols.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself links Jannat Aden with the phrase 'garden of Eden' while
+    noting that Muslims generally interpret Eden differently from its Hebrew acceptation.
+  claim_level: linguistic_similarity
+  target: Garden of Eden / Hebrew Eden terminology
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a naming and interpretation note in the passage, not evidence
+    of historical dependence or full motif equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4797-4806
+  quote_or_summary: Paradise is said to be above the seven heavens or in the seventh
+    heaven, next under God's throne, with earth, stones, buildings, and tree trunks
+    made of fragrant or precious materials.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4806-4822
+  quote_or_summary: The tree Tuba stands in Mohammed's palace, extends to every true
+    believer, bears immense fruits, presents desired food, bends its boughs, produces
+    garments and riding beasts, and casts an enormous shade.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4823-4833
+  quote_or_summary: Paradise has rivers of water, milk, wine, and honey rising from
+    the roof of Tuba, along with many lesser springs and fountains, including Salsabil
+    and Tasnim, described with precious and fragrant materials.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4834-4843
+  quote_or_summary: The Hur al-ayn are described as girls of paradise with large black
+    eyes, created of pure musk, free from impurities and defects, modest, and secluded
+    in immense pavilions of hollow pearls.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4844-4845
+  quote_or_summary: The happy mansion is called al-Jannat, Jannat al-Ferdaws, and
+    Jannat Aden, the garden of Eden, with a note that Eden is usually interpreted
+    differently from Hebrew usage.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based directly on the supplied line range. Motif labels involving
+    broader taxonomy are cautious because the passage is descriptive rather than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Sale's passage is a translated/commentarial description of Islamic paradise traditions; no external materials were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l4797-l4845
+  passage_sha256=7b98fe5f5d62c256f57db06aec40247cd3a7e969d926bcdece783901e6c7c9e5

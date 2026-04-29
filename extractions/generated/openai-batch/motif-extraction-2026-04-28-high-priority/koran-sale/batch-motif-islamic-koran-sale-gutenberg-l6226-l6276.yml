@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l6226-l6276
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION III / SECTION IV. / SECTION V. / OF CERTAIN NEGATIVE PRECEPTS IN
+    THE KORN.; lines 6226-6276
+  start: '6226'
+  end: '6276'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains several pre-Islamic Arab classifications of consecrated
+    animals, including Bahra/Sba, Wasla, and Hami. It describes rules about drinking
+    milk, sacrificing or sparing offspring, turning animals loose, freeing animals
+    from labor, and restricting human use of them. It states that these customs were
+    observed in honor of false gods and condemned in the Koran as impious superstitions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A female camel category is described whose milk was reserved for her young
+    one or a guest until her death; after death her flesh was eaten, and her last
+    female young one had her ear slit and was turned loose as Bahra.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The appellation Sba is said to apply not only to female camels but also, in
+    some explanations, to a male animal, a freed servant, or an animal turned loose
+    in honor of idols with restricted use thereafter.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Wasla is explained through several variants involving repeated births by a
+    she-camel or ewe, twin births, male and female offspring, and the formula that
+    a female offspring is joined to her brother.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In the Wasla variants, offspring may be consecrated, sacrificed, spared, turned
+    loose, or reserved for use by men or women according to sex and birth order.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hami is described as a male camel used as a stallion and then freed from labor
+    after females had conceived ten times by him.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After becoming Hami, the male camel was let loose, not driven from pasture
+    or water, and no benefit was to be taken from him, including shearing his hair.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The customs are described as observed by the old Arabs in honor of their false
+    gods, ascribed to divine institution, and condemned in the Koran as impious superstitions.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bahra / final female young one
+  description: A last female young one whose ear was slit and who was turned loose
+    like her dam.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sba animal
+  description: An animal, sometimes described as female or male, turned loose in honor
+    of idols with restricted use thereafter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Wasla animal
+  description: A she-camel or ewe defined through repeated births, twins, or male-female
+    offspring, with rules governing milk, sacrifice, consecration, and use.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Hami male camel
+  description: A stallion camel freed from labor after ten conceptions and thereafter
+    protected from ordinary human use.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: old Arabs
+  description: The people said to have observed these animal customs in honor of false
+    gods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: false gods / idols
+  description: The beings in whose honor the animals were turned loose, consecrated,
+    or used in ritual observance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: consecrated or protected animal
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The animals are described as turned loose, consecrated, spared, freed from
+    labor, or protected from ordinary use.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: sacrificial or spared offspring
+  assigned_to:
+  - fig:3
+  basis: Wasla variants determine whether male offspring are sacrificed, consecrated,
+    or spared because of a female counterpart.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: ritual observers
+  assigned_to:
+  - fig:5
+  basis: The passage says the old Arabs observed these customs as worship practices.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: recipient of honor or consecration
+  assigned_to:
+  - fig:6
+  basis: The passage says animals were turned loose or observances performed in honor
+    of idols or false gods.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: restricted milk
+  literal_form: Milk of the dam reserved for particular permitted consumers according
+    to animal category, sex, or ritual status.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: slit ear
+  literal_form: The ear of the last female young one is slit before she is called
+    Bahra and turned loose.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: turned-loose consecrated animal
+  literal_form: Animals are released from ordinary labor or use and allowed to go
+    loose.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: male-female twin or joined pair
+  literal_form: A male and female offspring pair is described as joined, sometimes
+    causing the male to be spared from sacrifice.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: pasture and water access
+  literal_form: The Hami camel is not driven from pasture or water.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Bahra or Sba release and restricted use
+  summary: A consecrated animal has restrictions placed on its milk or use, and its
+    female young one may have the ear slit and be turned loose.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wasla birth classification
+  summary: A she-camel or ewe is classified by repeated births and male-female offspring
+    patterns, resulting in rules about milk, sacrifice, consecration, sparing, and
+    gendered access.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hami stallion release
+  summary: A male camel used for breeding is freed from labor after a specified number
+    of conceptions and protected from ordinary human benefit.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Koranic condemnation of animal superstitions
+  summary: The passage states that these old Arab observances were performed in honor
+    of false gods, ascribed to divine institution, and condemned in the Koran.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: consecrated animal released from ordinary use
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Animals are turned loose, freed from labor, or protected from benefit in
+    honor of idols or false gods.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy does not include a precise category for consecrated
+    livestock taboo; sacred_exchange is a broad fit only.
+- id: motif:2
+  label: animal sacrifice or offering to gods
+  taxonomy_refs:
+  - sacrifice
+  basis: Several Wasla variants describe male offspring being consecrated or sacrificed
+    to gods, while other offspring are spared under specified conditions.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is explanatory and legal-polemical rather than a narrative
+    myth of sacrifice.
+- id: motif:3
+  label: sacred or tabooed male-female birth pair
+  taxonomy_refs:
+  - sacred_twins
+  basis: Wasla explanations repeatedly focus on twin or paired male and female births,
+    including the statement that the female is joined to her brother and the resulting
+    ritual sparing or restriction.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The taxonomy reference is tentative because the passage concerns livestock
+    birth rules, not mythic twin figures.
+- id: motif:4
+  label: condemnation of ritual superstition attributed to divine institution
+  taxonomy_refs: []
+  basis: The passage says the customs were ascribed to divine institution but condemned
+    in the Koran as impious superstitions.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No specific available motif-family taxonomy directly captures legal condemnation
+    of pre-Islamic animal taboos.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6226-6233
+  quote_or_summary: A camel category is described with restricted milk use until death;
+    after death the flesh is eaten, and the last female young one has her ear slit,
+    is called Bahra, and is turned loose.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6234-6240
+  quote_or_summary: The term Sba is explained as applying in some cases to male animals,
+    freed servants, or animals turned loose in honor of idols, with later use restricted.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6241-6263
+  quote_or_summary: Wasla is explained through multiple variants involving repeated
+    births, twins, male and female offspring, the phrase that a female is joined to
+    her brother, milk restrictions, consecration, sacrifice, sparing, and gendered
+    use.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6264-6268
+  quote_or_summary: Hami is a stallion camel freed from labor after females conceived
+    ten times by him; he is not driven from pasture or water, and no benefit, even
+    hair-shearing, is allowed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6269-6276
+  quote_or_summary: The passage states that these practices were observed by the old
+    Arabs in honor of false gods, treated as divinely instituted, and condemned in
+    the Koran as impious superstitions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage is explicit. Motif classification
+    is less certain because the passage is a translator's explanatory note on legal-religious
+    customs, and the available taxonomy only partially matches the material.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy identifiers beyond the provided available refs were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l6226-l6276
+  passage_sha256=dcef0f24e19f69856ac9899fbd5b82118c4ce68e2d13a4fb15017addce4451fa

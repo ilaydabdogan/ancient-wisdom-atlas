@@ -1,0 +1,485 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l6007-l6058
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION III / SECTION IV. / SECTION V. / OF CERTAIN NEGATIVE PRECEPTS IN
+    THE KORN.; lines 6007-6058
+  start: '6007'
+  end: '6058'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Gaming is prohibited by the Korn in the same passages, and for the same reasons,
+    as wine.
+  summary: The passage discusses abstention from wine, the Qur'anic prohibition of
+    gaming, the pre-Islamic Arab practice of casting lots with arrows over a slaughtered
+    camel, later legal treatment of games of chance, conditional allowance of chess,
+    and objections to carved figurative chess pieces as images.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says many pious Jews and primitive Christians abstained from wine,
+    and that some Christians condemned wine as sinful.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that gaming is prohibited by the Koran in the same passages
+    and for the same reasons as wine.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The word al Meisar is explained as a manner of casting lots by arrows practiced
+    by pagan Arabs.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the described lot-casting, a young camel was bought, killed, and divided
+    into portions for seven participants.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Eleven headless and featherless arrows were used; seven were marked with notches
+    and four were unmarked blanks.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An indifferent person drew the arrows from a bag, with another person nearby
+    to receive them and monitor fairness.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Persons receiving marked arrows won shares according to the marks, while persons
+    receiving blanks received no camel meat and paid the full price.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The winners and losers did not eat the flesh; the whole camel was distributed
+    among the poor.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage says the custom was forbidden by Mohammed because it caused quarrels
+    and resentment when winners insulted losers.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Commentators are said to include all games subject to hazard or chance under
+    the name of lots.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Chess is described as generally allowed by Mohammedan doctors because it depends
+    on skill rather than chance, under restrictions about devotion and betting.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The passage says Mohammed is supposed to have especially disliked carved chess
+    pieces representing men, elephants, horses, and dromedaries, which some commentators
+    connect with prohibited images.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Named as forbidding the gaming custom and as supposed to have disliked
+    carved chess pieces.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: pagan Arabs
+  description: Described as practicing al Meisar and playing with carved chess figures.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: fig:3
+  name_or_label: seven lot-casting participants
+  description: Persons who cast lots for camel portions in the described game.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: the poor
+  description: Recipients among whom the whole camel was distributed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: commentators and Mohammedan doctors
+  description: Authorities who interpret lots to include games of chance and discuss
+    the legality of chess and images.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: pious Jews and primitive Christians
+  description: Groups described as abstaining from wine, with some Christians condemning
+    wine as sinful.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: religious prohibiter
+  assigned_to:
+  - fig:1
+  basis: The passage says the gaming custom was forbidden by Mohammed and that he
+    is supposed to have disliked carved figurative pieces.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:2
+  label: practitioners of pre-Islamic gaming customs
+  assigned_to:
+  - fig:2
+  basis: The passage identifies al Meisar as practiced by pagan Arabs and refers to
+    their carved game pieces.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:3
+  label: gamblers or lot-casters
+  assigned_to:
+  - fig:3
+  basis: They cast lots by arrows for shares of the camel and bore the gains or costs
+    of the draw.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: charitable recipients
+  assigned_to:
+  - fig:4
+  basis: The camel flesh was distributed among the poor rather than eaten by winners
+    or losers.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: legal-religious interpreters
+  assigned_to:
+  - fig:5
+  basis: They extend the prohibition to games of chance and discuss chess and images.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:6
+  label: wine abstainers
+  assigned_to:
+  - fig:6
+  basis: They are described as abstaining from wine or condemning its use as sinful.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: wine
+  literal_form: wine
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: lots by arrows
+  literal_form: headless and featherless arrows, some marked and some blank
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: slaughtered camel divided into portions
+  literal_form: young camel bought, killed, and divided into ten or twenty-eight parts
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: bag of arrows
+  literal_form: bag holding the arrows for drawing lots
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: carved chess images
+  literal_form: little figures of men, elephants, horses, and dromedaries
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Wine abstention as precedent
+  summary: The passage presents earlier and local examples of pious abstention from
+    wine before discussing Islamic prohibition.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Al Meisar lot-casting over a camel
+  summary: Seven participants cast marked and blank arrows from a bag to determine
+    shares and liabilities for a slaughtered camel.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Distribution and prohibition of the gaming custom
+  summary: The camel flesh is distributed to the poor, but the custom is said to be
+    forbidden because it produces quarrels and resentment.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Legal interpretation of chance games and chess
+  summary: Commentators broaden the prohibition to games of chance, while chess is
+    conditionally allowed as a skill game without betting or neglect of devotion.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Figurative chess pieces as prohibited images
+  summary: Carved chess pieces representing living beings are linked by some commentators
+    to prohibited images.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Prohibition of intoxicants and gaming
+  taxonomy_refs: []
+  basis: The passage states that gaming is prohibited by the Koran in the same passages
+    and for the same reasons as wine.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The excerpt discusses the prohibition through Sale's explanatory commentary,
+    not by quoting the Qur'anic verses directly.
+- id: motif:2
+  label: Lot-casting with marked and blank arrows
+  taxonomy_refs: []
+  basis: The passage gives a detailed procedure for al Meisar, including marked arrows,
+    blanks, a bag, a neutral drawer, winnings, and liabilities.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif is a social gaming practice rather than a narrative myth episode.
+- id: motif:3
+  label: Charitable distribution within ostentatious gambling
+  taxonomy_refs: []
+  basis: The camel flesh is distributed among the poor, while the passage characterizes
+    the act as driven by pride and public shame.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage explicitly treats the custom as socially harmful despite its
+    benefit to the poor.
+- id: motif:4
+  label: Religious rejection of games of chance
+  taxonomy_refs: []
+  basis: Commentators extend the prohibition of lots to all games subject to hazard
+    or chance, such as dice and cards.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a legal-moral pattern, not a mythic narrative motif.
+- id: motif:5
+  label: Skill game conditionally distinguished from gambling
+  taxonomy_refs: []
+  basis: Chess is allowed by many doctors because it depends on skill, provided it
+    does not hinder devotions and no betting occurs.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage notes some disagreement about chess.
+- id: motif:6
+  label: Prohibition of figurative images in game pieces
+  taxonomy_refs: []
+  basis: Carved chess pieces shaped as men and animals are connected by some commentators
+    with prohibited images.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage reports this as the view of some commentators and phrases
+    Mohammed's dislike as supposed.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Islamic wine prohibition against a background of similar
+    abstention among pious Jews, primitive Christians, and devout persons of Mohammed's
+    tribe.
+  claim_level: same_function
+  target: wine abstention among Jews, primitive Christians, and local tribal devotees
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to the passage's reported parallels and does not
+    establish direct borrowing.
+- id: claim:2
+  claim: The passage describes the Qur'anic prohibition of gaming as addressing a
+    pre-Islamic pagan Arab lot-casting practice.
+  claim_level: historical_contact
+  target: pagan Arab al Meisar lot-casting by arrows
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage is a later English commentary and should be checked against
+    Arabic sources and Qur'anic context.
+- id: claim:3
+  claim: The passage links objections to carved chess figures with a wider prohibition
+    of images in the Koran as understood by some commentators.
+  claim_level: same_function
+  target: prohibited images associated with carved game figures
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage attributes the interpretation only to some commentators
+    and does not quote the relevant Qur'anic passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6007-6012
+  quote_or_summary: Many pious Jews and primitive Christians are said to have abstained
+    from wine; some Christians condemned wine as sinful; Mohammed is said to have
+    had nearer examples in devout persons of his tribe.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 6012-6017
+  quote_or_summary: "“Gaming is prohibited by the Korn ... as wine”; al Meisar is
+    explained as casting lots by arrows, practiced by pagan Arabs."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 6017-6023
+  quote_or_summary: A young camel was bought, killed, and divided; seven persons participated;
+    eleven arrows were prepared, seven marked with notches and four unmarked.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6023-6029
+  quote_or_summary: The arrows were placed in a bag and drawn by an impartial person;
+    marked arrows won shares and blank arrows received no share while paying the full
+    price.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6029-6037
+  quote_or_summary: Neither winners nor losers ate the flesh; it was distributed among
+    the poor. The custom was forbidden by Mohammed as causing quarrels and resentment
+    from winners insulting losers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6038-6043
+  quote_or_summary: Commentators include all games subject to hazard or chance under
+    the name of lots and forbidden games, including dice, cards, and tables.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6043-6051
+  quote_or_summary: Chess is described as nearly the only allowed game because it
+    depends on skill, with restrictions against hindering devotions and against betting.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 6051-6058
+  quote_or_summary: Mohammed is supposed to have disliked carved chess pieces used
+    by pagan Arabs, including figures of men, elephants, horses, and dromedaries;
+    some commentators identify these with prohibited images.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based only on the supplied English public-domain passage.
+    Motif labels are descriptive because the available taxonomy does not closely match
+    the legal and social patterns in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy refs were applied, because the passage's central objects are wine, arrows, camel, bag, and carved game figures rather than the provided symbol list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l6007-l6058
+  passage_sha256=8352d259958f78b8cc7b64be8bc14a459f6602165c53a5c8806c0aeae7005734

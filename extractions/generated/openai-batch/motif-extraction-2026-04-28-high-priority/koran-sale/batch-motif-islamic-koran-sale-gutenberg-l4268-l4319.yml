@@ -1,0 +1,510 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l4268-l4319
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 4268-4319
+  start: '4268'
+  end: '4319'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Islamic eschatological beliefs as presented by Sale:
+    successive trumpet blasts bring universal death, later resurrection, the gathering
+    of body parts and souls, rain from living water preparing bodies in graves, and
+    the day of judgment. A note compares the repeated trumpet sounding with Jewish
+    traditions.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A first blast is said to be followed by a second blast called the blast of
+    examination.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At the second blast, all creatures in heaven and earth die or are annihilated
+    except those God exempts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Only God, paradise, hell, their inhabitants, and the throne of glory are said
+    to survive the common annihilation; the angel of death dies last.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Forty years later, a third trumpet blast, called the blast of resurrection,
+    is sounded by Israfil.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Israfil, Gabriel, and Michael are restored to life before the resurrection
+    blast and stand on the rock of the temple of Jerusalem.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: At God's command, dispersed bones, body parts, hairs, and souls are gathered
+    for judgment.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:7
+  text: Souls are placed into Israfil's trumpet and, at the final sound, fly forth
+    like bees to return to their bodies.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The earth opens and allows bodies to arise; according to a tradition cited
+    in the passage, Mohammed is the first to arise.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: A rain is said to fall continually for forty years and to be supplied from
+    living water under God's throne.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: By the efficacy of the living water, dead bodies spring from graves like bodies
+    in the womb or corn sprouting by rain.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Breath is breathed into the completed bodies, which then sleep in sepulchres
+    until raised at the last trumpet.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The day of judgment is described with two durations, one thousand years and
+    fifty thousand years, and commentators offer explanations for the difference.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: A note states that in the circumstance of multiple trumpet soundings the Mohammedans
+    follow the Jews, who also agree that the trumpet will sound more than once.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine being who exempts some from annihilation, commands the resurrection
+    summons, and has a throne under which living water is located.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Angel of death
+  description: The last being who shall die after the common annihilation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Israfil
+  description: The angel who is restored to life, stands on the rock of the temple
+    of Jerusalem, sets the trumpet to his mouth, gathers souls, and sounds the resurrection
+    blast.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Gabriel
+  description: An angel restored to life before the resurrection blast and standing
+    with Israfil and Michael.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Michael
+  description: An angel restored to life before the resurrection blast and standing
+    with Israfil and Gabriel.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Mohammed
+  description: According to a tradition cited in the passage, he is the first to arise
+    when bodies are raised.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Creatures in heaven and earth
+  description: All creatures subject to death or annihilation at the blast of examination,
+    except those God exempts.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:8
+  name_or_label: The dead / resurrected bodies and souls
+  description: Dispersed bones, body parts, hairs, and souls gathered to judgment
+    and reunited for resurrection.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: divine commander and exception-maker
+  assigned_to:
+  - fig:1
+  basis: God exempts some from the common fate and commands Israfil's summoning and
+    final sound.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: last to die
+  assigned_to:
+  - fig:2
+  basis: The passage says the angel of death will be the last who shall die.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: resurrection trumpet angel
+  assigned_to:
+  - fig:3
+  basis: Israfil sounds the third trumpet, gathers souls, and releases them at the
+    final sound.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: restored angelic attendants
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Gabriel and Michael are restored to life and stand with Israfil before the
+    resurrection blast.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: first resurrected human
+  assigned_to:
+  - fig:6
+  basis: A cited tradition says Mohammed will be the first to arise.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: annihilated creation
+  assigned_to:
+  - fig:7
+  basis: Creatures in heaven and earth die or are annihilated at the blast of examination
+    except those God exempts.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: subjects of resurrection and judgment
+  assigned_to:
+  - fig:8
+  basis: Bones, body parts, hairs, and souls are gathered to judgment and restored
+    to bodies.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: trumpet blasts
+  literal_form: 'Repeated trumpet sounds: blast of examination and blast of resurrection'
+  associated_figures:
+  - fig:3
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: rock of the temple of Jerusalem
+  literal_form: Rock of the temple of Jerusalem where Israfil, Gabriel, and Michael
+    stand
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: living water
+  literal_form: Water under the throne of God supplying the resurrection rain
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: resurrection rain
+  literal_form: Rain falling continually for forty years, resembling human seed and
+    causing bodies to spring forth
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: opening earth and graves
+  literal_form: The earth opens and dead bodies spring from graves
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: throne of glory
+  literal_form: God's throne, which survives annihilation and under which living water
+    is located
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Blast of examination and annihilation
+  summary: A second blast follows the first; creatures in heaven and earth die or
+    are annihilated except those God exempts, and the angel of death dies last.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Restored angels at Jerusalem and resurrection summons
+  summary: After forty years, Israfil, Gabriel, and Michael are restored and stand
+    on the rock of the temple of Jerusalem; Israfil sounds the resurrection trumpet
+    and gathers dispersed body parts and souls.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Souls return to bodies
+  summary: Souls fly from the trumpet like bees, fill the space between heaven and
+    earth, and return to their respective bodies as the earth opens and bodies arise;
+    Mohammed is said to arise first.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Rain and living water prepare resurrection bodies
+  summary: A long rain supplied from living water under God's throne causes dead bodies
+    to grow from graves like gestation or sprouting corn; breath is breathed into
+    them before the last raising.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Duration of the judgment day discussed
+  summary: The passage reports two scriptural durations for the day of judgment and
+    summarizes commentators' attempts to reconcile them.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: universal death before resurrection
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: The passage describes near-universal annihilation followed by a later trumpet
+    blast that restores the dead to life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage frames this as eschatological resurrection rather than a cyclical
+    seasonal or heroic death-and-return narrative.
+- id: motif:2
+  label: divine judgment after bodily restoration
+  taxonomy_refs:
+  - divine_judgment
+  - resurrection
+  basis: Dispersed bodies and souls are gathered to judgment and restored before the
+    last day of judgment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage excerpt stops before a detailed account of judgment proceedings.
+- id: motif:3
+  label: resurrection by life-giving water or rain
+  taxonomy_refs:
+  - resurrection
+  basis: Rain supplied from living water under God's throne causes bodies to spring
+    from graves before breath is breathed into them.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The available motif taxonomy has no separate life-water motif family;
+    the assigned taxonomy reference is limited to resurrection.
+- id: motif:4
+  label: sacred center as resurrection station
+  taxonomy_refs:
+  - world_center
+  basis: The angels stand on the rock of the temple of Jerusalem when the resurrection
+    trumpet is sounded and the dead are summoned.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The text states the location but does not explicitly call it a world center;
+    the motif classification is interpretive and should be reviewed.
+- id: motif:5
+  label: multiple eschatological trumpet blasts
+  taxonomy_refs:
+  - divine_judgment
+  - resurrection
+  basis: The passage distinguishes multiple blasts, including the blast of examination
+    and the blast of resurrection, and notes disagreement over whether there are two
+    or three sounds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The motif is not a named taxonomy family in the supplied list, so taxonomy
+    links are functional rather than exact.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself notes a comparison between the Mohammedan account of multiple
+    trumpet soundings and Jewish traditions that the trumpet will sound more than
+    once.
+  claim_level: same_motif
+  target: Jewish tradition of repeated eschatological trumpet soundings
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison appears in Sale's note and names Jewish authorities,
+    but the excerpt does not provide the Jewish passages themselves or details beyond
+    repeated trumpet soundings.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4268-4274
+  quote_or_summary: A second blast, called the blast of examination, brings death
+    or annihilation to all creatures in heaven and earth except those God exempts;
+    only God and certain eschatological realities survive, and the angel of death
+    dies last.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4275-4281
+  quote_or_summary: Forty years later the blast of resurrection is sounded by Israfil,
+    who with Gabriel and Michael is restored to life and stands on the rock of the
+    temple of Jerusalem to call together dispersed bodily remains for judgment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4281-4288
+  quote_or_summary: Israfil gathers souls into his trumpet; at God's command they
+    fly out like bees, fill the space between heaven and earth, return to their bodies,
+    and the earth opens so bodies arise, with Mohammed first according to a cited
+    tradition.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4288-4296
+  quote_or_summary: A forty-year rain, supplied from living water under God's throne,
+    prepares resurrection bodies; the dead spring from graves like womb-formed bodies
+    or corn sprouting by rain, then receive breath and await the last trumpet.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4297-4310
+  quote_or_summary: The day of judgment is described as lasting either one thousand
+    or fifty thousand years; commentators explain the difference in several ways,
+    including figurative language and the difficulty of the day's business.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 4315-4319
+  quote_or_summary: '"the Mohammedans follow the Jews, who also agree that the trumpet
+    will sound more than once"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    constrained to the supplied taxonomy and should be reviewed, especially the world-center
+    classification. The comparison claim relies only on the passage's own footnote.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or taxonomy IDs beyond the supplied lists were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l4268-l4319
+  passage_sha256=70377f0a0927b9e724e4085f4f24c3e561724b92c3e18ba71eeb8c1351e309f6

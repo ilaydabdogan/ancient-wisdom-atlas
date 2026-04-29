@@ -1,0 +1,620 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l2144-l2221
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: A TABLE OF THE CHAPTERS / THE KORAN. / PRELIMINARY DISCOURSE / SECTION I.;
+    lines 2144-2221
+  start: '2144'
+  end: '2221'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Sale''s account of pre-Islamic Arab character and
+    customs, including raiding justified through descent from Ismael, internal probity
+    among friends, and three cultivated sciences: genealogy/history, weather prediction
+    by stars, and dream interpretation. It explains Arab observation of fixed stars
+    and the lunar mansions for weather, claims that divine power was ascribed to stars,
+    and notes that Mohammed condemned such language unless understood as God''s ordering
+    of seasons.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage attributes to Arabs of the desert a tendency toward war, bloodshed,
+    cruelty, rapine, and long-held malice, and reports an explanation linking this
+    to frequent eating of camel flesh.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Arabs committed frequent robberies on merchants and travellers
+    and that this made the name of Arab infamous in Europe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage reports that raiding was excused by appeal to Ismael's expulsion
+    by Abraham and God's grant of open plains and deserts as his patrimony, with permission
+    to take what he found there.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says Arabs described plunder by saying they had gained something
+    rather than robbed someone.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage distinguishes raiding of outsiders from strict honesty within
+    the camp and toward accepted friends.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: 'The passage identifies three pre-Mohammedan Arabian sciences: genealogies
+    and history, knowledge of stars for weather prediction, and interpretation of
+    dreams.'
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage says Arabs valued noble family descent and had disputes over it,
+    leading to efforts to settle genealogies.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage says Arab knowledge of stars came from long experience rather
+    than formal astronomical rules.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage compares Arab and Indian attention to fixed stars with other nations'
+    attention to planets.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage names the Anw, or houses of the moon, as twenty-eight divisions
+    through which the moon passes nightly, used for weather prediction by rising and
+    setting.
+  category: object
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The passage says Arabs came to ascribe divine power to stars and to say that
+    rain came from a particular star.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The passage says Mohammed condemned and forbade the old sense of attributing
+    rain to stars, allowing only the meaning that God ordered seasons in relation
+    to the moon's mansions or stars' risings and settings.
+  category: action
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: The passage says the ancient Arabs' pastoral life in open plains made star
+    observation obvious, and that many Arabic star names alluded to cattle and flocks.
+  category: setting
+  evidence_refs:
+  - ev:13
+- id: obs:14
+  text: The passage calls the pre-Mohammedan period, using the cited expression, the
+    time of ignorance.
+  category: attribute
+  evidence_refs:
+  - ev:14
+figures:
+- id: fig:1
+  name_or_label: ancient Arabians / Arabs of the desert
+  description: The primary group described as pre-Mohammedan Arabs living in deserts
+    or open plains, practicing raiding, valuing genealogy, and observing stars for
+    weather.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:10
+  - ev:13
+- id: fig:2
+  name_or_label: Ismael
+  description: Ancestor invoked in the explanation for Arab claims to the plains and
+    deserts after being turned out by Abraham.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Abraham
+  description: Father figure said to have turned Ismael out of doors.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: GOD
+  description: Divine figure said to have given Ismael the open plains and deserts
+    as patrimony and, in the acceptable interpretation, to have ordered the seasons.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:12
+- id: fig:5
+  name_or_label: Mohammed
+  description: Figure who condemned and forbade attribution of rain to stars in the
+    old sense.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:12
+- id: fig:6
+  name_or_label: Indians
+  description: Group compared with Arabians as chiefly observing or worshipping fixed
+    stars.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: Greeks and Chaldeans
+  description: Groups contrasted with Indians as chiefly worshipping planets.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: raiding outsiders
+  assigned_to:
+  - fig:1
+  basis: The passage says Arabs robbed merchants and travellers and justified taking
+    goods found in the plains and deserts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: internally honest hosts and camp members
+  assigned_to:
+  - fig:1
+  basis: The passage says strict probity was observed in their camp and toward those
+    received as friends.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: genealogy keepers
+  assigned_to:
+  - fig:1
+  basis: Genealogy and history are listed among their cultivated sciences, and noble
+    descent was highly valued.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: weather-divining star observers
+  assigned_to:
+  - fig:1
+  basis: The passage describes long-experience observation of fixed stars and lunar
+    mansions to forecast weather.
+  evidence_refs:
+  - ev:8
+  - ev:10
+  - ev:13
+- id: role:5
+  label: expelled ancestor and patrimony claimant
+  assigned_to:
+  - fig:2
+  basis: Ismael is described as turned out by Abraham and given plains and deserts
+    by God as patrimony.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: expelling father
+  assigned_to:
+  - fig:3
+  basis: Abraham is named as the one who turned Ismael out of doors.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: divine grantor and orderer of seasons
+  assigned_to:
+  - fig:4
+  basis: God grants Ismael the plains and deserts and is said to order seasonal conditions
+    in relation to lunar mansions and stars.
+  evidence_refs:
+  - ev:3
+  - ev:12
+- id: role:8
+  label: religious corrector of astral attribution
+  assigned_to:
+  - fig:5
+  basis: Mohammed condemned and forbade saying rain was from a star in the old sense.
+  evidence_refs:
+  - ev:12
+- id: role:9
+  label: fixed-star worshippers in comparison
+  assigned_to:
+  - fig:6
+  basis: The passage says Indians worshipped the fixed star and observed fixed stars.
+  evidence_refs:
+  - ev:9
+- id: role:10
+  label: planet worshippers in comparison
+  assigned_to:
+  - fig:7
+  basis: The passage says Greeks and Chaldeans chiefly worshipped planets.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: open plains and deserts as patrimony
+  literal_form: open plains and deserts
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: camel flesh as dietary marker
+  literal_form: camel's flesh
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: genealogies and noble descent
+  literal_form: genealogies, history, nobility of families, descents
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: fixed stars and asterisms
+  literal_form: fixed stars, stars, asterisms
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:13
+- id: sym:5
+  label: houses of the moon
+  literal_form: Anw, or the houses of the moon; twenty-eight divisions of the zodiac
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:12
+- id: sym:6
+  label: rain and weather changes
+  literal_form: rain, wind, heat, cold, changes in the air
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+- id: sym:7
+  label: planets as objects of worship
+  literal_form: planets
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Raiding justified by ancestral expulsion and divine grant
+  summary: The passage reports that Arabs excused robberies by invoking Ismael's expulsion
+    by Abraham and God's grant of deserts and plains, interpreting this as permission
+    to take what was found there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Camp honesty contrasted with outsider raiding
+  summary: The passage contrasts plundering of outsiders with strict probity among
+    Arabs themselves and toward those accepted as friends.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Pre-Islamic sciences of genealogy, stars, and dreams
+  summary: The passage lists three cultivated sciences before Mohammedism and explains
+    special attention to genealogy and family nobility.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Weather prediction through lunar mansions and stars
+  summary: The passage describes observation of twenty-eight lunar houses and star
+    risings and settings to forecast rain, wind, heat, and cold.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:13
+- id: scene:5
+  label: Condemnation of astral causation
+  summary: The passage says Arabs came to ascribe divine power to stars and that Mohammed
+    condemned the old language unless it meant that God ordered seasons in relation
+    to lunar mansions and stars.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: scene:6
+  label: Comparison of fixed-star and planet worship
+  summary: The passage compares Arabs and Indians in their attention to fixed stars,
+    contrasting this with Greek and Chaldean planetary worship.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: ancestral dispossession used to justify taking from outsiders
+  taxonomy_refs: []
+  basis: Raiding is explained through the story that Ismael was expelled, given deserts
+    and plains by God, and permitted to take what he found there.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is reported as Sale's description of Arab self-justification, not
+    as a narrative from the Qur'an passage itself.
+- id: motif:2
+  label: lineage knowledge as social authority
+  taxonomy_refs:
+  - wisdom
+  basis: Genealogy and history are named as cultivated sciences, and family nobility
+    and settled descents are described as socially important.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage treats genealogy as a learned practice and social value rather
+    than a mythic episode.
+- id: motif:3
+  label: astral weather divination
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes long-experience observation of fixed stars and twenty-eight
+    lunar mansions to predict rain, wind, heat, and cold.
+  evidence_refs:
+  - ev:8
+  - ev:10
+  - ev:13
+  confidence: high
+  cautions: The taxonomy reference is broad; the available taxonomy has no specific
+    astral divination category.
+- id: motif:4
+  label: rejection of astral divine agency under monotheistic correction
+  taxonomy_refs: []
+  basis: The passage says Arabs ascribed divine power to stars and that Mohammed forbade
+    saying rain came from a star unless understood as God's ordering of seasons.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The motif is doctrinal and corrective rather than a developed narrative
+    motif.
+- id: motif:5
+  label: dream interpretation as cultivated science
+  taxonomy_refs:
+  - wisdom
+  basis: Interpretation of dreams is listed among the three sciences cultivated by
+    Arabians before Mohammedism.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage only lists dream interpretation and gives no dream narrative
+    or example.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Arabian and Indian attention to fixed stars
+    and contrasts both with Greek and Chaldean attention to planets.
+  claim_level: same_function
+  target: fixed-star worship or observation versus planetary worship among Indians,
+    Greeks, and Chaldeans
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the passage's author and is broad; it does
+    not provide detailed ritual or textual evidence for each tradition.
+- id: claim:2
+  claim: The passage presents Arab astral weather prediction and later astral divine
+    attribution as related practices, with Mohammed's correction redefining the stars
+    as signs within God's seasonal ordering rather than independent sources of rain.
+  claim_level: same_function
+  target: astral causation and weather prediction pattern
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison within the passage's account rather
+    than evidence of historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2144-2151
+  quote_or_summary: Arabs are described as disposed to war, bloodshed, cruelty, rapine,
+    and malice; a reported medical explanation links this to frequent eating of camel
+    flesh.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: 2152-2155
+  quote_or_summary: Frequent robberies of merchants and travellers are said to have
+    made the name of Arab almost infamous in Europe.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: 2155-2162
+  quote_or_summary: Arabs are said to excuse raiding by citing Ismael's expulsion
+    by Abraham and God's gift to him of open plains and deserts with permission to
+    take whatever he found there.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: quote
+  locator: 2164-2166
+  quote_or_summary: Instead of saying "I robbed a man," they say "I gained it."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:5
+  type: summary
+  locator: 2166-2170
+  quote_or_summary: The passage says they are honest among themselves and toward friends,
+    with strict probity in camp and nothing known to be stolen.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:6
+  type: summary
+  locator: 2171-2174
+  quote_or_summary: The three sciences chiefly cultivated before Mohammedism are genealogies
+    and history, star knowledge for weather changes, and dream interpretation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:7
+  type: summary
+  locator: 2174-2177
+  quote_or_summary: Arabs valued noble family status and had many disputes over descent,
+    prompting efforts to settle genealogies.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:8
+  type: summary
+  locator: 2177-2179
+  quote_or_summary: Their knowledge of stars is described as based on long experience
+    rather than formal study or astronomical rules.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:9
+  type: summary
+  locator: 2179-2186
+  quote_or_summary: Arabians and Indians are said to focus on fixed stars, while other
+    nations observed planets; Greek and Chaldean idolatry is described as planetary
+    and Indian idolatry as fixed-star worship.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:10
+  type: summary
+  locator: 2186-2193
+  quote_or_summary: The Anw, or houses of the moon, are twenty-eight divisions of
+    the zodiac; by their rising and setting, Arabs forecast changes in the air.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:11
+  type: summary
+  locator: 2193-2196
+  quote_or_summary: The passage says Arabs ascribed divine power to stars and said
+    rain was from a certain star.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:12
+  type: summary
+  locator: 2196-2203
+  quote_or_summary: Mohammed condemned that old sense, allowing only that God ordered
+    seasons so that rain, wind, heat, or cold occurred when the moon or stars were
+    in certain positions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:13
+  type: summary
+  locator: 2204-2216
+  quote_or_summary: Ancient Arabs observed stars because of pastoral life in open
+    plains, named stars with allusions to cattle and flocks, and had many Arabic names
+    for stars and asterisms.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:14
+  type: quote
+  locator: 2217-2221
+  quote_or_summary: The passage summarizes the state of ancient Arabians before Mohammed
+    as "the time of ignorance."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is descriptive. Motif identification
+    is more tentative because the passage is ethnographic and polemical rather than
+    a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Evaluative claims about Arabs are recorded as claims made by the passage, not endorsed as historical facts.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l2144-l2221
+  passage_sha256=7f9b047997ef6bd058287fa5d93f2abc05ac8abfab943c9d418d1cf8aca7306a

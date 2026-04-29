@@ -1,0 +1,485 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l7320-l7371
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION VI. / OF THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS. / SECTION
+    VII. / SECTION VIII.; lines 7320-7371
+  start: '7320'
+  end: '7371'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives brief biographical and exemplary anecdotes about Malec
+    Ebn Ans and Mohammed Ebn Edris al Shafei, founders of two orthodox legal schools,
+    emphasizing humility before God, reverence for traditions, confession of ignorance,
+    disciplined study and prayer, and restraint in speech.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Malec Ebn Ans is described as the author of the second orthodox sect, born
+    at Medina and dying there, with variant dates reported by authors.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Malec is said to have had great regard for the traditions of Mohammed.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: During his last illness, a friend found Malec in tears and asked him the reason.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Malec said he wished he had received stripes for every question he had decided
+    by his own opinion, and wished he had never given any decision of his own.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Al Ghazli presents Malec's answer of not knowing to thirty-two of forty-eight
+    questions as evidence that Malec directed his knowledge to God's glory.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The doctrine of Malec is said to be chiefly followed in Barbary and other
+    parts of Africa.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Mohammed Ebn Edris al Shafei is described as author of the third orthodox
+    sect, born in Palestine, educated at Mecca, and dying in Egypt.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Ebn Hanbal first forbade his scholars to go near al Shafei but later followed
+    al Shafei on foot while al Shafei rode on a mule.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Ebn Hanbal told a questioning scholar that attending al Shafei's mule would
+    bring profit.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Al Shafei is said to have been the first to discourse of jurisprudence and
+    reduce that science into a method.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: A saying reports that the relators of Mohammed's traditions were asleep until
+    al Shafei came and woke them.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: 'Al Shafei is said to have divided the night into three parts: study, prayer,
+    and sleep.'
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: Al Shafei is said never to have sworn by God either to confirm truth or affirm
+    falsehood.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: When asked for an opinion, al Shafei remained silent while considering whether
+    it was better to speak or hold his tongue.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:15
+  text: A saying attributed to al Shafei states that whoever pretends to love the
+    world and its Creator at the same time is a liar.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Malec Ebn Ans
+  description: Founder of the second orthodox sect; a Medina-born doctor associated
+    with regard for the traditions of Mohammed, humility about legal decisions, and
+    confession of ignorance.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Friend visiting Malec
+  description: An unnamed friend who visited Malec in his last illness and asked why
+    he was weeping.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Al Ghazli
+  description: Authority cited as interpreting Malec's confession of ignorance as
+    proof that his knowledge was directed to God's glory.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Mohammed Ebn Edris al Shafei
+  description: Founder of the third orthodox sect; celebrated for learning, associated
+    with jurisprudential method, disciplined study and prayer, restraint in speech,
+    and criticism of loving the world and its Creator together.
+  role_refs:
+  - role:1
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Ebn Hanbal
+  description: A contemporary who first distrusted al Shafei, then praised him and
+    followed him, saying even attending his mule would profit a student.
+  role_refs:
+  - role:5
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Questioning scholar of Ebn Hanbal
+  description: An unnamed scholar who asked Ebn Hanbal why he followed al Shafei after
+    forbidding others to do so.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: founder of an orthodox sect
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage calls Malec the second orthodox sect's figure and al Shafei the
+    author of the third orthodox sect.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: reverer of Mohammed's traditions
+  assigned_to:
+  - fig:1
+  basis: Malec is said to have paid great regard to the traditions of Mohammed.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: humble legal authority
+  assigned_to:
+  - fig:1
+  basis: Malec weeps over decisions made by his own opinion and frequently admits
+    he does not know.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: questioner
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: The friend asks Malec the reason for weeping; the scholar asks Ebn Hanbal
+    why he follows al Shafei.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: evaluator of another scholar
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Al Ghazli interprets Malec's ignorance as godly; Ebn Hanbal praises and follows
+    al Shafei.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:6
+  label: organizer of jurisprudence
+  assigned_to:
+  - fig:4
+  basis: Al Shafei is said to have reduced jurisprudence into a method.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: disciplined pious scholar
+  assigned_to:
+  - fig:4
+  basis: Al Shafei divides the night among study, prayer, and sleep, avoids oaths,
+    and considers whether to speak.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: converted admirer
+  assigned_to:
+  - fig:5
+  basis: Ebn Hanbal first forbids his students from approaching al Shafei but later
+    follows him and commends attending him.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: tears of remorse
+  literal_form: Malec's tears during his last illness
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: stripes for judgments
+  literal_form: Stripes wished for by Malec in exchange for questions decided by his
+    own opinion
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sun and health praise image
+  literal_form: Ebn Hanbal's comparison of al Shafei to the sun to the world and health
+    to the body
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: mule attended by disciple
+  literal_form: Al Shafei riding on a mule while Ebn Hanbal follows on foot; attending
+    the mule is said to be profitable
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: night divided into three parts
+  literal_form: The night divided into study, prayer, and sleep
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: sleep and waking of tradition relators
+  literal_form: Relators of Mohammed's traditions described as asleep until al Shafei
+    woke them
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Malec weeps in his last illness
+  summary: A friend visits Malec in his last illness, finds him in tears, and hears
+    him lament decisions made by his own opinion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Malec confesses ignorance
+  summary: Al Ghazli recounts Malec answering that he did not know in thirty-two of
+    forty-eight questions, treating this as evidence of orientation toward God's glory.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ebn Hanbal follows al Shafei
+  summary: Ebn Hanbal, despite earlier forbidding his students to approach al Shafei,
+    follows al Shafei on foot while al Shafei rides a mule and says attending the
+    mule would profit a student.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Al Shafei as awakener of jurisprudence
+  summary: Al Shafei is credited with methodizing jurisprudence, and a saying describes
+    tradition-relators as asleep until he woke them.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Al Shafei's discipline and restraint
+  summary: Al Shafei divides the night among study, prayer, and sleep, avoids swearing
+    by God, pauses before answering, and warns against claiming to love both the world
+    and its Creator.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: wisdom through confessed ignorance and restrained speech
+  taxonomy_refs:
+  - wisdom
+  basis: Malec repeatedly admits not knowing, and al Shafei pauses to decide whether
+    speaking or silence is better.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: The passage is biographical and didactic rather than a mythic narrative.
+- id: motif:2
+  label: accountability for one's judgments before God
+  taxonomy_refs:
+  - divine_judgment
+  basis: Malec weeps over decisions given by his own opinion and says stripes would
+    make his accounts easier.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage implies religious accountability but does not narrate an explicit
+    judgment scene.
+- id: motif:3
+  label: teacher as awakener of tradition
+  taxonomy_refs:
+  - wisdom
+  basis: Al Shafei is credited with methodizing jurisprudence, and a saying represents
+    tradition-relators as asleep until he woke them.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The sleep-and-waking image is a reported witty saying, not an enacted
+    episode.
+- id: motif:4
+  label: renunciation of divided love between world and Creator
+  taxonomy_refs:
+  - wisdom
+  basis: A saying attributed to al Shafei declares it false to claim love for both
+    the world and its Creator at the same time.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: No available taxonomy reference precisely covers ascetic renunciation,
+    so the broader wisdom family is used.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7320-7324
+  quote_or_summary: Malec Ebn Ans is introduced as the second orthodox sect's figure,
+    born and dying at Medina, and as showing great regard for Mohammed's traditions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: public_domain
+- id: ev:2
+  type: quote
+  locator: 7324-7331
+  quote_or_summary: 'In his last illness Malec is found in tears and says: "Would
+    to GOD that for every question decided by me according to my own opinion, I had
+    received so many stripes! then would my accounts be easier."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: public_domain
+- id: ev:3
+  type: summary
+  locator: 7331-7336
+  quote_or_summary: Al Ghazli says Malec answered that he did not know to thirty-two
+    of forty-eight questions, showing frank confession of ignorance for God's glory.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: public_domain
+- id: ev:4
+  type: summary
+  locator: 7336-7338
+  quote_or_summary: Malec's doctrine is described as chiefly followed in Barbary and
+    other parts of Africa.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: public_domain
+- id: ev:5
+  type: summary
+  locator: 7338-7344
+  quote_or_summary: Mohammed Ebn Edris al Shafei is introduced as author of the third
+    orthodox sect, born in Palestine, educated at Mecca, and dying in Egypt.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: public_domain
+- id: ev:6
+  type: summary
+  locator: 7344-7352
+  quote_or_summary: Ebn Hanbal praises al Shafei as sun to the world and health to
+    the body; after earlier forbidding students to approach him, he follows al Shafei's
+    mule and says attending it would profit a student.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: public_domain
+- id: ev:7
+  type: summary
+  locator: 7352-7356
+  quote_or_summary: Al Shafei is credited with first discoursing of jurisprudence
+    and reducing it into method; a saying says tradition-relators were asleep until
+    he woke them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: public_domain
+- id: ev:8
+  type: summary
+  locator: 7357-7367
+  quote_or_summary: Al Shafei divides the night into study, prayer, and sleep; avoids
+    swearing by God; pauses before giving an opinion; and says one cannot love the
+    world and its Creator at the same time.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: public_domain
+- id: ev:9
+  type: summary
+  locator: 7367-7371
+  quote_or_summary: The followers of al Shafei are called Shafeites and are described
+    as formerly spread eastward but now chiefly of Arabia and Persia.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is historical-biographical commentary in English translation
+    metadata rather than a mythic episode; motifs are therefore extracted as didactic
+    symbolic patterns with caution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another text, tradition, or motif family beyond available taxonomy tagging.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l7320-l7371
+  passage_sha256=447494d2f4ab7fe8f65342d10cfb3a36def77b1fb389dc49390c8686536b573a

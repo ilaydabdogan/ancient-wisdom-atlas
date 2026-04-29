@@ -1,0 +1,431 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l5509-l5565
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 5509-5565
+  start: '5509'
+  end: '5565'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage discusses rules and explanations concerning the fast of Ramadan:
+    its rigor, the tradition that the Koran descended from heaven in that month, exemptions
+    and compensations, comparisons with Jewish fasting customs, voluntary fasts in
+    sacred months, the day of Ashura, and a footnote explaining the white and black
+    threads as daybreak imagery.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The fast of Ramadan is described as especially rigorous when the lunar month
+    falls in summer, because the lunar months move through all seasons over a thirty-three-year
+    cycle.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated reason for choosing Ramadan is that the Koran was sent down from
+    heaven in that month.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage reports a claim that Abraham, Moses, and Jesus received their
+    respective revelations in the same month.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Travellers and sick persons are exempted from the Ramadan fast, with sickness
+    extended to include pregnant or nursing women, ancient people, and young children;
+    missed days must be made up when the impediment is removed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Breaking the fast is said to be expiated by giving alms to the poor.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that Jewish fasting includes abstention from eating, drinking,
+    women, and anointing from daybreak until sunset or until stars appear, with refreshments
+    allowed at night.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says Jewish practice exempts pregnant or nursing women, old persons,
+    and young children from most public fasts.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Voluntary Mohammedan fasts are described as recommended by the prophet’s example
+    or approval, especially on certain days in sacred months.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A tradition is reported that fasting one day in a sacred month is better than
+    fasting thirty days in another month, and that one day in Ramadan is more meritorious
+    than thirty days in a sacred month.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The day of Ashura is identified as the tenth of Moharram; the passage reports
+    conflicting claims about whether it was observed by Arabs before Mohammed or borrowed
+    from the Jews.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A footnote explains the white thread and black thread as the light and dark
+    streaks of daybreak, and reports that clarifying words were added after followers
+    interpreted the phrase literally.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: The prophet whose ordinances, example, approval, and reported borrowing
+    of practices are discussed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Moslems / Mohammedans
+  description: The community obligated to observe the Ramadan fast and described as
+    keeping voluntary fasts recommended by Mohammed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Travellers and sick persons
+  description: Persons exempted from the Ramadan fast until the impediment is removed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Poor
+  description: Recipients of alms used to expiate breaking the fast.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Jews
+  description: The passage presents Jewish fasting practice as a parallel or source
+    for Mohammedan fasting ordinances.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: Abraham, Moses, and Jesus
+  description: Prophets whom some traditions associate with receiving revelations
+    in Ramadan.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: prophet and institutional model
+  assigned_to:
+  - fig:1
+  basis: Voluntary fasts are said to be recommended by Mohammed’s example or approval.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: reported borrower of fasting practice
+  assigned_to:
+  - fig:1
+  basis: The passage says Mohammed followed Jewish guidance in fasting and reports
+    that some say he borrowed Ashura from the Jews.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: fasting community
+  assigned_to:
+  - fig:2
+  basis: The passage describes obligations and voluntary fasting practices for Moslems
+    or Mohammedans.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: exempted persons
+  assigned_to:
+  - fig:3
+  basis: Travellers and sick persons are exempted but must fast an equal number of
+    other days later.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: recipients of expiatory alms
+  assigned_to:
+  - fig:4
+  basis: Breaking the fast is expiated by giving alms to the poor.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: comparative fasting tradition
+  assigned_to:
+  - fig:5
+  basis: Jewish fasting customs are described in detail and compared with Mohammedan
+    ordinances.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: recipients of revelation
+  assigned_to:
+  - fig:6
+  basis: Some claim Abraham, Moses, and Jesus received revelations in the same month
+    as the Koran’s descent.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: white and black threads of daybreak
+  literal_form: White thread and black thread interpreted as the light and dark streaks
+    of daybreak.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: alms for expiation
+  literal_form: Alms given to the poor after breaking the fast.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: tenth day of Moharram
+  literal_form: Ashura, the tenth of Moharram.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Ramadan fast and revelation rationale
+  summary: The passage describes the Ramadan fast as difficult in summer and explains
+    the choice of Ramadan by the claim that the Koran descended from heaven in that
+    month, with some traditions extending revelation in that month to earlier prophets.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Exemptions and expiation
+  summary: The passage lists exempted persons, requires later replacement fasts, and
+    describes almsgiving to the poor as expiation for breaking the fast.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Jewish fasting comparison
+  summary: The passage compares Mohammedan fasting ordinances with Jewish fasting
+    customs, including abstentions, timing from daybreak to evening, nighttime refreshment,
+    and exemptions.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Voluntary sacred-month fasts and Ashura
+  summary: The passage describes voluntary fasts recommended by Mohammed, emphasizes
+    sacred months and Ramadan as especially meritorious times for fasting, and discusses
+    Ashura as either pre-Islamic Arab practice or borrowed from Jews.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Dawn-thread clarification
+  summary: A footnote explains that the white and black threads signify daybreak’s
+    light and dark streaks and reports a literal misunderstanding that led to explanatory
+    wording.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sacred-month revelation and fasting
+  taxonomy_refs:
+  - wisdom
+  basis: Ramadan is selected for fasting because the Koran is said to have been sent
+    down from heaven in that month, and some traditions associate the same month with
+    revelations to earlier prophets.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage is commentary on ritual practice
+    rather than a narrative of revelation.
+- id: motif:2
+  label: ritual expiation through almsgiving
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Breaking the fast is described as expiated by giving alms to the poor.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a legal-ritual rule, not a developed mythic exchange
+    episode.
+- id: motif:3
+  label: dawn boundary marked by contrasting threads
+  taxonomy_refs: []
+  basis: The passage explains white and black threads as light and dark streaks of
+    daybreak used to regulate the fasting boundary.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy reference directly matches this image.
+- id: motif:4
+  label: merit multiplied by sacred time
+  taxonomy_refs: []
+  basis: A reported tradition ranks fasting merit according to sacred months and Ramadan,
+    giving one day in a sacred period greater value than many days in another time.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference directly matches sacred calendrical merit.
+comparison_claims:
+- id: claim:1
+  claim: The passage claims that Mohammedan fasting ordinances closely follow Jewish
+    fasting practices in abstentions, daily timing, and exemptions.
+  claim_level: same_function
+  target: Jewish fasting ordinances
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a claim made by the commentator; the passage does not independently
+    demonstrate the historical development of the practices.
+- id: claim:2
+  claim: The passage reports a possible historical borrowing of the Ashura name and
+    fast from the Jews, while also noting an alternate report that Arabs or Koreish
+    observed it before Mohammed.
+  claim_level: historical_contact
+  target: Jewish fast associated with Ashura / tenth of Moharram
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  confidence: uncertain
+  limitations: The passage itself presents conflicting reports, so the borrowing claim
+    remains uncertain.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5509-5515
+  quote_or_summary: The Ramadan fast is described as extremely rigorous in summer
+    because the lunar year causes each month to pass through all seasons over thirty-three
+    years.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5516-5520
+  quote_or_summary: Ramadan is chosen because the Koran was sent down from heaven
+    in that month; some say Abraham, Moses, and Jesus received revelations in the
+    same month.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5521-5529
+  quote_or_summary: Travellers and sick persons, including those whose health would
+    be harmed, are exempted from fasting but must make up days later; breaking the
+    fast is expiated by alms to the poor.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5530-5541
+  quote_or_summary: The commentator says Mohammed followed Jewish guidance in fasting;
+    Jewish fasts include abstention from food, drink, women, and anointing from daybreak
+    to sunset or star appearance, with similar exemptions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5542-5555
+  quote_or_summary: Voluntary Mohammedan fasts are recommended by Mohammed’s example
+    or approval; a reported tradition assigns greater merit to fasting in sacred months
+    and especially in Ramadan.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5555-5565
+  quote_or_summary: Ashura is named as the tenth of Moharram; some writers say Arabs
+    or Koreish observed it before Mohammed, while others say Mohammed borrowed the
+    name and fast from the Jews.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: footnote within lines 5509-5565
+  quote_or_summary: The white and black threads are explained as light and dark streaks
+    of daybreak; a literal interpretation by followers reportedly led to adding explanatory
+    words about daybreak.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal ritual details and explicit comparisons are clear. Motif taxonomy
+    mapping is limited because the available taxonomy lacks direct fasting and sacred
+    calendar categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The passage is primarily translator/commentator exposition rather than direct Quranic narrative; claims about Jewish influence and borrowing are retained only as claims made in the supplied text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l5509-l5565
+  passage_sha256=52fe7676d7e539c3aa70b0f7c06b5109ad851ccce545ed4485a3385ceb39b5c1

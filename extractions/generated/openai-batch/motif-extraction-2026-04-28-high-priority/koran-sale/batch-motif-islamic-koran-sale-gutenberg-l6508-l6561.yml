@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l6508-l6561
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION V. / OF CERTAIN NEGATIVE PRECEPTS IN THE KORN. / SECTION VI. / OF
+    THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS.; lines 6508-6561
+  start: '6508'
+  end: '6561'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage discusses legal precepts and comparative legal parallels:
+    punishments and evidentiary rules concerning adultery and slander, an ordeal involving
+    bitter water for suspected adultery, marriage restrictions including prohibited
+    kinship degrees, and special marital privileges attributed to Mohammed. It compares
+    several Islamic institutions with Mosaic or Jewish legal institutions, including
+    restrictions on remarriage of a ruler’s or prophet’s wives.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A betrothed bondmaid convicted of adultery is described as receiving punishment
+    while being exempted from death because she was not free.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that no person was to be put to death on the oath of one
+    witness.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A man who slandered his wife is described as being chastised, scourged, and
+    fined one hundred shekels of silver.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A woman suspected of adultery where evidence was lacking is described as being
+    tried by drinking the bitter water of jealousy and by an oath of cursing to which
+    she said “Amen.”
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says that institutions concerning menstrual pollution, taking
+    slaves as wives, and prohibited degrees of marriage have affinity with institutions
+    of Moses.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says pagan Arabs abstained from marrying mothers, daughters, paternal
+    and maternal aunts, and considered marriage to two sisters or a father’s wife
+    scandalous.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that taking one’s father’s wife was nevertheless often
+    practiced and is expressly forbidden in the Koran.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says Mohammed was granted special marital privileges by God, according
+    to his own claim, exclusive of other Moslems.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: One stated privilege is that Mohammed could marry as many wives and have as
+    many concubines as he pleased without a fixed number.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Another stated privilege is that Mohammed could alter the turns of his wives
+    and choose whom to take to his bed without observing ordinary equality.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: A further stated privilege is that no man could marry Mohammed’s wives, whether
+    divorced during his life or left widows after his death.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The passage compares the restriction on marrying Mohammed’s widows with Jewish
+    rulings about the divorced wife or widow of a king.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: betrothed bondmaid convicted of adultery
+  description: A non-free betrothed woman described as punished for adultery but exempted
+    from death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: woman suspected of adultery
+  description: A woman suspected of adultery where evidence was lacking, subjected
+    to bitter water and an oath of cursing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Mohammed
+  description: Presented as the prophet who devised an expedient for suspected adultery
+    and claimed special marital privileges granted by God.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Moses
+  description: Named as the figure whose institutions are said to have affinity with
+    several institutions discussed in the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: pagan Arabs
+  description: A group described as observing certain marriage prohibitions and regarding
+    some marriages as scandalous.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Mohammed’s wives or relicts
+  description: Women whose marriage turns are discussed and who, after Mohammed’s
+    death, are described as remaining in perpetual widowhood.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Jewish doctors
+  description: Authorities said to have determined that another man should not marry
+    the divorced wife or widow of a king.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: king or prince
+  description: A royal figure whose divorced wife or widow is described in Jewish
+    rulings as not lawful for another man to marry.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: punished adulteress exempted from death
+  assigned_to:
+  - fig:1
+  basis: The passage says the betrothed bondmaid received punishment but was exempted
+    from death because she was not free.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: suspected adulteress under ordeal
+  assigned_to:
+  - fig:2
+  basis: The woman is described as suspected of adultery without evidence and forced
+    to drink bitter water with an oath of cursing.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: prophetic legal innovator
+  assigned_to:
+  - fig:3
+  basis: The passage refers to an expedient devised by Mohammed on a like occasion.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recipient of exceptional marital privileges
+  assigned_to:
+  - fig:3
+  basis: The passage states that God granted Mohammed exclusive privileges concerning
+    wives and concubines, as he gave out.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: comparative legal model
+  assigned_to:
+  - fig:4
+  basis: The institutions discussed are said to have affinity with institutions of
+    Moses.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: customary marriage-law group
+  assigned_to:
+  - fig:5
+  basis: The group is described as abstaining from certain marriages and judging others
+    scandalous.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: protected or restricted wives
+  assigned_to:
+  - fig:6
+  basis: The wives’ turns and remarriage restrictions are described, including perpetual
+    widowhood for relicts.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: legal authorities on royal widows
+  assigned_to:
+  - fig:7
+  basis: The passage says Jewish doctors determined that marrying a king’s divorced
+    wife or widow was unlawful.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: royal analogue for prophetic dignity
+  assigned_to:
+  - fig:8
+  basis: The passage compares Mohammed’s relicts with wives or widows of a king in
+    Jewish legal rulings.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: bitter water of jealousy
+  literal_form: bitter water used in an adultery ordeal
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: oath of cursing
+  literal_form: spoken oath to which the woman was obliged to say “Amen”
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: prohibited degrees
+  literal_form: kinship boundaries restricting marriage
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: perpetual widowhood
+  literal_form: state imposed on Mohammed’s relicts after his death
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Punishments and evidentiary limits in adultery-related cases
+  summary: The passage lists punishment of a bondmaid convicted of adultery, a rule
+    against execution on one witness, and punishment for a husband who slanders his
+    wife.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ordeal of bitter water and oath
+  summary: A suspected adulteress without evidence is described as drinking bitter
+    water of jealousy and accepting an oath of cursing; the passage compares this
+    with Mohammed’s expedient on a like occasion.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Marriage institutions compared with Mosaic law
+  summary: Institutions concerning menstrual pollution, slaves as wives, and prohibited
+    marriage degrees are said to have affinity with the institutions of Moses.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Customary Arab marriage prohibitions
+  summary: Pagan Arabs are described as avoiding marriage with certain close kin and
+    condemning marriage to two sisters or to a father’s wife, although the latter
+    practice occurred and is forbidden in the Koran.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Special marital privileges of Mohammed
+  summary: The passage describes privileges allowing Mohammed unlimited wives and
+    concubines, altered turns among wives, and exclusive restriction against others
+    marrying his wives.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Prophetic widows compared with royal widows
+  summary: The restriction on remarriage of Mohammed’s wives is compared with Jewish
+    rulings against marrying the divorced wife or widow of a king, and the passage
+    says Mohammed’s relicts were to remain in perpetual widowhood.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: adultery ordeal by ritual drink and oath
+  taxonomy_refs: []
+  basis: The passage describes a suspected adulteress being tested by bitter water
+    and an oath of cursing, and notes resemblance to a Mohammedan expedient.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is legal-comparative commentary rather than a mythic narrative;
+    no divine agent is directly described as judging the outcome in this excerpt.
+- id: motif:2
+  label: kinship boundaries regulating marriage
+  taxonomy_refs: []
+  basis: The passage discusses prohibited degrees, customary avoidance of close-kin
+    marriage, and explicit prohibition of taking a father’s wife.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an institutional/legal pattern, not a mythic episode.
+- id: motif:3
+  label: exceptional marital privilege of a prophet
+  taxonomy_refs: []
+  basis: The passage describes Mohammed as receiving exclusive privileges concerning
+    number of wives and concubines and order among wives.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The privileges are reported through Sale’s commentary and are framed polemically
+    as what Mohammed claimed.
+- id: motif:4
+  label: restricted remarriage of wives of sacred or ruling figure
+  taxonomy_refs: []
+  basis: The passage says no man could marry Mohammed’s wives and compares this with
+    Jewish rulings about the divorced wife or widow of a king.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage supports a legal analogy between prophetic and royal dignity,
+    but not a broader historical or mythic derivation.
+comparison_claims:
+- id: claim:1
+  claim: The passage claims that the bitter-water ordeal for a woman suspected of
+    adultery resembles an expedient devised by Mohammed for a similar case.
+  claim_level: same_function
+  target: Mosaic/Jewish bitter-water jealousy ordeal and Mohammed’s comparable adultery
+    procedure
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states resemblance but does not provide the details of
+    Mohammed’s expedient in this excerpt.
+- id: claim:2
+  claim: The passage claims that Islamic institutions concerning menstrual pollution,
+    slave wives, and prohibited marriage degrees have affinity with the institutions
+    of Moses.
+  claim_level: same_function
+  target: Institutions of Moses concerning purity, marriage with slaves, and prohibited
+    degrees
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is made by the commentator and is supported here only by
+    summary and footnote references, not by full parallel texts.
+- id: claim:3
+  claim: The passage claims that the rule forbidding marriage to Mohammed’s wives
+    agrees with Jewish rulings that another man should not marry the divorced wife
+    or widow of a king.
+  claim_level: same_function
+  target: Jewish legal rule concerning wives or widows of kings
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the legal restriction on remarriage; the
+    passage does not establish historical dependence.
+- id: claim:4
+  claim: The passage compares prophetic dignity with regal dignity as a rationale
+    for restricting remarriage of Mohammed’s relicts.
+  claim_level: same_function
+  target: Prophetic marital restriction and royal widow restriction
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an interpretive explanation within the commentary and should
+    not be treated as an independent doctrinal statement without review.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6508-6514
+  quote_or_summary: The passage describes punishment for a betrothed bondmaid convicted
+    of adultery, a rule against execution on one witness, and punishment for a husband
+    who slanders his wife.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6514-6519
+  quote_or_summary: A woman suspected of adultery without evidence is tried by drinking
+    the bitter water of jealousy and by an oath of cursing to which she says “Amen”;
+    the passage says this resembles Mohammed’s expedient on a like occasion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized with brief quoted word.
+- id: ev:3
+  type: summary
+  locator: lines 6520-6523
+  quote_or_summary: Institutions concerning women’s pollution during courses, taking
+    slaves as wives, and prohibited degrees are said to have affinity with the institutions
+    of Moses.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6524-6530
+  quote_or_summary: Pagan Arabs are described as avoiding marriage with mothers, daughters,
+    and aunts, condemning marriage to two sisters or to a father’s wife, while the
+    latter practice is said to have occurred and to be forbidden in the Koran.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6531-6539
+  quote_or_summary: 'Mohammed is described as claiming special privileges from God:
+    unlimited wives and concubines, and freedom to alter the turns of his wives.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6539-6547
+  quote_or_summary: No man is permitted to marry Mohammed’s wives, whether divorced
+    or widowed; this is compared with Jewish rulings about wives of kings, and Mohammed’s
+    relicts are said to remain in perpetual widowhood.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: citation
+  locator: lines 6548-6561
+  quote_or_summary: Footnotes cite biblical, Koranic, and Jewish legal references
+    for the discussed institutions, including Leviticus, Deuteronomy, Numbers, Koran
+    chapters 4, 33, and 66, and Mishnah/Gemara material.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; citation summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The legal observations and comparisons are explicit in the passage. Motif
+    classification is less certain because the passage is commentary on legal institutions,
+    not a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All entries are based only on the supplied passage and metadata. No historical dependence is inferred beyond the passage’s own stated comparisons.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l6508-l6561
+  passage_sha256=32bc12110943699ba94472446f7ee0b0f39176c730c553085e6a883050f37bad

@@ -1,0 +1,454 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l6172-l6223
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION III / SECTION IV. / SECTION V. / OF CERTAIN NEGATIVE PRECEPTS IN
+    THE KORN.; lines 6172-6223
+  start: '6172'
+  end: '6223'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage discusses prohibitions or abolished practices: abstention
+    from swine''s flesh among Arabs, prohibition of usury compared with Jewish law,
+    and the abolition of several pre-Islamic Arab cattle customs involving named camels
+    or sheep set at liberty, marked, or restricted from ordinary use.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Foreign writers are said to report that Arabs abstained from swine's flesh
+    and considered eating it unlawful.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Mohammed prohibited usury and that the author presumes
+    he followed Jewish law in doing so.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says Mohammed abolished several cattle customs described as peculiar
+    to pagan Arabs.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Koran is said to mention four names—Bahra, Sba, Wasla, and Hmi—for certain
+    camels or sheep left at liberty and not used like other cattle.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A Bahra could be marked by slitting the ear and then turned loose to pasture,
+    with restrictions on eating, milking, riding, or other use varying by account.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: A Sba is described as a she-camel turned loose to go where she will, sometimes
+    because of repeated female births, a vow, recovery from sickness, safe return
+    from a journey, or escape from danger.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: For the Sba, one account says a vertebra or bone was removed from her back,
+    after which she could not be driven from pasture or water or ridden.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Presented as prohibiting usury and abolishing pagan Arab cattle customs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Arabs / the nation
+  description: Described as having a common aversion to swine's flesh and as largely
+    abstaining from it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Jews
+  description: Described as strictly forbidden by their law to practice usury among
+    one another.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: pagan Arabs
+  description: Described as having cattle customs that were later abolished.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Bahra
+  description: A named camel or sheep category associated with ear slitting, free
+    pasture, reproductive conditions, and restrictions on use.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Sba
+  description: A named she-camel category turned loose under stated conditions and
+    protected from ordinary riding or expulsion from pasture or water.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:7
+  name_or_label: swine / hog
+  description: An animal whose flesh is described as avoided by Arabs and considered
+    unlawful to eat.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: prohibiting or abolishing religious authority
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the prohibition of usury and the abolition of cattle
+    customs to Mohammed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: abstaining community
+  assigned_to:
+  - fig:2
+  basis: The Arabs are reported to abstain from swine's flesh.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: legal comparison community
+  assigned_to:
+  - fig:3
+  basis: Jewish law is cited as a parallel or precedent for the prohibition of usury.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: former practitioners of abolished cattle customs
+  assigned_to:
+  - fig:4
+  basis: The cattle customs are described as peculiar to pagan Arabs and as abolished
+    by Mohammed.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: marked or released cattle category
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Bahra and Sba are described as cattle categories marked, turned loose, or
+    restricted from ordinary use.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: forbidden food animal
+  assigned_to:
+  - fig:7
+  basis: The passage says swine's flesh was considered unlawful to eat.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: swine's flesh as forbidden food
+  literal_form: swine's flesh
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: slit ear as release mark
+  literal_form: slit ear of camel or sheep
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: milk withheld from use
+  literal_form: milk of the released female animal
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: pasture and water protection
+  literal_form: pasture and water from which the animal may not be driven
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: removed back bone as status mark
+  literal_form: one vertebra or bone removed from the she-camel's back
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: repeated births as qualifying number
+  literal_form: five or ten births, including repeated female births
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: vow or deliverance condition
+  literal_form: vow, recovery from sickness, safe return from a journey, or escape
+    from danger
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Prohibitions concerning swine and usury
+  summary: The passage reports Arab abstention from swine's flesh and discusses Mohammed's
+    prohibition of usury in relation to Jewish law.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Abolition of pagan Arab cattle customs
+  summary: Mohammed is said to have abolished customs in which certain camels or sheep
+    were given special names and left free from ordinary use.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Bahra marking and restrictions
+  summary: Accounts of the Bahra describe ear slitting, release to pasture, reproductive
+    qualifications, and restrictions on eating, milking, riding, or carriage use.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Sba release after birth pattern, vow, or deliverance
+  summary: The Sba is described as a she-camel released after certain events, with
+    a removed back bone and protection from riding or expulsion from pasture and water.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Food taboo against swine's flesh
+  taxonomy_refs: []
+  basis: The passage reports Arab abstention from swine's flesh and says it was thought
+    unlawful to eat.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is Sale's explanatory discussion, not a quoted Qur'anic verse
+    in this excerpt.
+- id: motif:2
+  label: Prohibition of usury in religious law
+  taxonomy_refs: []
+  basis: The passage states that Mohammed prohibited usury and compares this to Jewish
+    legal restriction.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The comparison is presented as the author's presumption; details of the
+    Qur'anic passage are not quoted here.
+- id: motif:3
+  label: Marked animal released from ordinary human use
+  taxonomy_refs: []
+  basis: Bahra and Sba are described as camels or sheep marked or specially designated,
+    then left at liberty and exempted from ordinary uses such as riding, milking,
+    or being driven from pasture and water.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage reports multiple variant explanations for the cattle categories.
+- id: motif:4
+  label: Vowed or delivered animal set loose
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Sba may be released in satisfaction of a vow or after recovery, safe
+    return, or escape from danger.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage does not fully describe the vow's recipient or ritual framework;
+    the taxonomy link is provisional.
+- id: motif:5
+  label: Ritual bodily marking as status designation
+  taxonomy_refs: []
+  basis: The Bahra may be designated by a slit ear, and the Sba by removal of a back
+    bone or vertebra.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage describes reported customs and variant accounts rather than
+    a single fixed ritual sequence.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Mohammed's prohibition of usury with Jewish law, presenting
+    both as religious restrictions on usury, though Jewish law is described as applying
+    among Jews to one another while Mohammed is said to make no such distinction.
+  claim_level: same_function
+  target: Jewish legal prohibition of usury among one another
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim depends on the translator-commentator's wording and presumption;
+    the excerpt does not quote the underlying Qur'anic verse or Jewish legal text.
+- id: claim:2
+  claim: The passage frames the Qur'anic or Mohammedan treatment of named cattle categories
+    as an abolition of earlier pagan Arab customs.
+  claim_level: historical_contact
+  target: pre-Islamic pagan Arab cattle customs involving Bahra, Sba, Wasla, and Hmi
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a later explanatory account and several variants;
+    it does not independently document the full historical practice.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6172-6177
+  quote_or_summary: Foreign writers are cited for the claim that Arabs abstained from
+    swine's flesh, considered it unlawful, and had few swine in their country.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 6178-6182
+  quote_or_summary: The passage says Mohammed prohibited usury, and the author presumes
+    he followed Jewish law, which forbids usury among Jews; Mohammed is said not to
+    distinguish by religious group.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 6183-6188
+  quote_or_summary: Several pagan Arab cattle customs are said to have been abolished
+    by Mohammed; the Koran is said to mention Bahra, Sba, Wasla, and Hmi as names
+    for camels or sheep left at liberty and not used like other cattle.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 6189-6205
+  quote_or_summary: Accounts of Bahra include a she-camel or sheep whose ear is slit
+    after repeated births and who is released to pasture; variants restrict who may
+    eat its flesh, whether its milk or riding may be used, and how its offspring are
+    treated.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 6206-6213
+  quote_or_summary: Further Bahra variants include ear slitting after five births,
+    release to pasture and water without carriage use, and an invocation that a newborn,
+    if it lives, is for use, but if it dies, is rightly slain and eaten.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 6214-6223
+  quote_or_summary: Sba is defined as a she-camel turned loose, including after ten
+    female births, a vow, recovery from sickness, safe return, or escape from danger;
+    a back bone may be removed, and she may not be driven from pasture or water or
+    ridden.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an English public-domain explanatory note with several reported
+    variants and authorial comparisons; extraction is limited to what the excerpt
+    states.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures, objects, or comparisons beyond the supplied passage were added. Taxonomy references are used only where the passage directly supports the literal element or a cautious motif-family alignment.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l6172-l6223
+  passage_sha256=6ba89d6e5403bf208d228ffd5b3c1a71b79a4f5958e687a76a26534add9820c0

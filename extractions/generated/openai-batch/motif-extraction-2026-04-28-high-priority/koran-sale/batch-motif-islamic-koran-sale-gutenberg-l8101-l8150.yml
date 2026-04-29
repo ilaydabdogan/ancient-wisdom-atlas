@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l8101-l8150
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION VI. / OF THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS. / SECTION
+    VII. / SECTION VIII.; lines 8101-8150
+  start: '8101'
+  end: '8150'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Khrejites as rebels against a lawful prince,
+    recounts their revolt from Ali after arbitration over the Khalifat dispute with
+    Mowiyah, summarizes their doctrines about the Imam and divine judgment, reports
+    their defeat and dispersal, and notes the Wadian teaching that grave sinners are
+    infidels or apostates subject to eternal punishment in hell.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Khrejites are defined as those who depart or revolt from a lawful prince
+    established by public consent.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first persons so called were twelve thousand men who revolted from Ali
+    after fighting under him at Seffein, taking offense at arbitration over his disputed
+    right to the Khalifat.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The same group was also called Mohakkemites or Judiciarians because they said
+    Ali had referred a religious matter to human judgment when judgment belonged only
+    to God.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Khrejites held that a just and pious person could become Imam even if
+    not of Koreish or not a freeman; they also held that an Imam who turned aside
+    from truth could be killed or deposed, and that an Imam was not absolutely necessary.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: They charged Ali with sin and infidelity for leaving a matter to human judgment
+    and cursed him on that account.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the 38th year of the Hejra, Khrejites who persisted in rebellion were reportedly
+    killed by Ali; an alternative report says nine escaped to various regions and
+    propagated their teaching there.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The principal sects of the Khrejites are said to reject Othman and Ali, call
+    those guilty of grievous sins infidels, and consider resistance to a law-transgressing
+    Imam necessary.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Wadians are named from threats denounced by God against the wicked and
+    teach that a grave sinner should be declared an infidel or apostate and will be
+    eternally punished in hell.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Jaafar Ebn Mobashshar is described as more severe than the Wadians, declaring
+    a person who steals even a grain of corn to be a reprobate and apostate.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Khrejites
+  description: A sect or group described as revolters or rebels from the lawful prince;
+    initially twelve thousand men who revolted from Ali.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Ali
+  description: Leader from whom the first Khrejites revolted; his right to the Khalifat
+    was disputed by Mowiyah, and he later killed rebellious Khrejites according to
+    the passage.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Mowiyah
+  description: Figure who disputed Ali's right to the Khalifat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Mohakkemites
+  description: Another name for the early Khrejites, connected with their claim that
+    judgment in a religious matter belonged only to God.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Wadians
+  description: A Khrejite sect named from the threats denounced by God against the
+    wicked; antagonists of the Morgians.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Morgians
+  description: A group described only as antagonists of the Wadians.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Jaafar Ebn Mobashshar
+  description: A member of the Nodhmians described as more severe than the Wadians
+    in judging even minor theft as apostasy.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Othman
+  description: A figure whom the principal Khrejite sects are said to reject, along
+    with Ali.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: revolters from lawful prince
+  assigned_to:
+  - fig:1
+  basis: The passage defines the Khrejites as those who depart or revolt from the
+    lawful prince established by public consent.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sectarian doctrine holders
+  assigned_to:
+  - fig:1
+  basis: The passage lists Khrejite doctrines about the Imam, grievous sin, and resistance
+    to a transgressing Imam.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: contested claimant to the Khalifat
+  assigned_to:
+  - fig:2
+  basis: Mowiyah disputed Ali's right to the Khalifat, and arbitration over this dispute
+    led to Khrejite offense.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: suppressor of rebellion
+  assigned_to:
+  - fig:2
+  basis: The passage reports that Ali cut to pieces Khrejites who persisted in rebellion.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: rival disputant
+  assigned_to:
+  - fig:3
+  basis: Mowiyah is named as disputing Ali's right to the Khalifat.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: advocates of God-only judgment
+  assigned_to:
+  - fig:4
+  basis: The name Mohakkemites is explained through their claim that judgment in a
+    religious matter belonged only to God.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: preachers of divine threats against the wicked
+  assigned_to:
+  - fig:5
+  basis: The Wadians are named from divine threats against the wicked and teach eternal
+    punishment in hell for grave sinners.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: antagonists of Wadians
+  assigned_to:
+  - fig:6
+  basis: The passage calls the Wadians the antagonists of the Morgians.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: severe judge of minor theft
+  assigned_to:
+  - fig:7
+  basis: Jaafar Ebn Mobashshar is said to pronounce a person who steals a grain of
+    corn a reprobate and apostate.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: rejected authority figure
+  assigned_to:
+  - fig:8
+  basis: The principal sects of the Khrejites are said to reject Othman and Ali.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: lawful prince or Imam
+  literal_form: political-religious office of lawful prince, Imam, or prince
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: judgment belonging only to God
+  literal_form: divine judgment contrasted with judgment of men
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: hell
+  literal_form: place of eternal punishment for the grave sinner in Wadian teaching
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: grain of corn
+  literal_form: a single grain of corn used as the minimal object of theft in Jaafar
+    Ebn Mobashshar's severe judgment
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Revolt after arbitration
+  summary: Twelve thousand men who had fought under Ali at Seffein revolted after
+    Ali submitted the dispute over his right to the Khalifat to arbitration.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Khrejite doctrines on authority
+  summary: The passage summarizes Khrejite doctrines about who may become Imam, when
+    an Imam may be deposed or killed, and whether an Imam is necessary.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Defeat and dispersal of rebels
+  summary: Khrejites who persisted in rebellion were reportedly destroyed by Ali,
+    though another report says nine escaped to various regions and spread their doctrine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Wadian doctrine of grave sin
+  summary: The Wadians are described as teaching that grave sinners are infidels or
+    apostates who will be eternally punished in hell; Jaafar Ebn Mobashshar is described
+    as even more severe regarding minor theft.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Revolt against and judgment of political-religious authority
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage centers on revolt from a lawful prince, disputes over the Khalifat,
+    doctrines about the qualifications and deposition of the Imam, and the duty to
+    resist an Imam who transgresses the law.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is a doctrinal and historical account rather than a mythic kingship
+    narrative; the taxonomy link is functional and thematic.
+- id: motif:2
+  label: Divine judgment over human judgment and punishment of sinners
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Mohakkemite rationale asserts that judgment in a religious matter belongs
+    only to God, while the Wadian teaching links grave sin with apostasy and eternal
+    punishment in hell.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage reports sectarian doctrines rather than narrating a divine
+    judgment scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8103-8112
+  quote_or_summary: The Khrejites are defined as revolters from a lawful prince; the
+    first named were twelve thousand men who revolted from Ali after Seffein over
+    arbitration concerning the Khalifat dispute with Mowiyah.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 8112-8116
+  quote_or_summary: The early Khrejites were also called Mohakkemites or Judiciarians
+    because they argued that Ali had referred a religious matter to human judgment,
+    while judgment belonged only to God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 8116-8124
+  quote_or_summary: The passage lists Khrejite doctrines on the Imam's qualifications,
+    deposition or killing of an Imam who turns from truth, lack of absolute necessity
+    for an Imam, and their charge of sin and infidelity against Ali.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 8124-8130
+  quote_or_summary: In 38 AH, Khrejites who persisted in rebellion were reportedly
+    destroyed by Ali; another report says nine escaped to Oman, Kerman, Sejestan,
+    Mesopotamia, and Tel Mawran and propagated their doctrine.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 8131-8137
+  quote_or_summary: The principal Khrejite sects are said to agree in rejecting Othman
+    and Ali, treating grievous sinners as infidels, and requiring resistance to an
+    Imam who transgresses the law.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: lines 8138-8145
+  quote_or_summary: The Wadians are named from divine threats against the wicked,
+    oppose the Morgians, teach that grave sinners are infidels or apostates eternally
+    punished in hell, and Jaafar Ebn Mobashshar judges even theft of a grain of corn
+    as apostasy.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based entirely on the supplied passage. Motif classification
+    is cautious because the passage is sectarian history and doctrine rather than
+    narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific cross-textual comparison beyond candidate motif classification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l8101-l8150
+  passage_sha256=a0b51d4a54bac830f10bfb9f2ea485256cb1c3da916c49f4512602349b0c6113

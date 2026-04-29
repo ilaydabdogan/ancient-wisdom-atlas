@@ -1,0 +1,646 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l9322-l9412
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER I. / IN THE NAME OF THE MOST MERCIFUL GOD / CHAPTER II. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 9322-9412
+  start: '9322'
+  end: '9412'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: We have heard, and have rebelled
+  summary: The passage accuses Jews or their forefathers of unbelief, rejection of
+    a book from God confirming prior scripture, slaying prophets, worshipping the
+    calf after Moses brought signs, breaking covenant at Sinai, and coveting life
+    while facing divine punishment. It also identifies Gabriel as the angel who caused
+    the Koran to descend on the addressed prophet's heart by God's permission, confirming
+    earlier revelation.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Jews say their hearts are uncircumcised, and the passage states that God
+    has cursed them for infidelity.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A book from God is said to have come to them confirming scriptures already
+    with them, but they did not believe in it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: They are said to have sold their souls for a vile price by not believing in
+    what God sent down.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When told to believe in what God sent down, they answer that they believe
+    in what was sent down to them and reject later revelation.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage asks why they slew God's prophets in times past if they are true
+    believers.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Moses is said to have come with evident signs, after which they took the calf
+    for their god.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: God accepted their covenant and lifted Mount Sinai over them while commanding
+    them to receive and perform the law.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: They answered that they had heard and rebelled.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: They were made to drink down the calf into their hearts for their unbelief.
+  category: action
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:10
+  text: The passage says they will never wish for death because of what their hands
+    have sent before them.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: They are described as especially covetous of life, with one desiring life
+    to be prolonged a thousand years.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: Gabriel is named as the one who caused the Koran to descend on the addressed
+    prophet's heart by God's permission.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:13
+  text: A commentator's note identifies the spirit attending Jesus as Gabriel rather
+    than the Holy Ghost in the Christian sense.
+  category: relationship
+  evidence_refs:
+  - ev:12
+- id: obs:14
+  text: A footnote says Moses burned the calf, ground it to powder, strewed it on
+    water, and made the children of Israel drink it.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine source of the book, covenant, curse, favors, judgment, and
+    permission for Gabriel's revelation.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:11
+- id: fig:2
+  name_or_label: The Jews / children of Israel
+  description: Collective addressees accused of unbelief, rejecting revelation, calf
+    worship, covenant rebellion, and coveting life.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:10
+- id: fig:3
+  name_or_label: Moses
+  description: Prophet who came with evident signs; in the note, he destroys the calf
+    and makes the children of Israel drink it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: Gabriel
+  description: Angel who caused the Koran to descend on the addressed prophet's heart;
+    in a note, identified as the spirit who sanctified and attended Jesus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: fig:5
+  name_or_label: Jesus
+  description: Named in a note as sanctified and constantly attended by Gabriel.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:12
+- id: fig:6
+  name_or_label: Addressed prophet / Mohammed
+  description: Recipient whose heart receives the Koran by Gabriel, with Mohammed
+    named in surrounding notes.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:11
+  - ev:13
+- id: fig:7
+  name_or_label: Prophets of God
+  description: Prophets said to have been slain in times past.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine revealer
+  assigned_to:
+  - fig:1
+  basis: God sends down the book and permits Gabriel to bring the Koran.
+  evidence_refs:
+  - ev:2
+  - ev:11
+- id: role:2
+  label: divine judge
+  assigned_to:
+  - fig:1
+  basis: God curses infidelity, knows wicked-doers, and sees what they do.
+  evidence_refs:
+  - ev:1
+  - ev:9
+  - ev:10
+- id: role:3
+  label: revelation rejecters
+  assigned_to:
+  - fig:2
+  basis: They reject what has been revealed since, although it confirms what is with
+    them.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: covenant rebels
+  assigned_to:
+  - fig:2
+  basis: After the covenant and command to receive the law, they say they have heard
+    and rebelled.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: prophet with signs
+  assigned_to:
+  - fig:3
+  basis: Moses came with evident signs before the calf episode.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: angelic revelation bearer
+  assigned_to:
+  - fig:4
+  basis: Gabriel caused the Koran to descend on the prophet's heart by God's permission.
+  evidence_refs:
+  - ev:11
+- id: role:7
+  label: sanctified prophet in commentary
+  assigned_to:
+  - fig:5
+  basis: The note says Gabriel sanctified Jesus and constantly attended him.
+  evidence_refs:
+  - ev:12
+- id: role:8
+  label: recipient of revelation
+  assigned_to:
+  - fig:6
+  basis: The Koran descends on the addressed heart; notes identify the passage with
+    Mohammed.
+  evidence_refs:
+  - ev:11
+  - ev:13
+- id: role:9
+  label: slain prophets
+  assigned_to:
+  - fig:7
+  basis: The passage asks why the prophets of God were slain in times past.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: book from God
+  literal_form: book / Koran sent down from God confirming earlier scriptures
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:11
+- id: sym:2
+  label: uncircumcised hearts
+  literal_form: hearts described as uncircumcised
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: calf made a god
+  literal_form: calf taken for a god
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:4
+  label: Mount Sinai lifted over the people
+  literal_form: mountain of Sinai lifted over the covenant recipients
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: law received under covenant
+  literal_form: law given to be received and performed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: drinking the calf
+  literal_form: calf made into something drunk into the heart; note describes calf
+    powder in water
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: fire consuming the calf
+  literal_form: fire used to burn the calf in the explanatory note
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: thousand-year life desire
+  literal_form: desire for life prolonged a thousand years
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:9
+  label: heart receiving revelation
+  literal_form: the Koran descending on the prophet's heart
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Rejection of confirming revelation
+  summary: A book from God confirms prior scripture, but the addressees reject it
+    while claiming belief in what was sent to them before.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Calf worship after Moses' signs
+  summary: Moses comes with evident signs, but the people afterward take the calf
+    as their god and are condemned for wrongdoing.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: Covenant at Sinai and rebellion
+  summary: God accepts the covenant, lifts Mount Sinai over the people, commands them
+    to receive and perform the law, and they reply that they have heard and rebelled.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:4
+  label: Calf drunk into the heart
+  summary: The people are made to drink down the calf into their hearts for unbelief;
+    the note explains this by reference to Moses burning and grinding the calf, scattering
+    it on water, and making the children of Israel drink.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Unwillingness to wish for death
+  summary: The passage challenges the claim of a special future mansion with God by
+    telling them to wish for death, but states they will not do so and are covetous
+    of life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:6
+  label: Gabriel brings the Koran
+  summary: Gabriel, by God's permission, causes the Koran to descend on the addressed
+    prophet's heart as confirmation, direction, and good tidings to the faithful.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:9
+  evidence_refs:
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: covenant accepted and broken
+  taxonomy_refs:
+  - covenant
+  basis: The passage describes God accepting a covenant, commanding reception of the
+    law, and the people responding with rebellion.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage is polemical and retrospective; it does not narrate the full
+    covenant episode.
+- id: motif:2
+  label: divine judgment on unbelief
+  taxonomy_refs:
+  - divine_judgment
+  basis: God curses infidelity, sends indignation and punishment, knows wicked-doers,
+    and sees deeds that cannot be escaped by prolonged life.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: Judgment language is distributed across accusation, warning, and commentary
+    rather than a single judgment scene.
+- id: motif:3
+  label: idolatry with the calf
+  taxonomy_refs: []
+  basis: The people are said to have taken the calf for their god after Moses came
+    with signs, and the calf is later drunk into their hearts.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No available taxonomy ref directly names calf idolatry.
+- id: motif:4
+  label: revealed book confirming earlier scripture
+  taxonomy_refs:
+  - wisdom
+  basis: The book from God and the Koran are described as sent down, confirming earlier
+    scripture, giving direction and good tidings.
+  evidence_refs:
+  - ev:2
+  - ev:11
+  confidence: medium
+  cautions: The taxonomy ref 'wisdom' is broad; the passage more specifically concerns
+    revelation and scripture.
+- id: motif:5
+  label: angelic mediation of revelation
+  taxonomy_refs: []
+  basis: Gabriel causes the Koran to descend on the prophet's heart by God's permission.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: No available taxonomy ref directly names angelic mediation.
+- id: motif:6
+  label: testing exclusive afterlife claim by wishing for death
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage challenges the claim that the future mansion with God belongs
+    exclusively to them by asking them to wish for death, then denies they will do
+    so because of prior deeds.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: This is a rhetorical challenge rather than a narrated afterlife journey.
+comparison_claims:
+- id: claim:1
+  claim: The passage's calf-drinking episode is explicitly linked by the translator's
+    note to the biblical calf episode in Exodus and Deuteronomy, where Moses burns,
+    grinds, scatters, and makes Israel drink the calf material.
+  claim_level: same_motif
+  target: Biblical golden calf episode, Exod. xxxii. 20 and Deut. ix. 21 as cited
+    in the note
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim rests on the supplied translator's note and cited biblical
+    references; the extracted passage does not provide the full biblical text.
+- id: claim:2
+  claim: The note compares the idea of an unpardonable sin of polytheism or idolatry
+    with the New Testament 'sin against the Holy Ghost.'
+  claim_level: same_function
+  target: New Testament sin against the Holy Ghost, as named in the commentary note
+  evidence_refs:
+  - ev:14
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a commentator's theological comparison, not a narrative motif
+    developed in the main passage.
+- id: claim:3
+  claim: The note compares the expression about deeds or sins going before judgment
+    with a passage attributed to St. Paul.
+  claim_level: linguistic_similarity
+  target: St. Paul, 1 Tim. v. 24 as cited in the note
+  evidence_refs:
+  - ev:15
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The supplied text states only an expression-level resemblance; it does
+    not establish shared narrative structure or historical dependence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9345-9346
+  quote_or_summary: The Jews say their hearts are uncircumcised; God has cursed them
+    with infidelity.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 9347-9352
+  quote_or_summary: A book from God comes confirming prior scriptures, but those who
+    had expected help against unbelievers refuse to believe in it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9353-9357
+  quote_or_summary: They are accused of selling their souls for a vile price by not
+    believing in what God sent down; indignation and ignominious punishment are announced.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9358-9363
+  quote_or_summary: When called to believe what God sent down, they say they believe
+    what was sent down to them and reject later truth that confirms what they possess.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 9362-9363
+  quote_or_summary: The passage asks why they have slain the prophets of God in times
+    past if they are true believers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 9364-9365
+  quote_or_summary: Moses came with evident signs, but afterward they took the calf
+    for their god and did wickedly.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 9366-9371
+  quote_or_summary: God accepted the covenant, lifted Mount Sinai over them, told
+    them to receive and perform the law, and they answered that they had heard and
+    rebelled; they were made to drink down the calf into their hearts.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 9393-9396
+  quote_or_summary: The note says Moses burned the calf, ground it to powder, strewed
+    it on water, and made the children of Israel drink it, citing Exod. xxxii. 20
+    and Deut. ix. 21.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 9372-9375
+  quote_or_summary: The passage challenges them to wish for death if the future mansion
+    with God is exclusively theirs, but says they will never do so because of what
+    their hands sent before them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 9376-9380
+  quote_or_summary: They are described as the most covetous of life, more than idolaters;
+    one would desire life prolonged a thousand years, but prolonged life cannot reprieve
+    punishment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 9381-9384
+  quote_or_summary: Whoever is an enemy to Gabriel is addressed; Gabriel caused the
+    Koran to descend on the prophet's heart by God's permission, confirming earlier
+    revelation and giving direction and good tidings.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 9337-9340
+  quote_or_summary: A note says the spirit is not the Holy Ghost in the Christian
+    acceptation, but Gabriel, who sanctified Jesus and constantly attended him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: lines 9397-9401
+  quote_or_summary: The note says Mohammed inferred Jewish hypocrisy from their forefathers'
+    disobedience and their rejection of him as an impostor though he was foretold
+    in the law.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:14
+  type: summary
+  locator: lines 9327-9333
+  quote_or_summary: The note explains evil as polytheism or idolatry, an unpardonable
+    sin if unrepented, and compares it to the New Testament sin against the Holy Ghost.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:15
+  type: summary
+  locator: lines 9402-9405
+  quote_or_summary: The note glosses 'what their hands have sent before them' as wicked
+    forgeries concerning scripture and compares the expression to St. Paul's statement
+    that some sins go before to judgment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Main passage observations are relatively direct. Some figures and comparisons
+    derive from translator/commentator notes, so comparison confidence is lower.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction limited to the supplied line range and metadata. Taxonomy references are used only from the provided lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l9322-l9412
+  passage_sha256=6bf1c75185634089148deb022b5575d158c871504116961abf341fbd20955ce6

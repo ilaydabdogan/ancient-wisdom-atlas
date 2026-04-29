@@ -1,0 +1,465 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l5622-l5672
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 5622-5672
+  start: '5622'
+  end: '5672'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Caaba and its surrounding enclosures, oratories,
+    well, colonnade, lamps, minarets, and sacred territory of Mecca. It states that
+    the Harm forbids fighting, hunting, fowling, or cutting tree branches, and explains
+    the sacred status of Meccan pigeons. It also reports a Muslim tradition that Adam,
+    after expulsion from paradise, asked God for a terrestrial counterpart of a celestial
+    house, and that God sent down a light-formed representation to Mecca beneath its
+    heavenly original.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Caaba is described as partly surrounded by a circular enclosure of pillars
+    with a low balustrade below and silver bars above.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Three buildings near the Caaba serve as oratories for three orthodox sects,
+    while the fourth sect uses the station of Abraham.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A south-eastern edifice covers the well Zemzem, the treasury, and the cupola
+    of al Abbas.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The larger piazza or square colonnade has small domes or cupolas, four minarets
+    or steeples, gilded spires and crescents, and lamps that are lit at night.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A third sacred enclosure around Mecca is marked by small turrets at varying
+    distances from the city.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Within the sacred territory it is unlawful to attack an enemy, hunt, fowl,
+    or cut a branch from a tree.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says Meccan pigeons are considered sacred because of the sanctuary
+    rules, while a footnote records an alternate tradition linking them to pigeons
+    at a cave where Mohammed and Abu Becr hid.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: obs:8
+  text: The temple of Mecca is said to have been venerated by Arabs long before Mohammed.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A Muslim tradition in the passage says Adam, after expulsion from paradise,
+    asked God to let him erect a building like one he had seen there, toward which
+    he could pray and which he could compass.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: God is said to have let down a representation of the celestial house in curtains
+    of light and placed it in Mecca beneath its original.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: A footnote records a variant in which the Beit al Mmr itself descended from
+    heaven for Adam and was taken back up at the Flood.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Adam
+  description: Adam appears in a reported Muslim tradition as expelled from paradise
+    and asking God for a building like the one he had seen there.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: GOD
+  description: God is said to let down a representation of the celestial house and
+    set it in Mecca.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: angels
+  description: The angels are described as compassing the celestial house.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Mohammed and Abu Becr
+  description: A footnote says Mohammed and Abu Becr hid in a cave when they fled
+    from Mecca.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Meccan pigeons
+  description: The pigeons at Mecca are described as sacred; a footnote gives a tradition
+    connecting them with pigeons that laid eggs at a cave mouth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:7
+roles:
+- id: role:1
+  label: expelled supplicant
+  assigned_to:
+  - fig:1
+  basis: Adam is described as acting after expulsion from paradise and begging God
+    for a corresponding sacred building.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: divine sender of the sanctuary model
+  assigned_to:
+  - fig:2
+  basis: God lets down and sets in Mecca a representation of the celestial house.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: celestial circumambulators
+  assigned_to:
+  - fig:3
+  basis: The angels are said to compass the celestial house.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: cave refugees
+  assigned_to:
+  - fig:4
+  basis: The footnote says Mohammed and Abu Becr hid in a cave when fleeing from Mecca.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: sacred sanctuary birds
+  assigned_to:
+  - fig:5
+  basis: The passage states that Meccan pigeons are reckoned sacred and gives sanctuary
+    and cave-related explanations.
+  evidence_refs:
+  - ev:3
+  - ev:7
+symbols:
+- id: sym:1
+  label: Caaba
+  literal_form: The central sacred building at Mecca surrounded by enclosures and
+    associated structures.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Beit al Mmr / frequented house
+  literal_form: A celestial house seen by Adam and compassed by angels.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: curtains of light
+  literal_form: The form in which God lets down a representation of the celestial
+    house.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: well Zemzem
+  literal_form: A well covered by an edifice near the Caaba.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: Harm sacred territory
+  literal_form: The sacred territory of Mecca marked by a third enclosure and small
+    turrets.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: tree branch taboo
+  literal_form: A rule forbidding cutting a branch from a tree inside the sacred territory.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: cave refuge
+  literal_form: The cave where a footnote says Mohammed and Abu Becr hid.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: sacred pigeons
+  literal_form: Pigeons at Mecca considered sacred, with an alternate cave-related
+    origin noted.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:9
+  label: boundary turrets
+  literal_form: Small turrets marking the sacred enclosure around Mecca at several
+    distances from the city.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Architectural layout of the Caaba precinct
+  summary: The passage describes the Caaba, its inner enclosure, nearby oratories,
+    the edifice over Zemzem, and the larger colonnaded piazza with cupolas, minarets,
+    crescents, and lamps.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rules of the sacred territory of Mecca
+  summary: The sacred territory of Mecca is marked by boundary turrets and is governed
+    by prohibitions against attack, hunting, fowling, and cutting tree branches; the
+    sacred status of pigeons is explained in this context.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Adam and the heavenly prototype of the Caaba
+  summary: After expulsion from paradise, Adam asks God for a building like the heavenly
+    house he had seen, and God sends down a light-formed representation to Mecca beneath
+    the celestial original.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Variant traditions in footnotes
+  summary: A footnote records a variant that the Beit al Mmr itself descended from
+    heaven and later returned at the Flood; another notes a tradition about pigeons
+    laying eggs at the cave where Mohammed and Abu Becr hid.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: terrestrial sanctuary aligned with a celestial prototype
+  taxonomy_refs:
+  - world_center
+  basis: The passage says the Meccan house was placed perpendicularly under its celestial
+    original and mirrors a heavenly house compassed by angels.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage reports a tradition in Sale's explanatory material, not a
+    Qur'anic verse in this excerpt.
+- id: motif:2
+  label: sanctuary boundary with nonviolence and nature taboos
+  taxonomy_refs: []
+  basis: The Harm around Mecca is marked by turrets and prohibits attacking enemies,
+    hunting, fowling, and cutting tree branches.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No specific available taxonomy family directly matches sanctuary taboo
+    or sacred precinct law.
+- id: motif:3
+  label: divine descent of a sacred architectural model
+  taxonomy_refs: []
+  basis: God lets down a representation of the celestial house in curtains of light
+    and sets it in Mecca; a footnote gives a variant in which the house itself descends
+    from heaven and later returns at the Flood.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The variant appears in a footnote and may represent a related but distinct
+    tradition.
+- id: motif:4
+  label: sacred birds of a holy place
+  taxonomy_refs: []
+  basis: The passage explains why the pigeons at Mecca are reckoned sacred and records
+    a cave-related alternate explanation.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The passage gives explanatory notes rather than a full narrative episode
+    about the birds.
+- id: motif:5
+  label: cave refuge with bird sign
+  taxonomy_refs: []
+  basis: A footnote says Mohammed and Abu Becr hid in a cave and that pigeons laid
+    eggs at its mouth.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The protective function of the eggs is not stated in the supplied passage;
+    only the cave, hiding, and eggs are mentioned.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the terrestrial Caaba with the celestial Beit
+    al Mmr by presenting the Meccan sanctuary as a counterpart placed under its heavenly
+    original and used for analogous circumambulation.
+  claim_level: same_function
+  target: Caaba and celestial Beit al Mmr / heavenly house pattern
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal comparison within the reported tradition; it does
+    not by itself establish historical contact with other traditions.
+- id: claim:2
+  claim: The Adam tradition in the passage supports a world-center reading of the
+    Meccan sanctuary because it places the earthly house directly beneath a celestial
+    original.
+  claim_level: archetypal_reading
+  target: world_center motif family
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not use the term world center; the classification
+    is based only on vertical alignment and celestial-terrestrial correspondence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5622-5630
+  quote_or_summary: The Caaba is surrounded at some distance by a circular enclosure
+    of pillars; nearby are three oratories, the station of Abraham for the fourth
+    sect, and the edifice covering Zemzem, the treasury, and the cupola of al Abbas.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5631-5641
+  quote_or_summary: The buildings are enclosed by a large colonnaded piazza with cupolas,
+    four minarets or steeples, gilded spires and crescents, and lamps lighted at night;
+    the outward enclosure began with Omar and was later enlarged.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5642-5652
+  quote_or_summary: Mecca as Harm or sacred territory has a third enclosure marked
+    by small turrets; within it one may not attack an enemy, hunt, fowl, or cut a
+    tree branch, which is given as the reason Meccan pigeons are sacred.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5653-5657
+  quote_or_summary: The temple of Mecca is described as a place of worship held in
+    veneration by Arabs from great antiquity, long before Mohammed, though probably
+    first used idolatrously.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5657-5666
+  quote_or_summary: 'Muslims are said to believe the Caaba is nearly coeval with the
+    world: Adam, after expulsion from paradise, asked God for a building like the
+    Beit al Mmr he had seen, toward which he might pray and which he might compass
+    as angels do the celestial one; God sent down a representation in curtains of
+    light and placed it in Mecca beneath the original.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5668-5672
+  quote_or_summary: A footnote says some identify the Beit al Mmr itself as Adam's
+    Caaba, sent down from heaven and taken back up at the Flood.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5663-5668
+  quote_or_summary: A footnote reports that al Mogholta says the Meccan temple pigeons
+    descend from pigeons that laid eggs at the cave mouth where Mohammed and Abu Becr
+    hid while fleeing Mecca.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The architectural and sanctuary-law details are explicit. Motif classification
+    is strongest for celestial-terrestrial sanctuary alignment and weaker for the
+    cave-and-pigeon note because the supplied text gives only a brief footnote.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to available motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l5622-l5672
+  passage_sha256=ffedc7d7b604505145fe2cac098d8995997e3623be970a72916850330be870d3

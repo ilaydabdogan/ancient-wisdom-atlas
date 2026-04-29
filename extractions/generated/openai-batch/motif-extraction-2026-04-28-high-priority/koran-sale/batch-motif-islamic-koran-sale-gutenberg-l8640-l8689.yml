@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l8640-l8689
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION VIII. / AL KORAN. / CHAPTER I. / IN THE NAME OF THE MOST MERCIFUL
+    GOD; lines 8640-8689
+  start: '8640'
+  end: '8689'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“PRAISE be to GOD, the LORD of all creatures; the most merciful, the king
+    of the day of judgment.”"
+  summary: The opening chapter is presented as a prayer praising God as merciful lord
+    and king of judgment, declaring worship and dependence on God, and asking to be
+    directed in the right way rather than the way of divine anger or error. The notes
+    identify the chapter as highly venerated and frequently repeated in devotion,
+    and gloss the “right way” as true religion exemplified by earlier prophets and
+    faithful people.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage opens with an invocation in the name of the most merciful God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: God is praised as lord of all creatures, most merciful, and king of the day
+    of judgment.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speakers state that they worship God and beg assistance from God.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speakers ask God to direct them in the right way.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The requested way is contrasted with the way of those under divine anger and
+    those who go astray.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A note describes the chapter as a prayer held in great veneration and often
+    repeated in public and private devotions.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: 'A note glosses “Lord of all creatures” as referring to rational creatures:
+    men, genii, and angels.'
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A note interprets the final petition as a request that God lead the supplicants
+    into true religion, called the right way.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The addressed deity, described as most merciful, lord of all creatures,
+    and king of the day of judgment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: supplicants
+  description: The first-person plural speakers who worship God, ask for assistance,
+    and request guidance in the right way.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: those to whom God has been gracious
+  description: A group named as the model whose way the supplicants ask to follow;
+    the note identifies them as prophets and faithful people who preceded Mohammed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: those under divine anger or going astray
+  description: Contrasted groups whose way the supplicants ask not to follow.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:5
+  name_or_label: rational creatures
+  description: The note glosses the creatures under God’s lordship as men, genii,
+    and angels.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: merciful divine ruler and judge
+  assigned_to:
+  - fig:1
+  basis: God is called most merciful and king of the day of judgment.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: worshipping supplicant
+  assigned_to:
+  - fig:2
+  basis: The speakers say they worship God, beg assistance, and ask for guidance.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: graced exemplar
+  assigned_to:
+  - fig:3
+  basis: Their way is the desired path for the supplicants.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: negative exemplar of anger or error
+  assigned_to:
+  - fig:4
+  basis: Their way is explicitly rejected in the petition.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: right way
+  literal_form: a way or path requested from God
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: day of judgment
+  literal_form: a day over which God is king
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: labyrinth of error
+  literal_form: a labyrinth used in the note as an image for error
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: praise of God
+  summary: The prayer praises God as lord, merciful, and king of the day of judgment.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: petition for assistance and guidance
+  summary: The supplicants declare worship, ask for assistance, and request direction
+    in the right way rather than the ways of anger or error.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: commentarial exposition of the prayer
+  summary: The notes describe the chapter’s devotional use and explain key expressions
+    such as lord of creatures and the right way.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: God is explicitly called king of the day of judgment, and the prayer contrasts
+    divine graciousness with divine anger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is a brief prayer, not a narrative account of a judgment scene.
+- id: motif:2
+  label: divine guidance on the right way
+  taxonomy_refs:
+  - wisdom
+  basis: The supplicants ask God to direct them in the right way, and the note interprets
+    this as being led into true religion.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy has no specific path-of-guidance motif; the association
+    with wisdom is functional and should be reviewed.
+- id: motif:3
+  label: contrasting ways of grace and error
+  taxonomy_refs:
+  - duality
+  basis: The prayer contrasts the way of those receiving divine grace with the way
+    of those under anger or going astray.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a moral-religious contrast, not an elaborated cosmological dualism.
+comparison_claims:
+- id: claim:1
+  claim: The note compares the chapter’s repeated devotional use to Christian use
+    of the Lord’s Prayer.
+  claim_level: same_function
+  target: Christian Lord’s Prayer as repeated public and private devotion
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is explicitly about devotional function and repetition,
+    not about textual dependence or shared origin.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8648-8651
+  quote_or_summary: "“PRAISE be to GOD, the LORD of all creatures; the most merciful,
+    the king of the day of judgment.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: 8652-8655
+  quote_or_summary: "“Thee do we worship, and of thee do we beg assistance. Direct
+    us in the right way ... not of those against whom thou art incensed, nor of those
+    who go astray.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 8657-8663
+  quote_or_summary: The note says the chapter is a prayer, greatly venerated, given
+    honorific titles, regarded as a quintessence of the Koran, and often repeated
+    in public and private devotions, as Christians do the Lord’s Prayer.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 8664-8670
+  quote_or_summary: 'The note explains that the expression rendered “Lord of all creatures”
+    literally means “Lord of the worlds” and here refers to rational creatures: men,
+    genii, and angels.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 8671-8684
+  quote_or_summary: The note interprets the final petition as asking God to lead the
+    supplicants into true religion, called the right way, identified with those to
+    whom God has been gracious, including earlier prophets and faithful people; it
+    contrasts this with those under anger or in error, and mentions a “labyrinth of
+    error.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on the supplied chapter text and translator’s notes.
+    Motif mapping for guidance and duality is interpretive and should be checked by
+    a human reviewer.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparisons beyond the passage’s own note comparing devotional repetition with the Christian Lord’s Prayer were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l8640-l8689
+  passage_sha256=0df8c09686b28576c117faa4641c42cd30fde0d75daa4cd36f73f8e730f72c4b

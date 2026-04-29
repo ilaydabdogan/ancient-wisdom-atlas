@@ -1,0 +1,411 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l4637-l4690
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 4637-4690
+  start: '4637'
+  end: '4690'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes levels or apartments of hell assigned to different
+    groups, guarded by nineteen angels. The damned acknowledge God's just judgment
+    and beg for relief or annihilation. The commentary summarizes punishments by heat
+    and cold, proportional suffering, and the orthodox distinction between eternal
+    damnation for unbelievers and eventual release for sinful believers, who may be
+    admitted into paradise and revived or cleansed by the water of life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hell is described as divided into named apartments or levels, with the seventh
+    called the lowest and worst.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Different religious or moral groups are assigned to different apartments of
+    hell in the described scheme.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:3
+  text: Each apartment is said to have a guard of nineteen angels.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The damned confess the just judgment of God and ask the angels to intercede
+    for alleviation or annihilation.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Punishments in hell are described as involving intense heat and excessive
+    cold, with degrees varying according to crimes and assigned apartment.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The lightest punishment described is being shod with shoes of fire that make
+    the skull boil like a cauldron.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage distinguishes eternal damnation for infidels from eventual deliverance
+    for sinful believers after expiation by suffering.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: One tradition says released believers are scorched, have their skins burned
+    black, are admitted into paradise, and have the insulting name 'infernals' removed
+    by God after prayer.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Another reported interpretation says such believers may be deprived of life
+    or cast into profound sleep in hell, then received into paradise and revived after
+    being washed with the water of life.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine judge whose judgment is confessed as just and who may remove
+    the opprobrious appellation from released believers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Mohammed
+  description: The prophet whose Koran and traditions are cited as describing the
+    torments of hell and the release of some believers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: damned or wicked sufferers
+  description: Those condemned to hell, suffering torments and asking the angelic
+    guards for relief or annihilation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: angelic guards
+  description: Angels set over the apartments of hell, nineteen in number.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: infidels, unbelievers, or idolaters
+  description: Those described as liable to eternal damnation and not released.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: sinful believers or Moslems
+  description: Those who professed the unity of God but whose evil actions outweighed
+    their good, and who may be released after expiation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: inhabitants of paradise
+  description: Those in paradise who call released believers 'infernals' in contempt.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine judge and deliverer
+  assigned_to:
+  - fig:1
+  basis: The damned confess God's just judgment, and God removes the insulting appellation
+    from released believers after prayer.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: prophetic teacher of afterlife conditions
+  assigned_to:
+  - fig:2
+  basis: The passage attributes descriptions of hell's torments and traditions of
+    release to Mohammed.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: condemned sufferers
+  assigned_to:
+  - fig:3
+  basis: They suffer in hell and plead for intercession, relief, or annihilation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: guardians of hell's apartments
+  assigned_to:
+  - fig:4
+  basis: Angels are set as guards over each apartment of hell.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: eternally condemned category
+  assigned_to:
+  - fig:5
+  basis: The passage states that infidels alone are liable to eternity of damnation
+    and will not be released.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: temporarily punished believers
+  assigned_to:
+  - fig:6
+  basis: Believers guilty of heinous sins are said to be delivered after expiating
+    their crimes by suffering.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: paradise witnesses who deride released sufferers
+  assigned_to:
+  - fig:7
+  basis: The inhabitants of paradise call the released believers 'infernals' before
+    God removes the appellation.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: stratified hell apartments
+  literal_form: named apartments or levels of hell, including a lowest seventh level
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: nineteen angelic guards
+  literal_form: nineteen angels guarding each apartment
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fire punishment
+  literal_form: shoes of fire causing the skull to boil
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: water of life
+  literal_form: water used to wash released believers so that they revive in paradise
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: annihilation as requested release
+  literal_form: the damned ask to be delivered by being annihilated
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Assignment of hell apartments
+  summary: A scheme of hell assigns named apartments to different groups, with the
+    seventh described as lowest and worst and assigned to hypocrites; a note reports
+    variant arrangements.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: scene:2
+  label: Angelic guards and plea of the damned
+  summary: Angelic guards are set over the apartments, and the damned confess God's
+    just judgment while asking for intercession, relief, or annihilation.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Torments proportional to crimes
+  summary: Hell's punishments are described as involving heat and cold, varying by
+    crime and apartment; even the lightest punishment uses fiery shoes.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Temporary punishment and release of sinful believers
+  summary: The passage states that sinful believers may leave hell after suffering,
+    enter paradise, and in some traditions revive after washing with the water of
+    life.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine judgment with graded afterlife punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes just divine judgment, condemnation to different hell
+    apartments, and punishments proportional to crimes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is commentary/translation context and summarizes doctrine
+    rather than narrating a single mythic episode.
+- id: motif:2
+  label: mapped afterlife with stratified hell regions
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Hell is organized into named apartments or levels, with groups assigned to
+    them and a lowest seventh level identified.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a doctrinal map of hell but does not describe an actual
+    journey through it.
+- id: motif:3
+  label: purification through suffering followed by paradise
+  taxonomy_refs:
+  - death_rebirth
+  basis: Sinful believers suffer in hell, are later released, admitted into paradise,
+    and in one tradition revive after washing with the water of life.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The text presents this as afterlife expiation and release; 'death_rebirth'
+    is approximate because the passage also says the condition may be sleep rather
+    than death.
+- id: motif:4
+  label: life-restoring water in paradise
+  taxonomy_refs:
+  - resurrection
+  basis: Released believers are said in one interpretation to revive in paradise after
+    being washed with the water of life.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage reports this as one interpretation among others and does not
+    elaborate the mechanism.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4637-4645
+  quote_or_summary: The passage lists named apartments of hell assigned to groups,
+    ending with a seventh, lowest, worst level for hypocrites.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 4645-4650
+  quote_or_summary: Each apartment is guarded by nineteen angels; the damned confess
+    God's just judgment and ask for intercession, relief, or annihilation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 4651-4662
+  quote_or_summary: Hell's torments include intense heat and excessive cold; punishments
+    vary according to crimes and apartment, and the lightest punishment involves shoes
+    of fire making the skull boil.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 4662-4674
+  quote_or_summary: The passage states that infidels remain eternally damned, while
+    believers guilty of heinous sins are delivered after expiating crimes by suffering.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 4674-4685
+  quote_or_summary: Traditions describe sinful believers being scorched and later
+    admitted into paradise; another version says they sleep or are deprived of life
+    in hell, then revive in paradise after washing with the water of life.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 4686-4690
+  quote_or_summary: A note reports variant assignments of groups to the hell apartments,
+    but says all agree in assigning the seventh to hypocrites.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif taxonomy
+    links are cautious because the passage is doctrinal exposition rather than narrative.
+    No comparison claims were added because the passage itself does not make a comparative
+    claim beyond internal variant arrangements.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external taxonomy IDs beyond provided refs were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l4637-l4690
+  passage_sha256=c44bd94755b26a2752e18d9aac77420d2887820cfcdc6e9c9c32bd19b6a6ab41

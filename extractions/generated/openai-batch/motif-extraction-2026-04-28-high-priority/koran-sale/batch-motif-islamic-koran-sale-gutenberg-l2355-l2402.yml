@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l2355-l2402
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: THE KORAN. / PRELIMINARY DISCOURSE / SECTION I. / SECTION II.; lines 2355-2402
+  start: '2355'
+  end: '2402'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"raised up on purpose by GOD, to be a scourge to the Christian church"'
+  summary: The passage describes the weakening of the Roman and Persian empires before
+    and around Mohammed's time, attributes Arab success to religion and divine assistance,
+    frames the Arabs as a divine scourge on the Christian church, and recounts Persian
+    internal dissensions involving Manes, Mazdak, Kobad, and Anushirwan.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Success in enterprises against opposing powers is said to have been attributed
+    to a new religion and its divine assistance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Roman empire is described as declining after Constantine, with the western
+    half overrun by Goths and the eastern half weakened by Huns and Persians.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Heraclius is described as courageous and successful against Persians, yet
+    the empire is said to have remained mortally wounded and vulnerable to Arab enterprises.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Arabs are described as seemingly raised by God to be a scourge to the
+    Christian church for failing to live according to its religion.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Greek luxury, degeneracy, monachism, and persecution are described as weakening
+    forces.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Persia is described as declining before Mohammed because of internal disputes,
+    partly attributed to the doctrines of Manes and Mazdak.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Mazdak is said to have claimed to be a prophet sent from God and to have preached
+    community of women and possessions because all men were brothers descended from
+    common parents.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Kobad is said to have embraced Mazdak's opinions and permitted him access
+    to the queen according to the new doctrine, but Anushirwan persuaded Mazdak not
+    to use that permission.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Anushirwan is said to have killed Mazdak, his followers, and the Manicheans,
+    and to have restored the ancient Magian religion.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Mohammed is said to have been born during the reign of Anushirwan, after whom
+    the Persian throne was repeatedly contested until Persia was subverted by the
+    Arabs.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Divine source to whom Arab success and providential raising are attributed
+    in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Arabs
+  description: A people whose enterprises are described as favored by the weakened
+    state of the empires and as a scourge to the Christian church.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: fig:3
+  name_or_label: Christian church
+  description: Religious community described as being scourged for not living according
+    to its received holy religion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Roman empire
+  description: Empire described as declining after Constantine and weakened by invasions
+    and internal losses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Persians / Persian empire
+  description: Empire described as weakened by wars and internal dissensions before
+    being subverted by the Arabs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:9
+- id: fig:6
+  name_or_label: Heraclius
+  description: Emperor described as courageous, capable, and successful against the
+    Persians, though unable to restore the empire fully.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Manes
+  description: Teacher whose doctrines are named as contributing to Persian dissensions.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Mazdak
+  description: Claimant prophet who preached communal women and possessions and whose
+    followers were later killed.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:9
+  name_or_label: Kobad
+  description: Persian ruler who embraced Mazdak's opinions.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Anushirwan
+  description: Son of Kobad and later Persian ruler who stopped Mazdak's intended
+    action and later killed Mazdak and his followers while restoring Magian religion.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:11
+  name_or_label: Mohammed
+  description: Said to have been born during the reign of Anushirwan.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: divine agent
+  assigned_to:
+  - fig:1
+  basis: Success and the raising of the Arabs are attributed to God or divine assistance.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: divinely raised scourge
+  assigned_to:
+  - fig:2
+  basis: The Arabs are described as raised by God to be a scourge to the Christian
+    church.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: chastised religious community
+  assigned_to:
+  - fig:3
+  basis: The Christian church is described as receiving punishment for not living
+    according to its religion.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: declining empire
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Both Roman and Persian powers are described as weakened by invasions, war,
+    or internal dissension.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:9
+- id: role:5
+  label: restoring ruler unable to avert decline
+  assigned_to:
+  - fig:6
+  basis: Heraclius is described as courageous and successful, but the empire remains
+    mortally wounded.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: doctrinal source of dissension
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The doctrines of Manes and Mazdak are named as causes of Persian internal
+    dissensions.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: claimant prophet and social reform preacher
+  assigned_to:
+  - fig:8
+  basis: Mazdak is said to have pretended to be a prophet sent from God and preached
+    community of women and possessions.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: royal adherent of new doctrine
+  assigned_to:
+  - fig:9
+  basis: Kobad is said to have embraced Mazdak's opinions.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: restorer and suppressor
+  assigned_to:
+  - fig:10
+  basis: Anushirwan stopped Mazdak's action, then killed Mazdak and followers and
+    restored Magian religion.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:10
+  label: new religious founder born amid imperial decline
+  assigned_to:
+  - fig:11
+  basis: Mohammed is located chronologically in Anushirwan's reign, before later Persian
+    collapse under the Arabs.
+  evidence_refs:
+  - ev:9
+symbols: []
+scenes:
+- id: scene:1
+  label: Imperial weakening before Arab expansion
+  summary: The Roman empire is described as weakened by invasions, internal losses,
+    and moral decline, while the passage states that this created a favorable time
+    for Arab enterprises.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Providential scourge against the Christian church
+  summary: The passage interprets the Arabs as raised by God to punish the Christian
+    church for failing to live according to its holy religion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Mazdak's doctrine and royal acceptance
+  summary: Mazdak claims prophetic authority and preaches communal women and possessions;
+    Kobad embraces his doctrine, while Anushirwan intervenes to prevent one application
+    involving the queen.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Suppression of sects and Persian succession
+  summary: Anushirwan kills Mazdak, his followers, and the Manicheans, restores Magian
+    religion, and Mohammed is said to be born during his reign; after him Persian
+    rule becomes contested until Arab conquest.
+  figure_refs:
+  - fig:5
+  - fig:8
+  - fig:10
+  - fig:11
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Divine punishment through a conquering people
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage states that the Arabs seemed to have been raised by God as a
+    scourge to the Christian church because of moral-religious failure.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is the translator/commentator's providential historical interpretation,
+    not a narrative episode from the Qur'anic text itself.
+- id: motif:2
+  label: Claimant prophet brings radical communal doctrine
+  taxonomy_refs: []
+  basis: Mazdak is described as pretending to be a prophet sent from God and preaching
+    communal women and possessions to end quarrels among men.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage is polemical and calls Mazdak an impostor; no independent
+    account of the doctrine is supplied here.
+- id: motif:3
+  label: Restoration by suppressing disruptive sects
+  taxonomy_refs: []
+  basis: Anushirwan is described as killing Mazdak, his followers, and the Manicheans
+    and restoring the ancient Magian religion.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: This is a historical-polemical claim rather than a fully developed mythic
+    motif in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2355-2356
+  quote_or_summary: Success against opposing powers was attributed to "their new religion
+    and the divine assistance thereof."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 2357-2366
+  quote_or_summary: The Roman empire declined after Constantine; its western half
+    was overrun by Goths and its eastern half was weakened by Huns and Persians.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 2366-2377
+  quote_or_summary: Heraclius had success against the Persians, yet the empire was
+    "mortally wounded" and the Arabs seemed "raised up on purpose by GOD, to be a
+    scourge to the Christian church."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 2378-2381
+  quote_or_summary: Greek luxury, degeneracy of manners, monachism, and persecution
+    are said to have weakened their forces.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2382-2385
+  quote_or_summary: The Persians are described as declining before Mohammed because
+    of internal broils and dissensions, partly arising from doctrines of Manes and
+    Mazdak.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 2385-2391
+  quote_or_summary: Mazdak "pretended himself a prophet sent from GOD" and preached
+    "a community of women and possessions" because all men were brothers from common
+    parents.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: 2391-2395
+  quote_or_summary: Kobad embraced Mazdak's opinions and gave permission involving
+    the queen; Anushirwan persuaded Mazdak not to make use of it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 2395-2399
+  quote_or_summary: Anushirwan, on succeeding his father, killed Mazdak, his followers,
+    and the Manicheans, and restored the ancient Magian religion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 2400-2402
+  quote_or_summary: Mohammed was born in Anushirwan's reign; after Anushirwan the
+    Persian throne was almost continually contested until subverted by the Arabs.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a historical and polemical section from Sale's preliminary
+    discourse, not a mythic narrative. Motif extraction is limited to explicit providential
+    and claimant-prophet patterns stated in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol refs were assigned because the passage does not present supported literal symbols from the available symbol list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l2355-l2402
+  passage_sha256=1cc3e8a944c6a809bb5e52abde459e948583f21271f8333e8d84bdbc1f0507d8

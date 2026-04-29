@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l3375-l3422
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: PRELIMINARY DISCOURSE / SECTION I. / SECTION II. / SECTION III; lines 3375-3422
+  start: '3375'
+  end: '3422'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage comments on the style and rhetorical power of the Koran. It
+    recounts Labd's admiration and conversion after reading early verses, describes
+    the Koran's beauty, rhyme, obscurity, and sublimity, and argues that its verbal
+    harmony and oratory helped persuade hearers. It also notes that some opponents
+    attributed Mohammed's captivating effect on audiences to witchcraft or enchantment.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Labd, described as then an idolater, read only the first verses, was struck
+    with admiration, and immediately professed the religion taught by them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Labd declared that the words could proceed only from an inspired person.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Labd later helped Mohammed by writing answers to satires and invectives against
+    Mohammed and his religion.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Koran is described as generally beautiful and fluent, concise and often
+    obscure, adorned with bold figures, and sublime where God's majesty and attributes
+    are described.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The sentences of the Koran are said generally to conclude in a long continued
+    rhyme, with interruptions and repetitions made for the sake of rhyme.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Arabian compositions are said to use passages from and allusions to the Koran,
+    making knowledge of the book necessary for understanding them.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says harmony of expression may have helped Arabians relish the
+    doctrine and made arguments more effective.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Well-chosen and artfully placed words are compared in effect to music, being
+    able to ravish or amaze.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Mohammed is said to have used rhetorical skill in his revelations to preserve
+    dignity and sublimity of style and imitate the prophetic manner of the Old Testament.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Several opponents thought Mohammed's captivating effect on audiences was due
+    to witchcraft and enchantment.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Labd
+  description: A person described as an idolater who admired the first verses, professed
+    the religion, and later helped Mohammed answer attacks.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Mohammed
+  description: The religious figure whose revelations and rhetoric are discussed,
+    and who is said to have captivated audiences.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Amri al Kais
+  description: Prince of the tribe of Asad and author of one of the seven famous poems
+    called al Moallakat; named among those making satires and invectives.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Arabians
+  description: A collective audience described as delighted with rhyme and as possibly
+    influenced by the harmony of expression in the Koran.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Mohammed's opponents
+  description: Opponents who attributed the captivating effect on audiences to witchcraft
+    and enchantment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: converted admirer
+  assigned_to:
+  - fig:1
+  basis: Labd reads the first verses, admires them, and immediately professes the
+    religion.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: defender in writing
+  assigned_to:
+  - fig:1
+  basis: Labd later writes answers to attacks made against Mohammed and his religion.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: rhetorical religious teacher
+  assigned_to:
+  - fig:2
+  basis: Mohammed is described as using rhetorical skill in revelations and captivating
+    audiences.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:4
+  label: poetic opponent
+  assigned_to:
+  - fig:3
+  basis: Amri al Kais is named in connection with satires and invectives against Mohammed
+    and his religion, and is identified as a prince and poet.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: receptive poetic audience
+  assigned_to:
+  - fig:4
+  basis: The Arabians are described as delighted by rhyme and influenced by harmonious
+    expression.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: accusers of enchantment
+  assigned_to:
+  - fig:5
+  basis: Some opponents thought the captivating effect was caused by witchcraft and
+    enchantment.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: powerful words
+  literal_form: well-chosen and artfully placed words
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:9
+- id: sym:2
+  label: rhyme and cadence
+  literal_form: long continued rhyme and cadence of well-turned sentences
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: scriptural sublimity
+  literal_form: style describing the majesty and attributes of God and imitating prophetic
+    manner
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:4
+  label: witchcraft and enchantment accusation
+  literal_form: opponents' attribution of rhetorical captivation to witchcraft and
+    enchantment
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Labd's conversion through first verses
+  summary: Labd reads the first verses, is moved to admiration, and professes the
+    religion, saying the words must come from an inspired person.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Koranic style and rhyme described
+  summary: The passage describes the Koran as beautiful, fluent, concise, obscure,
+    figurative, sublime, and rhymed, with repetition for sound.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Rhetorical persuasion and enchantment accusation
+  summary: The passage says harmony of expression helped make doctrine persuasive,
+    compares verbal power to music, and reports that opponents saw Mohammed's audience-captivation
+    as witchcraft or enchantment.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: transformative sacred or inspired speech
+  taxonomy_refs:
+  - wisdom
+  basis: A listener is converted after reading first verses and declares the words
+    to come from an inspired person; the passage also presents rhetorical style as
+    helping doctrine prevail.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage is a translator's preliminary commentary rather than a narrative
+    from the Koran itself; the taxonomy reference is broad and should be reviewed.
+- id: motif:2
+  label: enchanting power of words
+  taxonomy_refs: []
+  basis: Words are said to ravish or amaze like music, and opponents attribute Mohammed's
+    captivating effect to witchcraft and enchantment.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The enchantment is reported as opponents' interpretation, not as an affirmed
+    supernatural event in the passage.
+- id: motif:3
+  label: rhyme as persuasive sacred style
+  taxonomy_refs: []
+  basis: The passage emphasizes long continued rhyme, cadence, and harmony of expression
+    as factors that may make doctrine appealing and arguments effective.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a literary-rhetorical pattern rather than a mythic plot motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the effect of well-chosen words to music
+    in their power to ravish or amaze.
+  claim_level: same_function
+  target: music as affective verbal or sonic persuasion
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an analogy within the passage, not evidence of a shared mythological
+    tradition.
+- id: claim:2
+  claim: The passage says Mohammed's style imitated the prophetic manner of the Old
+    Testament.
+  claim_level: visual_similarity
+  target: Old Testament prophetic manner
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim concerns literary style, not a direct shared narrative motif;
+    'visual_similarity' is only an approximate claim level for stylistic resemblance.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3375-3378
+  quote_or_summary: Labd, then an idolater, read the first verses, was struck with
+    admiration, immediately professed the religion, and said such words could proceed
+    only from an inspired person.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 3378-3384
+  quote_or_summary: Labd later served Mohammed by writing answers to satires and invectives
+    against him and his religion, including those associated with Amri al Kais, prince
+    of Asad and poet of the Moallakat.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 3385-3394
+  quote_or_summary: The Koran's style is described as beautiful, fluent, concise,
+    often obscure, figurative, and sublime especially in descriptions of God's majesty
+    and attributes.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 3395-3401
+  quote_or_summary: Although prose, its sentences generally end in long continued
+    rhyme, causing interruptions of sense and repetitions for the sake of sound.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 3401-3407
+  quote_or_summary: The Arabians are described as delighted with this rhyming and
+    as using frequent passages of and allusions to the Koran in elaborate compositions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: 3408-3413
+  quote_or_summary: The passage says the Koran's harmony of expression probably helped
+    Arabians relish its doctrine and gave efficacy to arguments that might otherwise
+    not have prevailed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: quote
+  locator: 3413-3418
+  quote_or_summary: Words well chosen and artfully placed are described as powerful
+    'to ravish or amaze' like music, and cadence can move the hearer.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation from public domain passage.
+- id: ev:8
+  type: summary
+  locator: 3418-3421
+  quote_or_summary: Mohammed is said to have used rhetorical skill in his revelations
+    to preserve dignity and sublimity of style and to imitate the prophetic manner
+    of the Old Testament.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:9
+  type: summary
+  locator: 3421-3422
+  quote_or_summary: Mohammed is said to have captivated audiences so strongly that
+    several opponents thought it the effect of witchcraft and enchantment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is literary and polemical commentary in a public-domain translation
+    preface, not a mythic narrative. Motif candidates are therefore rhetorical and
+    symbolic rather than plot-based.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available concrete symbol refs such as cave, fire, milk, mountain, serpent, tree, or water are present in the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l3375-l3422
+  passage_sha256=01d2195f029e762ab487b041d334811e9064ee90d974745df9be3d88c085d80b

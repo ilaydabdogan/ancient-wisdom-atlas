@@ -1,0 +1,437 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l6672-l6726
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION V. / OF CERTAIN NEGATIVE PRECEPTS IN THE KORN. / SECTION VI. / OF
+    THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS.; lines 6672-6726
+  start: '6672'
+  end: '6726'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage discusses penalties and legal principles attributed to the
+    Koran and related commentary: involuntary manslaughter and blood revenge, Jewish
+    cities of refuge, theft punished by cutting off the hand, retaliation for bodily
+    injury, and the interpretation of ''eye for eye and tooth for tooth'' as proportional
+    retribution or fines rather than literal mutilation.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Mohammed imposed a heavy punishment on involuntary manslaughter
+    to deter people and to accommodate the revengeful temper of his countrymen.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes a Jewish manslayer who escaped to a city of refuge and
+    had to remain there until the death of the high priest in office at the time of
+    the killing.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says that if the manslayer left the asylum too early, the revenger
+    of blood could kill him without guilt.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Theft is described as being punished by cutting off the offending part, identified
+    as the hand.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the Sonna forbids this punishment unless the stolen item
+    has a certain value.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The law of retaliation is said to have been ordained by the law of Moses and
+    approved by the Koran.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says the law of retaliation was allowed to prevent private revenge
+    among Arabians and Jews.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says retaliation is seldom executed literally and is generally
+    converted into a fine paid to the injured party.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The expression 'eye for eye and tooth for tooth' is interpreted as a proverbial
+    expression meaning punishment proportionate to the seriousness of the act.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Presented as the lawgiver who laid down or allowed regulations concerning
+    manslaughter and retaliation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Mohammed's countrymen / Arabians
+  description: Described as prone to revenge and as a group for whom the law of retaliation
+    was allowed to prevent private revenge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Jews
+  description: Described as similarly addicted to revenge and associated with the
+    practice of refuge for a manslayer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Manslayer
+  description: A person who kills and escapes to a city of refuge, where he must remain
+    for a prescribed period.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: High priest
+  description: The office-holder whose death marks the end of the manslayer's required
+    stay in the refuge city.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Revenger of blood
+  description: A person who may kill the manslayer if he leaves the asylum before
+    the prescribed time.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Thief
+  description: A person subject to punishment by cutting off the hand if the stolen
+    item meets a certain value threshold.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Injured party
+  description: The person who receives a mulct or fine when retaliation is converted
+    into compensation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Judges
+  description: Those who punish according to the seriousness of the act in the passage's
+    interpretation of retaliation language.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: lawgiver
+  assigned_to:
+  - fig:1
+  basis: Mohammed is described as laying down regulations and allowing legal rules.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: revenge-prone community
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Arabians and Jews are described as addicted to revenge or prone to particular
+    revenge.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: offender subject to regulated penalty
+  assigned_to:
+  - fig:4
+  - fig:7
+  basis: The manslayer and thief are described as offenders under specific legal penalties
+    or restrictions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: time-marker authority
+  assigned_to:
+  - fig:5
+  basis: The death of the high priest determines when the manslayer may leave the
+    city of refuge.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: blood avenger
+  assigned_to:
+  - fig:6
+  basis: The revenger of blood is permitted to kill the manslayer if found outside
+    the asylum before the appointed time.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: recipient of compensation
+  assigned_to:
+  - fig:8
+  basis: The injured party receives a fine when literal retaliation is not executed.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: proportional adjudicator
+  assigned_to:
+  - fig:9
+  basis: Judges are described as assigning punishment according to the heinousness
+    of the act.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: city of refuge / asylum
+  literal_form: city of refuge; asylum
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: death of the high priest
+  literal_form: death of the person who was high priest
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cut-off hand
+  literal_form: hand cut off as the offending part
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: eye and tooth retaliation formula
+  literal_form: eye for eye and tooth for tooth
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: mulct or fine
+  literal_form: pecuniary fine paid to the injured party
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Manslayer confined in refuge until a death-marked term ends
+  summary: A manslayer who reaches a city of refuge must stay there until the high
+    priest dies; leaving early exposes him to killing by the revenger of blood.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Theft punished by hand amputation with a value threshold
+  summary: The passage describes theft as punishable by cutting off the hand, while
+    also noting a Sonna limitation requiring the stolen thing to have a certain value.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Retaliation converted into proportional compensation
+  summary: For bodily injuries, the passage links Koranic approval to Mosaic retaliation,
+    but says literal retaliation is generally replaced by a fine and interpreted as
+    proportional punishment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: blood revenge contained by asylum and waiting period
+  taxonomy_refs: []
+  basis: The passage describes a manslayer protected in a city of refuge until the
+    high priest's death, with early departure allowing the blood avenger to kill him.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a legal-religious pattern rather than a mythic narrative motif
+    in the narrow sense.
+- id: motif:2
+  label: bodily penalty mirrors the offending body part
+  taxonomy_refs: []
+  basis: Theft is described as punished by cutting off the offending part, the hand.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage discusses legal penalty and commentary, not a narrative episode.
+- id: motif:3
+  label: retaliation transformed into proportional retribution
+  taxonomy_refs: []
+  basis: The passage treats 'eye for eye and tooth for tooth' as a proverbial formula
+    for punishment proportional to the crime, often converted into a fine.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference directly corresponds to this legal motif.
+- id: motif:4
+  label: law as restraint on private revenge
+  taxonomy_refs: []
+  basis: The passage says retaliation rules were allowed to prevent particular or
+    private revenges among Arabians and Jews.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The motif is extracted as a social-legal pattern rather than as a mythological
+    symbol.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Koranic retaliation law with the law of Moses,
+    presenting both as serving the function of restraining private revenge.
+  claim_level: same_function
+  target: Mosaic law / Pentateuch retaliation formula
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is made by the commentator in this translation/commentary
+    passage; it does not by itself establish historical dependence beyond the stated
+    textual comparison.
+- id: claim:2
+  claim: The passage compares the practice of converting retaliation into settlement
+    with the old Roman talio, noting that Roman retaliation was not inflicted if the
+    parties reached agreement.
+  claim_level: same_function
+  target: Roman talio in the laws of the twelve tables
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Roman comparison appears in a note and is brief; it supports functional
+    similarity only.
+- id: claim:3
+  claim: The passage compares the Jewish city of refuge rule with the broader theme
+    of containing revenge by enforced absence and time.
+  claim_level: same_function
+  target: Jewish city of refuge rule
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage describes the Jewish rule as an analogy for revenge mitigation,
+    not as a shared mythic narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6672-6676
+  quote_or_summary: Mohammed is said to have imposed a heavy punishment on involuntary
+    manslaughter to deter it and to satisfy the revengeful temper of his countrymen.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6676-6686
+  quote_or_summary: Among the Jews, a manslayer who reached a city of refuge had to
+    stay there until the high priest's death; if he left before then, the revenger
+    of blood could kill him without guilt.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6687-6696
+  quote_or_summary: Theft is described as punished by cutting off the hand, while
+    the Sonna is said to require the stolen object to be of a certain value before
+    this punishment is inflicted.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6697-6710
+  quote_or_summary: For bodily injuries, the passage says the Koran approves Mosaic
+    retaliation; it explains this as a measure to prevent private revenge and notes
+    that the punishment is generally converted into a fine paid to the injured party.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 6710-6719
+  quote_or_summary: '"eye for eye and tooth for tooth" is treated as a proverbial
+    expression meaning punishment according to the heinousness of the act.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:6
+  type: summary
+  locator: lines 6720-6726
+  quote_or_summary: A note states that the old Roman talio under the twelve tables
+    was not inflicted if the delinquent could agree with the injured person.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is legal and comparative commentary rather than mythic narrative;
+    motifs are therefore extracted as legal-symbolic patterns and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy symbol or motif reference was applied because the passage centers on legal punishment, refuge, retaliation, and compensation rather than the listed mythological motif families or symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l6672-l6726
+  passage_sha256=cfc58c8c285442d13fb54122924256368dfd1dd55aafb3b915b881855ea98a67

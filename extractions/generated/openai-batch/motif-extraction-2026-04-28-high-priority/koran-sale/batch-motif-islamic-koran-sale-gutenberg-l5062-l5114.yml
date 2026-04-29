@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l5062-l5114
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 5062-5114
+  start: '5062'
+  end: '5114'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses orthodox and allegorical understandings of paradisiacal
+    descriptions; rejects the claim that women lack souls or rewards in the next life;
+    states that women as well as men are punished or rewarded by God; recounts a saying
+    in which an old woman is told that no old woman enters paradise because God will
+    make her young again; and introduces the doctrine of absolute divine decree and
+    predestination recorded in the preserved table.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some Mohammedans are described as reading the prophet's descriptions of the
+    next world allegorically or spiritually, while the general orthodox doctrine is
+    described as requiring literal belief.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An oath imposed on Christians is described as invoking belief in black-eyed
+    girls and corporeal pleasures in the next world if the swearer falsifies an engagement.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage denies that Mohammedans generally teach that women have no souls
+    or no next-life reward.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Several passages in the Koran are summarized as affirming that women will
+    be punished for evil actions and rewarded for good deeds in the next life, with
+    no distinction of sexes by God in that respect.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage reports a general notion that good women will not be admitted
+    into the same abode as men, but will enter a separate place of happiness with
+    delights.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Some are said to allow that a man in paradise may also have the company of
+    women who were his wives in this world, or such of them as he desires.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Mohammed is said to have told an old woman that no old woman would enter paradise,
+    then explained that God would make her young again.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The sixth great point of faith is described as belief in God's absolute decree
+    and predestination of both good and evil.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Events and human conditions are described as irrevocably fixed and recorded
+    from eternity in the preserved table.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Mohammedans
+  description: A collective group described as holding orthodox and, in some cases,
+    allegorical views of paradisiacal descriptions and predestination.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: Christians
+  description: A group described as being made to swear a sacred oath involving next-world
+    black-eyed girls and corporeal pleasures.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Mohammed
+  description: The prophet described as respecting women and as answering an old woman
+    about admission into paradise.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: God
+  description: The divine figure described as rewarding and punishing without sex
+    distinction, making the old woman young again, and decreeing events absolutely.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: women
+  description: Women are described as having next-life punishment for evil actions
+    and reward for good deeds, and good women are said to enter a separate place of
+    happiness.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: men
+  description: Men are described as having an abode in the next life supplied by paradisiacal
+    females, with some allowing the company of former wives.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: paradisiacal females
+  description: Females described as supplying the places of women in the men's abode
+    in paradise.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: old woman
+  description: A woman who asks Mohammed to intercede with God that she may be admitted
+    into paradise and cries after being told no old woman will enter there.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: orthodox believers and interpreters
+  assigned_to:
+  - fig:1
+  basis: The passage contrasts allegorical interpretations among some Mohammedans
+    with a general orthodox literal doctrine.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: oath-bound outsiders
+  assigned_to:
+  - fig:2
+  basis: Christians are described as being made to swear an oath invoking paradisiacal
+    claims.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: prophet and intercessory addressee
+  assigned_to:
+  - fig:3
+  basis: Mohammed is described as the prophet and as being asked by an old woman to
+    intercede with God.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: rewarder and punisher
+  assigned_to:
+  - fig:4
+  basis: God is described as making no distinction of sexes in punishment and reward
+    for actions.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: absolute decreer
+  assigned_to:
+  - fig:4
+  basis: The doctrine described attributes absolute decree and predestination of good
+    and evil to God's will.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: female recipients of afterlife recompense
+  assigned_to:
+  - fig:5
+  basis: Women are described as punished for evil actions and rewarded for good deeds
+    in the next life.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: male inhabitants of paradisiacal abode
+  assigned_to:
+  - fig:6
+  basis: The passage refers to men's abode and the company provided there.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: paradisiacal companions
+  assigned_to:
+  - fig:7
+  basis: Paradisiacal females are described as supplying women's places in the men's
+    abode.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: supplicant for paradise
+  assigned_to:
+  - fig:8
+  basis: The old woman asks Mohammed to intercede with God for admission into paradise.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: black-eyed girls in the next world
+  literal_form: black-eyed girls
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: corporeal pleasures in the next world
+  literal_form: corporeal pleasures
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: separate place of happiness
+  literal_form: a separate place of happiness with all sorts of delights
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: youth restored in paradise
+  literal_form: God making an old woman young again
+  associated_figures:
+  - fig:4
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: preserved table
+  literal_form: the preserved table
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Literal and allegorical readings of paradise
+  summary: The passage contrasts refined allegorical interpretations of paradisiacal
+    descriptions with the orthodox requirement to believe them literally, including
+    corporeal pleasures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Women and next-life recompense
+  summary: The passage rejects a claim that women lack souls or reward and states
+    that women are punished and rewarded in the next life as men are, while also reporting
+    a notion of a separate place of happiness for good women.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Old woman made young for paradise
+  summary: An old woman asks Mohammed to intercede for her entry into paradise; after
+    saying no old woman enters paradise, he explains that God will make her young
+    again.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Absolute decree and the preserved table
+  summary: The passage introduces belief in God's absolute decree and predestination,
+    saying that fortune, faith, obedience, and disobedience are fixed and recorded
+    from eternity in the preserved table.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: afterlife reward and punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage states that women in the next life will be punished for evil
+    actions and rewarded for good deeds, and that God makes no distinction of sexes
+    in this respect.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage is explanatory commentary rather than a narrative episode
+    from the Koran itself.
+- id: motif:2
+  label: paradise as abode of delights
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage describes the next world, an abode for men, paradisiacal females,
+    corporeal pleasures, and a separate place of happiness for good women.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage gives doctrinal description and polemical commentary, not
+    a mapped journey through afterlife regions.
+- id: motif:3
+  label: rejuvenation for paradise
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: The old woman is told that no old woman enters paradise because God will
+    make her young again.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage describes rejuvenation, but not a full death-and-rebirth narrative.
+- id: motif:4
+  label: cosmic record of destiny
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes good, evil, fortune, faith, and conduct as fixed by
+    divine will and recorded from eternity in the preserved table.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy has no direct fate or predestination category;
+    divine_judgment is only a partial fit.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5062-5068
+  quote_or_summary: Some Mohammedans are said to read the prophet's descriptions as
+    parabolical or spiritual, while the general orthodox doctrine is that the whole
+    should be believed literally.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 5068-5073
+  quote_or_summary: They make Christians swear that, if they falsify their engagement,
+    they will affirm “there will be black-eyed girls in the next world, and corporeal
+    pleasures.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 5074-5082
+  quote_or_summary: The passage calls false the imputation that Mohammedans hold women
+    have no souls or will not be rewarded, and says Mohammed had too much respect
+    for women to teach such a doctrine.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5082-5087
+  quote_or_summary: Several Koran passages are said to affirm that women will be punished
+    for evil actions and rewarded for good deeds in the next life, as men are, with
+    God making no sex distinction in this case.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5087-5096
+  quote_or_summary: The passage reports a general notion that women will not share
+    the men's abode, which will be supplied by paradisiacal females; some allow former
+    wives as companions, and good women are said to enter a separate place of happiness
+    with delights.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5097-5103
+  quote_or_summary: An old woman asks Mohammed to intercede with God for her admission
+    into paradise; he says no old woman will enter, then explains that God will make
+    her young again.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5104-5114
+  quote_or_summary: The sixth point of faith is described as God's absolute decree
+    and predestination of good and evil, with fortune, faith, infidelity, obedience,
+    and disobedience fixed by divine will and recorded from eternity in the preserved
+    table.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is largely doctrinal commentary with a brief reported anecdote;
+    motif labels are therefore applied cautiously and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage does not itself support a specific comparative claim beyond available motif-family classification.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l5062-l5114
+  passage_sha256=177a2d596946e1738bc5b8184f9b1f896a9d5a0c5602e45838033ac1bc3459fd

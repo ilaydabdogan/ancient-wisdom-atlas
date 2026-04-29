@@ -1,0 +1,435 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l2094-l2141
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: A TABLE OF THE CHAPTERS / THE KORAN. / PRELIMINARY DISCOURSE / SECTION I.;
+    lines 2094-2141
+  start: '2094'
+  end: '2141'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives an anecdote illustrating Arab liberality after Mohammed:
+    three men dispute in the court of the Caaba over which Arab is most liberal, test
+    three candidates by asking for help, and finally judge Arbah most generous after
+    he offers his two supporting slaves despite having no money. The passage then
+    briefly praises Arabs for keeping their word, respecting kin, and possessing quick
+    wit, before turning to defects.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Three men dispute in the court of the Caaba about which person among the Arabs
+    is most liberal.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A bystander proposes that each disputant ask his preferred candidate for assistance
+    so their gifts can be compared.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Abdallah is approached while mounting a camel for a journey and is told the
+    requester is traveling and in necessity.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Abdallah gives the requester the camel and its load, while asking him not
+    to part with a sword attached to the saddle because it had belonged to Ali.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The camel carries silk vests and 4,000 pieces of gold, but the sword is described
+    as the object of greatest value.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Kais is asleep when the requester arrives, and Kais's servant chooses to help
+    rather than wake his master.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Kais's servant gives the requester 7,000 pieces of gold and directs him to
+    take a camel and a slave.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: When Kais learns what happened, he frees the servant and says he would have
+    given the requester more.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Arbah is met while going to prayers, leaning on two slaves because his eyesight
+    has failed.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Arbah has no money, offers the two slaves to the requester, and says that
+    if they are not accepted he gives them their liberty.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: After leaving the slaves, Arbah gropes his way along by the wall.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The returning adventurers and those present unanimously judge Arbah to be
+    the most generous of the three.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:13
+  text: The passage also states that Arabs were commended for keeping their words,
+    respecting kindred, and having quick apprehension and wit.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Three disputing men
+  description: Three men in the court of the Caaba who dispute which Arab is most
+    liberal and then test their preferred candidates.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Abdallah, son of Jaafar
+  description: One candidate for the most liberal person among the Arabs; identified
+    as son of Jaafar, the uncle of Mohammed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Kais Ebn Saad Ebn Obdah
+  description: One candidate for the most liberal person among the Arabs; his household
+    supplies the requester while he sleeps.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Arbah of the tribe of Aws
+  description: One candidate for the most liberal person among the Arabs; described
+    as having failed eyesight and leaning on two slaves when going to prayers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:5
+  name_or_label: Kais's servant
+  description: Servant of Kais who supplies the requester without waking his master
+    and is later freed by Kais.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Requesters or adventurers
+  description: The men who go to the candidates and ask assistance while claiming
+    need during travel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Two slaves supporting Arbah
+  description: Two slaves on whom Arbah leans because of failed eyesight; he offers
+    them to the requester or declares their liberty if refused.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Arabs
+  description: The broader group discussed as liberal, exact to their words, respectful
+    to kindred, and quick-witted.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: tester or requester
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: The disputants agree to ask their preferred candidates for assistance in
+    order to compare what each gives.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: candidate for greatest generosity
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Abdallah, Kais, and Arbah are each named as preferred candidates in the dispute
+    over the most liberal Arab.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: intermediary giver
+  assigned_to:
+  - fig:5
+  basis: Kais's servant supplies the requester from the household rather than waking
+    Kais.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: judging witnesses
+  assigned_to:
+  - fig:1
+  basis: On the return of the adventurers, those present unanimously judge Arbah the
+    most generous.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Court of the Caaba
+  literal_form: The court of the Caaba where the dispute occurs.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Camel with goods
+  literal_form: A camel with silk vests and 4,000 pieces of gold given by Abdallah.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Sword of Ali
+  literal_form: A sword fixed to the saddle, said to have belonged to Ali, the son
+    of Abutleb, and described as the thing of greatest value.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Purse of gold, camel, and slave
+  literal_form: A purse of 7,000 pieces of gold, a camel, and a slave supplied from
+    Kais's household.
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Two supporting slaves
+  literal_form: Two slaves on whom Arbah leans and whom he offers to the requester
+    or frees if refused.
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dispute and test proposed in the court of the Caaba
+  summary: Three men debate which Arab is most liberal; a bystander proposes testing
+    the candidates by asking each for assistance and comparing the gifts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Abdallah gives his journey camel and its load
+  summary: A requester approaches Abdallah in travel need; Abdallah dismounts and
+    gives the camel and its goods, while asking that the sword of Ali not be parted
+    with.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Kais's servant supplies the requester
+  summary: While Kais sleeps, his servant gives the requester all the money in the
+    house, a camel, and a slave; after waking, Kais frees the servant and says he
+    would have given more.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Arbah offers his supporting slaves and is judged most generous
+  summary: Arbah, lacking money and dependent on two slaves because of poor eyesight,
+    offers them to the requester or declares them free if refused; the witnesses judge
+    him the most generous.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: General praise of Arab qualities
+  summary: The passage states that Arabs are praised for keeping their word, respecting
+    kin, and quickness of apprehension and wit.
+  figure_refs:
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Generosity contest decided by practical test
+  taxonomy_refs: []
+  basis: The passage presents a dispute over the most liberal Arab, a proposed test
+    through requests for aid, and a final unanimous judgment.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: This is an anecdotal moral exemplum rather than a mythic narrative in
+    the strict sense.
+- id: motif:2
+  label: Aid to the needy traveler
+  taxonomy_refs: []
+  basis: Each requester frames the appeal as need during travel or want on the road,
+    and the candidates or their households respond with substantial aid.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage emphasizes liberality, not a supernatural reward or reciprocal
+    exchange.
+- id: motif:3
+  label: Gift of valued possessions as proof of virtue
+  taxonomy_refs: []
+  basis: Abdallah gives a camel with wealth and a valued sword attached; Kais's household
+    gives money, a camel, and a slave; Arbah offers the two slaves on whom he physically
+    relies.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The symbolic value of the gifts should not be extended beyond the passage's
+    explicit use as evidence of generosity.
+- id: motif:4
+  label: Manumission associated with generosity
+  taxonomy_refs: []
+  basis: Kais frees the servant who gave aid, and Arbah declares that the two slaves
+    will be freed if the requester refuses them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage uses these acts within a generosity anecdote and does not
+    develop a broader liberation narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2094-2106
+  quote_or_summary: The narrator introduces Arab liberality after Mohammed, then recounts
+    three men disputing in the court of the Caaba over the most liberal Arab and agreeing
+    to test Abdallah, Kais, and Arbah by asking each for assistance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states Project Gutenberg text with full
+    text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 2107-2115
+  quote_or_summary: Abdallah is approached while mounting his camel; he gives the
+    camel and its load to the needy traveler, asking only that the sword attached
+    to the saddle, formerly belonging to Ali, not be parted with. The camel carries
+    silk vests and 4,000 pieces of gold, while the sword is called the most valuable
+    item.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states Project Gutenberg text with full
+    text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 2115-2125
+  quote_or_summary: Kais's servant, rather than waking his sleeping master, gives
+    the requester 7,000 pieces of gold and directs him to take a camel and a slave.
+    Kais later frees the servant and says he would have given more.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states Project Gutenberg text with full
+    text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 2125-2135
+  quote_or_summary: Arbah, going to prayers while leaning on two slaves because of
+    poor eyesight, laments having no money and offers the two slaves; when the requester
+    refuses, Arbah says they are free if not accepted. The witnesses unanimously judge
+    Arbah the most generous.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states Project Gutenberg text with full
+    text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 2136-2141
+  quote_or_summary: The passage adds that Arabs are commended for exactness to their
+    words, respect for kindred, quick apprehension, penetration, and wit, then begins
+    to mention defects and vices.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states Project Gutenberg text with full
+    text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a prose historical-cultural exemplum in Sale's preliminary
+    discourse. Literal extraction is straightforward; motif classification is limited
+    because the available taxonomy does not include a direct generosity-exemplum category.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external identifications or comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l2094-l2141
+  passage_sha256=3d829c1c0f66d564dc0730fa93da71e83c9d6e2c85186ec19991a19f90b32bca

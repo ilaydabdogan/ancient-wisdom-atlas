@@ -1,0 +1,526 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l3526-l3575
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: PRELIMINARY DISCOURSE / SECTION I. / SECTION II. / SECTION III; lines 3526-3575
+  start: '3526'
+  end: '3575'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes traditions about the first revealed Qur'anic verses,
+    the recording and memorization of revealed passages, their disorderly storage,
+    Abu Becr's collection of them after Mohammed's death, Hafsa's custody of the transcript,
+    Othmn's later standardization of copies amid provincial variation, suppression
+    of older copies, and the later need for specialized readers because early Arabic
+    writing lacked vowel marks.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first revealed passage is said to have been the first five verses of the
+    ninety-sixth chapter.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Newly revealed passages were taken down in writing by the prophet's scribe,
+    then published to followers, some of whom copied them and many of whom memorized
+    them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Returned originals were placed without chronological order in a chest, making
+    the timing of many revelations uncertain.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At Mohammed's death, the revelations are described as remaining in disorder
+    rather than in the arrangement later known.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Abu Becr ordered the revelations collected from written materials and from
+    people who had memorized them, partly because many memorizers had been killed
+    in wars.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The completed transcript was placed in the custody of Hafsa, daughter of Omar
+    and one of the prophet's widows.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage reports that Abu Becr is commonly imagined to have compiled the
+    Koran, while also qualifying that he may chiefly have arranged chapters and added
+    or corrected material from memorizers.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Othmn observed disagreements among copies in different provinces and ordered
+    many copies transcribed from Abu Becr's copy in Hafsa's care.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: A named group of supervisors oversaw the transcription, and disputes over
+    words were to be resolved by writing in the dialect of the Koreish.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The standardized copies were distributed to provinces, while older copies
+    were burned and suppressed; some variant readings nevertheless remained.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Because Arabic characters lacked vowel marks, specialized readers were considered
+    necessary for proper recitation of the Koran.
+  category: attribute
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: The prophet from whose mouth newly revealed passages were taken down,
+    and whose death preceded Abu Becr's collection of the revelations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Mohammed's scribe
+  description: The unnamed scribe who took down newly revealed passages in writing
+    from the prophet's mouth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Mohammed's followers
+  description: Followers who received the published passages; some copied them privately
+    and many memorized them, with some later serving as oral sources for collection.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Abu Becr
+  description: Mohammed's successor, who ordered the collection of the revelations
+    and whose copy later served as the base for Othmn's recension.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Hafsa
+  description: Daughter of Omar and one of the prophet's widows, entrusted with custody
+    of the completed transcript.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: Othmn
+  description: The Khalif who observed disagreement among provincial copies and ordered
+    standardized copies to be made.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: fig:7
+  name_or_label: Provincial copy traditions
+  description: The copies or readings of provinces such as Irak and Syria, associated
+    in the passage with Abu Musa al Ashari and Macdd Ebn Aswad.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Transcription supervisors
+  description: Zeid Ebn Thabet, Abd'allah Ebn Zobair, Sad Ebn al As, and Abd'alrahmn
+    Ebn al Hreth, appointed to oversee transcription from Hafsa's copy.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+- id: fig:9
+  name_or_label: Mokris, or readers
+  description: Specialized readers whose profession was to read the Koran with its
+    proper vowels.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: prophetic source of recited revelations
+  assigned_to:
+  - fig:1
+  basis: Revealed passages are described as taken from the prophet's mouth and left
+    after his death.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: scribe of revelation
+  assigned_to:
+  - fig:2
+  basis: The scribe writes down newly revealed passages from the prophet's mouth.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: copyists and memorizers
+  assigned_to:
+  - fig:3
+  basis: Followers copied passages for private use and many learned them by heart;
+    memorized recitations later supplied the collection.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: collector or arranger of the text
+  assigned_to:
+  - fig:4
+  basis: Abu Becr orders the whole to be collected and is commonly imagined to be
+    the compiler, though the passage qualifies this claim.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: custodian of transcript
+  assigned_to:
+  - fig:5
+  basis: The completed transcript was committed to Hafsa's custody.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: standardizing ruler
+  assigned_to:
+  - fig:6
+  basis: Othmn, as Khalif, orders standardized copies after observing disagreement
+    among provincial copies.
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: role:7
+  label: variant-reading communities
+  assigned_to:
+  - fig:7
+  basis: The passage names different provincial readings in Irak and Syria.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: authorized transcription supervisors
+  assigned_to:
+  - fig:8
+  basis: The named men oversaw transcription and were directed on how to settle disagreements
+    about wording.
+  evidence_refs:
+  - ev:9
+- id: role:9
+  label: professional reciters of proper vowels
+  assigned_to:
+  - fig:9
+  basis: The lack of vowel marks made these readers necessary for reading the Koran
+    with proper vowels.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: chest of disordered originals
+  literal_form: Chest holding returned written originals without chronological order
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: written revelation materials
+  literal_form: Palm-leaves, skins, and boards or covers used to preserve written
+    passages
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: custodial transcript
+  literal_form: Completed transcript entrusted to Hafsa and later used for standardized
+    copying
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:4
+  label: standardized provincial copies
+  literal_form: Copies transcribed from Abu Becr's copy and dispersed through the
+    provinces
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: sym:5
+  label: vowel marks
+  literal_form: Arabic vowel characters or marks absent from early writing and discussed
+    in the footnote
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+  - ev:12
+scenes:
+- id: scene:1
+  label: First revelation and early recording
+  summary: The passage identifies the first revealed verses, then describes newly
+    revealed passages being written down by a scribe, published to followers, copied
+    by some, and memorized by many.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Unordered storage of originals
+  summary: Returned originals were put into a chest without chronological order, contributing
+    to uncertainty about when many passages were revealed.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Abu Becr's collection
+  summary: After Mohammed's death, Abu Becr ordered the scattered written and memorized
+    revelations collected into a transcript, which was placed in Hafsa's custody.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Othmn's standardization of copies
+  summary: Othmn responded to provincial disagreements by ordering copies made from
+    Hafsa's transcript under named supervisors, prescribing the Koreish dialect for
+    disputed wording, distributing new copies, and suppressing old ones.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:5
+  label: Need for professional readers
+  summary: Because early Arabic writing lacked vowel marks, professional readers became
+    necessary to read the Koran with proper vowels.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: oral and written preservation of sacred revelation
+  taxonomy_refs: []
+  basis: The passage repeatedly describes revelation preserved through both written
+    materials and memorized recitation, then collected from both channels.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: This is a transmission pattern in historical prose rather than a mythic
+    narrative motif.
+- id: motif:2
+  label: authoritative compilation after disorder
+  taxonomy_refs: []
+  basis: The revelations are described as unordered, then collected and arranged by
+    a successor into a transcript.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage reports and qualifies claims about compilation; it does not
+    present a symbolic mythic episode.
+- id: motif:3
+  label: royal or caliphal standardization of sacred text
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Othmn, as Khalif, orders standardized copies, supervises wording policy,
+    distributes official copies, and suppresses older ones.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: low
+  cautions: The available taxonomy reference is only loosely applicable; the passage
+    concerns textual authority, not explicit royal legitimation myth.
+- id: motif:4
+  label: custody of a sacred transcript
+  taxonomy_refs: []
+  basis: A completed transcript is entrusted to Hafsa and later serves as the source
+    for official copies.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage treats custody as historical transmission detail, with no
+    explicit symbolic interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3526-3527
+  quote_or_summary: The first revealed text is generally said to have been the first
+    five verses of chapter ninety-six.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:2
+  type: summary
+  locator: lines 3528-3532
+  quote_or_summary: New revelations were written by the prophet's scribe, published
+    to followers, copied by some, and memorized by many.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:3
+  type: summary
+  locator: lines 3532-3535
+  quote_or_summary: Returned originals were placed promiscuously in a chest without
+    chronological order, making the dates of many passages uncertain.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:4
+  type: summary
+  locator: lines 3536-3538
+  quote_or_summary: At Mohammed's death the revelations were said to remain in disorder
+    and not in the arrangement later found.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:5
+  type: summary
+  locator: lines 3538-3544
+  quote_or_summary: Abu Becr ordered the whole collected from palm-leaves, skins,
+    boards or covers, and from people who had memorized the passages, after many memorizers
+    were killed in wars.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:6
+  type: summary
+  locator: lines 3544-3546
+  quote_or_summary: The completed transcript was committed to Hafsa, daughter of Omar
+    and one of the prophet's widows.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:7
+  type: summary
+  locator: lines 3547-3554
+  quote_or_summary: The passage says Abu Becr is generally imagined as compiler of
+    the Koran, but suggests he may have mainly ordered chapters and added or corrected
+    from memorized material.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:8
+  type: summary
+  locator: lines 3555-3562
+  quote_or_summary: In the thirtieth year of the Hejra, Othmn observed disagreement
+    among provincial copies, including Irak and Syria, and ordered copies transcribed
+    from Abu Becr's copy in Hafsa's care.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:9
+  type: summary
+  locator: lines 3561-3566
+  quote_or_summary: Zeid Ebn Thabet, Abd'allah Ebn Zobair, Sad Ebn al As, and Abd'alrahmn
+    Ebn al Hreth supervised transcription and were told to use the Koreish dialect
+    for disputed words.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:10
+  type: summary
+  locator: lines 3566-3570
+  quote_or_summary: The new copies were dispersed through the provinces, old copies
+    were burned and suppressed, corrections were made to Hafsa's copy, and some variant
+    readings remained.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:11
+  type: summary
+  locator: lines 3571-3575
+  quote_or_summary: The absence of vowels in Arabic writing made specialized Koran
+    readers necessary for proper vocalization.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:12
+  type: summary
+  locator: footnote within lines 3571-3575
+  quote_or_summary: The footnote says Arabic vowel marks were not used until several
+    years after Mohammed and gives differing attributions for their invention.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong because the passage is expository and specific.
+    Motif candidates are framed as textual-transmission patterns rather than mythic
+    motifs. No external comparison claims are made because the passage itself does
+    not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparisons were added beyond patterns directly supported by the passage. Available taxonomy symbol refs were not used because none of the listed symbols occur in this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l3526-l3575
+  passage_sha256=1ae85f246786221a7016c02eeb41114cefefd2cb5ecda6563594a9f660a28e4a

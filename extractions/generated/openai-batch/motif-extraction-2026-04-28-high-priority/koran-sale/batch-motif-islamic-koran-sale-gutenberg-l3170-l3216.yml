@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l3170-l3216
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: PRELIMINARY DISCOURSE / SECTION I. / SECTION II. / SECTION III; lines 3170-3216
+  start: '3170'
+  end: '3216'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains the Arabic name Koran as meaning a reading or that
+    which ought to be read, discusses alternate etymological claims, lists several
+    appellations of the Koran, and describes its division into 114 chapters called
+    Sowar or Sura. It repeatedly compares these terms with Jewish and Greek scriptural
+    terminology.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage derives the word Koran from the Arabic verb karaa, glossed as
+    meaning to read, and says the name properly signifies a reading or that which
+    ought to be read.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Mohammedans use the name Koran for both the whole book and
+    any particular chapter or section of it.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage compares this usage with Jewish use of Karah or Mikra for either
+    the whole scripture or a part of it.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage reports and rejects an opinion that the Koran was so named because
+    it is a collection of loose chapters or sheets.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage notes an objection that the Koran could not have been revealed
+    in parcels over several years because it is called Koran within the book itself.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that Al in Alkoran is the Arabic article meaning the, and
+    says it should be omitted when the English article is used.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: 'The passage lists other names for the Koran: al Forkan, al Moshaf, al Kitab,
+    and al Dhikr.'
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage says the Koran is divided into 114 larger portions of unequal
+    length, called chapters in English and Sowar, singular Sura, by Arabians.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage says the word Sura properly signifies a row, order, or regular
+    series, such as a course of bricks or a rank of soldiers.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage says manuscript copies do not distinguish chapters by numerical
+    order, though they are numbered for the reader's ease.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mohammedans
+  description: The group said to denote the whole Koran or any chapter or section
+    of it by the name Koran.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Jews
+  description: The group compared as using Karah or Mikra for the whole scripture
+    or a part of it, and as using related terms for sections of scripture.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: learned Arabians
+  description: A group described as holding an opinion that the Koran was named from
+    the idea of collecting loose chapters or sheets.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Arabians
+  description: The group said to call the chapters of the Koran Sowar, singular Sura.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: objectors
+  description: Those said to object that the Koran must have been forged at once and
+    could not have been revealed in parcels over several years.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: scriptural naming community
+  assigned_to:
+  - fig:1
+  basis: They are said to use the name Koran for the whole book and for its parts.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: comparative scriptural terminology community
+  assigned_to:
+  - fig:2
+  basis: Their terms Karah, Mikra, Perek, Sura or Tora, and Sedrim are used as comparisons
+    for Koranic terminology.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: alternative etymology proponents
+  assigned_to:
+  - fig:3
+  basis: They are described as saying the Koran was named because it is a collection
+    of loose chapters or sheets.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: chapter-name users
+  assigned_to:
+  - fig:4
+  basis: They are said to call the 114 portions Sowar, singular Sura.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: critics of parcelled revelation claim
+  assigned_to:
+  - fig:5
+  basis: They object that the book could not have been revealed in parcels over several
+    years because it names itself Koran.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: scriptural book or reading
+  literal_form: The Koran as the reading, the volume, the book, and the admonition.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: numbered scriptural portions
+  literal_form: 114 larger portions or chapters called Sowar, singular Sura.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Explanation of the Koran's name
+  summary: The passage explains the derivation and use of the word Koran, comparing
+    its use for whole and part with Jewish scriptural terminology.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Discussion of alternate etymology and objection
+  summary: The passage reports an alternative derivation from gathering or collecting
+    and an objection about parcelled revelation, then notes the Arabic article Al.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Catalog of other scriptural appellations
+  summary: The passage lists names of the Koran such as al Forkan, al Moshaf, al Kitab,
+    and al Dhikr and compares some of them with Jewish, Greek, Pentateuchal, and Gospel
+    usage.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Description of chapter divisions
+  summary: The passage says the Koran has 114 unequal portions called chapters in
+    English and Sowar or Sura in Arabic, with comparisons to Jewish section terms.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage makes a linguistic comparison between Islamic and Jewish terms
+    for scripture as a whole and for its parts.
+  claim_level: linguistic_similarity
+  target: 'Jewish scriptural terminology: Karah, Mikra, Perek, Sura or Tora, and Sedrim'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is philological and structural rather than a narrative
+    myth motif.
+- id: claim:2
+  claim: The passage compares al Kitab, the book, with the Greek Biblia as a title
+    used by way of eminence for scripture.
+  claim_level: linguistic_similarity
+  target: Greek Biblia as scriptural book-title terminology
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only provides a brief title comparison and does not develop
+    a broader tradition history.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3170-3183
+  quote_or_summary: The word Koran is derived from karaa, to read, and signifies a
+    reading or that which ought to be read; Mohammedans use it for the whole book
+    and for individual chapters or sections, compared with Jewish Karah or Mikra.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:2
+  type: summary
+  locator: lines 3183-3192
+  quote_or_summary: The passage rejects an opinion that Koran is named as a collection
+    of loose chapters or sheets, addresses an objection about revelation in parcels
+    over years, and notes that Al is the Arabic article meaning the.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:3
+  type: summary
+  locator: lines 3193-3201
+  quote_or_summary: The Koran is also called al Forkan, al Moshaf, al Kitab, and al
+    Dhikr; the passage compares some names with Jewish Perek, Greek Biblia, and names
+    also given to the Pentateuch and Gospel.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:4
+  type: summary
+  locator: lines 3202-3210
+  quote_or_summary: The Koran is divided into 114 unequal portions called chapters
+    in English and Sowar, singular Sura, by Arabians; Sura is glossed as a row, order,
+    or regular series and compared with Jewish section terms.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:5
+  type: summary
+  locator: lines 3210-3216
+  quote_or_summary: The passage says manuscript copies do not distinguish chapters
+    by numerical order, though they are numbered for the reader's ease; accompanying
+    notes cite sources for earlier terminology claims.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is expository and philological, with no clear narrative myth
+    motif. Comparison claims are limited to explicit linguistic comparisons in the
+    passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy motif family was assigned because the passage does not narrate a mythic episode or symbolic action.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l3170-l3216
+  passage_sha256=77d193d462c416dee90ec49f40aa91606d15d6d817fb0467c4d4d51305f689fe

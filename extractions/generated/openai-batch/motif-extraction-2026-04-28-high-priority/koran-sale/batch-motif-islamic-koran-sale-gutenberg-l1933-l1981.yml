@@ -1,0 +1,425 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l1933-l1981
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: A TABLE OF THE CHAPTERS / THE KORAN. / PRELIMINARY DISCOURSE / SECTION I.;
+    lines 1933-1981
+  start: '1933'
+  end: '1981'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Mecca, the centre of Arabia
+  summary: The passage discusses the antiquity and dialects of Arabic, the status
+    of the Koreish dialect as the language of the Koran, explanations for its purity
+    and elegance, praise of Arabic as copious and requiring inspiration for full mastery,
+    and traditions about the late adoption and development of Arabic writing from
+    earlier and ruder scripts.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Arabic is described as very ancient and as arising soon after, if not at,
+    the confusion of Babel.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage distinguishes several Arabic dialects, especially those of Hammyar
+    and the Koreish.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Yarab is said to be acknowledged by the Arabs as the first whose tongue deviated
+    from Syriac to Arabic.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Koreish dialect is described as pure, perspicuous, and clear Arabic, and
+    as the dialect in which the Koran is written.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The elegance of the Koreish dialect is attributed to their custody of the
+    Caaba, residence in Mecca, relative separation from foreigners, and contact with
+    Arabs visiting from surrounding regions.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Mecca is described as the centre of Arabia and as a place visited for religious
+    purposes and for settling differences.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Arabic is praised as harmonious, expressive, and copious, with the claim that
+    no one can master it fully without inspiration.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says that a great part of Arabic has been lost, connected with
+    the late practice of writing among the Arabs.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Hamyarites are said to have used a script called al Mosnad, whose letters
+    were not distinctly separate and whose use required permission.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Many Arabs, especially those of Mecca, are described as long ignorant of writing
+    except for Jews or Christians among them.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Mormer Ebn Morra is identified as the inventor of the Arabic character, and
+    Bashar the Kendian is said to have introduced it at Mecca.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The Koran is said to have been first written in the rude character associated
+    with the early Arabic or Cufic script, while the later beautiful character was
+    formed by Ebn Moklah.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Yarab
+  description: Named as the father whom the Arabs acknowledge as the first whose tongue
+    deviated from Syriac to Arabic.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Koreish
+  description: Arab tribe whose dialect is called pure Arabic and is the dialect of
+    the Koran; they are connected with custody of the Caaba and residence in Mecca.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Hamyarites
+  description: Group associated with a dialect nearer to Syriac and with use of the
+    al Mosnad character.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: Ismael
+  description: Described as father of the Koreish, said by Dr. Pocock to have brought
+    Arabic learned from the Jorhamites nearer to original Hebrew.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Mormer Ebn Morra of Anbar
+  description: Named as inventor of the Arabic character shortly before Mohammed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Bashar the Kendian
+  description: Said to have learned the Arabic character from those of Anbar and introduced
+    it at Mecca.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Ebn Moklah
+  description: Wazir to several Khalifs, said to have formed the later beautiful character
+    from the Cufic.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: ancestral language figure
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Yarab and Ismael are each presented in relation to the origin or refinement
+    of Arabic speech.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: bearers of pure Koranic dialect
+  assigned_to:
+  - fig:2
+  basis: The Koreish dialect is called pure Arabic and identified as the dialect in
+    which the Koran is written.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: custodians of the Caaba
+  assigned_to:
+  - fig:2
+  basis: The passage attributes the dialect's elegance partly to the Koreish having
+    custody of the Caaba and dwelling in Mecca.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: early script users
+  assigned_to:
+  - fig:3
+  basis: The Hamyarites are said to have used the al Mosnad character many centuries
+    before Mohammed.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: inventor of Arabic character
+  assigned_to:
+  - fig:5
+  basis: Mormer Ebn Morra is directly identified as inventor of the Arabic character.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: introducer of writing at Mecca
+  assigned_to:
+  - fig:6
+  basis: Bashar the Kendian is said to have introduced the Arabic character at Mecca.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: script reformer
+  assigned_to:
+  - fig:7
+  basis: Ebn Moklah is said to have formed the beautiful later character from the
+    Cufic.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Caaba
+  literal_form: Sacred structure under the custody of the Koreish
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Mecca as centre of Arabia
+  literal_form: Place described as the centre of Arabia and a gathering place for
+    Arabs
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: Koreish dialect
+  literal_form: Dialect called pure, perspicuous, and clear Arabic; the dialect of
+    the Koran
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: al Mosnad character
+  literal_form: Perplexed Hamyaritic writing system with letters not distinctly separate
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Cufic character
+  literal_form: Rude early character in which the Koran is said to have been first
+    written
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: inspiration for mastery of language
+  literal_form: Claim that no one without inspiration can fully master Arabic
+  associated_figures: []
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Antiquity and branching of Arabic
+  summary: Arabic is presented as ancient, connected with Babel, divided into dialects,
+    and derived in one account from Syriac through Yarab.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Koreish dialect refined at Mecca
+  summary: The Koreish dialect is identified as the Koranic pure Arabic, and its elegance
+    is attributed to the Caaba, Mecca's central position, limited foreign influence,
+    and contact with visiting Arabs.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Inspired mastery and loss of language
+  summary: Arabic is praised as harmonious, expressive, and copious, while the passage
+    says full mastery requires inspiration and that much of the language has been
+    lost because writing was adopted late.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Transmission and reform of writing
+  summary: The passage moves from earlier Hamyaritic al Mosnad writing to the invention
+    and introduction of the Arabic character at Mecca, the early writing of the Koran
+    in a rude or Cufic script, and later formation of a more beautiful character by
+    Ebn Moklah.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacred center as source of cultural refinement
+  taxonomy_refs:
+  - world_center
+  basis: Mecca is described as the centre of Arabia, associated with the Caaba, religious
+    gathering, dispute settlement, and the refinement of the Koreish dialect.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a historical-linguistic explanation rather than an explicit
+    mythic narrative.
+- id: motif:2
+  label: inspired mastery of sacred language
+  taxonomy_refs:
+  - wisdom
+  basis: Arabic is said to be so copious that no one can be a perfect master of it
+    without inspiration, and the Koran is linked to the pure Koreish dialect.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The statement is praise of language rather than a developed wisdom myth.
+- id: motif:3
+  label: loss and recovery of written knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says much of Arabic has been lost because writing was practiced
+    late, then recounts the invention, introduction, and reform of Arabic scripts.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The text describes script history; the motif framing is tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1933-1942
+  quote_or_summary: Arabic is described as very ancient, arising soon after or at
+    Babel; dialects include Hammyar and Koreish; Yarab is named as first whose tongue
+    deviated from Syriac to Arabic.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1943-1949
+  quote_or_summary: The Koreish dialect is called pure Arabic and the Koran's perspicuous
+    and clear Arabic; Ismael is described as father of the Koreish in a note attributed
+    to Dr. Pocock.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1949-1962
+  quote_or_summary: The elegance of the Koreish dialect is attributed to custody of
+    the Caaba, dwelling in Mecca, remoteness from foreign corrupting influence, and
+    visits by Arabs for religion and settling differences.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1962-1970
+  quote_or_summary: Arabic is praised as harmonious, expressive, and copious; the
+    passage says no one without inspiration can fully master it, while also saying
+    much of it has been lost due to the late practice of writing.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1970-1978
+  quote_or_summary: Writing is said to have been known to Job and the Hamyarites,
+    who used al Mosnad, but many other Arabs and especially Meccans were long ignorant
+    of it except Jews and Christians.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 1978-1981
+  quote_or_summary: Mormer Ebn Morra is named as inventor of the Arabic character;
+    Bashar the Kendian introduced it at Mecca; the Koran was first written in an early
+    rude or Cufic character; Ebn Moklah later formed the beautiful character from
+    Cufic.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal historical and linguistic claims are clear. Motif candidates are
+    tentative because the passage is expository rather than narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-tradition comparison beyond mentioning Babel as part of its linguistic history.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l1933-l1981
+  passage_sha256=de56f2cf7b750e491b72874dd2e1c6dd084dbe4f00fa2b43187674fd9633de2c

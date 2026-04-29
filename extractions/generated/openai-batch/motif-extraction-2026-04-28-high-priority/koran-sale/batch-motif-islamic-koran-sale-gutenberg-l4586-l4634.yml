@@ -1,0 +1,481 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l4586-l4634
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 4586-4634
+  start: '4586'
+  end: '4634'
+  translation: The Koran (Al-Qur'an), Sale / Project Gutenberg edition
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes views on the afterlife fate of genii, the division
+    of the judged assembly into right-hand and left-hand ways, the crossing of the
+    bridge al Sirt over hell, the safe passage of the good and fall of the wicked,
+    comparison with Magian and Jewish bridge traditions, and the beginning of a description
+    of hell divided into seven levels for classes of the damned.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Believing genii are described by some as assigned a place near the borders
+    of paradise, while unbelieving genii are said to be punished eternally in hell
+    with mortal infidels.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After trials end and the assembly is dissolved, those admitted to paradise
+    take the right-hand way, and those destined to hell fire take the left.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Both groups must first pass the bridge called al Sirt, laid over the midst
+    of hell.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The bridge is described as finer than a hair and sharper than a sword edge,
+    with briars and hooked thorns on each side.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The good pass the bridge with ease and speed, while Mohammed and his Moslems
+    lead the way.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The wicked lose their footing because of the narrow slippery path, the thorns,
+    and the extinction of guiding light, and fall into hell beneath.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A Magian teaching is summarized in which all mankind must pass a bridge called
+    Pul Chinvad or Chnavar into the other world, where angels require an account of
+    actions and weigh them.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A Jewish bridge of hell is mentioned as no broader than a thread, but only
+    idolaters are said to be obliged to pass it and fall into perdition.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Hell is described as divided into seven stories or apartments, one below another,
+    for seven distinct classes of the damned.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: believing genii
+  description: Genii capable of belief and assigned by some to a place near the confines
+    of paradise.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unbelieving genii
+  description: Genii, including the devil and his companions in the passage's account,
+    said to be punished eternally in hell.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: those admitted into paradise
+  description: The judged group who take the right-hand way and pass the bridge safely.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: those destined to hell fire
+  description: The judged group who take the left-hand way and fall from the bridge
+    into hell.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:5
+  name_or_label: Mohammed
+  description: Named as leading his Moslems across the bridge in the passage's account.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: angels appointed by God
+  description: In the summarized Magian comparison, angels stand on the bridge to
+    require an account and weigh actions.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: idolaters
+  description: In the summarized Jewish comparison, the group obliged to pass the
+    bridge of hell and fall into perdition.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: rewarded marginal afterlife inhabitants
+  assigned_to:
+  - fig:1
+  basis: They are assigned sufficient felicity near paradise but not admitted into
+    it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: eternally punished beings
+  assigned_to:
+  - fig:2
+  basis: They are said to be thrown into hell with mortal infidels.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: saved bridge-crossers
+  assigned_to:
+  - fig:3
+  basis: They take the right-hand way and pass the bridge with ease and speed.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: condemned bridge-fallers
+  assigned_to:
+  - fig:4
+  - fig:7
+  basis: They are described as falling from a bridge into hell or perdition.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:5
+  label: leader across the bridge
+  assigned_to:
+  - fig:5
+  basis: Mohammed and his Moslems are said to lead the way across the bridge.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: judicial weighers or examiners
+  assigned_to:
+  - fig:6
+  basis: The angels require strict accounts and weigh actions in the Magian comparison.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: right-hand way
+  literal_form: right-hand path after judgment
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: left-hand way
+  literal_form: left-hand path after judgment
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: al Sirt bridge
+  literal_form: bridge over the midst of hell, finer than a hair and sharper than
+    a sword edge
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: briars and hooked thorns
+  literal_form: briars and hooked thorns set on each side of the bridge
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: extinguished guiding light
+  literal_form: light that guided the good to paradise but is extinguished for the
+    wicked
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: hell beneath the bridge
+  literal_form: hell gaping beneath the bridge
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: seven-storied hell
+  literal_form: hell divided into seven stories or apartments
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Fate of genii after judgment
+  summary: The passage reports differing views on whether believing genii receive
+    only dissolution or a limited felicity near paradise, while unbelieving genii
+    are assigned eternal punishment in hell.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Division after the trials
+  summary: After the trials conclude, those bound for paradise take the right-hand
+    way and those bound for hell fire take the left.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Crossing al Sirt
+  summary: Both saved and condemned must pass the narrow bridge over hell; the good
+    cross swiftly with Mohammed and his Moslems leading, while the wicked fall into
+    hell because of the hazardous path, thorns, and loss of guiding light.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Comparative bridge traditions
+  summary: The passage compares al Sirt with a Magian bridge into the other world
+    where angels judge and weigh actions, and with a Jewish bridge of hell crossed
+    by idolaters.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Seven divisions of hell
+  summary: The passage begins an account of hell as seven descending stories or apartments
+    for distinct classes of the damned.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: post-judgment bridge over hell
+  taxonomy_refs:
+  - afterlife_journey_map
+  - divine_judgment
+  basis: The passage presents a post-trial route in which all must cross a perilous
+    bridge over hell; the righteous pass and the wicked fall.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is from Sale's explanatory material and includes sectarian
+    and comparative commentary, not only Qur'anic text.
+- id: motif:2
+  label: right and left ways after judgment
+  taxonomy_refs:
+  - divine_judgment
+  - duality
+  basis: Those admitted to paradise take the right-hand way, while those destined
+    to hell fire take the left.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The symbolic interpretation of right and left is not elaborated in the
+    passage.
+- id: motif:3
+  label: weighing and accounting of actions on the bridge
+  taxonomy_refs:
+  - divine_judgment
+  basis: In the Magian comparison, angels on the bridge require a strict account of
+    each person's actions and weigh them.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This motif appears in the comparative Magian material summarized by the
+    passage, not as the primary Islamic bridge account in this excerpt.
+- id: motif:4
+  label: tiered hell for classes of the damned
+  taxonomy_refs:
+  - afterlife_journey_map
+  - divine_judgment
+  basis: Hell is described as seven descending apartments designed for distinct classes
+    of the damned.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: Only the beginning of the seven-level description is included in the supplied
+    passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Islamic bridge al Sirt with the Magian
+    Pul Chinvad or Chnavar, both functioning as a bridge passage into the other world
+    associated with judgment.
+  claim_level: same_function
+  target: Magian Pul Chinvad / Chnavar bridge tradition
+  evidence_refs:
+  - ev:3
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states Mohammed seems to have borrowed the circumstance,
+    but the extraction can only report this as the author's claim, not independently
+    verify historical borrowing.
+- id: claim:2
+  claim: The passage explicitly notes a Jewish bridge of hell that is similarly extremely
+    narrow, though its required crossers are limited to idolaters in the summary.
+  claim_level: visual_similarity
+  target: Jewish bridge of hell tradition mentioned by Sale
+  evidence_refs:
+  - ev:3
+  - ev:8
+  counter_evidence_refs:
+  - ev:8
+  confidence: medium
+  limitations: 'The passage itself marks a functional difference: unlike al Sirt,
+    the Jewish bridge is said here to be required only for idolaters.'
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4586-4596
+  quote_or_summary: Some views place believing genii near the confines of paradise
+    with sufficient felicity, while unbelieving genii, including the devil and companions,
+    are assigned eternal punishment in hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 4597-4600
+  quote_or_summary: After trials and dissolution of the assembly, those admitted to
+    paradise take the right-hand way and those destined to hell fire take the left.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 4600-4603
+  quote_or_summary: Both groups must pass al Sirt, a bridge laid over the midst of
+    hell, described as finer than a hair and sharper than a sword edge.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 4607-4610
+  quote_or_summary: The bridge is said to be beset on each side with briars and hooked
+    thorns.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: lines 4610-4612
+  quote_or_summary: The good are not impeded and pass with ease and swiftness, with
+    Mohammed and his Moslems leading the way.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:6
+  type: summary
+  locator: lines 4612-4616
+  quote_or_summary: The wicked, hindered by slipperiness, narrowness, thorns, and
+    loss of guiding light, miss their footing and fall into hell beneath.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:7
+  type: summary
+  locator: lines 4617-4624
+  quote_or_summary: The passage says this circumstance seems borrowed from the Magians,
+    who teach that all mankind must cross Pul Chinvad or Chnavar into the other world,
+    where appointed angels demand accounts and weigh actions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:8
+  type: summary
+  locator: lines 4624-4628
+  quote_or_summary: The passage says Jews also speak of a bridge of hell no broader
+    than a thread, but only idolaters are obliged to pass it and fall into perdition.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:9
+  type: summary
+  locator: lines 4629-4634
+  quote_or_summary: Hell is described as seven stories or apartments, one below another,
+    for seven distinct classes of the damned; the first is named Jehennam.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage clearly describes afterlife geography, bridge crossing, judgment,
+    and comparative parallels. Confidence is reduced for motif and comparison fields
+    because the excerpt is Sale's commentary and its historical-borrowing claims are
+    not independently assessed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All claims are based only on the supplied passage and metadata. Taxonomy references are limited to provided motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l4586-l4634
+  passage_sha256=fe13d6d73d8de042ea88f3e2b2a71ed861e21440e20a86c4e3326294ddd4f744

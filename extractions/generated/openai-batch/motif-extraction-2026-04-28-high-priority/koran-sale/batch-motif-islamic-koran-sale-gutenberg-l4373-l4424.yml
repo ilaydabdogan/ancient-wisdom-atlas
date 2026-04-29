@@ -1,0 +1,522 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l4373-l4424
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 4373-4424
+  start: '4373'
+  end: '4424'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes categories of sinners and their bodily punishments;
+    discusses the place where beings will be assembled for judgment after resurrection;
+    states that humans, genii, and animals will be judged; and describes a prolonged
+    waiting period before judgment, with angels keeping ranks and with differing signs
+    and sufferings for the just and unjust.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Several categories of wrongdoers are assigned distinct bodily punishments,
+    including gnawing tongues, severed hands and feet, fixation to palm trunks or
+    wooden stakes, foul stench, and pitch-daubed garments.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The place of assembly for judgment is said to be on the earth, but accounts
+    differ about whether it is Syria, a white even tract, a silver second earth, or
+    another transformed earth.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The stated end of resurrection is that the raised may give an account of their
+    actions and receive their reward.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Mankind, genii, and irrational animals are all said to be judged on the great
+    day.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Unarmed cattle are said to take vengeance on horned cattle until satisfaction
+    is given to the injured.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Before judgment, angels keep assembled mankind in ranks and order for a long
+    waiting period of disputed duration.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: During the waiting period, people stand looking up to heaven without receiving
+    information or orders from it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The just and unjust both suffer during the waiting period, but the just have
+    shining limbs associated with ablution and lighter, shorter suffering, while the
+    unjust have blackened, sorrowful, deformed faces.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: learned men and doctors whose actions contradict their sayings
+  description: A category of sinners whose tongues hang down and who gnaw them while
+    corrupted blood flows from their mouths.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: those who have injured their neighbours
+  description: A category of sinners whose hands and feet are cut off.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: false accusers and informers
+  description: A category of sinners fixed to trunks of palm trees or stakes of wood.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: those who indulged passions and refused God due wealth
+  description: A category of sinners who stink worse than a corrupted corpse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: the proud, vainglorious, and arrogant
+  description: A category of sinners clothed with garments daubed with pitch.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: mankind
+  description: Human beings assembled after resurrection to give account and be judged.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: genii
+  description: Non-human beings included among those judged on the great day.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: irrational animals
+  description: Animals included among those judged on the great day.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: unarmed cattle
+  description: Animals said to take vengeance on horned cattle for injury.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: horned cattle
+  description: Animals from whom unarmed cattle take vengeance until satisfaction
+    is given.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:11
+  name_or_label: angels
+  description: Beings who keep assembled mankind in ranks and order before judgment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:12
+  name_or_label: the just
+  description: People whose ablution-washed limbs shine gloriously and whose suffering
+    is lighter and shorter.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:13
+  name_or_label: the unjust
+  description: People whose faces are obscured with blackness and marked by sorrow
+    and deformity.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:14
+  name_or_label: God
+  description: The passage refers to wealth due to God and to divine judgment context.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: punished wrongdoer
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:13
+  basis: These figures are described as receiving punishments or marked as unjust.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: being subject to judgment
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: The passage says mankind, genii, and irrational animals shall be judged on
+    the great day.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: injured avenger
+  assigned_to:
+  - fig:9
+  basis: Unarmed cattle take vengeance on the horned until satisfaction is given.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: injuring party made to satisfy
+  assigned_to:
+  - fig:10
+  basis: Horned cattle are the target of vengeance by unarmed cattle until satisfaction
+    is given.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: rank-keeper before judgment
+  assigned_to:
+  - fig:11
+  basis: Angels keep assembled mankind in ranks and order while they wait for judgment.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: righteous sufferer before judgment
+  assigned_to:
+  - fig:12
+  basis: The just suffer lightly and have shining limbs connected to ablution.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: marked sufferer before judgment
+  assigned_to:
+  - fig:13
+  basis: The unjust have blackened faces marked with sorrow and deformity.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: divine recipient and judge-context figure
+  assigned_to:
+  - fig:14
+  basis: The passage refers to what was due to God and frames resurrection as accountability
+    and reward.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: transformed judgment earth
+  literal_form: earth changed into another earth; also described in differing accounts
+    as Syria, a white even tract, a silver second earth, or another earth
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: gnawed tongue and corrupted blood
+  literal_form: tongues hanging down on the breast, gnawed, with corrupted blood flowing
+    from the mouth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: severed hands and feet
+  literal_form: hands and feet cut off
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: palm trunks or wooden stakes
+  literal_form: trunks of palm trees or stakes of wood used to fix false accusers
+    and informers
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: pitch-daubed garments
+  literal_form: garments daubed with pitch worn by the proud, vainglorious, and arrogant
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: shining ablution limbs
+  literal_form: limbs, especially parts washed for ceremonial ablution before prayer,
+    shining gloriously
+  associated_figures:
+  - fig:12
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: blackened face
+  literal_form: faces obscured with blackness and disfigured with marks of sorrow
+    and deformity
+  associated_figures:
+  - fig:13
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: upward gaze to heaven
+  literal_form: assembled people standing and looking up to heaven without receiving
+    orders or information
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Punishments of named sinner categories
+  summary: Wrongdoers are listed with bodily punishments that correspond to their
+    actions or moral faults.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Assembly place for judgment
+  summary: The passage reviews differing accounts of where resurrected beings will
+    assemble for judgment, including a transformed earth.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Universal judgment including animals
+  summary: After resurrection, humans, genii, and animals are judged, and injured
+    unarmed cattle take vengeance on horned cattle until satisfaction is made.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Waiting before judgment
+  summary: Angels hold mankind in ranks for a long duration while people look toward
+    heaven and suffer; the just shine and suffer lightly, while the unjust are blackened
+    and deformed.
+  figure_refs:
+  - fig:6
+  - fig:11
+  - fig:12
+  - fig:13
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Resurrection for final accountability
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: The passage states that the raised give an account of their actions and receive
+    reward, and that multiple classes of beings are judged.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is explanatory prose and not a narrative episode from the
+    Qur'an text itself.
+- id: motif:2
+  label: Judgment assembly on a transformed earth
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes the place of assembly for judgment and cites the expression
+    that the earth shall be changed into another earth.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The exact location is presented as disputed among reported opinions.
+- id: motif:3
+  label: Punishment by bodily correspondence to sin
+  taxonomy_refs:
+  - divine_judgment
+  basis: Distinct sinner categories receive distinctive bodily afflictions or humiliations,
+    such as tongues punished for contradictory speech and limbs cut off for injuring
+    neighbors.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only the sixth through tenth categories are included in this passage excerpt.
+- id: motif:4
+  label: Animal vindication at final judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage says irrational animals will be judged and that unarmed cattle
+    will take vengeance on horned cattle until satisfaction is given.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No separate taxonomy reference for animal judgment is supplied.
+- id: motif:5
+  label: Visible bodily signs of righteous and unrighteous status
+  taxonomy_refs:
+  - divine_judgment
+  basis: The just have shining limbs associated with prayer ablution, while the unjust
+    have blackened and deformed faces.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage describes pre-judgment suffering, not the final sentence itself.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself notes a possible comparison between the transformed earth
+    of judgment and scriptural language about new heavens and a new earth.
+  claim_level: same_function
+  target: scriptural motif of new heavens and new earth
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage phrases this as a possible influence or resemblance and
+    does not establish historical contact.
+- id: claim:2
+  claim: The footnote reports a proposed comparison between animal judgment in this
+    passage and Ezekiel's language about judgment between cattle.
+  claim_level: same_function
+  target: Ezekiel xxxiv. 17, 20-22 judgment between cattle
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: low
+  limitations: The note says Greaves supposed the opinion arose from Ezekiel but characterizes
+    that as a wrong understanding; the comparison is therefore tentative and contested
+    within the passage apparatus.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4373-4384
+  quote_or_summary: 'The excerpt lists the sixth through tenth punishments: contradictory
+    learned men gnaw hanging tongues; those who injured neighbours lose hands and
+    feet; false accusers are fixed to palm trunks or stakes; those indulging passions
+    while withholding what is due to God stink like corpses; the proud wear pitch-daubed
+    garments.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4385-4396
+  quote_or_summary: 'The assembly for judgment is said to be on earth, with differing
+    proposed locations or forms: Syria, a white even tract without buildings, a silver
+    second earth, or another earth; the passage cites the expression that the earth
+    shall be changed into another earth.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4397-4404
+  quote_or_summary: The resurrection is for beings to account for their actions and
+    receive reward; mankind, genii, and irrational animals are said to be judged,
+    and unarmed cattle take vengeance on horned cattle until satisfaction is given.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4405-4424
+  quote_or_summary: 'Assembled mankind is kept by angels in ranks before judgment
+    for a disputed long duration; they stand looking to heaven without orders, suffer
+    grievously, and differ visibly: the just have shining ablution-washed limbs and
+    lighter suffering, while the unjust have blackened, sorrowful, deformed faces.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: footnote 3 within lines 4418-4424
+  quote_or_summary: The note says Greaves supposed the animal-judgment opinion arose
+    from words in Ezekiel about judging between cattle, but it describes that as wrongly
+    understood and quotes Ezekiel's flock and cattle imagery.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear for judgment, resurrection, punishment, and animal-vindication
+    motifs. Comparison claims are limited to parallels explicitly raised by the passage
+    or its footnote.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l4373-l4424
+  passage_sha256=4abf9767baedd1ea6fa6ebbb7ca1c13ea23600c9c65a341adfc204d6d9ecdd18

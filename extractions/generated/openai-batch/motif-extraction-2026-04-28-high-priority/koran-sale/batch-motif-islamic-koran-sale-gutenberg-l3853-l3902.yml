@@ -1,0 +1,530 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l3853-l3902
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 3853-3902
+  start: '3853'
+  end: '3902'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Islamic and related oriental accounts of genii or
+    jinn as fire-created beings between angels and humans, capable of moral distinction,
+    death, and salvation or damnation. It recounts traditions of their pre-Adamite
+    habitation, corruption, expulsion, wars, confinement, and ranks. It then compares
+    these genii with Jewish Shedim. The passage also summarizes Islamic beliefs about
+    written revelations given by God to prophets, including a numbered sequence of
+    sacred books and the closure of revelation with Mohammed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes Jin or Genii as an intermediate order of creatures created
+    of fire and of a grosser fabric than angels.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The genii are said to eat, drink, propagate their species, and be subject
+    to death.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Some genii are described as good and others as bad, with possible future salvation
+    or damnation.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mohammed is described as claiming to be sent for the conversion of genii as
+    well as men.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Oriental traditions in the passage say genii inhabited the world before Adam
+    under successive princes called Solomon.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After general corruption, Eblis is said to have been sent to drive the genii
+    into a remote part of the earth for confinement.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Tahmrath, an ancient king of Persia, is said to have warred against remaining
+    genii and forced them to retreat into the mountains of Kf.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: 'The passage names ranks or kinds among these beings: Jin, Peri, Div, and
+    Tacwns.'
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage states that Mohammedan notions of genii agree almost exactly with
+    Jewish writings about demons called Shedm.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Shedm are described as winged, able to fly from one end of the world to
+    the other, and possessing some knowledge of futurity.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The Shedm are also described as eating, drinking, propagating, and dying like
+    humans.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Some Shedm are said to believe in the law of Moses and be good, while others
+    are infidels and reprobates.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The passage states that God gave written revelations of his will to several
+    prophets in different ages of the world.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: The passage gives the number of sacred books as 104 and lists distributions
+    to Adam, Seth, Edrs or Enoch, Abraham, Moses, David, Jesus, and Mohammed.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:15
+  text: Mohammed is described as the seal of the prophets, after whom revelations
+    are closed and no more are expected.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:16
+  text: Most earlier divine books are said to be lost, and the Pentateuch, Psalms,
+    and Gospel are said to have undergone alterations and corruptions.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Jin or Genii
+  description: An intermediate order of fire-created creatures, distinct from angels
+    and humans but sharing human-like bodily traits and moral destiny.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Mohammed
+  description: Described as sent for conversion of genii and men and as the seal of
+    the prophets.
+  role_refs:
+  - role:3
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: Eblis
+  description: Described as sent to drive corrupted genii into a remote part of the
+    earth for confinement.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Tahmrath
+  description: An ancient king of Persia who warred against remaining genii and forced
+    them to retreat into the mountains of Kf.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Shedm
+  description: Jewish demons compared with the genii; described as sharing traits
+    with angels and humans and divided morally.
+  role_refs:
+  - role:6
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: God
+  description: The giver of written revelations to prophets in different ages.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Prophets receiving sacred books
+  description: Adam, Seth, Edrs or Enoch, Abraham, Moses, David, Jesus, and Mohammed
+    are listed as recipients of sacred books or revelations.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: intermediate fire-created beings
+  assigned_to:
+  - fig:1
+  basis: The passage calls the Jin or Genii an intermediate order created of fire
+    and grosser than angels.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: morally divided beings subject to judgment
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Both genii and Shedm are described as including good and bad members, with
+    salvation/damnation or belief/reprobation language.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: missionary to genii and humans
+  assigned_to:
+  - fig:2
+  basis: The passage says Mohammed claimed to be sent for conversion of genii as well
+    as men.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: expeller and confiner
+  assigned_to:
+  - fig:3
+  basis: Eblis is said to have been sent to drive corrupted genii into a remote confined
+    region.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: kingly warrior against genii
+  assigned_to:
+  - fig:4
+  basis: Tahmrath is described as an ancient Persian king who waged war against genii.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: comparable Jewish demon-kind
+  assigned_to:
+  - fig:5
+  basis: The passage compares Mohammedan genii with Jewish Shedm and lists shared
+    traits.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: divine revealer
+  assigned_to:
+  - fig:6
+  basis: God is said to have given written revelations of his will to prophets.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: seal of the prophets
+  assigned_to:
+  - fig:2
+  basis: Mohammed is described as the last prophet after whom revelations are closed.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: recipients of sacred books
+  assigned_to:
+  - fig:7
+  basis: The passage lists prophets to whom sacred books or revelations were delivered.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire as the substance from which genii are created
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountains of Kf
+  literal_form: famous mountains of Kf as a retreat or place of confinement for genii
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: wings
+  literal_form: wings attributed to the Shedm in comparison with ministering angels
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: sacred books
+  literal_form: written revelations given to prophets, counted as 104 sacred books
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Description of fire-created genii
+  summary: The passage defines genii as intermediate beings created of fire, unlike
+    angels in bodily functions and mortality, and divided into good and bad.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pre-Adamite genii, corruption, expulsion, and retreat
+  summary: The genii are said to have inhabited the world before Adam, fallen into
+    corruption, been driven to a remote region by Eblis, and later forced by Tahmrath
+    into the mountains of Kf.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ranks of genii-like beings
+  summary: 'The passage lists different ranks or types among the beings: Jin, Peri,
+    Div, and Tacwns.'
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Comparison with Jewish Shedm
+  summary: The passage compares Islamic genii with Jewish Shedm, describing Shedm
+    as winged, far-flying, partly foreknowing, mortal, reproductive, and morally divided.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Sequence and closure of written revelations
+  summary: God is said to have given written revelations to prophets in successive
+    ages; the sacred books are numbered and distributed, and revelation is said to
+    close with Mohammed.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: fire-created intermediate beings
+  taxonomy_refs: []
+  basis: The genii are described as beings created of fire, intermediate between angels
+    and humans, with bodily and mortal traits.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No exact available motif-family taxonomy ref matches this specific being-type
+    pattern.
+- id: motif:2
+  label: morally divided nonhuman beings subject to salvation or damnation
+  taxonomy_refs:
+  - divine_judgment
+  basis: The genii are said to be good or bad and capable of salvation or damnation;
+    the Shedm are similarly divided between believers and reprobates.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage is doctrinal and comparative rather than a narrative judgment
+    scene.
+- id: motif:3
+  label: pre-human beings expelled to remote mountains after corruption
+  taxonomy_refs:
+  - mountain
+  basis: The genii are said to predate Adam, fall into corruption, be driven away,
+    and retreat into the mountains of Kf after conflict with Tahmrath.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy contains 'mountain' as a symbol rather than a specific
+    exile-of-spirits motif.
+- id: motif:4
+  label: successive sacred revelations to prophets
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes God giving written revelations in successive ages to
+    named prophets and treats these as sacred books requiring belief.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy ref 'wisdom' is broad; the passage specifically concerns
+    revealed scripture.
+- id: motif:5
+  label: closure of revelation with final prophet
+  taxonomy_refs: []
+  basis: Mohammed is described as the seal of the prophets, with revelations now closed
+    and no more expected.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy ref directly names final-prophet or closed-canon
+    motifs.
+- id: motif:6
+  label: lost and corrupted earlier scriptures
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says earlier divine books are lost and that the Pentateuch, Psalms,
+    and Gospel have been altered or corrupted.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The motif label is doctrinal and textual; the broad 'wisdom' taxonomy
+    ref should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Islamic genii with Jewish Shedm and says
+    their described traits agree almost exactly.
+  claim_level: same_function
+  target: Jewish Shedm demon tradition
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim reports the passage's comparison only; it does not independently
+    establish historical contact or common inheritance.
+- id: claim:2
+  claim: Genii and Shedm share a pattern of hybrid angelic-human traits, including
+    flight or supra-human qualities alongside eating, drinking, propagation, death,
+    and moral division.
+  claim_level: same_motif
+  target: hybrid mortal spirit-being pattern across Islamic genii and Jewish Shedm
+    as presented in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage lists similar attributes, but the genii section does not
+    attribute wings or flight to genii in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3853-3856
+  quote_or_summary: Jin or Genii are described as an intermediate order created of
+    fire, grosser than angels, and as eating, drinking, propagating, and dying.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: lines 3856-3859
+  quote_or_summary: Some genii are described as good and others bad, capable of future
+    salvation or damnation; Mohammed is said to be sent for conversion of genii and
+    humans.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized rather than quoted at length.
+- id: ev:3
+  type: summary
+  locator: lines 3859-3868
+  quote_or_summary: Oriental traditions say genii inhabited the world before Adam,
+    fell into corruption, were driven by Eblis into a remote confined region, and
+    were later forced by Tahmrath into the mountains of Kf.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized rather than quoted at length.
+- id: ev:4
+  type: summary
+  locator: lines 3868-3871
+  quote_or_summary: 'The passage lists ranks or kinds among these beings: Jin, Peri,
+    Div, and Tacwns.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized rather than quoted at length.
+- id: ev:5
+  type: summary
+  locator: lines 3872-3876
+  quote_or_summary: The passage states that Mohammedan notions of genii agree almost
+    exactly with Jewish writings about demons called Shedm, including a tradition
+    of their origin from angels and Naamah before the Flood.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized rather than quoted at length.
+- id: ev:6
+  type: summary
+  locator: lines 3876-3882
+  quote_or_summary: Shedm are described as sharing three traits with angels—wings,
+    far flight, and some future knowledge—and three with humans—eating, drinking,
+    propagation, and death; some are good believers and others reprobates.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized rather than quoted at length.
+- id: ev:7
+  type: summary
+  locator: lines 3883-3893
+  quote_or_summary: God is said to have given written revelations to prophets; 104
+    sacred books are distributed among Adam, Seth, Edrs or Enoch, Abraham, Moses,
+    David, Jesus, and Mohammed, with Mohammed as seal of the prophets and revelation
+    closed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized rather than quoted at length.
+- id: ev:8
+  type: summary
+  locator: lines 3893-3902
+  quote_or_summary: All divine books except the last four are said to be lost; the
+    Pentateuch, Psalms, and Gospel are said to have undergone many alterations and
+    corruptions, with the Jews specifically accused in the Koran of falsifying their
+    law.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized rather than quoted at length.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied passage. Motif taxonomy
+    mapping is partly broad because the available taxonomy lacks exact references
+    for jinn, scripture sequence, final prophet, or textual corruption.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Spelling follows the passage where distinctive forms appear, such as Jin, Genii, Shedm, Eblis, Tahmrath, and Kf.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l3853-l3902
+  passage_sha256=ce098eb1a9ecc16736ed6166d27caf37a4b9dfffe054a6eb205e344f1c58c4d1

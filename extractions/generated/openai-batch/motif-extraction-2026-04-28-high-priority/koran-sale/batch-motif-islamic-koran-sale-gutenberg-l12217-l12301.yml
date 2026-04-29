@@ -1,0 +1,452 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l12217-l12301
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER III. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER IV. / IN THE
+    NAME OF THE MOST MERCIFUL GOD; lines 12217-12301
+  start: '12217'
+  end: '12301'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens Chapter IV by commanding humankind to fear the Lord who
+    created them from one man and his wife. It gives instructions about women, dowry,
+    marriage limits, orphans' property, witnesses, inheritance shares, and warns that
+    those who unjustly consume orphans' possessions will consume fire and be burned
+    in flames. It presents these rules as commands and ordinances from God, who watches
+    and accounts for actions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Humankind is addressed and told to fear the Lord who created them from one
+    man, created his wife from him, and multiplied men and women from the pair.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage commands respect for women or wombs and says God is watching over
+    the addressed people.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Orphans are to receive their substance when they come of age, and their goods
+    are not to be exchanged unfairly or consumed by guardians.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Marriage to women is regulated by equity, with a limit of two, three, or four
+    wives, or one wife if equitable treatment cannot be maintained.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Women are to be given their dowry freely, though they may voluntarily remit
+    part of it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Orphans are to be examined until the age of marriage, and if they can manage
+    well, their substance is to be delivered to them.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Witnesses are to be called when an orphan's substance is delivered, and God
+    is said to take sufficient account of actions.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Men and women are both assigned a due part of what parents and kindred leave
+    at death.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Those who unjustly consume the possessions of orphans are said to swallow
+    fire and broil in raging flames.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Inheritance portions for children, parents, mothers, and brethren are presented
+    as an ordinance from God.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God / Lord
+  description: The divine speaker's authority is invoked as creator, watcher, accountant
+    of actions, commander, and wise knower.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Men / addressed community
+  description: The passage addresses men or humankind with commands about fear of
+    God, women, orphans, marriage, property, and inheritance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Orphans
+  description: Orphans are described as holders of substance or estates that must
+    be preserved and returned when they can manage it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Women / wives / mothers
+  description: Women are mentioned as multiplied from the first pair, as persons to
+    be respected, as marriage partners, recipients of dowry, and heirs or mothers
+    in inheritance law.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: Parents, children, kindred, brethren, poor, and weak offspring
+  description: Family and dependent groups are named in rules concerning inheritance,
+    distribution of estates, and concern for vulnerable descendants.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: Unjust consumers of orphans' possessions
+  description: People who devour orphans' possessions unjustly are threatened with
+    fire and raging flames.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: creator
+  assigned_to:
+  - fig:1
+  basis: The Lord is said to have created humankind from one man and created his wife
+    from him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: watcher and accountant
+  assigned_to:
+  - fig:1
+  basis: God is described as watching over people and taking sufficient account of
+    their actions.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: divine lawgiver
+  assigned_to:
+  - fig:1
+  basis: Inheritance rules are described as commands and an ordinance from God.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: commanded moral community
+  assigned_to:
+  - fig:2
+  basis: The addressed people are commanded to fear God, manage orphans' property
+    rightly, and regulate marriage and inheritance conduct.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: protected dependents and property holders
+  assigned_to:
+  - fig:3
+  basis: Orphans' substance is to be preserved, not devoured, examined for readiness,
+    and delivered with witnesses.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:6
+  label: marriage partners and dowry recipients
+  assigned_to:
+  - fig:4
+  basis: Women are described as possible wives and as recipients of dowry.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: heirs
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Men, women, children, parents, mothers, and brethren are assigned shares
+    in inheritance rules.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:8
+  label: kin and vulnerable recipients
+  assigned_to:
+  - fig:5
+  basis: Kindred, orphans, the poor, and weak offspring appear in instructions about
+    estate division and moral care.
+  evidence_refs:
+  - ev:9
+- id: role:9
+  label: offenders under punishment
+  assigned_to:
+  - fig:6
+  basis: Those who unjustly devour orphans' possessions are threatened with swallowing
+    fire and broiling in flames.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fire as punishment
+  literal_form: fire in the belly and raging flames
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: wombs / maternal relation
+  literal_form: women or wombs who have borne the addressed people
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: substance / estate
+  literal_form: orphans' substance, parents' and kindred's estate, inheritance shares
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Creation and moral address
+  summary: The passage addresses humankind, links them to creation from one man and
+    his wife, and commands fear of God and respect for women or wombs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Protection of orphans' property
+  summary: The addressed community is instructed to preserve orphans' substance, avoid
+    unfair exchange or consumption, test their capacity, return property when appropriate,
+    and call witnesses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Marriage and dowry regulation
+  summary: Marriage is limited by the requirement of equitable treatment, and dowry
+    is to be given freely to women.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Inheritance distribution
+  summary: Men and women receive determined shares of inheritance, and detailed shares
+    are given for children, parents, mothers, and brethren as a divine ordinance.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: scene:5
+  label: Punishment for consuming orphans' possessions
+  summary: Those who unjustly consume orphans' possessions are described as swallowing
+    fire and burning in raging flames.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine judgment against exploitation of the vulnerable
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage states that God watches and accounts for actions, and threatens
+    those who unjustly consume orphans' possessions with fiery punishment.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage is primarily legal and exhortative; the judgment motif is
+    explicit but not narrated as a full mythic episode.
+- id: motif:2
+  label: divinely ordained inheritance and family order
+  taxonomy_refs: []
+  basis: Rules for marriage, dowry, orphans' property, and inheritance shares are
+    presented as commands and an ordinance from God.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: No available taxonomy reference precisely matches this legal-order motif.
+- id: motif:3
+  label: human origin from an ancestral pair
+  taxonomy_refs: []
+  basis: The passage says the Lord created people from one man, created his wife from
+    him, and multiplied men and women from the two.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage only briefly invokes the origin statement as part of moral
+    address; it does not elaborate a creation narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12217-12223
+  quote_or_summary: Humankind is told to fear the Lord, who created them from one
+    man, created his wife from him, multiplied men and women from the pair, and watches
+    over them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12224-12227
+  quote_or_summary: Orphans are to be given their substance at maturity; their goods
+    are not to be exchanged bad for good or devoured by adding them to one's own substance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12228-12235
+  quote_or_summary: If equity toward female orphans is feared, marriage to other women
+    is permitted in limited numbers; if equity among many cannot be maintained, one
+    wife is advised. Women are to receive dowry freely.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12266-12270
+  quote_or_summary: Orphans are to be examined until the age of marriage; if capable
+    of managing affairs, their substance is to be delivered to them and not wasted
+    extravagantly or hastily.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 12271-12275
+  quote_or_summary: The rich should abstain from orphans' estates, the poor may take
+    reasonably, and witnesses should be called when property is delivered; God takes
+    account of actions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 12276-12279
+  quote_or_summary: Men and women both receive a determined part of what parents and
+    kindred leave after death.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 12288-12290
+  quote_or_summary: "“they who devour the possessions of orphans unjustly shall swallow
+    down nothing but fire into their bellies, and shall broil in raging flames.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: summary
+  locator: lines 12291-12301
+  quote_or_summary: God commands inheritance portions for children and parents, including
+    shares for females, mothers, and cases involving brethren; the rule is called
+    an ordinance from God, who is knowing and wise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 12280-12287
+  quote_or_summary: Kin, orphans, and the poor present at estate division should receive
+    something or be spoken to kindly; people are warned to fear abusing orphans as
+    they would fear for weak offspring left behind.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal legal and theological content is explicit. Motif classification is
+    more tentative because the passage is juridical rather than narrative. No comparison
+    claims were made because the passage itself does not support a specific cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the supplied passage and metadata; footnote commentary was treated as part of the provided passage but not used for additional motif claims.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l12217-l12301
+  passage_sha256=2f8883fd5413dfbdee5cc5494f7edf0a9f0c9e4025c2a609d9599c38a9744c14

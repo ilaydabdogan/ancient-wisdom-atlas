@@ -1,0 +1,503 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l10592-l10646
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER I. / IN THE NAME OF THE MOST MERCIFUL GOD / CHAPTER II. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 10592-10646
+  start: '10592'
+  end: '10646'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contrasts the devil’s threat of poverty and command to covetousness
+    with God’s promise of pardon, abundance, and wisdom. It instructs believers about
+    giving alms openly or secretly, helping the poor, and seeking God’s face rather
+    than worldly gain. It promises reward and freedom from fear for those who give
+    alms, condemns usury, describes usurers rising from the dead like persons touched
+    by Satan, and warns that persistent usurers are companions of hell fire. It commands
+    believers to remit remaining usury, repent, and avoid injustice.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The devil is said to threaten people with poverty and command filthy covetousness.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: God is said to promise pardon and abundance and to give wisdom to whom he
+    pleases.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Alms may be made visible, but concealed alms given to the poor are described
+    as better and as atoning for sins.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Good given in alms is said to redound to the giver, be repaid, and be known
+    by God.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A group of poor people is described as unable to travel on the earth, thought
+    rich because of modesty, and not asking with importunity.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Those who distribute alms night and day, privately and publicly, are promised
+    reward with the Lord and absence of fear and grief.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Those who devour usury are described as rising from the dead like one whom
+    Satan has infected by a touch.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: God is said to permit selling and forbid usury.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Those who return to usury are described as companions of hell fire who continue
+    there forever.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: God is said to take blessing from usury and increase alms.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: True believers are commanded to fear God and remit what remains of usury.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: If believers do not remit usury, war is declared against them from God and
+    his apostle; if they repent, they may retain the capital of their money.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Divine figure described as rich, worthy of praise, bounteous, wise,
+    knowing deeds, directing whom he pleases, rewarding alms, forbidding usury, and
+    declaring war through his apostle against noncompliance.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: the devil / Satan
+  description: Adversarial figure who threatens poverty, commands covetousness, and
+    is associated with a touch affecting those who devour usury.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: wise of heart
+  description: People said to be the ones who will consider the gift of wisdom.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the poor employed in fighting for the religion of God
+  description: Poor people described as unable to go to and fro on the earth, modest,
+    and not asking men with importunity.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: those who distribute alms
+  description: People who give their substance in alms night and day, privately and
+    publicly.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: those who devour usury
+  description: People who practice usury and are described as rising from the dead
+    like one touched by Satan; those who return to it are assigned to hell fire.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: true believers
+  description: The addressed believers commanded to fear God and remit remaining usury.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: God's apostle
+  description: Figure named with God as the source from which war is declared against
+    those who do not remit usury.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: giver of pardon, abundance, and wisdom
+  assigned_to:
+  - fig:1
+  basis: God promises pardon and abundance and gives wisdom to whom he pleases.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: knower and rewarder of alms
+  assigned_to:
+  - fig:1
+  basis: God knows alms and deeds, and good given in alms is promised repayment and
+    reward with the Lord.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: forbidder and judge of usury
+  assigned_to:
+  - fig:1
+  basis: God forbids usury, removes blessing from it, increases alms, and is linked
+    to warnings against continued usury.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: tempter and afflicting adversary
+  assigned_to:
+  - fig:2
+  basis: The devil threatens poverty and commands covetousness; Satan is linked to
+    the disordered rising of usurers from the dead.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: recipients or recognizers of wisdom
+  assigned_to:
+  - fig:3
+  basis: The wise of heart are said to consider the gift of wisdom.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: modest poor recipients
+  assigned_to:
+  - fig:4
+  basis: The passage identifies poor people who do not ask importunately and are to
+    receive alms.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: rewarded almsgivers
+  assigned_to:
+  - fig:5
+  basis: Those who give alms night and day, privately and publicly, are promised reward
+    and freedom from fear and grief.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: condemned usurers
+  assigned_to:
+  - fig:6
+  basis: Those who devour usury are condemned and contrasted with permitted selling.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: companions of hell fire
+  assigned_to:
+  - fig:6
+  basis: Those who return to usury are called companions of hell fire and remain there
+    forever.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: commanded believers
+  assigned_to:
+  - fig:7
+  basis: True believers are directly commanded to fear God and remit remaining usury.
+  evidence_refs:
+  - ev:7
+- id: role:11
+  label: associated war-proclaimer
+  assigned_to:
+  - fig:8
+  basis: War is declared from God and his apostle if the addressees do not remit usury.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: wisdom
+  literal_form: wisdom given by God
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: alms
+  literal_form: substance or good things given to the poor, privately or publicly
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: face of God
+  literal_form: the face of God as the desired end of giving alms
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Satanic touch
+  literal_form: a touch by which Satan infects the one rising from the dead
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: hell fire
+  literal_form: hell fire in which persistent usurers continue forever
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: capital of money
+  literal_form: the principal sum retained after repentance from usury
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Contrasting promises of devil and God
+  summary: The devil threatens poverty and commands covetousness, while God promises
+    pardon and abundance and gives wisdom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Instruction on alms
+  summary: The passage instructs that alms may be public but concealed alms to the
+    poor are better, atone for sins, and are known by God.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Condemnation of usury and afterlife consequence
+  summary: Usurers are described as rising from the dead like those touched by Satan,
+    while those who return to usury become companions of hell fire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Command to remit usury
+  summary: True believers are commanded to fear God and give up remaining usury; failure
+    brings a declaration of war from God and his apostle, while repentance permits
+    retaining the principal.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine gift of wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Wisdom is explicitly given by God to whom he pleases and described as much
+    good.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives ethical-theological instruction rather than a narrative
+    quest for wisdom.
+- id: motif:2
+  label: almsgiving repaid by God
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Good given in alms is said to redound to the giver, be repaid, atone for
+    sins, and bring reward with the Lord.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy label is broader than the specific legal and devotional
+    context of alms.
+- id: motif:3
+  label: divine judgment of economic wrongdoing
+  taxonomy_refs:
+  - divine_judgment
+  basis: Usury is forbidden by God; persistent usurers are threatened with hell fire
+    and a declaration of war from God and his apostle.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The judgment is tied specifically to usury and injustice, not to a full
+    judgment-scene narrative.
+- id: motif:4
+  label: disordered resurrection of the condemned
+  taxonomy_refs:
+  - resurrection
+  basis: Those who devour usury are described as rising from the dead like one infected
+    by Satan’s touch.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The resurrection image is brief and functions as a warning against usury.
+- id: motif:5
+  label: hell fire punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Those who return to usury are called companions of hell fire and remain in
+    it forever.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The taxonomy includes fire only as a symbol and divine judgment as a motif;
+    the passage does not elaborate a wider underworld journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10594-10600
+  quote_or_summary: The devil threatens poverty and commands covetousness; God promises
+    pardon and abundance and gives wisdom to whom he pleases; only the wise of heart
+    consider this.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10600-10610
+  quote_or_summary: God knows vows and alms; visible alms are acceptable, but concealed
+    alms to the poor are better and atone for sins; alms are to be given from desire
+    for the face of God and will be repaid without injustice.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10610-10615
+  quote_or_summary: The poor who are engaged in fighting for God's religion cannot
+    travel freely, are thought rich because of modesty, and do not ask people with
+    importunity.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10616-10618
+  quote_or_summary: Those who distribute alms night and day, in private and public,
+    are promised reward with the Lord, with no fear or grief coming on them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 10619-10629
+  quote_or_summary: Those who devour usury will rise from the dead like one touched
+    by Satan; God permits selling and forbids usury; those who return to usury are
+    companions of hell fire forever.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10630-10634
+  quote_or_summary: God takes blessing from usury and increases alms; those who believe,
+    act rightly, pray, and pay legal alms have reward with their Lord and no fear
+    or grief.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 10635-10641
+  quote_or_summary: True believers are commanded to fear God and remit remaining usury;
+    if they do not, war is declared from God and his apostle; if they repent, they
+    retain their capital and must not act unjustly.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 10645-10646
+  quote_or_summary: The note explains the phrase about the face of God as acting for
+    a reward hereafter rather than for worldly consideration.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is didactic and legal-ethical rather than mythic narrative; motif
+    candidates are limited to explicit theological images and actions in the passage.
+    No comparison claims were made because the passage itself does not compare traditions
+    or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l10592-l10646
+  passage_sha256=5534168461b57b48a7e118ce7f95088dad28490c58a6ea217ed6023ee68a8abe

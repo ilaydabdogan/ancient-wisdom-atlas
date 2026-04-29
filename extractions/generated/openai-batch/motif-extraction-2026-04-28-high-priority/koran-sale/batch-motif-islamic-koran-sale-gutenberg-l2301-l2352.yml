@@ -1,0 +1,412 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l2301-l2352
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: THE KORAN. / PRELIMINARY DISCOURSE / SECTION I. / SECTION II.; lines 2301-2352
+  start: '2301'
+  end: '2352'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Arabia as a place of diverse religious sects and
+    heresies, including beliefs about bodily resurrection and sectarian devotion to
+    the Virgin Mary. It then discusses Mohammed’s engagement and later conflict with
+    Jews in Arabia and argues that religious division and weakened Roman and Persian
+    powers enabled the rise of Mohammedism.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Arabia is described as formerly famous for heresies, partly attributed to
+    the liberty and independence of its tribes.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some Christians of Arabia are said to have believed that the soul died with
+    the body and would be raised with it at the last day.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Collyridians are described as introducing or worshipping the Virgin Mary
+    as God and offering her a twisted cake called collyris.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Some people at the council of Nice are described as saying there were two
+    gods besides the Father: Christ and the Virgin Mary.'
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the Koran condemns the divinity of the Virgin Mary
+    as idolatrous.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Other sects are said to have taken refuge within Arabia from imperial proscriptions,
+    and Mohammed is said to have incorporated several of their notions into his religion.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Jews in Arabia are described as powerful after fleeing from the destruction
+    of Jerusalem, and Mohammed is said first to have shown regard to them and adopted
+    many of their opinions, doctrines, and customs.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Jews are described as becoming bitter enemies of Mohammed and waging continual
+    war with him.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage argues that religious distraction and the weakness of the Roman
+    and Persian monarchies favored Mohammed’s designs and the growth of Mohammedism.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Arabia
+  description: The nation or region described as famous for heresies and as a refuge
+    for sects.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Some Christians of Arabia
+  description: Christians who believed the soul died with the body and would be raised
+    again with it at the last day.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Virgin Mary
+  description: A figure whom the passage says some sectarians introduced as God, worshipped
+    as such, or considered divine.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Collyridians
+  description: A sect said to worship the Virgin Mary as God and to offer her a twisted
+    cake called collyris.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Mariamites
+  description: People associated with the view that Christ and the Virgin Mary were
+    two gods besides the Father.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Mohammed
+  description: Described as attacking the Trinity, incorporating notions from Arabian
+    sects, first courting Jews in Arabia, and later opposing them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Jews in Arabia
+  description: A community described as powerful in Arabia, initially courted by Mohammed,
+    and later hostile to him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Roman and Persian monarchies
+  description: Empires described as weakened, so that they did not crush Mohammedism
+    in its birth.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Arabians
+  description: People whose success is said to have nourished Mohammedism.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: region of religious diversity and refuge
+  assigned_to:
+  - fig:1
+  basis: Arabia is described as famous for heresies and as receiving sects fleeing
+    imperial edicts.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: resurrection-believing sectarians
+  assigned_to:
+  - fig:2
+  basis: They are said to believe the soul died with the body and would be raised
+    with it at the last day.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: deified or worshipped female figure
+  assigned_to:
+  - fig:3
+  basis: The Virgin Mary is described as worshipped as God or treated as divine by
+    certain groups.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: sectarian worshippers or doctrinal group
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Collyridians are linked to worship of Mary; the Mariamites are linked
+    to a doctrine naming Christ and Mary as gods besides the Father.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: religious founder and polemic actor
+  assigned_to:
+  - fig:6
+  basis: Mohammed is said to incorporate some sectarian notions, attack the Trinity,
+    court Jews, and later oppose them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: courted community and later opponents
+  assigned_to:
+  - fig:7
+  basis: The Jews are said to be initially courted by Mohammed and later to become
+    among his bitterest enemies.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: weakened imperial powers
+  assigned_to:
+  - fig:8
+  basis: The Roman and Persian monarchies are described as too weak to crush Mohammedism
+    in its birth.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: successful expanding people
+  assigned_to:
+  - fig:9
+  basis: The success the Arabians met with is said to have nourished Mohammedism.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: twisted cake offering
+  literal_form: A sort of twisted cake called collyris, offered to the Virgin Mary
+    by the Collyridians.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: last day resurrection belief
+  literal_form: The last day when soul and body are said to be raised together.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Arabia as a setting of sectarian diversity
+  summary: Arabia is presented as a region known for heresies, where several Christian
+    or sectarian views appeared or spread.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sectarian devotion to the Virgin Mary
+  summary: The passage describes Collyridians and Mariamites as attributing divine
+    status to Mary, with the Collyridians offering her a cake, and says the Koran
+    condemns this as idolatrous.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Mohammed and the Jews in Arabia
+  summary: Jews in Arabia are described as powerful; Mohammed first adopts many of
+    their doctrines and customs to win them, but they become his enemies and wage
+    war against him.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Conditions enabling the rise of Mohammedism
+  summary: The passage argues that religious division and weakened Roman and Persian
+    powers created opportunities for Mohammed and allowed Mohammedism to grow.
+  figure_refs:
+  - fig:6
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: bodily resurrection at the last day
+  taxonomy_refs:
+  - resurrection
+  basis: Some Arabian Christians are described as believing the soul died with the
+    body and would be raised with it at the last day.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage reports this as a sectarian belief in a historical-theological
+    discussion rather than narrating a mythic resurrection event.
+- id: motif:2
+  label: ritual offering to a deified figure
+  taxonomy_refs: []
+  basis: The Collyridians are said to worship the Virgin Mary as God and offer her
+    a twisted cake called collyris.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is polemical and descriptive; it does not provide a ritual
+    narrative beyond the stated offering.
+- id: motif:3
+  label: deification condemned as idolatry
+  taxonomy_refs: []
+  basis: The passage states that notions of Mary’s divinity were condemned in the
+    Koran as idolatrous and used by Mohammed to attack the Trinity.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a doctrinal polemic in the preliminary discourse, not an independent
+    mythic episode.
+- id: motif:4
+  label: religious founder incorporating prior traditions
+  taxonomy_refs: []
+  basis: The passage says Mohammed incorporated several notions from sects in Arabia
+    and adopted many Jewish opinions, doctrines, and customs to draw Jews into his
+    interest.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The claim reflects the author’s historical interpretation and should be
+    reviewed against other sources.
+- id: motif:5
+  label: rise of a religion through political opportunity
+  taxonomy_refs: []
+  basis: The passage argues that religious disorder and the weakness of the Roman
+    and Persian monarchies enabled Mohammed’s attempt and nourished Mohammedism’s
+    growth.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a political-historical pattern rather than a mythic motif, and
+    it is framed by the translator’s interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2302-2308
+  quote_or_summary: Arabia is described as famous for heresies; some Christians there
+    believed the soul died with the body and would be raised with it at the last day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2308-2313
+  quote_or_summary: The passage says the Collyridians introduced or worshipped the
+    Virgin Mary as God and offered her a twisted cake called collyris.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2314-2321
+  quote_or_summary: Some at the council of Nice are said to have named Christ and
+    Mary as gods besides the Father; the Koran is said to condemn Mary’s divinity
+    as idolatrous, giving Mohammed grounds to attack the Trinity.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2322-2325
+  quote_or_summary: Other sects are said to have taken refuge in Arabia from imperial
+    edicts, and Mohammed is said to have incorporated several of their notions into
+    his religion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2326-2340
+  quote_or_summary: Jews in Arabia are described as powerful; Mohammed initially showed
+    them regard and adopted many of their opinions, doctrines, and customs, but they
+    later became bitter enemies and fought him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 2341-2352
+  quote_or_summary: The passage states that political opportunities, religious disorder,
+    and weakened Roman and Persian monarchies allowed Mohammedism to survive and grow,
+    while Arabian successes nourished it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a historical and polemical preliminary discourse rather than
+    a mythic narrative. Literal extraction is straightforward, but motif labels require
+    caution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific cross-traditional comparison beyond its historical discussion of sectarian and doctrinal relations.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l2301-l2352
+  passage_sha256=82f27a4b6457d0431cef5dd706a6f7d667e7167905668aa24e92aa6be7fa5469

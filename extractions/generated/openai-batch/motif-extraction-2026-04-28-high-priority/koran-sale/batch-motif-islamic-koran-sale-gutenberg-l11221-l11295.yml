@@ -1,0 +1,614 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l11221-l11295
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER II. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER III. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 11221-11295
+  start: '11221'
+  end: '11295'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Verily the likeness of Jesus in the sight of GOD is as the likeness of Adam;
+    he created him out of the dust, and then said unto him, Be; and he was.
+  summary: God addresses Jesus, promising death or taking up, deliverance from unbelievers,
+    eventual return and judgment. The passage contrasts punishment for infidels with
+    reward for believers, likens Jesus to Adam as a being produced by God's command,
+    proposes a mutual imprecation for disputants, and calls the people of scripture
+    to worship God alone without associating creatures or taking one another as lords.
+    Notes report variant interpretations of Jesus' assumption, death, restoration
+    to life, and a reported Najran imprecation episode.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: God says to Jesus that he will cause him to die, take him up, deliver him
+    from unbelievers, and later judge disagreements after return to God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Infidels are said to receive grievous punishment in this world and the next,
+    without helpers.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Those who believe and do right are said to receive their reward.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jesus is explicitly likened to Adam, who is described as created from dust
+    by God's command, “Be.”
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Disputants concerning Jesus are instructed to gather sons, wives, and selves
+    and invoke God's curse on liars.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'The people who have received scripture are called to a shared determination:
+    worship God alone, associate no creature with him, and not take one another as
+    lords beside God.'
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: 'A note reports multiple interpretations of Jesus'' taking up: assumption
+    before death, lifting while asleep, spiritual death to worldly desires, or natural
+    death followed by restoration to life and taking up to heaven.'
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A note reports traditions that Jesus was taken up by Gabriel or by a strong
+    whirlwind from Mount Olivet.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A note reports a story in which Najran Christians disputed with Mohammed about
+    Jesus, agreed to an imprecation trial, but declined after seeing Mohammed kneel
+    to pray and submitted to tribute.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Divine speaker who addresses Jesus, creates Adam, commands, rewards,
+    punishes, and judges disputes.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Jesus
+  description: Figure addressed by God; said to be caused to die or taken up, delivered
+    from unbelievers, and likened to Adam.
+  role_refs:
+  - role:4
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Unbelievers / infidels
+  description: Those from whom Jesus is delivered and who are threatened with punishment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Believers / followers of Jesus
+  description: Those who follow Jesus are placed above unbelievers until the day of
+    resurrection; those who believe and do right receive reward.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Adam
+  description: Created from dust by God's immediate command and used as the likeness
+    for Jesus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: People who have received scripture
+  description: Addressed as recipients of scripture and invited to agree to worship
+    only God.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Disputants concerning Jesus
+  description: Persons who dispute after knowledge is given and are invited to a mutual
+    imprecation.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Mohammed
+  description: In the note, he disputes with Najran Christians, attends the imprecation
+    meeting, kneels to pray, and is not cursed by them.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Najran Christians and Abu Hareth
+  description: In the note, Christian ambassadors with their bishop Abu Hareth dispute
+    with Mohammed about religion and Jesus.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Fatima, Ali, Hasan, and Hosein
+  description: In the note, Mohammed is accompanied by his daughter, son-in-law, and
+    two grandsons at the imprecation episode.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:8
+- id: fig:11
+  name_or_label: Gabriel
+  description: In one reported tradition, the minister by whom Jesus was taken up.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine speaker
+  assigned_to:
+  - fig:1
+  basis: God speaks commands and declarations in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: judge and rewarder-punisher
+  assigned_to:
+  - fig:1
+  basis: God will judge disagreements, punish infidels, and reward believers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: creator by command
+  assigned_to:
+  - fig:1
+  basis: God creates Adam from dust and says “Be.”
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: taken-up or assumed figure
+  assigned_to:
+  - fig:2
+  basis: Jesus is promised to be taken up to God; notes elaborate variants of assumption.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: role:5
+  label: opponents subject to punishment
+  assigned_to:
+  - fig:3
+  basis: Unbelievers oppose Jesus and infidels are threatened with punishment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: rewarded faithful
+  assigned_to:
+  - fig:4
+  basis: Followers and believers are promised superiority or reward.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:7
+  label: primordial created human
+  assigned_to:
+  - fig:5
+  basis: Adam is described as created from dust by God's command.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: miraculously likened figure
+  assigned_to:
+  - fig:2
+  basis: Jesus is likened to Adam in relation to God's creative power.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: scripture-receiving community
+  assigned_to:
+  - fig:6
+  basis: They are addressed as those who have received scripture.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: religious disputants
+  assigned_to:
+  - fig:7
+  - fig:9
+  basis: The passage and note describe dispute concerning Jesus and religion.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:11
+  label: prophetic participant in imprecation trial
+  assigned_to:
+  - fig:8
+  basis: The note describes Mohammed meeting the disputants for the trial and praying.
+  evidence_refs:
+  - ev:8
+- id: role:12
+  label: kin witnesses or companions
+  assigned_to:
+  - fig:10
+  basis: The note lists family members accompanying Mohammed to the imprecation episode.
+  evidence_refs:
+  - ev:8
+- id: role:13
+  label: angelic minister of ascent
+  assigned_to:
+  - fig:11
+  basis: One tradition in the note says Jesus was taken up by Gabriel's ministry.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: dust of creation
+  literal_form: dust
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: creative word
+  literal_form: the command “Be”
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: taking up to God or heaven
+  literal_form: being taken up unto God / into heaven
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:4
+  label: day of resurrection
+  literal_form: the day of resurrection
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: curse in ordeal of truth
+  literal_form: laying the curse of God on those who lie
+  associated_figures:
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:6
+  label: Mount Olivet
+  literal_form: Mount Olivet
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: strong whirlwind
+  literal_form: a strong whirlwind
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Divine address to Jesus
+  summary: God tells Jesus that he will cause him to die or be taken up, deliver him
+    from unbelievers, exalt his followers over unbelievers until resurrection, and
+    judge disputes after return to God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Punishment and reward declaration
+  summary: Infidels are threatened with grievous punishment in this world and the
+    next, while believers who do right are promised reward.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Jesus likened to Adam
+  summary: The text states that Jesus is like Adam in God's sight because Adam was
+    created from dust by the command “Be.”
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Mutual imprecation instruction
+  summary: Those disputing about Jesus are told to gather family groups and invoke
+    God's curse on liars.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Appeal to the people of scripture
+  summary: The people of scripture are invited to a common agreement to worship only
+    God, associate no creature with him, and not take one another as lords beside
+    God.
+  figure_refs:
+  - fig:6
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Reported variants of Jesus' assumption
+  summary: The note reports differing views that Jesus was assumed without dying,
+    lifted while asleep, spiritually dead to worldly desire, naturally dead and restored
+    to life, or taken up by Gabriel or a whirlwind from Mount Olivet.
+  figure_refs:
+  - fig:2
+  - fig:11
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:7
+  label: Najran imprecation episode
+  summary: A note recounts that Najran Christians disputed with Mohammed about Jesus,
+    agreed to an imprecation trial, but withdrew after seeing him kneel to pray and
+    submitted to tribute.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divine assumption or ascent of a holy figure
+  taxonomy_refs:
+  - ascent
+  basis: Jesus is said to be taken up unto God, and notes describe his assumption
+    into heaven by Gabriel or a whirlwind.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The main passage states taking up unto God; details of means and timing
+    come from translator's notes and reported commentarial traditions.
+- id: motif:2
+  label: divine judgment after return
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage says all return to God, who will judge disagreements, punish
+    infidels, and reward believers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a doctrinal judgment motif in the passage, not a narrative trial
+    scene except in the later imprecation note.
+- id: motif:3
+  label: creation by divine word from dust
+  taxonomy_refs:
+  - sacred_birth
+  basis: Adam is created from dust by God's command “Be,” and Jesus is likened to
+    Adam with respect to divine creative power.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy lacks a direct 'creation from clay/dust' motif;
+    'sacred_birth' is used cautiously because the passage frames miraculous production
+    rather than ordinary birth.
+- id: motif:4
+  label: death and restoration before heavenly taking-up
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: One note reports traditions that Jesus died naturally for several hours,
+    was restored to life, and then taken up to heaven.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This motif appears in a reported interpretive tradition in the note, not
+    unambiguously in the main translated verse.
+- id: motif:5
+  label: ordeal by mutual curse to reveal liars
+  taxonomy_refs:
+  - divine_judgment
+  basis: Disputants are instructed to gather families and invoke God's curse on those
+    who lie; the note narrates an avoided imprecation trial.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: The passage presents an imprecation procedure, not a completed supernatural
+    ordeal.
+- id: motif:6
+  label: monotheistic covenantal agreement with scripture communities
+  taxonomy_refs:
+  - covenant
+  basis: The people of scripture are invited to a just agreement to worship only God,
+    associate no creature with him, and not take one another as lords beside God.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The term covenant is not used in the passage; the motif is inferred from
+    the formal call to shared religious terms.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Jesus with Adam in relation to miraculous
+    production by God's immediate command.
+  claim_level: same_function
+  target: Adam as primordial created human
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the passage's stated likeness and does
+    not establish identity or a broader shared biography.
+- id: claim:2
+  claim: The note compares or aligns interpretations of Jesus' taking up with an assumption
+    pattern in which a holy figure is removed from earth to heaven rather than remaining
+    among enemies.
+  claim_level: same_motif
+  target: assumption/ascent of a holy figure
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The details are attributed to differing commentators and traditions,
+    and the main verse does not specify the mechanism of ascent.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 11221-11225
+  quote_or_summary: 'God says to Jesus: “I will cause thee to die ... take thee up
+    unto me ... deliver thee from the unbelievers,” and later judge disputes after
+    return to him.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 11226-11230
+  quote_or_summary: Infidels are threatened with grievous punishment in this world
+    and the next; believers who do right are promised reward.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 11232-11234
+  quote_or_summary: "“the likeness of Jesus ... is as the likeness of Adam; he created
+    him out of the dust, and then said unto him, Be; and he was.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 11236-11240
+  quote_or_summary: Disputants concerning Jesus are told to gather sons, wives, and
+    selves and lay God's curse on those who lie.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 11244-11249
+  quote_or_summary: People who have received scripture are called to agree to worship
+    only God, associate no creature with him, and not take one another as lords beside
+    God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 11251-11268 note x
+  quote_or_summary: The note reports views that Jesus was taken up without dying,
+    will die after returning before the last day, was lifted while asleep, died spiritually
+    to worldly desires, or naturally died briefly, was restored to life, and taken
+    up to heaven.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 11269-11271 note y
+  quote_or_summary: The note says some report Jesus was taken up by Gabriel, while
+    others say a strong whirlwind took him from Mount Olivet.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 11276-11286 note c
+  quote_or_summary: A note recounts that Christians from Najran, with Bishop Abu Hareth,
+    disputed with Mohammed about Jesus, agreed to an imprecation trial, saw Mohammed
+    with Fatima, Ali, Hasan, and Hosein praying, declined to curse him, and submitted
+    to tribute.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Main-passage observations are straightforward. Motif labels involving death-rebirth,
+    resurrection, and ascent partly rely on translator notes reporting variant traditions,
+    so they require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were applied only where directly supportable or cautiously indicated.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l11221-l11295
+  passage_sha256=e15cddff27ddc5c51c544cf4324f6928493796a33c4add072bbd90fefd663c14

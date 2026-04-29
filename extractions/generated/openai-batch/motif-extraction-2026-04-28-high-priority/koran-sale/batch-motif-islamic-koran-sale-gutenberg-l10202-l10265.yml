@@ -1,0 +1,451 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l10202-l10265
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER I. / IN THE NAME OF THE MOST MERCIFUL GOD / CHAPTER II. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 10202-10265
+  start: '10202'
+  end: '10265'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: These are the ordinances of GOD; therefore transgress them not
+  summary: The passage gives rulings on oaths, vows of abstaining from wives, waiting
+    periods after divorce, reconciliation, repeated divorce, dowry-related redemption,
+    and remarriage conditions. It repeatedly frames these rules as ordinances of God
+    and describes God as hearing, knowing, merciful, gracious, mighty, and wise.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The audience is told not to make God the object of oaths in a way that prevents
+    justice, devotion, or peacemaking.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: God is said not to punish an inconsiderate word in oaths, but to punish what
+    hearts have assented to.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Those who vow to abstain from their wives are allowed a four-month waiting
+    period, with reconciliation or divorce addressed afterward.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Divorced women are instructed to wait for three courses and not conceal what
+    God has created in their wombs.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that women and husbands should behave toward each other
+    according to what is just, while also stating that men have superiority over them.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Divorce may occur twice, after which the wife is either retained with humanity
+    or dismissed with kindness.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage forbids taking back what has been given to wives except where
+    both fear they cannot observe God’s ordinances, and it permits a wife to redeem
+    herself in that circumstance.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After a third divorce, the woman is not lawful for the first husband again
+    until she has married another husband and that husband has divorced her.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The rules are repeatedly described as God’s ordinances, and transgressors
+    of them are called unjust doers.
+  category: attribute
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Divine authority described as hearing, knowing, merciful, gracious,
+    mighty, and wise, and as the source of ordinances.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Addressed believers or audience
+  description: The people addressed by the injunctions concerning oaths, vows, divorce,
+    and observance of God’s ordinances.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Husbands
+  description: Men addressed in relation to vows of abstaining from wives, divorce,
+    reconciliation, retaining, dismissing, and possible return after remarriage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Wives or divorced women
+  description: Women addressed in relation to abstention vows, divorce waiting periods,
+    womb disclosure, reconciliation, dismissal, and redemption.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Another husband
+  description: A subsequent husband whom the divorced woman must marry before she
+    can lawfully return to the first husband after a third divorce, if the subsequent
+    marriage also ends in divorce.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: divine lawgiver
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the rules as ordinances of God and says God declares
+    them to people of understanding.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:2
+  label: divine judge of intention
+  assigned_to:
+  - fig:1
+  basis: God is said not to punish inadvertent oaths but to punish what hearts have
+    assented to.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipients of injunctions
+  assigned_to:
+  - fig:2
+  basis: The passage directly instructs the audience about oaths and observance of
+    divine ordinances.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: marital decision-maker under divine ordinances
+  assigned_to:
+  - fig:3
+  basis: Husbands are described in relation to abstention, divorce, reconciliation,
+    retaining, dismissing, and remarriage conditions.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:5
+  label: wife or divorced woman under waiting and disclosure rules
+  assigned_to:
+  - fig:4
+  basis: Divorced women are instructed to wait, not conceal what is in their wombs,
+    and may be retained, dismissed, or redeem themselves under specified conditions.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: intervening spouse
+  assigned_to:
+  - fig:5
+  basis: The third-divorce rule requires marriage to another husband before return
+    to the first husband can be lawful.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: oath
+  literal_form: spoken oath or vow involving God
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: heart assent
+  literal_form: that which the hearts have assented to
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: four-month waiting period
+  literal_form: four months allowed after a vow to abstain from wives
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: three courses
+  literal_form: three menstrual courses as a waiting period for divorced women
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: womb
+  literal_form: what God has created in their wombs
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: ordinances of God
+  literal_form: legal-religious ordinances attributed to God
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: wife’s redemption
+  literal_form: that for which the wife shall redeem herself, glossed as release of
+    part of her dowry
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Regulation of oaths
+  summary: The audience is instructed not to misuse oaths involving God, and intentional
+    oaths are distinguished from inadvertent words.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Vow of abstention and possible reconciliation
+  summary: Those who vow to abstain from wives may wait four months; if they go back
+    from the vow, God is described as gracious and merciful, while divorce remains
+    possible.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Waiting period and womb disclosure after divorce
+  summary: Divorced women are instructed to wait three courses and not conceal what
+    God has created in their wombs; the passage also discusses reconciliation and
+    reciprocal just conduct.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Two divorces, retention, dismissal, and redemption
+  summary: After two divorces, a wife is either retained humanely or dismissed kindly;
+    taking back gifts is prohibited except where observance of God’s ordinances is
+    feared, in which case the wife’s redemption is permitted.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: scene:5
+  label: Third divorce and intervening marriage
+  summary: After a third divorce, return to the first husband is not lawful until
+    the woman has married another husband and that husband has divorced her; the rules
+    are again called God’s ordinances.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine regulation of oaths and vows
+  taxonomy_refs:
+  - covenant
+  basis: The passage treats oaths and vows as religiously binding speech subject to
+    divine knowledge, mercy, and punishment according to intention.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is juridical and devotional rather than narrative myth; the
+    taxonomy reference is approximate because no formal covenant scene is described.
+- id: motif:2
+  label: divine judgment of hidden intention
+  taxonomy_refs:
+  - divine_judgment
+  basis: God is said to distinguish inadvertent oath-speech from what the heart has
+    assented to and to punish the latter.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a legal-theological principle, not an enacted judgment scene.
+- id: motif:3
+  label: sacred marital exchange under divine ordinance
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage regulates gifts, taking back what has been given, and a wife’s
+    redemption in the context of divorce under God’s ordinances.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The exchange is legal and marital; it is only cautiously mapped to a broad
+    sacred-exchange motif family.
+- id: motif:4
+  label: divine ordinances declared to people of understanding
+  taxonomy_refs:
+  - wisdom
+  basis: The passage closes by saying God declares these ordinances to people of understanding.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The wisdom motif is implicit in the address to understanding rather than
+    developed as a wisdom tale or instruction dialogue.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10202-10203
+  quote_or_summary: "“Make not GOD the object of your oaths ... that ye will deal
+    justly, and be devout, and make peace among men” and God is described as hearing
+    and knowing."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used for scholarly extraction.
+- id: ev:2
+  type: summary
+  locator: lines 10204-10206
+  quote_or_summary: God will not punish an inconsiderate word in oaths, but will punish
+    what hearts have assented to; God is merciful and gracious.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10207-10211
+  quote_or_summary: Those who vow to abstain from wives may wait four months; if they
+    go back from the vow God is gracious and merciful, and if they resolve on divorce
+    God hears and knows.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10212-10220
+  quote_or_summary: Divorced women wait until three courses, may not conceal what
+    God has created in their wombs, and reconciliation and just reciprocal conduct
+    are addressed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 10221-10229
+  quote_or_summary: Divorce may occur twice, followed by humane retention or kind
+    dismissal; taking back what was given is restricted, redemption by the wife is
+    permitted under fear of failing God’s ordinances, and transgressors of the ordinances
+    are unjust doers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10230-10236
+  quote_or_summary: After a third divorce, the woman is not lawful to the first husband
+    until she marries another husband; if the second husband divorces her, return
+    is allowed if God’s ordinances can be observed, and God declares these ordinances
+    to people of understanding.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 10262-10264
+  quote_or_summary: The note explains the wife’s redemption as prevailing on the husband
+    to dismiss her by releasing part of her dowry.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal legal and theological content is clear. Motif assignments are cautious
+    because the passage is primarily juridical rather than mythic narrative. No comparison
+    claims were added because the passage itself does not support a comparison to
+    another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Available symbol taxonomy terms did not apply to this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l10202-l10265
+  passage_sha256=abdeba351cefcd9e9c177da4c50185d39a2f0638275a002920feca93ebc592a2

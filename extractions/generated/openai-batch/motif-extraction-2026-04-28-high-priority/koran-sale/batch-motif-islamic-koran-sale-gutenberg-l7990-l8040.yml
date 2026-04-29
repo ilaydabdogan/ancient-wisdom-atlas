@@ -1,0 +1,516 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l7990-l8040
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION VI. / OF THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS. / SECTION
+    VII. / SECTION VIII.; lines 7990-8040
+  start: '7990'
+  end: '8040'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes Jabarian doctrines of necessity and divine decree,
+    distinguishes pure and moderate Jabarians, describes Jahmian claims about the
+    eventual annihilation of paradise and hell so that only God remains, and explains
+    debates over human acquisition of actions, divine creation of human acts, reward,
+    punishment, and God's absolute lordship over creatures.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Jabarians are named from a term glossed as necessity or compulsion.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says they hold that man acts by force of God's eternal and immutable
+    decree.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Pure Jabarians deny that men act or possess operative or acquiring power.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pure Jabarians compare man to an inanimate agent lacking power, will, and
+    choice.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says rewarding, punishing, and imposing commands are treated as
+    effects of necessity in this doctrine.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Jahmians are described as followers of Jahm Ebn Safwn.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Jahmians are said to hold that paradise and hell will vanish or be annihilated
+    after their destined inhabitants enter them.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After the annihilation of paradise and hell, the passage says no existing
+    being would remain besides God.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Moderate Jabarians ascribe some power to man, but the passage says this power
+    has no influence on the action.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Acquisition is defined as an action directed toward obtaining profit or removing
+    hurt, and is not applied to God's actions.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The Najrians taught that God created men's good and bad actions and that man
+    acquired them.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The Derrians held that men's actions are really created by God and really
+    acquired by man.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The Jabarians say God is absolute Lord of his creatures and may deal with
+    them according to his pleasure without rendering account.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: The passage presents a doctrinal claim that God could admit all men into paradise
+    or cast all into hell.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The deity whose eternal decree, creation of human actions, lordship,
+    and power over paradise and hell are discussed.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: Man / men
+  description: Human beings described as constrained by decree, denied power by pure
+    Jabarians, or said to acquire actions by some moderate groups.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Pure Jabarians
+  description: A rigid Jabarian subgroup said to deny human action, power, will, or
+    choice.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Jahmians
+  description: Followers of Jahm Ebn Safwn, associated with the doctrine that paradise
+    and hell will eventually be annihilated.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Jahm Ebn Safwn
+  description: Named teacher whose followers are identified as the Jahmians.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Moderate Jabarians
+  description: A Jabarian subgroup ascribing some non-influential power to man and
+    connected with debates over acquisition.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Najrians
+  description: Adherents of al Hasan Ebn Mohammed al Najr, said to teach divine creation
+    of human actions and human acquisition.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: al Hasan Ebn Mohammed al Najr
+  description: Named teacher of the Najrians.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Derrians
+  description: Disciples of Derr Ebn Amru, said to hold that human actions are created
+    by God and acquired by man.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Derr Ebn Amru
+  description: Named teacher of the Derrians.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: decreeing deity
+  assigned_to:
+  - fig:1
+  basis: The passage attributes human action to God's eternal and immutable decree
+    in Jabarian doctrine.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: creator of human actions
+  assigned_to:
+  - fig:1
+  basis: Najrian and Derrian teachings described in the passage say men's actions
+    are created by God.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:3
+  label: absolute lord and judge
+  assigned_to:
+  - fig:1
+  basis: The passage says God is absolute Lord, need not render account, and may assign
+    all men to paradise or hell.
+  evidence_refs:
+  - ev:9
+- id: role:4
+  label: constrained human agent
+  assigned_to:
+  - fig:2
+  basis: The passage describes man as necessarily constrained and, in the pure form,
+    lacking power, will, and choice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: acquirer of actions
+  assigned_to:
+  - fig:2
+  basis: Moderate doctrines described in the passage assign acquisition of actions
+    to man.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:6
+  label: necessitarian sectarian group
+  assigned_to:
+  - fig:3
+  basis: Pure Jabarians are described as denying human power and treating reward and
+    punishment as effects of necessity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: annihilation doctrine group
+  assigned_to:
+  - fig:4
+  basis: The Jahmians are associated with the claim that paradise and hell will vanish
+    or be annihilated.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: named doctrinal teacher
+  assigned_to:
+  - fig:5
+  - fig:8
+  - fig:10
+  basis: Each named person is presented as the teacher or source of a group.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:9
+  label: moderating doctrinal group
+  assigned_to:
+  - fig:6
+  basis: Moderate Jabarians occupy a middle position in the passage's account of human
+    power and acquisition.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:10
+  label: acquisition doctrine group
+  assigned_to:
+  - fig:7
+  - fig:9
+  basis: Najrians and Derrians are both described as holding that man acquires actions
+    created by God.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: paradise
+  literal_form: paradise
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: sym:2
+  label: hell
+  literal_form: hell
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: sym:3
+  label: eternal and immutable decree
+  literal_form: decree
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: acquisition
+  literal_form: acquisition
+  associated_figures:
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Jabarian doctrine of necessity
+  summary: The passage introduces the Jabarians as a sect named for necessity or compulsion
+    and summarizes their view that human action occurs by God's decree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Jahmian annihilation of paradise and hell
+  summary: The passage attributes to the Jahmians the doctrine that paradise and hell
+    will vanish after their destined inhabitants enter them, leaving no existing being
+    besides God.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Moderate Jabarian acquisition
+  summary: The passage explains moderate positions that attribute some kind of acquisition
+    or concurrence to man while retaining divine creation of actions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Absolute divine disposal of creatures
+  summary: The passage reports the claim that God is absolute Lord of creatures and
+    could assign all men to paradise or hell without rendering account.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: divine judgment over paradise and hell
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage repeatedly invokes reward, punishment, paradise, hell, and God's
+    authority to admit or cast humans into these destinations.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+  confidence: high
+  cautions: The passage is doctrinal exposition rather than a narrative judgment scene.
+- id: motif:2
+  label: annihilation of created realms leaving only God
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage reports a doctrine that paradise and hell will be annihilated
+    and that no existing being will remain besides God.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy label includes 'union,' but the passage explicitly states
+    annihilation and sole remaining divine existence, not experiential union.
+- id: motif:3
+  label: necessity versus human agency
+  taxonomy_refs: []
+  basis: The passage centers on whether human beings have power, will, choice, or
+    acquisition in relation to actions created or decreed by God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No available taxonomy reference directly matches this doctrinal agency
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7990-7995
+  quote_or_summary: Jabarians are named from a term meaning necessity or compulsion
+    and hold that man acts by force of God's eternal and immutable decree.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7995-8002
+  quote_or_summary: Pure Jabarians deny that men act or have operative or acquiring
+    power and describe man as lacking power, will, and choice like an inanimate agent.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8002-8004
+  quote_or_summary: The passage says this doctrine treats rewarding, punishing, and
+    the imposing of commands as effects of necessity.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8004-8013
+  quote_or_summary: The Jahmians, followers of Jahm Ebn Safwn, are said to hold that
+    paradise and hell will vanish or be annihilated after their destined inhabitants
+    enter them, so that only God remains.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8013-8022
+  quote_or_summary: Moderate Jabarians ascribe some power to man, but the passage
+    says such power has no influence on action; some positions describe acquisition
+    or concurrence while denying influence on the action.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8022-8028
+  quote_or_summary: Acquisition is defined as action directed toward obtaining profit
+    or removing hurt and is not applied to God's action, since God acquires neither
+    profit nor hurt.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8028-8034
+  quote_or_summary: The Najrians, adherents of al Hasan Ebn Mohammed al Najr, taught
+    that God created men's good and bad actions and that man acquired them, with acquisition
+    described as a kind of co-operation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 8034-8037
+  quote_or_summary: The Derrians, disciples of Derr Ebn Amru, held that men's actions
+    are really created by God and really acquired by man.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 8037-8040
+  quote_or_summary: The Jabarians say God is absolute Lord of creatures, may deal
+    with them according to his pleasure, need not render account, and could admit
+    all men into paradise or cast all into hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short doctrinal prose passage. Motif candidates
+    are limited because the passage is expository rather than mythic narrative. No
+    comparison claims were added because the passage itself does not make a comparative
+    claim beyond internal sectarian classification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Source metadata identifies the larger work as Sale's Qur'an translation, but this passage is a prose explanatory section on Islamic theological sects and doctrines.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l7990-l8040
+  passage_sha256=90b23e9aed9928c87623aa58baa28996a034fc4d8e85e1ce12e391dbf62ab1d4

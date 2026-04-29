@@ -1,0 +1,490 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l5169-l5222
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 5169-5222
+  start: '5169'
+  end: '5222'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"the practice of religion is founded on cleanliness"'
+  summary: 'The passage discusses Islamic ablution and purification: traditions tracing
+    ablution to Abraham, Gabriel, or the first parents; sayings attributed to Mohammed
+    on cleanliness and prayer; al-Ghazali''s four degrees of purification; and the
+    use of sand or dust in place of water, with comparisons to Jewish, Magian, and
+    Christian practices.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage reports that Muslims claim the ceremonies are as ancient as Abraham,
+    who was commanded by God to observe them and was shown ablution by Gabriel in
+    the form of a beautiful youth.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage reports that some people place the origin of these ceremonies
+    even earlier, saying angels taught them to the first parents.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A saying attributed to Mohammed connects religious practice with cleanliness
+    and presents cleanliness as half of faith and the key of prayer.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Al-Ghazali is said to list four degrees of purification: bodily cleansing,
+    cleansing bodily members from wicked and unjust actions, cleansing the heart from
+    blameworthy inclinations and vices, and purging secret thoughts of distractions
+    from God.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Al-Ghazali compares the body to an outward shell and the heart to the kernel,
+    and criticizes people who focus on exterior purification while their minds contain
+    pride, ignorance, and hypocrisy.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When water cannot be obtained or would harm health, fine sand or dust may
+    be used instead.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The sand or dust procedure is described as clapping open hands on the sand
+    and passing them over the parts as if the hands had been dipped in water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage states that similar emergency use of sand instead of water appears
+    among Jews, Persian Magi, and in an ecclesiastical example involving Christian
+    baptism.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mohammedans
+  description: The group whose ablution and purification practices are being described
+    in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Abraham
+  description: A patriarch said by Muslims to have been commanded by God to observe
+    the ceremonies and instructed in ablution.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: God
+  description: The divine figure said to have enjoined Abraham to observe the ceremonies
+    and to hear or not hear prayer depending on preparation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Gabriel
+  description: The angel said to have shown Abraham the manner of making ablution
+    while appearing as a beautiful youth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: First parents
+  description: The earliest human pair whom some are said to imagine were taught the
+    ceremonies by angels.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Angels
+  description: Heavenly beings said by some to have taught the ceremonies to the first
+    parents.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Mohammed
+  description: The prophet to whom the passage attributes sayings about cleanliness,
+    faith, and prayer.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Al-Ghazali
+  description: An interpreter cited for a fourfold account of purification and for
+    criticism of merely exterior purity.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Jews
+  description: A comparative group said to prescribe the same sand or dust method
+    in cases of necessity.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Persian Magi
+  description: A comparative group said perhaps to provide an example for the sand
+    or dust method and to be scrupulous in lustrations.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ritual practitioners
+  assigned_to:
+  - fig:1
+  basis: The passage describes their ablution, purification, and permitted substitution
+    of sand or dust for water.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: ancestral recipient of ablution instruction
+  assigned_to:
+  - fig:2
+  basis: Abraham is said to have been commanded by God and instructed by Gabriel in
+    ablution.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine authority over ritual and prayer
+  assigned_to:
+  - fig:3
+  basis: God is said to command Abraham, and prayer is said not to be heard by God
+    without cleanliness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: angelic ritual instructor
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: Gabriel is said to show Abraham ablution, and angels are said to have taught
+    the first parents.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: primordial recipients of ceremony instruction
+  assigned_to:
+  - fig:5
+  basis: Some are said to imagine that the ceremonies were taught to the first parents
+    by angels.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: prophetic authority on cleanliness
+  assigned_to:
+  - fig:7
+  basis: The passage attributes to Mohammed sayings connecting cleanliness with faith
+    and prayer.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: exegete of inner and outer purification
+  assigned_to:
+  - fig:8
+  basis: Al-Ghazali is cited for four degrees of purification and for emphasizing
+    the heart over outward cleansing alone.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: comparative precedent for substitute lustration
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: The passage says Jews and Persian Magi prescribe the same sand or dust method
+    in cases of necessity.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ablution or ritual washing
+  literal_form: formal washings and ablution before devotion
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: water
+  literal_form: water used for washing, or unavailable/medically harmful in exceptional
+    cases
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: fine sand or dust
+  literal_form: fine sand or dust used in lieu of water
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: open hands gesture
+  literal_form: open hands clapped on sand and passed over the body parts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: shell and kernel analogy
+  literal_form: body as outward shell and heart as kernel
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: beautiful youth appearance
+  literal_form: Gabriel appearing in the form of a beautiful youth
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Ancient and angelic origin of ablution
+  summary: The passage reports traditions that connect the ceremonies to Abraham,
+    Gabriel, and, in some accounts, the first parents taught by angels.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cleanliness as preparation for prayer
+  summary: A saying attributed to Mohammed presents cleanliness as foundational to
+    religion, part of faith, and necessary for prayer to be heard by God.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Four degrees of purification
+  summary: Al-Ghazali distinguishes bodily, behavioral, inward, and contemplative
+    purification, emphasizing the heart over exterior washing alone.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Substitution of sand or dust for water
+  summary: When water is unavailable or harmful, the passage permits fine sand or
+    dust to be touched with open hands and passed over the parts normally washed with
+    water.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Comparative lustration examples
+  summary: The passage compares the sand or dust substitute to practices attributed
+    to Jews, Persian Magi, and an ecclesiastical example of Christian baptism performed
+    with sand instead of water.
+  figure_refs:
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual purification before prayer
+  taxonomy_refs: []
+  basis: Cleanliness and purification are presented as necessary preparation for devotion
+    and prayer.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is an explanatory and polemical commentary, not a narrative
+    episode from the Qur'an itself.
+- id: motif:2
+  label: angelic transmission of ritual practice
+  taxonomy_refs: []
+  basis: Ablution is said to have been shown to Abraham by Gabriel, and some say the
+    ceremonies were taught to the first parents by angels.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage reports traditions attributed to later sources rather than
+    directly quoting a Qur'anic passage.
+- id: motif:3
+  label: inner purification surpassing outer washing
+  taxonomy_refs: []
+  basis: Al-Ghazali's four degrees move from bodily cleansing to the heart and secret
+    thoughts, and he criticizes exterior purity without inner reform.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is framed as theological interpretation, not as a mythic narrative
+    action.
+- id: motif:4
+  label: substitute medium for sacred washing
+  taxonomy_refs: []
+  basis: Fine sand or dust may replace water when water is absent or harmful, while
+    maintaining a washing-like ritual gesture.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage describes ritual law and custom rather than a mythic episode.
+- id: motif:5
+  label: cross-traditional lustration by sand in necessity
+  taxonomy_refs: []
+  basis: The passage states that Jews and Persian Magi prescribe the same method in
+    necessity and gives a Christian baptism example using sand instead of water.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The comparative claim is the passage author's assertion and depends on
+    cited secondary or ecclesiastical sources not evaluated here.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents Muslim use of sand or dust in place of water
+    as functionally similar to practices it attributes to Jews and Persian Magi in
+    cases of necessity.
+  claim_level: same_function
+  target: Jewish and Persian Magian emergency lustration practices
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The wording includes uncertainty about whether the example came from
+    Jews or Persian Magi, and the passage provides citations rather than direct primary-text
+    excerpts.
+- id: claim:2
+  claim: The passage compares the emergency use of sand instead of water with an ecclesiastical-history
+    example of Christian baptism performed with sand for the same reason.
+  claim_level: same_function
+  target: Christian baptism with sand instead of water
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to functional substitution of sand for water;
+    it does not establish shared origin, historical contact, or doctrinal equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5169-5174
+  quote_or_summary: Muslims are said to regard the ceremonies as ancient as Abraham;
+    God enjoined them on Abraham; Gabriel, appearing as a beautiful youth, showed
+    ablution; some trace the ceremonies to angels teaching the first parents.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 5175-5179
+  quote_or_summary: Mohammed is said to have declared that "the practice of religion
+    is founded on cleanliness," and that cleanliness is half of faith and the key
+    of prayer.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 5179-5192
+  quote_or_summary: Al-Ghazali lists four degrees of purification, from cleansing
+    the body to purging secret thoughts; he compares the body to a shell and the heart
+    to a kernel and criticizes merely exterior purification joined to pride, ignorance,
+    and hypocrisy.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 5197-5203
+  quote_or_summary: When water cannot be had or may harm health, fine sand or dust
+    may be used; open hands are clapped on the sand and passed over the parts as if
+    dipped in water.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 5203-5209
+  quote_or_summary: The passage says the sand expedient was indebted to Jewish or
+    perhaps Persian Magian examples, states both prescribe the same method in necessity,
+    and notes a Christian baptism example using sand instead of water.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for extraction.
+- id: ev:6
+  type: citation
+  locator: lines 5210-5222
+  quote_or_summary: Footnotes cite sources for Abraham, Gabriel, angels, al-Ghazali,
+    Qur'anic references, Jewish and Magian parallels, and the ecclesiastical baptism
+    example.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; citation-range summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear about ritual purification themes and explicit comparisons,
+    but it is translator commentary with footnotes rather than a direct Qur'anic narrative;
+    the line range ends with an incomplete sentence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were applied only where directly supported by the available symbol list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l5169-l5222
+  passage_sha256=d7f159a71cd4122d42aeef83464bde718146fdbb3a5e8dad31a47e3002ac9c82

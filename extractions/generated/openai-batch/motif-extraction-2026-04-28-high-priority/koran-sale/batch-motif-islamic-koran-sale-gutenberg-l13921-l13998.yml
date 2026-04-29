@@ -1,0 +1,585 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l13921-l13998
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER IV. / IN THE NAME OF THE MOST MERCIFUL GOD / CHAPTER V. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 13921-13998
+  start: '13921'
+  end: '13998'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes Sale's notes on legal punishments and adjudication,
+    followed by a Qur'anic passage describing divine judgment through revealed law,
+    retaliation and remission, Jesus and the Gospel confirming earlier law, the Koran
+    confirming prior scripture, and different communities being given different laws
+    as a test before returning to God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note describes graduated punishments for theft, beginning with cutting off
+    the right hand for a first offense and continuing with other limbs for later offenses,
+    followed by discretionary scourging if offenses continue.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note states that repentance does not prevent execution of the earthly law
+    or restitution, though forgiveness before magistrate involvement is reported as
+    affecting punishment according to one jurist.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note recounts a case in which Jewish adulterers were brought before Mohammed,
+    who pronounced stoning; the sentence was initially refused until a Jewish authority
+    acknowledged that the law required it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Qur'anic passage asks how the people will submit to Mohammed's decision
+    when they possess the law containing God's judgment, and says they turn away afterward.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The law is described as sent down, containing direction and light, and as
+    a basis by which prophets, doctors, and priests judged those who judaized.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage commands judgment according to what God has revealed and condemns
+    failure to judge by revelation as unbelief, injustice, or transgression.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: obs:7
+  text: 'The passage states a rule of retaliation: life for life, eye for eye, nose
+    for nose, ear for ear, tooth for tooth, and retaliation for wounds.'
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage states that remitting retaliation as alms is accepted as an atonement
+    for the person who remits it.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Jesus son of Mary is described as following the footsteps of the prophets
+    and confirming the law sent down before him.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The Gospel is described as given to Jesus, containing direction and light,
+    confirming the prior law, and serving as direction and admonition for those who
+    fear God.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The Koran is described as sent down with truth, confirming earlier scripture
+    and preserving it safe from corruption.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The passage says that every community has been given a law and an open path,
+    and that God made laws different in order to try people in what they were given.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The passage says all will return to God, who will declare to them the matter
+    concerning which they disagreed.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine speaker and revealer of law, Gospel, and Koran; the one
+    to whom all return.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Mohammed
+  description: The addressee commanded to judge according to what God has revealed;
+    notes also describe him pronouncing sentence in a legal case.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:3
+  name_or_label: Jesus son of Mary
+  description: A figure caused to follow the footsteps of the prophets and given the
+    Gospel.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Prophets
+  description: Those who professed the true religion and judged by the law sent down
+    by God.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Doctors and priests
+  description: Custodians and witnesses of the book of God who judged by it.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Those who judaized
+  description: The group judged by prophets, doctors, and priests through the law.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Those who have received the Gospel
+  description: A group instructed to judge according to what God revealed in the Gospel.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Every community addressed
+  description: Those given a law and an open path and told to strive in good works
+    before returning to God.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Party wronged
+  description: In Sale's note, a wronged party whose forgiveness before magistrate
+    involvement may affect punishment according to al Shafei.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Revealer of law
+  assigned_to:
+  - fig:1
+  basis: God is said to have sent down the law, Gospel, and Koran.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:2
+  label: Final judge
+  assigned_to:
+  - fig:1
+  basis: All return to God, who declares the matters of disagreement.
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: Tester of communities
+  assigned_to:
+  - fig:1
+  basis: Different laws are given so that God may try people in what they have received.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: Judge by revelation
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:7
+  basis: Mohammed, prophets, and Gospel-recipients are associated with judging according
+    to divine revelation.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:5
+  label: Confirmer of prior law
+  assigned_to:
+  - fig:3
+  basis: Jesus is described as confirming the law sent down before him.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: Predecessor in true religion
+  assigned_to:
+  - fig:4
+  basis: Prophets who professed the true religion judged those who judaized by the
+    law.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: Custodian of scripture
+  assigned_to:
+  - fig:5
+  basis: Doctors and priests are described as custodians and witnesses of the book
+    of God.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: Judged community
+  assigned_to:
+  - fig:6
+  basis: Those who judaized are described as being judged by prophets, doctors, and
+    priests.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: Tested recipients of distinct laws
+  assigned_to:
+  - fig:8
+  basis: Each group is given a law and open path, and differences are framed as a
+    test.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: Forgiver of offense
+  assigned_to:
+  - fig:9
+  basis: The note says the wronged party's forgiveness may affect punishment before
+    magistrate referral.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Revealed law
+  literal_form: law containing the judgment of God; law sent down with direction and
+    light
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Direction and light
+  literal_form: direction and light attributed to the law and the Gospel
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: Book of God
+  literal_form: the book of God committed to the custody of doctors and priests
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Retaliatory equivalence
+  literal_form: life for life, eye for eye, nose for nose, ear for ear, tooth for
+    tooth, wounds by retaliation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Gospel
+  literal_form: the gospel given to Jesus, containing direction and light
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Koran
+  literal_form: the book of the Koran sent down with truth, confirming previous scripture
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: Open path
+  literal_form: an open path given alongside a law to each community
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: Return to God
+  literal_form: all returning to God after striving in good works
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Legal punishments and repentance in notes
+  summary: The notes describe the execution of legal punishments for theft, the limits
+    of repentance with respect to earthly law, restitution, and possible forgiveness
+    by the wronged party.
+  figure_refs:
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Adultery judgment before Mohammed
+  summary: A note recounts Jewish parties bringing an adultery case to Mohammed, resisting
+    the sentence of stoning until a Jewish authority acknowledges the legal basis.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Judgment by the revealed law
+  summary: The passage describes the law as containing God's judgment, direction,
+    and light, and says prophets, doctors, and priests judged by the book entrusted
+    to them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Retaliation and remission
+  summary: The passage sets out equivalent retaliation for life, body parts, and wounds,
+    while also presenting remission as alms and atonement.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Jesus and the Gospel confirm prior law
+  summary: Jesus son of Mary follows earlier prophets, confirms the prior law, and
+    receives the Gospel as direction, light, and admonition.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Koran confirms prior scripture and distinct laws test communities
+  summary: The Koran is sent down with truth to confirm and preserve earlier scripture;
+    communities receive distinct laws and paths as a test and are told to strive in
+    good works before returning to God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment through revealed law
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage repeatedly commands judgment according to what God has revealed
+    and condemns failure to do so; it also ends with all returning to God for resolution
+    of disagreement.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The motif is legal and theological rather than a narrative trial scene.
+- id: motif:2
+  label: Succession of revealed scriptures
+  taxonomy_refs:
+  - covenant
+  - wisdom
+  basis: The law, Gospel, and Koran are each described as divinely given, with later
+    revelation confirming earlier scripture and giving guidance.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage does not use the word covenant in this excerpt; the taxonomy
+    link is based on revealed divine law and scripture.
+- id: motif:3
+  label: Mercy or remission within retaliatory justice
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage states retaliation in equivalent terms but says remitting it
+    as alms is accepted as atonement.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The exchange is framed as legal remission and atonement, not as a full
+    sacrificial or exchange narrative.
+- id: motif:4
+  label: Different paths as divine testing
+  taxonomy_refs:
+  - initiation
+  basis: The passage says each community has a law and open path, and that differences
+    are given so God may try people in what they received.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The test is communal and ethical, not an initiation episode in the narrative
+    sense.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, the law, the Gospel, and the Koran are presented as related
+    revealed scriptures that function as divine guidance and standards for judgment.
+  claim_level: same_function
+  target: Law, Gospel, and Koran within the passage
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison made by the passage; it does not establish
+    an external historical relationship beyond the passage's own claims.
+- id: claim:2
+  claim: The passage explicitly presents the Gospel and the Koran as confirming earlier
+    scripture, creating a sequence of revelation across communities.
+  claim_level: same_motif
+  target: Sequential confirmation of prior revelation
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to the motif of confirmation and succession; details
+    of the earlier scriptures are not supplied in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13921-13927
+  quote_or_summary: Sale's note says theft punishment is applied only above a value
+    threshold and then proceeds through a sequence of limb amputations for repeated
+    offenses, followed by discretionary scourging.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 13928-13933
+  quote_or_summary: Sale's note says repentance avoids hereafter punishment but not
+    earthly law or restitution; al Shafei is reported to exempt punishment if the
+    wronged party forgives before magistrate referral.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 13945-13960
+  quote_or_summary: Sale's note describes Jewish adulterers brought before Mohammed;
+    he pronounces stoning, and the sentence is accepted after Ebn Suriya acknowledges
+    the law.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 13972-13974
+  quote_or_summary: The passage asks how they will submit to Mohammed's decision when
+    they have the law containing God's judgment, then says they turn their backs and
+    are not true believers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 13975-13980
+  quote_or_summary: The law is sent down with direction and light; prophets, doctors,
+    and priests judge by the book of God entrusted to them, and people are told not
+    to sell God's signs cheaply.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 13981-13985
+  quote_or_summary: The passage commands equivalent retaliation—life for life and
+    body part for body part—and says remission as alms is accepted as atonement.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 13986-13992
+  quote_or_summary: Jesus son of Mary follows the prophets, confirms the prior law,
+    and receives the Gospel containing direction and light; Gospel-recipients are
+    told to judge by what God revealed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 13993-13998
+  quote_or_summary: The Koran is sent down with truth, confirming and preserving prior
+    scripture; each community has a law and open path, differences serve as a divine
+    test, and all return to God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage directly states legal and
+    revelatory themes. Motif taxonomy assignments are more interpretive, especially
+    covenant, wisdom, sacred_exchange, and initiation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Qur'anic text and Sale's notes are both represented because both appear within the provided line range.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l13921-l13998
+  passage_sha256=25b8ca27efa0c43d6cb69142ca2ca5b08a2176926fb3e7617901d2b04c47fa3f

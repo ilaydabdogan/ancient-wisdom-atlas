@@ -1,0 +1,476 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l11929-l12003
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER II. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER III. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 11929-12003
+  start: '11929'
+  end: '12003'
+  translation: The Koran (Al-Qur'an), Sale translation
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contrasts those pleasing God with those under divine wrath
+    and destined for hell; states that rewards and punishments have degrees with God;
+    says God raised an apostle among the believers to recite signs, purify them, and
+    teach the Koran and wisdom; interprets the misfortune at Ohod as resulting from
+    the believers themselves and occurring by God's permission; rebukes those who
+    stayed home and made excuses; and declares that those slain at Ohod in God's cause
+    are not dead but alive with their Lord, rejoicing in divine favor. It concludes
+    that those who obeyed God and the apostle after being wounded at Ohod and do good
+    works shall receive a great reward.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage contrasts a person who follows what is pleasing to God with a
+    person who brings God's wrath on himself and whose receptacle is hell.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that there are degrees of rewards and punishments with
+    God and that God sees what people do.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: God is said to have graciously raised up among the believers an apostle of
+    their own nation.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The apostle is described as reciting God's signs, purifying the believers,
+    and teaching them the book of the Koran and wisdom.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A misfortune at Ohod is explained as coming from the believers themselves,
+    while what happened when the two armies met is said to have occurred by God's
+    permission.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Some people were urged to fight for God's religion or drive back the enemy,
+    but answered with an excuse for not following.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Those who stayed home and spoke about their slain brethren are challenged
+    to keep death back from themselves if they are truthful.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Those slain at Ohod in God's cause are declared not dead, but alive and sustained
+    with their Lord.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The slain are described as rejoicing in God's favor and as having no fear
+    or grief concerning those who have not yet overtaken them.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Those who hearkened to God and his apostle after being wounded at Ohod, and
+    who do good works and fear God, are promised a great reward.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine figure who sees actions, grants favor and bounty, permits
+    events, sustains the slain alive, and gives reward or punishment.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Believers
+  description: The community among whom God raised an apostle; they had previously
+    been in manifest error and suffered a misfortune at Ohod.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Apostle of their own nation
+  description: An apostle raised among the believers to recite signs, purify them,
+    and teach the Koran and wisdom.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Those slain at Ohod in the cause of God
+  description: The slain are said not to be dead, but alive with their Lord, sustained
+    and rejoicing in God's favor.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Those who stayed at home
+  description: A group who did not go out to fight, made excuses, spoke of their slain
+    brethren, and are described as nearer to unbelief than to faith.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Those who hearkened after a wound at Ohod
+  description: People who responded to God and the apostle after being wounded and
+    are promised great reward if they do good works and fear God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: Two armies
+  description: The opposing forces that met on the day associated with the events
+    at Ohod.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine judge
+  assigned_to:
+  - fig:1
+  basis: God is associated with wrath, hell, degrees of reward and punishment, seeing
+    deeds, and not letting the reward of the faithful perish.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+  - ev:9
+- id: role:2
+  label: divine sustainer and benefactor
+  assigned_to:
+  - fig:1
+  basis: Those slain in God's cause are sustained alive with their Lord and rejoice
+    in God's favor and bounty.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:3
+  label: faithful recipients of instruction and reward
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: Believers receive an apostle's teaching, and those who obey God and the apostle
+    after a wound are promised a great reward.
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: role:4
+  label: apostolic teacher and purifier
+  assigned_to:
+  - fig:3
+  basis: The apostle recites signs, purifies, and teaches the Koran and wisdom.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: martyrs alive with their Lord
+  assigned_to:
+  - fig:4
+  basis: Those slain at Ohod in God's cause are declared not dead but alive and sustained
+    with their Lord.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:6
+  label: excuse-making stayers behind
+  assigned_to:
+  - fig:5
+  basis: They stayed at home, gave an excuse for not following, and are said to speak
+    with their mouths what was not in their hearts.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: hell as receptacle and destination
+  literal_form: hell, described as the receptacle of the one who brings God's wrath
+    on himself and as an evil journey thither
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: degrees of reward and punishment
+  literal_form: degrees of rewards and punishments with God
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: book of the Koran and wisdom
+  literal_form: the book of the Koran and wisdom taught by the apostle
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: wound at Ohod
+  literal_form: a wound suffered at Ohod before renewed obedience to God and the apostle
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: life with the Lord after being slain
+  literal_form: those slain in God's cause are sustained alive with their Lord
+  associated_figures:
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Contrast of divine pleasure and wrath
+  summary: A person who follows what pleases God is contrasted with one who incurs
+    God's wrath and whose destination is hell.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: God raises an apostle among believers
+  summary: God grants favor to believers by raising an apostle from among them who
+    recites signs, purifies them, and teaches the Koran and wisdom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Misfortune at Ohod and the meeting of two armies
+  summary: The misfortune at Ohod is attributed to the believers themselves, while
+    the meeting of two armies is described as occurring by God's permission.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Those who stayed behind and their excuse
+  summary: Some are urged to fight or drive back the enemy but claim they would have
+    followed if they had known there would be fighting; the passage says their speech
+    did not match their hearts.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: The slain at Ohod are alive with their Lord
+  summary: Those slain in God's cause at Ohod are not to be reckoned dead; they are
+    alive with their Lord and rejoice in divine favor, without fear or grief.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Reward after wound and obedience
+  summary: Those who hearkened to God and the apostle after being wounded at Ohod,
+    and who do good works and fear God, are promised a great reward.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:2
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment through reward, punishment, and hell
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes God's wrath, hell as a destination, degrees of rewards
+    and punishments, God's knowledge of deeds, and the preservation of the faithful's
+    reward.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage is doctrinal and exhortative; extraction identifies the recurring
+    pattern without adding external comparison.
+- id: motif:2
+  label: Revelatory instruction by an apostolic teacher
+  taxonomy_refs:
+  - wisdom
+  basis: God raises an apostle who recites signs, purifies believers, and teaches
+    the Koran and wisdom.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The taxonomy reference is limited to the explicit teaching of wisdom in
+    the passage.
+- id: motif:3
+  label: The slain in God's cause live with the divine
+  taxonomy_refs:
+  - resurrection
+  basis: Those slain at Ohod in God's cause are declared not dead but alive and sustained
+    with their Lord, rejoicing in God's favor.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage states continued life with the Lord for the slain; it does
+    not narrate a bodily resurrection scene in this excerpt.
+- id: motif:4
+  label: Testing of faith through defeat, wounds, and renewed obedience
+  taxonomy_refs:
+  - initiation
+  basis: The misfortune at Ohod, the distinction between faith and unbelief, and the
+    later obedience of the wounded faithful form a pattern of trial followed by promised
+    reward.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: The passage does not use initiation language; the motif label is a cautious
+    functional description.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 11929-11931
+  quote_or_summary: "“who bringeth on himself wrath from GOD, and whose receptacle
+    is hell? an evil journey shall it be thither.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 11932-11933
+  quote_or_summary: There are degrees of rewards and punishments with God, and God
+    sees what people do.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 11934-11937
+  quote_or_summary: God graciously raised an apostle among the believers to recite
+    signs, purify them, and teach the Koran and wisdom; they had previously been in
+    manifest error.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 11938-11942
+  quote_or_summary: After the misfortune at Ohod, the passage says its source is from
+    the believers themselves; what occurred when the two armies met was by God's permission.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 11942-11948
+  quote_or_summary: Some are told to fight for God's religion or drive back the enemy;
+    they answer that they would have followed if they had known, and the passage says
+    they were nearer to unbelief than faith.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 11949-11954
+  quote_or_summary: They are said to speak with their mouths what is not in their
+    hearts; they stayed home and said their brethren would not have been slain if
+    they had obeyed them; they are challenged to keep death back from themselves.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: 11955-11957
+  quote_or_summary: "“those who have been slain at Ohod, in the cause of GOD” are
+    not to be reckoned dead, but are “sustained alive with their LORD.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:8
+  type: summary
+  locator: 11958-11963
+  quote_or_summary: The slain rejoice in God's favor, are glad for those who have
+    not yet overtaken them, have no fear or grief, and know that God does not let
+    the faithful's reward perish.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: 11964-11967
+  quote_or_summary: Those who hearkened to God and his apostle after a wound at Ohod,
+    and who do good works and fear God, shall have a great reward.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: 11969-12003 notes n-u
+  quote_or_summary: 'Sale''s notes identify textual and interpretive details: the
+    apostle is linked with Mohammed and Koreish; wisdom is glossed as the Sonna; the
+    Ohod misfortune is connected with disobedience and abandoning a post; and the
+    wounded followers'' later march is described in commentary.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized note evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for the main passage. Motif labels are cautious
+    where doctrinal statements are mapped to broad taxonomy categories. No comparison
+    claims were made because the passage itself does not support a specific cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line range includes both translated passage and Sale's notes. Main extraction relies primarily on the translated passage; the note evidence is retained only as contextual metadata and not used for unsupported motif expansion.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l11929-l12003
+  passage_sha256=3834195966a24f14f5b129cbf8f4604df21d87815841dd85364bdcc8f4d00286

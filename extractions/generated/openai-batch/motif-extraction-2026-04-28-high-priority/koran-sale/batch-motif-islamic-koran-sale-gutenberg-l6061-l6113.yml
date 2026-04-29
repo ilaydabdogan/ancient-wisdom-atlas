@@ -1,0 +1,440 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l6061-l6113
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION III / SECTION IV. / SECTION V. / OF CERTAIN NEGATIVE PRECEPTS IN
+    THE KORN.; lines 6061-6113
+  start: '6061'
+  end: '6113'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses prohibitions and disapproval concerning chess images,
+    gaming, and divination by arrows. It reports an anecdote about Ali seeing chess-men,
+    explains differing Muslim practices regarding plain versus carved chess pieces,
+    compares condemnations of gaming among Muslims, Greeks, Romans, and Jews, and
+    describes pre-Islamic Arab divination by arrows kept in an idol temple, including
+    arrows marked with commands, prohibitions, or left blank.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ali is described as passing by people playing chess and asking what images
+    they were intent upon.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that chess had been recently introduced into Arabia and
+    earlier into Persia from India.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mohammedan doctors are said to infer that chess was disapproved only because
+    of the images used as chess-men.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sonnites are described as playing chess with plain pieces of wood or ivory,
+    while Persians and Indians continue to use carved pieces.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that Mohammedans generally comply with the prohibition
+    of gaming better than with the prohibition of wine.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Gaming is described as having been forbidden or censured among Greeks, Romans,
+    clergy under civil law, monks, and Jews.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: Idolatrous Arabs are described as practicing divination by arrows.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The divining arrows are described as headless and featherless, kept in the
+    temple of an idol, and consulted in the idol's presence.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Seven such arrows are said to have been kept at the temple of Mecca, while
+    three were generally used for divination.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The three divining arrows are described as bearing the messages 'My LORD hath
+    commanded me,' 'My LORD hath forbidden me,' and a blank mark; the drawn arrow
+    determined approval, prohibition, or lack of decision.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ali
+  description: A figure who passes by chess players and questions the images used
+    in the game.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mohammedan doctors
+  description: Religious interpreters who infer that chess was disapproved because
+    of images used as pieces.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Sonnites
+  description: A Muslim group described as using plain chess pieces of wood or ivory.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Persians and Indians
+  description: Groups described as continuing to use carved chess pieces.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Idolatrous Arabs
+  description: Pre-Islamic Arabs described as using arrows for divination in an idol
+    temple.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Greeks, Romans, and Jews
+  description: Groups or legal-religious traditions cited as disapproving, restricting,
+    or censuring gaming.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: questioning observer
+  assigned_to:
+  - fig:1
+  basis: Ali is reported to ask about the images used by chess players.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: legal-religious interpreter
+  assigned_to:
+  - fig:2
+  basis: The doctors infer the reason for disapproval of chess from the use of images.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: plain-piece chess players
+  assigned_to:
+  - fig:3
+  basis: Sonnites are described as playing with plain pieces of wood or ivory.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: carved-piece chess players
+  assigned_to:
+  - fig:4
+  basis: Persians and Indians are described as continuing to use carved chess pieces.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: divination practitioners
+  assigned_to:
+  - fig:5
+  basis: Idolatrous Arabs are described as divining by arrows kept in an idol temple.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: comparative anti-gaming traditions
+  assigned_to:
+  - fig:6
+  basis: Greek, Roman, and Jewish sources are cited as condemning or legally restricting
+    gaming.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: chess images
+  literal_form: Images used as chess-men
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: plain chess pieces
+  literal_form: Plain pieces of wood or ivory
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: carved chess pieces
+  literal_form: Carved chess-men
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: divining arrows
+  literal_form: Headless and featherless arrows used for divination
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: idol temple
+  literal_form: Temple of an idol where divining arrows were kept and consulted
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: commanded, forbidden, and blank arrows
+  literal_form: Three arrows marked with command, prohibition, or no inscription
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Ali encounters chess images
+  summary: Ali passes by people playing chess and asks about the images used as pieces;
+    the passage connects this with the recent introduction of chess from India through
+    Persia into Arabia.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Interpretation and adaptation of chess practice
+  summary: Mohammedan doctors infer that chess was disapproved because of images;
+    Sonnites use plain pieces, while Persians and Indians continue using carved pieces.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cross-cultural censure of gaming
+  summary: The passage surveys condemnations and restrictions on gaming among Muslims,
+    Greeks, Romans, clergy and monks under legal rules, and Jews.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Divination by arrows
+  summary: Idolatrous Arabs consult headless and featherless arrows kept in an idol
+    temple; arrows marked as command, prohibition, or blank determine whether an enterprise
+    is approved, rejected, or unresolved.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: prohibited image-bearing game pieces
+  taxonomy_refs: []
+  basis: The passage connects disapproval of chess with the use of images as chess-men
+    and describes replacement with plain pieces among Sonnites.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is a legal-historical commentary, not a mythic narrative;
+    the motif is extracted as a recurring symbolic-ritual pattern rather than a tale
+    type.
+- id: motif:2
+  label: religious prohibition of gaming
+  taxonomy_refs: []
+  basis: The passage describes Muslim prohibition of gaming and compares it with restrictions
+    or censures in Greek, Roman, clerical, monastic, and Jewish contexts.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a normative and comparative legal theme rather than a mythological
+    plot motif.
+- id: motif:3
+  label: divination by lots before undertaking an enterprise
+  taxonomy_refs: []
+  basis: The arrows marked command, prohibition, and blank are drawn to determine
+    whether an enterprise should proceed.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy reference exactly matches lot-divination; the passage
+    frames the practice as forbidden.
+- id: motif:4
+  label: oracle objects kept in a sacred or idol temple
+  taxonomy_refs: []
+  basis: The divining arrows are kept in the temple of an idol and consulted in the
+    idol's presence.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives only a brief description and does not narrate a specific
+    oracle episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents disapproval of gaming as a pattern shared across Muslim,
+    Greek, Roman, and Jewish legal or moral traditions.
+  claim_level: same_function
+  target: cross-cultural legal-religious censure of gaming
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is supplied by the passage as moral and legal analogy;
+    it does not demonstrate historical contact or common inheritance.
+- id: claim:2
+  claim: The passage compares Muslim rejection of gaming with Jewish censure of gamesters
+    in the Talmud, treating both as disqualifying or morally suspect.
+  claim_level: same_function
+  target: Jewish Talmudic censure of gamesters
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage identifies Jews as Mohammed's guides, but the excerpt alone
+    does not establish direct dependence for this specific rule.
+- id: claim:3
+  claim: The divining arrows function as decision-making lots that determine approval
+    or rejection of an enterprise.
+  claim_level: same_function
+  target: lot-divination for undertaking decisions
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not compare the practice to a named external tradition;
+    the claim is limited to functional pattern recognition within the described practice.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6061-6067
+  quote_or_summary: Ali is reported to have encountered people playing chess, asked
+    about the images they were intent upon, and the passage states chess had recently
+    entered Arabia after coming from India through Persia.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 6068-6073
+  quote_or_summary: Mohammedan doctors infer that chess was disapproved because of
+    images; Sonnites use plain wood or ivory pieces, while Persians and Indians continue
+    to use carved pieces.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 6074-6078
+  quote_or_summary: The passage says Mohammedans comply with the prohibition of gaming
+    better than with the prohibition of wine, with common people among Turks and Persians
+    varying in addiction to play.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 6079-6092
+  quote_or_summary: The passage states that gaming was forbidden or censured in well-ordered
+    states, citing Greek scandal attached to gaming-houses, Aristotle's criticism
+    of gamesters, Roman laws against hazard games, and restrictions on clergy and
+    monks.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 6093-6096
+  quote_or_summary: The passage states that Jews highly disapprove gaming, with gamesters
+    censured in the Talmud and their testimony declared invalid.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 6097-6103
+  quote_or_summary: The passage describes idolatrous Arabs practicing divination by
+    arrows that were headless and featherless and kept in an idol temple where they
+    were consulted.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 6103-6113
+  quote_or_summary: Seven arrows were kept at the temple of Mecca; generally three
+    were used, marked with command, prohibition, and blank, and the drawn arrow determined
+    approval, rejection, or no clear conclusion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a public-domain English commentary with clear descriptions
+    of practices and comparisons. Motif identification is more tentative because the
+    excerpt is legal-historical and exegetical rather than narrative mythology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available symbol taxonomy entries matched the passage objects directly; taxonomy_refs are therefore empty.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l6061-l6113
+  passage_sha256=c5c698dd0442f9e0aaa4f4c156a694a56aa28ff24a5c82d4f1ee716b4e0df19f

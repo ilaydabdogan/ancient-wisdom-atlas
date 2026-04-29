@@ -1,0 +1,516 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l12472-l12544
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER III. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER IV. / IN THE
+    NAME OF THE MOST MERCIFUL GOD; lines 12472-12544
+  start: '12472'
+  end: '12544'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives legal and moral instructions to believers concerning
+    marriage with believing maid-servants, consent and dower, punishment for adultery,
+    restraint from illicit wealth and self-killing, divine mercy and judgment, cleansing
+    of lesser faults when grave sins are avoided, entrance into paradise, and equitable
+    portions for men and women according to what they gain. Notes explain several
+    legal and interpretive points, including the meaning of grievous sins and 'slay
+    not your souls.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Believers without sufficient means to marry free believing women are permitted
+    to marry believing maid-servants possessed by their right hands, with the masters'
+    consent and with dower given according to justice.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The maid-servants to be married are described as true believers, modest, not
+    guilty of whoredom, and not entertaining lovers.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: If married maid-servants commit adultery, they are assigned half the punishment
+    appointed for free women.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that God declares these things, directs believers according
+    to earlier ordinances, and is knowing and wise.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Those who follow their lusts are said to desire that believers turn far aside
+    from the truth.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Believers are instructed not to consume wealth among themselves in vanity,
+    except through merchandising by mutual consent.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Believers are instructed not to slay themselves or their souls.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: obs:8
+  text: A person who acts maliciously and wickedly in this matter is threatened with
+    being cast into hell fire.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Avoiding grievous forbidden sins is followed by cleansing from smaller faults
+    and introduction into paradise with an honourable entry.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Men and women are each said to receive a portion of what they have gained,
+    and believers are told to ask God of his bounty.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: A note explains 'slay not your souls' as possibly referring to mortal sins,
+    self-murder, or killing a true believer.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: A note reports several interpretations of the grievous sins, including a list
+    of seven sins in a tradition attributed to Mohammed.
+  category: other
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine speaker or agent who knows faith, declares ordinances, is
+    gracious and merciful, judges wicked action, cleanses faults, introduces into
+    paradise, bestows bounty, and is omniscient.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: true believers
+  description: The addressed community receiving instructions about marriage, wealth,
+    killing, sin, and asking God for bounty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: believing maid-servants
+  description: Maid-servants possessed by the believers' right hands, described as
+    true believers and potential spouses under specified conditions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: free believing women
+  description: Free women who are believers and serve as the comparison class for
+    marriage means and punishment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: those who follow their lusts
+  description: A group said to desire that believers turn aside from the truth with
+    great deviation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: malicious and wicked offender
+  description: Whoever acts maliciously and wickedly in the prohibited matter is threatened
+    with hell fire.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: men
+  description: Men are said to receive a portion of what they have gained.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: women
+  description: Women are said to receive a portion of what they have gained.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: divine lawgiver and guide
+  assigned_to:
+  - fig:1
+  basis: God declares the instructions and directs believers according to ordinances.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: divine judge and benefactor
+  assigned_to:
+  - fig:1
+  basis: God threatens hell fire for wicked action, cleanses smaller faults, introduces
+    into paradise, and gives bounty.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: role:3
+  label: addressed religious community
+  assigned_to:
+  - fig:2
+  basis: The passage repeatedly addresses 'true believers' with commands and permissions.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: permitted marriage partners under conditions
+  assigned_to:
+  - fig:3
+  basis: Believing maid-servants may be married with consent and dower if the believer
+    lacks means to marry free believing women.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: free-status comparison group
+  assigned_to:
+  - fig:4
+  basis: Free believing women are the preferred marriage category and the benchmark
+    for punishment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: tempting deviators
+  assigned_to:
+  - fig:5
+  basis: Those who follow lusts desire that believers turn aside from truth.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: condemned transgressor
+  assigned_to:
+  - fig:6
+  basis: The malicious and wicked actor is threatened with being cast into hell fire.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: recipients of earned portions
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The passage assigns men and women portions of what they have gained.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: hell fire
+  literal_form: fire of hell into which the malicious and wicked offender is cast
+    to be broiled
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: paradise
+  literal_form: paradise entered with an honourable entry after grave sins are avoided
+    and lesser faults cleansed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: dower
+  literal_form: dower given to maid-servants according to justice as part of marriage
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: wealth
+  literal_form: wealth not to be consumed among believers in vanity, except through
+    merchandising by mutual consent
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: grievous sins
+  literal_form: grave forbidden sins whose avoidance is linked to cleansing from smaller
+    faults
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:10
+scenes:
+- id: scene:1
+  label: Conditional marriage permission
+  summary: Believers who lack means to marry free believing women are allowed to marry
+    believing maid-servants, with consent, just dower, and moral conditions specified.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Punishment rule for adultery
+  summary: Married maid-servants guilty of adultery are assigned half the punishment
+    of free women.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Divine guidance and human weakness
+  summary: God is said to declare and guide by earlier ordinances, while those following
+    lusts seek deviation; God makes religion light because man was created weak.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Prohibitions concerning wealth and killing
+  summary: Believers are told not to consume wealth vainly except through mutual trade
+    and not to slay themselves or their souls.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: scene:5
+  label: Judgment by fire and reward of paradise
+  summary: The malicious and wicked offender is threatened with hell fire, while those
+    avoiding grievous sins are cleansed of smaller faults and brought into paradise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Portions and divine bounty
+  summary: Believers are told not to covet unequal bestowals; men and women each receive
+    portions of what they have gained and are to ask God for bounty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: divine judgment through punishment and reward
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage contrasts the casting of a wicked offender into hell fire with
+    cleansing from lesser faults and honourable entry into paradise for those who
+    avoid grave sins.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The motif is expressed in legal-admonitory form rather than narrative
+    myth.
+- id: motif:2
+  label: moral purification before blessed entry
+  taxonomy_refs: []
+  basis: Avoidance of grievous sins is followed by cleansing from smaller faults and
+    entry into paradise.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage does not describe a journey or ritual sequence in detail.
+- id: motif:3
+  label: divine wisdom and merciful guidance
+  taxonomy_refs:
+  - wisdom
+  basis: God is described as knowing and wise, gracious and merciful, declaring ordinances
+    and making religion light for weak humanity.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy reference 'wisdom' is broad; the passage presents
+    divine legal instruction rather than a wisdom tale.
+- id: motif:4
+  label: regulated exchange in marriage and commerce
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage regulates dower in marriage and permits trade by mutual consent
+    while forbidding vain consumption of wealth.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: low
+  cautions: The passage is legal and ethical; the 'sacred_exchange' taxonomy fit is
+    tentative.
+comparison_claims:
+- id: claim:1
+  claim: A translator's note compares the reported list of seven grievous sins to
+    the Christian category of deadly sins by number.
+  claim_level: same_function
+  target: Christian deadly sins
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This comparison appears in the commentary note rather than the main
+    passage, and the note reports multiple Islamic interpretations of the grievous
+    sins.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12472-12478
+  quote_or_summary: Believers lacking means to marry free believing women may marry
+    believing maid-servants possessed by their right hands, with masters' consent
+    and just dower; the women are to be modest and not sexually illicit.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: 12479-12483
+  quote_or_summary: When married maid-servants are guilty of adultery, they receive
+    half the punishment appointed for free women; abstaining from marrying slaves
+    is said to be better, and God is gracious and merciful.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: 12484-12487
+  quote_or_summary: God is willing to declare these things, direct believers according
+    to ordinances of those before them, and be merciful; God is knowing and wise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: 12488-12491
+  quote_or_summary: God desires to be gracious, while those who follow lusts desire
+    believers to deviate from truth; God makes religion light because man was created
+    weak.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: 12492-12495
+  quote_or_summary: True believers are told not to consume wealth among themselves
+    in vanity except by mutual merchandising, and not to slay themselves, for God
+    is merciful.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: quote
+  locator: 12496-12498
+  quote_or_summary: '"he will surely cast him to be broiled in hell fire"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: 12499-12501
+  quote_or_summary: If believers turn aside from grievous forbidden sins, they will
+    be cleansed from smaller faults and introduced into paradise with an honourable
+    entry.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: summary
+  locator: 12520-12524
+  quote_or_summary: The note says 'slay not your souls' is interpreted as forbidding
+    mortal sins, self-murder, or killing a true believer.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:9
+  type: summary
+  locator: 12502-12506
+  quote_or_summary: Believers are told not to covet what God has bestowed unequally;
+    men and women each receive a portion of what they have gained, and believers should
+    ask God of his bounty.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:10
+  type: summary
+  locator: 12526-12535
+  quote_or_summary: 'The note reports interpretations of grievous sins, including
+    a tradition listing seven sins: idolatry, murder, falsely accusing modest women,
+    wasting orphans'' substance, usury, desertion in a religious expedition, and disobedience
+    to parents; it notes the number equals Christian deadly sins.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Extraction is based on a supplied public-domain English translation and its
+    notes. Motif assignment is cautious because the passage is primarily legal and
+    ethical rather than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage text and metadata. Long quotations were avoided in favor of summaries.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l12472-l12544
+  passage_sha256=ff1765c21a26e878af6eb1673e3f98a8971191c618e1c915af6bd2bdf18d3125

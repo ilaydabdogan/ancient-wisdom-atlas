@@ -1,0 +1,467 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l4747-l4794
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 4747-4794
+  start: '4747'
+  end: '4794'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses al Arf as a raised partition or intermediate boundary
+    between paradise and hell, gives differing opinions about who stands there, describes
+    communication across the boundary, notes a possible Jewish parallel for a wall
+    dividing paradise from hell, and describes the righteous passing a sharp bridge
+    and drinking at the prophet's pond before entering paradise. It also notes a dispute
+    over whether paradise already exists.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Al Arf is described as a partition, high place, or wall of separation associated
+    with distinguishing the blessed from the damned.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage reports multiple opinions about who will be on al Arf, including
+    patriarchs, prophets, martyrs, eminent holy persons, and angels in human form.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One opinion places on al Arf those whose good and evil works exactly balance,
+    so that they initially deserve neither reward nor punishment.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Those with balanced works are said to be admitted to paradise on the last
+    day after an act of adoration tips the scale of merit toward good works.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Another opinion makes the intermediate space a receptacle for those who went
+    to war without parental leave and died as martyrs.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Those standing on the partition can converse with inhabitants of both paradise
+    and hell, and the blessed and damned can also speak to one another.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The righteous are said to pass a sharp bridge before entering paradise.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Before entering paradise, the righteous drink at the prophet's pond, whose
+    water comes from al Cawthar and prevents future thirst.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The pond is described as square, a month's journey in compass, supplied by
+    two pipes, with water whiter than milk or silver and more fragrant than musk,
+    and with cups around it as numerous as stars.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage reports a dispute over whether paradise already exists or will
+    be created hereafter.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: those on al Arf
+  description: Persons imagined by different commentators to stand or reside on the
+    partition between paradise and hell.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the blessed
+  description: Inhabitants of paradise or those marked as blessed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: the damned
+  description: Inhabitants of hell or those marked as damned.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: the righteous
+  description: Those who pass the sharp bridge and drink at the prophet's pond before
+    entering paradise.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: the prophet
+  description: The prophet associated with the pond from which the righteous drink
+    before paradise.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Adam
+  description: Adam is mentioned as having been expelled from a paradise in a discussion
+    about whether the future paradise is the same place.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: intermediate-boundary inhabitants
+  assigned_to:
+  - fig:1
+  basis: They are described as standing on or being placed in al Arf, an intermediate
+    partition or space.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: paradise inhabitants
+  assigned_to:
+  - fig:2
+  basis: They are contrasted with the damned and can be recognized by marks or characteristics.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: hell inhabitants
+  assigned_to:
+  - fig:3
+  basis: They are contrasted with the blessed and can converse across the partition.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: afterlife entrants to paradise
+  assigned_to:
+  - fig:4
+  basis: They pass the sharp bridge and drink at the pond before entering paradise.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: owner or describer of the pond
+  assigned_to:
+  - fig:5
+  basis: The pond is called the pond of their prophet, and he is said to describe
+    it.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: expelled from paradise
+  assigned_to:
+  - fig:6
+  basis: Adam is mentioned in relation to the paradise from which he was expelled.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: al Arf partition
+  literal_form: Raised wall or partition separating paradise and hell.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: balanced scale of works
+  literal_form: Good and evil works exactly counterpoised, then tipped by an act of
+    adoration.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sharp bridge
+  literal_form: A sharp bridge passed by the righteous before paradise.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: prophet's pond
+  literal_form: Square pond supplied by two pipes from al Cawthar, with cups around
+    it.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: thirst-ending water
+  literal_form: Water whiter than milk or silver and more odoriferous than musk, whose
+    drinker never thirsts again.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  - milk
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: cups like stars
+  literal_form: Cups around the pond as numerous as the stars in the firmament.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Al Arf as boundary between destinies
+  summary: Al Arf is presented as a raised partition where some figures can distinguish
+    the blessed from the damned and where communication across paradise and hell is
+    possible.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: scene:2
+  label: Intermediate condition of balanced works
+  summary: Those whose good and evil works balance are placed in an intermediate condition
+    until an act of adoration on the last day gives them sufficient merit for paradise.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Martyrs excluded and spared
+  summary: Another reported view places martyrs who went to war without parental leave
+    in the intermediate space, excluded from paradise for disobedience but escaping
+    hell because they are martyrs.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Righteous refreshed before paradise
+  summary: After passing the sharp bridge, the righteous drink from the prophet's
+    pond, supplied from a paradisal river, as their first taste of approaching felicity.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Dispute over created paradise
+  summary: The passage reports disagreement over whether paradise already exists or
+    will be created later, and whether the future paradise is distinct from the one
+    from which Adam was expelled.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: afterlife boundary separating paradise and hell
+  taxonomy_refs:
+  - afterlife_journey_map
+  - divine_judgment
+  basis: The passage describes al Arf as a partition or raised wall separating the
+    blessed and the damned, with figures stationed there and communication across
+    it.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage summarizes commentator traditions rather than narrating a
+    single canonical episode.
+- id: motif:2
+  label: intermediate afterlife state based on balanced merits
+  taxonomy_refs:
+  - divine_judgment
+  basis: Some persons are said to have equal good and evil works and to await a last-day
+    act that tips the scale toward paradise.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The account is one reported opinion among several.
+- id: motif:3
+  label: perilous crossing before paradise
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The righteous are said to have passed a sharp bridge before drinking at the
+    pond and entering paradise.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The bridge is mentioned as already described elsewhere and only briefly
+    appears in this passage.
+- id: motif:4
+  label: refreshing paradisal water that ends thirst
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The righteous drink from the prophet's pond, supplied from a river of paradise,
+    and whoever drinks will never thirst again.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The motif is specifically tied to the described Islamic eschatological
+    setting.
+- id: motif:5
+  label: debate over preexistent paradise
+  taxonomy_refs: []
+  basis: The passage reports disagreement over whether paradise already exists or
+    will be created in the future.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This is a doctrinal dispute rather than a narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the partition of al Arf to Jewish material describing
+    a thin wall dividing paradise from hell.
+  claim_level: same_motif
+  target: Jewish tradition of a thin wall dividing paradise from hell, cited as Midrash
+    Yalkut Sioni
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is reported by the translator and framed speculatively;
+    the passage does not provide the Jewish text itself.
+- id: claim:2
+  claim: The passage notes a possible relation between al Arf and a scriptural great
+    gulf of separation.
+  claim_level: same_function
+  target: scriptural great gulf of separation, cited in note as Luke xvi. 26
+  evidence_refs:
+  - ev:1
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage mentions the scriptural gulf and borrowing possibilities
+    but does not establish direct dependence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4747-4756
+  quote_or_summary: Al Arf is explained as a term connected with distinguishing or
+    parting things; commentators describe it as a high or raised wall of separation
+    whose occupants recognize the blessed and the damned by their marks.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4756-4763
+  quote_or_summary: Mohammedan writers differ about who is on al Arf; some place there
+    patriarchs, prophets, martyrs, eminent holy persons, and angels in human form.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4763-4770
+  quote_or_summary: Another opinion places there people whose good and evil works
+    exactly counterpoise, who later enter paradise after an act of adoration counts
+    as merit and overbalances the scale of good works.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4770-4774
+  quote_or_summary: Another view makes the intermediate space a receptacle for those
+    who went to war without their parents' leave and suffered martyrdom, being excluded
+    from paradise for disobedience but escaping hell as martyrs.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4774-4779
+  quote_or_summary: The partition is not thought very broad, because those on it can
+    converse with inhabitants of paradise and hell, and the blessed and damned can
+    speak to each other.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4780-4783 and note 2
+  quote_or_summary: The translator states that if Mohammed did not take the partition
+    from scripture, he at least borrowed it second-hand from Jews, who mention a thin
+    wall dividing paradise from hell; the note cites Midrash Yalkut Sioni.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4784-4794 and note 3
+  quote_or_summary: The righteous, after surmounting difficulties and passing a sharp
+    bridge, drink at the prophet's square pond, supplied by two pipes from al Cawthar;
+    its water is whiter than milk or silver, more fragrant than musk, surrounded by
+    cups as numerous as stars, and whoever drinks never thirsts again.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4794 onward within supplied passage
+  quote_or_summary: The passage says Muslims dispute whether paradise already exists
+    or will be created hereafter, and whether the future paradise differs from the
+    one from which Adam was expelled.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Several statements are
+    reported as differing commentator opinions or translator comparisons, so motif
+    and comparison confidence is moderated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No unsupported taxonomy IDs were added beyond the provided motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l4747-l4794
+  passage_sha256=b13772430a6e7366d611bace8e6b97c7d7b1b57f7c8ba020c0138b2cba6d8c05

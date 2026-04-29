@@ -1,0 +1,509 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l3020-l3067
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: THE KORAN. / PRELIMINARY DISCOURSE / SECTION I. / SECTION II.; lines 3020-3067
+  start: '3020'
+  end: '3067'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recounts Mohammed's growing military and political power, his
+    attempted peaceful visit to Mecca, the oath of fealty at al Hodeibiya, a ten-year
+    truce with the Koreish, reports of his companions' intense veneration, and diplomatic
+    letters sent to foreign rulers, including accounts of Persian rejection and later
+    conversion, Heraclius's respectful reception, and a letter to the king of Ethiopia.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mohammed set out with 1,400 men to visit the temple of Mecca in a peaceable
+    manner.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At al Hodeibiya, the Koreish refused him entry into Mecca unless he forced
+    his way.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mohammed's troops took a solemn oath of fealty or homage to him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A ten-year truce was concluded, allowing persons to enter into league either
+    with Mohammed or with the Koreish.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: An ambassador reported that Mohammed's companions caught water from his ablution,
+    licked up his spit, and gathered fallen hairs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Mohammed sent messengers with letters to neighboring princes inviting them
+    to Mohammedism.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Khosr Parvz tore Mohammed's letter, and Mohammed responded that God would
+    tear his kingdom.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Mohammed told a messenger that it had been revealed to him that Khosr had
+    been slain by his son Shiryeh.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Badhn and the Persians with him turned Mohammedans after receiving confirmation
+    of Khosr's death and an order not to disturb the prophet.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: Heraclius received Mohammed's letter respectfully, laid it on his pillow,
+    and dismissed the bearer honourably.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Leader and prophet whose power increases, who leads men toward Mecca,
+    receives homage, concludes a truce, and sends letters to foreign rulers.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Mohammed's troops or companions
+  description: The men accompanying Mohammed, described as taking an oath of fealty
+    and showing extreme respect for him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: The Koreish / those of Mecca
+  description: The Meccan group that denies Mohammed entry and later concludes a truce
+    with him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Araw Ebn Masd
+  description: Prince of the tribe of Thakf, sent by those of Mecca as ambassador
+    to desire peace.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Khosr Parvz
+  description: King of Persia who receives Mohammed's letter with disdain and tears
+    it.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Badhn
+  description: King of Yaman, dependent on the Persians, who later turns Mohammedan
+    with the Persians with him.
+  role_refs:
+  - role:7
+  - role:9
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Shiryeh
+  description: Son of Khosr, reported to have slain his father and to have ordered
+    Badhn to give the prophet no further disturbance.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Heraclius
+  description: Emperor who receives Mohammed's letter with respect and dismisses the
+    bearer honourably.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: King of Ethiopia
+  description: Ruler to whom Mohammed wrote; the passage notes Arab writers said he
+    had already been converted.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: prophet
+  assigned_to:
+  - fig:1
+  basis: The passage calls Mohammed a prophet in connection with Badhn's order not
+    to disturb him.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: military-political leader
+  assigned_to:
+  - fig:1
+  basis: His credit and power are said to rise through arms, and he leads 1,400 men
+    toward Mecca.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: sender of religious diplomatic letters
+  assigned_to:
+  - fig:1
+  basis: He sends messengers with letters inviting neighboring princes to Mohammedism.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: devoted companions or subjects
+  assigned_to:
+  - fig:2
+  basis: They take an oath of fealty and are described as highly revering Mohammed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: opposing treaty party
+  assigned_to:
+  - fig:3
+  basis: They deny entry into Mecca and then conclude a truce with Mohammed.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: peace ambassador
+  assigned_to:
+  - fig:4
+  basis: He is sent as ambassador by those of Mecca to desire peace.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: foreign ruler
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:8
+  - fig:9
+  basis: Each is named as a king or emperor receiving or connected with Mohammed's
+    diplomatic outreach.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:8
+  label: rejecter of the prophetic letter
+  assigned_to:
+  - fig:5
+  basis: Khosr receives the letter with disdain and tears it.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: convert ruler
+  assigned_to:
+  - fig:6
+  basis: Badhn and the Persians with him turn Mohammedans.
+  evidence_refs:
+  - ev:3
+- id: role:10
+  label: son and successor-actor
+  assigned_to:
+  - fig:7
+  basis: Shiryeh is named as Khosr's son who slew him and sent orders after his death.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: temple of Mecca
+  literal_form: Temple of Mecca
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sacred territory boundary
+  literal_form: al Hodeibiya, situated partly within and partly without the sacred
+    territory
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: oath of fealty
+  literal_form: Solemn oath of fealty or homage
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: ablution water
+  literal_form: Water used by Mohammed in ablution before prayers
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: bodily traces
+  literal_form: Spit and fallen hair gathered by companions
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: diplomatic religious letters
+  literal_form: Letters sent by Mohammed to neighboring princes inviting them to Mohammedism
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: torn letter
+  literal_form: Khosr's tearing of Mohammed's letter
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: pillow reception of letter
+  literal_form: Heraclius laying Mohammed's letter on his pillow
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hodeibiya refusal, oath, and truce
+  summary: Mohammed approaches Mecca peacefully with 1,400 men, is refused entry by
+    the Koreish, receives his troops' oath of fealty, and concludes a ten-year truce
+    through an ambassador.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Companions' veneration of Mohammed
+  summary: Araw Ebn Masd reports that Mohammed's companions show exceptional reverence
+    by preserving water from his ablution, his spit, and his fallen hair.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Letters to rulers and Persian rejection
+  summary: Mohammed sends letters inviting neighboring rulers to his religion; Khosr
+    tears the letter, Mohammed announces divine ruin for his kingdom, and subsequent
+    events lead Badhn and Persians with him to convert.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Heraclius receives the letter respectfully
+  summary: Heraclius receives Mohammed's letter with respect, lays it on his pillow,
+    and dismisses the bearer honourably, though the passage says some claimed he feared
+    losing his crown if he professed the new faith.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Letter to the king of Ethiopia
+  summary: Mohammed writes similarly to the king of Ethiopia; the passage notes that
+    Arab writers claimed this king had already converted.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: oath-bound political covenant
+  taxonomy_refs:
+  - covenant
+  basis: The troops take a solemn oath of fealty to Mohammed, and a formal ten-year
+    truce establishes permitted alliances with either side.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is historical prose, not a mythic covenant narrative; classification
+    is based only on the oath and treaty structure.
+- id: motif:2
+  label: devotional preservation of a holy person's bodily traces
+  taxonomy_refs: []
+  basis: Companions collect ablution water, lick up spit, and gather fallen hair as
+    signs of extraordinary reverence for Mohammed.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No taxonomy reference is supplied for relic or bodily-trace veneration.
+- id: motif:3
+  label: rejected sacred message followed by royal downfall
+  taxonomy_refs:
+  - divine_judgment
+  basis: Khosr tears Mohammed's letter; Mohammed says God shall tear his kingdom,
+    and the passage reports Khosr's subsequent death by his son and loss of power
+    over Badhn's response.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents the sequence through later historical narration;
+    causality is asserted through Mohammed's speech and reported revelation, but not
+    independently demonstrated.
+- id: motif:4
+  label: religious mission through letters to foreign rulers
+  taxonomy_refs: []
+  basis: Mohammed sends messengers with letters to neighboring princes inviting them
+    to Mohammedism, with varied responses from Persia, Yaman, Byzantium, and Ethiopia.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a diplomatic expansion pattern rather than a listed taxonomy motif
+    family.
+- id: motif:5
+  label: ruler constrained by fear of losing crown
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage reports a claim that Heraclius would have professed the new faith
+    if he had not feared losing his crown.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage itself marks the claim as something 'some pretend,' so it
+    should be treated cautiously.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3020-3031
+  quote_or_summary: Mohammed's power increases; he sets out with 1,400 men for a peaceful
+    visit to Mecca; the Koreish bar entry; his troops swear fealty; an ambassador
+    negotiates a ten-year truce allowing leagues with either side.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 3032-3041
+  quote_or_summary: Araw Ebn Masd reports that Mohammed's companions respect him more
+    than subjects of Roman or Persian rulers, catching his ablution water, licking
+    his spit, and gathering fallen hair.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 3042-3055
+  quote_or_summary: Mohammed sends letters to neighboring princes; Khosr tears his
+    letter; Mohammed says God will tear Khosr's kingdom; he reports revelation of
+    Khosr's death by Shiryeh; Badhn later receives confirmation and converts with
+    Persians around him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 3056-3062
+  quote_or_summary: Heraclius receives Mohammed's letter respectfully, lays it on
+    his pillow, dismisses the bearer honourably, and is said by some to have feared
+    losing his crown if he professed the faith.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 3063-3067
+  quote_or_summary: Mohammed writes similarly to the king of Ethiopia; the passage
+    notes that Arab writers say he had already been converted.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are candidate analytical groupings and require human review, especially where
+    the passage is historical and polemical in tone. No comparison claims were added
+    because the passage does not itself support explicit cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were applied only where directly supported by passage content.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l3020-l3067
+  passage_sha256=9c8b454cab9ed88f62f14070946687ea6a8eaeef7516ad5470847a56b8736456

@@ -1,0 +1,453 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l8413-l8461
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION VI. / OF THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS. / SECTION
+    VII. / SECTION VIII.; lines 8413-8461
+  start: '8413'
+  end: '8461'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recounts the career of Hakem Ebn Hashem, called al Mokanna
+    or “the veiled,” who claimed prophetic and divine status, gained followers through
+    reported performances such as making a moon appear from a well, was besieged in
+    a fortress, killed those with him, destroyed bodies and goods, and arranged his
+    own disappearance while promising a future return through transmigration.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hakem Ebn Hashem, later called al Mokanna or al Borka, went into Mawarannahr
+    and gave himself out as a prophet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He covered his face with a veil or gilded mask; the passage says this concealed
+    deformity, while his followers claimed it was because his countenance would dazzle
+    beholders like Moses’s.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: He gained proselytes at Nakhshab and Kash with performances treated by followers
+    as miracles, especially making the appearance of a moon rise out of a well for
+    many nights.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: He claimed divine honors and taught that deity resided in his person after
+    having passed from Abu Moslem into him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After al Mokanna’s faction grew powerful, the Khalf sent an army, and al Mokanna
+    withdrew into a fortified place prepared for siege.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: His emissaries told people that he raised the dead to life and knew future
+    events.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When escape seemed impossible, he gave poisoned wine to his family and those
+    with him in the castle, then burned bodies, clothing, provisions, and cattle.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: To prevent his body from being found, he destroyed himself either by flames
+    or by a corrosive preparation, leaving only his hair according to the account.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: One concubine hid herself, survived, and disclosed the events to the besiegers.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: He had promised remaining followers that his soul would transmigrate into
+    a grey-headed man riding a greyish beast and that he would return after a set
+    number of years.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Hakem Ebn Hashem / al Mokanna / al Borka
+  description: A claimant to prophecy and divine indwelling, described as veiled,
+    as a maker of apparent miracles, and as the leader besieged in the fortress.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Followers and proselytes of al Mokanna
+  description: People who accepted his performances as miracles and accepted claims
+    about his veiling and future return.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Abu Moslem
+  description: The governor under whom Hakem had served; in al Mokanna’s doctrine,
+    deity had previously resided in Abu Moslem and then passed into al Mokanna.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: The Khalf and his forces
+  description: The ruler and army sent to reduce al Mokanna’s faction and besiege
+    the fortress.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Al Mokanna’s family and those with him in the castle
+  description: The people in the castle who were given poisoned wine and whose bodies
+    were burned.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Surviving concubine
+  description: A concubine who hid herself, survived the destruction in the fortress,
+    and revealed what had happened.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: prophetic claimant
+  assigned_to:
+  - fig:1
+  basis: He gave himself out for a prophet.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: veiled figure
+  assigned_to:
+  - fig:1
+  basis: He was called “the veiled” because he covered his face with a veil or gilded
+    mask.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: claimant to divine indwelling
+  assigned_to:
+  - fig:1
+  basis: He claimed divine honors and taught that deity resided in his person.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: believing followers
+  assigned_to:
+  - fig:2
+  basis: They accepted his performances as miracles and preserved expectations of
+    his return.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: prior vessel in transmigration doctrine
+  assigned_to:
+  - fig:3
+  basis: Al Mokanna taught that deity had last resided in Abu Moslem before passing
+    into himself.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: besieging authority
+  assigned_to:
+  - fig:4
+  basis: The Khalf sent an army, and the forces besieged al Mokanna’s fortress.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: poisoned companions and kin
+  assigned_to:
+  - fig:5
+  basis: They were given poisoned wine and died in the castle.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: surviving witness
+  assigned_to:
+  - fig:6
+  basis: She hid, survived, and disclosed the whole matter.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: veil or gilded mask
+  literal_form: A face-covering veil or gilded mask worn by al Mokanna.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: moon from a well
+  literal_form: The appearance of a moon rising out of a well for many nights.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: poisoned wine
+  literal_form: Wine containing poison given to those in the castle.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: flames
+  literal_form: Fire used to burn bodies, clothing, provisions, cattle, and possibly
+    al Mokanna’s own body.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: grey-headed rider on greyish beast
+  literal_form: The promised future form of a grey-headed man riding a greyish beast.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Veiled prophetic claimant gathers followers
+  summary: Hakem Ebn Hashem enters Mawarannahr, presents himself as a prophet, wears
+    a veil or gilded mask, and gains followers who assign a radiant explanation to
+    the veiling.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Moon appearance from well
+  summary: Al Mokanna gains proselytes through performances, especially causing a
+    moonlike appearance to rise from a well over many nights.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Doctrine of divine transmigration
+  summary: Al Mokanna claims divine honor and teaches that deity manifested through
+    prior figures and passed from Abu Moslem into himself.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Siege and claims of powers
+  summary: The Khalf’s forces besiege al Mokanna’s fortress while emissaries spread
+    claims that he raises the dead and knows future events.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Destruction inside the fortress
+  summary: Al Mokanna poisons those with him, burns the bodies and supplies, destroys
+    himself so his body cannot be found, and one concubine survives to disclose the
+    events.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Promised transmigratory return
+  summary: Al Mokanna’s disappearance supports his prior promise that his soul would
+    take the form of a grey-headed rider on a greyish beast and return after years.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: veiled holy or radiant claimant
+  taxonomy_refs: []
+  basis: The passage states that al Mokanna wore a veil or gilded mask, with followers
+    explaining it as protection from the splendor of his countenance.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The narrator presents the follower explanation as a pretense and supplies
+    an alternative explanation of deformity.
+- id: motif:2
+  label: manufactured celestial miracle
+  taxonomy_refs: []
+  basis: The passage reports that al Mokanna caused the appearance of a moon to rise
+    from a well over many nights, leading to the title “moonmaker.”
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage characterizes the event as juggling, not as an accepted miracle.
+- id: motif:3
+  label: divine presence transmitted through successive persons
+  taxonomy_refs: []
+  basis: Al Mokanna’s doctrine is described as a successive manifestation or transmigration
+    of deity through prophets and holy men, ending in himself after Abu Moslem.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The account is polemical and uses terms such as “impostor”; extraction
+    records the doctrine as reported in the passage.
+- id: motif:4
+  label: claimed resurrection power
+  taxonomy_refs:
+  - resurrection
+  basis: His emissaries spread the claim that he raised the dead to life.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The claim is reported as propaganda by emissaries rather than as an event
+    narrated as occurring.
+- id: motif:5
+  label: death, disappearance, and promised return
+  taxonomy_refs:
+  - return
+  basis: He arranged for his body not to be found and had promised that his soul would
+    transmigrate into a grey-headed rider and return after a number of years.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage frames the disappearance as a deliberate contrivance, not
+    as a confirmed supernatural return.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly reports that al Mokanna’s followers explained his
+    veil by comparison with Moses, saying it prevented the splendor of his countenance
+    from dazzling beholders.
+  claim_level: same_function
+  target: Moses’s veiling associated with radiant countenance
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is reported as the followers’ claim within a hostile
+    account, not endorsed by the narrator.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8415-8426
+  quote_or_summary: Hakem Ebn Hashem, called al Mokanna or al Borka, gives himself
+    out as a prophet and wears a veil or gilded mask; followers compare the reason
+    to Moses’s dazzling countenance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8426-8431
+  quote_or_summary: He gains proselytes through performances treated as miracles,
+    especially the appearance of a moon rising from a well for many nights, earning
+    the title “moonmaker.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8431-8441
+  quote_or_summary: He claims divine honors and teaches a doctrine of deity manifesting
+    or transmigrating through prophets and holy men, from Abu Moslem into himself.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8441-8448
+  quote_or_summary: As his faction grows, the Khalf sends an army; al Mokanna retires
+    into a fortress and sends emissaries to claim that he raises the dead and knows
+    future events.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8448-8458
+  quote_or_summary: Under siege, he gives poisoned wine to those with him, burns bodies
+    and supplies, destroys himself by fire or corrosive liquid so his body is not
+    found, and one hidden concubine survives to reveal the matter.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8458-8461
+  quote_or_summary: He had promised followers that his soul would transmigrate into
+    a grey-headed man riding a greyish beast and would return after a number of years.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a later English explanatory note with polemical language;
+    motifs are extracted as reported claims and narrative elements rather than as
+    verified events.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were applied only where directly supported by the passage wording.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l8413-l8461
+  passage_sha256=2389863b43ca705dfdc2802eb992ca51724bbc3c85c655444924a58c5d726410

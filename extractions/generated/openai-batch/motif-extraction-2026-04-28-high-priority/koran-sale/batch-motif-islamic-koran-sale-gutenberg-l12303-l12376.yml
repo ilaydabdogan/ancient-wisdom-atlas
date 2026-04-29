@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l12303-l12376
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER III. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER IV. / IN THE
+    NAME OF THE MOST MERCIFUL GOD; lines 12303-12376
+  start: '12303'
+  end: '12376'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Opening translator notes explain maturity, curatorship, and inheritance
+    customs. The main passage gives inheritance shares for spouses and collateral
+    kin, names these rules as divine ordinances and statutes, contrasts obedience
+    rewarded by gardens with rivers with disobedience punished by hell fire, prescribes
+    witnesses and confinement or punishment for sexual wrongdoing, and distinguishes
+    timely repentance from repentance at death or unbelief at death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Translator notes explain testing religious and practical prudence, age of
+    maturity, curator duties, and inheritance customs affecting women and children.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Husbands and wives receive specified shares of each other's estates depending
+    on whether there is issue, after legacies and debts are paid.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If a man or woman's substance is inherited by a distant relation and a brother
+    or sister exists, each sibling receives a sixth; if there are more, they share
+    a third after legacies and debts, without prejudice to heirs.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The inheritance rules are called an ordinance from God and the statutes of
+    God.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Those who obey God and his apostle are said to be led by God into gardens
+    where rivers flow and to remain there forever.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Those who disobey God and his apostle and transgress the statutes are said
+    to be cast by God into hell fire, remain there forever, and suffer shameful punishment.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Women accused of whoredom require four witnesses from among the community;
+    if witnessed against, they are confined in separate apartments until death releases
+    them or God provides a way to escape.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Two persons committing the like wickedness are to be punished, but if they
+    repent and amend they are to be let alone.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Repentance is accepted from those who do evil ignorantly and repent speedily.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Repentance is not accepted from those who continue doing evil until death
+    presents itself and then claim repentance, nor from those who die unbelievers;
+    a grievous punishment is prepared for them.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Divine source of ordinance and statutes; described as knowing, gracious,
+    merciful, accepting repentance, leading the obedient to gardens, and casting transgressors
+    into hell fire.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: God's apostle
+  description: Named with God as the authority to be obeyed or disobeyed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Husbands and wives
+  description: Spouses whose inheritance shares are specified according to whether
+    there is issue and after payment of legacies and debts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Distant relation, brother, and sister
+  description: Collateral kin involved in specified shares of inheritance.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Women accused of whoredom
+  description: Women against whom four witnesses are to be produced before confinement
+    in separate apartments.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Four witnesses
+  description: Witnesses from among the community required to bear witness against
+    accused women.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Two offenders
+  description: Two persons who commit the like wickedness, are to be punished, but
+    left alone if they repent and amend.
+  role_refs:
+  - role:6
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Speedy repentant wrongdoers
+  description: Those who do evil ignorantly and repent speedily; repentance is accepted
+    from them.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Deathbed repenters and dying unbelievers
+  description: Those whose repentance is not accepted because repentance is delayed
+    until death presents itself, or because they die unbelievers.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine lawgiver
+  assigned_to:
+  - fig:1
+  basis: The rules are described as an ordinance from God and as God's statutes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: divine judge and eschatological disposer
+  assigned_to:
+  - fig:1
+  basis: God leads obedient people into gardens and casts disobedient transgressors
+    into hell fire.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: merciful accepter of repentance
+  assigned_to:
+  - fig:1
+  basis: God is described as easy to be reconciled and merciful, and repentance is
+    accepted from prompt repenters.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: apostolic authority
+  assigned_to:
+  - fig:2
+  basis: Obedience or disobedience to God's apostle is paired with obedience or disobedience
+    to God.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: legal heirs
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage assigns specified portions of estates to spouses and collateral
+    kin.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: accused or offending legal subjects
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: The passage gives procedures and punishments for women accused of whoredom
+    and for two who commit the like wickedness.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: legal witnesses
+  assigned_to:
+  - fig:6
+  basis: Four witnesses must be produced and bear witness against the accused women.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: penitent offenders
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Those who repent and amend are to be left alone; speedy repentance is accepted.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:9
+  label: excluded late repenters or unbelievers
+  assigned_to:
+  - fig:9
+  basis: Repentance at the moment death presents itself and dying in unbelief are
+    explicitly excluded from accepted repentance.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: gardens with flowing rivers
+  literal_form: Gardens wherein rivers flow
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: hell fire
+  literal_form: Hell fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: four witnesses
+  literal_form: Four witnesses from among the community
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: separate apartments
+  literal_form: Separate apartments used for confinement until death release or God
+    provides escape
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: death as repentance threshold
+  literal_form: The time when death presents itself
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Inheritance ordinances
+  summary: The passage specifies shares for spouses and collateral kin after legacies
+    and debts, and identifies the rules as an ordinance from God.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Statutes and afterlife consequences
+  summary: Obedience to God and his apostle leads to eternal gardens with flowing
+    rivers, while disobedience and transgression lead to eternal hell fire and shameful
+    punishment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Witnesses, confinement, punishment, and amendment
+  summary: Four witnesses are required against accused women, who are then confined;
+    two offenders are punished unless they repent and amend.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Limits of repentance
+  summary: Repentance is accepted from those who do evil ignorantly and repent speedily,
+    but not from those who delay until death or die unbelievers.
+  figure_refs:
+  - fig:1
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment through obedience and transgression
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage contrasts obedience to God and his apostle, rewarded by eternal
+    gardens with rivers, with disobedience and transgression, punished by eternal
+    hell fire.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The surrounding material is legal instruction; the motif is clearest in
+    the explicit afterlife sanction passage.
+- id: motif:2
+  label: Paradisal garden versus punitive fire
+  taxonomy_refs:
+  - divine_judgment
+  basis: The obedient are led into gardens with flowing rivers, while transgressors
+    are cast into hell fire.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a destination contrast, not a detailed afterlife journey map.
+- id: motif:3
+  label: Repentance before the death threshold
+  taxonomy_refs:
+  - divine_judgment
+  basis: Prompt repentance is accepted, but repentance at the time death presents
+    itself and dying in unbelief are excluded and associated with grievous punishment.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states a theological-legal rule rather than a narrative episode.
+- id: motif:4
+  label: Four-witness legal proof before punishment
+  taxonomy_refs: []
+  basis: Accusations against women require four witnesses before confinement is imposed.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is primarily a legal procedure; its comparative-motif status requires
+    human review.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits the available divine_judgment motif family insofar as divine
+    statutes are paired with eternal reward for obedience and eternal punishment for
+    transgression.
+  claim_level: same_motif
+  target: divine_judgment
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: No broader historical or intertextual comparison is made; the claim
+    is limited to motif-family classification from the supplied taxonomy.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12303-12341
+  quote_or_summary: Translator notes discuss testing prudence and religious grounding,
+    maturity, curator duties, and inheritance customs, including a note that an inheritance
+    law abolished a pagan Arab custom excluding women and children.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12342-12355
+  quote_or_summary: Spouses and collateral kin receive specified inheritance shares
+    after legacies and debts; the rule is called an ordinance from God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 12356-12361
+  quote_or_summary: "“These are the statutes of GOD”; obedience leads to gardens with
+    flowing rivers, while disobedience leads to hell fire and shameful punishment."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt with summary.
+- id: ev:4
+  type: summary
+  locator: lines 12362-12368
+  quote_or_summary: Four witnesses are required against women accused of whoredom;
+    witnessed women are confined in separate apartments until death or a divinely
+    afforded escape; two offenders are punished unless they repent and amend.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 12369-12376
+  quote_or_summary: God accepts repentance from those who do evil ignorantly and repent
+    speedily, but not from those who wait until death presents itself or who die unbelievers;
+    grievous punishment is prepared for them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Legal and theological content is explicit. Motif classification is strongest
+    for divine judgment and afterlife reward/punishment; procedural legal patterns
+    need human review before broader comparative use.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references are limited to provided motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l12303-l12376
+  passage_sha256=5aa75262a0ac649a040456b0c8bd3c535162457f17752fe1736a0ef7a3a1ef64

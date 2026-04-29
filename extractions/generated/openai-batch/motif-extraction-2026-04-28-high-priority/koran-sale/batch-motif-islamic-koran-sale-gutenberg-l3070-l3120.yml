@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l3070-l3120
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: THE KORAN. / PRELIMINARY DISCOURSE / SECTION I. / SECTION II.; lines 3070-3120
+  start: '3070'
+  end: '3120'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recounts diplomatic missions from Mohammed to rulers, varied
+    responses including gifts, conversion, rejection, and curses; then describes military
+    events in the eighth year of the Hejra, including new proselytes, the battle near
+    Muta, Khaled Ebn al Wald receiving the title “Sword of God,” and preparations
+    to take Mecca after a broken truce.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mokawkas, governor of Egypt, received the messenger favorably and sent valuable
+    presents to Mohammed, including two girls, one named Mary.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mohammed sent letters to several Arab princes, and the passage reports different
+    responses from al Hareth, Hawdha Ebn Ali, and al Mondar Ebn Swa.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After al Hareth answered that he would go to Mohammed himself, Mohammed said,
+    “May his kingdom perish.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hawdha Ebn Ali sent a rough answer; Mohammed cursed him, and the passage says
+    Hawdha died soon after.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Al Mondar Ebn Swa embraced Mohammedism, and the Arabs of his country followed
+    his example.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: In the eighth year of the Hejra, Khled Ebn al Wald and Amru Ebn al As became
+    proselytes of Mohammedism.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Mohammed sent 3,000 men against Grecian forces to avenge the death of one
+    of his ambassadors.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Grecian forces are described as vastly superior in number, and the Mohammedans
+    were initially repulsed and lost three successive generals.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Khled Ebn al Wald succeeded to command, defeated the Greeks with great slaughter,
+    took rich spoil, and received the title “One of the Swords of GOD.”
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Meccans are said to have broken a truce through an attack involving the
+    tribe of Becr, allies of the Koreish, against Khozah, allies of Mohammed.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Abu Sofin journeyed to Medina to heal the breach and renew the truce, but
+    Mohammed refused to see him.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Mohammed ordered preparations to surprise the Meccans while they were unprepared
+    and began his march toward Mecca.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Prophet who receives presents, sends letters, utters curses, orders
+    military action, refuses Abu Sofin, and prepares to march on Mecca.
+  role_refs:
+  - role:1
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Mokawkas
+  description: Governor of Egypt who receives Mohammed’s messenger favorably and sends
+    presents.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mary
+  description: One of two girls sent among Mokawkas’s presents; named as becoming
+    a great favorite with Mohammed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: al Hareth Ebn Abi Shamer
+  description: King of Ghassn who answers Mohammed’s letter by saying he would go
+    to Mohammed himself.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Hawdha Ebn Ali
+  description: King of Yamma, described as Christian and as having returned to his
+    former faith after earlier professing Islamism; sends a rough answer and dies
+    soon after Mohammed curses him.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: al Mondar Ebn Swa
+  description: King of Bahrein who embraces Mohammedism, with the Arabs of his country
+    following his example.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Khled Ebn al Wald
+  description: Excellent soldier, proselyte, commander after the loss of three generals,
+    victor over the Greeks, and recipient of the title “One of the Swords of GOD.”
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:8
+  name_or_label: Amru Ebn al As
+  description: Excellent soldier who becomes a proselyte of Mohammedism.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Mohammedan forces
+  description: A force of 3,000 men sent against the Grecian forces; initially repulsed
+    before Khled’s command.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:10
+  name_or_label: Grecian forces
+  description: Enemy forces, including auxiliary Arabs, described as numbering 100,000.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:11
+  name_or_label: Zeid Ebn Hareth, Jaafar, and Abdallah Ebn Rawha
+  description: Three successive generals of the Mohammedan forces who are lost in
+    the first attack.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:12
+  name_or_label: Abu Sofin
+  description: Person who journeys to Medina to heal the breach and renew the truce,
+    but is refused by Mohammed.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:13
+  name_or_label: Koreish and tribe of Becr
+  description: The Koreish are described as confederates of Becr; Becr attacks Khozah
+    and is supported by a party of the Koreish.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:14
+  name_or_label: Khozah
+  description: Allies of Mohammed attacked by the tribe of Becr, with several killed.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: prophet and sender of letters
+  assigned_to:
+  - fig:1
+  basis: The passage calls Mohammed the prophet and describes him sending letters
+    to rulers.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: ruler receiving diplomatic communication
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: These figures are governors or kings involved in receiving messengers or
+    letters from Mohammed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: gifted favorite
+  assigned_to:
+  - fig:3
+  basis: Mary is named among Mokawkas’s gifts and is said to become a great favorite
+    with Mohammed.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: proselyte or convert
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: The passage says al Mondar, Khled, and Amru embraced or became proselytes
+    of Mohammedism.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: military commander or force
+  assigned_to:
+  - fig:1
+  - fig:7
+  - fig:9
+  - fig:11
+  basis: Mohammed sends troops; Khled succeeds to command; the Mohammedan forces fight;
+    three generals are named as lost.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: avenger and war initiator
+  assigned_to:
+  - fig:1
+  basis: Mohammed sends men to avenge the death of an ambassador and later orders
+    preparations against Mecca.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:7
+  label: rejected correspondent under curse
+  assigned_to:
+  - fig:5
+  basis: Hawdha sends a rough answer, Mohammed curses him, and he dies soon after.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: opposing army
+  assigned_to:
+  - fig:10
+  basis: The Grecian forces oppose the Mohammedan army and are later overthrown by
+    Khled.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:9
+  label: truce negotiator
+  assigned_to:
+  - fig:12
+  basis: Abu Sofin travels to Medina to heal the breach and renew the truce.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: truce-breaking attackers
+  assigned_to:
+  - fig:13
+  basis: The passage says Becr attacked Khozah and was supported by a party of the
+    Koreish, causing violation of the truce.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: attacked allies
+  assigned_to:
+  - fig:14
+  basis: Khozah are described as allies of Mohammed who are attacked and killed by
+    Becr.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Sword of God title
+  literal_form: 'Honorific title: “One of the Swords of GOD”'
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: truce
+  literal_form: A truce concluded two years earlier and later broken
+  associated_figures:
+  - fig:1
+  - fig:12
+  - fig:13
+  - fig:14
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: letters to rulers
+  literal_form: Letters sent by Mohammed to Arab princes and rulers
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Diplomatic exchanges with rulers
+  summary: Mohammed’s messengers and letters reach rulers; some respond favorably
+    with gifts or conversion, while others reject or answer roughly and are cursed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Battle near Muta after the slain ambassador
+  summary: Mohammed sends 3,000 men against larger Grecian forces to avenge a slain
+    ambassador; after initial losses, Khled assumes command, wins, takes spoil, and
+    receives the title “One of the Swords of GOD.”
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Broken truce and march toward Mecca
+  summary: The passage says Mecca’s inhabitants had broken the truce through an allied
+    attack; Abu Sofin’s attempt to renew the truce fails, and Mohammed prepares a
+    surprise march on Mecca.
+  figure_refs:
+  - fig:1
+  - fig:12
+  - fig:13
+  - fig:14
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Prophetic curse followed by downfall or death
+  taxonomy_refs:
+  - divine_judgment
+  basis: Mohammed curses or speaks against rulers who reject him; in Hawdha’s case
+    the passage explicitly says he died soon after the curse.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is historical-discursive rather than a mythic tale; only one
+    death is explicitly connected in sequence after the curse.
+- id: motif:2
+  label: Broken covenant or truce leading to punitive campaign
+  taxonomy_refs:
+  - covenant
+  basis: A truce is said to have been broken by the Koreish-aligned attack on Mohammed’s
+    allies, after which negotiations fail and Mohammed prepares to march on Mecca.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage uses political treaty language rather than explicitly theological
+    covenant language.
+- id: motif:3
+  label: Warrior as divine weapon
+  taxonomy_refs: []
+  basis: After victory, Khled Ebn al Wald receives the title “One of the Swords of
+    GOD.”
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is an honorific title in a historical narrative; no available taxonomy
+    symbol for sword is supplied.
+- id: motif:4
+  label: Vengeance for slain envoy
+  taxonomy_refs: []
+  basis: Mohammed sends troops against Grecian forces to avenge the death of one of
+    his ambassadors.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No specific supplied taxonomy family directly matches this motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3070-3073
+  quote_or_summary: Mokawkas, governor of Egypt, gives the messenger a favorable reception
+    and sends valuable presents to Mohammed, including two girls, one named Mary.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 3073-3082
+  quote_or_summary: Mohammed sends letters to Arab princes; al Hareth’s answer prompts
+    Mohammed to say his kingdom should perish; Hawdha sends a rough answer and dies
+    soon after Mohammed curses him; al Mondar embraces Mohammedism and his Arabs follow.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 3083-3087
+  quote_or_summary: The eighth year of the Hejra is described as fortunate; Khled
+    Ebn al Wald and Amru Ebn al As become proselytes of Mohammedism.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 3087-3097
+  quote_or_summary: Mohammed sends 3,000 men against Grecian forces to avenge a slain
+    ambassador; the Grecians are described as vastly superior, and the Mohammedans
+    are first repulsed and lose three generals.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 3097-3102
+  quote_or_summary: Khled Ebn al Wald succeeds to command, overthrows the Greeks,
+    takes rich spoil, and receives the title “One of the Swords of GOD.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; includes brief title quotation from public domain
+    passage.
+- id: ev:6
+  type: summary
+  locator: lines 3103-3114
+  quote_or_summary: The inhabitants of Mecca are said to have broken a two-year truce
+    when Becr, confederates of the Koreish, attacked Khozah, allies of Mohammed; Abu
+    Sofin goes to Medina to heal the breach and renew the truce, but Mohammed refuses
+    to see him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 3115-3117
+  quote_or_summary: Mohammed orders preparations to surprise the Meccans while unprepared
+    and begins his march toward Mecca.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a historical section from Sale’s preliminary discourse, not
+    a mythic narrative. Literal extraction is straightforward; motif assignment is
+    limited to cautious high-level patterns supported by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a comparison to another corpus or tradition beyond candidate motif-family tagging.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l3070-l3120
+  passage_sha256=de17c9e3f7b55b5e6775c63aeff5110f497e307fd36242837bdcbd0b943fd78e

@@ -1,0 +1,582 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l4693-l4744
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 4693-4744
+  start: '4693'
+  end: '4744'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a post-punishment deliverance of some believers
+    from hell: they are identifiable by marks of prostration untouched by fire, restored
+    to life through divine mercy and intercession, and washed in the river of life
+    in paradise. It then compares details about hell with Jewish and Magian teachings,
+    including seven hellish divisions, angelic supervision, proportional punishments,
+    intercession or eventual release, and torments by heat, cold, filth, serpents,
+    beasts, devils, hunger, and thirst. It closes by introducing a wall or partition
+    between paradise and hell.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some believers are said to be detained in a place of punishment for a long
+    period before being delivered.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The delivered believers are distinguished by marks of prostration on body
+    parts used in prayer, which the fire has no power over.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The believers are relieved by the mercy of God and by the intercession of
+    Mohammed and the blessed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Some who had been dead are restored to life; others stained by hell’s flames
+    and smoke are immersed in the river of life in paradise and washed white.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The passage states that Jewish and Magian traditions agree in making seven
+    distinct apartments in hell.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage reports a Jewish belief in an angel guarding each infernal apartment
+    and interceding for the imprisoned condemned.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage reports Jewish teachings that the wicked suffer diverse punishments,
+    including intolerable cold as well as heat, and that their faces become black.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage reports a Jewish belief that members of their own religion may
+    be punished after death but later delivered when purged, by Abraham or prophetic
+    intercession.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage reports a Magian belief in one presiding angel over all seven
+    hells, named Vannd Yezd, who assigns proportionate punishments and restrains the
+    devil’s excessive cruelty.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage reports Magian torments including extreme cold, intolerable stink,
+    serpents and wild beasts biting or stinging, devils cutting and tearing flesh,
+    hunger, and thirst, while excluding fire as a punishment.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The passage introduces a wall or partition imagined between paradise and hell.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: detained believers
+  description: Believers detained in punishment and later delivered.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: God
+  description: Divine agent whose mercy relieves the detained believers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mohammed
+  description: Intercessor named in the deliverance of the detained believers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the blessed
+  description: Additional intercessors named with Mohammed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: the wicked / damned
+  description: Persons punished in the next life in the Jewish and Magian descriptions
+    summarized by the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Jewish angel guards
+  description: Angels placed as guards over infernal apartments in the Jewish account
+    summarized by the passage.
+  role_refs:
+  - role:6
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Abraham
+  description: Figure by whom, or through whose intercession, punished members of
+    the Jewish religion may be delivered.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: prophets
+  description: Possible intercessors for the punished in the Jewish account summarized
+    by the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Vannd Yezd
+  description: Magian angel said to preside over all seven hells, assign punishments,
+    and restrain the devil.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: devil
+  description: Being whose excessive cruelty toward the damned is restrained in the
+    Magian account.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: devils
+  description: Tormenting beings that cut and tear the flesh in the Magian list of
+    punishments.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:12
+  name_or_label: serpents and wild beasts
+  description: Creatures that sting and bite in the Magian list of punishments.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: posthumous penitential sufferers
+  assigned_to:
+  - fig:1
+  basis: They are detained in a place of punishment before being delivered.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: restored and purified persons
+  assigned_to:
+  - fig:1
+  basis: They are restored to life or washed clean in the river of life.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: merciful divine deliverer
+  assigned_to:
+  - fig:2
+  basis: Their relief is attributed to the mercy of God.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: intercessor
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: The passage names these figures or beings as interceding, or potentially
+    interceding, for punished persons.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:5
+  label: condemned punished persons
+  assigned_to:
+  - fig:5
+  basis: The wicked or damned are described as undergoing punishments in the next
+    life.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: infernal guardian or presiding angel
+  assigned_to:
+  - fig:6
+  - fig:9
+  basis: The passage describes angels guarding infernal apartments or presiding over
+    the seven hells.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: proportional judge of punishments
+  assigned_to:
+  - fig:9
+  basis: Vannd Yezd assigns punishments proportionate to each person’s crimes.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: tormentor
+  assigned_to:
+  - fig:10
+  - fig:11
+  - fig:12
+  basis: The devil, devils, serpents, and wild beasts are associated with tormenting
+    the damned in the Magian account.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire immune prayer marks
+  literal_form: marks of prostration untouched by fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: river of life
+  literal_form: river in paradise in which the soot-stained are immersed and washed
+    white
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: seven apartments of hell
+  literal_form: seven distinct infernal apartments or seven hells
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: blackened faces
+  literal_form: faces of the punished becoming black
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: cold and heat as punishments
+  literal_form: intolerable cold and heat among punishments
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: serpents as tormentors
+  literal_form: stinging and biting of serpents
+  associated_figures:
+  - fig:5
+  - fig:12
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: partition between paradise and hell
+  literal_form: wall or partition between paradise and hell
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Deliverance and purification from punishment
+  summary: Believers detained in punishment are identified by prayer marks untouched
+    by fire, relieved through divine mercy and intercession, restored to life if dead,
+    and cleansed in the river of life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Comparative sevenfold hells
+  summary: The passage compares Islamic descriptions of hell with Jewish and Magian
+    traditions that also describe seven hellish divisions or apartments.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:9
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Jewish infernal punishment and intercession
+  summary: The passage summarizes Jewish teachings about angelic guards over infernal
+    apartments, varied punishments by cold and heat, blackened faces, and eventual
+    delivery through Abraham or prophetic intercession for some punished persons.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Magian infernal punishment and restraint of the devil
+  summary: The passage summarizes Magian teachings about Vannd Yezd presiding over
+    seven hells, assigning proportional punishments, restraining the devil, and punishing
+    the wicked through cold, stink, serpents, beasts, devils, hunger, and thirst rather
+    than fire.
+  figure_refs:
+  - fig:5
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Boundary between paradise and hell introduced
+  summary: The passage begins to describe a wall or partition imagined between paradise
+    and hell.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: posthumous purification and release from punishment
+  taxonomy_refs:
+  - divine_judgment
+  - resurrection
+  basis: The passage describes punished believers later relieved by divine mercy and
+    intercession, restored to life, and washed clean in the river of life.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is drawn from Sale’s commentary in the passage, not from a quoted
+    Qur'anic verse in the provided excerpt.
+- id: motif:2
+  label: intercession for the condemned
+  taxonomy_refs:
+  - divine_judgment
+  basis: Mohammed and the blessed intercede for detained believers; the Jewish comparison
+    also mentions angelic, Abrahamic, or prophetic intercession for punished persons.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage presents these as reported traditions and comparisons.
+- id: motif:3
+  label: sevenfold underworld or hell
+  taxonomy_refs:
+  - afterlife_journey_map
+  - divine_judgment
+  basis: The passage states that Jewish and Magian traditions agree in making seven
+    distinct apartments or hells, with angelic supervision described in both cases.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The excerpt does not fully describe the structure of each of the seven
+    divisions.
+- id: motif:4
+  label: purifying water in the afterlife
+  taxonomy_refs:
+  - resurrection
+  basis: The river of life in paradise washes soot or filth from those affected by
+    hell’s flames and smoke.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only one river is named; the passage does not elaborate a broader water-ritual
+    system.
+- id: motif:5
+  label: infernal punishments by elemental and animal torments
+  taxonomy_refs:
+  - divine_judgment
+  - serpent
+  basis: The passage lists punishments by heat, cold, stink, serpents, beasts, devils,
+    hunger, and thirst in the compared traditions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The Magian description explicitly excludes fire, so fire should not be
+    generalized across all traditions summarized here.
+- id: motif:6
+  label: boundary separating paradise and hell
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage introduces a wall or partition imagined between paradise and
+    hell.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The provided excerpt ends before the boundary is fully described.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly states that many circumstances about hell and the
+    damned in the described Mohammedan account were probably indebted to Jewish and
+    partly Magian traditions.
+  claim_level: historical_contact
+  target: Jewish and Magian traditions concerning hell
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is Sale’s comparative assertion within the passage; the excerpt
+    does not provide independent historical evidence beyond the cited commentary.
+- id: claim:2
+  claim: The passage presents Jewish and Magian traditions as sharing the pattern
+    of seven hellish divisions with the described account.
+  claim_level: same_motif
+  target: seven distinct apartments or seven hells
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage says the traditions agree on seven divisions but also notes
+    that they vary in other particulars.
+- id: claim:3
+  claim: The passage presents Jewish angelic guards and Magian Vannd Yezd as functionally
+    similar angelic supervisors of infernal punishment.
+  claim_level: same_function
+  target: angelic supervision of hell
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: 'The functions are not identical: the Jewish account has one guard
+    over each apartment, while the Magian account has one angel presiding over all
+    seven hells.'
+- id: claim:4
+  claim: The passage compares traditions in which punished members of a religious
+    community may later be delivered through intercession or purgation.
+  claim_level: same_motif
+  target: temporary posthumous punishment followed by deliverance
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Islamic and Jewish cases are described separately and not with
+    identical details or time spans.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4693-4708
+  quote_or_summary: Believers are detained in punishment for a long time, distinguished
+    by prostration marks untouched by fire, relieved by God’s mercy and intercession,
+    restored to life if dead, and washed in the river of life in paradise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4709-4714
+  quote_or_summary: The passage states that Mohammed was probably indebted to Jews
+    and partly to Magians for circumstances concerning hell and the damned, and that
+    both traditions make seven distinct apartments in hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4714-4724
+  quote_or_summary: The Jewish account summarized here places an angel over each infernal
+    apartment, includes angelic intercession, diverse punishments by cold and heat,
+    blackened faces, and eventual delivery for some through Abraham or prophets after
+    purgation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4724-4737
+  quote_or_summary: The Magian account summarized here names Vannd Yezd as presiding
+    over all seven hells, assigning proportional punishments and restraining the devil;
+    torments include cold, stink, serpents, beasts, devils, hunger, and thirst, with
+    fire excluded.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4738-4744
+  quote_or_summary: The passage introduces a wall or partition imagined between paradise
+    and hell, before the excerpt breaks off.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a translated/commentarial English excerpt and includes explicit
+    comparative claims by the translator/commentator. Motif extraction is strongest
+    for the afterlife, judgment, intercession, sevenfold hell, and purification elements.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were limited to supplied motif families and symbols.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l4693-l4744
+  passage_sha256=1f30e2cdc6b6eaab5a2da7246d1aa4d25a7e697ffe770cf23d448b7b6adf9aec

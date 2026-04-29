@@ -8,10 +8,10 @@
 - Canonical texts checked: 58
 - Texts with extraction records: 58
 - Texts without extraction records: 0
-- Texts needing full extraction: 23
+- Texts needing full extraction: 22
 - Texts needing review or normalization: 58
-- Extraction records counted: 4514
-- Candidate motifs counted: 21371
+- Extraction records counted: 4714
+- Candidate motifs counted: 22360
 
 ## Status Logic
 
@@ -41,6 +41,7 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 511 | 507 | 2467 | hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) |
 | `dense_draft` | 246 | 246 | 664 | greek | [Aesop's Fables; a new translation](../texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md) |
 | `dense_draft` | 228 | 228 | 974 | greek | [The Republic](../texts/public-domain/greek/project-gutenberg/republic-jowett.md) |
+| `dense_draft` | 226 | 224 | 1070 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | `dense_draft` | 212 | 210 | 1127 | greek | [The Iliad](../texts/public-domain/greek/project-gutenberg/iliad-pope.md) |
 | `dense_draft` | 200 | 198 | 1040 | celtic_irish | [Gods and Fighting Men](../texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md) |
 | `dense_draft` | 198 | 198 | 1041 | greek_roman | [Myths and Legends of Ancient Greece and Rome](../texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md) |
@@ -71,7 +72,6 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 34 | 34 | 122 | buddhist | [The Giant Crab, and Other Tales from Old India](../texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md) |
 | `dense_draft` | 26 | 26 | 150 | ainu | [Aino Folk-Tales](../texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md) |
 | `dense_draft` | 26 | 26 | 79 | buddhist | [Jataka tales](../texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md) |
-| `developing` | 26 | 24 | 81 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | `dense_draft` | 24 | 24 | 78 | buddhist | [More Jataka Tales](../texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md) |
 | `developing` | 23 | 21 | 34 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) |
 | `developing` | 13 | 11 | 28 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) |
@@ -142,7 +142,6 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | medium | `developing` | 2 | 4 | 2 | egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) |
 | medium | `developing` | 2 | 6 | 2 | hindu | [The Song Celestial; Or, Bhagavad-Gita](../texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md) |
 | medium | `developing` | 2 | 5 | 2 | hindu | [The Upanishads](../texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md) |
-| medium | `developing` | 26 | 40 | 26 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | medium | `developing` | 5 | 8 | 5 | jewish_christian | [Deuteronomy](../texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md) |
 | medium | `developing` | 5 | 9 | 5 | jewish_christian | [Exodus](../texts/public-domain/biblical/world-english-bible-classic/exodus.md) |
 | medium | `developing` | 5 | 10 | 5 | jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) |
@@ -176,6 +175,7 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | medium | `dense draft` | 61 | 13 | 61 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) |
 | medium | `dense draft` | 511 | 40 | 511 | hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) |
 | medium | `dense draft` | 37 | 9 | 37 | indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) |
+| medium | `dense draft` | 226 | 40 | 226 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-sale.md) |
 | medium | `dense draft` | 72 | 18 | 72 | japanese | [Japanese Fairy Tales](../texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md) |
 | medium | `dense draft` | 117 | 26 | 117 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
 | medium | `dense draft` | 80 | 11 | 80 | persian | [The Persian Literature, Volume 2, The Gulistan](../texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md) |

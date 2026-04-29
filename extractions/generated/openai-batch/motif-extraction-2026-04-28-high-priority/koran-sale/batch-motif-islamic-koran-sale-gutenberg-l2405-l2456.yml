@@ -1,0 +1,467 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l2405-l2456
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: THE KORAN. / PRELIMINARY DISCOURSE / SECTION I. / SECTION II.; lines 2405-2456
+  start: '2405'
+  end: '2456'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes late Persian dynastic instability, Persian losses
+    to Greeks and then to Arabs united by Mohammedism, Arabia's strength and tribal
+    conditions at Mohammed's rise, Mohammed's knowledge of political and religious
+    circumstances through trade travel, and the beginning of an account of his birth
+    and lineage.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Khosr Parviz recovered the crown with aid from the Greek emperor Maurice after
+    losing the throne to Bahram Chuban.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Khosr Parviz later became hateful to his subjects, was deposed, imprisoned,
+    and slain by his son Shiryeh.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After Parviz, six princes are said to have held the Persian throne in less
+    than six years.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that Persian domestic broils helped bring ruin on the Persians,
+    who lost conquests to Heraclius and were later subdued by Arabs united by Mohammedism.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Arabia at Mohammed's rise is described as strong, flourishing, populous, austere,
+    and relatively free from Greek and Persian luxury.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The division and independence of Arab tribes are described as favorable to
+    Mohammed's first propagation of religion and foundation of power.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After the Arabs embraced Mohammed's religion, their tribal union is described
+    as necessary and conducive to later conquests and grandeur.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Mohammed is said to have likely known eastern religious and political affairs
+    through opportunities gained in youthful merchant travels.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Mohammed is described as a man of extraordinary parts and address who could
+    turn incidents to his advantage.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Mohammed is introduced as born under disadvantages that he soon surmounted;
+    his father Abd'allah was a younger son of Abd'almotalleb and died young.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Khosr Parviz
+  description: Persian ruler who recovered the crown, later became tyrannical, was
+    deposed, imprisoned, and slain.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bahram Chuban
+  description: Figure whose instigation is linked to rebellion against Khosr Parviz
+    and who held the throne before Parviz recovered it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Greek emperor Maurice
+  description: Emperor whose succours enabled Khosr Parviz to recover the crown.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Shiryeh
+  description: Son of Khosr Parviz who is said to have slain him after deposition
+    and imprisonment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Heraclius
+  description: Greek leader under whom the Persians were attacked and lost new conquests
+    and part of their own dominions.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Arabs / Arabians
+  description: Collective people described as divided and independent before Mohammedism,
+    then united by Mohammedism and victorious over the Persians.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Mohammed
+  description: Religious and political founder figure in the passage; his rise is
+    connected to Arabian tribal conditions, knowledge from travels, and personal ability.
+  role_refs:
+  - role:9
+  - role:10
+  - role:11
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Abd'allah
+  description: Mohammed's father, described as a younger son of Abd'almotalleb who
+    died young.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Abd'almotalleb
+  description: Mohammed's grandfather through Abd'allah.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: restored ruler
+  assigned_to:
+  - fig:1
+  basis: He recovered the crown after obtaining aid from Maurice.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deposed and slain ruler
+  assigned_to:
+  - fig:1
+  basis: He was later deposed, imprisoned, and slain by his son.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: rebel or throne-holder
+  assigned_to:
+  - fig:2
+  basis: The passage links him to rebellion and says Parviz had to quit the throne
+    to him.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: imperial ally
+  assigned_to:
+  - fig:3
+  basis: His succours helped Parviz recover the crown.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: son who kills father-ruler
+  assigned_to:
+  - fig:4
+  basis: He is named as the son by whom Parviz was slain.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: victorious opposing commander
+  assigned_to:
+  - fig:5
+  basis: Under Heraclius the Greeks attacked the Persians and reversed their conquests.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: divided tribes
+  assigned_to:
+  - fig:6
+  basis: Before embracing Mohammed's religion, the Arabs are described as divided
+    and independent.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: united conquerors
+  assigned_to:
+  - fig:6
+  basis: After being united by Mohammedism, they defeated and subdued the Persians.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:9
+  label: religious founder and political organizer
+  assigned_to:
+  - fig:7
+  basis: The passage connects his religion with tribal union, power, and later conquests.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: knowledgeable strategist
+  assigned_to:
+  - fig:7
+  basis: He is said to have known public affairs and to have turned incidents to his
+    advantage.
+  evidence_refs:
+  - ev:5
+- id: role:11
+  label: disadvantaged child who rises
+  assigned_to:
+  - fig:7
+  basis: He is described as born under disadvantages that he soon surmounted.
+  evidence_refs:
+  - ev:6
+- id: role:12
+  label: father of founder
+  assigned_to:
+  - fig:8
+  basis: Abd'allah is identified as Mohammed's father.
+  evidence_refs:
+  - ev:6
+- id: role:13
+  label: grandfather in lineage
+  assigned_to:
+  - fig:9
+  basis: Abd'almotalleb is identified as father of Abd'allah and thus in Mohammed's
+    paternal lineage.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: crown
+  literal_form: crown
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: throne
+  literal_form: throne
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: tribal union
+  literal_form: union of tribes
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: merchant travels
+  literal_form: travels as a merchant
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Persian dynastic reversals
+  summary: Khosr Parviz loses and recovers the throne, later becomes hated, and is
+    killed after deposition by his son.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Imperial decline and Arab victory
+  summary: Persian internal conflict is described as producing ruin; the Persians
+    lose conquests to the Greeks and are then subdued by Arabs united by Mohammedism.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Arabian conditions at Mohammed's rise
+  summary: Arabia is presented as populous, hardy, and politically divided, with tribal
+    independence first assisting Mohammed's rise and later tribal union assisting
+    conquest.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Mohammed's knowledge and strategic ability
+  summary: Mohammed is said to understand eastern public affairs through merchant
+    travels and to turn circumstances to his advantage.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Beginning of Mohammed's lineage account
+  summary: The passage begins an account of Mohammed's birth disadvantages and paternal
+    lineage through Abd'allah and Abd'almotalleb.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: contested kingship and dynastic collapse
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage repeatedly uses crown and throne language in a sequence of rebellion,
+    restoration, deposition, patricidal succession, and rapid turnover of rulers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is presented as historical-political narrative, not as a mythic kingship
+    tale.
+- id: motif:2
+  label: fragmented tribes unified by a religious founder
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage describes Mohammed's religion as first benefiting from tribal
+    independence and then producing union that enabled conquest and grandeur.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy fit is functional rather than explicit; the passage is polemical
+    historical prose and does not call Mohammed a culture hero.
+- id: motif:3
+  label: disadvantaged birth followed by rise
+  taxonomy_refs: []
+  basis: Mohammed is said to have come into the world under disadvantages that he
+    soon surmounted, followed by discussion of paternal lineage and early loss of
+    his father.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage only begins the biographical account; details of the rise
+    are not developed in this line range.
+- id: motif:4
+  label: strategic wisdom gained through travel
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that Mohammed likely learned public affairs through travels
+    as a merchant and knew how to turn incidents to advantage.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The motif is inferred from characterization of knowledge and strategy;
+    no explicit wisdom symbol appears.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2405-2412
+  quote_or_summary: Khosr Parviz is described as losing and recovering the throne
+    through Maurice's aid, later becoming tyrannical, and finally being deposed, imprisoned,
+    and slain by his son Shiryeh.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2412-2419
+  quote_or_summary: After Parviz, six princes hold the throne in under six years;
+    Persian domestic broils bring ruin, Greeks under Heraclius reverse Persian gains,
+    and Arabs united by Mohammedism subdue them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2420-2428
+  quote_or_summary: Arabia at Mohammed's setting up is described as strong, flourishing,
+    a refuge from sectarian violence, populous, hardy, parsimonious, abstaining from
+    wine, and sitting on the ground.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2428-2435
+  quote_or_summary: Arab tribal division and independence are said to favor Mohammed's
+    first propagation of religion and foundation of power; after conversion, tribal
+    union favors later conquests and grandeur.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2436-2445
+  quote_or_summary: Mohammed is said likely to know the eastern religious and political
+    situation from youthful merchant travels and is characterized as able to turn
+    incidents to his own advantage.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2446-2456
+  quote_or_summary: Mohammed is said to have been born under disadvantages; his father
+    Abd'allah, a younger son of Abd'almotalleb, died young, with a footnote discussing
+    Abd'allah's birth order.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal historical details are clear in the supplied passage. Motif assignments
+    are cautious because the passage is an eighteenth-century preliminary historical
+    discourse rather than a mythic narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison with another text or tradition beyond general political and biographical patterns.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l2405-l2456
+  passage_sha256=7b4719939750ea682dcd72d2aaa56d7a7b8d53049010ef2ce24021a4e14f369a

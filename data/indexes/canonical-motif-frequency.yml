@@ -4,11 +4,11 @@ source: data/indexes/motif-occurrences.yml
 normalization_source: taxonomy/motif-normalization.yml
 method: Counts distinct traditions for indexed motif IDs that map to canonical_motif_groups
   through raw_motif_group_index, group children/aliases, or normalization aliases.
-indexed_motif_count: 7545
-indexed_occurrence_count: 24475
+indexed_motif_count: 7921
+indexed_occurrence_count: 25564
 canonical_motif_group_count: 53
 mapped_motif_count: 300
-unmapped_motif_count: 7245
+unmapped_motif_count: 7621
 canonical_motifs:
 - canonical_motif_id: death_and_transformation
   label: Death, Rebirth, and Transformation
@@ -34,7 +34,7 @@ canonical_motifs:
     greek_roman: 28
     hindu: 50
     indigenous_australian: 10
-    islamic: 1
+    islamic: 78
     japanese: 3
     jewish_christian: 1
     maya_quiche: 1
@@ -47,8 +47,8 @@ canonical_motifs:
   - motif_id: death_rebirth
     label: Death And Rebirth
     relationship: alias
-    occurrence_count: 591
-    tradition_count: 20
+    occurrence_count: 602
+    tradition_count: 21
     traditions:
       ainu: 4
       buddhist: 41
@@ -62,6 +62,7 @@ canonical_motifs:
       greek_roman: 19
       hindu: 38
       indigenous_australian: 5
+      islamic: 11
       japanese: 2
       jewish_christian: 1
       maya_quiche: 1
@@ -73,7 +74,7 @@ canonical_motifs:
   - motif_id: resurrection
     label: Resurrection
     relationship: child
-    occurrence_count: 178
+    occurrence_count: 244
     tradition_count: 17
     traditions:
       ainu: 1
@@ -87,7 +88,7 @@ canonical_motifs:
       greek_roman: 5
       hindu: 12
       indigenous_australian: 5
-      islamic: 1
+      islamic: 67
       japanese: 1
       norse: 10
       persian: 1
@@ -211,8 +212,91 @@ canonical_motifs:
     traditions:
       celtic_irish: 1
   tradition_count: 21
-  occurrence_count: 854
+  occurrence_count: 931
   mapped_motif_count: 18
+- canonical_motif_id: initiation
+  label: Initiation and Transformative Ordeal
+  description: The passage from one state of being to another through ordeal, instruction,
+    or encounter. Includes rites of passage, tests, encounters with death as teacher,
+    and the crossing of thresholds that permanently change the initiate.
+  related:
+  - descent
+  - sacred_knowledge
+  - threshold_guardian
+  - mystical_quest
+  is_meta_group: false
+  traditions:
+    buddhist: 30
+    celtic_irish: 48
+    celtic_welsh: 50
+    comparative: 63
+    confucian: 1
+    daoist: 12
+    egyptian: 1
+    finnish_karelian: 19
+    greek: 103
+    greek_roman: 29
+    hindu: 71
+    indigenous_australian: 9
+    islamic: 10
+    japanese: 10
+    jewish_christian: 1
+    maya_quiche: 1
+    mesopotamian: 1
+    norse: 15
+    persian: 3
+    roman: 26
+    sufi: 25
+  mapped_motifs:
+  - motif_id: initiation
+    label: Initiation
+    relationship: canonical_group
+    occurrence_count: 507
+    tradition_count: 21
+    traditions:
+      buddhist: 30
+      celtic_irish: 47
+      celtic_welsh: 49
+      comparative: 63
+      confucian: 1
+      daoist: 12
+      egyptian: 1
+      finnish_karelian: 19
+      greek: 102
+      greek_roman: 27
+      hindu: 64
+      indigenous_australian: 9
+      islamic: 10
+      japanese: 10
+      jewish_christian: 1
+      maya_quiche: 1
+      mesopotamian: 1
+      norse: 13
+      persian: 3
+      roman: 19
+      sufi: 25
+  - motif_id: labyrinth_initiation
+    label: Labyrinth Initiation
+    relationship: taxonomy_motif_family
+    occurrence_count: 20
+    tradition_count: 6
+    traditions:
+      celtic_welsh: 1
+      greek: 1
+      greek_roman: 2
+      hindu: 7
+      norse: 2
+      roman: 7
+  - motif_id: heroic_childhood_signs
+    label: heroic childhood signs
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  tradition_count: 21
+  occurrence_count: 528
+  mapped_motif_count: 3
 - canonical_motif_id: sacred_knowledge
   label: Sacred Knowledge and Wisdom
   description: The acquisition, transmission, protection, or concealment of sacred
@@ -238,7 +322,7 @@ canonical_motifs:
     greek_roman: 59
     hindu: 136
     indigenous_australian: 12
-    islamic: 13
+    islamic: 113
     japanese: 22
     jewish_christian: 8
     mesopotamian: 4
@@ -250,7 +334,7 @@ canonical_motifs:
   - motif_id: wisdom
     label: Wisdom
     relationship: child
-    occurrence_count: 2761
+    occurrence_count: 2851
     tradition_count: 20
     traditions:
       ainu: 11
@@ -265,7 +349,7 @@ canonical_motifs:
       greek_roman: 43
       hindu: 120
       indigenous_australian: 3
-      islamic: 11
+      islamic: 101
       japanese: 17
       jewish_christian: 8
       mesopotamian: 4
@@ -273,10 +357,32 @@ canonical_motifs:
       persian: 241
       roman: 77
       sufi: 370
+  - motif_id: forbidden_knowledge
+    label: Forbidden Knowledge
+    relationship: child
+    occurrence_count: 97
+    tradition_count: 16
+    traditions:
+      ainu: 2
+      buddhist: 1
+      celtic_irish: 3
+      celtic_welsh: 5
+      comparative: 2
+      daoist: 2
+      finnish_karelian: 2
+      greek: 16
+      greek_roman: 5
+      hindu: 3
+      indigenous_australian: 5
+      islamic: 9
+      japanese: 5
+      norse: 4
+      roman: 14
+      sufi: 19
   - motif_id: sacred_theft
     label: Sacred Theft
     relationship: child
-    occurrence_count: 150
+    occurrence_count: 151
     tradition_count: 15
     traditions:
       ainu: 3
@@ -290,31 +396,10 @@ canonical_motifs:
       greek_roman: 11
       hindu: 13
       indigenous_australian: 4
-      islamic: 1
+      islamic: 2
       norse: 21
       roman: 22
       sufi: 4
-  - motif_id: forbidden_knowledge
-    label: Forbidden Knowledge
-    relationship: child
-    occurrence_count: 88
-    tradition_count: 15
-    traditions:
-      ainu: 2
-      buddhist: 1
-      celtic_irish: 3
-      celtic_welsh: 5
-      comparative: 2
-      daoist: 2
-      finnish_karelian: 2
-      greek: 16
-      greek_roman: 5
-      hindu: 3
-      indigenous_australian: 5
-      japanese: 5
-      norse: 4
-      roman: 14
-      sufi: 19
   - motif_id: ancestral_inheritance_overcome_by_conscious_action
     label: ancestral inheritance overcome by conscious action
     relationship: thematic_variant
@@ -358,7 +443,7 @@ canonical_motifs:
     traditions:
       islamic: 1
   tradition_count: 20
-  occurrence_count: 3005
+  occurrence_count: 3105
   mapped_motif_count: 9
 - canonical_motif_id: divine_judgment
   label: Divine Judgment and Moral Reckoning
@@ -384,7 +469,7 @@ canonical_motifs:
     greek_roman: 83
     hindu: 105
     indigenous_australian: 2
-    islamic: 10
+    islamic: 223
     japanese: 4
     jewish_christian: 7
     maya_quiche: 2
@@ -396,7 +481,7 @@ canonical_motifs:
   - motif_id: divine_judgment
     label: Divine Judgment
     relationship: canonical_group
-    occurrence_count: 864
+    occurrence_count: 1077
     tradition_count: 20
     traditions:
       ainu: 12
@@ -411,7 +496,7 @@ canonical_motifs:
       greek_roman: 82
       hindu: 105
       indigenous_australian: 2
-      islamic: 10
+      islamic: 223
       japanese: 4
       jewish_christian: 4
       maya_quiche: 2
@@ -483,89 +568,8 @@ canonical_motifs:
     traditions:
       jewish_christian: 1
   tradition_count: 20
-  occurrence_count: 873
+  occurrence_count: 1086
   mapped_motif_count: 10
-- canonical_motif_id: initiation
-  label: Initiation and Transformative Ordeal
-  description: The passage from one state of being to another through ordeal, instruction,
-    or encounter. Includes rites of passage, tests, encounters with death as teacher,
-    and the crossing of thresholds that permanently change the initiate.
-  related:
-  - descent
-  - sacred_knowledge
-  - threshold_guardian
-  - mystical_quest
-  is_meta_group: false
-  traditions:
-    buddhist: 30
-    celtic_irish: 48
-    celtic_welsh: 50
-    comparative: 63
-    confucian: 1
-    daoist: 12
-    egyptian: 1
-    finnish_karelian: 19
-    greek: 103
-    greek_roman: 29
-    hindu: 71
-    indigenous_australian: 9
-    japanese: 10
-    jewish_christian: 1
-    maya_quiche: 1
-    mesopotamian: 1
-    norse: 15
-    persian: 3
-    roman: 26
-    sufi: 25
-  mapped_motifs:
-  - motif_id: initiation
-    label: Initiation
-    relationship: canonical_group
-    occurrence_count: 497
-    tradition_count: 20
-    traditions:
-      buddhist: 30
-      celtic_irish: 47
-      celtic_welsh: 49
-      comparative: 63
-      confucian: 1
-      daoist: 12
-      egyptian: 1
-      finnish_karelian: 19
-      greek: 102
-      greek_roman: 27
-      hindu: 64
-      indigenous_australian: 9
-      japanese: 10
-      jewish_christian: 1
-      maya_quiche: 1
-      mesopotamian: 1
-      norse: 13
-      persian: 3
-      roman: 19
-      sufi: 25
-  - motif_id: labyrinth_initiation
-    label: Labyrinth Initiation
-    relationship: taxonomy_motif_family
-    occurrence_count: 20
-    tradition_count: 6
-    traditions:
-      celtic_welsh: 1
-      greek: 1
-      greek_roman: 2
-      hindu: 7
-      norse: 2
-      roman: 7
-  - motif_id: heroic_childhood_signs
-    label: heroic childhood signs
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  tradition_count: 20
-  occurrence_count: 518
-  mapped_motif_count: 3
 - canonical_motif_id: ascent
   label: Ascent and Heavenly Journey
   description: 'The upward journey toward the divine # climbing the mountain, ascending
@@ -589,7 +593,7 @@ canonical_motifs:
     greek_roman: 15
     hindu: 59
     indigenous_australian: 5
-    islamic: 2
+    islamic: 14
     japanese: 7
     jewish_christian: 4
     norse: 8
@@ -600,7 +604,7 @@ canonical_motifs:
   - motif_id: ascent
     label: Ascent
     relationship: canonical_group
-    occurrence_count: 342
+    occurrence_count: 354
     tradition_count: 19
     traditions:
       ainu: 4
@@ -615,7 +619,7 @@ canonical_motifs:
       greek_roman: 15
       hindu: 58
       indigenous_australian: 5
-      islamic: 2
+      islamic: 14
       japanese: 7
       jewish_christian: 3
       norse: 8
@@ -637,8 +641,110 @@ canonical_motifs:
     traditions:
       hindu: 1
   tradition_count: 19
-  occurrence_count: 344
+  occurrence_count: 356
   mapped_motif_count: 3
+- canonical_motif_id: hero_journey
+  label: The Hero's Journey
+  description: The narrative arc of departure, trial, transformation, and return.
+    Includes the call to adventure, threshold crossing, the abyss, the boon, and the
+    return with knowledge or power.
+  related:
+  - initiation
+  - descent
+  - threshold_guardian
+  - mystical_quest
+  is_meta_group: false
+  traditions:
+    ainu: 3
+    buddhist: 62
+    celtic_irish: 169
+    celtic_welsh: 56
+    comparative: 22
+    daoist: 15
+    finnish_karelian: 98
+    greek: 305
+    greek_roman: 62
+    hindu: 286
+    indigenous_australian: 4
+    islamic: 35
+    japanese: 35
+    jewish_christian: 2
+    norse: 45
+    persian: 20
+    roman: 114
+    sufi: 62
+  mapped_motifs:
+  - motif_id: departure
+    label: Departure
+    relationship: child
+    occurrence_count: 812
+    tradition_count: 18
+    traditions:
+      ainu: 2
+      buddhist: 46
+      celtic_irish: 110
+      celtic_welsh: 33
+      comparative: 11
+      daoist: 11
+      finnish_karelian: 60
+      greek: 99
+      greek_roman: 31
+      hindu: 202
+      indigenous_australian: 3
+      islamic: 24
+      japanese: 19
+      jewish_christian: 1
+      norse: 26
+      persian: 13
+      roman: 82
+      sufi: 39
+  - motif_id: return
+    label: Return
+    relationship: child
+    occurrence_count: 580
+    tradition_count: 17
+    traditions:
+      ainu: 1
+      buddhist: 15
+      celtic_irish: 59
+      celtic_welsh: 23
+      comparative: 11
+      daoist: 4
+      finnish_karelian: 38
+      greek: 205
+      greek_roman: 31
+      hindu: 84
+      indigenous_australian: 1
+      islamic: 11
+      japanese: 16
+      norse: 19
+      persian: 7
+      roman: 32
+      sufi: 23
+  - motif_id: caravan_lost_in_deadly_desert_through_failed_navigation
+    label: Caravan lost in deadly desert through failed navigation
+    relationship: ordeal_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      buddhist: 1
+  - motif_id: divine_call
+    label: divine call
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      jewish_christian: 1
+  - motif_id: divine_helper_counsels_returning_hero
+    label: Divine helper counsels returning hero
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  tradition_count: 18
+  occurrence_count: 1395
+  mapped_motif_count: 5
 - canonical_motif_id: sacred_exchange
   label: Sacred Exchange and Reciprocity
   description: The principle of reciprocal giving between humans and the divine, or
@@ -660,7 +766,7 @@ canonical_motifs:
     greek_roman: 52
     hindu: 167
     indigenous_australian: 1
-    islamic: 1
+    islamic: 48
     japanese: 25
     jewish_christian: 5
     norse: 51
@@ -671,7 +777,7 @@ canonical_motifs:
   - motif_id: sacred_exchange
     label: Sacred Exchange
     relationship: canonical_group
-    occurrence_count: 1019
+    occurrence_count: 1066
     tradition_count: 18
     traditions:
       ainu: 11
@@ -685,7 +791,7 @@ canonical_motifs:
       greek_roman: 52
       hindu: 167
       indigenous_australian: 1
-      islamic: 1
+      islamic: 48
       japanese: 25
       jewish_christian: 4
       norse: 51
@@ -714,7 +820,7 @@ canonical_motifs:
     traditions:
       jewish_christian: 1
   tradition_count: 18
-  occurrence_count: 1022
+  occurrence_count: 1069
   mapped_motif_count: 4
 - canonical_motif_id: royal_legitimacy
   label: Royal Legitimacy and Sacred Kingship
@@ -738,7 +844,7 @@ canonical_motifs:
     greek_roman: 35
     hindu: 310
     indigenous_australian: 1
-    islamic: 6
+    islamic: 24
     japanese: 8
     jewish_christian: 1
     norse: 29
@@ -749,7 +855,7 @@ canonical_motifs:
   - motif_id: royal_legitimacy
     label: Royal Legitimacy
     relationship: canonical_group
-    occurrence_count: 839
+    occurrence_count: 857
     tradition_count: 18
     traditions:
       buddhist: 29
@@ -763,7 +869,7 @@ canonical_motifs:
       greek_roman: 35
       hindu: 310
       indigenous_australian: 1
-      islamic: 6
+      islamic: 24
       japanese: 8
       jewish_christian: 1
       norse: 29
@@ -792,7 +898,7 @@ canonical_motifs:
     traditions:
       confucian: 1
   tradition_count: 18
-  occurrence_count: 842
+  occurrence_count: 860
   mapped_motif_count: 4
 - canonical_motif_id: axis_mundi
   label: World Axis and Sacred Center
@@ -818,7 +924,7 @@ canonical_motifs:
     greek_roman: 21
     hindu: 63
     indigenous_australian: 2
-    islamic: 3
+    islamic: 16
     japanese: 5
     jewish_christian: 8
     norse: 41
@@ -829,8 +935,8 @@ canonical_motifs:
   - motif_id: sacred_tree_axis
     label: Sacred Tree Or Axis Mundi
     relationship: child
-    occurrence_count: 175
-    tradition_count: 16
+    occurrence_count: 178
+    tradition_count: 17
     traditions:
       ainu: 1
       buddhist: 20
@@ -842,6 +948,7 @@ canonical_motifs:
       greek_roman: 6
       hindu: 10
       indigenous_australian: 1
+      islamic: 3
       japanese: 3
       jewish_christian: 3
       norse: 20
@@ -851,7 +958,7 @@ canonical_motifs:
   - motif_id: world_center
     label: World Center
     relationship: child
-    occurrence_count: 97
+    occurrence_count: 106
     tradition_count: 15
     traditions:
       buddhist: 4
@@ -864,7 +971,7 @@ canonical_motifs:
       greek_roman: 6
       hindu: 15
       indigenous_australian: 1
-      islamic: 2
+      islamic: 11
       jewish_christian: 3
       norse: 15
       roman: 8
@@ -908,8 +1015,8 @@ canonical_motifs:
   - motif_id: mountain
     label: Underworld descent through mountain cave
     relationship: alias
-    occurrence_count: 27
-    tradition_count: 9
+    occurrence_count: 28
+    tradition_count: 10
     traditions:
       ainu: 2
       buddhist: 1
@@ -918,6 +1025,7 @@ canonical_motifs:
       greek: 5
       greek_roman: 2
       hindu: 9
+      islamic: 1
       norse: 2
       roman: 3
   - motif_id: ensouled_trees_and_vegetation_spirits
@@ -935,8 +1043,66 @@ canonical_motifs:
     traditions:
       jewish_christian: 1
   tradition_count: 18
-  occurrence_count: 390
+  occurrence_count: 403
   mapped_motif_count: 7
+- canonical_motif_id: serpent_guardian
+  label: Serpent and Serpent Guardian
+  description: The serpent as guardian of sacred knowledge, threshold between worlds,
+    or embodiment of danger-and-wisdom. Includes the serpent at the tree, the serpent
+    at the root of the world, and the serpent as both threat and teacher.
+  related:
+  - axis_mundi
+  - sacred_knowledge
+  - threshold_guardian
+  - forbidden_knowledge
+  is_meta_group: false
+  traditions:
+    ainu: 2
+    buddhist: 7
+    celtic_irish: 8
+    celtic_welsh: 8
+    comparative: 17
+    daoist: 1
+    finnish_karelian: 25
+    greek: 37
+    greek_roman: 30
+    hindu: 49
+    indigenous_australian: 3
+    islamic: 4
+    japanese: 4
+    jewish_christian: 2
+    norse: 28
+    persian: 2
+    roman: 80
+    sufi: 8
+  mapped_motifs:
+  - motif_id: serpent
+    label: Serpent
+    relationship: alias
+    occurrence_count: 315
+    tradition_count: 18
+    traditions:
+      ainu: 2
+      buddhist: 7
+      celtic_irish: 8
+      celtic_welsh: 8
+      comparative: 17
+      daoist: 1
+      finnish_karelian: 25
+      greek: 37
+      greek_roman: 30
+      hindu: 49
+      indigenous_australian: 3
+      islamic: 4
+      japanese: 4
+      jewish_christian: 2
+      norse: 28
+      persian: 2
+      roman: 80
+      sufi: 8
+  tradition_count: 18
+  occurrence_count: 315
+  mapped_motif_count: 1
 - canonical_motif_id: flood_and_renewal
   label: Flood, Fire, and Cosmic Renewal
   description: The destruction of the world or the old order by water, fire, or catastrophe,
@@ -960,7 +1126,7 @@ canonical_motifs:
     greek_roman: 12
     hindu: 30
     indigenous_australian: 1
-    islamic: 7
+    islamic: 10
     japanese: 3
     jewish_christian: 3
     maya_quiche: 1
@@ -971,7 +1137,7 @@ canonical_motifs:
   - motif_id: ark_vessel
     label: Ark Or Preserving Vessel
     relationship: child
-    occurrence_count: 47
+    occurrence_count: 48
     tradition_count: 14
     traditions:
       ainu: 1
@@ -982,7 +1148,7 @@ canonical_motifs:
       greek: 4
       greek_roman: 3
       hindu: 3
-      islamic: 1
+      islamic: 2
       japanese: 1
       jewish_christian: 1
       norse: 3
@@ -991,7 +1157,7 @@ canonical_motifs:
   - motif_id: flood_and_renewal
     label: Flood And Renewal
     relationship: canonical_group
-    occurrence_count: 53
+    occurrence_count: 54
     tradition_count: 13
     traditions:
       buddhist: 1
@@ -1001,7 +1167,7 @@ canonical_motifs:
       greek_roman: 6
       hindu: 6
       indigenous_australian: 1
-      islamic: 6
+      islamic: 7
       jewish_christian: 1
       maya_quiche: 1
       norse: 5
@@ -1010,8 +1176,8 @@ canonical_motifs:
   - motif_id: world_destroying_fire
     label: World-Destroying Fire
     relationship: taxonomy_motif_family
-    occurrence_count: 66
-    tradition_count: 11
+    occurrence_count: 67
+    tradition_count: 12
     traditions:
       buddhist: 1
       celtic_irish: 3
@@ -1021,6 +1187,7 @@ canonical_motifs:
       greek: 10
       greek_roman: 1
       hindu: 21
+      islamic: 1
       japanese: 2
       norse: 6
       roman: 18
@@ -1039,216 +1206,8 @@ canonical_motifs:
       norse: 4
       roman: 6
   tradition_count: 18
-  occurrence_count: 184
+  occurrence_count: 187
   mapped_motif_count: 4
-- canonical_motif_id: hero_journey
-  label: The Hero's Journey
-  description: The narrative arc of departure, trial, transformation, and return.
-    Includes the call to adventure, threshold crossing, the abyss, the boon, and the
-    return with knowledge or power.
-  related:
-  - initiation
-  - descent
-  - threshold_guardian
-  - mystical_quest
-  is_meta_group: false
-  traditions:
-    ainu: 3
-    buddhist: 62
-    celtic_irish: 169
-    celtic_welsh: 56
-    comparative: 22
-    daoist: 15
-    finnish_karelian: 98
-    greek: 305
-    greek_roman: 62
-    hindu: 286
-    indigenous_australian: 4
-    japanese: 35
-    jewish_christian: 2
-    norse: 45
-    persian: 20
-    roman: 114
-    sufi: 62
-  mapped_motifs:
-  - motif_id: departure
-    label: Departure
-    relationship: child
-    occurrence_count: 788
-    tradition_count: 17
-    traditions:
-      ainu: 2
-      buddhist: 46
-      celtic_irish: 110
-      celtic_welsh: 33
-      comparative: 11
-      daoist: 11
-      finnish_karelian: 60
-      greek: 99
-      greek_roman: 31
-      hindu: 202
-      indigenous_australian: 3
-      japanese: 19
-      jewish_christian: 1
-      norse: 26
-      persian: 13
-      roman: 82
-      sufi: 39
-  - motif_id: return
-    label: Return
-    relationship: child
-    occurrence_count: 569
-    tradition_count: 16
-    traditions:
-      ainu: 1
-      buddhist: 15
-      celtic_irish: 59
-      celtic_welsh: 23
-      comparative: 11
-      daoist: 4
-      finnish_karelian: 38
-      greek: 205
-      greek_roman: 31
-      hindu: 84
-      indigenous_australian: 1
-      japanese: 16
-      norse: 19
-      persian: 7
-      roman: 32
-      sufi: 23
-  - motif_id: caravan_lost_in_deadly_desert_through_failed_navigation
-    label: Caravan lost in deadly desert through failed navigation
-    relationship: ordeal_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      buddhist: 1
-  - motif_id: divine_call
-    label: divine call
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      jewish_christian: 1
-  - motif_id: divine_helper_counsels_returning_hero
-    label: Divine helper counsels returning hero
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  tradition_count: 17
-  occurrence_count: 1360
-  mapped_motif_count: 5
-- canonical_motif_id: miraculous_child
-  label: Miraculous Child and Sacred Birth
-  description: 'The child born under extraordinary circumstances # virgin birth, divine
-    parentage, threatened infancy, hidden upbringing. Includes the divine child who
-    must be protected, the child who speaks wisdom, and the child whose birth signals
-    a new cosmic era.'
-  related:
-  - mother_goddess
-  - hero_journey
-  - cosmic_origin
-  is_meta_group: false
-  traditions:
-    ainu: 8
-    buddhist: 24
-    celtic_irish: 45
-    celtic_welsh: 17
-    comparative: 27
-    daoist: 1
-    finnish_karelian: 45
-    greek: 226
-    greek_roman: 90
-    hindu: 147
-    indigenous_australian: 1
-    islamic: 7
-    japanese: 18
-    norse: 49
-    persian: 5
-    roman: 190
-    sufi: 9
-  mapped_motifs:
-  - motif_id: miraculous_child
-    label: Miraculous Child
-    relationship: canonical_group
-    occurrence_count: 177
-    tradition_count: 16
-    traditions:
-      ainu: 4
-      buddhist: 8
-      celtic_irish: 14
-      celtic_welsh: 14
-      comparative: 2
-      finnish_karelian: 17
-      greek: 19
-      greek_roman: 14
-      hindu: 25
-      indigenous_australian: 1
-      islamic: 3
-      japanese: 10
-      norse: 11
-      persian: 3
-      roman: 28
-      sufi: 4
-  - motif_id: sacred_birth
-    label: Sacred Birth
-    relationship: child
-    occurrence_count: 263
-    tradition_count: 15
-    traditions:
-      ainu: 3
-      buddhist: 16
-      celtic_irish: 5
-      celtic_welsh: 3
-      comparative: 18
-      finnish_karelian: 18
-      greek: 54
-      greek_roman: 14
-      hindu: 68
-      islamic: 3
-      japanese: 3
-      norse: 11
-      persian: 1
-      roman: 43
-      sufi: 3
-  - motif_id: divine_parent_child
-    label: Divine Parent And Holy Child
-    relationship: child
-    occurrence_count: 467
-    tradition_count: 13
-    traditions:
-      ainu: 1
-      celtic_irish: 26
-      comparative: 6
-      daoist: 1
-      finnish_karelian: 10
-      greek: 153
-      greek_roman: 62
-      hindu: 54
-      japanese: 5
-      norse: 27
-      persian: 1
-      roman: 119
-      sufi: 2
-  - motif_id: bear_nursed_first_ancestor
-    label: Bear-nursed first ancestor
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: miraculous_birth_under_palm
-    label: miraculous birth under palm
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  tradition_count: 17
-  occurrence_count: 909
-  mapped_motif_count: 5
 - canonical_motif_id: sacrifice
   label: Sacrifice and Offering
   description: 'The giving up of something precious # life, status, possession, self
@@ -1271,7 +1230,7 @@ canonical_motifs:
     greek_roman: 52
     hindu: 169
     indigenous_australian: 2
-    islamic: 1
+    islamic: 33
     japanese: 4
     jewish_christian: 9
     norse: 15
@@ -1282,7 +1241,7 @@ canonical_motifs:
   - motif_id: sacrifice
     label: Sacrifice
     relationship: canonical_group
-    occurrence_count: 894
+    occurrence_count: 926
     tradition_count: 17
     traditions:
       buddhist: 26
@@ -1295,7 +1254,7 @@ canonical_motifs:
       greek_roman: 52
       hindu: 169
       indigenous_australian: 2
-      islamic: 1
+      islamic: 33
       japanese: 4
       jewish_christian: 4
       norse: 15
@@ -1387,8 +1346,118 @@ canonical_motifs:
     traditions:
       jewish_christian: 1
   tradition_count: 17
-  occurrence_count: 907
+  occurrence_count: 939
   mapped_motif_count: 13
+- canonical_motif_id: miraculous_child
+  label: Miraculous Child and Sacred Birth
+  description: 'The child born under extraordinary circumstances # virgin birth, divine
+    parentage, threatened infancy, hidden upbringing. Includes the divine child who
+    must be protected, the child who speaks wisdom, and the child whose birth signals
+    a new cosmic era.'
+  related:
+  - mother_goddess
+  - hero_journey
+  - cosmic_origin
+  is_meta_group: false
+  traditions:
+    ainu: 8
+    buddhist: 24
+    celtic_irish: 45
+    celtic_welsh: 17
+    comparative: 27
+    daoist: 1
+    finnish_karelian: 45
+    greek: 226
+    greek_roman: 90
+    hindu: 147
+    indigenous_australian: 1
+    islamic: 24
+    japanese: 18
+    norse: 49
+    persian: 5
+    roman: 190
+    sufi: 9
+  mapped_motifs:
+  - motif_id: miraculous_child
+    label: Miraculous Child
+    relationship: canonical_group
+    occurrence_count: 183
+    tradition_count: 16
+    traditions:
+      ainu: 4
+      buddhist: 8
+      celtic_irish: 14
+      celtic_welsh: 14
+      comparative: 2
+      finnish_karelian: 17
+      greek: 19
+      greek_roman: 14
+      hindu: 25
+      indigenous_australian: 1
+      islamic: 9
+      japanese: 10
+      norse: 11
+      persian: 3
+      roman: 28
+      sufi: 4
+  - motif_id: sacred_birth
+    label: Sacred Birth
+    relationship: child
+    occurrence_count: 272
+    tradition_count: 15
+    traditions:
+      ainu: 3
+      buddhist: 16
+      celtic_irish: 5
+      celtic_welsh: 3
+      comparative: 18
+      finnish_karelian: 18
+      greek: 54
+      greek_roman: 14
+      hindu: 68
+      islamic: 12
+      japanese: 3
+      norse: 11
+      persian: 1
+      roman: 43
+      sufi: 3
+  - motif_id: divine_parent_child
+    label: Divine Parent And Holy Child
+    relationship: child
+    occurrence_count: 469
+    tradition_count: 14
+    traditions:
+      ainu: 1
+      celtic_irish: 26
+      comparative: 6
+      daoist: 1
+      finnish_karelian: 10
+      greek: 153
+      greek_roman: 62
+      hindu: 54
+      islamic: 2
+      japanese: 5
+      norse: 27
+      persian: 1
+      roman: 119
+      sufi: 2
+  - motif_id: bear_nursed_first_ancestor
+    label: Bear-nursed first ancestor
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: miraculous_birth_under_palm
+    label: miraculous birth under palm
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  tradition_count: 17
+  occurrence_count: 926
+  mapped_motif_count: 5
 - canonical_motif_id: shapeshifter
   label: Shapeshifter and Transformation
   description: 'The figure who changes form # human to animal, god to mortal, one
@@ -1411,7 +1480,7 @@ canonical_motifs:
     greek_roman: 34
     hindu: 75
     indigenous_australian: 15
-    islamic: 1
+    islamic: 7
     japanese: 10
     norse: 41
     roman: 345
@@ -1420,7 +1489,7 @@ canonical_motifs:
   - motif_id: shapeshifter
     label: Shapeshifter
     relationship: canonical_group
-    occurrence_count: 760
+    occurrence_count: 766
     tradition_count: 17
     traditions:
       ainu: 15
@@ -1435,7 +1504,7 @@ canonical_motifs:
       greek_roman: 34
       hindu: 75
       indigenous_australian: 15
-      islamic: 1
+      islamic: 7
       japanese: 9
       norse: 41
       roman: 345
@@ -1476,8 +1545,159 @@ canonical_motifs:
     traditions:
       celtic_irish: 1
   tradition_count: 17
-  occurrence_count: 765
+  occurrence_count: 771
   mapped_motif_count: 6
+- canonical_motif_id: sacred_time
+  label: Sacred Time and Ritual Cycle
+  description: 'The ordering of time through sacred rhythm # sabbath, seasonal ceremonies,
+    jubilee, annual purification. The distinction between sacred time (cyclical, renewable,
+    connected to origins) and profane time (linear, entropic).'
+  related:
+  - covenant
+  - sacrifice
+  - cosmic_origin
+  is_meta_group: false
+  traditions:
+    buddhist: 3
+    celtic_irish: 9
+    celtic_welsh: 5
+    comparative: 491
+    daoist: 7
+    finnish_karelian: 7
+    greek: 32
+    greek_roman: 24
+    hindu: 18
+    indigenous_australian: 4
+    islamic: 1
+    japanese: 3
+    jewish_christian: 2
+    norse: 52
+    persian: 4
+    roman: 18
+    sufi: 61
+  mapped_motifs:
+  - motif_id: seasonal_cycle
+    label: Seasonal Cycle
+    relationship: child
+    occurrence_count: 738
+    tradition_count: 16
+    traditions:
+      buddhist: 3
+      celtic_irish: 9
+      celtic_welsh: 5
+      comparative: 490
+      daoist: 7
+      finnish_karelian: 7
+      greek: 32
+      greek_roman: 24
+      hindu: 18
+      indigenous_australian: 4
+      islamic: 1
+      japanese: 3
+      norse: 52
+      persian: 4
+      roman: 18
+      sufi: 61
+  - motif_id: corn_spirit_embodied_in_harvest_animal
+    label: corn-spirit embodied in harvest animal
+    relationship: seasonal_cycle_child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: jubilee
+    label: jubilee
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      jewish_christian: 1
+  - motif_id: sabbath_cycle
+    label: sabbath cycle
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      jewish_christian: 1
+  tradition_count: 17
+  occurrence_count: 741
+  mapped_motif_count: 4
+- canonical_motif_id: trickster
+  label: Trickster and Boundary Crosser
+  description: The figure who violates boundaries, steals from the gods, deceives
+    authority, and operates at the edges between order and chaos. Often a culture
+    hero who brings gifts through transgression.
+  related:
+  - sacred_knowledge
+  - threshold_guardian
+  - shapeshifter
+  is_meta_group: false
+  traditions:
+    ainu: 14
+    buddhist: 39
+    celtic_irish: 40
+    celtic_welsh: 11
+    comparative: 2
+    finnish_karelian: 4
+    greek: 103
+    greek_roman: 13
+    hindu: 28
+    indigenous_australian: 13
+    islamic: 6
+    japanese: 18
+    maya_quiche: 1
+    norse: 31
+    persian: 1
+    roman: 34
+    sufi: 5
+  mapped_motifs:
+  - motif_id: trickster_boundary
+    label: Trickster At The Boundary
+    relationship: child
+    occurrence_count: 360
+    tradition_count: 17
+    traditions:
+      ainu: 14
+      buddhist: 38
+      celtic_irish: 40
+      celtic_welsh: 11
+      comparative: 2
+      finnish_karelian: 4
+      greek: 101
+      greek_roman: 13
+      hindu: 28
+      indigenous_australian: 13
+      islamic: 6
+      japanese: 18
+      maya_quiche: 1
+      norse: 31
+      persian: 1
+      roman: 34
+      sufi: 5
+  - motif_id: animal_pleads_usefulness_to_avoid_death
+    label: animal pleads usefulness to avoid death
+    relationship: narrative_strategy
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: feigned_death_to_escape_a_predator
+    label: feigned death to escape a predator
+    relationship: narrative_strategy
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: feigning_death_to_escape_captivity
+    label: Feigning death to escape captivity
+    relationship: narrative_strategy
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      buddhist: 1
+  tradition_count: 17
+  occurrence_count: 363
+  mapped_motif_count: 4
 - canonical_motif_id: duality
   label: Duality and Cosmic Opposition
   description: 'The fundamental pairing of opposites # light/dark, order/chaos, life/death,
@@ -1500,7 +1720,7 @@ canonical_motifs:
     greek: 162
     greek_roman: 13
     hindu: 5
-    islamic: 3
+    islamic: 18
     japanese: 3
     mesopotamian: 2
     norse: 14
@@ -1511,7 +1731,7 @@ canonical_motifs:
   - motif_id: duality
     label: Duality
     relationship: canonical_group
-    occurrence_count: 335
+    occurrence_count: 350
     tradition_count: 17
     traditions:
       ainu: 2
@@ -1524,7 +1744,7 @@ canonical_motifs:
       greek: 161
       greek_roman: 13
       hindu: 5
-      islamic: 2
+      islamic: 17
       japanese: 3
       mesopotamian: 2
       norse: 14
@@ -1553,64 +1773,78 @@ canonical_motifs:
     traditions:
       daoist: 1
   tradition_count: 17
-  occurrence_count: 338
+  occurrence_count: 353
   mapped_motif_count: 4
-- canonical_motif_id: serpent_guardian
-  label: Serpent and Serpent Guardian
-  description: The serpent as guardian of sacred knowledge, threshold between worlds,
-    or embodiment of danger-and-wisdom. Includes the serpent at the tree, the serpent
-    at the root of the world, and the serpent as both threat and teacher.
+- canonical_motif_id: sacred_twins
+  label: Sacred Twins and Sibling Pairs
+  description: 'The pair of twins or siblings # often one mortal and one divine, or
+    one light and one dark # whose relationship drives the mythic narrative. Includes
+    hero twins, divine siblings, and fratricidal pairs.'
   related:
-  - axis_mundi
-  - sacred_knowledge
-  - threshold_guardian
-  - forbidden_knowledge
+  - duality
+  - descent
+  - death_and_transformation
   is_meta_group: false
   traditions:
-    ainu: 2
-    buddhist: 7
-    celtic_irish: 8
-    celtic_welsh: 8
-    comparative: 17
+    ainu: 3
+    buddhist: 1
+    celtic_irish: 5
+    celtic_welsh: 2
+    comparative: 3
     daoist: 1
-    finnish_karelian: 25
-    greek: 37
-    greek_roman: 30
-    hindu: 49
-    indigenous_australian: 3
-    japanese: 4
-    jewish_christian: 2
-    norse: 28
-    persian: 2
-    roman: 80
-    sufi: 8
+    finnish_karelian: 3
+    greek: 32
+    greek_roman: 14
+    hindu: 70
+    indigenous_australian: 2
+    islamic: 3
+    japanese: 3
+    maya_quiche: 2
+    mesopotamian: 1
+    norse: 8
+    roman: 27
   mapped_motifs:
-  - motif_id: serpent
-    label: Serpent
-    relationship: alias
-    occurrence_count: 311
-    tradition_count: 17
+  - motif_id: sibling_pair
+    label: Sibling Pair
+    relationship: child
+    occurrence_count: 138
+    tradition_count: 16
     traditions:
-      ainu: 2
-      buddhist: 7
-      celtic_irish: 8
-      celtic_welsh: 8
-      comparative: 17
+      ainu: 3
+      buddhist: 1
+      celtic_irish: 4
+      celtic_welsh: 2
+      comparative: 2
       daoist: 1
-      finnish_karelian: 25
-      greek: 37
-      greek_roman: 30
-      hindu: 49
-      indigenous_australian: 3
-      japanese: 4
-      jewish_christian: 2
-      norse: 28
-      persian: 2
-      roman: 80
-      sufi: 8
+      finnish_karelian: 3
+      greek: 23
+      greek_roman: 9
+      hindu: 58
+      indigenous_australian: 2
+      islamic: 2
+      japanese: 3
+      maya_quiche: 1
+      norse: 6
+      roman: 18
+  - motif_id: sacred_twins
+    label: Sacred Twins
+    relationship: canonical_group
+    occurrence_count: 42
+    tradition_count: 10
+    traditions:
+      celtic_irish: 1
+      comparative: 1
+      greek: 9
+      greek_roman: 5
+      hindu: 12
+      islamic: 1
+      maya_quiche: 1
+      mesopotamian: 1
+      norse: 2
+      roman: 9
   tradition_count: 17
-  occurrence_count: 311
-  mapped_motif_count: 1
+  occurrence_count: 180
+  mapped_motif_count: 2
 - canonical_motif_id: cosmic_origin
   label: Cosmic Origin and Creation
   description: The emergence of the cosmos from void, water, darkness, word, or primordial
@@ -1631,7 +1865,7 @@ canonical_motifs:
     greek: 28
     greek_roman: 5
     hindu: 32
-    islamic: 1
+    islamic: 3
     japanese: 3
     jewish_christian: 2
     maya_quiche: 1
@@ -1643,7 +1877,7 @@ canonical_motifs:
   - motif_id: chaos
     label: Chaos
     relationship: child
-    occurrence_count: 151
+    occurrence_count: 153
     tradition_count: 17
     traditions:
       ainu: 1
@@ -1655,7 +1889,7 @@ canonical_motifs:
       greek: 28
       greek_roman: 5
       hindu: 32
-      islamic: 1
+      islamic: 3
       japanese: 3
       jewish_christian: 1
       maya_quiche: 1
@@ -1692,7 +1926,7 @@ canonical_motifs:
     traditions:
       finnish_karelian: 1
   tradition_count: 17
-  occurrence_count: 155
+  occurrence_count: 157
   mapped_motif_count: 5
 - canonical_motif_id: descent
   label: Descent and Underworld Journey
@@ -1784,273 +2018,6 @@ canonical_motifs:
   tradition_count: 17
   occurrence_count: 148
   mapped_motif_count: 5
-- canonical_motif_id: sacred_time
-  label: Sacred Time and Ritual Cycle
-  description: 'The ordering of time through sacred rhythm # sabbath, seasonal ceremonies,
-    jubilee, annual purification. The distinction between sacred time (cyclical, renewable,
-    connected to origins) and profane time (linear, entropic).'
-  related:
-  - covenant
-  - sacrifice
-  - cosmic_origin
-  is_meta_group: false
-  traditions:
-    buddhist: 3
-    celtic_irish: 9
-    celtic_welsh: 5
-    comparative: 491
-    daoist: 7
-    finnish_karelian: 7
-    greek: 32
-    greek_roman: 24
-    hindu: 18
-    indigenous_australian: 4
-    japanese: 3
-    jewish_christian: 2
-    norse: 52
-    persian: 4
-    roman: 18
-    sufi: 61
-  mapped_motifs:
-  - motif_id: seasonal_cycle
-    label: Seasonal Cycle
-    relationship: child
-    occurrence_count: 737
-    tradition_count: 15
-    traditions:
-      buddhist: 3
-      celtic_irish: 9
-      celtic_welsh: 5
-      comparative: 490
-      daoist: 7
-      finnish_karelian: 7
-      greek: 32
-      greek_roman: 24
-      hindu: 18
-      indigenous_australian: 4
-      japanese: 3
-      norse: 52
-      persian: 4
-      roman: 18
-      sufi: 61
-  - motif_id: corn_spirit_embodied_in_harvest_animal
-    label: corn-spirit embodied in harvest animal
-    relationship: seasonal_cycle_child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: jubilee
-    label: jubilee
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      jewish_christian: 1
-  - motif_id: sabbath_cycle
-    label: sabbath cycle
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      jewish_christian: 1
-  tradition_count: 16
-  occurrence_count: 740
-  mapped_motif_count: 4
-- canonical_motif_id: trickster
-  label: Trickster and Boundary Crosser
-  description: The figure who violates boundaries, steals from the gods, deceives
-    authority, and operates at the edges between order and chaos. Often a culture
-    hero who brings gifts through transgression.
-  related:
-  - sacred_knowledge
-  - threshold_guardian
-  - shapeshifter
-  is_meta_group: false
-  traditions:
-    ainu: 14
-    buddhist: 39
-    celtic_irish: 40
-    celtic_welsh: 11
-    comparative: 2
-    finnish_karelian: 4
-    greek: 103
-    greek_roman: 13
-    hindu: 28
-    indigenous_australian: 13
-    japanese: 18
-    maya_quiche: 1
-    norse: 31
-    persian: 1
-    roman: 34
-    sufi: 5
-  mapped_motifs:
-  - motif_id: trickster_boundary
-    label: Trickster At The Boundary
-    relationship: child
-    occurrence_count: 354
-    tradition_count: 16
-    traditions:
-      ainu: 14
-      buddhist: 38
-      celtic_irish: 40
-      celtic_welsh: 11
-      comparative: 2
-      finnish_karelian: 4
-      greek: 101
-      greek_roman: 13
-      hindu: 28
-      indigenous_australian: 13
-      japanese: 18
-      maya_quiche: 1
-      norse: 31
-      persian: 1
-      roman: 34
-      sufi: 5
-  - motif_id: animal_pleads_usefulness_to_avoid_death
-    label: animal pleads usefulness to avoid death
-    relationship: narrative_strategy
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: feigned_death_to_escape_a_predator
-    label: feigned death to escape a predator
-    relationship: narrative_strategy
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: feigning_death_to_escape_captivity
-    label: Feigning death to escape captivity
-    relationship: narrative_strategy
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      buddhist: 1
-  tradition_count: 16
-  occurrence_count: 357
-  mapped_motif_count: 4
-- canonical_motif_id: culture_hero
-  label: Culture Hero and Founder
-  description: The figure who brings civilization, law, fire, agriculture, or sacred
-    knowledge to humanity. Often overlaps with trickster (Prometheus, Maui) but distinguished
-    by the emphasis on founding or establishing human culture.
-  related:
-  - trickster
-  - sacred_knowledge
-  - royal_legitimacy
-  is_meta_group: false
-  traditions:
-    ainu: 5
-    celtic_irish: 37
-    celtic_welsh: 5
-    comparative: 2
-    daoist: 3
-    finnish_karelian: 41
-    greek: 30
-    greek_roman: 35
-    hindu: 21
-    indigenous_australian: 6
-    islamic: 2
-    japanese: 12
-    mesopotamian: 1
-    norse: 14
-    persian: 1
-    roman: 41
-  mapped_motifs:
-  - motif_id: culture_hero
-    label: Culture Hero
-    relationship: canonical_group
-    occurrence_count: 256
-    tradition_count: 16
-    traditions:
-      ainu: 5
-      celtic_irish: 37
-      celtic_welsh: 5
-      comparative: 2
-      daoist: 3
-      finnish_karelian: 41
-      greek: 30
-      greek_roman: 35
-      hindu: 21
-      indigenous_australian: 6
-      islamic: 2
-      japanese: 12
-      mesopotamian: 1
-      norse: 14
-      persian: 1
-      roman: 41
-  tradition_count: 16
-  occurrence_count: 256
-  mapped_motif_count: 1
-- canonical_motif_id: sacred_twins
-  label: Sacred Twins and Sibling Pairs
-  description: 'The pair of twins or siblings # often one mortal and one divine, or
-    one light and one dark # whose relationship drives the mythic narrative. Includes
-    hero twins, divine siblings, and fratricidal pairs.'
-  related:
-  - duality
-  - descent
-  - death_and_transformation
-  is_meta_group: false
-  traditions:
-    ainu: 3
-    buddhist: 1
-    celtic_irish: 5
-    celtic_welsh: 2
-    comparative: 3
-    daoist: 1
-    finnish_karelian: 3
-    greek: 32
-    greek_roman: 14
-    hindu: 70
-    indigenous_australian: 2
-    japanese: 3
-    maya_quiche: 2
-    mesopotamian: 1
-    norse: 8
-    roman: 27
-  mapped_motifs:
-  - motif_id: sibling_pair
-    label: Sibling Pair
-    relationship: child
-    occurrence_count: 136
-    tradition_count: 15
-    traditions:
-      ainu: 3
-      buddhist: 1
-      celtic_irish: 4
-      celtic_welsh: 2
-      comparative: 2
-      daoist: 1
-      finnish_karelian: 3
-      greek: 23
-      greek_roman: 9
-      hindu: 58
-      indigenous_australian: 2
-      japanese: 3
-      maya_quiche: 1
-      norse: 6
-      roman: 18
-  - motif_id: sacred_twins
-    label: Sacred Twins
-    relationship: canonical_group
-    occurrence_count: 41
-    tradition_count: 9
-    traditions:
-      celtic_irish: 1
-      comparative: 1
-      greek: 9
-      greek_roman: 5
-      hindu: 12
-      maya_quiche: 1
-      mesopotamian: 1
-      norse: 2
-      roman: 9
-  tradition_count: 16
-  occurrence_count: 177
-  mapped_motif_count: 2
 - canonical_motif_id: mystical_quest
   label: Mystical Quest and Interior Journey
   description: The spiritual seeker's journey toward union, knowledge, or liberation.
@@ -2072,6 +2039,7 @@ canonical_motifs:
     greek: 113
     greek_roman: 44
     hindu: 86
+    islamic: 7
     japanese: 24
     norse: 31
     persian: 15
@@ -2081,8 +2049,8 @@ canonical_motifs:
   - motif_id: mystical_quest
     label: Mystical Quest
     relationship: canonical_group
-    occurrence_count: 644
-    tradition_count: 14
+    occurrence_count: 646
+    tradition_count: 15
     traditions:
       buddhist: 12
       celtic_irish: 74
@@ -2093,6 +2061,7 @@ canonical_motifs:
       greek: 36
       greek_roman: 18
       hindu: 65
+      islamic: 2
       japanese: 16
       norse: 11
       persian: 10
@@ -2101,8 +2070,8 @@ canonical_motifs:
   - motif_id: divine_beloved
     label: Divine Beloved
     relationship: child
-    occurrence_count: 456
-    tradition_count: 13
+    occurrence_count: 459
+    tradition_count: 14
     traditions:
       ainu: 5
       celtic_irish: 43
@@ -2112,6 +2081,7 @@ canonical_motifs:
       greek: 67
       greek_roman: 26
       hindu: 18
+      islamic: 3
       japanese: 8
       norse: 19
       persian: 4
@@ -2120,8 +2090,8 @@ canonical_motifs:
   - motif_id: annihilation_union
     label: Annihilation And Union
     relationship: child
-    occurrence_count: 217
-    tradition_count: 10
+    occurrence_count: 219
+    tradition_count: 11
     traditions:
       buddhist: 3
       celtic_irish: 4
@@ -2129,6 +2099,7 @@ canonical_motifs:
       daoist: 37
       greek: 9
       hindu: 3
+      islamic: 2
       norse: 1
       persian: 1
       roman: 12
@@ -2168,68 +2139,62 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       sufi: 1
-  tradition_count: 15
-  occurrence_count: 1323
+  tradition_count: 16
+  occurrence_count: 1330
   mapped_motif_count: 8
-- canonical_motif_id: covenant
-  label: Covenant and Sacred Bond
-  description: A binding agreement between the human and the divine, or between sacred
-    parties. Includes conditional and unconditional covenants, covenant renewal, and
-    the breaking and restoration of sacred bonds.
+- canonical_motif_id: culture_hero
+  label: Culture Hero and Founder
+  description: The figure who brings civilization, law, fire, agriculture, or sacred
+    knowledge to humanity. Often overlaps with trickster (Prometheus, Maui) but distinguished
+    by the emphasis on founding or establishing human culture.
   related:
-  - sacrifice
-  - sacred_exchange
-  - divine_judgment
-  - ethical_command
+  - trickster
+  - sacred_knowledge
+  - royal_legitimacy
   is_meta_group: false
   traditions:
-    buddhist: 1
-    celtic_irish: 18
+    ainu: 5
+    celtic_irish: 37
     celtic_welsh: 5
     comparative: 2
-    daoist: 2
-    finnish_karelian: 7
-    greek: 26
-    greek_roman: 1
-    hindu: 24
-    islamic: 1
-    jewish_christian: 7
-    norse: 11
+    daoist: 3
+    finnish_karelian: 41
+    greek: 30
+    greek_roman: 35
+    hindu: 21
+    indigenous_australian: 6
+    islamic: 3
+    japanese: 12
+    mesopotamian: 1
+    norse: 14
     persian: 1
-    roman: 20
-    sufi: 6
+    roman: 41
   mapped_motifs:
-  - motif_id: covenant
-    label: Covenant
+  - motif_id: culture_hero
+    label: Culture Hero
     relationship: canonical_group
-    occurrence_count: 131
-    tradition_count: 15
+    occurrence_count: 257
+    tradition_count: 16
     traditions:
-      buddhist: 1
-      celtic_irish: 18
+      ainu: 5
+      celtic_irish: 37
       celtic_welsh: 5
       comparative: 2
-      daoist: 2
-      finnish_karelian: 7
-      greek: 26
-      greek_roman: 1
-      hindu: 24
-      islamic: 1
-      jewish_christian: 6
-      norse: 11
+      daoist: 3
+      finnish_karelian: 41
+      greek: 30
+      greek_roman: 35
+      hindu: 21
+      indigenous_australian: 6
+      islamic: 3
+      japanese: 12
+      mesopotamian: 1
+      norse: 14
       persian: 1
-      roman: 20
-      sufi: 6
-  - motif_id: broken_and_renewed_covenant
-    label: broken and renewed covenant
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      jewish_christian: 1
-  tradition_count: 15
-  occurrence_count: 132
-  mapped_motif_count: 2
+      roman: 41
+  tradition_count: 16
+  occurrence_count: 257
+  mapped_motif_count: 1
 - canonical_motif_id: sacred_love
   label: Sacred Love and Longing
   description: 'Love as a cosmic or mystical force # the love between divine and human,
@@ -2250,6 +2215,7 @@ canonical_motifs:
     greek_roman: 44
     hindu: 188
     indigenous_australian: 3
+    islamic: 1
     japanese: 5
     norse: 41
     persian: 3
@@ -2278,8 +2244,8 @@ canonical_motifs:
   - motif_id: sacred_marriage
     label: Sacred Marriage
     relationship: taxonomy_motif_family
-    occurrence_count: 254
-    tradition_count: 12
+    occurrence_count: 255
+    tradition_count: 13
     traditions:
       ainu: 5
       celtic_irish: 20
@@ -2289,6 +2255,7 @@ canonical_motifs:
       greek: 46
       greek_roman: 20
       hindu: 44
+      islamic: 1
       japanese: 4
       norse: 26
       roman: 30
@@ -2342,9 +2309,68 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       persian: 1
-  tradition_count: 14
-  occurrence_count: 616
+  tradition_count: 15
+  occurrence_count: 617
   mapped_motif_count: 9
+- canonical_motif_id: covenant
+  label: Covenant and Sacred Bond
+  description: A binding agreement between the human and the divine, or between sacred
+    parties. Includes conditional and unconditional covenants, covenant renewal, and
+    the breaking and restoration of sacred bonds.
+  related:
+  - sacrifice
+  - sacred_exchange
+  - divine_judgment
+  - ethical_command
+  is_meta_group: false
+  traditions:
+    buddhist: 1
+    celtic_irish: 18
+    celtic_welsh: 5
+    comparative: 2
+    daoist: 2
+    finnish_karelian: 7
+    greek: 26
+    greek_roman: 1
+    hindu: 24
+    islamic: 58
+    jewish_christian: 7
+    norse: 11
+    persian: 1
+    roman: 20
+    sufi: 6
+  mapped_motifs:
+  - motif_id: covenant
+    label: Covenant
+    relationship: canonical_group
+    occurrence_count: 188
+    tradition_count: 15
+    traditions:
+      buddhist: 1
+      celtic_irish: 18
+      celtic_welsh: 5
+      comparative: 2
+      daoist: 2
+      finnish_karelian: 7
+      greek: 26
+      greek_roman: 1
+      hindu: 24
+      islamic: 58
+      jewish_christian: 6
+      norse: 11
+      persian: 1
+      roman: 20
+      sufi: 6
+  - motif_id: broken_and_renewed_covenant
+    label: broken and renewed covenant
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      jewish_christian: 1
+  tradition_count: 15
+  occurrence_count: 189
+  mapped_motif_count: 2
 - canonical_motif_id: sacred_waters
   label: Sacred Waters and Passage Through Water
   description: Water as boundary, purifier, destroyer, and medium of transformation.
@@ -2364,6 +2390,7 @@ canonical_motifs:
     greek: 13
     greek_roman: 6
     hindu: 10
+    islamic: 1
     japanese: 2
     jewish_christian: 1
     norse: 4
@@ -2373,8 +2400,8 @@ canonical_motifs:
   - motif_id: water
     label: perilous sea passage through monstrous waters
     relationship: alias
-    occurrence_count: 84
-    tradition_count: 12
+    occurrence_count: 85
+    tradition_count: 13
     traditions:
       buddhist: 5
       celtic_irish: 7
@@ -2384,6 +2411,7 @@ canonical_motifs:
       greek: 13
       greek_roman: 6
       hindu: 10
+      islamic: 1
       japanese: 2
       norse: 4
       roman: 23
@@ -2395,8 +2423,8 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       jewish_christian: 1
-  tradition_count: 13
-  occurrence_count: 85
+  tradition_count: 14
+  occurrence_count: 86
   mapped_motif_count: 2
 - canonical_motif_id: afterlife_passage
   label: Afterlife Navigation and Passage
@@ -2417,6 +2445,7 @@ canonical_motifs:
     greek: 73
     greek_roman: 14
     hindu: 40
+    islamic: 30
     norse: 34
     persian: 1
     roman: 51
@@ -2425,8 +2454,8 @@ canonical_motifs:
   - motif_id: afterlife_journey_map
     label: Afterlife Journey Map
     relationship: taxonomy_motif_family
-    occurrence_count: 301
-    tradition_count: 12
+    occurrence_count: 331
+    tradition_count: 13
     traditions:
       ainu: 4
       buddhist: 2
@@ -2436,6 +2465,7 @@ canonical_motifs:
       greek: 73
       greek_roman: 12
       hindu: 40
+      islamic: 30
       norse: 34
       persian: 1
       roman: 51
@@ -2461,9 +2491,65 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       greek_roman: 1
-  tradition_count: 12
-  occurrence_count: 304
+  tradition_count: 13
+  occurrence_count: 334
   mapped_motif_count: 4
+- canonical_motif_id: sacred_fire
+  label: Sacred Fire and Divine Light
+  description: Fire as divine presence, purifying force, sacrificial medium, or cosmic
+    principle. Includes the burning bush, Agni, sacred hearth fires, and fire as the
+    element that mediates between human and divine.
+  related:
+  - axis_mundi
+  - sacrifice
+  - theophany
+  is_meta_group: false
+  traditions:
+    buddhist: 3
+    celtic_irish: 4
+    comparative: 4
+    finnish_karelian: 6
+    greek: 7
+    greek_roman: 1
+    hindu: 7
+    islamic: 1
+    jewish_christian: 3
+    norse: 6
+    roman: 10
+  mapped_motifs:
+  - motif_id: fire
+    label: funeral fire seen from the departing ship
+    relationship: alias
+    occurrence_count: 49
+    tradition_count: 10
+    traditions:
+      buddhist: 3
+      celtic_irish: 4
+      comparative: 4
+      finnish_karelian: 6
+      greek: 7
+      greek_roman: 1
+      hindu: 7
+      islamic: 1
+      norse: 6
+      roman: 10
+  - motif_id: sacred_fire
+    label: sacred fire
+    relationship: canonical_group
+    occurrence_count: 2
+    tradition_count: 1
+    traditions:
+      jewish_christian: 2
+  - motif_id: cloud_fire_guidance
+    label: cloud fire guidance
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      jewish_christian: 1
+  tradition_count: 11
+  occurrence_count: 52
+  mapped_motif_count: 3
 - canonical_motif_id: mother_goddess
   label: Sacred Feminine and Mother Goddess
   description: The divine mother, earth goddess, source-feminine, or nurturing-and-terrible
@@ -2513,60 +2599,6 @@ canonical_motifs:
   tradition_count: 10
   occurrence_count: 81
   mapped_motif_count: 2
-- canonical_motif_id: sacred_fire
-  label: Sacred Fire and Divine Light
-  description: Fire as divine presence, purifying force, sacrificial medium, or cosmic
-    principle. Includes the burning bush, Agni, sacred hearth fires, and fire as the
-    element that mediates between human and divine.
-  related:
-  - axis_mundi
-  - sacrifice
-  - theophany
-  is_meta_group: false
-  traditions:
-    buddhist: 3
-    celtic_irish: 4
-    comparative: 4
-    finnish_karelian: 6
-    greek: 7
-    greek_roman: 1
-    hindu: 7
-    jewish_christian: 3
-    norse: 6
-    roman: 10
-  mapped_motifs:
-  - motif_id: fire
-    label: funeral fire seen from the departing ship
-    relationship: alias
-    occurrence_count: 48
-    tradition_count: 9
-    traditions:
-      buddhist: 3
-      celtic_irish: 4
-      comparative: 4
-      finnish_karelian: 6
-      greek: 7
-      greek_roman: 1
-      hindu: 7
-      norse: 6
-      roman: 10
-  - motif_id: sacred_fire
-    label: sacred fire
-    relationship: canonical_group
-    occurrence_count: 2
-    tradition_count: 1
-    traditions:
-      jewish_christian: 2
-  - motif_id: cloud_fire_guidance
-    label: cloud fire guidance
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      jewish_christian: 1
-  tradition_count: 10
-  occurrence_count: 51
-  mapped_motif_count: 3
 - canonical_motif_id: lament_and_mourning
   label: Lament, Mourning, and Tragic Recognition
   description: The expression of grief, loss, and tragic awareness. Includes mourning

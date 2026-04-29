@@ -1,0 +1,553 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l13559-l13628
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER IV. / IN THE NAME OF THE MOST MERCIFUL GOD / CHAPTER V. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 13559-13628
+  start: '13559'
+  end: '13628'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: O TRUE believers, perform your contracts.
+  summary: The passage opens Chapter V, instructing believers to fulfill contracts,
+    observe pilgrimage restrictions and sacred rites, avoid revenge and injustice,
+    abstain from specified forbidden foods and idolatrous practices, and recognize
+    the completion of religion and divine mercy, with an exception for necessity through
+    hunger. Notes explain the chapter title as referring to a table said to descend
+    from heaven to Jesus and clarify pilgrimage, sacrifice, idols, and the setting
+    at Mount Arafat.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Believers are commanded to perform their contracts.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Brute cattle are permitted as food except for stated prohibitions and except
+    game during pilgrimage.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Believers are told not to violate God's holy rites, the sacred month, offerings,
+    ornaments on offerings, or travelers to the holy house.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After pilgrimage is finished, hunting is permitted.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Believers are warned not to let hostility over exclusion from the sacred temple
+    provoke transgression or revenge.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Believers are instructed to assist one another in justice and piety, not in
+    injustice and malice.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage lists forbidden foods and slaughtered animals, including carrion,
+    blood, swine flesh, animals invoked in another name than God, strangled animals,
+    animals killed by blows, falls, horns, or wild beasts, and animals sacrificed
+    to idols.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Division by casting lots with arrows is declared unlawful and impious.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: God says he has perfected the believers' religion, completed mercy upon them,
+    and chosen Islam as their religion.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A person driven by hunger to eat forbidden food without intending sin is said
+    to find God indulgent and merciful.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: A note says the chapter title comes from a table said to have been let down
+    from heaven to Jesus later in the chapter.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: A note identifies the day of revelation with the pilgrims' visit to Mount
+    Arafat during Mohammed's last visit to the temple of Mecca.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine speaker who ordains, commands, warns, perfects religion,
+    completes mercy, and is described as severe in punishing yet indulgent and merciful.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: true believers
+  description: The addressed community commanded to fulfill contracts, observe ritual
+    limits, avoid forbidden foods and practices, and cooperate in justice and piety.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: travelers to the holy house
+  description: People traveling to the holy house seeking favor from their Lord and
+    to please him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: those who have apostatized from their religion
+  description: 'A group named in a warning: woe is pronounced upon those who have
+    apostatized from their religion.'
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Jesus
+  description: Mentioned in a note as the recipient of the table said to have been
+    let down from heaven later in the chapter.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Mohammed
+  description: Mentioned in a note as making his last visit to the temple of Mecca
+    during the pilgrimage of valediction.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine lawgiver
+  assigned_to:
+  - fig:1
+  basis: God ordains what he pleases and issues commands through the passage.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: divine judge and merciful authority
+  assigned_to:
+  - fig:1
+  basis: The passage states that God is severe in punishing and also indulgent and
+    merciful to one compelled by hunger.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: commanded covenant community
+  assigned_to:
+  - fig:2
+  basis: The believers are addressed with commands to perform contracts and follow
+    ritual, dietary, and ethical rules.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: protected pilgrims or visitors
+  assigned_to:
+  - fig:3
+  basis: The passage forbids violation of those traveling to the holy house seeking
+    divine favor.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: warned apostates
+  assigned_to:
+  - fig:4
+  basis: The passage pronounces woe upon those who have apostatized from their religion.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: recipient of heavenly table in note
+  assigned_to:
+  - fig:5
+  basis: The note states that the table was said to have been let down from heaven
+    to Jesus.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: pilgrimage figure in note
+  assigned_to:
+  - fig:6
+  basis: The note connects Mohammed with the last visit to the temple of Mecca and
+    the pilgrimage of valediction.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: contracts
+  literal_form: contracts performed by believers
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: holy rites
+  literal_form: holy rites of God, identified in a note as pilgrimage ceremonies of
+    Mecca
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sacred month
+  literal_form: the sacred month during which violation and revenge are forbidden
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: offering with ornaments
+  literal_form: the offering and ornaments hung on it; a note describes a sheep led
+    to Mecca with garlands, green boughs, or another ornament marking it sacred
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:5
+  label: holy house and sacred temple
+  literal_form: the holy house and sacred temple associated with pilgrimage and Mecca
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:6
+  label: forbidden foods
+  literal_form: carrion, blood, swine flesh, improperly invoked or killed animals,
+    and animals sacrificed to idols
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: arrows for casting lots
+  literal_form: arrows used to make division by casting lots
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: table from heaven
+  literal_form: a table said in the note to be let down from heaven to Jesus
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: Mount Arafat
+  literal_form: Mount Arafat visited by pilgrims according to the note
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Opening command to fulfill contracts and observe food and pilgrimage limits
+  summary: Believers are commanded to perform contracts, are allowed certain cattle
+    for food, and are told that game is not allowed during pilgrimage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Protection of sacred pilgrimage rites and travelers
+  summary: Believers are instructed not to violate God's rites, the sacred month,
+    offerings and their ornaments, or those traveling to the holy house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Post-pilgrimage conduct and ethical cooperation
+  summary: After pilgrimage, hunting is permitted, but believers are warned against
+    revenge and directed to cooperate in justice and piety, not injustice and malice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Dietary and anti-idolatrous prohibitions
+  summary: The passage forbids specified foods and forms of slaughter, including animals
+    sacrificed to idols, and also forbids division by casting lots with arrows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Completion of religion and mercy with necessity exception
+  summary: God declares the religion perfected and mercy completed, chooses Islam
+    as religion, and allows mercy for one compelled by hunger without intent to sin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Heavenly table note
+  summary: A note explains the chapter title by referring to a table said to be let
+    down from heaven to Jesus later in the chapter.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Pilgrimage of valediction note
+  summary: A note places the revelation on the day of pilgrims visiting Mount Arafat
+    during Mohammed's last visit to the temple of Mecca.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:9
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: contract obligation as sacred order
+  taxonomy_refs:
+  - covenant
+  basis: The passage begins by commanding believers to perform contracts and embeds
+    this obligation in divine command.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The text uses the word contracts rather than narrating a covenant-making
+    event.
+- id: motif:2
+  label: ritual boundary around pilgrimage
+  taxonomy_refs: []
+  basis: The passage distinguishes conduct during pilgrimage from conduct after pilgrimage,
+    protects sacred times, rites, offerings, and pilgrims, and names the holy house
+    and sacred temple.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is legal-instructional material rather than a mythic journey narrative.
+- id: motif:3
+  label: sacrifice and sacred offering
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage mentions offerings, ornaments marking offerings as sacred, and
+    animals sacrificed to idols as forbidden.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: The passage regulates sacrifice and offerings; it does not narrate a sacrificial
+    myth.
+- id: motif:4
+  label: food taboo and purity boundary
+  taxonomy_refs: []
+  basis: The passage lists forbidden foods and prohibited forms of animal death or
+    dedication, while allowing an exception in cases of compelled hunger.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference directly names food taboo or purity law.
+- id: motif:5
+  label: divination by lots prohibited
+  taxonomy_refs: []
+  basis: The passage declares division by casting lots with arrows unlawful and impious.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a prohibition, not a story of divination.
+- id: motif:6
+  label: divine judgment and mercy in law
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage warns that God is severe in punishing, pronounces woe on apostates,
+    and also says God will be indulgent and merciful toward necessity without intent
+    to sin.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The judgment is expressed as warning and legal consequence, not as an
+    enacted judgment scene.
+- id: motif:7
+  label: heavenly table bestowed on a holy figure
+  taxonomy_refs: []
+  basis: A note explains the chapter title by saying the table is fabled to have been
+    let down from heaven to Jesus.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This occurs in an editorial note referring to a later part of the chapter,
+    not in the main legal passage itself.
+- id: motif:8
+  label: sacred mountain pilgrimage setting
+  taxonomy_refs: []
+  basis: A note associates the revelation with pilgrims visiting Mount Arafat during
+    the pilgrimage of valediction.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The mountain appears in a note, and the available taxonomy has symbol
+    'mountain' but no specific pilgrimage-mountain motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13559-13566
+  quote_or_summary: Believers are told to perform contracts; certain cattle are allowed
+    as food, with exceptions including game during pilgrimage; God ordains what he
+    pleases.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary with short quoted phrase in canonical_text.
+- id: ev:2
+  type: summary
+  locator: lines 13567-13572
+  quote_or_summary: Believers are told not to violate God's holy rites, the sacred
+    month, offerings, ornaments hung on offerings, or those traveling to the holy
+    house seeking divine favor.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13573-13580
+  quote_or_summary: After pilgrimage, hunting is permitted; believers are warned not
+    to seek revenge over exclusion from the sacred temple and are instructed to cooperate
+    in justice and piety, not injustice and malice; God is severe in punishing.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13581-13593
+  quote_or_summary: The passage prohibits carrion, blood, swine flesh, animals invoked
+    in another name than God, animals killed in specified improper ways, animals sacrificed
+    to idols, and casting lots with arrows; woe is pronounced upon apostates.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13594-13599
+  quote_or_summary: God declares religion perfected, mercy completed, and Islam chosen;
+    one compelled by hunger to eat forbidden food without intent to sin is promised
+    divine indulgence and mercy.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13600-13603, note d
+  quote_or_summary: A note says the chapter title comes from the Table, said to be
+    let down from heaven to Jesus later in the chapter; it also notes the chapter
+    is sometimes called the chapter of Contracts.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 13621-13624, note p
+  quote_or_summary: A note says the passage was revealed on Friday evening, the day
+    of the pilgrims visiting Mount Arafat, during Mohammed's last visit to the temple
+    of Mecca, called the pilgrimage of valediction.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 13608-13610, note h
+  quote_or_summary: A note explains the offering as a sheep led to Mecca for sacrifice,
+    with garlands, green boughs, or another ornament on its neck to distinguish it
+    as sacred.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The legal and ritual observations are explicit. Motif labeling is cautious
+    because the passage is primarily prescriptive law with explanatory notes, not
+    narrative myth. No comparison claims were made because the passage itself does
+    not support a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Extraction uses only the provided passage and metadata. Taxonomy references are limited to supplied motif families and symbols when directly supported.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l13559-l13628
+  passage_sha256=5dde109cef77d0488dcf6a025d1fffb1f61f9b616f5d30fc421d164deff13b36

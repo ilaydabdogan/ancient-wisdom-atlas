@@ -1,0 +1,593 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l4065-l4117
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 4065-4117
+  start: '4065'
+  end: '4117'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes several reported Muslim opinions about the location
+    and condition of souls after death, including souls near graves, with Adam, in
+    wells, in a trumpet, or as white birds under God's throne. It then describes the
+    fate of wicked souls as rejected by heaven and earth and confined below. It also
+    discusses views on resurrection and presents the received opinion that body and
+    soul will be raised, with the os coccygis preserved as a seed from which bodies
+    will regrow after a divinely sent rain. A comparison is made to Jewish traditions
+    about the bone Luz and revivifying dew.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The dead are described as hearing salutations at their graves, although they
+    cannot answer.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One reported opinion places souls with Adam in the lowest heaven, with souls
+    destined for paradise on Adam's right and condemned souls on his left.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One reported opinion places believers' souls in the well Zemzem and infidels'
+    souls in a well in Hadramaut called Borht.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Other reported opinions place souls near graves for seven days, in the trumpet
+    that will raise the dead, or as white birds under the throne of God.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Wicked souls are described as offered by angels to heaven and earth, refused
+    by both, carried down to the seventh earth, and thrown into Sajn for torment until
+    reunion with their bodies.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The received opinion described in the passage is that both body and soul will
+    be raised.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The bone al Ajb, identified as the os coccygis, is said to remain uncorrupted
+    until the last day as a seed from which the body will be renewed.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A forty days' rain sent by God is said to cover the earth to the height of
+    twelve cubits and cause bodies to sprout like plants.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage states that Jewish tradition says similar things of the bone Luz,
+    except that renewal is effected by dew impregnating the dust of the earth.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the dead
+  description: Dead persons who hear salutations at their graves but cannot answer.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Adam
+  description: Located in the lowest heaven in one reported opinion, with souls destined
+    for paradise on his right and those condemned to hell on his left.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: souls destined to paradise
+  description: Souls seen on the right hand of Adam in a reported account of the night
+    journey.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: souls condemned to hell
+  description: Souls seen on the left hand of Adam in a reported account of the night
+    journey.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: souls of believers
+  description: In one reported opinion, they remain in the well Zemzem; in another,
+    the good dwell in forms of white birds under the throne of God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: souls of infidels
+  description: In one reported opinion, they remain in a well in Hadramaut called
+    Borht.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: souls of the wicked
+  description: Souls rejected by heaven and earth, carried to the seventh earth, and
+    thrown into Sajn for torment.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: angels
+  description: They offer wicked souls to heaven and then to earth.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: God
+  description: God is said to send the forty days' rain that renews bodies.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Mohammed
+  description: Presented as teaching that the os coccygis remains uncorrupted and
+    as reporting the night-journey vision.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:11
+  name_or_label: Jews
+  description: Presented as holding a similar tradition about the bone Luz and revivifying
+    dew.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: dead hearers at graves
+  assigned_to:
+  - fig:1
+  basis: They hear salutations though they cannot answer.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: heavenly separator figure
+  assigned_to:
+  - fig:2
+  basis: Souls destined for paradise are on Adam's right and condemned souls on his
+    left.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: blessed souls
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: They are destined for paradise or described among the good.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: condemned or unbelieving souls
+  assigned_to:
+  - fig:4
+  - fig:6
+  - fig:7
+  basis: They are condemned to hell, identified as infidels, or described as wicked.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: tormented souls awaiting bodily reunion
+  assigned_to:
+  - fig:7
+  basis: They are thrown into Sajn to be tormented until called up to be joined again
+    to their bodies.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: soul-transporting agents
+  assigned_to:
+  - fig:8
+  basis: They offer wicked souls to heaven and earth.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: sender of revivifying rain
+  assigned_to:
+  - fig:9
+  basis: God sends the forty days' rain that causes bodies to sprout forth.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: reported doctrinal teacher
+  assigned_to:
+  - fig:10
+  basis: He is said to have reported the night-journey vision and taught the preservation
+    of al Ajb.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:9
+  label: comparative tradition bearers
+  assigned_to:
+  - fig:11
+  basis: They are said to hold similar ideas about the bone Luz and revivifying dew.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: graves
+  literal_form: graves or tombs of relations
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lowest heaven
+  literal_form: lowest heaven where Adam is located in one opinion
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: right and left hands of Adam
+  literal_form: right side for souls destined to paradise and left side for those
+    condemned to hell
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: wells of souls
+  literal_form: well Zemzem and the well Borht in Hadramaut
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: resurrection trumpet
+  literal_form: trumpet whose sound is to raise the dead
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: white birds under God's throne
+  literal_form: forms of white birds under the throne of God
+  associated_figures:
+  - fig:5
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: Sajn dungeon
+  literal_form: dungeon called Sajn under a green rock or under the devil's jaw
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: al Ajb seed-bone
+  literal_form: os coccygis or rump-bone remaining uncorrupted as a seed
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: forty days' rain
+  literal_form: rain sent by God for forty days, covering the earth to twelve cubits
+  associated_figures:
+  - fig:9
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:10
+  label: sprouting bodies
+  literal_form: bodies sprouting forth like plants
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:11
+  label: bone Luz and dew
+  literal_form: Jewish bone Luz renewed by dew impregnating earth's dust
+  associated_figures:
+  - fig:11
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Dead hearing salutations at graves
+  summary: The passage describes a belief that the dead can hear salutations at their
+    graves but cannot answer, linked to visiting tombs of relations.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Souls arranged beside Adam in the lowest heaven
+  summary: In one reported opinion, Muhammad sees souls destined for paradise on Adam's
+    right and souls condemned to hell on Adam's left during the return from the night
+    journey.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:10
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Alternative locations of souls
+  summary: Several opinions place souls in wells, near graves for seven days, in the
+    resurrection trumpet, or as white birds under God's throne.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Wicked souls rejected and confined
+  summary: Wicked souls are offered to heaven and earth by angels, refused, carried
+    down to the seventh earth, and thrown into Sajn for torment until bodily reunion.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Resurrection of body and soul
+  summary: The passage contrasts spiritual-only and corporeal-only views with the
+    received opinion that both body and soul will be raised.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Body renewed from preserved bone by rain
+  summary: The os coccygis is said to remain uncorrupted as a seed, and a forty days'
+    rain from God causes bodies to sprout forth like plants.
+  figure_refs:
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Comparison with Jewish bone Luz tradition
+  summary: The passage compares the preserved-bone teaching to Jewish traditions about
+    the bone Luz and dew renewing the dust of the earth.
+  figure_refs:
+  - fig:11
+  symbol_refs:
+  - sym:11
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: mapped locations of souls after death
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage lists multiple possible locations for souls after death, including
+    graves, heaven with Adam, wells, a trumpet, under God's throne, and Sajn.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage reports multiple opinions rather than a single unified narrative
+    map.
+- id: motif:2
+  label: postmortem sorting of blessed and condemned souls
+  taxonomy_refs:
+  - divine_judgment
+  basis: Souls destined for paradise and hell are separated at Adam's right and left,
+    and wicked souls are rejected and confined for torment.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage describes doctrinal reports and opinions; the explicit judgment
+    scene is abbreviated.
+- id: motif:3
+  label: resurrection of body and soul
+  taxonomy_refs:
+  - resurrection
+  basis: The received opinion described is that both body and soul will be raised,
+    with bodily renewal from an incorruptible bone.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is theological exposition rather than mythic narrative.
+- id: motif:4
+  label: body regenerated from seed-like remnant by heavenly water
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The os coccygis remains as a seed and bodies sprout like plants after a forty
+    days' rain sent by God.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The plant-like sprouting is a simile in a resurrection doctrine, not a
+    separate vegetation myth.
+- id: motif:5
+  label: ascent or night-journey vision of afterlife souls
+  taxonomy_refs:
+  - ascent
+  - afterlife_journey_map
+  basis: The passage refers to Muhammad's return from the upper heavens in his night
+    journey and his seeing souls beside Adam in the lowest heaven.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only a brief reference to the journey is present in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the preserved os coccygis teaching with Jewish
+    traditions about the bone Luz, both functioning as an enduring bodily remnant
+    for resurrection.
+  claim_level: same_function
+  target: Jewish bone Luz tradition
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives a polemical or interpretive assertion of similarity
+    but does not provide the Jewish source text directly.
+- id: claim:2
+  claim: The passage states that Muhammad was 'beholden to the Jews' for the preserved-bone
+    resurrection idea, suggesting a claimed line of borrowing within the commentary.
+  claim_level: historical_contact
+  target: Jewish traditions about bone Luz and revivifying dew
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the translator/commentator's claim in the provided passage;
+    independent historical evidence is not supplied here.
+- id: claim:3
+  claim: A footnote says Jewish notions of the souls of the just being under the throne
+    of glory are consonant with the reported opinion that good souls dwell as white
+    birds under God's throne.
+  claim_level: same_function
+  target: Jewish notions of souls of the just under the throne of glory
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison appears in a note and is only summarized briefly in
+    the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4065-4069
+  quote_or_summary: The dead are said to hear salutations at their graves as well
+    as the living, though they cannot answer, and this is linked to visiting tombs
+    of relations.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4069-4074
+  quote_or_summary: One opinion places souls with Adam in the lowest heaven; Muhammad
+    is said to have seen souls destined to paradise on Adam's right and those condemned
+    to hell on his left during the night journey.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4074-4081
+  quote_or_summary: Other opinions place believers' souls in Zemzem, infidels' souls
+    in Borht, souls near graves for seven days, all souls in the resurrection trumpet,
+    or good souls as white birds under God's throne.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4081-4089
+  quote_or_summary: Wicked souls are offered by angels to heaven and earth, rejected,
+    carried to the seventh earth, and thrown into Sajn under a green rock or the devil's
+    jaw until they are joined again to their bodies.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4090-4097
+  quote_or_summary: The passage contrasts spiritual resurrection, corporeal resurrection,
+    and the received opinion that both body and soul will be raised.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4097-4108
+  quote_or_summary: Muhammad is said to have taught that the body is consumed except
+    al Ajb, the os coccygis, which remains as a seed until a forty days' rain from
+    God covers the earth and causes bodies to sprout like plants.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4108-4113
+  quote_or_summary: The passage compares this teaching to Jewish traditions about
+    the bone Luz, saying Jewish renewal is effected by dew impregnating the dust of
+    the earth rather than by a great rain.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. The passage is an English
+    commentary/translation context and reports multiple opinions, so motif assignments
+    should be reviewed for doctrinal and source-critical nuance.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or taxonomy IDs beyond those supplied were used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l4065-l4117
+  passage_sha256=eaa8b06c5ad4100bb6ff54047834369216f2df5293640037a0d69601900c184f

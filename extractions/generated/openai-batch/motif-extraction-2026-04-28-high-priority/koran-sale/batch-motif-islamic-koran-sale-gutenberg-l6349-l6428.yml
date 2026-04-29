@@ -1,0 +1,435 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l6349-l6428
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION V. / OF CERTAIN NEGATIVE PRECEPTS IN THE KORN. / SECTION VI. / OF
+    THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS.; lines 6349-6428
+  start: '6349'
+  end: '6428'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage summarizes Sale''s account of Koranic civil institutions concerning
+    marriage and divorce: Islamic civil law is said to be grounded in the Koran, polygamy
+    is described as limited to four wives or concubines with monogamy advised in some
+    circumstances, divorce is allowed with restrictions on remarriage after a third
+    divorce, women have more limited grounds for separation, and divorced women must
+    observe a waiting period with maintenance provisions.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Mohammedan civil law is founded on the precepts and
+    determinations of the Koran, and compares this with Jewish civil laws being founded
+    on the Pentateuch.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The passage says that Koranic civil law is interpreted differently by civilians
+    and especially by four great doctors: Abu Hanfa, Malec, al Shafe, and Ebn Hanbal.'
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that polygamy is allowed by the Koran but with limitations.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that no man can have more than four wives or concubines,
+    and that marrying one only is advised if inconvenience is feared from multiple
+    wives.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says Mohammed's limitation of plural wives was directed by the
+    decision of Jewish doctors, who counsel limiting wives to four.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that divorce is allowed by Mohammedan law, as it was by
+    Mosaic law, while noting differences in the rules on remarriage.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage states that after a third divorce a man may not take back his
+    former wife until she has been married and bedded by another husband and divorced
+    by him.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage states that men may repudiate wives on slight grounds, while women
+    may separate only for specified causes such as ill-usage, lack of maintenance,
+    neglect of conjugal duty, impotency, or comparable causes.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage states that a divorced woman must wait three courses, or three
+    months in certain cases, before remarrying; if pregnant, she must wait until delivery.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage states that during the waiting term the divorced woman may remain
+    in the husband's house and is to be maintained at his expense, unless she is guilty
+    of dishonesty.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: The Koran
+  description: The religious text presented as the foundation for Mohammedan civil
+    law and as containing precepts on marriage and divorce.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:9
+- id: fig:2
+  name_or_label: Mohammed
+  description: Named as the one who allowed or ordained specific limits and rules
+    for followers, with special privileges noted elsewhere by the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Mohammedan civilians and four great doctors
+  description: Legal interpreters named collectively, including Abu Hanfa, Malec,
+    al Shafe, and Ebn Hanbal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Jewish doctors
+  description: Legal authorities whose counsel is said to have limited the number
+    of wives to four.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Man or husband
+  description: A male spouse discussed in rules about polygamy, divorce, repudiation,
+    maintenance, and taking back a divorced wife.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: Wife or divorced woman
+  description: A female spouse discussed in rules about marriage, divorce, grounds
+    for separation, dowry, waiting periods, pregnancy, residence, and maintenance.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:7
+  name_or_label: Second husband
+  description: The man whom a woman must marry and be divorced by before her first
+    husband may take her back after a third divorce.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Mosaic law or Jewish civil law
+  description: The comparative legal tradition mentioned as grounded in the Pentateuch
+    and as also permitting divorce under different conditions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+roles:
+- id: role:1
+  label: scriptural legal foundation
+  assigned_to:
+  - fig:1
+  - fig:8
+  basis: The passage says Mohammedan civil law is founded on the Koran as Jewish civil
+    law was founded on the Pentateuch.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: prophetic legislator in the passage account
+  assigned_to:
+  - fig:2
+  basis: The passage attributes the limitation of plural wives and the third-divorce
+    remarriage rule to Mohammed.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: legal interpreter or authority
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage names Muslim legal doctors as interpreters and says Jewish doctors
+    counseled a four-wife limit.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: regulated husband
+  assigned_to:
+  - fig:5
+  basis: The passage describes what a man may do regarding marriage, polygamy, divorce,
+    remarriage, and maintenance.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:5
+  label: regulated wife or divorcee
+  assigned_to:
+  - fig:6
+  basis: The passage describes a wife's limited grounds for separation and a divorced
+    woman's waiting period and maintenance.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:6
+  label: intervening spouse
+  assigned_to:
+  - fig:7
+  basis: The second husband is part of the stated condition before a first husband
+    may take back a wife after a third divorce.
+  evidence_refs:
+  - ev:7
+symbols: []
+scenes:
+- id: scene:1
+  label: Summary introduction to Koranic civil institutions
+  summary: The passage introduces Mohammedan civil law as grounded in the Koran and
+    mediated by legal interpretation, especially by four named doctors.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Limits on plural marriage
+  summary: The passage explains that polygamy is allowed but limited to four wives
+    or concubines, with one wife advised if inconvenience is feared, and compares
+    the limit with Jewish doctors' counsel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Restriction on remarriage after repeated divorce
+  summary: The passage describes divorce as allowed and states that after a third
+    divorce a man may not resume marriage to the same woman until she has married,
+    been bedded by, and been divorced by another husband.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Gendered separation rules and waiting period
+  summary: The passage states that husbands may repudiate wives on slight grounds,
+    wives may separate only for specified serious causes, and divorced women must
+    observe a waiting period with residence and maintenance provisions.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Scripture as foundation of civil law
+  taxonomy_refs:
+  - covenant
+  basis: The passage presents civil law as grounded in religious scripture and explicitly
+    compares Koranic and Pentateuchal foundations for civil law.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is legal-historical exposition rather than narrative myth;
+    the covenant taxonomy reference is approximate and should be reviewed.
+- id: motif:2
+  label: Religiously regulated marriage and divorce
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The passage treats marriage, polygamy, divorce, remarriage, waiting periods,
+    and maintenance as governed by Koranic precepts.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: This is a legal pattern rather than a mythic sacred-marriage narrative;
+    taxonomy fit is uncertain.
+- id: motif:3
+  label: Threshold condition before restoration of marriage
+  taxonomy_refs: []
+  basis: The passage describes a sequence in which a third divorce bars reunion until
+    the woman has married and been divorced by another husband.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No broader mythological taxonomy is asserted.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Mohammedan civil law founded on the Koran
+    with Jewish civil law founded on the Pentateuch as analogous scriptural bases
+    for civil institutions.
+  claim_level: same_function
+  target: Jewish civil law and the Pentateuch
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is made by the translator/commentator in a legal exposition,
+    not by a narrative episode in the Koranic text.
+- id: claim:2
+  claim: The passage explicitly compares divorce in Mohammedan law with divorce in
+    Mosaic law, noting that both allow divorce but differ in remarriage rules.
+  claim_level: same_function
+  target: Mosaic divorce law
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim concerns legal function and stated differences; it does not
+    establish shared origin beyond what the passage says.
+- id: claim:3
+  claim: The passage states that Mohammed's four-wife limitation was directed by the
+    decision of Jewish doctors, who advised limiting wives to four.
+  claim_level: historical_contact
+  target: Jewish legal doctors' counsel on limiting wives to four
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is reported by the passage's commentator; no independent evidence
+    is supplied in the excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6349-6355
+  quote_or_summary: Mohammedan civil law is said to be founded on the Koran, as Jewish
+    civil laws were founded on the Pentateuch.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 6352-6356
+  quote_or_summary: 'The passage says interpretation varies according to civilians
+    and especially four great doctors: Abu Hanfa, Malec, al Shafe, and Ebn Hanbal.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 6358-6362
+  quote_or_summary: The passage states that polygamy is allowed by the Koran but rejects
+    the idea that it grants an unbounded plurality.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 6362-6371
+  quote_or_summary: The passage says no man may have more than four wives or concubines,
+    and advises one wife if inconvenience is feared from even that number.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 6390-6394
+  quote_or_summary: The passage states that Mohammed's limitation was directed by
+    Jewish doctors, who by counsel limit wives to four though their law fixes no certain
+    number.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 6395-6400
+  quote_or_summary: Divorce is said to be allowed by Mohammedan law as by Mosaic law,
+    with a difference regarding taking back a woman who had been married or betrothed
+    to another.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 6400-6408
+  quote_or_summary: The passage says Mohammed ordained that after a third divorce
+    a man could not take his wife again until she had been married and bedded by another
+    husband and divorced by him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 6412-6419
+  quote_or_summary: The passage states that men may repudiate wives on slight disgust,
+    while women may separate only for serious causes such as ill-usage, lack of maintenance,
+    neglect of conjugal duty, or impotency, and may lose dowry.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: lines 6420-6428
+  quote_or_summary: A divorced woman must wait three courses or three months before
+    remarrying; if pregnant she waits until delivery, and during the waiting term
+    may remain in the husband's house and receive maintenance unless guilty of dishonesty.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Legal observations and comparisons are explicit in the passage. Motif taxonomy
+    assignments are less certain because the excerpt is civil-law exposition rather
+    than mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No concrete symbols from the supplied symbol taxonomy appear in this passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l6349-l6428
+  passage_sha256=a6bf4738456d0a64b319a1b4d1c6253a16358891c7194ebbb86c8cefa4510110

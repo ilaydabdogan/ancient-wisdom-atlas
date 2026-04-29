@@ -1,0 +1,509 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l5844-l5922
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 5844-5922
+  start: '5844'
+  end: '5922'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes pilgrimage rites at Mina and the Caaba, including
+    animal sacrifice, shaving and nail-cutting, burial of cuttings, leave-taking at
+    the Caaba, and commentary that many rites were older Arabian practices confirmed
+    or altered by Mohammed. It discusses circumambulation, obedience to arbitrary
+    divine commands, comparisons to Roman circular worship, and Mohammed's compromise
+    with long-standing veneration of the Meccan temple by transferring devotion from
+    idols to God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: On the tenth of Dhu'lhajja, pilgrims slay sacrificial animals in the valley
+    of Mina.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Part of the sacrificed animals is eaten by pilgrims and their friends, and
+    the rest is given to the poor.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage specifies allowable sacrificial animals as sheep, goats, kine,
+    or camels, with sex and age conditions.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: After the sacrifices, pilgrims shave their heads, cut their nails, and bury
+    the hair and nails in the same place.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The pilgrimage is described as completed after these acts, though pilgrims
+    again visit the Caaba to take leave of the sacred building.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that many of the ceremonies were observed by pagan Arabs
+    before Mohammed, including compassing the Caaba, running between Saf and Merw,
+    and throwing stones in Mina.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Mohammed is said to have confirmed these rites with alterations, including
+    requiring clothing during circumambulation of the Caaba.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage reports an interpretation that some rites are arbitrary commands
+    meant to test obedience rather than intrinsically beneficial acts.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: One cited writer argues that circumambulation of the Caaba imitates the circular
+    motion of heavenly bodies.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Reland is cited as observing a Roman practice of circular motion in worship
+    ordered by Numa.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The temple of Mecca is described as highly venerated by most Arabs, especially
+    those of Mecca.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The passage says Mohammed allowed pilgrimage and prayer-direction toward the
+    Meccan temple while transferring devotion from idols to the true God and changing
+    scandalous circumstances.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: pilgrims
+  description: Participants in the pilgrimage rites who sacrifice animals, eat part
+    of the victims, shave their heads, cut nails, bury the cuttings, and revisit the
+    Caaba.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the poor
+  description: Recipients of the remaining portion of the sacrificial victims.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mohammed
+  description: Described as confirming older rites with alterations and later allowing
+    pilgrimage and prayer-direction toward the Meccan temple while transferring devotion
+    from idols to God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:4
+  name_or_label: pagan Arabs
+  description: Earlier practitioners of many rites later associated with the pilgrimage,
+    including compassing the Caaba, running between Saf and Merw, and throwing stones
+    in Mina.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: GOD
+  description: Presented as the one whose appointment makes arbitrary rites obligatory
+    and as the true recipient of devotion after its transfer from idols.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:6
+  name_or_label: Romans
+  description: A comparative group cited as having a worship practice involving circular
+    motion.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Meccans
+  description: People of Mecca described as especially interested in supporting the
+    veneration of the Meccan temple.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: ritual performers
+  assigned_to:
+  - fig:1
+  basis: They carry out the pilgrimage sacrifice, bodily grooming, burial of cuttings,
+    and leave-taking visit.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ritual recipients of redistributed food
+  assigned_to:
+  - fig:2
+  basis: They receive the part of the sacrificial victims not eaten by pilgrims and
+    friends.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ritual reformer and confirmer
+  assigned_to:
+  - fig:3
+  basis: He is said to confirm older rites with alterations and redirect devotion
+    from idols to God.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:4
+  label: prior practitioners
+  assigned_to:
+  - fig:4
+  basis: They are identified as observing many of the same pilgrimage rites before
+    Mohammed.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine commander and recipient of devotion
+  assigned_to:
+  - fig:5
+  basis: Rites are to be obeyed because God appointed them, and devotion is transferred
+    to the true God.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:6
+  label: comparative ritual practitioners
+  assigned_to:
+  - fig:6
+  basis: They are cited as having an analogous circular motion in worship.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: interested supporters of temple veneration
+  assigned_to:
+  - fig:7
+  basis: They are described as having particular interest in supporting the veneration
+    of the Meccan temple.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: sacrificial victims
+  literal_form: sheep, goats, kine, or camels slain at Mina
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hair and nails
+  literal_form: shaved hair and cut nails buried after sacrifice
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Caaba
+  literal_form: sacred building visited for leave-taking and circumambulated in pilgrimage
+    rites
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: stones in Mina
+  literal_form: stones thrown in Mina as one of the rites mentioned
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: circular motion
+  literal_form: compassing the Caaba and circular movement in worship
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: temple of Mecca
+  literal_form: venerated Meccan temple toward which prayer is directed
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: clothing during circumambulation
+  literal_form: clothed performance of compassing the Caaba, contrasted with earlier
+    naked practice
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sacrifice and completion at Mina
+  summary: Pilgrims slaughter permitted animals at Mina, share the meat with friends
+    and the poor, shave heads, cut nails, bury the cuttings, and then regard the pilgrimage
+    as completed before revisiting the Caaba.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Older rites confirmed and altered
+  summary: The passage states that many pilgrimage rites predated Mohammed among pagan
+    Arabs and that Mohammed confirmed them with changes such as requiring clothing
+    during circumambulation.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Explanations of arbitrary and circular rites
+  summary: The passage reports interpretations that some rites test obedience to God's
+    command and that circular movement around the Caaba may imitate heavenly motion;
+    it also cites a Roman circular worship parallel.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Compromise over Meccan temple veneration
+  summary: The passage describes strong Arab and Meccan veneration for the Meccan
+    temple and says Mohammed compromised by permitting pilgrimage and prayer-direction
+    while redirecting devotion from idols to God.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: ritual animal sacrifice and redistribution
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage describes pilgrims slaying animals at Mina, eating part with
+    friends, and giving the rest to the poor.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is descriptive and polemical in tone; it does not elaborate
+    a mythic narrative around the sacrifice.
+- id: motif:2
+  label: ritual bodily removal and burial after sacrifice
+  taxonomy_refs: []
+  basis: After sacrifice, pilgrims shave heads, cut nails, and bury the cuttings in
+    the same place.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No explicit interpretation of the burial act is provided in the passage.
+- id: motif:3
+  label: circumambulation of a sacred building
+  taxonomy_refs: []
+  basis: The passage mentions compassing the Caaba as an older rite confirmed with
+    alteration and later rationalized as circular imitation of heavenly bodies.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The supplied taxonomy has no exact circumambulation category; no world-center
+    classification is asserted.
+- id: motif:4
+  label: obedience tested through arbitrary divine rites
+  taxonomy_refs: []
+  basis: The passage states that certain rites are arbitrary commands to be followed
+    because God appointed them, as a trial of obedience.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is presented as an acknowledged theological explanation rather than
+    a narrative episode.
+- id: motif:5
+  label: adaptation of older sacred customs into reformed worship
+  taxonomy_refs: []
+  basis: The passage says older Arabian rites were retained with alterations, and
+    that devotion at the Meccan temple was transferred from idols to God.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: The account reflects the translator/commentator's framing and should be
+    reviewed against primary Islamic sources.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares circumambulation of the Caaba with Roman
+    circular motion in worship, treating both as circular ritual movement associated
+    with divine adoration or cosmic order.
+  claim_level: same_function
+  target: Roman circular motion in worship ordered by Numa
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is reported through Reland and Plutarch as cited in
+    the passage; it does not establish historical contact or identity of rite.
+- id: claim:2
+  claim: The passage presents Islamic pilgrimage rites as continuous with, but modified
+    from, earlier pagan Arabian rites at the Caaba and Mina.
+  claim_level: historical_contact
+  target: pre-Islamic Arabian pilgrimage rites
+  evidence_refs:
+  - ev:3
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is based on the passage's commentary and should be checked against
+    primary sources and modern scholarship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5844-5850
+  quote_or_summary: On the tenth of Dhu'lhajja, pilgrims slay victims at Mina; part
+    is eaten by them and friends, the rest given to the poor; permitted animals are
+    sheep, goats, kine, or camels under sex and age rules.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5850-5855
+  quote_or_summary: After sacrifices, pilgrims shave heads, cut nails, bury them in
+    the same place, regard the pilgrimage as completed, and later visit the Caaba
+    to take leave of the sacred building.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5856-5867
+  quote_or_summary: The passage says many ceremonies were observed by pagan Arabs
+    before Mohammed, especially compassing the Caaba, running between Saf and Merw,
+    and throwing stones in Mina; Mohammed confirmed them with alterations such as
+    requiring clothing during circumambulation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5868-5876
+  quote_or_summary: The passage says many rites are acknowledged to be arbitrary,
+    commanded to try human obedience, and complied with because God appointed them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5876-5880
+  quote_or_summary: A cited writer argues that procession around the Caaba is rational
+    because humans should imitate heavenly bodies in purity and circular motion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5880-5886
+  quote_or_summary: Reland is cited as observing a Roman circular motion in worship
+    ordered by Numa, interpreted as representing the world's orbicular motion, completing
+    prayer to the maker of the universe, or alluding to Egyptian wheels.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5900-5907
+  quote_or_summary: The temple of Mecca is described as excessively venerated by most
+    Arabs, especially Meccans who had an interest in supporting that veneration.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5907-5916
+  quote_or_summary: The passage says Mohammed found it easier to abolish idolatry
+    than attachment to the Meccan temple and rites, so he allowed pilgrimage and prayer-direction
+    there while transferring devotion from idols to the true God and altering scandalous
+    details.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based solely on the provided passage. The passage is a translator/commentator
+    discussion with polemical language, so interpretive claims about origins and continuity
+    require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No unsupported taxonomy symbol refs were assigned; motif taxonomy refs were used only where directly supported by the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l5844-l5922
+  passage_sha256=7d067cf4f9890c2cba1355ba0d03005457bac019bba790fc5370319f8bff7838

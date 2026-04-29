@@ -1,0 +1,496 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l2608-l2661
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: THE KORAN. / PRELIMINARY DISCOURSE / SECTION I. / SECTION II.; lines 2608-2661
+  start: '2608'
+  end: '2661'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: '"illiterate prophet"'
+  summary: The passage describes Mohammed's reported disclosure of his mission to
+    Khadjah in the cave on Mount Hara, the reported angelic appearance of Gabriel,
+    Khadjah's acceptance and consultation with Warakah, and the early private conversion
+    of household members and influential Meccan followers.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Mohammed's followers are said to call him the "illiterate prophet."
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mohammed retired with his family to a cave in Mount Hara before disclosing
+    his mission to Khadjah.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mohammed told Khadjah that Gabriel had appeared to him and said he was appointed
+    the apostle of God.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Mohammed repeated to Khadjah a passage he said had been revealed through the
+    angel.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Khadjah received the report with joy and expressed trust that Mohammed would
+    be the prophet of his nation.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Khadjah communicated the report to Warakah Ebn Nawfal, described as a Christian
+    who could write in the Hebrew character and knew the scriptures.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Warakah agreed with Khadjah and said that the same angel formerly appearing
+    to Moses was now sent to Mohammed.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The first overture is placed in Ramadan, in the fortieth year of Mohammed's
+    age, called the year of his mission.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Mohammed proceeded by private persuasion before public exposure of the affair.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage lists Khadjah, Zeid Ebn Harethah, Ali, Abu Becr, and several principal
+    men in Mecca among early converts or followers.
+  category: sequence
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: obs:11
+  text: Zeid Ebn Harethah is described as Mohammed's servant, freed on the occasion
+    of his conversion.
+  category: relationship
+  evidence_refs:
+  - ev:10
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Central figure who discloses his mission, reports Gabriel's appearance,
+    and privately persuades early followers.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Khadjah
+  description: Mohammed's wife, first addressed about the mission, who receives the
+    news with joy and consults Warakah.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+- id: fig:3
+  name_or_label: Gabriel
+  description: Angel said to have appeared to Mohammed, conveyed appointment as apostle
+    of God, and mediated revelation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: God
+  description: Divine authority in whose name Mohammed is said to be appointed apostle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Warakah Ebn Nawfal
+  description: Khadjah's cousin, described as a Christian knowledgeable in scriptures,
+    who validates her interpretation by comparison to Moses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Moses
+  description: Earlier figure mentioned in Warakah's comparison regarding the angel's
+    former appearance.
+  role_refs: []
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Zeid Ebn Harethah
+  description: Mohammed's servant, freed on the occasion and listed among early household
+    converts.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+  - ev:12
+- id: fig:8
+  name_or_label: Ali
+  description: Mohammed's cousin and pupil, young at the time, listed among early
+    household converts and said to call himself the first of believers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:10
+- id: fig:9
+  name_or_label: Abu Becr
+  description: A man of authority among the Koreish whom Mohammed approached; after
+    being gained over, he persuaded other principal Meccans.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:11
+- id: fig:10
+  name_or_label: Othman Ebn Affan, Abd'alrahman Ebn Awf, Saad Ebn Abi Wakkas, al Zobeir
+    Ebn al Awam, and Telha Ebn Obeid'allah
+  description: Principal men in Mecca said to have followed Abu Becr's example.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: reported apostle and prophet
+  assigned_to:
+  - fig:1
+  basis: The passage says Gabriel told Mohammed he was appointed apostle of God, and
+    Khadjah trusted he would be prophet of his nation.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: early believer or convert
+  assigned_to:
+  - fig:2
+  - fig:8
+  - fig:10
+  basis: The passage lists these people among those who accepted or followed Mohammed
+    early.
+  evidence_refs:
+  - ev:5
+  - ev:10
+  - ev:11
+- id: role:3
+  label: angelic messenger
+  assigned_to:
+  - fig:3
+  basis: Gabriel is said to appear, announce Mohammed's appointment, and mediate revelation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: divine sender
+  assigned_to:
+  - fig:4
+  basis: Mohammed is described as being appointed apostle of God.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: private persuader
+  assigned_to:
+  - fig:1
+  basis: After the first disclosure, Mohammed is said to proceed by private persuasion.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: scriptural validator
+  assigned_to:
+  - fig:5
+  basis: Warakah is described as scripturally learned and as affirming Khadjah's opinion
+    about the angel.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: freed servant and early convert
+  assigned_to:
+  - fig:7
+  basis: Zeid is described as Mohammed's servant, freed on that occasion, and made
+    a proselyte.
+  evidence_refs:
+  - ev:10
+  - ev:12
+- id: role:8
+  label: influential intermediary convert
+  assigned_to:
+  - fig:9
+  basis: Abu Becr is described as authoritative among the Koreish and as persuading
+    other principal men after he was gained over.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave in Mount Hara
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: mountain
+  literal_form: Mount Hara
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: revealed passage
+  literal_form: a passage said to have been revealed by the ministry of the angel
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Disclosure in the cave on Mount Hara
+  summary: Mohammed retires with his family to the cave on Mount Hara and tells Khadjah
+    that Gabriel has appeared and announced his appointment as apostle of God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Khadjah and Warakah's affirmation
+  summary: Khadjah accepts Mohammed's report, tells Warakah, and Warakah affirms that
+    the angel associated with Moses has now been sent to Mohammed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Private persuasion and early followers
+  summary: Mohammed proceeds privately, gaining household members and then Abu Becr,
+    whose influence brings other principal Meccans to follow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: prophetic commissioning by angelic messenger
+  taxonomy_refs: []
+  basis: The passage reports that Gabriel appeared to Mohammed and told him he was
+    appointed apostle of God.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is a later English preliminary discourse with polemical framing;
+    the extraction records only the reported narrative elements in the supplied passage.
+- id: motif:2
+  label: revelation in a cave or mountain retreat
+  taxonomy_refs: []
+  basis: The disclosure of mission and reported revelation are placed in a cave in
+    Mount Hara, after retirement with family.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage reports the cave setting for the disclosure to Khadjah and
+    refers to earlier circumstances of the first appearance; it does not fully narrate
+    the first appearance itself.
+- id: motif:3
+  label: first believer affirms prophet's mission
+  taxonomy_refs: []
+  basis: Khadjah receives the report with joy and trusts Mohammed will be prophet
+    of his nation.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is an early-conversion pattern in the passage rather than a formal
+    taxonomy motif.
+- id: motif:4
+  label: scriptural recognition of new mission through earlier precedent
+  taxonomy_refs:
+  - wisdom
+  basis: Warakah is presented as versed in scriptures and affirms that the angel formerly
+    appearing to Moses was now sent to Mohammed.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The wisdom taxonomy reference is supported only by Warakah's scriptural
+    knowledge and interpretive role, not by an explicit named wisdom motif.
+- id: motif:5
+  label: private gathering of first disciples
+  taxonomy_refs: []
+  basis: Mohammed is said to begin with household conversion and private persuasion
+    before public exposure, then gain several early followers.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: This is a social-sequence motif and not necessarily mythological in itself.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Gabriel's mission to Mohammed with the angelic
+    appearance formerly associated with Moses.
+  claim_level: same_function
+  target: angelic messenger to Moses in earlier scriptural tradition
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim rests solely on Warakah's statement as reported in this passage;
+    no independent textual comparison is provided here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2608-2613
+  quote_or_summary: Mohammed's followers are said to call him the "illiterate prophet."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:2
+  type: summary
+  locator: 2618-2622
+  quote_or_summary: Before attempting abroad, Mohammed is said to retire with his
+    family to the above-mentioned cave in Mount Hara and disclose his mission to Khadjah.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: 2621-2624
+  quote_or_summary: Mohammed tells Khadjah that Gabriel had appeared to him and told
+    him he was appointed apostle of God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: 2624-2627
+  quote_or_summary: Mohammed repeats a passage to Khadjah which he says had been revealed
+    through the angel, along with other circumstances of the first appearance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: 2627-2630
+  quote_or_summary: Khadjah receives the news with joy and says she trusts he will
+    be prophet of his nation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: 2630-2633
+  quote_or_summary: Khadjah tells her cousin Warakah Ebn Nawfal, described as a Christian
+    able to write in Hebrew character and versed in the scriptures.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: 2633-2635
+  quote_or_summary: Warakah accepts Khadjah's view and says the same angel formerly
+    appearing to Moses was now sent to Mohammed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: 2635-2637
+  quote_or_summary: The first overture is dated to Ramadan in Mohammed's fortieth
+    year, called the year of his mission.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:9
+  type: summary
+  locator: 2638-2641
+  quote_or_summary: Encouraged, Mohammed resolves to proceed by private persuasion
+    and not expose the affair suddenly to the public.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:10
+  type: summary
+  locator: 2641-2647
+  quote_or_summary: The passage lists Khadjah, Zeid Ebn Harethah, and Ali among early
+    proselytes under Mohammed's roof; Zeid is freed and Ali later styles himself first
+    of believers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:11
+  type: summary
+  locator: 2647-2653
+  quote_or_summary: Mohammed approaches Abu Becr, whose influence among the Koreish
+    helps bring Othman, Abd'alrahman, Saad, al Zobeir, and Telha to follow his example.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:12
+  type: summary
+  locator: 2659-2661
+  quote_or_summary: A note states that Zeid was Mohammed's purchased slave, according
+    to Abulfeda, and not his cousin-german as another author asserted.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main narrative elements are explicit in the passage. Motif labels beyond
+    the explicit cave, mountain, angelic commissioning, and first converts are interpretive
+    and require review. Sale's wording is polemical; extraction avoids endorsing those
+    judgments.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Names follow the spellings in the passage where legible.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l2608-l2661
+  passage_sha256=4b3363194e156165103edfb3d07b86eeda30c259b5275a41f127184ef5fdca2d

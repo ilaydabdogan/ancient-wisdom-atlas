@@ -1,0 +1,473 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l6729-l6778
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION V. / OF CERTAIN NEGATIVE PRECEPTS IN THE KORN. / SECTION VI. / OF
+    THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS.; lines 6729-6778
+  start: '6729'
+  end: '6778'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses corporal punishment, distinctions between religious
+    and secular legal authority, and commentary on Qur'anic injunctions about warfare,
+    martyrdom, paradise, desertion, and analogous exhortations attributed to Jewish
+    and Christian traditions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes stripes or drubbing as a common chastisement and identifies
+    the cudgel as the usual instrument for executing a judge's sentence.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cudgel is said by those described in the passage to have come down from
+    heaven because of its efficacy in keeping people in order.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage distinguishes written civil law administered in ecclesiastical
+    courts from a secular common-law-like authority used in secular courts.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the Qur'an repeatedly includes injunctions about warring
+    against infidels and treats such warfare as meritorious in the sight of God.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Those slain while fighting in defense of the faith are described as martyrs
+    promised immediate admission into paradise.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Mohammedan divines are described as calling the sword the key of heaven and
+    hell.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says a drop of blood spilled in the way of God is presented as
+    acceptable to God, and one night defending Muslim territories as highly meritorious.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Desertion, refusal to serve in holy wars, or refusal to contribute when able
+    is described as a heinous crime.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage states that Jews and Christians have used similar arguments and
+    promises to encourage their partisans.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A quoted instruction attributed to Maimonides tells a defender of the law
+    to rely on Israel's hope, fight for divine unity, put his life in his hand, and
+    set aside thoughts of family.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Judge
+  description: A legal authority whose sentence is executed with the cudgel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mohammedans / Moslems
+  description: The group whose civil law, divines, territories, and holy wars are
+    discussed in the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: God
+  description: The divine figure in whose sight warfare is described as meritorious
+    and to whom blood spilled in the way of God is described as acceptable.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Slain defenders of the faith
+  description: Fighters killed in defense of the faith and described as martyrs promised
+    immediate admission into paradise.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Mohammedan divines
+  description: Religious teachers who magnify the duty of warfare and call the sword
+    the key of heaven and hell.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Deserters or refusers
+  description: Persons who desert, refuse service in holy wars, or refuse contribution
+    despite ability.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Jews and Christians
+  description: Groups said to have used similar arguments and promises to animate
+    their respective partisans.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Maimonides
+  description: The authority quoted as exhorting a defender of the law to fight for
+    divine unity and disregard family attachments.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: judicial sentencer
+  assigned_to:
+  - fig:1
+  basis: The judge's sentence is said to be executed with the cudgel.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: religious legal community
+  assigned_to:
+  - fig:2
+  basis: The passage discusses their civil law, courts, divines, territories, and
+    warfare obligations.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: divine evaluator of merit
+  assigned_to:
+  - fig:3
+  basis: Warfare is described as high merit in God's sight, and blood spilled in God's
+    way as acceptable to him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: martyrs promised paradise
+  assigned_to:
+  - fig:4
+  basis: The passage explicitly says slain defenders of the faith are reckoned martyrs
+    and promised immediate admission into paradise.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: religious exhorters
+  assigned_to:
+  - fig:5
+  basis: They are said to magnify the duty of warfare and employ imagery of the sword
+    as key of heaven and hell.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: condemned nonparticipants
+  assigned_to:
+  - fig:6
+  basis: Their desertion, refusal to serve, or refusal to contribute is called a heinous
+    crime.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: analogous exhorting traditions
+  assigned_to:
+  - fig:7
+  basis: The passage says Jews and Christians used similar arguments and promises
+    to spirit up their partisans.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: quoted legal-religious authority
+  assigned_to:
+  - fig:8
+  basis: A passage from Maimonides is quoted as instruction for one enlisted in defense
+    of the law.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: cudgel from heaven
+  literal_form: Cudgel used to execute a judge's sentence and said to have come down
+    from heaven.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sword as key of heaven and hell
+  literal_form: Sword called the key of heaven and hell by Mohammedan divines.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: blood spilled in the way of God
+  literal_form: A drop of blood spilled in the way of God described as acceptable
+    to God.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: paradise as martyr's destination
+  literal_form: Paradise promised immediately to those slain in defense of the faith.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: life in the hand
+  literal_form: Instruction to put one's life in one's hand while fighting for divine
+    unity.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Corporal punishment and heavenly cudgel
+  summary: The passage describes judicial chastisement by stripes or drubbing and
+    says the cudgel used for sentence execution is claimed to have descended from
+    heaven.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Civil and secular legal distinction
+  summary: The passage contrasts Qur'an-based and interpretive religious legal decisions
+    with secular tribunals that may judge otherwise under a common-law-like authority.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Holy warfare, martyrdom, and paradise
+  summary: The passage describes warfare against infidels as meritorious, with slain
+    defenders of the faith reckoned martyrs and promised immediate admission into
+    paradise.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Condemnation of desertion and refusal
+  summary: The passage describes desertion, refusal to serve in holy wars, or refusal
+    to contribute when able as a heinous crime.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Analogous martial exhortation
+  summary: The passage says Jews and Christians have also used similar promises and
+    arguments, and quotes Maimonides exhorting a defender of the law to fight for
+    divine unity without regard to family ties.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Martyrdom rewarded by immediate paradise
+  taxonomy_refs:
+  - sacrifice
+  - divine_judgment
+  basis: The passage says those slain fighting in defense of the faith are reckoned
+    martyrs and promised immediate admission into paradise.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is doctrinal commentary rather than a mythic narrative; taxonomy
+    alignment is functional and needs review.
+- id: motif:2
+  label: Sacralized weapon as mediator of afterlife fate
+  taxonomy_refs:
+  - divine_judgment
+  basis: The sword is described by religious divines as the key of heaven and hell.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The sword is not in the provided symbol taxonomy, and the phrase is reported
+    as religious rhetoric rather than a narrative event.
+- id: motif:3
+  label: Sacred exchange of blood or service for divine merit
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: The passage links blood spilled in the way of God, territorial defense, and
+    fighting in defense of faith with divine acceptability, merit, and paradise.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an interpretive motif candidate derived from legal-theological
+    claims in the passage, not from a myth episode.
+- id: motif:4
+  label: Heaven-descended instrument of discipline
+  taxonomy_refs:
+  - divine_judgment
+  basis: The cudgel used for judicial punishment is said to have come down from heaven
+    and to keep people within bounds of duty.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage reports a saying about the cudgel; it does not develop a full
+    narrative of divine origin.
+- id: motif:5
+  label: Renunciation of family ties for sacred warfare
+  taxonomy_refs:
+  - departure
+  - sacrifice
+  basis: The Maimonides quotation instructs the fighter to think neither of wife nor
+    children and to fix his mind wholly on war.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This motif is based on an exhortative quotation embedded in comparative
+    commentary.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Islamic holy-war exhortation with Jewish and
+    Christian exhortations that use similar arguments and promises to encourage partisans.
+  claim_level: same_function
+  target: Jewish and Christian martial-religious exhortation
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a polemical comparative assertion and one Jewish
+    example; it does not provide detailed Christian examples in this excerpt.
+- id: claim:2
+  claim: The Maimonides quotation is presented as an example of a nearby monotheistic
+    tradition using sacred-duty rhetoric comparable in function to the preceding Islamic
+    warfare rhetoric.
+  claim_level: same_function
+  target: Maimonides' exhortation to fight in defense of the law
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to rhetorical function within the passage
+    and does not establish historical borrowing or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6729-6734
+  quote_or_summary: The passage describes stripes or drubbing as common eastern chastisement
+    and the cudgel as the usual instrument of a judge's sentence, said to have come
+    down from heaven.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6735-6746
+  quote_or_summary: The passage says the Qur'an is treated as fundamental civil law,
+    but secular tribunals may judge against religious legal decisions, distinguishing
+    ecclesiastical written civil law from a secular common-law-like authority.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6747-6752
+  quote_or_summary: The passage states that the Qur'an repeats injunctions to war
+    against infidels, calls this highly meritorious in God's sight, and says slain
+    defenders of the faith are reckoned martyrs promised immediate paradise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6752-6758
+  quote_or_summary: The passage says Mohammedan divines call the sword the key of
+    heaven and hell, present blood spilled in the way of God as acceptable, and esteem
+    a night defending Muslim territories above a two-month fast.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6758-6762
+  quote_or_summary: The passage says desertion, refusal to serve in holy wars, or
+    refusal to contribute when able is accounted a heinous crime and declaimed against
+    in the Qur'an.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6762-6778
+  quote_or_summary: The passage says Jews and Christians have also encouraged partisans
+    with similar promises, then quotes Maimonides instructing one defending the law
+    to rely on Israel's hope, fight for divine unity, put his life in his hand, and
+    disregard wife and children.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an eighteenth-century English commentary/translation apparatus
+    rather than a primary Qur'anic narrative. Literal extraction is straightforward,
+    but motif assignments are interpretive and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy symbol refs were assigned because the passage's main objects—cudgel, sword, blood, and paradise—are not in the supplied symbol list.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l6729-l6778
+  passage_sha256=3ef52f453d06d3f18a9343fdcc8e012793d8b14938d1a2e7a739a4efd25756fa

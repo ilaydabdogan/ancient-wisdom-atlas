@@ -1,0 +1,624 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l5335-l5393
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 5335-5393
+  start: '5335'
+  end: '5393'
+  translation: The Koran (Al-Qur'an), Sale translation/commentary
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses rules and comparisons concerning Muslim prayer, including
+    gender separation in worship, daily prayer, postures, prostration, direction of
+    prayer toward Jerusalem and later the Caaba, ritual cleanliness, and almsgiving
+    as legal or voluntary. It repeatedly compares Muslim practices with Jewish, eastern
+    Christian, Sabian, and other cited practices.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Women are described as obliged to perform devotions at home, or to visit mosques
+    only when men are absent.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that many particulars of the Mohammedan institution of
+    prayer seem to have been copied from others, especially the Jews, while exceeding
+    Jewish institutions in the number of daily prayers.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Jewish prayer is described as occurring three times a day, associated with
+    Abraham, Isaac, Jacob, and the time of Daniel.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says Muslim prayer postures are the same as those prescribed by
+    Jewish rabbis, especially prostration with the forehead touching the ground.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A Jewish polemical claim is reported that Muslim prostration is a relic of
+    ancient devotion to Baal-Peor.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Jewish worshipers are described as praying toward the temple of Jerusalem,
+    and Daniel is cited as opening his chamber windows toward that city.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Jerusalem is said to have been the prayer direction of Mohammed and his followers
+    for six or seven months before it was changed to the Caaba.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Jewish worship is described as requiring care that the place of prayer and
+    garments used in prayer be clean.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Jewish men and women are described as praying apart, and eastern Christians
+    are said to have imitated this practice.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Alms in the Mohammedan religion are divided into legal alms of indispensable
+    obligation and voluntary alms left to individual liberty.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: A footnote attributes to Ahmed Ebn Abdalla criticism of mixed male and female
+    Christian worship as distracting from devotion.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: A footnote says that some report the Sabians as praying seven times a day,
+    exceeding the Mohammedans in this point.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Moslems / Mohammedans
+  description: The Muslim worshiping community discussed in relation to prayer rules,
+    mosque attendance, prayer direction, and almsgiving.
+  role_refs:
+  - role:1
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Women worshipers
+  description: Women described as performing devotions at home or visiting mosques
+    when men are not present.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Men worshipers
+  description: Men whose presence at mosques is treated as requiring separate timing
+    for women’s visits.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:4
+  name_or_label: Jews / Jewish worshipers / Jewish rabbis
+  description: The group used as the main comparison for prayer times, postures, prayer
+    direction, cleanliness, and separation of men and women.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Mohammed and his followers
+  description: Mohammed and his followers are said to have used Jerusalem as their
+    prayer direction for six or seven months before changing it to the Caaba.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Abraham, Isaac, Jacob, and Daniel
+  description: Biblical figures cited as exemplars or early witnesses for Jewish prayer
+    practice.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:7
+  name_or_label: Solomon
+  description: Solomon is cited in connection with the dedication of the Jerusalem
+    temple as the Jewish prayer direction.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Eastern Christians
+  description: A group said to have imitated the Jewish practice of men and women
+    praying apart.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Sabians
+  description: A group reported in a footnote as praying seven times a day according
+    to some.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+- id: fig:10
+  name_or_label: Ahmed Ebn Abdalla
+  description: A Moor cited in a footnote as criticizing mixed-gender Christian worship.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: ritual worshipers
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage describes both Muslim and Jewish communities performing regulated
+    prayer.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: gender-separated worshipers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Women are described as worshiping at home or when men are absent; men and
+    women are treated as separated in devotional settings.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:3
+  label: community founder or leader linked to prayer direction
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Mohammed and his followers are associated with the initial Jerusalem prayer
+    direction and later change to the Caaba.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: comparative ritual tradition
+  assigned_to:
+  - fig:4
+  - fig:8
+  - fig:9
+  basis: Jewish, eastern Christian, and Sabian practices are used as comparisons for
+    Muslim prayer customs.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:9
+- id: role:5
+  label: scriptural exemplar
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Abraham, Isaac, Jacob, Daniel, and Solomon are cited as precedents or authorities
+    for Jewish prayer direction and timing.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:6
+  label: almsgivers
+  assigned_to:
+  - fig:1
+  basis: The passage identifies giving alms as a point of Mohammedan religion.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: religious critic
+  assigned_to:
+  - fig:10
+  basis: Ahmed Ebn Abdalla is cited as criticizing mixed-gender worship in a Christian
+    context.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: mosque
+  literal_form: Mosques as places visited for devotions, with gendered restrictions
+    on attendance.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: prostration with forehead to ground
+  literal_form: A prayer posture described as the most solemn act of adoration.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: temple of Jerusalem as Kebla
+  literal_form: The Jerusalem temple is described as the Jewish prayer direction and
+    as Mohammed’s early prayer direction.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Caaba as Kebla
+  literal_form: The Caaba is described as the prayer direction adopted after the earlier
+    direction toward Jerusalem.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: clean place and garments
+  literal_form: The place of prayer and garments worn during prayer are described
+    as needing to be clean.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: legal and voluntary alms
+  literal_form: Alms are divided into legally required gifts and voluntary gifts,
+    called by some Zact and Sadakat.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - sacred_exchange
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: daily prayer number
+  literal_form: Three daily Jewish prayers and seven daily Sabian prayers are mentioned
+    as comparative prayer counts.
+  associated_figures:
+  - fig:4
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:9
+scenes:
+- id: scene:1
+  label: Gendered devotional space
+  summary: Women’s devotions are described as occurring at home or at mosques only
+    when men are absent, with a rationale concerning distraction in worship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:10
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: scene:2
+  label: Comparison of Muslim and Jewish prayer practices
+  summary: The passage compares Muslim prayer with Jewish prayer in daily observance,
+    postures, prostration, direction, cleanliness, and gender separation.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Change of prayer direction
+  summary: Jerusalem is described as the early prayer direction of Mohammed and his
+    followers, later changed to the Caaba.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Classification of alms
+  summary: Almsgiving is described as consisting of legal obligatory alms and voluntary
+    alms left to individual choice.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Prayer frequency comparison
+  summary: A footnote reports that some say the Sabians pray seven times a day, exceeding
+    the Mohammedans in prayer frequency.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Prayer oriented toward a sacred direction
+  taxonomy_refs:
+  - world_center
+  basis: The passage emphasizes prayer with faces turned toward the Jerusalem temple
+    and later toward the Caaba as the Kebla.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link to world_center is interpretive; the passage itself
+    frames these places as prayer directions rather than explicitly as cosmic centers.
+- id: motif:2
+  label: Bodily prostration as solemn adoration
+  taxonomy_refs: []
+  basis: The passage identifies prostration with the forehead touching the ground
+    as a central solemn act of prayer.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this gesture.
+- id: motif:3
+  label: Ritual purity before prayer
+  taxonomy_refs: []
+  basis: The passage describes care that the place of prayer and garments worn during
+    prayer be clean.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives this as a comparative rule of Jewish worship; its relation
+    to Muslim practice is by stated conformity rather than detailed prescription here.
+- id: motif:4
+  label: Gender separation in worship
+  taxonomy_refs: []
+  basis: The passage describes women worshiping apart from men and notes men and women
+    praying apart among Jews, with eastern Christian imitation.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The rationale appears in the passage’s commentary and footnote, not as
+    a mythic narrative.
+- id: motif:5
+  label: Obligatory and voluntary sacred giving
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Alms are divided into legally required and voluntary forms, with portion
+    and kind regulated for the legal form.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The sacred_exchange taxonomy fit is broad; the passage treats alms as
+    religious duty rather than reciprocal exchange with a deity.
+- id: motif:6
+  label: Regulated daily prayer cycle
+  taxonomy_refs: []
+  basis: The passage compares Muslim, Jewish, and Sabian daily prayer counts and times.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+  confidence: high
+  cautions: The exact Muslim prayer count is not stated in the supplied excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage asserts broad conformity between Mohammedan prayer practices
+    and Jewish public worship, including postures, prayer direction, cleanliness,
+    and gender separation.
+  claim_level: same_function
+  target: Jewish public worship
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a claim made by the supplied commentary; it should not be treated
+    as an independently verified historical conclusion without outside evidence.
+- id: claim:2
+  claim: The passage states that Mohammed’s prayer institution seems to have copied
+    from others, especially the Jews.
+  claim_level: historical_contact
+  target: Jewish prayer practice as a source for Mohammedan prayer
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The wording is the commentator’s assertion and may reflect polemical
+    or comparative framing; the passage provides citations but no direct primary evidence
+    in the excerpt.
+- id: claim:3
+  claim: The passage presents Jewish and Muslim prostration as functionally and visually
+    similar, particularly in forehead-to-ground adoration.
+  claim_level: visual_similarity
+  target: Jewish rabbinic prayer postures
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns ritual posture only; it does not establish
+    shared origin by itself.
+- id: claim:4
+  claim: The passage says eastern Christians imitated the Jewish practice of men and
+    women praying apart.
+  claim_level: same_function
+  target: Eastern Christian gender separation in worship
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt gives the claim briefly and does not provide details of
+    eastern Christian practice.
+- id: claim:5
+  claim: A footnote compares Sabian and Mohammedan daily prayer frequency by saying
+    some report the Sabians pray seven times a day and exceed the Mohammedans in this
+    respect.
+  claim_level: same_function
+  target: Sabian daily prayer cycle
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is introduced as 'according to some,' and the passage does
+    not state the Mohammedan prayer count in this excerpt.
+- id: claim:6
+  claim: The passage reports a Jewish polemical attribution of Muslim prostration
+    to ancient devotion to Baal-Peor.
+  claim_level: historical_contact
+  target: Baal-Peor devotion
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage frames this as what opponents 'pretend'; it is polemical
+    and unsupported within the excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5335-5339
+  quote_or_summary: Women are said to perform devotions at home or attend mosques
+    only when men are not present, because their presence is viewed as affecting the
+    kind of devotion appropriate to worship of God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5340-5345
+  quote_or_summary: The commentator says most particulars of Mohammedan prayer seem
+    copied from others, especially Jews, differing chiefly by having more daily prayers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5343-5347
+  quote_or_summary: Jews are described as praying three times a day—morning, evening,
+    and night—in imitation of Abraham, Isaac, and Jacob, with the practice attested
+    at least by Daniel.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5347-5353
+  quote_or_summary: Muslim prayer postures are said to match those prescribed by Jewish
+    rabbis, especially prostration with the forehead touching the ground; a Jewish
+    polemical claim links this to Baal-Peor.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5353-5361
+  quote_or_summary: Jews pray toward the Jerusalem temple; Daniel is cited as opening
+    his windows toward Jerusalem; Jerusalem was also Mohammed’s and his followers’
+    Kebla for six or seven months before the change to the Caaba.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5361-5367
+  quote_or_summary: Jewish religion is described as requiring clean prayer places
+    and garments; Jewish men and women pray apart, and eastern Christians are said
+    to have imitated this separation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5368-5377
+  quote_or_summary: The next point of Mohammedan religion is almsgiving, divided into
+    legal obligatory alms and voluntary alms; some call the former Zact and the latter
+    Sadakat.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5378-5388
+  quote_or_summary: A footnote cites Ahmed Ebn Abdalla criticizing mixed male and
+    female worship at mass as distracting and inflaming improper desires.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 5389-5390
+  quote_or_summary: A footnote says that according to some, Sabians exceed Mohammedans
+    by praying seven times a day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is largely commentary comparing religious practices rather than
+    a mythic narrative. Literal extraction is strong; motif taxonomy links are cautious
+    and limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources used. Comparisons reflect only the claims made in the supplied passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l5335-l5393
+  passage_sha256=8ceb1ea4b8be731dc17d089a1e7ee629759d7b73227797265f417e5dc4d97630

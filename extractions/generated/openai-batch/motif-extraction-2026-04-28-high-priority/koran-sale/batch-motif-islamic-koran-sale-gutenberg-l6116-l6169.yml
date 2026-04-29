@@ -1,0 +1,487 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l6116-l6169
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION III / SECTION IV. / SECTION V. / OF CERTAIN NEGATIVE PRECEPTS IN
+    THE KORN.; lines 6116-6169
+  start: '6116'
+  end: '6169'
+  translation: The Koran (Al-Qur'an), Sale translation/commentary
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes divining arrows used by old Arabs before important
+    undertakings and compares the practice with Greek and biblical/Babylonian examples.
+    It then summarizes Qur'anic dietary prohibitions, notes similarities and differences
+    with Jewish law, mentions emergency exceptions, and describes pagan Arab practices
+    of eating blood preparations and meat killed in the name of idols on stones near
+    the Caaba or homes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Divining arrows were mixed and drawn repeatedly until a decisive answer was
+    obtained.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The divining arrows were consulted before undertakings such as marriage or
+    travel.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage compares the Arab practice of divining by arrows with practices
+    attributed to ancient Greeks and with a biblical passage about the king of Babylon.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Qur'anic dietary rules listed in the passage prohibit blood, swine flesh,
+    animals that die by themselves, animals slain in honor of idols, and animals strangled
+    or killed by blows, falls, or other beasts.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that necessity, such as danger of starvation, permits eating
+    otherwise prohibited foods under Mohammedan law.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Some pagan Arabs are described as drawing blood from a live camel, putting
+    it into a gut, cooking it by fire or boiling it, and eating it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Meat offered to idols is described as being regarded as a kind of communion
+    in idol worship.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Arabs are described as killing animals on stones erected around the Caaba
+    or near their houses while calling on the name of an idol.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: old Arabs / ancient Arabs
+  description: People described as using divining arrows and, in some cases, as practicing
+    food customs involving blood and idol-associated slaughter.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Mohammed
+  description: Named as the figure who made regulations concerning meats, according
+    to the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Jews / Moses / Jewish doctors
+  description: Jewish law and Jewish doctors are cited as comparators for dietary
+    prohibitions and necessity exceptions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: king of Babylon
+  description: Biblical figure described as standing at the parting of the way and
+    using divination with arrows and images.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: St. Jerome
+  description: Commentator quoted as explaining the biblical arrow-divination passage
+    through casting marked arrows into a quiver.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Christians
+  description: Group said to regard meat offered to idols as unlawful or a cause of
+    scandal.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: idolaters
+  description: Group associated with the practice of eating meat offered to idols
+    as part of worship.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: users of divining arrows
+  assigned_to:
+  - fig:1
+  basis: The passage says old Arabs consulted divining arrows before important undertakings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: religious lawgiver in commentary
+  assigned_to:
+  - fig:2
+  basis: The passage says Mohammed made regulations about meats and lists Qur'anic
+    prohibitions.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: comparative dietary-law tradition
+  assigned_to:
+  - fig:3
+  basis: The passage compares Qur'anic dietary rules and necessity exceptions with
+    Jewish law and Jewish doctors.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: scriptural diviner
+  assigned_to:
+  - fig:4
+  basis: The passage cites the king of Babylon as using divination at a road junction.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: idol-associated ritual practitioners
+  assigned_to:
+  - fig:1
+  - fig:7
+  basis: The passage describes idolaters, and especially Arabs, killing and eating
+    meat in connection with idols.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: textual commentator
+  assigned_to:
+  - fig:5
+  basis: St. Jerome is cited as commenting on the biblical divination passage.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: religious evaluators of idol-offered meat
+  assigned_to:
+  - fig:6
+  basis: Christians are said to esteem idol-offered meat as unlawful or scandalous.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: divining arrows
+  literal_form: arrows mixed and drawn to obtain a decisive answer
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: quiver
+  literal_form: container into which marked arrows are cast and mixed in Jerome's
+    explanation
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: prohibited foods
+  literal_form: blood, swine flesh, carrion, idol-slain animals, strangled animals,
+    and animals killed by blows, falls, or beasts
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: blood food
+  literal_form: blood drawn from a live camel, placed in a gut, cooked, and eaten
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: idol-offered meat
+  literal_form: meat killed in the name or honor of an idol
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:6
+  label: ritual stones around the Caaba or houses
+  literal_form: stones erected for killing animals while invoking an idol
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: fire used for cooking blood
+  literal_form: fire used to broil blood prepared in a gut
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Consulting divining arrows
+  summary: Old Arabs mix and draw arrows to obtain a decisive answer before important
+    actions such as marriage or travel.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Comparative arrow divination
+  summary: The passage compares Arab divining arrows with Greek practice and with
+    a biblical/Babylonian example interpreted by St. Jerome as casting marked arrows
+    into a quiver.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dietary prohibitions and exceptions
+  summary: The passage lists prohibited foods in Qur'anic law, compares them with
+    Jewish law, notes camels as an allowed difference, and describes emergency permission
+    in cases of starvation.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Blood preparation among some pagan Arabs
+  summary: Some pagan Arabs are described as drawing blood from a live camel, putting
+    it into a gut, cooking it by fire or boiling it, and eating it under the name
+    Moswadd.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Idol-associated slaughter and communal eating
+  summary: Meat offered to idols is described as a form of worship-communion, and
+    Arabs are described as slaughtering animals on stones around the Caaba or near
+    houses while invoking idols.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Divination by arrows before major undertakings
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The passage describes arrows mixed and drawn to obtain a decisive answer
+    before marriage, travel, or similar matters.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage calls the practice superstitious
+    but does not itself develop a narrative of forbidden knowledge.
+- id: motif:2
+  label: Marked-lot divination for choosing action or target
+  taxonomy_refs: []
+  basis: Jerome's cited explanation describes marked arrows cast into a quiver and
+    drawn to decide which people or city should be attacked first.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is reported as comparative commentary rather than a primary narrative
+    scene in the Qur'an.
+- id: motif:3
+  label: Dietary taboo with emergency exception
+  taxonomy_refs: []
+  basis: The passage lists forbidden foods and then states that danger of starvation
+    permits otherwise prohibited foods.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is legal commentary rather than mythic narrative.
+- id: motif:4
+  label: Idol-associated sacrificial meal as communion
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The passage describes meat offered to idols as a sort of communion in worship
+    and describes Arabs killing animals on stones while invoking idols.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The terms 'communion' and the evaluation are from the commentator; the
+    passage is descriptive and polemical rather than a ritual manual.
+- id: motif:5
+  label: Blood as prohibited food and transgressive preparation
+  taxonomy_refs: []
+  basis: The passage prohibits eating blood but also reports some pagan Arabs preparing
+    and eating camel blood.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The reported practice is ethnographic commentary and not elaborated as
+    a symbolic episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares old Arab divining arrows with divination
+    by arrows among ancient Greeks and in a biblical/Babylonian example.
+  claim_level: same_function
+  target: Greek and biblical/Babylonian arrow divination
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is reported by the translator/commentator and does not
+    establish direct historical contact.
+- id: claim:2
+  claim: The passage says Mohammed's dietary prohibitions chiefly resemble or imitate
+    Jewish law while allowing some foods, such as camel flesh, that Mosaic law did
+    not.
+  claim_level: historical_contact
+  target: Jewish/Mosaic dietary law
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The wording reflects the commentator's assertion; the passage excerpt
+    alone does not demonstrate the historical mechanism of influence.
+- id: claim:3
+  claim: The passage compares Muslim and Jewish legal treatment of necessity by saying
+    both allow otherwise prohibited foods in danger of starvation.
+  claim_level: same_function
+  target: Jewish emergency exception for prohibited foods
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the stated case of necessity.
+- id: claim:4
+  claim: The passage relates idol-offered meat to a broader pattern of ritual communion
+    in idol worship and notes Christian concern about scandal or unlawfulness.
+  claim_level: same_function
+  target: Idol-offered meat in idolater practice and Christian evaluation
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The statement is general and evaluative; it does not describe a detailed
+    shared rite across named traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6116-6120
+  quote_or_summary: Divining arrows are mixed and drawn again until a decisive answer
+    is given; they are consulted before matters such as marriage or a journey.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6120-6133
+  quote_or_summary: The passage says divining by arrows was used by ancient Greeks
+    and appears in scripture concerning the king of Babylon; Jerome explains casting
+    marked arrows into a quiver to decide which city to attack.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6134-6141
+  quote_or_summary: The Qur'an is said to prohibit blood, swine flesh, carrion, idol-slain
+    animals, strangled animals, and animals killed by blows, falls, or beasts; the
+    passage compares these rules to Jewish law and notes camels as an allowed difference.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6141-6144
+  quote_or_summary: In danger of starvation, Mohammedan law is said to allow otherwise
+    prohibited foods; Jewish doctors are said to grant the same liberty.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6144-6152
+  quote_or_summary: Some pagan Arabs are said to have eaten blood, sometimes drawn
+    from a live camel into a gut, then broiled in fire or boiled and eaten as Moswadd.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6153-6163
+  quote_or_summary: Meat offered to idols is described as a sort of communion in worship;
+    Arabs are said to kill animals on stones around the Caaba or near their houses
+    while calling on an idol's name, and Christians are said to view such meat as
+    unlawful or scandalous.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on a commentary-heavy passage rather than a single
+    narrative episode. Literal legal and ethnographic details are clear; broader motif
+    taxonomy assignments require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. All generated interpretations are kept as candidate motifs or comparison claims rather than literal observations.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l6116-l6169
+  passage_sha256=ec687bcba53d16b847b259eb9e0ff24923c41e2c1ba625e398e7dd4e7820420b

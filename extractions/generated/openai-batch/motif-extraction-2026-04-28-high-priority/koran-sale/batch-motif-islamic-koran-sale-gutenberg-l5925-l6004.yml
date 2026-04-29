@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l5925-l6004
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION III / SECTION IV. / SECTION V. / OF CERTAIN NEGATIVE PRECEPTS IN
+    THE KORN.; lines 5925-6004
+  start: '5925'
+  end: '6004'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage explains several negative precepts attributed to the Koran
+    concerning intoxicating or imagination-altering substances. It discusses the prohibition
+    of wine and strong liquors, stricter applications of that prohibition, disputes
+    over coffee and tobacco, the unlawful status assigned by stricter Muslims to opium
+    and beng, and reasons given for forbidding wine: social quarrels, disturbances,
+    and neglect or indecency in religious duties. It also compares these restrictions
+    with biblical restrictions on priests, Nazarites, and Rechabites.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Wine and all strong and inebriating liquors are described as forbidden in
+    more than one place in the Koran.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some interpreters are said to have argued that only excess in wine is forbidden,
+    while the more received opinion is that any amount of strong liquor is unlawful.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The more conscientious are described as refusing not only to taste wine but
+    also to press grapes for it, buy or sell it, or live from money gained by selling
+    it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Persians and Turks are described as fond of wine despite the stated religious
+    prohibition.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Coffee is presented as a debated substance because its fumes were thought
+    to affect the imagination; it was at times condemned and at times allowed.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Tobacco is described as generally tolerated, though more religious persons
+    are said to make a scruple of taking it.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A traditional saying is reported that in later days some nominal Moslems would
+    smoke a weed called tobacco.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Opium and beng are said to be esteemed unlawful by rigid Mohammedans because
+    they intoxicate and disturb the understanding like wine.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The stated reasons for prohibiting wine are that its ill qualities exceed
+    its good ones, producing quarrels, disturbances, and neglect or indecency in religious
+    duties.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage states that priests under Levitical law, Nazarites, and Rechabites
+    were forbidden wine or strong drink in particular contexts or commitments.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Named in connection with stories about the occasion of prohibiting
+    wine and with a reported traditional saying concerning tobacco.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: more conscientious Muslims
+  description: Persons described as strictly avoiding wine-related acts, especially
+    after pilgrimage to Mecca.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Persians and Turks
+  description: Groups described as fond of wine despite the religious prohibition.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: more religious persons
+  description: Persons described as making a scruple of taking tobacco.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: rigid Mohammedans
+  description: Persons described as esteeming opium and beng unlawful because of their
+    intoxicating effect.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Levitical priests, Nazarites, and Rechabites
+  description: Biblical groups cited as also subject to restrictions involving wine
+    or strong drink.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: prophetic lawgiver or reported authority
+  assigned_to:
+  - fig:1
+  basis: Mohammed is connected with prohibition narratives and a reported traditional
+    saying.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:2
+  label: strict religious adherent
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: These figures are described as applying religious scruple to wine, tobacco,
+    opium, or beng.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:3
+  label: practitioner contrary to prohibition
+  assigned_to:
+  - fig:3
+  basis: Persians and Turks are described as drinking wine despite its prohibition.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: comparative abstinent religious group
+  assigned_to:
+  - fig:6
+  basis: These biblical groups are cited as examples of wine or strong-drink restrictions.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: wine and strong liquor
+  literal_form: Wine and all strong or inebriating liquors
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: coffee
+  literal_form: Coffee, a drink said to affect the imagination and subject to legal
+    dispute
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: tobacco
+  literal_form: A weed smoked by pipe, generally tolerated but religiously disputed
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: opium and beng
+  literal_form: Opium and beng, the latter identified as hemp leaves in pills or conserve
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: pilgrimage to Mecca
+  literal_form: Pilgrimage to Mecca
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Wine prohibition and strict avoidance
+  summary: The passage presents wine and strong liquors as forbidden, notes a debate
+    about moderation versus total prohibition, and describes strict adherents extending
+    avoidance to production, trade, and profit from wine.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Practice contrary to prohibition
+  summary: Persians and Turks are described as drinking wine despite the prohibition
+    and as explaining the inconsistency by comparison with Christians who violate
+    their own moral rules.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Disputed substances beyond wine
+  summary: Coffee, tobacco, opium, and beng are discussed as substances debated or
+    condemned because of effects on imagination, intoxication, or understanding.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Reasons and biblical analogues for abstinence
+  summary: The passage gives reasons for forbidding wine as social disorder and religious
+    neglect, then cites Levitical priests, Nazarites, and Rechabites as analogous
+    groups restricted from wine or strong drink.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Religious prohibition of intoxicants
+  taxonomy_refs: []
+  basis: The passage repeatedly frames wine, strong liquors, and other intoxicating
+    substances as unlawful or disputed because of their intoxicating effects.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a legal-religious pattern in an expository passage rather than
+    a narrative mythic motif.
+- id: motif:2
+  label: Expanded purity boundary around a forbidden substance
+  taxonomy_refs: []
+  basis: Strict adherents are described as avoiding not only drinking wine but also
+    producing, trading, or profiting from it.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage reports a strict practice, not a formal narrative episode.
+- id: motif:3
+  label: Intoxicant as cause of social and ritual disorder
+  taxonomy_refs: []
+  basis: Wine is said to produce quarrels, disturbances, and neglect or indecency
+    in religious duties.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The motif is inferred from stated rationale rather than dramatized through
+    a story.
+- id: motif:4
+  label: Dispute over new or marginal substances within religious law
+  taxonomy_refs: []
+  basis: Coffee and tobacco are described as subjects of condemnation, tolerance,
+    and scruple because of their perceived effects.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is historical-expository and does not provide a single canonical
+    ruling for all substances.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Islamic restrictions on wine or intoxicants
+    with biblical restrictions on Levitical priests, Nazarites, and Rechabites, presenting
+    them as serving a similar abstinence function.
+  claim_level: same_function
+  target: Biblical wine or strong-drink restrictions for priests, Nazarites, and Rechabites
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is functional and textual as stated by the passage;
+    it does not establish historical dependence or identical ritual meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5929-5942
+  quote_or_summary: Wine, including all strong and inebriating liquors, is described
+    as forbidden in the Koran; the passage notes disagreement over whether only excess
+    or all use is prohibited.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5955-5961
+  quote_or_summary: The more conscientious, especially after pilgrimage to Mecca,
+    are said to avoid tasting wine, pressing grapes for it, buying or selling it,
+    or living from proceeds of its sale.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5961-5968
+  quote_or_summary: Persians and Turks are described as fond of wine and as defending
+    their practice by analogy with Christians who violate religious prohibitions on
+    drunkenness and sexual immorality.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5969-5977
+  quote_or_summary: Coffee is questioned under the intoxicant prohibition because
+    its fumes affect the imagination; its public use spread from Aden and it was sometimes
+    condemned and sometimes allowed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5977-5988
+  quote_or_summary: Tobacco is generally tolerated, though more religious persons
+    scruple over it; a reported saying predicts nominal Moslems smoking a weed called
+    tobacco, and proverbs link coffee and tobacco as an entertainment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5989-5994
+  quote_or_summary: Opium and beng, identified as hemp leaves in pills or conserve,
+    are considered unlawful by rigid Mohammedans because they intoxicate and disturb
+    understanding like wine, though they are commonly used.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5995-6000
+  quote_or_summary: The passage states that the true Koranic reasons for prohibiting
+    wine are that its ill qualities surpass its good ones, causing quarrels, disturbances,
+    and neglect or indecency in religious duties.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 6000-6004
+  quote_or_summary: The passage cites Levitical priests, Nazarites, and Rechabites
+    as examples of biblical groups forbidden wine or strong drink.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is expository religious commentary rather than mythic narrative.
+    Literal legal and ritual patterns are clear, while motif classification is necessarily
+    cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied because the supplied taxonomy did not include a precise intoxicant/prohibition category.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l5925-l6004
+  passage_sha256=d29252c77eaff35397883cd91eaac85c47f8456413466509505843b88076b235

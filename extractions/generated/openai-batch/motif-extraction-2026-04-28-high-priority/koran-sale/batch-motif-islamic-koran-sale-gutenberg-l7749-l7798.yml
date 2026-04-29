@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l7749-l7798
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION VI. / OF THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS. / SECTION
+    VII. / SECTION VIII.; lines 7749-7798
+  start: '7749'
+  end: '7798'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes theological positions concerning the interpretation
+    of divine attributes in the Koran and the Ashari account of predestination, divine
+    will, the preserved table, and human acquisition of actions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some interpreters held that words referring to divine attributes should not
+    be explained because such explanation was forbidden in the Koran and would rest
+    on conjecture.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some were described as requiring words such as hand and face, when occurring
+    in the Koran, to be read in their original Arabic form rather than translated.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage presents a doctrine that God has one eternal will applied to what
+    he wills, including his own actions and human actions insofar as they are created
+    by him.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says God commanded the pen to write what he knows and wills concerning
+    men in the preserved table, and calls this decree an eternal immutable counsel
+    and purpose.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'The passage describes human action under the term Casb or Acquisition: creation
+    of the action is ascribed to God, while its production, employment, or acquisition
+    is ascribed to man.'
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Abu'l Hasan al Ashri is reported as asserting that all human actions are subject
+    to God's power and are created by him, while human power has no influence on what
+    man is empowered to do.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: GOD
+  description: The divine being whose attributes, will, decree, power, and creation
+    of actions are discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: men / man
+  description: Human beings whose actions, power, choice, ability, and acquisition
+    of actions are discussed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: interpreters of divine attributes
+  description: Unnamed persons who resisted explaining or translating words used of
+    divine attributes in the Koran.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Abu'l Hasan al Ashri
+  description: A theologian cited as asserting that all actions of men are subject
+    to the power of God and created by him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: the pen
+  description: The pen is said to have been commanded by God to write what God knows
+    and wills concerning men.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine decreer and creator of actions
+  assigned_to:
+  - fig:1
+  basis: God is described as willing, knowing, decreeing, commanding the pen, and
+    creating actions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: human agent acquiring actions
+  assigned_to:
+  - fig:2
+  basis: Human beings are described as having power and choice, and as acquiring actions
+    whose creation is ascribed to God.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: guardians of literal divine attribute language
+  assigned_to:
+  - fig:3
+  basis: They reject explanation or translation of terms such as hand and face when
+    used of God in the Koran.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: theological authority cited for Ashari predestination
+  assigned_to:
+  - fig:4
+  basis: The passage names Abu'l Hasan al Ashri as asserting a specific doctrine about
+    God's power over human actions.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: instrument of written decree
+  assigned_to:
+  - fig:5
+  basis: The pen is commanded to write God's knowledge and will concerning men in
+    the preserved table.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: preserved table
+  literal_form: a preserved table on which the divine decree is written
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: pen
+  literal_form: the pen commanded to write the decree
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: divine attribute words
+  literal_form: words such as hand and face used in the Koran for divine attributes
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Restriction on explaining divine attribute language
+  summary: Unnamed interpreters refuse to explain certain words for divine attributes,
+    regarding explanation as forbidden, conjectural, and potentially misleading; some
+    also reject translating such words from the original language.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Divine decree written in the preserved table
+  summary: The passage states that God wills and knows what concerns men and commands
+    the pen to write it in the preserved table as an immutable decree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Human acquisition of actions under divine creation
+  summary: The passage explains that human actions are created by God but acquired
+    by humans, and cites Ashari views on the relation between divine power and human
+    power.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine decree inscribed on a heavenly record
+  taxonomy_refs: []
+  basis: The passage describes God commanding the pen to write what he wills and knows
+    concerning men in the preserved table, making it an eternal and immutable decree.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage is doctrinal exposition rather than narrative myth; the motif
+    label is based on the literal image of a divine written decree.
+- id: motif:2
+  label: human action divided between divine creation and human acquisition
+  taxonomy_refs: []
+  basis: The passage repeatedly distinguishes actions as created by God but produced,
+    employed, or acquired by man under the term Casb or Acquisition.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a theological pattern rather than a conventional narrative motif.
+- id: motif:3
+  label: guarded language for divine embodiment
+  taxonomy_refs: []
+  basis: The passage reports a refusal to explain or translate words such as hand
+    and face when they occur as divine attribute language in the Koran.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage concerns hermeneutic practice, not a narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7749-7755
+  quote_or_summary: Some held that explaining words concerning divine attributes was
+    forbidden in the Koran and depended on conjecture and opinion, risking misunderstanding
+    of the author's meaning.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: 7755-7761
+  quote_or_summary: Some required terms such as hand and face, when occurring in the
+    Koran, to be read in their original words rather than rendered into Persian or
+    another language, calling this the safe way.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: 7761-7768
+  quote_or_summary: The passage states that God has one eternal will applied to whatever
+    he wills, including his own actions and human actions insofar as they are created
+    by him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: 7766-7771
+  quote_or_summary: God is said to will concerning men what he knows and to have commanded
+    the pen to write it in the preserved table; this is described as his decree and
+    eternal immutable counsel.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: 7773-7791
+  quote_or_summary: 'The passage explains Casb or Acquisition: action is created by
+    God, while in respect to production, employment, or acquisition it is from man;
+    a later explanation connects acquisition with man''s power and will without making
+    them influence the action''s existence.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: 7791-7798
+  quote_or_summary: Abu'l Hasan al Ashri is reported as teaching that all actions
+    of men are subject to God's power and created by him, and that man's power has
+    no influence on what he is empowered to do.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is supported by the passage. Motif candidates are
+    cautious because the passage is theological and expository rather than narrative.
+    No comparison claims were made because the passage itself does not support a comparison
+    to another corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No available taxonomy motif family or symbol reference was directly assigned; objects such as the pen and preserved table are retained as passage-level symbols without taxonomy IDs.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l7749-l7798
+  passage_sha256=3973b68a789ab259cf7a3bd531b66aaebf630375e2b6373112df722816d0d40f

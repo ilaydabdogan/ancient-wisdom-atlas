@@ -1,0 +1,408 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l3425-l3470
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: PRELIMINARY DISCOURSE / SECTION I. / SECTION II. / SECTION III; lines 3425-3470
+  start: '3425'
+  end: '3470'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Sale''s account of Islam''s setting and purpose:
+    Arabia is portrayed as religiously mixed; the central doctrine is the unity of
+    God; Mohammed is presented as prophet, ambassador, and final prophet after Moses
+    and Jesus; the Koran is said to contain examples of divine punishments for rejecting
+    messengers, laws, moral admonitions, and occasional passages tied to particular
+    emergencies.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Arabia is described as containing idolaters, Jews, and Christians living among
+    one another.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: God is described as eternal, invisible, creator, governor, judge, and lord
+    of creation.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says religion is established with laws, ceremonial signs, and
+    rewards and punishments, both temporal and eternal.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mohammed is described as prophet and ambassador of God, and as one who would
+    establish and propagate God's religion on earth.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage identifies the unity of God as the great doctrine of the Koran
+    and says restoring this doctrine was presented as Mohammed's chief mission.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says the same orthodox religion is renewed when neglected or corrupted
+    through prophets, naming Moses and Jesus as distinguished predecessors and Mohammed
+    as their seal.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says a large part of the Koran relates examples of dreadful punishments
+    formerly inflicted by God on those who rejected or abused his messengers.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says another part of the Koran gives laws, directions, admonitions
+    to moral and divine virtues, worship of God, and resignation to God's will.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage says many passages are occasional and relate to particular emergencies
+    involving Mohammed.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Eternal, invisible creator, governor, judge, and lord of creation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mohammed
+  description: Presented as prophet and ambassador of God, restorer of divine unity,
+    and seal after Moses and Jesus.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Moses
+  description: Named as one of the most distinguished earlier prophets.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Jesus
+  description: Named as one of the most distinguished earlier prophets.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: People of Arabia
+  description: Collective population described as including idolaters, Jews, and Christians.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Rejected messengers
+  description: God's messengers who are said to have been rejected or abused by former
+    peoples.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: supreme deity and judge
+  assigned_to:
+  - fig:1
+  basis: God is described as creator, supreme governor, judge, and lord.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: prophet and ambassador
+  assigned_to:
+  - fig:2
+  basis: Mohammed is explicitly called prophet and ambassador of God.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: distinguished earlier prophet
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Moses and Jesus are named as the most distinguished among earlier prophets.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: final prophet or seal
+  assigned_to:
+  - fig:2
+  basis: Mohammed is described as the seal of Moses and Jesus, with no other prophet
+    expected after him.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: religious audience
+  assigned_to:
+  - fig:5
+  basis: The people of Arabia are described as the population among whom the religions
+    and beliefs are present.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: divine messenger
+  assigned_to:
+  - fig:6
+  basis: The passage refers to God's messengers whose rejection brings punishment
+    narratives.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ceremonial signs
+  literal_form: outward signs of certain ceremonies
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: temporal and eternal rewards and punishments
+  literal_form: rewards and punishments, both temporal and eternal
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Religiously mixed Arabia
+  summary: The passage portrays Arabia as populated by idolaters, Jews, and Christians
+    with differing beliefs.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mission to restore divine unity
+  summary: Mohammed is said to present restoration of God's unity and obedience to
+    God as the chief end of his mission.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Sequence of prophetic admonition
+  summary: The passage describes God re-informing humanity through prophets when religion
+    is neglected or corrupted, naming Moses, Jesus, and Mohammed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Punishment examples for rejected messengers
+  summary: The Koran is said to recount former punishments inflicted by God on those
+    who rejected or abused divine messengers.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Instruction and admonition
+  summary: The Koran is said to contain laws, directions, moral admonitions, worship
+    of God, and resignation to God's will.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine judgment on rejecters of messengers
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage says the Koran recounts dreadful punishments inflicted by God
+    on those who rejected and abused his messengers.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage is a preliminary discourse summary, not a direct narrative
+    episode.
+- id: motif:2
+  label: prophetic renewal of neglected religion
+  taxonomy_refs: []
+  basis: The passage describes God repeatedly re-informing and re-admonishing humanity
+    through prophets whenever religion becomes neglected or corrupted.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No specific taxonomy reference in the supplied list exactly matches this
+    motif.
+- id: motif:3
+  label: final prophet after earlier prophets
+  taxonomy_refs: []
+  basis: Moses and Jesus are named as distinguished earlier prophets, while Mohammed
+    is described as their seal with no later prophet expected.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is doctrinal summary rather than a mythic episode.
+- id: motif:4
+  label: sacred law with reward and punishment
+  taxonomy_refs:
+  - covenant
+  basis: The passage connects divine religion with laws, ceremonies, obedience, and
+    temporal and eternal rewards and punishments.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The term covenant is not used in the passage; the taxonomy link is based
+    only on the combination of divine law, obedience, and sanction.
+- id: motif:5
+  label: scriptural exempla as moral warning
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says punishment stories are used to engage hearers and that other
+    parts give laws, directions, and admonitions to virtue and worship.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The wisdom taxonomy reference is broad and should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The passage claims that several Koranic punishment stories or circumstances
+    are taken from the Old and New Testament.
+  claim_level: historical_contact
+  target: Old and New Testament punishment narratives or related stories
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is Sale's authorial claim in a preliminary discourse and may reflect
+    polemical framing; the passage itself does not provide individual narrative parallels.
+- id: claim:2
+  claim: The passage claims that many more Koranic stories derive from apocryphal
+    books and Jewish and Christian traditions of the age.
+  claim_level: historical_contact
+  target: Jewish and Christian apocryphal and traditional narrative material
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a broad source claim without naming particular apocryphal
+    texts or motifs in this line range.
+- id: claim:3
+  claim: The punishment narratives are presented as serving an admonitory function
+    comparable to earlier scriptural examples of divine punishment.
+  claim_level: same_function
+  target: scriptural punishment exempla used as warnings
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The functional comparison is implicit in the passage's statement that
+    examples are used to make people hearken; it does not analyze a specific parallel
+    episode.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3425-3432
+  quote_or_summary: Arabia is described as religiously mixed, with idolaters, Jews,
+    and Christians, and God is described as eternal, invisible, creator, governor,
+    judge, and lord.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 3432-3438
+  quote_or_summary: Religion is described as sanctioned by laws, ceremonial signs,
+    temporal and eternal rewards and punishments, and obedience to Mohammed as prophet
+    and ambassador of God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 3439-3443
+  quote_or_summary: The great doctrine of the Koran is identified as the unity of
+    God, which Mohammed is said to have presented as the chief end of his mission
+    to restore.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 3443-3449
+  quote_or_summary: When religion becomes neglected or corrupted, God is said to re-inform
+    humanity through prophets; Moses and Jesus are named, and Mohammed is described
+    as their seal.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 3449-3460
+  quote_or_summary: A great part of the Koran is said to relate examples of dreadful
+    punishments inflicted by God on those who rejected his messengers; the passage
+    claims several stories come from biblical, apocryphal, and Jewish or Christian
+    traditional sources.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 3461-3466
+  quote_or_summary: Another part of the Koran is said to give laws, directions, moral
+    and divine admonitions, worship and reverence of God, and resignation to God's
+    will.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 3467-3470
+  quote_or_summary: The passage says many other passages are occasional and relate
+    to particular emergencies that perplexed Mohammed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on a prose summary from Sale's preliminary discourse,
+    not on a direct Qur'anic narrative passage. Some motif assignments are broad and
+    should be reviewed for taxonomy fit.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. Polemical terms and claims in the source passage have been summarized neutrally where possible.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l3425-l3470
+  passage_sha256=56a851fab19e581333e150dc18909475f6567325015ad91d0741922789144c2b

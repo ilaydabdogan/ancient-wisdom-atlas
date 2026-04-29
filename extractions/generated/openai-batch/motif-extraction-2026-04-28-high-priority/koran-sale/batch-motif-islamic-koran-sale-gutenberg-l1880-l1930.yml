@@ -1,0 +1,490 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l1880-l1930
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: A TABLE OF THE CHAPTERS / THE KORAN. / PRELIMINARY DISCOURSE / SECTION I.;
+    lines 1880-1930
+  start: '1880'
+  end: '1930'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Christianity among ancient Arabs, including rulers,
+    churches, and bishoprics; notes religious diversity and Koreish opinions before
+    Mohammed; and distinguishes urban Arabs from tent-dwelling Arabs by livelihood,
+    mobility, and dependence on camels, water, and pasture.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed prince is said to have abolished a barbarous custom, and al Mondar
+    is said to have professed Christianity and built large churches in his capital.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Christianity had made great progress in Arabia and supposes
+    bishops existed in several parts for governing churches.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dhafr and Najrn are named as bishop-related locations, and Jacobite and Nestorian
+    ecclesiastical jurisdictions among Arabs are described.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that ancient Arabs held several principal religions, while
+    political liberty and independence led some to different opinions.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Koreish are described as infected with Zendicism, compared by the passage
+    with Sadducee-like error and perhaps Deism.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Some Koreish before Mohammed are described as worshipping one God, being free
+    from idolatry, and not embracing the other religions of the country.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Arabs before Mohammed are divided into city- and town-dwellers and tent-dwellers.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: City and town Arabs are described as living by tillage, palm cultivation,
+    cattle breeding and feeding, trades, and merchandising.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The tribe of Koreish is described as especially attached to commerce, and
+    Mohammed is said to have been brought up to the same business in youth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Tent-dwelling Arabs are described as practicing pasturage and sometimes pillaging
+    passengers.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Tent-dwelling Arabs are described as living chiefly on the milk and flesh
+    of camels.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Tent-dwelling Arabs are described as changing habitations according to the
+    availability of water and pasture for cattle.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed prince
+  description: A ruler mentioned only as abolishing a barbarous custom in the opening
+    fragment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: al Mondar
+  description: A king of Hira described as having professed Christianity and built
+    large churches in his capital.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Arab Christian bishops
+  description: Bishops in Arabia, including named or titled sees and jurisdictions
+    among Jacobites and Nestorians.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Koreish
+  description: An Arab tribe described as holding Zendicist opinions in some members,
+    having some pre-Mohammedan monotheists, and being much addicted to commerce.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Mohammed
+  description: Mentioned as having been brought up to commerce in his younger years.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: city and town Arabs
+  description: Arabs dwelling in cities and towns, described by their agricultural,
+    pastoral, trade, and commercial livelihoods.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: tent-dwelling Arabs
+  description: Arabs dwelling in tents, described as pastoral, mobile, dependent on
+    camels, water, and pasture, and sometimes pillaging passengers.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Ismael's posterity
+  description: A group identified with the tent-dwelling way of life described in
+    the passage.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: custom-abolishing ruler
+  assigned_to:
+  - fig:1
+  basis: The opening fragment says the prince abolished a barbarous custom.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Christian king of Hira
+  assigned_to:
+  - fig:2
+  basis: Al Mondar is described as a king of Hira who professed Christianity.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: church builder
+  assigned_to:
+  - fig:2
+  basis: The passage says al Mondar built large churches in his capital.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: ecclesiastical governors
+  assigned_to:
+  - fig:3
+  basis: The passage describes bishops as serving the orderly governing of churches.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: holders of Zendicist or non-idolatrous opinions
+  assigned_to:
+  - fig:4
+  basis: The passage attributes Zendicism and some non-idolatrous monotheism to members
+    of the Koreish.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: commercial tribe
+  assigned_to:
+  - fig:4
+  basis: The Koreish are described as much addicted to commerce.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: young merchant trainee
+  assigned_to:
+  - fig:5
+  basis: Mohammed is said to have been brought up to commerce in his younger years.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: settled agricultural and commercial dwellers
+  assigned_to:
+  - fig:6
+  basis: City and town Arabs are described as living by tillage, palm cultivation,
+    cattle, trades, and merchandising.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: mobile pastoral dwellers
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Tent-dwelling Arabs and Ismael's posterity are associated with pastoral tent
+    life and movement after water and pasture.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: occasional raiders
+  assigned_to:
+  - fig:7
+  basis: Tent-dwelling Arabs are said sometimes to pillage passengers.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: churches
+  literal_form: large churches in al Mondar's capital
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: bishop's see
+  literal_form: bishop's see at Najrn and other episcopal seats
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tents
+  literal_form: dwellings of tent-dwelling Arabs
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: palm trees
+  literal_form: cultivated palm trees
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: camels
+  literal_form: camels providing milk and flesh
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: milk
+  literal_form: milk of camels
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: water
+  literal_form: water sought as a condition for habitation and cattle
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: pasture
+  literal_form: pasture for cattle
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Christian rulers and churches in Hira
+  summary: The passage mentions an unnamed prince, then describes al Mondar as an
+    earlier Christian king of Hira who built large churches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Christian ecclesiastical organization in Arabia
+  summary: Christian progress in Arabia is linked to bishops and episcopal jurisdictions
+    among Jacobites and Nestorians.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Religious plurality and Koreish opinions
+  summary: The passage describes ancient Arab religious diversity, Koreish Zendicism,
+    and pre-Mohammedan Koreish monotheists free from idolatry.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Settled Arab livelihoods
+  summary: City and town Arabs are described as farmers, palm cultivators, cattle
+    breeders, tradespeople, and merchants; Koreish and young Mohammed are linked with
+    commerce.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Tent-dwelling Arab mobility
+  summary: Tent-dwelling Arabs are described as pastoral, sometimes predatory, living
+    on camel products, and moving when water and pasture are exhausted.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: conversion of ruler and foundation of churches
+  taxonomy_refs: []
+  basis: Al Mondar is described as professing Christianity and building large churches
+    in his capital.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is historical exposition, not a mythic narrative; the ruler's
+    conversion is reported briefly.
+- id: motif:2
+  label: religious plurality under political independence
+  taxonomy_refs: []
+  basis: The passage connects Arab political liberty and independence with freedom
+    of thought and multiple religious opinions.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a social-historical pattern, not a formal myth motif.
+- id: motif:3
+  label: non-idolatrous monotheists outside established religions
+  taxonomy_refs: []
+  basis: Several Koreish before Mohammed are said to have worshipped one God, avoided
+    idolatry, and embraced none of the other religions of the country.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not narrate individual episodes or rites; it gives a
+    general religious characterization.
+- id: motif:4
+  label: nomadic movement following water and pasture
+  taxonomy_refs: []
+  basis: Tent-dwelling Arabs are described as staying only while water and pasture
+    last and then moving in search of more.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is an ethnographic mobility pattern rather than a mythological motif
+    in the strict sense.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously compares Koreish Zendicism with the Sadducees' error,
+    describing it as having a very near affinity.
+  claim_level: same_function
+  target: Sadducees among the Jews
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is reported by the author and not demonstrated in detail
+    within the passage.
+- id: claim:2
+  claim: The passage suggests Koreish Zendicism was perhaps not greatly different
+    from Deism.
+  claim_level: same_function
+  target: Deism
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The wording is explicitly tentative, using 'perhaps,' and gives only
+    a brief doctrinal characterization.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1880-1883
+  quote_or_summary: The passage says an unnamed prince abolished a barbarous custom;
+    al Mondar, his grandfather, had professed Christianity and built large churches
+    in his capital.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1884-1898
+  quote_or_summary: Christianity is said to have progressed greatly in Arabia; bishops
+    and sees are discussed, including Dhafr, Najrn, Jacobite bishops of the Arabs,
+    and a Nestorian bishop over Hira and Akula.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1899-1907
+  quote_or_summary: The passage describes ancient Arab religions, freedom of thought
+    from political liberty, Koreish Zendicism compared with Sadducee-like error and
+    perhaps Deism, and some Koreish monotheists free from idolatry before Mohammed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1908-1916
+  quote_or_summary: City and town Arabs are described as living by tillage, palm cultivation,
+    cattle, trades, and merchandising; Koreish are linked with commerce, and Mohammed
+    is said to have been raised in that business.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1916-1924
+  quote_or_summary: Tent-dwelling Arabs are described as practicing pasturage, sometimes
+    pillaging passengers, living chiefly on camel milk and flesh, moving according
+    to water and pasture, and wintering in Irk and near Syria.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily historical and ethnographic commentary. Literal
+    entities and social patterns are clear, but motif status is limited and should
+    be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No taxonomy motif family was assigned because the passage does not clearly instantiate the supplied mythic motif families. Symbol taxonomy references were limited to explicit milk and water mentions.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l1880-l1930
+  passage_sha256=240b0812f3328a8f6ab24250ee229672a413a7489a991809dedba070cfa6ab7a
