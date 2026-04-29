@@ -1,0 +1,327 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0013
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.benefactor-becomes-predator
+  motif_id: benefactor_becomes_predator
+  label: Benefactor becomes predator
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a role reversal from helper to threat, but current
+    groups do not clearly cover betrayal, deception, or predatory benefactors.
+  cautions: Single occurrence and source context needed; may be fable logic, trickster
+    deception, moral exemplum, or episode-specific plot reversal.
+  suggested_aliases:
+  - helper becomes threat
+  - false benefactor
+  - protective figure turns predatory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.benefactor-repaid-with-harm
+  motif_id: benefactor_repaid_with_harm
+  label: benefactor repaid with harm
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The motif inverts reciprocity: a gift or help relationship is answered
+    with injury rather than return obligation.'
+  cautions: Could instead be an ethical exemplum or betrayal motif; if no sacred or
+    reciprocal obligation is emphasized, keep as evidence detail.
+  suggested_aliases:
+  - ingratitude toward benefactor
+  - harmful repayment of aid
+  - violated reciprocity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.benefit-friends-and-harm-enemies
+  motif_id: benefit_friends_and_harm_enemies
+  label: benefit friends and harm enemies
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as an ethical maxim or social norm rather than a clear narrative
+    motif in the current taxonomy.
+  cautions: May be philosophical commentary, heroic honor code, reciprocal justice,
+    or passage artifact; do not map without evidence of narrative function.
+  suggested_aliases:
+  - help friends harm enemies
+  - reciprocal loyalty and enmity
+  - partisan justice maxim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.besieged-camp-protected-by-obedience-to-absent-leader
+  motif_id: besieged_camp_protected_by_obedience_to_absent_leader
+  label: besieged camp protected by obedience to absent leader
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Obedience to an absent commander preserves social and military order,
+    aligning with legitimate authority and disciplined hierarchy.
+  cautions: Highly specific; if the passage emphasizes battle ordeal rather than authority,
+    sacred_combat may be a better secondary placement.
+  suggested_aliases:
+  - obedience to absent leader preserves camp
+  - loyalty to commander protects besieged camp
+  - authority maintained in leader's absence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.best-not-to-be-born
+  motif_id: best_not_to_be_born
+  label: Best not to be born
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The maxim expresses tragic recognition and grief over mortal suffering,
+    fitting lament and tragic awareness.
+  cautions: Could be philosophical pessimism rather than a narrative motif; if it
+    is merely quoted doctrine, consider excluding from pattern queries.
+  suggested_aliases:
+  - better never to be born
+  - tragic pessimism about birth
+  - birth as misfortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.betrayal-of-a-protector
+  motif_id: betrayal_of_a_protector
+  label: betrayal of a protector
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on violated protective obligation, a recurring narrative
+    function not cleanly covered by exchange, law, or judgment groups.
+  cautions: Single item here, but several batch labels cluster around betrayal; human
+    review should decide whether to create a betrayal group or fold cases into sacred_exchange/divine_judgment.
+  suggested_aliases:
+  - protector betrayed
+  - guardian betrayed
+  - violated protection bond
+  suggested_new_group:
+    id: betrayal_violated_trust
+    label: Betrayal and Violated Trust
+    description: Violation of trust, loyalty, hospitality, kinship, protection, or
+      duty that turns a bond of safety into harm, conflict, judgment, or tragic reversal.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    related_group_ids:
+    - divine_judgment
+    - sacred_combat
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups cover reciprocity, law, and
+      judgment, but not the narrative rupture of trust itself across protector, guest,
+      kin, duty, and feast betrayal patterns.
+- suggestion_id: normalization.suggestion.betrayal-of-duty-punished
+  motif_id: betrayal_of_duty_punished
+  label: betrayal of duty punished
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is punishment following violation of duty, which fits
+    moral reckoning and restoration of order.
+  cautions: If the punishment is purely social or military rather than sacred/moral,
+    sacred_law or a betrayal group may be better.
+  suggested_aliases:
+  - punished betrayal of duty
+  - duty violation punished
+  - betrayed obligation punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.betrayal-of-the-fugitive-heir-by-a-kinsman
+  motif_id: betrayal_of_the_fugitive_heir_by_a_kinsman
+  label: betrayal of the fugitive heir by a kinsman
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: narrower_than
+  confidence: medium
+  rationale: A fugitive heir betrayed by kin concerns contested succession, lineage
+    danger, and legitimate rule.
+  cautions: Over-specific composite label; if the source emphasizes kin betrayal over
+    succession, a betrayal/violated trust group may be preferable.
+  suggested_aliases:
+  - kinsman betrays fugitive heir
+  - betrayed royal heir
+  - kin betrayal in succession conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.betrayal-through-feast-or-drink
+  motif_id: betrayal_through_feast_or_drink
+  label: betrayal through feast or drink
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The feast or drink setting marks a hospitality or commensality bond turned
+    into betrayal.
+  cautions: Could overlap with sacred_exchange or sacred_law if the emphasis is hospitality
+    obligation; retain feast/drink as local evidence detail.
+  suggested_aliases:
+  - treacherous feast
+  - betrayal at banquet
+  - drink used for betrayal
+  - hospitality betrayal
+  suggested_new_group:
+    id: betrayal_violated_trust
+    label: Betrayal and Violated Trust
+    description: Violation of trust, loyalty, hospitality, kinship, protection, or
+      duty that turns a bond of safety into harm, conflict, judgment, or tragic reversal.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    related_group_ids:
+    - divine_judgment
+    - sacred_combat
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups cover reciprocity, law, and
+      judgment, but not the narrative rupture of trust itself across protector, guest,
+      kin, duty, and feast betrayal patterns.
+- suggestion_id: normalization.suggestion.betrayed-guests-make-a-doomed-last-stand
+  motif_id: betrayed_guests_make_a_doomed_last_stand
+  label: betrayed guests make a doomed last stand
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The final narrative action is a doomed martial stand, with betrayal of
+    guests as the precipitating violation.
+  cautions: Composite and specific; may need secondary review under betrayal/violated
+    trust or sacred_exchange if hospitality breach is central.
+  suggested_aliases:
+  - betrayed guests' last stand
+  - doomed last stand after hospitality betrayal
+  - guests betrayed into battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - betrayal_violated_trust
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch cluster around betrayal, violated protection, hospitality
+  breach, and trust rupture. Consider reviewing a durable normalization group such
+  as betrayal_violated_trust if similar labels recur across batches.
+- Avoid treating these placements as evidence of transmission; suggestions only address
+  broad query placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_batch_normalizer
+  reviewed_at: ''
+  notes: Provisional placements based on labels only; single-occurrence items need
+    source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0013
+  input_sha256: 134e157e7a33b04fadf97156ef52b4bcb2ab96e8d88e7f8228e72ba6d131e305

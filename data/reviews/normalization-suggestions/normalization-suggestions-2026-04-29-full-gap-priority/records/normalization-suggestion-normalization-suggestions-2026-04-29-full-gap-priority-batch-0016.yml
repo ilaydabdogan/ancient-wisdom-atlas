@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0016
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.boast-answered-by-supernatural-opposition
+  motif_id: boast_answered_by_supernatural_opposition
+  label: boast answered by supernatural opposition
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: A boast provoking supernatural opposition fits overreaching pride followed
+    by humbling or danger.
+  cautions: Could instead be divine_judgment or sacred_combat if the passage emphasizes
+    moral punishment or battle rather than boastful overreach.
+  suggested_aliases:
+  - boast punished by supernatural opposition
+  - supernatural answer to boast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boast-counter-boast-and-vengeance-duel
+  motif_id: boast_counter_boast_and_vengeance_duel
+  label: boast, counter-boast, and vengeance duel
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a duel structured by heroic speech and vengeance,
+    fitting the sacred or ritualized combat complex.
+  cautions: Likely episode-specific; preserve boast and vengeance details as evidence
+    notes unless similar duel formulas recur.
+  suggested_aliases:
+  - vengeance duel after boast exchange
+  - boast exchange before duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-challenger-immediately-destroyed
+  motif_id: boastful_challenger_immediately_destroyed
+  label: boastful challenger immediately destroyed
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: A boastful challenger destroyed after overreach is a clear hubris-and-downfall
+    pattern.
+  cautions: If destruction is primarily a battlefield result rather than moralized
+    overreach, sacred_combat may be a secondary fit.
+  suggested_aliases:
+  - boastful challenger punished
+  - hubristic challenger destroyed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-recounting-of-past-victories-to-silence-challengers
+  motif_id: boastful_recounting_of_past_victories_to_silence_challengers
+  label: boastful recounting of past victories to silence challengers
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a heroic speech strategy rather than a symbolic motif covered
+    by existing groups.
+  cautions: Could fit sacred_combat if embedded in ritual challenge, pride_and_downfall
+    if punished, or storytelling_as_power if speech itself resolves conflict.
+  suggested_aliases:
+  - heroic boasting of past victories
+  - victory catalogue silences challengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boasting-when-detection-is-impossible
+  motif_id: boasting_when_detection_is_impossible
+  label: Boasting when detection is impossible
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is context-dependent and may describe plot logic or character
+    psychology more than a durable motif.
+  cautions: If the boast reveals hidden truth or exposes guilt, sacred_knowledge or
+    divine_judgment may apply; otherwise consider excluding as too passage-specific.
+  suggested_aliases:
+  - undetectable boast
+  - boast without risk of detection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-omen-of-right-and-left-eye-throbbing
+  motif_id: bodily_omen_of_right_and_left_eye_throbbing
+  label: Bodily omen of right and left eye throbbing
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A bodily omen functions as a sign that reveals or foreshadows events,
+    close to omen and altered-perception patterns.
+  cautions: Very specific divinatory body sign; preserve right/left eye detail as
+    evidence and review for a future omen/divination group if many recur.
+  suggested_aliases:
+  - eye throbbing omen
+  - bodily omen
+  - right-left eye omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-penalty-mirrors-the-offending-body-part
+  motif_id: bodily_penalty_mirrors_the_offending_body_part
+  label: bodily penalty mirrors the offending body part
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mirrored bodily penalty expresses moral reckoning where punishment
+    corresponds to the offense.
+  cautions: Could be legal, ethical, or narrative retribution rather than divine judgment;
+    confirm sacred or moral evaluation in source context.
+  suggested_aliases:
+  - mirrored bodily punishment
+  - measure-for-measure bodily penalty
+  - offending body part punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-prostration-as-solemn-adoration
+  motif_id: bodily_prostration_as_solemn_adoration
+  label: Bodily prostration as solemn adoration
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prostration is a bodily act of devotion or submission that maintains
+    sacred relationship.
+  cautions: If the passage is primarily legal worship instruction, sacred_law may
+    fit better; avoid flattening culturally specific prayer practice into generic
+    offering.
+  suggested_aliases:
+  - prostration as adoration
+  - ritual prostration
+  - bodily submission in worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-restoration-after-injury
+  motif_id: bodily_restoration_after_injury
+  label: bodily restoration after injury
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restoration of an injured body is a renewal or healing transformation
+    after bodily damage.
+  cautions: If the restoration is miraculous healing by a deity, divine_intervention
+    may be secondary; if it follows death, resurrection is more precise.
+  suggested_aliases:
+  - body restored after injury
+  - healing restoration after bodily injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-as-temporary-dwelling
+  motif_id: body_as_temporary_dwelling
+  label: body as temporary dwelling
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The body as a temporary dwelling fits mystical anthropology where the
+    self or soul is not identical with bodily life.
+  cautions: Related to body-as-tomb-or-shell imagery; do not treat as literal death
+    or rebirth unless the passage explicitly frames bodily departure or transformation.
+  suggested_aliases:
+  - body as temporary house
+  - body as dwelling of the soul
+  - body as transient lodging
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence heroic speech or boast motifs;
+  avoid promoting a new boast/heroic speech group until recurrence across traditions
+  is established.
+- Where punishment follows boasting, placement under pride_and_downfall is about narrative
+  function, not evidence of transmission or shared origin.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify passage context for
+    speech-strategy and ritual-body labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0016
+  input_sha256: a17d669a30c6d8b60939c7bee828d9ea438e5a8b4b634d811eb8d1554e4dcc03

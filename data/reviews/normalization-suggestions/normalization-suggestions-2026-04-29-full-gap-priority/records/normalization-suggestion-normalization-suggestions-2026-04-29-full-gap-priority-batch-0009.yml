@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0009
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.archaic-motif-as-later-literary-insertion-or-adaptation
+  motif_id: archaic_motif_as_later_literary_insertion_or_adaptation
+  label: archaic motif as later literary insertion or adaptation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes editorial or literary-historical classification rather
+    than a narrative motif.
+  cautions: Preserve as provenance or source-critical note if needed; do not use as
+    motif evidence.
+  suggested_aliases:
+  - later literary insertion
+  - archaic motif adaptation
+  - literary interpolation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.argument-as-waves-to-be-passed
+  motif_id: argument_as_waves_to_be_passed
+  label: Argument as waves to be passed
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a metaphor for verbal contest, ordeal, or rhetorical progression,
+    but the function is unclear from the label alone.
+  cautions: Single occurrence; may be a passage-specific metaphor rather than a reusable
+    mythic motif.
+  suggested_aliases:
+  - arguments as waves
+  - rhetorical waves
+  - waves of argument
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-founder-succeeds-where-unarmed-founder-fails
+  motif_id: armed_founder_succeeds_where_unarmed_founder_fails
+  label: Armed founder succeeds where unarmed founder fails
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on successful founding and establishment, with arms
+    as the enabling difference.
+  cautions: Could instead fit royal_legitimacy or sacred_combat if the passage emphasizes
+    lawful rule or warfare more than founding.
+  suggested_aliases:
+  - armed founder
+  - successful armed founder
+  - failed unarmed founder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-watcher-defeats-supernatural-seeming-intruder
+  motif_id: armed_watcher_defeats_supernatural_seeming_intruder
+  label: armed watcher defeats supernatural-seeming intruder
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: An armed watcher defending against an uncanny intruder functions as boundary
+    protection at a threshold.
+  cautions: If the intruder is not actually liminal or supernatural, this may be a
+    combat episode or passage detail rather than a threshold motif.
+  suggested_aliases:
+  - armed watcher
+  - watcher defeats intruder
+  - guardian defeats uncanny intruder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arming-before-a-liminal-night-mission
+  motif_id: arming_before_a_liminal_night_mission
+  label: arming before a liminal night mission
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: narrower_than
+  confidence: medium
+  rationale: Preparation for a dangerous liminal mission fits the departure/trial
+    phase of a hero journey.
+  cautions: Could belong to sacred_combat if the arming scene is primarily martial;
+    may be too episode-specific if no transformation or threshold crossing follows.
+  suggested_aliases:
+  - arming before night mission
+  - liminal night mission preparation
+  - hero armed for night mission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.army-encamped-at-liminal-shore
+  motif_id: army_encamped_at_liminal_shore
+  label: army encamped at liminal shore
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: narrower_than
+  confidence: medium
+  rationale: A shore is a water-boundary setting; an army encamped there suggests
+    preparation at a crossing threshold.
+  cautions: Do not map to flood or water passage unless the episode includes crossing,
+    transformation, destruction, or purification; could be a tactical setting only.
+  suggested_aliases:
+  - liminal shore encampment
+  - army at shore threshold
+  - encampment before water crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.army-suffers-under-extraordinary-snow-without-shelter
+  motif_id: army_suffers_under_extraordinary_snow_without_shelter
+  label: army suffers under extraordinary snow without shelter
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ordeal by extreme weather, divine punishment,
+    or a contextual battle hardship.
+  cautions: Single occurrence and highly situational; source evidence needed before
+    placing under divine_judgment, hero_journey, or sacred_combat.
+  suggested_aliases:
+  - extraordinary snow ordeal
+  - army exposed to supernatural snow
+  - weather hardship without shelter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.assassination-following-political-disgrace
+  motif_id: assassination_following_political_disgrace
+  label: Assassination following political disgrace
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This sounds like a historical or political plot event rather than a symbolic
+    motif without further sacred function.
+  cautions: Could fit divine_judgment or pride_and_downfall if framed as moral reckoning;
+    otherwise exclude as contextual history.
+  suggested_aliases:
+  - political disgrace followed by assassination
+  - assassination after disgrace
+  - fallen official assassinated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.astral-intermediaries-beneath-a-supreme-deity
+  motif_id: astral_intermediaries_beneath_a_supreme_deity
+  label: Astral intermediaries beneath a supreme deity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: narrower_than
+  confidence: medium
+  rationale: The hierarchy of astral intermediaries is organized beneath a supreme
+    cosmic ruler.
+  cautions: May also belong with cosmic_origin or sacred_knowledge if the passage
+    is cosmological teaching rather than sovereignty imagery.
+  suggested_aliases:
+  - astral intermediaries
+  - celestial intermediaries beneath supreme deity
+  - cosmic hierarchy under supreme deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.astral-remnant-of-a-beheaded-deer
+  motif_id: astral_remnant_of_a_beheaded_deer
+  label: Astral remnant of a beheaded deer
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A beheaded animal leaving an astral remnant is a death-to-celestial-form
+    transformation.
+  cautions: Could be over-specific; if the passage explains a constellation or omen,
+    consider cosmic_origin or dream_and_vision as secondary review contexts.
+  suggested_aliases:
+  - beheaded deer becomes astral remnant
+  - animal death transformed into stars
+  - celestial remnant of slain deer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several one-off labels may be passage artifacts; verify source context before adding
+  durable mappings.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Batch reviewed for broad normalization placement only; human review recommended
+    for ambiguous single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0009
+  input_sha256: 0b95389097dce03141eaf8e7d377289ee90f070c960030697edccc8c4359b38c

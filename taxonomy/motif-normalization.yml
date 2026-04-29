@@ -4525,6 +4525,120 @@ raw_motif_group_index:
     - external life object
     - life-token
     - life tied to object
+  auspicious_and_inauspicious_calendar_days_govern_human_and_practical_actions:
+    group_id: sacred_time
+    relationship: child
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The label directly concerns sacred calendrical timing governing appropriate
+      human action. Caution: If the passage is a practical almanac note rather than
+      mythic or ritual pattern, preserve as contextual evidence rather than promote
+      as canonical motif.'
+    suggested_aliases:
+    - lucky and unlucky days
+    - sacred calendar governs action
+    - auspicious calendar timing
+  avenging_a_slain_companion:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Vengeance for a fallen companion is a heroic-warrior combat motivation
+      and fits sacred or heroic warfare patterns. Caution: Could also support lament_and_mourning
+      or divine_warrior if a god/hero restores cosmic order; verify whether it is
+      more than ordinary revenge plot.'
+    suggested_aliases:
+    - vengeance for slain companion
+    - avenging fallen comrade
+    - revenge for a dead companion
+  betrayer_destroyed_by_own_treachery:
+    group_id: divine_judgment
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A betrayer destroyed by their own treachery fits moral consequence and
+      retributive reckoning. Caution: Confirm that the narrative frames the destruction
+      as moral order, not merely ironic plot mechanics.'
+    suggested_aliases:
+    - treachery rebounds on betrayer
+    - traitor destroyed by own plot
+    - self-defeating betrayal
+  blood_as_prohibited_food_and_transgressive_preparation:
+    group_id: sacred_law
+    relationship: ritual_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Blood as prohibited food matches existing blood-as-life, ritual prohibition,
+      and sacred-law food taboo patterns. Caution: Preserve whether the passage frames
+      the act as dietary law, impurity, sacrifice, or deliberate transgression.'
+    suggested_aliases:
+    - blood as forbidden food
+    - blood food taboo
+    - transgressive preparation of blood
+  blood_compensation_replacing_or_competing_with_retaliation:
+    group_id: sacred_law
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Blood compensation regulating retaliation is a legal-social order motif
+      under sacred law. Caution: Could also support covenant or divine_judgment if
+      the passage frames compensation as sacred command or moral reckoning.'
+    suggested_aliases:
+    - blood compensation
+    - blood money replacing retaliation
+    - compensation instead of vengeance
+  blood_must_not_fall_on_the_ground:
+    group_id: sacred_law
+    relationship: ritual_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A rule controlling where blood may fall is a ritual prohibition involving
+      blood-as-life and sacred handling. Caution: If connected to offering, hunting,
+      or preventing spirit contact, sacrifice or apotropaic subpatterns may also apply.'
+    suggested_aliases:
+    - prohibition on blood touching ground
+    - blood-ground taboo
+    - ritual containment of blood
+  boastful_challenger_immediately_destroyed:
+    group_id: pride_and_downfall
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A boastful challenger destroyed after overreach is a clear hubris-and-downfall
+      pattern. Caution: If destruction is primarily a battlefield result rather than
+      moralized overreach, sacred_combat may be a secondary fit.'
+    suggested_aliases:
+    - boastful challenger punished
+    - hubristic challenger destroyed
+  body_as_temporary_dwelling:
+    group_id: mystical_quest
+    relationship: symbolic_variant
+    confidence: high
+    review_status: model_auto_accepted_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The body as a temporary dwelling fits mystical anthropology where the
+      self or soul is not identical with bodily life. Caution: Related to body-as-tomb-or-shell
+      imagery; do not treat as literal death or rebirth unless the passage explicitly
+      frames bodily departure or transformation.'
+    suggested_aliases:
+    - body as temporary house
+    - body as dwelling of the soul
+    - body as transient lodging
 normalization_suggestion_acceptance:
   updated_on: '2026-04-29'
   latest_run_id: normalization-suggestions-2026-04-29-full-gap-priority
@@ -4534,6 +4648,6 @@ normalization_suggestion_acceptance:
   latest_suggestions_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
   latest_review_data_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
   latest_report_path: docs/motif-normalization-auto-accept-review.md
-  latest_suggestion_count: 80
+  latest_suggestion_count: 180
   latest_auto_accepted_count: 8
-  latest_review_needed_count: 72
+  latest_review_needed_count: 172

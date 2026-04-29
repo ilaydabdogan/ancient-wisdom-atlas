@@ -1383,6 +1383,66 @@ canonical_motif_groups:
   draft_reason_existing_groups_insufficient: Existing groups cover sacred craft, treasures,
     vessels, and idols, but not the specific function of artificial or cultic objects
     becoming animate.
+- id: martyrdom_witness
+  label: Martyrdom and Witness Under Persecution
+  description: A believer, saint, community, or righteous figure accepts death, torture,
+    or worldly loss rather than renounce faith, truth, loyalty, or sacred commitment,
+    often exposing tyranny and affirming divine order.
+  children:
+  - believers_threatened_by_tyrant_accept_martyrdom
+  aliases: []
+  related:
+  - sacred_combat
+  - lament_and_mourning
+  - covenant
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - sacrifice
+  - divine_judgment
+  - sacred_law
+  draft_reason_existing_groups_insufficient: Existing sacrifice and divine judgment
+    groups cover self-surrender and moral reckoning, but do not preserve the specific
+    religious function of steadfast witness under persecution.
+- id: betrayal_violated_trust
+  label: Betrayal and Violated Trust
+  description: Violation of trust, loyalty, hospitality, kinship, protection, or duty
+    that turns a bond of safety into harm, conflict, judgment, or tragic reversal.
+  children:
+  - betrayal_of_a_protector
+  - betrayal_through_feast_or_drink
+  aliases: []
+  related:
+  - divine_judgment
+  - sacred_combat
+  - royal_legitimacy
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - sacred_exchange
+  - sacred_law
+  draft_reason_existing_groups_insufficient: Existing groups cover reciprocity, law,
+    and judgment, but not the narrative rupture of trust itself across protector,
+    guest, kin, duty, and feast betrayal patterns.
+- id: conditional_boon_loophole
+  label: Conditional Boon and Loophole Vulnerability
+  description: A boon, vow, blessing, or protective condition grants apparent invulnerability
+    or power but contains an omitted exception, excluded opponent class, or loophole
+    through which defeat becomes possible.
+  children:
+  - boon_protected_antagonist_with_excluded_opponent_class
+  - boon_with_fatal_omitted_exception
+  - boon_with_omitted_vulnerability
+  aliases: []
+  related:
+  - sacred_treasures
+  - external_soul
+  - sacred_combat
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - sacred_exchange
+  - divine_judgment
+  draft_reason_existing_groups_insufficient: Existing groups cover exchange, judgment,
+    power objects, and external souls, but not the specific narrative structure of
+    conditional invulnerability created by a boon and undone by its exception.
 - id: miraculous_provision
   label: Miraculous Provision and Inexhaustible Food
   description: Food, drink, wealth, or sustenance is supernaturally provided, multiplied,
@@ -4964,6 +5024,663 @@ raw_motif_group_index:
       punishment and restoration of moral order. Caution: Likely over-specific to
       an episode or polemical narrative; verify sacred judgment rather than political
       chronicle before broad indexing.'
+  armed_founder_succeeds_where_unarmed_founder_fails:
+    group_id: culture_hero
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The label centers on successful founding and establishment, with arms
+      as the enabling difference. Caution: Could instead fit royal_legitimacy or sacred_combat
+      if the passage emphasizes lawful rule or warfare more than founding.'
+  armed_watcher_defeats_supernatural_seeming_intruder:
+    group_id: threshold_guardian
+    relationship: role_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'An armed watcher defending against an uncanny intruder functions as boundary
+      protection at a threshold. Caution: If the intruder is not actually liminal
+      or supernatural, this may be a combat episode or passage detail rather than
+      a threshold motif.'
+  arming_before_a_liminal_night_mission:
+    group_id: hero_journey
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Preparation for a dangerous liminal mission fits the departure/trial phase
+      of a hero journey. Caution: Could belong to sacred_combat if the arming scene
+      is primarily martial; may be too episode-specific if no transformation or threshold
+      crossing follows.'
+  army_encamped_at_liminal_shore:
+    group_id: sacred_waters
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A shore is a water-boundary setting; an army encamped there suggests preparation
+      at a crossing threshold. Caution: Do not map to flood or water passage unless
+      the episode includes crossing, transformation, destruction, or purification;
+      could be a tactical setting only.'
+  astral_intermediaries_beneath_a_supreme_deity:
+    group_id: supreme_ruler
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The hierarchy of astral intermediaries is organized beneath a supreme
+      cosmic ruler. Caution: May also belong with cosmic_origin or sacred_knowledge
+      if the passage is cosmological teaching rather than sovereignty imagery.'
+  astral_remnant_of_a_beheaded_deer:
+    group_id: death_and_transformation
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A beheaded animal leaving an astral remnant is a death-to-celestial-form
+      transformation. Caution: Could be over-specific; if the passage explains a constellation
+      or omen, consider cosmic_origin or dream_and_vision as secondary review contexts.'
+  auspicious_and_inauspicious_calendar_days_govern_human_and_practical_actions:
+    group_id: sacred_time
+    relationship: child
+    confidence: high
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The label directly concerns sacred calendrical timing governing appropriate
+      human action. Caution: If the passage is a practical almanac note rather than
+      mythic or ritual pattern, preserve as contextual evidence rather than promote
+      as canonical motif.'
+  auspicious_flame_omen:
+    group_id: sacred_fire
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A flame functioning as an auspicious sign fits sacred fire as divine presence,
+      sign, or ritual mediator. Caution: Could also map secondarily to dream_and_vision
+      if the omen is primarily divinatory; avoid world-destroying fire unless catastrophic
+      renewal is present.'
+  autochthonous_origin_from_mushrooms:
+    group_id: cosmic_origin
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Autochthonous emergence is an origin motif; the mushroom detail is a local
+      generative substance or place-specific variant. Caution: Do not overgeneralize
+      to cosmic creation if it is only an etiological origin of a people or place.
+      Mushroom specificity may remain evidence detail.'
+  autonomous_or_enchanted_game_board:
+    group_id: sacred_treasures
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'An enchanted self-acting game board is a power object with supernatural
+      agency or knowledge-bearing function. Caution: If the board mainly opens an
+      otherworld encounter or determines fate, otherworld or divine_judgment may be
+      relevant; single object-specific label may be too granular.'
+  avenging_a_slain_companion:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: high
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Vengeance for a fallen companion is a heroic-warrior combat motivation
+      and fits sacred or heroic warfare patterns. Caution: Could also support lament_and_mourning
+      or divine_warrior if a god/hero restores cosmic order; verify whether it is
+      more than ordinary revenge plot.'
+  avenging_expedition_for_a_wronged_sister:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'An expedition launched to avenge kin injury fits the warfare/vengeance
+      catalyst side of sacred combat. Caution: Kinship and gendered wrong may be central;
+      could relate to sibling_pair or sacred_law if the focus is family obligation
+      rather than combat.'
+  avenging_pursuit_and_beheading_of_deceiver:
+    group_id: sacred_combat
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The label describes violent pursuit and execution of a deceiver, fitting
+      combat or vengeance as restoration of order. Caution: Likely episode-specific;
+      if emphasis is moral punishment rather than combat, divine_judgment may be a
+      secondary mapping.'
+  avoid_corrupting_contact:
+    group_id: sacred_law
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Avoiding corrupting contact aligns with purity, taboo, and ritual-social
+      regulation already grouped under sacred_law. Caution: If the passage is philosophical
+      ethics rather than ritual impurity, wisdom or ethics review may be better.'
+  avoidance_of_extremes_as_path_of_happiness:
+    group_id: sacred_knowledge
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'This is a wisdom teaching about moderation and flourishing rather than
+      a narrative event. Caution: May be philosophical doctrine or commentary; keep
+      as teaching detail unless it recurs as a narrative motif.'
+  awakening_call_at_dawn:
+    group_id: mystical_quest
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'In Sufi context, dawn awakening plausibly signals spiritual summons, vigilance,
+      and movement on the interior path. Caution: Could also be ordinary lyric setting
+      or prayer-time imagery; confirm that awakening has devotional or transformative
+      function.'
+  backbiting_as_cannibalistic_abomination:
+    group_id: sacred_law
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'This is an ethical prohibition expressed through bodily-abomination imagery,
+      fitting sacred law and moral conduct. Caution: Preserve the cannibalistic metaphor;
+      do not treat as literal cannibalism without passage evidence.'
+  bad_omen_reversed_by_favorable_interpretation:
+    group_id: dream_and_vision
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The motif centers on interpretation of a sign or omen, a revelatory-perceptual
+      function near dream and vision materials. Caution: If interpretation is a wisdom
+      lesson rather than omen practice, sacred_knowledge may be a secondary placement.'
+  bad_rule_through_wealth_replacing_skill:
+    group_id: royal_legitimacy
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The label critiques illegitimate or degraded rule when wealth displaces
+      competence or virtue. Caution: May be political philosophy rather than mythic
+      kingship; if framed as moral downfall, pride_and_downfall or divine_judgment
+      may also apply.'
+  balder_s_life_in_the_mistletoe:
+    group_id: external_soul
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A figure''s life or vulnerability is bound to an external plant/object,
+      matching the external soul or life-token complex. Caution: The Baldr episode
+      may concern vulnerability or fatal exception more than a literal stored soul;
+      preserve mistletoe specificity as evidence detail.'
+  banishment_of_afflictions_to_inaccessible_or_chthonic_containment_places:
+    group_id: sacrifice
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The motif fits the existing ritual expulsion complex under sacrifice,
+      where harms or spirits are removed and contained away from the community or
+      body. Caution: Could also involve chthonic descent, healing, or apotropaic law;
+      review whether a distinct exorcism/ritual-expulsion group should eventually
+      be separated from sacrifice.'
+  banishment_of_an_invading_evil_from_the_body:
+    group_id: sacrifice
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Banishment of an invasive evil from a body aligns with the exorcism and
+      spirit-affliction expulsion labels already folded under sacrifice. Caution:
+      If the source emphasizes healing rather than ritual expulsion, a future healing/affliction
+      group may be more precise. Treat culturally specific illness-spirit concepts
+      carefully.'
+  bardic_performance_nested_within_the_main_narrative:
+    group_id: storytelling_as_power
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A bardic performance embedded in a larger narrative fits the group for
+      frame narratives, oral transmission, and storytelling as a meaningful narrative
+      act. Caution: May be a literary-form observation rather than a symbolic motif;
+      exclude if it only marks textual structure without sacred, social, or plot function.'
+  beheading_of_defeated_enemies:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The motif is a post-combat treatment of defeated enemies and fits the
+      broader sacred or heroic combat field better than general death transformation.
+      Caution: If the source emphasizes trophy heads, ritual display, or head cult
+      symbolism, a more specific future head-taking group may be warranted. Single
+      occurrence may be episode detail.'
+  believers_threatened_by_tyrant_accept_martyrdom:
+    group_id: martyrdom_witness
+    relationship: child
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Voluntary acceptance of death under coercive tyranny is a distinct religious
+      witness and steadfastness motif not cleanly covered by sacrifice, divine judgment,
+      or sacred combat. Caution: Could be indexed secondarily under sacrifice if self-offering
+      is emphasized, or divine_judgment if the tyrant is punished. Culturally sensitive;
+      source evidence should guide whether martyrdom is the central function.'
+  benefactor_repaid_with_harm:
+    group_id: sacred_exchange
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The motif inverts reciprocity: a gift or help relationship is answered
+      with injury rather than return obligation. Caution: Could instead be an ethical
+      exemplum or betrayal motif; if no sacred or reciprocal obligation is emphasized,
+      keep as evidence detail.'
+  besieged_camp_protected_by_obedience_to_absent_leader:
+    group_id: royal_legitimacy
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Obedience to an absent commander preserves social and military order,
+      aligning with legitimate authority and disciplined hierarchy. Caution: Highly
+      specific; if the passage emphasizes battle ordeal rather than authority, sacred_combat
+      may be a better secondary placement.'
+  best_not_to_be_born:
+    group_id: lament_and_mourning
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The maxim expresses tragic recognition and grief over mortal suffering,
+      fitting lament and tragic awareness. Caution: Could be philosophical pessimism
+      rather than a narrative motif; if it is merely quoted doctrine, consider excluding
+      from pattern queries.'
+  betrayal_of_a_protector:
+    group_id: betrayal_violated_trust
+    relationship: functional_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The motif centers on violated protective obligation, a recurring narrative
+      function not cleanly covered by exchange, law, or judgment groups. Caution:
+      Single item here, but several batch labels cluster around betrayal; human review
+      should decide whether to create a betrayal group or fold cases into sacred_exchange/divine_judgment.'
+  betrayal_of_duty_punished:
+    group_id: divine_judgment
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The key function is punishment following violation of duty, which fits
+      moral reckoning and restoration of order. Caution: If the punishment is purely
+      social or military rather than sacred/moral, sacred_law or a betrayal group
+      may be better.'
+  betrayal_of_the_fugitive_heir_by_a_kinsman:
+    group_id: royal_legitimacy
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A fugitive heir betrayed by kin concerns contested succession, lineage
+      danger, and legitimate rule. Caution: Over-specific composite label; if the
+      source emphasizes kin betrayal over succession, a betrayal/violated trust group
+      may be preferable.'
+  betrayal_through_feast_or_drink:
+    group_id: betrayal_violated_trust
+    relationship: functional_variant
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The feast or drink setting marks a hospitality or commensality bond turned
+      into betrayal. Caution: Could overlap with sacred_exchange or sacred_law if
+      the emphasis is hospitality obligation; retain feast/drink as local evidence
+      detail.'
+  betrayed_guests_make_a_doomed_last_stand:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The final narrative action is a doomed martial stand, with betrayal of
+      guests as the precipitating violation. Caution: Composite and specific; may
+      need secondary review under betrayal/violated trust or sacred_exchange if hospitality
+      breach is central.'
+  betrayed_safe_conduct:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Violation of promised safe-conduct is a conflict episode involving broken
+      martial or diplomatic order. Caution: Could instead belong under covenant or
+      sacred_law if the passage emphasizes oath obligation more than warfare.'
+  betrayer_destroyed_by_own_treachery:
+    group_id: divine_judgment
+    relationship: functional_variant
+    confidence: high
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A betrayer destroyed by their own treachery fits moral consequence and
+      retributive reckoning. Caution: Confirm that the narrative frames the destruction
+      as moral order, not merely ironic plot mechanics.'
+  binding_injunction_or_prohibition_by_honour:
+    group_id: sacred_law
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'An honor-bound injunction or prohibition functions as a binding social-sacred
+      rule or taboo. Caution: In Irish material this may be a geis-like obligation;
+      review whether covenant, taboo, fate, or heroic honor is primary.'
+  bleeding_or_blood_distilling_plant:
+    group_id: death_and_transformation
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A plant that bleeds often signals transformation of blood, death, or a
+      human/divine body into vegetation. Caution: If the plant is used ritually, as
+      an omen, or as sacred medicine, sacred_law or sacred_treasures may be secondary;
+      source context needed.'
+  blemishless_and_sinless_condition_of_inhabitants:
+    group_id: otherworld
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Blemishless, sinless inhabitants suggest an idealized blessed or enchanted
+      realm. Caution: If this describes moral purity law rather than place-character,
+      sacred_law or divine_judgment may fit better.'
+  blind_elder_deceived_by_simulated_weather:
+    group_id: trickster
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The episode centers on deception through staged signs, a trickster-like
+      manipulation of perception. Caution: May be an episode-specific plot device;
+      if no liminal/trickster function is present, consider exclusion from pattern
+      queries.'
+  blind_poet_receives_identity_through_blindness:
+    group_id: sacred_knowledge
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Blindness conferring poetic identity suggests altered perception as a
+      source of sacred or inspired knowledge. Caution: Could also fit storytelling_as_power
+      or dream_and_vision if poetic speech or visionary compensation is primary.'
+  blinding_of_a_one_eyed_cannibal_giant_with_heated_spits:
+    group_id: threshold_guardian
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Defeating a monstrous cannibal giant by blinding functions as overcoming
+      a dangerous liminal opponent blocking escape or passage. Caution: Highly episode-specific
+      and culturally widespread; avoid transmission claims. Could also map to trickster
+      if deception is central, or sacred_combat if heroic combat is emphasized.'
+  blood_as_prohibited_food_and_transgressive_preparation:
+    group_id: sacred_law
+    relationship: ritual_variant
+    confidence: high
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Blood as prohibited food matches existing blood-as-life, ritual prohibition,
+      and sacred-law food taboo patterns. Caution: Preserve whether the passage frames
+      the act as dietary law, impurity, sacrifice, or deliberate transgression.'
+  blood_betrays_concealed_killing:
+    group_id: divine_judgment
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Revealing hidden killing functions as moral disclosure and reckoning,
+      fitting judgment more than general blood symbolism. Caution: If the blood is
+      simply forensic evidence or an episode detail without sacred agency, it may
+      be too specific for pattern queries.'
+  blood_breaks_enchantment:
+    group_id: shapeshifter
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Breaking enchantment usually reverses magical transformation or altered
+      state, which best fits the transformation complex. Caution: If the passage emphasizes
+      blood as ritual medium, sacrifice, or healing substance, sacred_law or sacrifice
+      may be secondary.'
+  blood_changes_a_plant_s_color:
+    group_id: death_and_transformation
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Blood causing a plant’s altered color is an etiological transformation
+      tied to death or injury imagery. Caution: May be an over-specific etiological
+      detail; if the plant has sacred-tree or seasonal significance, axis_mundi or
+      sacred_time could be relevant.'
+  blood_compensation_replacing_or_competing_with_retaliation:
+    group_id: sacred_law
+    relationship: functional_variant
+    confidence: high
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Blood compensation regulating retaliation is a legal-social order motif
+      under sacred law. Caution: Could also support covenant or divine_judgment if
+      the passage frames compensation as sacred command or moral reckoning.'
+  blood_like_atmospheric_omen_or_marvel:
+    group_id: dream_and_vision
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A blood-like atmospheric marvel functions as an omen or sign perceived
+      as meaningful revelation. Caution: If the omen announces punishment or catastrophe,
+      divine_judgment may be a better or secondary mapping.'
+  blood_must_not_fall_on_the_ground:
+    group_id: sacred_law
+    relationship: ritual_variant
+    confidence: high
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A rule controlling where blood may fall is a ritual prohibition involving
+      blood-as-life and sacred handling. Caution: If connected to offering, hunting,
+      or preventing spirit contact, sacrifice or apotropaic subpatterns may also apply.'
+  boast_answered_by_supernatural_opposition:
+    group_id: pride_and_downfall
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A boast provoking supernatural opposition fits overreaching pride followed
+      by humbling or danger. Caution: Could instead be divine_judgment or sacred_combat
+      if the passage emphasizes moral punishment or battle rather than boastful overreach.'
+  boast_counter_boast_and_vengeance_duel:
+    group_id: sacred_combat
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The label describes a duel structured by heroic speech and vengeance,
+      fitting the sacred or ritualized combat complex. Caution: Likely episode-specific;
+      preserve boast and vengeance details as evidence notes unless similar duel formulas
+      recur.'
+  boastful_challenger_immediately_destroyed:
+    group_id: pride_and_downfall
+    relationship: functional_variant
+    confidence: high
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A boastful challenger destroyed after overreach is a clear hubris-and-downfall
+      pattern. Caution: If destruction is primarily a battlefield result rather than
+      moralized overreach, sacred_combat may be a secondary fit.'
+  bodily_omen_of_right_and_left_eye_throbbing:
+    group_id: dream_and_vision
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A bodily omen functions as a sign that reveals or foreshadows events,
+      close to omen and altered-perception patterns. Caution: Very specific divinatory
+      body sign; preserve right/left eye detail as evidence and review for a future
+      omen/divination group if many recur.'
+  bodily_penalty_mirrors_the_offending_body_part:
+    group_id: divine_judgment
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A mirrored bodily penalty expresses moral reckoning where punishment corresponds
+      to the offense. Caution: Could be legal, ethical, or narrative retribution rather
+      than divine judgment; confirm sacred or moral evaluation in source context.'
+  bodily_prostration_as_solemn_adoration:
+    group_id: sacred_exchange
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Prostration is a bodily act of devotion or submission that maintains sacred
+      relationship. Caution: If the passage is primarily legal worship instruction,
+      sacred_law may fit better; avoid flattening culturally specific prayer practice
+      into generic offering.'
+  bodily_restoration_after_injury:
+    group_id: death_and_transformation
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Restoration of an injured body is a renewal or healing transformation
+      after bodily damage. Caution: If the restoration is miraculous healing by a
+      deity, divine_intervention may be secondary; if it follows death, resurrection
+      is more precise.'
+  body_as_temporary_dwelling:
+    group_id: mystical_quest
+    relationship: symbolic_variant
+    confidence: high
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The body as a temporary dwelling fits mystical anthropology where the
+      self or soul is not identical with bodily life. Caution: Related to body-as-tomb-or-shell
+      imagery; do not treat as literal death or rebirth unless the passage explicitly
+      frames bodily departure or transformation.'
+  body_diminishes_while_voice_remains:
+    group_id: death_and_transformation
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The motif describes bodily diminishment with persistence as voice, a transformation
+      of embodied identity into another mode of existence. Caution: May be a specific
+      mythic episode or metamorphosis detail; if the focus is speech/song rather than
+      survival after bodily loss, storytelling_as_power or sacred_knowledge may be
+      secondary.'
+  boon_extorted_from_a_captured_pursuer:
+    group_id: sacred_exchange
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The label centers on compelled granting of a boon after capture, a negotiated
+      or coerced exchange that changes relations between opponents. Caution: If the
+      episode is mainly trickery, combat resolution, or legal hostage custom, trickster,
+      sacred_combat, or covenant may be more precise secondary mappings.'
+  boon_of_protection_granted_to_a_defeated_host:
+    group_id: sacred_exchange
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A protective boon granted after defeat functions as a binding reciprocal
+      settlement or obligation between victor and defeated party. Caution: May also
+      involve royal clemency, combat aftermath, or covenant-like protection depending
+      on source evidence.'
+  boon_protected_antagonist_with_excluded_opponent_class:
+    group_id: conditional_boon_loophole
+    relationship: child
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The pattern is a recurring boon-based invulnerability with a loophole
+      or excluded class, not well captured by general sacred exchange or external
+      soul. Caution: Review alongside related Hindu boon labels in this batch; may
+      be a child under sacred_exchange, divine_judgment, or sacred_treasures rather
+      than a taxonomy-level motif.'
+  boon_with_fatal_omitted_exception:
+    group_id: conditional_boon_loophole
+    relationship: child
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'The label directly expresses the loophole-boon structure where an overlooked
+      exception enables death or defeat. Caution: Should be consolidated with other
+      boon loophole variants if human review accepts the proposed group.'
+  boon_with_omitted_vulnerability:
+    group_id: conditional_boon_loophole
+    relationship: child
+    confidence: high
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'This is a close variant of the conditional boon loophole pattern: protection
+      is powerful but incomplete because a vulnerability is omitted. Caution: Avoid
+      merging with external_soul unless the vulnerability is specifically located
+      in a separable life-token.'
+  borrowed_arms_for_a_challenge:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Borrowing weapons for a challenge belongs to the equipment and preparation
+      logic of heroic or ritual combat. Caution: If the arms themselves confer authority
+      or supernatural power, sacred_treasures may be a secondary mapping; otherwise
+      this may be an episode-specific combat detail.'
+  bounded_long_enchantment_with_prophesied_release_condition:
+    group_id: otherworld
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A long enchantment with a foretold release condition fits enchanted otherworld
+      or fairy-tale temporal suspension patterns. Caution: If the emphasis is transformation,
+      captivity, or fate rather than an enchanted realm, shapeshifter, divine_judgment,
+      or death_and_transformation may be secondary.'
+  broken_truce_followed_by_failed_mass_attack:
+    group_id: sacred_combat
+    relationship: over_specific_label
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Broken truces and failed attacks are warfare-sequence details best parked
+      under sacred combat if the conflict is ritually or mythically significant. Caution:
+      Likely episode-specific; avoid promoting unless similar truce-violation combat
+      patterns recur. Could also indicate covenant violation if sacred oath-breaking
+      is central.'
+  burden_removed_and_heart_opened:
+    group_id: divine_intervention
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Removal of a burden and opening of the heart describes direct sacred aid
+      or preparation of a chosen figure. Caution: Could also support initiation, sacred_knowledge,
+      or prophetic call depending on whether the passage emphasizes purification,
+      revelation, or mission.'
+  burning_or_disposal_of_anthropomorphic_effigy_at_midsummer:
+    group_id: sacred_time
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_suggested
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'A midsummer effigy rite belongs with calendrical ritual cycles and seasonal
+      renewal. Caution: Could also involve sacrifice, scapegoat, ritual expulsion,
+      or sacred fire depending on whether the effigy bears impurity, represents a
+      spirit, or is offered.'
   inescapable_chain_of_existence:
     group_id: mystical_quest
     relationship: symbolic_variant
@@ -5003,11 +5720,11 @@ expansion_draft:
   purpose: Draft expansion generated from model normalization suggestions. Review
     before merging into taxonomy/motif-normalization.yml.
   include_low_confidence: false
-  suggestion_count: 80
-  accepted_mapping_count: 41
-  new_group_candidate_count: 3
-  excluded_count: 6
-  needs_review_count: 25
+  suggestion_count: 180
+  accepted_mapping_count: 108
+  new_group_candidate_count: 6
+  excluded_count: 14
+  needs_review_count: 50
   already_known_count: 8
 expansion_review_flags:
   low_confidence_or_needs_human_review:
@@ -5365,6 +6082,387 @@ expansion_review_flags:
     cautions: Highly episode-specific; if sleep is magical otherworld interference,
       otherworld or dream_and_vision may be secondary. Consider excluding if it is
       only plot detail.
+  - motif_id: argument_as_waves_to_be_passed
+    label: Argument as waves to be passed
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Could be a metaphor for verbal contest, ordeal, or rhetorical progression,
+      but the function is unclear from the label alone.
+    cautions: Single occurrence; may be a passage-specific metaphor rather than a
+      reusable mythic motif.
+  - motif_id: army_suffers_under_extraordinary_snow_without_shelter
+    label: army suffers under extraordinary snow without shelter
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label may describe ordeal by extreme weather, divine punishment,
+      or a contextual battle hardship.
+    cautions: Single occurrence and highly situational; source evidence needed before
+      placing under divine_judgment, hero_journey, or sacred_combat.
+  - motif_id: assassination_following_political_disgrace
+    label: Assassination following political disgrace
+    occurrences: 1
+    traditions:
+    - sufi
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: This sounds like a historical or political plot event rather than a
+      symbolic motif without further sacred function.
+    cautions: Could fit divine_judgment or pride_and_downfall if framed as moral reckoning;
+      otherwise exclude as contextual history.
+  - motif_id: attempt_to_gain_loyalty_through_excessive_favors_fails
+    label: attempt to gain loyalty through excessive favors fails
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: sacred_exchange
+    suggested_group_label: Sacred Exchange and Reciprocity
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The failed use of excessive favors may be a distorted reciprocity or
+      patronage pattern, but the sacred or ritual function is unclear.
+    cautions: Single occurrence and likely contextual political/ethical episode; may
+      belong under social order or be excluded if merely plot detail.
+  - motif_id: attempted_reconciliation_of_institutional_religion_and_mysticism
+    label: attempted reconciliation of institutional religion and mysticism
+    occurrences: 1
+    traditions:
+    - sufi
+    suggested_action: needs_human_review
+    suggested_group_id: mystical_quest
+    suggested_group_label: Mystical Quest and Interior Journey
+    relationship: uncertain
+    confidence: medium
+    reason: model requested human review
+    rationale: The label concerns mystical practice in relation to formal religious
+      structures, adjacent to the mystical quest complex.
+    cautions: May be a doctrinal or scholarly abstraction rather than a narrative
+      motif; source evidence should decide whether to index as motif or commentary.
+  - motif_id: attempted_suicide_interrupted_by_caregiver
+    label: attempted suicide interrupted by caregiver
+    occurrences: 1
+    traditions:
+    - roman
+    suggested_action: needs_human_review
+    suggested_group_id: lament_and_mourning
+    suggested_group_label: Lament, Mourning, and Tragic Recognition
+    relationship: functional_variant
+    confidence: low
+    reason: low confidence
+    rationale: An interrupted suicide may occur in a grief, despair, or tragic-recognition
+      sequence.
+    cautions: Sensitive topic and highly episode-specific; could be plot detail rather
+      than durable mythic motif. Avoid broad death/rebirth mapping unless transformation
+      follows.
+  - motif_id: authorized_falsehood_for_civic_good
+    label: authorized falsehood for civic good
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: sacred_law
+    suggested_group_label: Sacred Law and Social Order
+    relationship: functional_variant
+    confidence: medium
+    reason: model requested human review
+    rationale: The motif concerns sanctioned deception used to preserve social or
+      civic order, fitting law and social-order reasoning.
+    cautions: May be philosophical doctrine or political theory rather than mythic
+      motif; review before indexing in pattern queries.
+  - motif_id: avenging_insult_to_humble_or_marginal_figures
+    label: avenging insult to humble or marginal figures
+    occurrences: 1
+    traditions:
+    - celtic_welsh
+    suggested_action: needs_human_review
+    suggested_group_id: divine_judgment
+    suggested_group_label: Divine Judgment and Moral Reckoning
+    relationship: functional_variant
+    confidence: low
+    reason: low confidence
+    rationale: Avenging an insult against low-status figures may express moral redress
+      or reversal of social violation.
+    cautions: Single occurrence and context-dependent; could be heroic vengeance,
+      social satire, or a passage-specific plot detail rather than sacred judgment.
+  - motif_id: baited_food_leads_to_capture
+    label: baited food leads to capture
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label describes a capture tactic, but the broader function could
+      be trickery, hunting, ordeal, or episode-specific plot mechanics.
+    cautions: Single occurrence; avoid promoting unless similar capture-by-bait motifs
+      recur. Source context needed to distinguish trickster strategy from incidental
+      narrative detail.
+  - motif_id: barter_as_exchange
+    label: barter as exchange
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Exchange may fit sacred_exchange only if ritually, morally, or socially
+      charged; the label alone may describe ordinary economic action.
+    cautions: Do not map to sacred_exchange without evidence of reciprocity, hospitality,
+      vow, divine relation, or social obligation. Could be too generic for motif queries.
+  - motif_id: beautification_by_bath_before_presentation
+    label: beautification by bath before presentation
+    occurrences: 1
+    traditions:
+    - islamicate_folklore
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Bathing and beautification before presentation could be preparation
+      for marriage, court recognition, initiation, or ordinary plot staging.
+    cautions: Needs source context. Do not force into sacred_love, sacred_marriage,
+      purification, or initiation unless the presentation has ritual or transformative
+      significance.
+  - motif_id: becoming_another_through_external_orientation
+    label: becoming another through external orientation
+    occurrences: 1
+    traditions:
+    - daoist
+    suggested_action: map_to_existing_group
+    suggested_group_id: mystical_quest
+    suggested_group_label: Mystical Quest and Interior Journey
+    relationship: meta_artifact
+    confidence: low
+    reason: low confidence
+    rationale: The wording suggests a philosophical or contemplative transformation
+      of selfhood, broadly compatible with mystical quest or annihilation/union themes.
+    cautions: The label is abstract and may be a commentary artifact rather than a
+      narrative motif. Human review should verify the Daoist source concept before
+      indexing.
+  - motif_id: benefactor_becomes_predator
+    label: Benefactor becomes predator
+    occurrences: 1
+    traditions:
+    - persian
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label describes a role reversal from helper to threat, but current
+      groups do not clearly cover betrayal, deception, or predatory benefactors.
+    cautions: Single occurrence and source context needed; may be fable logic, trickster
+      deception, moral exemplum, or episode-specific plot reversal.
+  - motif_id: benefit_friends_and_harm_enemies
+    label: benefit friends and harm enemies
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: This reads as an ethical maxim or social norm rather than a clear narrative
+      motif in the current taxonomy.
+    cautions: May be philosophical commentary, heroic honor code, reciprocal justice,
+      or passage artifact; do not map without evidence of narrative function.
+  - motif_id: betraying_object_in_night_escape
+    label: betraying object in night escape
+    occurrences: 1
+    traditions:
+    - roman
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The object may function as a plot device, omen, power object, or failed
+      concealment depending on context.
+    cautions: Likely over-specific unless the object has sacred agency or a recurring
+      escape-revelation function.
+  - motif_id: blood_as_promised_satisfaction_for_injury
+    label: blood as promised satisfaction for injury
+    occurrences: 1
+    traditions:
+    - hindu
+    suggested_action: needs_human_review
+    suggested_group_id: sacred_combat
+    suggested_group_label: Sacred Combat and Ritual Warfare
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label may concern vengeance, retributive violence, oath, or sacrificial
+      blood satisfaction; existing groups do not resolve this from wording alone.
+    cautions: Needs source context before mapping to sacred_combat, divine_judgment,
+      sacrifice, or sacred_exchange. Avoid assuming ritual sacrifice from the word
+      blood.
+  - motif_id: blood_omen_in_an_abandoned_object
+    label: blood omen in an abandoned object
+    occurrences: 1
+    traditions:
+    - finnish_karelian
+    suggested_action: needs_human_review
+    suggested_group_id: dream_and_vision
+    suggested_group_label: Dream, Vision, and Altered Perception
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label suggests an omen-sign, but the abandoned object may be episode-specific
+      or materially symbolic.
+    cautions: Needs context to decide whether this is omen, sacred treasure/object,
+      concealed violence, or a passage artifact.
+  - motif_id: boastful_recounting_of_past_victories_to_silence_challengers
+    label: boastful recounting of past victories to silence challengers
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: This may be a heroic speech strategy rather than a symbolic motif covered
+      by existing groups.
+    cautions: Could fit sacred_combat if embedded in ritual challenge, pride_and_downfall
+      if punished, or storytelling_as_power if speech itself resolves conflict.
+  - motif_id: boasting_when_detection_is_impossible
+    label: Boasting when detection is impossible
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label is context-dependent and may describe plot logic or character
+      psychology more than a durable motif.
+    cautions: If the boast reveals hidden truth or exposes guilt, sacred_knowledge
+      or divine_judgment may apply; otherwise consider excluding as too passage-specific.
+  - motif_id: body_carried_by_unseen_forces
+    label: body carried by unseen forces
+    occurrences: 1
+    traditions:
+    - sufi
+    suggested_action: needs_human_review
+    suggested_group_id: divine_intervention
+    suggested_group_label: Divine Intervention and Guidance
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Unseen forces carrying a body may indicate supernatural intervention
+      or mystical transport, but the function is unclear from the label alone.
+    cautions: Could be mystical quest, miracle, spirit agency, death transport, or
+      passage-specific detail; verify source context before indexing.
+  - motif_id: body_shielding_failed_protection
+    label: body-shielding failed protection
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: needs_human_review
+    suggested_group_id: sacred_combat
+    suggested_group_label: Sacred Combat and Ritual Warfare
+    relationship: functional_variant
+    confidence: low
+    reason: low confidence
+    rationale: A body used as a shield in failed protection plausibly belongs to heroic
+      combat or sacrifice, but the narrative function is ambiguous.
+    cautions: Could be heroic self-sacrifice, failed guardianship, battlefield pathos,
+      or an over-specific episode detail; review before mapping.
+  - motif_id: boons_satisfied_before_formal_homage
+    label: boons satisfied before formal homage
+    occurrences: 1
+    traditions:
+    - celtic_welsh
+    suggested_action: needs_human_review
+    suggested_group_id: royal_legitimacy
+    suggested_group_label: Royal Legitimacy and Sacred Kingship
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Formal homage suggests hierarchy and legitimate rule, while fulfilled
+      boons suggest obligation before recognition.
+    cautions: Could be legal custom, courtly episode detail, sacred exchange, or royal
+      legitimacy; source context is needed.
+  - motif_id: borrowed_finery_exposed
+    label: borrowed finery exposed
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: pride_and_downfall
+    suggested_group_label: Pride, Hubris, and Downfall
+    relationship: functional_variant
+    confidence: low
+    reason: low confidence
+    rationale: Exposure of borrowed finery may function as humbling of pretension
+      or false status.
+    cautions: Could be a fable/comic episode, deception motif, social satire, or passage-specific
+      plot detail; source context needed.
+  - motif_id: burden_of_toil
+    label: burden of toil
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: divine_judgment
+    suggested_group_label: Divine Judgment and Moral Reckoning
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Toil may be framed as a consequence of divine order or punishment,
+      but the label is too broad to place confidently.
+    cautions: Could be social condition, curse, agricultural etiology, ethical teaching,
+      or generic hardship; source evidence is required.
+  - motif_id: burning_of_condemned_writings
+    label: Burning of condemned writings
+    occurrences: 1
+    traditions:
+    - sufi
+    suggested_action: needs_human_review
+    suggested_group_id: sacred_knowledge
+    suggested_group_label: Sacred Knowledge and Wisdom
+    relationship: functional_variant
+    confidence: low
+    reason: low confidence
+    rationale: Destroying condemned writings concerns control, rejection, or purification
+      of knowledge.
+    cautions: May be historical/legal episode, censorship, renunciation, or textual
+      artifact rather than mythic motif; review whether it functions symbolically
+      in the source.
   - motif_id: hunter_becomes_hunted
     label: hunter becomes hunted
     occurrences: 2
@@ -5439,6 +6537,66 @@ expansion_review_flags:
     draft_reason_existing_groups_insufficient: Existing groups cover sacred craft,
       treasures, vessels, and idols, but not the specific function of artificial or
       cultic objects becoming animate.
+  - id: martyrdom_witness
+    label: Martyrdom and Witness Under Persecution
+    description: A believer, saint, community, or righteous figure accepts death,
+      torture, or worldly loss rather than renounce faith, truth, loyalty, or sacred
+      commitment, often exposing tyranny and affirming divine order.
+    children:
+    - believers_threatened_by_tyrant_accept_martyrdom
+    aliases: []
+    related:
+    - sacred_combat
+    - lament_and_mourning
+    - covenant
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - sacrifice
+    - divine_judgment
+    - sacred_law
+    draft_reason_existing_groups_insufficient: Existing sacrifice and divine judgment
+      groups cover self-surrender and moral reckoning, but do not preserve the specific
+      religious function of steadfast witness under persecution.
+  - id: betrayal_violated_trust
+    label: Betrayal and Violated Trust
+    description: Violation of trust, loyalty, hospitality, kinship, protection, or
+      duty that turns a bond of safety into harm, conflict, judgment, or tragic reversal.
+    children:
+    - betrayal_of_a_protector
+    - betrayal_through_feast_or_drink
+    aliases: []
+    related:
+    - divine_judgment
+    - sacred_combat
+    - royal_legitimacy
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    draft_reason_existing_groups_insufficient: Existing groups cover reciprocity,
+      law, and judgment, but not the narrative rupture of trust itself across protector,
+      guest, kin, duty, and feast betrayal patterns.
+  - id: conditional_boon_loophole
+    label: Conditional Boon and Loophole Vulnerability
+    description: A boon, vow, blessing, or protective condition grants apparent invulnerability
+      or power but contains an omitted exception, excluded opponent class, or loophole
+      through which defeat becomes possible.
+    children:
+    - boon_protected_antagonist_with_excluded_opponent_class
+    - boon_with_fatal_omitted_exception
+    - boon_with_omitted_vulnerability
+    aliases: []
+    related:
+    - sacred_treasures
+    - external_soul
+    - sacred_combat
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - sacred_exchange
+    - divine_judgment
+    draft_reason_existing_groups_insufficient: Existing groups cover exchange, judgment,
+      power objects, and external souls, but not the specific narrative structure
+      of conditional invulnerability created by a boon and undone by its exception.
   - id: miraculous_provision
     label: Miraculous Provision and Inexhaustible Food
     description: Food, drink, wealth, or sustenance is supernaturally provided, multiplied,
@@ -5548,6 +6706,126 @@ expansion_review_flags:
     rationale: This is an editorial/transmission-history note, not a mythic motif.
     cautions: Keep for manuscript or reception metadata; exclude from Pattern Explorer
       motif queries.
+  - motif_id: archaic_motif_as_later_literary_insertion_or_adaptation
+    label: archaic motif as later literary insertion or adaptation
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: _meta_textual
+    suggested_group_label: Textual and Scholarly Artifacts
+    relationship: meta_artifact
+    confidence: high
+    reason: model suggested exclusion from pattern queries
+    rationale: The label describes editorial or literary-historical classification
+      rather than a narrative motif.
+    cautions: Preserve as provenance or source-critical note if needed; do not use
+      as motif evidence.
+  - motif_id: avoidance_of_single_exit_refuges
+    label: avoidance of single-exit refuges
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: over_specific_label
+    confidence: medium
+    reason: model suggested exclusion from pattern queries
+    rationale: The label reads as tactical advice or episode-specific survival detail,
+      not a broad symbolic motif.
+    cautions: If the source frames the refuge as a ritual threshold, trap, or ordeal
+      space, human review could map it to initiation or threshold_guardian.
+  - motif_id: bacchic_frenzy_as_simile_for_emotional_upheaval
+    label: Bacchic frenzy as simile for emotional upheaval
+    occurrences: 1
+    traditions:
+    - roman
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: meta_artifact
+    confidence: high
+    reason: model suggested exclusion from pattern queries
+    rationale: The wording identifies a literary simile rather than a recurring narrative
+      or ritual motif.
+    cautions: If the passage depicts actual Dionysiac possession or ritual frenzy,
+      review separately under a possible altered-state or divine-intervention placement.
+  - motif_id: betrayer_bound_in_the_store_room
+    label: betrayer bound in the store-room
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: _meta_textual
+    suggested_group_label: Textual and Scholarly Artifacts
+    relationship: over_specific_label
+    confidence: medium
+    reason: model suggested exclusion from pattern queries
+    rationale: The label appears to describe a single plot detail or punishment scene
+      rather than a reusable symbolic motif.
+    cautions: If recurring evidence shows ritual binding, imprisonment, or judgment
+      of betrayers, review under divine_judgment or sacred_law.
+  - motif_id: boar_episode
+    label: boar episode
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: meta_artifact
+    confidence: high
+    reason: model suggested exclusion from pattern queries
+    rationale: The label names an episode around an animal but does not state a reusable
+      motif function.
+    cautions: If source evidence shows boar hunt, taboo animal, death omen, transformation,
+      or heroic combat, remap to the appropriate functional group.
+  - motif_id: buddhist_life_recast_as_christian_hagiography
+    label: Buddhist life recast as Christian hagiography
+    occurrences: 1
+    traditions:
+    - buddhist
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: _meta_textual
+    suggested_group_label: Textual and Scholarly Artifacts
+    relationship: meta_artifact
+    confidence: high
+    reason: model suggested exclusion from pattern queries
+    rationale: The label describes reception, adaptation, or scholarly classification
+      rather than a narrative motif within a source passage.
+    cautions: Preserve as transmission/reception metadata if needed, but do not use
+      as motif evidence or borrowing claim in pattern queries.
+  - motif_id: buddhist_tales_migrating_into_western_story_traditions
+    label: Buddhist tales migrating into Western story traditions
+    occurrences: 1
+    traditions:
+    - buddhist
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: _meta_textual
+    suggested_group_label: Textual and Scholarly Artifacts
+    relationship: meta_artifact
+    confidence: high
+    reason: model suggested exclusion from pattern queries
+    rationale: The label is a transmission-history claim, not a motif pattern to normalize.
+    cautions: Keep transmission claims out of motif placement; store only as reception/provenance
+      note if evidence supports it.
+  - motif_id: burning_the_camp_to_erase_pursuit_tracks
+    label: burning the camp to erase pursuit tracks
+    occurrences: 1
+    traditions:
+    - indigenous_australian
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: over_specific_label
+    confidence: medium
+    reason: model suggested exclusion from pattern queries
+    rationale: The label reads as a tactical pursuit-escape detail rather than a reusable
+      symbolic motif.
+    cautions: If source context gives the burning ritual, sacred, or transformative
+      meaning, reconsider under sacred_fire, trickster, or hero_journey; otherwise
+      preserve only as episode evidence.
   already_known_in_base_normalization:
   - motif_id: abundant_food_and_drink_in_the_marvelous_land
     label: Abundant food and drink in the marvelous land

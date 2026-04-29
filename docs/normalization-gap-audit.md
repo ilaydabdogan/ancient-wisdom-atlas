@@ -7,8 +7,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 ## Summary
 
 - Indexed motif IDs: 9072
-- Already mapped: 309
-- Unmapped: 8763
+- Already mapped: 317
+- Unmapped: 8755
 
 | Review Bucket | Unmapped Motifs |
 | --- | ---: |
@@ -23,7 +23,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | Conflict, Violence, Heroic Ordeal, And Victory | 1150 |
 | Objects, Places, Boundaries, And Thresholds | 249 |
 | Ethics, Psychology, Discipline, And Inner Life | 173 |
-| Needs Human Sorting | 1872 |
+| Needs Human Sorting | 1864 |
 
 ## Death, Descent, Afterlife, And Ancestors
 
@@ -7060,12 +7060,10 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `attempt_to_gain_loyalty_through_excessive_favors_fails` | attempt to gain loyalty through excessive favors fails | 1 | greek |
 | `attempted_reconciliation_of_institutional_religion_and_mysticism` | attempted reconciliation of institutional religion and mysticism | 1 | sufi |
 | `attempted_suicide_interrupted_by_caregiver` | attempted suicide interrupted by caregiver | 1 | roman |
-| `auspicious_and_inauspicious_calendar_days_govern_human_and_practical_actions` | Auspicious and inauspicious calendar days govern human and practical actions | 1 | greek |
 | `auspicious_flame_omen` | Auspicious flame omen | 1 | hindu |
 | `authorized_falsehood_for_civic_good` | authorized falsehood for civic good | 1 | greek |
 | `autochthonous_origin_from_mushrooms` | autochthonous origin from mushrooms | 1 | roman |
 | `autonomous_or_enchanted_game_board` | autonomous or enchanted game board | 1 | celtic_welsh |
-| `avenging_a_slain_companion` | avenging a slain companion | 1 | greek |
 | `avenging_expedition_for_a_wronged_sister` | Avenging expedition for a wronged sister | 1 | celtic_welsh |
 | `avenging_insult_to_humble_or_marginal_figures` | avenging insult to humble or marginal figures | 1 | celtic_welsh |
 | `avenging_pursuit_and_beheading_of_deceiver` | avenging pursuit and beheading of deceiver | 1 | celtic_irish |
@@ -7099,7 +7097,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `betrayed_guests_make_a_doomed_last_stand` | betrayed guests make a doomed last stand | 1 | norse |
 | `betrayed_safe_conduct` | betrayed safe-conduct | 1 | celtic_irish |
 | `betrayer_bound_in_the_store_room` | betrayer bound in the store-room | 1 | greek |
-| `betrayer_destroyed_by_own_treachery` | betrayer destroyed by own treachery | 1 | greek |
 | `betraying_object_in_night_escape` | betraying object in night escape | 1 | roman |
 | `binding_injunction_or_prohibition_by_honour` | binding injunction or prohibition by honour | 1 | celtic_irish |
 | `bleeding_or_blood_distilling_plant` | bleeding or blood-distilling plant | 1 | greek |
@@ -7107,26 +7104,21 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `blind_elder_deceived_by_simulated_weather` | blind elder deceived by simulated weather | 1 | celtic_irish |
 | `blind_poet_receives_identity_through_blindness` | blind poet receives identity through blindness | 1 | greek |
 | `blinding_of_a_one_eyed_cannibal_giant_with_heated_spits` | Blinding of a one-eyed cannibal giant with heated spits | 1 | islamicate_folklore |
-| `blood_as_prohibited_food_and_transgressive_preparation` | Blood as prohibited food and transgressive preparation | 1 | islamic |
 | `blood_as_promised_satisfaction_for_injury` | blood as promised satisfaction for injury | 1 | hindu |
 | `blood_betrays_concealed_killing` | blood betrays concealed killing | 1 | indigenous_australian |
 | `blood_breaks_enchantment` | blood breaks enchantment | 1 | celtic_irish |
 | `blood_changes_a_plant_s_color` | Blood changes a plant's color | 1 | roman |
-| `blood_compensation_replacing_or_competing_with_retaliation` | blood compensation replacing or competing with retaliation | 1 | islamic |
 | `blood_like_atmospheric_omen_or_marvel` | Blood-like atmospheric omen or marvel | 1 | greek |
-| `blood_must_not_fall_on_the_ground` | blood must not fall on the ground | 1 | comparative |
 | `blood_omen_in_an_abandoned_object` | blood omen in an abandoned object | 1 | finnish_karelian |
 | `boar_episode` | boar episode | 1 | celtic_irish |
 | `boast_answered_by_supernatural_opposition` | boast answered by supernatural opposition | 1 | finnish_karelian |
 | `boast_counter_boast_and_vengeance_duel` | boast, counter-boast, and vengeance duel | 1 | greek |
-| `boastful_challenger_immediately_destroyed` | boastful challenger immediately destroyed | 1 | roman |
 | `boastful_recounting_of_past_victories_to_silence_challengers` | boastful recounting of past victories to silence challengers | 1 | celtic_irish |
 | `boasting_when_detection_is_impossible` | Boasting when detection is impossible | 1 | greek |
 | `bodily_omen_of_right_and_left_eye_throbbing` | Bodily omen of right and left eye throbbing | 1 | hindu |
 | `bodily_penalty_mirrors_the_offending_body_part` | bodily penalty mirrors the offending body part | 1 | islamic |
 | `bodily_prostration_as_solemn_adoration` | Bodily prostration as solemn adoration | 1 | islamic |
 | `bodily_restoration_after_injury` | bodily restoration after injury | 1 | japanese |
-| `body_as_temporary_dwelling` | body as temporary dwelling | 1 | sufi |
 | `body_carried_by_unseen_forces` | body carried by unseen forces | 1 | sufi |
 | `body_diminishes_while_voice_remains` | body diminishes while voice remains | 1 | roman |
 | `body_shielding_failed_protection` | body-shielding failed protection | 1 | celtic_irish |

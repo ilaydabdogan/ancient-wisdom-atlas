@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0015
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.blood-as-prohibited-food-and-transgressive-preparation
+  motif_id: blood_as_prohibited_food_and_transgressive_preparation
+  label: Blood as prohibited food and transgressive preparation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Blood as prohibited food matches existing blood-as-life, ritual prohibition,
+    and sacred-law food taboo patterns.
+  cautions: Preserve whether the passage frames the act as dietary law, impurity,
+    sacrifice, or deliberate transgression.
+  suggested_aliases:
+  - blood as forbidden food
+  - blood food taboo
+  - transgressive preparation of blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-as-promised-satisfaction-for-injury
+  motif_id: blood_as_promised_satisfaction_for_injury
+  label: blood as promised satisfaction for injury
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern vengeance, retributive violence, oath, or sacrificial
+    blood satisfaction; existing groups do not resolve this from wording alone.
+  cautions: Needs source context before mapping to sacred_combat, divine_judgment,
+    sacrifice, or sacred_exchange. Avoid assuming ritual sacrifice from the word blood.
+  suggested_aliases:
+  - blood satisfaction for injury
+  - blood promised for wound
+  - injury repaid by blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-betrays-concealed-killing
+  motif_id: blood_betrays_concealed_killing
+  label: blood betrays concealed killing
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Revealing hidden killing functions as moral disclosure and reckoning,
+    fitting judgment more than general blood symbolism.
+  cautions: If the blood is simply forensic evidence or an episode detail without
+    sacred agency, it may be too specific for pattern queries.
+  suggested_aliases:
+  - blood reveals murder
+  - blood exposes hidden killing
+  - blood as witness to killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-breaks-enchantment
+  motif_id: blood_breaks_enchantment
+  label: blood breaks enchantment
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Breaking enchantment usually reverses magical transformation or altered
+    state, which best fits the transformation complex.
+  cautions: If the passage emphasizes blood as ritual medium, sacrifice, or healing
+    substance, sacred_law or sacrifice may be secondary.
+  suggested_aliases:
+  - blood releases enchantment
+  - blood breaks spell
+  - blood reverses transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-changes-a-plant-s-color
+  motif_id: blood_changes_a_plant_s_color
+  label: Blood changes a plant's color
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Blood causing a plant’s altered color is an etiological transformation
+    tied to death or injury imagery.
+  cautions: May be an over-specific etiological detail; if the plant has sacred-tree
+    or seasonal significance, axis_mundi or sacred_time could be relevant.
+  suggested_aliases:
+  - blood stains plant
+  - blood transforms plant color
+  - plant color changed by blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-compensation-replacing-or-competing-with-retaliation
+  motif_id: blood_compensation_replacing_or_competing_with_retaliation
+  label: blood compensation replacing or competing with retaliation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: Blood compensation regulating retaliation is a legal-social order motif
+    under sacred law.
+  cautions: Could also support covenant or divine_judgment if the passage frames compensation
+    as sacred command or moral reckoning.
+  suggested_aliases:
+  - blood compensation
+  - blood money replacing retaliation
+  - compensation instead of vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-like-atmospheric-omen-or-marvel
+  motif_id: blood_like_atmospheric_omen_or_marvel
+  label: Blood-like atmospheric omen or marvel
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A blood-like atmospheric marvel functions as an omen or sign perceived
+    as meaningful revelation.
+  cautions: If the omen announces punishment or catastrophe, divine_judgment may be
+    a better or secondary mapping.
+  suggested_aliases:
+  - blood-red atmospheric omen
+  - bloody sky omen
+  - blood-like marvel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-must-not-fall-on-the-ground
+  motif_id: blood_must_not_fall_on_the_ground
+  label: blood must not fall on the ground
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A rule controlling where blood may fall is a ritual prohibition involving
+    blood-as-life and sacred handling.
+  cautions: If connected to offering, hunting, or preventing spirit contact, sacrifice
+    or apotropaic subpatterns may also apply.
+  suggested_aliases:
+  - prohibition on blood touching ground
+  - blood-ground taboo
+  - ritual containment of blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-omen-in-an-abandoned-object
+  motif_id: blood_omen_in_an_abandoned_object
+  label: blood omen in an abandoned object
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests an omen-sign, but the abandoned object may be episode-specific
+    or materially symbolic.
+  cautions: Needs context to decide whether this is omen, sacred treasure/object,
+    concealed violence, or a passage artifact.
+  suggested_aliases:
+  - blood omen in object
+  - abandoned object blood sign
+  - bloody object as omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boar-episode
+  motif_id: boar_episode
+  label: boar episode
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label names an episode around an animal but does not state a reusable
+    motif function.
+  cautions: If source evidence shows boar hunt, taboo animal, death omen, transformation,
+    or heroic combat, remap to the appropriate functional group.
+  suggested_aliases:
+  - boar episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use blood as a ritual, legal, omen, or transformation marker; preserve
+  local function rather than merging all under a single blood motif.
+- Single-occurrence and episode-like labels should remain provisional until passage
+  evidence confirms recurrence or narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated from labels and current normalization
+    groups only; no transmission claims inferred.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0015
+  input_sha256: a92488b2f910885a09bdd0b75b1403bdb7a56e7e4cc88606ba85dee3b94a3197

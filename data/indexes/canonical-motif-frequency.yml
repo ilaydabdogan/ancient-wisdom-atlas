@@ -7,8 +7,8 @@ method: Counts distinct traditions for indexed motif IDs that map to canonical_m
 indexed_motif_count: 9072
 indexed_occurrence_count: 31658
 canonical_motif_group_count: 53
-mapped_motif_count: 308
-unmapped_motif_count: 8764
+mapped_motif_count: 316
+unmapped_motif_count: 8756
 canonical_motifs:
 - canonical_motif_id: death_and_transformation
   label: Death, Rebirth, and Transformation
@@ -482,7 +482,7 @@ canonical_motifs:
     daoist: 1
     egyptian: 2
     finnish_karelian: 4
-    greek: 274
+    greek: 275
     greek_roman: 83
     hindu: 105
     indigenous_australian: 2
@@ -526,6 +526,13 @@ canonical_motifs:
   - motif_id: ancestral_exemplars_judging_later_imitators
     label: Ancestral exemplars judging later imitators
     relationship: role_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: betrayer_destroyed_by_own_treachery
+    label: betrayer destroyed by own treachery
+    relationship: functional_variant
     occurrence_count: 1
     tradition_count: 1
     traditions:
@@ -587,8 +594,8 @@ canonical_motifs:
     traditions:
       jewish_christian: 1
   tradition_count: 21
-  occurrence_count: 2207
-  mapped_motif_count: 10
+  occurrence_count: 2208
+  mapped_motif_count: 11
 - canonical_motif_id: ascent
   label: Ascent and Heavenly Journey
   description: 'The upward journey toward the divine # climbing the mountain, ascending
@@ -1960,7 +1967,7 @@ canonical_motifs:
     norse: 31
     persian: 15
     roman: 102
-    sufi: 1085
+    sufi: 1086
   mapped_motifs:
   - motif_id: mystical_quest
     label: Mystical Quest
@@ -2028,6 +2035,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       sufi: 2
+  - motif_id: body_as_temporary_dwelling
+    label: body as temporary dwelling
+    relationship: symbolic_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
   - motif_id: body_as_tomb_or_shell_imprisoning_soul
     label: body as tomb or shell imprisoning soul
     relationship: symbolic_variant
@@ -2057,8 +2071,8 @@ canonical_motifs:
     traditions:
       sufi: 1
   tradition_count: 17
-  occurrence_count: 1874
-  mapped_motif_count: 8
+  occurrence_count: 1875
+  mapped_motif_count: 9
 - canonical_motif_id: sacred_time
   label: Sacred Time and Ritual Cycle
   description: 'The ordering of time through sacred rhythm # sabbath, seasonal ceremonies,
@@ -2076,7 +2090,7 @@ canonical_motifs:
     comparative: 491
     daoist: 7
     finnish_karelian: 7
-    greek: 32
+    greek: 33
     greek_roman: 24
     hindu: 18
     indigenous_australian: 4
@@ -2110,6 +2124,13 @@ canonical_motifs:
       persian: 4
       roman: 18
       sufi: 65
+  - motif_id: auspicious_and_inauspicious_calendar_days_govern_human_and_practical_actions
+    label: Auspicious and inauspicious calendar days govern human and practical actions
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
   - motif_id: corn_spirit_embodied_in_harvest_animal
     label: corn-spirit embodied in harvest animal
     relationship: seasonal_cycle_child
@@ -2132,8 +2153,8 @@ canonical_motifs:
     traditions:
       jewish_christian: 1
   tradition_count: 17
-  occurrence_count: 768
-  mapped_motif_count: 4
+  occurrence_count: 769
+  mapped_motif_count: 5
 - canonical_motif_id: duality
   label: Duality and Cosmic Opposition
   description: 'The fundamental pairing of opposites # light/dark, order/chaos, life/death,
@@ -2797,8 +2818,9 @@ canonical_motifs:
   - royal_legitimacy
   is_meta_group: false
   traditions:
-    comparative: 11
+    comparative: 12
     confucian: 1
+    islamic: 2
     japanese: 1
     jewish_christian: 2
     sufi: 1
@@ -2859,9 +2881,30 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       jewish_christian: 1
+  - motif_id: blood_as_prohibited_food_and_transgressive_preparation
+    label: Blood as prohibited food and transgressive preparation
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: blood_compensation_replacing_or_competing_with_retaliation
+    label: blood compensation replacing or competing with retaliation
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
   - motif_id: blood_contains_the_animal_s_life_or_soul
     label: Blood contains the animal's life or soul
     relationship: symbolic_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: blood_must_not_fall_on_the_ground
+    label: blood must not fall on the ground
+    relationship: ritual_variant
     occurrence_count: 1
     tradition_count: 1
     traditions:
@@ -2915,9 +2958,9 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       jewish_christian: 1
-  tradition_count: 5
-  occurrence_count: 16
-  mapped_motif_count: 16
+  tradition_count: 6
+  occurrence_count: 19
+  mapped_motif_count: 19
 - canonical_motif_id: divine_intervention
   label: Divine Intervention and Guidance
   description: 'The direct action of gods or sacred powers in human affairs # sending
@@ -3272,6 +3315,81 @@ canonical_motifs:
   tradition_count: 5
   occurrence_count: 8
   mapped_motif_count: 8
+- canonical_motif_id: sacred_combat
+  label: Sacred Combat and Ritual Warfare
+  description: Warfare, raiding, or single combat as a sacred or ritually significant
+    activity. Includes cattle raids as cosmic catalysts, single combat at fords, and
+    battles that determine cosmic order.
+  related:
+  - divine_warrior
+  - sacrifice
+  - divine_judgment
+  is_meta_group: false
+  traditions:
+    celtic_irish: 7
+    greek: 1
+    hindu: 1
+    maya_quiche: 1
+  mapped_motifs:
+  - motif_id: cattle_raid
+    label: cattle raid
+    relationship: narrower_than
+    occurrence_count: 3
+    tradition_count: 1
+    traditions:
+      celtic_irish: 3
+  - motif_id: avenging_a_slain_companion
+    label: avenging a slain companion
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: cattle_raid_catalyst
+    label: cattle raid catalyst
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: doom_prophecy_before_raid
+    label: doom prophecy before raid
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: failed_negotiated_exchange
+    label: failed negotiated exchange
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: household_reversal
+    label: household reversal
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      maya_quiche: 1
+  - motif_id: violated_queen_as_trigger_of_vengeance
+    label: violated queen as trigger of vengeance
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: wealth_contest_between_rulers
+    label: wealth contest between rulers
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  tradition_count: 4
+  occurrence_count: 10
+  mapped_motif_count: 8
 - canonical_motif_id: dream_and_vision
   label: Dream, Vision, and Altered Perception
   description: Dreams, visions, and altered states as sources of sacred knowledge,
@@ -3324,6 +3442,60 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       comparative: 1
+  tradition_count: 4
+  occurrence_count: 5
+  mapped_motif_count: 5
+- canonical_motif_id: pride_and_downfall
+  label: Pride, Hubris, and Downfall
+  description: The pattern of overreaching pride followed by destruction or humbling.
+    Includes failed towers, punished transgressors, kings brought low, and the moral
+    that power without wisdom or humility leads to ruin.
+  related:
+  - divine_judgment
+  - sacred_knowledge
+  - royal_legitimacy
+  is_meta_group: false
+  traditions:
+    buddhist: 1
+    hindu: 1
+    persian: 2
+    roman: 1
+  mapped_motifs:
+  - motif_id: boastful_challenger_immediately_destroyed
+    label: boastful challenger immediately destroyed
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: destructive_passion_leading_to_death
+    label: destructive passion leading to death
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      buddhist: 1
+  - motif_id: endurance_of_a_record_contrasted_with_daily_transience
+    label: Endurance of a record contrasted with daily transience
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      persian: 1
+  - motif_id: pride_as_brief_rule_followed_by_downfall_dissolution
+    label: Pride as brief rule followed by downfall/dissolution
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      persian: 1
+  - motif_id: pride_humbled_in_divine_containment
+    label: pride humbled in divine containment
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
   tradition_count: 4
   occurrence_count: 5
   mapped_motif_count: 5
@@ -3608,73 +3780,6 @@ canonical_motifs:
   tradition_count: 3
   occurrence_count: 40
   mapped_motif_count: 37
-- canonical_motif_id: sacred_combat
-  label: Sacred Combat and Ritual Warfare
-  description: Warfare, raiding, or single combat as a sacred or ritually significant
-    activity. Includes cattle raids as cosmic catalysts, single combat at fords, and
-    battles that determine cosmic order.
-  related:
-  - divine_warrior
-  - sacrifice
-  - divine_judgment
-  is_meta_group: false
-  traditions:
-    celtic_irish: 7
-    hindu: 1
-    maya_quiche: 1
-  mapped_motifs:
-  - motif_id: cattle_raid
-    label: cattle raid
-    relationship: narrower_than
-    occurrence_count: 3
-    tradition_count: 1
-    traditions:
-      celtic_irish: 3
-  - motif_id: cattle_raid_catalyst
-    label: cattle raid catalyst
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: doom_prophecy_before_raid
-    label: doom prophecy before raid
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: failed_negotiated_exchange
-    label: failed negotiated exchange
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: household_reversal
-    label: household reversal
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      maya_quiche: 1
-  - motif_id: violated_queen_as_trigger_of_vengeance
-    label: violated queen as trigger of vengeance
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  - motif_id: wealth_contest_between_rulers
-    label: wealth contest between rulers
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  tradition_count: 3
-  occurrence_count: 9
-  mapped_motif_count: 7
 - canonical_motif_id: death_by_fate
   label: Death Attributed to Fate or Destiny
   description: Death understood as fated, destined, or determined by forces beyond
@@ -3728,52 +3833,6 @@ canonical_motifs:
   tradition_count: 3
   occurrence_count: 5
   mapped_motif_count: 5
-- canonical_motif_id: pride_and_downfall
-  label: Pride, Hubris, and Downfall
-  description: The pattern of overreaching pride followed by destruction or humbling.
-    Includes failed towers, punished transgressors, kings brought low, and the moral
-    that power without wisdom or humility leads to ruin.
-  related:
-  - divine_judgment
-  - sacred_knowledge
-  - royal_legitimacy
-  is_meta_group: false
-  traditions:
-    buddhist: 1
-    hindu: 1
-    persian: 2
-  mapped_motifs:
-  - motif_id: destructive_passion_leading_to_death
-    label: destructive passion leading to death
-    relationship: narrower_than
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      buddhist: 1
-  - motif_id: endurance_of_a_record_contrasted_with_daily_transience
-    label: Endurance of a record contrasted with daily transience
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      persian: 1
-  - motif_id: pride_as_brief_rule_followed_by_downfall_dissolution
-    label: Pride as brief rule followed by downfall/dissolution
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      persian: 1
-  - motif_id: pride_humbled_in_divine_containment
-    label: pride humbled in divine containment
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  tradition_count: 3
-  occurrence_count: 4
-  mapped_motif_count: 4
 - canonical_motif_id: sacred_vessel
   label: Sacred Vessel and Container
   description: 'The sacred container # cauldron, grail, ark, pot, sealed jar # that

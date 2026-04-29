@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0017
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.body-carried-by-unseen-forces
+  motif_id: body_carried_by_unseen_forces
+  label: body carried by unseen forces
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Unseen forces carrying a body may indicate supernatural intervention
+    or mystical transport, but the function is unclear from the label alone.
+  cautions: Could be mystical quest, miracle, spirit agency, death transport, or passage-specific
+    detail; verify source context before indexing.
+  suggested_aliases:
+  - supernatural bodily transport
+  - body borne by unseen powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-diminishes-while-voice-remains
+  motif_id: body_diminishes_while_voice_remains
+  label: body diminishes while voice remains
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif describes bodily diminishment with persistence as voice, a
+    transformation of embodied identity into another mode of existence.
+  cautions: May be a specific mythic episode or metamorphosis detail; if the focus
+    is speech/song rather than survival after bodily loss, storytelling_as_power or
+    sacred_knowledge may be secondary.
+  suggested_aliases:
+  - body fades but voice remains
+  - voice survives bodily dissolution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-shielding-failed-protection
+  motif_id: body_shielding_failed_protection
+  label: body-shielding failed protection
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: A body used as a shield in failed protection plausibly belongs to heroic
+    combat or sacrifice, but the narrative function is ambiguous.
+  cautions: Could be heroic self-sacrifice, failed guardianship, battlefield pathos,
+    or an over-specific episode detail; review before mapping.
+  suggested_aliases:
+  - failed bodily protection
+  - shielding another with the body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boon-extorted-from-a-captured-pursuer
+  motif_id: boon_extorted_from_a_captured_pursuer
+  label: boon extorted from a captured pursuer
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on compelled granting of a boon after capture, a negotiated
+    or coerced exchange that changes relations between opponents.
+  cautions: If the episode is mainly trickery, combat resolution, or legal hostage
+    custom, trickster, sacred_combat, or covenant may be more precise secondary mappings.
+  suggested_aliases:
+  - coerced boon from captive pursuer
+  - boon extracted from captured enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boon-of-protection-granted-to-a-defeated-host
+  motif_id: boon_of_protection_granted_to_a_defeated_host
+  label: boon of protection granted to a defeated host
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A protective boon granted after defeat functions as a binding reciprocal
+    settlement or obligation between victor and defeated party.
+  cautions: May also involve royal clemency, combat aftermath, or covenant-like protection
+    depending on source evidence.
+  suggested_aliases:
+  - protective boon after defeat
+  - protection granted to defeated host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boon-protected-antagonist-with-excluded-opponent-class
+  motif_id: boon_protected_antagonist_with_excluded_opponent_class
+  label: boon-protected antagonist with excluded opponent class
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Conditional Boon and Loophole Vulnerability
+  relationship: child
+  confidence: medium
+  rationale: The pattern is a recurring boon-based invulnerability with a loophole
+    or excluded class, not well captured by general sacred exchange or external soul.
+  cautions: Review alongside related Hindu boon labels in this batch; may be a child
+    under sacred_exchange, divine_judgment, or sacred_treasures rather than a taxonomy-level
+    motif.
+  suggested_aliases:
+  - boon-protected antagonist
+  - excluded class loophole
+  - conditional invulnerability boon
+  suggested_new_group:
+    id: conditional_boon_loophole
+    label: Conditional Boon and Loophole Vulnerability
+    description: A boon, vow, blessing, or protective condition grants apparent invulnerability
+      or power but contains an omitted exception, excluded opponent class, or loophole
+      through which defeat becomes possible.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_judgment
+    related_group_ids:
+    - sacred_treasures
+    - external_soul
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover exchange, judgment,
+      power objects, and external souls, but not the specific narrative structure
+      of conditional invulnerability created by a boon and undone by its exception.
+- suggestion_id: normalization.suggestion.boon-with-fatal-omitted-exception
+  motif_id: boon_with_fatal_omitted_exception
+  label: boon with fatal omitted exception
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Conditional Boon and Loophole Vulnerability
+  relationship: child
+  confidence: high
+  rationale: The label directly expresses the loophole-boon structure where an overlooked
+    exception enables death or defeat.
+  cautions: Should be consolidated with other boon loophole variants if human review
+    accepts the proposed group.
+  suggested_aliases:
+  - fatal boon loophole
+  - omitted exception in boon
+  - boon undone by exception
+  suggested_new_group:
+    id: conditional_boon_loophole
+    label: Conditional Boon and Loophole Vulnerability
+    description: A boon, vow, blessing, or protective condition grants apparent invulnerability
+      or power but contains an omitted exception, excluded opponent class, or loophole
+      through which defeat becomes possible.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_judgment
+    related_group_ids:
+    - sacred_treasures
+    - external_soul
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover exchange, judgment,
+      power objects, and external souls, but not the specific narrative structure
+      of conditional invulnerability created by a boon and undone by its exception.
+- suggestion_id: normalization.suggestion.boon-with-omitted-vulnerability
+  motif_id: boon_with_omitted_vulnerability
+  label: boon with omitted vulnerability
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Conditional Boon and Loophole Vulnerability
+  relationship: child
+  confidence: high
+  rationale: 'This is a close variant of the conditional boon loophole pattern: protection
+    is powerful but incomplete because a vulnerability is omitted.'
+  cautions: Avoid merging with external_soul unless the vulnerability is specifically
+    located in a separable life-token.
+  suggested_aliases:
+  - omitted vulnerability in boon
+  - conditional invulnerability with loophole
+  - boon loophole
+  suggested_new_group:
+    id: conditional_boon_loophole
+    label: Conditional Boon and Loophole Vulnerability
+    description: A boon, vow, blessing, or protective condition grants apparent invulnerability
+      or power but contains an omitted exception, excluded opponent class, or loophole
+      through which defeat becomes possible.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_judgment
+    related_group_ids:
+    - sacred_treasures
+    - external_soul
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover exchange, judgment,
+      power objects, and external souls, but not the specific narrative structure
+      of conditional invulnerability created by a boon and undone by its exception.
+- suggestion_id: normalization.suggestion.boons-satisfied-before-formal-homage
+  motif_id: boons_satisfied_before_formal_homage
+  label: boons satisfied before formal homage
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: Formal homage suggests hierarchy and legitimate rule, while fulfilled
+    boons suggest obligation before recognition.
+  cautions: Could be legal custom, courtly episode detail, sacred exchange, or royal
+    legitimacy; source context is needed.
+  suggested_aliases:
+  - boons fulfilled before homage
+  - conditions satisfied before homage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.borrowed-arms-for-a-challenge
+  motif_id: borrowed_arms_for_a_challenge
+  label: Borrowed arms for a challenge
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Borrowing weapons for a challenge belongs to the equipment and preparation
+    logic of heroic or ritual combat.
+  cautions: If the arms themselves confer authority or supernatural power, sacred_treasures
+    may be a secondary mapping; otherwise this may be an episode-specific combat detail.
+  suggested_aliases:
+  - borrowed weapons for a challenge
+  - loaned arms for combat trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several boon labels appear to form a coherent conditional-invulnerability loophole
+  cluster; review as a possible normalization group rather than separate canonical
+  motif families.
+- Single-occurrence Celtic combat and homage labels may be episode-specific legal
+  or heroic details; source context should decide whether to index broadly.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0017
+  input_sha256: 7983a201ea52e7bc07ccf1a77015d59d2c07cfeac35604f072d01594ef5682ee
