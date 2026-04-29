@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0090
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.irreconcilable-injury-remembered-in-the-offender-s-presence
+  motif_id: irreconcilable_injury_remembered_in_the_offender_s_presence
+  label: irreconcilable injury remembered in the offender's presence
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe grievance, memory, recognition, or vengeance,
+    but its narrative function is unclear from wording alone.
+  cautions: Single occurrence and likely episode-specific; review source context before
+    mapping to lament, sacred combat, divine judgment, or pride/downfall.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.irreplaceable-lost-object
+  motif_id: irreplaceable_lost_object
+  label: irreplaceable lost object
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A lost object could be a sacred treasure, quest object, life-token, or
+    merely a plot detail.
+  cautions: Do not map to sacred_treasures unless the object has sacred power, authority,
+    protection, or transformative function in the passage.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.irresistible-fairy-music-causing-compulsory-dance-or-fatal-performance
+  motif_id: irresistible_fairy_music_causing_compulsory_dance_or_fatal_performance
+  label: irresistible fairy music causing compulsory dance or fatal performance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fatal enchantment by fairy music resembles an otherworldly lure or perilous
+    threshold encounter already represented under threshold_guardian.
+  cautions: If the passage emphasizes fairyland itself rather than a dangerous boundary
+    encounter, otherworld may be a secondary or better placement.
+  suggested_aliases:
+  - perilous lure fatal enchantment
+  - enchanted music causing fatal dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.irreversible-loss-of-naive-belief
+  motif_id: irreversible_loss_of_naive_belief
+  label: irreversible loss of naive belief
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: In Sufi context, loss of naive belief can mark an interior transformation
+    on the seeker’s path toward deeper knowledge.
+  cautions: Could be an abstract psychological or commentary label; if no quest, discipline,
+    unveiling, or transformed knowledge is present, exclude or remap to sacred_knowledge.
+  suggested_aliases:
+  - loss of naive belief
+  - disillusionment as spiritual transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.irreversible-written-destiny
+  motif_id: irreversible_written_destiny
+  label: irreversible written destiny
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The image of destiny as irreversibly written fits the broader fate/destiny
+    complex, even if death is not explicit.
+  cautions: Existing group label emphasizes death; if the passage concerns general
+    predestination rather than death, a future broader fate group may be needed.
+  suggested_aliases:
+  - written destiny
+  - written fate
+  - irreversible decree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.irrevocable-writing-of-fate
+  motif_id: irrevocable_writing_of_fate
+  label: irrevocable writing of fate
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: This is a close variant of written, unchangeable destiny and belongs
+    with fate/destiny motifs.
+  cautions: The group is death-centered; review whether this should be indexed under
+    a broader destiny/decree subgroup if many non-death fate labels recur.
+  suggested_aliases:
+  - written fate
+  - irrevocable fate
+  - irreversible written destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.j-taka-past-life-identification
+  motif_id: j_taka_past_life_identification
+  label: Jātaka past-life identification
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a Buddhist narrative identification convention linking
+    present figures to past lives, not clearly covered by existing groups.
+  cautions: May be a genre/formula artifact rather than a motif; if treated as motif,
+    it may require a reincarnation or karmic-continuity group not currently present.
+  suggested_aliases:
+  - past-life identification
+  - Jataka identification formula
+  suggested_new_group:
+    id: rebirth_and_past_life_continuity
+    label: Rebirth and Past-Life Continuity
+    description: Continuity of identity, karma, memory, or moral relation across multiple
+      births or past lives, including recognition or identification of prior incarnations.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - sacred_knowledge
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing death_and_transformation covers
+      death and renewal broadly but does not specifically capture karmic rebirth or
+      past-life identity continuity.
+- suggestion_id: normalization.suggestion.jealous-imitation-of-a-revered-figure
+  motif_id: jealous_imitation_of_a_revered_figure
+  label: Jealous imitation of a revered figure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Jealous imitation of a revered figure suggests envy, rivalry, and overreaching
+    that may lead to humbling or downfall.
+  cautions: If the passage only describes social rivalry without moral overreach or
+    consequence, this may be too contextual for pattern queries.
+  suggested_aliases:
+  - envious imitation
+  - imitative rivalry with revered figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-master-destroys-talented-pupil
+  motif_id: jealous_master_destroys_talented_pupil
+  label: jealous master destroys talented pupil
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines envy, teacher-pupil hierarchy, and violence; no existing
+    group cleanly captures this social-narrative pattern.
+  cautions: Could map to pride_and_downfall, divine_judgment, or sacred_knowledge
+    depending on whether the focus is envy, punishment, or transmission of skill;
+    single occurrence may be over-specific.
+  suggested_aliases:
+  - jealous teacher destroys pupil
+  - master jealous of pupil's talent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-or-offended-lord-pursues-visitor
+  motif_id: jealous_or_offended_lord_pursues_visitor
+  label: jealous or offended lord pursues visitor
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A pursuing offended lord could be otherworld hostility, royal honor conflict,
+    or a pursuit episode; function is unclear.
+  cautions: Review whether the lord is an otherworld ruler, human king, host, or antagonist
+    before mapping to otherworld, royal_legitimacy, sacred_combat, or hero_journey.
+  suggested_aliases:
+  - offended lord pursues visitor
+  - jealous lord pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; keep placements
+  provisional until source passages confirm narrative function.
+- Two Sufi fate labels appear near-duplicates and may be normalized together under
+  a broader fate/decree handling if later taxonomy review expands beyond death-centered
+  destiny motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Automated provisional suggestions only; human review needed especially for
+    Jātaka past-life identification and jealousy/pursuit labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0090
+  input_sha256: 1e117e21b59fa3f6207712be303829857dfd476c427c528f59c1b75a6da3d534

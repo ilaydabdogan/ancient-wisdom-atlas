@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0087
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ingestion-transfers-qualities-of-the-consumed-being
+  motif_id: ingestion_transfers_qualities_of_the_consumed_being
+  label: Ingestion transfers qualities of the consumed being
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Transformative Ingestion
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is acquiring life, power, traits, or identity through
+    eating; existing death/rebirth and sacrifice groups only partially cover this.
+  cautions: Could map to sacrifice, sacred_exchange, death_and_transformation, or
+    sacred_law depending on whether the passage emphasizes ritual, taboo, rebirth,
+    cannibalism, or communion.
+  suggested_aliases:
+  - power through ingestion
+  - eating transfers qualities
+  - transformative consumption
+  - ingested power
+  suggested_new_group:
+    id: transformative_ingestion
+    label: Transformative Ingestion
+    description: Eating, drinking, swallowing, or otherwise consuming a being, substance,
+      food, or body part transfers qualities, power, life, knowledge, identity, fertility,
+      or danger to the consumer.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_exchange
+    related_group_ids:
+    - sacrifice
+    - sacred_law
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing groups cover sacrifice, sacred law,
+      and rebirth, but none cleanly captures ingestion as the mechanism of transferred
+      qualities across ritual and narrative contexts.
+- suggestion_id: normalization.suggestion.ingratitude-after-rescue
+  motif_id: ingratitude_after_rescue
+  label: Ingratitude after rescue
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes an ethical reversal after aid, but the mythic function
+    is unclear from wording alone.
+  cautions: May be a Buddhist moral exemplum, karmic consequence setup, animal fable,
+    or passage-specific plot detail; do not map to divine_judgment without evidence
+    of sacred reckoning.
+  suggested_aliases:
+  - rescued figure shows ingratitude
+  - ingratitude toward benefactor
+  - betrayal after rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.injured-figure-flees-to-powerful-kin-or-ally-and-reports-wrong
+  motif_id: injured_figure_flees_to_powerful_kin_or_ally_and_reports_wrong
+  label: injured figure flees to powerful kin or ally and reports wrong
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reporting injury to a powerful ally or kin often functions as a catalyst
+    for vengeance, conflict, or redressive combat.
+  cautions: If the episode is legal petition, family protection, or courtly grievance
+    rather than combat catalyst, divine_judgment, royal_legitimacy, or exclusion may
+    fit better.
+  suggested_aliases:
+  - injured party reports wrong
+  - appeal to powerful kin after injury
+  - wrong reported to avenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.injury-to-shadow-causes-injury-to-owner
+  motif_id: injury_to_shadow_causes_injury_to_owner
+  label: Injury to shadow causes injury to owner
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The shadow functions as an externalized vital double whose damage affects
+    the owner, matching the external-soul complex.
+  cautions: Confirm that the shadow is treated as a vital force or soul-double, not
+    merely an omen, metaphor, or magical attack detail.
+  suggested_aliases:
+  - shadow injury harms owner
+  - vulnerable shadow soul
+  - damage to vital shadow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.innocent-companion-released-after-explanation
+  motif_id: innocent_companion_released_after_explanation
+  label: Innocent companion released after explanation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads like a narrow plot-resolution detail rather than a reusable
+    symbolic or mythic motif.
+  cautions: If repeated as an ordeal of false accusation and vindication, consider
+    divine_judgment or initiation; source context is needed before excluding permanently.
+  suggested_aliases:
+  - released after explanation
+  - innocent companion vindicated
+  - false suspicion resolved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.innocent-or-harmless-figure-punished-with-wrongdoers
+  motif_id: innocent_or_harmless_figure_punished_with_wrongdoers
+  label: Innocent or harmless figure punished with wrongdoers
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns collective punishment and the justice problem of innocents
+    suffering with the guilty, within a judgment/reckoning field.
+  cautions: If punishment is not divine or moral but accidental, political, or comic,
+    this may be a narrative ethics detail rather than divine_judgment.
+  suggested_aliases:
+  - innocent punished with guilty
+  - collective punishment of harmless figure
+  - collateral punishment of innocent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.innocent-victim-killed-and-later-regretted
+  motif_id: innocent_victim_killed_and_later_regretted
+  label: Innocent victim killed and later regretted
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The later regret over an innocent death fits tragic recognition and mourning
+    more than death-return.
+  cautions: If the story emphasizes moral consequence for the killer, divine_judgment
+    may be a secondary or better mapping; if it is only plot detail, keep as evidence
+    note.
+  suggested_aliases:
+  - regretted killing of innocent
+  - innocent death recognized too late
+  - tragic remorse after killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.insatiable-greed
+  motif_id: insatiable_greed
+  label: Insatiable greed
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: narrower_than
+  confidence: medium
+  rationale: Insatiable greed is an overreaching vice that commonly leads to humbling,
+    ruin, or moral downfall.
+  cautions: If no downfall or sacred moral consequence is present, this may be an
+    ethical characterization rather than a motif; sacred_law or divine_judgment may
+    fit if framed as moral teaching.
+  suggested_aliases:
+  - boundless greed
+  - unquenchable avarice
+  - greed leading to downfall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.insatiable-or-destructive-visitors-and-attendants
+  motif_id: insatiable_or_destructive_visitors_and_attendants
+  label: Insatiable or destructive visitors and attendants
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve hospitality violation, destructive retinue, otherworldly
+    guests, or social disorder, none of which maps cleanly to an existing group.
+  cautions: Review whether the visitors are supernatural, courtly, comic, hostile,
+    or part of a sovereignty/feasting episode; avoid forcing into otherworld or pride/downfall
+    from label alone.
+  suggested_aliases:
+  - destructive guests
+  - insatiable visitors
+  - destructive attendants
+  - unmanageable retinue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.insult-remembered-and-repaid
+  motif_id: insult_remembered_and_repaid
+  label: insult remembered and repaid
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Remembered insult repaid functions as retribution and moral reckoning,
+    especially in honor-based or divine punishment contexts.
+  cautions: If repayment is purely human feud or heroic vengeance, sacred_combat may
+    be more appropriate; if it is a narrow plot trigger, preserve as evidence detail.
+  suggested_aliases:
+  - repaid insult
+  - remembered slight avenged
+  - retaliation for insult
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; several single-occurrence labels
+  may be plot details rather than durable motifs.
+- Hospitality/guest-disorder and transformative ingestion may warrant future taxonomy
+  attention if similar labels recur across sources.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch contains multiple low-context, single-occurrence labels; verify source
+    evidence before final mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0087
+  input_sha256: f004ddb68a06c1845be79f166b6efce57262af8e7a9e08e6247f317b59347914

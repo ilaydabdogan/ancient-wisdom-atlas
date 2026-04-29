@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0130
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.predecessor-messengers-mocked-before-later-vindication
+  motif_id: predecessor_messengers_mocked_before_later_vindication
+  label: Predecessor messengers mocked before later vindication
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mocked messengers later vindicated fits a judgment pattern where rejection
+    of sacred warning is morally answered.
+  cautions: Could also be prophetic-call or revelation material; verify whether the
+    passage emphasizes vindication/judgment rather than messenger biography.
+  suggested_aliases:
+  - mocked messenger vindicated
+  - rejected prophet vindicated
+  - sacred warning rejected then confirmed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predestination-and-human-action
+  motif_id: predestination_and_human_action
+  label: predestination and human action
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an abstract theological problem rather than a clear narrative
+    motif from the wording alone.
+  cautions: May belong under death_by_fate, sacred_knowledge, mystical_quest, or divine_judgment
+    depending on whether it concerns destiny, teaching, inner discipline, or moral
+    accountability.
+  suggested_aliases:
+  - fate and free action
+  - predestination and agency
+  - divine decree and human action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predestined-human-lot
+  motif_id: predestined_human_lot
+  label: predestined human lot
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: medium
+  rationale: A predetermined human lot fits the existing fate/destiny complex, though
+    not necessarily limited to death.
+  cautions: The current group label is death-focused; if the passage concerns life
+    circumstances rather than death, use as broader fate placement and review for
+    possible future fate/destiny group expansion.
+  suggested_aliases:
+  - fated human lot
+  - destined lot
+  - predetermined destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preference-for-home-becomes-inescapable-confinement
+  motif_id: preference_for_home_becomes_inescapable_confinement
+  label: preference for home becomes inescapable confinement
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a contextual moral or narrative irony rather than a stable
+    mythic motif without source evidence.
+  cautions: Could involve failed departure/return, punishment, underworld confinement,
+    or domestic entrapment; avoid mapping to hero_journey unless transformation or
+    journey structure is present.
+  suggested_aliases:
+  - home as confinement
+  - chosen home becomes prison
+  - domestic refuge becomes entrapment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prequel-tale-explaining-resources-for-a-larger-raid
+  motif_id: prequel_tale_explaining_resources_for_a_larger_raid
+  label: Prequel tale explaining resources for a larger raid
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes narrative placement and explanatory function within
+    an epic cycle, not a symbolic motif.
+  cautions: If the embedded tale itself contains raid, wealth, or combat motifs, index
+    those separately under sacred_combat or related groups.
+  suggested_aliases:
+  - prequel explanation for raid
+  - etiological prequel tale
+  - resource explanation episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.present-joy-contrasted-with-promised-future-bliss
+  motif_id: present_joy_contrasted_with_promised_future_bliss
+  label: Present joy contrasted with promised future bliss
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, contrast between present delight and future bliss likely
+    supports spiritual instruction about longing, discipline, or ultimate union.
+  cautions: Could instead be afterlife reward, ethical exhortation, or poetic contrast;
+    verify whether the passage is mystical path teaching rather than eschatology only.
+  suggested_aliases:
+  - present joy versus future bliss
+  - worldly delight contrasted with promised bliss
+  - temporal joy and ultimate bliss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.present-life-wasted-like-a-spun-thread
+  motif_id: present_life_wasted_like_a_spun_thread
+  label: present life wasted like a spun thread
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The wording appears to be a specific poetic image for wasted life rather
+    than a recurring motif category.
+  cautions: May belong under mystical_quest if used as renunciant instruction, or
+    under wisdom if it is moral teaching; preserve thread imagery as evidence detail.
+  suggested_aliases:
+  - life wasted like thread
+  - spun thread as wasted life
+  - wasted present life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preservation-of-older-stories-by-incorporation-into-a-great-epic
+  motif_id: preservation_of_older_stories_by_incorporation_into_a_great_epic
+  label: Preservation of older stories by incorporation into a great epic
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a transmission or redaction observation about story preservation,
+    not a narrative motif inside the tradition.
+  cautions: Do not use as evidence of borrowing or historical transmission in motif
+    queries; index motifs within the incorporated stories separately.
+  suggested_aliases:
+  - older tales preserved in epic
+  - incorporation of older stories
+  - epic compilation preserves earlier narrative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preservation-through-selective-transmission
+  motif_id: preservation_through_selective_transmission
+  label: preservation through selective transmission
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a process of textual or oral transmission rather
+    than a symbolic or narrative motif.
+  cautions: Preserve as provenance if useful, but exclude from motif pattern exploration.
+  suggested_aliases:
+  - selective transmission preserves tradition
+  - preservation by selection
+  - selective preservation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prestige-object-transmitted-through-gift-chain
+  motif_id: prestige_object_transmitted_through_gift_chain
+  label: prestige object transmitted through gift-chain
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A valued prestige object moving through a gift chain centers on reciprocal
+    exchange and social-sacred relationship.
+  cautions: If the object confers sovereignty or supernatural power, secondary mapping
+    to sacred_treasures or royal_legitimacy may be warranted.
+  suggested_aliases:
+  - gift-chain prestige object
+  - prestige object exchange
+  - transmitted gift object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence abstractions or textual/transmission
+  observations; exclusions are provisional and should not remove underlying source
+  evidence.
+- For fate/predestination labels, current groups are death-focused or wisdom-focused;
+  human review may decide whether a broader destiny/agency group is needed later.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch-0130.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0130
+  input_sha256: f06f2c5a56d60949158242d9ab65966eed332bf74cf6ecc2a75a233f14946f23

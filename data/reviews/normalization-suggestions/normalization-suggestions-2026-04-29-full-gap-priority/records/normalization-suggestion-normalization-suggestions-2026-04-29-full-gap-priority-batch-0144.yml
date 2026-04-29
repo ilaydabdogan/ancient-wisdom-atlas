@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0144
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.refusal-to-deify-prophets-or-angels
+  motif_id: refusal_to_deify_prophets_or_angels
+  label: Refusal to deify prophets or angels
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label expresses a doctrinal boundary regulating proper divine-human
+    order and worship.
+  cautions: Could also be covenant or wisdom teaching depending on passage context;
+    avoid flattening Islamic theological specificity.
+  suggested_aliases:
+  - anti-deification of messengers
+  - refusal of angel or prophet worship
+  - monotheistic boundary against deification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refused-gift-of-cattle-leads-to-duel
+  motif_id: refused_gift_of_cattle_leads_to_duel
+  label: refused gift of cattle leads to duel
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A refused cattle gift triggers single combat, fitting the cattle-raid
+    and honor-conflict field already under sacred_combat.
+  cautions: Highly episode-specific; if the emphasis is guest-gift reciprocity rather
+    than combat, sacred_exchange may be a secondary mapping.
+  suggested_aliases:
+  - gift refusal triggers duel
+  - cattle gift refusal and single combat
+  - failed cattle exchange leads to combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refused-guest-gift-causes-armed-conflict
+  motif_id: refused_guest_gift_causes_armed_conflict
+  label: Refused guest-gift causes armed conflict
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is failed gift or hospitality reciprocity producing
+    social rupture and violence.
+  cautions: If the passage centers on warfare rather than exchange norms, sacred_combat
+    may be the better primary group.
+  suggested_aliases:
+  - failed guest-gift exchange
+  - hospitality gift refusal causes conflict
+  - broken reciprocity leads to violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regret-over-a-misleading-companion
+  motif_id: regret_over_a_misleading_companion
+  label: Regret over a misleading companion
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Regret over a deceptive companion commonly functions as moral reckoning
+    for misguidance and wrong association.
+  cautions: Could be ethical wisdom, afterlife remorse, or a passage-specific admonition;
+    source context is needed before final indexing.
+  suggested_aliases:
+  - regret over false companion
+  - misleading companion regretted
+  - remorse for following a deceiver
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reinforcement-causes-magical-withdrawal
+  motif_id: reinforcement_causes_magical_withdrawal
+  label: reinforcement causes magical withdrawal
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to identify whether the function is otherworldly
+    retreat, failed aid, enchantment, or battle reversal.
+  cautions: May be an over-specific episode note; review source evidence before mapping
+    to otherworld, divine_intervention, sacred_combat, or threshold logic.
+  suggested_aliases:
+  - magical withdrawal after reinforcements
+  - reinforcements trigger retreat of magic
+  - supernatural force withdraws when aid arrives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-human-messenger
+  motif_id: rejected_human_messenger
+  label: Rejected human messenger
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejection of a divinely sent human messenger often introduces moral testing
+    and judgment of the rejecting community.
+  cautions: If the passage emphasizes prophetic calling or revelation rather than
+    consequences, divine_intervention or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - rejection of human prophet
+  - rejected divine envoy
+  - community rejects messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-messenger-aided-after-endurance
+  motif_id: rejected_messenger_aided_after_endurance
+  label: Rejected messenger aided after endurance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif combines messenger rejection with later divine aid after steadfast
+    endurance.
+  cautions: Could also fit initiation or divine_judgment if the passage stresses ordeal
+    or punishment of opponents.
+  suggested_aliases:
+  - divine aid after messenger's endurance
+  - rejected prophet vindicated after patience
+  - aid follows steadfast rejection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-messenger-and-earlier-rejected-apostles
+  motif_id: rejected_messenger_and_earlier_rejected_apostles
+  label: Rejected messenger and earlier rejected apostles
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label frames messenger rejection as a recurring moral pattern with
+    earlier precedents, usually tied to communal accountability.
+  cautions: The reference to earlier apostles may be a textual comparison or admonitory
+    formula; preserve as evidence detail rather than new motif.
+  suggested_aliases:
+  - rejection of messenger in prophetic precedent
+  - earlier apostles also rejected
+  - recurring rejection of messengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-messenger-in-continuity-with-earlier-apostles
+  motif_id: rejected_messenger_in_continuity_with_earlier_apostles
+  label: Rejected messenger in continuity with earlier apostles
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Continuity with earlier apostles emphasizes transmission and recognition
+    of revealed teaching across messenger figures.
+  cautions: If the passage focuses on punishment for rejection, divine_judgment may
+    be primary; this wording may be a passage-level theological formulation.
+  suggested_aliases:
+  - continuity of rejected apostles
+  - messenger in line of earlier apostles
+  - prophetic continuity despite rejection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-messengers-and-demanded-signs
+  motif_id: rejected_messengers_and_demanded_signs
+  label: Rejected messengers and demanded signs
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Demanding signs while rejecting messengers is a testing-and-refusal pattern
+    that commonly precedes judgment or admonition.
+  cautions: Could also relate to theophany or sacred_knowledge if signs are central;
+    do not treat all sign demands as judgment without passage evidence.
+  suggested_aliases:
+  - demanded signs after rejecting messengers
+  - sign-demanding rejection of prophets
+  - rejection of messengers with demand for proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Islamic messenger-rejection labels overlap and may be candidates for consolidation
+  under a future alias such as rejected_messenger if recurrence is confirmed.
+- Celtic gift-refusal labels sit between sacred_exchange and sacred_combat; final
+  placement should follow whether the passage foregrounds reciprocity norms or martial
+  escalation.
+- No transmission or borrowing claims are implied by these normalization placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional machine suggestions; source context needed especially for compressed
+    or over-specific single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0144
+  input_sha256: 48aa164a6f136088b9e94d0d564748491f76027cce854c28449846855fac94d5

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0072
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.growth-of-a-tradition-from-cultural-soil
+  motif_id: growth_of_a_tradition_from_cultural_soil
+  label: growth of a tradition from cultural soil
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes cultural-historical interpretation of a tradition's
+    development, not a narrative or symbolic motif.
+  cautions: Preserve as commentary or provenance if useful; do not use as motif evidence
+    or transmission claim.
+  suggested_aliases:
+  - tradition growing from cultural soil
+  - cultural soil of a tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.growth-of-saint-legend-through-popular-demand-for-wonders
+  motif_id: growth_of_saint_legend_through_popular_demand_for_wonders
+  label: Growth of saint legend through popular demand for wonders
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a reception/history-of-legend observation about why saint traditions
+    accumulate wonders.
+  cautions: If a passage narrates a specific miracle by a saint, that miracle should
+    be indexed separately; this label itself is meta-commentary.
+  suggested_aliases:
+  - popular demand for saintly wonders
+  - growth of saint legend
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-golden-apples-as-treasure-or-marvelous-produce
+  motif_id: guarded_golden_apples_as_treasure_or_marvelous_produce
+  label: guarded golden apples as treasure or marvelous produce
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: Golden apples function as rare guarded mythic treasure or marvelous power-object/produce.
+  cautions: If the passage emphasizes the guardian or access trial more than the object,
+    threshold_guardian or initiation may be secondary; avoid creating a separate apple
+    motif from one occurrence.
+  suggested_aliases:
+  - golden apples
+  - guarded golden apples
+  - marvelous golden fruit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-golden-fruit-beyond-ocean
+  motif_id: guarded_golden_fruit_beyond_ocean
+  label: guarded golden fruit beyond Ocean
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: The golden fruit is a guarded mythic treasure placed in a remote liminal
+    location.
+  cautions: The beyond-Ocean setting may also support otherworld or hero_journey if
+    a quest passage is present; label is over-specific as a standalone motif.
+  suggested_aliases:
+  - golden fruit beyond Ocean
+  - guarded golden fruit
+  - remote guarded fruit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-heavens-repelling-devils
+  motif_id: guarded_heavens_repelling_devils
+  label: Guarded heavens repelling devils
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes a boundary to the heavens guarded against hostile
+    beings attempting access.
+  cautions: Could also involve divine_intervention, sacred_fire, or sacred_law depending
+    on whether stars, angels, or cosmic order are emphasized; review Islamic source
+    context carefully.
+  suggested_aliases:
+  - heaven guarded from devils
+  - celestial boundary repels devils
+  - guarded heavens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-mythic-fruit
+  motif_id: guarded_mythic_fruit
+  label: Guarded mythic fruit
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: A guarded mythic fruit is best treated as a sacred or power-bearing treasure
+    object unless its ritual function is specified.
+  cautions: May overlap with forbidden_knowledge, threshold_guardian, or otherworld
+    when fruit access is prohibited, guarded, or located in an enchanted realm.
+  suggested_aliases:
+  - mythic fruit
+  - guarded fruit
+  - supernatural fruit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-supernatural-fruit-with-prohibition
+  motif_id: guarded_supernatural_fruit_with_prohibition
+  label: guarded supernatural fruit with prohibition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: forbidden_knowledge
+  suggested_group_label: Forbidden Knowledge
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key feature is a supernatural object whose access or consumption
+    is prohibited, aligning with forbidden sacred power.
+  cautions: If the fruit mainly functions as a treasure or otherworld object rather
+    than a transgressive prohibition, sacred_treasures or otherworld may be better.
+  suggested_aliases:
+  - forbidden supernatural fruit
+  - prohibited mythic fruit
+  - guarded forbidden fruit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-woman-in-a-protected-enclosure
+  motif_id: guarded_woman_in_a_protected_enclosure
+  label: Guarded woman in a protected enclosure
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe protection, confinement, chastity control, abduction
+    prevention, or a plot-specific gendered enclosure.
+  cautions: Culturally sensitive and context-dependent; do not reduce to sacred_vessel
+    or threshold_guardian without source evidence about narrative function.
+  suggested_aliases:
+  - protected enclosed woman
+  - guarded woman
+  - woman in guarded enclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-as-potential-predator
+  motif_id: guardian_as_potential_predator
+  label: guardian as potential predator
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: A guardian who may become a predator still functions as a dangerous boundary-keeper
+    or access-controlling figure.
+  cautions: If the point is animal predation rather than guarded passage, a future
+    animal/monster group may fit better; verify that a threshold or protected object
+    is present.
+  suggested_aliases:
+  - predatory guardian
+  - dangerous guardian
+  - guardian predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-fails-for-one-night
+  motif_id: guardian_fails_for_one_night
+  label: guardian fails for one night
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The wording reads as an episode-specific plot detail rather than a reusable
+    mythic motif.
+  cautions: If multiple sources show ritualized lapse of guardianship enabling a threshold
+    breach, reconsider under threshold_guardian; otherwise preserve only as evidence
+    detail.
+  suggested_aliases:
+  - failed night watch
+  - one-night guardian lapse
+  - guardian lapse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several guarded-fruit labels likely refer to the same Greek/Roman golden-apple complex;
+  map broadly to sacred_treasures while preserving guardian, prohibition, and otherworld
+  details as evidence.
+- Do not infer historical transmission between Greek, Roman, Celtic, Hindu, Islamic,
+  or Sufi materials from these normalization placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional mappings only; human review recommended for gendered enclosure
+    and Islamic guarded-heavens context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0072
+  input_sha256: 8e998cfb24dbfef83cbd9fb036f319d023badadbe1a7007783f588389e3af837

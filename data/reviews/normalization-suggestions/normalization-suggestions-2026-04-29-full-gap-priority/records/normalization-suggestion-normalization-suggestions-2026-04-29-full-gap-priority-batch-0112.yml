@@ -1,0 +1,321 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0112
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.music-that-compels-emotion-and-sleep
+  motif_id: music_that_compels_emotion_and_sleep
+  label: music that compels emotion and sleep
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Enchanting Music and Compelled States
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes music as an active supernatural or magical force
+    altering emotion and consciousness, not merely sacred song or narrative performance.
+  cautions: Single occurrence; may collapse into dream_and_vision, threshold_guardian,
+    or storytelling_as_power depending on whether the passage emphasizes enchantment,
+    sleep, or artful performance.
+  suggested_aliases:
+  - compelling music
+  - enchanted music
+  - sleep-inducing music
+  - music as enchantment
+  suggested_new_group:
+    id: enchanting_music
+    label: Enchanting Music and Compelled States
+    description: Music, song, or instrumental performance exerts magical, sacred,
+      or uncanny power over listeners, compelling emotion, sleep, weakness, movement,
+      mercy, or altered states.
+    parent_group_ids:
+    - dream_and_vision
+    - storytelling_as_power
+    related_group_ids:
+    - threshold_guardian
+    - sacred_knowledge
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups cover sacred song as wisdom
+      and dangerous singers as threshold guardians, but not the broader recurring
+      function of music as a force that compels consciousness or supernatural beings.
+- suggestion_id: normalization.suggestion.music-that-induces-sleep-or-weakens-vigilance
+  motif_id: music_that_induces_sleep_or_weakens_vigilance
+  label: music that induces sleep or weakens vigilance
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Enchanting Music and Compelled States
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is a close functional variant of enchanted or compelling music,
+    specifically reducing wakefulness or defensive awareness.
+  cautions: If music is only a tactical device in one episode, preserve as evidence
+    detail; if tied to dream, trance, or divine revelation, dream_and_vision may be
+    a secondary mapping.
+  suggested_aliases:
+  - sleep-inducing music
+  - music weakening vigilance
+  - lulling music
+  - enchanted lullaby
+  suggested_new_group:
+    id: enchanting_music
+    label: Enchanting Music and Compelled States
+    description: Music, song, or instrumental performance exerts magical, sacred,
+      or uncanny power over listeners, compelling emotion, sleep, weakness, movement,
+      mercy, or altered states.
+    parent_group_ids:
+    - dream_and_vision
+    - storytelling_as_power
+    related_group_ids:
+    - threshold_guardian
+    - sacred_knowledge
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups cover sacred song as wisdom
+      and dangerous singers as threshold guardians, but not the broader recurring
+      function of music as a force that compels consciousness or supernatural beings.
+- suggestion_id: normalization.suggestion.music-that-moves-infernal-powers
+  motif_id: music_that_moves_infernal_powers
+  label: music that moves infernal powers
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Music affecting infernal powers is likely part of an underworld/descent
+    episode where art persuades or overcomes chthonic authorities.
+  cautions: Do not map to descent if the passage lacks an underworld setting; it may
+    instead support a future enchanting_music group or sacred_song under sacred_knowledge.
+  suggested_aliases:
+  - music moves underworld powers
+  - song persuades infernal beings
+  - music in the underworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.musical-instrument-origin-account
+  motif_id: musical_instrument_origin_account
+  label: musical instrument origin account
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: narrower_than
+  confidence: low
+  rationale: An origin account for a musical instrument concerns the making or emergence
+    of a culturally significant object or craft.
+  cautions: Could be sacred_knowledge, storytelling_as_power, or a passage-specific
+    etiology depending on whether the emphasis is craft, teaching, mystical sound,
+    or local explanation.
+  suggested_aliases:
+  - origin of musical instrument
+  - instrument etiology
+  - sacred music craft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutilated-sister-rouses-brother-s-vengeance
+  motif_id: mutilated_sister_rouses_brother_s_vengeance
+  label: Mutilated sister rouses brother’s vengeance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label matches vengeance triggered by violation of a female kin figure,
+    already represented near sacred_combat by violated_queen_as_trigger_of_vengeance.
+  cautions: Highly episode-specific and involves gendered violence; review source
+    context carefully before broad indexing. Could also involve sibling_pair or divine_judgment
+    if kinship or moral retribution is central.
+  suggested_aliases:
+  - injured sister provokes vengeance
+  - female kin violation triggers revenge
+  - sibling vengeance after mutilation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutual-destruction-imposed-by-spell
+  motif_id: mutual_destruction_imposed_by_spell
+  label: Mutual destruction imposed by spell
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could refer to magical compulsion, curse, fate, combat, or
+    divine judgment, but the source function is unclear.
+  cautions: Do not force into sacred_combat or death_by_fate without evidence that
+    the spell produces ritual warfare, destined death, or moral reckoning.
+  suggested_aliases:
+  - spell-imposed mutual destruction
+  - magical compulsion to destroy one another
+  - curse of mutual destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutual-false-praise-for-advantage
+  motif_id: mutual_false_praise_for_advantage
+  label: Mutual false praise for advantage
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: Strategic false praise for gain is a deception tactic, fitting the broad
+    trickster or boundary-crossing field.
+  cautions: May be an ethical exemplum or passage-level satire rather than a mythic
+    motif; if the lesson is moral conduct, sacred_law or wisdom may be better secondary
+    mappings.
+  suggested_aliases:
+  - deceptive praise for gain
+  - flattery as trickery
+  - mutual strategic flattery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mysterious-armored-knight-with-attendants
+  motif_id: mysterious_armored_knight_with_attendants
+  label: mysterious armored knight with attendants
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A mysterious knight may be an otherworldly visitor, warrior challenger,
+    helper, or courtly episode detail; the label alone lacks function.
+  cautions: Avoid mapping based only on costume or role. Could fit otherworld, divine_warrior,
+    threshold_guardian, or sacred_combat if the passage shows a liminal challenge
+    or supernatural origin.
+  suggested_aliases:
+  - mysterious knight
+  - otherworldly armored visitor
+  - armed stranger with retinue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mysterious-headless-woman-and-lost-gift
+  motif_id: mysterious_headless_woman_and_lost_gift
+  label: Mysterious headless woman and lost gift
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines uncanny bodily form and a lost gift, but the narrative
+    function is not clear enough for placement.
+  cautions: Could involve otherworld encounter, death omen, sacred exchange, or an
+    over-specific episode artifact. Review whether the headless figure acts as giver,
+    warning, threshold being, or corpse/ghost.
+  suggested_aliases:
+  - headless woman encounter
+  - lost otherworld gift
+  - uncanny woman with gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mysterious-helpers-serving-under-restrictive-conditions
+  motif_id: mysterious_helpers_serving_under_restrictive_conditions
+  label: mysterious helpers serving under restrictive conditions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural or mysterious helpers providing service under conditions
+    fits guidance or intervention by nonordinary agents in human affairs.
+  cautions: If the restriction is a taboo or bargain, sacred_law or sacred_exchange
+    may be secondary. If helpers are from fairy/enchanted realms, otherworld may also
+    apply.
+  suggested_aliases:
+  - conditional supernatural helpers
+  - mysterious helpers with restrictions
+  - helpers bound by taboo conditions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several music-related labels suggest a possible recurring group for enchanted or
+  compelling music; human review should decide whether to add it or keep these under
+  sacred_song, dream_and_vision, descent, or storytelling_as_power.
+- Single-occurrence Celtic courtly or uncanny encounter labels are often too context-dependent
+  for confident normalization without passage evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0112
+  input_sha256: d1645f8af2833237e06fab7791fe422af48753d9bd7dbb06f30983f80932dddf

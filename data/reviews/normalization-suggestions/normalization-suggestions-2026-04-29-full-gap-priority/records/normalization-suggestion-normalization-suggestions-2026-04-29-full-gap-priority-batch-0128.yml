@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0128
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.power-reversed-by-circumstance
+  motif_id: power_reversed_by_circumstance
+  label: power reversed by circumstance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe reversal or humbling of power, which is near the
+    downfall complex, but it is too abstract without episode context.
+  cautions: Could be a narrative plot reversal, political fortune motif, moral judgment,
+    or passage-specific summary rather than a reusable motif.
+  suggested_aliases:
+  - reversal_of_power
+  - humbling_of_the_powerful
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.powerful-creature-afraid-of-something-small
+  motif_id: powerful_creature_afraid_of_something_small
+  label: powerful creature afraid of something small
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: Fear of a small or weak thing by a powerful creature often functions
+    as comic inversion or trickster-like reversal of expected hierarchy.
+  cautions: May instead be fable logic, animal lore, an omen, or a specific comic
+    detail. Source evidence is needed before indexing under trickster.
+  suggested_aliases:
+  - small_thing_frightens_powerful_being
+  - comic_inversion_of_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.powerful-music-causing-beings-to-fall-or-perish
+  motif_id: powerful_music_causing_beings_to_fall_or_perish
+  label: Powerful music causing beings to fall or perish
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Music or song acting with lethal supernatural force fits the broader
+    group for speech, song, and narrative as operative sacred power.
+  cautions: If the passage emphasizes a dangerous lure at a threshold, threshold_guardian
+    may be a secondary fit; if it is battle magic, sacred_combat may be relevant.
+  suggested_aliases:
+  - lethal_music
+  - music_as_supernatural_power
+  - destructive_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.praise-contrasted-with-refusal-to-fight
+  motif_id: praise_contrasted_with_refusal_to_fight
+  label: praise contrasted with refusal to fight
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a passage-level contrast or characterization note
+    rather than a stable mythic motif.
+  cautions: If the source frames refusal to fight as ritual taboo, warrior shame,
+    or sacred duty under crisis, review under divine_warrior or sacred_combat instead.
+  suggested_aliases:
+  - refusal_to_fight_despite_praise
+  - warrior_praise_and_noncombat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pre-coinage-object-exchange
+  motif_id: pre_coinage_object_exchange
+  label: Pre-coinage object exchange
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is likely an economic or historical-context observation about exchange
+    media, not a symbolic narrative motif.
+  cautions: If the exchanged object is ritually charged or creates sacred obligation,
+    preserve evidence under sacred_exchange or sacred_treasures.
+  suggested_aliases:
+  - object_exchange_before_coinage
+  - non_coin_object_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pre-created-book-of-destiny
+  motif_id: pre_created_book_of_destiny
+  label: pre-created book of destiny
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A primordial book containing destiny fits sacred knowledge as preserved,
+    hidden, or divine inscription.
+  cautions: Also overlaps with death_by_fate and divine_judgment if the passage emphasizes
+    predestination or moral accounting rather than knowledge transmission.
+  suggested_aliases:
+  - book_of_destiny
+  - primordial_book_of_fate
+  - pre_eternal_record
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.precarious-height-and-downfall-of-the-powerful
+  motif_id: precarious_height_and_downfall_of_the_powerful
+  label: precarious height and downfall of the powerful
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The motif directly describes elevated power followed by collapse, matching
+    the downfall and humbling pattern.
+  cautions: In Sufi context, height may be mystical or ethical metaphor; check whether
+    the passage emphasizes pride, impermanence, or spiritual discipline.
+  suggested_aliases:
+  - height_followed_by_downfall
+  - fall_of_the_powerful
+  - precarious_elevation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.precious-intoxicating-goods-beyond-ordinary-exchange
+  motif_id: precious_intoxicating_goods_beyond_ordinary_exchange
+  label: precious intoxicating goods beyond ordinary exchange
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns value and exchange, possibly as a metaphor for spiritual
+    goods that cannot be bought or traded normally.
+  cautions: Sufi intoxication is often mystical metaphor; could belong under mystical_quest,
+    divine_beloved, sacred_love, or be a passage-specific image.
+  suggested_aliases:
+  - priceless_intoxicating_goods
+  - intoxication_beyond_exchange
+  - spiritual_wine_beyond_price
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.precious-object-bribe-causing-betrayal
+  motif_id: precious_object_bribe_causing_betrayal
+  label: precious-object bribe causing betrayal
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A precious object drives betrayal through its power over desire and loyalty,
+    fitting the power-object cluster better than ordinary exchange.
+  cautions: If the focus is moral corruption or judgment, divine_judgment may be secondary;
+    if the object is not sacred or mythically charged, it may be a plot detail.
+  suggested_aliases:
+  - bribe_object_causes_betrayal
+  - treasure_induced_betrayal
+  - precious_gift_as_betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-defeated-by-denial-of-prey
+  motif_id: predator_defeated_by_denial_of_prey
+  label: predator defeated by denial of prey
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: Denying prey to a predator may be a clever survival or reversal episode,
+    adjacent to animal trickster and escape motifs already grouped under trickster.
+  cautions: In Buddhist context it may instead be ethical nonviolence, compassion,
+    karmic consequence, or a Jataka-style animal exemplum; source context is needed.
+  suggested_aliases:
+  - predator_denied_prey
+  - prey_withholding_defeats_predator
+  - defeat_by_refusal_of_consumption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and phrased as abstract passage
+  summaries; human review should verify source evidence before making durable motif
+  mappings.
+- Avoid treating economic, rhetorical, or contextual labels as motifs unless the object,
+  exchange, or reversal has clear symbolic or narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0128
+  input_sha256: 2e2c184bf0c98a96d2bc83ef77ce67be52a143ab40ff32e528e8fc3736f8370b

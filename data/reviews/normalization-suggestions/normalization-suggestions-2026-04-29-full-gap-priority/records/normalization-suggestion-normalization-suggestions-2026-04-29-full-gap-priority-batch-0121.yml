@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0121
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.paired-encounter-title-pattern
+  motif_id: paired_encounter_title_pattern
+  label: paired encounter title pattern
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Label describes a title or indexing pattern rather than a narrative motif.
+  cautions: If source passages contain a meaningful paired encounter, remap the underlying
+    episode rather than this heading artifact.
+  suggested_aliases:
+  - paired encounter title pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-or-grouped-figures-in-fable-headings
+  motif_id: paired_or_grouped_figures_in_fable_headings
+  label: paired or grouped figures in fable headings
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording points to fable heading structure, not a symbolic or narrative
+    motif.
+  cautions: Do not exclude actual paired animal or character action if present in
+    the fable body; only exclude the heading pattern label.
+  suggested_aliases:
+  - paired/grouped figures in fable headings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-or-grouped-title-character-encounter
+  motif_id: paired_or_grouped_title_character_encounter
+  label: paired or grouped title-character encounter
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This appears to classify title-character arrangement rather than the
+    encounter's narrative function.
+  cautions: If the encounter itself involves rivalry, duality, trickster action, or
+    moral instruction, index that separately from the title artifact.
+  suggested_aliases:
+  - paired/grouped title-character encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.palinode-for-a-wronged-helen
+  motif_id: palinode_for_a_wronged_helen
+  label: palinode for a wronged Helen
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be corrective praise, literary retraction, reputation repair, or
+    a text-specific Helen episode.
+  cautions: Likely depends on source context; avoid mapping to sacred_love or storytelling_as_power
+    without evidence that the palinode performs a recurring sacred narrative function.
+  suggested_aliases:
+  - palinode for wronged heroine
+  - retraction hymn for Helen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paradise-status-promised-for-a-restored-spouse
+  motif_id: paradise_status_promised_for_a_restored_spouse
+  label: Paradise status promised for a restored spouse
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Centers on a spouse's restoration and promised blessed afterlife status,
+    aligning with love extending beyond ordinary bodily life.
+  cautions: If the passage emphasizes eschatological reward or postmortem geography
+    more than spousal restoration, afterlife_passage or divine_judgment may be secondary
+    placements.
+  suggested_aliases:
+  - restored spouse promised paradise
+  - paradisal reward for restored spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parasitic-drone-class-feeding-on-civic-wealth
+  motif_id: parasitic_drone_class_feeding_on_civic_wealth
+  label: Parasitic drone class feeding on civic wealth
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Reads like political-philosophical social critique rather than a stable
+    mythic motif.
+  cautions: Could fit sacred_law or divine_judgment only if framed as moral disorder
+    under sacred order; may be commentary artifact from civic theory.
+  suggested_aliases:
+  - parasitic civic class
+  - drones feeding on civic wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parasitic-drones-as-civic-plague
+  motif_id: parasitic_drones_as_civic_plague
+  label: parasitic drones as civic plague
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Metaphor of civic plague may be social critique, disease metaphor, or
+    moral disorder; function is unclear.
+  cautions: Do not map to divine_judgment unless sacred punishment or moral reckoning
+    is explicit; may be a philosophical or rhetorical artifact.
+  suggested_aliases:
+  - civic plague of drones
+  - parasitic drones as plague
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parley-breaks-down-into-mutual-killing
+  motif_id: parley_breaks_down_into_mutual_killing
+  label: parley breaks down into mutual killing
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A failed parley becoming reciprocal violence fits warfare and conflict
+    escalation in a heroic combat setting.
+  cautions: If this is merely a plot detail with no ritual, heroic, or sacred combat
+    framing, it may be too specific for pattern queries.
+  suggested_aliases:
+  - failed parley leads to mutual killing
+  - negotiation collapses into combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parodic-reuse-of-a-threat
+  motif_id: parodic_reuse_of_a_threat
+  label: parodic reuse of a threat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a rhetorical or comic technique rather than a motif with stable
+    narrative function.
+  cautions: Map to storytelling_as_power only if the reused threat changes outcomes
+    through speech, wit, or narrative performance; otherwise treat as passage-level
+    literary detail.
+  suggested_aliases:
+  - comic reuse of threat
+  - threat reused parodically
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.partial-blindness-and-vulnerability
+  motif_id: partial_blindness_and_vulnerability
+  label: partial blindness and vulnerability
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Blindness may signal impaired perception, weakness, punishment, or an
+    episode-specific vulnerability; function is not clear from label alone.
+  cautions: Could relate to dream_and_vision/opened perception, divine_judgment, or
+    heroic ordeal depending on passage evidence; avoid assuming symbolic insight or
+    punishment.
+  suggested_aliases:
+  - partial blindness as vulnerability
+  - impaired sight and vulnerability
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - divine_judgment
+    - initiation
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Greek labels in this batch appear to be title, heading, rhetorical, or philosophical
+  artifacts rather than reusable mythic motifs.
+- Where labels are single-occurrence and highly contextual, suggested placements are
+  provisional and should be checked against passage evidence before indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: JSON suggestions generated for batch-0121; human review recommended for context-dependent
+    Greek literary and civic-philosophical labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0121
+  input_sha256: 93af529763b9ec8823a1fe5d3807aa1f0dff7c91ce5af14bb926b4c0ddd0b50d

@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0125
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.petrifying-rhetorical-image
+  motif_id: petrifying_rhetorical_image
+  label: petrifying rhetorical image
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording points to a rhetorical or literary image rather than a recurring
+    narrative motif of petrification.
+  cautions: If the source describes literal transformation into stone, reconsider
+    under shapeshifter or divine_judgment depending on function.
+  suggested_aliases:
+  - petrifying image
+  - rhetorical petrification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.phantom-lure-into-isolated-forest
+  motif_id: phantom_lure_into_isolated_forest
+  label: phantom lure into isolated forest
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural lure into an isolated liminal place resembles perilous
+    threshold or fatal enchantment patterns already grouped under threshold_guardian.
+  cautions: Could fit otherworld if the forest is an enchanted realm, or divine_intervention
+    if the phantom acts as a guide rather than a threat.
+  suggested_aliases:
+  - phantom lure
+  - supernatural lure into forest
+  - forest lure by phantom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.philosophical-form-replacing-older-mythology
+  motif_id: philosophical_form_replacing_older_mythology
+  label: philosophical form replacing older mythology
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes intellectual reception or reinterpretation of myth
+    rather than a mythic narrative motif.
+  cautions: Preserve as commentary/provenance if useful, but do not use as evidence
+    for motif comparison.
+  suggested_aliases:
+  - philosophical reinterpretation of myth
+  - myth replaced by philosophy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pious-recognition-opposed-by-impious-companions
+  motif_id: pious_recognition_opposed_by_impious_companions
+  label: pious recognition opposed by impious companions
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The contrast between pious recognition and impious companions suggests
+    moral discernment that may precede judgment or consequence.
+  cautions: May be an episode-specific ethical contrast; if no divine response or
+    consequence occurs, sacred_law or wisdom may be better, or it may be too contextual.
+  suggested_aliases:
+  - pious recognition opposed by impiety
+  - faithful recognition versus impious companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pirate-capture-followed-by-enslavement
+  motif_id: pirate_capture_followed_by_enslavement
+  label: Pirate capture followed by enslavement
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Capture and enslavement may initiate an ordeal or journey, but the label
+    alone reads as a plot event rather than a stable sacred motif.
+  cautions: Review source context for transformation, exile, providential rescue,
+    or social-order function before mapping; avoid normalizing ordinary capture as
+    hero_journey without evidence.
+  suggested_aliases:
+  - capture by pirates
+  - enslavement after pirate capture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-inspired-eloquence
+  motif_id: place_inspired_eloquence
+  label: Place-inspired eloquence
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: low
+  rationale: Inspired speech from a charged place can function as transmitted wisdom
+    or sacred verbal power.
+  cautions: If the place is a sanctuary or world center, axis_mundi may be secondary;
+    if this is merely rhetorical praise of place, exclude as literary artifact.
+  suggested_aliases:
+  - eloquence inspired by place
+  - place-induced inspired speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plague-survival-and-repopulation-from-hidden-refuges
+  motif_id: plague_survival_and_repopulation_from_hidden_refuges
+  label: plague survival and repopulation from hidden refuges
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Survival of catastrophe by a hidden remnant followed by repopulation
+    matches catastrophe-renewal and survivor-remnant logic.
+  cautions: Do not conflate plague with flood unless the source presents world or
+    social renewal; if mainly disease punishment, divine_judgment may be better.
+  suggested_aliases:
+  - plague remnant repopulates
+  - survival from plague in hidden refuges
+  - catastrophe survivors repopulate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plant-amulet-protects-against-harmful-beings-and-misfortune
+  motif_id: plant_amulet_protects_against_harmful_beings_and_misfortune
+  label: Plant amulet protects against harmful beings and misfortune
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The taxonomy already folds apotropaic plant and protective practices
+    against spirits or misfortune under sacred_law.
+  cautions: If the amulet is primarily a powerful divine object rather than a ritual
+    protection, sacred_treasures may be a secondary mapping.
+  suggested_aliases:
+  - apotropaic plant amulet
+  - plant amulet against harmful beings
+  - protective plant charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plant-used-for-omen-drawing-on-a-calendrical-feast-day
+  motif_id: plant_used_for_omen_drawing_on_a_calendrical_feast_day
+  label: plant used for omen drawing on a calendrical feast day
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Omen drawing is a divinatory knowledge practice, and the group covers
+    visions, omens, and altered perception as sources of sacred knowledge.
+  cautions: Because the rite is calendrical, sacred_time may be a secondary mapping;
+    the plant detail may be over-specific evidence rather than a reusable motif.
+  suggested_aliases:
+  - calendrical plant omen
+  - plant divination on feast day
+  - omen drawing with plant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plea-for-mercy-rejected-after-weighing-benefit-against-harm
+  motif_id: plea_for_mercy_rejected_after_weighing_benefit_against_harm
+  label: Plea for mercy rejected after weighing benefit against harm
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mercy plea evaluated and rejected after moral weighing fits judgment,
+    reckoning, and consequence logic.
+  cautions: If the scene is purely human legal debate without sacred or cosmic moral
+    frame, it may be too contextual or belong under sacred_law only secondarily.
+  suggested_aliases:
+  - rejected plea for mercy
+  - mercy weighed against harm
+  - judgment rejects mercy plea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several single-occurrence labels may be passage-specific; source context should
+  determine whether they remain queryable motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Batch reviewed for best-fit group placement, with meta-artifact exclusions
+    where labels describe rhetoric or reception rather than motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0125
+  input_sha256: e1f365f17883c4562377c0c65ed3bb393946ec584ea5aa7dbf66467a4fd47847

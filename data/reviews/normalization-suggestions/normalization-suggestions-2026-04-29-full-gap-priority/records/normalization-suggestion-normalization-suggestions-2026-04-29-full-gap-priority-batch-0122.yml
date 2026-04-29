@@ -1,0 +1,345 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0122
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.partial-trophy-and-disputed-proof
+  motif_id: partial_trophy_and_disputed_proof
+  label: Partial trophy and disputed proof
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a victory-token or proof-of-deed dispute, but no current
+    group clearly covers trophy evidence without source context.
+  cautions: May be an over-specific episode detail, a heroic ordeal proof motif, or
+    a legal/social dispute; verify passage evidence before grouping.
+  suggested_aliases:
+  - disputed trophy proof
+  - partial proof of victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_combat
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parting-transformed-into-meeting
+  motif_id: parting_transformed_into_meeting
+  label: parting transformed into meeting
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: meta_artifact
+  confidence: medium
+  rationale: In Sufi context, paradoxical parting that becomes meeting likely expresses
+    longing and union through separation.
+  cautions: Could be a poetic trope rather than a narrative motif; if framed as mystical
+    nonduality, mystical_quest may be a secondary parent.
+  suggested_aliases:
+  - separation as union
+  - parting as meeting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.past-appointing-future-conduct
+  motif_id: past_appointing_future_conduct
+  label: past appointing future conduct
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is abstract and could indicate destiny, memory, precedent,
+    or spiritual causality.
+  cautions: Likely needs passage context; may be ethical commentary rather than a
+    motif useful for pattern queries.
+  suggested_aliases:
+  - past determining future conduct
+  - past as guide to future action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_judgment
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.past-life-identification-in-j-taka-frame
+  motif_id: past_life_identification_in_j_taka_frame
+  label: past-life identification in Jātaka frame
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Past-Life Identity and Karmic Continuity
+  relationship: functional_variant
+  confidence: high
+  rationale: Jātaka identifications link present figures to previous lives and express
+    karmic continuity across rebirths.
+  cautions: The reference to the Jātaka frame may be partly a textual-frame artifact;
+    preserve tradition-specific framing as an alias, not the whole canonical label.
+  suggested_aliases:
+  - past-life identification
+  - Jātaka past-life identification
+  - former-birth identification
+  suggested_new_group:
+    id: past_life_identity
+    label: Past-Life Identity and Karmic Continuity
+    description: Present persons, traits, conflicts, or relationships are identified
+      with former births, revealing continuity of character, karma, merit, fault,
+      or spiritual destiny across lives.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_knowledge
+    related_group_ids:
+    - divine_judgment
+    - storytelling_as_power
+    reason_existing_groups_insufficient: Existing death, wisdom, and judgment groups
+      do not specifically cover rebirth-identity disclosure and karmic continuity
+      across lives.
+- suggestion_id: normalization.suggestion.past-life-identification-of-adversary-and-protagonist
+  motif_id: past_life_identification_of_adversary_and_protagonist
+  label: past-life identification of adversary and protagonist
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Past-Life Identity and Karmic Continuity
+  relationship: narrower_than
+  confidence: high
+  rationale: This is a specific relational form of past-life identity disclosure linking
+    present conflict to former births.
+  cautions: Do not collapse into generic duality or combat; the function is karmic-recursive
+    identity, not merely opposition.
+  suggested_aliases:
+  - past-life adversary identification
+  - former-birth protagonist and adversary linkage
+  suggested_new_group:
+    id: past_life_identity
+    label: Past-Life Identity and Karmic Continuity
+    description: Present persons, traits, conflicts, or relationships are identified
+      with former births, revealing continuity of character, karma, merit, fault,
+      or spiritual destiny across lives.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_knowledge
+    related_group_ids:
+    - divine_judgment
+    - storytelling_as_power
+    reason_existing_groups_insufficient: Existing groups can cover rebirth broadly,
+      but not the recurrent narrative device of identifying current figures with former-life
+      roles.
+- suggestion_id: normalization.suggestion.past-life-identification-of-present-figures
+  motif_id: past_life_identification_of_present_figures
+  label: past-life identification of present figures
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Past-Life Identity and Karmic Continuity
+  relationship: alias
+  confidence: high
+  rationale: The label is a straightforward alias for identifying present characters
+    as beings from prior lives.
+  cautions: May be a formulaic frame device in Buddhist narrative; still useful if
+    indexed as karmic identity continuity rather than as textual apparatus only.
+  suggested_aliases:
+  - past-life identification of present persons
+  - present figures identified with former lives
+  suggested_new_group:
+    id: past_life_identity
+    label: Past-Life Identity and Karmic Continuity
+    description: Present persons, traits, conflicts, or relationships are identified
+      with former births, revealing continuity of character, karma, merit, fault,
+      or spiritual destiny across lives.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_knowledge
+    related_group_ids:
+    - divine_judgment
+    - storytelling_as_power
+    reason_existing_groups_insufficient: No current group captures the specific disclosure
+      of cross-life identity linking past narrative and present audience or characters.
+- suggestion_id: normalization.suggestion.past-life-identity-disclosure-in-a-j-taka-frame
+  motif_id: past_life_identity_disclosure_in_a_j_taka_frame
+  label: Past-life identity disclosure in a Jātaka frame
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Past-Life Identity and Karmic Continuity
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif describes the disclosure act that connects a former-birth story
+    to present identities.
+  cautions: Because 'Jātaka frame' names a textual genre convention, avoid treating
+    the frame itself as the motif if the passage only marks editorial structure.
+  suggested_aliases:
+  - past-life identity disclosure
+  - Jātaka identity disclosure
+  - former-birth disclosure
+  suggested_new_group:
+    id: past_life_identity
+    label: Past-Life Identity and Karmic Continuity
+    description: Present persons, traits, conflicts, or relationships are identified
+      with former births, revealing continuity of character, karma, merit, fault,
+      or spiritual destiny across lives.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_knowledge
+    related_group_ids:
+    - divine_judgment
+    - storytelling_as_power
+    reason_existing_groups_insufficient: Existing groups lack a precise home for karmic
+      former-birth recognition as a repeated narrative function.
+- suggestion_id: normalization.suggestion.past-life-identity-linkage
+  motif_id: past_life_identity_linkage
+  label: past-life identity linkage
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Past-Life Identity and Karmic Continuity
+  relationship: alias
+  confidence: high
+  rationale: This is a compact alias for linking present identity to former births.
+  cautions: Keep distinct from general resurrection or immortality; the key feature
+    is continuity across rebirth and recognition of identity links.
+  suggested_aliases:
+  - former-birth identity linkage
+  - past-life continuity link
+  suggested_new_group:
+    id: past_life_identity
+    label: Past-Life Identity and Karmic Continuity
+    description: Present persons, traits, conflicts, or relationships are identified
+      with former births, revealing continuity of character, karma, merit, fault,
+      or spiritual destiny across lives.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_knowledge
+    related_group_ids:
+    - divine_judgment
+    - storytelling_as_power
+    reason_existing_groups_insufficient: Death_and_transformation is too broad and
+      does not preserve the karmic-recognition function.
+- suggestion_id: normalization.suggestion.past-life-identity-revealed-at-the-j-taka-conclusion
+  motif_id: past_life_identity_revealed_at_the_j_taka_conclusion
+  label: past-life identity revealed at the Jātaka conclusion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Past-Life Identity and Karmic Continuity
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core motif is past-life identity disclosure; the conclusion placement
+    is a genre-specific detail.
+  cautions: Treat 'at the Jātaka conclusion' as evidence detail or textual convention
+    rather than canonical motif wording.
+  suggested_aliases:
+  - concluding past-life identification
+  - Jātaka conclusion identity reveal
+  suggested_new_group:
+    id: past_life_identity
+    label: Past-Life Identity and Karmic Continuity
+    description: Present persons, traits, conflicts, or relationships are identified
+      with former births, revealing continuity of character, karma, merit, fault,
+      or spiritual destiny across lives.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_knowledge
+    related_group_ids:
+    - divine_judgment
+    - storytelling_as_power
+    reason_existing_groups_insufficient: A new group would preserve the recurrent
+      karmic identity device while allowing over-specific Jātaka-frame variants to
+      remain aliases.
+- suggestion_id: normalization.suggestion.past-life-recurrence-of-a-present-fault
+  motif_id: past_life_recurrence_of_a_present_fault
+  label: Past-life recurrence of a present fault
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Past-Life Identity and Karmic Continuity
+  relationship: narrower_than
+  confidence: high
+  rationale: A present fault recurring in a former life is a karmic continuity pattern
+    tied to identity and moral causation across births.
+  cautions: May also index secondarily to divine_judgment or sacred_law if the passage
+    emphasizes moral consequence more than identity linkage.
+  suggested_aliases:
+  - recurring fault across lives
+  - karmic recurrence of fault
+  - former-birth repetition of present flaw
+  suggested_new_group:
+    id: past_life_identity
+    label: Past-Life Identity and Karmic Continuity
+    description: Present persons, traits, conflicts, or relationships are identified
+      with former births, revealing continuity of character, karma, merit, fault,
+      or spiritual destiny across lives.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_knowledge
+    related_group_ids:
+    - divine_judgment
+    - storytelling_as_power
+    reason_existing_groups_insufficient: Existing groups cover transformation and
+      judgment broadly but not repeated traits or faults revealed across former and
+      present lives.
+batch_notes:
+- Several Buddhist labels in this batch are close duplicates around Jātaka former-birth
+  identity disclosure; consider consolidating them under one normalization group or
+  alias cluster.
+- Where labels mention 'Jātaka frame' or conclusion placement, preserve the genre/frame
+  detail as an alias or evidence note rather than as the canonical motif itself.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; past-life identity cluster likely warrants
+    taxonomy review as a durable normalization group.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0122
+  input_sha256: 1fa20e950d2245683d758542f8d4051744ff17baafd8358bdb8073cc471c7b47

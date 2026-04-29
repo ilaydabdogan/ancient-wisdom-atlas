@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0119
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ominous-supernatural-sound-before-calamity
+  motif_id: ominous_supernatural_sound_before_calamity
+  label: ominous supernatural sound before calamity
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural sound announcing calamity functions as an omen or altered-perception
+    warning, fitting the dream/vision sign complex.
+  cautions: Single occurrence; if the sound is a theophany, battle portent, or narrative
+    atmosphere rather than omen, divine_intervention or sacred_combat may fit better.
+  suggested_aliases:
+  - auditory_omen_before_calamity
+  - supernatural_sound_as_omen
+  - calamity_portent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-eyed-survivor-of-supernatural-encounter
+  motif_id: one_eyed_survivor_of_supernatural_encounter
+  label: one-eyed survivor of supernatural encounter
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines bodily marking, survival, and supernatural encounter,
+    but the narrative function is unclear from the label alone.
+  cautions: May be an over-specific episode detail, initiation wound, divine punishment,
+    monster encounter, or survivor testimony; source evidence is needed before grouping.
+  suggested_aliases:
+  - survivor_marked_by_supernatural_encounter
+  - one_eyed_survivor
+  - bodily_mark_after_supernatural_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-life-stands-for-a-whole-people
+  motif_id: one_life_stands_for_a_whole_people
+  label: one life stands for a whole people
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: One life representing or substituting for a community fits sacrificial
+    substitution and collective repair.
+  cautions: If this is legal analogy, martyrdom, exemplary moral teaching, or covenantal
+    representation rather than offering/substitution, sacred_law or covenant may be
+    better.
+  suggested_aliases:
+  - representative_life_for_the_people
+  - one_life_for_many
+  - substitutionary_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oral-epic-accretion-of-episodes-legends-and-ancient-myths
+  motif_id: oral_epic_accretion_of_episodes_legends_and_ancient_myths
+  label: oral epic accretion of episodes, legends, and ancient myths
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes textual formation and scholarly analysis of epic
+    accretion, not a narrative motif.
+  cautions: Preserve as provenance or textual-history metadata if useful; do not use
+    as evidence for motif comparison.
+  suggested_aliases:
+  - oral_epic_accretion
+  - epic_textual_accretion
+  - composite_epic_tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oral-epic-committed-to-writing-for-a-narrow-literate-class
+  motif_id: oral_epic_committed_to_writing_for_a_narrow_literate_class
+  label: oral epic committed to writing for a narrow literate class
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a transmission and literacy-history observation rather than a
+    symbolic or narrative motif.
+  cautions: Keep only as textual or reception metadata; avoid pattern-query indexing.
+  suggested_aliases:
+  - oral_epic_written_for_literate_class
+  - writing_down_oral_epic
+  - oral_to_written_epic_transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oral-preservation-and-cultural-loss
+  motif_id: oral_preservation_and_cultural_loss
+  label: Oral preservation and cultural loss
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be about storytelling as cultural memory, but the wording may also
+    be scholarly commentary on preservation and loss.
+  cautions: If the passage depicts storytelling preserving wisdom, map to storytelling_as_power;
+    if it is about transmission history, exclude as _meta_textual.
+  suggested_aliases:
+  - oral_memory_and_loss
+  - cultural_memory_preserved_or_lost
+  - oral_preservation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oral-tradition-passed-to-future-generations
+  motif_id: oral_tradition_passed_to_future_generations
+  label: oral tradition passed to future generations
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Passing oral tradition to future generations fits narrative transmission
+    as cultural memory and power.
+  cautions: If this is merely a modern editorial or ethnographic note rather than
+    an internal motif, exclude under _meta_textual.
+  suggested_aliases:
+  - oral_tradition_transmission
+  - story_transmitted_to_descendants
+  - intergenerational_oral_memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-explanation-for-hollow-reeds
+  motif_id: origin_explanation_for_hollow_reeds
+  label: Origin explanation for hollow reeds
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This appears to be an etiological explanation for a specific natural
+    feature, but no existing group cleanly covers minor plant etiologies.
+  cautions: Likely too specific for pattern queries unless tied to transformation,
+    punishment, sacred plant, or creation; source context needed.
+  suggested_aliases:
+  - etiology_of_hollow_reeds
+  - origin_of_hollow_reeds
+  - plant_feature_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-brewing
+  motif_id: origin_of_brewing
+  label: Origin of brewing
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: medium
+  rationale: The origin of brewing is a culture-technique origin, fitting culture
+    hero or founder motifs when a figure brings a craft or food technology.
+  cautions: If the passage emphasizes sacred intoxication, ritual offering, or fermentation
+    magic rather than cultural founding, sacrifice or sacred_exchange may be secondary.
+  suggested_aliases:
+  - brewing_origin
+  - origin_of_fermentation
+  - culture_origin_of_brewing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-evil-and-need-for-labor
+  motif_id: origin_of_evil_and_need_for_labor
+  label: origin of evil and need for labor
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: An account explaining evil and burdensome labor usually frames moral
+    disorder and consequences under sacred or divine order.
+  cautions: Could also involve forbidden_knowledge, pride_and_downfall, or cosmic_origin
+    depending on whether the source stresses transgression, creation etiology, or
+    punishment.
+  suggested_aliases:
+  - origin_of_evil
+  - origin_of_labor_burden
+  - etiology_of_human_toil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are transmission-history or editorial observations;
+  these should remain excluded from motif pattern queries unless source passages treat
+  storytelling itself as an active motif.
+- Etiological labels with single occurrences should be reviewed for whether they express
+  a reusable motif function or only explain a highly specific feature.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; ambiguous single-occurrence items marked for
+    human evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0119
+  input_sha256: 35e8aa77bb47a241ac6a3dd9482e49f0b5ddb10472d42d05ce84224356c834b6

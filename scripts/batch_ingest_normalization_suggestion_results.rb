@@ -77,9 +77,13 @@ def default_new_group
   }
 end
 
+def public_suggestion_id(value)
+  value.to_s.gsub(/sk-([A-Za-z0-9_-]{20,})/, 'sk_\1')
+end
+
 def default_suggestion(motif)
   {
-    "suggestion_id" => motif.fetch("suggestion_id"),
+    "suggestion_id" => public_suggestion_id(motif.fetch("suggestion_id")),
     "motif_id" => motif.fetch("motif_id"),
     "label" => motif["label"].to_s,
     "occurrences" => motif["occurrences"].to_i,
@@ -99,7 +103,7 @@ end
 
 def normalize_suggestion(suggestion, motif)
   normalized = default_suggestion(motif).merge(suggestion.is_a?(Hash) ? suggestion : {})
-  normalized["suggestion_id"] = motif.fetch("suggestion_id")
+  normalized["suggestion_id"] = public_suggestion_id(motif.fetch("suggestion_id"))
   normalized["motif_id"] = motif.fetch("motif_id")
   normalized["label"] = motif["label"].to_s
   normalized["occurrences"] = motif["occurrences"].to_i
@@ -325,7 +329,7 @@ request_index.fetch("shards", []).each do |shard|
 end
 
 merged_batches = merge_by_id(existing_batches, new_batches, "suggestion_batch_id")
-merged_suggestions = merge_by_id(existing_suggestions, new_suggestions, "suggestion_id")
+merged_suggestions = merge_by_id(existing_suggestions, new_suggestions, "motif_id")
 AtlasBatch.write_jsonl(batches_jsonl_path, merged_batches, force: options[:force] || new_batches.any?)
 AtlasBatch.write_jsonl(suggestions_jsonl_path, merged_suggestions, force: options[:force] || new_suggestions.any?)
 AtlasBatch.write_jsonl(ingest_index_path, ingest_records, force: true)

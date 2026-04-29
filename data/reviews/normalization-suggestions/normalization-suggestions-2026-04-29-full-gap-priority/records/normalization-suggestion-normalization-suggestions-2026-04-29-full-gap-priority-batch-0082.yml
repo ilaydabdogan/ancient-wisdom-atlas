@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0082
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hybrid-aquatic-human-figure
+  motif_id: hybrid_aquatic_human_figure
+  label: hybrid aquatic human figure
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A hybrid aquatic human could be an otherworldly being, shapeshifter,
+    threshold figure, or passage-specific image depending on context.
+  cautions: Single occurrence; do not map to sacred_waters or shapeshifter unless
+    the source shows water-boundary function or actual transformation.
+  suggested_aliases:
+  - aquatic human hybrid
+  - water-human hybrid figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - shapeshifter
+    - sacred_waters
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hybrid-double-bodied-beings
+  motif_id: hybrid_double_bodied_beings
+  label: hybrid double-bodied beings
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Double-bodied hybrid beings fit bodily instability and hybrid transformation
+    imagery better than a journey or judgment motif.
+  cautions: If the figure is an emblem, constellation, art motif, or ethnographic
+    marvel rather than a narrative being, it may need human review or exclusion.
+  suggested_aliases:
+  - double-bodied hybrid beings
+  - two-bodied hybrid figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hydra-like-recurrence-of-corruption
+  motif_id: hydra_like_recurrence_of_corruption
+  label: Hydra-like recurrence of corruption
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as a metaphor for recurring moral disorder rather than
+    a clear Hydra combat motif.
+  cautions: Could fit divine_judgment, pride_and_downfall, chaos, or sacred_combat
+    only if the passage has concrete narrative evidence; may be commentary artifact.
+  suggested_aliases:
+  - recurring corruption like Hydra
+  - many-headed recurrence of corruption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - pride_and_downfall
+    - chaos
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hymnic-invocation-and-transition
+  motif_id: hymnic_invocation_and_transition
+  label: hymnic invocation and transition
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This sounds like a literary or compositional feature of a hymn rather
+    than a symbolic motif.
+  cautions: If the invocation itself summons divine presence or reveals sacred knowledge,
+    preserve that evidence under theophany or sacred_knowledge instead.
+  suggested_aliases:
+  - hymnic transition
+  - invocation formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hypocritical-mourner-with-false-tears
+  motif_id: hypocritical_mourner_with_false_tears
+  label: Hypocritical mourner with false tears
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: False mourning is a variant of mourning behavior, contrasting outward
+    grief with deceptive intent.
+  cautions: May be a moral-deception or trickster episode rather than a mourning motif
+    if the passage centers on fraud or social judgment.
+  suggested_aliases:
+  - false tears
+  - deceptive mourner
+  - feigned mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.iconoclasm-against-idols
+  motif_id: iconoclasm_against_idols
+  label: Iconoclasm against idols
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Destroying idols usually functions as correction of false worship and
+    restoration of sacred order.
+  cautions: Review culturally sensitive wording; if the focus is covenantal prohibition,
+    map secondarily to covenant or sacred_law; if only object destruction, sacred_treasures
+    may be less appropriate.
+  suggested_aliases:
+  - idol destruction
+  - destruction of idols
+  - iconoclastic purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ideal-commonwealth-based-on-shared-goods
+  motif_id: ideal_commonwealth_based_on_shared_goods
+  label: ideal commonwealth based on shared goods
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: An ideal social order based on shared goods fits normative social order
+    and ethical law more than royal legitimacy.
+  cautions: Could be philosophical political theory rather than mythic motif; if merely
+    authorial doctrine, consider exclusion from pattern queries.
+  suggested_aliases:
+  - community of shared goods
+  - ideal communal property
+  - commonwealth of shared goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - royal_legitimacy
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ideal-far-northern-paradise
+  motif_id: ideal_far_northern_paradise
+  label: ideal far-northern paradise
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A remote ideal paradise fits an enchanted or blessed otherworld existing
+    beyond ordinary geography.
+  cautions: If the source treats it as a postmortem destination, afterlife_passage
+    may be relevant; if it is cosmographic geography only, review as contextual detail.
+  suggested_aliases:
+  - northern paradise
+  - far-northern blessed land
+  - ideal northern realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idolatrous-animated-image
+  motif_id: idolatrous_animated_image
+  label: idolatrous animated image
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An animated image may function as idol polemic, forbidden object, divine
+    test, or uncanny object depending on passage evidence.
+  cautions: Culturally sensitive and doctrinally loaded label; avoid collapsing animation,
+    idolatry, and image magic without context.
+  suggested_aliases:
+  - animated idol
+  - living image
+  - ensouled image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_treasures
+    - forbidden_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idolatry-with-the-calf
+  motif_id: idolatry_with_the_calf
+  label: idolatry with the calf
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: narrower_than
+  confidence: high
+  rationale: Calf idolatry is a specific breach of sacred bond and law, often followed
+    by judgment and restoration.
+  cautions: Keep the calf detail as evidence; do not promote it as a broad motif unless
+    it recurs beyond this episode or tradition.
+  suggested_aliases:
+  - golden calf idolatry
+  - calf worship
+  - idolatrous calf
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review and do not imply historical transmission
+  or shared origin.
+- Several single-occurrence labels appear episode-specific, doctrinally loaded, or
+  literary-critical and should be checked against passage evidence before indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes multiple ambiguous single-occurrence labels requiring source-context
+    verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0082
+  input_sha256: 4cdb24b4995b0fbab2c93a7a85f4f2b83e728b2ced80c4f51bef9446af31d9eb

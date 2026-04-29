@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0133
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prophetic-claimants-within-a-religious-community
+  motif_id: prophetic_claimants_within_a_religious_community
+  label: Prophetic claimants within a religious community
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns prophetic authority within a sacred community, but
+    could be polemic, social history, or theological classification rather than a
+    motif.
+  cautions: Needs source context to distinguish narrative prophetic agency from sectarian
+    or historical commentary.
+  suggested_aliases:
+  - prophetic_claimants
+  - contested_prophetic_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-commissioning-by-angelic-messenger
+  motif_id: prophetic_commissioning_by_angelic_messenger
+  label: prophetic commissioning by angelic messenger
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An angelic messenger directly commissions a prophet, fitting divine guidance
+    and intervention in human affairs.
+  cautions: Could also index under divine_call or theophany if the passage emphasizes
+    vocation or manifestation rather than angelic agency.
+  suggested_aliases:
+  - angelic_prophetic_commissioning
+  - prophetic_call_by_angel
+  - angelic_messenger_commissions_prophet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-commissioning-from-covered-withdrawal
+  motif_id: prophetic_commissioning_from_covered_withdrawal
+  label: prophetic commissioning from covered withdrawal
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Withdrawal followed by commissioning marks a status-transforming threshold
+    into prophetic mission.
+  cautions: The covered or cloaked detail may be passage-specific; also consider divine_call
+    if the call itself is central.
+  suggested_aliases:
+  - prophetic_call_after_withdrawal
+  - commissioning_after_seclusion
+  - covered_prophetic_call
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-continuity-without-distinction
+  motif_id: prophetic_continuity_without_distinction
+  label: prophetic continuity without distinction
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears doctrinal, emphasizing continuity of revelation or
+    prophets rather than a clear narrative motif.
+  cautions: May be theological commentary and should not be indexed as a motif unless
+    a passage narratively enacts prophetic continuity.
+  suggested_aliases:
+  - continuity_of_prophets
+  - undifferentiated_prophetic_line
+  - prophetic_revelatory_continuity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-lineage-and-chosen-succession
+  motif_id: prophetic_lineage_and_chosen_succession
+  label: Prophetic lineage and chosen succession
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Chosen succession through sacred lineage parallels legitimacy and authorized
+    transfer of sacred authority.
+  cautions: If the passage emphasizes teaching transmission rather than authority
+    or succession, sacred_knowledge may be a better mapping.
+  suggested_aliases:
+  - chosen_prophetic_succession
+  - prophetic_lineage
+  - sacred_lineage_succession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-night-apparition-directs-conflict
+  motif_id: prophetic_night_apparition_directs_conflict
+  label: prophetic night apparition directs conflict
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A night apparition giving direction functions as visionary guidance,
+    especially when it affects action in conflict.
+  cautions: Could also relate to divine_intervention or sacred_combat depending on
+    whether the apparition is divine, ancestral, prophetic, or tactical.
+  suggested_aliases:
+  - night_apparition_guidance
+  - vision_directs_battle
+  - prophetic_apparition_in_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-perseverance-amid-scoffing
+  motif_id: prophetic_perseverance_amid_scoffing
+  label: Prophetic perseverance amid scoffing
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Scoffing at a prophet commonly sets up moral testing and eventual reckoning
+    under sacred authority.
+  cautions: If the focus is the prophet's inner endurance rather than the community's
+    judgment, initiation or sacred_law may be secondary.
+  suggested_aliases:
+  - rejected_prophet_perseveres
+  - prophet_scoffed_at
+  - prophetic_patience_under_mockery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-preaching-without-material-recompense
+  motif_id: prophetic_preaching_without_material_recompense
+  label: prophetic preaching without material recompense
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Renouncing payment for sacred proclamation concerns proper exchange between
+    divine message, messenger, and community.
+  cautions: Could be ethical teaching rather than narrative motif; preserve the no-recompense
+    detail as evidence.
+  suggested_aliases:
+  - prophet_refuses_payment
+  - unpaid_prophetic_preaching
+  - preaching_without_reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-renewal-of-neglected-religion
+  motif_id: prophetic_renewal_of_neglected_religion
+  label: prophetic renewal of neglected religion
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prophet renewing neglected religion functions as restoration of a broken
+    or neglected sacred bond.
+  cautions: Could also fit sacred_law or divine_judgment if the passage emphasizes
+    legal reform or punishment for neglect.
+  suggested_aliases:
+  - renewal_of_neglected_religion
+  - prophetic_religious_restoration
+  - restoration_of_sacred_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-severed-head-foretells-violent-retribution
+  motif_id: prophetic_severed_head_foretells_violent_retribution
+  label: prophetic severed head foretells violent retribution
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a severed-head marvel, prophecy, and violent retribution;
+    judgment is a possible function but not certain.
+  cautions: May need a distinct head-oracular/dead-speaker motif if recurring; otherwise
+    preserve as an over-specific episode detail.
+  suggested_aliases:
+  - oracular_severed_head
+  - severed_head_prophecy
+  - dead_head_foretells_retribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Islamic prophetic labels may be theological or doctrinal abstractions rather
+  than narrative motifs; review source passages before canonical indexing.
+- No transmission or common-origin claims are implied by mapping prophetic commissioning,
+  succession, or rejection to broader functional groups.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft automated placement suggestions; human review needed especially for
+    prophetic authority and severed-head prophecy labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0133
+  input_sha256: 04dc54a0d294c7256540adb6fe68727781f2f8fbfc3f932de1287f1e4f7bd8ba

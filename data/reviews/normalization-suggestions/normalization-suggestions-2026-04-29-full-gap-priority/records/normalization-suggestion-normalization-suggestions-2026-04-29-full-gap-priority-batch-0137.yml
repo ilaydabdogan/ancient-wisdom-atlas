@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0137
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.public-crowning-for-civic-merit
+  motif_id: public_crowning_for_civic_merit
+  label: Public crowning for civic merit
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: Public crowning is a legitimacy or honor-conferral act, though here civic
+    merit may be more civic than royal.
+  cautions: Single occurrence; could be a historical civic-custom detail rather than
+    a mythic motif if no sacred or narrative legitimating function is present.
+  suggested_aliases:
+  - public coronation for merit
+  - civic honor crowning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-expert-exposed-by-private-failure
+  motif_id: public_expert_exposed_by_private_failure
+  label: public expert exposed by private failure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: A publicly authoritative figure undone by private failure fits humbling
+    or exposure after overreaching status.
+  cautions: May be a comic or anecdotal plot device rather than sacred hubris; verify
+    whether pride, false expertise, or moral judgment is central.
+  suggested_aliases:
+  - false expert exposed
+  - public authority privately discredited
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-expulsion-of-communal-evils
+  motif_id: public_expulsion_of_communal_evils
+  label: public expulsion of communal evils
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The group already contains ritual expulsion, scapegoat, and communal
+    removal of harmful spirits or misfortune.
+  cautions: If no offering, transfer, scapegoat, or ritual clearance is present, sacred_law/apotropaic
+    protection may be a secondary fit.
+  suggested_aliases:
+  - communal expulsion of evils
+  - ritual expulsion of communal harms
+  - public clearance of misfortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-humiliation-of-a-royal-woman-in-assembly
+  motif_id: public_humiliation_of_a_royal_woman_in_assembly
+  label: public humiliation of a royal woman in assembly
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve royal legitimacy, gendered violation, sacred
+    law, or a narrative trigger for vengeance/conflict.
+  cautions: Culturally sensitive and episode-specific; source evidence is needed before
+    mapping, especially if tied to the Draupadi assembly episode or dharma crisis.
+  suggested_aliases:
+  - royal woman humiliated in assembly
+  - public dishonor of queen or princess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-humiliation-of-deceivers
+  motif_id: public_humiliation_of_deceivers
+  label: Public humiliation of deceivers
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Exposure and humiliation of deceivers functions as moral reckoning and
+    restoration of truth.
+  cautions: In Sufi context it may be a teaching anecdote about discernment or humility;
+    sacred_knowledge or pride_and_downfall may be secondary fits.
+  suggested_aliases:
+  - deceivers publicly exposed
+  - public shaming of frauds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-interreligious-disputation-before-royal-and-popular-witnesses
+  motif_id: public_interreligious_disputation_before_royal_and_popular_witnesses
+  label: public interreligious disputation before royal and popular witnesses
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A public religious disputation centers on contested sacred knowledge
+    and authoritative teaching before witnesses.
+  cautions: May also involve royal_legitimacy if the ruler validates the outcome,
+    or divine_judgment if framed as ordeal or vindication.
+  suggested_aliases:
+  - public religious disputation
+  - interreligious debate before ruler
+  - wisdom contest before witnesses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-preacher-denied-possession
+  motif_id: public_preacher_denied_possession
+  label: Public preacher denied possession
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The wording is ambiguous: it could mean denial of property, authority,
+    spiritual possession, or demonic possession.'
+  cautions: Needs source context; do not map until the sense of 'possession' and the
+    preacher's role are clear.
+  suggested_aliases:
+  - preacher publicly denied possession
+  - public denial of preacher's claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-prophetic-mission-after-secrecy
+  motif_id: public_prophetic_mission_after_secrecy
+  label: public prophetic mission after secrecy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A prophet moving from hidden preparation to public mission fits divine
+    guidance and prophetic calling in human affairs.
+  cautions: Could also map to hero_journey/departure-return or sacred_knowledge if
+    the emphasis is revelation and proclamation rather than intervention.
+  suggested_aliases:
+  - prophetic mission revealed publicly
+  - public proclamation after secrecy
+  - hidden call becomes public mission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-reversal-from-pollution-to-sanctity
+  motif_id: public_reversal_from_pollution_to_sanctity
+  label: Public reversal from pollution to sanctity
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A public transformation from impurity or disgrace into sanctity fits
+    mystical transformation and recognition of hidden holiness.
+  cautions: If the passage emphasizes ritual purity law, sacred_law may be a better
+    fit; if it emphasizes vindication, divine_judgment may be secondary.
+  suggested_aliases:
+  - pollution transformed into sanctity
+  - public recognition of hidden sanctity
+  - impurity reversed into holiness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-reversal-of-a-hated-official
+  motif_id: public_reversal_of_a_hated_official
+  label: public reversal of a hated official
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates social reversal but not whether it is judgment, comic
+    justice, royal politics, or narrative resolution.
+  cautions: Single occurrence and context-dependent; map only if evidence shows moral
+    reckoning, royal legitimacy, or pride/downfall.
+  suggested_aliases:
+  - hated official publicly reversed
+  - public downfall or vindication of official
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are public social-recognition or reversal scenes; source context
+  is needed to distinguish civic custom, moral judgment, royal legitimacy, and narrative
+  episode detail.
+- No transmission or contact claims are implied by these provisional placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; ambiguous public-reversal and culturally
+    sensitive assembly-humiliation labels require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0137
+  input_sha256: 6d27188b032c10fd19ec2a045a5067ad41a1c2312f6c6b834468fcefe9ce224f

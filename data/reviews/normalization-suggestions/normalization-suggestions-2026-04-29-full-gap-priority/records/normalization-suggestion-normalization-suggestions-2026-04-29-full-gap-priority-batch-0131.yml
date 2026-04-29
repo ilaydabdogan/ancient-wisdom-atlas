@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0131
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.pretender-made-ridiculous
+  motif_id: pretender_made_ridiculous
+  label: Pretender made ridiculous
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: A pretender being exposed through ridicule fits humbling of false status
+    or overreaching claim.
+  cautions: Could instead be comic episode, social satire, or royal legitimacy depending
+    on source context.
+  suggested_aliases:
+  - false pretender ridiculed
+  - pretender humiliated
+  - exposure of false status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.primeval-age-followed-by-degeneration
+  motif_id: primeval_age_followed_by_degeneration
+  label: primeval age followed by degeneration
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ages of Decline and Degeneration
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif describes a recurring world-age pattern from primordial excellence
+    to later decline, not simple creation or catastrophe renewal.
+  cautions: Single occurrence; could be handled under sacred_time or cosmic_origin
+    if the passage only marks temporal ordering.
+  suggested_aliases:
+  - decline from golden age
+  - world ages degeneration
+  - primeval age of abundance lost
+  suggested_new_group:
+    id: ages_of_decline
+    label: Ages of Decline and Degeneration
+    description: A sequence in which an original golden or primeval age gives way
+      to morally, materially, or spiritually diminished later ages.
+    parent_group_ids:
+    - sacred_time
+    - cosmic_origin
+    related_group_ids:
+    - divine_judgment
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing groups cover creation, cycles, judgment,
+      and downfall, but not the world-age schema of progressive degeneration from
+      an initial age.
+- suggestion_id: normalization.suggestion.primordial-innocence-followed-by-loss-of-effortless-abundance
+  motif_id: primordial_innocence_followed_by_loss_of_effortless_abundance
+  label: primordial innocence followed by loss of effortless abundance
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ages of Decline and Degeneration
+  relationship: narrower_than
+  confidence: medium
+  rationale: Loss of effortless primordial abundance is a specific golden-age-to-decline
+    pattern.
+  cautions: May overlap with divine judgment, transgression, or etiological origin
+    of labor if the passage gives a causal fall narrative.
+  suggested_aliases:
+  - loss of primordial abundance
+  - lost golden age
+  - primordial innocence lost
+  suggested_new_group:
+    id: ages_of_decline
+    label: Ages of Decline and Degeneration
+    description: A sequence in which an original golden or primeval age gives way
+      to morally, materially, or spiritually diminished later ages, including loss
+      of effortless abundance or innocence.
+    parent_group_ids:
+    - sacred_time
+    - cosmic_origin
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups do not cleanly capture the
+      mythic age-of-innocence and decline pattern without forcing it into creation
+      or judgment.
+- suggestion_id: normalization.suggestion.primordial-transgression-argued-as-predestined
+  motif_id: primordial_transgression_argued_as_predestined
+  label: primordial transgression argued as predestined
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns an original transgression and moral accountability
+    under divine decree.
+  cautions: This may be theological argument about predestination rather than a narrative
+    motif; source evidence is needed before mapping.
+  suggested_aliases:
+  - predestined primordial sin
+  - primordial transgression and decree
+  - fall argued as predestined
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.privileged-hide-as-sleep-place
+  motif_id: privileged_hide_as_sleep_place
+  label: Privileged hide as sleep-place
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A privileged animal hide used as a sleeping place may function as a status
+    object or ritualized object.
+  cautions: Meaning is unclear from label alone; could be a passage-specific material
+    detail, royal privilege, dream incubation, or sleeping taboo.
+  suggested_aliases:
+  - special hide sleeping place
+  - privileged animal hide bed
+  - ritual hide bed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.problem-of-evil-under-one-almighty-agent
+  motif_id: problem_of_evil_under_one_almighty_agent
+  label: Problem of evil under one almighty agent
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The label points to theological reflection on divine agency, evil, and
+    wisdom rather than a concrete narrative motif.
+  cautions: Likely doctrinal or philosophical commentary; do not index as motif unless
+    the passage embodies it narratively or ritually.
+  suggested_aliases:
+  - theodicy under divine unity
+  - evil under one almighty agent
+  - problem of evil and divine agency
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.progressive-dismemberment-of-monstrous-foe
+  motif_id: progressive_dismemberment_of_monstrous_foe
+  label: progressive dismemberment of monstrous foe
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Dismembering a monstrous foe fits sacred combat against dangerous or
+    chaotic beings.
+  cautions: If the foe’s body creates the world, primordial_sacrifice would be relevant;
+    if merely violent episode detail, keep granular.
+  suggested_aliases:
+  - dismemberment of monster foe
+  - monster dismembered in combat
+  - piecemeal defeat of monstrous enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibition-against-following-the-adversary
+  motif_id: prohibition_against_following_the_adversary
+  label: prohibition against following the adversary
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A command not to follow an adversarial figure functions as sacred prohibition
+    and moral boundary-setting.
+  cautions: Could be ethical teaching, covenantal command, or anti-demonic warning
+    depending on source context.
+  suggested_aliases:
+  - do not follow the adversary
+  - prohibition against satanic following
+  - avoidance of adversary's path
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibition-of-figurative-images-in-game-pieces
+  motif_id: prohibition_of_figurative_images_in_game_pieces
+  label: Prohibition of figurative images in game pieces
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a specific instance of religious prohibition governing objects
+    and images.
+  cautions: Likely too object-specific for canonical motif status; preserve as evidence
+    detail under sacred law or ritual prohibition.
+  suggested_aliases:
+  - prohibition of figural game pieces
+  - image prohibition in play objects
+  - aniconic rule for game pieces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibition-of-intoxicants-and-gaming
+  motif_id: prohibition_of_intoxicants_and_gaming
+  label: Prohibition of intoxicants and gaming
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: This is a clear sacred legal or ethical prohibition regulating conduct.
+  cautions: May also support covenant or divine judgment if framed as obedience and
+    consequence.
+  suggested_aliases:
+  - ban on intoxicants and gambling
+  - prohibition of wine and games of chance
+  - intoxicants and gaming forbidden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence abstractions; confirm passage
+  evidence before promoting new groups.
+- The proposed ages_of_decline group is provisional and should be reviewed against
+  other golden-age, fall, and degeneration labels before taxonomy addition.
+- Avoid treating theological or legal commentary as narrative motif unless it functions
+  as a recurring symbolic or ritual pattern.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch-0131.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0131
+  input_sha256: f2a331490eddf724525644c460fbd71f2a0cfd35bcc1fb7b016bc5fcbe87e38f

@@ -1,0 +1,333 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0089
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.intoxication-mediated-reconciliation
+  motif_id: intoxication_mediated_reconciliation
+  label: Intoxication-mediated reconciliation
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Intoxication enabling reconciliation may be ritual exchange, social repair,
+    comic plot device, or passage-specific narrative detail.
+  cautions: Single occurrence; do not map to sacred_exchange unless the passage frames
+    drinking as sacred reciprocity or restored bond.
+  suggested_aliases:
+  - reconciliation_through_intoxication
+  - drinking_as_social_repair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_love
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inviolability-and-release-of-a-herald
+  motif_id: inviolability_and_release_of_a_herald
+  label: inviolability and release of a herald
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The protected status and release of a herald reflects a rule-governed
+    social and diplomatic order.
+  cautions: Could also belong under royal_legitimacy or sacred_combat if the episode
+    is primarily wartime protocol; preserve herald specificity as evidence.
+  suggested_aliases:
+  - herald_inviolability
+  - diplomatic_immunity_of_messenger
+  - release_of_protected_envoy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_combat
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invisible-killer-under-a-magical-concealment
+  motif_id: invisible_killer_under_a_magical_concealment
+  label: Invisible killer under a magical concealment
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Magical concealment that enables lethal action usually depends on a power
+    object or supernatural ability conferring hiddenness.
+  cautions: If the concealment is bodily transformation rather than an object, shapeshifter
+    may be better; if the focus is combat, relate to sacred_combat or divine_warrior.
+  suggested_aliases:
+  - magical_invisibility_in_combat
+  - concealed_supernatural_killer
+  - invisibility_as_lethal_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_combat
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invisible-tutelary-regents-of-natural-domains
+  motif_id: invisible_tutelary_regents_of_natural_domains
+  label: invisible tutelary regents of natural domains
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: The group already includes tutelary spirits and protective supernatural
+    agency; natural-domain regents are a role variant.
+  cautions: If source emphasizes place-spirit ecology or local cult rather than intervention,
+    a future nature-spirit group may be warranted.
+  suggested_aliases:
+  - tutelary_spirits_of_natural_domains
+  - invisible_nature_regents
+  - guardian_spirits_of_nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invocation-of-a-martial-deity-as-protector
+  motif_id: invocation_of_a_martial_deity_as_protector
+  label: Invocation of a martial deity as protector
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: high
+  rationale: A martial deity invoked for protection belongs to sacred combat and divine-warrior
+    protective power.
+  cautions: If the passage centers on prayer mechanics rather than combat protection,
+    divine_intervention or sacred_exchange may be useful secondary mappings.
+  suggested_aliases:
+  - martial_deity_as_protector
+  - war_god_invoked_for_protection
+  - protective_invocation_of_war_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_combat
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invocation-of-cosmic-and-chthonic-powers-for-magical-operation
+  motif_id: invocation_of_cosmic_and_chthonic_powers_for_magical_operation
+  label: invocation of cosmic and chthonic powers for magical operation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual invocation, cosmic/chthonic powers, and magic
+    without indicating the operation's function.
+  cautions: Potentially culturally and ritually specific; map only after checking
+    whether the operation is protection, curse, healing, divination, descent, or sacred
+    exchange.
+  suggested_aliases:
+  - magical_invocation_of_cosmic_powers
+  - chthonic_invocation_for_magic
+  - cosmic_chthonic_ritual_operation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    - descent
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invulnerability-boon-with-fatal-human-exception
+  motif_id: invulnerability_boon_with_fatal_human_exception
+  label: invulnerability boon with fatal human exception
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Conditional Invulnerability and Fatal Loophole
+  relationship: narrower_than
+  confidence: medium
+  rationale: A boon granting near-invulnerability except for a fatal loophole is a
+    recurring mythic vulnerability pattern not covered cleanly by external_soul.
+  cautions: Keep distinct from external_soul, where life is stored outside the body;
+    here the key pattern is conditional protection with an overlooked exception.
+  suggested_aliases:
+  - fatal_exception_to_invulnerability
+  - conditional_invulnerability_boon
+  - invulnerability_with_human_loophole
+  suggested_new_group:
+    id: conditional_invulnerability
+    label: Conditional Invulnerability and Fatal Loophole
+    description: A figure receives protection, invulnerability, or deathlessness under
+      specified conditions, but an exception, loophole, overlooked category, or ambiguous
+      wording permits defeat or death.
+    parent_group_ids:
+    - sacred_treasures
+    - divine_intervention
+    related_group_ids:
+    - external_soul
+    - death_by_fate
+    - divine_judgment
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing external_soul covers separable life
+      objects, while this motif concerns conditional boons and loopholes rather than
+      life stored outside the body.
+- suggestion_id: normalization.suggestion.invulnerability-boon-with-overlooked-human-vulnerability
+  motif_id: invulnerability_boon_with_overlooked_human_vulnerability
+  label: Invulnerability boon with overlooked human vulnerability
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Conditional Invulnerability and Fatal Loophole
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is the same conditional-invulnerability loophole pattern, focused
+    on an overlooked human vulnerability.
+  cautions: Likely merge with the fatal-human-exception label during review; do not
+    treat as external_soul unless an external life-token is present.
+  suggested_aliases:
+  - overlooked_vulnerability_in_invulnerability_boon
+  - human_loophole_in_invulnerability
+  - fatal_loophole_boon
+  suggested_new_group:
+    id: conditional_invulnerability
+    label: Conditional Invulnerability and Fatal Loophole
+    description: A figure receives protection, invulnerability, or deathlessness under
+      specified conditions, but an exception, loophole, overlooked category, or ambiguous
+      wording permits defeat or death.
+    parent_group_ids:
+    - sacred_treasures
+    - divine_intervention
+    related_group_ids:
+    - external_soul
+    - death_by_fate
+    - divine_judgment
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover externalized life,
+      fate, or sacred combat, but not the legalistic boon/loophole structure of conditional
+      invulnerability.
+- suggestion_id: normalization.suggestion.invulnerability-dependent-on-a-hidden-or-external-life-object
+  motif_id: invulnerability_dependent_on_a_hidden_or_external_life_object
+  label: Invulnerability dependent on a hidden or external life-object
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: alias
+  confidence: high
+  rationale: 'The label directly matches the existing external_soul group: invulnerability
+    depends on a hidden external life object.'
+  cautions: Because tradition is comparative, verify it is not merely a scholarly
+    type-label; otherwise preserve as normalization alias rather than source motif.
+  suggested_aliases:
+  - external_life_object_invulnerability
+  - hidden_life_object
+  - invulnerability_through_externalized_soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ironic-reversal-of-dancing-fish
+  motif_id: ironic_reversal_of_dancing_fish
+  label: ironic reversal of dancing fish
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label sounds like an episode-specific ironic interpretation rather
+    than a reusable symbolic motif.
+  cautions: If the passage actually describes animated fish as omen, wonder, or animal
+    reversal, review under dream_and_vision or trickster instead of excluding.
+  suggested_aliases:
+  - dancing_fish_reversal
+  - ironic_animal_reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and should remain provisional until source passages
+  confirm narrative function.
+- The two Hindu invulnerability-boon labels appear mergeable under one proposed conditional_invulnerability
+  group, distinct from external_soul.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: JSON-only provisional normalization suggestions generated for batch-0089.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0089
+  input_sha256: 798b3804bb0f77a37c6a5dcc8789cac3a363662547479c3dbf689b40a1b0cfd8

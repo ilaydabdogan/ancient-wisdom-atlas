@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0083
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ill-will-rebounding-on-its-instigator
+  motif_id: ill_will_rebounding_on_its_instigator
+  label: ill-will rebounding on its instigator
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Harmful intent returning upon the wrongdoer fits moral consequence and
+    reckoning.
+  cautions: May be a general narrative irony or proverb rather than explicitly divine
+    judgment; verify sacred or moral-cosmic framing.
+  suggested_aliases:
+  - harm rebounds on instigator
+  - moral consequence of malicious intent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illness-or-refusal-caused-by-separation-from-companion
+  motif_id: illness_or_refusal_caused_by_separation_from_companion
+  label: illness or refusal caused by separation from companion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate grief, attachment, loyalty, discipline failure,
+    or narrative illness depending on context.
+  cautions: Do not map to sacred_love or lament without evidence that companion-separation
+    is the symbolic focus rather than a local plot detail.
+  suggested_aliases:
+  - separation from companion causes illness
+  - refusal after companion loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illness-transferred-through-bodily-tokens
+  motif_id: illness_transferred_through_bodily_tokens
+  label: illness transferred through bodily tokens
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Transfer of illness through bodily tokens fits ritual contagion, protection,
+    and purity-law patterns already folded under sacred_law.
+  cautions: If the token acts as a life-object or separable soul container, external_soul
+    may be a secondary relation; if used as offering/substitution, sacrifice may apply.
+  suggested_aliases:
+  - illness transfer by bodily token
+  - bodily token contagion
+  - ritual transfer of illness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.image-and-original-as-graded-reality
+  motif_id: image_and_original_as_graded_reality
+  label: image and original as graded reality
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads like a philosophical ontology theme rather than a clear narrative
+    motif.
+  cautions: May belong under sacred_knowledge if the passage concerns transformative
+    insight, but may also be commentary or doctrine-specific abstraction.
+  suggested_aliases:
+  - image and original hierarchy
+  - graded reality of copy and original
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imitated-voice-lures-protector-away
+  motif_id: imitated_voice_lures_protector_away
+  label: Imitated voice lures protector away
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Deceptive voice imitation used to lure a guardian/protector away fits
+    trickery and boundary violation.
+  cautions: If the emphasis is on guardian failure at a threshold or abduction setup,
+    threshold_guardian or perilous lure may be secondary; label is episode-specific.
+  suggested_aliases:
+  - deceptive voice lure
+  - voice imitation deception
+  - false voice lures guardian away
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imitation-shaping-identity
+  motif_id: imitation_shaping_identity
+  label: imitation shaping identity
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is abstract and could indicate philosophical mimesis, ethical
+    formation, disguise, or transformation.
+  cautions: Needs passage evidence before mapping to sacred_knowledge, shapeshifter,
+    initiation, or excluding as commentary.
+  suggested_aliases:
+  - mimesis shaping identity
+  - identity formed by imitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imitative-sympathetic-magic
+  motif_id: imitative_sympathetic_magic
+  label: imitative sympathetic magic
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sympathetic Magic and Ritual Correspondence
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Imitative magic is a recurrent ritual logic not cleanly held by sacrifice,
+    sacred_law, or sacred_exchange.
+  cautions: Because this is a comparative analytic category, verify it is supported
+    by source practices rather than imposed commentary.
+  suggested_aliases:
+  - sympathetic magic
+  - imitative magic
+  - ritual correspondence
+  suggested_new_group:
+    id: sympathetic_magic
+    label: Sympathetic Magic and Ritual Correspondence
+    description: Ritual action works through resemblance, contact, tokens, images,
+      or correspondences between an acted model and the intended target or outcome.
+    parent_group_ids:
+    - sacred_law
+    - sacred_exchange
+    related_group_ids:
+    - sacred_treasures
+    - external_soul
+    - sacrifice
+    reason_existing_groups_insufficient: Existing groups cover law, exchange, sacrifice,
+      and power objects, but not the distinctive ritual logic of resemblance or contact
+      acting at a distance.
+- suggestion_id: normalization.suggestion.immodesty-causing-loss
+  motif_id: immodesty_causing_loss
+  label: immodesty causing loss
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A moral failing causing loss may fit consequence and ethical reckoning.
+  cautions: Could be a culturally specific ethical teaching, gendered modesty norm,
+    or narrative moralization; review sensitively before indexing broadly.
+  suggested_aliases:
+  - loss caused by immodesty
+  - moral loss through immodesty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immortal-refusal-to-fight-for-transient-mortals
+  motif_id: immortal_refusal_to_fight_for_transient_mortals
+  label: immortal refusal to fight for transient mortals
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif concerns an immortal's role and refusal within sacred or heroic
+    combat.
+  cautions: May be more about divine-human distance or mortality contrast than combat
+    itself; consider divine_intervention if refusal is framed as withheld aid.
+  suggested_aliases:
+  - immortal refuses mortal combat
+  - divine refusal to fight for mortals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immovable-deity-as-civic-omen
+  motif_id: immovable_deity_as_civic_omen
+  label: immovable deity as civic omen
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity's immovability functioning as an omen is direct divine signaling
+    in civic affairs.
+  cautions: If tied to a statue or cult image, sacred_treasures or theophany may be
+    secondary; verify this is not just antiquarian civic lore.
+  suggested_aliases:
+  - deity immovability omen
+  - civic omen from immovable god
+  - divine statue refuses movement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional; several labels are single-occurrence and abstract,
+  so source context should decide whether they are motifs or commentary artifacts.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes multiple low-confidence abstract ethical/philosophical labels
+    and one proposed new sympathetic_magic group candidate.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0083
+  input_sha256: 3f350e6946784a69cbc7c84bd3eff92fb6891d913de7e727ec3cc15f2272de9e

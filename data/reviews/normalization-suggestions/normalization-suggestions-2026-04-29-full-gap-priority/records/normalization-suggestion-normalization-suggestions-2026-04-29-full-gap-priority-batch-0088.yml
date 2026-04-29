@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0088
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.insulted-helper-withholds-power
+  motif_id: insulted_helper_withholds_power
+  label: Insulted helper withholds power
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve sacred exchange, divine intervention, or a narrative helper
+    role, but the label lacks enough context.
+  cautions: Single occurrence; may be a plot detail rather than a durable motif. Review
+    whether the helper is divine, magical, social, or allegorical.
+  suggested_aliases:
+  - offended_helper_withdraws_aid
+  - helper_withholds_power_after_insult
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intercession-for-the-righteous
+  motif_id: intercession_for_the_righteous
+  label: intercession for the righteous
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Intercession functions as mediated sacred aid or advocacy within divine-human
+    affairs.
+  cautions: If the passage emphasizes judgment of deeds, divine_judgment should be
+    a secondary consideration; if it is legal advocacy only, sacred_law may be more
+    relevant.
+  suggested_aliases:
+  - intercession_for_the_just
+  - mediated_aid_for_the_righteous
+  - sacred_intercession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.interdependence-of-unequal-functions
+  motif_id: interdependence_of_unequal_functions
+  label: Interdependence of unequal functions
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label suggests complementary unequal roles, fitting duality as structural
+    balance or opposition.
+  cautions: May be a philosophical or social analysis rather than a narrative motif;
+    source evidence should decide whether to index it or exclude it.
+  suggested_aliases:
+  - complementarity_of_unequal_roles
+  - unequal_functions_in_balance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intermediate-realm-between-extremes
+  motif_id: intermediate_realm_between_extremes
+  label: Intermediate realm between extremes
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: low
+  rationale: An intermediate realm may be a nonordinary zone between opposed states,
+    closest to the otherworld/boundary complex.
+  cautions: Could be cosmological, philosophical, geographic, or textual commentary.
+    Do not map to underworld or ascent unless passage evidence shows journey or vertical
+    cosmology.
+  suggested_aliases:
+  - liminal_intermediate_realm
+  - middle_realm_between_extremes
+  - in_between_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.internal-threat-against-an-overmighty-allied-troop
+  motif_id: internal_threat_against_an_overmighty_allied_troop
+  label: internal threat against an overmighty allied troop
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns military alliance instability within a combat narrative,
+    fitting sacred combat more than general judgment.
+  cautions: Highly contextual and may be episode-specific; preserve as evidence detail
+    unless recurring across heroic-war cycles.
+  suggested_aliases:
+  - threat_from_overpowerful_ally
+  - internal_danger_from_allied_warband
+  - allied_troop_becomes_internal_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intertextual-adaptation-of-earlier-epic-formulae
+  motif_id: intertextual_adaptation_of_earlier_epic_formulae
+  label: intertextual adaptation of earlier epic formulae
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes textual reuse and formulaic adaptation, not a symbolic
+    or narrative motif.
+  cautions: Preserve as literary or transmission metadata if useful, but exclude from
+    motif pattern queries.
+  suggested_aliases:
+  - epic_formula_adaptation
+  - intertextual_reuse_of_epic_formulae
+  - adapted_earlier_epic_formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intervening-outsider-urges-an-end-to-quarrel
+  motif_id: intervening_outsider_urges_an_end_to_quarrel
+  label: Intervening outsider urges an end to quarrel
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: A third-party appeal to end conflict serves social-order repair and ethical
+    mediation.
+  cautions: May be a generic plot action rather than sacred law. If the outsider has
+    divine authority, divine_intervention may fit better; if battlefield-focused,
+    sacred_combat may be secondary.
+  suggested_aliases:
+  - outsider_mediation_ends_quarrel
+  - third_party_peacemaking
+  - intervention_to_stop_quarrel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intimate-plea-succeeds-after-public-embassy-fails
+  motif_id: intimate_plea_succeeds_after_public_embassy_fails
+  label: intimate plea succeeds after public embassy fails
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a specific persuasion sequence and could belong to social
+    mediation, sacred love, or heroic narrative depending on context.
+  cautions: Likely too episode-specific for broad indexing unless this persuasion
+    pattern recurs; review whether it is merely a plot detail.
+  suggested_aliases:
+  - private_plea_succeeds_after_public_embassy_fails
+  - intimate_supplication_overcomes_failed_embassy
+  - personal_appeal_succeeds_after_formal_mission_fails
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intoxicant-as-precious-but-reputation-damaging-force
+  motif_id: intoxicant_as_precious_but_reputation_damaging_force
+  label: intoxicant as precious but reputation-damaging force
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi material, intoxicant imagery often symbolizes ecstatic longing
+    or spiritual risk on the mystical path.
+  cautions: Verify whether the intoxicant is literal, metaphorical, or moralizing.
+    If primarily about love-longing, sacred_love may be a secondary group.
+  suggested_aliases:
+  - wine_as_precious_and_reputation_damaging
+  - spiritual_intoxication_with_social_cost
+  - intoxicant_as_ecstatic_risk
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intoxication-by-freedom-leading-to-tyranny
+  motif_id: intoxication_by_freedom_leading_to_tyranny
+  label: intoxication by freedom leading to tyranny
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Excess freedom becoming tyrannical overreach fits the hubris-to-downfall
+    pattern.
+  cautions: May be political philosophy rather than mythic narrative; if framed as
+    constitutional order, royal_legitimacy or sacred_law may also be relevant.
+  suggested_aliases:
+  - excess_freedom_leads_to_tyranny
+  - liberty_intoxication_becomes_tyranny
+  - freedom_as_overreach
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are abstract ethical, political, or rhetorical labels
+  from single occurrences; human review should verify whether they are passage motifs
+  or commentary artifacts.
+- No transmission or borrowing claim is implied by any suggested placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0088
+  input_sha256: 38ed2f8362a06256780a4cdbfa9a577621bee4e13714502b2f7b64d79c847f16

@@ -1,0 +1,372 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0141
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.recognition-by-scent-on-food-or-object
+  motif_id: recognition_by_scent_on_food_or_object
+  label: Recognition by scent on food or object
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Recognition Tokens and Hidden Identity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Recognition by a sensory trace on an object is an identity-disclosure
+    device not well covered by sacred_treasures unless the object is itself sacred
+    or powerful.
+  cautions: Single occurrence; may be a narrative episode detail rather than a durable
+    mythic motif. Confirm whether the food/object has sacred power or only evidentiary
+    function.
+  suggested_aliases:
+  - recognition by scent
+  - recognition by object trace
+  - sensory recognition token
+  suggested_new_group:
+    id: recognition_tokens_hidden_identity
+    label: Recognition Tokens and Hidden Identity
+    description: Recognition, disclosure, or proof of identity through tokens, bodily
+      marks, voice, scent, messengers, or other signs, especially after disguise,
+      separation, denial, or hidden status.
+    parent_group_ids:
+    - hero_journey
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - sacred_love
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups cover sacred power objects,
+      disguise, and journeys, but not the recurring narrative function of signs proving
+      identity or a denied encounter.
+- suggestion_id: normalization.suggestion.recognition-followed-by-reversal-of-life
+  motif_id: recognition_followed_by_reversal_of_life
+  label: recognition followed by reversal of life
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase could refer to spiritual awakening, moral reversal, death-rebirth,
+    or plot reversal after recognition.
+  cautions: Needs passage evidence before mapping to mystical_quest, death_and_transformation,
+    or recognition_tokens_hidden_identity. The wording is abstract and may be generated
+    commentary.
+  suggested_aliases:
+  - recognition causing life reversal
+  - recognition and transformed life
+  - recognition as awakening
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-herald-by-visible-tokens
+  motif_id: recognition_of_herald_by_visible_tokens
+  label: recognition of herald by visible tokens
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Recognition Tokens and Hidden Identity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Visible tokens authenticate a herald's identity or authority, fitting
+    a recognition-token pattern better than sacred power objects.
+  cautions: If the token confers royal or sacred authority, secondary mapping to royal_legitimacy
+    or sacred_treasures may be warranted.
+  suggested_aliases:
+  - herald recognized by tokens
+  - visible recognition tokens
+  - identity proof by token
+  suggested_new_group:
+    id: recognition_tokens_hidden_identity
+    label: Recognition Tokens and Hidden Identity
+    description: Recognition, disclosure, or proof of identity through tokens, bodily
+      marks, voice, scent, messengers, or other signs, especially after disguise,
+      separation, denial, or hidden status.
+    parent_group_ids:
+    - hero_journey
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - sacred_love
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups cover sacred power objects,
+      disguise, and journeys, but not the recurring narrative function of signs proving
+      identity or a denied encounter.
+- suggestion_id: normalization.suggestion.recognition-of-hidden-divinity
+  motif_id: recognition_of_hidden_divinity
+  label: recognition of hidden divinity
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: high
+  rationale: Recognition of a disguised or concealed god is a disclosure of divine
+    presence to a witness.
+  cautions: If the emphasis is hospitality testing or deception rather than manifestation,
+    divine_intervention or trickster may be relevant secondary contexts.
+  suggested_aliases:
+  - hidden god recognized
+  - divinity revealed under disguise
+  - recognition of disguised deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-through-a-talisman-or-token
+  motif_id: recognition_through_a_talisman_or_token
+  label: recognition through a talisman or token
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Recognition Tokens and Hidden Identity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The talisman or token functions as proof of identity or relationship;
+    this is distinct from a sacred treasure unless the talisman has independent power.
+  cautions: If the talisman is magical or protective, also consider sacred_treasures.
+    If it proves kinship or marriage, sacred_love or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - recognition token
+  - talisman as identity proof
+  - identity token
+  suggested_new_group:
+    id: recognition_tokens_hidden_identity
+    label: Recognition Tokens and Hidden Identity
+    description: Recognition, disclosure, or proof of identity through tokens, bodily
+      marks, voice, scent, messengers, or other signs, especially after disguise,
+      separation, denial, or hidden status.
+    parent_group_ids:
+    - hero_journey
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - sacred_love
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups cover sacred power objects,
+      disguise, and journeys, but not the recurring narrative function of signs proving
+      identity or a denied encounter.
+- suggestion_id: normalization.suggestion.recognition-through-hidden-identity-and-voice
+  motif_id: recognition_through_hidden_identity_and_voice
+  label: Recognition through hidden identity and voice
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Recognition Tokens and Hidden Identity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Voice recognition after concealment is a clear identity-disclosure pattern
+    not captured by current sacred-object or shapeshifter groups.
+  cautions: If the hidden identity is divine, map instead or additionally to theophany.
+    If concealment involves bodily transformation, shapeshifter may be secondary.
+  suggested_aliases:
+  - voice recognition
+  - hidden identity revealed by voice
+  - recognition through voice
+  suggested_new_group:
+    id: recognition_tokens_hidden_identity
+    label: Recognition Tokens and Hidden Identity
+    description: Recognition, disclosure, or proof of identity through tokens, bodily
+      marks, voice, scent, messengers, or other signs, especially after disguise,
+      separation, denial, or hidden status.
+    parent_group_ids:
+    - hero_journey
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - sacred_love
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups cover sacred power objects,
+      disguise, and journeys, but not the recurring narrative function of signs proving
+      identity or a denied encounter.
+- suggestion_id: normalization.suggestion.recognition-token-as-bodily-scar
+  motif_id: recognition_token_as_bodily_scar
+  label: recognition token as bodily scar
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Recognition Tokens and Hidden Identity
+  relationship: functional_variant
+  confidence: high
+  rationale: A bodily scar used as identity proof is a classic recognition-token function
+    and not primarily a sacred object motif.
+  cautions: If the scar marks initiation, wounding, or divine election, initiation
+    or miraculous_child may be relevant secondary mappings.
+  suggested_aliases:
+  - scar recognition
+  - bodily mark as identity proof
+  - recognition by scar
+  suggested_new_group:
+    id: recognition_tokens_hidden_identity
+    label: Recognition Tokens and Hidden Identity
+    description: Recognition, disclosure, or proof of identity through tokens, bodily
+      marks, voice, scent, messengers, or other signs, especially after disguise,
+      separation, denial, or hidden status.
+    parent_group_ids:
+    - hero_journey
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - sacred_love
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups cover sacred power objects,
+      disguise, and journeys, but not the recurring narrative function of signs proving
+      identity or a denied encounter.
+- suggestion_id: normalization.suggestion.recognition-token-proving-an-otherwise-denied-encounter
+  motif_id: recognition_token_proving_an_otherwise_denied_encounter
+  label: recognition token proving an otherwise denied encounter
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Recognition Tokens and Hidden Identity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A token provides proof of a contested or denied meeting, matching the
+    evidentiary recognition-token complex.
+  cautions: May be over-specific; preserve denial/encounter details as evidence unless
+    this pattern recurs. If the encounter is with a supernatural figure, theophany
+    or otherworld may also apply.
+  suggested_aliases:
+  - token proves encounter
+  - proof token
+  - recognition token after denied meeting
+  suggested_new_group:
+    id: recognition_tokens_hidden_identity
+    label: Recognition Tokens and Hidden Identity
+    description: Recognition, disclosure, or proof of identity through tokens, bodily
+      marks, voice, scent, messengers, or other signs, especially after disguise,
+      separation, denial, or hidden status.
+    parent_group_ids:
+    - hero_journey
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - sacred_love
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups cover sacred power objects,
+      disguise, and journeys, but not the recurring narrative function of signs proving
+      identity or a denied encounter.
+- suggestion_id: normalization.suggestion.recognition-token-sent-by-envoy
+  motif_id: recognition_token_sent_by_envoy
+  label: recognition token sent by envoy
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Recognition Tokens and Hidden Identity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A token delivered by an envoy authenticates identity, intention, or relationship,
+    fitting a recognition-token pattern.
+  cautions: If the envoy role is central to divine mission or royal diplomacy, divine_intervention
+    or royal_legitimacy may be secondary; token details may be episode-specific.
+  suggested_aliases:
+  - envoy-borne recognition token
+  - messenger recognition token
+  - token sent by envoy
+  suggested_new_group:
+    id: recognition_tokens_hidden_identity
+    label: Recognition Tokens and Hidden Identity
+    description: Recognition, disclosure, or proof of identity through tokens, bodily
+      marks, voice, scent, messengers, or other signs, especially after disguise,
+      separation, denial, or hidden status.
+    parent_group_ids:
+    - hero_journey
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - sacred_love
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups cover sacred power objects,
+      disguise, and journeys, but not the recurring narrative function of signs proving
+      identity or a denied encounter.
+- suggestion_id: normalization.suggestion.recognition-token-sent-through-a-messenger
+  motif_id: recognition_token_sent_through_a_messenger
+  label: recognition token sent through a messenger
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Recognition Tokens and Hidden Identity
+  relationship: alias
+  confidence: high
+  rationale: 'This appears to be an alias of recognition_token_sent_by_envoy: a messenger
+    carries a token that authenticates identity or relationship.'
+  cautions: Likely merge with the envoy wording if passage evidence does not distinguish
+    envoy status from ordinary messenger function.
+  suggested_aliases:
+  - recognition token sent by envoy
+  - messenger-borne recognition token
+  - token sent through messenger
+  suggested_new_group:
+    id: recognition_tokens_hidden_identity
+    label: Recognition Tokens and Hidden Identity
+    description: Recognition, disclosure, or proof of identity through tokens, bodily
+      marks, voice, scent, messengers, or other signs, especially after disguise,
+      separation, denial, or hidden status.
+    parent_group_ids:
+    - hero_journey
+    - sacred_treasures
+    related_group_ids:
+    - shapeshifter
+    - sacred_love
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups cover sacred power objects,
+      disguise, and journeys, but not the recurring narrative function of signs proving
+      identity or a denied encounter.
+batch_notes:
+- Most items in this batch form a coherent recognition-token/hidden-identity cluster.
+  Current groups cover sacred objects and disguise only indirectly, so a provisional
+  new normalization group may be useful if similar labels recur.
+- Do not treat recognition-token placement as evidence of historical transmission;
+  it is only a narrative-function grouping.
+- Review whether individual tokens are merely evidentiary devices or also sacred/power
+  objects before adding secondary mappings.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_normalizer
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review should decide whether to add a
+    recognition-token group or keep these as over-specific narrative details.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0141
+  input_sha256: da797ec3ca348f022115d4e999008c8c51b28249b11200ecb9ab6e1fc5cb5195

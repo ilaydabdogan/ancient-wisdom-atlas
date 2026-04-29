@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0096
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.limited-mission-with-forbidden-overreach
+  motif_id: limited_mission_with_forbidden_overreach
+  label: limited mission with forbidden overreach
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bounded task violated by overreaching fits the hubris/downfall complex
+    when the overreach triggers consequence.
+  cautions: Needs source context; if the focus is taboo instruction or sacred law
+    rather than pride, covenant/divine_judgment may be better.
+  suggested_aliases:
+  - forbidden overreach
+  - limited mission violated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.literalized-proof-from-absence
+  motif_id: literalized_proof_from_absence
+  label: literalized proof from absence
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase sounds like an interpretive or argumentative observation rather
+    than a narrative-symbolic motif.
+  cautions: If a passage actually makes absence into an evidentiary sign within the
+    story, review under sacred_knowledge or dream_and_vision.
+  suggested_aliases:
+  - proof from absence
+  - absence as proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.little-woodland-imps-in-comic-movement
+  motif_id: little_woodland_imps_in_comic_movement
+  label: little woodland imps in comic movement
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: low
+  rationale: Woodland imps suggest small enchanted or nonhuman beings associated with
+    an otherworldly woodland realm.
+  cautions: The comic movement detail may be episode-specific or descriptive; if no
+    otherworld function is present, exclude as over-specific scene detail.
+  suggested_aliases:
+  - woodland imps
+  - comic woodland spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-body-substance-required-as-a-functional-implement
+  motif_id: living_body_substance_required_as_a_functional_implement
+  label: living-body substance required as a functional implement
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve magical materials, bodily sacrifice, external
+    soul logic, or a passage-specific implement requirement.
+  cautions: Requires source evidence about what substance is used, whether it harms
+    the donor, and whether the function is ritual, magical, or narrative puzzle.
+  suggested_aliases:
+  - living body substance as tool
+  - body substance implement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-oral-tradition-preserving-archaic-religion
+  motif_id: living_oral_tradition_preserving_archaic_religion
+  label: living oral tradition preserving archaic religion
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a claim about transmission and preservation, not a motif within
+    a mythic narrative.
+  cautions: Do not use taxonomy placement as evidence for continuity or historical
+    transmission; preserve only as provenance/commentary if needed.
+  suggested_aliases:
+  - oral tradition preserving archaic religion
+  - archaic religion preserved in oral tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-wearer-substituted-after-failed-decoy
+  motif_id: living_wearer_substituted_after_failed_decoy
+  label: Living wearer substituted after failed decoy
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording implies substitution, deception, or sacrifice but the narrative
+    function is unclear from the label alone.
+  cautions: Could fit sacrifice, trickster/deception, sacred_treasures if an object
+    is worn, or be an over-specific episode detail.
+  suggested_aliases:
+  - failed decoy substitution
+  - living substitute after decoy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.local-relic-authentication-legend
+  motif_id: local_relic_authentication_legend
+  label: Local relic-authentication legend
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: A relic-authentication legend may concern sacred objects, local sanctity,
+    or institutional legitimation, but the function is not specified.
+  cautions: Culturally sensitive Buddhist relic context; verify whether it is a narrative
+    motif, cultic provenance claim, or local historical commentary.
+  suggested_aliases:
+  - relic authentication legend
+  - authenticated sacred relic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lone-messenger-after-a-rout
+  motif_id: lone_messenger_after_a_rout
+  label: Lone messenger after a rout
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: low
+  rationale: The label belongs to a battle aftermath sequence and can be parked under
+    sacred combat if the rout is ritually or mythically significant.
+  cautions: May be a plot detail rather than a motif; if the messenger carries prophecy
+    or revelation, dream_and_vision or sacred_knowledge may be relevant.
+  suggested_aliases:
+  - battle-survivor messenger
+  - messenger after defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.long-hospitality-after-fulfillment-or-recognition
+  motif_id: long_hospitality_after_fulfillment_or_recognition
+  label: long hospitality after fulfillment or recognition
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Extended hospitality after recognition or task fulfillment fits reciprocal
+    obligation and relationship repair/reward.
+  cautions: If the passage emphasizes homecoming, courtly welcome, or otherworld time
+    distortion, hero_journey or otherworld may be better secondary mappings.
+  suggested_aliases:
+  - extended hospitality after recognition
+  - hospitality after fulfillment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.long-life-without-youth-becomes-a-burden
+  motif_id: long_life_without_youth_becomes_a_burden
+  label: long life without youth becomes a burden
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: immortality_without_renewal
+  suggested_group_label: Immortality Without Renewal
+  relationship: alias
+  confidence: high
+  rationale: This is a close synonym of the existing group for extended life or deathlessness
+    without renewal becoming burdensome.
+  cautions: If the figure is technically mortal but unusually long-lived, preserve
+    the long-life wording rather than forcing literal immortality.
+  suggested_aliases:
+  - immortality without eternal youth
+  - burdensome long life
+  - deathlessness without youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and context-dependent; suggested
+  placements are provisional parking decisions, not taxonomy edits.
+- Transmission or preservation claims should remain excluded from motif queries unless
+  source passages contain an actual narrative motif.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Human review recommended for ambiguous substitution, relic-authentication,
+    and living-body-substance labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0096
+  input_sha256: fe09b16d6b8684a9d597cfba4423b393cc89f115beb85c95556b2866f5286a36

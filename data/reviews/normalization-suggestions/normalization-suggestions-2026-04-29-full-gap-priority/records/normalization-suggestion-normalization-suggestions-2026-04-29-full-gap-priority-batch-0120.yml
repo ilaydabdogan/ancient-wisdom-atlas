@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0120
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.origin-of-humankind
+  motif_id: origin_of_humankind
+  label: origin of humankind
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: child
+  confidence: medium
+  rationale: The label concerns anthropogony, a creation-origin topic adjacent to
+    cosmic and primordial origins.
+  cautions: May need a more specific future subgroup for human creation if many anthropogony
+    labels recur; verify the passage is mythic origin rather than philosophical anthropology.
+  suggested_aliases:
+  - human origins
+  - anthropogony
+  - creation of humankind
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-society-from-human-need
+  motif_id: origin_of_society_from_human_need
+  label: origin of society from human need
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: low
+  rationale: The label concerns the founding or emergence of social order, which fits
+    the culture/founder complex more than cosmic creation.
+  cautions: Could be philosophical or etiological social theory rather than a narrative
+    motif; if no founder, divine giver, or mythic episode is present, consider excluding
+    or reviewing as commentary.
+  suggested_aliases:
+  - origin of social order
+  - society founded from need
+  - etiology of society
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.orphan-protected-by-kin-before-future-mission
+  motif_id: orphan_protected_by_kin_before_future_mission
+  label: orphan protected by kin before future mission
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: high
+  rationale: A vulnerable child preserved by kin before a destined mission matches
+    protected or threatened infancy with future sacred significance.
+  cautions: Preserve orphanhood and kin protection as local detail; avoid assuming
+    miraculous birth if the passage only marks providential protection.
+  suggested_aliases:
+  - protected orphan
+  - destined orphan child
+  - child protected before mission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outnumbered-defenders-facing-successive-foreign-champions
+  motif_id: outnumbered_defenders_facing_successive_foreign_champions
+  label: outnumbered defenders facing successive foreign champions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif describes structured heroic combat in a martial crisis, fitting
+    the sacred combat and ritual warfare group.
+  cautions: Highly episode-specific; may be better preserved as evidence under heroic
+    combat unless repeated across sources.
+  suggested_aliases:
+  - successive champion combats
+  - outnumbered defenders
+  - foreign champions challenge defenders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outsider-expelled-from-feast-space
+  motif_id: outsider_expelled_from_feast_space
+  label: outsider expelled from feast-space
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve hospitality violation, boundary exclusion, social
+    status, ritual purity, or plot-specific expulsion.
+  cautions: No current group cleanly covers feast hospitality or social exclusion;
+    source context is needed before mapping to sacred_law, sacred_exchange, threshold,
+    or exclusion as episode detail.
+  suggested_aliases:
+  - expulsion from feast
+  - excluded outsider at feast
+  - feast-space boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outsider-profits-from-rivals-exhausting-conflict
+  motif_id: outsider_profits_from_rivals_exhausting_conflict
+  label: Outsider profits from rivals' exhausting conflict
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a tactical plot outcome rather than a stable symbolic or
+    ritual motif in the current taxonomy.
+  cautions: If repeated as a fable or trickster pattern, reconsider under trickster;
+    otherwise preserve only as passage evidence.
+  suggested_aliases:
+  - third party profits from conflict
+  - outsider benefits from exhausted rivals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overeating-leads-to-entrapment
+  motif_id: overeating_leads_to_entrapment
+  label: overeating leads to entrapment
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: low
+  rationale: Excess leading to capture or downfall can fit the broader moral pattern
+    of overreach and consequence.
+  cautions: Could be animal fable, comic trickster episode, appetite taboo, or plot
+    device; review before final broad indexing.
+  suggested_aliases:
+  - gluttony causes entrapment
+  - appetite leads to capture
+  - excess punished by entrapment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overheard-complaint-answered-by-summons-and-hospitality
+  motif_id: overheard_complaint_answered_by_summons_and_hospitality
+  label: Overheard complaint answered by summons and hospitality
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: The response to complaint through summons and hospitality suggests social
+    reciprocity and obligation.
+  cautions: May be an episode-specific narrative action rather than a sacred exchange
+    motif; no divine or ritual dimension is evident from the label alone.
+  suggested_aliases:
+  - complaint answered with hospitality
+  - summons and hospitality after overhearing
+  - hospitality response to grievance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pain-or-pungency-used-to-expel-harmful-influence
+  motif_id: pain_or_pungency_used_to_expel_harmful_influence
+  label: Pain or pungency used to expel harmful influence
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Using painful or pungent substances to drive out harm fits apotropaic
+    protection and ritual impurity management already folded under sacred_law.
+  cautions: Could also belong with ritual expulsion under sacrifice if the rite transfers
+    or expels spirits; review culturally specific healing terminology carefully.
+  suggested_aliases:
+  - pungent expulsion of harm
+  - painful apotropaic treatment
+  - irritant used to expel influence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-contrasting-interlocutors
+  motif_id: paired_contrasting_interlocutors
+  label: paired contrasting interlocutors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Contrasting paired speakers can express opposition or complementarity,
+    matching the broader duality group.
+  cautions: May be merely a dialogue structure or literary device; only map if the
+    contrast carries symbolic, ethical, or cosmological function.
+  suggested_aliases:
+  - contrasting speaker pair
+  - paired interlocutors
+  - dialogic opposition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review and do not imply taxonomy edits
+  or transmission claims.
+- Several labels are single-occurrence and episode-specific; reviewer should confirm
+  passage evidence before broad Pattern Explorer indexing.
+- Hospitality, feast exclusion, and social-foundation labels may indicate a gap around
+  hospitality/social order, but this batch does not propose a new group from single
+  ambiguous cases.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for batch-0120; human review required
+    for low-confidence and episode-specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0120
+  input_sha256: 9d965bb143e7de6db43c783693992d356f167ba14337c3cb2ce2378fb441ac26

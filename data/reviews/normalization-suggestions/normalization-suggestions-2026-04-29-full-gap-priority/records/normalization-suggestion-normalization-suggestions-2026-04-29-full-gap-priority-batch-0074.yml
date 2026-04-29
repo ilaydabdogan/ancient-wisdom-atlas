@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0074
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.harmful-missiles-transformed-into-flowers
+  motif_id: harmful_missiles_transformed_into_flowers
+  label: Harmful missiles transformed into flowers
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural transformation neutralizes violence and redirects harm,
+    fitting divine or sacred intervention if agency is present.
+  cautions: Could instead be a miracle, compassion/nonviolence motif, or passage-specific
+    marvel; source context needed before broad indexing.
+  suggested_aliases:
+  - weapons transformed into flowers
+  - harm transmuted into blossoms
+  - missiles neutralized by miracle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harmony-of-unequal-parts-under-proper-rule
+  motif_id: harmony_of_unequal_parts_under_proper_rule
+  label: Harmony of unequal parts under proper rule
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label concerns ordered hierarchy and legitimate rule producing social
+    or cosmic harmony.
+  cautions: May be philosophical-political analogy rather than narrative motif; consider
+    sacred_law or duality if the passage emphasizes order of parts rather than rulership.
+  suggested_aliases:
+  - hierarchical harmony under rule
+  - proper rule orders unequal parts
+  - ordered inequality under governance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hawk-as-sudden-motion-simile
+  motif_id: hawk_as_sudden_motion_simile
+  label: hawk as sudden-motion simile
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording identifies a simile or stylistic image, not a recurring narrative
+    or symbolic motif.
+  cautions: If hawk transformation, omen, or divine bird agency is present in the
+    passage, preserve that separate evidence under shapeshifter, dream_and_vision,
+    or divine_intervention.
+  suggested_aliases:
+  - hawk simile for sudden movement
+  - hawk-like sudden motion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-by-costly-magical-ointment
+  motif_id: healing_by_costly_magical_ointment
+  label: healing by costly magical ointment
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Restorative Medicine
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Healing through a magical substance is not well captured by sacred_treasures
+    unless the object-token itself is central.
+  cautions: Single occurrence; may be only a plot device or specific healing object.
+    If the ointment is a sacred power object, sacred_treasures can be secondary.
+  suggested_aliases:
+  - magical healing ointment
+  - costly curative ointment
+  - healing salve
+  suggested_new_group:
+    id: ritual_healing
+    label: Ritual Healing and Restorative Medicine
+    description: Healing, restoration, or cure through sacred substances, wells, tokens,
+      confession, helpers, rites, or supernatural medical knowledge.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    related_group_ids:
+    - sacred_treasures
+    - sacred_waters
+    - soul_loss_restoration
+    reason_existing_groups_insufficient: Current groups cover divine agency, objects,
+      waters, and soul restoration, but not the recurring healing function across
+      substances, places, helpers, and rites.
+- suggestion_id: normalization.suggestion.healing-from-a-well
+  motif_id: healing_from_a_well
+  label: healing from a well
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: high
+  rationale: A well that heals belongs to sacred waters as purifying or restorative
+    water power.
+  cautions: If the focus is a specific local holy well cult, preserve local detail;
+    if the healing rite is central, proposed ritual_healing may be a useful secondary
+    group.
+  suggested_aliases:
+  - healing well
+  - curative sacred well
+  - well-water healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-helpers-counter-destructive-enemies
+  motif_id: healing_helpers_counter_destructive_enemies
+  label: Healing helpers counter destructive enemies
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: Helpers with restorative power opposing destructive forces may fit protective
+    divine or supernatural intervention.
+  cautions: 'Ambiguous composite label: could be battle aid, medical restoration,
+    tutelary spirits, or story-specific role contrast. Needs source evidence.'
+  suggested_aliases:
+  - healing helpers oppose destroyers
+  - restorative helpers against enemies
+  - healers counter destructive foes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-through-confession-to-a-wise-female-helper
+  motif_id: healing_through_confession_to_a_wise_female_helper
+  label: healing through confession to a wise female helper
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Healing occurs through disclosure to a wisdom-bearing helper, linking
+    cure with counsel or revealed knowledge.
+  cautions: Could belong to ritual_healing if accepted, or to mother_goddess/sacred
+    feminine if the helper is divine; avoid overemphasizing gender without source
+    context.
+  suggested_aliases:
+  - confession heals through wise helper
+  - healing confession to wise woman
+  - wise female healer receives confession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-token-restores-sight
+  motif_id: healing_token_restores_sight
+  label: Healing token restores sight
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: The existing sacred_treasures group already includes healing_sign and
+    protective_mark, and the key function is a power object restoring sight.
+  cautions: If the emphasis is divine mercy or prophetic intervention rather than
+    the token, divine_intervention may be secondary.
+  suggested_aliases:
+  - sight restored by token
+  - healing sign restores sight
+  - curative power object restores vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-under-time-limit-and-threat
+  motif_id: healing_under_time_limit_and_threat
+  label: Healing under time limit and threat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: low
+  rationale: A pressured healing task may function as an ordeal or test if transformation
+    or status change follows.
+  cautions: May be an episode-specific plot constraint rather than a motif; could
+    fit ritual_healing if cure mechanics matter more than ordeal.
+  suggested_aliases:
+  - time-limited healing ordeal
+  - healing task under threat
+  - urgent cure under menace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heart-blood-loss-from-longing
+  motif_id: heart_blood_loss_from_longing
+  label: Heart-blood loss from longing
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Physical wasting or blood loss caused by longing fits love as affliction
+    and dangerous desire.
+  cautions: If the passage emphasizes bodily pathology rather than love, preserve
+    as evidence detail; may also relate to beauty_and_paradox if sweetness/pain is
+    explicit.
+  suggested_aliases:
+  - longing causes heart-blood loss
+  - love-longing as wasting illness
+  - heart blood consumed by desire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several healing labels point to a possible reusable ritual_healing group; human
+  review should decide whether to add this group or keep healing items distributed
+  under sacred_waters, sacred_treasures, divine_intervention, and sacred_knowledge.
+- Avoid treating stylistic similes as motifs unless source evidence shows narrative
+  agency, transformation, omen, or ritual use.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific healing and Buddhist miracle
+    labels need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0074
+  input_sha256: 259a4a39fd0bcecddeff56299d0ddc0ca07840ccacd576dea51626303a89e48f

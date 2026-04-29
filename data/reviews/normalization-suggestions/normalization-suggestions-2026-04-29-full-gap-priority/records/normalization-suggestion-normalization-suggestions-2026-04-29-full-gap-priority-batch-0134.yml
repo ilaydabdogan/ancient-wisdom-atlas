@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0134
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prophetic-sign-rejected-by-unbelievers
+  motif_id: prophetic_sign_rejected_by_unbelievers
+  label: prophetic sign rejected by unbelievers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prophetic sign is a divine action or proof in human affairs; rejection
+    by the audience is the local narrative conflict.
+  cautions: Could also index under divine_judgment if the passage emphasizes punishment
+    after rejection, or sacred_knowledge if it emphasizes revelation.
+  suggested_aliases:
+  - rejected prophetic sign
+  - prophetic sign denied by unbelievers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-signs-opposed-as-sorcery
+  motif_id: prophetic_signs_opposed_as_sorcery
+  label: Prophetic signs opposed as sorcery
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on divine signs being resisted or reclassified by opponents
+    as magic.
+  cautions: If the source focuses on polemical speech rather than the sign itself,
+    sacred_knowledge or storytelling_as_power may be secondary; avoid flattening Islamic
+    prophetic context.
+  suggested_aliases:
+  - prophetic signs called sorcery
+  - miracles opposed as magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-signs-rejected-as-sorcery
+  motif_id: prophetic_signs_rejected_as_sorcery
+  label: prophetic signs rejected as sorcery
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Close variant of prophetic signs opposed as sorcery; divine proof is
+    rejected by hostile hearers.
+  cautions: Likely mergeable as an alias with the preceding label after human review;
+    judgment themes depend on passage context.
+  suggested_aliases:
+  - prophetic signs called sorcery
+  - rejected prophetic miracles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-succession-and-scriptural-inheritance
+  motif_id: prophetic_succession_and_scriptural_inheritance
+  label: prophetic succession and scriptural inheritance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Scriptural inheritance and prophetic succession concern transmission
+    of sacred knowledge and authority.
+  cautions: May also involve royal_legitimacy or covenant if the passage emphasizes
+    sanctioned authority, lineage, or binding law rather than knowledge transmission.
+  suggested_aliases:
+  - scriptural inheritance
+  - prophetic inheritance
+  - succession of prophets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophets-accused-by-unjust-communities
+  motif_id: prophets_accused_by_unjust_communities
+  label: prophets accused by unjust communities
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Unjust communities rejecting and accusing prophets often functions as
+    the moral disorder that precedes judgment.
+  cautions: If no judgment or reckoning is present, this may be a prophetic-opposition
+    narrative detail better placed under divine_intervention or left for review.
+  suggested_aliases:
+  - prophets opposed by unjust people
+  - accusation of prophets by communities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prose-narrative-interwoven-with-chanted-or-rhetorical-verse
+  motif_id: prose_narrative_interwoven_with_chanted_or_rhetorical_verse
+  label: prose narrative interwoven with chanted or rhetorical verse
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes literary form or composition rather than a symbolic
+    or narrative motif.
+  cautions: Preserve as textual-form metadata if useful; only map to storytelling_as_power
+    if the passage itself makes chanting or verse efficacious within the story.
+  suggested_aliases:
+  - mixed prose and verse narrative
+  - prosimetrum form
+  - chanted verse in prose narrative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protection-from-corrupting-images
+  motif_id: protection_from_corrupting_images
+  label: protection from corrupting images
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Protection from morally or spiritually dangerous images fits a regulatory
+    or apotropaic protection pattern.
+  cautions: 'Ambiguous without context: could be philosophical ethics, visual taboo,
+    icon critique, or passage-specific commentary rather than a recurring motif.'
+  suggested_aliases:
+  - avoidance of corrupting images
+  - image taboo
+  - protective regulation of images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protection-of-the-suppliant
+  motif_id: protection_of_the_suppliant
+  label: protection of the suppliant
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The duty to protect a suppliant is a sacred ethical and social obligation.
+  cautions: Could also fit divine_intervention if a deity protects the suppliant directly,
+    or covenant/sacred_exchange if hospitality or vow obligations are central.
+  suggested_aliases:
+  - suppliant protection
+  - sanctuary for the supplicant
+  - duty to protect one who seeks refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protection-of-widows-and-orphans-through-inheritance-reform
+  motif_id: protection_of_widows_and_orphans_through_inheritance_reform
+  label: Protection of widows and orphans through inheritance reform
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: high
+  rationale: This is a concrete social-care rule within sacred legal and ethical order.
+  cautions: Over-specific legal formulation; preserve inheritance reform as evidence
+    detail rather than creating a standalone motif unless it recurs.
+  suggested_aliases:
+  - protection of widows and orphans
+  - inheritance reform for vulnerable kin
+  - social care through inheritance law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-barrier-against-monstrous-or-hostile-peoples
+  motif_id: protective_barrier_against_monstrous_or_hostile_peoples
+  label: protective barrier against monstrous or hostile peoples
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A barrier guarding against dangerous outsiders marks and protects a boundary
+    between ordered community and threat.
+  cautions: Could belong under sacred_craft if the construction is divinely aided,
+    divine_intervention if protection is miraculous, or sacred_combat if the emphasis
+    is warfare.
+  suggested_aliases:
+  - protective wall against hostile peoples
+  - barrier against monstrous peoples
+  - boundary wall of protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Islamic prophetic-opposition labels are close variants and may be consolidated
+  after source review.
+- For single-occurrence ethical/legal labels, preserve local specificity in notes
+  while indexing under broader sacred_law or divine_judgment groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify passage function
+    and culturally specific wording.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0134
+  input_sha256: a0472aa65bc74a1b1cae1f11ba1bc0d3c549832517754562896428d1683e5f59

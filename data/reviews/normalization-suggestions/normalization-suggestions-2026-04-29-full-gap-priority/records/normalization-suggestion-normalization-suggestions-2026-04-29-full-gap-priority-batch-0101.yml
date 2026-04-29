@@ -1,0 +1,312 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0101
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.magical-music-controlling-emotion-and-sleep
+  motif_id: magical_music_controlling_emotion_and_sleep
+  label: magical music controlling emotion and sleep
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Enchantment and Magical Compulsion
+  relationship: functional_variant
+  confidence: medium
+  rationale: Music that induces emotion or sleep is a recurring enchantment/compulsion
+    function not cleanly covered by sacred song or wisdom.
+  cautions: Single occurrence; could map to dream_and_vision if sleep produces vision,
+    or storytelling_as_power if emphasis is performance power.
+  suggested_aliases:
+  - enchanted_music
+  - magical_song
+  - sleep_inducing_music
+  - emotion_controlling_music
+  suggested_new_group:
+    id: enchantment_compulsion
+    label: Enchantment and Magical Compulsion
+    description: Magical speech, song, objects, or powers that compel, soothe, bind,
+      sleep, confuse, subdue, or otherwise control persons, animals, spirits, or opponents.
+    parent_group_ids:
+    - sacred_knowledge
+    related_group_ids:
+    - storytelling_as_power
+    - dream_and_vision
+    - threshold_guardian
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups cover sacred song as wisdom/devotion
+      and perilous lure as threshold danger, but not broader magical compulsion by
+      music or enchantment.
+- suggestion_id: normalization.suggestion.magical-music-subdues-opponents
+  motif_id: magical_music_subdues_opponents
+  label: Magical music subdues opponents
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Enchantment and Magical Compulsion
+  relationship: functional_variant
+  confidence: medium
+  rationale: Music functions as magical coercion that overcomes opponents, matching
+    an enchantment/compulsion pattern.
+  cautions: Could be sacred_combat if embedded in battle, or storytelling_as_power
+    if the performance itself is the central sacred power.
+  suggested_aliases:
+  - enchanted_music_subdues_enemies
+  - magical_song_as_weapon
+  - music_as_compulsion
+  suggested_new_group:
+    id: enchantment_compulsion
+    label: Enchantment and Magical Compulsion
+    description: Magical speech, song, objects, or powers that compel, soothe, bind,
+      sleep, confuse, subdue, or otherwise control persons, animals, spirits, or opponents.
+    parent_group_ids:
+    - sacred_knowledge
+    related_group_ids:
+    - storytelling_as_power
+    - dream_and_vision
+    - threshold_guardian
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups do not clearly index non-lethal
+      magical subdual through song or sound.
+- suggestion_id: normalization.suggestion.magical-object-summons-an-obedient-supernatural-servant
+  motif_id: magical_object_summons_an_obedient_supernatural_servant
+  label: magical object summons an obedient supernatural servant
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: The core pattern is a power object conferring supernatural command or
+    service to its bearer.
+  cautions: If the servant or spirit agency is primary, divine_intervention or a future
+    spirit-servant group may be relevant; preserve object-summoning detail.
+  suggested_aliases:
+  - summoning_object
+  - commanding_power_object
+  - object_summons_servant
+  - magical_object_commands_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-or-extraordinary-fishing-with-simple-natural-objects
+  motif_id: magical_or_extraordinary_fishing_with_simple_natural_objects
+  label: Magical or extraordinary fishing with simple natural objects
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe magical abundance, clever tool use, animal capture,
+    or a passage-specific wonder.
+  cautions: Source context needed; may fit culture_hero, sacred_treasures, sacred_waters,
+    or be too specific for pattern queries.
+  suggested_aliases:
+  - extraordinary_fishing
+  - magical_fishing
+  - simple_object_fishing_wonder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-provider-of-dairy-abundance
+  motif_id: magical_provider_of_dairy_abundance
+  label: magical provider of dairy abundance
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests supernatural provision or fertility abundance, but
+    no existing group cleanly covers food/dairy abundance.
+  cautions: Could involve mother_goddess, sacred_exchange, culture_hero, animal helper,
+    or local pastoral fertility; review evidence before creating an abundance group.
+  suggested_aliases:
+  - supernatural_food_provider
+  - magical_dairy_abundance
+  - milk_abundance_provider
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-rescue-tool-forged-by-smith
+  motif_id: magical_rescue_tool_forged_by_smith
+  label: Magical rescue-tool forged by smith
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: A forged magical tool centers on craft producing an extraordinary rescue
+    instrument.
+  cautions: If the object’s bearer-power is primary, sacred_treasures may be a secondary
+    mapping; if rescue drives a quest, hero_journey may also apply.
+  suggested_aliases:
+  - forged_rescue_tool
+  - magical_smithcraft
+  - smith_forges_rescue_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-strength-misapplied-in-ordinary-labor
+  motif_id: magical_strength_misapplied_in_ordinary_labor
+  label: magical strength misapplied in ordinary labor
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may be comic, heroic, cautionary, or evidence of uncontrolled
+    supernatural power.
+  cautions: Could fit pride_and_downfall, culture_hero, trickster, or be an episode-specific
+    labor detail; source function is needed.
+  suggested_aliases:
+  - misused_supernatural_strength
+  - magical_strength_in_daily_labor
+  - heroic_strength_misapplied
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-vehicle-with-hidden-controls
+  motif_id: magical_vehicle_with_hidden_controls
+  label: magical vehicle with hidden controls
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical vehicle is a power object whose hidden operation confers special
+    mobility or control.
+  cautions: May be over-specific; if the vehicle enables a quest or flight, hero_journey
+    may be relevant as secondary context.
+  suggested_aliases:
+  - magical_vehicle
+  - hidden_controls_of_power_object
+  - enchanted_transport
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-vengeance-by-the-kin-of-a-slain-giant
+  motif_id: magical_vengeance_by_the_kin_of_a_slain_giant
+  label: Magical vengeance by the kin of a slain giant
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kin vengeance after a giant’s death belongs to conflict cycles and retaliatory
+    sacred combat.
+  cautions: The giant and magic details may be episode-specific; could also map to
+    divine_warrior if combat establishes cosmic order, or exclude if only plot detail.
+  suggested_aliases:
+  - kin_vengeance_for_slain_giant
+  - magical_revenge_after_combat
+  - vengeance_by_giant_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magically-potent-plant-implement
+  motif_id: magically_potent_plant_implement
+  label: magically potent plant implement
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A plant implement with magical potency functions as a power object or
+    tool.
+  cautions: If the plant is cosmological or protective, axis_mundi or sacred_law may
+    be better; comparative label may be too generic without passage evidence.
+  suggested_aliases:
+  - magical_plant_tool
+  - potent_plant_implement
+  - plant_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point to a possible recurring enchantment/compulsion group, especially
+  magical music that induces sleep, emotion, or subdual.
+- Food abundance, magical fishing, and misapplied strength need source context before
+  durable placement; they may be folklore episode details rather than normalization
+  groups.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft machine suggestions for batch-0101; proposed enchantment_compulsion
+    as a candidate group for recurring magical compulsion motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0101
+  input_sha256: 835dcbbdec623777a1e4a9d49f9c710e2a49126675b8ad6147ed9af1a740284d
