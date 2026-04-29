@@ -1,0 +1,328 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0158
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.separation-causing-refusal-of-food-and-care
+  motif_id: separation_causing_refusal_of_food_and_care
+  label: separation causing refusal of food and care
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could express grief, ascetic refusal, love-separation, or illness from
+    attachment depending on the passage.
+  cautions: Single occurrence and context-dependent; do not map to sacred_love, renunciation,
+    or lament without evidence of the main function.
+  suggested_aliases:
+  - refusal of food after separation
+  - separation-induced fasting
+  - grief refusal of care
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - lament_and_mourning
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sequential-ambushes-defeated-by-single-knight
+  motif_id: sequential_ambushes_defeated_by_single_knight
+  label: sequential ambushes defeated by single knight
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on heroic martial encounters and repeated ambushes
+    overcome by a warrior figure.
+  cautions: May be an episode-specific chivalric combat detail rather than a broad
+    motif; verify whether the sequence has ritual or heroic ordeal significance.
+  suggested_aliases:
+  - single knight defeats sequential ambushes
+  - serial ambush ordeal
+  - hero defeats repeated ambushes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.servitude-accompanied-by-protection
+  motif_id: servitude_accompanied_by_protection
+  label: servitude accompanied by protection
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could involve divine protection, patron-client obligation,
+    bondage, or ironic dependence; label alone is too abstract.
+  cautions: Needs source evidence to distinguish sacred exchange, covenantal protection,
+    social hierarchy, or plot circumstance.
+  suggested_aliases:
+  - protected servitude
+  - bondage with protection
+  - service under protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    - covenant
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-sisters-group
+  motif_id: seven_sisters_group
+  label: seven-sisters group
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to name a culturally specific figure-group rather than
+    specifying a narrative function.
+  cautions: Culturally sensitive Indigenous Australian material; review with source
+    context. Could involve stars/Pleiades, pursuit, kinship, sacred geography, or
+    songline traditions.
+  suggested_aliases:
+  - Seven Sisters
+  - seven sisters constellation group
+  - Pleiades sisters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_twins
+    - dream_and_vision
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-steed-solar-chariot
+  motif_id: seven_steed_solar_chariot
+  label: Seven-steed solar chariot
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Solar Chariot and Celestial Vehicle
+  relationship: narrower_than
+  confidence: medium
+  rationale: A solar chariot is a recurring celestial-cosmological image not cleanly
+    covered by existing axis, ascent, or sacred-treasure groups.
+  cautions: If the passage treats the chariot only as an attribute of a named deity,
+    it may be too specific; human review should decide whether solar/celestial vehicle
+    motifs recur enough for a group.
+  suggested_aliases:
+  - solar chariot
+  - sun chariot
+  - seven-horse solar chariot
+  - celestial chariot
+  suggested_new_group:
+    id: solar_chariot
+    label: Solar Chariot and Celestial Vehicle
+    description: A sun, deity, or celestial power moves through the sky in a chariot
+      or divine vehicle, organizing cosmic time, light, or heavenly order.
+    parent_group_ids:
+    - sacred_time
+    - cosmic_origin
+    related_group_ids:
+    - ascent
+    - sacred_fire
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups cover ascent, fire/light,
+      and sacred objects, but not the cosmological function of a celestial vehicle
+      carrying the sun or divine light through ordered time.
+- suggestion_id: normalization.suggestion.severed-head-and-instrument-continuing-to-sound
+  motif_id: severed_head_and_instrument_continuing_to_sound
+  label: severed head and instrument continuing to sound
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A severed head or instrument continuing to sound after death expresses
+    postmortem persistence or transformation of voice/music.
+  cautions: May be an over-specific episode detail; if emphasis is poetic immortality
+    or song, storytelling_as_power may be a secondary fit.
+  suggested_aliases:
+  - postmortem sounding instrument
+  - severed head continues music
+  - voice or music after decapitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - sacred_song
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.severed-head-displayed-among-heads-of-prior-victims
+  motif_id: severed_head_displayed_among_heads_of_prior_victims
+  label: severed head displayed among heads of prior victims
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label concerns violent display of trophy heads after killing, broadly
+    tied to combat and violence.
+  cautions: Likely too episode-specific for pattern queries unless head-taking or
+    trophy display recurs; could be excluded if merely a scene detail.
+  suggested_aliases:
+  - trophy heads displayed
+  - severed head among prior victims
+  - head display after killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.severed-head-or-image-that-petrifies-through-terror
+  motif_id: severed_head_or_image_that_petrifies_through_terror
+  label: severed head or image that petrifies through terror
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A severed head or image functions as a dangerous power object whose gaze
+    or terror transforms victims.
+  cautions: Could also fit divine_warrior if used as a weapon in combat, or divine_judgment
+    if petrification is punishment; preserve gaze/petrification detail.
+  suggested_aliases:
+  - petrifying head
+  - terrifying image that petrifies
+  - apotropaic or lethal petrifying image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.severed-head-that-continues-to-speak
+  motif_id: severed_head_that_continues_to_speak
+  label: severed head that continues to speak
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: high
+  rationale: A speaking severed head is a clear postmortem persistence of agency,
+    voice, or consciousness after bodily death.
+  cautions: If the speech transmits prophecy or sacred instruction, secondary mapping
+    to sacred_knowledge or storytelling_as_power may be appropriate.
+  suggested_aliases:
+  - talking severed head
+  - oracular severed head
+  - postmortem speaking head
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.severed-head-used-in-violent-confrontation
+  motif_id: severed_head_used_in_violent_confrontation
+  label: severed head used in violent confrontation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The severed head is used as an object within a violent or martial confrontation,
+    fitting combat-pattern indexing.
+  cautions: If the head has magical speech, petrifying, or protective power, sacred_treasures
+    or death_and_transformation may be better primary mappings.
+  suggested_aliases:
+  - severed head as weapon
+  - head used in confrontation
+  - trophy head in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - death_and_transformation
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid claims about transmission or common origin.
+- Several severed-head labels may represent a recurring head-as-power-object complex,
+  but the present taxonomy can provisionally hold them under death_and_transformation,
+  sacred_treasures, or sacred_combat depending on function.
+- Single-occurrence and culturally specific labels should be reviewed against source
+  passages before promotion to canonical groups.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Automated placement suggestions only; human review required for ambiguous,
+    culturally specific, and over-specific episode labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0158
+  input_sha256: c16c12cc873addabaad92302220ef945a274926f0ddbbb20b26f6ffdd7faf460

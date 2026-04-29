@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0149
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rescue-from-threatened-burning
+  motif_id: rescue_from_threatened_burning
+  label: rescue from threatened burning
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a specific rescue episode involving fire danger, but the
+    narrative function is unclear without passage context.
+  cautions: Could be heroic rescue, ordeal, sacred fire, divine intervention, or an
+    episode-specific plot detail; do not map solely because burning involves fire.
+  suggested_aliases:
+  - rescue from burning
+  - threatened burning rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_fire
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-of-an-imperiled-comrade-by-shielded-companions
+  motif_id: rescue_of_an_imperiled_comrade_by_shielded_companions
+  label: rescue of an imperiled comrade by shielded companions
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The motif appears to describe battlefield rescue and comradeship within
+    a martial episode.
+  cautions: Highly specific; if no sacred or ritualized warfare dimension is present,
+    preserve only as evidence under heroic combat rather than promoting as a motif.
+  suggested_aliases:
+  - battlefield rescue of comrade
+  - shielded companion rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-of-oral-tradition-from-loss
+  motif_id: rescue_of_oral_tradition_from_loss
+  label: Rescue of oral tradition from loss
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: high
+  rationale: Preserving oral tradition from disappearance fits narrative transmission
+    and storytelling as a force of cultural survival.
+  cautions: If this is a scholarly note about collecting or editing oral material
+    rather than an in-story motif, exclude under _meta_textual.
+  suggested_aliases:
+  - preservation of oral tradition
+  - oral tradition rescued from loss
+  - story preservation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - _meta_textual
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-summoned-by-signal-instrument
+  motif_id: rescue_summoned_by_signal_instrument
+  label: rescue summoned by signal instrument
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A signal instrument that summons rescue functions as a power object enabling
+    aid or protection.
+  cautions: If the instrument is ordinary and the episode is only tactical communication,
+    this may be too specific for motif queries.
+  suggested_aliases:
+  - signal instrument summons rescue
+  - rescue horn
+  - summoning instrument
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescued-survivor-from-a-cannibal-giant
+  motif_id: rescued_survivor_from_a_cannibal_giant
+  label: rescued survivor from a cannibal giant
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cannibal giant threatening a survivor likely functions as a monstrous
+    obstacle or liminal danger overcome through rescue.
+  cautions: Could belong to a future monster/ogre group if such motifs recur; current
+    placement is provisional and depends on whether the giant blocks passage or ordeal.
+  suggested_aliases:
+  - rescue from cannibal giant
+  - cannibal giant survivor rescue
+  - giant as lethal obstacle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescuer-harmed-by-the-one-being-rescued
+  motif_id: rescuer_harmed_by_the_one_being_rescued
+  label: rescuer harmed by the one being rescued
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The reversal of rescue into harm is narratively meaningful but not clearly
+    covered by existing groups without context.
+  cautions: May be betrayal, tragic irony, failed reciprocity, divine punishment,
+    or an episode-specific plot turn; avoid forcing into sacred_exchange unless reciprocity
+    is explicit.
+  suggested_aliases:
+  - rescuer injured by rescued person
+  - rescue betrayal
+  - benefactor harmed by beneficiary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - divine_judgment
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescuer-punished-by-the-one-he-saved
+  motif_id: rescuer_punished_by_the_one_he_saved
+  label: Rescuer punished by the one he saved
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a moral reversal after an act of rescue, but the ethical
+    or karmic function is unclear.
+  cautions: Could be ingratitude exemplum, karmic teaching, failed sacred exchange,
+    or contextual narrative detail; Buddhist source context should guide placement.
+  suggested_aliases:
+  - rescuer punished by rescued person
+  - saved person punishes rescuer
+  - ingratitude toward rescuer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - divine_judgment
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescuer-threatened-by-the-one-he-frees
+  motif_id: rescuer_threatened_by_the_one_he_frees
+  label: rescuer threatened by the one he frees
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: In Islamicate folklore this likely overlaps with the freed being from
+    a sealed vessel who threatens the rescuer.
+  cautions: If no vessel, sealed container, or released supernatural being is present,
+    review under betrayal/ingratitude rather than sacred_vessel.
+  suggested_aliases:
+  - freed being threatens rescuer
+  - rescuer threatened by released captive
+  - dangerous release from confinement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescuers-overcome-by-hostile-enchantment
+  motif_id: rescuers_overcome_by_hostile_enchantment
+  label: Rescuers overcome by hostile enchantment
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hostile enchantment defeating would-be rescuers functions as a perilous
+    threshold or guardian-like obstacle to passage/rescue.
+  cautions: Could instead fit otherworld enchantment or magical combat if the passage
+    centers on an enchanted realm or spell contest.
+  suggested_aliases:
+  - hostile enchantment overcomes rescuers
+  - enchanted obstacle to rescue
+  - rescuers defeated by enchantment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - initiation
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.resistance-to-magical-enchantment
+  motif_id: resistance_to_magical_enchantment
+  label: resistance to magical enchantment
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Resistance to enchantment could be heroic discipline, protective magic,
+    wisdom, or a combat ability depending on the episode.
+  cautions: Existing groups do not cleanly cover magical resistance; review whether
+    this is a recurring protective motif or an over-specific action detail.
+  suggested_aliases:
+  - magical enchantment resisted
+  - immunity to enchantment
+  - resisting hostile magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - threshold_guardian
+    - sacred_law
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are rescue-reversal or rescue-under-threat episodes.
+  Existing taxonomy lacks a stable broad rescue/benefactor-ingratitude group, so ambiguous
+  items are left for human review rather than forcing a new group from single occurrences.
+- Do not infer sacred fire, flood, or divine intervention merely from danger elements;
+  placement should follow narrative function in the source passage.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional model suggestions only; several single-occurrence rescue motifs
+    need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0149
+  input_sha256: e6faed36ea52a389dfc10d005ac69a2e2fe01ad4bc6f27297f8bac46f9266bf2

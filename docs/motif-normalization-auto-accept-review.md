@@ -6,133 +6,117 @@ Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestion
 
 ## Summary
 
-- Suggestions reviewed: 1400
-- Auto-accepted into main taxonomy: 119
-- Staged for review: 1281
+- Suggestions reviewed: 1580
+- Auto-accepted into main taxonomy: 103
+- Staged for review: 1477
 
 ## Auto-Accepted
 
 | Motif ID | Label | Group | Relationship | Occurrences | Traditions |
 | --- | --- | --- | --- | ---: | --- |
-| `miraculous_healing_validating_envoys` | Miraculous healing validating envoys | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
-| `miraculous_inexhaustible_provider` | miraculous inexhaustible provider | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | hindu |
-| `miraculous_sign_demanded_or_imagined` | Miraculous sign demanded or imagined | `theophany` Theophany and Divine Manifestation | functional_variant | 1 | islamic |
-| `miraculous_sign_in_the_heavens` | Miraculous sign in the heavens | `dream_and_vision` Dream, Vision, and Altered Perception | symbolic_variant | 1 | islamic |
-| `miraculous_sleep_and_awakening_after_many_years` | miraculous sleep and awakening after many years | `death_and_transformation` Death, Rebirth, and Transformation | functional_variant | 1 | islamic |
-| `miraculous_staff_swallows_rival_instruments` | miraculous staff swallows rival instruments | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | sufi |
-| `miraculous_support_for_the_righteous_donor` | Miraculous support for the righteous donor | `sacred_exchange` Sacred Exchange and Reciprocity | functional_variant | 1 | buddhist |
-| `mirrored_retribution_at_the_site_of_injury` | Mirrored retribution at the site of injury | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | celtic_welsh |
-| `misinterpreted_lament_provokes_jealous_suspicion` | misinterpreted lament provokes jealous suspicion | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | functional_variant | 1 | celtic_welsh |
-| `misleading_leaders_blamed_by_followers` | misleading leaders blamed by followers | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
-| `missing_newborn_and_false_maternal_accusation` | missing newborn and false maternal accusation | `miraculous_child` Miraculous Child and Sacred Birth | functional_variant | 1 | celtic_welsh |
-| `mourner_as_fallen_heavenly_body` | mourner as fallen heavenly body | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | symbolic_variant | 1 | hindu |
-| `mourner_transformed_into_weeping_stone` | mourner transformed into weeping stone | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | symbolic_variant | 1 | greek_roman |
-| `mourning_after_destruction_of_homeland` | mourning after destruction of homeland | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | functional_variant | 1 | greek |
-| `mourning_after_loss_of_protectors` | Mourning after loss of protectors | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | functional_variant | 1 | islamic |
-| `multi_headed_giant_defeated_by_beheading` | Multi-headed giant defeated by beheading | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | hindu |
-| `music_compelling_or_softening_supernatural_powers` | music compelling or softening supernatural powers | `storytelling_as_power` Storytelling and Narrative as Sacred Power | functional_variant | 1 | greek_roman |
-| `music_that_moves_infernal_powers` | music that moves infernal powers | `descent` Descent and Underworld Journey | functional_variant | 1 | roman |
-| `mutilated_sister_rouses_brother_s_vengeance` | Mutilated sister rouses brother’s vengeance | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
-| `mysterious_helpers_serving_under_restrictive_conditions` | mysterious helpers serving under restrictive conditions | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | celtic_irish |
-| `posthumous_inscribed_flower_of_lament` | posthumous inscribed flower of lament | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | symbolic_variant | 1 | roman |
-| `posthumous_sign_from_saint` | posthumous sign from saint | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | sufi |
-| `poverty_preventing_hospitality` | poverty preventing hospitality | `sacred_exchange` Sacred Exchange and Reciprocity | functional_variant | 1 | sufi |
-| `power_of_loving_intention_to_pass_unharmed` | power of loving intention to pass unharmed | `sacred_love` Sacred Love and Longing | functional_variant | 1 | buddhist |
-| `powerful_music_causing_beings_to_fall_or_perish` | Powerful music causing beings to fall or perish | `storytelling_as_power` Storytelling and Narrative as Sacred Power | functional_variant | 1 | celtic_irish |
-| `pre_created_book_of_destiny` | pre-created book of destiny | `sacred_knowledge` Sacred Knowledge and Wisdom | symbolic_variant | 1 | islamic |
-| `precarious_height_and_downfall_of_the_powerful` | precarious height and downfall of the powerful | `pride_and_downfall` Pride, Hubris, and Downfall | symbolic_variant | 1 | sufi |
-| `precious_object_bribe_causing_betrayal` | precious-object bribe causing betrayal | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | greek_roman |
-| `predecessor_messengers_mocked_before_later_vindication` | Predecessor messengers mocked before later vindication | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
-| `predestined_human_lot` | predestined human lot | `death_by_fate` Death Attributed to Fate or Destiny | broader_label | 1 | sufi |
-| `present_joy_contrasted_with_promised_future_bliss` | Present joy contrasted with promised future bliss | `mystical_quest` Mystical Quest and Interior Journey | symbolic_variant | 1 | sufi |
-| `prestige_object_transmitted_through_gift_chain` | prestige object transmitted through gift-chain | `sacred_exchange` Sacred Exchange and Reciprocity | functional_variant | 1 | celtic_irish |
-| `pretender_made_ridiculous` | Pretender made ridiculous | `pride_and_downfall` Pride, Hubris, and Downfall | functional_variant | 1 | greek |
-| `progressive_dismemberment_of_monstrous_foe` | progressive dismemberment of monstrous foe | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | hindu |
-| `prohibition_against_following_the_adversary` | prohibition against following the adversary | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | islamic |
-| `prohibition_of_figurative_images_in_game_pieces` | Prohibition of figurative images in game pieces | `sacred_law` Sacred Law and Social Order | over_specific_label | 1 | islamic |
-| `prohibition_of_intoxicants_and_gaming` | Prohibition of intoxicants and gaming | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | islamic |
-| `promise_sustaining_a_sectarian_community` | promise sustaining a sectarian community | `covenant` Covenant and Sacred Bond | functional_variant | 1 | islamic |
-| `promised_cattle_connected_with_a_fatal_expedition` | Promised cattle connected with a fatal expedition | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | celtic_irish |
-| `proper_rule_serves_the_ruled` | proper rule serves the ruled | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | role_variant | 1 | greek |
-| `prophet_challenged_to_produce_signs` | prophet challenged to produce signs | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
-| `prophet_confronts_idols_and_survives_fiery_persecution` | Prophet confronts idols and survives fiery persecution | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
-| `prophetic_announcement_of_a_later_messenger` | prophetic announcement of a later messenger | `sacred_knowledge` Sacred Knowledge and Wisdom | functional_variant | 1 | islamic |
-| `prophetic_assistant_brother` | Prophetic assistant brother | `sacred_twins` Sacred Twins and Sibling Pairs | role_variant | 1 | islamic |
-| `prophetic_call_and_messenger_conviction` | prophetic call and messenger conviction | `initiation` Initiation and Transformative Ordeal | functional_variant | 1 | islamic |
-| `prophetic_commissioning_by_angelic_messenger` | prophetic commissioning by angelic messenger | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
-| `prophetic_commissioning_from_covered_withdrawal` | prophetic commissioning from covered withdrawal | `initiation` Initiation and Transformative Ordeal | functional_variant | 1 | islamic |
-| `prophetic_lineage_and_chosen_succession` | Prophetic lineage and chosen succession | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | functional_variant | 1 | islamic |
-| `prophetic_night_apparition_directs_conflict` | prophetic night apparition directs conflict | `dream_and_vision` Dream, Vision, and Altered Perception | functional_variant | 1 | celtic_irish |
-| `prophetic_perseverance_amid_scoffing` | Prophetic perseverance amid scoffing | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
-| `prophetic_preaching_without_material_recompense` | prophetic preaching without material recompense | `sacred_exchange` Sacred Exchange and Reciprocity | functional_variant | 1 | islamic |
-| `prophetic_renewal_of_neglected_religion` | prophetic renewal of neglected religion | `covenant` Covenant and Sacred Bond | functional_variant | 1 | islamic |
-| `prophetic_sign_rejected_by_unbelievers` | prophetic sign rejected by unbelievers | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
-| `prophetic_signs_opposed_as_sorcery` | Prophetic signs opposed as sorcery | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
-| `prophetic_signs_rejected_as_sorcery` | prophetic signs rejected as sorcery | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
-| `prophetic_succession_and_scriptural_inheritance` | prophetic succession and scriptural inheritance | `sacred_knowledge` Sacred Knowledge and Wisdom | functional_variant | 1 | islamic |
-| `prophets_accused_by_unjust_communities` | prophets accused by unjust communities | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
-| `protection_of_the_suppliant` | protection of the suppliant | `sacred_law` Sacred Law and Social Order | functional_variant | 1 | hindu |
-| `protection_of_widows_and_orphans_through_inheritance_reform` | Protection of widows and orphans through inheritance reform | `sacred_law` Sacred Law and Social Order | narrower_than | 1 | islamic |
-| `protective_barrier_against_monstrous_or_hostile_peoples` | protective barrier against monstrous or hostile peoples | `threshold_guardian` Threshold Guardian | functional_variant | 1 | islamic |
-| `protective_cattle_charm` | protective cattle charm | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | finnish_karelian |
-| `protective_circle_encampment` | Protective circle encampment | `sacrifice` Sacrifice and Offering | ritual_variant | 1 | buddhist |
-| `protective_formula_after_a_sneeze_averts_a_supernatural_predator` | Protective formula after a sneeze averts a supernatural predator | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | buddhist |
-| `protective_guardians_respond_to_sound_and_rescue_the_vulnerable` | Protective guardians respond to sound and rescue the vulnerable | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | greek |
-| `protective_invocation_of_cosmic_and_natural_powers` | Protective invocation of cosmic and natural powers | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | hindu |
-| `protective_magical_or_medicinal_herb` | Protective magical or medicinal herb | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | hindu |
-| `protective_metal_charm` | protective metal charm | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | comparative |
-| `protective_plant_charm_against_supernatural_harm` | Protective plant charm against supernatural harm | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | comparative |
-| `protective_transfer_through_handled_object` | Protective transfer through handled object | `sacrifice` Sacrifice and Offering | ritual_variant | 1 | comparative |
-| `protector_corrupted_into_predator_tyrant` | protector corrupted into predator-tyrant | `pride_and_downfall` Pride, Hubris, and Downfall | functional_variant | 1 | greek |
-| `protector_refuses_betrayal_of_one_under_his_safeguard` | Protector refuses betrayal of one under his safeguard | `sacred_law` Sacred Law and Social Order | functional_variant | 1 | celtic_irish |
-| `protector_remains_behind_for_vulnerable_elders` | protector remains behind for vulnerable elders | `sacrifice` Sacrifice and Offering | functional_variant | 1 | hindu |
-| `protector_stands_by_threatened_mission_bearer` | protector stands by threatened mission-bearer | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | islamic |
-| `protector_transformed_into_tyrant` | protector transformed into tyrant | `pride_and_downfall` Pride, Hubris, and Downfall | functional_variant | 1 | greek |
-| `providential_preservation_after_betrayal` | providential preservation after betrayal | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
-| `public_expert_exposed_by_private_failure` | public expert exposed by private failure | `pride_and_downfall` Pride, Hubris, and Downfall | functional_variant | 1 | greek |
-| `public_expulsion_of_communal_evils` | public expulsion of communal evils | `sacrifice` Sacrifice and Offering | ritual_variant | 1 | comparative |
-| `public_humiliation_of_deceivers` | Public humiliation of deceivers | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | sufi |
-| `public_interreligious_disputation_before_royal_and_popular_witnesses` | public interreligious disputation before royal and popular witnesses | `sacred_knowledge` Sacred Knowledge and Wisdom | functional_variant | 1 | islamic |
-| `public_prophetic_mission_after_secrecy` | public prophetic mission after secrecy | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | islamic |
-| `public_reversal_from_pollution_to_sanctity` | Public reversal from pollution to sanctity | `mystical_quest` Mystical Quest and Interior Journey | functional_variant | 1 | sufi |
-| `public_works_as_communal_piety` | public works as communal piety | `sacred_exchange` Sacred Exchange and Reciprocity | functional_variant | 1 | buddhist |
-| `punitive_destruction_of_an_opposing_group` | punitive destruction of an opposing group | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
-| `pursuit_by_inescapable_avenging_powers` | Pursuit by inescapable avenging powers | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | greek_roman |
-| `race_challenge_leading_to_defeat_of_magical_opponent` | race challenge leading to defeat of magical opponent | `initiation` Initiation and Transformative Ordeal | functional_variant | 1 | celtic_irish |
-| `ravaging_host_gathers_captives_and_cattle` | ravaging host gathers captives and cattle | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
-| `reassurance_by_heavenly_voices` | reassurance by heavenly voices | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | hindu |
-| `reciprocal_affinal_hospitality` | reciprocal affinal hospitality | `sacred_exchange` Sacred Exchange and Reciprocity | functional_variant | 1 | finnish_karelian |
-| `reciprocal_false_claim_exposes_theft` | reciprocal false claim exposes theft | `trickster` Trickster and Boundary Crosser | functional_variant | 1 | buddhist |
-| `reciprocal_favor_becomes_later_advantage` | reciprocal favor becomes later advantage | `sacred_exchange` Sacred Exchange and Reciprocity | functional_variant | 1 | buddhist |
-| `reciprocal_loyalty_among_friends` | reciprocal loyalty among friends | `sacred_exchange` Sacred Exchange and Reciprocity | functional_variant | 1 | buddhist |
-| `reciprocal_martial_promise_between_foster_relations` | reciprocal martial promise between foster-relations | `covenant` Covenant and Sacred Bond | narrower_than | 1 | celtic_irish |
-| `reckoning_of_unfulfilled_perfections` | reckoning of unfulfilled perfections | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | buddhist |
-| `recognition_and_conversion_after_defeat` | recognition and conversion after defeat | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
-| `recognition_and_evasion_of_magical_guile` | recognition and evasion of magical guile | `trickster` Trickster and Boundary Crosser | functional_variant | 1 | hindu |
-| `recognition_by_exposed_infant_tokens` | recognition by exposed-infant tokens | `miraculous_child` Miraculous Child and Sacred Birth | functional_variant | 1 | greek_roman |
-| `recognition_of_hidden_divinity` | recognition of hidden divinity | `theophany` Theophany and Divine Manifestation | functional_variant | 1 | greek |
-| `reconciliation_of_former_enemies_into_brethren` | reconciliation of former enemies into brethren | `covenant` Covenant and Sacred Bond | functional_variant | 1 | islamic |
-| `reconciliation_of_opposites` | reconciliation of opposites | `duality` Duality and Cosmic Opposition | functional_variant | 1 | greek |
-| `recovery_and_mourning_of_the_slain_companion` | recovery and mourning of the slain companion | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | functional_variant | 1 | greek |
-| `recovery_from_oblivion` | recovery from oblivion | `mystical_quest` Mystical Quest and Interior Journey | functional_variant | 1 | sufi |
-| `recovery_of_a_buried_ancient_work` | recovery of a buried ancient work | `sacred_knowledge` Sacred Knowledge and Wisdom | functional_variant | 1 | hindu |
-| `redemption_by_written_instrument` | Redemption by written instrument | `covenant` Covenant and Sacred Bond | functional_variant | 1 | islamic |
-| `refuge_for_a_weak_remnant` | refuge for a weak remnant | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
-| `refuge_from_demonic_promptings` | Refuge from demonic promptings | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | islamic |
-| `refuge_from_demonic_suggestions` | refuge from demonic suggestions | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | islamic |
-| `refusal_and_reversal_of_mourning_among_kin` | refusal and reversal of mourning among kin | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | functional_variant | 1 | finnish_karelian |
-| `refusal_of_commanded_homage` | refusal of commanded homage | `divine_intervention` Divine Intervention and Guidance | alias | 1 | islamic |
-| `refusal_of_hospitality_until_companions_are_released` | refusal of hospitality until companions are released | `sacred_exchange` Sacred Exchange and Reciprocity | functional_variant | 1 | greek |
-| `refusal_or_rebuke_after_a_plea_for_food` | refusal or rebuke after a plea for food | `sacred_exchange` Sacred Exchange and Reciprocity | functional_variant | 1 | greek |
-| `refusal_to_deify_prophets_or_angels` | Refusal to deify prophets or angels | `sacred_law` Sacred Law and Social Order | narrower_than | 1 | islamic |
-| `refused_gift_of_cattle_leads_to_duel` | refused gift of cattle leads to duel | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
-| `refused_guest_gift_causes_armed_conflict` | Refused guest-gift causes armed conflict | `sacred_exchange` Sacred Exchange and Reciprocity | functional_variant | 1 | celtic_irish |
-| `regret_over_a_misleading_companion` | Regret over a misleading companion | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
-| `rejected_human_messenger` | Rejected human messenger | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
-| `rejected_messenger_aided_after_endurance` | Rejected messenger aided after endurance | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
-| `rejected_messenger_and_earlier_rejected_apostles` | Rejected messenger and earlier rejected apostles | `divine_judgment` Divine Judgment and Moral Reckoning | over_specific_label | 1 | islamic |
-| `rejected_messenger_in_continuity_with_earlier_apostles` | Rejected messenger in continuity with earlier apostles | `sacred_knowledge` Sacred Knowledge and Wisdom | over_specific_label | 1 | islamic |
-| `rejected_messengers_and_demanded_signs` | Rejected messengers and demanded signs | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
+| `nested_containment_of_the_vulnerable_life_token` | nested containment of the vulnerable life-token | `external_soul` External Soul and Life-Token | narrower_than | 1 | comparative |
+| `night_as_pregnant_with_future_events` | night as pregnant with future events | `dream_and_vision` Dream, Vision, and Altered Perception | symbolic_variant | 1 | sufi |
+| `night_raid_of_vengeance` | Night raid of vengeance | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
+| `night_vigil_and_communal_devotion` | night vigil and communal devotion | `sacred_time` Sacred Time and Ritual Cycle | ritual_variant | 1 | islamic |
+| `nightingale_calling_to_the_rose_for_wine` | Nightingale calling to the rose for wine | `sacred_love` Sacred Love and Longing | symbolic_variant | 1 | sufi |
+| `nightly_liberation_from_bodily_confinement` | Nightly liberation from bodily confinement | `mystical_quest` Mystical Quest and Interior Journey | meta_artifact | 1 | sufi |
+| `nightly_truce_between_dueling_companions` | nightly truce between dueling companions | `sacred_combat` Sacred Combat and Ritual Warfare | ritual_variant | 1 | celtic_irish |
+| `noble_figure_practicing_humble_craft_in_displacement` | noble figure practicing humble craft in displacement | `hero_journey` The Hero's Journey | functional_variant | 1 | celtic_welsh |
+| `nocturnal_raid_on_sleeping_enemies` | nocturnal raid on sleeping enemies | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | greek |
+| `noisy_or_violent_driving_out_of_demons` | noisy or violent driving out of demons | `sacrifice` Sacrifice and Offering | ritual_variant | 1 | comparative |
+| `non_supernatural_non_lethal_raid_with_good_ending` | non-supernatural, non-lethal raid with good ending | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | celtic_irish |
+| `nonlethal_supernatural_defeat_of_an_attacker` | nonlethal supernatural defeat of an attacker | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | hindu |
+| `noon_vulnerability_through_shortened_or_absent_shadow` | Noon vulnerability through shortened or absent shadow | `external_soul` External Soul and Life-Token | symbolic_variant | 1 | comparative |
+| `obdurate_unbelief_as_constriction_and_blindness` | Obdurate unbelief as constriction and blindness | `divine_judgment` Divine Judgment and Moral Reckoning | symbolic_variant | 1 | islamic |
+| `rejected_miracle_signs` | rejected miracle signs | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
+| `rejected_miraculous_sign` | Rejected miraculous sign | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
+| `rejected_or_persecuted_messengers` | Rejected or persecuted messengers | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | islamic |
+| `rejection_of_a_prior_model_of_disobedience` | rejection of a prior model of disobedience | `sacred_law` Sacred Law and Social Order | functional_variant | 1 | islamic |
+| `rejection_of_diplomacy_in_favor_of_force` | rejection of diplomacy in favor of force | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
+| `rejection_of_false_deities` | rejection of false deities | `covenant` Covenant and Sacred Bond | functional_variant | 1 | islamic |
+| `rejection_of_unjust_paternal_command` | rejection of unjust paternal command | `sacred_law` Sacred Law and Social Order | functional_variant | 1 | hindu |
+| `relapse_and_restoration_of_faith` | Relapse and restoration of faith | `mystical_quest` Mystical Quest and Interior Journey | functional_variant | 1 | buddhist |
+| `release_from_bodily_passions_as_freedom` | Release from bodily passions as freedom | `mystical_quest` Mystical Quest and Interior Journey | symbolic_variant | 1 | greek |
+| `religious_community_likened_to_growing_seed` | religious community likened to growing seed | `sacred_time` Sacred Time and Ritual Cycle | symbolic_variant | 1 | islamic |
+| `religious_prohibition_of_gaming` | religious prohibition of gaming | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | islamic |
+| `religious_prohibition_of_intoxicants` | Religious prohibition of intoxicants | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | islamic |
+| `religious_rejection_of_games_of_chance` | Religious rejection of games of chance | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | islamic |
+| `religious_release_and_salvation_after_enchantment` | religious release and salvation after enchantment | `death_and_transformation` Death, Rebirth, and Transformation | functional_variant | 1 | celtic_irish |
+| `reluctant_champion_compelled_by_taunts` | Reluctant champion compelled by taunts | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `reluctant_champion_compelled_to_fight_former_pupil` | reluctant champion compelled to fight former pupil | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | celtic_irish |
+| `remote_blessed_land_preserving_primordial_customs` | remote blessed land preserving primordial customs | `otherworld` Otherworld and Enchanted Realm | narrower_than | 1 | hindu |
+| `remote_guarded_hiding_place_of_life` | Remote guarded hiding place of life | `external_soul` External Soul and Life-Token | functional_variant | 1 | comparative |
+| `renown_purchased_by_short_life` | renown purchased by short life | `death_by_fate` Death Attributed to Fate or Destiny | functional_variant | 1 | celtic_irish |
+| `renunciant_attached_to_possessions_is_corrected_by_a_teacher` | Renunciant attached to possessions is corrected by a teacher | `mystical_quest` Mystical Quest and Interior Journey | functional_variant | 1 | buddhist |
+| `repentance_after_ruined_possession` | repentance after ruined possession | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
+| `repentance_after_transgression` | repentance after transgression | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
+| `repentance_answered_by_forgiveness` | Repentance answered by forgiveness | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
+| `repentance_transforming_evil_into_good` | repentance transforming evil into good | `death_and_transformation` Death, Rebirth, and Transformation | functional_variant | 1 | islamic |
+| `repentance_with_apostolic_intercession` | Repentance with apostolic intercession | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | islamic |
+| `rescue_of_an_imperiled_comrade_by_shielded_companions` | rescue of an imperiled comrade by shielded companions | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | greek |
+| `rescue_of_oral_tradition_from_loss` | Rescue of oral tradition from loss | `storytelling_as_power` Storytelling and Narrative as Sacred Power | functional_variant | 1 | finnish_karelian |
+| `rescue_summoned_by_signal_instrument` | rescue summoned by signal instrument | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | celtic_irish |
+| `rescued_survivor_from_a_cannibal_giant` | rescued survivor from a cannibal giant | `threshold_guardian` Threshold Guardian | functional_variant | 1 | roman |
+| `rescuer_threatened_by_the_one_he_frees` | rescuer threatened by the one he frees | `sacred_vessel` Sacred Vessel and Container | functional_variant | 1 | islamicate_folklore |
+| `rescuers_overcome_by_hostile_enchantment` | Rescuers overcome by hostile enchantment | `threshold_guardian` Threshold Guardian | functional_variant | 1 | celtic_irish |
+| `respectful_protection_of_a_fallen_opponent_s_body` | Respectful protection of a fallen opponent's body | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | functional_variant | 1 | greek_roman |
+| `restoration_of_peace_among_brethren` | restoration of peace among brethren | `covenant` Covenant and Sacred Bond | functional_variant | 1 | islamic |
+| `restoration_of_primordial_religious_unity` | restoration of primordial religious unity | `mystical_quest` Mystical Quest and Interior Journey | functional_variant | 1 | sufi |
+| `restoration_of_status_by_bathing_clothing_and_appointment` | restoration of status by bathing, clothing, and appointment | `initiation` Initiation and Transformative Ordeal | ritual_variant | 1 | islamicate_folklore |
+| `restoration_of_stolen_property_through_adjudication` | restoration of stolen property through adjudication | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | buddhist |
+| `restoration_of_youth` | restoration of youth | `death_and_transformation` Death, Rebirth, and Transformation | functional_variant | 1 | roman |
+| `retaliation_transformed_into_proportional_retribution` | retaliation transformed into proportional retribution | `sacred_law` Sacred Law and Social Order | functional_variant | 1 | islamic |
+| `revealed_conspiracy_and_miraculous_escape` | revealed conspiracy and miraculous escape | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
+| `reversal_of_fortune_humbles_the_proud` | reversal of fortune humbles the proud | `pride_and_downfall` Pride, Hubris, and Downfall | functional_variant | 1 | greek |
+| `right_and_duty_before_happiness` | right and duty before happiness | `sacred_law` Sacred Law and Social Order | functional_variant | 1 | greek |
+| `righteous_remnant_saved_from_communal_destruction` | righteous remnant saved from communal destruction | `flood_and_renewal` Flood, Fire, and Cosmic Renewal | functional_variant | 1 | islamic |
+| `righteous_remnant_within_another_scriptural_community` | Righteous remnant within another scriptural community | `covenant` Covenant and Sacred Bond | role_variant | 1 | islamic |
+| `rise_and_fall_of_cities_under_time` | rise and fall of cities under time | `sacred_time` Sacred Time and Ritual Cycle | symbolic_variant | 1 | roman |
+| `rival_armies_hosted_together_in_one_hall` | Rival armies hosted together in one hall | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | celtic_irish |
+| `rivalry_of_poetry_and_philosophy` | Rivalry of poetry and philosophy | `storytelling_as_power` Storytelling and Narrative as Sacred Power | functional_variant | 1 | greek |
+| `rooted_treasure_freed_by_plowing` | Rooted treasure freed by plowing | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | finnish_karelian |
+| `routed_forces_rallied_for_renewed_assault` | routed forces rallied for renewed assault | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | hindu |
+| `royal_funeral_procession_and_obsequies` | Royal funeral procession and obsequies | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | ritual_variant | 1 | hindu |
+| `royal_spouses_compare_wealth_and_status` | royal spouses compare wealth and status | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `royal_title_for_vegetation_representative` | royal title for vegetation representative | `sacred_time` Sacred Time and Ritual Cycle | ritual_variant | 1 | comparative |
+| `runaway_celestial_vehicle_causing_disaster` | runaway celestial vehicle causing disaster | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | roman |
+| `rustic_deity_as_protector_and_fertility_power` | rustic deity as protector and fertility power | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | greek_roman |
+| `saint_as_wonder_worker_accused_of_sorcery` | saint as wonder-worker accused of sorcery | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | sufi |
+| `saints_and_miracles` | Saints and miracles | `divine_intervention` Divine Intervention and Guidance | role_variant | 1 | sufi |
+| `scapegoat_like_displacement_of_harmful_force_into_portable_objects` | scapegoat-like displacement of harmful force into portable objects | `sacrifice` Sacrifice and Offering | ritual_variant | 1 | comparative |
+| `scriptural_book_as_source_of_doctrines_precepts_and_institutions` | Scriptural book as source of doctrines, precepts, and institutions | `sacred_law` Sacred Law and Social Order | functional_variant | 1 | islamic |
+| `scriptural_succession_and_confirmation` | Scriptural succession and confirmation | `sacred_knowledge` Sacred Knowledge and Wisdom | functional_variant | 1 | islamic |
+| `secret_adultery_exposed_by_an_all_seeing_solar_witness` | secret adultery exposed by an all-seeing solar witness | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | roman |
+| `secret_rule_through_beneficial_deception` | Secret rule through beneficial deception | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | functional_variant | 1 | greek |
+| `secret_stratagem_against_a_powerful_predator` | Secret stratagem against a powerful predator | `trickster` Trickster and Boundary Crosser | functional_variant | 1 | sufi |
+| `secret_vulnerability_disclosed_to_a_deceiver_or_captive` | secret vulnerability disclosed to a deceiver or captive | `external_soul` External Soul and Life-Token | functional_variant | 1 | comparative |
+| `secret_vulnerability_sought_through_intimate_deception` | Secret vulnerability sought through intimate deception | `external_soul` External Soul and Life-Token | functional_variant | 1 | celtic_welsh |
+| `secret_withheld_because_allies_may_become_enemies` | secret withheld because allies may become enemies | `sacred_knowledge` Sacred Knowledge and Wisdom | functional_variant | 1 | sufi |
+| `seduction_through_sight` | seduction through sight | `sacred_love` Sacred Love and Longing | symbolic_variant | 1 | sufi |
+| `seizure_of_chariot_as_martial_prize` | seizure of chariot as martial prize | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | greek |
+| `semi_supernatural_guardian_or_swift_hound` | semi-supernatural guardian or swift hound | `threshold_guardian` Threshold Guardian | role_variant | 1 | celtic_irish |
+| `sensory_entanglement_as_confinement` | sensory entanglement as confinement | `mystical_quest` Mystical Quest and Interior Journey | symbolic_variant | 1 | daoist |
+| `separation_as_bitter_drink` | separation as bitter drink | `sacred_love` Sacred Love and Longing | symbolic_variant | 1 | sufi |
+| `sequential_ambushes_defeated_by_single_knight` | sequential ambushes defeated by single knight | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_welsh |
+| `severed_head_and_instrument_continuing_to_sound` | severed head and instrument continuing to sound | `death_and_transformation` Death, Rebirth, and Transformation | narrower_than | 1 | roman |
+| `severed_head_or_image_that_petrifies_through_terror` | severed head or image that petrifies through terror | `sacred_treasures` Sacred Treasures and Power Objects | functional_variant | 1 | roman |
+| `severed_head_that_continues_to_speak` | severed head that continues to speak | `death_and_transformation` Death, Rebirth, and Transformation | narrower_than | 1 | celtic_irish |
+| `severed_head_used_in_violent_confrontation` | severed head used in violent confrontation | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `severed_heads_displayed_as_tokens_of_prowess` | severed heads displayed as tokens of prowess | `divine_warrior` Divine Warrior and Sacred Combat | over_specific_label | 1 | celtic_irish |
+| `shadow_as_vulnerable_extension_of_a_being` | Shadow as vulnerable extension of a being | `external_soul` External Soul and Life-Token | symbolic_variant | 1 | comparative |
+| `shadow_or_illusion_mistaken_for_reality` | shadow or illusion mistaken for reality | `dream_and_vision` Dream, Vision, and Altered Perception | symbolic_variant | 1 | greek |
+| `shared_epitaph_as_marital_memorial` | shared epitaph as marital memorial | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | over_specific_label | 1 | roman |
+| `shared_fosterage_and_arms_preceding_fatal_conflict` | shared fosterage and arms preceding fatal conflict | `sacred_combat` Sacred Combat and Ritual Warfare | over_specific_label | 1 | celtic_irish |
+| `shared_posthumous_resting_place_for_companions` | shared posthumous resting place for companions | `heroic_funeral_rites` Heroic Funeral Rites and Memorialization | functional_variant | 1 | greek |
+| `shunned_contaminating_touch` | Shunned contaminating touch | `sacred_law` Sacred Law and Social Order | ritual_variant | 1 | islamic |
+| `sidhe_music_causing_sleep_before_entry_into_an_uncanny_dwelling` | Sidhe music causing sleep before entry into an uncanny dwelling | `otherworld` Otherworld and Enchanted Realm | functional_variant | 1 | celtic_irish |
+| `sign_of_temporary_silence` | sign of temporary silence | `divine_intervention` Divine Intervention and Guidance | functional_variant | 1 | islamic |
+| `signs_in_destroyed_predecessors_and_revived_land` | signs in destroyed predecessors and revived land | `divine_judgment` Divine Judgment and Moral Reckoning | functional_variant | 1 | islamic |
+| `sin_bearer_or_scapegoat_substitute` | sin-bearer or scapegoat substitute | `sacrifice` Sacrifice and Offering | ritual_variant | 1 | comparative |
+| `sincere_inability_distinguished_from_culpable_refusal` | Sincere inability distinguished from culpable refusal | `sacred_law` Sacred Law and Social Order | functional_variant | 1 | islamic |
+| `single_cast_kills_paired_champions` | Single cast kills paired champions | `divine_warrior` Divine Warrior and Sacred Combat | functional_variant | 1 | celtic_irish |
+| `single_champion_holds_off_an_army_at_a_ford` | single champion holds off an army at a ford | `sacred_combat` Sacred Combat and Ritual Warfare | functional_variant | 1 | celtic_irish |
+| `single_champion_terrifies_an_army` | single champion terrifies an army | `divine_warrior` Divine Warrior and Sacred Combat | role_variant | 1 | celtic_irish |
 
 ## Staged For Review
 
@@ -639,4 +623,4 @@ Policy: auto-accept medium-or-high-confidence `map_to_existing_group` suggestion
 | `ethical_protection_of_orphan_and_beggar` | ethical protection of orphan and beggar | map_to_existing_group | `sacred_law` Sacred Law and Social Order | high | already mapped in main taxonomy |
 | `ethnic_taunt_opposing_martial_masculinity_to_luxurious_cultic_softness` | ethnic taunt opposing martial masculinity to luxurious cultic softness | exclude_from_pattern_queries | `_meta_textual` Textual and Scholarly Artifacts | medium | suggested exclusion |
 
-_Showing first 500 of 1281 review rows._
+_Showing first 500 of 1477 review rows._

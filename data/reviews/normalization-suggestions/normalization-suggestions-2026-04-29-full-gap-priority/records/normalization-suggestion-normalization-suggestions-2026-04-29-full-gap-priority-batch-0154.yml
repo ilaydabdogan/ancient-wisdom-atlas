@@ -1,0 +1,334 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0154
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.safe-elevation-preserves-prey-from-predator
+  motif_id: safe_elevation_preserves_prey_from_predator
+  label: safe elevation preserves prey from predator
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be an animal escape tactic, refuge motif, or episode-specific fable
+    detail; no current group cleanly fits without context.
+  cautions: Single occurrence and very specific; verify whether elevation has symbolic
+    threshold/ascent value or is only practical plot mechanics.
+  suggested_aliases:
+  - elevated refuge from predator
+  - prey escapes predator by height
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - threshold_guardian
+    - ascent
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.safe-refuge-defeats-brute-force
+  motif_id: safe_refuge_defeats_brute_force
+  label: safe refuge defeats brute force
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may describe sanctuary, cunning defense, or narrative resolution
+    rather than a stable mythic pattern.
+  cautions: Needs source context; could fit threshold/protected boundary, trickster
+    strategy, or be too generic for pattern queries.
+  suggested_aliases:
+  - refuge overcomes force
+  - sanctuary defeats brute strength
+  - protected place defeats violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.safe-withdrawal-from-a-known-threat
+  motif_id: safe_withdrawal_from_a_known_threat
+  label: safe withdrawal from a known threat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Reads as a generic plot action or prudential behavior rather than a symbolic
+    or recurring motif.
+  cautions: If the passage frames withdrawal as ritual avoidance, exile, or threshold
+    crossing, reconsider under sacred_law or hero_journey.
+  suggested_aliases:
+  - prudent withdrawal from danger
+  - avoidance of known threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saint-as-wonder-worker-accused-of-sorcery
+  motif_id: saint_as_wonder_worker_accused_of_sorcery
+  label: saint as wonder-worker accused of sorcery
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A saint performing wonders functions as mediated sacred power in human
+    affairs, while accusation of sorcery is a contested-recognition variant.
+  cautions: Could warrant a future saintly charisma/karamat group if recurring; review
+    carefully to avoid flattening Sufi saint-veneration categories into generic magic.
+  suggested_aliases:
+  - wonder-working saint accused of magic
+  - saintly miracle contested as sorcery
+  - karamat mistaken for sorcery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - sacred_knowledge
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saintly-shrine-and-relic-devotion
+  motif_id: saintly_shrine_and_relic_devotion
+  label: Saintly shrine and relic devotion
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Saintly Shrine and Relic Devotion
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Shrine and relic devotion is a recurring ritual-veneration complex not
+    well captured by sacred treasures alone.
+  cautions: Culturally sensitive; distinguish saint veneration, pilgrimage, relic
+    power, tomb cult, and general sacred-object devotion before taxonomy changes.
+  suggested_aliases:
+  - saint shrine devotion
+  - relic veneration
+  - devotion at saintly tomb
+  - saintly tomb cult
+  suggested_new_group:
+    id: saintly_shrine_relic_devotion
+    label: Saintly Shrine and Relic Devotion
+    description: Devotion centered on a saint's shrine, tomb, relics, or bodily traces
+      as sites of blessing, memory, intercession, pilgrimage, or sacred presence.
+    parent_group_ids:
+    - sacred_treasures
+    - otherworld
+    - divine_intervention
+    related_group_ids:
+    - ancestor_rites
+    - heroic_funeral_rites
+    - sacred_exchange
+    - mystical_quest
+    reason_existing_groups_insufficient: Existing groups cover power objects, ancestor
+      rites, and intervention, but not the combined ritual complex of saintly tomb/relic
+      veneration and devotional access to blessing.
+- suggestion_id: normalization.suggestion.saints-and-miracles
+  motif_id: saints_and_miracles
+  label: Saints and miracles
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Miracles mediated through saints fit direct sacred action in human affairs
+    through a holy agent.
+  cautions: Broad label; preserve whether the miracle is healing, protection, knowledge,
+    provision, or wonder-working. May relate to a future saintly charisma group.
+  suggested_aliases:
+  - saintly miracles
+  - miracles of saints
+  - saintly wonder-working
+  - karamat of saints
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - mystical_quest
+    - sacred_knowledge
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sale-of-the-abandoned-youth-as-merchandise
+  motif_id: sale_of_the_abandoned_youth_as_merchandise
+  label: sale of the abandoned youth as merchandise
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This may be a specific episode in an abandoned/threatened child narrative,
+    but current miraculous_child requires destiny or protection context.
+  cautions: If tied to Joseph/Yusuf-like destiny after abandonment, map under miraculous_child
+    or hero_journey; otherwise preserve as episode detail rather than motif.
+  suggested_aliases:
+  - abandoned youth sold as merchandise
+  - castaway child sold into slavery
+  - threatened youth sold by finders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - hero_journey
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.same-story-adapted-to-local-customs
+  motif_id: same_story_adapted_to_local_customs
+  label: Same story adapted to local customs
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes adaptation, reception, or comparative transmission
+    of a story rather than a narrative motif.
+  cautions: Keep as provenance or comparative note; do not use as evidence for contact
+    or common origin in normalization.
+  suggested_aliases:
+  - local adaptation of same story
+  - story localized to custom
+  - variant adapted to local customs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.satan-as-declared-foe-and-misleader
+  motif_id: satan_as_declared_foe_and_misleader
+  label: Satan as declared foe and misleader
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Adversary and Tempter
+  relationship: role_variant
+  confidence: medium
+  rationale: A declared satanic adversary who misleads is a stable antagonist/temptation
+    role not covered cleanly by trickster or divine_judgment.
+  cautions: Do not collapse all trickery into Satan; review theological specificity
+    and distinguish adversary, tempter, deceiver, demon, and chaos-monster roles.
+  suggested_aliases:
+  - satanic misleader
+  - declared adversary and tempter
+  - demonic tempter
+  - enemy who leads astray
+  suggested_new_group:
+    id: adversary_tempter
+    label: Adversary and Tempter
+    description: A satanic, demonic, or hostile sacred figure acts as declared enemy,
+      deceiver, accuser, or tempter who misleads humans away from sacred order.
+    parent_group_ids:
+    - divine_judgment
+    - sacred_law
+    related_group_ids:
+    - trickster
+    - chaos
+    - forbidden_knowledge
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Trickster emphasizes liminal disorder and
+      culture-making, while divine_judgment emphasizes reckoning; neither directly
+      captures the theological role of an adversary who tempts and misleads.
+- suggestion_id: normalization.suggestion.saving-a-troop-or-group
+  motif_id: saving_a_troop_or_group
+  label: saving a troop or group
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Group rescue can fit intervention or guidance when a sacred/heroic agent
+    saves a community from danger.
+  cautions: Label is generic; if rescue is ordinary leadership, exclude or map to
+    hero_journey only with ordeal/boon evidence. Buddhist context may imply compassion
+    rather than divine agency.
+  suggested_aliases:
+  - rescue of a group
+  - saving a band from danger
+  - collective deliverance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_exchange
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Greek safety/refuge labels appear highly episode-specific and need source
+  context before durable placement.
+- Sufi saint labels may justify a future saintly charisma or saint-veneration complex
+  if more examples recur; avoid reducing culturally specific categories to generic
+  magic.
+- No transmission or borrowing claims are implied by any placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for batch-0154; human review recommended
+    for culturally specific saint/Satan labels and over-specific fable/action labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0154
+  input_sha256: 31dc5c7f9c8f52d1bf96f378fff76415cfaa720d536fbc29af4b4c24099c240b

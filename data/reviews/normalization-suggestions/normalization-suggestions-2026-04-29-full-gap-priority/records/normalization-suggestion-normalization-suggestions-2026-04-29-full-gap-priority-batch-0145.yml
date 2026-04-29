@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0145
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rejected-miracle-signs
+  motif_id: rejected_miracle_signs
+  label: rejected miracle signs
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejecting miraculous signs commonly functions as refusal of divine warning
+    or proof, followed by moral reckoning.
+  cautions: Could instead be prophetic opposition, revelation, or polemical commentary
+    depending on passage context.
+  suggested_aliases:
+  - rejected sign
+  - denial of miracle
+  - refusal of divine sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-miraculous-sign
+  motif_id: rejected_miraculous_sign
+  label: Rejected miraculous sign
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Singular version of rejected miracle signs; refusal of sacred evidence
+    fits judgment or warning-response patterns.
+  cautions: May overlap with theophany or sacred_knowledge if emphasis is revelation
+    rather than punishment.
+  suggested_aliases:
+  - rejected miracle signs
+  - denied miraculous sign
+  - refused divine proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-old-suitor-and-chosen-younger-suitor
+  motif_id: rejected_old_suitor_and_chosen_younger_suitor
+  label: Rejected old suitor and chosen younger suitor
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns courtship choice, but current groups lack a clear
+    marriage-suitor or bride-selection category.
+  cautions: May be an episode-specific plot detail; could relate to sacred_marriage
+    only if union establishes cosmic, royal, or fertility order.
+  suggested_aliases:
+  - rival suitors
+  - younger suitor chosen
+  - old suitor rejected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-or-persecuted-messengers
+  motif_id: rejected_or_persecuted_messengers
+  label: Rejected or persecuted messengers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Messengers bearing divine warning or guidance fit divine intervention,
+    especially when communities reject them.
+  cautions: If the passage emphasizes punishment for rejection, secondary mapping
+    to divine_judgment may be appropriate.
+  suggested_aliases:
+  - persecuted messengers
+  - rejected prophets
+  - rejected divine envoys
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-by-both-adopted-group-and-original-group
+  motif_id: rejection_by_both_adopted_group_and_original_group
+  label: rejection by both adopted group and original group
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes social exclusion or liminal identity, but its narrative
+    function is unclear from wording alone.
+  cautions: Could fit exile, initiation, tragic recognition, or a passage-specific
+    biographical detail; source context needed.
+  suggested_aliases:
+  - double rejection
+  - rejected by origin and adopted group
+  - liminal social belonging
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-a-prior-model-of-disobedience
+  motif_id: rejection_of_a_prior_model_of_disobedience
+  label: rejection of a prior model of disobedience
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejecting an exemplary pattern of disobedience functions as moral instruction
+    under sacred law or ethical command.
+  cautions: May be a commentary artifact if phrased as interpretive comparison rather
+    than a narrative motif.
+  suggested_aliases:
+  - negative exemplar rejected
+  - disobedience model rejected
+  - refusal to imitate disobedience
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-diplomacy-in-favor-of-force
+  motif_id: rejection_of_diplomacy_in_favor_of_force
+  label: rejection of diplomacy in favor of force
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Choosing force over negotiation is a conflict-escalation motif within
+    sacred or heroic warfare contexts.
+  cautions: If merely political strategy without sacred or ritual framing, it may
+    be too contextual for motif queries.
+  suggested_aliases:
+  - force chosen over diplomacy
+  - failed diplomacy before battle
+  - rejection of negotiation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-false-deities
+  motif_id: rejection_of_false_deities
+  label: rejection of false deities
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejecting false deities marks exclusive sacred allegiance and maintenance
+    of the divine-human bond.
+  cautions: Could also fit sacred_law, divine_judgment, or idol-related review depending
+    on whether the passage emphasizes law, punishment, or idolatry.
+  suggested_aliases:
+  - repudiation of false gods
+  - rejection of idols
+  - exclusive worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-false-magical-embellishment
+  motif_id: rejection_of_false_magical_embellishment
+  label: rejection of false magical embellishment
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording suggests editorial or interpretive rejection of an embellishment
+    rather than a motif in the story world.
+  cautions: If a character rejects deceptive magic within the narrative, review under
+    sacred_knowledge or trickster instead.
+  suggested_aliases:
+  - rejected magical interpolation
+  - false embellishment rejected
+  - editorial rejection of magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-unjust-paternal-command
+  motif_id: rejection_of_unjust_paternal_command
+  label: rejection of unjust paternal command
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusing an unjust parental command centers ethical discernment against
+    hierarchical authority, fitting sacred law and social order.
+  cautions: Could fit initiation or royal_legitimacy if the refusal transforms status
+    or challenges sovereign lineage; source evidence needed.
+  suggested_aliases:
+  - refusal of unjust father command
+  - ethical disobedience to parent
+  - paternal authority rejected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels beginning with 'rejection' are abstract ethical or narrative-function
+  summaries; verify that they are source-level motifs rather than analyst phrasing.
+- For Islamic messenger/sign labels, avoid collapsing revelation, warning, rejection,
+  and judgment unless the passage evidence supports that sequence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence and context-dependent items
+    should receive human evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0145
+  input_sha256: d5dedfd2b6e738c42933939b95978e8ed260472e2418eb73cf30fb6dbf0f1408

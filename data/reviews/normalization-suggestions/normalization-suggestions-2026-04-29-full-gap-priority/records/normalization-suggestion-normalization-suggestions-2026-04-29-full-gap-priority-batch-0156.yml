@@ -1,0 +1,311 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0156
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.secret-message-under-threat
+  motif_id: secret_message_under_threat
+  label: Secret message under threat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve hidden communication, intrigue, oath pressure, or narrative
+    suspense; no current group clearly fits from label alone.
+  cautions: Single occurrence and context-dependent; avoid mapping to sacred_knowledge
+    unless the message is sacred, prophetic, or transformative.
+  suggested_aliases:
+  - threatened_secret_message
+  - message_concealed_under_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - storytelling_as_power
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-revelry-exposed-by-excessive-illumination
+  motif_id: secret_revelry_exposed_by_excessive_illumination
+  label: secret revelry exposed by excessive illumination
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly specific plot mechanism rather than a reusable
+    mythic motif.
+  cautions: If the passage centers on hidden transgression revealed by divine light,
+    human review could consider sacred_fire, divine_judgment, or pride_and_downfall.
+  suggested_aliases:
+  - hidden_revelry_exposed_by_light
+  - secret_feasting_revealed_by_light
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - divine_judgment
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-rule-through-beneficial-deception
+  motif_id: secret_rule_through_beneficial_deception
+  label: Secret rule through beneficial deception
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns hidden or deceptive governance that preserves or legitimizes
+    rule.
+  cautions: If deception rather than rulership is central, trickster may be a secondary
+    fit; verify that the deception is socially or politically beneficial, not merely
+    comic intrigue.
+  suggested_aliases:
+  - hidden_governance_by_beneficial_deception
+  - benevolent_deceptive_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-stratagem-against-a-powerful-predator
+  motif_id: secret_stratagem_against_a_powerful_predator
+  label: Secret stratagem against a powerful predator
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A concealed stratagem against a stronger predator fits trickster survival
+    through cunning and boundary-crossing deception.
+  cautions: Could be a fable or ethical teaching rather than a mythic trickster motif;
+    if framed as spiritual instruction, sacred_knowledge may be relevant.
+  suggested_aliases:
+  - cunning_stratagem_against_predator
+  - secret_plan_against_stronger_predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-transport-of-treasure-under-ordinary-goods
+  motif_id: secret_transport_of_treasure_under_ordinary_goods
+  label: Secret transport of treasure under ordinary goods
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be concealment of a power object, mercantile trickery, or plot
+    logistics; the treasure's sacred function is unclear.
+  cautions: Do not map to sacred_treasures unless the treasure confers authority,
+    protection, or sacred ability; may be too episode-specific.
+  suggested_aliases:
+  - treasure_hidden_under_common_goods
+  - concealed_transport_of_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-treasure-discovered-and-stolen-by-observer
+  motif_id: secret_treasure_discovered_and_stolen_by_observer
+  label: Secret treasure discovered and stolen by observer
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: A hidden treasure discovered and stolen may involve a power object or
+    treasure-motif complex.
+  cautions: Low confidence because the label may describe ordinary theft; if no sacred
+    or power-object function is present, exclude as a plot detail or consider trickster
+    only as secondary.
+  suggested_aliases:
+  - hidden_treasure_stolen_by_witness
+  - observer_steals_secret_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_theft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-vulnerability-disclosed-to-a-deceiver-or-captive
+  motif_id: secret_vulnerability_disclosed_to_a_deceiver_or_captive
+  label: secret vulnerability disclosed to a deceiver or captive
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: Disclosure of a hidden vulnerability to a deceiver often functions like
+    the external-soul or hidden-life complex.
+  cautions: Confirm that the vulnerability controls life, death, invulnerability,
+    or defeat; otherwise this may be ordinary betrayal or trickster intrigue.
+  suggested_aliases:
+  - hidden_vulnerability_revealed_to_deceiver
+  - secret_weakness_disclosed_to_captive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_knowledge
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-vulnerability-sought-through-intimate-deception
+  motif_id: secret_vulnerability_sought_through_intimate_deception
+  label: Secret vulnerability sought through intimate deception
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: Seeking a secret weakness through intimacy aligns with hidden-life or
+    external-vulnerability patterns when defeat depends on the secret.
+  cautions: May also involve sacred_love, betrayal, or sovereignty politics; verify
+    that the disclosed secret is a life-token, fatal condition, or magical vulnerability.
+  suggested_aliases:
+  - intimate_deception_to_learn_vulnerability
+  - secret_weakness_sought_by_lover_or_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - trickster
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-withheld-because-allies-may-become-enemies
+  motif_id: secret_withheld_because_allies_may_become_enemies
+  label: secret withheld because allies may become enemies
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on guarded knowledge and the prudential withholding
+    of secrets.
+  cautions: If the passage is only political advice or aphorism, it may be an ethical
+    teaching rather than a narrative motif; review source context.
+  suggested_aliases:
+  - guarded_secret_against_future_enemies
+  - withholding_knowledge_from_unstable_allies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secretive-spouse-with-abnormal-eating-behavior
+  motif_id: secretive_spouse_with_abnormal_eating_behavior
+  label: secretive spouse with abnormal eating behavior
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate an uncanny spouse, hidden nonhuman identity, taboo,
+    or comic domestic detail; current groups do not determine function.
+  cautions: Could map to shapeshifter if eating reveals nonhuman form, sacred_law
+    if food taboo is central, or sacred_love if spouse secrecy drives marital ordeal.
+  suggested_aliases:
+  - uncanny_spouse_with_secret_eating
+  - hidden_identity_revealed_by_eating_behavior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_law
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence plot details involving secrecy,
+  deception, or hidden knowledge; source context is needed before promoting any new
+  motif group.
+- Avoid treating ordinary treasure, messages, or intrigue as sacred_knowledge or sacred_treasures
+  unless the passage gives them transformative, divine, or power-object function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify whether each secrecy
+    motif is narrative-functional or merely episode-specific.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0156
+  input_sha256: 1f5d29dff66cdc3eca2bdbaa4e65f2476509c6f74f3f43620c77abd779c988e1

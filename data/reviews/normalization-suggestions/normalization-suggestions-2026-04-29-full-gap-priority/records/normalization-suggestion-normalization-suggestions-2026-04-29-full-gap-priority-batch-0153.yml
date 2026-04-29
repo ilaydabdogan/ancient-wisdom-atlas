@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0153
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.roster-of-marvelous-companions
+  motif_id: roster_of_marvelous_companions
+  label: Roster of marvelous companions
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A list of marvelous helpers may be a hero-journey aid pattern, but the
+    label reads like an episode inventory without function.
+  cautions: Needs source context to distinguish companion helpers, supernatural retinue,
+    catalog artifact, or passage-specific detail.
+  suggested_aliases:
+  - marvelous companions
+  - supernatural companions
+  - hero's helper companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - divine_intervention
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.routed-forces-rallied-for-renewed-assault
+  motif_id: routed_forces_rallied_for_renewed_assault
+  label: routed forces rallied for renewed assault
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes a battle sequence of defeat followed by renewed attack,
+    fitting warfare and sacred combat contexts.
+  cautions: If this is merely a tactical narrative beat without sacred or mythic significance,
+    it may be too generic for pattern queries.
+  suggested_aliases:
+  - routed army rallies
+  - renewed assault after rout
+  - rally after defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-funeral-procession-and-obsequies
+  motif_id: royal_funeral_procession_and_obsequies
+  label: Royal funeral procession and obsequies
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Funeral procession and obsequies for a royal figure belong with funeral
+    rites that honor the dead and reaffirm social order.
+  cautions: Could also touch royal_legitimacy if succession or kingship transfer is
+    the main function.
+  suggested_aliases:
+  - royal obsequies
+  - kingly funeral rites
+  - funeral procession for ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-hospitality-and-healing-shelter
+  motif_id: royal_hospitality_and_healing_shelter
+  label: royal hospitality and healing shelter
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines hospitality, royal protection, and healing, none of
+    which has a clean existing group without passage context.
+  cautions: May fit sacred_exchange, royal_legitimacy, divine_intervention, or be
+    an episode-specific courtly detail.
+  suggested_aliases:
+  - healing shelter under royal hospitality
+  - royal refuge and healing
+  - hospitality as protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - royal_legitimacy
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-spouses-compare-wealth-and-status
+  motif_id: royal_spouses_compare_wealth_and_status
+  label: royal spouses compare wealth and status
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing sacred_combat group includes wealth contest between rulers;
+    this appears to be a status rivalry that may catalyze conflict.
+  cautions: If the passage emphasizes marriage dynamics or sovereignty rather than
+    conflict, sacred_marriage or royal_legitimacy may be better secondary context.
+  suggested_aliases:
+  - royal wealth contest
+  - spousal status comparison
+  - wealth rivalry between royal spouses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-title-for-vegetation-representative
+  motif_id: royal_title_for_vegetation_representative
+  label: royal title for vegetation representative
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A vegetation representative with a royal title likely belongs to seasonal
+    or agricultural ritual-cycle symbolism.
+  cautions: Comparative wording may be a scholarly classification artifact; review
+    whether an actual ritual figure is present.
+  suggested_aliases:
+  - vegetation king
+  - royal vegetation representative
+  - ritual king of vegetation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-women-compared-to-bereaved-elephants
+  motif_id: royal_women_compared_to_bereaved_elephants
+  label: royal women compared to bereaved elephants
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to be a specific poetic simile rather than a reusable narrative
+    or symbolic motif.
+  cautions: If bereaved elephants function as a recurring cultural grief image, it
+    could be preserved as evidence under lament_and_mourning, but not as a broad query
+    motif.
+  suggested_aliases:
+  - bereaved elephant simile
+  - mourning women compared to elephants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.runaway-celestial-vehicle-causing-disaster
+  motif_id: runaway_celestial_vehicle_causing_disaster
+  label: runaway celestial vehicle causing disaster
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A celestial vehicle out of control causing disaster fits cosmic disorder
+    and punitive or corrective catastrophe more than ordinary travel.
+  cautions: Do not map to flood_and_renewal unless world destruction and renewal are
+    explicit; could also be a failed-ascent or hubris episode.
+  suggested_aliases:
+  - celestial chariot disaster
+  - runaway divine vehicle
+  - cosmic vehicle catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - pride_and_downfall
+    - ascent
+    - flood_and_renewal
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rustic-deity-as-protector-and-fertility-power
+  motif_id: rustic_deity_as_protector_and_fertility_power
+  label: rustic deity as protector and fertility power
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A local rustic deity acting as protector and fertility power fits divine
+    agency in human and communal welfare.
+  cautions: Could warrant a future tutelary/fertility-deity subgroup if many local
+    deity role labels recur; avoid collapsing all fertility into mother_goddess.
+  suggested_aliases:
+  - rustic protector deity
+  - fertility-protector god
+  - local fertility guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - mother_goddess
+    - civic_or_communal_tutelary_spirit
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacralization-of-property-or-utility
+  motif_id: sacralization_of_property_or_utility
+  label: Sacralization of property or utility
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The abstract label could refer to law, sacred exchange, dedication, cult
+    property, or scholarly interpretation.
+  cautions: Likely too conceptual without passage evidence; may be a commentary artifact
+    if it summarizes social function rather than a motif.
+  suggested_aliases:
+  - sacred property
+  - utility made sacred
+  - sacralized possession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional taxonomy placements only and make no transmission or
+  origin claims.
+- Several single-occurrence labels appear episode-specific or abstract; human review
+  should verify whether each is a motif, poetic image, or commentary artifact.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch reviewed for best-fit canonical motif groups; ambiguous and potentially
+    artifact-like labels flagged for human review or exclusion.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0153
+  input_sha256: 59da8e5ddc8c004a814aa44dc270d3a8639a81d1c88ef1dd21531955ed59fd82

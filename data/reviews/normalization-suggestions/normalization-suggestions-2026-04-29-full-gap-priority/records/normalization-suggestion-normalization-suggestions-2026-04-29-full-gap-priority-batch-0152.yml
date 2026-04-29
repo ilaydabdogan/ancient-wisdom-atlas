@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0152
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.right-and-duty-before-happiness
+  motif_id: right_and_duty_before_happiness
+  label: right and duty before happiness
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label frames ethical obligation and right conduct as taking precedence
+    over private happiness, fitting sacred or moral order.
+  cautions: May be philosophical ethics rather than a mythic motif; if purely argumentative
+    commentary, consider excluding from pattern queries.
+  suggested_aliases:
+  - duty before happiness
+  - ethical duty over personal happiness
+  - right conduct before pleasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.right-grounded-in-power
+  motif_id: right_grounded_in_power
+  label: right grounded in power
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase could refer to political realism, divine sovereignty, tyranny,
+    or a philosophical claim about justice and force.
+  cautions: Likely depends on passage context; avoid mapping to royal_legitimacy or
+    divine_judgment unless sacred authority or moral reckoning is explicit.
+  suggested_aliases:
+  - might makes right
+  - justice grounded in power
+  - power as basis of right
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.righteous-remnant-saved-from-communal-destruction
+  motif_id: righteous_remnant_saved_from_communal_destruction
+  label: righteous remnant saved from communal destruction
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: high
+  rationale: A righteous remnant spared while a community is destroyed fits catastrophe,
+    judgment, survival, and renewal patterns.
+  cautions: If no renewed social order follows, secondary emphasis may be divine_judgment
+    rather than flood_and_renewal; preserve remnant specificity.
+  suggested_aliases:
+  - righteous remnant spared
+  - saved remnant after judgment
+  - pious remnant survives destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.righteous-remnant-within-another-scriptural-community
+  motif_id: righteous_remnant_within_another_scriptural_community
+  label: Righteous remnant within another scriptural community
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: role_variant
+  confidence: medium
+  rationale: A faithful remnant inside another scriptural community concerns sacred
+    allegiance, covenantal identity, and righteous minority status.
+  cautions: Could be theological classification or intercommunal commentary rather
+    than a narrative motif; review sensitivity around scriptural communities.
+  suggested_aliases:
+  - faithful remnant in another community
+  - righteous minority within scriptural community
+  - covenantal remnant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rise-and-fall-of-cities-under-time
+  motif_id: rise_and_fall_of_cities_under_time
+  label: rise and fall of cities under time
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label emphasizes time as the force under which civic orders rise
+    and decline, fitting sacred or cosmic time more than a single disaster motif.
+  cautions: May be historical reflection or literary moralizing; if focused on ruin
+    through hubris, pride_and_downfall may be a better mapping.
+  suggested_aliases:
+  - cities rise and fall under time
+  - civic decline under time
+  - time consumes cities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rise-of-a-religion-through-political-opportunity
+  motif_id: rise_of_a_religion_through_political_opportunity
+  label: rise of a religion through political opportunity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as historical or sociological analysis of religious expansion
+    rather than a symbolic or narrative motif.
+  cautions: If a source passage depicts divine providence or sacred kingship enabling
+    religion, remap to divine_intervention, covenant, or royal_legitimacy as evidence
+    supports.
+  suggested_aliases:
+  - religious rise through political opportunity
+  - political conditions for religious expansion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-armies-hosted-together-in-one-hall
+  motif_id: rival_armies_hosted_together_in_one_hall
+  label: Rival armies hosted together in one hall
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The scene belongs to warfare and conflict ritual, especially if hospitality
+    creates a charged pre-battle or truce setting.
+  cautions: Highly episode-specific; if the focus is hospitality law or violated guest-right,
+    sacred_law or covenant may be better secondary mappings.
+  suggested_aliases:
+  - rival hosts in one hall
+  - enemy armies under shared hospitality
+  - opposing armies feasted together
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-prophet-as-remaining-exception-to-consolidation
+  motif_id: rival_prophet_as_remaining_exception_to_consolidation
+  label: Rival prophet as remaining exception to consolidation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could concern contested authority, prophecy, political consolidation,
+    or historical commentary.
+  cautions: Culturally and historically sensitive; do not map without source evidence
+    showing sacred authority, divine judgment, or rival revelation as narrative function.
+  suggested_aliases:
+  - rival prophet resists consolidation
+  - remaining prophetic rival
+  - exception to religious-political consolidation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rivalry-of-poetry-and-philosophy
+  motif_id: rivalry_of_poetry_and_philosophy
+  label: Rivalry of poetry and philosophy
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns competing forms of authoritative speech, wisdom transmission,
+    and cultural memory.
+  cautions: May be a philosophical-literary theme rather than a mythic motif; if focused
+    on truth and knowledge rather than narrative power, sacred_knowledge may be a
+    secondary mapping.
+  suggested_aliases:
+  - poetry versus philosophy
+  - contest of poetic and philosophical authority
+  - rival forms of wisdom speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rooted-treasure-freed-by-plowing
+  motif_id: rooted_treasure_freed_by_plowing
+  label: Rooted treasure freed by plowing
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden or rooted treasure released from earth by plowing fits discovery
+    of a power object or sacred treasure.
+  cautions: If plowing and earth-release are central to fertility or seasonal agriculture,
+    sacred_time or cosmic_origin may be relevant; source context needed.
+  suggested_aliases:
+  - treasure unearthed by plowing
+  - earthbound treasure released
+  - plowed-up hidden treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission or borrowing claims.
+- Several single-occurrence labels read as philosophical, historical, or episode-specific
+  abstractions; human review should verify passage-level motif function before final
+  indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes ethical-philosophical and historical-context labels requiring
+    source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0152
+  input_sha256: b3975239708f4a9f47cc397be8a4b70b7d44b2461a7ba36db909a90bd85b18dd

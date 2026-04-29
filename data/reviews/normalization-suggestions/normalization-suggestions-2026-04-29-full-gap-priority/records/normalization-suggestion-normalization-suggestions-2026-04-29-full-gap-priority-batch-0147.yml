@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0147
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.religious-reformer-aligned-with-precursor-monotheists
+  motif_id: religious_reformer_aligned_with_precursor_monotheists
+  label: Religious reformer aligned with precursor monotheists
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe prophetic alignment, reform, or later interpretive
+    framing rather than a discrete motif.
+  cautions: Potentially source- or theology-specific; verify whether this is a narrative
+    motif, doctrinal claim, or comparative commentary before mapping.
+  suggested_aliases:
+  - reformer aligned with earlier monotheists
+  - prophetic reform linked to precursor believers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_knowledge
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-rejection-of-games-of-chance
+  motif_id: religious_rejection_of_games_of_chance
+  label: Religious rejection of games of chance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A religious prohibition of gambling or chance-games fits sacred law,
+    ethical command, and ritual/legal boundary-making.
+  cautions: If the passage is only a legal rule without narrative or symbolic function,
+    preserve as a legal/ethical evidence detail rather than a broad motif.
+  suggested_aliases:
+  - prohibition of games of chance
+  - religious gambling taboo
+  - ethical rejection of gambling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-release-and-salvation-after-enchantment
+  motif_id: religious_release_and_salvation_after_enchantment
+  label: religious release and salvation after enchantment
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Release from enchantment followed by salvation functions as transformation
+    from a bound or altered state into restored life/status.
+  cautions: Could fit otherworld, shapeshifter, divine_intervention, or Christianized
+    salvation framing depending on the passage; review whether enchantment, conversion,
+    or rescue is primary.
+  suggested_aliases:
+  - salvation after enchantment
+  - release from enchantment
+  - redemptive disenchantment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - shapeshifter
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-syncretism-and-festival-transfer
+  motif_id: religious_syncretism_and_festival_transfer
+  label: religious syncretism and festival transfer
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes historical/religious interpretation of festival transfer
+    rather than a narrative or symbolic motif.
+  cautions: Preserve as reception, calendar-history, or provenance note if useful;
+    do not use as motif evidence or transmission claim in Pattern Explorer.
+  suggested_aliases:
+  - festival transfer through syncretism
+  - religious syncretism of festivals
+  - calendar syncretism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-champion-compelled-by-taunts
+  motif_id: reluctant_champion_compelled_by_taunts
+  label: Reluctant champion compelled by taunts
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A champion drawn into combat by honor-pressure or taunting fits heroic
+    combat and ritualized warfare dynamics.
+  cautions: May be an episode-specific heroic honor detail; if no sacred or ritualized
+    combat frame is present, keep granular or review under divine_warrior/hero_journey.
+  suggested_aliases:
+  - taunts compel reluctant champion
+  - honor-taunt forcing combat
+  - reluctant hero drawn into battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-champion-compelled-to-fight-former-pupil
+  motif_id: reluctant_champion_compelled_to_fight_former_pupil
+  label: reluctant champion compelled to fight former pupil
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core pattern is compelled heroic combat; the former-pupil relationship
+    is important evidence detail but too specific for a group.
+  cautions: May also involve tragic recognition, initiation, or teacher-student reversal;
+    review before merging with general combat motifs.
+  suggested_aliases:
+  - champion forced to fight former pupil
+  - reluctant combat against former student
+  - tragic duel with pupil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - lament_and_mourning
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-blessed-land-preserving-primordial-customs
+  motif_id: remote_blessed_land_preserving_primordial_customs
+  label: remote blessed land preserving primordial customs
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A remote blessed land with preserved primordial order resembles an idealized
+    otherworld or enchanted realm outside ordinary time.
+  cautions: Could instead be sacred geography, utopian social order, or doctrinal
+    cosmography; do not map to afterlife unless postmortem travel is explicit.
+  suggested_aliases:
+  - blessed remote land
+  - primordial customs preserved in distant realm
+  - ideal remote sacred land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - cosmic_origin
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-guarded-hiding-place-of-life
+  motif_id: remote_guarded_hiding_place_of_life
+  label: Remote guarded hiding place of life
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: A life hidden in a remote guarded place is a classic externalized-life
+    or external-soul pattern.
+  cautions: If the hidden life is metaphorical or refers to a sacred treasure rather
+    than vulnerability/life-dependency, review secondary mapping.
+  suggested_aliases:
+  - hidden life in guarded place
+  - remote life-token
+  - guarded external life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_vessel
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renewed-stage-of-education
+  motif_id: renewed_stage_of_education
+  label: renewed stage of education
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too abstract to tell whether it is initiation, wisdom transmission,
+    or ordinary plot development.
+  cautions: Single occurrence and likely contextual; require passage evidence before
+    mapping to initiation or sacred_knowledge.
+  suggested_aliases:
+  - new phase of education
+  - renewed instruction
+  - second stage of learning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renown-purchased-by-short-life
+  motif_id: renown_purchased_by_short_life
+  label: renown purchased by short life
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Choosing or accepting short life in exchange for lasting fame fits heroic
+    fate, destiny, and death assigned by value-choice.
+  cautions: Could also fit sacrifice or heroic honor if the passage emphasizes self-offering
+    rather than fate; preserve the fame-for-life exchange as evidence detail.
+  suggested_aliases:
+  - short life exchanged for renown
+  - heroic fame at cost of lifespan
+  - brief life for lasting glory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - divine_warrior
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid claims about transmission or shared origin.
+- Several single-occurrence labels are episode-specific; preserve local evidence even
+  when mapped to broad groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Human review recommended for abstract reform/education labels and culturally
+    specific legal or syncretism labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0147
+  input_sha256: 80b031c5a1f7793be6c7eed0dab4058ab5c814e97d49d6b2ce5dc02cfa57fc7e
