@@ -7,8 +7,8 @@ method: Counts distinct traditions for indexed motif IDs that map to canonical_m
 indexed_motif_count: 9072
 indexed_occurrence_count: 31658
 canonical_motif_group_count: 53
-mapped_motif_count: 3522
-unmapped_motif_count: 5550
+mapped_motif_count: 3564
+unmapped_motif_count: 5508
 canonical_motifs:
 - canonical_motif_id: death_and_transformation
   label: Death, Rebirth, and Transformation
@@ -634,14 +634,14 @@ canonical_motifs:
     hindu: 77
     indigenous_australian: 9
     islamic: 44
-    islamicate_folklore: 13
+    islamicate_folklore: 14
     japanese: 10
     jewish_christian: 1
     maya_quiche: 1
     mesopotamian: 1
     norse: 17
     persian: 3
-    roman: 30
+    roman: 31
     sufi: 146
   mapped_motifs:
   - motif_id: initiation
@@ -860,6 +860,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       buddhist: 1
+  - motif_id: marriage_race_with_death_penalty
+    label: marriage race with death penalty
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
   - motif_id: maze_like_communal_dance
     label: maze-like communal dance
     relationship: ritual_variant
@@ -881,6 +888,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       comparative: 1
+  - motif_id: perilous_cure_trial_with_marriage_reward_and_death_penalty
+    label: perilous cure trial with marriage reward and death penalty
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamicate_folklore: 1
   - motif_id: perilous_wilderness_as_ordeal
     label: perilous wilderness as ordeal
     relationship: functional_variant
@@ -994,8 +1008,8 @@ canonical_motifs:
     traditions:
       celtic_irish: 1
   tradition_count: 22
-  occurrence_count: 732
-  mapped_motif_count: 46
+  occurrence_count: 734
+  mapped_motif_count: 48
 - canonical_motif_id: sacred_knowledge
   label: Sacred Knowledge and Wisdom
   description: The acquisition, transmission, protection, or concealment of sacred
@@ -1781,7 +1795,7 @@ canonical_motifs:
     maya_quiche: 2
     norse: 35
     persian: 20
-    roman: 212
+    roman: 213
     sufi: 217
   mapped_motifs:
   - motif_id: divine_judgment
@@ -2609,6 +2623,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       greek: 1
+  - motif_id: parental_vengeance_for_dead_child
+    label: parental vengeance for dead child
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
   - motif_id: patient_righteous_vindicated_after_persecution
     label: patient righteous vindicated after persecution
     relationship: functional_variant
@@ -3079,8 +3100,8 @@ canonical_motifs:
     traditions:
       ainu: 1
   tradition_count: 21
-  occurrence_count: 2379
-  mapped_motif_count: 182
+  occurrence_count: 2380
+  mapped_motif_count: 183
 - canonical_motif_id: sacred_exchange
   label: Sacred Exchange and Reciprocity
   description: The principle of reciprocal giving between humans and the divine, or
@@ -5837,7 +5858,7 @@ canonical_motifs:
     daoist: 2
     egyptian: 1
     finnish_karelian: 16
-    greek: 27
+    greek: 28
     greek_roman: 10
     hindu: 18
     indigenous_australian: 1
@@ -5847,7 +5868,7 @@ canonical_motifs:
     jewish_christian: 1
     maya_quiche: 1
     norse: 12
-    roman: 33
+    roman: 34
   mapped_motifs:
   - motif_id: hero_descent
     label: Descent Into The Underworld
@@ -5958,9 +5979,23 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       islamic: 1
+  - motif_id: lower_world_encounter_with_dead_authorities_and_a_ghost
+    label: lower-world encounter with dead authorities and a ghost
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
   - motif_id: music_that_moves_infernal_powers
     label: music that moves infernal powers
     relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: premature_descent_to_tartarus_after_family_affliction
+    label: premature descent to Tartarus after family affliction
+    relationship: narrower_than
     occurrence_count: 1
     tradition_count: 1
     traditions:
@@ -5973,8 +6008,8 @@ canonical_motifs:
     traditions:
       greek: 1
   tradition_count: 19
-  occurrence_count: 177
-  mapped_motif_count: 14
+  occurrence_count: 179
+  mapped_motif_count: 16
 - canonical_motif_id: sacrifice
   label: Sacrifice and Offering
   description: 'The giving up of something precious # life, status, possession, self
@@ -8435,12 +8470,12 @@ canonical_motifs:
   traditions:
     ainu: 9
     buddhist: 1
-    celtic_irish: 79
-    celtic_welsh: 18
+    celtic_irish: 80
+    celtic_welsh: 19
     comparative: 26
     finnish_karelian: 30
     greek: 91
-    greek_roman: 44
+    greek_roman: 45
     hindu: 193
     indigenous_australian: 3
     islamic: 6
@@ -8448,7 +8483,7 @@ canonical_motifs:
     japanese: 5
     norse: 43
     persian: 4
-    roman: 95
+    roman: 96
     sufi: 23
   mapped_motifs:
   - motif_id: stolen_beloved
@@ -8736,6 +8771,34 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       roman: 1
+  - motif_id: love_extending_into_the_realm_of_death
+    label: love extending into the realm of death
+    relationship: symbolic_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: lover_s_self_killing_after_mistaken_report_or_sign_of_beloved_s_death
+    label: lover's self-killing after mistaken report or sign of beloved's death
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: lovers_joined_in_one_grave
+    label: lovers joined in one grave
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: loyal_spouse_refuses_food_and_new_union_while_beloved_lies_as_dead
+    label: Loyal spouse refuses food and new union while beloved lies as dead
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_welsh: 1
   - motif_id: madness_or_wasting_after_supernatural_separation
     label: madness or wasting after supernatural separation
     relationship: functional_variant
@@ -8849,8 +8912,8 @@ canonical_motifs:
     traditions:
       greek: 1
   tradition_count: 17
-  occurrence_count: 690
-  mapped_motif_count: 53
+  occurrence_count: 694
+  mapped_motif_count: 57
 - canonical_motif_id: duality
   label: Duality and Cosmic Opposition
   description: 'The fundamental pairing of opposites # light/dark, order/chaos, life/death,
@@ -9435,11 +9498,11 @@ canonical_motifs:
     ainu: 1
     buddhist: 1
     celtic_irish: 5
-    comparative: 55
+    comparative: 56
     confucian: 1
     daoist: 2
     finnish_karelian: 3
-    greek: 20
+    greek: 22
     greek_roman: 6
     hindu: 22
     islamic: 105
@@ -10276,6 +10339,20 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       islamic: 1
+  - motif_id: ordered_correspondence_of_state_and_soul
+    label: Ordered correspondence of State and soul
+    relationship: symbolic_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: ordered_soul_as_ordered_city
+    label: Ordered soul as ordered city
+    relationship: symbolic_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
   - motif_id: outward_profession_contrasted_with_inward_faith
     label: Outward profession contrasted with inward faith
     relationship: narrower_than
@@ -10313,6 +10390,13 @@ canonical_motifs:
       comparative: 1
   - motif_id: pollution_cleansed_by_sacred_herbs_and_roots
     label: pollution cleansed by sacred herbs and roots
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: privacy_or_concealment_to_protect_the_soul_during_meals
+    label: privacy or concealment to protect the soul during meals
     relationship: ritual_variant
     occurrence_count: 1
     tradition_count: 1
@@ -11082,8 +11166,8 @@ canonical_motifs:
     traditions:
       islamic: 1
   tradition_count: 16
-  occurrence_count: 236
-  mapped_motif_count: 233
+  occurrence_count: 239
+  mapped_motif_count: 236
 - canonical_motif_id: sacred_waters
   label: Sacred Waters and Passage Through Water
   description: Water as boundary, purifier, destroyer, and medium of transformation.
@@ -11110,7 +11194,7 @@ canonical_motifs:
     jewish_christian: 1
     norse: 7
     roman: 27
-    sufi: 8
+    sufi: 9
   mapped_motifs:
   - motif_id: water
     label: perilous sea passage through monstrous waters
@@ -11300,6 +11384,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       hindu: 1
+  - motif_id: paradisal_spring_as_spiritual_nourishment
+    label: Paradisal spring as spiritual nourishment
+    relationship: symbolic_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
   - motif_id: partial_invulnerability_from_sacred_water
     label: partial invulnerability from sacred water
     relationship: functional_variant
@@ -11504,8 +11595,8 @@ canonical_motifs:
     traditions:
       hindu: 1
   tradition_count: 16
-  occurrence_count: 153
-  mapped_motif_count: 54
+  occurrence_count: 154
+  mapped_motif_count: 55
 - canonical_motif_id: lament_and_mourning
   label: Lament, Mourning, and Tragic Recognition
   description: The expression of grief, loss, and tragic awareness. Includes mourning
@@ -11523,9 +11614,9 @@ canonical_motifs:
     comparative: 1
     daoist: 1
     finnish_karelian: 4
-    greek: 22
+    greek: 24
     greek_roman: 4
-    hindu: 14
+    hindu: 15
     islamic: 1
     islamicate_folklore: 1
     japanese: 3
@@ -12173,6 +12264,27 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       celtic_irish: 1
+  - motif_id: parental_lament_for_a_dead_hero
+    label: parental lament for a dead hero
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: parental_supplication_to_avert_heroic_death
+    label: Parental supplication to avert heroic death
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: past_guilt_returning_during_present_grief
+    label: past guilt returning during present grief
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
   - motif_id: pathos_of_slain_young_warriors_through_genealogy_and_simile
     label: pathos of slain young warriors through genealogy and simile
     relationship: meta_artifact
@@ -12286,8 +12398,8 @@ canonical_motifs:
     traditions:
       hindu: 1
   tradition_count: 16
-  occurrence_count: 107
-  mapped_motif_count: 107
+  occurrence_count: 110
+  mapped_motif_count: 110
 - canonical_motif_id: sacred_treasures
   label: Sacred Treasures and Power Objects
   description: 'Objects of divine origin or power # swords, spears, stones, rings,
@@ -12303,7 +12415,7 @@ canonical_motifs:
     celtic_irish: 28
     celtic_welsh: 5
     comparative: 6
-    finnish_karelian: 10
+    finnish_karelian: 11
     greek: 24
     greek_roman: 12
     hindu: 20
@@ -12952,6 +13064,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       norse: 1
+  - motif_id: magic_ancestral_weapon_marked_by_fire
+    label: magic ancestral weapon marked by fire
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      finnish_karelian: 1
   - motif_id: magic_small_object_becomes_lifesaving_aid
     label: Magic small object becomes lifesaving aid
     relationship: functional_variant
@@ -13499,8 +13618,8 @@ canonical_motifs:
     traditions:
       finnish_karelian: 1
   tradition_count: 15
-  occurrence_count: 169
-  mapped_motif_count: 169
+  occurrence_count: 170
+  mapped_motif_count: 170
 - canonical_motif_id: sacred_fire
   label: Sacred Fire and Divine Light
   description: Fire as divine presence, purifying force, sacrificial medium, or cosmic
@@ -14271,7 +14390,7 @@ canonical_motifs:
     celtic_irish: 26
     comparative: 5
     finnish_karelian: 25
-    greek: 74
+    greek: 75
     greek_roman: 14
     hindu: 42
     islamic: 117
@@ -14398,6 +14517,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       islamic: 1
+  - motif_id: postmortem_shades_with_diminished_mind
+    label: Postmortem shades with diminished mind
+    relationship: symbolic_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
   - motif_id: sensory_paradise_rewards
     label: sensory paradise rewards
     relationship: narrower_than
@@ -14406,8 +14532,8 @@ canonical_motifs:
     traditions:
       islamic: 1
   tradition_count: 13
-  occurrence_count: 452
-  mapped_motif_count: 16
+  occurrence_count: 453
+  mapped_motif_count: 17
 - canonical_motif_id: divine_intervention
   label: Divine Intervention and Guidance
   description: 'The direct action of gods or sacred powers in human affairs # sending
@@ -14420,11 +14546,11 @@ canonical_motifs:
   is_meta_group: false
   traditions:
     buddhist: 7
-    celtic_irish: 10
+    celtic_irish: 11
     comparative: 7
     finnish_karelian: 15
     greek: 89
-    greek_roman: 17
+    greek_roman: 19
     hindu: 26
     islamic: 135
     islamicate_folklore: 3
@@ -16288,6 +16414,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       islamic: 1
+  - motif_id: personal_guardian_spirit_accompanying_a_human_life
+    label: personal guardian spirit accompanying a human life
+    relationship: role_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
   - motif_id: pestilence_relieved_by_invited_healing_deity
     label: pestilence relieved by invited healing deity
     relationship: ritual_variant
@@ -16435,6 +16568,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       islamic: 1
+  - motif_id: protective_ancestral_household_spirit
+    label: protective ancestral household spirit
+    relationship: role_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
   - motif_id: protective_guardians_respond_to_sound_and_rescue_the_vulnerable
     label: Protective guardians respond to sound and rescue the vulnerable
     relationship: role_variant
@@ -16442,6 +16582,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       greek: 1
+  - motif_id: protective_intervention_leading_to_the_attacker_s_death
+    label: Protective intervention leading to the attacker's death
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
   - motif_id: protective_magical_plant_supplied_by_a_divine_helper
     label: protective magical plant supplied by a divine helper
     relationship: functional_variant
@@ -16968,8 +17115,8 @@ canonical_motifs:
     traditions:
       hindu: 1
   tradition_count: 13
-  occurrence_count: 365
-  mapped_motif_count: 362
+  occurrence_count: 368
+  mapped_motif_count: 365
 - canonical_motif_id: dream_and_vision
   label: Dream, Vision, and Altered Perception
   description: Dreams, visions, and altered states as sources of sacred knowledge,
@@ -17612,10 +17759,10 @@ canonical_motifs:
   - royal_legitimacy
   is_meta_group: false
   traditions:
-    celtic_irish: 69
+    celtic_irish: 70
     celtic_welsh: 1
     finnish_karelian: 1
-    greek: 92
+    greek: 93
     greek_roman: 10
     hindu: 69
     islamic: 13
@@ -18979,6 +19126,20 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       celtic_irish: 1
+  - motif_id: martial_vow_to_return_only_with_enemy_s_head_and_regalia
+    label: martial vow to return only with enemy's head and regalia
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: mass_battlefield_death_for_glory
+    label: mass battlefield death for glory
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
   - motif_id: matched_superhuman_strength_feat
     label: Matched superhuman strength feat
     relationship: functional_variant
@@ -19631,8 +19792,8 @@ canonical_motifs:
     traditions:
       greek: 1
   tradition_count: 12
-  occurrence_count: 291
-  mapped_motif_count: 286
+  occurrence_count: 293
+  mapped_motif_count: 288
 - canonical_motif_id: pride_and_downfall
   label: Pride, Hubris, and Downfall
   description: The pattern of overreaching pride followed by destruction or humbling.
@@ -20098,10 +20259,10 @@ canonical_motifs:
   is_meta_group: false
   traditions:
     buddhist: 1
-    celtic_irish: 18
+    celtic_irish: 19
     celtic_welsh: 2
     finnish_karelian: 2
-    greek: 6
+    greek: 7
     greek_roman: 4
     hindu: 5
     islamic: 3
@@ -20404,6 +20565,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       roman: 1
+  - motif_id: perilous_passage_between_two_deadly_threats
+    label: perilous passage between two deadly threats
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
   - motif_id: perilous_sacred_boundary
     label: perilous sacred boundary
     relationship: narrower_than
@@ -20418,6 +20586,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       roman: 1
+  - motif_id: promised_woman_as_lure_leading_warriors_to_death
+    label: promised woman as lure leading warriors to death
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
   - motif_id: proper_reverence_toward_cosmic_guardians
     label: proper reverence toward cosmic guardians
     relationship: ritual_variant
@@ -20503,8 +20678,8 @@ canonical_motifs:
     traditions:
       greek_roman: 1
   tradition_count: 12
-  occurrence_count: 56
-  mapped_motif_count: 56
+  occurrence_count: 58
+  mapped_motif_count: 58
 - canonical_motif_id: sacred_combat
   label: Sacred Combat and Ritual Warfare
   description: Warfare, raiding, or single combat as a sacred or ritually significant
@@ -20516,8 +20691,8 @@ canonical_motifs:
   - divine_judgment
   is_meta_group: false
   traditions:
-    celtic_irish: 239
-    celtic_welsh: 10
+    celtic_irish: 240
+    celtic_welsh: 11
     finnish_karelian: 2
     greek: 48
     greek_roman: 6
@@ -22103,6 +22278,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       norse: 1
+  - motif_id: magic_assisted_duel_resulting_in_death
+    label: Magic-assisted duel resulting in death
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_welsh: 1
   - motif_id: magical_concealment_in_combat
     label: magical concealment in combat
     relationship: functional_variant
@@ -22351,6 +22533,13 @@ canonical_motifs:
   - motif_id: pre_combat_arming_and_approach_to_the_ford
     label: pre-combat arming and approach to the ford
     relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: pre_combat_flyting_and_death_threats
+    label: pre-combat flyting and death threats
+    relationship: functional_variant
     occurrence_count: 1
     tradition_count: 1
     traditions:
@@ -23371,8 +23560,8 @@ canonical_motifs:
     traditions:
       celtic_irish: 1
   tradition_count: 11
-  occurrence_count: 416
-  mapped_motif_count: 406
+  occurrence_count: 418
+  mapped_motif_count: 408
 - canonical_motif_id: theophany
   label: Theophany and Divine Manifestation
   description: The direct manifestation or revelation of the divine to a human witness.
@@ -23749,6 +23938,738 @@ canonical_motifs:
   tradition_count: 11
   occurrence_count: 50
   mapped_motif_count: 50
+- canonical_motif_id: heroic_funeral_rites
+  label: Heroic Funeral Rites and Memorialization
+  description: Rites, contests, burial honors, and memorial acts performed for a dead
+    hero, companion, ruler, or kin figure to honor the dead and reaffirm social order.
+  related:
+  - sacred_combat
+  - divine_warrior
+  - sacrifice
+  - lament_and_mourning
+  is_meta_group: false
+  traditions:
+    celtic_irish: 16
+    celtic_welsh: 1
+    comparative: 1
+    greek: 55
+    greek_roman: 5
+    hindu: 4
+    islamic: 1
+    norse: 2
+    roman: 15
+    sufi: 3
+  mapped_motifs:
+  - motif_id: battle_for_the_body_of_a_fallen_hero
+    label: battle for the body of a fallen hero
+    relationship: functional_variant
+    occurrence_count: 2
+    tradition_count: 1
+    traditions:
+      greek: 2
+  - motif_id: funeral_games_honoring_the_dead
+    label: funeral games honoring the dead
+    relationship: alias
+    occurrence_count: 2
+    tradition_count: 1
+    traditions:
+      greek: 2
+  - motif_id: athletic_contest_with_ranked_prizes
+    label: athletic contest with ranked prizes
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: battle_for_possession_of_a_fallen_hero_s_body
+    label: battle for possession of a fallen hero’s body
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: battle_for_possession_of_a_hero_s_corpse
+    label: battle for possession of a hero's corpse
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: battle_for_recovery_or_dishonor_of_a_hero_s_corpse
+    label: Battle for recovery or dishonor of a hero's corpse
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: battle_for_the_fallen_companion_s_body
+    label: battle for the fallen companion's body
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: battle_over_the_body_and_armor_of_a_fallen_warrior
+    label: Battle over the body and armor of a fallen warrior
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: battle_site_etiological_naming_and_memorial_stones
+    label: battle-site etiological naming and memorial stones
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: bones_gathered_into_an_urn_and_covered_before_tomb_raising
+    label: bones gathered into an urn and covered before tomb raising
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: burial_of_the_fallen_after_combat
+    label: burial of the fallen after combat
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: combat_over_the_corpse_and_spoils_of_a_fallen_warrior
+    label: Combat over the corpse and spoils of a fallen warrior
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: commemorative_burial_with_inscribed_stones
+    label: Commemorative burial with inscribed stones
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: commemorative_games_for_a_dead_father
+    label: Commemorative games for a dead father
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: comrades_cover_the_dead_warrior
+    label: comrades cover the dead warrior
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: contest_for_a_dead_hero_s_arms
+    label: contest for a dead hero's arms
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: contest_for_the_arms_of_a_dead_hero
+    label: Contest for the arms of a dead hero
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: contest_for_the_corpse_and_arms_of_a_fallen_hero
+    label: contest for the corpse and arms of a fallen hero
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: contest_over_fallen_warrior_s_body_or_arms
+    label: contest over fallen warrior's body or arms
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: contest_over_the_dead_hero_s_arms
+    label: Contest over the dead hero's arms
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: contested_burial_of_a_revered_dead_figure
+    label: contested burial of a revered dead figure
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: corpse_defense_and_removal_in_battle
+    label: Corpse defense and removal in battle
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: dead_companions_linked_by_facing_mounds_across_water
+    label: dead companions linked by facing mounds across water
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  - motif_id: death_taunt_with_denial_of_burial
+    label: death taunt with denial of burial
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: defeated_enemy_requests_burial
+    label: defeated enemy requests burial
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: denial_and_restoration_of_funeral_rites
+    label: denial and restoration of funeral rites
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: disfigurement_in_honour_of_heroes
+    label: disfigurement in honour of heroes
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: dishonored_corpse_consigned_to_water_and_animals
+    label: dishonored corpse consigned to water and animals
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: divine_protection_of_a_hero_s_remains_from_a_serpent
+    label: divine protection of a hero's remains from a serpent
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: divine_protection_of_an_unburied_corpse
+    label: divine protection of an unburied corpse
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: divine_protection_of_warrior_s_corpse_and_arms
+    label: divine protection of warrior’s corpse and arms
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: divinely_preserved_body_of_the_honored_dead
+    label: divinely preserved body of the honored dead
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: empty_tomb_and_ritual_address_to_absent_dead
+    label: empty tomb and ritual address to absent dead
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: enduring_fame_after_heroic_death
+    label: enduring fame after heroic death
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: enduring_memorial_speech_from_a_tomb_image
+    label: Enduring memorial speech from a tomb image
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: enduring_tomb_proclamation
+    label: Enduring tomb proclamation
+    relationship: memorialization_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: enmity_ending_at_death_and_funeral_rites_for_the_foe
+    label: enmity ending at death and funeral rites for the foe
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: etiological_place_name_from_death_in_battle
+    label: etiological place-name from death in battle
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: eulogy_of_the_defeated_enemy_as_peerless_champion
+    label: eulogy of the defeated enemy as peerless champion
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: fallen_warrior_becomes_posthumous_guardian_and_receives_cult_honours
+    label: fallen warrior becomes posthumous guardian and receives cult honours
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: funeral_appeasement_and_restoration_of_the_enemy_corpse
+    label: funeral appeasement and restoration of the enemy corpse
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: funeral_duty_following_lamentation
+    label: funeral duty following lamentation
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: funeral_games_after_heroic_death
+    label: Funeral games after heroic death
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: funeral_games_and_honors_for_the_dead
+    label: Funeral games and honors for the dead
+    relationship: alias
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: funeral_games_as_setting_for_contest
+    label: Funeral games as setting for contest
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: funeral_games_for_a_fallen_warrior
+    label: funeral games for a fallen warrior
+    relationship: alias
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: funeral_games_with_heroic_prize_contests
+    label: funeral games with heroic prize contests
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: funeral_provision_for_possible_battlefield_death
+    label: Funeral provision for possible battlefield death
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: funeral_rites_and_memorial_if_the_missing_father_is_dead
+    label: funeral rites and memorial if the missing father is dead
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: funeral_rites_followed_by_lament
+    label: funeral rites followed by lament
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: funeral_rites_for_a_dead_companion
+    label: Funeral rites for a dead companion
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: funeral_rites_for_a_slain_companion
+    label: funeral rites for a slain companion
+    relationship: alias
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: funeral_ship_with_costly_grave_goods
+    label: funeral ship with costly grave goods
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      norse: 1
+  - motif_id: funerals_of_fallen_warriors
+    label: funerals of fallen warriors
+    relationship: alias
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: funerary_body_retrieval_and_funeral_sequence
+    label: Funerary body retrieval and funeral sequence
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: funerary_compact_and_heroic_memorial
+    label: funerary compact and heroic memorial
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: funerary_honor_marked_by_raised_tomb_or_pile
+    label: funerary honor marked by raised tomb or pile
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: funerary_preparation_of_the_hero_s_body
+    label: Funerary preparation of the hero’s body
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: hero_cult_games_and_victory_crowns
+    label: Hero cult games and victory crowns
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: heroic_death_followed_by_funerary_honors
+    label: Heroic death followed by funerary honors
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: heroic_relic_marked_by_an_enemy_s_blood
+    label: Heroic relic marked by an enemy's blood
+    relationship: symbolic_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: heroic_threat_of_corpse_feeding_birds
+    label: heroic threat of corpse-feeding birds
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: holy_man_s_preparation_for_death_and_burial
+    label: holy man’s preparation for death and burial
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
+  - motif_id: honor_paid_to_the_dead_through_ordained_violent_struggle
+    label: honor paid to the dead through ordained violent struggle
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: honored_burial_and_lamentation_of_fallen_youth
+    label: honored burial and lamentation of fallen youth
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: honored_transport_of_the_hero_s_corpse
+    label: honored transport of the hero's corpse
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: honourable_burial_decided_by_a_verse
+    label: honourable burial decided by a verse
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
+  - motif_id: last_command_to_defend_the_fallen_body
+    label: last command to defend the fallen body
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: marked_heroic_burial_with_inscription_and_lament
+    label: Marked heroic burial with inscription and lament
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: mass_funeral_after_battle
+    label: mass funeral after battle
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: memorial_mound_and_inscribed_standing_stone_for_the_threatened_dead
+    label: Memorial mound and inscribed standing-stone for the threatened dead
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: memorialization_of_a_slain_companion_through_ritual_dress
+    label: Memorialization of a slain companion through ritual dress
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
+  - motif_id: miraculous_handling_of_a_hero_poet_s_corpse
+    label: miraculous handling of a hero-poet's corpse
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: miraculous_preservation_of_the_dead_body
+    label: miraculous preservation of the dead body
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: monumental_grave_for_a_fallen_hero
+    label: monumental grave for a fallen hero
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: mourning_procession_or_circular_rite_around_the_dead
+    label: mourning procession or circular rite around the dead
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: mourning_rites_at_an_empty_or_symbolic_tomb
+    label: mourning rites at an empty or symbolic tomb
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: mourning_without_proper_burial_rites
+    label: mourning without proper burial rites
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: personified_sleep_and_death_as_bearers_of_the_body
+    label: personified Sleep and Death as bearers of the body
+    relationship: role_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: poetic_commemoration_through_ritual_singers
+    label: Poetic commemoration through ritual singers
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: posthumous_hero_cult
+    label: posthumous hero cult
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: protection_of_the_dead_from_scavengers
+    label: protection of the dead from scavengers
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: protection_of_the_warrior_s_corpse
+    label: protection of the warrior's corpse
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: protective_burial_of_a_severed_head
+    label: Protective burial of a severed head
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_welsh: 1
+  - motif_id: public_athletic_combat_with_prize_distribution
+    label: public athletic combat with prize distribution
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: public_contest_with_ranked_prizes
+    label: public contest with ranked prizes
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: recovery_and_mourning_of_the_slain_companion
+    label: recovery and mourning of the slain companion
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: recovery_of_fallen_comrade_s_body_and_weapons
+    label: Recovery of fallen comrade's body and weapons
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: respectful_protection_of_a_fallen_opponent_s_body
+    label: Respectful protection of a fallen opponent's body
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: ritual_funeral_for_nonhuman_figure
+    label: Ritual funeral for nonhuman figure
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: royal_funeral_procession_and_obsequies
+    label: Royal funeral procession and obsequies
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: shared_posthumous_resting_place_for_companions
+    label: shared posthumous resting place for companions
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: spoils_and_doomed_transfer_of_heroic_arms
+    label: Spoils and doomed transfer of heroic arms
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: stripping_the_armor_of_the_slain
+    label: stripping the armor of the slain
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: struggle_over_the_slain_body_and_spoils
+    label: struggle over the slain body and spoils
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: temporary_truce_between_enemies_for_funeral_rites
+    label: Temporary truce between enemies for funeral rites
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: transfer_of_hero_s_weapons_to_companion
+    label: transfer of hero's weapons to companion
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek_roman: 1
+  - motif_id: triple_funeral_procession
+    label: triple funeral procession
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: truce_for_funeral_rites_of_the_slain
+    label: Truce for funeral rites of the slain
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: warrior_eulogy_through_catalogue_of_qualities_and_possessions
+    label: warrior eulogy through catalogue of qualities and possessions
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: warrior_memorialized_by_raised_stone
+    label: warrior memorialized by raised stone
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  tradition_count: 10
+  occurrence_count: 103
+  mapped_motif_count: 101
 - canonical_motif_id: mother_goddess
   label: Sacred Feminine and Mother Goddess
   description: The divine mother, earth goddess, source-feminine, or nurturing-and-terrible
@@ -23872,16 +24793,16 @@ canonical_motifs:
   - sacrifice
   is_meta_group: false
   traditions:
-    celtic_irish: 14
+    celtic_irish: 15
     daoist: 1
-    greek: 23
+    greek: 24
     greek_roman: 7
     hindu: 8
     islamic: 2
     norse: 3
     persian: 1
     roman: 12
-    sufi: 11
+    sufi: 12
   mapped_motifs:
   - motif_id: acceptance_of_destiny_after_loss
     label: acceptance of destiny after loss
@@ -24367,6 +25288,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       norse: 1
+  - motif_id: peaceful_death_foretold_after_old_age_and_completed_rites
+    label: peaceful death foretold after old age and completed rites
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
   - motif_id: postponement_of_conflict_until_a_destined_great_battle
     label: postponement of conflict until a destined great battle
     relationship: functional_variant
@@ -24377,6 +25305,20 @@ canonical_motifs:
   - motif_id: predestined_human_lot
     label: predestined human lot
     relationship: broader_label
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
+  - motif_id: prophecy_of_the_hero_s_death_and_burial_place
+    label: prophecy of the hero's death and burial place
+    relationship: narrower_than
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      celtic_irish: 1
+  - motif_id: prophecy_of_violent_death
+    label: prophecy of violent death
+    relationship: narrower_than
     occurrence_count: 1
     tradition_count: 1
     traditions:
@@ -24459,697 +25401,8 @@ canonical_motifs:
     traditions:
       sufi: 1
   tradition_count: 10
-  occurrence_count: 82
-  mapped_motif_count: 82
-- canonical_motif_id: heroic_funeral_rites
-  label: Heroic Funeral Rites and Memorialization
-  description: Rites, contests, burial honors, and memorial acts performed for a dead
-    hero, companion, ruler, or kin figure to honor the dead and reaffirm social order.
-  related:
-  - sacred_combat
-  - divine_warrior
-  - sacrifice
-  - lament_and_mourning
-  is_meta_group: false
-  traditions:
-    celtic_irish: 14
-    comparative: 1
-    greek: 52
-    greek_roman: 5
-    hindu: 4
-    islamic: 1
-    norse: 2
-    roman: 15
-    sufi: 3
-  mapped_motifs:
-  - motif_id: battle_for_the_body_of_a_fallen_hero
-    label: battle for the body of a fallen hero
-    relationship: functional_variant
-    occurrence_count: 2
-    tradition_count: 1
-    traditions:
-      greek: 2
-  - motif_id: funeral_games_honoring_the_dead
-    label: funeral games honoring the dead
-    relationship: alias
-    occurrence_count: 2
-    tradition_count: 1
-    traditions:
-      greek: 2
-  - motif_id: athletic_contest_with_ranked_prizes
-    label: athletic contest with ranked prizes
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: battle_for_possession_of_a_fallen_hero_s_body
-    label: battle for possession of a fallen hero’s body
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: battle_for_possession_of_a_hero_s_corpse
-    label: battle for possession of a hero's corpse
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: battle_for_recovery_or_dishonor_of_a_hero_s_corpse
-    label: Battle for recovery or dishonor of a hero's corpse
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: battle_for_the_fallen_companion_s_body
-    label: battle for the fallen companion's body
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: battle_over_the_body_and_armor_of_a_fallen_warrior
-    label: Battle over the body and armor of a fallen warrior
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: battle_site_etiological_naming_and_memorial_stones
-    label: battle-site etiological naming and memorial stones
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: bones_gathered_into_an_urn_and_covered_before_tomb_raising
-    label: bones gathered into an urn and covered before tomb raising
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: burial_of_the_fallen_after_combat
-    label: burial of the fallen after combat
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: combat_over_the_corpse_and_spoils_of_a_fallen_warrior
-    label: Combat over the corpse and spoils of a fallen warrior
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: commemorative_burial_with_inscribed_stones
-    label: Commemorative burial with inscribed stones
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: commemorative_games_for_a_dead_father
-    label: Commemorative games for a dead father
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: comrades_cover_the_dead_warrior
-    label: comrades cover the dead warrior
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: contest_for_a_dead_hero_s_arms
-    label: contest for a dead hero's arms
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: contest_for_the_arms_of_a_dead_hero
-    label: Contest for the arms of a dead hero
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: contest_for_the_corpse_and_arms_of_a_fallen_hero
-    label: contest for the corpse and arms of a fallen hero
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: contest_over_fallen_warrior_s_body_or_arms
-    label: contest over fallen warrior's body or arms
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: contest_over_the_dead_hero_s_arms
-    label: Contest over the dead hero's arms
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: contested_burial_of_a_revered_dead_figure
-    label: contested burial of a revered dead figure
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: corpse_defense_and_removal_in_battle
-    label: Corpse defense and removal in battle
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: dead_companions_linked_by_facing_mounds_across_water
-    label: dead companions linked by facing mounds across water
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      norse: 1
-  - motif_id: death_taunt_with_denial_of_burial
-    label: death taunt with denial of burial
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: defeated_enemy_requests_burial
-    label: defeated enemy requests burial
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: denial_and_restoration_of_funeral_rites
-    label: denial and restoration of funeral rites
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek_roman: 1
-  - motif_id: disfigurement_in_honour_of_heroes
-    label: disfigurement in honour of heroes
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: dishonored_corpse_consigned_to_water_and_animals
-    label: dishonored corpse consigned to water and animals
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: divine_protection_of_a_hero_s_remains_from_a_serpent
-    label: divine protection of a hero's remains from a serpent
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: divine_protection_of_an_unburied_corpse
-    label: divine protection of an unburied corpse
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: divine_protection_of_warrior_s_corpse_and_arms
-    label: divine protection of warrior’s corpse and arms
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: divinely_preserved_body_of_the_honored_dead
-    label: divinely preserved body of the honored dead
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: empty_tomb_and_ritual_address_to_absent_dead
-    label: empty tomb and ritual address to absent dead
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: enduring_fame_after_heroic_death
-    label: enduring fame after heroic death
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: enduring_memorial_speech_from_a_tomb_image
-    label: Enduring memorial speech from a tomb image
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: enduring_tomb_proclamation
-    label: Enduring tomb proclamation
-    relationship: memorialization_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: enmity_ending_at_death_and_funeral_rites_for_the_foe
-    label: enmity ending at death and funeral rites for the foe
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  - motif_id: etiological_place_name_from_death_in_battle
-    label: etiological place-name from death in battle
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: eulogy_of_the_defeated_enemy_as_peerless_champion
-    label: eulogy of the defeated enemy as peerless champion
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: fallen_warrior_becomes_posthumous_guardian_and_receives_cult_honours
-    label: fallen warrior becomes posthumous guardian and receives cult honours
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: funeral_appeasement_and_restoration_of_the_enemy_corpse
-    label: funeral appeasement and restoration of the enemy corpse
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: funeral_duty_following_lamentation
-    label: funeral duty following lamentation
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  - motif_id: funeral_games_after_heroic_death
-    label: Funeral games after heroic death
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek_roman: 1
-  - motif_id: funeral_games_and_honors_for_the_dead
-    label: Funeral games and honors for the dead
-    relationship: alias
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: funeral_games_as_setting_for_contest
-    label: Funeral games as setting for contest
-    relationship: narrower_than
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: funeral_games_for_a_fallen_warrior
-    label: funeral games for a fallen warrior
-    relationship: alias
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: funeral_games_with_heroic_prize_contests
-    label: funeral games with heroic prize contests
-    relationship: narrower_than
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: funeral_provision_for_possible_battlefield_death
-    label: Funeral provision for possible battlefield death
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: funeral_rites_and_memorial_if_the_missing_father_is_dead
-    label: funeral rites and memorial if the missing father is dead
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: funeral_rites_followed_by_lament
-    label: funeral rites followed by lament
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: funeral_rites_for_a_dead_companion
-    label: Funeral rites for a dead companion
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: funeral_rites_for_a_slain_companion
-    label: funeral rites for a slain companion
-    relationship: alias
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: funeral_ship_with_costly_grave_goods
-    label: funeral ship with costly grave goods
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      norse: 1
-  - motif_id: funerals_of_fallen_warriors
-    label: funerals of fallen warriors
-    relationship: alias
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  - motif_id: funerary_body_retrieval_and_funeral_sequence
-    label: Funerary body retrieval and funeral sequence
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: funerary_compact_and_heroic_memorial
-    label: funerary compact and heroic memorial
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: funerary_honor_marked_by_raised_tomb_or_pile
-    label: funerary honor marked by raised tomb or pile
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: funerary_preparation_of_the_hero_s_body
-    label: Funerary preparation of the hero’s body
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: hero_cult_games_and_victory_crowns
-    label: Hero cult games and victory crowns
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: heroic_death_followed_by_funerary_honors
-    label: Heroic death followed by funerary honors
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: heroic_relic_marked_by_an_enemy_s_blood
-    label: Heroic relic marked by an enemy's blood
-    relationship: symbolic_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: heroic_threat_of_corpse_feeding_birds
-    label: heroic threat of corpse-feeding birds
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: holy_man_s_preparation_for_death_and_burial
-    label: holy man’s preparation for death and burial
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      sufi: 1
-  - motif_id: honor_paid_to_the_dead_through_ordained_violent_struggle
-    label: honor paid to the dead through ordained violent struggle
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: honored_burial_and_lamentation_of_fallen_youth
-    label: honored burial and lamentation of fallen youth
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: honored_transport_of_the_hero_s_corpse
-    label: honored transport of the hero's corpse
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: honourable_burial_decided_by_a_verse
-    label: honourable burial decided by a verse
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      sufi: 1
-  - motif_id: last_command_to_defend_the_fallen_body
-    label: last command to defend the fallen body
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: mass_funeral_after_battle
-    label: mass funeral after battle
-    relationship: narrower_than
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: memorialization_of_a_slain_companion_through_ritual_dress
-    label: Memorialization of a slain companion through ritual dress
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      sufi: 1
-  - motif_id: miraculous_handling_of_a_hero_poet_s_corpse
-    label: miraculous handling of a hero-poet's corpse
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: miraculous_preservation_of_the_dead_body
-    label: miraculous preservation of the dead body
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: monumental_grave_for_a_fallen_hero
-    label: monumental grave for a fallen hero
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: mourning_procession_or_circular_rite_around_the_dead
-    label: mourning procession or circular rite around the dead
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: mourning_rites_at_an_empty_or_symbolic_tomb
-    label: mourning rites at an empty or symbolic tomb
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: mourning_without_proper_burial_rites
-    label: mourning without proper burial rites
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: poetic_commemoration_through_ritual_singers
-    label: Poetic commemoration through ritual singers
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: posthumous_hero_cult
-    label: posthumous hero cult
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek_roman: 1
-  - motif_id: public_athletic_combat_with_prize_distribution
-    label: public athletic combat with prize distribution
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: public_contest_with_ranked_prizes
-    label: public contest with ranked prizes
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: recovery_and_mourning_of_the_slain_companion
-    label: recovery and mourning of the slain companion
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: recovery_of_fallen_comrade_s_body_and_weapons
-    label: Recovery of fallen comrade's body and weapons
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: respectful_protection_of_a_fallen_opponent_s_body
-    label: Respectful protection of a fallen opponent's body
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek_roman: 1
-  - motif_id: ritual_funeral_for_nonhuman_figure
-    label: Ritual funeral for nonhuman figure
-    relationship: narrower_than
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: royal_funeral_procession_and_obsequies
-    label: Royal funeral procession and obsequies
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  - motif_id: shared_posthumous_resting_place_for_companions
-    label: shared posthumous resting place for companions
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: spoils_and_doomed_transfer_of_heroic_arms
-    label: Spoils and doomed transfer of heroic arms
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: stripping_the_armor_of_the_slain
-    label: stripping the armor of the slain
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: struggle_over_the_slain_body_and_spoils
-    label: struggle over the slain body and spoils
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: temporary_truce_between_enemies_for_funeral_rites
-    label: Temporary truce between enemies for funeral rites
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: transfer_of_hero_s_weapons_to_companion
-    label: transfer of hero's weapons to companion
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek_roman: 1
-  - motif_id: triple_funeral_procession
-    label: triple funeral procession
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: truce_for_funeral_rites_of_the_slain
-    label: Truce for funeral rites of the slain
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      greek: 1
-  - motif_id: warrior_eulogy_through_catalogue_of_qualities_and_possessions
-    label: warrior eulogy through catalogue of qualities and possessions
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  - motif_id: warrior_memorialized_by_raised_stone
-    label: warrior memorialized by raised stone
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      celtic_irish: 1
-  tradition_count: 9
-  occurrence_count: 97
-  mapped_motif_count: 95
+  occurrence_count: 85
+  mapped_motif_count: 85
 - canonical_motif_id: sacred_craft
   label: Sacred Craft and Divinely Aided Construction
   description: 'Building, crafting, or constructing as a sacred act # the bridge built
@@ -25164,7 +25417,7 @@ canonical_motifs:
     celtic_irish: 1
     celtic_welsh: 1
     finnish_karelian: 7
-    greek: 2
+    greek: 3
     greek_roman: 4
     hindu: 2
     islamic: 4
@@ -25311,6 +25564,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       finnish_karelian: 1
+  - motif_id: marvelous_palace_with_deathless_crafted_guardians
+    label: marvelous palace with deathless crafted guardians
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
   - motif_id: obstructed_magical_smithing
     label: Obstructed magical smithing
     relationship: functional_variant
@@ -25382,8 +25642,8 @@ canonical_motifs:
     traditions:
       finnish_karelian: 1
   tradition_count: 9
-  occurrence_count: 30
-  mapped_motif_count: 30
+  occurrence_count: 31
+  mapped_motif_count: 31
 - canonical_motif_id: external_soul
   label: External Soul and Life-Token
   description: A being's life, soul, vulnerability, shadow, reflection, or vital force
@@ -25400,7 +25660,7 @@ canonical_motifs:
   traditions:
     buddhist: 1
     celtic_welsh: 1
-    comparative: 56
+    comparative: 57
     greek_roman: 2
     hindu: 1
     islamicate_folklore: 2
@@ -25814,6 +26074,13 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       comparative: 1
+  - motif_id: opposed_elements_as_soul_location_and_means_of_death
+    label: opposed elements as soul location and means of death
+    relationship: symbolic_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
   - motif_id: remote_guarded_hiding_place_of_life
     label: Remote guarded hiding place of life
     relationship: functional_variant
@@ -25857,8 +26124,8 @@ canonical_motifs:
     traditions:
       comparative: 1
   tradition_count: 8
-  occurrence_count: 67
-  mapped_motif_count: 64
+  occurrence_count: 68
+  mapped_motif_count: 65
 - canonical_motif_id: otherworld
   label: Otherworld and Enchanted Realm
   description: 'The other world # fairyland, the Country of the Young, the enchanted
@@ -26191,6 +26458,141 @@ canonical_motifs:
   tradition_count: 8
   occurrence_count: 44
   mapped_motif_count: 44
+- canonical_motif_id: ancestor_rites
+  label: Ancestor Rites and Feeding the Dead
+  description: Ritual care, feeding, invitation, appeasement, or dismissal of dead
+    souls or ancestors to maintain proper relations between living and dead.
+  related:
+  - afterlife_passage
+  - death_and_transformation
+  - sacrifice
+  - sacred_exchange
+  is_meta_group: false
+  traditions:
+    comparative: 2
+    greek: 1
+    hindu: 3
+    islamic: 2
+    islamicate_folklore: 1
+    japanese: 2
+    roman: 1
+    sufi: 4
+  mapped_motifs:
+  - motif_id: ancestor_or_founder_sepulchre_veneration
+    label: ancestor or founder sepulchre veneration
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: burial_by_ancestors_or_ancestral_land
+    label: burial by ancestors or ancestral land
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamic: 1
+  - motif_id: descendant_mediated_afterlife_status
+    label: Descendant-mediated afterlife status
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: drink_offering_reaches_the_dead
+    label: Drink offering reaches the dead
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
+  - motif_id: feeding_and_dismissing_the_souls_of_the_dead
+    label: Feeding and dismissing the souls of the dead
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: food_placed_on_corpse_as_possible_sin_eating_survival
+    label: food placed on corpse as possible sin-eating survival
+    relationship: funerary_ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
+  - motif_id: foundation_at_an_ancestral_or_sacred_burial_site
+    label: foundation at an ancestral or sacred burial site
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      roman: 1
+  - motif_id: memorial_feast_used_as_a_trap
+    label: Memorial feast used as a trap
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      japanese: 1
+  - motif_id: memorialization_of_a_revered_dead_teacher
+    label: Memorialization of a revered dead teacher
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
+  - motif_id: miracle_working_tomb_or_shrine
+    label: miracle-working tomb or shrine
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
+  - motif_id: mirror_used_to_maintain_bond_with_dead_parent
+    label: mirror used to maintain bond with dead parent
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      japanese: 1
+  - motif_id: missed_voyage_caused_by_burial_duty
+    label: missed voyage caused by burial duty
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      islamicate_folklore: 1
+  - motif_id: pilgrimage_like_prayer_at_the_teacher_s_tomb
+    label: pilgrimage-like prayer at the teacher’s tomb
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      sufi: 1
+  - motif_id: propitiation_of_the_underworld_dead
+    label: Propitiation of the underworld dead
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      greek: 1
+  - motif_id: sacred_river_as_place_of_rites_for_the_departed
+    label: sacred river as place of rites for the departed
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  - motif_id: sacred_river_funerary_libation_for_a_father
+    label: Sacred-river funerary libation for a father
+    relationship: ritual_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      hindu: 1
+  tradition_count: 8
+  occurrence_count: 16
+  mapped_motif_count: 16
 - canonical_motif_id: sacred_vessel
   label: Sacred Vessel and Container
   description: 'The sacred container # cauldron, grail, ark, pot, sealed jar # that
@@ -26332,119 +26734,6 @@ canonical_motifs:
   tradition_count: 7
   occurrence_count: 17
   mapped_motif_count: 17
-- canonical_motif_id: ancestor_rites
-  label: Ancestor Rites and Feeding the Dead
-  description: Ritual care, feeding, invitation, appeasement, or dismissal of dead
-    souls or ancestors to maintain proper relations between living and dead.
-  related:
-  - afterlife_passage
-  - death_and_transformation
-  - sacrifice
-  - sacred_exchange
-  is_meta_group: false
-  traditions:
-    comparative: 2
-    hindu: 3
-    islamic: 2
-    islamicate_folklore: 1
-    japanese: 2
-    roman: 1
-    sufi: 2
-  mapped_motifs:
-  - motif_id: ancestor_or_founder_sepulchre_veneration
-    label: ancestor or founder sepulchre veneration
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: burial_by_ancestors_or_ancestral_land
-    label: burial by ancestors or ancestral land
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamic: 1
-  - motif_id: descendant_mediated_afterlife_status
-    label: Descendant-mediated afterlife status
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  - motif_id: drink_offering_reaches_the_dead
-    label: Drink offering reaches the dead
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      sufi: 1
-  - motif_id: feeding_and_dismissing_the_souls_of_the_dead
-    label: Feeding and dismissing the souls of the dead
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: food_placed_on_corpse_as_possible_sin_eating_survival
-    label: food placed on corpse as possible sin-eating survival
-    relationship: funerary_ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      comparative: 1
-  - motif_id: foundation_at_an_ancestral_or_sacred_burial_site
-    label: foundation at an ancestral or sacred burial site
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      roman: 1
-  - motif_id: memorial_feast_used_as_a_trap
-    label: Memorial feast used as a trap
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      japanese: 1
-  - motif_id: miracle_working_tomb_or_shrine
-    label: miracle-working tomb or shrine
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      sufi: 1
-  - motif_id: mirror_used_to_maintain_bond_with_dead_parent
-    label: mirror used to maintain bond with dead parent
-    relationship: functional_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      japanese: 1
-  - motif_id: missed_voyage_caused_by_burial_duty
-    label: missed voyage caused by burial duty
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      islamicate_folklore: 1
-  - motif_id: sacred_river_as_place_of_rites_for_the_departed
-    label: sacred river as place of rites for the departed
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  - motif_id: sacred_river_funerary_libation_for_a_father
-    label: Sacred-river funerary libation for a father
-    relationship: ritual_variant
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      hindu: 1
-  tradition_count: 7
-  occurrence_count: 13
-  mapped_motif_count: 13
 - canonical_motif_id: supreme_ruler
   label: Supreme Ruler and Cosmic Sovereignty
   description: A supreme ruler figure who descends from above or emerges to rule all
@@ -26790,7 +27079,7 @@ canonical_motifs:
   - divine_intervention
   is_meta_group: false
   traditions:
-    comparative: 2
+    comparative: 3
     greek: 1
   mapped_motifs:
   - motif_id: detained_sleeper_s_soul_causing_illness
@@ -26814,9 +27103,16 @@ canonical_motifs:
     tradition_count: 1
     traditions:
       comparative: 1
+  - motif_id: lost_soul_recovered_in_visible_or_material_form
+    label: Lost soul recovered in visible or material form
+    relationship: functional_variant
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      comparative: 1
   tradition_count: 2
-  occurrence_count: 3
-  mapped_motif_count: 3
+  occurrence_count: 4
+  mapped_motif_count: 4
 - canonical_motif_id: divine_race
   label: Divine Race and Arrival of the Gods
   description: A race or people of divine or semi-divine origin who arrive, conquer,

@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0503
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.one-death-dooms-a-dependent-family
+  motif_id: one_death_dooms_a_dependent_family
+  label: One death dooms a dependent family
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: low
+  rationale: The label concerns social and familial devastation caused by death, closest
+    to mourning and tragic loss.
+  cautions: Could be an episode-specific ethical or dependency detail rather than
+    a reusable motif; source context is needed.
+  suggested_aliases:
+  - family doomed by one death
+  - dependent family destroyed by death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.opposed-elements-as-soul-location-and-means-of-death
+  motif_id: opposed_elements_as_soul_location_and_means_of_death
+  label: opposed elements as soul location and means of death
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A soul located outside or in an element that determines death fits the
+    external-soul/life-location complex.
+  cautions: The phrase is abstract and comparative; confirm it describes narrative
+    belief rather than analytical classification.
+  suggested_aliases:
+  - elemental soul location
+  - death by opposed element
+  - soul located in an element
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordeal-like-one-foot-posture-against-evil-spirits
+  motif_id: ordeal_like_one_foot_posture_against_evil_spirits
+  label: ordeal-like one-foot posture against evil spirits
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A posture used against evil spirits appears to be a protective or apotropaic
+    ritual practice, currently folded under sacred_law.
+  cautions: Highly specific and comparative; could belong with initiation/ordeal,
+    spirit expulsion under sacrifice, or be an ethnographic artifact.
+  suggested_aliases:
+  - one-foot posture against spirits
+  - apotropaic one-foot stance
+  - ritual posture against evil spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordered-correspondence-of-state-and-soul
+  motif_id: ordered_correspondence_of_state_and_soul
+  label: Ordered correspondence of State and soul
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The analogy between political order and psychic order fits sacred/social
+    order and moral cosmology better than death motifs.
+  cautions: May be philosophical doctrine rather than narrative motif; consider exclusion
+    if it is only abstract commentary.
+  suggested_aliases:
+  - state-soul correspondence
+  - political order mirrors psychic order
+  - ordered city and ordered soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordered-soul-as-ordered-city
+  motif_id: ordered_soul_as_ordered_city
+  label: Ordered soul as ordered city
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The soul-city analogy expresses moral and social order as corresponding
+    structures.
+  cautions: Likely philosophical or didactic imagery; avoid treating it as afterlife/death
+    unless passage evidence supports that context.
+  suggested_aliases:
+  - soul as city
+  - ordered city as ordered soul
+  - psychic order mirrored by civic order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-death
+  motif_id: origin_of_death
+  label: origin of death
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Origin of Death
+  relationship: narrower_than
+  confidence: medium
+  rationale: Etiologies explaining how death entered human or cosmic life are not
+    cleanly captured by death-and-transformation or afterlife groups.
+  cautions: Culturally sensitive and broad; human review should confirm recurrence
+    and avoid flattening distinct Indigenous Australian traditions.
+  suggested_aliases:
+  - death origin myth
+  - etiology of death
+  - death enters the world
+  suggested_new_group:
+    id: origin_of_death
+    label: Origin of Death
+    description: Myths or teachings explaining how mortality, death, or the loss of
+      immortality first entered human, animal, or cosmic existence.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - immortality_without_renewal
+    reason_existing_groups_insufficient: Existing groups cover death, rebirth, afterlife
+      travel, and defective immortality, but not the etiological explanation for the
+      first arrival of death.
+- suggestion_id: normalization.suggestion.orphaned-child-deprived-by-the-father-s-death
+  motif_id: orphaned_child_deprived_by_the_father_s_death
+  label: orphaned child deprived by the father’s death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif centers on bereavement and deprivation caused by a father's
+    death, fitting mourning and tragic loss.
+  cautions: May be an episode-specific social consequence rather than a recurring
+    motif; could also belong with miraculous_child if the orphaned child has sacred
+    destiny.
+  suggested_aliases:
+  - orphan deprived by father's death
+  - fatherless child after heroic death
+  - bereaved orphan child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paradisal-spring-as-spiritual-nourishment
+  motif_id: paradisal_spring_as_spiritual_nourishment
+  label: Paradisal spring as spiritual nourishment
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A paradisal spring that nourishes spiritually is sacred water functioning
+    as transformation or divine sustenance.
+  cautions: If the Sufi context emphasizes interior quest or divine beloved more than
+    water symbolism, add mystical_quest or sacred_love as secondary review mapping.
+  suggested_aliases:
+  - spiritual spring
+  - paradisal water of nourishment
+  - sacred spring as nourishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parental-lament-for-a-dead-hero
+  motif_id: parental_lament_for_a_dead_hero
+  label: parental lament for a dead hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: child
+  confidence: high
+  rationale: A parent mourning a dead hero is a direct lament and tragic recognition
+    pattern.
+  cautions: Could also support heroic_funeral_rites if the passage includes burial
+    honors or memorial rites.
+  suggested_aliases:
+  - parent mourns dead hero
+  - lament for fallen hero by parent
+  - parental mourning of hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parental-supplication-to-avert-heroic-death
+  motif_id: parental_supplication_to_avert_heroic_death
+  label: Parental supplication to avert heroic death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: A parent's plea to prevent heroic death anticipates mourning and tragic
+    recognition around doomed heroism.
+  cautions: If the emphasis is fate, warrior duty, or failed persuasion rather than
+    grief, death_by_fate or divine_warrior may be better secondary mappings.
+  suggested_aliases:
+  - parent pleads against heroic death
+  - supplication to avert a hero's death
+  - parental plea before doomed battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and may be episode-specific social
+  consequences of death rather than durable motifs.
+- Greek philosophical soul-state analogies were placed provisionally under sacred_law/social
+  order, not death/afterlife, despite the review bucket.
+- No transmission or common-origin claim is implied by any placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review recommended especially for comparative
+    ritual labels and culturally specific origin-of-death material.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-29'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0503
+  input_sha256: ff3d867e1538f696459e1ea8f2c8bfce530432b6c02dc40d4f1b6dd9277efe2f

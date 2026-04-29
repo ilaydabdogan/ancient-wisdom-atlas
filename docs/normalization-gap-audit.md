@@ -7,12 +7,12 @@ This report lists motif IDs that are present in the motif occurrence index but n
 ## Summary
 
 - Indexed motif IDs: 9072
-- Already mapped: 3523
-- Unmapped: 5549
+- Already mapped: 3565
+- Unmapped: 5507
 
 | Review Bucket | Unmapped Motifs |
 | --- | ---: |
-| Death, Descent, Afterlife, And Ancestors | 477 |
+| Death, Descent, Afterlife, And Ancestors | 435 |
 | Journey, Quest, Exile, And Homecoming | 437 |
 | Divine Presence, Ritual, Sacrifice, And Purity | 378 |
 | Wisdom, Speech, Dream, Vision, And Revelation | 396 |
@@ -169,23 +169,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `loss_of_a_beloved_spiritual_companion_amid_communal_conflict` | Loss of a beloved spiritual companion amid communal conflict | 1 | sufi |
 | `loss_of_tradition_through_death_near_chroniclers` | loss of tradition through death near chroniclers | 1 | celtic_irish |
 | `lost_child_in_the_wilderness_unable_to_return_home` | lost child in the wilderness unable to return home | 1 | finnish_karelian |
-| `lost_soul_recovered_in_visible_or_material_form` | Lost soul recovered in visible or material form | 1 | comparative |
-| `love_extending_into_the_realm_of_death` | love extending into the realm of death | 1 | greek_roman |
-| `lover_s_self_killing_after_mistaken_report_or_sign_of_beloved_s_death` | lover's self-killing after mistaken report or sign of beloved's death | 1 | roman |
-| `lovers_joined_in_one_grave` | lovers joined in one grave | 1 | celtic_irish |
-| `lower_world_encounter_with_dead_authorities_and_a_ghost` | lower-world encounter with dead authorities and a ghost | 1 | greek |
-| `loyal_spouse_refuses_food_and_new_union_while_beloved_lies_as_dead` | Loyal spouse refuses food and new union while beloved lies as dead | 1 | celtic_welsh |
-| `magic_ancestral_weapon_marked_by_fire` | magic ancestral weapon marked by fire | 1 | finnish_karelian |
-| `magic_assisted_duel_resulting_in_death` | Magic-assisted duel resulting in death | 1 | celtic_welsh |
 | `magic_control_over_ghosts_and_lower_world_powers` | Magic control over ghosts and lower-world powers | 1 | greek_roman |
-| `marked_heroic_burial_with_inscription_and_lament` | Marked heroic burial with inscription and lament | 1 | celtic_irish |
-| `marriage_race_with_death_penalty` | marriage race with death penalty | 1 | roman |
-| `martial_vow_to_return_only_with_enemy_s_head_and_regalia` | martial vow to return only with enemy's head and regalia | 1 | celtic_irish |
-| `marvelous_palace_with_deathless_crafted_guardians` | marvelous palace with deathless crafted guardians | 1 | greek |
-| `mass_battlefield_death_for_glory` | mass battlefield death for glory | 1 | greek |
 | `mass_death_overwhelms_funerary_order` | mass death overwhelms funerary order | 1 | roman |
-| `memorial_mound_and_inscribed_standing_stone_for_the_threatened_dead` | Memorial mound and inscribed standing-stone for the threatened dead | 1 | celtic_irish |
-| `memorialization_of_a_revered_dead_teacher` | Memorialization of a revered dead teacher | 1 | sufi |
 | `message_that_orders_the_bearer_s_death` | message that orders the bearer's death | 1 | greek_roman |
 | `metempsychosis_and_descent_of_divinity_into_creatures` | metempsychosis and descent of divinity into creatures | 1 | islamic |
 | `misleading_friend_causes_spiritual_loss` | Misleading friend causes spiritual loss | 1 | islamic |
@@ -216,25 +201,11 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ominous_signs_foretelling_death_in_battle` | Ominous signs foretelling death in battle | 1 | celtic_irish |
 | `ominous_wedding_signs_preceding_death` | ominous wedding signs preceding death | 1 | roman |
 | `one_death_dooms_a_dependent_family` | One death dooms a dependent family | 1 | hindu |
-| `opposed_elements_as_soul_location_and_means_of_death` | opposed elements as soul location and means of death | 1 | comparative |
 | `ordeal_like_one_foot_posture_against_evil_spirits` | ordeal-like one-foot posture against evil spirits | 1 | comparative |
-| `ordered_correspondence_of_state_and_soul` | Ordered correspondence of State and soul | 1 | greek |
-| `ordered_soul_as_ordered_city` | Ordered soul as ordered city | 1 | greek |
 | `origin_of_death` | origin of death | 1 | indigenous_australian |
 | `orphaned_child_deprived_by_the_father_s_death` | orphaned child deprived by the father’s death | 1 | greek |
-| `paradisal_spring_as_spiritual_nourishment` | Paradisal spring as spiritual nourishment | 1 | sufi |
-| `parental_lament_for_a_dead_hero` | parental lament for a dead hero | 1 | greek |
-| `parental_supplication_to_avert_heroic_death` | Parental supplication to avert heroic death | 1 | greek |
-| `parental_vengeance_for_dead_child` | parental vengeance for dead child | 1 | roman |
-| `past_guilt_returning_during_present_grief` | past guilt returning during present grief | 1 | hindu |
-| `peaceful_death_foretold_after_old_age_and_completed_rites` | peaceful death foretold after old age and completed rites | 1 | greek |
 | `people_claiming_descent_or_kindred_from_the_sun` | people claiming descent or kindred from the sun | 1 | comparative |
-| `perilous_cure_trial_with_marriage_reward_and_death_penalty` | perilous cure trial with marriage reward and death penalty | 1 | islamicate_folklore |
-| `perilous_passage_between_two_deadly_threats` | perilous passage between two deadly threats | 1 | greek |
 | `permanent_indwelling_of_a_divine_spirit_in_a_human_body` | Permanent indwelling of a divine spirit in a human body | 1 | comparative |
-| `personal_guardian_spirit_accompanying_a_human_life` | personal guardian spirit accompanying a human life | 1 | greek_roman |
-| `personified_sleep_and_death_as_bearers_of_the_body` | personified Sleep and Death as bearers of the body | 1 | greek |
-| `pilgrimage_like_prayer_at_the_teacher_s_tomb` | pilgrimage-like prayer at the teacher’s tomb | 1 | sufi |
 | `pious_death_accompanied_by_sacred_recitation` | pious death accompanied by sacred recitation | 1 | sufi |
 | `place_name_etiology_from_a_death_at_a_ford` | place-name etiology from a death at a ford | 1 | celtic_irish |
 | `place_name_explained_by_violent_death` | place-name explained by violent death | 1 | celtic_irish |
@@ -256,25 +227,12 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `posthumous_fame_secured_by_tomb_and_funeral_games` | Posthumous fame secured by tomb and funeral games | 1 | greek |
 | `posthumous_guardianship_of_the_virtuous_dead` | Posthumous guardianship of the virtuous dead | 1 | greek |
 | `posthumous_saint_controls_tomb_architecture` | posthumous saint controls tomb architecture | 1 | sufi |
-| `postmortem_shades_with_diminished_mind` | Postmortem shades with diminished mind | 1 | greek |
 | `prayer_for_death_or_supernatural_removal_to_avoid_unwanted_marriage` | Prayer for death or supernatural removal to avoid unwanted marriage | 1 | greek |
 | `prayer_for_visible_death_in_daylight` | Prayer for visible death in daylight | 1 | greek |
-| `pre_combat_flyting_and_death_threats` | pre-combat flyting and death threats | 1 | celtic_irish |
 | `predator_prey_death_chase` | predator-prey death chase | 1 | greek |
-| `premature_descent_to_tartarus_after_family_affliction` | premature descent to Tartarus after family affliction | 1 | roman |
-| `privacy_or_concealment_to_protect_the_soul_during_meals` | privacy or concealment to protect the soul during meals | 1 | comparative |
 | `prohibition_or_bond_connected_to_death` | prohibition or bond connected to death | 1 | celtic_irish |
 | `promised_afterlife_pleasures_contrasted_with_present_enjoyment` | promised afterlife pleasures contrasted with present enjoyment | 1 | sufi |
-| `promised_woman_as_lure_leading_warriors_to_death` | promised woman as lure leading warriors to death | 1 | celtic_irish |
-| `prophecy_of_the_hero_s_death_and_burial_place` | prophecy of the hero's death and burial place | 1 | celtic_irish |
-| `prophecy_of_violent_death` | prophecy of violent death | 1 | sufi |
-| `propitiation_of_the_underworld_dead` | Propitiation of the underworld dead | 1 | greek |
 | `protected_survivor_returned_to_halt_a_warrior_s_fury` | protected survivor returned to halt a warrior's fury | 1 | celtic_irish |
-| `protection_of_the_dead_from_scavengers` | protection of the dead from scavengers | 1 | greek |
-| `protection_of_the_warrior_s_corpse` | protection of the warrior's corpse | 1 | greek |
-| `protective_ancestral_household_spirit` | protective ancestral household spirit | 1 | greek_roman |
-| `protective_burial_of_a_severed_head` | Protective burial of a severed head | 1 | celtic_welsh |
-| `protective_intervention_leading_to_the_attacker_s_death` | Protective intervention leading to the attacker's death | 1 | celtic_irish |
 | `proud_warrior_death_within_fellowship` | proud warrior death within fellowship | 1 | celtic_irish |
 | `public_cremation_and_urn_burial_of_an_honored_hero` | public cremation and urn burial of an honored hero | 1 | greek |
 | `punishment_in_hell_fire` | punishment in hell-fire | 1 | islamic |

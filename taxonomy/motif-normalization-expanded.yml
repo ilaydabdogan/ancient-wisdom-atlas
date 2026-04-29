@@ -2373,6 +2373,23 @@ canonical_motif_groups:
   draft_reason_existing_groups_insufficient: Existing groups cover funeral rites and
     power objects, but not the recurring function of a dead hero's remains as an active
     postmortem sacred agent.
+- id: origin_of_death
+  label: Origin of Death
+  description: Myths or teachings explaining how mortality, death, or the loss of
+    immortality first entered human, animal, or cosmic existence.
+  children:
+  - origin_of_death
+  aliases: []
+  related:
+  - divine_judgment
+  - sacred_law
+  - immortality_without_renewal
+  draft_status: new_group_candidate
+  draft_parent_group_ids:
+  - death_and_transformation
+  draft_reason_existing_groups_insufficient: Existing groups cover death, rebirth,
+    afterlife travel, and defective immortality, but not the etiological explanation
+    for the first arrival of death.
 - id: past_life_identity
   label: Past-Life Identity and Karmic Continuity
   description: Present persons, traits, conflicts, or relationships are identified
@@ -52485,6 +52502,625 @@ raw_motif_group_index:
     - doomed rescue by war-band
     - annihilated youthful war-band
     - failed martial rescue
+  lost_soul_recovered_in_visible_or_material_form:
+    group_id: soul_loss_restoration
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The label directly describes a lost soul being recovered, matching the
+      soul-loss and restoration complex. Caution: Visible or material form should
+      remain as evidence detail; if the soul is stored outside the body as a life-token,
+      external_soul may be a related secondary group.'
+    suggested_aliases:
+    - recovery of lost soul
+    - materialized lost soul
+    - visible soul recovery
+  love_extending_into_the_realm_of_death:
+    group_id: sacred_love
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The label centers on love crossing or enduring death, a stated scope of
+      sacred_love. Caution: If the passage emphasizes an actual journey into Hades
+      or recovery of the dead beloved, descent or stolen_beloved may be important
+      secondary mappings.'
+    suggested_aliases:
+    - love beyond death
+    - love into the realm of death
+    - love crossing death
+  lover_s_self_killing_after_mistaken_report_or_sign_of_beloved_s_death:
+    group_id: sacred_love
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A lover''s death in response to the beloved''s supposed death is a tragic
+      love-beyond-death pattern. Caution: This is episode-specific and may also be
+      indexed under lament_and_mourning or death_by_fate if the passage stresses tragic
+      recognition or destiny rather than love.'
+    suggested_aliases:
+    - lover suicide after false death report
+    - mistaken beloved death causes self-killing
+    - tragic lover self-killing
+  lovers_joined_in_one_grave:
+    group_id: sacred_love
+    relationship: narrower_than
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The shared grave symbolizes lovers remaining united beyond death, fitting
+      sacred love and longing. Caution: If the grave or burial rite is the focus,
+      heroic_funeral_rites or lament_and_mourning could be secondary; preserve burial
+      detail.'
+    suggested_aliases:
+    - lovers united in death
+    - shared grave of lovers
+    - lovers buried together
+  lower_world_encounter_with_dead_authorities_and_a_ghost:
+    group_id: descent
+    relationship: narrower_than
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'An encounter in the lower world with dead figures is a clear underworld/descent
+      episode. Caution: If the passage maps postmortem rules, gates, or judgment,
+      afterlife_passage may be a secondary group; dead authorities may imply divine_judgment
+      only if evaluative authority is active.'
+    suggested_aliases:
+    - underworld encounter with the dead
+    - lower-world encounter
+    - ghost encounter in the underworld
+  loyal_spouse_refuses_food_and_new_union_while_beloved_lies_as_dead:
+    group_id: sacred_love
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Refusal of food and remarriage expresses fidelity and love in the presence
+      of apparent death. Caution: May also be lament_and_mourning or sacrifice/renunciation
+      if fasting and refusal are ritualized; verify whether the beloved is actually
+      dead or deathlike.'
+    suggested_aliases:
+    - spousal fidelity beside the deathlike beloved
+    - loyal spouse refuses remarriage
+    - fasting spouse beside beloved as dead
+  magic_ancestral_weapon_marked_by_fire:
+    group_id: sacred_treasures
+    relationship: narrower_than
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A magical ancestral weapon is a power object; fire-marking is a specific
+      attribute rather than the main group function. Caution: If fire is the active
+      divine force or forging/purification is emphasized, sacred_fire or sacred_craft
+      may be secondary; the death bucket appears incidental from the label alone.'
+    suggested_aliases:
+    - ancestral fire-marked weapon
+    - magical ancestral weapon
+    - fire-marked power weapon
+  magic_assisted_duel_resulting_in_death:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A duel whose outcome is shaped by magic is best treated as ritually or
+      supernaturally charged combat rather than a death-afterlife motif. Caution:
+      Single occurrence; if the passage emphasizes the fatal magic more than combat,
+      sacred_knowledge or divine_intervention may be secondary.'
+    suggested_aliases:
+    - magical duel
+    - supernaturally assisted duel
+    - fatal enchanted combat
+  marked_heroic_burial_with_inscription_and_lament:
+    group_id: heroic_funeral_rites
+    relationship: narrower_than
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The label combines burial marking, inscription, and lament for a heroic
+      dead figure, matching heroic funeral and memorial practice. Caution: May also
+      touch lament_and_mourning; preserve inscription and marker details as evidence
+      rather than a separate canonical motif.'
+    suggested_aliases:
+    - inscribed heroic burial
+    - heroic burial with lament
+    - marked burial of a hero
+  marriage_race_with_death_penalty:
+    group_id: initiation
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A marriage contest with lethal stakes functions as an ordeal that determines
+      status, union, and survival. Caution: Could also belong to sacred_love or sacred_combat
+      depending on whether the passage emphasizes courtship, competitive trial, or
+      death penalty. Single occurrence and culturally specific.'
+    suggested_aliases:
+    - deadly marriage contest
+    - lethal bride-race
+    - marriage ordeal race
+  martial_vow_to_return_only_with_enemy_s_head_and_regalia:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The motif centers on a warrior vow, enemy death, and trophy/regalia return,
+      fitting heroic sacred combat and warrior honor. Caution: Could be sacred_combat
+      if the combat setting is primary, or sacrifice/covenant if vow fulfillment is
+      ritually foregrounded. Highly specific; avoid promoting as canonical.'
+    suggested_aliases:
+    - warrior vow of trophy return
+    - vow to return with enemy head
+    - martial vengeance vow
+  marvelous_palace_with_deathless_crafted_guardians:
+    group_id: sacred_craft
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Crafted deathless guardians in a marvelous palace point to divinely aided
+      construction and animated sacred craftsmanship. Caution: If the guardians primarily
+      block passage, threshold_guardian may be secondary; if the palace is an enchanted
+      realm, otherworld may fit. Deathless detail alone should not force death_and_transformation.'
+    suggested_aliases:
+    - crafted deathless guardians
+    - marvelous palace guardians
+    - divinely crafted palace
+  mass_battlefield_death_for_glory:
+    group_id: divine_warrior
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Death in battle pursued or accepted for glory belongs with heroic warrior
+      death and sacred combat values. Caution: If the emphasis is lament, burial,
+      or fate rather than combat glory, lament_and_mourning, heroic_funeral_rites,
+      or death_by_fate may be better.'
+    suggested_aliases:
+    - glorious battlefield death
+    - warrior death for glory
+    - mass heroic death in battle
+  memorial_mound_and_inscribed_standing_stone_for_the_threatened_dead:
+    group_id: heroic_funeral_rites
+    relationship: narrower_than
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A mound and inscribed standing stone are memorial acts for the dead, fitting
+      funeral rites and memorialization. Caution: The phrase ''threatened dead'' is
+      unclear; if the dead require protection or appeasement, ancestor_rites or apotropaic
+      sacred_law may be secondary.'
+    suggested_aliases:
+    - memorial mound
+    - inscribed standing stone for the dead
+    - heroic burial marker
+  memorialization_of_a_revered_dead_teacher:
+    group_id: ancestor_rites
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Commemorating a revered dead teacher maintains a relationship between
+      the living community and an honored dead figure. Caution: If the passage emphasizes
+      shrine, lineage transmission, saintly presence, or teaching authority, sacred_knowledge
+      or divine_intervention may be relevant. Ancestor_rites is an approximate fit
+      rather than a perfect kinship match.'
+    suggested_aliases:
+    - commemoration of dead teacher
+    - memorializing a revered master
+    - veneration of a dead teacher
+  opposed_elements_as_soul_location_and_means_of_death:
+    group_id: external_soul
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A soul located outside or in an element that determines death fits the
+      external-soul/life-location complex. Caution: The phrase is abstract and comparative;
+      confirm it describes narrative belief rather than analytical classification.'
+    suggested_aliases:
+    - elemental soul location
+    - death by opposed element
+    - soul located in an element
+  ordered_correspondence_of_state_and_soul:
+    group_id: sacred_law
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The analogy between political order and psychic order fits sacred/social
+      order and moral cosmology better than death motifs. Caution: May be philosophical
+      doctrine rather than narrative motif; consider exclusion if it is only abstract
+      commentary.'
+    suggested_aliases:
+    - state-soul correspondence
+    - political order mirrors psychic order
+    - ordered city and ordered soul
+  ordered_soul_as_ordered_city:
+    group_id: sacred_law
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The soul-city analogy expresses moral and social order as corresponding
+      structures. Caution: Likely philosophical or didactic imagery; avoid treating
+      it as afterlife/death unless passage evidence supports that context.'
+    suggested_aliases:
+    - soul as city
+    - ordered city as ordered soul
+    - psychic order mirrored by civic order
+  paradisal_spring_as_spiritual_nourishment:
+    group_id: sacred_waters
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A paradisal spring that nourishes spiritually is sacred water functioning
+      as transformation or divine sustenance. Caution: If the Sufi context emphasizes
+      interior quest or divine beloved more than water symbolism, add mystical_quest
+      or sacred_love as secondary review mapping.'
+    suggested_aliases:
+    - spiritual spring
+    - paradisal water of nourishment
+    - sacred spring as nourishment
+  parental_lament_for_a_dead_hero:
+    group_id: lament_and_mourning
+    relationship: child
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A parent mourning a dead hero is a direct lament and tragic recognition
+      pattern. Caution: Could also support heroic_funeral_rites if the passage includes
+      burial honors or memorial rites.'
+    suggested_aliases:
+    - parent mourns dead hero
+    - lament for fallen hero by parent
+    - parental mourning of hero
+  parental_supplication_to_avert_heroic_death:
+    group_id: lament_and_mourning
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A parent''s plea to prevent heroic death anticipates mourning and tragic
+      recognition around doomed heroism. Caution: If the emphasis is fate, warrior
+      duty, or failed persuasion rather than grief, death_by_fate or divine_warrior
+      may be better secondary mappings.'
+    suggested_aliases:
+    - parent pleads against heroic death
+    - supplication to avert a hero's death
+    - parental plea before doomed battle
+  parental_vengeance_for_dead_child:
+    group_id: divine_judgment
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Vengeance for a dead child functions as retributive reckoning for a death
+      or violation. Caution: May be ordinary family revenge or tragic plot motive
+      rather than sacred judgment; source context should confirm moral or divine framing.'
+    suggested_aliases:
+    - kin vengeance for slain child
+    - retributive vengeance for child death
+  past_guilt_returning_during_present_grief:
+    group_id: lament_and_mourning
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The label centers on grief producing tragic recognition and renewed awareness
+      of guilt. Caution: Could instead belong under divine_judgment or ethics/inner-life
+      if karmic consequence or moral psychology is primary.'
+    suggested_aliases:
+    - guilt resurfacing in grief
+    - grief as moral recollection
+  peaceful_death_foretold_after_old_age_and_completed_rites:
+    group_id: death_by_fate
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A foretold death points to destined timing, with old age and completed
+      rites marking accepted fulfillment. Caution: If emphasis is ritual completion
+      rather than destiny, heroic_funeral_rites or sacred_law may be better secondary
+      contexts.'
+    suggested_aliases:
+    - foretold peaceful death
+    - destined death after completed rites
+  perilous_cure_trial_with_marriage_reward_and_death_penalty:
+    group_id: initiation
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A dangerous healing task with reward and death penalty functions as an
+      ordeal transforming status. Caution: Composite and tale-type specific; may also
+      involve sacred_love, divine_judgment, or healing motifs not represented by current
+      groups.'
+    suggested_aliases:
+    - deadly healing trial
+    - cure ordeal with marriage reward
+    - healing task under death penalty
+  perilous_passage_between_two_deadly_threats:
+    group_id: threshold_guardian
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A liminal passage constrained by deadly opposing threats is a threshold
+      ordeal requiring navigation. Caution: If the threats are not guardian-like or
+      boundary-related, this may be only an adventure episode; source context should
+      decide.'
+    suggested_aliases:
+    - passage between twin dangers
+    - narrow passage between deadly threats
+    - liminal passage ordeal
+  personal_guardian_spirit_accompanying_a_human_life:
+    group_id: divine_intervention
+    relationship: role_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A personal guardian spirit is a tutelary sacred agent guiding or protecting
+      a human life. Caution: Could warrant a future guardian-spirit subgroup if many
+      personal genius/daimon labels recur.'
+    suggested_aliases:
+    - personal tutelary spirit
+    - guardian daimon
+    - life-accompanying guardian spirit
+  personified_sleep_and_death_as_bearers_of_the_body:
+    group_id: heroic_funeral_rites
+    relationship: role_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Personified Sleep and Death carrying a body functions as divine or mythic
+      transport of the dead toward burial or memorial care. Caution: If the passage
+      emphasizes divine personifications rather than funerary handling, divine_intervention
+      or death_and_transformation may be relevant secondary mappings.'
+    suggested_aliases:
+    - Sleep and Death carrying the body
+    - divine bearers of the corpse
+    - personified death-bearers
+  pilgrimage_like_prayer_at_the_teacher_s_tomb:
+    group_id: ancestor_rites
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Prayer at a revered teacher''s tomb is ritual engagement with the dead
+      to maintain sacred relation or seek blessing. Caution: Sufi saint-veneration
+      contexts may not be ancestor rites in a strict kinship sense; review whether
+      a saint tomb/pilgrimage group is needed if recurrent.'
+    suggested_aliases:
+    - prayer at teacher's tomb
+    - tomb pilgrimage to spiritual teacher
+    - devotion at saintly teacher's grave
+  postmortem_shades_with_diminished_mind:
+    group_id: afterlife_passage
+    relationship: symbolic_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The label describes the condition of the dead in the postmortem realm,
+      fitting afterlife landscape and soul-state motifs. Caution: If the passage emphasizes
+      anthropology of soul/mind rather than journey or passage, a future soul-state
+      group may fit better.'
+    suggested_aliases:
+    - diminished shades
+    - mindless dead
+    - postmortem shadow existence
+  pre_combat_flyting_and_death_threats:
+    group_id: sacred_combat
+    relationship: functional_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Flyting and threats before combat are a recurring ritualized warfare or
+      heroic combat speech pattern. Caution: Could also relate to storytelling/speech
+      if the passage emphasizes verbal contest rather than combat preparation.'
+    suggested_aliases:
+    - pre-battle flyting
+    - combat taunts
+    - ritualized death threats before battle
+  premature_descent_to_tartarus_after_family_affliction:
+    group_id: descent
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A descent to Tartarus is a specific underworld descent or postmortem movement
+      into a chthonic realm. Caution: The family-affliction detail may be passage-specific;
+      if the figure simply dies, afterlife_passage may be the better group.'
+    suggested_aliases:
+    - descent to Tartarus
+    - premature underworld descent
+    - family-affliction underworld descent
+  privacy_or_concealment_to_protect_the_soul_during_meals:
+    group_id: sacred_law
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A behavioral restriction to protect the soul during eating fits ritual
+      prohibition and apotropaic sacred-law practice. Caution: Comparative labels
+      can be ethnographic artifacts; preserve meal-specific detail but avoid making
+      a canonical motif unless it recurs.'
+    suggested_aliases:
+    - meal privacy soul protection
+    - concealed eating to protect soul
+    - soul-protective meal taboo
+  promised_woman_as_lure_leading_warriors_to_death:
+    group_id: threshold_guardian
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A promised woman functions as a perilous lure drawing warriors across
+      a fatal threshold, close to existing lethal-lure children under threshold_guardian.
+      Caution: Single occurrence and gendered lure framing may be episode-specific;
+      if the passage emphasizes battle stratagem rather than liminal enchantment,
+      sacred_combat may be a secondary fit.'
+    suggested_aliases:
+    - fatal promised bride lure
+    - woman as death lure for warriors
+    - perilous lure to warrior death
+  prophecy_of_the_hero_s_death_and_burial_place:
+    group_id: death_by_fate
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A foretold heroic death and burial place expresses death as destined and
+      prefigured by prophecy. Caution: Could also belong with heroic_funeral_rites
+      if burial memorialization is the focus, or dream_and_vision if the prophetic
+      mechanism is central.'
+    suggested_aliases:
+    - foretold heroic death
+    - prophecy of burial place
+    - destined hero death
+  prophecy_of_violent_death:
+    group_id: death_by_fate
+    relationship: narrower_than
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The motif centers on foretold death, especially violent death, aligning
+      with fated or destined death patterns. Caution: In Sufi context, prophecy may
+      be hagiographic revelation or divine knowledge; review whether dream_and_vision
+      or divine_intervention should be secondary.'
+    suggested_aliases:
+    - foretold violent death
+    - prophetic death announcement
+    - destined violent death
+  propitiation_of_the_underworld_dead:
+    group_id: ancestor_rites
+    relationship: ritual_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Appeasing the underworld dead is ritual maintenance of relations between
+      living and dead, matching ancestor/dead propitiation rites. Caution: If the
+      rite occurs as part of a mapped katabasis or necromantic journey, afterlife_passage
+      or descent may be relevant secondary groups.'
+    suggested_aliases:
+    - appeasement of the dead
+    - underworld dead propitiation
+    - offerings to the dead
+  protection_of_the_dead_from_scavengers:
+    group_id: heroic_funeral_rites
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Guarding the dead body from desecration supports proper burial honor and
+      memorial care of the dead. Caution: If no heroic or ritual burial context is
+      present, this may be a battlefield episode detail rather than a durable motif.'
+    suggested_aliases:
+    - guarding the corpse from scavengers
+    - protection of corpse before burial
+    - defense of the dead body
+  protection_of_the_warrior_s_corpse:
+    group_id: heroic_funeral_rites
+    relationship: ritual_variant
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'Protecting a fallen warrior''s corpse is part of heroic death honor, burial
+      preparation, and social memorial obligation. Caution: May overlap with divine_warrior
+      or sacred_combat when the corpse contest is part of battle action.'
+    suggested_aliases:
+    - guarding the fallen warrior
+    - defense of warrior corpse
+    - corpse protection before funeral rites
+  protective_ancestral_household_spirit:
+    group_id: divine_intervention
+    relationship: role_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A household ancestral spirit acts as a protective supernatural agent,
+      matching tutelary-spirit roles already folded under divine_intervention. Caution:
+      Could warrant relation to ancestor_rites if ritual care of household dead is
+      central; review local Roman/Greek household cult specificity.'
+    suggested_aliases:
+    - ancestral household guardian
+    - protective household spirit
+    - tutelary ancestor spirit
+  protective_burial_of_a_severed_head:
+    group_id: heroic_funeral_rites
+    relationship: ritual_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'A burial act for a severed head that protects the community combines mortuary
+      rite with memorial/protective treatment of heroic remains. Caution: Celtic severed-head
+      symbolism may have distinct apotropaic or sovereignty meanings; consider sacred_treasures
+      or sacred_law as secondary if the head functions as a power object.'
+    suggested_aliases:
+    - apotropaic burial of severed head
+    - protective interment of head
+    - buried head protects the land
+  protective_intervention_leading_to_the_attacker_s_death:
+    group_id: divine_intervention
+    relationship: functional_variant
+    confidence: medium
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    accepted_on: '2026-04-29'
+    notes: 'The core action is protective supernatural or extraordinary intervention
+      that saves one party and kills the attacker. Caution: If the intervention is
+      not divine/supernatural, this may be a combat plot detail better placed under
+      sacred_combat or excluded as over-specific.'
+    suggested_aliases:
+    - protector kills attacker
+    - intervention causing attacker death
+    - protective death of aggressor
   abundance_giving_cow:
     group_id: animal_source_of_abundance
     relationship: symbolic_variant
@@ -53438,6 +54074,16 @@ raw_motif_group_index:
       merely funeral honor or sacred treasure possession. Caution: Single occurrence;
       could map to heroic_funeral_rites, sacred_treasures, or dream_and_vision if
       the passage emphasizes burial, relic objecthood, or oracle function instead.'
+  origin_of_death:
+    group_id: origin_of_death
+    relationship: narrower_than
+    confidence: medium
+    review_status: new_group_candidate
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    notes: 'Etiologies explaining how death entered human or cosmic life are not cleanly
+      captured by death-and-transformation or afterlife groups. Caution: Culturally
+      sensitive and broad; human review should confirm recurrence and avoid flattening
+      distinct Indigenous Australian traditions.'
   past_life_identification_in_j_taka_frame:
     group_id: past_life_identity
     relationship: functional_variant
@@ -54015,9 +54661,9 @@ normalization_suggestion_acceptance:
   latest_suggestions_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
   latest_review_data_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
   latest_report_path: docs/motif-normalization-auto-accept-review.md
-  latest_suggestion_count: 4940
-  latest_auto_accepted_count: 287
-  latest_review_needed_count: 4653
+  latest_suggestion_count: 5000
+  latest_auto_accepted_count: 42
+  latest_review_needed_count: 4958
 expansion_draft:
   generated_on: '2026-04-29'
   source_suggestions_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
@@ -54025,12 +54671,12 @@ expansion_draft:
   purpose: Draft expansion generated from model normalization suggestions. Review
     before merging into taxonomy/motif-normalization.yml.
   include_low_confidence: false
-  suggestion_count: 4940
-  accepted_mapping_count: 153
-  new_group_candidate_count: 77
-  excluded_count: 278
-  needs_review_count: 1287
-  already_known_count: 3222
+  suggestion_count: 5000
+  accepted_mapping_count: 154
+  new_group_candidate_count: 78
+  excluded_count: 279
+  needs_review_count: 1303
+  already_known_count: 3264
 expansion_review_flags:
   low_confidence_or_needs_human_review:
   - motif_id: abandonment_after_rejected_aid
@@ -64474,6 +65120,21 @@ expansion_review_flags:
       wording is contextual and sensitive.
     cautions: Review source language around disability and whether the motif is heroic
       protection, immunity from a curse, social marginalization, or a passage artifact.
+  - motif_id: loss_of_a_beloved_spiritual_companion_amid_communal_conflict
+    label: Loss of a beloved spiritual companion amid communal conflict
+    occurrences: 1
+    traditions:
+    - sufi
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Combines bereavement, spiritual companionship, and communal conflict;
+      the dominant motif cannot be determined from the label alone.
+    cautions: Could fit sacred_love, lament_and_mourning, mystical_quest, or conflict/social
+      order depending on passage evidence; single occurrence is highly contextual.
   - motif_id: loss_of_control_to_one_s_mount
     label: loss of control to one's mount
     occurrences: 1
@@ -64521,6 +65182,22 @@ expansion_review_flags:
     cautions: Very abstract; may be a moral teaching, political episode, or passage
       summary rather than a reusable motif. Human review should verify sacred or communal-order
       framing.
+  - motif_id: lost_child_in_the_wilderness_unable_to_return_home
+    label: lost child in the wilderness unable to return home
+    occurrences: 1
+    traditions:
+    - finnish_karelian
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: A lost child in wilderness may be an ordeal, exile, otherworld abduction,
+      or passage-specific plot detail.
+    cautions: Do not map to death/descent unless the wilderness functions as a liminal
+      or deathlike realm; may fit hero_journey, miraculous_child, otherworld, or exclusion
+      as over-specific.
   - motif_id: low_status_mediator_rejected_by_powerful_combatants
     label: low-status mediator rejected by powerful combatants
     occurrences: 1
@@ -64613,6 +65290,22 @@ expansion_review_flags:
     cautions: Could fit divine judgment, pride/downfall, Dionysian possession, or
       philosophical moral disorder depending on passage evidence; no existing group
       cleanly captures temperance-to-madness as stated.
+  - motif_id: magic_control_over_ghosts_and_lower_world_powers
+    label: Magic control over ghosts and lower-world powers
+    occurrences: 1
+    traditions:
+    - greek_roman
+    suggested_action: needs_human_review
+    suggested_group_id: sacred_knowledge
+    suggested_group_label: Sacred Knowledge and Wisdom
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Control over ghosts and chthonic powers may involve forbidden or ritual
+      knowledge, necromancy, underworld agency, or magical domination.
+    cautions: Needs source evidence; could map to descent, afterlife_passage, divine_intervention,
+      or a future necromancy/spirit-control group. Avoid treating all lower-world
+      power as underworld journey.
   - motif_id: magical_army_summoned_by_instrument
     label: magical army summoned by instrument
     occurrences: 1
@@ -65010,6 +65703,23 @@ expansion_review_flags:
       status, or transformation, but the label lacks function.
     cautions: Do not map to sacred_fire unless fire mediates divine presence, sacrifice,
       purification, or guidance; may be an over-specific descriptive attribute.
+  - motif_id: mass_death_overwhelms_funerary_order
+    label: mass death overwhelms funerary order
+    occurrences: 1
+    traditions:
+    - roman
+    suggested_action: needs_human_review
+    suggested_group_id: heroic_funeral_rites
+    suggested_group_label: Heroic Funeral Rites and Memorialization
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label concerns disruption of proper burial or funerary order, but
+      may be historical catastrophe, plague, war, or literary description rather than
+      a motif.
+    cautions: Source context needed; could be heroic_funeral_rites, divine_judgment,
+      catastrophe renewal, or a passage artifact. Single occurrence and abstract social-disorder
+      wording.
   - motif_id: mass_entry_into_the_divine_religion_after_victory
     label: Mass entry into the divine religion after victory
     occurrences: 1
@@ -66396,6 +67106,21 @@ expansion_review_flags:
       detail is very contextual.
     cautions: Could be a passage-specific plot detail rather than a durable motif;
       preserve the specific action only as evidence.
+  - motif_id: one_death_dooms_a_dependent_family
+    label: One death dooms a dependent family
+    occurrences: 1
+    traditions:
+    - hindu
+    suggested_action: needs_human_review
+    suggested_group_id: lament_and_mourning
+    suggested_group_label: Lament, Mourning, and Tragic Recognition
+    relationship: functional_variant
+    confidence: low
+    reason: low confidence
+    rationale: The label concerns social and familial devastation caused by death,
+      closest to mourning and tragic loss.
+    cautions: Could be an episode-specific ethical or dependency detail rather than
+      a reusable motif; source context is needed.
   - motif_id: one_eyed_survivor_of_supernatural_encounter
     label: one-eyed survivor of supernatural encounter
     occurrences: 1
@@ -66441,6 +67166,21 @@ expansion_review_flags:
       also be scholarly commentary on preservation and loss.
     cautions: If the passage depicts storytelling preserving wisdom, map to storytelling_as_power;
       if it is about transmission history, exclude as _meta_textual.
+  - motif_id: ordeal_like_one_foot_posture_against_evil_spirits
+    label: ordeal-like one-foot posture against evil spirits
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: needs_human_review
+    suggested_group_id: sacred_law
+    suggested_group_label: Sacred Law and Social Order
+    relationship: ritual_variant
+    confidence: low
+    reason: low confidence
+    rationale: A posture used against evil spirits appears to be a protective or apotropaic
+      ritual practice, currently folded under sacred_law.
+    cautions: Highly specific and comparative; could belong with initiation/ordeal,
+      spirit expulsion under sacrifice, or be an ethnographic artifact.
   - motif_id: ordeal_of_successive_waves_in_argument
     label: ordeal of successive waves in argument
     occurrences: 1
@@ -66517,6 +67257,22 @@ expansion_review_flags:
     cautions: Could be philosophical or etiological social theory rather than a narrative
       motif; if no founder, divine giver, or mythic episode is present, consider excluding
       or reviewing as commentary.
+  - motif_id: orphaned_child_deprived_by_the_father_s_death
+    label: orphaned child deprived by the father’s death
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: lament_and_mourning
+    suggested_group_label: Lament, Mourning, and Tragic Recognition
+    relationship: functional_variant
+    confidence: low
+    reason: low confidence
+    rationale: The motif centers on bereavement and deprivation caused by a father's
+      death, fitting mourning and tragic loss.
+    cautions: May be an episode-specific social consequence rather than a recurring
+      motif; could also belong with miraculous_child if the orphaned child has sacred
+      destiny.
   - motif_id: outsider_expelled_from_feast_space
     label: outsider expelled from feast-space
     occurrences: 1
@@ -66853,6 +67609,22 @@ expansion_review_flags:
       cluster as a principle opposing coercive force.
     cautions: Could also be sacred law, wisdom teaching, or ethics rather than mythic
       motif; review source context before broad indexing.
+  - motif_id: people_claiming_descent_or_kindred_from_the_sun
+    label: people claiming descent or kindred from the sun
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: map_to_existing_group
+    suggested_group_id: royal_legitimacy
+    suggested_group_label: Royal Legitimacy and Sacred Kingship
+    relationship: role_variant
+    confidence: low
+    reason: low confidence
+    rationale: Solar descent or kinship often authorizes sacred lineage, ancestry,
+      or political-religious identity.
+    cautions: The label may describe ethnic origin, clan ancestry, or comparative
+      classification rather than kingship; human review needed because bucket placement
+      is odd.
   - motif_id: perfected_being_immune_to_environmental_catastrophe
     label: Perfected being immune to environmental catastrophe
     occurrences: 1
@@ -66884,6 +67656,21 @@ expansion_review_flags:
     cautions: Could be a combat episode, hospitality inversion, otherworld encounter,
       or merely an episode-specific antagonist; giants are not currently a dedicated
       group.
+  - motif_id: permanent_indwelling_of_a_divine_spirit_in_a_human_body
+    label: Permanent indwelling of a divine spirit in a human body
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: needs_human_review
+    suggested_group_id: divine_intervention
+    suggested_group_label: Divine Intervention and Guidance
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: Divine spirit inhabiting a body suggests sacred agency acting through
+      a human vessel.
+    cautions: Potentially culturally and theologically sensitive; may indicate possession,
+      incarnation, inspiration, embodiment, or later comparative interpretation.
   - motif_id: piety_interrupted_by_violence
     label: Piety interrupted by violence
     occurrences: 1
@@ -67098,6 +67885,21 @@ expansion_review_flags:
       highly episode-specific.
     cautions: May be a narrative proof detail rather than a reusable motif; preserve
       as evidence under combat or warrior death only if recurrent.
+  - motif_id: posthumous_saint_controls_tomb_architecture
+    label: posthumous saint controls tomb architecture
+    occurrences: 1
+    traditions:
+    - sufi
+    suggested_action: needs_human_review
+    suggested_group_id: divine_intervention
+    suggested_group_label: Divine Intervention and Guidance
+    relationship: functional_variant
+    confidence: low
+    reason: low confidence
+    rationale: A saint acting after death to direct tomb construction suggests posthumous
+      sacred agency in human affairs.
+    cautions: Could be hagiographic site-legitimation, saintly miracle, tomb cult,
+      or passage-specific architectural anecdote; source context is needed.
   - motif_id: posthumous_shrine_for_a_revered_teacher
     label: Posthumous shrine for a revered teacher
     occurrences: 1
@@ -67206,6 +68008,36 @@ expansion_review_flags:
       to sacred combat.
     cautions: Could be ethical prayer, anti-violence teaching, battle restraint, or
       a passage-specific phrase; source evidence is needed before mapping.
+  - motif_id: prayer_for_death_or_supernatural_removal_to_avoid_unwanted_marriage
+    label: Prayer for death or supernatural removal to avoid unwanted marriage
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: divine_intervention
+    suggested_group_label: Divine Intervention and Guidance
+    relationship: functional_variant
+    confidence: low
+    reason: low confidence
+    rationale: A prayer for divine removal invokes supernatural intervention to escape
+      an intolerable social fate.
+    cautions: May belong more to love/family, forced marriage, tragic lament, or death
+      wish than to afterlife motifs; the label is highly contextual.
+  - motif_id: prayer_for_visible_death_in_daylight
+    label: Prayer for visible death in daylight
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: lament_and_mourning
+    suggested_group_label: Lament, Mourning, and Tragic Recognition
+    relationship: over_specific_label
+    confidence: low
+    reason: low confidence
+    rationale: The label appears to express a death wish or desired mode of death,
+      possibly within lament or tragic recognition.
+    cautions: Too specific to map confidently without passage evidence; may be a dramatic
+      utterance rather than a reusable motif.
   - motif_id: precious_intoxicating_goods_beyond_ordinary_exchange
     label: precious intoxicating goods beyond ordinary exchange
     occurrences: 1
@@ -67236,6 +68068,21 @@ expansion_review_flags:
       adjacent to animal trickster and escape motifs already grouped under trickster.
     cautions: In Buddhist context it may instead be ethical nonviolence, compassion,
       karmic consequence, or a Jataka-style animal exemplum; source context is needed.
+  - motif_id: predator_prey_death_chase
+    label: predator-prey death chase
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: needs_human_review
+    suggested_group_id: shapeshifter
+    suggested_group_label: Shapeshifter and Transformation
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: A predator-prey chase may involve animal transformation or pursuit
+      toward death, but the narrative function is unclear.
+    cautions: Could be ordinary plot action, animal fable, metamorphosis, divine punishment,
+      or violent ordeal; do not map from death wording alone.
   - motif_id: predator_sets_a_verbal_condition_for_mercy
     label: predator sets a verbal condition for mercy
     occurrences: 1
@@ -67437,6 +68284,36 @@ expansion_review_flags:
       and wisdom rather than a concrete narrative motif.
     cautions: Likely doctrinal or philosophical commentary; do not index as motif
       unless the passage embodies it narratively or ritually.
+  - motif_id: prohibition_or_bond_connected_to_death
+    label: prohibition or bond connected to death
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: needs_human_review
+    suggested_group_id: covenant
+    suggested_group_label: Covenant and Sacred Bond
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: A binding prohibition associated with death may fit covenant, taboo,
+      or sacred law depending on its role.
+    cautions: Very broad and vague; in Celtic context it may be a geis, death taboo,
+      fate bond, or narrative condition requiring evidence review.
+  - motif_id: promised_afterlife_pleasures_contrasted_with_present_enjoyment
+    label: promised afterlife pleasures contrasted with present enjoyment
+    occurrences: 1
+    traditions:
+    - sufi
+    suggested_action: needs_human_review
+    suggested_group_id: mystical_quest
+    suggested_group_label: Mystical Quest and Interior Journey
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: In Sufi context, contrasting promised afterlife rewards with present
+      enjoyment may express spiritual teaching about desire and renunciation.
+    cautions: Could be ethical instruction, eschatological doctrine, satire, or passage-specific
+      rhetoric rather than a narrative motif; review source context.
   - motif_id: proof_token_placed_at_the_perilous_site
     label: proof token placed at the perilous site
     occurrences: 1
@@ -67559,6 +68436,22 @@ expansion_review_flags:
       but combat preparation may make it a local episode detail.
     cautions: Map to descent only if the cave functions as a transformative threshold
       or hidden realm; otherwise it may be a war-context detail or protective concealment.
+  - motif_id: protected_survivor_returned_to_halt_a_warrior_s_fury
+    label: protected survivor returned to halt a warrior's fury
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: needs_human_review
+    suggested_group_id: ''
+    suggested_group_label: ''
+    relationship: uncertain
+    confidence: low
+    reason: low confidence
+    rationale: The label combines survival, protection, return, and pacification of
+      warrior rage without a clear primary symbolic function.
+    cautions: May be an episode-specific plot resolution; could fit survivor_pair/protected
+      remnant, hero_journey return, divine_intervention, or sacred_combat depending
+      on source evidence.
   - motif_id: protection_from_corrupting_images
     label: protection from corrupting images
     occurrences: 1
@@ -74797,6 +75690,23 @@ expansion_review_flags:
     draft_reason_existing_groups_insufficient: Existing groups cover funeral rites
       and power objects, but not the recurring function of a dead hero's remains as
       an active postmortem sacred agent.
+  - id: origin_of_death
+    label: Origin of Death
+    description: Myths or teachings explaining how mortality, death, or the loss of
+      immortality first entered human, animal, or cosmic existence.
+    children:
+    - origin_of_death
+    aliases: []
+    related:
+    - divine_judgment
+    - sacred_law
+    - immortality_without_renewal
+    draft_status: new_group_candidate
+    draft_parent_group_ids:
+    - death_and_transformation
+    draft_reason_existing_groups_insufficient: Existing groups cover death, rebirth,
+      afterlife travel, and defective immortality, but not the etiological explanation
+      for the first arrival of death.
   - id: past_life_identity
     label: Past-Life Identity and Karmic Continuity
     description: Present persons, traits, conflicts, or relationships are identified
@@ -77628,6 +78538,22 @@ expansion_review_flags:
       a mythic narrative.
     cautions: Do not use taxonomy placement as evidence for continuity or historical
       transmission; preserve only as provenance/commentary if needed.
+  - motif_id: loss_of_tradition_through_death_near_chroniclers
+    label: loss of tradition through death near chroniclers
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: exclude_from_pattern_queries
+    suggested_group_id: _meta_textual
+    suggested_group_label: Textual and Scholarly Artifacts
+    relationship: meta_artifact
+    confidence: high
+    reason: model suggested exclusion from pattern queries
+    rationale: The label describes loss or preservation of tradition around chroniclers,
+      not a symbolic narrative motif.
+    cautions: Preserve as provenance or historiographic evidence if useful; do not
+      use for motif pattern queries unless the passage narrativizes death as sacred
+      transmission loss.
   - motif_id: maimed_female_relative_provokes_inquiry_about_a_powerful_enemy
     label: Maimed female relative provokes inquiry about a powerful enemy
     occurrences: 1
@@ -107732,6 +108658,22 @@ expansion_review_flags:
       sacred tradition and scripture.
     cautions: If the source is only historical or exegetical identification of tribes,
       it may be better treated as a textual/provenance note rather than motif evidence.
+  - motif_id: lost_soul_recovered_in_visible_or_material_form
+    label: Lost soul recovered in visible or material form
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: map_to_existing_group
+    suggested_group_id: soul_loss_restoration
+    suggested_group_label: Soul Loss and Restoration
+    relationship: functional_variant
+    confidence: high
+    reason: already present in base normalization
+    rationale: The label directly describes a lost soul being recovered, matching
+      the soul-loss and restoration complex.
+    cautions: Visible or material form should remain as evidence detail; if the soul
+      is stored outside the body as a life-token, external_soul may be a related secondary
+      group.
   - motif_id: lost_talisman_triggers_separation_and_concealment
     label: lost talisman triggers separation and concealment
     occurrences: 1
@@ -107793,6 +108735,68 @@ expansion_review_flags:
       matching the sacred-love complex.
     cautions: The fire and weapon imagery should remain evidence detail; do not map
       to sacred_fire or divine_warrior unless those functions are explicit.
+  - motif_id: love_extending_into_the_realm_of_death
+    label: love extending into the realm of death
+    occurrences: 1
+    traditions:
+    - greek_roman
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_love
+    suggested_group_label: Sacred Love and Longing
+    relationship: symbolic_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: The label centers on love crossing or enduring death, a stated scope
+      of sacred_love.
+    cautions: If the passage emphasizes an actual journey into Hades or recovery of
+      the dead beloved, descent or stolen_beloved may be important secondary mappings.
+  - motif_id: lover_s_self_killing_after_mistaken_report_or_sign_of_beloved_s_death
+    label: lover's self-killing after mistaken report or sign of beloved's death
+    occurrences: 1
+    traditions:
+    - roman
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_love
+    suggested_group_label: Sacred Love and Longing
+    relationship: narrower_than
+    confidence: medium
+    reason: already present in base normalization
+    rationale: A lover's death in response to the beloved's supposed death is a tragic
+      love-beyond-death pattern.
+    cautions: This is episode-specific and may also be indexed under lament_and_mourning
+      or death_by_fate if the passage stresses tragic recognition or destiny rather
+      than love.
+  - motif_id: lovers_joined_in_one_grave
+    label: lovers joined in one grave
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_love
+    suggested_group_label: Sacred Love and Longing
+    relationship: narrower_than
+    confidence: high
+    reason: already present in base normalization
+    rationale: The shared grave symbolizes lovers remaining united beyond death, fitting
+      sacred love and longing.
+    cautions: If the grave or burial rite is the focus, heroic_funeral_rites or lament_and_mourning
+      could be secondary; preserve burial detail.
+  - motif_id: lower_world_encounter_with_dead_authorities_and_a_ghost
+    label: lower-world encounter with dead authorities and a ghost
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: descent
+    suggested_group_label: Descent and Underworld Journey
+    relationship: narrower_than
+    confidence: high
+    reason: already present in base normalization
+    rationale: An encounter in the lower world with dead figures is a clear underworld/descent
+      episode.
+    cautions: If the passage maps postmortem rules, gates, or judgment, afterlife_passage
+      may be a secondary group; dead authorities may imply divine_judgment only if
+      evaluative authority is active.
   - motif_id: lowly_stranger_reveals_hidden_heroic_strength
     label: lowly stranger reveals hidden heroic strength
     occurrences: 1
@@ -107839,6 +108843,21 @@ expansion_review_flags:
       rulers.
     cautions: If the emphasis is recognition of a returning master rather than grief,
       hero_journey/return may be a secondary mapping.
+  - motif_id: loyal_spouse_refuses_food_and_new_union_while_beloved_lies_as_dead
+    label: Loyal spouse refuses food and new union while beloved lies as dead
+    occurrences: 1
+    traditions:
+    - celtic_welsh
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_love
+    suggested_group_label: Sacred Love and Longing
+    relationship: functional_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: Refusal of food and remarriage expresses fidelity and love in the presence
+      of apparent death.
+    cautions: May also be lament_and_mourning or sacrifice/renunciation if fasting
+      and refusal are ritualized; verify whether the beloved is actually dead or deathlike.
   - motif_id: luminous_nature_and_sacred_fire_imagery
     label: luminous nature and sacred fire imagery
     occurrences: 1
@@ -107981,6 +109000,37 @@ expansion_review_flags:
     cautions: If the magic itself is central, sacred_knowledge or divine_intervention
       may be relevant; if this is a single saga plot detail, avoid promoting it as
       a canonical motif.
+  - motif_id: magic_ancestral_weapon_marked_by_fire
+    label: magic ancestral weapon marked by fire
+    occurrences: 1
+    traditions:
+    - finnish_karelian
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_treasures
+    suggested_group_label: Sacred Treasures and Power Objects
+    relationship: narrower_than
+    confidence: high
+    reason: already present in base normalization
+    rationale: A magical ancestral weapon is a power object; fire-marking is a specific
+      attribute rather than the main group function.
+    cautions: If fire is the active divine force or forging/purification is emphasized,
+      sacred_fire or sacred_craft may be secondary; the death bucket appears incidental
+      from the label alone.
+  - motif_id: magic_assisted_duel_resulting_in_death
+    label: Magic-assisted duel resulting in death
+    occurrences: 1
+    traditions:
+    - celtic_welsh
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_combat
+    suggested_group_label: Sacred Combat and Ritual Warfare
+    relationship: functional_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: A duel whose outcome is shaped by magic is best treated as ritually
+      or supernaturally charged combat rather than a death-afterlife motif.
+    cautions: Single occurrence; if the passage emphasizes the fatal magic more than
+      combat, sacred_knowledge or divine_intervention may be secondary.
   - motif_id: magic_image_or_illusory_double
     label: magic image or illusory double
     occurrences: 1
@@ -108545,6 +109595,37 @@ expansion_review_flags:
       a warfare sequence.
     cautions: May be a tactical passage detail rather than a mythic motif unless the
       mark has sacred, protective, or recognition significance.
+  - motif_id: marked_heroic_burial_with_inscription_and_lament
+    label: Marked heroic burial with inscription and lament
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: map_to_existing_group
+    suggested_group_id: heroic_funeral_rites
+    suggested_group_label: Heroic Funeral Rites and Memorialization
+    relationship: narrower_than
+    confidence: high
+    reason: already present in base normalization
+    rationale: The label combines burial marking, inscription, and lament for a heroic
+      dead figure, matching heroic funeral and memorial practice.
+    cautions: May also touch lament_and_mourning; preserve inscription and marker
+      details as evidence rather than a separate canonical motif.
+  - motif_id: marriage_race_with_death_penalty
+    label: marriage race with death penalty
+    occurrences: 1
+    traditions:
+    - roman
+    suggested_action: map_to_existing_group
+    suggested_group_id: initiation
+    suggested_group_label: Initiation and Transformative Ordeal
+    relationship: functional_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: A marriage contest with lethal stakes functions as an ordeal that determines
+      status, union, and survival.
+    cautions: Could also belong to sacred_love or sacred_combat depending on whether
+      the passage emphasizes courtship, competitive trial, or death penalty. Single
+      occurrence and culturally specific.
   - motif_id: martial_boast_against_overwhelming_opponent
     label: martial boast against overwhelming opponent
     occurrences: 1
@@ -108590,6 +109671,22 @@ expansion_review_flags:
       or competitive combat display.
     cautions: If the passage is merely athletic characterization without combat consequence,
       it may be an over-specific heroic detail.
+  - motif_id: martial_vow_to_return_only_with_enemy_s_head_and_regalia
+    label: martial vow to return only with enemy's head and regalia
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: map_to_existing_group
+    suggested_group_id: divine_warrior
+    suggested_group_label: Divine Warrior and Sacred Combat
+    relationship: functional_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: The motif centers on a warrior vow, enemy death, and trophy/regalia
+      return, fitting heroic sacred combat and warrior honor.
+    cautions: Could be sacred_combat if the combat setting is primary, or sacrifice/covenant
+      if vow fulfillment is ritually foregrounded. Highly specific; avoid promoting
+      as canonical.
   - motif_id: marvelous_hospitality_in_an_enormous_castle
     label: marvelous hospitality in an enormous castle
     occurrences: 1
@@ -108620,6 +109717,22 @@ expansion_review_flags:
       abundance or authority.
     cautions: If the object is primarily a vessel or cauldron, sacred_vessel may be
       a secondary fit; preserve inexhaustible-wealth function as evidence detail.
+  - motif_id: marvelous_palace_with_deathless_crafted_guardians
+    label: marvelous palace with deathless crafted guardians
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_craft
+    suggested_group_label: Sacred Craft and Divinely Aided Construction
+    relationship: functional_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: Crafted deathless guardians in a marvelous palace point to divinely
+      aided construction and animated sacred craftsmanship.
+    cautions: If the guardians primarily block passage, threshold_guardian may be
+      secondary; if the palace is an enchanted realm, otherworld may fit. Deathless
+      detail alone should not force death_and_transformation.
   - motif_id: marvelous_troop_equipped_by_fairy_gifts
     label: Marvelous troop equipped by fairy gifts
     occurrences: 1
@@ -108651,6 +109764,21 @@ expansion_review_flags:
     cautions: If the slain body creates cosmic features, primordial_sacrifice may
       be relevant; if ritual blood symbolism is central, sacred_law or sacrifice may
       be secondary.
+  - motif_id: mass_battlefield_death_for_glory
+    label: mass battlefield death for glory
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: divine_warrior
+    suggested_group_label: Divine Warrior and Sacred Combat
+    relationship: functional_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: Death in battle pursued or accepted for glory belongs with heroic warrior
+      death and sacred combat values.
+    cautions: If the emphasis is lament, burial, or fate rather than combat glory,
+      lament_and_mourning, heroic_funeral_rites, or death_by_fate may be better.
   - motif_id: mass_funeral_after_battle
     label: mass funeral after battle
     occurrences: 1
@@ -108835,6 +109963,37 @@ expansion_review_flags:
       for deception or ambush.
     cautions: If the trap function dominates over memorial ritual, sacred_combat or
       trickster may be relevant; single occurrence may be episode-specific.
+  - motif_id: memorial_mound_and_inscribed_standing_stone_for_the_threatened_dead
+    label: Memorial mound and inscribed standing-stone for the threatened dead
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: map_to_existing_group
+    suggested_group_id: heroic_funeral_rites
+    suggested_group_label: Heroic Funeral Rites and Memorialization
+    relationship: narrower_than
+    confidence: high
+    reason: already present in base normalization
+    rationale: A mound and inscribed standing stone are memorial acts for the dead,
+      fitting funeral rites and memorialization.
+    cautions: The phrase 'threatened dead' is unclear; if the dead require protection
+      or appeasement, ancestor_rites or apotropaic sacred_law may be secondary.
+  - motif_id: memorialization_of_a_revered_dead_teacher
+    label: Memorialization of a revered dead teacher
+    occurrences: 1
+    traditions:
+    - sufi
+    suggested_action: map_to_existing_group
+    suggested_group_id: ancestor_rites
+    suggested_group_label: Ancestor Rites and Feeding the Dead
+    relationship: functional_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: Commemorating a revered dead teacher maintains a relationship between
+      the living community and an honored dead figure.
+    cautions: If the passage emphasizes shrine, lineage transmission, saintly presence,
+      or teaching authority, sacred_knowledge or divine_intervention may be relevant.
+      Ancestor_rites is an approximate fit rather than a perfect kinship match.
   - motif_id: memorialization_of_a_slain_companion_through_ritual_dress
     label: Memorialization of a slain companion through ritual dress
     occurrences: 1
@@ -111976,6 +113135,21 @@ expansion_review_flags:
     cautions: Could also fit miraculous_child or hero_journey if the episode marks
       childhood signs or heroic departure; avoid treating ordinary games as sacred
       combat without evidence.
+  - motif_id: opposed_elements_as_soul_location_and_means_of_death
+    label: opposed elements as soul location and means of death
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: map_to_existing_group
+    suggested_group_id: external_soul
+    suggested_group_label: External Soul and Life-Token
+    relationship: symbolic_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: A soul located outside or in an element that determines death fits
+      the external-soul/life-location complex.
+    cautions: The phrase is abstract and comparative; confirm it describes narrative
+      belief rather than analytical classification.
   - motif_id: oracle_directed_embassy_for_divine_aid
     label: oracle-directed embassy for divine aid
     occurrences: 1
@@ -112066,6 +113240,36 @@ expansion_review_flags:
       or truth transformation.
     cautions: If the draught is chiefly sacrificial, purificatory, poisonous, or judicial,
       sacrifice, sacred_law, or divine_judgment may be better secondary mappings.
+  - motif_id: ordered_correspondence_of_state_and_soul
+    label: Ordered correspondence of State and soul
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_law
+    suggested_group_label: Sacred Law and Social Order
+    relationship: symbolic_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: The analogy between political order and psychic order fits sacred/social
+      order and moral cosmology better than death motifs.
+    cautions: May be philosophical doctrine rather than narrative motif; consider
+      exclusion if it is only abstract commentary.
+  - motif_id: ordered_soul_as_ordered_city
+    label: Ordered soul as ordered city
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_law
+    suggested_group_label: Sacred Law and Social Order
+    relationship: symbolic_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: The soul-city analogy expresses moral and social order as corresponding
+      structures.
+    cautions: Likely philosophical or didactic imagery; avoid treating it as afterlife/death
+      unless passage evidence supports that context.
   - motif_id: origin_of_brewing
     label: Origin of brewing
     occurrences: 1
@@ -112279,6 +113483,22 @@ expansion_review_flags:
       ritual warfare group.
     cautions: If the pairing is structurally about duality or siblings rather than
       martial contest, secondary review may be needed.
+  - motif_id: paradisal_spring_as_spiritual_nourishment
+    label: Paradisal spring as spiritual nourishment
+    occurrences: 1
+    traditions:
+    - sufi
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_waters
+    suggested_group_label: Sacred Waters and Passage Through Water
+    relationship: symbolic_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: A paradisal spring that nourishes spiritually is sacred water functioning
+      as transformation or divine sustenance.
+    cautions: If the Sufi context emphasizes interior quest or divine beloved more
+      than water symbolism, add mystical_quest or sacred_love as secondary review
+      mapping.
   - motif_id: paradise_as_inherited_gardens_for_the_pious
     label: Paradise as inherited gardens for the pious
     occurrences: 1
@@ -112325,6 +113545,51 @@ expansion_review_flags:
     cautions: If the passage emphasizes eschatological reward or postmortem geography
       more than spousal restoration, afterlife_passage or divine_judgment may be secondary
       placements.
+  - motif_id: parental_lament_for_a_dead_hero
+    label: parental lament for a dead hero
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: lament_and_mourning
+    suggested_group_label: Lament, Mourning, and Tragic Recognition
+    relationship: child
+    confidence: high
+    reason: already present in base normalization
+    rationale: A parent mourning a dead hero is a direct lament and tragic recognition
+      pattern.
+    cautions: Could also support heroic_funeral_rites if the passage includes burial
+      honors or memorial rites.
+  - motif_id: parental_supplication_to_avert_heroic_death
+    label: Parental supplication to avert heroic death
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: lament_and_mourning
+    suggested_group_label: Lament, Mourning, and Tragic Recognition
+    relationship: functional_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: A parent's plea to prevent heroic death anticipates mourning and tragic
+      recognition around doomed heroism.
+    cautions: If the emphasis is fate, warrior duty, or failed persuasion rather than
+      grief, death_by_fate or divine_warrior may be better secondary mappings.
+  - motif_id: parental_vengeance_for_dead_child
+    label: parental vengeance for dead child
+    occurrences: 1
+    traditions:
+    - roman
+    suggested_action: map_to_existing_group
+    suggested_group_id: divine_judgment
+    suggested_group_label: Divine Judgment and Moral Reckoning
+    relationship: functional_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: Vengeance for a dead child functions as retributive reckoning for a
+      death or violation.
+    cautions: May be ordinary family revenge or tragic plot motive rather than sacred
+      judgment; source context should confirm moral or divine framing.
   - motif_id: parley_breaks_down_into_mutual_killing
     label: parley breaks down into mutual killing
     occurrences: 1
@@ -112369,6 +113634,21 @@ expansion_review_flags:
       longing and union through separation.
     cautions: Could be a poetic trope rather than a narrative motif; if framed as
       mystical nonduality, mystical_quest may be a secondary parent.
+  - motif_id: past_guilt_returning_during_present_grief
+    label: past guilt returning during present grief
+    occurrences: 1
+    traditions:
+    - hindu
+    suggested_action: map_to_existing_group
+    suggested_group_id: lament_and_mourning
+    suggested_group_label: Lament, Mourning, and Tragic Recognition
+    relationship: functional_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: The label centers on grief producing tragic recognition and renewed
+      awareness of guilt.
+    cautions: Could instead belong under divine_judgment or ethics/inner-life if karmic
+      consequence or moral psychology is primary.
   - motif_id: pathos_of_slain_young_warriors_through_genealogy_and_simile
     label: pathos of slain young warriors through genealogy and simile
     occurrences: 1
@@ -112474,6 +113754,21 @@ expansion_review_flags:
       or ordeal.
     cautions: If the conflict is cosmic or world-ending, flood_and_renewal may fit;
       if war ritual is central, sacred_combat may be secondary.
+  - motif_id: peaceful_death_foretold_after_old_age_and_completed_rites
+    label: peaceful death foretold after old age and completed rites
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: death_by_fate
+    suggested_group_label: Death Attributed to Fate or Destiny
+    relationship: narrower_than
+    confidence: medium
+    reason: already present in base normalization
+    rationale: A foretold death points to destined timing, with old age and completed
+      rites marking accepted fulfillment.
+    cautions: If emphasis is ritual completion rather than destiny, heroic_funeral_rites
+      or sacred_law may be better secondary contexts.
   - motif_id: peaceful_nonviolent_age_followed_by_first_flesh_eating
     label: peaceful nonviolent age followed by first flesh-eating
     occurrences: 1
@@ -112505,6 +113800,21 @@ expansion_review_flags:
     cautions: If divine or ethical teaching is central, sacred_law or sacred_knowledge
       may be better secondary mappings; if battlefield mediation dominates, sacred_combat
       may be relevant.
+  - motif_id: perilous_cure_trial_with_marriage_reward_and_death_penalty
+    label: perilous cure trial with marriage reward and death penalty
+    occurrences: 1
+    traditions:
+    - islamicate_folklore
+    suggested_action: map_to_existing_group
+    suggested_group_id: initiation
+    suggested_group_label: Initiation and Transformative Ordeal
+    relationship: functional_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: A dangerous healing task with reward and death penalty functions as
+      an ordeal transforming status.
+    cautions: Composite and tale-type specific; may also involve sacred_love, divine_judgment,
+      or healing motifs not represented by current groups.
   - motif_id: perilous_enchanting_music
     label: perilous enchanting music
     occurrences: 1
@@ -112535,6 +113845,21 @@ expansion_review_flags:
       or liminal obstacle in a journey.
     cautions: Single occurrence; if the warning is merely travel advice without supernatural
       or initiatory function, treat as contextual detail.
+  - motif_id: perilous_passage_between_two_deadly_threats
+    label: perilous passage between two deadly threats
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: threshold_guardian
+    suggested_group_label: Threshold Guardian
+    relationship: functional_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: A liminal passage constrained by deadly opposing threats is a threshold
+      ordeal requiring navigation.
+    cautions: If the threats are not guardian-like or boundary-related, this may be
+      only an adventure episode; source context should decide.
   - motif_id: perilous_sacred_boundary
     label: perilous sacred boundary
     occurrences: 1
@@ -112638,6 +113963,21 @@ expansion_review_flags:
       a threatened righteous group.
     cautions: Could also involve divine_judgment or sacred_combat if the passage emphasizes
       sanctioned conflict or punishment of oppressors.
+  - motif_id: personal_guardian_spirit_accompanying_a_human_life
+    label: personal guardian spirit accompanying a human life
+    occurrences: 1
+    traditions:
+    - greek_roman
+    suggested_action: map_to_existing_group
+    suggested_group_id: divine_intervention
+    suggested_group_label: Divine Intervention and Guidance
+    relationship: role_variant
+    confidence: high
+    reason: already present in base normalization
+    rationale: A personal guardian spirit is a tutelary sacred agent guiding or protecting
+      a human life.
+    cautions: Could warrant a future guardian-spirit subgroup if many personal genius/daimon
+      labels recur.
   - motif_id: personified_divine_weapons_obey_the_hero
     label: personified divine weapons obey the hero
     occurrences: 1
@@ -112653,6 +113993,22 @@ expansion_review_flags:
       martial authority and ability.
     cautions: If the weapons act as autonomous divine agents in battle, divine_warrior
       or divine_intervention may be useful secondary mappings.
+  - motif_id: personified_sleep_and_death_as_bearers_of_the_body
+    label: personified Sleep and Death as bearers of the body
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: heroic_funeral_rites
+    suggested_group_label: Heroic Funeral Rites and Memorialization
+    relationship: role_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: Personified Sleep and Death carrying a body functions as divine or
+      mythic transport of the dead toward burial or memorial care.
+    cautions: If the passage emphasizes divine personifications rather than funerary
+      handling, divine_intervention or death_and_transformation may be relevant secondary
+      mappings.
   - motif_id: personified_speech_or_rumor_as_persistent_divine_force
     label: Personified speech or rumor as persistent divine force
     occurrences: 1
@@ -112820,6 +114176,21 @@ expansion_review_flags:
       threshold or fatal enchantment patterns already grouped under threshold_guardian.
     cautions: Could fit otherworld if the forest is an enchanted realm, or divine_intervention
       if the phantom acts as a guide rather than a threat.
+  - motif_id: pilgrimage_like_prayer_at_the_teacher_s_tomb
+    label: pilgrimage-like prayer at the teacher’s tomb
+    occurrences: 1
+    traditions:
+    - sufi
+    suggested_action: map_to_existing_group
+    suggested_group_id: ancestor_rites
+    suggested_group_label: Ancestor Rites and Feeding the Dead
+    relationship: ritual_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: Prayer at a revered teacher's tomb is ritual engagement with the dead
+      to maintain sacred relation or seek blessing.
+    cautions: Sufi saint-veneration contexts may not be ancestor rites in a strict
+      kinship sense; review whether a saint tomb/pilgrimage group is needed if recurrent.
   - motif_id: pious_recognition_opposed_by_impious_companions
     label: pious recognition opposed by impious companions
     occurrences: 1
@@ -113139,6 +114510,21 @@ expansion_review_flags:
       communicating with the living.
     cautions: If the sign is a dream or vision, dream_and_vision may be secondary;
       if it is tied to tomb cult, a future saintly relic/shrine group may be useful.
+  - motif_id: postmortem_shades_with_diminished_mind
+    label: Postmortem shades with diminished mind
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: afterlife_passage
+    suggested_group_label: Afterlife Navigation and Passage
+    relationship: symbolic_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: The label describes the condition of the dead in the postmortem realm,
+      fitting afterlife landscape and soul-state motifs.
+    cautions: If the passage emphasizes anthropology of soul/mind rather than journey
+      or passage, a future soul-state group may fit better.
   - motif_id: postponement_of_conflict_until_a_destined_great_battle
     label: postponement of conflict until a destined great battle
     occurrences: 1
@@ -113428,6 +114814,21 @@ expansion_review_flags:
       sequence, especially in Celtic single-combat contexts.
     cautions: If the ford encounter functions mainly as a boundary test, threshold_guardian
       or initiation may be relevant secondary placements.
+  - motif_id: pre_combat_flyting_and_death_threats
+    label: pre-combat flyting and death threats
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_combat
+    suggested_group_label: Sacred Combat and Ritual Warfare
+    relationship: functional_variant
+    confidence: high
+    reason: already present in base normalization
+    rationale: Flyting and threats before combat are a recurring ritualized warfare
+      or heroic combat speech pattern.
+    cautions: Could also relate to storytelling/speech if the passage emphasizes verbal
+      contest rather than combat preparation.
   - motif_id: pre_created_book_of_destiny
     label: pre-created book of destiny
     occurrences: 1
@@ -113535,6 +114936,21 @@ expansion_review_flags:
     cautions: The current group label is death-focused; if the passage concerns life
       circumstances rather than death, use as broader fate placement and review for
       possible future fate/destiny group expansion.
+  - motif_id: premature_descent_to_tartarus_after_family_affliction
+    label: premature descent to Tartarus after family affliction
+    occurrences: 1
+    traditions:
+    - roman
+    suggested_action: map_to_existing_group
+    suggested_group_id: descent
+    suggested_group_label: Descent and Underworld Journey
+    relationship: narrower_than
+    confidence: medium
+    reason: already present in base normalization
+    rationale: A descent to Tartarus is a specific underworld descent or postmortem
+      movement into a chthonic realm.
+    cautions: The family-affliction detail may be passage-specific; if the figure
+      simply dies, afterlife_passage may be the better group.
   - motif_id: present_joy_contrasted_with_promised_future_bliss
     label: Present joy contrasted with promised future bliss
     occurrences: 1
@@ -113658,6 +115074,21 @@ expansion_review_flags:
       divinely guided construction or sacred craft.
     cautions: May also involve axis_mundi or world_center if the structure functions
       as cosmic center; preserve revealed-model detail.
+  - motif_id: privacy_or_concealment_to_protect_the_soul_during_meals
+    label: privacy or concealment to protect the soul during meals
+    occurrences: 1
+    traditions:
+    - comparative
+    suggested_action: map_to_existing_group
+    suggested_group_id: sacred_law
+    suggested_group_label: Sacred Law and Social Order
+    relationship: ritual_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: A behavioral restriction to protect the soul during eating fits ritual
+      prohibition and apotropaic sacred-law practice.
+    cautions: Comparative labels can be ethnographic artifacts; preserve meal-specific
+      detail but avoid making a canonical motif unless it recurs.
   - motif_id: progressive_dismemberment_of_monstrous_foe
     label: progressive dismemberment of monstrous foe
     occurrences: 1
@@ -113762,6 +115193,22 @@ expansion_review_flags:
       catalyst material already grouped under sacred combat.
     cautions: Highly episode-specific; preserve cattle and fatal-expedition details
       as evidence rather than canonicalizing the full phrase.
+  - motif_id: promised_woman_as_lure_leading_warriors_to_death
+    label: promised woman as lure leading warriors to death
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: map_to_existing_group
+    suggested_group_id: threshold_guardian
+    suggested_group_label: Threshold Guardian
+    relationship: functional_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: A promised woman functions as a perilous lure drawing warriors across
+      a fatal threshold, close to existing lethal-lure children under threshold_guardian.
+    cautions: Single occurrence and gendered lure framing may be episode-specific;
+      if the passage emphasizes battle stratagem rather than liminal enchantment,
+      sacred_combat may be a secondary fit.
   - motif_id: proper_reverence_toward_cosmic_guardians
     label: proper reverence toward cosmic guardians
     occurrences: 1
@@ -113792,6 +115239,36 @@ expansion_review_flags:
       fitting sacred kingship and political order.
     cautions: Could be philosophical or ethical commentary rather than mythic motif;
       verify narrative or ritual framing.
+  - motif_id: prophecy_of_the_hero_s_death_and_burial_place
+    label: prophecy of the hero's death and burial place
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: map_to_existing_group
+    suggested_group_id: death_by_fate
+    suggested_group_label: Death Attributed to Fate or Destiny
+    relationship: narrower_than
+    confidence: medium
+    reason: already present in base normalization
+    rationale: A foretold heroic death and burial place expresses death as destined
+      and prefigured by prophecy.
+    cautions: Could also belong with heroic_funeral_rites if burial memorialization
+      is the focus, or dream_and_vision if the prophetic mechanism is central.
+  - motif_id: prophecy_of_violent_death
+    label: prophecy of violent death
+    occurrences: 1
+    traditions:
+    - sufi
+    suggested_action: map_to_existing_group
+    suggested_group_id: death_by_fate
+    suggested_group_label: Death Attributed to Fate or Destiny
+    relationship: narrower_than
+    confidence: medium
+    reason: already present in base normalization
+    rationale: The motif centers on foretold death, especially violent death, aligning
+      with fated or destined death patterns.
+    cautions: In Sufi context, prophecy may be hagiographic revelation or divine knowledge;
+      review whether dream_and_vision or divine_intervention should be secondary.
   - motif_id: prophet_as_public_warner_and_admonisher
     label: Prophet as public warner and admonisher
     occurrences: 1
@@ -114199,6 +115676,21 @@ expansion_review_flags:
       as the moral disorder that precedes judgment.
     cautions: If no judgment or reckoning is present, this may be a prophetic-opposition
       narrative detail better placed under divine_intervention or left for review.
+  - motif_id: propitiation_of_the_underworld_dead
+    label: Propitiation of the underworld dead
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: ancestor_rites
+    suggested_group_label: Ancestor Rites and Feeding the Dead
+    relationship: ritual_variant
+    confidence: high
+    reason: already present in base normalization
+    rationale: Appeasing the underworld dead is ritual maintenance of relations between
+      living and dead, matching ancestor/dead propitiation rites.
+    cautions: If the rite occurs as part of a mapped katabasis or necromantic journey,
+      afterlife_passage or descent may be relevant secondary groups.
   - motif_id: proportionate_vengeance_followed_by_divine_assistance
     label: Proportionate vengeance followed by divine assistance
     occurrences: 1
@@ -114306,6 +115798,21 @@ expansion_review_flags:
       sacred prohibition, and limits on power under sacred law.
     cautions: Could also relate to royal_legitimacy if the episode critiques kingship,
       or axis_mundi if the natural space is a cosmic center.
+  - motif_id: protection_of_the_dead_from_scavengers
+    label: protection of the dead from scavengers
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: heroic_funeral_rites
+    suggested_group_label: Heroic Funeral Rites and Memorialization
+    relationship: ritual_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: Guarding the dead body from desecration supports proper burial honor
+      and memorial care of the dead.
+    cautions: If no heroic or ritual burial context is present, this may be a battlefield
+      episode detail rather than a durable motif.
   - motif_id: protection_of_the_suppliant
     label: protection of the suppliant
     occurrences: 1
@@ -114321,6 +115828,21 @@ expansion_review_flags:
     cautions: Could also fit divine_intervention if a deity protects the suppliant
       directly, or covenant/sacred_exchange if hospitality or vow obligations are
       central.
+  - motif_id: protection_of_the_warrior_s_corpse
+    label: protection of the warrior's corpse
+    occurrences: 1
+    traditions:
+    - greek
+    suggested_action: map_to_existing_group
+    suggested_group_id: heroic_funeral_rites
+    suggested_group_label: Heroic Funeral Rites and Memorialization
+    relationship: ritual_variant
+    confidence: high
+    reason: already present in base normalization
+    rationale: Protecting a fallen warrior's corpse is part of heroic death honor,
+      burial preparation, and social memorial obligation.
+    cautions: May overlap with divine_warrior or sacred_combat when the corpse contest
+      is part of battle action.
   - motif_id: protection_of_widows_and_orphans_through_inheritance_reform
     label: Protection of widows and orphans through inheritance reform
     occurrences: 1
@@ -114336,6 +115858,21 @@ expansion_review_flags:
       order.
     cautions: Over-specific legal formulation; preserve inheritance reform as evidence
       detail rather than creating a standalone motif unless it recurs.
+  - motif_id: protective_ancestral_household_spirit
+    label: protective ancestral household spirit
+    occurrences: 1
+    traditions:
+    - greek_roman
+    suggested_action: map_to_existing_group
+    suggested_group_id: divine_intervention
+    suggested_group_label: Divine Intervention and Guidance
+    relationship: role_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: A household ancestral spirit acts as a protective supernatural agent,
+      matching tutelary-spirit roles already folded under divine_intervention.
+    cautions: Could warrant relation to ancestor_rites if ritual care of household
+      dead is central; review local Roman/Greek household cult specificity.
   - motif_id: protective_and_consecrating_sacred_sign
     label: protective and consecrating sacred sign
     occurrences: 1
@@ -114367,6 +115904,22 @@ expansion_review_flags:
     cautions: Could belong under sacred_craft if the construction is divinely aided,
       divine_intervention if protection is miraculous, or sacred_combat if the emphasis
       is warfare.
+  - motif_id: protective_burial_of_a_severed_head
+    label: Protective burial of a severed head
+    occurrences: 1
+    traditions:
+    - celtic_welsh
+    suggested_action: map_to_existing_group
+    suggested_group_id: heroic_funeral_rites
+    suggested_group_label: Heroic Funeral Rites and Memorialization
+    relationship: ritual_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: A burial act for a severed head that protects the community combines
+      mortuary rite with memorial/protective treatment of heroic remains.
+    cautions: Celtic severed-head symbolism may have distinct apotropaic or sovereignty
+      meanings; consider sacred_treasures or sacred_law as secondary if the head functions
+      as a power object.
   - motif_id: protective_cattle_charm
     label: protective cattle charm
     occurrences: 1
@@ -114475,6 +116028,21 @@ expansion_review_flags:
       already folded under sacred_law.
     cautions: Single Sufi occurrence; if the passage emphasizes divine guardianship
       rather than ritual boundary logic, divine_intervention may be a secondary fit.
+  - motif_id: protective_intervention_leading_to_the_attacker_s_death
+    label: Protective intervention leading to the attacker's death
+    occurrences: 1
+    traditions:
+    - celtic_irish
+    suggested_action: map_to_existing_group
+    suggested_group_id: divine_intervention
+    suggested_group_label: Divine Intervention and Guidance
+    relationship: functional_variant
+    confidence: medium
+    reason: already present in base normalization
+    rationale: The core action is protective supernatural or extraordinary intervention
+      that saves one party and kills the attacker.
+    cautions: If the intervention is not divine/supernatural, this may be a combat
+      plot detail better placed under sacred_combat or excluded as over-specific.
   - motif_id: protective_invocation_of_cosmic_and_natural_powers
     label: Protective invocation of cosmic and natural powers
     occurrences: 1

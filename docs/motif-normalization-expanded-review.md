@@ -6,12 +6,12 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 
 ## Summary
 
-- Suggestions reviewed: 4940
-- Accepted draft mappings: 153
-- New canonical group candidates: 77
-- Low-confidence / needs human review: 1287
-- Suggested exclusions: 278
-- Already known in base normalization: 3222
+- Suggestions reviewed: 5000
+- Accepted draft mappings: 154
+- New canonical group candidates: 78
+- Low-confidence / needs human review: 1303
+- Suggested exclusions: 279
+- Already known in base normalization: 3264
 
 ## New Group Candidates
 
@@ -70,6 +70,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `monster_combat` | Monster Combat and Heroic Overcoming | 3 | Existing combat groups emphasize divine warriors, sacred warfare, or threshold guardians; they do not clearly hold non-divine heroic monster-slaying episodes where the creature is the central ordeal. |
 | `monster_lair_devouring_threat` | Monster Lair and Devouring Threat | 1 | Existing groups cover guardians, combat, and descent but lack a stable place for devouring monster habitation as an ordeal setting. |
 | `monstrous_perception` | Monstrous Perception and Shared Senses | 1 | Existing groups cover vision, guardians, and transformation, but not recurring abnormal bodily perception as the key motif. |
+| `origin_of_death` | Origin of Death | 1 | Existing groups cover death, rebirth, afterlife travel, and defective immortality, but not the etiological explanation for the first arrival of death. |
 | `past_life_identity` | Past-Life Identity and Karmic Continuity | 7 | Existing death, wisdom, and judgment groups do not specifically cover rebirth-identity disclosure and karmic continuity across lives. |
 | `place_naming_etiology` | Place Naming and Etiological Memory | 1 | Existing groups cover heroic combat or legitimacy, but not the etiological function of explaining and sacralizing place names. |
 | `predator_deception_fable_reversal` | Predator Deception and Fable Reversal | 7 | Existing trickster group covers boundary-breaking and deception broadly, but these labels cluster around fable predator-prey ethics and reversals rather than a culture hero or liminal trickster figure. |
@@ -600,7 +601,7 @@ This is a review artifact. It does not modify `taxonomy/motif-normalization.yml`
 | `fragile_false_refuge` | Fragile false refuge | needs_human_review | ``  | low | low confidence |
 | `fraud_exposed_by_makers_of_the_false_treasure` | fraud exposed by makers of the false treasure | map_to_existing_group | `divine_judgment` Divine Judgment and Moral Reckoning | low | low confidence |
 
-_Showing first 500 of 1287 review rows._
+_Showing first 500 of 1303 review rows._
 
 ## Suggested Exclusions
 
@@ -762,6 +763,7 @@ _Showing first 500 of 1287 review rows._
 | `later_literary_transformation_of_inherited_sacred_or_archaic_tradition` | later literary transformation of inherited sacred or archaic tradition | high | This is a statement about literary reception or redaction of tradition rather than a symbolic or narrative motif. |
 | `literalized_proof_from_absence` | literalized proof from absence | medium | The phrase sounds like an interpretive or argumentative observation rather than a narrative-symbolic motif. |
 | `living_oral_tradition_preserving_archaic_religion` | living oral tradition preserving archaic religion | high | This is a claim about transmission and preservation, not a motif within a mythic narrative. |
+| `loss_of_tradition_through_death_near_chroniclers` | loss of tradition through death near chroniclers | high | The label describes loss or preservation of tradition around chroniclers, not a symbolic narrative motif. |
 | `maimed_female_relative_provokes_inquiry_about_a_powerful_enemy` | Maimed female relative provokes inquiry about a powerful enemy | medium | This reads as an episode-specific plot trigger rather than a reusable mythic motif. |
 | `marvelous_beings_in_eastern_fairy_tales` | Marvelous beings in Eastern fairy tales | medium | The label reads like a genre or scholarly classification rather than a specific narrative motif. |
 | `mistaken_cause_of_desirable_trait` | mistaken cause of desirable trait | medium | The wording is abstract and looks like an explanatory or interpretive note rather than a usable narrative motif. |
@@ -885,4 +887,4 @@ _Showing first 500 of 1287 review rows._
 | `woman_enters_domestic_meal_with_textile_tool` | woman enters domestic meal with textile tool | medium | The label reads as an episode-specific domestic staging detail rather than a reusable symbolic motif. |
 | `wound_catalogue_reveals_sequence_of_attackers` | wound catalogue reveals sequence of attackers | medium | The label sounds like a narrative or analytic cataloguing device rather than a symbolic motif. |
 
-_Showing first 278 of 278 exclusion rows._
+_Showing first 279 of 279 exclusion rows._
