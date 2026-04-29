@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l36878-l37042
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LI. The Combat. / Canto LX. Lakshman Reproved. / Canto LXX. Kabandha.
+    / BOOK IV.; lines 36878-37042
+  start: '36878'
+  end: '37042'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker describes the beauty of Pampá’s waters, groves, flowers, breezes,
+    birds, and animals, but the spring landscape intensifies his grief over Bharat’s
+    suffering and his absent wife, who has been taken by a giant. Addressing Lakshman,
+    he contrasts paired birds and peacocks with his own separation from his beloved,
+    the child of Janak.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pampá is described as having clear waters, lotuses, banks with groves, and
+    large trees rising high.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says thoughts of Bharat’s pain and of his spouse as the giant’s
+    spoil make his heart heavy.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The forest contains flowers, grasses, creepers, trees, cool breezes, bees,
+    birds, deer, tiger, pard, and snake.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The wind is described as springing from a mountain cave and moving through
+    flowering trees.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Spring, bird-song, flowers, and Aśoka blossoms increase the speaker’s longing
+    for his spouse.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The speaker repeatedly compares his sorrow and desire to fire burning his
+    heart or soul.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: Birds and peacocks are shown with mates, and the speaker says these paired
+    creatures increase his pain.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: The speaker says that if Janak’s large-eyed child were present, she would
+    lay her head on his breast.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: lamenting speaker
+  description: The speaking figure describes Pampá and mourns his absent spouse while
+    addressing Lakshman.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Lakshman / Sumitrá’s son
+  description: The addressee of the speaker’s remarks, also called brother and Sumitrá’s
+    son.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Bharat
+  description: A figure whose pain and toil are remembered by the speaker.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the speaker’s spouse / child of Janak
+  description: The absent wife or beloved whom the speaker mourns; she is called his
+    spouse and the child of Janak.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: the giant
+  description: A giant associated with making the speaker’s spouse his spoil and with
+    robbing a mate through hate.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:6
+  name_or_label: Janak
+  description: Named as the parent of the speaker’s beloved.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: lamenting observer and bereaved husband
+  assigned_to:
+  - fig:1
+  basis: The speaker describes the landscape and says grief for his absent wife burns
+    him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: brother-addressee
+  assigned_to:
+  - fig:2
+  basis: The speaker addresses Lakshman as brother and as Sumitrá’s son.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: remembered kinsman or associate in distress
+  assigned_to:
+  - fig:3
+  basis: The speaker recalls Bharat’s pain and toil.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: absent stolen beloved
+  assigned_to:
+  - fig:4
+  basis: The speaker calls his spouse the giant’s spoil and mourns not seeing his
+    wife.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:5
+  label: giant abductor or despoiler
+  assigned_to:
+  - fig:5
+  basis: The spouse is called the giant’s spoil, and the speaker contrasts himself
+    with a peacock not robbed of its mate by giant’s hate.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:6
+  label: named father of the beloved
+  assigned_to:
+  - fig:6
+  basis: The beloved is called the child of Janak.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Pampá’s waters
+  literal_form: clear waters, streams, river banks, and lotuses
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: flowering forest trees
+  literal_form: groves, high trees, creepers, Cassias, Aśokas, and blossoms
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: snake in the forest
+  literal_form: snake haunting glades, dells, and brakes
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: mountain cave
+  literal_form: a mountain cave from which the wild wind springs
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: fire of sorrow and desire
+  literal_form: fire imagery used for sorrow, love, and the burning soul
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: paired birds and peacocks
+  literal_form: birds with mates and peacock with peahen
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Viewing Pampá’s beautiful landscape
+  summary: The speaker points out Pampá’s clear waters, lotuses, groves, high trees,
+    flowers, animals, and breezes while also stating his grief for Bharat and his
+    stolen spouse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Spring landscape intensifies grief
+  summary: As bees, birds, wind, trees, Cassias, Aśokas, and springtime beauty appear,
+    the speaker says these sights and sounds increase his sorrow and longing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Paired creatures contrasted with separated lovers
+  summary: The speaker observes birds and peacocks with their mates and contrasts
+    their happiness with his own separation from the wife taken by a giant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: stolen beloved
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The speaker explicitly calls his spouse the giant’s spoil and later says
+    giant’s hate has robbed him of his mate, while he longs for his absent wife.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage focuses on lament rather than narrating the abduction event
+    itself.
+- id: motif:2
+  label: sibling or brother pair in exile-like movement
+  taxonomy_refs:
+  - sibling_pair
+  basis: The speaker repeatedly addresses Lakshman as brother and Sumitrá’s son while
+    sharing the scene and grief with him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The brother-pair relation is present, but this excerpt does not provide
+    the larger journey context.
+- id: motif:3
+  label: erotic spring landscape as intensifier of separation grief
+  taxonomy_refs: []
+  basis: Spring flowers, birds, paired creatures, and soft breezes are repeatedly
+    said to increase the speaker’s longing and sorrow for his absent wife.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly names this pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 36878-36891
+  quote_or_summary: Pampá’s clear waters, lotuses, groves, and high trees are described;
+    the speaker says Bharat’s pain and his spouse as the giant’s spoil weigh down
+    his heart.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 36892-36921
+  quote_or_summary: The forest includes bright flowers, trees, creepers, animals including
+    snake, cool breezes, bees, and wind springing from a mountain cave.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 36922-36950
+  quote_or_summary: Breezes, trees, bees, hills, Cassias, spring, Koïls, and wild-cock
+    song are described; the speaker tells Sumitrá’s son that spring awakens sorrow
+    as he mourns his dame.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 36951-36982
+  quote_or_summary: Birds with mates, river banks, Aśokas, bees, and spring beauty
+    increase the speaker’s longing; he asks what use life has if he cannot see his
+    wife and describes sorrow as fire.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 36983-37042
+  quote_or_summary: The speaker compares his consuming love to fire in dry bamboo,
+    observes peacocks with mates, says no giant has robbed the peacock of its mate,
+    and imagines Janak’s child resting on his breast if she were present.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for landscape, grief, absent spouse, and giant-related
+    loss. Motif assignment is clearest for stolen_beloved; other pattern labels are
+    more contextual and require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. No external comparison claims were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l36878-l37042
+  passage_sha256=100f3b7bb53087f6d4d7eb29d57cf354524b8dc823a2dd395f0b5958f0ac95aa

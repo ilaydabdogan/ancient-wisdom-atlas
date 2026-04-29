@@ -1,0 +1,515 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l31514-l31632
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XXIII. The Omens. / Canto XXIV. The Host In Sight. / Canto XXV. The
+    Battle. / Canto XXVIII. Khara Dismounted.; lines 31514-31632
+  start: '31514'
+  end: '31632'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Márícha tells Rávaṇ how he and two fiends took deer form, preyed on hermits
+    in Daṇḍak wood, and attacked Ráma. Ráma killed the two companions with arrows
+    while Márícha fled. Márícha now lives in fear of Ráma, warns Rávaṇ that Ráma is
+    too powerful to oppose, recalls Khara’s death, and predicts ruin if Rávaṇ rejects
+    the counsel. Rávaṇ scorns the warning and replies harshly.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says that he and two other mighty fiends assumed the forms of
+    deer and wandered through Daṇḍak wood.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker describes his deer form as having terrific horns, a flaming tongue,
+    and pointed teeth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says he killed hermits and saints, ate their flesh, drank their
+    blood, and spoiled rites in sacred places with hallowed trees and ritual fires.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker saw Ráma in the wood with his wife and Lakshmaṇ.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker charged at Ráma with a pointed horn, intending to kill him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ráma shot three arrows; the speaker escaped by rapid flight, while the two
+    companions who remained were killed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker says he now lives as a humble hermit and sees or imagines Ráma
+    in shrubs, trees, trunks, dreams, and even in sounds connected with Ráma’s name.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The speaker tells Rávaṇ that Ráma is too strong for him and warns that Rávaṇ,
+    his kin, and his friends will die if he rejects the advice.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The speaker says Khara died by Ráma’s hand after fighting in Janasthán for
+    Śúrpaṇakhá’s sake.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: After the warning, Rávaṇ scorns the counsel and speaks reproachfully to Márícha.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Márícha
+  description: The speaking fiend who assumed deer form, attacked hermits, fled from
+    Ráma’s arrows, now lives as a humble hermit, and warns Rávaṇ.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Rávaṇ
+  description: The addressee who is warned by Márícha and then scorns the counsel.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Ráma
+  description: A devotee or hermit in the wood, accompanied by his wife and Lakshmaṇ;
+    he shoots arrows that kill two fiends and terrifies Márícha.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Two mighty fiends
+  description: The speaker’s two companions who also assumed deer form and were later
+    killed by Ráma.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:5
+  name_or_label: Hermits and saints
+  description: Forest ascetics performing rites and tasks who are killed by Márícha.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Ráma’s wife
+  description: Ráma’s noble wife, present by his side in the wood.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Lakshmaṇ
+  description: Ráma’s companion, described as tried in battle.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Khara
+  description: An impetuous attacker who fought in Janasthán and died by Ráma’s hand.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Śúrpaṇakhá
+  description: Named as the cause or sake for which Khara fought in Janasthán.
+  role_refs:
+  - role:14
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: first-person narrator
+  assigned_to:
+  - fig:1
+  basis: The passage is framed as Márícha’s speech recounting his own acts and fear.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:2
+  label: animal-form attacker
+  assigned_to:
+  - fig:1
+  basis: He says he assumed a deer form and attacked Ráma with a horn.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: survivor of Ráma’s attack
+  assigned_to:
+  - fig:1
+  basis: He says he escaped by rapid flight when Ráma shot arrows.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: warning counsellor
+  assigned_to:
+  - fig:1
+  basis: He warns Rávaṇ that Ráma is too powerful and that ruin will follow if the
+    advice is rejected.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: warned addressee
+  assigned_to:
+  - fig:2
+  basis: Márícha addresses Rávaṇ directly with warnings and counsel.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: rejecter of counsel
+  assigned_to:
+  - fig:2
+  basis: The passage says Rávaṇ scorned the timely warning and spoke reproachfully.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: bow-armed hermit hero
+  assigned_to:
+  - fig:3
+  basis: Ráma is described as a devotee or hermit and as armed with a mighty bow and
+    arrows.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:8
+  label: slayer of fiends
+  assigned_to:
+  - fig:3
+  basis: Ráma kills the two fiends who remain and is recalled as killing Khara.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:9
+  label: slain companions
+  assigned_to:
+  - fig:4
+  basis: The two companions linger on the spot and are killed by Ráma.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: ascetic victims
+  assigned_to:
+  - fig:5
+  basis: Hermits and saints are killed while fulfilling tasks and rites in the grove.
+  evidence_refs:
+  - ev:2
+- id: role:11
+  label: wife beside Ráma
+  assigned_to:
+  - fig:6
+  basis: The passage says Ráma’s noble wife was by his side.
+  evidence_refs:
+  - ev:3
+- id: role:12
+  label: battle-tried companion
+  assigned_to:
+  - fig:7
+  basis: Lakshmaṇ is present with Ráma and described as tried in battle.
+  evidence_refs:
+  - ev:3
+- id: role:13
+  label: fallen attacker
+  assigned_to:
+  - fig:8
+  basis: Khara sought the grove of Janasthán, fought, and died by Ráma’s hand.
+  evidence_refs:
+  - ev:7
+- id: role:14
+  label: named cause of prior conflict
+  assigned_to:
+  - fig:9
+  basis: Khara fought for Śúrpaṇakhá’s sake.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: deer form
+  literal_form: Assumed animal form with horns, flaming tongue, and pointed teeth.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hallowed tree
+  literal_form: A tree in a sacred haunt where ritual activity occurs.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ritual fires
+  literal_form: Fires associated with hermits’ rites in the forest.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Ráma’s arrows
+  literal_form: Three foe-destroying arrows shot from Ráma’s bow.
+  associated_figures:
+  - fig:3
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Ráma seen in trees and trunks
+  literal_form: Shrubs, trees, and knotted trunks perceived by Márícha as Ráma’s form.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Yama’s noose comparison
+  literal_form: Ráma is imagined standing like Yama with a noose in hand.
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Fiends in deer form attack the sacred forest
+  summary: Márícha and two fiends take deer form in Daṇḍak wood; Márícha describes
+    killing ascetics and disrupting rites at sacred places.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Márícha attacks Ráma and flees
+  summary: Márícha encounters Ráma with his wife and Lakshmaṇ, charges him with a
+    horn, and escapes when Ráma shoots arrows that kill the two other fiends.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Márícha’s fear and warning
+  summary: Márícha says Ráma haunts his sight and dreams, declares Rávaṇ no match
+    for Ráma, recalls Khara’s death, and predicts the destruction of Rávaṇ’s kin and
+    friends if the warning is ignored.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Rávaṇ rejects counsel
+  summary: Rávaṇ scorns Márícha’s warning and begins a reproachful reply.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: shapeshifting predator in animal guise
+  taxonomy_refs:
+  - shapeshifter
+  basis: Márícha and two fiends assume deer forms and use the form while roaming and
+    attacking in the forest.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage explicitly states animal transformation but does not explain
+    the mechanics or purpose beyond predatory action.
+- id: motif:2
+  label: desecration of ascetic rites by violent beings
+  taxonomy_refs: []
+  basis: Márícha kills hermits and saints in sacred places and spoils rites near hallowed
+    trees and ritual fires.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly names this pattern; it is recorded
+    as a passage-level motif only.
+- id: motif:3
+  label: hero’s arrows destroy demonic companions
+  taxonomy_refs: []
+  basis: Ráma shoots three arrows; Márícha flees and the two remaining fiends are
+    killed.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a local battle pattern rather than a broader taxonomy identification.
+- id: motif:4
+  label: defeated enemy haunted by the hero
+  taxonomy_refs: []
+  basis: Márícha says Ráma appears to him in every shrub and tree, haunts his dreams,
+    and terrifies him through sounds connected with the hero’s name.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Psychological haunting is explicit, but no supernatural apparition is
+    confirmed in the passage.
+- id: motif:5
+  label: wise counsel rejected before foretold ruin
+  taxonomy_refs: []
+  basis: Márícha warns Rávaṇ that opposing Ráma will destroy him, his kin, and his
+    friends; Rávaṇ scorns the advice.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The actual ruin is predicted here, not narrated within this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 31514-31525
+  quote_or_summary: Márícha says he and two mighty fiends assumed deer forms in Daṇḍak
+    wood; he describes horns, flaming tongue, and pointed teeth.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 31526-31537
+  quote_or_summary: Márícha says he fed on hermits, slew saints, drank blood, and
+    spoiled rites in sacred places with hallowed trees and ritual fires.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 31538-31551
+  quote_or_summary: Márícha sees Ráma in the wood with his wife and Lakshmaṇ, scorns
+    him as a hermit foe, and charges with his pointed horn.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 31552-31567
+  quote_or_summary: Ráma releases three arrows; Márícha escapes by rapid flight, while
+    the two companions who remain are killed.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 31568-31591
+  quote_or_summary: Márícha says he now lives as a humble hermit; he sees Ráma in
+    shrubs, trees, and trunks, dreams of him, and fears sounds connected with Ráma’s
+    name.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 31592-31617
+  quote_or_summary: Márícha tells Rávaṇ that Ráma is too strong, urges him to forbear,
+    and predicts that Rávaṇ, his kin, and friends will die if the counsel is despised.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 31608-31613
+  quote_or_summary: Márícha recalls that Khara fought in Janasthán for Śúrpaṇakhá’s
+    sake and died by Ráma’s hand.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 31624-31632
+  quote_or_summary: Rávaṇ scorns Márícha’s timely warning and, spurred by fate toward
+    sin and ruin, begins to reproach him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are conservative; only the shapeshifter candidate maps directly to the supplied
+    taxonomy. No cross-text comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata. The provided passage label appears to include canto headings not matching the embedded Canto XL heading; locator was preserved as supplied.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l31514-l31632
+  passage_sha256=6753f507c88ac3b164d2792eafe4b132347d7623294e7e991e16d180fb389a72

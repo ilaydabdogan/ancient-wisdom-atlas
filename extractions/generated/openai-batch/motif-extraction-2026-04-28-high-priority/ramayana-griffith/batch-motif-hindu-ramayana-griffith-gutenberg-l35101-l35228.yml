@@ -1,0 +1,458 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l35101-l35228
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XLIII. The Wondrous Deer. / Canto XLVI. The Guest. / Canto LI. The
+    Combat. / Canto LX. Lakshman Reproved.; lines 35101-35228
+  start: '35101'
+  end: '35228'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Lakshman searches the riverbanks for Sita and reports that she is not found.
+    Rama calls to Sita and asks the Godavari for an answer, but the river remains
+    silent out of fear of Ravana. Rama laments Sita's absence and her loyalty in exile.
+    A group of deer silently indicate the direction Ravana took with Sita, and the
+    brothers go south. They find fallen flowers from Sita's garland. Rama then questions
+    and threatens a mountain and the stream if they do not reveal Sita's whereabouts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lakshman searches the shelving riverbanks and does not find Sita.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rama calls for Sita beside the Godavari, but receives no spoken or natural
+    answer.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The river is described as withholding knowledge of Ravana's deed because of
+    fear.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rama laments that Sita followed him loyally into banishment and is now missing.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The deer rise, look toward the direction taken by Ravana with his captive,
+    and proceed that way.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Lakshman interprets the deer as lending aid and indicating the southward path
+    for the search.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Rama and Lakshman go south and find fallen flowers from a garland on the ground.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Rama recognizes the flowers as ones he had gathered and Sita had worn in her
+    hair.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Rama asks a mountain whether it has seen Sita and threatens to rend it peak
+    from peak if it does not reveal her.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Rama threatens to burn the mountain with flaming arrows and dry the stream
+    if they deny aid in tracing Sita.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: Raghu's son, grieving for Sita and searching for her with Lakshman.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Lakshman
+  description: Rama's brother, who searches the riverbanks, reports Sita absent, and
+    follows Rama south.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Sita
+  description: Rama's wife, also called the Maithil lady, absent from the scene and
+    described as Ravana's captive.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Godavari / the stream
+  description: The river addressed by Rama; it remains silent and is described as
+    afraid to relate Ravana's deed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:5
+  name_or_label: Ravana
+  description: The fiend whose awful form and deed the river fears; he is identified
+    as the one who took the captive.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:6
+  name_or_label: The deer
+  description: A group of deer who respond to Rama's grief, gaze toward the direction
+    of Sita's abduction, and move that way.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: The mountain
+  description: A woody hill with cascades, addressed and threatened by Rama as a possible
+    witness to Sita's whereabouts.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: grieving searcher
+  assigned_to:
+  - fig:1
+  basis: Rama calls for Sita, laments her loss, follows signs south, and questions
+    landscape features for her location.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: assisting brother and interpreter of signs
+  assigned_to:
+  - fig:2
+  basis: Lakshman searches first and later interprets the deer's looks as guidance
+    toward the south.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: missing wife and captive beloved
+  assigned_to:
+  - fig:3
+  basis: Sita is not found, is lamented as Rama's loyal wife, and is called Ravana's
+    captive.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: mute natural witness
+  assigned_to:
+  - fig:4
+  basis: The river is asked for information but remains silent, described as fearing
+    Ravana and withholding the tale.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: abductor feared by witnesses
+  assigned_to:
+  - fig:5
+  basis: The river fears Ravana's form and deed, and the deer indicate the quarter
+    where Ravana took his captive.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: mute animal guides
+  assigned_to:
+  - fig:6
+  basis: The deer rise in pity and indicate the direction of the search through their
+    looks and movement.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: addressed landscape witness
+  assigned_to:
+  - fig:7
+  basis: Rama asks the mountain whether it has seen Sita and threatens it if it does
+    not reveal her.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: silent river
+  literal_form: Godavari river / stream
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: deer indicating direction
+  literal_form: deer looking and moving toward the southward path
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: fallen garland flowers
+  literal_form: flowers scattered on the ground from Sita's garland or hair
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: questioned mountain
+  literal_form: woody hill or mountain with cascades
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: flaming arrows
+  literal_form: Rama's threatened burning arrows
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Failed search at the river
+  summary: Lakshman searches the riverbanks, returns without finding Sita, and Rama
+    calls beside the Godavari without receiving an answer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rama's lament for Sita
+  summary: Rama laments Sita's absence, recalls her loyalty during exile, and worries
+    about facing her family without her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Deer guide the search south
+  summary: The deer respond to Rama's question by looking and moving toward the direction
+    Ravana took with Sita; Lakshman urges Rama to follow their indication.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Flowers as trace of Sita
+  summary: Rama and Lakshman go south and find flowers from Sita's garland, which
+    Rama recognizes as flowers he gathered and Sita wore.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Threats to mountain and stream
+  summary: Rama questions a mountain about Sita and threatens to destroy the mountain
+    and dry the stream if they refuse to help locate her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Search for a stolen beloved
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Sita is absent, described as Ravana's captive, and Rama searches for her
+    by questioning the river, following animal signs, and reading physical traces.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage shows the search and refers to the abduction, but the actual
+    taking of Sita is not narrated in this excerpt.
+- id: motif:2
+  label: Nature as witness to hidden violence
+  taxonomy_refs: []
+  basis: The river knows of Ravana's deed but remains silent through fear; the mountain
+    and stream are addressed as possible sources of information.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The mountain's knowledge is only implied by Rama's address and threat;
+    the passage does not state that it speaks.
+- id: motif:3
+  label: Animal guides indicating the lost person's path
+  taxonomy_refs: []
+  basis: The deer respond to Rama's grief by looking and moving toward the direction
+    Ravana took, and Lakshman treats their behavior as guidance.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The deer do not speak; their guidance is conveyed through gesture and
+    interpreted by Lakshman.
+- id: motif:4
+  label: Tokens or traces of the absent beloved
+  taxonomy_refs: []
+  basis: Fallen flowers from Sita's garland are found on the search path and recognized
+    by Rama as belonging to her adornment.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The flowers function as a trace within the passage, but the excerpt does
+    not state exactly how they fell.
+- id: motif:5
+  label: Hero threatens landscape in grief
+  taxonomy_refs: []
+  basis: Rama threatens to break the mountain, burn it with flaming arrows, and dry
+    the stream if they do not aid in tracing Sita.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a passage-level pattern rather than a supplied taxonomy motif
+    family.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage fits the supplied motif family of a stolen beloved at the level
+    of narrative function: a beloved wife is absent as Ravana''s captive, and the
+    hero seeks signs of her path.'
+  claim_level: same_motif
+  target: stolen_beloved
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt presupposes rather than fully narrates the abduction itself.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 35101-35113
+  quote_or_summary: Lakshman searches the riverbanks, calls out, receives no reply,
+    and reports that Sita is not found.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 35114-35138
+  quote_or_summary: Rama calls for Sita at the Godavari; the river gives no answer
+    and is described as afraid of Ravana and his deed.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 35139-35162
+  quote_or_summary: Rama laments Sita's absence, worries how he can answer her father
+    and mother, and recalls that she followed him loyally into exile.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 35163-35186
+  quote_or_summary: The deer rise in pity, gaze toward the quarter where Ravana took
+    his captive, move that way, and Lakshman identifies their looks as guidance southward.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 35187-35205
+  quote_or_summary: Rama and Lakshman go south, find scattered flowers from a fallen
+    garland, and Rama recognizes them as flowers Sita wore in her hair.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 35206-35228
+  quote_or_summary: Rama asks the mountain whether it has seen Sita and threatens
+    to rend it, burn it with arrows, and dry the stream if they do not aid his search.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence is clear in the supplied passage. Motif labels beyond
+    the supplied stolen_beloved taxonomy are descriptive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or unstated episodes were used; the abduction is included only as referenced within the passage.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l35101-l35228
+  passage_sha256=14947609b540df55c1024b6853d6cdcb3cac5a2d947d2223939fbf1e8487300e

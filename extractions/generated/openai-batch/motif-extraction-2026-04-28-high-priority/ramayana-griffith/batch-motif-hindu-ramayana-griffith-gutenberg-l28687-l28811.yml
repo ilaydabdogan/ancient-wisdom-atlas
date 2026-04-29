@@ -1,0 +1,538 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l28687-l28811
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XI. Agastya. / Canto XII. The Heavenly Bow. / Canto XVI. Winter. /
+    Canto XVIII. The Mutilation.; lines 28687-28811
+  start: '28687'
+  end: '28811'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Śūrpaṇakhā, driven by desire, approaches Rāma. Rāma says he has Sītā as
+    his wife and directs her toward Lakṣmaṇ. Lakṣmaṇ replies mockingly and redirects
+    her back to Rāma. Believing the mockery, Śūrpaṇakhā threatens to devour Sītā and
+    rushes at her. Rāma stops the attack and orders Lakṣmaṇ to mark and disfigure
+    the fiend. Lakṣmaṇ cuts off her nose and ears. Bleeding and shrieking, she flees
+    through the wilderness to Janasthān, where she falls before Khara and reports
+    what happened.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Rāma tells Śūrpaṇakhā that Sītā is his wife and that Lakṣmaṇ is unmarried.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rāma suggests that Śūrpaṇakhā take Lakṣmaṇ as her lover or husband.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Śūrpaṇakhā leaves Rāma and asks Lakṣmaṇ to take her as his bride and roam
+    with her in Daṇḍak forest.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Lakṣmaṇ says he is bound to his brother’s will and tells Śūrpaṇakhā to become
+    Rāma’s younger bride instead.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator states that Lakṣmaṇ’s flattering speech is a scornful jest and
+    that Śūrpaṇakhā does not recognize it as mockery.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Śūrpaṇakhā returns to Rāma and threatens to devour Sītā in order to remove
+    her as a rival.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Śūrpaṇakhā rushes toward Sītā, who is described as fawn-eyed and Maithil.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Rāma stops Śūrpaṇakhā’s purpose and rebukes Lakṣmaṇ for jesting with a savage
+    and wrathful creature.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Rāma orders Lakṣmaṇ not to let the fiend escape without a disfiguring mark.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Lakṣmaṇ draws his sword and cuts off Śūrpaṇakhā’s nose and ears before Rāma.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Śūrpaṇakhā flees bleeding and shrieking into the wilderness and then to Janasthān.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: At Janasthān, Śūrpaṇakhā falls before Khara and reports the arrival of Rāma,
+    Lakṣmaṇ, and Sītā, along with her injuries and shame.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Rāma
+  description: Royal hero; husband of Sītā; brother of Lakṣmaṇ; stops Śūrpaṇakhā’s
+    attack and commands her disfigurement.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Sītā
+  description: Rāma’s true and dear wife; present beside Rāma in the leafy shed; threatened
+    by Śūrpaṇakhā.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Lakṣmaṇ
+  description: Rāma’s brother; described as unmarried, heroic, and bound to Rāma’s
+    will; mockingly redirects Śūrpaṇakhā and later mutilates her.
+  role_refs:
+  - role:2
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Śūrpaṇakhā
+  description: A passionate giantess or fiend who desires Rāma and Lakṣmaṇ, threatens
+    Sītā, is mutilated, and flees to Khara.
+  role_refs:
+  - role:8
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Khara
+  description: A fierce chief at Janasthān, surrounded by thousands of giant chieftains,
+    before whom Śūrpaṇakhā falls and reports her injuries.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Giant chieftains
+  description: Thousands of giant chieftains ranged around Khara at Janasthān.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: husband
+  assigned_to:
+  - fig:1
+  basis: Rāma states that Sītā is his wife.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: brother pair
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Rāma calls Lakṣmaṇ his brother, and Lakṣmaṇ says he is bound to his brother’s
+    will.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: wife
+  assigned_to:
+  - fig:2
+  basis: Rāma identifies Sītā as his wife, true and dear.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: mocking responder
+  assigned_to:
+  - fig:3
+  basis: Lakṣmaṇ’s praise is explicitly described as scornful jest.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: protector and commander
+  assigned_to:
+  - fig:1
+  basis: Rāma stops Śūrpaṇakhā’s attack and directs Lakṣmaṇ to disfigure her.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: threatened rival
+  assigned_to:
+  - fig:2
+  basis: Śūrpaṇakhā threatens to devour Sītā so she can roam with Rāma free of rivals.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: executor of mutilation
+  assigned_to:
+  - fig:3
+  basis: Lakṣmaṇ draws his sword and cuts away Śūrpaṇakhā’s nose and ears.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: amorous suitor
+  assigned_to:
+  - fig:4
+  basis: Śūrpaṇakhā asks Lakṣmaṇ to take her as his bride after first desiring Rāma.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: attacker of Sītā
+  assigned_to:
+  - fig:4
+  basis: Śūrpaṇakhā threatens to devour Sītā and rushes toward her.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: mutilated messenger
+  assigned_to:
+  - fig:4
+  basis: After her nose and ears are cut off, Śūrpaṇakhā flees to Khara and reports
+    her injuries.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:11
+  label: giant chief receiving complaint
+  assigned_to:
+  - fig:5
+  basis: Śūrpaṇakhā finds Khara at Janasthān and declares the tale before him.
+  evidence_refs:
+  - ev:8
+- id: role:12
+  label: attending giant host
+  assigned_to:
+  - fig:6
+  basis: The passage says thousands of giant chieftains are ranged around Khara.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: sword of mutilation
+  literal_form: Sword drawn by Lakṣmaṇ to cut off Śūrpaṇakhā’s nose and ears.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: nose and ears cut away
+  literal_form: Śūrpaṇakhā’s severed nose and ears, leaving her noseless and earless.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: Daṇḍak wilderness
+  literal_form: Forest wilderness through which Śūrpaṇakhā proposes to roam and later
+    flees.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:4
+  label: Janasthān refuge or war-camp
+  literal_form: Place where Śūrpaṇakhā finds Khara surrounded by giant chieftains.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: Meru mountain simile
+  literal_form: Rāma compares Śūrpaṇakhā resting on Lakṣmaṇ’s bosom to warm sunlight
+    resting on Meru’s breast.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: meteor and Rohiṇī star simile
+  literal_form: Śūrpaṇakhā rushing at Sītā is compared to a horrid meteor marring
+    Rohiṇī’s soft star.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rāma redirects Śūrpaṇakhā to Lakṣmaṇ
+  summary: Śūrpaṇakhā, ensnared by desire, approaches Rāma; Rāma says he already has
+    Sītā as wife and points her toward the unmarried Lakṣmaṇ.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: scene:2
+  label: Lakṣmaṇ’s mocking redirection
+  summary: Śūrpaṇakhā asks Lakṣmaṇ to take her as bride, but Lakṣmaṇ mockingly calls
+    himself a servant of Rāma and sends her back to become Rāma’s younger bride.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Threat against Sītā
+  summary: Śūrpaṇakhā returns to Rāma, insults Sītā, threatens to devour her, and
+    rushes at her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Rāma orders punishment
+  summary: Rāma stops the attack, rebukes Lakṣmaṇ for jesting with a wrathful creature,
+    and orders that Śūrpaṇakhā be marked and disfigured.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Lakṣmaṇ mutilates Śūrpaṇakhā
+  summary: Lakṣmaṇ draws a sword and cuts off Śūrpaṇakhā’s nose and ears; she flees
+    bleeding and shrieking into the wilderness.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Śūrpaṇakhā reports to Khara
+  summary: Śūrpaṇakhā reaches Janasthān, falls before Khara, and reports the presence
+    of Rāma, Lakṣmaṇ, and Sītā as well as her injury and shame.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: desire-driven approach to a married hero
+  taxonomy_refs: []
+  basis: Śūrpaṇakhā approaches Rāma in passion, but Rāma identifies Sītā as his wife
+    and redirects her.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents desire and redirection, not a completed marriage
+    proposal to Rāma.
+- id: motif:2
+  label: mocking courtship redirection
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Rāma and Lakṣmaṇ both redirect Śūrpaṇakhā, and Lakṣmaṇ’s praise is explicitly
+    described as scornful jest that she believes.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy label is broad; the passage supports mockery and
+    boundary-crossing but does not identify a formal trickster figure.
+- id: motif:3
+  label: threatened destruction of the rival wife
+  taxonomy_refs: []
+  basis: Śūrpaṇakhā threatens to devour Sītā so that she can be free of rivals and
+    roam with Rāma.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The threat is interrupted before any injury to Sītā occurs.
+- id: motif:4
+  label: brothers jointly protect the beloved woman
+  taxonomy_refs:
+  - sibling_pair
+  basis: 'Rāma and Lakṣmaṇ act as brothers in the episode: Rāma stops the attack and
+    commands action, while Lakṣmaṇ carries out the punishment.'
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage emphasizes hierarchy between the brothers as well as sibling
+    relation.
+- id: motif:5
+  label: punitive bodily disfigurement as a visible mark
+  taxonomy_refs: []
+  basis: Rāma commands that the fiend not escape without a mark to mar her shape,
+    and Lakṣmaṇ cuts off her nose and ears.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives the punishment and mark but does not provide a legal
+    or ritual explanation.
+- id: motif:6
+  label: injured figure flees to powerful kin or ally and reports wrong
+  taxonomy_refs: []
+  basis: After mutilation, Śūrpaṇakhā flees to Janasthān, falls before Khara, and
+    recounts the arrival of Rāma, Lakṣmaṇ, and Sītā along with her injuries.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage ends with the report and does not include Khara’s response.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 28687-28811, Canto XVIII, opening exchange
+  quote_or_summary: Rāma tells Śūrpaṇakhā that Sītā is his true wife and that Lakṣmaṇ
+    is unmarried, heroic, and suitable for her embrace.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 28687-28811, Śūrpaṇakhā addresses Lakṣmaṇ
+  quote_or_summary: Śūrpaṇakhā leaves Rāma and asks Lakṣmaṇ to take her as bride and
+    roam with her through Daṇḍak.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 28687-28811, Lakṣmaṇ’s reply
+  quote_or_summary: Lakṣmaṇ says he is bound to his brother’s will and advises Śūrpaṇakhā
+    to become Rāma’s younger bride, adding flattering contrasts with Sītā.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 28687-28811, narrator on Lakṣmaṇ’s speech
+  quote_or_summary: "“Thus Lakshmaṇ praised in scornful jest / The long-toothed fiend...”
+    and she did not know the words were mocking."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quote.
+- id: ev:5
+  type: summary
+  locator: lines 28687-28811, Śūrpaṇakhā threatens Sītā
+  quote_or_summary: Śūrpaṇakhā calls Sītā an old misshapen rival, threatens to devour
+    her before Rāma, and rushes toward the Maithil woman like a meteor toward Rohiṇī.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 28687-28811, Rāma stops the attack
+  quote_or_summary: Rāma stops Śūrpaṇakhā’s purpose, rebukes Lakṣmaṇ for jesting with
+    a savage wrathful creature, and orders that she be marked and disfigured.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 28687-28811, mutilation
+  quote_or_summary: "“He drew that sword which none could stay, / And cleft her nose
+    and ears away.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quote.
+- id: ev:8
+  type: summary
+  locator: lines 28687-28811, flight to Janasthān
+  quote_or_summary: Noseless and earless, Śūrpaṇakhā flees bleeding through the wilderness
+    to Janasthān, falls before Khara among giant chieftains, and reports the tale
+    and her injuries.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 28687-28811, Rāma’s Meru simile
+  quote_or_summary: "“As the warm sunlight loves to rest / Upon her darling Meru’s
+    breast.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quote.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and figures are explicit in the passage. Motif labels are
+    descriptive and should be reviewed, especially the broad taxonomy use of trickster_boundary
+    and sibling_pair. No comparison claims were made because the passage itself does
+    not establish an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the provided passage and metadata. Names follow the passage spelling where practical, with normalized diacritics in labels.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l28687-l28811
+  passage_sha256=598fbfd608e54ff08fb47d8b644a0808b606cc827f720abe728d117291a23fb4

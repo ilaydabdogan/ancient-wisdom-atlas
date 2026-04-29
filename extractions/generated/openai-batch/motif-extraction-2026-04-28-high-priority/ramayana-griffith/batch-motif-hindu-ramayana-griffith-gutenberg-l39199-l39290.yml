@@ -1,0 +1,440 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l39199-l39290
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto VI. The Tokens. / Canto XI. Dundubhi. / Canto XII. The Palm Trees.
+    / Canto XIV. The Challenge.; lines 39199-39290
+  start: '39199'
+  end: '39290'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Sugríva, standing in a tree-shaded garden near Báli’s fortified seat, asks
+    Ráma to fulfill his promise to kill Báli. Ráma points to the flower-creeper wreath
+    placed on Sugríva as a sign, promises that one arrow will end Sugríva’s fear,
+    recalls his arrow’s power through seven trees, and instructs Sugríva to challenge
+    Báli at the gate. Sugríva then raises a terrible battle shout that frightens animals
+    and birds.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The figures stand in a garden or wooded place where dense green trees form
+    a screen.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sugríva sees the seat of Báli’s power, described as having flags, walls, turrets,
+    armed Vánars, and gold.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sugríva asks Ráma to remember his promise that Báli will fall by Ráma’s hand.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Ráma says Lakshmaṇ placed a flowery twine or giant creeper wreath around Sugríva
+    as a sign.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ráma promises that one arrow released from his bowstring will free Sugríva
+    from sorrow and fear.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ráma calls Báli Sugríva’s bitter foe and says Báli’s deeds belie a brother’s
+    name.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Ráma recalls that Sugríva has seen his arrow pass through seven tall trees.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Ráma instructs Sugríva to challenge Báli at the gate with a battle cry so
+    that Báli will come from his royal hold wearing a gold chain.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Sugríva raises a fierce shout that shakes the sky and causes bulls, deer,
+    and birds to flee, run in confusion, or fall.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Sugríva
+  description: A Vánar king, called the offspring of the Lord of Day, who seeks Ráma’s
+    help and issues the challenge shout.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Ráma / Raghu’s son
+  description: The ally who answers Sugríva, promises to kill Báli with one shaft,
+    and instructs Sugríva to challenge him.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Lakshmaṇ
+  description: The one whose hand wound the flowery twine around Sugríva as a sign.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Báli
+  description: Ruler of the fortified seat and Sugríva’s bitter foe, described as
+    a brother whose deeds belie a brother’s name.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Sugríva’s friends
+  description: Companions who are with Sugríva when he raises the battle shout.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Vánar bands holding Báli’s seat
+  description: Mighty Vánar bands holding the fortified seat of Báli’s sway.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: suppliant ally
+  assigned_to:
+  - fig:1
+  basis: Sugríva prays in a suppliant tone and asks Ráma to fulfill his promise.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: challenger
+  assigned_to:
+  - fig:1
+  basis: Ráma instructs him to challenge Báli, and Sugríva raises the battle shout.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: oath-bound helper
+  assigned_to:
+  - fig:2
+  basis: Ráma recalls his promise and oath and says it will bear fruit.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: archer-warrior
+  assigned_to:
+  - fig:2
+  basis: Ráma speaks of one shaft from his bowstring and of an arrow through seven
+    trees.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: marked combatant
+  assigned_to:
+  - fig:1
+  basis: Sugríva wears a flowery twine placed on him as a sign.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: marker of the sign
+  assigned_to:
+  - fig:3
+  basis: Lakshmaṇ’s hand wound the flowery twine around Sugríva.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: royal opponent
+  assigned_to:
+  - fig:4
+  basis: Báli is associated with a fortified seat, royal hold, and chain of gold.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:8
+  label: hostile brother
+  assigned_to:
+  - fig:4
+  basis: Ráma refers to Báli as a foe whose deeds belie a brother’s name.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: companions
+  assigned_to:
+  - fig:5
+  basis: Sugríva is described as girt by his friends.
+  evidence_refs:
+  - ev:1
+- id: role:10
+  label: armed holders of the city
+  assigned_to:
+  - fig:6
+  basis: Báli’s seat is held by mighty bands of Vánars rich in arms and gold.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: tree screen
+  literal_form: dense green trees veiling the figures
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: flower-creeper sign
+  literal_form: flowery twine or giant creeper wreath around Sugríva
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: single arrow
+  literal_form: one shaft released from Ráma’s bowstring
+  associated_figures:
+  - fig:2
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: seven tall trees
+  literal_form: seven tall trees pierced by one arrow
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: gold chain
+  literal_form: Báli’s chain of gold
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: battle shout
+  literal_form: Sugríva’s sky-rending challenge cry
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Sugríva points out Báli’s stronghold
+  summary: In a tree-screened garden, Sugríva sees Báli’s fortified seat and asks
+    Ráma to fulfill the promise that Báli will fall by Ráma’s hand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ráma reassures the marked Sugríva
+  summary: Ráma identifies the wreath placed by Lakshmaṇ as Sugríva’s sign, promises
+    that one arrow will free him, and affirms his truthfulness and oath.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Instruction to provoke Báli
+  summary: Ráma recalls the arrow through seven tall trees and tells Sugríva to challenge
+    Báli at the gate so that the war-loving king will come out from his royal hold.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Sugríva’s terrifying challenge cry
+  summary: Sugríva sends out a fierce shout compared to thunder and a troubled sea,
+    frightening bulls, deer, and birds.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Marked ally distinguished before combat
+  taxonomy_refs: []
+  basis: Sugríva is given a flower-creeper wreath as a sign before the planned confrontation
+    with Báli.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states the wreath is a sign but does not explain the full
+    practical reason for the sign within this excerpt.
+- id: motif:2
+  label: Oath-bound ally promises single-shot deliverance
+  taxonomy_refs: []
+  basis: Ráma swears that one shaft will end Sugríva’s sorrow and fear, and affirms
+    that he has not lied and will not be stained by falsehood.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The broader narrative context of the oath is outside the provided passage.
+- id: motif:3
+  label: Heroic proof by piercing seven trees
+  taxonomy_refs: []
+  basis: Ráma reminds Sugríva that he has seen his hand send one arrow through seven
+    tall trees.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: In this passage the feat is recalled rather than performed directly.
+- id: motif:4
+  label: Challenge cry draws a royal opponent from his stronghold
+  taxonomy_refs: []
+  basis: Ráma instructs Sugríva to challenge Báli at the gate because Báli will not
+    endure a foe’s challenge and will hasten out for battle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage ends before Báli actually emerges.
+- id: motif:5
+  label: Hostile brother pair
+  taxonomy_refs:
+  - sibling_pair
+  basis: Ráma describes Báli as Sugríva’s bitter foe and says Báli’s deeds belie a
+    brother’s name.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage indicates brotherhood and hostility but gives limited details
+    about their prior conflict.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious classification of Sugríva and Báli within
+    a hostile sibling-pair pattern, since Báli is framed as a brother whose deeds
+    contradict brotherly conduct.
+  claim_level: same_motif
+  target: sibling_pair motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only a brief reference to brotherhood and enmity appears in this passage;
+    the wider sibling-conflict narrative is not included here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 39199-39218
+  quote_or_summary: Sugríva stands with friends in a tree-shaded garden, sees Báli’s
+    fortified seat with flags, Vánar bands, arms, and gold, and asks Ráma to remember
+    his promise that Báli will fall by his hand.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 39219-39226
+  quote_or_summary: Ráma says Lakshmaṇ wound a flowery twine or giant creeper wreath
+    around Sugríva as a sign.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 39227-39248
+  quote_or_summary: Ráma promises that one shaft from his bowstring will free Sugríva,
+    asks to see the foe whose deeds belie a brother’s name, and affirms that he has
+    never lied and will keep his oath.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 39249-39268
+  quote_or_summary: Ráma recalls that his arrow passed through seven tall trees, tells
+    Sugríva to trust in that strength, and instructs him to challenge Báli at the
+    gate so the gold-chained king will come out from his royal hold.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 39269-39290
+  quote_or_summary: Sugríva raises a fierce sky-shaking battle shout; bulls flee,
+    deer run in confusion, birds fall, and the shout is compared to thunder and the
+    roaring sea.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied English passage. Motif labels are
+    descriptive; only the hostile sibling-pair comparison uses an available taxonomy
+    reference and is limited by the short excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No figures or events from adjacent cantos were extracted beyond the provided passage text.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l39199-l39290
+  passage_sha256=092b14fbda9fb6853790c9fa6094ec7ea357efd864c54c42b94214b649c36032

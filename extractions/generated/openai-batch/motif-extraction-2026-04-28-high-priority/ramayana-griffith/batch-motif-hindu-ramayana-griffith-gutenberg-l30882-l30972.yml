@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l30882-l30972
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XXIII. The Omens. / Canto XXIV. The Host In Sight. / Canto XXV. The
+    Battle. / Canto XXVIII. Khara Dismounted.; lines 30882-30972
+  start: '30882'
+  end: '30972'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Let Sítá of the faultless frame / Be borne away and be thy dame.”"
+  summary: A female speaker describes Ráma’s appearance and battle power, reports
+    that he killed the giant host including Khara and Dúshaṇ while sparing her, praises
+    Lakshmaṇ’s devotion and Sítá’s beauty, and urges her brother, the giant king,
+    to carry Sítá away and avenge the slain.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Ráma is described as long-armed, large-eyed, dressed in a black deer skin,
+    adorned with golden bands, and holding a bow compared to Indra’s.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ráma’s arrows are described as a fierce flood, compared to venomous snakes
+    and to hail or rain striking down grain.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker reports that Ráma, fighting on foot and alone, killed twice seven
+    thousand giants within about three hours.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Khara and Dúshaṇ are reported dead, and Ráma is said to have made the asylum
+    in Daṇḍak safe for the saints.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says Ráma spared her because he would not stain his hand with
+    a woman’s blood.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Lakshmaṇ is described as devoted to his great brother and ready to stand by
+    his side.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Sítá is described as Ráma’s large-eyed spouse, dearer than life to him, and
+    exceptionally beautiful.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker urges the giant king, addressed as her brother, to seek Sítá,
+    carry her away, make her his dame, and take vengeance for the slain giants.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ráma
+  description: King Daśaratha’s son; a warrior with a bow who kills the giant host,
+    spares the female speaker, and is husband to Sítá.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Unnamed female speaker
+  description: A woman spared by Ráma, wounded by Lakshmaṇ, and addressing the giant
+    king as brother while urging him to take Sítá.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Lakshmaṇ
+  description: A glorious warrior, dear to Ráma, who serves his great brother with
+    faithful devotion and is blamed for wounds on the speaker’s face.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Sítá
+  description: Ráma’s large-eyed spouse, praised for beauty and gentleness, and proposed
+    as a bride to be carried away by the giant king.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Giant king / brother addressed
+  description: The addressee is called O King, giant Lord, giant King, and brother;
+    he is urged to take Sítá and avenge Khara, Dúshaṇ, and the slain host.
+  role_refs:
+  - role:10
+  - role:11
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Khara
+  description: A giant reported dead after Ráma’s battle.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:7
+  name_or_label: Dúshaṇ
+  description: A giant reported dead after Ráma’s battle.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:8
+  name_or_label: Saints in Daṇḍak
+  description: Saints whose asylum in Daṇḍak is said to have been made safe by Ráma.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: heroic warrior
+  assigned_to:
+  - fig:1
+  basis: Ráma fights alone on foot and kills the giant host with arrows.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: protector of saints
+  assigned_to:
+  - fig:1
+  basis: He is said to have freed the saints and secured the asylum in Daṇḍak.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: husband of Sítá
+  assigned_to:
+  - fig:1
+  basis: Sítá is called Ráma’s spouse and dearer than life to him.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: surviving witness
+  assigned_to:
+  - fig:2
+  basis: The speaker says Ráma spared her when the giants were killed.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: inciter to abduction and vengeance
+  assigned_to:
+  - fig:2
+  basis: The speaker urges the giant king to carry away Sítá and avenge the slain.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: devoted brother-companion
+  assigned_to:
+  - fig:3
+  basis: Lakshmaṇ serves his great brother with faithful devotion and stands ready
+    by his side.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: wounder of the speaker
+  assigned_to:
+  - fig:3
+  basis: The speaker attributes each wound on her face to Lakshmaṇ’s blow.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: beloved spouse
+  assigned_to:
+  - fig:4
+  basis: Sítá is described as Ráma’s spouse and dearer than life to him.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: intended abducted bride
+  assigned_to:
+  - fig:4
+  basis: The speaker urges that Sítá be borne away and made the giant king’s dame.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: prospective abductor
+  assigned_to:
+  - fig:5
+  basis: The addressee is told to seek Sítá, carry her away, and make her his dame.
+  evidence_refs:
+  - ev:5
+- id: role:11
+  label: avenger of slain giants
+  assigned_to:
+  - fig:5
+  basis: He is urged to take vengeance for the slain after Khara, Dúshaṇ, and the
+    host have fallen.
+  evidence_refs:
+  - ev:5
+- id: role:12
+  label: slain giant leader
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Khara and Dúshaṇ are reported dead and laid low upon the plain.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:13
+  label: protected ascetics
+  assigned_to:
+  - fig:8
+  basis: The saints’ asylum in Daṇḍak is said to have been made safe by Ráma.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Indra-like bow
+  literal_form: Ráma’s bow, compared to Indra’s
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: arrows as venomous snakes
+  literal_form: Ráma’s arrows compared to venomous snakes that burn and pierce
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: black deer skin garment
+  literal_form: black deer’s skin worn by Ráma
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: moonlike beauty
+  literal_form: Sítá’s cheek, brows, and loveliness compared to the moon
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Káma’s piercing shafts
+  literal_form: desire described as Káma’s shafts striking the giant king’s bosom
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Report of Ráma’s battle prowess
+  summary: The speaker describes Ráma’s appearance, bow, arrows, and his single-handed
+    defeat of the giant host, including Khara and Dúshaṇ.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Description of Lakshmaṇ and Sítá
+  summary: Lakshmaṇ is presented as Ráma’s devoted brotherly companion, and Sítá is
+    praised as Ráma’s beloved spouse and as surpassingly beautiful.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Incitement to seize Sítá
+  summary: The speaker tells the giant king that Sítá is worthy of him, promises to
+    bring her, predicts desire at the sight of her, and urges him to carry her away
+    and avenge the slain giants.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: beloved woman targeted for abduction
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Sítá, explicitly Ráma’s beloved spouse, is urged to be carried away and made
+    the giant king’s dame.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage contains the incitement and plan, not the completed abduction.
+- id: motif:2
+  label: lone hero defeats overwhelming hostile host
+  taxonomy_refs: []
+  basis: Ráma is said to have fought on foot and alone and killed twice seven thousand
+    giants within about three hours.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly names this battle motif.
+- id: motif:3
+  label: devoted warrior brothers
+  taxonomy_refs:
+  - sibling_pair
+  basis: Lakshmaṇ is described as serving his great brother Ráma with complete devotion
+    and standing by his side as a second self or better hand.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy label is broad; the passage emphasizes service
+    and brotherly companionship rather than a paired quest structure.
+- id: motif:4
+  label: revenge urged after kin or allies are slain
+  taxonomy_refs: []
+  basis: The speaker urges the giant king to take vengeance for the slain after the
+    deaths of Khara, Dúshaṇ, and the host.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly corresponds to revenge.
+- id: motif:5
+  label: desire incited through praise of a remote beloved
+  taxonomy_refs: []
+  basis: The speaker praises Sítá’s beauty and predicts that Káma’s shafts will strike
+    the addressee when he sees her.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an interpretive grouping based on the speech’s persuasive function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 30882-30896
+  quote_or_summary: Ráma is described as Daśaratha’s son, long-armed and large-eyed,
+    dressed in black deer skin, adorned with gold, bearing a bow like Indra’s, and
+    shooting fierce arrows compared to venomous snakes.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 30897-30914
+  quote_or_summary: The speaker reports that Ráma fought alone on foot, killed twice
+    seven thousand giants in about three hours, that Khara and Dúshaṇ died, that the
+    saints’ asylum in Daṇḍak was made safe, and that Ráma spared her because he would
+    not shed a woman’s blood.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 30915-30924
+  quote_or_summary: Lakshmaṇ is described as dear to Ráma, equal in gifts and warrior
+    might, devoted to his great brother, and ready to stand by him as a second self
+    or better hand.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 30925-30944
+  quote_or_summary: Sítá is described as Ráma’s large-eyed spouse, dearer than life
+    to him, pure and moonlike, a bright goddess of the wood, and so beautiful that
+    neither goddess nor nymph can rival her.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 30945-30972
+  quote_or_summary: 'The speaker promises to bring the bride, says her facial wounds
+    came from Lakshmaṇ, predicts Káma’s shafts will strike the addressee, and urges:
+    “Let Sítá of the faultless frame / Be borne away and be thy dame,” followed by
+    a call to avenge the slain giants.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt from public domain translation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for figures, battle report, and abduction incitement.
+    Motif labels are limited to the supplied taxonomy and passage-level evidence;
+    comparison claims are omitted because the passage itself does not compare traditions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  The passage text itself does not name the female speaker; she is kept unnamed. The addressee is identified only by passage terms such as brother, giant Lord, and giant King, with the following heading indicating Rávan’s journey.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l30882-l30972
+  passage_sha256=56241f24d3c9b36eca5091d99b09c9626375b329c25fdc75a0cb35913d6a6ac2

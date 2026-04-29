@@ -1,0 +1,451 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l33256-l33384
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XXVIII. Khara Dismounted. / Canto XLIII. The Wondrous Deer. / Canto
+    XLVI. The Guest. / Canto LI. The Combat.; lines 33256-33384
+  start: '33256'
+  end: '33384'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Rávaṇ fights the vulture king while carrying Sítá. The vulture endures
+    arrows, wounds Rávaṇ, breaks his bows, damages his armor and chariot, kills or
+    disables his team and driver, and is praised by spirits. Though weakened by age,
+    the vulture rises again to block Rávaṇ and warns that stealing Ráma’s wife will
+    bring ruin and the fruits of guilty deeds.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Rávaṇ rushes against the sovereign bird, and the two engage in a violent battle
+    in the air.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rávaṇ shoots many arrows that strike and wound the vulture king.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The vulture attacks Rávaṇ with beak and talons, tearing his body and breaking
+    his weapons.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Sítá is in Rávaṇ’s car, weeping with shrill lament.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The vulture breaks Rávaṇ’s chariot, its golden parts, the royal emblems, and
+    attacks the charioteer and team.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: With the car broken and the team and charioteer laid low, Rávaṇ holds the
+    lady with one arm and springs to the ground.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Spirits witnessing the combat praise the vulture after Rávaṇ’s fall from the
+    car.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The vulture is weakened by age, but rises again to block Rávaṇ when he attempts
+    to carry the lady through the air.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The vulture tells Rávaṇ that stealing Ráma’s wife will ruin his kind.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The vulture says guilty deeds bear deadly fruits and compares Rávaṇ’s act
+    to drinking poison and taking treacherous bait.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Rávaṇ
+  description: A furious giant king, also called the ten-necked king and king of giants,
+    who fights the vulture while carrying Sítá.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Vulture king
+  description: A sovereign or royal vulture who battles Rávaṇ, breaks his weapons
+    and chariot, and speaks warnings to him.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Sítá
+  description: The lady in Rávaṇ’s car, weeping, described in the vulture’s speech
+    as the wife of Ráma.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:4
+  name_or_label: Ráma
+  description: Named by the vulture as Sítá’s husband, with powerful sons of Raghu
+    who will not endure the insult to their hermitage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Spirits
+  description: Spectators of the combat who view Rávaṇ’s fall and praise the vulture.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Charioteer
+  description: The driver of Rávaṇ’s car, attacked by the vulture and laid low.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: abductor
+  assigned_to:
+  - fig:1
+  basis: Rávaṇ is described as stealing Ráma’s wife and attempting to bear the lady
+    through the air.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:2
+  label: animal defender
+  assigned_to:
+  - fig:2
+  basis: The vulture attacks Rávaṇ, destroys his equipment, and rises again to block
+    him from carrying off the lady.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: abducted woman
+  assigned_to:
+  - fig:3
+  basis: Sítá is weeping in Rávaṇ’s car and is called Ráma’s wife whom Rávaṇ is stealing.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:4
+  label: giant king
+  assigned_to:
+  - fig:1
+  basis: The passage calls Rávaṇ the ten-necked king and king of giants.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:5
+  label: warning speaker
+  assigned_to:
+  - fig:2
+  basis: The vulture addresses Rávaṇ and warns him of ruin and the consequences of
+    guilty deeds.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:6
+  label: injured husband referenced in speech
+  assigned_to:
+  - fig:4
+  basis: The vulture identifies the stolen woman as Ráma’s wife and says Raghu’s sons
+    will not endure the insult.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: supernatural witnesses
+  assigned_to:
+  - fig:5
+  basis: Spirits watch the combat and praise the vulture.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: arrows
+  literal_form: Keen pointed arrows and ten swift arrows shot by Rávaṇ
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: bow
+  literal_form: Rávaṇ’s bow, decorated with pearls and jewels, twice broken by the
+    vulture
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: will-moved fiery chariot
+  literal_form: Rávaṇ’s will-moved car that shone like fire, with golden steps, pole,
+    and yoke
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: royal emblems
+  literal_form: Chouris and a silken shade like the full moon, held by guards
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sword
+  literal_form: The sword left to Rávaṇ when other arms were lost or cleft
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: death noose and baited hook similes
+  literal_form: Images of Death’s entangling noose and a fish caught by a hook beneath
+    treacherous bait
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: poison cup
+  literal_form: The vulture compares Rávaṇ’s deed to drinking deadly poison
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Aerial battle between Rávaṇ and the vulture
+  summary: Rávaṇ and the vulture king clash in the air; Rávaṇ rains arrows on the
+    bird, while the vulture tears him with beak and talons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Vulture destroys Rávaṇ’s arms and chariot
+  summary: The vulture breaks Rávaṇ’s jeweled bows, damages his fiery harness and
+    will-moved chariot, fells royal emblems, and attacks the driver and team.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Rávaṇ falls from the broken car with Sítá
+  summary: After the car, team, and charioteer are disabled, Rávaṇ holds the lady
+    and springs to the ground; spirits praise the vulture.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Aged vulture blocks the renewed abduction
+  summary: Although weakened by age, the vulture rises again when Rávaṇ attempts to
+    carry Sítá through the air, and blocks his path.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Vulture’s warning to Rávaṇ
+  summary: The vulture warns Rávaṇ that stealing Ráma’s wife will ruin his people
+    and that the fruits of guilty deeds will bring death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: stolen beloved
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The vulture explicitly describes Rávaṇ’s act as stealing the wife of Ráma,
+    and the scene centers on Rávaṇ carrying the lady away while opposed by her defender.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage presents only part of the abduction episode and does not include
+    the preceding deception or the later rescue.
+- id: motif:2
+  label: animal champion defending an abducted woman
+  taxonomy_refs: []
+  basis: The vulture king fights Rávaṇ, breaks his weapons and chariot, and rises
+    again despite age and wounds to block the abduction.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: No matching taxonomy reference was supplied for this specific animal-defender
+    pattern.
+- id: motif:3
+  label: moral consequence of guilty deeds
+  taxonomy_refs:
+  - divine_judgment
+  basis: The vulture warns that guilty deeds have deadly fruits and that Rávaṇ’s tyranny
+    and madness will bring his fate.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage frames consequence morally and cosmically, but does not show
+    a direct divine judgment event within this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 33258-33269
+  quote_or_summary: Rávaṇ, furious and gold-adorned, rushes against the sovereign
+    bird; the fiend and bird meet in a violent aerial combat compared to clouds and
+    winged mountains.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 33270-33285
+  quote_or_summary: Rávaṇ rains arrows on the vulture king, including ten deadly arrows,
+    and the vulture’s body bleeds from the wounds.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 33286-33305
+  quote_or_summary: The vulture sees Sítá weeping in the car, ignores his wounds,
+    attacks again, and breaks Rávaṇ’s jeweled bow; Rávaṇ takes another bow, which
+    the vulture also snaps.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 33306-33325
+  quote_or_summary: The vulture strikes Rávaṇ’s armor, beats the harnessed asses,
+    breaks the will-moved chariot that shone like fire, fells the royal emblems and
+    guards, and tears the driver.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 33326-33335
+  quote_or_summary: With car, bow, charioteer, and team ruined, Rávaṇ holds the lady
+    and springs to the ground; spirits view his fall and praise the vulture, whose
+    strength is failing with age.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: lines 33336-33345
+  quote_or_summary: Rávaṇ again tries to bear the lady through the air; the aged vulture
+    rises from the earth, blocks his path, and addresses him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary only.
+- id: ev:7
+  type: quote
+  locator: lines 33346-33349
+  quote_or_summary: "“Thou, King of giants... Wilt be the ruin of thy kind, / Stealing
+    the wife of Ráma”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; brief excerpt.
+- id: ev:8
+  type: summary
+  locator: lines 33354-33383
+  quote_or_summary: The vulture tells Rávaṇ he drinks deadly poison, ignores the fruit
+    of guilty deeds, is like a fish caught by bait, and will face vengeance and the
+    dire fruits of crime.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied lines. Motif identification is strongest
+    for stolen_beloved; divine_judgment is less certain because the excerpt contains
+    warning rather than enacted judgment. No comparison claims were added because
+    the passage itself does not establish external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line locators are derived from the supplied stable range and passage line order.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l33256-l33384
+  passage_sha256=6fc651a0367658c669efb32b1d08c5734c0fca0d50396ee9b0101ef6338e2b0e

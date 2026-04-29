@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l44721-l44745
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto L. The Enchanted Cave. / Canto LII. The Exit. / Canto LXIV. The Sea.
+    / Canto LXV. The Council.; lines 44721-44745
+  start: '44721'
+  end: '44745'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“Thou art our only refuge; we, / Our lives and all, depend on thee.”"
+  summary: Jámbaván addresses Hanumán, son of the Wind, saying that his promise cheers
+    the Vánars and that saints and chiefs commend the deed. He urges Hanumán to arise
+    and attempt the task because the Vánars depend on him. Hanumán springs onto Mahendra’s
+    crest; the mountain rocks, the wood shakes, birds leave the boughs, and animals
+    flee.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Vánar legions look at Hanumán in surprise before Jámbaván speaks again.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jámbaván addresses Hanumán as the Son of the Wind and says Hanumán’s promise
+    has cheered the Vánars and calmed their fears.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Jámbaván says holy saints lend favor and chiefs commend the deed, urging Hanumán
+    forward.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jámbaván says Hanumán is the Vánars’ only refuge and that their lives depend
+    on him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hanumán springs onto the crest of Mahendra.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Mahendra rocks and sways under Hanumán’s unusual weight.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The wood on the mountain shakes; birds leave the boughs; apes, leopards, and
+    lions flee from their shelters.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Jámbaván
+  description: A sage who addresses Hanumán and urges him to undertake the task.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Hanumán
+  description: The glorious Hanumán, called Son of the Wind and Wind-God’s son; he
+    is urged forward and springs onto Mahendra’s crest.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Vánar legions
+  description: The Vánars look at Hanumán, are cheered by his promise, and are said
+    to depend on him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Holy saints and chiefs
+  description: Figures invoked by Jámbaván as lending favor and commending the deed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: exhorting counselor
+  assigned_to:
+  - fig:1
+  basis: Jámbaván addresses Hanumán and urges him to arise and attempt the task.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: chosen agent and refuge
+  assigned_to:
+  - fig:2
+  basis: Hanumán is told that the Vánars’ lives depend on him, and he immediately
+    springs onto Mahendra’s crest.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: dependent witnesses
+  assigned_to:
+  - fig:3
+  basis: The Vánar legions look on in surprise and are described as relying on Hanumán.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: approving sacred and communal authorities
+  assigned_to:
+  - fig:4
+  basis: Jámbaván says holy saints lend favor and chiefs commend the deed.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Mahendra mountain
+  literal_form: Mountain crest on which Hanumán springs; it rocks and sways under
+    his weight.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: shaking wood
+  literal_form: Shady wood crowning Mahendra that shakes when Hanumán lands or springs
+    on the crest.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Jámbaván’s exhortation to Hanumán
+  summary: Jámbaván, before the watching Vánars, praises Hanumán’s promise, invokes
+    saintly and chiefly support, and urges him to begin the task because the group
+    depends on him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hanumán on Mahendra’s crest
+  summary: Hanumán springs onto the crest of Mahendra; the mountain, wood, birds,
+    and animals are disturbed by his force.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: heroic departure under communal commission
+  taxonomy_refs:
+  - departure
+  basis: Hanumán is urged by Jámbaván, supported by saints and chiefs, named as the
+    group’s refuge, and then moves to the mountain crest to begin the task.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage shows preparation and initial movement, not the full journey
+    or completion of the mission.
+- id: motif:2
+  label: extraordinary hero shakes the mountain
+  taxonomy_refs:
+  - mountain
+  basis: Hanumán’s spring onto Mahendra causes the mountain to rock and its forest
+    and animals to be disturbed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a literal action in the passage; broader symbolic interpretation
+    of the mountain’s shaking requires context outside the supplied lines.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits a departure-pattern scene in which a community commissions
+    and depends on a single heroic agent before he sets out.
+  claim_level: same_motif
+  target: departure motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied passage contains exhortation and initial movement only;
+    it does not include the full quest trajectory.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 44721-44727
+  quote_or_summary: The Vánar legions look in surprise, and sage Jámbaván addresses
+    glorious Hanumán as “Son of the Wind.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:2
+  type: quote
+  locator: lines 44728-44736
+  quote_or_summary: Jámbaván says saints favor and chiefs commend the deed, urges
+    Hanumán forward, and says, “Thou art our only refuge.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:3
+  type: quote
+  locator: lines 44737-44741
+  quote_or_summary: "“Then sprang the Wind-God’s son” on Mahendra’s crest, and the
+    mountain “rocked and swayed.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 44742-44745
+  quote_or_summary: The mountain wood shakes; birds leave the boughs; apes, leopards,
+    and lions flee from their lairs.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is direct from the supplied lines. Motif labeling is limited
+    to the available taxonomy and the immediate scene of exhortation and departure.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external context beyond the supplied passage and metadata was used.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l44721-l44745
+  passage_sha256=d4c7c3321f61644687628fe5cac7413059bccf6217ec966800dd106663d769e1

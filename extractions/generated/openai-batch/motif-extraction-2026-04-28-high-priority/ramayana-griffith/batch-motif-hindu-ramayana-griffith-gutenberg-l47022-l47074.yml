@@ -1,0 +1,428 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l47022-l47074
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XII. The Search Renewed. / Canto XIII. Despair And Hope. / Canto XIV.
+    The Asoka Grove. / Canto XXXIII. The Colloquy.; lines 47022-47074
+  start: '47022'
+  end: '47074'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Sita gives Hanuman a sign for Rama by recalling an intimate episode at
+    Chitrakuta in which a crow wounded her and Rama sent a magically pursuing arrow
+    after it. She contrasts Rama's action against the crow with the need to punish
+    the Rakshasa who stole her, urges Rama to rescue her, and gives Hanuman a gem
+    from her hair as a token Rama will recognize. A bracketed note summarizes omitted
+    repeated dialogue in which Sita again asks Hanuman to urge Rama to hasten, and
+    Hanuman reassures her that Rama will destroy Ravana.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Maithil lady speaks while crying and identifies a recalled private memory
+    as a sign to convey to Rama.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The recalled place is Chitrakuta's peak, beside a rill and shaded greenery,
+    where the speaker and Rama had wandered together.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In the remembered episode, the speaker sat on grass with her head on Rama's
+    knee.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A crow repeatedly circled and pecked the speaker, eventually wounding her
+    breast with beak and claw.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Rama saw the wounds, placed an arrow on his bow, and launched it at the crow.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The arrow is described as magically empowered and as pursuing the crow wherever
+    it flew until the crow returned and bowed at Rama's feet.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker asks why Rama could launch a dire shaft at a bird for her sake
+    but has not yet punished the one who stole her.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker urges Rama to come with the thunder of his bow and strike down
+    the Rakshasa foe.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The speaker removes a sparkling gem from her hair as a token her husband will
+    recognize.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Vanar envoy bows reverently and binds the gem on his finger.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: A bracketed note states that omitted dialogue repeats Sita's request that
+    Hanuman tell Rama to hasten to rescue her and Hanuman's assurance that Rama will
+    come and destroy Ravana.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Maithil lady / Sita
+  description: Female speaker who gives Hanuman a message and token for Rama and describes
+    herself as stolen and needing rescue.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Rama / Raghu's son
+  description: Sita's husband, remembered as lying with Sita at Chitrakuta, avenging
+    the crow's attack with an arrow, and expected to rescue her.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Crow
+  description: A greedy bird that pecks Sita, is pursued by Rama's arrow, and bows
+    at Rama's feet.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Vanar envoy / Hanuman
+  description: Messenger who receives Sita's token, bows to her, and is named in the
+    note as the one to convey her message to Rama.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Rakshasa foe / Ravana
+  description: The foe identified as the one who stole Sita; the note names Ravana
+    as the one Rama will destroy.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: speaker and message-giver
+  assigned_to:
+  - fig:1
+  basis: She speaks the message to be carried to Rama and supplies a sign.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: stolen beloved needing rescue
+  assigned_to:
+  - fig:1
+  basis: She describes herself as the darling stolen from Rama and asks Rama to come
+    save her.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: husband and recognizer of token
+  assigned_to:
+  - fig:2
+  basis: The gem is called a token her husband's eyes would recognize.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: avenger and rescuer
+  assigned_to:
+  - fig:2
+  basis: He previously avenged the crow's attack and is asked to come save Sita and
+    strike the Rakshasa foe.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:5
+  label: animal offender submitting to hero
+  assigned_to:
+  - fig:3
+  basis: The crow wounds Sita, is pursued by the arrow, and bows at Rama's feet.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: reverent envoy and message-bearer
+  assigned_to:
+  - fig:4
+  basis: He is called the Vanar envoy, bows, receives the gem, and is to convey Sita's
+    message.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: abductor and enemy
+  assigned_to:
+  - fig:5
+  basis: Sita refers to the one who stole her and calls him the Rakshasa foe; the
+    note names Ravana.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: Chitrakuta peak
+  literal_form: mountain peak recalled as part of a private sign for Rama
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rill beside the hill
+  literal_form: flowing water near Chitrakuta's peak
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: magic pursuing arrow
+  literal_form: arrow placed on Rama's bow and endowed with magic power
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: recognition gem
+  literal_form: sparkling gem removed from Sita's hair and given to the envoy as a
+    token
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: thunderous bow
+  literal_form: Rama's bow, invoked as coming with thunders to defeat the Rakshasa
+    foe
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Private memory at Chitrakuta
+  summary: Sita recalls being with Rama near Chitrakuta's peak and a flowing rill,
+    resting with her head on his knee.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Crow punished by the pursuing arrow
+  summary: A crow wounds Sita; Rama sees the injury and shoots a magically empowered
+    arrow that follows the crow until it submits at Rama's feet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Appeal for rescue and vengeance
+  summary: Sita contrasts Rama's earlier anger at the crow with the need to punish
+    the abductor and asks Rama to come save her and defeat the Rakshasa foe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: scene:4
+  label: Token entrusted to the envoy
+  summary: Sita removes a gem from her hair for Rama to recognize, and the Vanar envoy
+    bows and binds it on his finger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: stolen beloved awaiting rescue
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Sita describes herself as the beloved stolen from Rama and asks him to come
+    save her from the Rakshasa foe.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage is a small excerpt and does not narrate the abduction itself,
+    only refers back to it.
+- id: motif:2
+  label: recognition token sent through a messenger
+  taxonomy_refs: []
+  basis: Sita gives Hanuman a gem from her hair as a token that Rama will recognize.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this motif.
+- id: motif:3
+  label: magical weapon pursues offender until submission
+  taxonomy_refs: []
+  basis: Rama's arrow, described as magically empowered, pursues the crow wherever
+    it flees until it returns and bows at Rama's feet.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy list has no direct weapon-pursuit motif category.
+- id: motif:4
+  label: intimate memory as authentication sign
+  taxonomy_refs: []
+  basis: Sita instructs Hanuman to recount a private shared episode at Chitrakuta
+    as the surest sign for Rama.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is treated as a passage-level motif candidate without a supplied
+    taxonomy reference.
+comparison_claims:
+- id: claim:1
+  claim: The passage participates in the stolen-beloved rescue pattern because Sita
+    explicitly frames herself as stolen from Rama and asks him to come save her from
+    the Rakshasa foe.
+  claim_level: same_motif
+  target: stolen_beloved motif family
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt contains the appeal and recognition token, not the full
+    abduction or rescue sequence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 47022-47034
+  quote_or_summary: Sita says the surest sign is to remind Rama of Chitrakuta's peak,
+    the rill beside it, their wandering in the shade, and her resting with her head
+    on his knee.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 47035-47049
+  quote_or_summary: A greedy crow pecks at Sita despite thrown clods, wounds her breast,
+    and Rama wakes, sees the scratches, and shoots an arrow at it.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 47050-47054
+  quote_or_summary: '"That shaft, with magic power endued, / The bird, where’er he
+    flew, pursued" until it fled back and bowed at Rama''s feet.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 47055-47064
+  quote_or_summary: Sita asks why Rama could launch a dire shaft at a bird for her
+    but pardon the one who stole his darling, and she urges him to come save her and
+    strike down the Rakshasa foe.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 47065-47072
+  quote_or_summary: Sita takes a sparkling gem from her hair as a token her husband
+    will recognize; the Vanar envoy bows and binds it on his finger.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 47073-47074 and bracketed note
+  quote_or_summary: The note states that omitted dialogue repeats Sita's instruction
+    for Hanuman to tell Rama to hasten to rescue her, and Hanuman's reply that Rama
+    will come and destroy Ravana.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Some line locators are
+    approximate within the provided line span because the excerpt does not include
+    per-line numbering.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external comparison or taxonomy IDs beyond those supplied were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l47022-l47074
+  passage_sha256=ca8cabd465d1aec02959ac956ed37e666b777e8fb8379ef13c631b71376058e8

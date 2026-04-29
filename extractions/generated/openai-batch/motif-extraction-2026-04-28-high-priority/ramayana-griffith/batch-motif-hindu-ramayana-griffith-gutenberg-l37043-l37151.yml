@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l37043-l37151
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LI. The Combat. / Canto LX. Lakshman Reproved. / Canto LXX. Kabandha.
+    / BOOK IV.; lines 37043-37151
+  start: '37043'
+  end: '37151'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker laments separation from Sita during spring. Blossoming trees,
+    birds, bees, wind, and the beauty of Pampā intensify his grief rather than giving
+    pleasure. He imagines Sita as a prisoner in a distant land, addresses Lakshman,
+    hopes a bird may guide him to her, and says life has no pleasure while he cannot
+    see his queen.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Blossoming trees, bees, and birds are described as signs of spring, but their
+    beauty turns the speaker’s love into pain.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker imagines Sita under alien skies or in distant lands as a prisoner
+    who may also be touched by grief.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A soft wind that once gave pleasure when Sita was present is now experienced
+    by the speaker as fiery and as fanning his woes.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A dark-winged bird is said to have foretold grief, to sing from a blossoming
+    tree, and to be hoped for as a guide to the Videhan woman’s side.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker addresses Lakshman and points out birds, a bee at a Tila tree,
+    an Aśoka tree, and blossom-laden Mango trees, all framed through images of desire
+    or mockery.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Kinnars are seen with their loves in colorful forest glades.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Pampā is described as clear water with swans, mallards, lotuses, reeds, wildfowl,
+    roedeer, elephants, and wind-stirred waves.
+  category: setting
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: The speaker says life has no pleasure while he cannot see his queen and says
+    that Love and spring keep his grief active.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed speaker, lover of Sita
+  description: A lamenting speaker who calls Sita his love and queen, addresses Lakshman,
+    and grieves in spring while separated from her.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Sita / Videhan woman / queen
+  description: The speaker’s beloved, imagined as a prisoner in a distant land and
+    described as his queen and large-eyed Videhan.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Lakshman, son of Queen Sumitra
+  description: The person addressed by the speaker as Lakshman, brother, and son of
+    Queen Sumitra.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: dark-winged bird
+  description: A bird that sought the skies, gave warning cries, sings from a blossoming
+    tree, and is hoped to guide the speaker to Sita.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Kinnars with their loves
+  description: Kinnars seen in the forest glades with their loves.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Love
+  description: Love is directly addressed by the speaker as a tyrant who will not
+    let him forget the lost beloved.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: lamenting separated lover
+  assigned_to:
+  - fig:1
+  basis: The speaker repeatedly says spring, wind, birds, and beautiful scenes deepen
+    his pain because Sita is absent.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:2
+  label: absent imprisoned beloved
+  assigned_to:
+  - fig:2
+  basis: Sita is called the speaker’s love, imagined as a prisoner in distant lands,
+    and longed for as his queen.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: addressed companion or brother
+  assigned_to:
+  - fig:3
+  basis: The speaker directly addresses Lakshman and calls him brother while pointing
+    out the forest and Pampā scenes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: possible guide to the beloved
+  assigned_to:
+  - fig:4
+  basis: The speaker says the bird will aid his love and guide him to the Videhan
+    woman’s side.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: paired lovers in the forest
+  assigned_to:
+  - fig:5
+  basis: The Kinnars are specifically described as being seen with their loves.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: personified tormenting force
+  assigned_to:
+  - fig:6
+  basis: Love is apostrophized as a tyrant who prevents the speaker from forgetting
+    the lost beloved.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: spring blossoms and flowering trees
+  literal_form: Blossoming trees, including Tila, Aśoka, Mango, and Palāśa, along
+    with flowers and buds.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: Pampā waters
+  literal_form: Clear lake or flood waters with lotuses, swans, mallards, wildfowl,
+    reeds, and drinking animals.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: wind felt as fire
+  literal_form: A soft blossom-bearing wind described as seeming like fire to the
+    speaker.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bird as omen and guide
+  literal_form: A dark-winged bird that gave warning cries and is hoped to guide the
+    speaker to Sita.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: lotus imagery
+  literal_form: Lotuses and lotus buds in Pampā; Sita is also described as lotus-eyed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Spring beauty becomes grief
+  summary: The speaker observes flowering trees, bees, and birds in spring, but says
+    these sights and sounds intensify the pain of separation from Sita.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Address to Lakshman in the flowering forest
+  summary: The speaker addresses Lakshman and describes the forest through images
+    of birdsong, bees, Tila, Aśoka, and Mango trees, interpreting the scene through
+    desire and grief.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Pampā lake described
+  summary: The speaker points to Pampā’s clear waters, lotuses, birds, reeds, roedeer,
+    elephants, and wind-stirred waves.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Final statement of lovelorn pain
+  summary: The speaker says life has no pleasure without seeing his queen and blames
+    Love and spring for renewing his sorrow through once-delightful sights.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: absent or imprisoned beloved sought by grieving lover
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Sita is described as the speaker’s love and queen, imagined as a prisoner
+    in distant lands, while the speaker longs to reach her side.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The excerpt states imprisonment and separation but does not itself narrate
+    the taking of the beloved.
+- id: motif:2
+  label: spring landscape intensifies separation lament
+  taxonomy_refs: []
+  basis: The passage repeatedly contrasts spring’s birds, blossoms, wind, flowering
+    trees, and lake beauty with the speaker’s grief at Sita’s absence.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a descriptive emotional pattern rather than a specific taxonomy
+    family in the provided list.
+- id: motif:3
+  label: animal omen or guide toward the beloved
+  taxonomy_refs: []
+  basis: The dark-winged bird has given warning cries and is hoped by the speaker
+    to guide him to the Videhan woman’s side.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The bird is only hoped to act as a guide; no guiding action occurs within
+    this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 37043-37053
+  quote_or_summary: Spring trees bear many blossoms, bees work among them, birds sing
+    joyfully, and the speaker says these sounds turn love into frenzied pain.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 37054-37075
+  quote_or_summary: The speaker imagines Sita beneath alien skies or in distant lands
+    as a prisoner, grieving like him and unable to live bereft of him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 37076-37103
+  quote_or_summary: The blossom-bearing wind now feels like fire; a dark-winged bird
+    that warned of grief sings from a tree; the speaker addresses Lakshman and describes
+    birds, a bee at the Tila tree, and the Aśoka tree.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 37104-37125
+  quote_or_summary: The speaker points Lakshman to Mango trees, forest glades where
+    Kinnars are with their loves, crimson lilies, and Pampā’s clear waters with swans,
+    mallards, lotuses, and bees.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 37126-37133
+  quote_or_summary: The Pampā scene includes lawns, reeds, wildfowl, roedeer, elephants
+    drinking, and wind-driven ripples striking lilies covered with drops.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 37134-37151
+  quote_or_summary: The speaker says life has no pleasure while he cannot see his
+    queen; he addresses Love as a tyrant, says spring assails him, and states that
+    once-delightful sights no longer gladden his heart.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports extraction of figures, setting, symbols, and
+    separation-lament motifs. Broader motif classification is cautious because the
+    excerpt alludes to Sita’s imprisonment but does not narrate the full abduction
+    or rescue context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; no external Ramayana context was added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l37043-l37151
+  passage_sha256=c17ede66c96f4d5c024e92fe9a516973d822edd8145b61c81da3510d42683c77

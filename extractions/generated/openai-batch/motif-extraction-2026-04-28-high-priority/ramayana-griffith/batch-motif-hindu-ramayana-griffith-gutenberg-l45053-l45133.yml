@@ -1,0 +1,403 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l45053-l45133
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LII. The Exit. / Canto LXIV. The Sea. / Canto LXV. The Council. / BOOK
+    V.(787); lines 45053-45133
+  start: '45053'
+  end: '45133'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A Vánar approaches and surveys Lanká, a richly adorned and heavily guarded
+    city ruled by Rávaṇ. At the northern gate he reflects that force, guile, bribery,
+    or dissension will not win the city, but resolves to continue seeking the captive
+    Maithil queen. He plans to enter unseen at night, reduces his body to the size
+    of a cat, and goes within the walls by moonlight.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Vánar moves through fragrant woodland, flowering grass, trees, pools,
+    fountains, and gardens as Lanká comes into view.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Lanká is described with domes, tall turrets, broad streets, banners, golden
+    gates, a golden wall, and moats bright with lilies.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The city is defended for Sítá's sake with bolts, bars, sentinels, and bands
+    of Rákshases carrying bows.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At the northern gate, the Vánar judges that even a powerful host would struggle
+    to take the city by force.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Vánar rejects war, bribery, and sowing dissension as effective methods
+    against the city.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Vánar states that he must continue his search until he sees the Maithil
+    queen, who is also called the captive dame and captive queen.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Vánar plans to enter the town by night in a different shape, evade the
+    guards and spies, and meet the captive queen unseen by the fierce king.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After sunset, the Vánar restrains his size to the bigness of a cat and enters
+    the city walls in moonlight.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Vánar
+  description: A glorious Vánar who approaches Lanká, surveys it, debates strategy
+    at the northern gate, reduces his size, and enters the city by night.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Sítá / Maithil queen
+  description: A queen described as captive; the city is defended for her sake, and
+    the Vánar seeks to find and meet her.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Rávaṇ
+  description: Ruler of Lanká; the city is the seat of his sway, and the Vánar refers
+    to a fierce king whose notice he must avoid.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Rákshases / demons / fiends
+  description: Hostile defenders of Lanká who roam in bands with bows and keep watch
+    as guards and spies.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:5
+  name_or_label: Raghu's son
+  description: A referenced warrior whose arm the Vánar says could not win the city.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Heaven's creative architect
+  description: The city is said to have been planned and decked by heaven's creative
+    architect.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: viewer of the city
+  assigned_to:
+  - fig:1
+  basis: The Vánar views the landscape and Lanká as he approaches.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: searcher for the captive queen
+  assigned_to:
+  - fig:1
+  basis: He says his search must continue until he sees the Maithil queen.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: stealth infiltrator
+  assigned_to:
+  - fig:1
+  basis: He plans to enter by night unseen and then shrinks to cat size before entering
+    the city walls.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: captive queen
+  assigned_to:
+  - fig:2
+  basis: The passage calls her the Maithil queen, captive dame, and captive queen.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: ruler of Lanká
+  assigned_to:
+  - fig:3
+  basis: Lanká is described as the seat of Rávaṇ's sway.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: armed city defenders
+  assigned_to:
+  - fig:4
+  basis: Rákshases roam in bands with ready bows and maintain guards, spies, and watchful
+    eyes.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:7
+  label: referenced mighty warrior
+  assigned_to:
+  - fig:5
+  basis: The Vánar says the city could not be won even by the arm of Raghu's son.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: mythic city-maker
+  assigned_to:
+  - fig:6
+  basis: The city is said to be planned and decked by heaven's creative architect.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Lanká as fortified city
+  literal_form: City with domes, turrets, broad streets, banners, golden gates, golden
+    wall, moats, bolts, bars, sentinels, and armed Rákshases.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: moats, pools, fountains, and lilies
+  literal_form: Waters around and near the city, including pleasant pools, sparkling
+    fountains, and moats with lily blossoms.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: northern gate
+  literal_form: The northern gate where the Vánar begins his inward debate before
+    entering the city.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: cat-sized body
+  literal_form: The Vánar's mighty size is dwarfed and restrained to the bigness of
+    a cat.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: night and moonlight
+  literal_form: The sun leaves the sky, the moon's soft light spreads, and the Vánar
+    enters the city walls.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Approach to Lanká
+  summary: The Vánar advances through fragrant groves, flowering trees, pools, fountains,
+    and gardens until the richly built city of Lanká appears before him.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Assessment at the northern gate
+  summary: At the northern gate, the Vánar considers the city's defenses, rejects
+    direct or political means of conquest, and resolves to continue searching for
+    the captive Maithil queen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Nocturnal transformation and entry
+  summary: The Vánar plans to enter unseen by night, avoid the demons' eyes, reduce
+    his size to that of a cat, and pass within the city walls under moonlight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: quest for a captive beloved queen
+  taxonomy_refs:
+  - stolen_beloved
+  - mystical_quest
+  basis: The Vánar's stated purpose is to find the captive Maithil queen/Sítá within
+    a hostile fortified city.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage identifies Sítá as captive but does not narrate her abduction
+    in this excerpt.
+- id: motif:2
+  label: shape-changing stealth infiltration
+  taxonomy_refs:
+  - shapeshifter
+  - trickster_boundary
+  basis: The Vánar plans to mock the demons' sight, enter by night, and then reduces
+    his body to cat size to pass within the city walls.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents size reduction rather than a full change into another
+    species.
+- id: motif:3
+  label: impenetrable enchanted or royal city
+  taxonomy_refs: []
+  basis: Lanká is lavishly built, attributed to a heavenly architect, ringed by golden
+    walls and moats, and judged nearly impossible to capture by ordinary force.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly matches the fortified wonder-city
+    motif.
+- id: motif:4
+  label: heroic reconnaissance before rescue
+  taxonomy_refs: []
+  basis: The Vánar surveys the city, assesses its defenses, determines that open attack
+    will not succeed, and chooses covert search for the captive queen.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not yet include the actual meeting or rescue.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 45053-45079
+  quote_or_summary: The Vánar approaches Lanká through fragrant woods, flowering grass,
+    trees, fruit, birds, pools, fountains, and gardens; the city appears before him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 45080-45102
+  quote_or_summary: Lanká, seat of Rávaṇ's rule, has domes, turrets, golden walls
+    and gates, moats with lilies, bolts, bars, sentinels, armed Rákshases, broad streets,
+    banners, and is said to be planned by heaven's architect.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 45103-45116
+  quote_or_summary: At the northern gate, the Vánar reflects that the strongest host,
+    warriors of the sky, and even Raghu's son could not easily take the city; war,
+    bribery, and dissension seem vain.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 45117-45120
+  quote_or_summary: "“But now my search must I pursue / Until the Maithil queen I
+    view”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 45121-45129
+  quote_or_summary: The Vánar asks how he can enter and escape amid guards and spies,
+    says he must steal within by night in a deceptive shape, blind the demons' eyes,
+    and meet the captive queen unseen by the fierce king.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 45130-45133
+  quote_or_summary: After sunset, the Vánar restrains his mighty body to the size
+    of a cat and enters within the city walls when moonlight spreads.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif labels are candidates
+    based on the excerpt and available taxonomy; external comparative claims were
+    not added because the passage itself supplies no explicit cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  All content is derived from the supplied passage and metadata only.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l45053-l45133
+  passage_sha256=3ab6222e049a10b4e8929f6abef6bbb92fc4b48f6e47313ad5ff188238db1691

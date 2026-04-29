@@ -1,0 +1,434 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l34613-l34766
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XLIII. The Wondrous Deer. / Canto XLVI. The Guest. / Canto LI. The
+    Combat. / Canto LX. Lakshman Reproved.; lines 34613-34766
+  start: '34613'
+  end: '34766'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Ráma returns to his forest dwelling after ominous bodily signs, finds Sítá
+    absent, and searches the hermitage, groves, hills, streams, rocks, and forest.
+    He questions trees, plants, animals, and Lakshmaṇ, imagines Sítá may be dead or
+    taken by giants, momentarily thinks he sees her hidden by a tree, and continues
+    lamenting and searching.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ráma experiences throbbing in his left eye, loss of strength, and bodily shaking,
+    and treats these as dreadful signs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ráma hastens to his dwelling because he longs to see Sítá.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ráma finds the dwelling desolate and Sítá absent.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage describes trees, birds, deer, and flowers as mourning or drooping
+    around the lonely bower, and says silvan deities had fled.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ráma asks numerous named trees and plants whether they have seen Sítá.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ráma asks deer, an elephant, and a tiger whether they have seen Sítá.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Ráma momentarily addresses Sítá as if he sees her form half hidden by a tree
+    and begs her not to flee.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Ráma says Sítá may be lost or slain and imagines giants may have seized, torn,
+    or eaten her.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Ráma calls on Lakshmaṇ and asks where Sítá is.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Ráma continues searching through groves, woods, hills, glades, rocks, brooks,
+    and cascades without finding Sítá.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Ráma
+  description: The lamenting seeker who returns to the forest dwelling, finds Sítá
+    absent, questions the natural world, and searches for her.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:9
+- id: fig:2
+  name_or_label: Sítá
+  description: Ráma’s spouse and consort, absent from the dwelling and repeatedly
+    sought by Ráma.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Lakshmaṇ
+  description: Addressed by Ráma, who asks him whether Sítá is in sight.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: Trees and plants
+  description: Named trees and plants, including Kadamba, Bel, Arjun, Basil, Tila,
+    Aśoka, Palm, Rose-apple, Cassia, Jasmin, Mango, and Sál, are addressed by Ráma
+    as possible witnesses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Forest animals
+  description: Deer, an elephant, and a tiger are addressed by Ráma as possible witnesses
+    to Sítá’s whereabouts.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Silvan deities
+  description: The passage says the silvan deities had fled the place where Sítá is
+    absent.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Giants
+  description: Possible or imagined beings whom Ráma fears may have seized, torn,
+    or eaten Sítá.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: lamenting seeker and husband
+  assigned_to:
+  - fig:1
+  basis: Ráma laments Sítá’s absence, questions surroundings, and searches extensively
+    for her.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:9
+- id: role:2
+  label: missing beloved consort
+  assigned_to:
+  - fig:2
+  basis: Sítá is absent from the dwelling and is repeatedly called Ráma’s spouse,
+    darling, and consort.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: role:3
+  label: addressed companion or brother
+  assigned_to:
+  - fig:3
+  basis: Ráma directly calls on Lakshmaṇ and asks whether Sítá is in sight.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: possible forest witness
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Ráma asks trees, plants, and animals if they have seen Sítá.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: departed woodland divinity
+  assigned_to:
+  - fig:6
+  basis: The silvan deities are said to have fled the desolate spot.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: feared predator or captor
+  assigned_to:
+  - fig:7
+  basis: Ráma imagines that hungry or ruthless giants may have taken, killed, or eaten
+    Sítá.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: tree as addressed witness
+  literal_form: Named trees and plants in the forest, including Kadamba, Bel, Arjun,
+    Basil, Tila, Aśoka, Palm, Rose-apple, Cassia, Jasmin, Mango, and Sál.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: water places in the search
+  literal_form: Pool, rill, brook, and wild cascade are named among places where Sítá
+    may have gone or where Ráma searches.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: sym:3
+  label: desolate leafy cot
+  literal_form: Ráma’s leafy cot or dwelling-place, found bare and desolate after
+    Sítá’s disappearance.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: left-eye omen
+  literal_form: Throbbing in Ráma’s left eye, weakness, and shaking body before he
+    discovers Sítá’s absence.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Ominous return to the dwelling
+  summary: Ráma experiences bodily omens, fears for Sítá, and hastens back to his
+    forest dwelling.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Discovery of Sítá’s absence
+  summary: Ráma reaches the dwelling, finds it desolate and bare, and searches inside
+    and around it without finding Sítá.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Questioning trees, plants, and animals
+  summary: Ráma asks many trees, plants, deer, an elephant, and a tiger whether they
+    have seen Sítá.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Mistaken glimpse and fear of death
+  summary: Ráma speaks as though Sítá is hidden by a tree, then concludes his words
+    are vain and imagines she may be lost, slain, or consumed by giants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Extended search through the landscape
+  summary: Ráma continues searching through groves, hills, glades, rocks, brooks,
+    and cascades, leaving no spot unvisited.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: search for a vanished beloved
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The passage centers on Ráma finding Sítá absent, lamenting her disappearance,
+    and searching widely for her.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:9
+  confidence: medium
+  cautions: The excerpt itself shows absence and fear of loss; it does not directly
+    narrate the abduction within this passage.
+- id: motif:2
+  label: ominous sign before discovery of loss
+  taxonomy_refs: []
+  basis: Ráma experiences bodily omens and fears for his spouse before finding the
+    dwelling empty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the signs as dreadful omens but does not provide
+    an external explanation for them.
+- id: motif:3
+  label: questioning the natural world as witness
+  taxonomy_refs: []
+  basis: Ráma addresses trees, plants, deer, an elephant, and a tiger as if they might
+    report Sítá’s whereabouts.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not state that the natural beings answer him.
+- id: motif:4
+  label: mourning landscape around an absent beloved
+  taxonomy_refs: []
+  basis: Trees, birds, deer, and flowers are described as mourning or drooping around
+    the desolate bower after Sítá’s absence is discovered.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The description is poetic and should not be treated as a separate narrated
+    action by every natural element.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 34613-34624
+  quote_or_summary: Ráma’s left eye throbs, his strength fails, his body shakes, and
+    he fears ill may befall his spouse before hurrying home.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 34625-34636
+  quote_or_summary: "“He looked, but Sítá was not there; / His cot was disolate and
+    bare”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 34637-34646
+  quote_or_summary: The trees, birds, deer, and flowers are described as mourning
+    or drooping, and the silvan deities have fled the place.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 34665-34718
+  quote_or_summary: Ráma questions many trees and plants, including Kadamba, Bel,
+    Arjun, Basil, Tila, Aśoka, Palm, Rose-apple, Cassia, Jasmin, Mango, and Sál, asking
+    whether they have seen Sítá.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 34719-34736
+  quote_or_summary: Ráma asks a deer, an elephant, and a tiger to tell him whether
+    they have seen Sítá.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 34737-34750
+  quote_or_summary: Ráma speaks as though he sees Sítá half hidden by a tree, begs
+    her to stay, and says her silks reveal her path.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 34751-34766
+  quote_or_summary: Ráma says his love is lost or slain and imagines fierce giants
+    may have fed on or torn Sítá’s body.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 34767-34770
+  quote_or_summary: "“O Lakshmaṇ of the arm of might, / Say, is my darling love in
+    sight?”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quotation.
+- id: ev:9
+  type: summary
+  locator: lines 34771-34790
+  quote_or_summary: Ráma roams from grove to grove, searching wood, hill, glade, rock,
+    brook, cascade, lawns, and woods, leaving no spot unvisited.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif identification is
+    cautious because the excerpt emphasizes lament and search, while the cause of
+    Sítá’s absence is not directly narrated here. No comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line references follow the supplied locator range, though the provided excerpt continues into the heading “Canto LXII. Ráma’s Lament.”
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l34613-l34766
+  passage_sha256=3cc14fc8a1db07ac1b47b0ffcac4ba462e8104f4d6c52c1e03cc9c5fa8882c20

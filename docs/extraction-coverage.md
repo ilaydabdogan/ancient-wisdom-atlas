@@ -10,8 +10,8 @@
 - Texts without extraction records: 0
 - Texts needing full extraction: 24
 - Texts needing review or normalization: 58
-- Extraction records counted: 4114
-- Candidate motifs counted: 19437
+- Extraction records counted: 4314
+- Candidate motifs counted: 20359
 
 ## Status Logic
 
@@ -40,13 +40,13 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 
 | Status | Needs Review | Generated | Motifs | Tradition | Text |
 | --- | ---: | ---: | ---: | --- | --- |
+| `dense_draft` | 370 | 366 | 1704 | hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) |
 | `dense_draft` | 246 | 246 | 664 | greek | [Aesop's Fables; a new translation](../texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md) |
 | `dense_draft` | 228 | 228 | 974 | greek | [The Republic](../texts/public-domain/greek/project-gutenberg/republic-jowett.md) |
 | `dense_draft` | 212 | 210 | 1127 | greek | [The Iliad](../texts/public-domain/greek/project-gutenberg/iliad-pope.md) |
 | `dense_draft` | 200 | 198 | 1040 | celtic_irish | [Gods and Fighting Men](../texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md) |
 | `dense_draft` | 198 | 198 | 1041 | greek_roman | [Myths and Legends of Ancient Greece and Rome](../texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md) |
 | `dense_draft` | 177 | 177 | 947 | roman | [The Metamorphoses of Ovid, Books VIII-XV](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md) |
-| `dense_draft` | 170 | 166 | 782 | hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) |
 | `dense_draft` | 169 | 169 | 676 | buddhist | [Buddhist birth stories; or, Jataka tales, Volume 1](../texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md) |
 | `dense_draft` | 168 | 168 | 854 | roman | [The Metamorphoses of Ovid, Books I-VII](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md) |
 | `dense_draft` | 167 | 167 | 895 | comparative | [The Golden Bough: A Study in Comparative Religion (Vol. 2 of 2)](../texts/public-domain/comparative/project-gutenberg/golden-bough-volume-2-frazer.md) |
@@ -177,7 +177,7 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | medium | `dense draft` | 228 | 40 | 228 | greek | [The Republic](../texts/public-domain/greek/project-gutenberg/republic-jowett.md) |
 | medium | `dense draft` | 198 | 27 | 198 | greek_roman | [Myths and Legends of Ancient Greece and Rome](../texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md) |
 | medium | `dense draft` | 61 | 13 | 61 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) |
-| medium | `dense draft` | 170 | 40 | 170 | hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) |
+| medium | `dense draft` | 370 | 40 | 370 | hindu | [The Ramayan of Valmiki](../texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md) |
 | medium | `dense draft` | 72 | 18 | 72 | japanese | [Japanese Fairy Tales](../texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md) |
 | medium | `dense draft` | 117 | 26 | 117 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
 | medium | `dense draft` | 80 | 11 | 80 | persian | [The Persian Literature, Volume 2, The Gulistan](../texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md) |

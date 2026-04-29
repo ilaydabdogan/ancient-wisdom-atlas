@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l28993-l29034
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XII. The Heavenly Bow. / Canto XVI. Winter. / Canto XVIII. The Mutilation.
+    / Canto XIX. The Rousing Of Khara.; lines 28993-29034
+  start: '28993'
+  end: '29034'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Fourteen giant champions attack Ráma with weapons. Ráma cuts down their
+    spears with arrows, then shoots fourteen bright arrows that pierce and kill the
+    giants. Śúrpaṇakhá, wounded and distressed, flees to her brother Khara, falls
+    at his feet, weeps, and reports the battle and the champions’ deaths.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fourteen furious figures speak bitterly and threaten before rushing at Ráma
+    with scimitar and spear.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The giant crew throw levelled spears at Ráma.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ráma bends his bow and sends twice seven shafts that cut down every javelin.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Ráma draws fourteen fresh bright arrows, equal in number to his foes, and
+    shoots them at the giant crew.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The arrows pass through the fiends’ breasts and bury themselves in the earth,
+    with a simile comparing them to serpents entering an ant-hill.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The fiends fall to the earth like trees uprooted by a storm and lie mangled,
+    blood-covered, and breathless.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Śúrpaṇakhá sees her champions die, flees wounded to her brother’s home, and
+    bends at Khara’s feet.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Śúrpaṇakhá weeps continually and tells Khara of the bloody fray and the fall
+    of her giant champions.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Ráma, son of Raghu
+  description: The matchless hero who counters the attack and kills the giant crew
+    with arrows.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Fourteen giant champions / fiends
+  description: A fierce group of fourteen attackers armed with scimitar, spear, and
+    javelins; they are killed by Ráma’s arrows.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Śúrpaṇakhá
+  description: A demon or monster who witnesses the deaths of her champions, flees
+    wounded, laments, and reports to Khara.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Khara
+  description: Śúrpaṇakhá’s brother, at whose feet she bends and to whom she reports
+    the battle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: heroic archer and defender
+  assigned_to:
+  - fig:1
+  basis: Ráma is attacked by the giant crew, cuts down their missiles, and kills them
+    with arrows.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: attacking giant band
+  assigned_to:
+  - fig:2
+  basis: The fourteen giants threaten, rush on Ráma, and throw spears before being
+    slain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: wounded lamenting messenger
+  assigned_to:
+  - fig:3
+  basis: Śúrpaṇakhá flees wounded to Khara, weeps, and tells him of the champions’
+    fall.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: brother and recipient of appeal
+  assigned_to:
+  - fig:4
+  basis: Khara is named as Śúrpaṇakhá’s brother, and she bends at his feet to report
+    the battle.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: bow and arrows
+  literal_form: Ráma’s bow and shafts, including fourteen bright arrows shot at the
+    foes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: giants’ weapons
+  literal_form: scimitar, spear, and levelled javelins used by the giant crew
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: serpent simile
+  literal_form: arrows buried in earth as serpents creep through an ant-hill
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: falling at feet
+  literal_form: Śúrpaṇakhá bending at Khara’s feet while in pain and lamentation
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: blood and tears
+  literal_form: mangled bodies bathed in blood; Śúrpaṇakhá’s ceaseless tears
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Fourteen giants attack Ráma
+  summary: A fierce group of fourteen threatens Ráma and hurls spears; Ráma cuts their
+    missiles apart with his arrows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ráma kills the giant champions
+  summary: Ráma shoots fourteen bright arrows at the giant crew. The arrows pierce
+    the fiends, and the bodies fall mangled and breathless.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Śúrpaṇakhá reports to Khara
+  summary: Śúrpaṇakhá flees wounded to her brother’s home, bends at Khara’s feet,
+    weeps, and tells him of the battle and the death of her champions.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: hero defeats a numerically matched band of demonic foes
+  taxonomy_refs: []
+  basis: Ráma is attacked by fourteen giants and answers with fourteen arrows that
+    kill them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The available taxonomy list has no exact heroic-combat category; the motif
+    label is descriptive.
+- id: motif:2
+  label: wounded sister appeals to brother after defeat
+  taxonomy_refs:
+  - sibling_pair
+  basis: Śúrpaṇakhá, described as Khara’s sister, flees wounded to him, bends at his
+    feet, and reports the death of her champions.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage supports a sibling relationship and appeal, but not a full
+    sacred-twin or sibling-pair mythic cycle by itself.
+- id: motif:3
+  label: serpent imagery attached to weapons
+  taxonomy_refs:
+  - serpent
+  basis: The passage compares Ráma’s arrows entering the earth after piercing the
+    fiends to serpents creeping through an ant-hill.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The serpent appears as a simile, not as an acting serpent figure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 28993-29002
+  quote_or_summary: Fourteen fierce giants threaten and rush at Ráma with scimitar
+    and spear; they throw spears, and Ráma’s twice-seven shafts cut down every javelin.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 29004-29019
+  quote_or_summary: Ráma grows furious, shoots fourteen bright arrows at the giant
+    crew, and the arrows pierce their breasts and enter the earth “as serpents through
+    an ant-hill creep”; the fiends fall mangled, blood-covered, and dead.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; brief quotation included for motif evidence.
+- id: ev:3
+  type: summary
+  locator: lines 29021-29034
+  quote_or_summary: Śúrpaṇakhá sees her champions die, flees with wounds to her brother
+    Khara, bends at his feet, weeps, and tells him of the bloody fray and the champions’
+    fall.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and figures are clear in the supplied passage. Motif assignments
+    are descriptive and require human review, especially where taxonomy refs are approximate.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No external comparison claims were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l28993-l29034
+  passage_sha256=9c2df7c49e17c25213a1e2de3d928f64d154a328d641302e168a3843bd67335d

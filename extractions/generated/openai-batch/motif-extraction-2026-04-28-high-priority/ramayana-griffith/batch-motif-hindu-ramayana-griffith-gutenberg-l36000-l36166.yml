@@ -1,0 +1,488 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l36000-l36166
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XLVI. The Guest. / Canto LI. The Combat. / Canto LX. Lakshman Reproved.
+    / Canto LXX. Kabandha.; lines 36000-36166
+  start: '36000'
+  end: '36166'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Lakshman and Rama are seized in the forest by the long-armed fiend Kabandha.
+    Lakshman urges Rama to cut off the monster's arms, and the brothers sever them
+    with swords. Kabandha asks their names and lineage; Lakshman identifies Rama,
+    himself, and their quest for Rama's stolen wife. Kabandha then recalls Indra's
+    words and begins explaining that he once had a surpassingly beautiful form but
+    was cursed by the sage Sthulasiras to retain a hideous shape after frightening
+    forest ascetics.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lakshman, while held by the giant, tells Rama to flee and to give him as an
+    offering to the fiend.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rama tells Lakshman not to fear and says a chief like him should scorn despair.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kabandha is described as fierce, long-armed, and foremost among Danavs; he
+    addresses the brothers in a dark and horrid place.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Kabandha says hunger torments him and that fate has brought the brothers to
+    feed his maw.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Lakshman advises Rama to cut off Kabandha's arms with a sword.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Rama and Lakshman draw their swords and cut away Kabandha's two arms, causing
+    him to fall to the earth with a roar.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Lakshman identifies Rama as Ikshvaku's heir and himself as Rama's younger
+    brother.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Lakshman says a giant stole away Rama's wife and that the brothers came there
+    seeking her.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Lakshman asks Kabandha who he is and why he has a headless trunk with a flaming
+    face beneath his chest.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Kabandha says he once wore a shape of extraordinary beauty and fame, but took
+    a hideous form that frightened forest saints.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The sage Sthulasiras cursed Kabandha to retain his grisly form because Kabandha
+    delighted in others' pain.
+  category: speech
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: Son of Dasaratha, son of Raghu, Ikshvaku's heir, and elder brother
+    of Lakshman; he is seeking his stolen wife.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Lakshman
+  description: Rama's younger brother, initially fearful in Kabandha's grasp, then
+    counselor and combatant who cuts off one of Kabandha's arms.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Kabandha
+  description: A fierce, long-armed fiend or Danav with a headless trunk and flaming
+    face beneath his chest; he is hungry, seizes the brothers, and later recounts
+    a curse behind his form.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:4
+  name_or_label: Rama's Maithil queen / wife
+  description: Rama's dear queen or wife, said by Lakshman to have been stolen away
+    by a giant.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:5
+  name_or_label: Sthulasiras
+  description: A glorious sage who, after being frightened by Kabandha's hideous shape,
+    curses him to retain that form.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:11
+- id: fig:6
+  name_or_label: Indra
+  description: Kabandha recalls Indra's words before speaking kindly to Rama and Lakshman.
+  role_refs: []
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: royal brothers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage calls Rama and Lakshman the royal pair and identifies them as
+    brothers.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:2
+  label: dispossessed royal heir
+  assigned_to:
+  - fig:1
+  basis: Lakshman says Rama is Ikshvaku's heir and that his realm was taken from him
+    before exile in the woods.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: younger brother and counselor
+  assigned_to:
+  - fig:2
+  basis: Lakshman identifies himself as younger brother and advises Rama how to act
+    against Kabandha.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:4
+  label: capturing monster
+  assigned_to:
+  - fig:3
+  basis: Kabandha imprisons the brothers with his mighty hands and draws them toward
+    his maw.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: seeker of stolen wife
+  assigned_to:
+  - fig:1
+  basis: Lakshman states that Rama's wife was stolen and that they came seeking her.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: cursed transformed being
+  assigned_to:
+  - fig:3
+  basis: Kabandha says he once had a superior form and was cursed to retain a grisly
+    form.
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: role:7
+  label: stolen beloved
+  assigned_to:
+  - fig:4
+  basis: Rama's wife is described as stolen away by a giant and as the object of the
+    brothers' search.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: cursing sage
+  assigned_to:
+  - fig:5
+  basis: Sthulasiras pronounces that Kabandha must retain the grisly form.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: dark forest danger
+  literal_form: dark and horrid forest land or solitary wilds
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: monstrous arms as snare
+  literal_form: Kabandha's mighty long arms imprisoning the brothers like a snare
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: swords used to sever bondage
+  literal_form: glittering swords and trenchant blades cutting off Kabandha's arms
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: flaming face beneath chest
+  literal_form: headless trunk with flaming face beneath the chest
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: hideous cursed form
+  literal_form: grisly or hideous shape retained through a curse
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+scenes:
+- id: scene:1
+  label: Kabandha captures the brothers
+  summary: In a dark and horrid forest, Kabandha holds Rama and Lakshman with his
+    long arms and declares that their lives are lost.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: The brothers sever Kabandha's arms
+  summary: After Lakshman counsels Rama, the brothers use swords to cut off Kabandha's
+    two arms, and the monster falls roaring to the ground.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Lineage and quest declared
+  summary: Kabandha asks who the brothers are. Lakshman names Rama as Ikshvaku's heir,
+    names himself as younger brother, and explains that they seek Rama's stolen wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Kabandha begins his tale of the curse
+  summary: Kabandha welcomes the brothers, recalls Indra's words, and explains that
+    he once had a surpassing form but was cursed by Sthulasiras to retain his grisly
+    form.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: stolen beloved sought in wilderness
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Lakshman says Rama's wife was stolen by a giant and that he and Rama came
+    into the forest seeking her.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage names the theft and search but does not narrate the original
+    abduction in this excerpt.
+- id: motif:2
+  label: sibling pair confronting monster
+  taxonomy_refs:
+  - sibling_pair
+  basis: Rama and Lakshman are identified as brothers and act together against Kabandha.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage emphasizes brotherhood and joint action, but the broader epic
+    context is outside this extraction.
+- id: motif:3
+  label: cursed transformation into monstrous form
+  taxonomy_refs:
+  - shapeshifter
+  basis: Kabandha says he once possessed a beautiful form, took a hideous shape, and
+    was cursed by Sthulasiras to retain the grisly form.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: 'The taxonomy ref is approximate: the passage describes transformation
+    and curse, not voluntary ongoing shapeshifting.'
+- id: motif:4
+  label: monster defeated by severing grasping limbs
+  taxonomy_refs: []
+  basis: Kabandha captures the brothers with his long arms, and they escape by cutting
+    those arms away.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly names this combat pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 36000-36011
+  quote_or_summary: Lakshman cries that he is in the giant's hold, urges Rama to flee,
+    and says, "Me to the fiend an offering give."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 36012-36015
+  quote_or_summary: Rama replies, "Brother, from causeless dread forbear. / A chief
+    like thee should scorn despair."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 36016-36031
+  quote_or_summary: Kabandha is described as fierce and long-armed, foremost among
+    Danavs; he asks the armed men why they roam the dark and horrid forest and says
+    their lives are already lost.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: Canto LXXI, opening lines in supplied passage
+  quote_or_summary: Kabandha has the chieftains imprisoned by his mighty hand, says
+    hunger torments him, and says fate has brought them to satisfy his maw.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Canto LXXI, Lakshman's counsel
+  quote_or_summary: Lakshman regains courage and tells Rama that the giant relies
+    on huge arm-strength; he urges Rama to smite off the arms with a sword.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: Canto LXXI, combat lines
+  quote_or_summary: Kabandha opens his mouth and draws the princes to his side; Rama
+    and Lakshman unsheathe swords and cut away his two mighty arms, after which he
+    falls with a roar.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: Canto LXXI, Lakshman's identification
+  quote_or_summary: Lakshman says Rama is Ikshvaku's heir, and that he, Lakshman,
+    is the younger brother; he adds that Rama's mother stole his realm and drove him
+    into the woods.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: Canto LXXI, Lakshman's account of the quest
+  quote_or_summary: Lakshman says, "Some giant stole away his dame, / And seeking
+    her we hither came."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:9
+  type: quote
+  locator: Canto LXXI, Lakshman's question to Kabandha
+  quote_or_summary: Lakshman asks why Kabandha lies with "headless trunk" and "flaming
+    face beneath thy chest."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:10
+  type: summary
+  locator: Canto LXXII, Kabandha's tale opening
+  quote_or_summary: Kabandha says that formerly he wore a shape beyond thought, with
+    fame for beauty, might, and valor through the three worlds, but later took a terrifying
+    form that frightened forest saints.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: quote
+  locator: Canto LXXII, curse by Sthulasiras
+  quote_or_summary: 'The sage Sthulasiras, angered, says: "Thou, whose delight is
+    others'' pain, / This grisly form shalt still retain."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:12
+  type: summary
+  locator: Canto LXXI, Kabandha recalls Indra
+  quote_or_summary: After hearing Lakshman's words, Kabandha's memory awakens; recalling
+    Indra's words, he speaks gently and welcomes the brothers.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif mapping
+    is limited to the available taxonomy and is marked cautious where the taxonomy
+    only approximately fits.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No external sources or broader Ramayana context were used beyond the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l36000-l36166
+  passage_sha256=cbb057fd68a0a765f4d618bb998380c29331291599d61424b9bea303e76364eb

@@ -4,11 +4,11 @@ source: data/indexes/motif-occurrences.yml
 normalization_source: taxonomy/motif-normalization.yml
 method: Counts distinct traditions for indexed motif IDs that map to canonical_motif_groups
   through raw_motif_group_index, group children/aliases, or normalization aliases.
-indexed_motif_count: 6826
-indexed_occurrence_count: 22338
+indexed_motif_count: 7157
+indexed_occurrence_count: 23351
 canonical_motif_group_count: 53
 mapped_motif_count: 300
-unmapped_motif_count: 6526
+unmapped_motif_count: 6857
 canonical_motifs:
 - canonical_motif_id: sacred_knowledge
   label: Sacred Knowledge and Wisdom
@@ -33,7 +33,7 @@ canonical_motifs:
     finnish_karelian: 128
     greek: 914
     greek_roman: 59
-    hindu: 67
+    hindu: 100
     indigenous_australian: 2
     islamic: 4
     japanese: 22
@@ -47,7 +47,7 @@ canonical_motifs:
   - motif_id: wisdom
     label: Wisdom
     relationship: child
-    occurrence_count: 2691
+    occurrence_count: 2720
     tradition_count: 19
     traditions:
       ainu: 11
@@ -60,7 +60,7 @@ canonical_motifs:
       finnish_karelian: 114
       greek: 864
       greek_roman: 43
-      hindu: 61
+      hindu: 90
       islamic: 3
       japanese: 17
       jewish_christian: 8
@@ -72,7 +72,7 @@ canonical_motifs:
   - motif_id: forbidden_knowledge
     label: Forbidden Knowledge
     relationship: child
-    occurrence_count: 82
+    occurrence_count: 84
     tradition_count: 15
     traditions:
       ainu: 2
@@ -84,7 +84,7 @@ canonical_motifs:
       finnish_karelian: 2
       greek: 16
       greek_roman: 5
-      hindu: 1
+      hindu: 3
       indigenous_australian: 1
       japanese: 5
       norse: 4
@@ -93,7 +93,7 @@ canonical_motifs:
   - motif_id: sacred_theft
     label: Sacred Theft
     relationship: child
-    occurrence_count: 138
+    occurrence_count: 140
     tradition_count: 14
     traditions:
       ainu: 3
@@ -105,7 +105,7 @@ canonical_motifs:
       finnish_karelian: 12
       greek: 29
       greek_roman: 11
-      hindu: 5
+      hindu: 7
       indigenous_australian: 1
       norse: 21
       roman: 22
@@ -153,7 +153,7 @@ canonical_motifs:
     traditions:
       islamic: 1
   tradition_count: 20
-  occurrence_count: 2917
+  occurrence_count: 2950
   mapped_motif_count: 9
 - canonical_motif_id: death_and_transformation
   label: Death, Rebirth, and Transformation
@@ -177,7 +177,7 @@ canonical_motifs:
     finnish_karelian: 25
     greek: 58
     greek_roman: 28
-    hindu: 21
+    hindu: 30
     japanese: 3
     jewish_christian: 1
     maya_quiche: 1
@@ -190,7 +190,7 @@ canonical_motifs:
   - motif_id: death_rebirth
     label: Death And Rebirth
     relationship: alias
-    occurrence_count: 566
+    occurrence_count: 573
     tradition_count: 19
     traditions:
       ainu: 4
@@ -203,7 +203,7 @@ canonical_motifs:
       finnish_karelian: 17
       greek: 40
       greek_roman: 19
-      hindu: 18
+      hindu: 25
       japanese: 2
       jewish_christian: 1
       maya_quiche: 1
@@ -215,7 +215,7 @@ canonical_motifs:
   - motif_id: resurrection
     label: Resurrection
     relationship: child
-    occurrence_count: 163
+    occurrence_count: 165
     tradition_count: 15
     traditions:
       ainu: 1
@@ -227,7 +227,7 @@ canonical_motifs:
       finnish_karelian: 8
       greek: 10
       greek_roman: 5
-      hindu: 3
+      hindu: 5
       japanese: 1
       norse: 10
       persian: 1
@@ -351,7 +351,7 @@ canonical_motifs:
     traditions:
       celtic_irish: 1
   tradition_count: 19
-  occurrence_count: 814
+  occurrence_count: 823
   mapped_motif_count: 18
 - canonical_motif_id: divine_judgment
   label: Divine Judgment and Moral Reckoning
@@ -375,7 +375,7 @@ canonical_motifs:
     finnish_karelian: 4
     greek: 274
     greek_roman: 83
-    hindu: 40
+    hindu: 60
     islamic: 3
     japanese: 4
     jewish_christian: 7
@@ -388,7 +388,7 @@ canonical_motifs:
   - motif_id: divine_judgment
     label: Divine Judgment
     relationship: canonical_group
-    occurrence_count: 790
+    occurrence_count: 810
     tradition_count: 19
     traditions:
       ainu: 12
@@ -401,7 +401,7 @@ canonical_motifs:
       finnish_karelian: 4
       greek: 273
       greek_roman: 82
-      hindu: 40
+      hindu: 60
       islamic: 3
       japanese: 4
       jewish_christian: 4
@@ -474,7 +474,7 @@ canonical_motifs:
     traditions:
       jewish_christian: 1
   tradition_count: 19
-  occurrence_count: 799
+  occurrence_count: 819
   mapped_motif_count: 10
 - canonical_motif_id: initiation
   label: Initiation and Transformative Ordeal
@@ -498,7 +498,7 @@ canonical_motifs:
     finnish_karelian: 19
     greek: 103
     greek_roman: 29
-    hindu: 50
+    hindu: 62
     japanese: 10
     jewish_christian: 1
     maya_quiche: 1
@@ -511,7 +511,7 @@ canonical_motifs:
   - motif_id: initiation
     label: Initiation
     relationship: canonical_group
-    occurrence_count: 472
+    occurrence_count: 480
     tradition_count: 19
     traditions:
       buddhist: 30
@@ -524,7 +524,7 @@ canonical_motifs:
       finnish_karelian: 19
       greek: 102
       greek_roman: 27
-      hindu: 48
+      hindu: 56
       japanese: 10
       jewish_christian: 1
       maya_quiche: 1
@@ -536,13 +536,13 @@ canonical_motifs:
   - motif_id: labyrinth_initiation
     label: Labyrinth Initiation
     relationship: taxonomy_motif_family
-    occurrence_count: 15
+    occurrence_count: 19
     tradition_count: 6
     traditions:
       celtic_welsh: 1
       greek: 1
       greek_roman: 2
-      hindu: 2
+      hindu: 6
       norse: 2
       roman: 7
   - motif_id: heroic_childhood_signs
@@ -553,7 +553,7 @@ canonical_motifs:
     traditions:
       celtic_irish: 1
   tradition_count: 19
-  occurrence_count: 488
+  occurrence_count: 500
   mapped_motif_count: 3
 - canonical_motif_id: axis_mundi
   label: World Axis and Sacred Center
@@ -577,7 +577,7 @@ canonical_motifs:
     finnish_karelian: 18
     greek: 42
     greek_roman: 21
-    hindu: 11
+    hindu: 32
     indigenous_australian: 1
     japanese: 5
     jewish_christian: 8
@@ -589,7 +589,7 @@ canonical_motifs:
   - motif_id: sacred_tree_axis
     label: Sacred Tree Or Axis Mundi
     relationship: child
-    occurrence_count: 166
+    occurrence_count: 170
     tradition_count: 15
     traditions:
       ainu: 1
@@ -600,7 +600,7 @@ canonical_motifs:
       finnish_karelian: 9
       greek: 8
       greek_roman: 6
-      hindu: 2
+      hindu: 6
       japanese: 3
       jewish_christian: 3
       norse: 20
@@ -610,7 +610,7 @@ canonical_motifs:
   - motif_id: world_center
     label: World Center
     relationship: child
-    occurrence_count: 85
+    occurrence_count: 89
     tradition_count: 14
     traditions:
       buddhist: 4
@@ -621,34 +621,17 @@ canonical_motifs:
       finnish_karelian: 5
       greek: 20
       greek_roman: 6
-      hindu: 5
+      hindu: 9
       indigenous_australian: 1
       jewish_christian: 3
       norse: 15
       roman: 8
       sufi: 5
-  - motif_id: cosmic_mountain
-    label: Cosmic Mountain
-    relationship: child
-    occurrence_count: 35
-    tradition_count: 11
-    traditions:
-      buddhist: 2
-      daoist: 3
-      finnish_karelian: 2
-      greek: 6
-      greek_roman: 5
-      hindu: 4
-      japanese: 2
-      jewish_christian: 1
-      norse: 1
-      persian: 1
-      roman: 8
   - motif_id: tree
     label: Sacred vessels preserved from destructive fire
     relationship: alias
-    occurrence_count: 28
-    tradition_count: 11
+    occurrence_count: 30
+    tradition_count: 12
     traditions:
       ainu: 2
       buddhist: 5
@@ -658,14 +641,32 @@ canonical_motifs:
       finnish_karelian: 1
       greek: 3
       greek_roman: 2
+      hindu: 2
       norse: 3
       roman: 6
       sufi: 1
+  - motif_id: cosmic_mountain
+    label: Cosmic Mountain
+    relationship: child
+    occurrence_count: 42
+    tradition_count: 11
+    traditions:
+      buddhist: 2
+      daoist: 3
+      finnish_karelian: 2
+      greek: 6
+      greek_roman: 5
+      hindu: 11
+      japanese: 2
+      jewish_christian: 1
+      norse: 1
+      persian: 1
+      roman: 8
   - motif_id: mountain
     label: Underworld descent through mountain cave
     relationship: alias
-    occurrence_count: 18
-    tradition_count: 8
+    occurrence_count: 22
+    tradition_count: 9
     traditions:
       ainu: 2
       buddhist: 1
@@ -673,6 +674,7 @@ canonical_motifs:
       finnish_karelian: 1
       greek: 5
       greek_roman: 2
+      hindu: 4
       norse: 2
       roman: 3
   - motif_id: ensouled_trees_and_vegetation_spirits
@@ -690,7 +692,7 @@ canonical_motifs:
     traditions:
       jewish_christian: 1
   tradition_count: 17
-  occurrence_count: 334
+  occurrence_count: 355
   mapped_motif_count: 7
 - canonical_motif_id: duality
   label: Duality and Cosmic Opposition
@@ -713,7 +715,7 @@ canonical_motifs:
     finnish_karelian: 4
     greek: 162
     greek_roman: 13
-    hindu: 2
+    hindu: 3
     islamic: 1
     japanese: 3
     mesopotamian: 2
@@ -725,7 +727,7 @@ canonical_motifs:
   - motif_id: duality
     label: Duality
     relationship: canonical_group
-    occurrence_count: 330
+    occurrence_count: 331
     tradition_count: 16
     traditions:
       ainu: 2
@@ -737,7 +739,7 @@ canonical_motifs:
       finnish_karelian: 4
       greek: 161
       greek_roman: 13
-      hindu: 2
+      hindu: 3
       japanese: 3
       mesopotamian: 2
       norse: 14
@@ -766,7 +768,7 @@ canonical_motifs:
     traditions:
       daoist: 1
   tradition_count: 17
-  occurrence_count: 333
+  occurrence_count: 334
   mapped_motif_count: 4
 - canonical_motif_id: ascent
   label: Ascent and Heavenly Journey
@@ -789,7 +791,7 @@ canonical_motifs:
     finnish_karelian: 7
     greek: 95
     greek_roman: 15
-    hindu: 23
+    hindu: 41
     japanese: 7
     jewish_christian: 4
     norse: 8
@@ -800,7 +802,7 @@ canonical_motifs:
   - motif_id: ascent
     label: Ascent
     relationship: canonical_group
-    occurrence_count: 299
+    occurrence_count: 317
     tradition_count: 17
     traditions:
       ainu: 4
@@ -813,7 +815,7 @@ canonical_motifs:
       finnish_karelian: 7
       greek: 95
       greek_roman: 15
-      hindu: 22
+      hindu: 40
       japanese: 7
       jewish_christian: 3
       norse: 8
@@ -835,7 +837,7 @@ canonical_motifs:
     traditions:
       hindu: 1
   tradition_count: 17
-  occurrence_count: 301
+  occurrence_count: 319
   mapped_motif_count: 3
 - canonical_motif_id: descent
   label: Descent and Underworld Journey
@@ -860,7 +862,7 @@ canonical_motifs:
     finnish_karelian: 15
     greek: 24
     greek_roman: 10
-    hindu: 4
+    hindu: 12
     indigenous_australian: 1
     japanese: 6
     jewish_christian: 1
@@ -871,7 +873,7 @@ canonical_motifs:
   - motif_id: hero_descent
     label: Descent Into The Underworld
     relationship: child
-    occurrence_count: 127
+    occurrence_count: 132
     tradition_count: 17
     traditions:
       ainu: 3
@@ -884,7 +886,7 @@ canonical_motifs:
       finnish_karelian: 15
       greek: 21
       greek_roman: 9
-      hindu: 4
+      hindu: 9
       indigenous_australian: 1
       japanese: 6
       jewish_christian: 1
@@ -894,12 +896,13 @@ canonical_motifs:
   - motif_id: cave
     label: Threshold cavern with many gates as oracular boundary
     relationship: alias
-    occurrence_count: 5
-    tradition_count: 4
+    occurrence_count: 8
+    tradition_count: 5
     traditions:
       ainu: 1
       greek: 2
       greek_roman: 1
+      hindu: 3
       roman: 1
   - motif_id: descent
     label: Descent into the earth at the conclusion of a prophecy
@@ -924,7 +927,7 @@ canonical_motifs:
     traditions:
       comparative: 1
   tradition_count: 17
-  occurrence_count: 136
+  occurrence_count: 144
   mapped_motif_count: 5
 - canonical_motif_id: hero_journey
   label: The Hero's Journey
@@ -947,7 +950,7 @@ canonical_motifs:
     finnish_karelian: 98
     greek: 305
     greek_roman: 62
-    hindu: 156
+    hindu: 237
     japanese: 35
     jewish_christian: 2
     norse: 45
@@ -958,7 +961,7 @@ canonical_motifs:
   - motif_id: departure
     label: Departure
     relationship: child
-    occurrence_count: 716
+    occurrence_count: 765
     tradition_count: 16
     traditions:
       ainu: 2
@@ -970,7 +973,7 @@ canonical_motifs:
       finnish_karelian: 60
       greek: 99
       greek_roman: 31
-      hindu: 133
+      hindu: 182
       japanese: 19
       jewish_christian: 1
       norse: 26
@@ -980,7 +983,7 @@ canonical_motifs:
   - motif_id: return
     label: Return
     relationship: child
-    occurrence_count: 507
+    occurrence_count: 539
     tradition_count: 15
     traditions:
       ainu: 1
@@ -992,7 +995,7 @@ canonical_motifs:
       finnish_karelian: 38
       greek: 205
       greek_roman: 31
-      hindu: 23
+      hindu: 55
       japanese: 16
       norse: 19
       persian: 7
@@ -1020,7 +1023,7 @@ canonical_motifs:
     traditions:
       greek: 1
   tradition_count: 16
-  occurrence_count: 1226
+  occurrence_count: 1307
   mapped_motif_count: 5
 - canonical_motif_id: sacred_exchange
   label: Sacred Exchange and Reciprocity
@@ -1041,7 +1044,7 @@ canonical_motifs:
     finnish_karelian: 35
     greek: 219
     greek_roman: 52
-    hindu: 93
+    hindu: 134
     japanese: 25
     jewish_christian: 5
     norse: 51
@@ -1052,7 +1055,7 @@ canonical_motifs:
   - motif_id: sacred_exchange
     label: Sacred Exchange
     relationship: canonical_group
-    occurrence_count: 943
+    occurrence_count: 984
     tradition_count: 16
     traditions:
       ainu: 11
@@ -1064,7 +1067,7 @@ canonical_motifs:
       finnish_karelian: 35
       greek: 219
       greek_roman: 52
-      hindu: 93
+      hindu: 134
       japanese: 25
       jewish_christian: 4
       norse: 51
@@ -1093,7 +1096,7 @@ canonical_motifs:
     traditions:
       jewish_christian: 1
   tradition_count: 16
-  occurrence_count: 946
+  occurrence_count: 987
   mapped_motif_count: 4
 - canonical_motif_id: miraculous_child
   label: Miraculous Child and Sacred Birth
@@ -1116,7 +1119,7 @@ canonical_motifs:
     finnish_karelian: 45
     greek: 226
     greek_roman: 90
-    hindu: 74
+    hindu: 98
     islamic: 6
     japanese: 18
     norse: 49
@@ -1127,7 +1130,7 @@ canonical_motifs:
   - motif_id: sacred_birth
     label: Sacred Birth
     relationship: child
-    occurrence_count: 229
+    occurrence_count: 235
     tradition_count: 15
     traditions:
       ainu: 3
@@ -1138,7 +1141,7 @@ canonical_motifs:
       finnish_karelian: 18
       greek: 54
       greek_roman: 14
-      hindu: 35
+      hindu: 41
       islamic: 2
       japanese: 3
       norse: 11
@@ -1148,7 +1151,7 @@ canonical_motifs:
   - motif_id: miraculous_child
     label: Miraculous Child
     relationship: canonical_group
-    occurrence_count: 163
+    occurrence_count: 166
     tradition_count: 15
     traditions:
       ainu: 4
@@ -1159,7 +1162,7 @@ canonical_motifs:
       finnish_karelian: 17
       greek: 19
       greek_roman: 14
-      hindu: 12
+      hindu: 15
       islamic: 3
       japanese: 10
       norse: 11
@@ -1169,7 +1172,7 @@ canonical_motifs:
   - motif_id: divine_parent_child
     label: Divine Parent And Holy Child
     relationship: child
-    occurrence_count: 440
+    occurrence_count: 455
     tradition_count: 13
     traditions:
       ainu: 1
@@ -1179,7 +1182,7 @@ canonical_motifs:
       finnish_karelian: 10
       greek: 153
       greek_roman: 62
-      hindu: 27
+      hindu: 42
       japanese: 5
       norse: 27
       persian: 1
@@ -1200,7 +1203,7 @@ canonical_motifs:
     traditions:
       islamic: 1
   tradition_count: 16
-  occurrence_count: 834
+  occurrence_count: 858
   mapped_motif_count: 5
 - canonical_motif_id: royal_legitimacy
   label: Royal Legitimacy and Sacred Kingship
@@ -1222,7 +1225,7 @@ canonical_motifs:
     finnish_karelian: 1
     greek: 115
     greek_roman: 35
-    hindu: 189
+    hindu: 262
     japanese: 8
     jewish_christian: 1
     norse: 29
@@ -1233,7 +1236,7 @@ canonical_motifs:
   - motif_id: royal_legitimacy
     label: Royal Legitimacy
     relationship: canonical_group
-    occurrence_count: 711
+    occurrence_count: 784
     tradition_count: 16
     traditions:
       buddhist: 29
@@ -1245,7 +1248,7 @@ canonical_motifs:
       finnish_karelian: 1
       greek: 114
       greek_roman: 35
-      hindu: 189
+      hindu: 262
       japanese: 8
       jewish_christian: 1
       norse: 29
@@ -1274,7 +1277,7 @@ canonical_motifs:
     traditions:
       confucian: 1
   tradition_count: 16
-  occurrence_count: 714
+  occurrence_count: 787
   mapped_motif_count: 4
 - canonical_motif_id: serpent_guardian
   label: Serpent and Serpent Guardian
@@ -1297,7 +1300,7 @@ canonical_motifs:
     finnish_karelian: 25
     greek: 37
     greek_roman: 30
-    hindu: 4
+    hindu: 14
     japanese: 4
     jewish_christian: 2
     norse: 28
@@ -1308,7 +1311,7 @@ canonical_motifs:
   - motif_id: serpent
     label: Serpent
     relationship: alias
-    occurrence_count: 263
+    occurrence_count: 273
     tradition_count: 16
     traditions:
       ainu: 2
@@ -1320,7 +1323,7 @@ canonical_motifs:
       finnish_karelian: 25
       greek: 37
       greek_roman: 30
-      hindu: 4
+      hindu: 14
       japanese: 4
       jewish_christian: 2
       norse: 28
@@ -1328,7 +1331,7 @@ canonical_motifs:
       roman: 80
       sufi: 8
   tradition_count: 16
-  occurrence_count: 263
+  occurrence_count: 273
   mapped_motif_count: 1
 - canonical_motif_id: flood_and_renewal
   label: Flood, Fire, and Cosmic Renewal
@@ -1351,7 +1354,7 @@ canonical_motifs:
     finnish_karelian: 7
     greek: 22
     greek_roman: 12
-    hindu: 10
+    hindu: 15
     japanese: 3
     jewish_christian: 3
     maya_quiche: 1
@@ -1362,8 +1365,8 @@ canonical_motifs:
   - motif_id: ark_vessel
     label: Ark Or Preserving Vessel
     relationship: child
-    occurrence_count: 43
-    tradition_count: 12
+    occurrence_count: 44
+    tradition_count: 13
     traditions:
       ainu: 1
       celtic_irish: 3
@@ -1372,6 +1375,7 @@ canonical_motifs:
       finnish_karelian: 4
       greek: 4
       greek_roman: 3
+      hindu: 1
       japanese: 1
       jewish_christian: 1
       norse: 3
@@ -1380,7 +1384,7 @@ canonical_motifs:
   - motif_id: world_destroying_fire
     label: World-Destroying Fire
     relationship: taxonomy_motif_family
-    occurrence_count: 52
+    occurrence_count: 56
     tradition_count: 11
     traditions:
       buddhist: 1
@@ -1390,7 +1394,7 @@ canonical_motifs:
       finnish_karelian: 2
       greek: 10
       greek_roman: 1
-      hindu: 7
+      hindu: 11
       japanese: 2
       norse: 6
       roman: 18
@@ -1426,7 +1430,7 @@ canonical_motifs:
       norse: 4
       roman: 6
   tradition_count: 16
-  occurrence_count: 156
+  occurrence_count: 161
   mapped_motif_count: 4
 - canonical_motif_id: cosmic_origin
   label: Cosmic Origin and Creation
@@ -1447,7 +1451,7 @@ canonical_motifs:
     finnish_karelian: 13
     greek: 28
     greek_roman: 5
-    hindu: 11
+    hindu: 19
     japanese: 3
     jewish_christian: 2
     maya_quiche: 1
@@ -1459,7 +1463,7 @@ canonical_motifs:
   - motif_id: chaos
     label: Chaos
     relationship: child
-    occurrence_count: 129
+    occurrence_count: 137
     tradition_count: 16
     traditions:
       ainu: 1
@@ -1470,7 +1474,7 @@ canonical_motifs:
       finnish_karelian: 11
       greek: 28
       greek_roman: 5
-      hindu: 11
+      hindu: 19
       japanese: 3
       jewish_christian: 1
       maya_quiche: 1
@@ -1507,7 +1511,7 @@ canonical_motifs:
     traditions:
       finnish_karelian: 1
   tradition_count: 16
-  occurrence_count: 133
+  occurrence_count: 141
   mapped_motif_count: 5
 - canonical_motif_id: mystical_quest
   label: Mystical Quest and Interior Journey
@@ -1529,7 +1533,7 @@ canonical_motifs:
     finnish_karelian: 42
     greek: 113
     greek_roman: 44
-    hindu: 22
+    hindu: 75
     japanese: 24
     norse: 31
     persian: 15
@@ -1539,7 +1543,7 @@ canonical_motifs:
   - motif_id: mystical_quest
     label: Mystical Quest
     relationship: canonical_group
-    occurrence_count: 590
+    occurrence_count: 638
     tradition_count: 14
     traditions:
       buddhist: 12
@@ -1550,7 +1554,7 @@ canonical_motifs:
       finnish_karelian: 38
       greek: 36
       greek_roman: 18
-      hindu: 11
+      hindu: 59
       japanese: 16
       norse: 11
       persian: 10
@@ -1559,7 +1563,7 @@ canonical_motifs:
   - motif_id: divine_beloved
     label: Divine Beloved
     relationship: child
-    occurrence_count: 448
+    occurrence_count: 453
     tradition_count: 13
     traditions:
       ainu: 5
@@ -1569,7 +1573,7 @@ canonical_motifs:
       finnish_karelian: 4
       greek: 67
       greek_roman: 26
-      hindu: 10
+      hindu: 15
       japanese: 8
       norse: 19
       persian: 4
@@ -1627,7 +1631,7 @@ canonical_motifs:
     traditions:
       sufi: 1
   tradition_count: 15
-  occurrence_count: 1259
+  occurrence_count: 1312
   mapped_motif_count: 8
 - canonical_motif_id: sacrifice
   label: Sacrifice and Offering
@@ -1649,7 +1653,7 @@ canonical_motifs:
     finnish_karelian: 5
     greek: 128
     greek_roman: 52
-    hindu: 89
+    hindu: 118
     japanese: 4
     jewish_christian: 9
     norse: 15
@@ -1660,7 +1664,7 @@ canonical_motifs:
   - motif_id: sacrifice
     label: Sacrifice
     relationship: canonical_group
-    occurrence_count: 811
+    occurrence_count: 840
     tradition_count: 15
     traditions:
       buddhist: 26
@@ -1671,7 +1675,7 @@ canonical_motifs:
       finnish_karelian: 5
       greek: 128
       greek_roman: 52
-      hindu: 89
+      hindu: 118
       japanese: 4
       jewish_christian: 4
       norse: 15
@@ -1763,7 +1767,7 @@ canonical_motifs:
     traditions:
       jewish_christian: 1
   tradition_count: 15
-  occurrence_count: 824
+  occurrence_count: 853
   mapped_motif_count: 13
 - canonical_motif_id: sacred_time
   label: Sacred Time and Ritual Cycle
@@ -1784,7 +1788,7 @@ canonical_motifs:
     finnish_karelian: 7
     greek: 32
     greek_roman: 24
-    hindu: 2
+    hindu: 12
     japanese: 3
     jewish_christian: 2
     norse: 52
@@ -1795,7 +1799,7 @@ canonical_motifs:
   - motif_id: seasonal_cycle
     label: Seasonal Cycle
     relationship: child
-    occurrence_count: 717
+    occurrence_count: 727
     tradition_count: 14
     traditions:
       buddhist: 3
@@ -1806,7 +1810,7 @@ canonical_motifs:
       finnish_karelian: 7
       greek: 32
       greek_roman: 24
-      hindu: 2
+      hindu: 12
       japanese: 3
       norse: 52
       persian: 4
@@ -1834,7 +1838,7 @@ canonical_motifs:
     traditions:
       jewish_christian: 1
   tradition_count: 15
-  occurrence_count: 720
+  occurrence_count: 730
   mapped_motif_count: 4
 - canonical_motif_id: shapeshifter
   label: Shapeshifter and Transformation
@@ -1856,7 +1860,7 @@ canonical_motifs:
     finnish_karelian: 20
     greek: 81
     greek_roman: 34
-    hindu: 11
+    hindu: 52
     japanese: 10
     norse: 41
     roman: 345
@@ -1865,7 +1869,7 @@ canonical_motifs:
   - motif_id: shapeshifter
     label: Shapeshifter
     relationship: canonical_group
-    occurrence_count: 680
+    occurrence_count: 721
     tradition_count: 15
     traditions:
       ainu: 15
@@ -1878,7 +1882,7 @@ canonical_motifs:
       finnish_karelian: 20
       greek: 81
       greek_roman: 34
-      hindu: 11
+      hindu: 52
       japanese: 9
       norse: 41
       roman: 345
@@ -1919,7 +1923,7 @@ canonical_motifs:
     traditions:
       celtic_irish: 1
   tradition_count: 15
-  occurrence_count: 685
+  occurrence_count: 726
   mapped_motif_count: 6
 - canonical_motif_id: trickster
   label: Trickster and Boundary Crosser
@@ -1940,7 +1944,7 @@ canonical_motifs:
     finnish_karelian: 4
     greek: 103
     greek_roman: 13
-    hindu: 7
+    hindu: 23
     japanese: 18
     maya_quiche: 1
     norse: 31
@@ -1951,7 +1955,7 @@ canonical_motifs:
   - motif_id: trickster_boundary
     label: Trickster At The Boundary
     relationship: child
-    occurrence_count: 320
+    occurrence_count: 336
     tradition_count: 15
     traditions:
       ainu: 14
@@ -1962,7 +1966,7 @@ canonical_motifs:
       finnish_karelian: 4
       greek: 101
       greek_roman: 13
-      hindu: 7
+      hindu: 23
       japanese: 18
       maya_quiche: 1
       norse: 31
@@ -1991,7 +1995,7 @@ canonical_motifs:
     traditions:
       buddhist: 1
   tradition_count: 15
-  occurrence_count: 323
+  occurrence_count: 339
   mapped_motif_count: 4
 - canonical_motif_id: culture_hero
   label: Culture Hero and Founder
@@ -2012,7 +2016,7 @@ canonical_motifs:
     finnish_karelian: 41
     greek: 30
     greek_roman: 35
-    hindu: 6
+    hindu: 13
     indigenous_australian: 1
     japanese: 12
     mesopotamian: 1
@@ -2023,7 +2027,7 @@ canonical_motifs:
   - motif_id: culture_hero
     label: Culture Hero
     relationship: canonical_group
-    occurrence_count: 234
+    occurrence_count: 241
     tradition_count: 15
     traditions:
       ainu: 5
@@ -2034,7 +2038,7 @@ canonical_motifs:
       finnish_karelian: 41
       greek: 30
       greek_roman: 35
-      hindu: 6
+      hindu: 13
       indigenous_australian: 1
       japanese: 12
       mesopotamian: 1
@@ -2042,7 +2046,7 @@ canonical_motifs:
       persian: 1
       roman: 41
   tradition_count: 15
-  occurrence_count: 234
+  occurrence_count: 241
   mapped_motif_count: 1
 - canonical_motif_id: sacred_twins
   label: Sacred Twins and Sibling Pairs
@@ -2064,7 +2068,7 @@ canonical_motifs:
     finnish_karelian: 3
     greek: 32
     greek_roman: 14
-    hindu: 24
+    hindu: 59
     japanese: 3
     maya_quiche: 2
     mesopotamian: 1
@@ -2074,7 +2078,7 @@ canonical_motifs:
   - motif_id: sibling_pair
     label: Sibling Pair
     relationship: child
-    occurrence_count: 97
+    occurrence_count: 132
     tradition_count: 14
     traditions:
       ainu: 3
@@ -2086,7 +2090,7 @@ canonical_motifs:
       finnish_karelian: 3
       greek: 23
       greek_roman: 9
-      hindu: 21
+      hindu: 56
       japanese: 3
       maya_quiche: 1
       norse: 6
@@ -2107,7 +2111,7 @@ canonical_motifs:
       norse: 2
       roman: 9
   tradition_count: 15
-  occurrence_count: 129
+  occurrence_count: 164
   mapped_motif_count: 2
 - canonical_motif_id: covenant
   label: Covenant and Sacred Bond
@@ -2129,7 +2133,7 @@ canonical_motifs:
     finnish_karelian: 7
     greek: 26
     greek_roman: 1
-    hindu: 8
+    hindu: 22
     islamic: 1
     jewish_christian: 7
     norse: 11
@@ -2140,7 +2144,7 @@ canonical_motifs:
   - motif_id: covenant
     label: Covenant
     relationship: canonical_group
-    occurrence_count: 115
+    occurrence_count: 129
     tradition_count: 15
     traditions:
       buddhist: 1
@@ -2151,7 +2155,7 @@ canonical_motifs:
       finnish_karelian: 7
       greek: 26
       greek_roman: 1
-      hindu: 8
+      hindu: 22
       islamic: 1
       jewish_christian: 6
       norse: 11
@@ -2166,7 +2170,7 @@ canonical_motifs:
     traditions:
       jewish_christian: 1
   tradition_count: 15
-  occurrence_count: 116
+  occurrence_count: 130
   mapped_motif_count: 2
 - canonical_motif_id: sacred_love
   label: Sacred Love and Longing
@@ -2186,35 +2190,17 @@ canonical_motifs:
     finnish_karelian: 30
     greek: 83
     greek_roman: 44
-    hindu: 40
+    hindu: 137
     japanese: 5
     norse: 41
     persian: 3
     roman: 86
     sufi: 8
   mapped_motifs:
-  - motif_id: sacred_marriage
-    label: Sacred Marriage
-    relationship: taxonomy_motif_family
-    occurrence_count: 244
-    tradition_count: 12
-    traditions:
-      ainu: 5
-      celtic_irish: 20
-      celtic_welsh: 9
-      comparative: 21
-      finnish_karelian: 22
-      greek: 46
-      greek_roman: 20
-      hindu: 34
-      japanese: 4
-      norse: 26
-      roman: 30
-      sufi: 7
   - motif_id: stolen_beloved
     label: Stolen Or Lost Beloved
     relationship: taxonomy_motif_family
-    occurrence_count: 214
+    occurrence_count: 306
     tradition_count: 12
     traditions:
       ainu: 4
@@ -2224,11 +2210,29 @@ canonical_motifs:
       finnish_karelian: 8
       greek: 36
       greek_roman: 22
-      hindu: 5
+      hindu: 97
       japanese: 1
       norse: 15
       roman: 56
       sufi: 1
+  - motif_id: sacred_marriage
+    label: Sacred Marriage
+    relationship: taxonomy_motif_family
+    occurrence_count: 249
+    tradition_count: 12
+    traditions:
+      ainu: 5
+      celtic_irish: 20
+      celtic_welsh: 9
+      comparative: 21
+      finnish_karelian: 22
+      greek: 46
+      greek_roman: 20
+      hindu: 39
+      japanese: 4
+      norse: 26
+      roman: 30
+      sufi: 7
   - motif_id: after_death_reunion_of_a_purified_pair
     label: after-death reunion of a purified pair
     relationship: functional_variant
@@ -2279,7 +2283,7 @@ canonical_motifs:
     traditions:
       persian: 1
   tradition_count: 13
-  occurrence_count: 465
+  occurrence_count: 562
   mapped_motif_count: 9
 - canonical_motif_id: sacred_waters
   label: Sacred Waters and Passage Through Water
@@ -2299,7 +2303,7 @@ canonical_motifs:
     finnish_karelian: 9
     greek: 13
     greek_roman: 6
-    hindu: 3
+    hindu: 5
     japanese: 2
     jewish_christian: 1
     norse: 4
@@ -2309,7 +2313,7 @@ canonical_motifs:
   - motif_id: water
     label: perilous sea passage through monstrous waters
     relationship: alias
-    occurrence_count: 77
+    occurrence_count: 79
     tradition_count: 12
     traditions:
       buddhist: 5
@@ -2319,7 +2323,7 @@ canonical_motifs:
       finnish_karelian: 9
       greek: 13
       greek_roman: 6
-      hindu: 3
+      hindu: 5
       japanese: 2
       norse: 4
       roman: 23
@@ -2332,7 +2336,7 @@ canonical_motifs:
     traditions:
       jewish_christian: 1
   tradition_count: 13
-  occurrence_count: 78
+  occurrence_count: 80
   mapped_motif_count: 2
 - canonical_motif_id: afterlife_passage
   label: Afterlife Navigation and Passage
@@ -2352,7 +2356,7 @@ canonical_motifs:
     finnish_karelian: 25
     greek: 73
     greek_roman: 14
-    hindu: 14
+    hindu: 27
     norse: 34
     persian: 1
     roman: 51
@@ -2361,7 +2365,7 @@ canonical_motifs:
   - motif_id: afterlife_journey_map
     label: Afterlife Journey Map
     relationship: taxonomy_motif_family
-    occurrence_count: 275
+    occurrence_count: 288
     tradition_count: 12
     traditions:
       ainu: 4
@@ -2371,7 +2375,7 @@ canonical_motifs:
       finnish_karelian: 25
       greek: 73
       greek_roman: 12
-      hindu: 14
+      hindu: 27
       norse: 34
       persian: 1
       roman: 51
@@ -2398,8 +2402,62 @@ canonical_motifs:
     traditions:
       greek_roman: 1
   tradition_count: 12
-  occurrence_count: 278
+  occurrence_count: 291
   mapped_motif_count: 4
+- canonical_motif_id: sacred_fire
+  label: Sacred Fire and Divine Light
+  description: Fire as divine presence, purifying force, sacrificial medium, or cosmic
+    principle. Includes the burning bush, Agni, sacred hearth fires, and fire as the
+    element that mediates between human and divine.
+  related:
+  - axis_mundi
+  - sacrifice
+  - theophany
+  is_meta_group: false
+  traditions:
+    buddhist: 3
+    celtic_irish: 4
+    comparative: 4
+    finnish_karelian: 6
+    greek: 7
+    greek_roman: 1
+    hindu: 1
+    jewish_christian: 3
+    norse: 6
+    roman: 10
+  mapped_motifs:
+  - motif_id: fire
+    label: funeral fire seen from the departing ship
+    relationship: alias
+    occurrence_count: 42
+    tradition_count: 9
+    traditions:
+      buddhist: 3
+      celtic_irish: 4
+      comparative: 4
+      finnish_karelian: 6
+      greek: 7
+      greek_roman: 1
+      hindu: 1
+      norse: 6
+      roman: 10
+  - motif_id: sacred_fire
+    label: sacred fire
+    relationship: canonical_group
+    occurrence_count: 2
+    tradition_count: 1
+    traditions:
+      jewish_christian: 2
+  - motif_id: cloud_fire_guidance
+    label: cloud fire guidance
+    relationship: child
+    occurrence_count: 1
+    tradition_count: 1
+    traditions:
+      jewish_christian: 1
+  tradition_count: 10
+  occurrence_count: 45
+  mapped_motif_count: 3
 - canonical_motif_id: mother_goddess
   label: Sacred Feminine and Mother Goddess
   description: The divine mother, earth goddess, source-feminine, or nurturing-and-terrible
@@ -2447,58 +2505,6 @@ canonical_motifs:
   tradition_count: 9
   occurrence_count: 80
   mapped_motif_count: 2
-- canonical_motif_id: sacred_fire
-  label: Sacred Fire and Divine Light
-  description: Fire as divine presence, purifying force, sacrificial medium, or cosmic
-    principle. Includes the burning bush, Agni, sacred hearth fires, and fire as the
-    element that mediates between human and divine.
-  related:
-  - axis_mundi
-  - sacrifice
-  - theophany
-  is_meta_group: false
-  traditions:
-    buddhist: 3
-    celtic_irish: 4
-    comparative: 4
-    finnish_karelian: 6
-    greek: 7
-    greek_roman: 1
-    jewish_christian: 3
-    norse: 6
-    roman: 10
-  mapped_motifs:
-  - motif_id: fire
-    label: funeral fire seen from the departing ship
-    relationship: alias
-    occurrence_count: 41
-    tradition_count: 8
-    traditions:
-      buddhist: 3
-      celtic_irish: 4
-      comparative: 4
-      finnish_karelian: 6
-      greek: 7
-      greek_roman: 1
-      norse: 6
-      roman: 10
-  - motif_id: sacred_fire
-    label: sacred fire
-    relationship: canonical_group
-    occurrence_count: 2
-    tradition_count: 1
-    traditions:
-      jewish_christian: 2
-  - motif_id: cloud_fire_guidance
-    label: cloud fire guidance
-    relationship: child
-    occurrence_count: 1
-    tradition_count: 1
-    traditions:
-      jewish_christian: 1
-  tradition_count: 9
-  occurrence_count: 44
-  mapped_motif_count: 3
 - canonical_motif_id: lament_and_mourning
   label: Lament, Mourning, and Tragic Recognition
   description: The expression of grief, loss, and tragic awareness. Includes mourning

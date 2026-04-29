@@ -1,0 +1,477 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l32079-l32195
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XXIV. The Host In Sight. / Canto XXV. The Battle. / Canto XXVIII. Khara
+    Dismounted. / Canto XLIII. The Wondrous Deer.; lines 32079-32195
+  start: '32079'
+  end: '32195'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Rama tells Lakshman that Sita longs for a wondrous, jewel-like deer. He
+    resolves to kill or capture it for its golden hide, while acknowledging Lakshman’s
+    suspicion that the creature may be the demon Maricha in disguise. Rama recalls
+    the demon Vatapi, whose deceptive magic was defeated by Agastya, and says Maricha
+    will likewise die if he defies him. He instructs Lakshman to guard Sita carefully,
+    with Jatayus as an additional protector, while he goes to hunt the deer.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sita is described as eagerly longing for the wondrous deer.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The deer is described with radiant beauty, gold-like markings, jewel-like
+    colors, and a tongue compared to flaming fire.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Rama says he will bring or take the deer and obtain its golden hide for Sita.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Rama acknowledges Lakshman's fear that the bright creature may be Maricha
+    in disguise.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Rama says Maricha has roamed the forest, frightened holy saints, and used
+    wicked art against royal archers.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Rama recalls Vatapi using magic to make saints eat his flesh and then bursting
+    from within them.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Agastya is said to have recognized Vatapi's trick and brought about his ruin.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Rama instructs Lakshman to stand guard over Sita with bow in hand and to suspect
+    danger on every side.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Jatayus is described as an old, faithful, strong bird who will help protect
+    Sita.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: Speaker who resolves to hunt the wondrous deer and instructs Lakshman
+    to guard Sita.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:2
+  name_or_label: Lakshman
+  description: Rama's brother, addressed as guardian of Sita while Rama hunts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:3
+  name_or_label: Sita / Maithil lady
+  description: Rama's consort, described as longing for the lovely deer and to be
+    protected during Rama's absence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: wondrous deer
+  description: A radiant deer of exceptional beauty, desired for its golden hide and
+    suspected to be Maricha in disguise.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Maricha
+  description: A fierce fiend who may be disguised as the deer and who has harmed
+    saints and archers in the forest.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Vatapi
+  description: A demon who used magic to make saints consume his flesh and then burst
+    from within them.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Agastya
+  description: A mighty saint who recognized and defeated Vatapi's trick.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Jatayus
+  description: An old faithful bird, called good, wise, strong, and willing to help
+    protect Sita.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: hunter-speaker
+  assigned_to:
+  - fig:1
+  basis: Rama says he will go through the brake to bring or take the wondrous deer.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: appointed protector
+  assigned_to:
+  - fig:2
+  - fig:8
+  basis: Lakshman is told to guard Sita, and Jatayus is named as a faithful helper
+    in her protection.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:3
+  label: desired-recipient
+  assigned_to:
+  - fig:3
+  basis: Sita longs for the deer, and Rama intends the hide as a prize for her.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: desired quarry or possible disguise
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The deer is the object of the hunt, and Rama says it may be Maricha in disguise.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: demon-slayer by analogy
+  assigned_to:
+  - fig:1
+  basis: Rama says that, as Agastya slew Vatapi, his own hand will lay Maricha low.
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: role:6
+  label: deceptive fiend
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Maricha is described as a cruel forest fiend using wicked art, while Vatapi
+    used magic against saints.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: saint who defeats deception
+  assigned_to:
+  - fig:7
+  basis: Agastya knows Vatapi's wile and checks the giant.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: wondrous golden deer
+  literal_form: Radiant deer with living gold, jewel-like colors, and all-surpassing
+    loveliness.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: golden hide
+  literal_form: The deer's bright and soft skin, sought as a trophy for Sita.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: flaming tongue image
+  literal_form: The deer's crimson tongue is compared to flaming fire and lightning.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bow and shaft
+  literal_form: Rama's hunting weapon and Lakshman's guarded posture with bow in hand.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:5
+  label: guardian bird
+  literal_form: Jatayus, the strong faithful bird who will aid in protecting Sita.
+  associated_figures:
+  - fig:8
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Sita longs for the wondrous deer
+  summary: Rama observes Sita's desire and describes the deer as more beautiful than
+    earthly creatures, with gold and gem-like features.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rama resolves to hunt the deer
+  summary: Rama says the deer must fall so that Sita may have its golden hide, but
+    he also allows that it may be Maricha in disguise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Vatapi and Agastya exemplum
+  summary: Rama recounts Vatapi's magical deception of saints and Agastya's recognition
+    and defeat of him, using it as a precedent for Maricha's expected death.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+- id: scene:4
+  label: Lakshman and Jatayus appointed to guard Sita
+  summary: Rama instructs Lakshman to protect Sita carefully while he hunts, and names
+    Jatayus as a wise and faithful helper.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: enchanted or deceptive animal lure
+  taxonomy_refs:
+  - shapeshifter
+  basis: The radiant deer attracts Sita's longing and Rama's pursuit, while Rama explicitly
+    considers that it may be Maricha in disguise.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The disguise is stated conditionally in this passage; the passage does
+    not itself narrate the later consequences of the hunt.
+- id: motif:2
+  label: hero departs to pursue desired quarry
+  taxonomy_refs:
+  - departure
+  basis: Rama leaves Sita under Lakshman's care while he goes to hunt the wondrous
+    deer for its hide.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: The motif is local to this passage; broader narrative significance is
+    not inferred beyond the provided text.
+- id: motif:3
+  label: deceptive fiend defeated by discerning holy power
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Vatapi's magical deception of saints is defeated when Agastya recognizes
+    his wile, and Rama applies the precedent to Maricha.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+  confidence: medium
+  cautions: The taxonomy fit is approximate because the passage presents Vatapi as
+    a cruel demon rather than a full trickster figure.
+- id: motif:4
+  label: guardians appointed for vulnerable beloved
+  taxonomy_refs: []
+  basis: Rama commands Lakshman to guard Sita and mentions Jatayus as an additional
+    protector while he is away.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: No broader abduction or rescue pattern is extracted because it is not
+    narrated in this passage.
+comparison_claims:
+- id: claim:1
+  claim: 'Rama explicitly likens Maricha''s expected defeat to Vatapi''s defeat by
+    Agastya: a deceptive fiend who challenges a powerful ascetic or heroic figure
+    is destroyed.'
+  claim_level: same_function
+  target: Vatapi exemplum within the passage
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an intra-passage analogy, not evidence by itself for historical
+    contact, common inheritance, or a broader cross-cultural comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 32079-32083
+  quote_or_summary: Rama tells Lakshman that Sita's breast is possessed by eager longing
+    and that the wondrous deer must be won for its beauty.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 32084-32115
+  quote_or_summary: The deer is described as surpassingly lovely, with smooth bright
+    hair, drops of living gold, a crimson tongue like fire and lightning, a shining
+    forehead, and jewel-like colors.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 32116-32145, 32179-32190
+  quote_or_summary: Rama speaks of royal hunting, says this best of deer must fall
+    for its precious spoils, and declares he will bring the hide or trophy back for
+    Sita.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 32146-32150
+  quote_or_summary: Rama says that if Lakshman's fears are true and the bright creature
+    is fierce Maricha in disguise, then Maricha will die by Rama's hand.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 32151-32158
+  quote_or_summary: Maricha is described as a bloody-handed, cruel fiend who has roamed
+    the forest, dismayed holy saints, and brought down royal archers by wicked art.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 32159-32166
+  quote_or_summary: Vatapi used magic to make heedless saints eat his flesh and then
+    burst from within them; he later tried this on Agastya.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 32167-32176
+  quote_or_summary: After the rite, Vatapi would resume his giant form, but Agastya
+    recognized his trick, checked him, and declared his ruin had come.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 32181-32186, 32191-32195
+  quote_or_summary: Rama tells Lakshman to wear his arms, hold his bow, guard the
+    Maithil lady, watch carefully, and suspect foes on every side.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 32191-32195
+  quote_or_summary: Jatayus is called a good, wise, old, faithful, and strong bird
+    who will lend aid in protecting Sita.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 32177-32180
+  quote_or_summary: Rama says that if the giant defies him, he will die like Vatapi,
+    and that Rama will lay Maricha low as Agastya slew his foe.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a single speech with clear figures and actions. Motif assignments
+    involving disguise and taxonomy are partly conditional because Rama frames Maricha's
+    identity as dependent on Lakshman's fears.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. No later events from the Ramayana are inferred.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l32079-l32195
+  passage_sha256=b720d75dff2ada57a21b6901e2e6ce60e971085af3210efc240ee6832c04e309

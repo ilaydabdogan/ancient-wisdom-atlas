@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l29177-l29222
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XVI. Winter. / Canto XVIII. The Mutilation. / Canto XIX. The Rousing
+    Of Khara. / Canto XXI. The Rousing Of Khara.; lines 29177-29222
+  start: '29177'
+  end: '29222'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A sunlike, richly ornamented chariot is prepared for Khara. Dúshan calls
+    the giant host to battle, and the armed monsters leave Janasthán with banners,
+    noise, and many weapons. Khara follows in his chariot, urges greater speed, and
+    advances proudly to slay his foes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A glittering chariot with dappled steeds is made ready by Dúshan’s care.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chariot is described with gold ornament, lazulite, moonstone, bright wheels,
+    decorative panels, embossed auspicious birds, stars, swords, a banner, and tinkling
+    bells.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Dúshan calls the giants to ride forth to the fight.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The host obeys its lord and sallies out from Janasthán with banners, shields,
+    swords, speed, noise, and shouting.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The monsters are armed with many weapons, including mace, spear, battle-axe,
+    quoit, club, bow, sword, scimitar, dart, bolt, bludgeon, lance, and pike.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Khara drives behind the host in his chariot while his driver urges the gold-decked
+    steeds onward.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The movement of the coursers produces a tumultuous sound reaching distant
+    quarters of the sky and intermediate realms.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Khara’s pride rises, and he advances, described as terrible as Death, intending
+    to slay his foes.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Khara orders greater speed in a thundering voice compared to a cloud hailing
+    stones.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Khara
+  description: A lord and warrior who sees the host march, follows in his chariot,
+    urges speed, and presses onward to slay his foes.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Dúshan
+  description: The one by whose care Khara’s chariot is made ready and who calls the
+    giants to ride forth to fight.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: giants / monsters / host
+  description: A mighty armed host that obeys its lord and departs from Janasthán
+    for battle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: driver
+  description: The driver of Khara’s chariot urges the gold-decked steeds onward according
+    to his master’s will.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: foes
+  description: Unnamed opponents whom Khara intends to slay.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: battle lord
+  assigned_to:
+  - fig:1
+  basis: The host obeys its lord, and Khara follows the host in his chariot toward
+    battle.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: battle summoner
+  assigned_to:
+  - fig:2
+  basis: Dúshan has the chariot readied and cries for the giants to ride forth to
+    fight.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: attacking warrior
+  assigned_to:
+  - fig:1
+  basis: Khara presses onward to slay his foes and commands greater speed.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:4
+  label: armed battle host
+  assigned_to:
+  - fig:3
+  basis: The giants or monsters leave Janasthán armed with numerous weapons.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: charioteer
+  assigned_to:
+  - fig:4
+  basis: The driver urges the gold-decked steeds in accordance with his master’s will.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: intended victims or enemies
+  assigned_to:
+  - fig:5
+  basis: The foes are named only as those whom Khara advances to slay.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: ornamented war chariot
+  literal_form: A glittering chariot with dappled steeds, golden ornament, lazulite
+    pole, gold wheels, moonstone, panels, banner, swords, and bells.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: Meru peak comparison
+  literal_form: The chariot is compared in height to a peak rent from Meru.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: battle banners and weapons
+  literal_form: Waving banners, shields, swords, mace, spear, battle-axe, quoit, club,
+    bow, scimitar, dart, bolt, bludgeon, lance, and pike.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Death comparison
+  literal_form: Khara is described as terrible as Death while he advances to slay
+    his foes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: storm-voice comparison
+  literal_form: Khara’s voice is compared to a cloud hailing down stones.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Khara’s chariot prepared
+  summary: Dúshan has a radiant, richly decorated chariot with dappled steeds ready
+    for Khara.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Host summoned and armed
+  summary: Dúshan calls the giants to battle; the host obeys, departs Janasthán, and
+    carries many weapons.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Khara follows and accelerates the attack
+  summary: Khara follows the marching host in his chariot; the driver speeds the horses,
+    the noise spreads across the sky, and Khara proudly commands still greater speed
+    as he advances to kill his foes.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: martial departure from a stronghold
+  taxonomy_refs:
+  - departure
+  basis: The armed monster host sallies out from Janasthán at its lord’s command and
+    proceeds toward battle.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is specifically a battle mobilization; the broader taxonomy
+    label 'departure' is general and not uniquely diagnostic.
+- id: motif:2
+  label: war leader in a radiant chariot
+  taxonomy_refs: []
+  basis: Khara’s richly ornamented, sunlike chariot is prepared, and he follows his
+    host toward battle in it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this martial chariot motif.
+- id: motif:3
+  label: demonic or monstrous host marching to battle
+  taxonomy_refs: []
+  basis: The passage identifies the fighters as giants or monsters who ride forth
+    armed with many weapons and loud tumult.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage gives no additional mythic genealogy or broader comparative
+    context for the host.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 29177-29180
+  quote_or_summary: "“His chariot glittering like the sun,” yoked with dappled steeds
+    and made ready by Dúshan’s care."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short quotation used.
+- id: ev:2
+  type: summary
+  locator: 29181-29190
+  quote_or_summary: The chariot is compared to a peak from Meru and is adorned with
+    gold, lazulite, moonstone, panels bearing fish, flowers, trees, rocks, auspicious
+    birds, stars, swords, banner, and bells.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: quote
+  locator: 29191-29194
+  quote_or_summary: 'Khara sees the ready host, and Dúshan cries: “Forth to the fight,
+    ye giants, ride.”'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 29195-29198
+  quote_or_summary: Banners wave, shields and swords flash, and the host obeys its
+    lord, leaving Janasthán with speed, noise, and shouting.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: 29199-29206
+  quote_or_summary: The monsters go from Janasthán armed with mace, spear, battle-axe,
+    quoit, club, bow, sword, scimitar, dart, bolt, bludgeon, lance, and pike, intent
+    on Khara’s will.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: 29207-29210
+  quote_or_summary: Khara sees the march and drives his chariot not far behind the
+    host while the driver urges the gold-decked steeds according to his master’s will.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: 29211-29214
+  quote_or_summary: The coursers spring forth, and a tumultuous murmur rings through
+    distant quarters of the sky and intermediate realms.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: quote
+  locator: 29215-29218
+  quote_or_summary: Khara’s pride rises while, “terrible as Death,” he presses onward
+    to slay his foes.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short quotation used.
+- id: ev:9
+  type: summary
+  locator: 29219-29222
+  quote_or_summary: Khara cries “More swiftly yet” in thundering tones like an overhead
+    cloud hailing down stones.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized with brief quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is a localized martial mobilization and contains limited comparative
+    framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or historical comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l29177-l29222
+  passage_sha256=38bf836fb07e02a032ba7b54f8d5530b1b9653783322d4ca6adbe6b1db3ed871

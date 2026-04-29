@@ -1,0 +1,488 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l39454-l39589
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto VI. The Tokens. / Canto XI. Dundubhi. / Canto XII. The Palm Trees.
+    / Canto XIV. The Challenge.; lines 39454-39589
+  start: '39454'
+  end: '39589'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Báli comes out from the city to confront Sugríva. The two exchange threats
+    and fight with blows, stones, boughs, and trees. Sugríva uproots a Sál tree and
+    strikes Báli, but later weakens. Ráma sees Sugríva failing, sets an arrow to his
+    bow, and shoots Báli in the breast. Báli falls, still radiant with his golden
+    chain, a divine gift from Sákra that preserves his life and beauty; the shaft
+    is said to light his way to Brahmá’s worlds. Ráma and Lakshmaṇ approach the fallen
+    Báli, who begins to address Ráma.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Báli leaves the city breathing fiercely and looks around for his foe.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sugríva stands ready to meet Báli and is described as golden-hued and fire-like
+    in splendor.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Báli and Sugríva face one another and exchange spoken threats before fighting.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The combatants fight with blows, feet, arms, knees, nails, stones, boughs,
+    and trees; their bodies become stained with blood.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Sugríva uproots a Sál tree and strikes Báli on the head, chest, and throat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ráma sees Sugríva weakening and places an arrow on his bow.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Ráma’s arrow flies from the bow and pierces Báli’s breast.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Báli falls to the ground after being struck by the shaft.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Báli wears a golden chain set with gems, described as a gift of Sákra, which
+    preserves his life and beauty.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The shaft that struck Báli is said to bring supreme bliss and light the way
+    to Brahmá’s worlds.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Ráma and Lakshmaṇ approach the fallen Báli, and Báli begins to address Ráma
+    with sharp words.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Báli
+  description: A long-armed Vánar chieftain, monarch, and lord obeyed by Vánar tribes;
+    he wears a golden chain and is struck down by Ráma’s arrow.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Sugríva
+  description: A fierce, golden-hued warrior who faces Báli, fights him, and later
+    weakens in combat.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Ráma
+  description: Raghu’s son and Sugríva’s friend; he sees Sugríva failing, bends his
+    bow, and shoots Báli with an arrow.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:4
+  name_or_label: Lakshmaṇ
+  description: He approaches the fallen Báli together with Ráma.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Sákra
+  description: Named as the giver of Báli’s golden chain.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: duel combatant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Báli and Sugríva confront one another, threaten one another, and fight directly.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: wounded fallen monarch
+  assigned_to:
+  - fig:1
+  basis: Báli is described as the lord whom Vánar tribes obeyed and as fallen after
+    being pierced by the arrow.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:3
+  label: weakening ally
+  assigned_to:
+  - fig:2
+  basis: Ráma sees Sugríva quail and his strength fail.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: intervening archer
+  assigned_to:
+  - fig:3
+  basis: Ráma lays an arrow on the bow and shoots Báli.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: bearer of divine gift
+  assigned_to:
+  - fig:1
+  basis: Báli’s golden chain is described as a choicest gift of Sákra.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: approaching witness
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Ráma and Lakshmaṇ draw nearer to view the fallen foe.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: divine donor
+  assigned_to:
+  - fig:5
+  basis: Sákra is identified as the giver of the golden chain.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Sál tree used as weapon
+  literal_form: A Sál tree uprooted from the earth and used to strike Báli.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: golden chain
+  literal_form: A gold chain set with rich gems, described as Sákra’s gift and as
+    preserving Báli’s life, strength, beauty, and radiance.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Ráma’s arrow or shaft
+  literal_form: An arrow shot from Ráma’s bow that pierces Báli’s breast and remains
+    quivering there.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: serpent imagery
+  literal_form: Báli’s breathing is likened to serpent panting, and the arrow is likened
+    to a serpent’s fang.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:5
+  label: fire and lightning radiance
+  literal_form: Sugríva is compared to a resplendent fire, and the arrow is compared
+    to red lightning in flash and flame.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Báli confronts Sugríva
+  summary: Báli leaves the city, sees Sugríva waiting, and both warriors prepare for
+    combat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Exchange of threats
+  summary: Báli and Sugríva each declare that his arm or hand will crush the other’s
+    life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hand-to-hand battle and tree blow
+  summary: The two fight violently with limbs, stones, boughs, and trees; Sugríva
+    uproots a Sál tree and strikes Báli.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ráma shoots Báli
+  summary: Seeing Sugríva weaken, Ráma sets an arrow to his bow; the arrow flies,
+    terrifies animals, and pierces Báli’s breast.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Báli fallen but radiant
+  summary: Báli lies on the ground with his golden chain still preserving life and
+    radiance; the shaft is described as opening the way to Brahmá’s worlds.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Ráma and Lakshmaṇ approach
+  summary: Ráma and Lakshmaṇ come near the fallen Báli, who prepares to speak to Ráma.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: deadly intervention by allied archer in a duel
+  taxonomy_refs: []
+  basis: During the duel, Ráma sees his ally Sugríva failing and shoots Báli with
+    an arrow.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not state whether Ráma is hidden or provide the broader
+    ethical context; the motif is limited to the intervention described here.
+- id: motif:2
+  label: divine or exceptional weapon opens an afterlife path
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The shaft that strikes Báli is said to bring bliss and light the way to Brahmá’s
+    worlds.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives a brief afterlife statement rather than a detailed journey
+    map.
+- id: motif:3
+  label: divine gift preserving vitality after mortal injury
+  taxonomy_refs: []
+  basis: Báli’s gem-set golden chain, a gift of Sákra, is said to preserve his life
+    and keep decay from stealing strength and beauty.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage identifies the chain as a gift and protective object but does
+    not narrate the original giving scene.
+- id: motif:4
+  label: uprooted tree as heroic battle weapon
+  taxonomy_refs: []
+  basis: Sugríva uproots a Sál tree and uses it to strike Báli during combat.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a combat motif using a tree, not necessarily a sacred-tree or
+    axis motif.
+- id: motif:5
+  label: cosmic and apocalyptic similes intensifying battle
+  taxonomy_refs: []
+  basis: The passage compares the combat to sun and moon meeting in battle, the arrow
+    to a world-ending discus, and the noise to a day of doom.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: These are poetic comparisons inside the passage, not necessarily independent
+    narrative events.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly likens Ráma’s arrow to a tremendous discus hurled
+    by Yáma to end the world.
+  claim_level: visual_similarity
+  target: Yáma’s world-ending discus
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a poetic simile in the passage, not evidence of a separate
+    shared narrative.
+- id: claim:2
+  claim: The passage explicitly compares the clash of Báli and Sugríva to the sun
+    and moon encountering one another in battle in the sky.
+  claim_level: visual_similarity
+  target: cosmic combat image of sun and moon
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is metaphorical and does not make the fighters celestial
+    beings.
+- id: claim:3
+  claim: The fallen Báli is compared to the standard or flag of Indra being pulled
+    earthward.
+  claim_level: visual_similarity
+  target: Indra’s flag or standard cast down
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage uses this as an image for falling; it does not narrate
+    an Indra myth episode.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 39454-39469
+  quote_or_summary: Báli leaves the city with fierce serpent-like panting, looks for
+    his foe, and sees golden-hued Sugríva standing ready like a resplendent fire.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 39470-39491
+  quote_or_summary: Báli and Sugríva face each other; Báli threatens that his clenched
+    hand will crash down on Sugríva’s brow, and Sugríva replies that his own arm will
+    crush the life from Báli’s body.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 39492-39519
+  quote_or_summary: Báli fights with furious blows; Sugríva, blood-stained, uproots
+    a Sál tree and strikes Báli; the two fight with limbs, nails, stones, boughs,
+    and trees and are compared to sun and moon or thunder-clouds in conflict.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 39520-39545
+  quote_or_summary: Ráma sees Sugríva weaken, sets an arrow on his bow, draws the
+    bow like an orb, and the arrow flies forth, compared to Fate’s discus of Yáma
+    and to a serpent’s fang and red lightning.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 39546-39555
+  quote_or_summary: The arrow pierces Báli’s breast; the mighty Vánar reels and falls,
+    compared to Indra’s flag being pulled earthward.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 39556-39577
+  quote_or_summary: Báli lies on the ground like a blasted tree or fallen divine standard;
+    his gem-set golden chain, a gift of Sákra, preserves his life, strength, beauty,
+    and radiance.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 39578-39584
+  quote_or_summary: The unfailing shaft from Ráma’s bow is said to bring supreme bliss
+    and light the way to Brahmá’s imperishable worlds.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 39585-39589
+  quote_or_summary: Ráma and Lakshmaṇ draw nearer to view the fallen Báli, who is
+    described as Mahendra’s son and a monarch with a golden chain; Báli then begins
+    to address Ráma.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main actions, figures, and images are explicit in the passage. Motif
+    taxonomy mapping is cautious because several elements are poetic similes rather
+    than independent narrative episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. External Ramayana context, including broader kinship and plot details, was not added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l39454-l39589
+  passage_sha256=1a227b8950526e731a45d06c9648bae41e7f2bd67eaa55c72a39a7d7c1e06164

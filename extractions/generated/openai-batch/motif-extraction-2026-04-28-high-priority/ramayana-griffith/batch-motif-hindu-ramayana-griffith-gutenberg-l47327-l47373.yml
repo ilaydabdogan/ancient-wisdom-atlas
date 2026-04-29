@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l47327-l47373
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XLI. The Ruin Of The Grove. / Canto XLII. The Giants Roused. / Canto
+    XLIII. The Ruin Of The Temple. / Canto XLV. The Seven Defeated.; lines 47327-47373
+  start: '47327'
+  end: '47373'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: Forth went the seven in brave attire...
+  summary: Seven armed chiefs drive through the ruined grove against Hanuman, rain
+    arrows on him, and are defeated when he evades their attack, roars, and kills
+    or routs his foes. The aftermath is a battlefield strewn with overturned horses,
+    chariots, flags, and blood.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Seven chiefs go out in martial array with massive bows, gold-worked banners,
+    chariots, and noble horses.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chiefs drive through the ruined grove toward Hanuman and shoot a shower
+    of deadly arrows.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Hanuman is described as a Vánar whose form is nearly hidden by the arrow storm.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hanuman avoids the arrows by quick turns and leaps, rising in the air and
+    eluding rushing chariots.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hanuman raises a loud roar that frightens the army.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hanuman kills foes with his hand, feet, nails, fists, legs, and chest; some
+    fall senseless from his roar.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The surviving remnant flees from the grove in fear.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The ground is covered with overturned horses, chariots, and flags, and blood
+    flows along paths and roads.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hanuman
+  description: The mighty Vánar attacked by the seven chiefs and their forces; he
+    evades arrows, roars, kills foes, and routs the remnant.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the seven chiefs
+  description: Seven impetuous martial chiefs with massive bows, gold banners, chariots,
+    and horses who attack Hanuman.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: army, foemen, and remnant
+  description: The broader hostile force around the chiefs; it is frightened by Hanuman’s
+    roar, partly slain, and partly routed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: mighty Vánar warrior
+  assigned_to:
+  - fig:1
+  basis: The passage calls Hanuman a mighty Vánar and describes him fighting, evading
+    arrows, roaring, and killing foes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: attacking archer chiefs
+  assigned_to:
+  - fig:2
+  basis: The seven chiefs carry bows, ride chariots, and rain arrows on Hanuman.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: routed hostile force
+  assigned_to:
+  - fig:3
+  basis: The army fears Hanuman’s roar; some enemies are slain, and the remnant flees.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: seven warriors
+  literal_form: the seven chiefs named in the canto heading and opening lines
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire-like brilliance
+  literal_form: the chiefs are described as being in glory brilliant as fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: arrow storm
+  literal_form: a shower of deadly arrows that nearly hides Hanuman’s form
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: mountain veiled by clouds
+  literal_form: Hanuman in the arrow storm is compared to the Mountains’ King half
+    veiled by rainy clouds
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: warrior roar
+  literal_form: Hanuman’s roar and yell, which bring fear and cause some foes to fall
+    senseless
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: rivers of blood
+  literal_form: red blood flowing in rivers from slaughtered fiends over path and
+    road
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Seven chiefs advance through the ruined grove
+  summary: Seven well-armed chiefs with banners, chariots, horses, and bows drive
+    through the ruined grove toward Hanuman.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrow storm against Hanuman
+  summary: The attacking chiefs fire many arrows, so that Hanuman’s form is nearly
+    hidden; the passage compares him to a mountain partly covered by rainy clouds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hanuman evades and counterattacks
+  summary: Hanuman turns, leaps, rises in the air, eludes the chariots, roars, and
+    then kills foes by bodily force.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Rout and battlefield aftermath
+  summary: The surviving enemies flee, and the ground is left strewn with overturned
+    horses, chariots, flags, and flowing blood.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: single warrior defeats multiple armed chiefs
+  taxonomy_refs: []
+  basis: Hanuman faces seven armed chiefs and their forces, evades their arrows, kills
+    many foes, and causes the remnant to flee.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents a battle episode only; broader narrative role is
+    not established from this excerpt alone.
+- id: motif:2
+  label: storm of missiles nearly conceals the hero
+  taxonomy_refs: []
+  basis: The chiefs’ arrows form a shower that nearly hides Hanuman, with a simile
+    of a mountain veiled by clouds.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an image within a combat scene, not a full independent mythic
+    episode.
+- id: motif:3
+  label: terrifying roar as weapon of battle
+  taxonomy_refs: []
+  basis: Hanuman’s roar spreads fear through the army, and some foes fall senseless
+    and die from it.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not frame the roar as magical; it is described as an
+    overpowering battle action.
+- id: motif:4
+  label: battlefield devastation and disorder
+  taxonomy_refs:
+  - chaos
+  basis: The scene ends with overturned horses, chariots, flags, fleeing survivors,
+    and blood flowing through paths and roads.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage describes martial devastation
+    rather than cosmic chaos.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 47327-47342
+  quote_or_summary: The canto names the defeat of the seven; seven martial chiefs
+    with massive bows, gold banners, chariots, and horses set out and drive through
+    the ruined grove toward Hanuman.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 47341-47346
+  quote_or_summary: The chiefs rain a deadly shower of arrows; Hanuman is nearly hidden,
+    compared to the Mountains’ King partly veiled by rainy clouds.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 47347-47354
+  quote_or_summary: Hanuman avoids the arrows by quick turns and leaps, rises in the
+    air, and eludes the rushing chariots, moving among the archer foes like wind among
+    clouds.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 47355-47368
+  quote_or_summary: Hanuman roars, frightens the army, rushes on the foe, kills enemies
+    with his body and nails, and the remnant flees from the grove.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 47369-47373
+  quote_or_summary: The earth is strewn with overturned horses, chariots, and flags,
+    while blood from slaughtered fiends flows along paths and roads.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are candidate pattern descriptions and require human review, especially the broad
+    chaos taxonomy reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l47327-l47373
+  passage_sha256=7d2641f9086a42c8e4d33c3a05f4d16b6567d9a9ca1cfa27358f2fc0bfd04b2e

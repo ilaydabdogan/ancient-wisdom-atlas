@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l37467-l37606
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LI. The Combat. / Canto LX. Lakshman Reproved. / Canto LXX. Kabandha.
+    / BOOK IV.; lines 37467-37606
+  start: '37467'
+  end: '37606'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Sugriva, fearing that two armed strangers may be agents of his enemy Bali,
+    instructs his envoy to approach them, observe their appearance and speech, and
+    learn their purpose. Hanuman, the Wind-God's son, leaves Rishyamuka, assumes a
+    wandering mendicant's disguise, bows to the two heroes, praises their appearance
+    and weapons, questions why they have come through the forest near Pampa, and identifies
+    himself as Sugriva's minister seeking a friendly alliance.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sugriva sees two stranger warriors equipped with swords, arrows, and bows
+    and fears they may have been sent by Bali.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sugriva instructs his envoy to observe the strangers' appearance, speech,
+    mood, and purpose before speaking as his friend and envoy.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Wind-God's son obeys Sugriva and goes to the wood where Raghu's son and
+    Lakshman stand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hanuman sets aside his Vanar form and wears the disguise of a wandering mendicant.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hanuman bows before the two heroes and addresses them with courteous praise
+    and questions.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hanuman asks why the two armed ascetic-looking youths have come to the lonely
+    forest area near Pampa's waters.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Hanuman says Sugriva is an exiled Vanar lord who wishes to enter a friendly
+    league with the two youths.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Hanuman identifies himself as a Vanar, one of Sugriva's chief lords, and the
+    Wind-God's son.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Sugriva
+  description: A Vanar lord, described as virtuous, exiled from his royal state, fearful
+    of Bali, and seeking friendly alliance with the strangers.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Hanuman
+  description: The Wind-God's son, a Vanar and chief lord of Sugriva, sent as envoy;
+    he approaches in mendicant disguise and speaks courteously to the two heroes.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Raghu's son
+  description: One of the two armed heroes in the forest; Hanuman describes him as
+    ascetic-looking, godlike, strong, and bearing a bow.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Lakshman
+  description: One of the two armed heroes in the forest; he stands with Raghu's son
+    and is addressed by Hanuman among the heroic pair.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Bali
+  description: Sugriva's foe, suspected by Sugriva of possibly sending the two warriors.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: exiled Vanar lord
+  assigned_to:
+  - fig:1
+  basis: Hanuman states that Sugriva is foremost of the Vanars and an exile from his
+    royal state.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: fearful sender of envoy
+  assigned_to:
+  - fig:1
+  basis: Sugriva fears the armed strangers may serve Bali and orders their purpose
+    to be learned.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: envoy
+  assigned_to:
+  - fig:2
+  basis: Hanuman is sent by Sugriva and explicitly says he has come on the king's
+    behalf.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: disguised mendicant
+  assigned_to:
+  - fig:2
+  basis: The passage says Hanuman laid aside his Vanar form and wore a wandering mendicant's
+    disguise.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Wind-God's son
+  assigned_to:
+  - fig:2
+  basis: The narrator and Hanuman identify him as the Wind-God's son.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:6
+  label: armed stranger hero
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Sugriva and Hanuman describe the two as stranger warriors or heroic youths
+    bearing bows, shafts, swords, and quivers.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:7
+  label: enemy suspected of plotting
+  assigned_to:
+  - fig:5
+  basis: Sugriva names Bali as his foe and fears he has sent the strangers.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: mountain refuge
+  literal_form: Rishyamuka's peak or hill
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: forest water setting
+  literal_form: Pampa's gentle waters
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: serpentine weapon imagery
+  literal_form: Arrows compared to fiery snakes and swords compared to serpents casting
+    sloughs
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: mendicant disguise
+  literal_form: wandering mendicant's disguise or beggar's weed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: bows, arrows, and swords
+  literal_form: swords, shafts, bows, quivers, and gold-inlaid swords borne by the
+    two heroes
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sugriva instructs the envoy
+  summary: Sugriva, afraid the two armed strangers may be agents of Bali, orders his
+    envoy to examine their appearance, speech, and intent and to speak courteously
+    if they seem friendly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hanuman approaches in disguise
+  summary: The Wind-God's son leaves Rishyamuka, reaches the wood where Raghu's son
+    and Lakshman stand, and assumes the guise of a wandering mendicant.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Hanuman questions the heroes
+  summary: Hanuman bows to the two heroes, praises their ascetic appearance, strength,
+    beauty, and weapons, asks why they have come to the forest near Pampa, and declares
+    Sugriva's desire for alliance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: disguised envoy tests unknown strangers
+  taxonomy_refs: []
+  basis: Sugriva sends Hanuman to learn the strangers' purpose; Hanuman approaches
+    in mendicant disguise, courteously praises and questions them before revealing
+    his mission.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level action pattern rather than a supplied taxonomy
+    motif family.
+- id: motif:2
+  label: exiled ruler seeks alliance
+  taxonomy_refs: []
+  basis: Hanuman states that Sugriva is exiled from his royal state and wishes to
+    join in friendly league with the two youths.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage establishes the proposed alliance but not its outcome.
+- id: motif:3
+  label: change of form or disguise
+  taxonomy_refs:
+  - shapeshifter
+  basis: The narrator says Hanuman laid aside his Vanar form and wore a wandering
+    mendicant's disguise.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The wording supports disguise or altered appearance; whether it is full
+    shapeshifting requires broader context not included here.
+- id: motif:4
+  label: armed heroes in ascetic guise
+  taxonomy_refs: []
+  basis: Hanuman repeatedly describes the two as ascetic-looking or hermit-clad while
+    also noting their bows, quivers, arrows, and swords.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No broader taxonomic motif is assigned from the available list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37467-37500
+  quote_or_summary: Sugriva fears two stranger warriors with swords, arrows, and bows
+    may have been sent by Bali; he orders their speech, form, mood, and purpose to
+    be tested.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 37501-37508
+  quote_or_summary: The Wind-God's son obeys and goes from the shade to the wood where
+    Raghu's son and Lakshman stand.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 37513-37518
+  quote_or_summary: '"Had laid his Vánar form apart, / And wore ... / A wandering
+    mendicant''s disguise."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 37519-37586
+  quote_or_summary: Hanuman bows, praises the two as godlike ascetic youths, asks
+    why they have come near Pampa's waters, and describes their bows, arrows, quivers,
+    and swords with serpent imagery.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 37587-37602
+  quote_or_summary: Hanuman says Sugriva, an exiled Vanar lord, seeks friendly league
+    with them; he identifies himself as Hanuman, a chief lord, Vanar, and the Wind-God's
+    son, come in beggar's weed from Rishyamuka.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Figures, actions, and settings are explicit in the supplied passage. Motif
+    taxonomy mapping is limited; the shapeshifter reference is cautious because the
+    passage may describe disguise rather than transformation. No comparison claims
+    were added because the passage itself does not explicitly compare to another tradition
+    or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Used only the supplied passage and metadata; line subdivisions within the provided range are approximate based on the excerpt order.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l37467-l37606
+  passage_sha256=858b0c6f2cd7ba6ba5c4f0bf2748e4b04730e36e71114504055fc26177bde221

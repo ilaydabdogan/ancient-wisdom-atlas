@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l37784-l37809
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LI. The Combat. / Canto LX. Lakshman Reproved. / Canto LXX. Kabandha.
+    / BOOK IV.; lines 37784-37809
+  start: '37784'
+  end: '37809'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Hanuman urges Rama and Lakshman to go to Sugriva. Lakshman interprets Hanuman’s
+    hopeful words as reliable. Hanuman casts off his mendicant disguise, resumes his
+    Vanar form, carries the two sons of Raghu on his back, and goes to find Sugriva.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chief of the Vanar race speaks gently and asks Raghu’s son to hasten to
+    Sugriva’s side.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Lakshman honors the speaker’s sweet words and tells Raghu’s son that their
+    task may be considered already done.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lakshman says the Vanar chief is the son of the god who rules the wind and
+    has declared that Sugriva would be assisted in his need.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Lakshman says the Vanar chief’s joyful expression and valiant character make
+    his hopeful words trustworthy.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hanuman casts off his mendicant disguise and resumes his Vanar form.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hanuman is identified as wise and as son of the god of wind and storm.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Hanuman places Raghu’s heroic sons on his back and proceeds rapidly to find
+    the sovereign of the Vanars.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hanuman
+  description: Wise Vanar chief, son of the god of wind and storm, who casts off a
+    mendicant disguise, resumes Vanar form, and carries Raghu’s sons toward Sugriva.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Lakshman
+  description: One of Raghu’s sons; he honors Hanuman’s words and tells Rama that
+    Hanuman’s promise concerning Sugriva is trustworthy.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Raghu’s son
+  description: Addressee asked to hasten to Sugriva’s side; in the passage also referred
+    to as one of Raghu’s heroic sons carried by Hanuman.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: Sugriva
+  description: The sovereign of the Vanar kind, whose side Hanuman urges Raghu’s son
+    to approach and whom Hanuman goes to find.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:5
+  name_or_label: God who rules the wind
+  description: Divine father of the Vanar chief Hanuman.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: messenger-guide
+  assigned_to:
+  - fig:1
+  basis: Hanuman speaks to the brothers, urges them toward Sugriva, then carries them
+    to find the Vanar sovereign.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: disguised figure
+  assigned_to:
+  - fig:1
+  basis: Hanuman casts off his mendicant disguise and resumes his Vanar form.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: wind-god’s son
+  assigned_to:
+  - fig:1
+  basis: The passage calls the Vanar chief son of the god who rules the wind and son
+    of the god of wind and storm.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: interpreter of trustworthiness
+  assigned_to:
+  - fig:2
+  basis: Lakshman evaluates Hanuman’s hopeful words as reliable and not vain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: heroic sons of Raghu
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Hanuman places Raghu’s heroic sons on his back.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: Vanar sovereign to be approached
+  assigned_to:
+  - fig:4
+  basis: Hanuman urges travel to Sugriva’s side and goes to find the sovereign of
+    the Vanar kind.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:7
+  label: divine parent
+  assigned_to:
+  - fig:5
+  basis: The Vanar chief is described as son of the god who rules the wind.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Invitation to Sugriva
+  summary: Hanuman, chief of the Vanars, speaks graciously and urges Raghu’s son to
+    hasten to Sugriva.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lakshman’s assurance
+  summary: Lakshman honors Hanuman’s words and tells Raghu’s son that Hanuman’s promise
+    of Sugriva’s assistance should be trusted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Revelation and transport
+  summary: Hanuman abandons his mendicant disguise, resumes his Vanar form, places
+    the two sons of Raghu on his back, and goes rapidly to find Sugriva.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: disguised helper reveals true form
+  taxonomy_refs:
+  - shapeshifter
+  basis: Hanuman casts off a mendicant disguise, resumes his Vanar form, and serves
+    as helper and guide to the heroes.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage shows disguise and form resumption, but does not describe
+    a full transformation beyond removing disguise.
+- id: motif:2
+  label: heroic brothers aided by divine-born animal ally
+  taxonomy_refs:
+  - sibling_pair
+  - divine_parent_child
+  basis: Raghu’s heroic sons are carried by Hanuman, a Vanar chief identified as son
+    of the wind god.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage identifies the brothers collectively as Raghu’s sons and Hanuman
+    as divine-born; broader narrative roles are not inferred beyond the excerpt.
+- id: motif:3
+  label: guide conveys heroes to an ally king
+  taxonomy_refs:
+  - departure
+  basis: Hanuman urges movement to Sugriva and carries Raghu’s sons on his back to
+    find the Vanar sovereign.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The movement is local within the narrative and not enough by itself to
+    establish a full quest-stage departure pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 37784-37787
+  quote_or_summary: The Vanar chief speaks gently and tells Raghu’s son to hasten
+    to Sugriva’s side.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: 37788-37796
+  quote_or_summary: Lakshman honors the speaker’s words and says the Vanar chief,
+    son of the wind-ruling god, has declared that Sugriva will be assisted in his
+    need.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: 37797-37801
+  quote_or_summary: Lakshman notes the chief’s joyful expression and says one so valiant
+    would not cheer them with empty hope.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: 37802-37805
+  quote_or_summary: Hanuman the wise casts off his mendicant disguise and resumes
+    his Vanar form; he is described as son of the god of wind and storm.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: 37806-37809
+  quote_or_summary: Hanuman places Raghu’s heroic sons on his back and rapidly goes
+    to find the sovereign of the Vanars.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif assignment is
+    cautious because the excerpt is brief and many broader Ramayana contexts are outside
+    the provided text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison beyond available taxonomy-style motif labeling.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l37784-l37809
+  passage_sha256=0e33bf51c6e4849b65bbfde8ec5680ef1a73bdfbab77471dd9bf5a49ff921a4a

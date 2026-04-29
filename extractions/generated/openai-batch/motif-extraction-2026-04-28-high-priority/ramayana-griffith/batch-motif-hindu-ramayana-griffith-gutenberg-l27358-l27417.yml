@@ -1,0 +1,446 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l27358-l27417
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: BOOK III. / Canto I. The Hermitage. / Canto V. Sarabhanga. / Canto VIII.
+    The Hermitage.; lines 27358-27417
+  start: '27358'
+  end: '27417'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Distressed hermits tell Rama that shapeshifting forest fiends attack them
+    during sacred fire rites, torment vow-observing ascetics, and kill some for food.
+    The hermits say they could destroy the fiends through penance power but refrain
+    from using curses so as not to waste their accumulated merit. Rama promises aid,
+    declares that he must keep his oath to the Brahmans even above life and family,
+    thanks his wife for her affectionate counsel, and leads the way toward holy groves
+    with his bow.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hermits say fiends of the wood can assume varied shapes and continue to afflict
+    them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The attacks are said to occur when sacred rites of fire are due and when the
+    moons are full or new.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fiends are described as devourers of bleeding flesh who torment hermits
+    intent on vows.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hermits seek refuge in Rama and identify Rama with Lakshman as their guardian
+    and deliverance.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The hermits say they possess powers of penance that could destroy the night-rovers,
+    but they restrain themselves to avoid wasting merit gained by years of toil.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Rama states that he has promised aid and must adhere to his word because he
+    holds truth dear.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Rama says he might endure the loss of Lakshman, life, and his wife, but not
+    the denial of his promise or the breaking of his oath to Brahmans.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Rama tells his wife that her words came from affection, thanks her, and says
+    loved ones are those who teach.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After speaking to his wife, the bow-armed chieftain leads the way toward holy
+    groves.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: A prince and bow-armed chieftain addressed by the hermits as their
+    refuge; he promises to protect them and refuses to break his oath.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Hermits, Brahmans, saints
+  description: A trembling, distressed group described as pure Brahmans and hermits
+    intent on vows, practicing penance and sacred fire rites while suffering attacks.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Fiends of the wood / giants / rovers of the night
+  description: Forest beings who wear varied shapes, devour bleeding flesh, attack
+    sacred rites, torment hermits, and kill saints for food.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Lakshman
+  description: Named with Rama as a guardian of the hermits and named by Rama among
+    those whose loss he might endure rather than break his promise.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: Maithil monarch's child / Rama's wife
+  description: Rama's wife, addressed by him as dear and fair-faced; her prior speech
+    is described by Rama as affectionate counsel.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: oath-bound protector
+  assigned_to:
+  - fig:1
+  basis: Rama promises aid, says he must adhere to his word, and says he cannot break
+    his oath to Brahmans.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:2
+  label: armed leader
+  assigned_to:
+  - fig:1
+  basis: The passage calls him a bow-armed chieftain who leads the way to holy groves.
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: petitioners seeking refuge
+  assigned_to:
+  - fig:2
+  basis: The hermits cry out for help in distress and name Rama as their surest refuge.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: ascetic practitioners restraining destructive power
+  assigned_to:
+  - fig:2
+  basis: They say they are armed with penance powers but restrain the curse to preserve
+    accumulated merit.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: shapeshifting aggressors
+  assigned_to:
+  - fig:3
+  basis: They are described as forest fiends who wear varied shapes, attack rites,
+    torment hermits, and devour flesh.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: companion guardian
+  assigned_to:
+  - fig:4
+  basis: The hermits say Rama with Lakshman is now their guardian.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: beloved counselor
+  assigned_to:
+  - fig:5
+  basis: Rama says her words came from affection, thanks her speech, and addresses
+    her as his dear wife.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: sacred fire rites
+  literal_form: rites of fire
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: full and new moons
+  literal_form: changing moons, full or new
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: withheld curse
+  literal_form: restrained curse and unused penance power
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: binding promise
+  literal_form: promise, word, oath sworn to Brahmans
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: bow
+  literal_form: bow carried by the chieftain
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: holy groves
+  literal_form: holy groves beyond them
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Hermits petition Rama against forest fiends
+  summary: A distressed group of hermits tells Rama that shapeshifting fiends of the
+    wood attack them, especially during sacred fire rites, and they ask him to save
+    them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Ascetic restraint and appeal to protection
+  summary: The hermits explain that although their penance power could destroy the
+    night-rovers, they do not use curses because they do not wish to waste the merit
+    gained by years of toil.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Rama affirms his promise
+  summary: Rama says he promised aid, must keep his word, and would rather endure
+    the loss of Lakshman, life, and his wife than break his oath to Brahmans.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Rama addresses his wife and proceeds
+  summary: Rama thanks his wife for affectionate counsel and then leads the way toward
+    holy groves as a bow-armed chieftain.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: shapeshifting forest demons afflict ascetics
+  taxonomy_refs:
+  - shapeshifter
+  basis: The antagonists are forest fiends who wear varied shapes and torment hermits.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not describe individual transformations; it reports their
+    ability to assume varied shapes.
+- id: motif:2
+  label: sacred fire rites attacked by hostile beings
+  taxonomy_refs:
+  - sacrifice
+  basis: The hermits say the fiends attack when sacred rites of fire are due, including
+    at full and new moons.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage mentions sacred fire rites but does not explicitly describe
+    a sacrificial offering in this excerpt.
+- id: motif:3
+  label: petition to a hero for protection
+  taxonomy_refs: []
+  basis: Distressed hermits cry to Rama for help, call him their surest refuge, and
+    identify him with Lakshman as their guardian.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: No broader comparative taxonomy reference is assigned from the supplied
+    list.
+- id: motif:4
+  label: oath-bound defense of the vulnerable
+  taxonomy_refs:
+  - covenant
+  basis: Rama says he has promised aid and must not break the oath sworn to Brahmans,
+    even above life and family ties.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage describes an oath or
+    promise rather than a formal covenant.
+- id: motif:5
+  label: ascetic power restrained to preserve merit
+  taxonomy_refs: []
+  basis: The hermits say they could destroy the aggressors with penance power but
+    restrain the curse to avoid nullifying accumulated merit.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this ascetic-restraint
+    pattern.
+- id: motif:6
+  label: guided departure toward a holy place
+  taxonomy_refs:
+  - departure
+  basis: After speaking, the bow-armed chieftain leads the way to holy groves beyond
+    them.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage gives a brief movement toward holy groves, not a full departure
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 27366-27371
+  quote_or_summary: "“Fiends of the wood, who wear at will / Each varied shape, afflict
+    us still. / To thee in our distress we fly: / O help us, Ráma, or we die.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 27372-27379
+  quote_or_summary: The hermits say that when sacred fire rites are due and when moons
+    are full or new, flesh-devouring fiends attack with power and torment hermits
+    intent on vows.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 27380-27391
+  quote_or_summary: "“We look around for help and see / Our surest refuge, Prince,
+    in thee” and “thou / With Lakshmaṇ art our guardian now.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 27382-27389
+  quote_or_summary: The hermits say their penance powers could destroy the night-rovers,
+    but they refrain from using a curse because they do not want to bring to nothing
+    the merit gained by long toil, even though saints are slain for food.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 27392-27397
+  quote_or_summary: Rama says he promised ready aid to the praying hermits and, because
+    he holds truth dear, must still adhere to his word.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 27398-27405
+  quote_or_summary: "“I might endure to be / Deprived of Lakshmaṇ, life, and thee,
+    / But ne’er deny my promise, ne’er / To Bráhmans break the oath I sware.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: summary
+  locator: lines 27406-27413
+  quote_or_summary: Rama says his wife's words came from affection, thanks her gentle
+    speech, and says those one loves are those one teaches.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 27414-27417
+  quote_or_summary: Rama speaks mildly to the Maithil monarch's child, his wife, and
+    then the bow-armed chieftain leads the way toward holy groves beyond them.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif taxonomy
+    assignments are cautious where the available taxonomy only approximately matches
+    the passage. No comparison claims were added because the passage itself does not
+    explicitly compare this episode to another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Uses only the supplied passage and metadata; no external identifications beyond passage labels were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l27358-l27417
+  passage_sha256=2523c8a4c422908ee12805986940c4a77668258fc72279ad8bd306e1e706cce3

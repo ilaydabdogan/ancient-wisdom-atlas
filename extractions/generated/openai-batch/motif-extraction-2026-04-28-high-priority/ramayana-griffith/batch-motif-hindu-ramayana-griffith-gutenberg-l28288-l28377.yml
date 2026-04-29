@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l28288-l28377
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto V. Sarabhanga. / Canto VIII. The Hermitage. / Canto XI. Agastya. /
+    Canto XII. The Heavenly Bow.; lines 28288-28377
+  start: '28288'
+  end: '28377'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Rama admires a pleasant riverside woodland by the Godavari and asks Lakshman
+    to build a cot there. Lakshman constructs a leafy hermitage, bathes in the river,
+    gathers lilies, fruit, and berries, performs sacrifice, and shows the dwelling
+    to Rama. Rama embraces and praises Lakshman, then remains content there with Lakshman
+    and Sita.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting is a shaded glade with flowering trees, a lilied lake, the Godavari
+    river, birds, deer, hills, rocks, and caves.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rama asks Lakshman to raise a pleasant cot for them at the site.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lakshman obeys Rama and builds a cottage with hardened earth walls, bamboo
+    pillars, beams, boughs, cord, holy grass, reeds, and leaves.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After finishing the cottage, Lakshman goes to the Godavari, bathes, plucks
+    lilies, gathers fruit and berries, and performs sacrifice.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Rama and Sita view the completed hermitage, and Rama embraces Lakshman and
+    praises his work and filial virtue.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Rama, Lakshman, and Sita stay content in the fruitful shaded place.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Rama / Raghu’s son
+  description: Prince who chooses the site, asks Lakshman to build, views the hermitage,
+    embraces and praises Lakshman, and stays there with Sita and Lakshman.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Lakshman
+  description: Rama’s beloved brother who obeys the request, builds the cottage, bathes,
+    gathers offerings or provisions, performs sacrifice, and shows the dwelling to
+    Rama.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Sita / Maithil spouse
+  description: Rama’s Maithil spouse who views the completed home with Rama and stays
+    with him and Lakshman.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Agastya
+  description: A prior speaker whose description of the charms of the place is said
+    by Rama to be true.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: dwelling chooser
+  assigned_to:
+  - fig:1
+  basis: Rama identifies the attractive glade and asks that a cot be raised there.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: obedient builder
+  assigned_to:
+  - fig:2
+  basis: Lakshman hears and obeys Rama’s word by constructing the cottage.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: ritual performer
+  assigned_to:
+  - fig:2
+  basis: After bathing and gathering lilies, fruit, and berries, Lakshman performs
+    sacrifice.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: forest hermitage resident
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: Rama remains at the site with Lakshman and Sita beneath sheltering boughs.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: prior guide or describer
+  assigned_to:
+  - fig:4
+  basis: Rama says Agastya’s words about the place have proven true.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: river and lake water
+  literal_form: Godavari river, lilied lake, and bathing in the river
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: flowering woodland
+  literal_form: flowery trees, sal, palms, date-tree, mango, asoka, ketaka, champac,
+    creepers, and sheltering boughs
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:3
+  label: hills and mountains
+  literal_form: tall hills and mountains marked with gold, silver, and copper-like
+    colors
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: rock and cave
+  literal_form: rock and cave beneath blossoming trees
+  associated_figures: []
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: leafy hermitage
+  literal_form: cottage or cot made with earth walls, bamboo pillars, boughs, holy
+    grass, reeds, and leaves
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: sacrifice
+  literal_form: Lakshman duly pays sacrifice and seeks divine aid
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Selection of the riverside glade
+  summary: Rama points out the beauty of the shaded glade, lake, Godavari, animals,
+    hills, trees, rocks, and caves, and asks Lakshman to build a cot there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Construction and consecration of the cottage
+  summary: Lakshman builds the woodland cottage from earth, bamboo, boughs, grass,
+    reeds, and leaves, then bathes, gathers lilies, fruit, and berries, performs sacrifice,
+    and presents it to Rama.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Approval and residence in the hermitage
+  summary: Rama and Sita view the hermitage; Rama embraces and praises Lakshman, and
+    the three remain content in the shaded, fruitful place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: forest hermitage established in an auspicious natural setting
+  taxonomy_refs: []
+  basis: The passage centers on choosing a beautiful riverside woodland and building
+    a leafy dwelling where Rama, Sita, and Lakshman can stay.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: No specific taxonomy motif family for hermitage establishment is supplied;
+    label is descriptive.
+- id: motif:2
+  label: sacrifice performed before dwelling in a new abode
+  taxonomy_refs:
+  - sacrifice
+  basis: After completing the cottage, Lakshman bathes, gathers natural items, performs
+    sacrifice, and then shows the abode to Rama.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states sacrifice and divine aid but gives few ritual details.
+- id: motif:3
+  label: obedient younger brother serves and is blessed by elder brother
+  taxonomy_refs: []
+  basis: Lakshman obeys Rama by building the cottage; Rama embraces him and praises
+    his wisdom, gratitude, and resemblance to their father.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a relational pattern in the passage rather than a supplied taxonomy
+    category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 28288-28323
+  quote_or_summary: Rama describes a lovely glade with flowering trees, a lilied lake,
+    the Godavari, swans, geese, deer, peacocks, hills, rocks, caves, mountains, creepers,
+    and many named trees and flowers; he says Agastya’s description is true.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 28288-28291
+  quote_or_summary: Rama asks beloved Lakshman to raise a pleasant cot to lodge them
+    in the shaded glade.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 28332-28350
+  quote_or_summary: Lakshman obeys Rama and constructs a cottage with earth walls,
+    bamboo pillars, interwoven beams and laths, Sami boughs, cord, holy grass, reeds,
+    and leaves.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 28351-28358
+  quote_or_summary: When the work is complete, Lakshman goes to the Godavari, bathes,
+    plucks lilies, brings fruit and berries, performs sacrifice, asks the gods to
+    aid their hopes, and shows the cot to Rama.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 28359-28372
+  quote_or_summary: Rama and Sita view the leafy hermitage; Rama is deeply pleased,
+    embraces Lakshman, and praises his noble work, wisdom, gratitude, duty, and likeness
+    to their father.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 28373-28377
+  quote_or_summary: Rama stays content in the fruitful, shaded place with Lakshman
+    and his Maithil spouse, compared to a god in a heavenly mansion.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are mostly descriptive
+    because the available taxonomy has no exact hermitage-establishment category;
+    no comparison claims are made beyond the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only provided passage text and metadata were used. Taxonomy references were limited to supplied symbol and motif family lists.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l28288-l28377
+  passage_sha256=d02ba8fecb65e3f8d4abdbddc8bf52247df4ae96ea5a8f036ef51196be53b870

@@ -1,0 +1,507 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l38276-l38433
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LXX. Kabandha. / BOOK IV. / Canto V. The League. / Canto VI. The Tokens.;
+    lines 38276-38433
+  start: '38276'
+  end: '38433'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Sugriva tells Rama that Bali deprived him of kingdom, wife, and friends
+    and seeks his death. Rama asks Sugriva to explain the origin of the fraternal
+    conflict so he may judge the enemy's strength and restore Sugriva's former state.
+    Sugriva recounts that Bali was made Vanar king after their father's death; later
+    the demon Mayavi challenged Bali at night and fled into a grass-covered cave.
+    Bali entered the cave after making Sugriva wait at its mouth. After a year, Sugriva
+    heard demonic roaring and saw frothy blood issue from the cave, concluded Bali
+    was dead, sealed the cave with a great rock, performed rites, and returned to
+    Kishkindha, where the lords made him king. Bali returned after killing the demon,
+    became enraged at finding Sugriva on the throne, killed the lords who crowned
+    him, and refused Sugriva's humble attempts at reconciliation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sugriva says Bali oppressed him, dispossessed him of power and kingship, took
+    his consort, imprisoned friends, and sought to kill him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sugriva identifies Hanuman and a small faithful band as the remaining friends
+    who protect and accompany him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Rama asks Sugriva to recount the source of the hatred between the brothers
+    so that he can assess the enemy and restore Sugriva's former state.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After their father's death, Bali, as eldest son, was named king by the lords,
+    and Sugriva served his rule faithfully.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The demon Mayavi came to the gates of Kishkindha at night and challenged Bali
+    to fight.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Mayavi fled into a grass-covered cave, and Bali ordered Sugriva to stay at
+    the mouth while Bali entered the dark recess.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Sugriva waited at the cave mouth for a year, then saw frothy blood emerge
+    and heard demons roaring, but heard no victorious shout from Bali.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Believing Bali dead, Sugriva sealed the cave with a large rock, offered rites
+    to Bali's shade, and returned to Kishkindha.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: When Bali returned alive after killing the demon, he found Sugriva ruling,
+    became enraged, killed the lords who had crowned Sugriva, and rejected Sugriva's
+    submission.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Sugriva
+  description: A Vanar prince who says he was dispossessed by his brother Bali and
+    later tells Rama the cause of their conflict.
+  role_refs:
+  - role:1
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Bali
+  description: Sugriva's elder brother, first made king of the Vanars; he enters the
+    cave in pursuit of Mayavi and later returns alive and enraged.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:9
+- id: fig:3
+  name_or_label: Rama
+  description: Prince addressed by Sugriva; he asks to hear the cause of the feud
+    and speaks of restoring Sugriva's former state.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Hanuman
+  description: Named by Sugriva as one of the friends left to him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Sugriva's faithful band
+  description: A band of companions who guard their lord, rest when he rests, and
+    go where he goes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Mayavi
+  description: A demon who challenged Bali at night and fled into a cave.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Vanar lords
+  description: Lords who made Bali king after his father's death and later placed
+    Sugriva on Bali's throne when Bali was believed dead.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: fig:8
+  name_or_label: Bali's wives
+  description: Wives who tried, with Sugriva, to detain Bali from the fight with Mayavi.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Sugriva's consort
+  description: Sugriva says Bali tore away the consort dearer than his life.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: dispossessed exile
+  assigned_to:
+  - fig:1
+  basis: Sugriva says he lost kingship, royal state, consort, and friends through
+    Bali's oppression.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: oppressing elder brother
+  assigned_to:
+  - fig:2
+  basis: Bali is described by Sugriva as brother, conqueror, and deadly foe who deprived
+    him of rule and kinship goods.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ally and prospective restorer
+  assigned_to:
+  - fig:3
+  basis: Rama asks for the feud's cause so he may weigh the enemy and restore Sugriva's
+    former state.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: loyal protectors
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Hanuman and the band are named as Sugriva's remaining friends who guard and
+    accompany him.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: combatant enemy
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: Mayavi challenges Bali; Bali pursues Mayavi into the cave to fight him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: interim king
+  assigned_to:
+  - fig:1
+  basis: After believing Bali dead, Sugriva returns to Kishkindha and is placed on
+    Bali's throne by the lords.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:7
+  label: king-makers
+  assigned_to:
+  - fig:7
+  basis: The lords first name Bali king and later place Sugriva on the throne.
+  evidence_refs:
+  - ev:4
+  - ev:9
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: A mighty grass-covered cave with dark recesses into which Mayavi flees
+    and Bali enters.
+  associated_figures:
+  - fig:2
+  - fig:6
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: frothy blood from cave
+  literal_form: A flood or stream of froth and blood rolls from the cavern while demonic
+    roaring is heard.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: sealing rock
+  literal_form: A block of shattered rock, huge as a hill, used by Sugriva to close
+    the cavern.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: throne
+  literal_form: Bali's throne in Kishkindha, on which Sugriva is placed when Bali
+    is believed dead.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: bow and arrow
+  literal_form: Rama refers to stringing his bow and letting his arrow fly against
+    Sugriva's foe.
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sugriva describes his losses under Bali
+  summary: Sugriva tells Rama that Bali deprived him of rule, consort, and friends,
+    and that only Hanuman and a faithful band remain with him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rama asks for the origin of the feud
+  summary: Rama asks Sugriva to explain the source of the brothers' strife so he may
+    judge the adversary and restore Sugriva's former condition.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Bali's original kingship
+  summary: Sugriva recounts that after their father's death Bali, the elder son, was
+    chosen king, while Sugriva served him loyally.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Mayavi's challenge and cave pursuit
+  summary: Mayavi challenges Bali at night, flees when pursued, and enters a grass-covered
+    cave; Bali commands Sugriva to wait outside while he goes in.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Sugriva waits, sees blood, and seals the cave
+  summary: After waiting a year, Sugriva sees frothy blood and hears demons, assumes
+    Bali has died, closes the cave with a huge rock, performs offerings, and returns
+    to Kishkindha.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Bali returns and rejects Sugriva
+  summary: Bali returns after killing the demon, finds Sugriva ruling, kills the lords
+    who crowned him, and refuses Sugriva's humble submission.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: stolen beloved
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Sugriva says Bali tore away his consort, who was dearer than life to him.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states the loss but does not narrate the taking in detail.
+- id: motif:2
+  label: royal dispossession and restoration sought
+  taxonomy_refs:
+  - royal_legitimacy
+  - return
+  basis: Sugriva describes being deprived of kingship, and Rama speaks of restoring
+    the state Sugriva had before.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: Restoration is promised or intended in this passage, not yet accomplished.
+- id: motif:3
+  label: brotherly rivalry over kingship
+  taxonomy_refs:
+  - sibling_pair
+  - royal_legitimacy
+  basis: Sugriva and Bali are brothers; Bali is the elder king, Sugriva later occupies
+    the throne when Bali is presumed dead, and Bali returns hostile.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage frames the rivalry through Sugriva's account only.
+- id: motif:4
+  label: cave ordeal and apparent death
+  taxonomy_refs:
+  - cave
+  - hero_descent
+  basis: Bali enters a dark cave to fight Mayavi; Sugriva waits outside and infers
+    Bali's death from blood and demonic sounds.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not describe Bali's experience inside the cave directly,
+    so 'descent' is inferred only from the entry into the cave.
+- id: motif:5
+  label: mistaken death and return of the absent ruler
+  taxonomy_refs:
+  - return
+  basis: Sugriva believes Bali dead, performs rites, and is enthroned; Bali later
+    returns alive after killing the demon.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The return creates conflict rather than reconciliation in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 38276-38312, Sugriva's complaint
+  quote_or_summary: Sugriva says Bali oppressed him, dispossessed him of kingship,
+    took his consort, chained friends, and seeks his death.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 38276-38312, Sugriva's remaining allies
+  quote_or_summary: Sugriva says Hanuman and a faithful band are his only remaining
+    friends and guard him in his wandering.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 38313-38333, Rama's reply
+  quote_or_summary: Rama asks Sugriva to tell the cause of the fraternal hatred so
+    he can weigh the foe's strength and restore Sugriva's former state; he mentions
+    his bow and arrow against the enemy.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: Canto IX, opening of Sugriva's story
+  quote_or_summary: Sugriva says Bali, as the eldest son, was made king by the lords
+    after their father's death, and Sugriva served his government faithfully.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Canto IX, Mayavi's challenge
+  quote_or_summary: Mayavi, a demon, comes to Kishkindha's gates at night and challenges
+    Bali; Sugriva and Bali's wives try to stop Bali from going to the fight.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: Canto IX, pursuit to the cave
+  quote_or_summary: Mayavi flees, Bali and Sugriva pursue him by moonlight, and Mayavi
+    enters a grass-covered cave; Bali tells Sugriva to remain at the cavern mouth
+    while he explores the dark recess.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: Canto IX, Sugriva's vigil
+  quote_or_summary: Sugriva waits at the cave mouth for a year, then sees a stream
+    of froth and blood and hears demons roaring, while hearing no victorious shout
+    from Bali.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: Canto IX, sealing the cavern and return
+  quote_or_summary: Believing Bali slain, Sugriva closes the cave with a huge rock,
+    gives offerings to Bali's shade, and returns to Kishkindha, where the lords eventually
+    place him on Bali's throne.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: Canto IX, Bali's return
+  quote_or_summary: Bali returns after killing the demon, sees Sugriva ruling in his
+    place, grows enraged, kills the lords who made Sugriva king, and rejects Sugriva's
+    humble reconciliation.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels use available
+    taxonomy where directly supported; comparison claims are omitted because the passage
+    does not itself compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line subranges in evidence are descriptive within the supplied canonical range rather than independently verified against the repository file.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l38276-l38433
+  passage_sha256=4c761238948e819a57f7b489c38c34212c0c498d4feab197562b09020c6758b9

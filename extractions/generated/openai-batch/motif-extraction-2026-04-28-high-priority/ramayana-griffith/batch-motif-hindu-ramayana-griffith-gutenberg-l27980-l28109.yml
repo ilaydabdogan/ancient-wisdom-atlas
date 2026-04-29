@@ -1,0 +1,453 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l27980-l28109
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto V. Sarabhanga. / Canto VIII. The Hermitage. / Canto XI. Agastya. /
+    Canto XII. The Heavenly Bow.; lines 27980-28109
+  start: '27980'
+  end: '28109'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Agastya praises Sita's faithful endurance in following Rama through the
+    forest, receives Rama's request for a suitable dwelling place, and directs Rama,
+    Lakshman, and Sita to Panchavati near the Godavari. The brothers depart armed,
+    and on the road Rama encounters a mighty vulture who identifies himself as an
+    old friend of Rama's father.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Agastya says Sita has been wearied by wandering through the rough forest and
+    needs rest.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Agastya praises Sita as faithfully following Rama through woodland hardship
+    and compares her to chaste Arundhati.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Rama asks Agastya to show him ground with thick trees and springs where he
+    may build a hermit cell.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Agastya directs Rama to Panchavati, describing it as a place with deer, fruit,
+    berries, water-brooks, and shade for a cottage.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Agastya says Panchavati is near the pure stream of the Godavari and gives
+    route directions through woods, a fig-tree, a sloping meadow, and a hill.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Agastya says Rama has the strength to protect trusting anchorites from his
+    new home.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Rama and Lakshman bow to Agastya, take their bows and quivers, and depart
+    with Sita toward Panchavati.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: On the way to Panchavati, Rama sees a mighty vulture of unmatched size and
+    strength.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The vulture tells Rama and Lakshman that he was an old friend of their royal
+    father.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Rama asks the vulture to declare his name and lineage, and the vulture begins
+    to disclose his name, pedigree, and an account of how things arose.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: Son of Raghu, addressed as a prince and sinless chieftain; seeks a
+    hermitage site and travels to Panchavati.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Lakshman
+  description: Rama's brother, praised for faithful zeal and accompanying Rama and
+    Sita to honor Agastya and go to Panchavati.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Sita
+  description: Janak's gentle child and Maithil lady; weary from forest travel and
+    praised as a faithful wife.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Agastya
+  description: Holy hermit and great master whose glory is compared to kindled fire;
+    advises Rama and directs the party to Panchavati.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Jatayus
+  description: A mighty vulture of unparalleled size and strength who says he was
+    loved by Rama's royal father of old.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: requester of hermitage site
+  assigned_to:
+  - fig:1
+  basis: Rama asks Agastya to show him a place with trees and springs where he can
+    build a hermit cell.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: protector of anchorites
+  assigned_to:
+  - fig:1
+  basis: Agastya states that Rama has the strength to defend hermits who depend on
+    him.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: faithful brother companion
+  assigned_to:
+  - fig:2
+  basis: Lakshman is praised for faithful zeal and travels armed beside Rama toward
+    Panchavati.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: faithful spouse in exile
+  assigned_to:
+  - fig:3
+  basis: Agastya says Sita's wifely love led her to follow Rama through the forest
+    and praises her as a model of faithful love.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: forest exile obedient to paternal command
+  assigned_to:
+  - fig:1
+  basis: Agastya tells Rama to build a cottage and rest at Panchavati while remaining
+    obedient to his father's sentence.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: sage guide
+  assigned_to:
+  - fig:4
+  basis: Agastya answers Rama's request by identifying Panchavati and giving route
+    directions to the site.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: paternal ally in vulture form
+  assigned_to:
+  - fig:5
+  basis: The vulture identifies himself as a friend whom Rama's royal father loved
+    of old.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: forest grove of Panchavati
+  literal_form: Panchavati, a grove described with deer, berries, fruit, water-brooks,
+    shade, and ceaseless bloom.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: trees and woods
+  literal_form: Thick trees, Madhuka woods, a northern fig-tree, and shaded woodland.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: water near the hermitage
+  literal_form: Springs, water-brooks, and the pure stream of the Godavari near Panchavati.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: kindled fire image
+  literal_form: Agastya's glory is said to shine like kindled fire.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: warrior bows and quivers
+  literal_form: Rama and Lakshman grasp mighty bows and clasp quivers to their sides
+    before departing.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: mighty vulture
+  literal_form: A vulture of size and strength unparalleled encountered on the way
+    to Panchavati.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Agastya praises Sita and receives Rama's request
+  summary: Agastya praises Sita's endurance and fidelity, invites the party to dwell
+    in blessed shade, and Rama asks for a suitable place to build a hermit cell.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Agastya directs the exiles to Panchavati
+  summary: Agastya identifies Panchavati as a fair, fertile, watery, shaded place
+    near the Godavari where Sita will be happy and Rama can protect anchorites.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Departure for Panchavati
+  summary: Rama and Lakshman bow to Agastya, take their weapons, and set out with
+    Sita along the road he showed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Encounter with Jatayus
+  summary: On the road to Panchavati, Rama and Lakshman encounter a giant vulture
+    who identifies himself as an old friend of their father; Rama asks his name and
+    lineage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sage directs hero to forest refuge
+  taxonomy_refs:
+  - wisdom
+  basis: Agastya uses his knowledge to advise Rama where to build a hermitage and
+    gives detailed directions to Panchavati.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents practical and sacred guidance, but it does not explicitly
+    frame the advice as a formal wisdom test or revelation.
+- id: motif:2
+  label: exiled royal household establishes a forest dwelling
+  taxonomy_refs:
+  - departure
+  basis: Rama, Lakshman, and Sita are directed to leave Agastya's grove, build a cottage
+    at Panchavati, and dwell there in obedience to Rama's father's sentence.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The broader exile context is only alluded to in this passage through the
+    father's sentence and forest residence.
+- id: motif:3
+  label: hero as protector of ascetics
+  taxonomy_refs:
+  - culture_hero
+  basis: Agastya states that Rama has the strength to defend the hermits who depend
+    on him from his new home.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The protective role is stated prospectively; no protection action occurs
+    within this passage.
+- id: motif:4
+  label: faithful spouse follows beloved into hardship
+  taxonomy_refs:
+  - divine_beloved
+  basis: Agastya says Sita's wifely love led her to follow Rama through difficult
+    forest paths and praises her as a paragon of faithful love.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The taxonomy reference is approximate; the passage emphasizes marital
+    fidelity rather than a clearly divine-beloved pattern.
+- id: motif:5
+  label: animal ally reveals paternal friendship
+  taxonomy_refs: []
+  basis: The giant vulture encountered on the road seeks trust by saying he was an
+    old friend of Rama's father.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage introduces the ally but ends before his full pedigree and
+    later function are given.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 27980-28010
+  quote_or_summary: Agastya welcomes Rama, Lakshman, and Sita; says Sita is weary
+    from forest travel; and praises her faithful love, comparing her to Arundhati.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 28011-28025
+  quote_or_summary: Rama reverently hears Agastya, praises the master's favor, and
+    asks for a place with thick trees and springs where he may build a hermit cell;
+    Agastya's glory is compared to kindled fire.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 28026-28060
+  quote_or_summary: Agastya directs Rama to Panchavati, four leagues away, describing
+    deer, berries, fruit, water-brooks, shade, Godavari's pure stream, and abundant
+    plants and blossoms.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 28050-28054
+  quote_or_summary: Agastya says Rama, true to virtue's path, has the power to protect
+    trusting anchorites and defend the hermits who depend on him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 28055-28076
+  quote_or_summary: Agastya gives directions through Madhuka woods, a fig-tree, a
+    meadow, and a hill; Rama and Lakshman bow, take bow and quiver, and depart with
+    Sita toward Panchavati.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 28077-28094
+  quote_or_summary: On the way to Panchavati, Rama sees a giant vulture of unmatched
+    size and strength; the bird gently says he is an old friend of their royal father.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 28095-28109
+  quote_or_summary: Rama venerates his father's friend and asks the bird to state
+    his name and race; the bird begins to declare his name, pedigree, and an account
+    of how all things arose.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are cautious and mostly passage-local; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used; no external context or unsupported taxonomy references were added.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l27980-l28109
+  passage_sha256=40db4379660d0e0d5f132ed2261c810eaedbf3092d579fceaf281d0e0d7a1b5a

@@ -1,0 +1,591 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l23351-l23518
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LXXXII. The Departure. / Canto LXXXIII. The Journey Begun. / Canto
+    LXXXV. Guha And Bharat. / Canto XC. The Hermitage.; lines 23351-23518
+  start: '23351'
+  end: '23518'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Rama and Sita pass time together in the forest: he marks her brow with
+    red mineral, decorates her hair with blossoms, comforts her when she fears a monkey,
+    and plays with her among blooming Asoka trees. They return to their retreat, where
+    Lakshmana has prepared slain deer. Sita serves food to Rama and Lakshmana. When
+    a crow repeatedly attacks and distresses Sita, Rama launches a charm-charged arrow
+    that pursues the bird through the three worlds. The crow submits at Rama''s feet,
+    asks pardon, and is spared on condition that the arrow take one eye.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Rama places his finger on a rock with red ore and paints a holy mark over
+    Sita's eyes and brow.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rama picks blossoms from a Kesara tree and decorates Sita's hair.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Sita sees a nearby monkey in the forest, clings to Rama in fear, and Rama
+    embraces and consoles her while scaring the monkey away.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The red mark from Sita's brow is impressed on Rama's chest during their close
+    embrace, and Sita laughs when she sees it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Sita asks Rama to go to the blooming Asoka trees; the pair roam there, weave
+    crowns and chains of flowers, and put flower coronets on each other.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Lakshmana meets Rama and Sita at the retreat and shows the work he has done,
+    including ten black-deer slain and placed in a heap to dry.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Sita sets food for living things, serves meat and honey to the brothers, and
+    eats after them.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Rama tells Sita to guard drying venison from crows; one bold crow repeatedly
+    attacks her with beak, wing, and claw.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Rama speaks a mystic charm over an arrow and launches it at the crow; the
+    arrow follows the crow through the three worlds.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The crow returns, bows at Rama's feet, speaks in human accents, and asks Rama
+    to spare its life.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Rama says he must protect a suppliant but the dart cannot fly in vain, so
+    the crow must yield part of its body to live.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The crow offers one eye; Rama directs the shaft to strike the eye, and the
+    crow departs single-eyed.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: Hero, husband of Sita, brother of Lakshmana; he adorns and protects
+    Sita, charms and launches the arrow, and grants conditional mercy to the crow.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+  - ev:10
+  - ev:11
+- id: fig:2
+  name_or_label: Sita / Janak's daughter / Videhan lady
+  description: Rama's spouse; she is adorned by Rama, fears the monkey, requests the
+    Asoka grove, serves food, and is attacked by the crow.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:11
+- id: fig:3
+  name_or_label: Lakshmana / Sumitra's son
+  description: Rama's brother; he prepares work at the retreat, including slain deer
+    set to dry, and eats the food Sita serves.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Monkey
+  description: A monkey or monkey-leader appears near Sita in the forest and flees
+    after Rama scares it away.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Crow / bird of air
+  description: A bold crow attacks Sita, ignores Rama's rebuke, is pursued by Rama's
+    enchanted arrow, submits at Rama's feet, speaks, and loses one eye in exchange
+    for life.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+roles:
+- id: role:1
+  label: beloved husband and adorns beloved
+  assigned_to:
+  - fig:1
+  basis: Rama embraces Sita, marks her brow with mineral dye, and adorns her hair
+    with blossoms.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: protector of distressed spouse
+  assigned_to:
+  - fig:1
+  basis: Rama consoles Sita when she fears the monkey and later rebukes and punishes
+    the crow that attacks her.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:3
+  label: beloved spouse
+  assigned_to:
+  - fig:2
+  basis: Sita is described as Rama's Maithil spouse and is embraced, adorned, and
+    accompanied by him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:4
+  label: loyal brother and provider of forest labor
+  assigned_to:
+  - fig:3
+  basis: Lakshmana meets them by brotherly affection and shows the day's work, including
+    slain deer prepared for drying.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: guardian of suppliant justice
+  assigned_to:
+  - fig:1
+  basis: Rama states that he must protect the suppliant crow, while still requiring
+    the arrow to take a bodily part.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: food server in forest household
+  assigned_to:
+  - fig:2
+  basis: Sita places food for living things and serves meat and honey to the brothers
+    before eating herself.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: frightening forest animal
+  assigned_to:
+  - fig:4
+  basis: The monkey's presence frightens Sita, and Rama scares it away.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: animal aggressor
+  assigned_to:
+  - fig:5
+  basis: The crow repeatedly attacks Sita with beak, wing, and claw despite Rama's
+    rebuke.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: suppliant offender
+  assigned_to:
+  - fig:5
+  basis: The crow returns helpless, prostrates at Rama's feet, begs for life, and
+    accepts the loss of an eye.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+symbols:
+- id: sym:1
+  label: red mineral holy mark
+  literal_form: Sanguine ore from a rock, used as a holy mark on Sita's brow and later
+    impressed on Rama's chest.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: flower adornment
+  literal_form: Kesara blossoms and Asoka flowers woven into hair, crowns, chains,
+    and coronets.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: Asoka grove
+  literal_form: A clump or grove of blooming Asoka trees where Rama and Sita roam
+    and play.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: charm-charged arrow
+  literal_form: A shaft over which Rama speaks a mystic charm; it pursues the crow
+    through the three worlds and must not fly in vain.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:10
+  - ev:11
+- id: sym:5
+  label: forfeited eye
+  literal_form: One eye yielded by the crow so it may live after seeking Rama's protection.
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: sym:6
+  label: purifying water
+  literal_form: Water used by Rama and Lakshmana to purify their lips after eating.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Adornment on the rocky seat
+  summary: Rama and Sita rest together; Rama uses red mineral from a rock to mark
+    Sita and decorates her with Kesara blossoms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sita frightened by the monkey
+  summary: Sita clings to Rama when she sees a monkey; Rama embraces and consoles
+    her, scares the monkey away, and the mark from her brow transfers to his chest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Play in the Asoka grove
+  summary: Sita asks to visit the Asoka blossoms; Rama takes her there, and they sport
+    among the trees, weaving flower garlands and coronets for each other.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Return to the retreat and meal
+  summary: Lakshmana shows the day's work, including slain deer prepared for drying;
+    Sita serves food to living things and to the brothers, then eats.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: The crow attacks Sita
+  summary: While Sita guards drying venison, a bold crow harasses her repeatedly;
+    Rama first laughs, then rebukes the crow, and finally becomes angry when it attacks
+    again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: The inescapable arrow and conditional mercy
+  summary: Rama launches a charm-charged arrow that pursues the crow through the three
+    worlds. The crow submits and begs for mercy; Rama protects the suppliant but requires
+    the crow to surrender one eye so the arrow is not wasted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: beloved couple adorned with forest flowers
+  taxonomy_refs:
+  - divine_beloved
+  basis: Rama and Sita are depicted as affectionate lovers; he marks and garlands
+    her, and they exchange flower coronets in the Asoka grove.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a conjugal and aesthetic scene; the taxonomy assignment
+    is interpretive and should be reviewed.
+- id: motif:2
+  label: forest animal frightens beloved and is driven off by hero
+  taxonomy_refs: []
+  basis: Sita fears a monkey, clings to Rama, and Rama consoles her and scares the
+    animal away.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a local action pattern rather than a clearly named cross-cultural
+    motif in the supplied taxonomy.
+- id: motif:3
+  label: enchanted weapon pursues transgressor through worlds
+  taxonomy_refs:
+  - divine_judgment
+  basis: After the crow attacks Sita, Rama launches a mystically charmed arrow that
+    follows the crow through the three worlds until it returns to submit.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage emphasizes Rama's wrath and the arrow's inevitability; the
+    broader motif-family label is functional.
+- id: motif:4
+  label: suppliant offender spared by bodily forfeiture
+  taxonomy_refs:
+  - sacred_exchange
+  - divine_judgment
+  basis: Rama says the suppliant must be protected, but the arrow cannot fly in vain;
+    the crow gives one eye in exchange for its life.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The exchange is explicit, but whether it should be grouped as sacrifice
+    or sacred exchange requires human review.
+- id: motif:5
+  label: loyal brother sustains exile household
+  taxonomy_refs: []
+  basis: Lakshmana, moved by brotherly affection, prepares the retreat's labor and
+    provisions while Rama and Sita are away.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage supports the role pattern, but the motif status is limited
+    without adjacent narrative context.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly likens Rama and Sita roaming among the Asoka trees
+    to Siva and Uma roaming through Himavan's groves.
+  claim_level: visual_similarity
+  target: Siva and Uma as divine couple in Himalayan groves
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an explicit simile in the passage; it does not by itself establish
+    historical borrowing or broader structural equivalence.
+- id: claim:2
+  claim: The crow episode supports comparison with a divine-judgment pattern in which
+    a transgressor is pursued by an inescapable supernatural weapon and receives mitigated
+    punishment after submission.
+  claim_level: same_function
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is functional and taxonomy-level; the passage itself
+    does not compare the episode to another named text or tradition.
+- id: claim:3
+  claim: The eye-for-life resolution supports comparison with a sacred-exchange pattern
+    because the offender yields a body part in order to preserve life under Rama's
+    mercy.
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:10
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The exchange is explicit, but calling it sacred exchange depends on
+    motif-taxonomy judgment beyond the literal narrative.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 23351-23518, opening adornment with red ore
+  quote_or_summary: Rama lays his finger on a rock with sanguine ore and paints the
+    holy sign over Sita's eyes; the metal shines on her brow.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata indicates full text and training use
+    allowed.
+- id: ev:2
+  type: summary
+  locator: lines 23351-23518, Kesara blossom adornment
+  quote_or_summary: Rama picks blossoms from the laden Kesara tree and decorates Sita's
+    tresses while rejoicing.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata indicates full text and training use
+    allowed.
+- id: ev:3
+  type: summary
+  locator: lines 23351-23518, monkey episode
+  quote_or_summary: Sita sees a monkey, clings to Rama in fear, and he embraces and
+    consoles her while scaring it away; the brow mark is transferred to Rama's chest,
+    making Sita laugh.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata indicates full text and training use
+    allowed.
+- id: ev:4
+  type: quote
+  locator: lines 23351-23518, Asoka grove
+  quote_or_summary: Sita asks to go where the Asoka blossoms grow; the pair roam there
+    and are compared to "Śiva with Queen Umá" in Himavan's groves, weaving flower
+    crowns and chains.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata indicates full text and training use
+    allowed.
+- id: ev:5
+  type: summary
+  locator: lines 23351-23518, return to retreat
+  quote_or_summary: Lakshmana, called Sumitra's son, meets them and shows the day's
+    labor, including ten black-deer slain and piled to dry with other carcasses.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata indicates full text and training use
+    allowed.
+- id: ev:6
+  type: summary
+  locator: lines 23351-23518, meal
+  quote_or_summary: Sita sets food for living things, serves meat and honey to Rama
+    and Lakshmana, the brothers purify their lips with water, and Sita eats afterward.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata indicates full text and training use
+    allowed.
+- id: ev:7
+  type: summary
+  locator: lines 23351-23518, crow harassment
+  quote_or_summary: Rama asks Sita to guard the drying venison from crows; one bold
+    crow attacks and enrages her with beak, wing, and claw, disregarding Rama's rebuke.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata indicates full text and training use
+    allowed.
+- id: ev:8
+  type: summary
+  locator: lines 23351-23518, charm-charged arrow
+  quote_or_summary: Rama speaks a mystic charm over a shaft, places it on his bow,
+    and launches it at the crow; the bird flees through earth, sky, and the three
+    worlds while the arrow follows.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata indicates full text and training use
+    allowed.
+- id: ev:9
+  type: quote
+  locator: lines 23351-23518, crow's submission
+  quote_or_summary: The crow returns to Rama, bows at his feet, and says in human
+    accents that it finds no shelter from the shaft and asks Rama to spare its life.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata indicates full text and training use
+    allowed.
+- id: ev:10
+  type: summary
+  locator: lines 23351-23518, Rama's judgment
+  quote_or_summary: Rama says the suppliant must be protected, but the dart cannot
+    fly in vain; the crow must give some part of its body to save its life.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata indicates full text and training use
+    allowed.
+- id: ev:11
+  type: summary
+  locator: lines 23351-23518, loss of the eye
+  quote_or_summary: The crow decides to yield one eye, asks to live single-eyed, and
+    Rama directs the shaft to strike the eye; the crow bows and departs.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata indicates full text and training use
+    allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is well supported by the supplied passage. Motif-family
+    assignments are cautious and should be checked by a human reviewer, especially
+    where taxonomy labels are broad.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Only the supplied passage and metadata were used. Passage label supplied in the request appears to list earlier cantos, while the excerpt ends with a heading for Canto XCVII; no correction was inferred beyond preserving supplied metadata.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l23351-l23518
+  passage_sha256=065ca307a5d1b2f2496bb449bb7fd157cf28795db7376bc4f1f68240f903f3c5

@@ -1,0 +1,427 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l32198-l32342
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XXIV. The Host In Sight. / Canto XXV. The Battle. / Canto XXVIII. Khara
+    Dismounted. / Canto XLIII. The Wondrous Deer.; lines 32198-32342
+  start: '32198'
+  end: '32342'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Rama pursues a wondrous deer that repeatedly appears and vanishes, drawing
+    him far from his dwelling. He shoots it with a Brahma-framed arrow, and the deer
+    is revealed as Maricha, who dies after imitating Rama’s voice and calling for
+    Sita and Lakshman. Rama realizes the deception and fears for Sita. Sita hears
+    the false cry, urges Lakshman to go to Rama, and reproaches him when he does not
+    immediately leave.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Rama arms himself with a gold-hafted sword, a bow, and two quivers before
+    going out after the deer.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The deer repeatedly flees, turns, appears, and disappears in the woods while
+    Rama pursues it.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage identifies the deer as Maricha in a magical disguise and says
+    the pursuit draws Rama far from his cot.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rama shoots the deer with a Brahma-framed arrow that strikes Maricha in the
+    heart.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After being struck, Maricha abandons the deer form, resumes his giant shape,
+    and dies.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Before death, Maricha imitates Rama’s voice and calls to Sita and Lakshman.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Maricha’s intended result is that Sita will send away her guard and Ravana
+    will seize her.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Rama recognizes the slain foe as Maricha and becomes anxious that the false
+    cry may frighten Sita and Lakshman.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Sita hears the cry as her husband’s and asks Lakshman to run into the wood
+    to save Rama.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Lakshman does not immediately leave, and Sita reproaches him with accusations
+    and fear for her own fate if Rama is harmed.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: Hero who pursues the wondrous deer, shoots Maricha, recognizes the
+    deception, and turns back toward his dwelling.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Maricha
+  description: A night-roving giant or fiend who appears as a wondrous deer, lures
+    Rama away, is shot, resumes giant form, and dies after imitating Rama’s voice.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Sita
+  description: Rama’s beloved, who hears Maricha’s false cry as Rama’s voice and urges
+    Lakshman to aid him.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Lakshman
+  description: Rama’s brother and Sita’s guardian, addressed by Maricha’s false cry
+    and by Sita, who asks him to seek Rama.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Ravana
+  description: Named as the one intended to seize Sita once her guard is sent away.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: armed pursuer
+  assigned_to:
+  - fig:1
+  basis: Rama takes weapons and pursues the deer through the wood.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: deceptive shapeshifter
+  assigned_to:
+  - fig:2
+  basis: Maricha uses the magical deer disguise and later resumes giant form.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: target of deceptive cry
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Maricha calls to Sita and Lakshman in a tone like Rama’s own.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: anxious returning hero
+  assigned_to:
+  - fig:1
+  basis: After recognizing Maricha, Rama fears the effect of the cry and hastens back.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: dying deceiver
+  assigned_to:
+  - fig:2
+  basis: Maricha calls out in Rama’s voice before dying from Rama’s arrow.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: fearful beloved
+  assigned_to:
+  - fig:3
+  basis: Sita fears Rama is in danger and laments what may happen if he is harmed.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: reluctant guardian
+  assigned_to:
+  - fig:4
+  basis: Lakshman does not immediately move despite Sita’s appeal.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: intended abductor
+  assigned_to:
+  - fig:5
+  basis: Maricha thinks his cry will enable Ravana to seize Sita.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: wondrous deer disguise
+  literal_form: A beautiful deer form that appears, vanishes, and draws Rama through
+    the wood.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Brahma-framed arrow
+  literal_form: An arrow made by Brahma, described as sparkling and flaming and compared
+    to a fiery serpent and Indra’s lightning.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: borrowed voice
+  literal_form: Maricha’s imitation of Rama’s voice in the cry to Sita and Lakshman.
+  associated_figures:
+  - fig:2
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: forest dwelling left unguarded
+  literal_form: Rama is drawn far from his cot, and Maricha intends Sita’s guard to
+    be sent away.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Arming and pursuit of the deer
+  summary: Rama arms himself and follows the elusive deer as it repeatedly appears
+    and disappears in the forest, drawing him away from home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Maricha struck and unmasked
+  summary: Rama shoots the deer with a Brahma-framed arrow; the wounded creature casts
+    off the deer form, becomes Maricha, and dies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: False cry in Rama’s voice
+  summary: Before dying, Maricha calls to Sita and Lakshman in Rama’s voice, intending
+    to separate Sita from her guard so Ravana can seize her.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Rama’s alarm and return
+  summary: Rama recognizes Maricha’s trick, worries about Sita and Lakshman hearing
+    the false cry, and hastens back toward Janasthan and his dwelling.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Sita urges Lakshman to depart
+  summary: Sita hears the false cry as Rama’s, asks Lakshman to save him, and reproaches
+    Lakshman when he remains.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Deceptive animal lure draws hero away
+  taxonomy_refs:
+  - shapeshifter
+  - trickster_boundary
+  basis: Maricha’s magical deer form repeatedly appears and disappears, luring Rama
+    far from his cot.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage itself names the disguise and its immediate effect, but broader
+    classification as a trickster-boundary pattern is interpretive.
+- id: motif:2
+  label: Shapeshifter revealed at death
+  taxonomy_refs:
+  - shapeshifter
+  basis: When Rama’s arrow strikes the deer, Maricha abandons the bright deer form
+    and resumes giant shape before dying.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: Limited to this passage’s explicit transformation sequence.
+- id: motif:3
+  label: False distress call separates protector from beloved
+  taxonomy_refs:
+  - stolen_beloved
+  - trickster_boundary
+  basis: Maricha imitates Rama’s voice to make Sita send away Lakshman, so Ravana
+    can seize her.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The actual seizure is only anticipated in this passage, not narrated here.
+- id: motif:4
+  label: Divine or supernatural weapon slays deceiver
+  taxonomy_refs: []
+  basis: Rama uses an arrow framed by Brahma to strike Maricha in the heart and end
+    the disguise.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No available taxonomy family directly matches the weapon motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 32198-32342; opening arming sequence
+  quote_or_summary: Rama warns his brother, takes a gold-hafted sword, bow, and two
+    quivers, and goes out eagerly.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 32198-32342; deer pursuit sequence
+  quote_or_summary: The antlered deer flees, turns, appears, disappears, and in Maricha’s
+    magical disguise draws Rama far from his cot.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 32198-32342; arrow and death sequence
+  quote_or_summary: Rama shoots the deer with a Brahma-framed arrow; it strikes Maricha’s
+    heart, and he casts off the deer form, resumes giant shape, and dies.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 32198-32342; Maricha’s dying deception
+  quote_or_summary: Maricha plans that Sita may send her guard away and Ravana seize
+    her; he calls, “Ho, Sítá, Lakshmaṇ,” in a tone like Rama’s own.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; brief quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 32198-32342; Rama’s recognition and return
+  quote_or_summary: Rama recognizes the slain foe as Maricha, recalls Lakshman’s warning,
+    fears Sita and Lakshman heard the cry, and hastens back toward his dwelling.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 32198-32342; Sita hears the cry
+  quote_or_summary: Sita hears what she thinks is Rama’s anguished cry and tells Lakshman
+    to run into the wood to save his brother.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 32198-32342; Sita reproaches Lakshman
+  quote_or_summary: Lakshman does not immediately leave; Sita, frightened and tearful,
+    accuses him of refusing aid and fears being left desolate if Rama is harmed.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence is clear in the supplied passage. Motif labels use only
+    supported available taxonomy references where applicable; no external comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make a comparative claim to another tradition or motif corpus.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l32198-l32342
+  passage_sha256=91459cd73689569da4804dba0e53df63ab330050229f616137fdf2b4b05e7ca4

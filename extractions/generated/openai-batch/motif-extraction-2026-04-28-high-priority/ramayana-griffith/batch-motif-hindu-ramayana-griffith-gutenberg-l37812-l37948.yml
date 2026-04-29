@@ -1,0 +1,538 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l37812-l37948
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LX. Lakshman Reproved. / Canto LXX. Kabandha. / BOOK IV. / Canto V.
+    The League.; lines 37812-37948
+  start: '37812'
+  end: '37948'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“This hand in sign of friendship take, / And bind the bond we ne’er will
+    break.”"
+  summary: Sugriva receives Rama and Lakshman after Hanuman announces them. Sugriva
+    and Rama form a solemn alliance by handclasp and a fire rite. Sugriva describes
+    his exile and loss of his wife to his brother Bali; Rama promises to kill Bali.
+    The league is followed by ominous left-eye throbbings for Sita, Bali, and the
+    demons.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Hanuman announces Rama and Lakshman to Sugriva and states that Ravana stole
+    Rama’s wife while Rama dwelt in the forest.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sugriva offers Rama his hand as a sign of friendship and asks that their bond
+    not be broken.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Rama takes and presses Sugriva’s hand and holds his new ally to his heart.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hanuman appears in his proper form, kindles a flame by rubbing wood, places
+    the fire between the chiefs, adorns it with flowers and worship, and the friends
+    walk reverently around it.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Sugriva says that Rama is the friend of his soul and that they share each
+    other’s joy and care.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Sugriva tears a flowering Sal branch to make a seat for himself and Rama,
+    and Hanuman gives Lakshman a sandal-tree branch for a seat.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Sugriva says he has been spurned by foes, deprived of his spouse, and harmed
+    by his brother Bali.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Rama promises to slay Bali with arrows and to free Sugriva from distress.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Sugriva says Rama’s favor will allow him to regain his realm and wife from
+    his foe.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: After the league, Sita’s left eye throbs as a hopeful sign, while Bali’s and
+    the demons’ left eyes throb as inauspicious signs.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: Son of King Dasaratha and of Raghu’s line; his wife has been stolen
+    by Ravana; he forms an alliance with Sugriva and promises to kill Bali.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: fig:2
+  name_or_label: Lakshman
+  description: Rama’s companion who stands with him and receives a sandal-tree branch
+    seat from Hanuman.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: Hanuman
+  description: Vanar prince and son of the god who rules the wind; he announces Rama,
+    kindles the fire, and gives Lakshman a seat.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Sugriva
+  description: Vanar chief or king who offers Rama friendship, performs the league
+    with him, and seeks help against his brother Bali.
+  role_refs:
+  - role:2
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:9
+- id: fig:5
+  name_or_label: Sita
+  description: Rama’s wife, stolen by Ravana; her left eye throbs as a hopeful sign
+    after the league.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: fig:6
+  name_or_label: Ravana
+  description: The being who stole Rama’s wife while Rama lived in the forest.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Bali
+  description: Sugriva’s elder brother and foe, said to have stolen Sugriva’s wife;
+    his left eye throbs inauspiciously.
+  role_refs:
+  - role:10
+  - role:11
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:8
+  name_or_label: demons
+  description: A crew of demons whose fiery left eyes throb as a herald of dismay.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: wronged husband seeking aid
+  assigned_to:
+  - fig:1
+  basis: Rama’s wife is stolen by Ravana and he comes to Sugriva as a suppliant.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: new ally in solemn league
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Rama and Sugriva clasp hands, embrace, and perform a fire-centered rite of
+    friendship.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: champion against Bali
+  assigned_to:
+  - fig:1
+  basis: Rama promises that his hand and arrows will slay Bali.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: companion of Rama
+  assigned_to:
+  - fig:2
+  basis: Lakshman stands with Rama and is given a seat by Hanuman.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:5
+  label: announcing mediator
+  assigned_to:
+  - fig:3
+  basis: Hanuman announces Rama and Lakshman to Sugriva and urges that they be honored.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: fire-rite officiant or facilitator
+  assigned_to:
+  - fig:3
+  basis: Hanuman kindles the flame and places it between the chiefs for the rite.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: exiled Vanar king seeking redress
+  assigned_to:
+  - fig:4
+  basis: Sugriva describes wandering in fear, losing his spouse, and being wronged
+    by Bali.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: friend requesting reciprocal aid
+  assigned_to:
+  - fig:4
+  basis: Sugriva asks Rama to release him from woe and later expects recovery of wife
+    and realm.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:9
+  label: stolen wife with hopeful omen
+  assigned_to:
+  - fig:5
+  basis: Sita is the wife stolen by Ravana, and her left eye throbs as a glad sign.
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: role:10
+  label: wife-stealing antagonist
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Ravana stole Rama’s wife; Bali is said to have stolen Sugriva’s wife.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:11
+  label: hostile elder brother
+  assigned_to:
+  - fig:7
+  basis: Sugriva calls Bali his brother and foe who has injured him.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:12
+  label: ominously affected enemy group
+  assigned_to:
+  - fig:8
+  basis: The demons’ left eyes throb as a herald of dismay.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: alliance fire
+  literal_form: kindled flame placed between Rama and Sugriva, honored with flowers
+    and circumambulation
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: handclasp pledge
+  literal_form: Sugriva offers his hand and Rama seizes and presses it as a sign of
+    friendship
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: tree-branch seats
+  literal_form: flowering Sal branch and sandal-tree branch used as seats
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: left-eye throbbing omen
+  literal_form: left eye throbbing in Sita, Bali, and the demons
+  associated_figures:
+  - fig:5
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:5
+  label: serpent-like arrows
+  literal_form: Rama’s arrows are compared to infuriate serpents that hiss and strike
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Hanuman announces Rama to Sugriva
+  summary: Hanuman presents Rama and Lakshman to Sugriva, recounting Rama’s lineage,
+    exile, stolen wife, and request for aid.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fire-witnessed league
+  summary: Sugriva offers friendship; Rama accepts by handclasp and embrace; Hanuman
+    kindles a ritual fire, and the allies circumambulate it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Sugriva’s grievance
+  summary: After seats are made from tree branches, Sugriva tells Rama of his exile,
+    fear, lost spouse, and wrongs suffered from Bali.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Rama’s vow and ensuing omens
+  summary: Rama vows to kill Bali and restore Sugriva; Sugriva rejoices, and left-eye
+    omens signal hope for Sita and danger for Bali and the demons.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: solemn alliance or covenant sealed by ritual
+  taxonomy_refs:
+  - covenant
+  basis: Rama and Sugriva make an unbroken bond of friendship through handclasp, embrace,
+    and a fire-centered rite.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage calls it a league and bond, but does not use the term covenant.
+- id: motif:2
+  label: reciprocal aid between allies
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Rama seeks Sugriva’s aid concerning Sita, while Rama promises to free Sugriva
+    from Bali and restore his wife and realm.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The exchange is political and martial; its sacred quality rests mainly
+    on the ritual fire setting.
+- id: motif:3
+  label: stolen beloved or abducted wife
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Ravana has stolen Rama’s wife, and Bali is said to have stolen Sugriva’s
+    wife.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage summarizes both losses but gives no details of the abductions
+    here.
+- id: motif:4
+  label: hostile brothers in conflict
+  taxonomy_refs:
+  - sibling_pair
+  basis: Sugriva identifies Bali as his brother and foe who has injured him and deprived
+    him of spouse and security.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: Only one brother speaks in the passage, and the taxonomy reference is
+    broader than the hostile-brother situation.
+- id: motif:5
+  label: omen marking divergent fates
+  taxonomy_refs: []
+  basis: The same bodily sign, left-eye throbbing, is hopeful for Sita but inauspicious
+    for Bali and the demons after the league is made.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: No available taxonomy reference directly matches this omen pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37812-37842
+  quote_or_summary: Hanuman announces Rama and Lakshman to Sugriva, praises Rama’s
+    lineage and virtue, states that Ravana stole Rama’s wife in the forest, and says
+    Rama seeks Sugriva’s aid.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 37843-37860
+  quote_or_summary: 'Sugriva says: “This hand in sign of friendship take, / And bind
+    the bond we ne’er will break.”'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 37861-37865
+  quote_or_summary: Rama joyfully seizes and presses Sugriva’s hand and holds his
+    new ally to his heart.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 37866-37873
+  quote_or_summary: Hanuman resumes his proper form, kindles fire by rubbing wood,
+    places it between the chiefs, honors it with flowers and worship, and the friends
+    walk reverently around it.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 37874-37881
+  quote_or_summary: 'Sugriva says to Rama: “Friend of my soul art thou: we share /
+    Each other’s joy, each other’s care.”'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 37882-37891
+  quote_or_summary: Sugriva tears a leafy, blossoming Sal branch to make a seat for
+    himself and Rama; Hanuman gives Lakshman a sandal-tree branch as a seat.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 37892-37906
+  quote_or_summary: Sugriva tells Rama he wanders in woe and fear, deprived of his
+    spouse, and has long suffered wrong from his brother Bali; he asks Rama to release
+    him from distress.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 37907-37931
+  quote_or_summary: Rama answers that those who seek his aid are repaid; he says his
+    hand will slay Bali, whose offense includes stealing Sugriva’s wife, and describes
+    his arrows as sunlike, thunderbolt-like, and serpent-like.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 37932-37940
+  quote_or_summary: Sugriva rejoices that through Rama’s favor he will regain his
+    realm and wife and asks Rama to check his elder brother’s might.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 37941-37948
+  quote_or_summary: 'The league is said to bring divided fortune: Sita’s left eye
+    throbs as a glad sign, while Bali’s left eye and the demons’ fiery left eyes throb
+    as heralds of dismay.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main figures, actions, and ritual alliance are explicit. Motif assignments
+    use only the supplied taxonomy where directly supported; no external comparative
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  Line locators are approximate subdivisions within the supplied range based on the passage order.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l37812-l37948
+  passage_sha256=f96e69e3a309fede5aa4830c4ef772aa3f9d02ad6fcc0182cd1a57e3d71e0467

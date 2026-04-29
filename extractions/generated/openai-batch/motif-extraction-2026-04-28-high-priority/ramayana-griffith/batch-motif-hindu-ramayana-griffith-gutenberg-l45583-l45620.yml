@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l45583-l45620
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto IV. Within The City. / Canto VI. The Court. / Canto VIII. The Enchanted
+    Car. / Canto XI. The Banquet Hall.; lines 45583-45620
+  start: '45583'
+  end: '45620'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-04-28-high-priority;
+    human review required.
+canonical_text:
+  quote: "“No: Ráma’s wife is none of these”"
+  summary: The Vánar rejects the thought that any of the women he has seen could be
+    Ráma’s wife, reasoning that she would not live in ease or lie near another lover.
+    He enters the banquet hall, sees women asleep after revelry and an abundance of
+    rich food and wine, searches throughout, and does not find Sítá.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker concludes that Ráma’s wife is not among the women previously considered.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ráma’s wife is described as not caring for dress, sleep, or dainty food, and
+    as unwilling to lie near a lover other than her own lord.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Vánar enters the banquet hall to continue a strict search.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Women are found sleeping on the ground, apparently wearied by song, games,
+    dance, wine, and sleep.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The banquet hall contains abundant prepared meats, gold plates, gold cups,
+    precious stones, and wine.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Vánar searches through court, bower, and banquet hall for Sítá but does
+    not find her.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ráma’s wife / Sítá
+  description: Absent woman sought by the Vánar; described as faithful to Ráma and
+    indifferent to luxury in separation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Ráma / Raghu’s son
+  description: Named as the only lord of Ráma’s wife and as unmatched in heaven.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: The Vánar
+  description: Searcher who enters and examines the banquet hall, court, and bower
+    for Sítá.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Sleeping women
+  description: Women asleep on the ground in the banquet hall after song, games, dance,
+    wine, and sleep.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Indra
+  description: Mentioned hypothetically as one who might woo Ráma’s wife from the
+    sky.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: absent faithful wife
+  assigned_to:
+  - fig:1
+  basis: She is sought but not found, and the speaker says she would not accept another
+    lover or indulge in ease.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: exclusive lord and husband
+  assigned_to:
+  - fig:2
+  basis: He is called her own and only lord, unmatched in heaven.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: searcher
+  assigned_to:
+  - fig:3
+  basis: He enters the banquet hall and searches every place for Sítá.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: revelers at rest
+  assigned_to:
+  - fig:4
+  basis: They are sleeping after music, games, dance, and wine.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: hypothetical celestial suitor
+  assigned_to:
+  - fig:5
+  basis: Indra is mentioned only in the hypothetical statement that she would not
+    lie near another lover even if he wooed her.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: banquet hall
+  literal_form: spacious hall filled with sleeping women, food, and wine
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: luxurious feast
+  literal_form: prepared meats, gold plates, dainties, wine cups of gold and precious
+    stones
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: absence of Sítá
+  literal_form: the searched-for woman is not found in any spot
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rejection of mistaken identification
+  summary: The speaker dismisses the idea that Ráma’s wife could be one of the women
+    living in ease, emphasizing her fidelity to Ráma.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Search of the banquet hall
+  summary: The Vánar enters the banquet hall, observes sleeping women and rich provisions,
+    then searches through court, bower, and hall without finding Sítá.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: search for an absent wife
+  taxonomy_refs:
+  - mystical_quest
+  basis: The Vánar conducts a strict search through multiple spaces for Sítá and does
+    not find her.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage shows a search for Sítá but does not itself narrate the wider
+    cause of her absence.
+- id: motif:2
+  label: faithful wife contrasted with women of luxury
+  taxonomy_refs: []
+  basis: Ráma’s wife is distinguished from women associated with ease, sleep, food,
+    and possible lovers; she is said to belong only to Ráma.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level motif candidate based on characterization, not
+    a supplied taxonomy category.
+- id: motif:3
+  label: failed recognition in a place of revelry
+  taxonomy_refs: []
+  basis: The searcher rejects the thought that Sítá is among the women and later searches
+    the banquet hall without success.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage implies correction of a mistaken thought but gives limited
+    context for the preceding recognition attempt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 45583-45593
+  quote_or_summary: "“No: Ráma’s wife is none of these”; she would not care for luxury
+    or lie near another lover, even if Indra wooed her; Ráma is her only lord."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 45595-45602
+  quote_or_summary: The Vánar enters the banquet hall for a strict search and finds
+    women sleeping on the ground after song, games, dance, wine, and sleep.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 45603-45615
+  quote_or_summary: The spacious hall is stocked with meats, birds, sea and air dainties,
+    gold plates, gold cups, precious stones, and wine.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 45616-45620
+  quote_or_summary: The Vánar passes through court, bower, and banquet hall, searches
+    for Sítá everywhere, and does not find her.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized with brief wording from public domain
+    text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is cautious because
+    the passage provides only a search scene and does not include the broader narrative
+    context of Sítá’s abduction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-04-28'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support cross-textual or historical comparison.
+  batch_run_id=motif-extraction-2026-04-28-high-priority
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l45583-l45620
+  passage_sha256=736cd804f0ba9a462e59a9c257751583e299cdac8ee3c558c40be8d1d91d8c18
