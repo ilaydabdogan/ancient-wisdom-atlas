@@ -1,0 +1,327 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-28-unmapped-tiny.batch-0022
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.restless-dead-haunting-former-homes
+  motif_id: restless_dead_haunting_former_homes
+  label: restless dead haunting former homes
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Restless Dead and Haunting
+  relationship: child
+  confidence: medium
+  rationale: The label describes active dead or ghosts remaining among the living
+    rather than a descent, resurrection, or mapped afterlife journey.
+  cautions: Single occurrence; may be better as a child under a future ancestor/ghost
+    complex if more examples appear.
+  suggested_aliases:
+  - haunting dead
+  - restless dead
+  - ghost haunting former home
+  suggested_new_group:
+    id: restless_dead_haunting
+    label: Restless Dead and Haunting
+    description: Dead persons, ghosts, or spirits remain attached to places, homes,
+      kin, or unresolved conditions and intrude upon the living.
+    parent_group_ids:
+    - afterlife_passage
+    - death_and_transformation
+    related_group_ids:
+    - lament_and_mourning
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing groups cover afterlife navigation,
+      descent, and death-transformation but not the social or spatial return of dead
+      spirits to haunt the living.
+- suggestion_id: normalization.suggestion.riddle-observance-connected-with-dreams-divination-or-corpse-presence
+  motif_id: riddle_observance_connected_with_dreams_divination_or_corpse_presence
+  label: riddle observance connected with dreams, divination, or corpse presence
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines riddles, observance, dreams, divination, and corpse
+    presence, making the central motif unclear.
+  cautions: Could belong to dream_and_vision, sacred_knowledge, ritual practice, or
+    death/corpse rites depending on passage evidence.
+  suggested_aliases:
+  - riddle divination
+  - corpse divination observance
+  - dream riddle observance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-combat-with-a-spirit-through-a-floor-opening
+  motif_id: ritual_combat_with_a_spirit_through_a_floor_opening
+  label: ritual combat with a spirit through a floor opening
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a highly specific ritual scene involving spirit conflict and
+    a threshold-like opening.
+  cautions: May fit threshold_guardian, sacred_combat, exorcistic ritual, or an over-specific
+    evidence note; source context is needed.
+  suggested_aliases:
+  - combat with spirit through floor opening
+  - spirit combat at floor threshold
+  - ritual spirit combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-detention-or-recovery-of-a-departing-soul
+  motif_id: ritual_detention_or_recovery_of_a_departing_soul
+  label: ritual detention or recovery of a departing soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Soul Detention and Recovery
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns ritual intervention to prevent or reverse the soul's
+    departure, distinct from afterlife mapping or resurrection.
+  cautions: Single occurrence; review whether this should instead be treated as a
+    healing, shamanic, or death-ritual submotif.
+  suggested_aliases:
+  - soul recovery rite
+  - detention of departing soul
+  - ritual retrieval of soul
+  suggested_new_group:
+    id: soul_detention_recovery
+    label: Soul Detention and Recovery
+    description: Ritual acts seek to hold, recall, recover, or redirect a soul that
+      is departing, lost, endangered, or separated from the body or community.
+    parent_group_ids:
+    - death_and_transformation
+    - afterlife_passage
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups address death-return and
+      afterlife journeys but not ritual management of a soul at the boundary of departure.
+- suggestion_id: normalization.suggestion.ritual-expulsion-of-a-misidentified-spirit
+  motif_id: ritual_expulsion_of_a_misidentified_spirit
+  label: Ritual expulsion of a misidentified spirit
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Spirit Expulsion and Exorcistic Rites
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a ritual for driving out a spirit, a recurring functional
+    type not currently covered by descent or afterlife groups.
+  cautions: Misidentification detail may be local and should be preserved as evidence
+    rather than group label unless it recurs.
+  suggested_aliases:
+  - spirit expulsion
+  - exorcistic expulsion
+  - ritual driving out of spirit
+  suggested_new_group:
+    id: spirit_expulsion_rites
+    label: Spirit Expulsion and Exorcistic Rites
+    description: Ritual actions remove, repel, misdirect, or drive away spirits, ghosts,
+      demons, or intrusive nonhuman presences from persons, homes, or communities.
+    parent_group_ids:
+    - divine_judgment
+    - sacred_exchange
+    related_group_ids:
+    - sacred_fire
+    - threshold_guardian
+    - restless_dead_haunting
+    reason_existing_groups_insufficient: Existing groups include judgment, sacrifice,
+      and spirit-related thresholds but do not provide a clear container for exorcistic
+      removal rites.
+- suggestion_id: normalization.suggestion.ritual-fire-used-after-spirit-expulsion
+  motif_id: ritual_fire_used_after_spirit_expulsion
+  label: Ritual fire used after spirit expulsion
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fire functions ritually as a purifying or protective medium following
+    spirit expulsion.
+  cautions: Also related to a possible spirit_expulsion_rites group; do not map to
+    world-destroying fire without cosmic catastrophe evidence.
+  suggested_aliases:
+  - purifying fire after exorcism
+  - post-expulsion ritual fire
+  - protective fire after spirit expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-noise-and-striking-to-drive-away-spirits
+  motif_id: ritual_noise_and_striking_to_drive_away_spirits
+  label: Ritual noise and striking to drive away spirits
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Spirit Expulsion and Exorcistic Rites
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Noise and striking are techniques within ritual expulsion of intrusive
+    spirits.
+  cautions: Could be merged with the near-duplicate ritual_noise_used_to_drive_away_spirits;
+    technique details should remain aliases or evidence notes.
+  suggested_aliases:
+  - ritual noise to repel spirits
+  - striking to drive away spirits
+  - apotropaic noise against spirits
+  suggested_new_group:
+    id: spirit_expulsion_rites
+    label: Spirit Expulsion and Exorcistic Rites
+    description: Ritual actions remove, repel, misdirect, or drive away spirits, ghosts,
+      demons, or intrusive nonhuman presences from persons, homes, or communities.
+    parent_group_ids:
+    - divine_judgment
+    - sacred_exchange
+    related_group_ids:
+    - sacred_fire
+    - threshold_guardian
+    - restless_dead_haunting
+    reason_existing_groups_insufficient: Existing groups include judgment, sacrifice,
+      and spirit-related thresholds but do not provide a clear container for exorcistic
+      removal rites.
+- suggestion_id: normalization.suggestion.ritual-noise-used-to-drive-away-spirits
+  motif_id: ritual_noise_used_to_drive_away_spirits
+  label: ritual noise used to drive away spirits
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Spirit Expulsion and Exorcistic Rites
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual noise is an apotropaic technique for spirit expulsion.
+  cautions: Near-duplicate of ritual_noise_and_striking_to_drive_away_spirits; normalize
+    together if source evidence permits.
+  suggested_aliases:
+  - apotropaic noise
+  - noise to drive away spirits
+  - ritual sound against spirits
+  suggested_new_group:
+    id: spirit_expulsion_rites
+    label: Spirit Expulsion and Exorcistic Rites
+    description: Ritual actions remove, repel, misdirect, or drive away spirits, ghosts,
+      demons, or intrusive nonhuman presences from persons, homes, or communities.
+    parent_group_ids:
+    - divine_judgment
+    - sacred_exchange
+    related_group_ids:
+    - sacred_fire
+    - threshold_guardian
+    - restless_dead_haunting
+    reason_existing_groups_insufficient: Existing groups include judgment, sacrifice,
+      and spirit-related thresholds but do not provide a clear container for exorcistic
+      removal rites.
+- suggestion_id: normalization.suggestion.ritual-offerings-to-guardian-spirits-on-birthdays
+  motif_id: ritual_offerings_to_guardian_spirits_on_birthdays
+  label: ritual offerings to guardian spirits on birthdays
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: high
+  rationale: Offerings to guardian spirits create or maintain reciprocal sacred relationship.
+  cautions: Birthday setting and guardian-spirit identity are important local details
+    but may be too specific for a separate motif.
+  suggested_aliases:
+  - birthday offerings to guardian spirits
+  - offerings to guardian spirits
+  - ritual offerings to personal spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-procession-of-death-effigy
+  motif_id: ritual_procession_of_death_effigy
+  label: ritual procession of Death effigy
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A Death effigy procession may mark seasonal expulsion, ritualized death,
+    mourning, or renewal depending on context.
+  cautions: Could fit sacred_time, death_and_transformation, sacrifice, or spirit_expulsion_rites;
+    passage evidence is needed before mapping.
+  suggested_aliases:
+  - Death effigy procession
+  - procession of death figure
+  - ritual carrying of Death effigy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch point to exorcistic or apotropaic spirit-management
+  rites, which are not well represented by the current death/descent groups.
+- The two ritual-noise labels appear near-duplicate and should be reviewed together.
+- Proposed new groups are provisional query containers, not direct edits to taxonomy/motifs.yml.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for unmapped tiny batch 0022.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-28'
+batch:
+  run_id: normalization-suggestions-2026-04-28-unmapped-tiny
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-28-unmapped-tiny-batch-0022
+  input_sha256: 9580ce37d0fc41866ede9b1f28f8b70e103cbfa34579a545ffdc36f4d8db55b3

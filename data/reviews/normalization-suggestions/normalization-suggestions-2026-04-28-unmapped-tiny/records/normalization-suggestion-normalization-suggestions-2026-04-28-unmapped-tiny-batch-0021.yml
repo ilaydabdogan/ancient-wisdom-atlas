@@ -1,0 +1,333 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-28-unmapped-tiny.batch-0021
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.protective-ancestral-household-spirit
+  motif_id: protective_ancestral_household_spirit
+  label: protective ancestral household spirit
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ancestral and Household Spirits
+  relationship: child
+  confidence: medium
+  rationale: The motif concerns ancestors continuing as protective domestic powers,
+    which is not well captured by descent, afterlife passage, or divine intervention
+    alone.
+  cautions: Single occurrence; confirm whether this is a recurring mythic motif or
+    a local cult/ritual category before promoting.
+  suggested_aliases:
+  - household ancestor spirit
+  - protective ancestor
+  - domestic ancestral guardian
+  - lares-like household spirit
+  suggested_new_group:
+    id: ancestral_household_spirits
+    label: Ancestral and Household Spirits
+    description: Ancestral, domestic, or lineage spirits who protect a household,
+      family, threshold, or local community and maintain relations between the living
+      and the dead.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - otherworld
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing death and afterlife groups focus
+      on journeys, return, judgment, or transformation rather than continuing ancestor
+      guardianship within domestic cult or household space.
+- suggestion_id: normalization.suggestion.quest-for-immortality-through-fame-and-offspring
+  motif_id: quest_for_immortality_through_fame_and_offspring
+  label: Quest for immortality through fame and offspring
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Symbolic Immortality through Legacy
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif is about overcoming mortality through lineage and reputation,
+    not literal resurrection, afterlife travel, or death-return transformation.
+  cautions: May be a philosophical or ethical theme rather than a narrative motif;
+    review source context before adding a group.
+  suggested_aliases:
+  - immortality through fame
+  - immortality through offspring
+  - legacy as immortality
+  - kleos and progeny
+  suggested_new_group:
+    id: symbolic_immortality_legacy
+    label: Symbolic Immortality through Legacy
+    description: Attempts to answer mortality through enduring fame, descendants,
+      memory, heroic reputation, works, or lineage rather than literal bodily survival
+      or resurrection.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Death and transformation groups imply renewal,
+      resurrection, or afterlife passage, while this motif preserves the distinct
+      idea of social or symbolic survival after death.
+- suggestion_id: normalization.suggestion.rain-making-through-vegetation-spirit-representation
+  motif_id: rain_making_through_vegetation_spirit_representation
+  label: rain-making through vegetation spirit representation
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rain-making through a vegetation-spirit representation fits seasonal
+    ritual renewal more than death/descent despite possible vegetation-spirit death
+    associations.
+  cautions: If the passage emphasizes the spirit's death and return, death_and_transformation
+    or seasonal_cycle may be more precise; if it is only ethnographic ritual description,
+    keep as granular evidence.
+  suggested_aliases:
+  - vegetation-spirit rainmaking
+  - ritual rain-making with vegetation figure
+  - seasonal rainmaking representation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recall-and-recovery-of-lost-soul
+  motif_id: recall_and_recovery_of_lost_soul
+  label: recall and recovery of lost soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Recovering a lost soul restores life or wholeness after dangerous absence,
+    fitting death-adjacent renewal and transformation.
+  cautions: Could also belong to shamanic healing or soul-journey taxonomy if such
+    a group is later added; avoid equating it with resurrection unless the person
+    is dead.
+  suggested_aliases:
+  - soul retrieval
+  - recovery of the lost soul
+  - calling back the soul
+  - recall of the wandering soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recalling-the-absent-crop-soul
+  motif_id: recalling_the_absent_crop_soul
+  label: recalling the absent crop soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Calling back a crop soul is a seasonal fertility-renewal rite and fits
+    ritual cycles and seasonal recurrence.
+  cautions: If the source treats the crop soul as a dying-and-returning vegetation
+    being, also cross-reference death_and_transformation; preserve the agricultural
+    specificity as evidence.
+  suggested_aliases:
+  - crop-soul recall
+  - calling back the crop spirit
+  - return of the crop soul
+  - agricultural soul recall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.red-sky-as-sign-of-supernatural-death
+  motif_id: red_sky_as_sign_of_supernatural_death
+  label: red sky as sign of supernatural death
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A red sky functioning as an omen of death is best treated as a sign or
+    vision conveying supernatural knowledge.
+  cautions: Could instead be a nature/celestial omen group if created; single occurrence
+    and broad comparative label may be too specific for canonical promotion.
+  suggested_aliases:
+  - red sky death omen
+  - celestial sign of death
+  - supernatural death omen in the sky
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reflection-as-external-soul
+  motif_id: reflection_as_external_soul
+  label: reflection as external soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The reflection-as-soul idea may concern external soul beliefs, taboo,
+    identity, image magic, or death vulnerability, none of which has a clear existing
+    group.
+  cautions: Requires source context; avoid forcing into death_and_transformation unless
+    the reflection's loss or injury causes death or soul loss.
+  suggested_aliases:
+  - external soul in reflection
+  - mirror soul
+  - image as soul
+  - reflection containing life force
+  suggested_new_group:
+    id: external_soul
+    label: External Soul and Life-Token
+    description: A person's soul, life, vitality, or death-vulnerability is located
+      outside the body in an object, animal, reflection, shadow, name, or image.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - sacred_treasures
+    - sacred_knowledge
+    - shapeshifter
+    reason_existing_groups_insufficient: Existing groups cover death transformation
+      and power objects, but not the recurrent folk-motif pattern where life or soul
+      is externalized into a separate token or image.
+- suggestion_id: normalization.suggestion.refusal-of-returning-evil-for-evil
+  motif_id: refusal_of_returning_evil_for_evil
+  label: refusal of returning evil for evil
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is an ethical norm of restraint and non-retaliation, fitting sacred
+    law or ethical command rather than death/afterlife motifs.
+  cautions: If the passage is purely philosophical and not mythic, preserve as ethical
+    evidence rather than promote as a motif.
+  suggested_aliases:
+  - non-retaliation
+  - refusal of revenge
+  - not returning evil for evil
+  - ethical restraint from vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-believe-a-holy-son-s-death-before-spiritual-fulfillment
+  motif_id: refusal_to_believe_a_holy_son_s_death_before_spiritual_fulfillment
+  label: Refusal to believe a holy son's death before spiritual fulfillment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label centers on expectations around a holy child's destiny and spiritual
+    fulfillment, which broadly fits miraculous/holy child patterns.
+  cautions: Highly contextual and phrased as an episode-specific reaction; may be
+    better retained as evidence under a sacred biography or miraculous child note
+    rather than queried as a motif.
+  suggested_aliases:
+  - holy son protected by destiny
+  - denial of holy child's premature death
+  - child's destined spiritual fulfillment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.released-animal-as-possible-remover-of-death
+  motif_id: released_animal_as_possible_remover_of_death
+  label: released animal as possible remover of death
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal release with removal of death, which could
+    be ritual exchange, animal helper, etiological failed immortality, or death-transformation
+    depending on the passage.
+  cautions: Needs source evidence before mapping; do not equate animal release with
+    sacrifice or resurrection without narrative support.
+  suggested_aliases:
+  - animal release to remove death
+  - released animal as death-remover
+  - animal agent of immortality
+  - liberated animal averting death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be comparative folklore or ritual-analysis
+  categories rather than stable narrative motifs; preserve granular labels as evidence
+  unless they recur.
+- The death_descent_afterlife bucket over-captures ethical, seasonal, and omen motifs
+  here; suggested placements avoid treating all death-related language as descent
+  or resurrection.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for single-occurrence
+    comparative labels and culturally specific ancestor/soul concepts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-28'
+batch:
+  run_id: normalization-suggestions-2026-04-28-unmapped-tiny
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-28-unmapped-tiny-batch-0021
+  input_sha256: 5b423ac2d88365cf2b35f78b66782965adb85436b32e3132a109c4b49ede664a

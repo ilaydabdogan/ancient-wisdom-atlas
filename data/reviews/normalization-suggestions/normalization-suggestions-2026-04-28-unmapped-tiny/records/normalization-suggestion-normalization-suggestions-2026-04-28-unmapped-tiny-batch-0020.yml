@@ -1,0 +1,328 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-28-unmapped-tiny.batch-0020
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.plurality-of-souls
+  motif_id: plurality_of_souls
+  label: plurality of souls
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Soul Concepts and Postmortem Identity
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns theories of soul plurality rather than a journey,
+    resurrection, or judgment episode.
+  cautions: Comparative label may cover many culturally specific anthropologies; needs
+    review before broad indexing.
+  suggested_aliases:
+  - multiple souls
+  - divisible soul
+  - soul plurality
+  suggested_new_group:
+    id: soul_concepts
+    label: Soul Concepts and Postmortem Identity
+    description: Beliefs about the soul, shade, life-force, double, or divisible personhood,
+      especially where these affect death, afterlife, vulnerability, or survival beyond
+      the body.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - afterlife_passage
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing groups emphasize journeys, transformation,
+      judgment, or ritual rather than culturally variable models of soul/personhood.
+- suggestion_id: normalization.suggestion.poisoned-weapon-causes-unintended-death-of-allies
+  motif_id: poisoned_weapon_causes_unintended_death_of_allies
+  label: poisoned weapon causes unintended death of allies
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a combat consequence involving a weapon and accidental
+    allied death.
+  cautions: May be an episode-specific plot detail rather than a reusable motif unless
+    it recurs.
+  suggested_aliases:
+  - accidental death by poisoned weapon
+  - weapon harms allies unintentionally
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.polluting-underworld-offerings-cling-until-return
+  motif_id: polluting_underworld_offerings_cling_until_return
+  label: Polluting underworld offerings cling until return
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Underworld substances or offerings affect the traveler during return
+    from the realm of the dead.
+  cautions: Could also reflect purity rules around offerings; preserve local Ainu
+    ritual context.
+  suggested_aliases:
+  - underworld pollution clings to returner
+  - polluting offerings from underworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.portrait-or-likeness-contains-the-soul
+  motif_id: portrait_or_likeness_contains_the_soul
+  label: portrait or likeness contains the soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Soul Concepts and Postmortem Identity
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif concerns a soul or life-force lodged in an image or likeness.
+  cautions: May overlap with magic image, taboo, icon, or double motifs not yet represented
+    in current groups.
+  suggested_aliases:
+  - soul in image
+  - likeness contains life-force
+  - portrait as soul vessel
+  suggested_new_group:
+    id: soul_concepts
+    label: Soul Concepts and Postmortem Identity
+    description: Beliefs about the soul, shade, life-force, double, or divisible personhood,
+      especially where these affect death, afterlife, vulnerability, or survival beyond
+      the body.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - sacred_vessel
+    - sacred_treasures
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing groups do not clearly cover image-soul
+      or personhood-vulnerability beliefs without reducing them to vessels or treasures.
+- suggestion_id: normalization.suggestion.posthumous-fame-secured-by-tomb-and-funeral-games
+  motif_id: posthumous_fame_secured_by_tomb_and_funeral_games
+  label: Posthumous fame secured by tomb and funeral games
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Tomb and funeral games are commemorative death rites securing memory
+    and honor.
+  cautions: Could also belong to heroic honor or social status if a future group for
+    funerary commemoration is added.
+  suggested_aliases:
+  - funeral games secure fame
+  - tomb as posthumous honor
+  - heroic commemoration after death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-guardianship-of-the-virtuous-dead
+  motif_id: posthumous_guardianship_of_the_virtuous_dead
+  label: Posthumous guardianship of the virtuous dead
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ancestral and Heroic Dead
+  relationship: role_variant
+  confidence: medium
+  rationale: The dead function as protective guardians after death rather than merely
+    undergoing judgment or passage.
+  cautions: Greek hero cult or ancestor cult evidence should be checked before broad
+    application.
+  suggested_aliases:
+  - protective dead
+  - heroic dead as guardians
+  - posthumous guardian
+  suggested_new_group:
+    id: ancestral_and_heroic_dead
+    label: Ancestral and Heroic Dead
+    description: Dead ancestors, heroes, saints, or virtuous persons continue to influence
+      the living as guardians, patrons, helpers, or powers requiring honor and propitiation.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - sacred_exchange
+    - lament_and_mourning
+    - divine_intervention
+    reason_existing_groups_insufficient: Current groups cover afterlife travel and
+      mourning but not the continuing agency of the honored dead toward the living.
+- suggestion_id: normalization.suggestion.postmortem-shades-with-diminished-mind
+  motif_id: postmortem_shades_with_diminished_mind
+  label: Postmortem shades with diminished mind
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Soul Concepts and Postmortem Identity
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif describes the condition and diminished consciousness of the
+    dead as shades.
+  cautions: May be tradition-specific Greek anthropology; do not merge with resurrection
+    or afterlife journey without passage evidence.
+  suggested_aliases:
+  - diminished shades
+  - weakened mind after death
+  - shadowy dead
+  suggested_new_group:
+    id: soul_concepts
+    label: Soul Concepts and Postmortem Identity
+    description: Beliefs about the soul, shade, life-force, double, or divisible personhood,
+      especially where these affect death, afterlife, vulnerability, or survival beyond
+      the body.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - afterlife_passage
+    - descent
+    reason_existing_groups_insufficient: Existing afterlife groups map routes and
+      ordeals but not the ontological condition of the postmortem person.
+- suggestion_id: normalization.suggestion.prayer-for-death-or-supernatural-removal-to-avoid-unwanted-marriage
+  motif_id: prayer_for_death_or_supernatural_removal_to_avoid_unwanted_marriage
+  label: Prayer for death or supernatural removal to avoid unwanted marriage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines death-wish, divine rescue/removal, and coerced marriage
+    themes.
+  cautions: Placement depends on whether the passage emphasizes death, escape, divine
+    intervention, chastity, or marriage coercion.
+  suggested_aliases:
+  - death prayer to avoid marriage
+  - supernatural escape from unwanted marriage
+  - prayer for removal from forced marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.privacy-or-concealment-to-protect-the-soul-during-meals
+  motif_id: privacy_or_concealment_to_protect_the_soul_during_meals
+  label: privacy or concealment to protect the soul during meals
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Soul Concepts and Postmortem Identity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif reflects ritual vulnerability of the soul during eating and
+    protective concealment.
+  cautions: Could also be a taboo or purity rule; comparative source detail should
+    be reviewed.
+  suggested_aliases:
+  - soul vulnerability during meals
+  - concealed eating protects soul
+  - meal privacy taboo
+  suggested_new_group:
+    id: soul_concepts
+    label: Soul Concepts and Postmortem Identity
+    description: Beliefs about the soul, shade, life-force, double, or divisible personhood,
+      especially where these affect death, afterlife, vulnerability, or survival beyond
+      the body.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - sacred_law
+    - ritual_prohibition
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing ritual law groups can hold prohibitions,
+      but the distinctive recurring meaning is soul vulnerability/personhood.
+- suggestion_id: normalization.suggestion.propitiation-of-the-underworld-dead
+  motif_id: propitiation_of_the_underworld_dead
+  label: Propitiation of the underworld dead
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ancestral and Heroic Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The living ritually appease the dead, implying ongoing agency from underworld
+    beings.
+  cautions: Could be indexed under sacred exchange if the passage emphasizes offering
+    mechanics more than dead agency.
+  suggested_aliases:
+  - appeasing the dead
+  - offerings to underworld dead
+  - propitiatory rites for the dead
+  suggested_new_group:
+    id: ancestral_and_heroic_dead
+    label: Ancestral and Heroic Dead
+    description: Dead ancestors, heroes, saints, or virtuous persons continue to influence
+      the living as guardians, patrons, helpers, or powers requiring honor and propitiation.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - sacred_exchange
+    - sacrifice
+    - afterlife_passage
+    reason_existing_groups_insufficient: Sacred exchange covers offering generally,
+      but not the specific motif of the dead as continuing recipients and powers.
+batch_notes:
+- Several labels in this batch point to soul/personhood concepts and the continuing
+  agency of the dead, which are not cleanly represented by current descent, afterlife
+  passage, or death-transformation groups.
+- New group candidates are provisional and should be reviewed against broader unmapped
+  death/ancestor labels before taxonomy changes.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; no transmission or origin claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-28'
+batch:
+  run_id: normalization-suggestions-2026-04-28-unmapped-tiny
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-28-unmapped-tiny-batch-0020
+  input_sha256: 2d4566430a3be3aaa544d502f9b86a7c7b204507566e09ec3cf48b4a6b8d3843

@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-28-unmapped-tiny.batch-0019
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.opposed-elements-as-soul-location-and-means-of-death
+  motif_id: opposed_elements_as_soul_location_and_means_of_death
+  label: opposed elements as soul location and means of death
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines elemental symbolism, soul location, and death mechanism;
+    placement depends on passage evidence.
+  cautions: Could belong under duality, sacred_waters, sacred_fire, or death_by_fate
+    depending on the actual elements and narrative function.
+  suggested_aliases:
+  - elemental opposition and death
+  - soul located in opposing elements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    - death_by_fate
+    - sacred_waters
+    - sacred_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordeal-like-one-foot-posture-against-evil-spirits
+  motif_id: ordeal_like_one_foot_posture_against_evil_spirits
+  label: ordeal-like one-foot posture against evil spirits
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An ordeal-like posture against spirits fits bodily discipline or trial
+    as a transformative/protective ordeal.
+  cautions: If the passage is only a ritual posture or magical technique, it may be
+    too specific for pattern queries.
+  suggested_aliases:
+  - one-foot ordeal posture
+  - protective ascetic posture against spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordered-correspondence-of-state-and-soul
+  motif_id: ordered_correspondence_of_state_and_soul
+  label: Ordered correspondence of State and soul
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif expresses a macrocosm-microcosm correspondence between political
+    order and inner order.
+  cautions: Not specifically a death or afterlife motif; may also support sacred_law
+    or royal_legitimacy in context.
+  suggested_aliases:
+  - state-soul correspondence
+  - macrocosm and microcosm of polity and soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    - wisdom
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordered-soul-as-ordered-city
+  motif_id: ordered_soul_as_ordered_city
+  label: Ordered soul as ordered city
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The soul-city analogy is a structural correspondence of inner and social
+    order.
+  cautions: Could be treated as philosophical teaching rather than a narrative motif;
+    review whether it should be indexed for wisdom or sacred_law instead.
+  suggested_aliases:
+  - soul as city
+  - ordered city as image of ordered soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_knowledge
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peaceful-death-foretold-after-old-age-and-completed-rites
+  motif_id: peaceful_death_foretold_after_old_age_and_completed_rites
+  label: peaceful death foretold after old age and completed rites
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A foretold death at the proper time frames death as destined and ritually
+    completed.
+  cautions: If the emphasis is completed rites rather than fate, sacred_time or sacrifice
+    may be secondary facets.
+  suggested_aliases:
+  - foretold peaceful death
+  - death after completed rites
+  - destined death in old age
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - sacrifice
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.people-claiming-descent-or-kindred-from-the-sun
+  motif_id: people_claiming_descent_or_kindred_from_the_sun
+  label: people claiming descent or kindred from the sun
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: Solar descent or kinship commonly legitimizes peoples, lineages, rulers,
+    or sacred status.
+  cautions: If it refers to an entire divine race rather than political legitimacy,
+    divine_race may be the better group.
+  suggested_aliases:
+  - solar descent
+  - sun-kin lineage
+  - descent from the sun
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_race
+    - supreme_ruler
+    - sacred_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perilous-passage-between-two-deadly-threats
+  motif_id: perilous_passage_between_two_deadly_threats
+  label: perilous passage between two deadly threats
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dangerous passage between lethal alternatives functions as a threshold
+    ordeal or trial of navigation.
+  cautions: Could also be a hero_journey episode or threshold_guardian encounter if
+    the threats are personified or boundary-keeping.
+  suggested_aliases:
+  - passage between two dangers
+  - narrow passage between deadly threats
+  - between two perils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - threshold_guardian
+    - descent
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.permanent-indwelling-of-a-divine-spirit-in-a-human-body
+  motif_id: permanent_indwelling_of_a_divine_spirit_in_a_human_body
+  label: Permanent indwelling of a divine spirit in a human body
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Indwelling divine spirit may describe incarnation, possession, inspiration,
+    mystical union, or theological anthropology.
+  cautions: Culturally and doctrinally sensitive; placement requires source context
+    and distinction from temporary possession or theophany.
+  suggested_aliases:
+  - divine indwelling
+  - permanent spirit embodiment
+  - divine spirit in human body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - annihilation_union
+    - divine_intervention
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personal-guardian-spirit-accompanying-a-human-life
+  motif_id: personal_guardian_spirit_accompanying_a_human_life
+  label: personal guardian spirit accompanying a human life
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A guardian spirit accompanying a person functions as ongoing supernatural
+    guidance or protection in human life.
+  cautions: If the motif concerns soul doctrine or postmortem fate, it may need separate
+    review outside intervention/guidance.
+  suggested_aliases:
+  - personal guardian spirit
+  - accompanying daimon
+  - life guardian spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - death_by_fate
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plant-juice-as-blood-and-soul-of-the-plant
+  motif_id: plant_juice_as_blood_and_soul_of_the_plant
+  label: plant juice as blood and soul of the plant
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: This parallels blood-as-life symbolism, extending vital soul substance
+    to plants.
+  cautions: If used in sacrificial or ingestion ritual, sacrifice or sacred_exchange
+    may be better primary facets.
+  suggested_aliases:
+  - plant sap as blood
+  - plant juice as life-soul
+  - vegetal blood as soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - sacred_exchange
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are philosophical or doctrinal rather than narrative motifs; human
+  review should verify source context before canonical promotion.
+- The supplied bucket is death/descent/afterlife, but several suggested placements
+  fall outside that bucket because the labels point to order, lineage, guidance, or
+  symbolic life-substance.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: ''
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-28'
+batch:
+  run_id: normalization-suggestions-2026-04-28-unmapped-tiny
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-28-unmapped-tiny-batch-0019
+  input_sha256: 891fc4f3d89b66c1bf7324e2751ac2620109349f208971d71a34efb2ad10ccca
