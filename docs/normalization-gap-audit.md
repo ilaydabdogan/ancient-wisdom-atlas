@@ -7,8 +7,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 ## Summary
 
 - Indexed motif IDs: 9072
-- Already mapped: 5883
-- Unmapped: 3189
+- Already mapped: 5905
+- Unmapped: 3167
 
 | Review Bucket | Unmapped Motifs |
 | --- | ---: |
@@ -17,10 +17,10 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | Divine Presence, Ritual, Sacrifice, And Purity | 164 |
 | Wisdom, Speech, Dream, Vision, And Revelation | 396 |
 | Power, Kingship, Law, Judgment, And Social Order | 471 |
-| Love, Family, Gender, Birth, And The Body | 169 |
+| Love, Family, Gender, Birth, And The Body | 158 |
 | Animals, Trickster, Disguise, And Transformation | 430 |
-| Nature, Elements, Celestial Order, And Cosmos | 110 |
-| Conflict, Violence, Heroic Ordeal, And Victory | 127 |
+| Nature, Elements, Celestial Order, And Cosmos | 101 |
+| Conflict, Violence, Heroic Ordeal, And Victory | 125 |
 | Objects, Places, Boundaries, And Thresholds | 249 |
 | Ethics, Psychology, Discipline, And Inner Life | 173 |
 | Needs Human Sorting | 370 |
@@ -1630,9 +1630,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `betrayal_of_a_later_husband_to_restore_a_first_marriage` | betrayal of a later husband to restore a first marriage | 1 | greek |
 | `birth_binding_gesture_and_charm` | Birth-binding gesture and charm | 1 | roman |
 | `bloodied_garment_as_deception_of_a_parent` | bloodied garment as deception of a parent | 1 | islamic |
-| `bride_choice_assembly` | bride-choice assembly | 1 | buddhist |
-| `bride_s_own_answer_required` | Bride’s own answer required | 1 | celtic_irish |
-| `bride_winning_martial_contest` | bride-winning martial contest | 1 | hindu |
 | `bride_won_by_dangerous_contest` | bride won by dangerous contest | 1 | roman |
 | `bridegroom_chosen_under_restricted_sight` | Bridegroom chosen under restricted sight | 1 | norse |
 | `celestial_maiden_weaving_on_the_rainbow` | celestial maiden weaving on the rainbow | 1 | finnish_karelian |
@@ -1681,10 +1678,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `human_relation_with_personified_fortune` | human relation with personified Fortune | 1 | greek |
 | `immense_age_measured_by_erosion_and_ecological_change` | immense age measured by erosion and ecological change | 1 | celtic_welsh |
 | `impersonal_celestial_control_of_natural_forces` | impersonal celestial control of natural forces | 1 | persian |
-| `jealous_stepmother_demands_child_s_heart` | jealous stepmother demands child's heart | 1 | ainu |
-| `jealous_stepmother_endangers_children` | Jealous stepmother endangers children | 1 | celtic_irish |
-| `jealous_stepmother_falsely_accuses_innocent_stepchild` | jealous stepmother falsely accuses innocent stepchild | 1 | japanese |
-| `jealous_wife_or_stepmother_harms_children` | jealous wife or stepmother harms children | 1 | celtic_irish |
 | `life_saving_maiden_remembered_by_hero` | life-saving maiden remembered by hero | 1 | greek |
 | `lost_children_mourned_after_being_left_with_a_dangerous_stranger` | lost children mourned after being left with a dangerous stranger | 1 | indigenous_australian |
 | `love_story_with_supernatural_background` | love-story with supernatural background | 1 | celtic_irish |
@@ -1720,10 +1713,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `prophetic_marriage_alliance` | prophetic marriage alliance | 1 | islamic |
 | `proxy_wooing_for_marriage` | Proxy wooing for marriage | 1 | greek |
 | `public_humiliation_penance_after_alleged_child_killing` | public humiliation penance after alleged child-killing | 1 | celtic_welsh |
-| `recognition_by_personal_tokens` | recognition by personal tokens | 1 | greek |
-| `recognition_prevents_kin_slaying_by_poison` | Recognition prevents kin-slaying by poison | 1 | roman |
-| `recognition_token_exchanged_while_one_beloved_sleeps` | recognition token exchanged while one beloved sleeps | 1 | islamicate_folklore |
-| `recognition_tokens_from_the_abducted_beloved` | recognition tokens from the abducted beloved | 1 | hindu |
 | `rejected_sorceress_punishes_beloved` | rejected sorceress punishes beloved | 1 | greek_roman |
 | `renewed_challenge_after_apparent_pacification` | renewed challenge after apparent pacification | 1 | greek |
 | `repeated_furnace_creation_produces_unsuitable_beings_before_the_desired_form` | Repeated furnace creation produces unsuitable beings before the desired form | 1 | finnish_karelian |
@@ -2256,8 +2245,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `flourishing_work_as_tree` | flourishing work as tree | 1 | greek |
 | `fortified_island_under_threat_from_across_the_sea` | fortified island under threat from across the sea | 1 | hindu |
 | `fortune_revealed_as_bodily_loss_and_constrained_service` | Fortune revealed as bodily loss and constrained service | 1 | daoist |
-| `four_age_decline_of_the_world_period` | four-age decline of the world period | 1 | hindu |
-| `four_ages_of_the_world` | Four ages of the world | 1 | greek |
 | `giant_leader_perceived_as_a_moving_mountain` | Giant leader perceived as a moving mountain | 1 | celtic_welsh |
 | `hermitage_recognized_by_fire_and_smoke` | hermitage recognized by fire and smoke | 1 | hindu |
 | `heroic_geography_of_fords_rivers_and_mountains` | heroic geography of fords, rivers, and mountains | 1 | celtic_irish |
@@ -2271,14 +2258,10 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `lost_age_of_magic_and_decline_of_the_world` | lost age of magic and decline of the world | 1 | ainu |
 | `mediating_envoy_between_cultural_worlds` | Mediating envoy between cultural worlds | 1 | sufi |
 | `miraculous_creation_of_armies_by_a_cow` | Miraculous creation of armies by a cow | 1 | hindu |
-| `moon_as_guide_and_comforter` | Moon as guide and comforter | 1 | hindu |
-| `moon_as_witness_to_future_absence` | Moon as witness to future absence | 1 | sufi |
 | `mountain_roaming_wild_deity` | mountain-roaming wild deity | 1 | greek |
 | `mountain_setting_associated_with_bacchic_festival` | mountain setting associated with Bacchic festival | 1 | roman |
 | `mountain_stronghold_overcome_by_concealed_night_ambush` | mountain stronghold overcome by concealed night ambush | 1 | persian |
 | `mountain_vantage_reveals_hidden_figures` | mountain vantage reveals hidden figures | 1 | greek |
-| `music_that_charms_nature` | music that charms nature | 1 | greek_roman |
-| `music_that_charms_nature_and_restrains_violence` | music that charms nature and restrains violence | 1 | roman |
 | `nature_as_witness_to_hidden_violence` | Nature as witness to hidden violence | 1 | hindu |
 | `nature_born_army_using_natural_weapons_in_siege` | nature-born army using natural weapons in siege | 1 | hindu |
 | `night_procession_with_stars` | night procession with stars | 1 | greek_roman |
@@ -2310,9 +2293,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `secret_night_abduction_by_sea` | secret night abduction by sea | 1 | islamicate_folklore |
 | `storytelling_at_fire_and_tree_shade` | storytelling at fire and tree shade | 1 | indigenous_australian |
 | `struggle_for_food_and_water` | struggle for food and water | 1 | indigenous_australian |
-| `sun_as_source_of_illumination_and_growth` | sun as source of illumination and growth | 1 | greek |
-| `sun_confined_and_released_from_a_tower` | Sun confined and released from a tower | 1 | comparative |
-| `sunlight_petrifies_beings_of_darkness_or_fog` | Sunlight petrifies beings of darkness or fog | 1 | norse |
 | `suspension_between_heaven_and_earth_to_contain_power` | suspension between heaven and earth to contain power | 1 | comparative |
 | `sympathetic_gesture_or_object_action_produces_wind_effect` | Sympathetic gesture or object action produces wind effect | 1 | comparative |
 | `test_reveals_unchanged_nature` | test reveals unchanged nature | 1 | greek |
@@ -2360,8 +2340,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `council_stratagem_testing_the_army_s_resolve` | council stratagem testing the army's resolve | 1 | greek |
 | `dangerous_hunt_warning` | dangerous hunt warning | 1 | roman |
 | `dangerous_sleeper_with_involuntary_heroic_violence` | dangerous sleeper with involuntary heroic violence | 1 | celtic_irish |
-| `deceptive_gift_containing_hidden_warriors` | Deceptive gift containing hidden warriors | 1 | greek_roman |
-| `deceptive_promise_of_treasure_used_to_lure_an_enemy` | deceptive promise of treasure used to lure an enemy | 1 | roman |
 | `destruction_of_unaware_dependents` | destruction of unaware dependents | 1 | daoist |
 | `destructive_one_horned_stag_monster` | destructive one-horned stag monster | 1 | celtic_welsh |
 | `differentiated_heroic_courage` | differentiated heroic courage | 1 | greek |

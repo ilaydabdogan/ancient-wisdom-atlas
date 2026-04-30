@@ -8,9 +8,9 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Indexed motif IDs: 9072
 - Indexed motif occurrences: 31658
-- Canonical motif groups: 60
-- Mapped motif IDs counted: 5540
-- Unmapped motif IDs excluded: 3532
+- Canonical motif groups: 62
+- Mapped motif IDs counted: 5562
+- Unmapped motif IDs excluded: 3510
 
 ## Ranked Canonical Motifs
 
@@ -18,7 +18,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | ---: | --- | ---: | ---: | ---: | --- |
 | 1 | `death_and_transformation` Death, Rebirth, and Transformation | 22 | 1480 | 125 | islamic (419), comparative (256), sufi (252), roman (124), greek (70) |
 | 2 | `initiation` Initiation and Transformative Ordeal | 22 | 755 | 69 | sufi (146), greek (114), hindu (78), celtic_irish (65), comparative (64) |
-| 3 | `sacred_knowledge` Sacred Knowledge and Wisdom | 21 | 4287 | 154 | sufi (947), greek (947), islamic (616), daoist (372), buddhist (349) |
+| 3 | `sacred_knowledge` Sacred Knowledge and Wisdom | 21 | 4286 | 153 | sufi (947), greek (947), islamic (616), daoist (372), buddhist (349) |
 | 4 | `divine_judgment` Divine Judgment and Moral Reckoning | 21 | 2484 | 287 | islamic (1326), greek (319), sufi (221), roman (221), hindu (122) |
 | 5 | `sacred_exchange` Sacred Exchange and Reciprocity | 20 | 1396 | 135 | greek (242), islamic (183), hindu (174), comparative (140), celtic_irish (110) |
 | 6 | `ascent` Ascent and Heavenly Journey | 20 | 483 | 6 | sufi (96), greek (95), islamic (67), hindu (59), roman (54) |
@@ -31,9 +31,9 @@ This report counts only motif IDs that already map to a canonical normalization 
 | 13 | `cosmic_origin` Cosmic Origin and Creation | 19 | 299 | 115 | islamic (78), greek (39), hindu (38), roman (29), norse (28) |
 | 14 | `descent` Descent and Underworld Journey | 19 | 197 | 34 | roman (38), greek (30), hindu (19), finnish_karelian (17), greek_roman (13) |
 | 15 | `miraculous_child` Miraculous Child and Sacred Birth | 18 | 1086 | 67 | greek (235), roman (196), hindu (147), islamic (118), greek_roman (95) |
-| 16 | `sacred_love` Sacred Love and Longing | 18 | 862 | 225 | hindu (211), roman (123), greek (115), celtic_irish (102), sufi (51) |
+| 16 | `sacred_love` Sacred Love and Longing | 18 | 865 | 228 | hindu (212), roman (123), greek (115), celtic_irish (103), sufi (51) |
 | 17 | `shapeshifter` Shapeshifter and Transformation | 18 | 844 | 46 | roman (354), greek (85), hindu (81), celtic_irish (81), norse (43) |
-| 18 | `trickster` Trickster and Boundary Crosser | 18 | 484 | 64 | greek (127), buddhist (47), celtic_irish (43), roman (37), islamicate_folklore (34) |
+| 18 | `trickster` Trickster and Boundary Crosser | 18 | 486 | 66 | greek (127), buddhist (47), celtic_irish (43), roman (38), islamicate_folklore (34) |
 | 19 | `sacred_law` Sacred Law and Social Order | 18 | 340 | 337 | islamic (122), comparative (80), greek (46), hindu (30), roman (11) |
 | 20 | `sacred_waters` Sacred Waters and Passage Through Water | 18 | 226 | 126 | roman (35), greek (29), islamic (29), hindu (28), celtic_irish (20) |
 | 21 | `sacred_twins` Sacred Twins and Sibling Pairs | 18 | 198 | 11 | hindu (71), greek (32), roman (28), greek_roman (14), islamic (11) |
@@ -45,15 +45,15 @@ This report counts only motif IDs that already map to a canonical normalization 
 | 27 | `sacred_treasures` Sacred Treasures and Power Objects | 16 | 250 | 249 | celtic_irish (42), greek (35), hindu (26), roman (25), norse (17) |
 | 28 | `lament_and_mourning` Lament, Mourning, and Tragic Recognition | 16 | 193 | 193 | celtic_irish (49), greek (43), hindu (31), roman (28), sufi (8) |
 | 29 | `divine_intervention` Divine Intervention and Guidance | 15 | 472 | 466 | islamic (158), greek (98), hindu (35), roman (34), sufi (32) |
-| 30 | `sacred_fire` Sacred Fire and Divine Light | 15 | 140 | 75 | hindu (22), comparative (20), islamic (18), roman (15), greek (14) |
+| 30 | `sacred_fire` Sacred Fire and Divine Light | 15 | 143 | 78 | hindu (22), comparative (21), islamic (18), greek (15), roman (15) |
 | 31 | `pride_and_downfall` Pride, Hubris, and Downfall | 15 | 89 | 89 | greek (45), roman (9), islamic (7), sufi (6), hindu (5) |
-| 32 | `storytelling_as_power` Storytelling and Narrative as Sacred Power | 15 | 83 | 83 | greek (23), celtic_irish (13), islamicate_folklore (7), finnish_karelian (7), sufi (6) |
-| 33 | `threshold_guardian` Threshold Guardian | 14 | 93 | 93 | celtic_irish (27), roman (15), greek (9), hindu (7), islamic (5) |
-| 34 | `otherworld` Otherworld and Enchanted Realm | 14 | 91 | 89 | celtic_irish (39), greek_roman (10), greek (8), hindu (8), islamic (6) |
+| 32 | `storytelling_as_power` Storytelling and Narrative as Sacred Power | 15 | 71 | 71 | greek (23), celtic_irish (8), islamicate_folklore (7), sufi (6), buddhist (5) |
+| 33 | `otherworld` Otherworld and Enchanted Realm | 14 | 91 | 89 | celtic_irish (39), greek_roman (10), greek (8), hindu (8), islamic (6) |
+| 34 | `threshold_guardian` Threshold Guardian | 14 | 88 | 88 | celtic_irish (24), roman (15), greek (9), hindu (7), islamic (5) |
 | 35 | `sacred_combat` Sacred Combat and Ritual Warfare | 13 | 569 | 559 | celtic_irish (309), hindu (80), greek (71), roman (44), celtic_welsh (20) |
 | 36 | `afterlife_passage` Afterlife Navigation and Passage | 13 | 461 | 25 | islamic (120), greek (75), sufi (54), roman (53), hindu (44) |
 | 37 | `divine_warrior` Divine Warrior and Sacred Combat | 13 | 376 | 371 | greek (105), hindu (92), celtic_irish (91), roman (34), norse (18) |
-| 38 | `dream_and_vision` Dream, Vision, and Altered Perception | 13 | 110 | 110 | greek (23), celtic_irish (19), hindu (17), roman (15), sufi (7) |
+| 38 | `dream_and_vision` Dream, Vision, and Altered Perception | 13 | 112 | 112 | greek (23), celtic_irish (19), hindu (18), roman (15), sufi (8) |
 | 39 | `sacred_vessel` Sacred Vessel and Container | 13 | 34 | 34 | islamicate_folklore (7), roman (6), sufi (4), greek_roman (3), celtic_irish (3) |
 | 40 | `mother_goddess` Sacred Feminine and Mother Goddess | 11 | 98 | 19 | greek_roman (23), greek (21), roman (14), finnish_karelian (13), comparative (13) |
 | 41 | `theophany` Theophany and Divine Manifestation | 11 | 65 | 65 | islamic (18), greek (10), hindu (9), sufi (7), comparative (5) |
@@ -63,19 +63,21 @@ This report counts only motif IDs that already map to a canonical normalization 
 | 45 | `ancestor_rites` Ancestor Rites and Feeding the Dead | 10 | 24 | 24 | sufi (6), hindu (5), islamic (3), japanese (2), roman (2) |
 | 46 | `external_soul` External Soul and Life-Token | 8 | 92 | 89 | comparative (77), roman (4), islamicate_folklore (3), hindu (2), greek_roman (2) |
 | 47 | `supreme_ruler` Supreme Ruler and Cosmic Sovereignty | 6 | 20 | 20 | islamic (10), hindu (5), sufi (2), finnish_karelian (1), greek (1) |
-| 48 | `beauty_and_paradox` Beauty Paired with Pain and Paradox | 6 | 12 | 11 | sufi (5), celtic_irish (2), islamic (2), greek (1), greek_roman (1) |
-| 49 | `conditional_invulnerability_hidden_weakness` Conditional Invulnerability and Hidden Weakness | 5 | 19 | 19 | hindu (9), roman (5), celtic_irish (2), greek_roman (2), comparative (1) |
-| 50 | `soul_loss_restoration` Soul Loss and Restoration | 5 | 16 | 16 | comparative (12), daoist (1), greek (1), islamic (1), sufi (1) |
-| 51 | `immortality_without_renewal` Immortality Without Renewal | 5 | 12 | 12 | roman (4), greek_roman (3), norse (3), greek (1), persian (1) |
-| 52 | `recognition_tokens_hidden_identity` Recognition Tokens and Hidden Identity | 5 | 11 | 10 | greek (3), islamicate_folklore (3), celtic_irish (2), hindu (2), celtic_welsh (1) |
-| 53 | `primordial_sacrifice` Primordial Sacrifice and Dismemberment | 3 | 5 | 5 | finnish_karelian (2), norse (2), roman (1) |
-| 54 | `world_ages_cosmic_decline` World Ages and Cosmic Decline | 3 | 5 | 5 | roman (3), greek_roman (1), norse (1) |
-| 55 | `fate_figures_cosmic_weaving` Fate Figures and Cosmic Weaving | 2 | 4 | 4 | norse (3), greek (1) |
-| 56 | `hospitality_test_stranger_guest` Hospitality Test and Stranger Guest | 2 | 3 | 3 | greek (2), norse (1) |
-| 57 | `betrayal_violated_trust` Betrayal and Violated Trust | 2 | 2 | 2 | celtic_irish (1), greek (1) |
-| 58 | `restless_dead_haunting_vengeance` Restless Dead, Haunting, and Vengeance | 2 | 2 | 2 | celtic_irish (1), greek_roman (1) |
-| 59 | `divine_race` Divine Race and Arrival of the Gods | 1 | 2 | 2 | celtic_irish (2) |
-| 60 | `_meta_textual` Textual and Scholarly Artifacts [meta] | 5 | 7 | 7 | greek_roman (2), norse (2), buddhist (1), comparative (1), japanese (1) |
+| 48 | `recognition_tokens_hidden_identity` Recognition Tokens and Identity Proofs | 6 | 15 | 14 | greek (4), islamicate_folklore (4), hindu (3), celtic_irish (2), celtic_welsh (1) |
+| 49 | `beauty_and_paradox` Beauty Paired with Pain and Paradox | 6 | 12 | 11 | sufi (5), celtic_irish (2), islamic (2), greek (1), greek_roman (1) |
+| 50 | `enchanting_music` Enchanting Music and Sound Power | 5 | 20 | 20 | celtic_irish (8), norse (4), finnish_karelian (3), greek_roman (3), roman (2) |
+| 51 | `conditional_invulnerability_hidden_weakness` Conditional Invulnerability and Hidden Weakness | 5 | 19 | 19 | hindu (9), roman (5), celtic_irish (2), greek_roman (2), comparative (1) |
+| 52 | `soul_loss_restoration` Soul Loss and Restoration | 5 | 16 | 16 | comparative (12), daoist (1), greek (1), islamic (1), sufi (1) |
+| 53 | `immortality_without_renewal` Immortality Without Renewal | 5 | 12 | 12 | roman (4), greek_roman (3), norse (3), greek (1), persian (1) |
+| 54 | `world_ages_cosmic_decline` World Ages and Cosmic Decline | 5 | 7 | 7 | roman (3), greek (1), greek_roman (1), hindu (1), norse (1) |
+| 55 | `primordial_sacrifice` Primordial Sacrifice and Dismemberment | 3 | 5 | 5 | finnish_karelian (2), norse (2), roman (1) |
+| 56 | `jealous_stepmother_persecuted_child` Jealous Stepmother and Persecuted Child | 3 | 4 | 4 | celtic_irish (2), ainu (1), japanese (1) |
+| 57 | `fate_figures_cosmic_weaving` Fate Figures and Cosmic Weaving | 2 | 4 | 4 | norse (3), greek (1) |
+| 58 | `hospitality_test_stranger_guest` Hospitality Test and Stranger Guest | 2 | 3 | 3 | greek (2), norse (1) |
+| 59 | `betrayal_violated_trust` Betrayal and Violated Trust | 2 | 2 | 2 | celtic_irish (1), greek (1) |
+| 60 | `restless_dead_haunting_vengeance` Restless Dead, Haunting, and Vengeance | 2 | 2 | 2 | celtic_irish (1), greek_roman (1) |
+| 61 | `divine_race` Divine Race and Arrival of the Gods | 1 | 2 | 2 | celtic_irish (2) |
+| 62 | `_meta_textual` Textual and Scholarly Artifacts [meta] | 5 | 7 | 7 | greek_roman (2), norse (2), buddhist (1), comparative (1), japanese (1) |
 
 ## Death, Rebirth, and Transformation
 
@@ -295,8 +297,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_knowledge`
 - Distinct traditions: 21
-- Occurrences: 4287
-- Mapped motif IDs: 154
+- Occurrences: 4286
+- Mapped motif IDs: 153
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -441,7 +443,6 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `spiritual_incapacity_figured_as_deadness_deafness_and_blindness` | symbolic_variant | 1 | 1 |
 | `supernatural_beings_converted_by_sacred_recitation` | functional_variant | 1 | 1 |
 | `supernatural_conversion_through_sacred_recitation` | functional_variant | 1 | 1 |
-| `supernatural_music_commanding_nature` | functional_variant | 1 | 1 |
 | `testing_inherited_tradition` | functional_variant | 1 | 1 |
 | `tripartite_ordering_of_the_soul_and_lives` | uncertain | 1 | 1 |
 | `tripartite_soul_or_three_inner_principles` | uncertain | 1 | 1 |
@@ -1606,8 +1607,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_love`
 - Distinct traditions: 18
-- Occurrences: 862
-- Mapped motif IDs: 225
+- Occurrences: 865
+- Mapped motif IDs: 228
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -1640,8 +1641,11 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `beloved_s_vow_of_exclusive_attachment` | functional_variant | 1 | 1 |
 | `betrayal_of_a_besieged_city_for_love` | functional_variant | 1 | 1 |
 | `bond_of_love_as_resistance_to_tyranny` | functional_variant | 1 | 1 |
+| `bride_choice_assembly` | folded_child_motif | 1 | 1 |
 | `bride_or_beloved_rides_into_funeral_fire` | functional_variant | 1 | 1 |
+| `bride_s_own_answer_required` | folded_child_motif | 1 | 1 |
 | `bride_seeking_after_failed_love` | functional_variant | 1 | 1 |
+| `bride_winning_martial_contest` | folded_child_motif | 1 | 1 |
 | `captive_lover_unable_to_break_bonds` | functional_variant | 1 | 1 |
 | `captive_treated_with_guarded_luxury` | functional_variant | 1 | 1 |
 | `celestial_body_responding_to_human_beauty` | symbolic_variant | 1 | 1 |
@@ -1897,8 +1901,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `trickster`
 - Distinct traditions: 18
-- Occurrences: 484
-- Mapped motif IDs: 64
+- Occurrences: 486
+- Mapped motif IDs: 66
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -1916,6 +1920,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `cunning_weak_figure_confounds_stronger_rival` | functional_variant | 1 | 1 |
 | `deceitful_dispossession_through_gaming` | functional_variant | 1 | 1 |
 | `deceptive_bargain_exposed_by_counter_stratagem` | functional_variant | 1 | 1 |
+| `deceptive_gift_containing_hidden_warriors` | folded_child_motif | 1 | 1 |
+| `deceptive_promise_of_treasure_used_to_lure_an_enemy` | folded_child_motif | 1 | 1 |
 | `deceptive_speech_delaying_divine_detection` | functional_variant | 1 | 1 |
 | `deceptive_substitution_of_one_thing_for_another` | functional_variant | 1 | 1 |
 | `destructive_servant_subverts_assigned_tasks` | functional_variant | 1 | 1 |
@@ -3772,8 +3778,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_fire`
 - Distinct traditions: 15
-- Occurrences: 140
-- Mapped motif IDs: 75
+- Occurrences: 143
+- Mapped motif IDs: 78
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -3844,6 +3850,9 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `solar_hero_marked_by_radiance_and_golden_armour` | symbolic_variant | 1 | 1 |
 | `special_production_of_ritual_fire_by_wood_friction` | ritual_variant | 1 | 1 |
 | `sun_as_reflection_of_divine_glory` | symbolic_variant | 1 | 1 |
+| `sun_as_source_of_illumination_and_growth` | folded_child_motif | 1 | 1 |
+| `sun_confined_and_released_from_a_tower` | folded_child_motif | 1 | 1 |
+| `sunlight_petrifies_beings_of_darkness_or_fog` | folded_child_motif | 1 | 1 |
 | `sympathetic_fire_charm_to_summon_the_absent` | ritual_variant | 1 | 1 |
 | `temple_as_national_hearth` | symbolic_variant | 1 | 1 |
 | `torch_bearing_ritual_race` | ritual_variant | 1 | 1 |
@@ -3956,8 +3965,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `storytelling_as_power`
 - Distinct traditions: 15
-- Occurrences: 83
-- Mapped motif IDs: 83
+- Occurrences: 71
+- Mapped motif IDs: 71
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -3980,10 +3989,6 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `eloquence_represented_as_golden_chains_from_the_mouth` | symbolic_variant | 1 | 1 |
 | `embedded_tale_within_judicial_inquiry` | functional_variant | 1 | 1 |
 | `enchanted_drink_causing_sleep_at_a_feast` | functional_variant | 1 | 1 |
-| `enchanted_music_compels_procession` | functional_variant | 1 | 1 |
-| `enchanted_music_summons_animals_birds_forest_beings_and_sky_daughters` | functional_variant | 1 | 1 |
-| `enchanted_music_that_causes_sleep` | functional_variant | 1 | 1 |
-| `enchanting_music_that_attracts_living_beings` | functional_variant | 1 | 1 |
 | `enchantment_of_the_soul_by_speech` | functional_variant | 1 | 1 |
 | `enduring_sacred_fame_guaranteed_by_natural_permanence` | symbolic_variant | 1 | 1 |
 | `enemy_rhetoric_exploiting_grievance` | functional_variant | 1 | 1 |
@@ -3997,14 +4002,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `invocation_of_divine_witnesses_for_heroic_catalogue` | uncertain | 1 | 1 |
 | `liberator_threatened_by_captive` | child | 1 | 1 |
 | `lost_ancient_tribes_remembered_through_tradition_and_scripture` | functional_variant | 1 | 1 |
-| `magical_music_causing_universal_emotion_or_sleep` | functional_variant | 1 | 1 |
-| `magical_music_controlling_emotion_and_sleep` | functional_variant | 1 | 1 |
-| `magical_music_subdues_opponents` | functional_variant | 1 | 1 |
 | `marvelous_voice_producing_abundance_and_delight` | functional_variant | 1 | 1 |
-| `music_compelling_or_softening_supernatural_powers` | functional_variant | 1 | 1 |
 | `music_summons_a_shade_giving_grove` | over_specific_label | 1 | 1 |
-| `music_that_compels_emotion_and_sleep` | functional_variant | 1 | 1 |
-| `music_that_induces_sleep_or_weakens_vigilance` | functional_variant | 1 | 1 |
 | `oral_preservation_by_trained_bards` | functional_variant | 1 | 1 |
 | `oral_tradition_passed_to_future_generations` | functional_variant | 1 | 1 |
 | `oral_transmission_of_heroic_legend_in_domestic_settings` | functional_variant | 1 | 1 |
@@ -4019,7 +4018,6 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `poetic_immortality_of_heroic_pair` | symbolic_variant | 1 | 1 |
 | `poetic_praise_increases_warrior_courage` | functional_variant | 1 | 1 |
 | `poetic_song_survives_death` | symbolic_variant | 1 | 1 |
-| `powerful_music_causing_beings_to_fall_or_perish` | functional_variant | 1 | 1 |
 | `praise_or_rebuke_restores_a_warrior_s_courage` | functional_variant | 1 | 1 |
 | `public_display_contest_of_sacred_and_poetic_texts` | functional_variant | 1 | 1 |
 | `public_recitation_leading_to_civic_and_sacred_recognition` | functional_variant | 1 | 1 |
@@ -4029,7 +4027,6 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `ritual_completion_of_scripture_through_divided_recitation` | ritual_variant | 1 | 1 |
 | `rival_praise_of_local_heroes` | uncertain | 1 | 1 |
 | `rivalry_of_poetry_and_philosophy` | functional_variant | 1 | 1 |
-| `sacred_music_draws_celestial_bodies_downward` | functional_variant | 1 | 1 |
 | `sacred_narrative_displayed_on_relic_shrines` | ritual_variant | 1 | 1 |
 | `sacred_opening_formula` | ritual_variant | 1 | 1 |
 | `self_composed_epitaph_before_death` | functional_variant | 1 | 1 |
@@ -4044,109 +4041,6 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `war_camp_storytelling_of_heroic_feats` | functional_variant | 1 | 1 |
 | `wit_overwhelms_supernatural_force` | child | 1 | 1 |
 | `woman_weaving_the_war_caused_around_her` | symbolic_variant | 1 | 1 |
-
-## Threshold Guardian
-
-- Canonical motif ID: `threshold_guardian`
-- Distinct traditions: 14
-- Occurrences: 93
-- Mapped motif IDs: 93
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `animal_guardian_at_sacred_threshold` | role_variant | 1 | 1 |
-| `armed_watcher_defeats_supernatural_seeming_intruder` | role_variant | 1 | 1 |
-| `blinding_of_a_one_eyed_cannibal_giant_with_heated_spits` | functional_variant | 1 | 1 |
-| `bound_maiden_threatened_by_devouring_monster` | uncertain | 1 | 1 |
-| `cannibal_giant_in_a_castle_of_bones` | uncertain | 1 | 1 |
-| `cannibal_monster_s_hidden_lair` | narrower_than | 1 | 1 |
-| `children_unwittingly_reveal_a_concealed_entrance` | functional_variant | 1 | 1 |
-| `combat_with_guardian_and_guardian_s_sons` | functional_variant | 1 | 1 |
-| `combat_with_spectral_being` | uncertain | 1 | 1 |
-| `concealed_predatory_nature_beneath_attractive_appearance` | functional_variant | 1 | 1 |
-| `contested_household_entrance` | functional_variant | 1 | 1 |
-| `contested_landing_at_a_liminal_shore` | functional_variant | 1 | 1 |
-| `corruption_or_bypassing_of_guardians` | functional_variant | 1 | 1 |
-| `dangerous_hospitality_at_a_monster_s_dwelling` | functional_variant | 1 | 1 |
-| `dangerous_hybrid_singers_lure_seafarers_to_death` | functional_variant | 1 | 1 |
-| `dangerous_island_inhabited_by_a_strangling_monster` | functional_variant | 1 | 1 |
-| `dangerous_water_source_guarded_by_a_predatory_creature` | functional_variant | 1 | 1 |
-| `deadly_boundary_against_further_negotiation` | uncertain | 1 | 1 |
-| `deadly_siren_seascape` | functional_variant | 1 | 1 |
-| `deceptive_supernatural_spouse_who_consumes_the_human_partner` | functional_variant | 1 | 1 |
-| `destructive_female_lure` | functional_variant | 1 | 1 |
-| `directional_guardian_deities` | role_variant | 1 | 1 |
-| `divine_defense_of_a_civic_threshold` | functional_variant | 1 | 1 |
-| `divine_or_supernatural_boundary_imposed_on_pursuit` | functional_variant | 1 | 1 |
-| `enchanted_lodging_as_trap` | functional_variant | 1 | 1 |
-| `enchanted_prevention_of_landing` | functional_variant | 1 | 1 |
-| `enchanting_supernatural_music` | functional_variant | 1 | 1 |
-| `failed_magical_or_musical_lure_replaced_by_practical_action` | functional_variant | 1 | 1 |
-| `false_bride_or_false_marriage_lure` | functional_variant | 1 | 1 |
-| `false_hospitality_conceals_predation` | functional_variant | 1 | 1 |
-| `female_guardian_of_the_hero_s_death` | role_variant | 1 | 1 |
-| `flight_from_irresistible_voice` | functional_variant | 1 | 1 |
-| `ford_obstruction_delaying_pursuit_or_attack` | functional_variant | 1 | 1 |
-| `gatekeeping_dwarf_blocks_access_to_a_lord` | functional_variant | 1 | 1 |
-| `giant_s_dangerous_appetite_restrained_by_enchanted_sleep` | narrower_than | 1 | 1 |
-| `guarded_heavens_repelling_devils` | functional_variant | 1 | 1 |
-| `guardian_as_potential_predator` | role_variant | 1 | 1 |
-| `guardian_figure_unsuccessfully_blocks_abductor` | functional_variant | 1 | 1 |
-| `guardian_monster_bypassed_by_enchanted_food` | functional_variant | 1 | 1 |
-| `guardian_of_hidden_treasures` | role_variant | 1 | 1 |
-| `headless_devouring_giant_blocks_and_seizes_heroes` | functional_variant | 1 | 1 |
-| `hero_bound_to_a_mast` | functional_variant | 1 | 1 |
-| `hero_defeats_aerial_enchantress_through_a_small_aperture` | uncertain | 1 | 1 |
-| `hero_defeats_hostile_guardians_with_magic_weapon` | functional_variant | 1 | 1 |
-| `heroic_boundary_challenge_halting_an_army` | role_variant | 1 | 1 |
-| `heroic_obstacle_at_a_threshold_ford` | functional_variant | 1 | 1 |
-| `hospitality_as_trap_through_enchanted_food_or_drink` | functional_variant | 1 | 1 |
-| `illusory_water_at_a_palace_threshold` | functional_variant | 1 | 1 |
-| `inscribed_obstacle_test_blocks_an_army` | functional_variant | 1 | 1 |
-| `irresistible_fairy_music_causing_compulsory_dance_or_fatal_performance` | functional_variant | 1 | 1 |
-| `lethal_sea_lure_and_drowning_power` | functional_variant | 1 | 1 |
-| `lethal_supernatural_music` | functional_variant | 1 | 1 |
-| `magical_barrier_preventing_reunion` | functional_variant | 1 | 1 |
-| `magical_lure_separates_the_protector_from_the_victim` | functional_variant | 1 | 1 |
-| `many_eyed_vigilant_guardian` | role_variant | 1 | 1 |
-| `monster_haunting_a_dangerous_threshold` | functional_variant | 1 | 1 |
-| `monster_in_a_cave_seizing_sailors` | functional_variant | 1 | 1 |
-| `monstrous_harbour_obstruction_overcome_by_heroes` | functional_variant | 1 | 1 |
-| `monstrous_one_eyed_guardian_with_conditional_death` | functional_variant | 1 | 1 |
-| `monstrous_sea_hazard_at_a_dangerous_strait` | functional_variant | 1 | 1 |
-| `monstrous_sisters_at_the_edge_of_the_world` | role_variant | 1 | 1 |
-| `numbered_otherworld_guardians_as_a_test` | functional_variant | 1 | 1 |
-| `otherworldly_gifts_lure_warriors_into_peril` | functional_variant | 1 | 1 |
-| `perilous_enchanting_music` | functional_variant | 1 | 1 |
-| `perilous_giant_host_encounter` | role_variant | 1 | 1 |
-| `perilous_island_warning` | functional_variant | 1 | 1 |
-| `perilous_passage_between_two_deadly_threats` | functional_variant | 1 | 1 |
-| `perilous_sacred_boundary` | narrower_than | 1 | 1 |
-| `phantom_lure_into_isolated_forest` | functional_variant | 1 | 1 |
-| `promised_woman_as_lure_leading_warriors_to_death` | functional_variant | 1 | 1 |
-| `proper_reverence_toward_cosmic_guardians` | ritual_variant | 1 | 1 |
-| `protective_barrier_against_monstrous_or_hostile_peoples` | functional_variant | 1 | 1 |
-| `rescued_survivor_from_a_cannibal_giant` | functional_variant | 1 | 1 |
-| `rescuers_overcome_by_hostile_enchantment` | functional_variant | 1 | 1 |
-| `ritual_combat_with_a_spirit_through_a_floor_opening` | functional_variant | 1 | 1 |
-| `ritual_confrontation_with_an_enchanter` | uncertain | 1 | 1 |
-| `ritualized_sevenfold_hunt_at_a_boundary_or_gate` | ritual_variant | 1 | 1 |
-| `sea_born_monster_causing_chariot_catastrophe` | uncertain | 1 | 1 |
-| `semi_supernatural_guardian_or_swift_hound` | role_variant | 1 | 1 |
-| `single_eye_shared_among_sisters` | symbolic_variant | 1 | 1 |
-| `siren_song_draws_river_travelers_to_death` | functional_variant | 1 | 1 |
-| `slayer_replaces_the_slain_guardian` | role_variant | 1 | 1 |
-| `sleepless_many_eyed_watcher_guarding_a_transformed_woman` | role_variant | 1 | 1 |
-| `summoned_sea_monster_confronts_the_hero_s_vessel` | functional_variant | 1 | 1 |
-| `summoning_or_revealing_monstrous_creatures_by_sounding_a_horn` | functional_variant | 1 | 1 |
-| `supernatural_hindrance_at_a_ford_during_heroic_combat` | functional_variant | 1 | 1 |
-| `supernatural_hound_bound_in_sleep` | uncertain | 1 | 1 |
-| `threshold_encounter_with_water_maidens` | role_variant | 1 | 1 |
-| `treacherous_lure_into_a_concealed_water_trap` | functional_variant | 1 | 1 |
-| `uncanny_ford_encounter` | child | 1 | 1 |
-| `vengeful_blood_fine_demand_by_harmful_supernatural_challengers` | role_variant | 1 | 1 |
-| `water_woman_enticing_mortals_at_a_waterfall` | functional_variant | 1 | 1 |
-| `woodland_deity_guarding_field_boundaries` | role_variant | 1 | 1 |
 
 ## Otherworld and Enchanted Realm
 
@@ -4246,6 +4140,104 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `women_only_island_confronting_arriving_male_heroes` | functional_variant | 1 | 1 |
 | `women_only_land_with_seasonal_husbands` | narrower_than | 1 | 1 |
 | `world_edge_divine_absence` | uncertain | 1 | 1 |
+
+## Threshold Guardian
+
+- Canonical motif ID: `threshold_guardian`
+- Distinct traditions: 14
+- Occurrences: 88
+- Mapped motif IDs: 88
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `animal_guardian_at_sacred_threshold` | role_variant | 1 | 1 |
+| `armed_watcher_defeats_supernatural_seeming_intruder` | role_variant | 1 | 1 |
+| `blinding_of_a_one_eyed_cannibal_giant_with_heated_spits` | functional_variant | 1 | 1 |
+| `bound_maiden_threatened_by_devouring_monster` | uncertain | 1 | 1 |
+| `cannibal_giant_in_a_castle_of_bones` | uncertain | 1 | 1 |
+| `cannibal_monster_s_hidden_lair` | narrower_than | 1 | 1 |
+| `children_unwittingly_reveal_a_concealed_entrance` | functional_variant | 1 | 1 |
+| `combat_with_guardian_and_guardian_s_sons` | functional_variant | 1 | 1 |
+| `combat_with_spectral_being` | uncertain | 1 | 1 |
+| `concealed_predatory_nature_beneath_attractive_appearance` | functional_variant | 1 | 1 |
+| `contested_household_entrance` | functional_variant | 1 | 1 |
+| `contested_landing_at_a_liminal_shore` | functional_variant | 1 | 1 |
+| `corruption_or_bypassing_of_guardians` | functional_variant | 1 | 1 |
+| `dangerous_hospitality_at_a_monster_s_dwelling` | functional_variant | 1 | 1 |
+| `dangerous_hybrid_singers_lure_seafarers_to_death` | functional_variant | 1 | 1 |
+| `dangerous_island_inhabited_by_a_strangling_monster` | functional_variant | 1 | 1 |
+| `dangerous_water_source_guarded_by_a_predatory_creature` | functional_variant | 1 | 1 |
+| `deadly_boundary_against_further_negotiation` | uncertain | 1 | 1 |
+| `deadly_siren_seascape` | functional_variant | 1 | 1 |
+| `deceptive_supernatural_spouse_who_consumes_the_human_partner` | functional_variant | 1 | 1 |
+| `destructive_female_lure` | functional_variant | 1 | 1 |
+| `directional_guardian_deities` | role_variant | 1 | 1 |
+| `divine_defense_of_a_civic_threshold` | functional_variant | 1 | 1 |
+| `divine_or_supernatural_boundary_imposed_on_pursuit` | functional_variant | 1 | 1 |
+| `enchanted_lodging_as_trap` | functional_variant | 1 | 1 |
+| `enchanted_prevention_of_landing` | functional_variant | 1 | 1 |
+| `failed_magical_or_musical_lure_replaced_by_practical_action` | functional_variant | 1 | 1 |
+| `false_bride_or_false_marriage_lure` | functional_variant | 1 | 1 |
+| `false_hospitality_conceals_predation` | functional_variant | 1 | 1 |
+| `female_guardian_of_the_hero_s_death` | role_variant | 1 | 1 |
+| `flight_from_irresistible_voice` | functional_variant | 1 | 1 |
+| `ford_obstruction_delaying_pursuit_or_attack` | functional_variant | 1 | 1 |
+| `gatekeeping_dwarf_blocks_access_to_a_lord` | functional_variant | 1 | 1 |
+| `giant_s_dangerous_appetite_restrained_by_enchanted_sleep` | narrower_than | 1 | 1 |
+| `guarded_heavens_repelling_devils` | functional_variant | 1 | 1 |
+| `guardian_as_potential_predator` | role_variant | 1 | 1 |
+| `guardian_figure_unsuccessfully_blocks_abductor` | functional_variant | 1 | 1 |
+| `guardian_monster_bypassed_by_enchanted_food` | functional_variant | 1 | 1 |
+| `guardian_of_hidden_treasures` | role_variant | 1 | 1 |
+| `headless_devouring_giant_blocks_and_seizes_heroes` | functional_variant | 1 | 1 |
+| `hero_bound_to_a_mast` | functional_variant | 1 | 1 |
+| `hero_defeats_aerial_enchantress_through_a_small_aperture` | uncertain | 1 | 1 |
+| `hero_defeats_hostile_guardians_with_magic_weapon` | functional_variant | 1 | 1 |
+| `heroic_boundary_challenge_halting_an_army` | role_variant | 1 | 1 |
+| `heroic_obstacle_at_a_threshold_ford` | functional_variant | 1 | 1 |
+| `hospitality_as_trap_through_enchanted_food_or_drink` | functional_variant | 1 | 1 |
+| `illusory_water_at_a_palace_threshold` | functional_variant | 1 | 1 |
+| `inscribed_obstacle_test_blocks_an_army` | functional_variant | 1 | 1 |
+| `lethal_sea_lure_and_drowning_power` | functional_variant | 1 | 1 |
+| `magical_barrier_preventing_reunion` | functional_variant | 1 | 1 |
+| `magical_lure_separates_the_protector_from_the_victim` | functional_variant | 1 | 1 |
+| `many_eyed_vigilant_guardian` | role_variant | 1 | 1 |
+| `monster_haunting_a_dangerous_threshold` | functional_variant | 1 | 1 |
+| `monster_in_a_cave_seizing_sailors` | functional_variant | 1 | 1 |
+| `monstrous_harbour_obstruction_overcome_by_heroes` | functional_variant | 1 | 1 |
+| `monstrous_one_eyed_guardian_with_conditional_death` | functional_variant | 1 | 1 |
+| `monstrous_sea_hazard_at_a_dangerous_strait` | functional_variant | 1 | 1 |
+| `monstrous_sisters_at_the_edge_of_the_world` | role_variant | 1 | 1 |
+| `numbered_otherworld_guardians_as_a_test` | functional_variant | 1 | 1 |
+| `otherworldly_gifts_lure_warriors_into_peril` | functional_variant | 1 | 1 |
+| `perilous_giant_host_encounter` | role_variant | 1 | 1 |
+| `perilous_island_warning` | functional_variant | 1 | 1 |
+| `perilous_passage_between_two_deadly_threats` | functional_variant | 1 | 1 |
+| `perilous_sacred_boundary` | narrower_than | 1 | 1 |
+| `phantom_lure_into_isolated_forest` | functional_variant | 1 | 1 |
+| `promised_woman_as_lure_leading_warriors_to_death` | functional_variant | 1 | 1 |
+| `proper_reverence_toward_cosmic_guardians` | ritual_variant | 1 | 1 |
+| `protective_barrier_against_monstrous_or_hostile_peoples` | functional_variant | 1 | 1 |
+| `rescued_survivor_from_a_cannibal_giant` | functional_variant | 1 | 1 |
+| `rescuers_overcome_by_hostile_enchantment` | functional_variant | 1 | 1 |
+| `ritual_combat_with_a_spirit_through_a_floor_opening` | functional_variant | 1 | 1 |
+| `ritual_confrontation_with_an_enchanter` | uncertain | 1 | 1 |
+| `ritualized_sevenfold_hunt_at_a_boundary_or_gate` | ritual_variant | 1 | 1 |
+| `sea_born_monster_causing_chariot_catastrophe` | uncertain | 1 | 1 |
+| `semi_supernatural_guardian_or_swift_hound` | role_variant | 1 | 1 |
+| `single_eye_shared_among_sisters` | symbolic_variant | 1 | 1 |
+| `slayer_replaces_the_slain_guardian` | role_variant | 1 | 1 |
+| `sleepless_many_eyed_watcher_guarding_a_transformed_woman` | role_variant | 1 | 1 |
+| `summoned_sea_monster_confronts_the_hero_s_vessel` | functional_variant | 1 | 1 |
+| `summoning_or_revealing_monstrous_creatures_by_sounding_a_horn` | functional_variant | 1 | 1 |
+| `supernatural_hindrance_at_a_ford_during_heroic_combat` | functional_variant | 1 | 1 |
+| `supernatural_hound_bound_in_sleep` | uncertain | 1 | 1 |
+| `threshold_encounter_with_water_maidens` | role_variant | 1 | 1 |
+| `treacherous_lure_into_a_concealed_water_trap` | functional_variant | 1 | 1 |
+| `uncanny_ford_encounter` | child | 1 | 1 |
+| `vengeful_blood_fine_demand_by_harmful_supernatural_challengers` | role_variant | 1 | 1 |
+| `water_woman_enticing_mortals_at_a_waterfall` | functional_variant | 1 | 1 |
+| `woodland_deity_guarding_field_boundaries` | role_variant | 1 | 1 |
 
 ## Sacred Combat and Ritual Warfare
 
@@ -5236,8 +5228,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `dream_and_vision`
 - Distinct traditions: 13
-- Occurrences: 110
-- Mapped motif IDs: 110
+- Occurrences: 112
+- Mapped motif IDs: 112
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -5313,6 +5305,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `miraculous_sign_in_the_heavens` | symbolic_variant | 1 | 1 |
 | `mirage_as_deceptive_water_appearance` | uncertain | 1 | 1 |
 | `mistaken_smoke_portent` | functional_variant | 1 | 1 |
+| `moon_as_guide_and_comforter` | folded_child_motif | 1 | 1 |
+| `moon_as_witness_to_future_absence` | folded_child_motif | 1 | 1 |
 | `murdered_dead_reveals_hidden_truth_in_dream` | functional_variant | 1 | 1 |
 | `mysterious_music_from_an_unseen_hidden_place` | uncertain | 1 | 1 |
 | `night_as_pregnant_with_future_events` | symbolic_variant | 1 | 1 |
@@ -5989,6 +5983,30 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `supreme_ruler_descends_appears_from_above_to_rule_all_lands` | child | 1 | 1 |
 | `universal_divine_sovereignty_over_heaven_and_earth` | alias | 1 | 1 |
 
+## Recognition Tokens and Identity Proofs
+
+- Canonical motif ID: `recognition_tokens_hidden_identity`
+- Distinct traditions: 6
+- Occurrences: 15
+- Mapped motif IDs: 14
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `recognition_by_bodily_scar` | uncertain | 1 | 2 |
+| `noble_beauty_concealed_by_poverty_or_worn_garments` | uncertain | 1 | 1 |
+| `recognition_by_personal_tokens` | child_motif | 1 | 1 |
+| `recognition_by_scent_on_food_or_object` | child_motif | 1 | 1 |
+| `recognition_of_herald_by_visible_tokens` | child_motif | 1 | 1 |
+| `recognition_prevents_kin_slaying_by_poison` | child_motif | 1 | 1 |
+| `recognition_through_a_talisman_or_token` | child_motif | 1 | 1 |
+| `recognition_through_hidden_identity_and_voice` | child_motif | 1 | 1 |
+| `recognition_token_as_bodily_scar` | child_motif | 1 | 1 |
+| `recognition_token_exchanged_while_one_beloved_sleeps` | child_motif | 1 | 1 |
+| `recognition_token_proving_an_otherwise_denied_encounter` | child_motif | 1 | 1 |
+| `recognition_token_sent_by_envoy` | child_motif | 1 | 1 |
+| `recognition_token_sent_through_a_messenger` | child_motif | 1 | 1 |
+| `recognition_tokens_from_the_abducted_beloved` | child_motif | 1 | 1 |
+
 ## Beauty Paired with Pain and Paradox
 
 - Canonical motif ID: `beauty_and_paradox`
@@ -6009,6 +6027,36 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `outward_beauty_as_cause_of_destruction` | symbolic_variant | 1 | 1 |
 | `withered_rose_as_image_of_lost_beauty` | symbolic_variant | 1 | 1 |
 | `wounds_figured_as_flowers` | symbolic_variant | 1 | 1 |
+
+## Enchanting Music and Sound Power
+
+- Canonical motif ID: `enchanting_music`
+- Distinct traditions: 5
+- Occurrences: 20
+- Mapped motif IDs: 20
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `enchanted_music_compels_procession` | child_motif | 1 | 1 |
+| `enchanted_music_summons_animals_birds_forest_beings_and_sky_daughters` | child_motif | 1 | 1 |
+| `enchanted_music_that_causes_sleep` | child_motif | 1 | 1 |
+| `enchanting_music_that_attracts_living_beings` | child_motif | 1 | 1 |
+| `enchanting_supernatural_music` | child_motif | 1 | 1 |
+| `irresistible_fairy_music_causing_compulsory_dance_or_fatal_performance` | child_motif | 1 | 1 |
+| `lethal_supernatural_music` | child_motif | 1 | 1 |
+| `magical_music_causing_universal_emotion_or_sleep` | child_motif | 1 | 1 |
+| `magical_music_controlling_emotion_and_sleep` | child_motif | 1 | 1 |
+| `magical_music_subdues_opponents` | child_motif | 1 | 1 |
+| `music_compelling_or_softening_supernatural_powers` | child_motif | 1 | 1 |
+| `music_that_charms_nature` | child_motif | 1 | 1 |
+| `music_that_charms_nature_and_restrains_violence` | child_motif | 1 | 1 |
+| `music_that_compels_emotion_and_sleep` | child_motif | 1 | 1 |
+| `music_that_induces_sleep_or_weakens_vigilance` | child_motif | 1 | 1 |
+| `perilous_enchanting_music` | child_motif | 1 | 1 |
+| `powerful_music_causing_beings_to_fall_or_perish` | child_motif | 1 | 1 |
+| `sacred_music_draws_celestial_bodies_downward` | child_motif | 1 | 1 |
+| `siren_song_draws_river_travelers_to_death` | child_motif | 1 | 1 |
+| `supernatural_music_commanding_nature` | child_motif | 1 | 1 |
 
 ## Conditional Invulnerability and Hidden Weakness
 
@@ -6087,25 +6135,22 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `rejuvenating_food_preserves_divine_youth` | symbolic_variant | 1 | 1 |
 | `youth_renewing_divine_food` | symbolic_variant | 1 | 1 |
 
-## Recognition Tokens and Hidden Identity
+## World Ages and Cosmic Decline
 
-- Canonical motif ID: `recognition_tokens_hidden_identity`
+- Canonical motif ID: `world_ages_cosmic_decline`
 - Distinct traditions: 5
-- Occurrences: 11
-- Mapped motif IDs: 10
+- Occurrences: 7
+- Mapped motif IDs: 7
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `recognition_by_bodily_scar` | uncertain | 1 | 2 |
-| `noble_beauty_concealed_by_poverty_or_worn_garments` | uncertain | 1 | 1 |
-| `recognition_by_scent_on_food_or_object` | functional_variant | 1 | 1 |
-| `recognition_of_herald_by_visible_tokens` | functional_variant | 1 | 1 |
-| `recognition_through_a_talisman_or_token` | functional_variant | 1 | 1 |
-| `recognition_through_hidden_identity_and_voice` | functional_variant | 1 | 1 |
-| `recognition_token_as_bodily_scar` | functional_variant | 1 | 1 |
-| `recognition_token_proving_an_otherwise_denied_encounter` | functional_variant | 1 | 1 |
-| `recognition_token_sent_by_envoy` | functional_variant | 1 | 1 |
-| `recognition_token_sent_through_a_messenger` | alias | 1 | 1 |
+| `decline_through_successive_metallic_ages` | child_motif | 1 | 1 |
+| `declining_ages_of_humankind` | child_motif | 1 | 1 |
+| `divine_peace_stead_and_golden_age` | child_motif | 1 | 1 |
+| `four_age_decline_of_the_world_period` | child_motif | 1 | 1 |
+| `four_ages_of_the_world` | child_motif | 1 | 1 |
+| `primeval_age_followed_by_degeneration` | child_motif | 1 | 1 |
+| `primordial_innocence_followed_by_loss_of_effortless_abundance` | child_motif | 1 | 1 |
 
 ## Primordial Sacrifice and Dismemberment
 
@@ -6122,20 +6167,19 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `landscape_formed_from_transformed_body` | symbolic_variant | 1 | 1 |
 | `vegetation_growing_from_the_body_of_an_ancient_figure` | symbolic_variant | 1 | 1 |
 
-## World Ages and Cosmic Decline
+## Jealous Stepmother and Persecuted Child
 
-- Canonical motif ID: `world_ages_cosmic_decline`
+- Canonical motif ID: `jealous_stepmother_persecuted_child`
 - Distinct traditions: 3
-- Occurrences: 5
-- Mapped motif IDs: 5
+- Occurrences: 4
+- Mapped motif IDs: 4
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
-| `decline_through_successive_metallic_ages` | narrower_than | 1 | 1 |
-| `declining_ages_of_humankind` | narrower_than | 1 | 1 |
-| `divine_peace_stead_and_golden_age` | narrower_than | 1 | 1 |
-| `primeval_age_followed_by_degeneration` | narrower_than | 1 | 1 |
-| `primordial_innocence_followed_by_loss_of_effortless_abundance` | narrower_than | 1 | 1 |
+| `jealous_stepmother_demands_child_s_heart` | child_motif | 1 | 1 |
+| `jealous_stepmother_endangers_children` | child_motif | 1 | 1 |
+| `jealous_stepmother_falsely_accuses_innocent_stepchild` | child_motif | 1 | 1 |
+| `jealous_wife_or_stepmother_harms_children` | child_motif | 1 | 1 |
 
 ## Fate Figures and Cosmic Weaving
 

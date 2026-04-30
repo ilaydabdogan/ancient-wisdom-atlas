@@ -459,6 +459,7 @@ canonical_motif_groups:
   - axis_mundi
   - flood_and_renewal
   - world_ages_cosmic_decline
+  - sacred_fire
 - id: primordial_sacrifice
   label: Primordial Sacrifice and Dismemberment
   description: 'The cosmos created through the death, sacrifice, or dismemberment
@@ -772,6 +773,8 @@ canonical_motif_groups:
   - afterlife_passage
   - sacrifice
   - covenant
+  - world_ages_cosmic_decline
+  - jealous_stepmother_persecuted_child
 - id: flood_and_renewal
   label: Flood, Fire, and Cosmic Renewal
   description: 'The destruction of the world or the old order by water, fire, or catastrophe,
@@ -807,9 +810,12 @@ canonical_motif_groups:
   - predator_lures_prey_into_enclosed_dwelling
   - predator_profits_from_another_s_misfortune
   - predator_s_peace_proposal_requires_removal_of_protection
+  - deceptive_gift_containing_hidden_warriors
+  - deceptive_promise_of_treasure_used_to_lure_an_enemy
   aliases:
   - predator_deception_fable_reversal
   - food_theft_by_feigned_helpfulness
+  - deceptive_war_stratagem
   related:
   - sacred_knowledge
   - threshold_guardian
@@ -829,6 +835,7 @@ canonical_motif_groups:
   - descent
   - initiation
   - serpent_guardian
+  - enchanting_music
 - id: serpent_guardian
   label: Serpent and Serpent Guardian
   description: 'The serpent as guardian of sacred knowledge, threshold between worlds,
@@ -876,6 +883,8 @@ canonical_motif_groups:
   - mother_goddess
   - hero_journey
   - cosmic_origin
+  - jealous_stepmother_persecuted_child
+  - recognition_tokens_hidden_identity
 - id: mother_goddess
   label: Sacred Feminine and Mother Goddess
   description: 'The divine mother, earth goddess, source-feminine, or nurturing-and-terrible
@@ -982,11 +991,17 @@ canonical_motif_groups:
 '
   children:
   - cloud_fire_guidance
-  aliases: []
+  - sun_as_source_of_illumination_and_growth
+  - sun_confined_and_released_from_a_tower
+  - sunlight_petrifies_beings_of_darkness_or_fog
+  aliases:
+  - solar_power
   related:
   - axis_mundi
   - sacrifice
   - theophany
+  - world_ages_cosmic_decline
+  - enchanting_music
 - id: sacred_vessel
   label: Sacred Vessel and Container
   description: 'The sacred container # cauldron, grail, ark, pot, sealed jar # that
@@ -1154,23 +1169,14 @@ canonical_motif_groups:
   - wit_overwhelms_supernatural_force
   - authorship_as_public_immortality
   - enchanted_drink_causing_sleep_at_a_feast
-  - enchanted_music_compels_procession
-  - enchanted_music_that_causes_sleep
-  - enchanting_music_that_attracts_living_beings
-  - magical_music_causing_universal_emotion_or_sleep
-  - magical_music_controlling_emotion_and_sleep
-  - magical_music_subdues_opponents
-  - music_that_compels_emotion_and_sleep
-  - music_that_induces_sleep_or_weakens_vigilance
   aliases:
   - magical_compulsion
-  - enchanted_music
-  - enchanted_music_sound_power
   - enchantment_compulsion
-  - enchanting_music
   related:
   - sacred_knowledge
   - initiation
+  - enchanting_music
+  - recognition_tokens_hidden_identity
 - id: sacred_waters
   label: Sacred Waters and Passage Through Water
   description: 'Water as boundary, purifier, destroyer, and medium of transformation.
@@ -1197,11 +1203,17 @@ canonical_motif_groups:
   - enduring_love_beyond_bodily_decay
   - perilous_path_of_love_requiring_caution
   - fidelity_in_ornamental_captivity
-  aliases: []
+  - bride_choice_assembly
+  - bride_s_own_answer_required
+  - bride_winning_martial_contest
+  aliases:
+  - marriage_choice_bride_winning
   related:
   - mystical_quest
   - death_and_transformation
   - divine_beloved
+  - jealous_stepmother_persecuted_child
+  - recognition_tokens_hidden_identity
 - id: lament_and_mourning
   label: Lament, Mourning, and Tragic Recognition
   description: 'The expression of grief, loss, and tragic awareness. Includes mourning
@@ -1291,7 +1303,10 @@ canonical_motif_groups:
   - opened_perception
   - constrained_oracle
   - dream_imagery_of_animals_foreshadowing_or_associated_with_violent_consumption
-  aliases: []
+  - moon_as_guide_and_comforter
+  - moon_as_witness_to_future_absence
+  aliases:
+  - celestial_guides_witnesses
   related:
   - sacred_knowledge
   - theophany
@@ -1577,25 +1592,33 @@ canonical_motif_groups:
   accepted_from: taxonomy/proposed-new-groups-review.yml
 - id: world_ages_cosmic_decline
   label: World Ages and Cosmic Decline
-  description: 'The child motifs form a clear sequence pattern: a better primordial
-    age gives way to decline, loss, or degeneration across later ages.'
+  description: The recurring schema of successive world ages, yugas, golden ages,
+    metallic ages, and cosmic decline, where a primordial or divine order decays across
+    time.
   children:
   - decline_through_successive_metallic_ages
   - declining_ages_of_humankind
   - primeval_age_followed_by_degeneration
   - primordial_innocence_followed_by_loss_of_effortless_abundance
   - divine_peace_stead_and_golden_age
+  - four_age_decline_of_the_world_period
+  - four_ages_of_the_world
   aliases:
   - world_ages_decline
   - ages_of_decline
   - golden_age_primordial_peace
+  - four_ages
+  - yugas
+  - metallic_ages
   related:
   - sacred_time
   - cosmic_origin
   - duality
+  - divine_judgment
+  - flood_and_renewal
   review_status: human_accepted
   accepted_on: '2026-04-29'
-  accepted_from: taxonomy/proposed-new-groups-review.yml
+  accepted_from: docs/normalization-review-layer-3-new-groups.md
 - id: hospitality_test_stranger_guest
   label: Hospitality Test and Stranger Guest
   description: The guest or suppliant functions as a sacred test of the host, making
@@ -1613,9 +1636,9 @@ canonical_motif_groups:
   accepted_on: '2026-04-29'
   accepted_from: taxonomy/proposed-new-groups-review.yml
 - id: recognition_tokens_hidden_identity
-  label: Recognition Tokens and Hidden Identity
-  description: Tokens, scent, scars, voice, talismans, and messengers repeatedly prove
-    identity or a denied encounter.
+  label: Recognition Tokens and Identity Proofs
+  description: Tokens, scars, scent, voice, talismans, and messenger-borne objects
+    prove identity, kinship, authority, or a denied encounter across traditions.
   children:
   - recognition_by_scent_on_food_or_object
   - recognition_of_herald_by_visible_tokens
@@ -1625,14 +1648,28 @@ canonical_motif_groups:
   - recognition_token_proving_an_otherwise_denied_encounter
   - recognition_token_sent_by_envoy
   - recognition_token_sent_through_a_messenger
+  - recognition_by_personal_tokens
+  - recognition_prevents_kin_slaying_by_poison
+  - recognition_token_exchanged_while_one_beloved_sleeps
+  - recognition_tokens_from_the_abducted_beloved
   aliases:
   - recognition_tokens_hidden_identity
+  - recognition_tokens
+  - identity_tokens
+  - proof_tokens
+  - hidden_identity_proof
+  - recognition_by_scar
   related:
   - hero_journey
   - sacred_treasures
+  - royal_legitimacy
+  - sacred_love
+  - miraculous_child
+  - divine_judgment
+  - storytelling_as_power
   review_status: human_accepted
   accepted_on: '2026-04-29'
-  accepted_from: taxonomy/proposed-new-groups-review.yml
+  accepted_from: docs/normalization-review-layer-3-new-groups.md
 - id: restless_dead_haunting_vengeance
   label: Restless Dead, Haunting, and Vengeance
   description: The dead remain active after death through haunting, return, or vengeance
@@ -1669,6 +1706,71 @@ canonical_motif_groups:
   review_status: human_accepted
   accepted_on: '2026-04-29'
   accepted_from: taxonomy/proposed-new-groups-review.yml
+- id: enchanting_music
+  label: Enchanting Music and Sound Power
+  description: 'Music, song, instrument sound, or voice acts as supernatural force:
+    charming nature, compelling sleep or procession, subduing opponents, summoning
+    powers, or luring hearers across a threshold.'
+  children:
+  - music_that_charms_nature
+  - music_that_charms_nature_and_restrains_violence
+  - enchanted_music_compels_procession
+  - enchanted_music_that_causes_sleep
+  - enchanting_music_that_attracts_living_beings
+  - magical_music_causing_universal_emotion_or_sleep
+  - magical_music_controlling_emotion_and_sleep
+  - magical_music_subdues_opponents
+  - music_that_compels_emotion_and_sleep
+  - music_that_induces_sleep_or_weakens_vigilance
+  - enchanted_music_summons_animals_birds_forest_beings_and_sky_daughters
+  - music_compelling_or_softening_supernatural_powers
+  - powerful_music_causing_beings_to_fall_or_perish
+  - sacred_music_draws_celestial_bodies_downward
+  - supernatural_music_commanding_nature
+  - enchanting_supernatural_music
+  - perilous_enchanting_music
+  - irresistible_fairy_music_causing_compulsory_dance_or_fatal_performance
+  - lethal_supernatural_music
+  - siren_song_draws_river_travelers_to_death
+  aliases:
+  - enchanted_music
+  - magical_music
+  - supernatural_music
+  - sound_compulsion
+  - orphic_music
+  - siren_song
+  - music_as_power
+  related:
+  - storytelling_as_power
+  - sacred_knowledge
+  - threshold_guardian
+  - sacred_love
+  - sacred_combat
+  review_status: human_accepted
+  accepted_on: '2026-04-29'
+  accepted_from: docs/normalization-review-layer-3-new-groups.md
+- id: jealous_stepmother_persecuted_child
+  label: Jealous Stepmother and Persecuted Child
+  description: A jealous stepmother, wife, or rival caretaker endangers, falsely accuses,
+    or demands violence against an innocent child; the focus is persecution within
+    the household rather than the child's sacred destiny.
+  children:
+  - jealous_stepmother_demands_child_s_heart
+  - jealous_stepmother_endangers_children
+  - jealous_stepmother_falsely_accuses_innocent_stepchild
+  - jealous_wife_or_stepmother_harms_children
+  aliases:
+  - persecuted_child
+  - jealous_stepmother
+  - wicked_stepmother
+  - false_accusation_of_stepchild
+  related:
+  - miraculous_child
+  - sacred_love
+  - divine_judgment
+  review_status: human_accepted
+  accepted_on: '2026-04-29'
+  accepted_from: docs/normalization-review-layer-3-new-groups.md
 raw_motif_group_index:
   _meta_textual:
     group_id: _meta_textual
@@ -9189,21 +9291,17 @@ raw_motif_group_index:
     - otherworldly captivity by elves
     - enchanted captivity
   enchanting_supernatural_music:
-    group_id: threshold_guardian
-    relationship: functional_variant
-    confidence: medium
-    review_status: model_auto_accepted_medium_or_high_confidence
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Supernatural music that enchants often functions as a perilous lure or
-      threshold obstacle, matching existing fatal-enchantment children. Caution: If
-      the passage emphasizes revelation, artistry, or sacred song rather than danger
-      or passage-blocking, dream_and_vision, storytelling_as_power, or sacred_knowledge
-      may fit better.'
-    suggested_aliases:
-    - supernatural enchanting music
-    - perilous supernatural song
-    - enchanted music lure
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: threshold_guardian
+    previous_review_status: model_auto_accepted_medium_or_high_confidence
   encounter_with_an_obscured_opponent_in_mist:
     group_id: sacred_combat
     relationship: functional_variant
@@ -11934,19 +12032,17 @@ raw_motif_group_index:
     - hidden_life_object
     - invulnerability_through_externalized_soul
   irresistible_fairy_music_causing_compulsory_dance_or_fatal_performance:
-    group_id: threshold_guardian
-    relationship: functional_variant
-    confidence: medium
-    review_status: model_auto_accepted_medium_or_high_confidence
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Fatal enchantment by fairy music resembles an otherworldly lure or perilous
-      threshold encounter already represented under threshold_guardian. Caution: If
-      the passage emphasizes fairyland itself rather than a dangerous boundary encounter,
-      otherworld may be a secondary or better placement.'
-    suggested_aliases:
-    - perilous lure fatal enchantment
-    - enchanted music causing fatal dance
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: threshold_guardian
+    previous_review_status: model_auto_accepted_medium_or_high_confidence
   irreversible_loss_of_naive_belief:
     group_id: mystical_quest
     relationship: functional_variant
@@ -12149,20 +12245,17 @@ raw_motif_group_index:
     - leftovers linked to eater
     - contagious magic through food remains
   lethal_supernatural_music:
-    group_id: threshold_guardian
-    relationship: functional_variant
-    confidence: medium
-    review_status: model_auto_accepted_medium_or_high_confidence
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Lethal supernatural music resembles perilous lure or fatal enchantment
-      by liminal beings already grouped under threshold_guardian. Caution: If music
-      functions as sacred song, prophecy, or ritual power rather than lure or barrier,
-      sacred_knowledge or storytelling_as_power may fit better.'
-    suggested_aliases:
-    - fatal supernatural music
-    - deadly enchanted music
-    - perilous musical enchantment
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: threshold_guardian
+    previous_review_status: model_auto_accepted_medium_or_high_confidence
   liberation_from_bondage_remembered:
     group_id: mystical_quest
     relationship: symbolic_variant
@@ -14201,20 +14294,17 @@ raw_motif_group_index:
     - loss of nonviolent age
     - mythic age ends with meat-eating
   perilous_enchanting_music:
-    group_id: threshold_guardian
-    relationship: functional_variant
-    confidence: medium
-    review_status: model_auto_accepted_medium_or_high_confidence
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Dangerous enchantment that lures or imperils hearers fits the existing
-      perilous lure/fatal enchantment threshold complex. Caution: If music functions
-      as sacred song, prophecy, or healing rather than lethal boundary danger, sacred_knowledge
-      or storytelling_as_power may fit better.'
-    suggested_aliases:
-    - fatal_enchanting_music
-    - perilous_lure_by_music
-    - enchanting_music_as_threshold_peril
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: threshold_guardian
+    previous_review_status: model_auto_accepted_medium_or_high_confidence
   perpetual_mourning_assigned_to_transformed_being:
     group_id: lament_and_mourning
     relationship: symbolic_variant
@@ -14686,21 +14776,17 @@ raw_motif_group_index:
     - multi-headed monster defeated
     - decapitation of multi-headed giant
   music_compelling_or_softening_supernatural_powers:
-    group_id: storytelling_as_power
-    relationship: functional_variant
-    confidence: medium
-    review_status: model_auto_accepted_medium_or_high_confidence
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Music functions as sacred expressive power capable of influencing supernatural
-      beings, close to narrative or song as power. Caution: If the passage emphasizes
-      ritual coercion or magical command rather than expressive narration, sacred_exchange
-      or sacred_knowledge may be secondary candidates; current taxonomy lacks a dedicated
-      music-magic group.'
-    suggested_aliases:
-    - music softens supernatural powers
-    - music compels spirits or gods
-    - sacred music as supernatural power
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: storytelling_as_power
+    previous_review_status: model_auto_accepted_medium_or_high_confidence
   music_that_moves_infernal_powers:
     group_id: descent
     relationship: functional_variant
@@ -14809,20 +14895,17 @@ raw_motif_group_index:
     - compassionate intention permits safe passage
     - love as protective power
   powerful_music_causing_beings_to_fall_or_perish:
-    group_id: storytelling_as_power
-    relationship: functional_variant
-    confidence: medium
-    review_status: model_auto_accepted_medium_or_high_confidence
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Music or song acting with lethal supernatural force fits the broader group
-      for speech, song, and narrative as operative sacred power. Caution: If the passage
-      emphasizes a dangerous lure at a threshold, threshold_guardian may be a secondary
-      fit; if it is battle magic, sacred_combat may be relevant.'
-    suggested_aliases:
-    - lethal_music
-    - music_as_supernatural_power
-    - destructive_song
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: storytelling_as_power
+    previous_review_status: model_auto_accepted_medium_or_high_confidence
   pre_created_book_of_destiny:
     group_id: sacred_knowledge
     relationship: symbolic_variant
@@ -38965,20 +39048,17 @@ raw_motif_group_index:
     - devotional station on sacred mountain
     - sacred mountain devotion site
   sacred_music_draws_celestial_bodies_downward:
-    group_id: storytelling_as_power
-    relationship: functional_variant
-    confidence: medium
-    review_status: model_auto_accepted_medium_or_high_confidence
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Sacred performance has operative power over the cosmos, aligning with
-      speech, song, and narrative as sacred agency. Caution: Could also fit sacred_knowledge
-      if the song is magical wisdom, or cosmic_origin/duality if celestial order is
-      the main focus.'
-    suggested_aliases:
-    - cosmic power of sacred music
-    - song draws down celestial bodies
-    - music moves the heavens
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: storytelling_as_power
+    previous_review_status: model_auto_accepted_medium_or_high_confidence
   sacred_name_as_refuge_and_protection:
     group_id: sacred_knowledge
     relationship: functional_variant
@@ -54105,20 +54185,17 @@ raw_motif_group_index:
     - common tomb of lovers
     - postmortem union of lovers
   siren_song_draws_river_travelers_to_death:
-    group_id: threshold_guardian
-    relationship: functional_variant
-    confidence: high
-    review_status: model_auto_accepted_medium_or_high_confidence
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'This closely matches existing lethal-lure children under threshold_guardian,
-      especially dangerous hybrid singers luring travelers to death. Caution: If the
-      source emphasizes enchantment rather than boundary passage, preserve the song/lure
-      detail as an alias; do not reduce it to generic death.'
-    suggested_aliases:
-    - perilous siren song
-    - fatal river lure
-    - enchanting singers lure travelers to death
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: threshold_guardian
+    previous_review_status: model_auto_accepted_medium_or_high_confidence
   slain_enemies_sent_to_the_realm_of_death:
     group_id: divine_warrior
     relationship: functional_variant
@@ -55628,98 +55705,69 @@ raw_motif_group_index:
     previous_review_status: human_accepted
   decline_through_successive_metallic_ages:
     group_id: world_ages_cosmic_decline
-    relationship: narrower_than
-    confidence: high
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Successive metallic ages are a distinct world-age schema of cosmic and
-      moral decline not captured well by hubris or judgment alone. Caution: Do not
-      merge automatically with catastrophe renewal; the motif may describe progressive
-      degeneration without destruction and renewal.'
-    suggested_aliases:
-    - metallic ages of humankind
-    - ages of man
-    - successive world ages
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept World Ages and Cosmic Decline as a distinct cross-cultural
+      family.'
+    previous_group_id: world_ages_cosmic_decline
+    previous_review_status: human_reviewed_duplicate_alias
   declining_ages_of_humankind:
     group_id: world_ages_cosmic_decline
-    relationship: narrower_than
-    confidence: high
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'The label directly names the world-ages decline motif, a recurrent Greek-Roman
-      schema of human degeneration. Caution: Needs review alongside metallic-age labels
-      to avoid duplicate aliases if a world_ages_decline group is accepted.'
-    suggested_aliases:
-    - ages of humankind
-    - declining ages of man
-    - world ages decline
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept World Ages and Cosmic Decline as a distinct cross-cultural
+      family.'
+    previous_group_id: world_ages_cosmic_decline
+    previous_review_status: human_reviewed_duplicate_alias
   primeval_age_followed_by_degeneration:
     group_id: world_ages_cosmic_decline
-    relationship: narrower_than
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'The motif describes a recurring world-age pattern from primordial excellence
-      to later decline, not simple creation or catastrophe renewal. Caution: Single
-      occurrence; could be handled under sacred_time or cosmic_origin if the passage
-      only marks temporal ordering.'
-    suggested_aliases:
-    - decline from golden age
-    - world ages degeneration
-    - primeval age of abundance lost
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept World Ages and Cosmic Decline as a distinct cross-cultural
+      family.'
+    previous_group_id: world_ages_cosmic_decline
+    previous_review_status: human_reviewed_duplicate_alias
   primordial_innocence_followed_by_loss_of_effortless_abundance:
     group_id: world_ages_cosmic_decline
-    relationship: narrower_than
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Loss of effortless primordial abundance is a specific golden-age-to-decline
-      pattern. Caution: May overlap with divine judgment, transgression, or etiological
-      origin of labor if the passage gives a causal fall narrative.'
-    suggested_aliases:
-    - loss of primordial abundance
-    - lost golden age
-    - primordial innocence lost
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept World Ages and Cosmic Decline as a distinct cross-cultural
+      family.'
+    previous_group_id: world_ages_cosmic_decline
+    previous_review_status: human_reviewed_duplicate_alias
   divine_peace_stead_and_golden_age:
     group_id: world_ages_cosmic_decline
-    relationship: narrower_than
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'A divine place or era of primordial peace is a recurring mythic pattern
-      not cleanly held by existing creation, kingship, or sacred-time groups. Caution:
-      Could map to sacred_time or cosmic_origin if the source frames it mainly as
-      a temporal cycle or cosmogonic phase; confirm recurrence before promoting.'
-    suggested_aliases:
-    - golden age
-    - primordial peace
-    - divine peace-stead
-    - age of divine peace
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept World Ages and Cosmic Decline as a distinct cross-cultural
+      family.'
+    previous_group_id: world_ages_cosmic_decline
+    previous_review_status: human_reviewed_duplicate_alias
   hospitality_and_testing_of_the_stranger_guest:
     group_id: hospitality_test_stranger_guest
     relationship: narrower_than
@@ -55776,157 +55824,108 @@ raw_motif_group_index:
     previous_review_status: human_accepted
   recognition_by_scent_on_food_or_object:
     group_id: recognition_tokens_hidden_identity
-    relationship: functional_variant
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Recognition by a sensory trace on an object is an identity-disclosure
-      device not well covered by sacred_treasures unless the object is itself sacred
-      or powerful. Caution: Single occurrence; may be a narrative episode detail rather
-      than a durable mythic motif. Confirm whether the food/object has sacred power
-      or only evidentiary function.'
-    suggested_aliases:
-    - recognition by scent
-    - recognition by object trace
-    - sensory recognition token
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept Recognition Tokens as a distinct identity-proof
+      family; existing canonical group retained.'
+    previous_group_id: recognition_tokens_hidden_identity
+    previous_review_status: human_reviewed_duplicate_alias
   recognition_of_herald_by_visible_tokens:
     group_id: recognition_tokens_hidden_identity
-    relationship: functional_variant
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Visible tokens authenticate a herald''s identity or authority, fitting
-      a recognition-token pattern better than sacred power objects. Caution: If the
-      token confers royal or sacred authority, secondary mapping to royal_legitimacy
-      or sacred_treasures may be warranted.'
-    suggested_aliases:
-    - herald recognized by tokens
-    - visible recognition tokens
-    - identity proof by token
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept Recognition Tokens as a distinct identity-proof
+      family; existing canonical group retained.'
+    previous_group_id: recognition_tokens_hidden_identity
+    previous_review_status: human_reviewed_duplicate_alias
   recognition_through_a_talisman_or_token:
     group_id: recognition_tokens_hidden_identity
-    relationship: functional_variant
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'The talisman or token functions as proof of identity or relationship;
-      this is distinct from a sacred treasure unless the talisman has independent
-      power. Caution: If the talisman is magical or protective, also consider sacred_treasures.
-      If it proves kinship or marriage, sacred_love or royal_legitimacy may be secondary.'
-    suggested_aliases:
-    - recognition token
-    - talisman as identity proof
-    - identity token
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept Recognition Tokens as a distinct identity-proof
+      family; existing canonical group retained.'
+    previous_group_id: recognition_tokens_hidden_identity
+    previous_review_status: human_reviewed_duplicate_alias
   recognition_through_hidden_identity_and_voice:
     group_id: recognition_tokens_hidden_identity
-    relationship: functional_variant
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Voice recognition after concealment is a clear identity-disclosure pattern
-      not captured by current sacred-object or shapeshifter groups. Caution: If the
-      hidden identity is divine, map instead or additionally to theophany. If concealment
-      involves bodily transformation, shapeshifter may be secondary.'
-    suggested_aliases:
-    - voice recognition
-    - hidden identity revealed by voice
-    - recognition through voice
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept Recognition Tokens as a distinct identity-proof
+      family; existing canonical group retained.'
+    previous_group_id: recognition_tokens_hidden_identity
+    previous_review_status: human_reviewed_duplicate_alias
   recognition_token_as_bodily_scar:
     group_id: recognition_tokens_hidden_identity
-    relationship: functional_variant
-    confidence: high
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'A bodily scar used as identity proof is a classic recognition-token function
-      and not primarily a sacred object motif. Caution: If the scar marks initiation,
-      wounding, or divine election, initiation or miraculous_child may be relevant
-      secondary mappings.'
-    suggested_aliases:
-    - scar recognition
-    - bodily mark as identity proof
-    - recognition by scar
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept Recognition Tokens as a distinct identity-proof
+      family; existing canonical group retained.'
+    previous_group_id: recognition_tokens_hidden_identity
+    previous_review_status: human_reviewed_duplicate_alias
   recognition_token_proving_an_otherwise_denied_encounter:
     group_id: recognition_tokens_hidden_identity
-    relationship: functional_variant
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'A token provides proof of a contested or denied meeting, matching the
-      evidentiary recognition-token complex. Caution: May be over-specific; preserve
-      denial/encounter details as evidence unless this pattern recurs. If the encounter
-      is with a supernatural figure, theophany or otherworld may also apply.'
-    suggested_aliases:
-    - token proves encounter
-    - proof token
-    - recognition token after denied meeting
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept Recognition Tokens as a distinct identity-proof
+      family; existing canonical group retained.'
+    previous_group_id: recognition_tokens_hidden_identity
+    previous_review_status: human_reviewed_duplicate_alias
   recognition_token_sent_by_envoy:
     group_id: recognition_tokens_hidden_identity
-    relationship: functional_variant
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'A token delivered by an envoy authenticates identity, intention, or relationship,
-      fitting a recognition-token pattern. Caution: If the envoy role is central to
-      divine mission or royal diplomacy, divine_intervention or royal_legitimacy may
-      be secondary; token details may be episode-specific.'
-    suggested_aliases:
-    - envoy-borne recognition token
-    - messenger recognition token
-    - token sent by envoy
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept Recognition Tokens as a distinct identity-proof
+      family; existing canonical group retained.'
+    previous_group_id: recognition_tokens_hidden_identity
+    previous_review_status: human_reviewed_duplicate_alias
   recognition_token_sent_through_a_messenger:
     group_id: recognition_tokens_hidden_identity
-    relationship: alias
-    confidence: high
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'This appears to be an alias of recognition_token_sent_by_envoy: a messenger
-      carries a token that authenticates identity or relationship. Caution: Likely
-      merge with the envoy wording if passage evidence does not distinguish envoy
-      status from ordinary messenger function.'
-    suggested_aliases:
-    - recognition token sent by envoy
-    - messenger-borne recognition token
-    - token sent through messenger
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept Recognition Tokens as a distinct identity-proof
+      family; existing canonical group retained.'
+    previous_group_id: recognition_tokens_hidden_identity
+    previous_review_status: human_reviewed_duplicate_alias
   restless_dead_haunting_former_homes:
     group_id: restless_dead_haunting_vengeance
     relationship: narrower_than
@@ -56292,161 +56291,101 @@ raw_motif_group_index:
     duplicate_alias: true
     previous_review_status: human_accepted
   enchanted_music_compels_procession:
-    group_id: storytelling_as_power
-    relationship: functional_variant
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'The motif centers on supernatural music compelling movement or collective
-      action; no current group cleanly covers music as magical coercion. Caution:
-      Single occurrence; could be a passage-specific episode or fit threshold/perilous
-      lure if music draws figures toward danger.'
-    suggested_aliases:
-    - magical music compels movement
-    - enchanted music causes procession
-    - compelling enchanted music
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: storytelling_as_power
+    previous_review_status: human_reviewed_duplicate_alias
   enchanted_music_that_causes_sleep:
-    group_id: storytelling_as_power
-    relationship: functional_variant
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Music inducing supernatural sleep is a specific enchanted-sound function
-      not captured by sacred_song or dream/vision alone. Caution: May overlap with
-      enchanted sleep or otherworld captivity depending on the episode; avoid treating
-      ordinary sleep as death/rebirth without evidence.'
-    suggested_aliases:
-    - sleep-inducing enchanted music
-    - magical music causes sleep
-    - lulling enchanted music
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: storytelling_as_power
+    previous_review_status: human_reviewed_duplicate_alias
   enchanting_music_that_attracts_living_beings:
-    group_id: storytelling_as_power
-    relationship: functional_variant
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Music that supernaturally attracts living beings fits a broader enchanted-music
-      compulsion pattern. Caution: If attraction leads to death or threshold crossing,
-      threshold_guardian may be a secondary mapping; single occurrence should remain
-      provisional.'
-    suggested_aliases:
-    - magical music attracts beings
-    - enchanted music lures living beings
-    - attracting enchanted music
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: storytelling_as_power
+    previous_review_status: human_reviewed_duplicate_alias
   magical_music_causing_universal_emotion_or_sleep:
-    group_id: storytelling_as_power
-    relationship: functional_variant
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Music that induces emotion or sleep is a recurring magical-speech/sound
-      function not well captured by sacred_song as mystical expression. Caution: Human
-      review should decide whether to add a sound-power group or fold these labels
-      into storytelling_as_power; avoid treating all music as sacred song.'
-    suggested_aliases:
-    - enchanted music induces sleep
-    - magical music moves all hearers
-    - sound power causing emotion or sleep
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: storytelling_as_power
+    previous_review_status: human_reviewed_duplicate_alias
   magical_music_controlling_emotion_and_sleep:
-    group_id: storytelling_as_power
-    relationship: functional_variant
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Music that induces emotion or sleep is a recurring enchantment/compulsion
-      function not cleanly covered by sacred song or wisdom. Caution: Single occurrence;
-      could map to dream_and_vision if sleep produces vision, or storytelling_as_power
-      if emphasis is performance power.'
-    suggested_aliases:
-    - enchanted_music
-    - magical_song
-    - sleep_inducing_music
-    - emotion_controlling_music
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: storytelling_as_power
+    previous_review_status: human_reviewed_duplicate_alias
   magical_music_subdues_opponents:
-    group_id: storytelling_as_power
-    relationship: functional_variant
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Music functions as magical coercion that overcomes opponents, matching
-      an enchantment/compulsion pattern. Caution: Could be sacred_combat if embedded
-      in battle, or storytelling_as_power if the performance itself is the central
-      sacred power.'
-    suggested_aliases:
-    - enchanted_music_subdues_enemies
-    - magical_song_as_weapon
-    - music_as_compulsion
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: storytelling_as_power
+    previous_review_status: human_reviewed_duplicate_alias
   music_that_compels_emotion_and_sleep:
-    group_id: storytelling_as_power
-    relationship: functional_variant
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'The label describes music as an active supernatural or magical force altering
-      emotion and consciousness, not merely sacred song or narrative performance.
-      Caution: Single occurrence; may collapse into dream_and_vision, threshold_guardian,
-      or storytelling_as_power depending on whether the passage emphasizes enchantment,
-      sleep, or artful performance.'
-    suggested_aliases:
-    - compelling music
-    - enchanted music
-    - sleep-inducing music
-    - music as enchantment
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: storytelling_as_power
+    previous_review_status: human_reviewed_duplicate_alias
   music_that_induces_sleep_or_weakens_vigilance:
-    group_id: storytelling_as_power
-    relationship: functional_variant
-    confidence: medium
-    review_status: human_reviewed_duplicate_alias
-    review_action: merged_as_alias
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
     provisional: false
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'This is a close functional variant of enchanted or compelling music, specifically
-      reducing wakefulness or defensive awareness. Caution: If music is only a tactical
-      device in one episode, preserve as evidence detail; if tied to dream, trance,
-      or divine revelation, dream_and_vision may be a secondary mapping.'
-    suggested_aliases:
-    - sleep-inducing music
-    - music weakening vigilance
-    - lulling music
-    - enchanted lullaby
-    duplicate_alias: true
-    previous_review_status: human_accepted
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: storytelling_as_power
+    previous_review_status: human_reviewed_duplicate_alias
   envious_imitation_of_a_beneficent_marvel_fails:
     group_id: pride_and_downfall
     relationship: functional_variant
@@ -60410,20 +60349,17 @@ raw_motif_group_index:
     - enchanted abundance mill
     - wish-producing mill
   enchanted_music_summons_animals_birds_forest_beings_and_sky_daughters:
-    group_id: storytelling_as_power
-    relationship: functional_variant
-    confidence: medium
-    review_status: model_auto_accepted_medium_or_high_confidence
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Enchanted music functions as sacred expressive power that summons beings
-      and alters the scene, closest to narrative/song as power. Caution: Could also
-      fit sacred_knowledge if the music is a learned magical skill, otherworld if
-      it summons enchanted beings, or sacred_love if sky daughters are courtship figures.'
-    suggested_aliases:
-    - magical music summons beings
-    - enchanted song summons animals and spirits
-    - music summons sky daughters
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: storytelling_as_power
+    previous_review_status: model_auto_accepted_medium_or_high_confidence
   enchanted_or_splendid_otherworldly_hall:
     group_id: otherworld
     relationship: narrower_than
@@ -88106,22 +88042,17 @@ raw_motif_group_index:
     - powerful pre-Christian otherworld folk
     match_rule: existing_suggested_group
   supernatural_music_commanding_nature:
-    group_id: sacred_knowledge
-    relationship: functional_variant
-    confidence: low
-    review_status: provisional_low_confidence_existing_group
-    review_action: mapped_provisionally
-    provisional: true
-    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
     accepted_on: '2026-04-29'
-    notes: 'Supernatural music operates as a sacred skill or power that orders the
-      natural world. Caution: Current groups lack a dedicated enchantment/music motif;
-      if recurrence grows, a new sacred song or enchantment group may be warranted.
-      Avoid reducing it to nature symbolism alone.'
-    suggested_aliases:
-    - enchanted music commanding nature
-    - music as supernatural power
-    match_rule: existing_suggested_group
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+    previous_group_id: sacred_knowledge
+    previous_review_status: provisional_low_confidence_existing_group
   supernatural_or_unmatched_hunting_hound:
     group_id: sacred_treasures
     relationship: functional_variant
@@ -89845,6 +89776,246 @@ raw_motif_group_index:
     - young hero as communal hope
     - youth bravery as survival sign
     match_rule: existing_suggested_group
+  four_age_decline_of_the_world_period:
+    group_id: world_ages_cosmic_decline
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: accept World Ages and Cosmic Decline as a distinct cross-cultural
+      family.'
+  four_ages_of_the_world:
+    group_id: world_ages_cosmic_decline
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: accept World Ages and Cosmic Decline as a distinct cross-cultural
+      family.'
+  recognition_by_personal_tokens:
+    group_id: recognition_tokens_hidden_identity
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: accept Recognition Tokens as a distinct identity-proof
+      family; existing canonical group retained.'
+  recognition_prevents_kin_slaying_by_poison:
+    group_id: recognition_tokens_hidden_identity
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: accept Recognition Tokens as a distinct identity-proof
+      family; existing canonical group retained.'
+  recognition_token_exchanged_while_one_beloved_sleeps:
+    group_id: recognition_tokens_hidden_identity
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: accept Recognition Tokens as a distinct identity-proof
+      family; existing canonical group retained.'
+  recognition_tokens_from_the_abducted_beloved:
+    group_id: recognition_tokens_hidden_identity
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: accept Recognition Tokens as a distinct identity-proof
+      family; existing canonical group retained.'
+  music_that_charms_nature:
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+  music_that_charms_nature_and_restrains_violence:
+    group_id: enchanting_music
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: accept Enchanting Music as sound-power distinct from storytelling-as-narrative.'
+  jealous_stepmother_demands_child_s_heart:
+    group_id: jealous_stepmother_persecuted_child
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: accept household persecution of the child as distinct
+      from miraculous-child destiny.'
+  jealous_stepmother_endangers_children:
+    group_id: jealous_stepmother_persecuted_child
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: accept household persecution of the child as distinct
+      from miraculous-child destiny.'
+  jealous_stepmother_falsely_accuses_innocent_stepchild:
+    group_id: jealous_stepmother_persecuted_child
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: accept household persecution of the child as distinct
+      from miraculous-child destiny.'
+  jealous_wife_or_stepmother_harms_children:
+    group_id: jealous_stepmother_persecuted_child
+    relationship: child_motif
+    confidence: human
+    review_status: human_accepted_layer3_new_group
+    review_action: accepted_new_group
+    provisional: false
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: accept household persecution of the child as distinct
+      from miraculous-child destiny.'
+  bride_choice_assembly:
+    group_id: sacred_love
+    relationship: folded_child_motif
+    confidence: human
+    review_status: human_reviewed_layer3_fold
+    review_action: folded_into_existing_group
+    provisional: true
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: Bride contests and marriage choice are a subset of sacred
+      love, union, and kinship patterns.'
+  bride_s_own_answer_required:
+    group_id: sacred_love
+    relationship: folded_child_motif
+    confidence: human
+    review_status: human_reviewed_layer3_fold
+    review_action: folded_into_existing_group
+    provisional: true
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: Bride contests and marriage choice are a subset of sacred
+      love, union, and kinship patterns.'
+  bride_winning_martial_contest:
+    group_id: sacred_love
+    relationship: folded_child_motif
+    confidence: human
+    review_status: human_reviewed_layer3_fold
+    review_action: folded_into_existing_group
+    provisional: true
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: Bride contests and marriage choice are a subset of sacred
+      love, union, and kinship patterns.'
+  deceptive_gift_containing_hidden_warriors:
+    group_id: trickster
+    relationship: folded_child_motif
+    confidence: human
+    review_status: human_reviewed_layer3_fold
+    review_action: folded_into_existing_group
+    provisional: true
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: Military deception is boundary-crossing trickery applied
+      to warfare.'
+  deceptive_promise_of_treasure_used_to_lure_an_enemy:
+    group_id: trickster
+    relationship: folded_child_motif
+    confidence: human
+    review_status: human_reviewed_layer3_fold
+    review_action: folded_into_existing_group
+    provisional: true
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: Military deception is boundary-crossing trickery applied
+      to warfare.'
+  moon_as_guide_and_comforter:
+    group_id: dream_and_vision
+    relationship: folded_child_motif
+    confidence: human
+    review_status: human_reviewed_layer3_fold
+    review_action: folded_into_existing_group
+    provisional: true
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: Celestial guidance and witness motifs function here as
+      perception, omen, and altered-awareness patterns.'
+  moon_as_witness_to_future_absence:
+    group_id: dream_and_vision
+    relationship: folded_child_motif
+    confidence: human
+    review_status: human_reviewed_layer3_fold
+    review_action: folded_into_existing_group
+    provisional: true
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: Celestial guidance and witness motifs function here as
+      perception, omen, and altered-awareness patterns.'
+  sun_as_source_of_illumination_and_growth:
+    group_id: sacred_fire
+    relationship: folded_child_motif
+    confidence: human
+    review_status: human_reviewed_layer3_fold
+    review_action: folded_into_existing_group
+    provisional: true
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: Solar deity imagery, life-giving light, and cosmic sustenance
+      are covered by sacred fire and divine light.'
+  sun_confined_and_released_from_a_tower:
+    group_id: sacred_fire
+    relationship: folded_child_motif
+    confidence: human
+    review_status: human_reviewed_layer3_fold
+    review_action: folded_into_existing_group
+    provisional: true
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: Solar deity imagery, life-giving light, and cosmic sustenance
+      are covered by sacred fire and divine light.'
+  sunlight_petrifies_beings_of_darkness_or_fog:
+    group_id: sacred_fire
+    relationship: folded_child_motif
+    confidence: human
+    review_status: human_reviewed_layer3_fold
+    review_action: folded_into_existing_group
+    provisional: true
+    source: docs/normalization-review-layer-3-new-groups.md
+    accepted_on: '2026-04-29'
+    notes: 'Human decision: Solar deity imagery, life-giving light, and cosmic sustenance
+      are covered by sacred fire and divine light.'
 normalization_suggestion_acceptance:
   updated_on: '2026-04-29'
   latest_run_id: normalization-suggestions-2026-04-29-full-gap-priority

@@ -11,6 +11,10 @@ summary:
     motif_count: 9072
     mapped: 5119
     unmapped: 3953
+  human_decisions_applied_on: '2026-04-29'
+  accepted_from_genuine_candidates: 4
+  folded_from_genuine_candidates: 4
+  pending_genuine_candidates_after_human_review: 0
 genuine_new_group_candidates:
 - id: marriage_choice_bride_winning
   label: Marriage Choice and Bride-Winning
@@ -29,7 +33,11 @@ genuine_new_group_candidates:
   - hero_journey
   - sacred_combat
   - royal_legitimacy
-  recommended_action: keep_as_genuine_new_group_candidate
+  recommended_action: fold_into_existing_group
+  fold_target_group_id: sacred_love
+  decision_note: Bride contests and marriage choice are a subset of sacred love, union,
+    and kinship patterns.
+  decided_on: '2026-04-29'
 - id: deceptive_war_stratagem
   label: Deceptive War Stratagem
   traditions:
@@ -43,7 +51,10 @@ genuine_new_group_candidates:
   suggested_related_group_ids:
   - trickster
   - sacred_treasures
-  recommended_action: keep_as_genuine_new_group_candidate
+  recommended_action: fold_into_existing_group
+  fold_target_group_id: trickster
+  decision_note: Military deception is boundary-crossing trickery applied to warfare.
+  decided_on: '2026-04-29'
 - id: world_ages_cosmic_decline
   label: World Ages and Cosmic Decline
   traditions:
@@ -59,7 +70,11 @@ genuine_new_group_candidates:
   - divine_judgment
   - flood_and_renewal
   - duality
-  recommended_action: keep_as_genuine_new_group_candidate
+  recommended_action: accepted_into_main_taxonomy
+  accepted_group_id: world_ages_cosmic_decline
+  decision_note: Accepted as a distinct cross-cultural world-age and cosmic-decline
+    family.
+  decided_on: '2026-04-29'
 - id: jealous_stepmother_persecuted_child
   label: Jealous Stepmother and Persecuted Child
   traditions:
@@ -76,7 +91,11 @@ genuine_new_group_candidates:
   suggested_related_group_ids:
   - sacred_love
   - divine_judgment
-  recommended_action: keep_as_genuine_new_group_candidate
+  recommended_action: accepted_into_main_taxonomy
+  accepted_group_id: jealous_stepmother_persecuted_child
+  decision_note: Accepted as household persecution of the child, distinct from miraculous-child
+    destiny.
+  decided_on: '2026-04-29'
 - id: celestial_guides_witnesses
   label: Celestial Guides and Witnesses
   traditions:
@@ -93,7 +112,11 @@ genuine_new_group_candidates:
   - sacred_knowledge
   - hero_journey
   - sacred_love
-  recommended_action: keep_as_genuine_new_group_candidate
+  recommended_action: fold_into_existing_group
+  fold_target_group_id: dream_and_vision
+  decision_note: Celestial guidance and witness motifs function here as perception,
+    omen, and altered-awareness patterns.
+  decided_on: '2026-04-29'
 - id: enchanting_music
   label: Enchanting Music and Orphic Power
   traditions:
@@ -111,7 +134,11 @@ genuine_new_group_candidates:
   - culture_hero
   - threshold_guardian
   - sacred_combat
-  recommended_action: keep_as_genuine_new_group_candidate
+  recommended_action: accepted_into_main_taxonomy
+  accepted_group_id: enchanting_music
+  decision_note: Accepted as sound itself operating as supernatural force, distinct
+    from narrative power.
+  decided_on: '2026-04-29'
 - id: recognition_tokens
   label: Recognition Tokens and Identity Proofs
   traditions:
@@ -134,7 +161,11 @@ genuine_new_group_candidates:
   - storytelling_as_power
   - stolen_beloved
   - hero_journey
-  recommended_action: keep_as_genuine_new_group_candidate
+  recommended_action: accepted_into_main_taxonomy
+  accepted_group_id: recognition_tokens_hidden_identity
+  decision_note: Confirmed through the existing accepted Recognition Tokens and Identity
+    Proofs family.
+  decided_on: '2026-04-29'
 - id: solar_power
   label: Solar Power and Life-Giving Light
   traditions:
@@ -156,7 +187,11 @@ genuine_new_group_candidates:
   - death_and_transformation
   - divine_judgment
   - shapeshifter
-  recommended_action: keep_as_genuine_new_group_candidate
+  recommended_action: fold_into_existing_group
+  fold_target_group_id: sacred_fire
+  decision_note: Solar deity imagery, life-giving light, and cosmic sustenance are
+    covered by sacred fire and divine light.
+  decided_on: '2026-04-29'
 folded_single_tradition_candidates:
 - id: animal_supernatural_helpers
   label: Animal and Supernatural Helpers

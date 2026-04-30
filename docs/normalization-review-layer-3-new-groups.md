@@ -1,8 +1,8 @@
-# Normalization Review Layer 3: New Group Candidates
+# Normalization Review Layer 3: New Group Decisions
 
 Generated on 2026-04-29.
 
-Rule: consolidate near-duplicates, keep only candidates with evidence from two or more traditions as genuine new group candidates, and fold one-tradition candidates into the nearest existing family.
+This file records the human decisions for the eight cross-tradition candidates from the full-gap normalization review.
 
 ## Summary
 
@@ -12,21 +12,30 @@ Rule: consolidate near-duplicates, keep only candidates with evidence from two o
 - folded single tradition candidates: 50
 - folded source motifs mapped: 78
 - mapping counts after layer: {"motif_count"=>9072, "mapped"=>5119, "unmapped"=>3953}
+- human decisions applied on: 2026-04-29
+- accepted from genuine candidates: 4
+- folded from genuine candidates: 4
+- pending genuine candidates after human review: 0
 
-## Genuine New Group Candidates
+## Accepted Into Main Taxonomy
 
-| Candidate | Traditions | Source Motifs | Suggested Parents | Recommendation |
+| Candidate | Traditions | Source Motifs | Canonical Group | Decision Note |
 | --- | ---: | ---: | --- | --- |
-| `marriage_choice_bride_winning` Marriage Choice and Bride-Winning | 3 | 3 | sacred_love, sacred_law | keep pending for human review |
-| `deceptive_war_stratagem` Deceptive War Stratagem | 2 | 2 | sacred_combat | keep pending for human review |
-| `world_ages_cosmic_decline` World Ages and Cosmic Decline | 2 | 2 | sacred_time, cosmic_origin | keep pending for human review |
-| `jealous_stepmother_persecuted_child` Jealous Stepmother and Persecuted Child | 3 | 4 | miraculous_child | keep pending for human review |
-| `celestial_guides_witnesses` Celestial Guides and Witnesses | 2 | 2 | dream_and_vision, divine_intervention | keep pending for human review |
-| `enchanting_music` Enchanting Music and Orphic Power | 2 | 2 | storytelling_as_power, sacred_knowledge | keep pending for human review |
-| `recognition_tokens` Recognition Tokens and Identity Proofs | 4 | 4 | sacred_treasures | keep pending for human review |
-| `solar_power` Solar Power and Life-Giving Light | 3 | 3 | sacred_fire | keep pending for human review |
+| `world_ages_cosmic_decline` World Ages and Cosmic Decline | 2 | 2 | `world_ages_cosmic_decline` | Accepted as a distinct cross-cultural world-age and cosmic-decline family. |
+| `jealous_stepmother_persecuted_child` Jealous Stepmother and Persecuted Child | 3 | 4 | `jealous_stepmother_persecuted_child` | Accepted as household persecution of the child, distinct from miraculous-child destiny. |
+| `enchanting_music` Enchanting Music and Orphic Power | 2 | 2 | `enchanting_music` | Accepted as sound itself operating as supernatural force, distinct from narrative power. |
+| `recognition_tokens` Recognition Tokens and Identity Proofs | 4 | 4 | `recognition_tokens_hidden_identity` | Confirmed through the existing accepted Recognition Tokens and Identity Proofs family. |
 
-## Folded Single-Tradition Candidates
+## Folded Into Existing Families
+
+| Candidate | Traditions | Source Motifs | Fold Target | Decision Note |
+| --- | ---: | ---: | --- | --- |
+| `marriage_choice_bride_winning` Marriage Choice and Bride-Winning | 3 | 3 | `sacred_love` | Bride contests and marriage choice are a subset of sacred love, union, and kinship patterns. |
+| `deceptive_war_stratagem` Deceptive War Stratagem | 2 | 2 | `trickster` | Military deception is boundary-crossing trickery applied to warfare. |
+| `celestial_guides_witnesses` Celestial Guides and Witnesses | 2 | 2 | `dream_and_vision` | Celestial guidance and witness motifs function here as perception, omen, and altered-awareness patterns. |
+| `solar_power` Solar Power and Life-Giving Light | 3 | 3 | `sacred_fire` | Solar deity imagery, life-giving light, and cosmic sustenance are covered by sacred fire and divine light. |
+
+## Earlier Single-Tradition Folds
 
 | Candidate | Traditions | Source Motifs | Fold Target | Basis |
 | --- | --- | ---: | --- | --- |
