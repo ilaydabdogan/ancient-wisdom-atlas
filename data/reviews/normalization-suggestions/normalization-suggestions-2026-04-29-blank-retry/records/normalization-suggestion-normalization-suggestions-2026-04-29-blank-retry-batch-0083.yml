@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0083
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.supernatural-women-cause-heroic-sickness
+  motif_id: supernatural_women_cause_heroic_sickness
+  label: supernatural women cause heroic sickness
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Heroic sickness caused by supernatural women often functions as love-longing,
+    enchantment, or otherworldly erotic affliction.
+  cautions: Could instead fit otherworld or divine_intervention if sickness is a geis,
+    curse, or abduction symptom rather than love affliction.
+  suggested_aliases:
+  - supernatural love sickness
+  - otherworldly women cause sickness
+  - heroic lovesickness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supplication-softening-the-enemy
+  motif_id: supplication_softening_the_enemy
+  label: Supplication softening the enemy
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing covenant group already contains supplication and mercy variants
+    where appeals alter enemy behavior.
+  cautions: If the passage emphasizes battlefield ritual or hostage exchange, sacred_combat
+    or sacred_exchange may be secondary; single occurrence may be over-specific.
+  suggested_aliases:
+  - supplication for mercy
+  - enemy softened by plea
+  - mercy toward suppliant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.suspension-between-heaven-and-earth-to-contain-power
+  motif_id: suspension_between_heaven_and_earth_to_contain_power
+  label: suspension between heaven and earth to contain power
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Being held between heaven and earth invokes vertical cosmic levels and
+    liminal containment of sacred or dangerous power.
+  cautions: Comparative and highly specific; may fit threshold_guardian, divine_judgment,
+    or sacred_treasures depending on what is suspended and why.
+  suggested_aliases:
+  - liminal suspension between worlds
+  - suspension in cosmic middle
+  - containment between heaven and earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.swan-appearance-after-abduction
+  motif_id: swan_appearance_after_abduction
+  label: swan appearance after abduction
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A swan appearance after abduction most directly signals transformed or
+    enchanted bodily form.
+  cautions: Could also belong to otherworld if the abduction into an enchanted realm
+    is the main pattern; preserve swan specificity as evidence detail.
+  suggested_aliases:
+  - swan transformation after abduction
+  - abducted figure appears as swan
+  - enchanted swan form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sympathetic-gesture-or-object-action-produces-wind-effect
+  motif_id: sympathetic_gesture_or_object_action_produces_wind_effect
+  label: Sympathetic gesture or object action produces wind effect
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes sympathetic magic or weather-working, but no current
+    group clearly covers magical causation of wind.
+  cautions: Could be ritual technology, divine_intervention, sacred_treasures, or
+    a comparative folklore artifact; source evidence is needed before grouping.
+  suggested_aliases:
+  - sympathetic wind magic
+  - gesture produces wind
+  - object action controls wind
+  suggested_new_group:
+    id: weather_magic
+    label: Weather Magic and Elemental Control
+    description: Ritual, magical, divine, or object-mediated actions that produce,
+      restrain, or redirect weather and elemental forces such as wind, rain, storm,
+      or drought.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    related_group_ids:
+    - sacred_treasures
+    - sacred_fire
+    - sacred_waters
+    reason_existing_groups_insufficient: Existing groups include rain coercion under
+      sacred_exchange and divine intervention broadly, but do not clearly preserve
+      recurrent magical control of weather or elemental effects.
+- suggestion_id: normalization.suggestion.tabooed-or-forbidden-access-to-protected-woman
+  motif_id: tabooed_or_forbidden_access_to_protected_woman
+  label: tabooed or forbidden access to protected woman
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern taboo, guarded female space, sexual prohibition,
+    captivity, or narrative access restrictions.
+  cautions: Culturally sensitive and gendered; avoid flattening into sacred_law or
+    sacred_love without passage context about ritual prohibition, romance, or protection.
+  suggested_aliases:
+  - forbidden access to guarded woman
+  - protected woman taboo
+  - tabooed approach to woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tears-become-precious-substance
+  motif_id: tears_become_precious_substance
+  label: tears become precious substance
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Tears transforming into a precious substance are a bodily/emotional transformation
+    into enduring material form.
+  cautions: If the emphasis is mourning, lament_and_mourning should be secondary;
+    if the precious substance becomes a power object, sacred_treasures may apply.
+  suggested_aliases:
+  - tears transformed into gems
+  - weeping creates precious matter
+  - tears become treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-helper-becomes-permanent-master
+  motif_id: temporary_helper_becomes_permanent_master
+  label: temporary helper becomes permanent master
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: A helper assuming lasting mastery suggests a reversal or violation of
+    an expected service relationship.
+  cautions: Could be a political succession, servile revolt, divine punishment, or
+    plot detail; source evidence is needed before treating as betrayal.
+  suggested_aliases:
+  - helper usurps mastery
+  - servant becomes master
+  - temporary aid becomes domination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-separation-of-first-reaper
+  motif_id: temporary_separation_of_first_reaper
+  label: temporary separation of first reaper
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is opaque without context; it may refer to harvest ritual,
+    death personification, or a comparative index artifact.
+  cautions: Do not map to sacred_time or death_by_fate unless the passage clarifies
+    whether the reaper is agricultural, mythic, or personified death.
+  suggested_aliases:
+  - first reaper separated
+  - separation of the first harvester
+  - first reaper motif
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tempter-disavows-the-tempted
+  motif_id: tempter_disavows_the_tempted
+  label: tempter disavows the tempted
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A tempter abandoning the tempted frames moral accountability and the
+    consequence of yielding to deception.
+  cautions: If the focus is satanic deception or violated trust rather than judgment,
+    betrayal_violated_trust may be a related secondary group.
+  suggested_aliases:
+  - tempter abandons follower
+  - deceiver disavows the deceived
+  - temptation followed by abandonment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several one-occurrence labels are highly contextual and should be checked against
+  passage evidence before adding children or aliases.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch contains multiple low-confidence, single-occurrence, or culturally
+    sensitive labels requiring source-context verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0083
+  input_sha256: 405cecda2516c6a6789f59513c502d8f57503c6afb19970f080e984550268076
+

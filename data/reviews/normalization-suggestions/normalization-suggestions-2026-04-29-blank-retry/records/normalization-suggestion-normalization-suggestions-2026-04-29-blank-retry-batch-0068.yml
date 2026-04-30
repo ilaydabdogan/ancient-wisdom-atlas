@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0068
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.reciprocal-strategic-retreat
+  motif_id: reciprocal_strategic_retreat
+  label: reciprocal strategic retreat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Strategic retreat may be combat, truce, reciprocity, or episode-level
+    battle tactics; the label lacks sacred or narrative function.
+  cautions: Single occurrence and likely contextual; do not map to sacred_combat without
+    evidence of ritualized or mythic warfare.
+  suggested_aliases:
+  - mutual strategic withdrawal
+  - reciprocal retreat in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-by-added-identifying-feature
+  motif_id: recognition_by_added_identifying_feature
+  label: Recognition by added identifying feature
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Recognition by a visible or added feature fits the existing identity-proof
+    and recognition-token group.
+  cautions: Preserve the specific identifying feature as evidence detail if culturally
+    important.
+  suggested_aliases:
+  - recognition by identifying feature
+  - recognition through added mark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-by-marginal-or-silent-witnesses
+  motif_id: recognition_by_marginal_or_silent_witnesses
+  label: recognition by marginal or silent witnesses
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Witnesses function as identity proof, aligning with recognition mechanisms
+    already grouped under hidden identity and proof tokens.
+  cautions: If the emphasis is testimony, legal judgment, or social marginality rather
+    than identity recognition, review for divine_judgment or passage artifact status.
+  suggested_aliases:
+  - recognition by silent witnesses
+  - recognition through marginal witnesses
+  - witness-based recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-followed-by-reversal-of-life
+  motif_id: recognition_followed_by_reversal_of_life
+  label: recognition followed by reversal of life
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase could mean identity recognition, spiritual awakening, conversion,
+    or life reversal after insight.
+  cautions: Sufi context may point to mystical_quest or self_knowledge, but the label
+    alone does not show whether recognition is social, spiritual, or narrative.
+  suggested_aliases:
+  - recognition leading to life reversal
+  - recognition and transformed life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - mystical_quest
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-withheld-between-separated-kin
+  motif_id: recognition_withheld_between_separated_kin
+  label: recognition withheld between separated kin
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Withheld recognition between kin belongs to the hidden-identity and delayed-recognition
+    complex.
+  cautions: If the motif centers on family separation without identity proof, it may
+    be an episode detail rather than a reusable motif.
+  suggested_aliases:
+  - withheld recognition between kin
+  - delayed recognition of separated kin
+  - hidden kin recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognized-captive-or-refugee-released-by-consent-of-a-powerful-woman
+  motif_id: recognized_captive_or_refugee_released_by_consent_of_a_powerful_woman
+  label: recognized captive or refugee released by consent of a powerful woman
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This combines recognition, captivity/refuge, release, and female authority
+    in a highly specific episode sequence.
+  cautions: Could map secondarily to recognition_tokens_hidden_identity if recognition
+    is central, but the release-by-consent function may be contextual rather than
+    a broad motif.
+  suggested_aliases:
+  - recognized captive released by powerful woman
+  - recognized refugee released by female consent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - sacred_love
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognized-kin-concealed-from-kin
+  motif_id: recognized_kin_concealed_from_kin
+  label: Recognized kin concealed from kin
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Concealed kinship and recognition fit the existing hidden-identity recognition
+    group.
+  cautions: Review whether the passage involves proof tokens, deliberate concealment,
+    or simply narrative family reunion.
+  suggested_aliases:
+  - concealed kin recognition
+  - hidden kin recognized
+  - recognized kinship concealed from relatives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-beside-water-before-final-confrontation
+  motif_id: refuge_beside_water_before_final_confrontation
+  label: refuge beside water before final confrontation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label reads as a scene setting before combat rather than a clear
+    water, refuge, or battle motif.
+  cautions: Do not map to sacred_waters unless the water functions ritually or transformatively;
+    do not map to sacred_combat unless the confrontation is the central mythic pattern.
+  suggested_aliases:
+  - waterside refuge before battle
+  - refuge near water before confrontation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - sacred_combat
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-from-weapons-and-battle
+  motif_id: refuge_from_weapons_and_battle
+  label: Refuge from weapons and battle
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Seeking refuge from weapons and battle is a combat-related protective
+    episode, best held under sacred_combat pending evidence.
+  cautions: If the focus is magical protection or invulnerability, conditional_invulnerability_hidden_weakness
+    or sacred_treasures may be more precise.
+  suggested_aliases:
+  - battle refuge
+  - protection from weapons
+  - refuge from battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - conditional_invulnerability_hidden_weakness
+    - sacred_treasures
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-food-and-shelter-followed-by-peril
+  motif_id: refusal_of_food_and_shelter_followed_by_peril
+  label: Refusal of food and shelter followed by peril
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusing food and shelter followed by danger matches the hospitality-obligation
+    and stranger/host test complex.
+  cautions: Review Indigenous Australian source context carefully; if no guest-test
+    or sacred obligation is present, this may instead be a moral consequence or episode
+    detail.
+  suggested_aliases:
+  - denial of food and shelter brings peril
+  - refused hospitality followed by danger
+  - hospitality refusal punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional placements based on labels only; single-occurrence
+  motifs should be checked against passage evidence before indexing broadly.
+- Recognition-related labels mostly fit the existing recognition_tokens_hidden_identity
+  group, but over-specific composite sequences should remain evidence notes unless
+  they recur.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Batch contains several single-occurrence contextual labels; human review
+    should verify whether each is a reusable motif or passage-specific scene detail.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0068
+  input_sha256: b54534bf6d7d954f0af562b7c316859b6488d23dfb3bb9eb7a486a40fc3af20c
+

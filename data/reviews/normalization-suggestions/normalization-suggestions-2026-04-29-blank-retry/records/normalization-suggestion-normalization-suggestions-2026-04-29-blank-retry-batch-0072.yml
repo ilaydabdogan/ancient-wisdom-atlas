@@ -1,0 +1,321 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0072
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.revenge-killing-of-children
+  motif_id: revenge_killing_of_children
+  label: revenge killing of children
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes violent revenge against children, but existing groups
+    do not clearly cover kin-revenge, child murder, or tragic household violence.
+  cautions: Single occurrence and culturally/contextually specific; could be episode
+    detail, divine judgment, sacred combat, or household betrayal depending on source
+    evidence.
+  suggested_aliases:
+  - child-killing as revenge
+  - revenge infanticide
+  - vengeance against offender's children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - betrayal_violated_trust
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-through-a-deceptive-love-gift
+  motif_id: revenge_through_a_deceptive_love_gift
+  label: revenge through a deceptive love gift
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A love gift used deceptively for revenge makes a trusted or affectionate
+    exchange the instrument of harm.
+  cautions: May also relate to sacred_love if the love context is central, or trickster
+    if deception is foregrounded; preserve the gift-revenge detail as evidence.
+  suggested_aliases:
+  - deceptive gift of love
+  - poisoned love gift
+  - revenge gift in love context
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-through-killing-the-offender-s-child
+  motif_id: revenge_through_killing_the_offender_s_child
+  label: revenge through killing the offender's child
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a specific vengeance pattern involving retaliatory child-killing,
+    with no clean existing group for kin-directed revenge.
+  cautions: Likely overlaps with revenge_killing_of_children; could be too episode-specific
+    unless similar labels recur. Review whether the narrative function is vengeance,
+    judgment, tragic lament, or violated kinship.
+  suggested_aliases:
+  - retaliatory killing of offender's child
+  - vengeance against child of enemy
+  - child killed to punish parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - betrayal_violated_trust
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reversal-of-master-and-servant
+  motif_id: reversal_of_master_and_servant
+  label: reversal of master and servant
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates social-status inversion, but the taxonomy lacks a
+    stable group for carnival-like or political reversals.
+  cautions: Could be divine judgment, moral reversal, trickster deception, or social
+    satire depending on passage evidence; single occurrence argues against new group
+    creation now.
+  suggested_aliases:
+  - servant-master reversal
+  - status inversion of master and servant
+  - social hierarchy reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revolutionary-inversion-by-the-poor
+  motif_id: revolutionary_inversion_by_the_poor
+  label: Revolutionary inversion by the poor
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to describe social or political inversion, not a clear fit
+    for existing sacred law, judgment, or trickster groups.
+  cautions: May be a commentary or political-theme artifact rather than a mythic motif.
+    Needs source context before indexing under moral reversal or social order.
+  suggested_aliases:
+  - poor overturn the powerful
+  - social inversion by the poor
+  - revolutionary status reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rigged-dice-game-causes-total-dispossession
+  motif_id: rigged_dice_game_causes_total_dispossession
+  label: rigged dice game causes total dispossession
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rigged game that strips a figure of everything centers on deceit within
+    a socially binding contest or agreement.
+  cautions: Could also support divine_judgment if the episode triggers moral reckoning,
+    or fate if gambling is framed as destiny; keep dice-game specificity as evidence.
+  suggested_aliases:
+  - deceptive gambling causes dispossession
+  - rigged game of dice
+  - fraudulent wager destroys status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.right-grounded-in-power
+  motif_id: right_grounded_in_power
+  label: right grounded in power
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an abstract ethical-political claim rather than a clear
+    narrative motif.
+  cautions: May be philosophical commentary or passage theme; map only if source evidence
+    shows sacred kingship, law, judgment, or hubristic power in narrative form.
+  suggested_aliases:
+  - might makes right
+  - power as source of right
+  - authority grounded in force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    - divine_judgment
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-morning-service-interrupted-by-death
+  motif_id: ritual_morning_service_interrupted_by_death
+  label: ritual morning service interrupted by death
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly specific scene detail rather than a reusable
+    motif group.
+  cautions: If the passage treats interruption of ritual by death as ominous, sacrificial,
+    or fate-marked, reconsider under death_by_fate, sacrifice, or divine_judgment.
+  suggested_aliases:
+  - death interrupts morning ritual
+  - ritual service interrupted by death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-offering-to-a-deified-figure
+  motif_id: ritual_offering_to_a_deified_figure
+  label: ritual offering to a deified figure
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual offering to a sacred or deified figure fits the broad sacrifice/offering
+    complex.
+  cautions: Review source context carefully, especially in Islamic material, where
+    saint veneration, shrine devotion, or polemical framing may affect placement.
+    Could also relate to sacred_exchange or sacred_treasures if tied to relic/shrine
+    devotion.
+  suggested_aliases:
+  - offering to deified figure
+  - ritual offering to sacred person
+  - devotional offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-performance-used-as-a-distraction
+  motif_id: ritual_performance_used_as_a_distraction
+  label: Ritual performance used as a distraction
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual performance with tactical distraction, but
+    no existing group clearly captures this function.
+  cautions: Culturally sensitive and source-dependent; avoid reducing ritual to stratagem
+    without evidence. Could be trickster, sacred_combat, or a passage-specific narrative
+    device.
+  suggested_aliases:
+  - ceremonial distraction
+  - ritual as diversion
+  - performance used to distract
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_combat
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence, episode-specific revenge or social-inversion
+  labels; human review should decide whether they are reusable motifs or passage details.
+- No transmission or borrowing claims are implied by any suggested placement.
+- For culturally sensitive ritual labels, verify source framing before indexing as
+  motif rather than ethnographic or commentary detail.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; multiple low-confidence items require
+    source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0072
+  input_sha256: ff19f33c2c0868de6a04adf9d7d728fd149b699627c6791ca92605f1fc4c97f6
+

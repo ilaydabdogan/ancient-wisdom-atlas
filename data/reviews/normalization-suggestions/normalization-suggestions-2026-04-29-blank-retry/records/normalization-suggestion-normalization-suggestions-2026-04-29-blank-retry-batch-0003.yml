@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0003
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ancient-giant-race
+  motif_id: ancient_giant_race
+  label: ancient giant race
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Giant Race and Primeval Peoples
+  relationship: child
+  confidence: medium
+  rationale: A primeval race of giants is a recurring mythic people motif not well
+    captured by divine_race unless divine origin or sacred arrival is explicit.
+  cautions: Single occurrence; if the passage is merely ethnographic, polemical, or
+    people-name detail, exclude or review rather than promote.
+  suggested_aliases:
+  - giant race
+  - primeval giants
+  - ancient giants
+  suggested_new_group:
+    id: giant_race_primeval_peoples
+    label: Giant Race and Primeval Peoples
+    description: Ancient races of giants, oversized ancestors, or primeval peoples
+      whose scale, antiquity, or otherness marks an earlier world order.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - divine_race
+    - world_ages_cosmic_decline
+    - supreme_ruler
+    reason_existing_groups_insufficient: divine_race requires divine or semi-divine
+      origin and arrival; this label only indicates ancient giant peoplehood.
+- suggestion_id: normalization.suggestion.ancient-unconquered-people-resisting-empires
+  motif_id: ancient_unconquered_people_resisting_empires
+  label: Ancient unconquered people resisting empires
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a legendary people, historical-political characterization,
+    or moral exemplum rather than a stable mythic motif.
+  cautions: Needs source context; avoid creating a motif from a people/place-only
+    or historiographic detail.
+  suggested_aliases:
+  - unconquered people
+  - people resisting empires
+  - ancient resistant nation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_race
+    - royal_legitimacy
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-feature-explained-by-divine-grasp
+  motif_id: animal_feature_explained_by_divine_grasp
+  label: Animal feature explained by divine grasp
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: An animal trait explained by a divine act is an etiological origin motif,
+    even if small-scale rather than cosmic.
+  cautions: If the passage only notes a one-off physical detail with no origin explanation,
+    it may be too specific for pattern queries.
+  suggested_aliases:
+  - animal trait etiology
+  - animal feature etiology
+  - divine grasp explains animal feature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-heart-substituted-for-murdered-child
+  motif_id: animal_heart_substituted_for_murdered_child
+  label: animal heart substituted for murdered child
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: functional_variant
+  confidence: medium
+  rationale: Substituting an animal heart for a child fits persecuted-child plots
+    where demanded proof of killing is faked or displaced.
+  cautions: Confirm household persecution or child-protection context; otherwise it
+    may belong under deception, sacrifice, or recognition evidence.
+  suggested_aliases:
+  - animal heart as false proof of child murder
+  - substituted heart protects child
+  - false proof of murdered child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-lacking-a-body-part
+  motif_id: animal_lacking_a_body_part
+  label: animal lacking a body part
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A missing animal body part is too broad without knowing whether it is
+    etiological, sacrificial, monstrous, or merely descriptive.
+  cautions: Likely over-specific unless the missing part has recurring narrative function
+    or origin explanation.
+  suggested_aliases:
+  - maimed animal
+  - animal missing body part
+  - animal bodily lack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacrifice
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-messenger-carries-death-tidings
+  motif_id: animal_messenger_carries_death_tidings
+  label: Animal messenger carries death tidings
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: An animal functioning as messenger of death is best held under supernatural
+    guidance or intervention unless the death-fate mechanism is central.
+  cautions: If the emphasis is fated death or lament rather than messenger agency,
+    death_by_fate or lament_and_mourning may be better secondary mappings.
+  suggested_aliases:
+  - animal death messenger
+  - animal brings death news
+  - death tidings by animal messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-returns-bearing-proof-of-death
+  motif_id: animal_returns_bearing_proof_of_death
+  label: animal returns bearing proof of death
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The animal carries material proof that establishes a death event, functioning
+    like a recognition or verification token.
+  cautions: If the animal is primarily a messenger or psychopomp, divine_intervention
+    or afterlife_passage may also apply.
+  suggested_aliases:
+  - animal bears proof of death
+  - death proof token carried by animal
+  - animal messenger with death evidence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.anticipation-of-future-life
+  motif_id: anticipation_of_future_life
+  label: anticipation of future life
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Expectation of a future life broadly belongs with death-transformation
+    or afterlife hope, but the label is abstract.
+  cautions: Needs context to distinguish resurrection, reincarnation, afterlife passage,
+    philosophical immortality, or rhetorical consolation.
+  suggested_aliases:
+  - hope for future life
+  - expectation of life after death
+  - future life anticipated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.apparent-freedom-undone-by-a-remaining-bond
+  motif_id: apparent_freedom_undone_by_a_remaining_bond
+  label: apparent freedom undone by a remaining bond
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could indicate fate, attachment, captivity, moral obligation,
+    or philosophical bondage depending on passage evidence.
+  cautions: Abstract generated label; do not map without source context showing a
+    stable narrative function.
+  suggested_aliases:
+  - freedom undone by bond
+  - remaining bond prevents release
+  - incomplete liberation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - mystical_quest
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.apparent-pleasure-as-shadow
+  motif_id: apparent_pleasure_as_shadow
+  label: apparent pleasure as shadow
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: beauty_and_paradox
+  suggested_group_label: Beauty Paired with Pain and Paradox
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label frames pleasure as illusory or shadow-like, fitting paradoxical
+    beauty/pleasure mixed with negation or suffering.
+  cautions: May be philosophical commentary rather than a narrative motif; review
+    before indexing broadly.
+  suggested_aliases:
+  - illusory pleasure
+  - pleasure as shadow
+  - apparent delight as unreality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and based only on labels, occurrence counts, and existing
+  normalization groups.
+- Several one-off labels are abstract or episode-specific; source evidence should
+  decide whether they remain pattern-query motifs or evidence notes.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Batch contains multiple single-occurrence labels; human review recommended
+    before taxonomy updates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0003
+  input_sha256: 13d951252e0063cf9be9c49f0869fb94d531cc53bd965a57e78b7d49579e38a2
+

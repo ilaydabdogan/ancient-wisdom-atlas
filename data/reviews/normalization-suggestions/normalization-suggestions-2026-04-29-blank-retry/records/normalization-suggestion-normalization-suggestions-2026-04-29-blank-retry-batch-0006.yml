@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0006
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.beauty-contest-judged-by-supernatural-umpire
+  motif_id: beauty_contest_judged_by_supernatural_umpire
+  label: beauty contest judged by supernatural umpire
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A supernatural judge in a contest could indicate divine judgment, sacred
+    love, or a folktale plot device depending on the episode.
+  cautions: Single occurrence; do not map to divine_judgment unless moral or sacred
+    evaluation is central rather than comic or romantic arbitration.
+  suggested_aliases:
+  - supernatural judge of beauty contest
+  - supernatural contest umpire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_love
+    - beauty_and_paradox
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beggar-rewarded-by-adapting-to-a-patron-s-humor
+  motif_id: beggar_rewarded_by_adapting_to_a_patron_s_humor
+  label: beggar rewarded by adapting to a patron's humor
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This reads as a highly specific social-wit or patronage episode, not
+    clearly a sacred motif from the label alone.
+  cautions: Could belong under storytelling_as_power if verbal wit is central, or
+    sacred_exchange/hospitality if patronage reciprocity is ritually framed; otherwise
+    exclude as a tale detail.
+  suggested_aliases:
+  - beggar rewarded for wit
+  - adaptive beggar gains patron reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - sacred_exchange
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-insider-allies-aid-raiders-or-suitors
+  motif_id: beloved_insider_allies_aid_raiders_or_suitors
+  label: beloved insider allies aid raiders or suitors
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The beloved or insider ally enables a suitor or raider in a love-related
+    acquisition or rescue plot.
+  cautions: If the episode is mainly raid strategy rather than love or marriage pursuit,
+    sacred_combat may be a better secondary placement.
+  suggested_aliases:
+  - insider beloved aids suitor
+  - beloved ally assists raid
+  - lover as insider helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-removed-dangerous-remnant-left-behind
+  motif_id: beloved_removed_dangerous_remnant_left_behind
+  label: beloved removed, dangerous remnant left behind
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to tell whether it concerns lost beloved,
+    death remnant, magical object, or narrative aftermath.
+  cautions: Needs source context; could map to sacred_love, death_and_transformation,
+    sacred_treasures, or be too episode-specific for pattern queries.
+  suggested_aliases:
+  - dangerous remnant of removed beloved
+  - lost beloved leaves dangerous trace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - death_and_transformation
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-supplies-weapon-for-hero-s-rescue
+  motif_id: beloved_supplies_weapon_for_hero_s_rescue
+  label: Beloved supplies weapon for hero’s rescue
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A beloved aids rescue by providing the means for heroic action, fitting
+    love as the driver and helper of the quest.
+  cautions: If the weapon itself is the focus, add secondary review under sacred_treasures
+    or divine_warrior; preserve rescue context.
+  suggested_aliases:
+  - beloved arms the rescuer
+  - lover supplies rescue weapon
+  - beloved helper gives weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - hero_journey
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.benefactor-becomes-predator
+  motif_id: benefactor_becomes_predator
+  label: Benefactor becomes predator
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key pattern is reversal of a protective or helpful bond into predatory
+    threat, which centers violated trust.
+  cautions: Could also involve shapeshifting if the change is literal, or trickster/predator
+    fable logic if it is an animal tale.
+  suggested_aliases:
+  - protector becomes predator
+  - helper turns threatening
+  - benefactor betrays dependent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.benefit-friends-and-harm-enemies
+  motif_id: benefit_friends_and_harm_enemies
+  label: benefit friends and harm enemies
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase may be an ethical maxim, political norm, or character stance
+    rather than a narrative motif.
+  cautions: If framed as moral teaching, sacred_law or wisdom may apply; if merely
+    philosophical commentary, exclude from motif queries.
+  suggested_aliases:
+  - help friends harm enemies
+  - reciprocal loyalty and enmity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_knowledge
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-mother-s-dying-curse
+  motif_id: bereaved_mother_s_dying_curse
+  label: Bereaved mother's dying curse
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on bereavement expressed at death through a curse,
+    linking grief with transformative or harmful speech.
+  cautions: Culturally sensitive; review source context before treating curse speech
+    as equivalent across traditions. Could also relate to divine_judgment if the curse
+    enacts moral reckoning.
+  suggested_aliases:
+  - dying curse of bereaved mother
+  - mother's grief curse
+  - deathbed maternal curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-survivor-whose-family-is-replaced-by-spouse
+  motif_id: bereaved_survivor_whose_family_is_replaced_by_spouse
+  label: bereaved survivor whose family is replaced by spouse
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The label suggests spousal love or marriage replacing lost kinship after
+    bereavement.
+  cautions: Highly contextual and possibly psychological or social rather than mythic;
+    if grief is central, lament_and_mourning may be a better placement.
+  suggested_aliases:
+  - spouse replaces lost family
+  - bereaved survivor finds family in spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.betrayal-for-a-second-reward
+  motif_id: betrayal_for_a_second_reward
+  label: betrayal for a second reward
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif directly names betrayal motivated by additional reward, fitting
+    violated trust as the narrative engine.
+  cautions: If the passage emphasizes punishment for greed more than betrayal itself,
+    divine_judgment or pride_and_downfall may be useful secondary mappings.
+  suggested_aliases:
+  - double reward betrayal
+  - betrayal for extra payment
+  - treachery for second reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - pride_and_downfall
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional and avoid transmission claims.
+- Several items are single-occurrence, episode-specific labels; preserve them as evidence
+  details unless recurrence or clear narrative function is confirmed.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Batch contains several ambiguous social, romantic, and tale-detail labels
+    requiring source-context review before final taxonomy mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0006
+  input_sha256: 61236489b3a461782d234f742972e2240c3898cedc7124b3c5a6c881c4956f99
+

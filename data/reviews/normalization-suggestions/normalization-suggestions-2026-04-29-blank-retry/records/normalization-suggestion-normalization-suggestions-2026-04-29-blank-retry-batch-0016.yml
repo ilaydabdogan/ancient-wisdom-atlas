@@ -1,0 +1,311 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0016
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.council-stratagem-testing-the-army-s-resolve
+  motif_id: council_stratagem_testing_the_army_s_resolve
+  label: council stratagem testing the army's resolve
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a military leadership tactic, but its mythic function
+    is unclear without source context.
+  cautions: Could be a passage-specific plot device, sacred combat episode, royal
+    testing scene, or literary stratagem; do not map solely from the army setting.
+  suggested_aliases:
+  - army resolve test
+  - council war stratagem
+  - leader tests troops
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.covered-sacred-image-remains-visible
+  motif_id: covered_sacred_image_remains_visible
+  label: covered sacred image remains visible
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sacred image remaining visible despite concealment suggests persistent
+    manifestation of sacred presence.
+  cautions: If the passage is about icon practice, devotional vision, or metaphorical
+    mystical perception, sacred_treasures or dream_and_vision may also be relevant.
+  suggested_aliases:
+  - unconcealable sacred image
+  - veiled image remains visible
+  - covered icon remains manifest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crowning-the-admired-host
+  motif_id: crowning_the_admired_host
+  label: crowning the admired host
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Crowning a host may mark honor, hospitality, ritual praise, or social
+    reward, but the motif function is underspecified.
+  cautions: Could belong with hospitality_test_stranger_guest, sacred_exchange, royal_legitimacy,
+    or be a minor ceremonial detail.
+  suggested_aliases:
+  - honoring the host with a crown
+  - garlanding the host
+  - host crowned in admiration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - sacred_exchange
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cult-name-and-place-name-aetiology-from-divine-action
+  motif_id: cult_name_and_place_name_aetiology_from_divine_action
+  label: cult-name and place-name aetiology from divine action
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The existing cosmic_origin group already includes place-name and etiological
+    naming motifs, including supernatural place naming.
+  cautions: This is local cult and toponymic aetiology, not necessarily cosmic creation;
+    preserve the cult-name specificity as evidence detail.
+  suggested_aliases:
+  - divine action place-name aetiology
+  - cult-name aetiology
+  - supernatural cult and place naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curse-placed-after-kin-slaying-in-animal-form
+  motif_id: curse_placed_after_kin_slaying_in_animal_form
+  label: curse placed after kin-slaying in animal form
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A curse following kin-slaying functions as moral consequence or sacred
+    retribution for a grave transgression.
+  cautions: The animal-form element may support shapeshifter if transformation is
+    central; if the focus is kin-slaying tragedy, lament or sacred_combat may be secondary.
+  suggested_aliases:
+  - curse after kin-slaying
+  - kin-slaying curse
+  - animal-form kin-slaying curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curse-producing-peoples-or-lineages
+  motif_id: curse_producing_peoples_or_lineages
+  label: curse producing peoples or lineages
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already covers genealogical and eponymous origins of peoples
+    from named ancestors; this is an origin-of-lineages variant caused by curse.
+  cautions: If the emphasis is punishment rather than ethnogony, divine_judgment may
+    be the better primary group.
+  suggested_aliases:
+  - curse-origin of lineages
+  - cursed origin of peoples
+  - lineage produced by curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cursed-wasteland-caused-by-grief-and-anger
+  motif_id: cursed_wasteland_caused_by_grief_and_anger
+  label: Cursed wasteland caused by grief and anger
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A curse that transforms land into wasteland is a destructive consequence
+    of sacred or morally charged anger.
+  cautions: Could also involve lament_and_mourning if grief is central, or cosmic_origin
+    if the story explains a landscape feature.
+  suggested_aliases:
+  - grief curse creates wasteland
+  - anger-caused wasteland
+  - cursed barren land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.customary-burden-remains-after-shared-labor
+  motif_id: customary_burden_remains_after_shared_labor
+  label: Customary burden remains after shared labor
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: low
+  rationale: The label reads like a social or interpretive observation rather than
+    a reusable mythic motif.
+  cautions: If source evidence shows a recurring ritual obligation, debt, or reciprocal
+    labor pattern, sacred_exchange or sacred_law could be reconsidered.
+  suggested_aliases:
+  - remaining customary burden
+  - shared labor burden
+  - customary obligation after labor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-field-animal-used-to-warn-children-from-crops
+  motif_id: dangerous_field_animal_used_to_warn_children_from_crops
+  label: Dangerous field animal used to warn children from crops
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label sounds like a comparative folklore explanation or child-warning
+    custom rather than a symbolic motif in the current taxonomy.
+  cautions: If an actual supernatural field guardian or crop-protecting monster is
+    present, threshold_guardian or sacred_law may need review.
+  suggested_aliases:
+  - field animal child warning
+  - crop-warning animal
+  - dangerous animal deters children from crops
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-hunt-warning
+  motif_id: dangerous_hunt_warning
+  label: dangerous hunt warning
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A warning before a hunt may be omen, taboo, initiation ordeal, or plot
+    setup; the function is not clear from the label.
+  cautions: Do not map to sacred_combat or divine_judgment without evidence that the
+    hunt is sacred, punitive, or transformative.
+  suggested_aliases:
+  - warning against dangerous hunt
+  - ominous hunt warning
+  - hunt danger omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - initiation
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional; several single-occurrence labels look like local episode
+  details and should be checked against source passages before indexing.
+- Etiological labels were placed under existing cosmic_origin only where the current
+  group already includes place-name, lineage, or supernatural naming children.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Human review recommended for ambiguous military, hunting, hospitality, and
+    custom labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0016
+  input_sha256: 8640328fca1d1c37740cc56456f908e8e3d002fc3664fd50b8c21b77c41bd6fc
+

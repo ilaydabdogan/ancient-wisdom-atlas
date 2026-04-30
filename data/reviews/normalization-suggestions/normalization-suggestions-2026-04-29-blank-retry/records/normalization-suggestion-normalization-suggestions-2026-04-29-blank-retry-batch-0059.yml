@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0059
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ominous-midnight-battlefield
+  motif_id: ominous_midnight_battlefield
+  label: Ominous midnight battlefield
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: Battlefield setting suggests sacred combat, but the motif may be only
+    an atmospheric scene marker.
+  cautions: Single occurrence; verify whether midnight has ritual, omen, dream, or
+    supernatural significance before indexing.
+  suggested_aliases:
+  - midnight_battlefield
+  - ominous_battlefield_at_midnight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-eyed-survivor-of-supernatural-encounter
+  motif_id: one_eyed_survivor_of_supernatural_encounter
+  label: one-eyed survivor of supernatural encounter
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines bodily mark, survival, and supernatural encounter
+    without identifying the narrative function.
+  cautions: Could be an over-specific episode detail, initiation wound, divine judgment,
+    otherworld encounter, or recognition marker; source evidence needed.
+  suggested_aliases:
+  - one_eyed_survivor
+  - survivor_marked_by_supernatural_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oral-preservation-and-cultural-loss
+  motif_id: oral_preservation_and_cultural_loss
+  label: Oral preservation and cultural loss
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This reads as a transmission or cultural-history observation rather than
+    a narrative motif.
+  cautions: Preserve as provenance or commentary if useful, but keep out of motif
+    pattern queries unless a passage personifies memory or loss mythically.
+  suggested_aliases:
+  - oral_tradition_and_cultural_loss
+  - oral_preservation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordeal-of-successive-waves-in-argument
+  motif_id: ordeal_of_successive_waves_in_argument
+  label: ordeal of successive waves in argument
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: low
+  rationale: An ordeal through repeated waves of argument may function as a testing
+    sequence.
+  cautions: May be metaphorical rhetoric or passage-specific phrasing rather than
+    a mythic ordeal; confirm whether transformation or threshold testing occurs.
+  suggested_aliases:
+  - successive_argument_ordeal
+  - argument_as_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-and-consecration-of-a-sacred-animal
+  motif_id: origin_and_consecration_of_a_sacred_animal
+  label: Origin and consecration of a sacred animal
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Consecrating an animal establishes ritual status and sacred handling
+    obligations.
+  cautions: If the passage primarily explains species origin or totemic ancestry,
+    cosmic_origin or a future animal-origin group may be better.
+  suggested_aliases:
+  - sacred_animal_consecration
+  - consecrated_animal_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-explanation-for-gold-bearing-river-or-fields
+  motif_id: origin_explanation_for_gold_bearing_river_or_fields
+  label: origin explanation for gold-bearing river or fields
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is an etiological explanation for a landscape feature and its material
+    abundance.
+  cautions: Likely too local for a canonical motif; preserve as etiological landscape
+    detail unless similar abundance-origin labels recur.
+  suggested_aliases:
+  - etiology_of_gold_bearing_landscape
+  - gold_bearing_river_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-explanation-for-hollow-reeds
+  motif_id: origin_explanation_for_hollow_reeds
+  label: Origin explanation for hollow reeds
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label is an etiological origin explanation for a natural feature.
+  cautions: Very specific natural-history etiology; do not promote unless comparable
+    plant-origin motifs recur across sources.
+  suggested_aliases:
+  - hollow_reed_etiology
+  - origin_of_hollow_reeds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.otherworld-associated-labor-fulfilling-a-demand
+  motif_id: otherworld_associated_labor_fulfilling_a_demand
+  label: Otherworld-associated labor fulfilling a demand
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: The action is tied to an otherworld context and obligation or task fulfillment.
+  cautions: If the demand is a trial imposed on a hero, initiation or hero_journey
+    may be a secondary placement; label is broad and contextual.
+  suggested_aliases:
+  - otherworld_labor_task
+  - otherworld_demand_fulfillment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.otherworldly-empty-interior-with-central-fountain-and-suspended-objects
+  motif_id: otherworldly_empty_interior_with_central_fountain_and_suspended_objects
+  label: Otherworldly empty interior with central fountain and suspended objects
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: over_specific_label
+  confidence: low
+  rationale: The scene appears to describe an otherworldly space, but its motif function
+    is unclear.
+  cautions: May be a passage-specific setting artifact; central fountain could imply
+    sacred waters or world center if narratively active.
+  suggested_aliases:
+  - otherworldly_empty_interior
+  - central_fountain_with_suspended_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.otherworldly-fiery-place-associated-with-female-beings
+  motif_id: otherworldly_fiery_place_associated_with_female_beings
+  label: otherworldly fiery place associated with female beings
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A fiery place inhabited or marked by female beings fits an enchanted
+    otherworld setting more than general sacred fire.
+  cautions: Could instead involve sacred_fire, mother_goddess, threshold guardian,
+    or punishment imagery depending on source context; avoid mapping female beings
+    generically to mother_goddess.
+  suggested_aliases:
+  - fiery_otherworld_with_female_beings
+  - otherworldly_fiery_female_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several single-occurrence labels appear over-specific
+  or setting-based and should be checked against passage evidence.
+- Etiological labels were placed under cosmic_origin as broad landscape/natural-origin
+  explanations, not as claims of cosmic creation in the narrow sense.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch includes multiple low-confidence contextual labels requiring source
+    review before durable mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0059
+  input_sha256: d7674cad0d57dbd374114c2b21d7f58a3f866edd7498d6296069f1e9dfdee23c
+

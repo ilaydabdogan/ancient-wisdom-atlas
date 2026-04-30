@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0050
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mad-parent-kills-child
+  motif_id: mad_parent_kills_child
+  label: mad parent kills child
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe tragic violence, divine punishment, madness, or
+    an episode-specific plot detail; no existing group cleanly captures madness-driven
+    kin killing.
+  cautions: Single occurrence and culturally/contextually dependent; do not force
+    into sacrifice or divine judgment without source evidence.
+  suggested_aliases:
+  - madness-driven kin killing
+  - parent kills child in madness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - lament_and_mourning
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.madness-family-killing-seclusion-and-labor-as-response
+  motif_id: madness_family_killing_seclusion_and_labor_as_response
+  label: madness, family killing, seclusion, and labor as response
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a composite sequence combining madness, kin killing, withdrawal,
+    and imposed labor; placement depends on the narrative function of the response.
+  cautions: Likely episode-specific, possibly Heraklean; review before treating as
+    a reusable motif. Could split into madness, penance/labor, or purification if
+    evidence recurs.
+  suggested_aliases:
+  - madness and kin killing followed by penance
+  - family killing and labor as expiation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - divine_judgment
+    - hero_journey
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.madness-replacing-temperance
+  motif_id: madness_replacing_temperance
+  label: Madness replacing temperance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The contrast of madness with temperance fits moral reckoning and loss
+    of proper order, especially in Greek ethical framing.
+  cautions: If the passage emphasizes psychological affliction or Dionysian possession
+    rather than moral consequence, human review may prefer another future madness/possession
+    group.
+  suggested_aliases:
+  - loss of temperance through madness
+  - madness overcoming self-control
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-cannibal-antagonist
+  motif_id: magical_cannibal_antagonist
+  label: magical cannibal antagonist
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: A cannibal antagonist may function as monster, threshold threat, moral
+    foil, or transformed being, but no existing group clearly covers cannibal monsters.
+  cautions: Avoid reducing Buddhist narrative context to a generic monster label;
+    source function is needed before placement.
+  suggested_aliases:
+  - cannibal ogre antagonist
+  - man-eating magical antagonist
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - divine_judgment
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-curse-of-barrenness-and-failed-ripening
+  motif_id: magical_curse_of_barrenness_and_failed_ripening
+  label: magical curse of barrenness and failed ripening
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: medium
+  rationale: Barrenness and failed ripening concern disrupted fertility and agricultural
+    cycles, fitting sacred time and seasonal renewal patterns.
+  cautions: If the curse is primarily punitive, divine_judgment may be secondary;
+    if it centers on fertility deity or mother figure, mother_goddess may be relevant.
+  suggested_aliases:
+  - curse of barrenness
+  - failed ripening curse
+  - agricultural fertility curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-forgetfulness-delaying-completion-of-an-obligation
+  motif_id: magical_forgetfulness_delaying_completion_of_an_obligation
+  label: magical forgetfulness delaying completion of an obligation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif turns on an obligation whose fulfillment is delayed, aligning
+    with sacred bonds, vows, or duties.
+  cautions: If magical forgetfulness is the main mechanism rather than the obligation,
+    it may fit enchantment or storytelling_as_power; source context needed.
+  suggested_aliases:
+  - forgetfulness delays obligation
+  - enchanted forgetfulness of duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-lake-with-rule-bound-fishing
+  motif_id: magical_lake_with_rule_bound_fishing
+  label: magical lake with rule-bound fishing
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A magical lake governed by rules centers on water as charged boundary
+    or resource requiring sacred protocol.
+  cautions: If the emphasis is taboo law, sacred_law may be secondary; if the fish
+    are transformed beings, shapeshifter or otherworld may be relevant.
+  suggested_aliases:
+  - rule-bound magical fishing
+  - taboo fishing in magical lake
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-music-announces-or-controls-the-transformed-herd
+  motif_id: magical_music_announces_or_controls_the_transformed_herd
+  label: Magical music announces or controls the transformed herd
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: The label directly describes music as supernatural control or signal,
+    matching enchanting music and sound power.
+  cautions: The transformed herd may also support shapeshifter as a secondary mapping,
+    but the controlling medium is music.
+  suggested_aliases:
+  - magical music controls herd
+  - music controlling transformed animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-or-extraordinary-fishing-with-simple-natural-objects
+  motif_id: magical_or_extraordinary_fishing_with_simple_natural_objects
+  label: Magical or extraordinary fishing with simple natural objects
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: Extraordinary fishing may involve abundance, sacred waters, trickery,
+    or a wonder-working object; the label alone does not show the narrative function.
+  cautions: Single occurrence and tool-specific; may be too granular unless magical
+    fishing recurs across sources.
+  suggested_aliases:
+  - extraordinary fishing with natural objects
+  - magical fishing implement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - divine_intervention
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-provider-of-dairy-abundance
+  motif_id: magical_provider_of_dairy_abundance
+  label: magical provider of dairy abundance
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The existing divine_intervention group includes miraculous provision
+    and animal sources of abundance, matching a magical dairy provider.
+  cautions: If the provider is specifically a sacred cow or household spirit, preserve
+    that local detail; do not collapse all fertility symbolism into mother_goddess.
+  suggested_aliases:
+  - dairy abundance provider
+  - magical milk provider
+  - miraculous dairy provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; review
+  source passages before promoting any madness, cannibal-antagonist, or magical-fishing
+  cluster to a new group.
+- Where a label combines mechanism and function, the suggested placement prioritizes
+  narrative function over symbolic surface.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0050
+  input_sha256: 06a7405c210f06e55e598f4ae506f9e2617a350f3262e94f388169e8b70f3dcc
+

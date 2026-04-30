@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0018
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deceptive-adversaries-of-prophets
+  motif_id: deceptive_adversaries_of_prophets
+  label: deceptive adversaries of prophets
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Prophetic opposition is already represented near prophet call and divine
+    action; adversaries function as opponents to sacred mission.
+  cautions: Could instead be divine_judgment, trickster/deception, or a passage-specific
+    polemical detail depending on evidence.
+  suggested_aliases:
+  - prophetic_adversaries
+  - opponents_of_prophets
+  - deceptive_opponents_of_prophetic_mission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-adversaries-opposing-prophetic-mission
+  motif_id: deceptive_adversaries_opposing_prophetic_mission
+  label: deceptive adversaries opposing prophetic mission
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on antagonists to a prophetic mission, fitting the
+    existing prophetic-call/divine-action cluster.
+  cautions: If the passage emphasizes deceit as strategy rather than prophetic vocation,
+    trickster or divine_judgment may be better secondary mappings.
+  suggested_aliases:
+  - deceptive_adversaries_of_prophets
+  - prophetic_mission_opposed_by_deceivers
+  - opponents_of_prophets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-caretaker-abducts-children
+  motif_id: deceptive_caretaker_abducts_children
+  label: deceptive caretaker abducts children
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines deception, caretaker betrayal, and child abduction,
+    but the narrative function is unclear from the label alone.
+  cautions: Could fit betrayal_violated_trust, jealous_stepmother_persecuted_child,
+    otherworld abduction, or a local culturally specific child-danger narrative; review
+    source context carefully.
+  suggested_aliases:
+  - caretaker_betrayal_abducts_children
+  - child_abduction_by_deceptive_caretaker
+  - trusted_caretaker_as_abductor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-concealment-after-magical-harm
+  motif_id: deceptive_concealment_after_magical_harm
+  label: deceptive concealment after magical harm
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a cover-up after harmful magic, but does not identify
+    the broader recurring function.
+  cautions: May be betrayal, trickster deception, magical attack, or an episode-specific
+    plot detail; source evidence is needed before placement.
+  suggested_aliases:
+  - concealment_after_magical_injury
+  - magical_harm_hidden_by_deception
+  - deceptive_cover_up_after_enchantment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-exchange-using-a-decoy-and-promised-woman
+  motif_id: deceptive_exchange_using_a_decoy_and_promised_woman
+  label: deceptive exchange using a decoy and promised woman
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The promised woman and exchange/deception structure fits bride-winning
+    or marriage-choice motifs already grouped under sacred_love.
+  cautions: If the key function is violated exchange or trickery rather than marriage
+    contest, sacred_exchange or trickster may be better; label is highly episode-specific.
+  suggested_aliases:
+  - deceptive_bride_exchange
+  - decoy_in_bride_exchange
+  - promised_woman_substituted_by_decoy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-food-hides-a-harmful-object
+  motif_id: deceptive_food_hides_a_harmful_object
+  label: Deceptive food hides a harmful object
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: Harm concealed in food is a feast or food betrayal where trust in hospitality
+    or eating is violated.
+  cautions: Could also relate to trickster if the emphasis is clever deception, or
+    divine_judgment if punished as moral wrongdoing.
+  suggested_aliases:
+  - deceptive_food_with_hidden_harmful_object
+  - hidden_harmful_object_in_food
+  - food_betrayal_with_concealed_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-food-with-a-hidden-harmful-object
+  motif_id: deceptive_food_with_a_hidden_harmful_object
+  label: Deceptive food with a hidden harmful object
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: This is a close duplicate of food concealing harm and fits betrayal through
+    food or feast.
+  cautions: Preserve as an alias rather than a separate canonical child unless recurrence
+    distinguishes the object type or outcome.
+  suggested_aliases:
+  - deceptive_food_hides_a_harmful_object
+  - hidden_harmful_object_in_food
+  - food_betrayal_with_concealed_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-fortune
+  motif_id: deceptive_fortune
+  label: Deceptive Fortune
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In a Sufi context, deceptive fortune likely functions as a spiritual
+    warning about worldly illusion on the path.
+  cautions: The label is abstract; if it is only a moral aphorism or poetic theme,
+    sacred_knowledge or exclusion as commentary may be preferable.
+  suggested_aliases:
+  - worldly_fortune_as_deception
+  - deceptive_worldly_success
+  - illusion_of_fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-supernatural-agent-creates-or-restores-cult-images
+  motif_id: deceptive_supernatural_agent_creates_or_restores_cult_images
+  label: deceptive supernatural agent creates or restores cult images
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: Creation or restoration of cult images belongs with animated/crafted
+    sacred images already grouped under sacred_craft.
+  cautions: Because the agent is deceptive and the tradition may frame images polemically,
+    also review against idol, forbidden_knowledge, and divine_judgment.
+  suggested_aliases:
+  - deceptive_creation_of_cult_images
+  - supernatural_restoration_of_cult_images
+  - false_agent_makes_cult_images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceptive-survival-sign-of-a-dead-ruler
+  motif_id: deceptive_survival_sign_of_a_dead_ruler
+  label: deceptive survival sign of a dead ruler
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes rulership, death, deception, and survival signs; its
+    primary function is not clear.
+  cautions: Could fit royal_legitimacy, death_and_transformation, recognition_tokens_hidden_identity,
+    or a passage-specific political stratagem; do not treat as resurrection without
+    evidence.
+  suggested_aliases:
+  - false_sign_of_ruler_survival
+  - deceptive_token_of_dead_king_living
+  - dead_ruler_survival_deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and deception-heavy; avoid creating a broad
+  deception group unless later batches show recurrence beyond trickster, betrayal,
+  and divine-judgment functions.
+- Duplicate Finnish-Karelian food labels should likely be collapsed as aliases after
+  human review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific and polemical contexts require
+    source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0018
+  input_sha256: 4e8c1ee20ff52d7fa069251cd046336c3ee641cc0793e3fe9165f1b00dec05eb
+

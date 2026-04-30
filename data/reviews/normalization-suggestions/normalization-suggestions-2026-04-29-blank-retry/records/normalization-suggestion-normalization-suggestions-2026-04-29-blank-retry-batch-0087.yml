@@ -1,0 +1,327 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0087
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.uncanny-red-chariot-company
+  motif_id: uncanny_red_chariot_company
+  label: uncanny red chariot company
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests an uncanny procession or company, but function is
+    unclear from wording alone.
+  cautions: Could be otherworldly retinue, divine intervention, sacred combat, or
+    an episode-specific detail; needs passage evidence.
+  suggested_aliases:
+  - uncanny chariot company
+  - red chariot company
+  - otherworldly chariot retinue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - divine_intervention
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unchanged-total-transformed-by-changed-presentation
+  motif_id: unchanged_total_transformed_by_changed_presentation
+  label: unchanged total transformed by changed presentation
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as a philosophical or interpretive formulation rather
+    than a clear narrative motif.
+  cautions: May fit Daoist paradox, non-action, wisdom, or textual commentary depending
+    on source context; avoid over-normalizing abstract phrasing.
+  suggested_aliases:
+  - transformation by changed presentation
+  - unchanged whole transformed by perspective
+  - paradox of unchanged transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - duality
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unconquerable-sacred-direction
+  motif_id: unconquerable_sacred_direction
+  label: unconquerable sacred direction
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A sacred direction may encode cosmology, ritual orientation, or invulnerability,
+    but the label lacks functional context.
+  cautions: Could belong with axis_mundi, sacred_law, divine_warrior, or royal_legitimacy
+    if tied to ritual space, protection, battle, or sovereignty.
+  suggested_aliases:
+  - invincible sacred direction
+  - unassailable sacred quarter
+  - sacred direction as protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    - divine_warrior
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uncurable-wound-with-heart-displaced
+  motif_id: uncurable_wound_with_heart_displaced
+  label: uncurable wound with heart displaced
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: A displaced heart causing an incurable wound suggests abnormal vulnerability
+    or a hidden life-center pattern.
+  cautions: If the heart is externalized as a separable life-token, external_soul
+    may be better; if only a battle injury, divine_warrior or sacred_combat may be
+    secondary.
+  suggested_aliases:
+  - displaced heart wound
+  - uncurable wound from hidden heart
+  - abnormal heart vulnerability
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - external_soul
+    - divine_warrior
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.underworld-or-cave-originating-nightmare-beings
+  motif_id: underworld_or_cave_originating_nightmare_beings
+  label: Underworld or cave-originating nightmare beings
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Underworld or cave origin places the beings in a chthonic/descent field
+    of darkness and hidden danger.
+  cautions: The focus may be monster origin rather than journey; if beings act as
+    boundary figures, threshold_guardian may be a better secondary mapping.
+  suggested_aliases:
+  - chthonic nightmare beings
+  - cave-born nightmare beings
+  - underworld-born beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - chaos
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.underworld-sourced-seed-enables-a-task
+  motif_id: underworld_sourced_seed_enables_a_task
+  label: underworld-sourced seed enables a task
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: An object or seed obtained from the underworld functions as a boon from
+    a descent realm enabling later action.
+  cautions: Could also fit sacred_treasures if the seed is treated as a power object,
+    or death_and_transformation if germination from death is emphasized.
+  suggested_aliases:
+  - underworld seed boon
+  - chthonic seed enables task
+  - seed from the underworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - death_and_transformation
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unequal-alliance-in-the-hunt
+  motif_id: unequal_alliance_in_the_hunt
+  label: unequal alliance in the hunt
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a social or tactical relation in a hunt, but no existing
+    group clearly captures hunting alliances.
+  cautions: May be an episode-specific plot detail, sacred combat variant, animal-helper
+    pattern, or betrayal setup; source context required.
+  suggested_aliases:
+  - unequal hunting alliance
+  - asymmetric alliance in the hunt
+  - hunting partnership imbalance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - betrayal_violated_trust
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unintended-killing-in-darkness
+  motif_id: unintended_killing_in_darkness
+  label: unintended killing in darkness
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Accidental killing in darkness may be a tragic plot mechanism rather
+    than a stable symbolic motif.
+  cautions: Could fit divine_judgment, fate, hidden identity, or tragic recognition
+    depending on consequences and moral framing.
+  suggested_aliases:
+  - accidental killing in darkness
+  - mistaken killing in darkness
+  - darkness causes unintended death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - death_by_fate
+    - recognition_tokens_hidden_identity
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uninvited-guest-at-hostile-feast
+  motif_id: uninvited_guest_at_hostile_feast
+  label: uninvited guest at hostile feast
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: An uninvited guest at a hostile feast turns guest-host obligations into
+    a test or conflict scene.
+  cautions: If the emphasis is treacherous feasting rather than hospitality, betrayal_violated_trust
+    may be a secondary or better placement.
+  suggested_aliases:
+  - hostile feast guest
+  - uninvited feast guest
+  - guest at enemy feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-mortality-of-souls
+  motif_id: universal_mortality_of_souls
+  label: universal mortality of souls
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label concerns the soul's subjection to death, fitting the broader
+    death and transformation complex.
+  cautions: May be doctrinal teaching rather than narrative motif; if it is a theological
+    proposition only, consider sacred_knowledge or exclude as commentary after review.
+  suggested_aliases:
+  - mortality of souls
+  - all souls die
+  - soul mortality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - afterlife_passage
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional because each unmapped motif has only one recorded
+  occurrence.
+- Several labels read as highly contextual or abstract; human review should check
+  passage evidence before adding children to groups.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for blank retry batch 0087.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0087
+  input_sha256: 59a9e55c10eb3f360e1e0d8ac6a863cceab130f9c33ef016de6e91c6e4bea307
+

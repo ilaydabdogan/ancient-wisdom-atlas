@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0046
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.invocation-of-cosmic-and-chthonic-powers-for-magical-operation
+  motif_id: invocation_of_cosmic_and_chthonic_powers_for_magical_operation
+  label: invocation of cosmic and chthonic powers for magical operation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests ritual use of hidden or sacred powers for magical
+    efficacy, loosely fitting sacred knowledge.
+  cautions: Could be ritual magic, invocation formula, chthonic cult, or passage-specific
+    description; source evidence is needed before indexing.
+  suggested_aliases:
+  - magical_invocation_of_cosmic_powers
+  - chthonic_power_invocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.irreconcilable-injury-remembered-in-the-offender-s-presence
+  motif_id: irreconcilable_injury_remembered_in_the_offender_s_presence
+  label: irreconcilable injury remembered in the offender's presence
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: uncertain
+  confidence: low
+  rationale: Remembered injury in the offender's presence may function as unresolved
+    violated trust or grievance.
+  cautions: May be a localized emotional scene rather than a recurring motif; could
+    also fit lament, vengeance, or divine judgment depending on context.
+  suggested_aliases:
+  - unhealed_grievance_in_offender_presence
+  - remembered_irreparable_injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.irreplaceable-lost-object
+  motif_id: irreplaceable_lost_object
+  label: irreplaceable lost object
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A lost object may be a power object or identity token if it carries sacred,
+    relational, or authority value.
+  cautions: The label alone is too generic; if the object is not sacred, magical,
+    or identity-bearing, exclude as an episode detail.
+  suggested_aliases:
+  - lost_precious_object
+  - lost_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.j-taka-past-life-identification
+  motif_id: j_taka_past_life_identification
+  label: Jātaka past-life identification
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Past-Life Identification and Rebirth Continuity
+  relationship: narrower_than
+  confidence: medium
+  rationale: Jātaka identifications link present figures with past births, a rebirth-continuity
+    function not captured by general death transformation.
+  cautions: Culturally specific Buddhist narrative framing should be preserved; avoid
+    flattening into generic resurrection or reincarnation without review.
+  suggested_aliases:
+  - past_life_identification
+  - jataka_identity_disclosure
+  - rebirth_continuity_identification
+  suggested_new_group:
+    id: past_life_identification
+    label: Past-Life Identification and Rebirth Continuity
+    description: A narrative identifies present figures, teachers, disciples, rivals,
+      or animals as earlier-life forms in a rebirth sequence, revealing karmic continuity
+      across lives.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - sacred_knowledge
+    - storytelling_as_power
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing death-and-transformation groups
+      cover renewal or resurrection but do not specifically capture retrospective
+      identification across rebirths, especially in Jātaka-style narrative closure.
+- suggestion_id: normalization.suggestion.jealous-master-destroys-talented-pupil
+  motif_id: jealous_master_destroys_talented_pupil
+  label: jealous master destroys talented pupil
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: low
+  rationale: A master destroying a talented pupil may express envy, threatened status,
+    and destructive overreach.
+  cautions: Could instead be betrayal of trust, failed mentorship, divine judgment,
+    or an episode-specific conflict; source context is required.
+  suggested_aliases:
+  - jealous_teacher_harms_pupil
+  - envy_of_talented_student
+  - master_pupil_rivalry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-or-offended-lord-pursues-visitor
+  motif_id: jealous_or_offended_lord_pursues_visitor
+  label: jealous or offended lord pursues visitor
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: uncertain
+  confidence: low
+  rationale: A lord pursuing a visitor may involve violated guest-host relations or
+    failed hospitality.
+  cautions: Could be jealousy, pursuit from an otherworld court, sacred love rivalry,
+    or ordinary plot action; do not map without passage evidence.
+  suggested_aliases:
+  - offended_host_pursues_guest
+  - jealous_lord_pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-spiritual-master-leaves-the-assembly
+  motif_id: jealous_spiritual_master_leaves_the_assembly
+  label: jealous spiritual master leaves the assembly
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a specific scene about a spiritual teacher's reaction rather
+    than a reusable symbolic motif.
+  cautions: If the passage uses the departure as a teaching ordeal or mystical test,
+    reconsider under mystical_quest or sacred_knowledge.
+  suggested_aliases:
+  - spiritual_master_leaves_assembly
+  - jealous_teacher_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.killing-all-game-so-none-warn-the-herd
+  motif_id: killing_all_game_so_none_warn_the_herd
+  label: Killing all game so none warn the herd
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: The label describes strategic predatory deception or prevention of warning,
+    near existing animal trickster/fable patterns.
+  cautions: May be a hunting tactic, fable detail, or comparative folklore type; not
+    necessarily sacred trickster material.
+  suggested_aliases:
+  - predator_silences_warning_game
+  - killing_witnesses_to_prevent_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-solidarity-signaled-by-joined-fingers
+  motif_id: kin_solidarity_signaled_by_joined_fingers
+  label: kin solidarity signaled by joined fingers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A gesture expressing kin solidarity may belong with social order and
+    ethical obligations if ritually or morally framed.
+  cautions: Likely an over-specific gesture unless it recurs or carries legal/ritual
+    force; could be excluded as passage detail.
+  suggested_aliases:
+  - joined_fingers_as_kinship_symbol
+  - kinship_solidarity_gesture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinsman-recognized-among-enemies-changes-sides
+  motif_id: kinsman_recognized_among_enemies_changes_sides
+  label: kinsman recognized among enemies changes sides
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Recognition of kin identity changes allegiance, matching recognition
+    motifs where identity proof alters action.
+  cautions: If no token, scar, voice, or proof is involved, this may also be a kinship-loyalty
+    or battle episode detail.
+  suggested_aliases:
+  - recognition_of_kin_among_enemies
+  - recognized_kinsman_changes_allegiance
+  - kinship_recognition_prevents_enemy_loyalty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several labels have single occurrences and may be episode-specific; human review
+  should check passage evidence before promoting any granular motif.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Batch contains low-confidence contextual labels, one proposed rebirth-continuity
+    group candidate, and one suggested exclusion as over-specific.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0046
+  input_sha256: 53a3749e7bd26cefb44e302bcd563705cd447fb4cbdfcd568e0acd2543226f25
+

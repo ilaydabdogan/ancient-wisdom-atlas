@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0011
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.children-induced-to-kill-a-parent
+  motif_id: children_induced_to_kill_a_parent
+  label: children induced to kill a parent
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes intrafamilial violence prompted by another agent,
+    but its mythic function is unclear from the label alone.
+  cautions: Could involve divine judgment, betrayal, tragic fate, or passage-specific
+    plot detail; single occurrence needs source review.
+  suggested_aliases:
+  - induced parricide
+  - children made to kill parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - betrayal_violated_trust
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.children-left-at-divine-altar-for-protection-and-killed
+  motif_id: children_left_at_divine_altar_for_protection_and_killed
+  label: children left at divine altar for protection and killed
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sanctuary protection, child peril, and failed refuge,
+    but no single existing group clearly captures the function.
+  cautions: May be tragic irony, violated sacred space, sacrifice, or persecuted-child
+    evidence; avoid mapping to miraculous_child unless sacred destiny or protected
+    infancy is present.
+  suggested_aliases:
+  - children killed at altar refuge
+  - failed altar protection of children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - miraculous_child
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.children-s-play-mirrors-adult-court-proceedings
+  motif_id: children_s_play_mirrors_adult_court_proceedings
+  label: children's play mirrors adult court proceedings
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a wisdom or justice-revelation episode, but the label reads
+    as a highly contextual narrative device.
+  cautions: Could belong under divine_judgment if child-play reveals legal truth,
+    or storytelling_as_power if framed as didactic narrative; source evidence needed.
+  suggested_aliases:
+  - child play imitates court judgment
+  - mock court by children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_knowledge
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.christian-conversion-debate-with-heroic-age-survivor
+  motif_id: christian_conversion_debate_with_heroic_age_survivor
+  label: Christian conversion debate with heroic-age survivor
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes religious debate, conversion, and survival from an older
+    heroic age, requiring context-sensitive review.
+  cautions: May be reception or Christianization framing rather than a reusable mythic
+    motif; avoid transmission claims and review for textual/commentary artifact status.
+  suggested_aliases:
+  - conversion debate with ancient survivor
+  - heroic survivor conversion dialogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - storytelling_as_power
+    - immortality_without_renewal
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.city-gates-as-refuge-from-pursuing-death
+  motif_id: city_gates_as_refuge_from_pursuing_death
+  label: city gates as refuge from pursuing death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: City gates function as a charged boundary where passage, protection,
+    and pursuing death are negotiated.
+  cautions: If the emphasis is fate or unavoidable death rather than boundary refuge,
+    death_by_fate may be a better secondary mapping.
+  suggested_aliases:
+  - gate refuge from death
+  - threshold refuge from pursuing death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.civic-liberty-struggle
+  motif_id: civic_liberty_struggle
+  label: civic liberty struggle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label is a broad political-historical theme rather than a clear symbolic
+    or narrative motif.
+  cautions: If a passage presents liberation through sacred kingship, divine judgment,
+    or heroic combat, preserve that more specific evidence instead.
+  suggested_aliases:
+  - struggle for civic liberty
+  - political liberty struggle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - divine_judgment
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clouds-and-aurora-personified-as-sky-riders-or-flocks
+  motif_id: clouds_and_aurora_personified_as_sky_riders_or_flocks
+  label: Clouds and aurora personified as sky riders or flocks
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is atmospheric personification, but the current groups lack a clean
+    weather or sky-personification category.
+  cautions: Could be poetic kenning/commentary, divine race imagery, dream/vision,
+    or cosmic-order symbolism depending on evidence; single occurrence is over-specific.
+  suggested_aliases:
+  - aurora as sky riders
+  - clouds as flocks
+  - personified atmospheric lights
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - divine_race
+    - sacred_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coercion-by-threat-and-blandishment
+  motif_id: coercion_by_threat_and_blandishment
+  label: coercion by threat and blandishment
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label names a generic persuasion tactic rather than a distinct mythic
+    motif.
+  cautions: If the source involves abduction, violated trust, or coercive courtship,
+    map the fuller narrative pattern instead of this tactic alone.
+  suggested_aliases:
+  - threats and blandishments
+  - coercive persuasion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_love
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coercive-deadline-imposed-on-captive-woman
+  motif_id: coercive_deadline_imposed_on_captive_woman
+  label: coercive deadline imposed on captive woman
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A captive woman's coerced deadline commonly functions within threatened
+    fidelity, captivity, and love ordeal narratives.
+  cautions: Review for gendered violence and captivity context; if the passage emphasizes
+    moral reckoning or abduction more than fidelity, divine_judgment or stolen_beloved
+    may be secondary.
+  suggested_aliases:
+  - deadline imposed on captive woman
+  - coerced captive beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - stolen_beloved
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cold-invoked-to-heal-fire-wounds
+  motif_id: cold_invoked_to_heal_fire_wounds
+  label: Cold invoked to heal fire wounds
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests healing charm or elemental counteraction, but no existing
+    group cleanly covers ritual healing by invoked cold.
+  cautions: Could relate to sacred_fire only by opposition; avoid mapping to fire
+    unless the fire itself is sacred, purifying, or destructive in the passage.
+  suggested_aliases:
+  - cold healing fire wounds
+  - healing fire burns by invoking cold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - sacred_knowledge
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence, context-heavy labels; human review should check
+  whether they are reusable motifs or passage-level evidence notes.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft suggestions generated for blank suggested-group retry batch 0011.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0011
+  input_sha256: c06527843545152799e0059213da63687b5915d113770f261eabfef77629e56d
+

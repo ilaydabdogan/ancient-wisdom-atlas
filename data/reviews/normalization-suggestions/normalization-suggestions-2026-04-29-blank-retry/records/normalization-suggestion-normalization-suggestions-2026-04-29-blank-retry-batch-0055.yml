@@ -1,0 +1,329 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0055
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.monstrous-being-kills-noble-youth
+  motif_id: monstrous_being_kills_noble_youth
+  label: monstrous being kills noble youth
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe monster violence, heroic death, sacrifice, or
+    an episode-specific plot event; no existing group clearly fits without context.
+  cautions: Single occurrence and likely over-specific; verify whether the monstrous
+    being functions as threshold guardian, divine judgment agent, combat opponent,
+    or merely a killer.
+  suggested_aliases:
+  - monster kills noble youth
+  - youth killed by monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - sacred_combat
+    - divine_judgment
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-hunger-causing-food-theft-or-pollution
+  motif_id: monstrous_hunger_causing_food_theft_or_pollution
+  label: monstrous hunger causing food theft or pollution
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines monstrous appetite, theft, and pollution; placement depends
+    on whether the passage emphasizes disorder, taboo violation, trickster theft,
+    or ritual impurity.
+  cautions: May be an over-specific episode detail; avoid mapping to sacred_theft
+    unless the stolen food has sacred or culture-founding function.
+  suggested_aliases:
+  - monstrous appetite
+  - polluting food theft
+  - food pollution by monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - chaos
+    - trickster
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monumental-cult-image-of-the-solar-god
+  motif_id: monumental_cult_image_of_the_solar_god
+  label: monumental cult image of the solar god
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A cult image is a sacred object associated with divine presence and solar
+    power, fitting the sacred-object grouping better than a narrative solar motif.
+  cautions: If the image is animated, ritually constructed, or treated mainly as craft,
+    sacred_craft may be secondary; if merely descriptive, it may be too object-specific.
+  suggested_aliases:
+  - solar cult image
+  - cult image of solar god
+  - monumental divine image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - theophany
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moon-marked-abducted-water-carrying-children
+  motif_id: moon_marked_abducted_water_carrying_children
+  label: Moon-marked abducted water-carrying children
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines moon marking, abduction, children, and water-carrying
+    in a highly specific scene whose core motif is unclear.
+  cautions: Could involve celestial explanation, child abduction, sacred waters, or
+    a passage artifact; source evidence is needed before placement.
+  suggested_aliases:
+  - moon-marked children
+  - abducted water-carrying children
+  - children taken by the moon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - otherworld
+    - sacred_waters
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.morning-floral-abundance
+  motif_id: morning_floral_abundance
+  label: Morning floral abundance
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: low
+  rationale: In Sufi context, floral morning abundance often functions as devotional
+    beauty, renewal, and longing imagery.
+  cautions: May instead be poetic scenery or seasonal imagery; if the passage emphasizes
+    ritual seasonality rather than love or beauty, sacred_time may fit better.
+  suggested_aliases:
+  - floral abundance at morning
+  - morning blossoms
+  - dawn floral abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - beauty_and_paradox
+    - sacred_time
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mortal-god-with-grave
+  motif_id: mortal_god_with_grave
+  label: mortal god with grave
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A god represented as having died and possessing a grave belongs to divine
+    mortality and death-transformation patterns.
+  cautions: Comparative wording may be a scholarly classification rather than a source
+    motif; only map when the tradition actually narrates or cultically marks divine
+    death.
+  suggested_aliases:
+  - dead god with grave
+  - buried god
+  - god's tomb
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dying_and_returning
+    - resurrection
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mountain-roaming-wild-deity
+  motif_id: mountain_roaming_wild_deity
+  label: mountain-roaming wild deity
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: role_variant
+  confidence: low
+  rationale: A wild deity roaming mountains suggests a liminal, nonordinary realm
+    adjacent to human space rather than the mountain as cosmic axis.
+  cautions: If the mountain is a sacred center or revelation site, axis_mundi or cosmic_mountain
+    may be better; if this is only a deity epithet, exclude or review.
+  suggested_aliases:
+  - wild mountain deity
+  - mountain-roaming god
+  - liminal mountain deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - theophany
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mountain-setting-associated-with-bacchic-festival
+  motif_id: mountain_setting_associated_with_bacchic_festival
+  label: mountain setting associated with Bacchic festival
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as contextual setting information for a festival rather
+    than a recurring narrative or symbolic motif.
+  cautions: If the source describes mountain ecstasy, divine manifestation, or initiatory
+    ritual, recode under initiation, theophany, or otherworld with better evidence.
+  suggested_aliases:
+  - Bacchic mountain setting
+  - festival mountain setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - otherworld
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mountain-stronghold-overcome-by-concealed-night-ambush
+  motif_id: mountain_stronghold_overcome_by_concealed_night_ambush
+  label: mountain stronghold overcome by concealed night ambush
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core action is a warfare stratagem overcoming a stronghold, best
+    parked under sacred combat rather than mountain symbolism.
+  cautions: Likely too episode-specific for canonical promotion; if no sacred or mythic
+    framing is present, it may be a historical battle detail.
+  suggested_aliases:
+  - concealed night ambush
+  - mountain stronghold ambush
+  - stronghold overcome by ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mountain-vantage-reveals-hidden-figures
+  motif_id: mountain_vantage_reveals_hidden_figures
+  label: mountain vantage reveals hidden figures
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif centers on revelation or altered visibility from a vantage
+    point, not necessarily the mountain as axis mundi.
+  cautions: Could be ordinary tactical observation or scenery; map to axis_mundi only
+    if the mountain functions as sacred center or revelation site.
+  suggested_aliases:
+  - vantage reveals hidden figures
+  - mountain revelation of hidden figures
+  - hidden figures seen from mountain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - theophany
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several labels have one occurrence and appear episode-specific
+  or context-dependent.
+- Mountain labels should not be automatically mapped to axis_mundi unless the passage
+  makes the mountain a sacred center, ascent route, or revelation site.
+- Comparative or descriptive labels should be checked against source evidence before
+  inclusion in pattern queries.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Batch contains low-confidence placements requiring human confirmation, especially
+    monster, moon-child, and Bacchic festival labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0055
+  input_sha256: b997ea3420807fa23847959c2af2506d06b5f80bac5352a604cc3af799ba2cf7
+

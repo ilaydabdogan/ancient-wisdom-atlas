@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0065
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.protective-boon-following-divine-sexual-violence
+  motif_id: protective_boon_following_divine_sexual_violence
+  label: Protective boon following divine sexual violence
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines divine violence, compensation, and protection; placement
+    depends strongly on passage framing.
+  cautions: Culturally sensitive sexual-violence content; do not normalize away the
+    harm by treating the boon as simple divine favor. Single occurrence may be episode-specific.
+  suggested_aliases:
+  - protective boon after divine assault
+  - compensatory divine boon
+  - divine protection after sexual violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-divine-sleep
+  motif_id: protective_divine_sleep
+  label: protective divine sleep
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divinely caused or protective sleep is direct sacred intervention in
+    human danger or vulnerability.
+  cautions: If the sleep is enchantment, deception, or initiation rather than protection,
+    storytelling_as_power, trickster, or initiation may fit better.
+  suggested_aliases:
+  - divinely sent protective sleep
+  - sleep as divine protection
+  - protective supernatural sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-neighborhood-bond
+  motif_id: protective_neighborhood_bond
+  label: protective neighborhood bond
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: A protective social bond among neighbors may express reciprocal obligation
+    and communal care.
+  cautions: Label is abstract and could be a social-ethical detail rather than a mythic
+    motif. If framed as law or dharma, sacred_law may be better.
+  suggested_aliases:
+  - protective neighborly obligation
+  - neighborhood reciprocity
+  - communal protective bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-spouse-attempts-to-restrain-a-hero-from-danger
+  motif_id: protective_spouse_attempts_to_restrain_a_hero_from_danger
+  label: Protective spouse attempts to restrain a hero from danger
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spouse's protective restraint centers love or fidelity as a force opposing
+    heroic danger.
+  cautions: Could be only a scene detail in a hero-journey sequence; map secondarily
+    to hero_journey if the restraint frames departure or doomed action.
+  suggested_aliases:
+  - spouse warns hero against danger
+  - beloved restrains hero
+  - protective marital warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.proxy-wooing-for-marriage
+  motif_id: proxy_wooing_for_marriage
+  label: Proxy wooing for marriage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: Proxy courtship is a marriage-seeking variant within the existing love
+    and bride-choice cluster.
+  cautions: If the proxy wooing primarily establishes dynastic rule or succession,
+    royal_legitimacy may be a better secondary mapping.
+  suggested_aliases:
+  - wooing by proxy
+  - surrogate courtship
+  - marriage proposal through intermediary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-contest-of-performers-before-a-judging-crowd
+  motif_id: public_contest_of_performers_before_a_judging_crowd
+  label: Public contest of performers before a judging crowd
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: A judged performance contest may belong with narrative, song, or expressive
+    power in public transmission.
+  cautions: May be too generic as a social scene unless the performance has sacred,
+    magical, or wisdom-bearing force. Consider enchanting_music if musical compulsion
+    is central.
+  suggested_aliases:
+  - judged public performance contest
+  - performers compete before crowd
+  - public artistic contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-contest-with-disputed-victory
+  motif_id: public_contest_with_disputed_victory
+  label: public contest with disputed victory
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a generic contest outcome, but the motif function is
+    unclear without knowing what is contested and why.
+  cautions: Could map to sacred_combat, bride-choice contest, divine_judgment, pride/downfall,
+    or be a passage-specific plot detail.
+  suggested_aliases:
+  - disputed contest victory
+  - contested outcome in public competition
+  - public competition with challenged result
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_combat
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-denunciation-of-a-treacherous-ally
+  motif_id: public_denunciation_of_a_treacherous_ally
+  label: public denunciation of a treacherous ally
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: The core pattern is betrayal by an ally and public exposure of the broken
+    bond.
+  cautions: If the denunciation itself triggers punishment or trial, divine_judgment
+    or sacred_law may be relevant as secondary groups.
+  suggested_aliases:
+  - denunciation of betrayer
+  - public exposure of treachery
+  - treacherous ally exposed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-humiliation-of-a-royal-woman-in-assembly
+  motif_id: public_humiliation_of_a_royal_woman_in_assembly
+  label: public humiliation of a royal woman in assembly
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may involve royal legitimacy, sacred law, gendered violence, oath,
+    or public moral crisis depending on source evidence.
+  cautions: Culturally sensitive gendered humiliation motif; avoid flattening into
+    generic judgment or royal imagery. Single occurrence and highly contextual.
+  suggested_aliases:
+  - royal woman humiliated in assembly
+  - public shaming of queen or princess
+  - assembly humiliation of a royal woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-humiliation-penance-after-alleged-child-killing
+  motif_id: public_humiliation_penance_after_alleged_child_killing
+  label: public humiliation penance after alleged child-killing
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Penance and public humiliation after alleged killing function as moral
+    reckoning and social punishment.
+  cautions: Because the killing is alleged, false accusation or vindication may be
+    central. If the child persecution frame dominates, review against jealous_stepmother_persecuted_child
+    or miraculous_child.
+  suggested_aliases:
+  - penance for alleged child killing
+  - public shaming after accused child murder
+  - humiliating punishment for alleged infanticide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - jealous_stepmother_persecuted_child
+    - sacred_law
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional. Several labels are single-occurrence and highly
+  contextual, so source passages should be checked before adding durable aliases.
+- Labels involving sexual violence or gendered public humiliation should receive human
+  review for wording and placement before indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes culturally sensitive and context-dependent motifs; ready for
+    human taxonomy review after source verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0065
+  input_sha256: 5d313b2b53ab0d8ff5c21233afd1e41b55ddc2a2ba00a08204435154ea610b73
+

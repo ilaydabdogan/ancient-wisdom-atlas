@@ -1,0 +1,319 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0056
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.multiple-souls
+  motif_id: multiple_souls
+  label: multiple souls
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a soul-anthropology concept, but existing groups split
+    soul material across external_soul, soul_loss_restoration, and afterlife_passage.
+  cautions: Needs source evidence to distinguish multiple soul components from separable
+    soul, lost soul, afterlife doctrine, or comparative commentary.
+  suggested_aliases:
+  - plural souls
+  - compound soul
+  - multipart soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - external_soul
+    - soul_loss_restoration
+    - afterlife_passage
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multiplying-hydra-like-affliction
+  motif_id: multiplying_hydra_like_affliction
+  label: multiplying hydra-like affliction
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to a monstrous multiplication pattern, disease/affliction
+    metaphor, or passage-specific comparison.
+  cautions: Do not map to serpent or chaos solely from 'hydra-like'; verify whether
+    an actual monster, proliferating harm, or rhetorical image is present.
+  suggested_aliases:
+  - hydra-like affliction
+  - multiplying affliction
+  - self-multiplying harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - chaos
+    - serpent_guardian
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.music-shaping-soul-and-body
+  motif_id: music_shaping_soul_and_body
+  label: music shaping soul and body
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: Music acting directly on soul and body fits the existing sound-power
+    group where music compels, transforms, or affects beings.
+  cautions: If the passage is philosophical theory rather than narrative or ritual
+    action, preserve as evidence detail and review for sacred_knowledge as secondary
+    context.
+  suggested_aliases:
+  - music as soul-shaping power
+  - music affecting body and soul
+  - psychophysical music power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutual-benefit-love
+  motif_id: mutual_benefit_love
+  label: mutual-benefit love
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an abstract ethical or philosophical category of love, not
+    clearly a narrative motif.
+  cautions: Could fit sacred_love only if love functions mythically or spiritually;
+    otherwise it may be a doctrinal/commentary artifact.
+  suggested_aliases:
+  - reciprocal beneficial love
+  - useful friendship love
+  - mutual advantage love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutual-destruction-imposed-by-spell
+  motif_id: mutual_destruction_imposed_by_spell
+  label: Mutual destruction imposed by spell
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: A spell compelling reciprocal destruction may involve supernatural compulsion,
+    fate, sacred combat, or curse logic, but no current group captures curse-imposed
+    mutual death cleanly.
+  cautions: 'Needs passage context: map to sacred_combat if battle-centered, death_by_fate
+    if destiny-centered, or divine_judgment if punishment-centered.'
+  suggested_aliases:
+  - spell-imposed mutual destruction
+  - curse of mutual death
+  - magical compulsion to mutual destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - death_by_fate
+    - divine_judgment
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mysterious-armored-knight-with-attendants
+  motif_id: mysterious_armored_knight_with_attendants
+  label: mysterious armored knight with attendants
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies a mysterious character scene rather than a clear
+    recurring function such as guardian, warrior, or otherworld envoy.
+  cautions: Could fit threshold_guardian, divine_warrior, otherworld, or be an episode-specific
+    character detail; source evidence is required.
+  suggested_aliases:
+  - mysterious armored knight
+  - otherworldly armored knight
+  - armed stranger with attendants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - divine_warrior
+    - otherworld
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mysterious-headless-woman-and-lost-gift
+  motif_id: mysterious_headless_woman_and_lost_gift
+  label: Mysterious headless woman and lost gift
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This combines an uncanny figure and a lost gift in a highly specific
+    episode label without clear primary function.
+  cautions: May belong to otherworld, sacred_treasures, threshold_guardian, or death/haunting
+    depending on what the headless woman and gift do in the source.
+  suggested_aliases:
+  - headless woman and lost gift
+  - uncanny headless woman
+  - lost supernatural gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_treasures
+    - threshold_guardian
+    - restless_dead_haunting_vengeance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mysterious-one-eyed-company-under-nightly-penance
+  motif_id: mysterious_one_eyed_company_under_nightly_penance
+  label: mysterious one-eyed company under nightly penance
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Nightly penance suggests ongoing punishment or moral reckoning imposed
+    on a group.
+  cautions: The one-eyed company may be an over-specific episode detail; if the focus
+    is enchanted realm or curse rather than judgment, review for otherworld or fate
+    placement.
+  suggested_aliases:
+  - company under nightly penance
+  - nightly penance punishment
+  - one-eyed penitents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mysterious-ritual-punishment-followed-by-compassion
+  motif_id: mysterious_ritual_punishment_followed_by_compassion
+  label: mysterious ritual punishment followed by compassion
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Punishment followed by compassion fits judgment tempered by mercy or
+    moral repair.
+  cautions: If the passage centers on human mercy, covenantal forgiveness, or ritual
+    expiation rather than divine/moral judgment, covenant or sacrifice may be secondary
+    placements.
+  suggested_aliases:
+  - punishment followed by compassion
+  - ritual punishment and mercy
+  - mysterious punishment and mercy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mystery-arising-from-open-heroic-landscape
+  motif_id: mystery_arising_from_open_heroic_landscape
+  label: mystery arising from open heroic landscape
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a literary atmosphere or critical description rather
+    than a discrete mythic motif.
+  cautions: If the source passage gives a specific liminal landscape event, remap
+    to otherworld, hero_journey, or threshold_guardian as appropriate.
+  suggested_aliases:
+  - heroic landscape mystery
+  - mysterious heroic landscape
+  - open landscape as mystery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and phrase-level; many need passage
+  evidence before durable mapping.
+- Avoid treating mysterious or uncanny atmosphere as a motif unless a repeated narrative
+  function is present.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional suggestions generated for blank suggested-group retry batch 0056.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0056
+  input_sha256: ca5008cbcfddd46cc9f2f219812aab7d74acdfad0886c28badbb12149a446000
+

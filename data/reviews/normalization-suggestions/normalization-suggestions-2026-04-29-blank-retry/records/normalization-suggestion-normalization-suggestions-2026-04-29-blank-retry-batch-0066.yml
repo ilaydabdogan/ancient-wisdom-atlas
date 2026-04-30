@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0066
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.public-preacher-denied-possession
+  motif_id: public_preacher_denied_possession
+  label: Public preacher denied possession
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is unclear without passage context; possession may mean property,
+    spiritual possession, or authority.
+  cautions: Could be legal/social detail, anti-preacher anecdote, spirit-possession
+    denial, or commentary artifact.
+  suggested_aliases:
+  - preacher denied possession
+  - denial of possession to public preacher
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-reversal-of-a-hated-official
+  motif_id: public_reversal_of_a_hated_official
+  label: public reversal of a hated official
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A despised official's public reversal likely functions as moral comeuppance
+    or social reckoning.
+  cautions: If the episode is only comic or political satire without sacred/moral
+    evaluation, preserve as narrative detail rather than motif.
+  suggested_aliases:
+  - hated official publicly reversed
+  - public comeuppance of official
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-ridicule-overcome-by-civic-necessity
+  motif_id: public_ridicule_overcome_by_civic_necessity
+  label: public ridicule overcome by civic necessity
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a civic-social reversal, but its mythic function
+    is not evident.
+  cautions: May belong to royal_legitimacy, sacred_law, pride/downfall, or be an episode-specific
+    historical anecdote depending on evidence.
+  suggested_aliases:
+  - ridicule overcome by necessity
+  - public mockery reversed by civic need
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-shaming-or-taunting-of-laggard-harvesters
+  motif_id: public_shaming_or_taunting_of_laggard_harvesters
+  label: Public shaming or taunting of laggard harvesters
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Harvest taunting appears tied to seasonal agricultural ritual or harvest
+    custom.
+  cautions: If this is merely ethnographic labor discipline rather than ritualized
+    seasonal practice, it may be too specific for pattern queries.
+  suggested_aliases:
+  - harvest taunting
+  - ritual shaming of laggard harvesters
+  - public shaming of slow harvesters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-success-produces-jealous-hostility
+  motif_id: public_success_produces_jealous_hostility
+  label: Public success produces jealous hostility
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: narrower_than
+  confidence: medium
+  rationale: The taxonomy already groups envy and rivalry patterns under pride_and_downfall.
+  cautions: This may be a social plot trigger rather than a downfall pattern unless
+    the jealous hostility leads to moral reversal or punishment.
+  suggested_aliases:
+  - success provokes jealousy
+  - public achievement causes envy
+  - jealous hostility after success
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pure-sustenance-contrasted-with-carrion-possession
+  motif_id: pure_sustenance_contrasted_with_carrion_possession
+  label: pure sustenance contrasted with carrion possession
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests purity, diet, and spirit possession, but the narrative
+    function is unclear.
+  cautions: Could map to sacred_law for purity/food taboo, divine_judgment for moral
+    contrast, or be a contextual Daoist doctrinal phrase.
+  suggested_aliases:
+  - pure food contrasted with carrion possession
+  - pure sustenance versus carrion possession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purified-silent-prayer-before-embassy
+  motif_id: purified_silent_prayer_before_embassy
+  label: purified silent prayer before embassy
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Purification and prayer before a mission are ritual preparation seeking
+    right relation with sacred powers.
+  cautions: If the embassy or diplomatic context is the main point, this may be an
+    over-specific scene detail rather than a recurring motif.
+  suggested_aliases:
+  - silent prayer before embassy
+  - purificatory prayer before mission
+  - ritual prayer before delegation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pursuer-becomes-fugitive
+  motif_id: pursuer_becomes_fugitive
+  label: pursuer becomes fugitive
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Role reversal from pursuer to fugitive often functions as reversal or
+    punishment of the aggressor.
+  cautions: If no moral or sacred reckoning is present, it may fit a generic chase/reversal
+    motif not yet represented.
+  suggested_aliases:
+  - hunter becomes hunted
+  - pursuer forced to flee
+  - aggressor becomes fugitive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pursuer-becomes-prey
+  motif_id: pursuer_becomes_prey
+  label: pursuer becomes prey
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The reversal of hunter/pursuer into prey commonly expresses retributive
+    reversal or moral reckoning.
+  cautions: Could alternatively belong with trickster or sacred_combat if the reversal
+    is caused by cunning or battle dynamics rather than judgment.
+  suggested_aliases:
+  - hunter becomes prey
+  - pursuer becomes hunted
+  - predator becomes prey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pursuit-by-tracks
+  motif_id: pursuit_by_tracks
+  label: pursuit by tracks
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Tracking during pursuit is a common action detail, not clearly a symbolic
+    or structural motif by itself.
+  cautions: If tracks function as recognition tokens, supernatural signs, or hunting
+    magic, remap with source evidence.
+  suggested_aliases:
+  - tracking the pursued
+  - following tracks
+  - pursuit through footprints
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence social or episode-specific labels;
+  preserve source evidence before promoting any new group.
+- Avoid treating generic reversals as divine_judgment unless the passage shows moral,
+  sacred, or cosmic reckoning.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-suggestion-model
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source context needed for ambiguous
+    social, ritual, and reversal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0066
+  input_sha256: 83f5ae69b1f786cdad6ea8a1674de561c8ca0c6f13c08af445fef6e870992127
+

@@ -1,0 +1,325 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0062
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.personified-envy-infects-a-human-heart
+  motif_id: personified_envy_infects_a_human_heart
+  label: personified envy infects a human heart
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The group already includes envy variants, and this label treats envy
+    as a destructive force leading to moral corruption or downfall.
+  cautions: Single occurrence; if the passage emphasizes spirit possession or disease-like
+    invasion rather than envy/downfall, a human reviewer may prefer divine_judgment
+    or a future affliction group.
+  suggested_aliases:
+  - personified envy
+  - envy as affliction
+  - envy infecting the heart
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-hunger-as-invading-affliction
+  motif_id: personified_hunger_as_invading_affliction
+  label: Personified hunger as invading affliction
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate personified famine, punishment, possession-like
+    affliction, or an episode-specific literary figure.
+  cautions: No existing group cleanly covers personified afflictions such as Hunger;
+    avoid forcing into divine_judgment unless the passage frames the affliction as
+    sacred punishment.
+  suggested_aliases:
+  - personified hunger
+  - hunger as affliction
+  - famine as invading force
+  suggested_new_group:
+    id: personified_affliction
+    label: Personified Affliction and Invading Vice
+    description: Hunger, envy, disease, or other harmful states appear as personified
+      agents that enter, infect, torment, or possess a victim.
+    parent_group_ids:
+    - divine_judgment
+    related_group_ids:
+    - pride_and_downfall
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups include envy and spiritual
+      affliction fragments but do not clearly cover personified harmful conditions
+      acting as agents.
+- suggestion_id: normalization.suggestion.personified-landscape-and-animated-nature
+  motif_id: personified_landscape_and_animated_nature
+  label: personified landscape and animated nature
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Animated landscape could be poetic personification, divine nature agency,
+    sacred geography, or an actual mythic animate-world motif.
+  cautions: Single occurrence and broad label; verify whether the source presents
+    real supernatural agency or merely figurative diction before indexing.
+  suggested_aliases:
+  - animated landscape
+  - personified landscape
+  - living landscape
+  suggested_new_group:
+    id: animated_nature
+    label: Animated Nature and Personified Landscape
+    description: Natural features, landscapes, plants, materials, or elemental forces
+      are portrayed as living, speaking, willing, cooperating, or acting as agents.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - sacred_craft
+    - sacred_knowledge
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups cover sacred trees, mountains,
+      waters, and craft, but not the broader animation or personification of nature
+      itself.
+- suggestion_id: normalization.suggestion.personified-natural-force-with-evil-genealogy
+  motif_id: personified_natural_force_with_evil_genealogy
+  label: personified natural force with evil genealogy
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A natural force with genealogy may be a mythic origin, demonology, etiological
+    charm logic, or personified affliction.
+  cautions: The phrase 'evil genealogy' is culturally and contextually loaded; source
+    evidence is needed before mapping to chaos, divine_judgment, or animated nature.
+  suggested_aliases:
+  - personified harmful natural force
+  - genealogy of a harmful force
+  - evil-origin natural force
+  suggested_new_group:
+    id: animated_nature
+    label: Animated Nature and Personified Landscape
+    description: Natural features, landscapes, plants, materials, or elemental forces
+      are portrayed as living, speaking, willing, cooperating, or acting as agents.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - chaos
+    - divine_judgment
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing groups do not clearly cover personified
+      natural forces whose agency is explained through genealogy or origin lore.
+- suggestion_id: normalization.suggestion.personified-natural-ingredients-cooperate
+  motif_id: personified_natural_ingredients_cooperate
+  label: personified natural ingredients cooperate
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: Cooperating natural ingredients suggest animated materials participating
+    in making, healing, or ritual production, which best fits sacred craft among existing
+    groups.
+  cautions: If the passage is primarily charm language or nature personification rather
+    than craft, a future animated_nature group may be better.
+  suggested_aliases:
+  - animated ingredients cooperate
+  - cooperating natural materials
+  - personified materials aid making
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-nature-as-living-beings
+  motif_id: personified_nature_as_living_beings
+  label: personified nature as living beings
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animated Nature and Personified Landscape
+  relationship: broader_label
+  confidence: medium
+  rationale: 'The label names a broad recurring motif type: nature is treated as living
+    agents rather than as a single sacred tree, mountain, water, or object.'
+  cautions: May sometimes be poetic convention rather than mythic pattern; require
+    evidence of agency before broad query inclusion.
+  suggested_aliases:
+  - living nature
+  - personified nature
+  - animated natural world
+  suggested_new_group:
+    id: animated_nature
+    label: Animated Nature and Personified Landscape
+    description: Natural features, landscapes, plants, materials, or elemental forces
+      are portrayed as living, speaking, willing, cooperating, or acting as agents.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - sacred_craft
+    - sacred_waters
+    - axis_mundi
+    - otherworld
+    reason_existing_groups_insufficient: Current groups cover specific sacred natural
+      forms but not the general motif of nature as animate or personified agents.
+- suggestion_id: normalization.suggestion.personified-report-as-supernatural-agent
+  motif_id: personified_report_as_supernatural_agent
+  label: personified report as supernatural agent
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A report or rumor acting as an agent fits speech, narrative, and transmission
+    becoming active power.
+  cautions: Could be a literary allegory rather than sacred motif; exclude if it is
+    merely rhetorical personification in a passage.
+  suggested_aliases:
+  - personified report
+  - rumor as supernatural agent
+  - fame as agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-tools-or-objects
+  motif_id: personified_tools_or_objects
+  label: Personified tools or objects
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: broader_label
+  confidence: medium
+  rationale: Personified tools or objects align with animated manufactured images
+    and craft objects that act with agency.
+  cautions: The comparative label is broad; if used as scholarly classification rather
+    than a source motif, consider exclusion or granular evidence notes.
+  suggested_aliases:
+  - animated tools
+  - personified objects
+  - tools as agents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-vessels-longing-for-war
+  motif_id: personified_vessels_longing_for_war
+  label: personified vessels longing for war
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif centers on vessels as animate agents, and sacred_vessel is
+    the closest existing container-focused group.
+  cautions: The war-longing function may also relate to sacred_combat; preserve the
+    martial detail rather than collapsing it into generic vessel symbolism.
+  suggested_aliases:
+  - animated vessels
+  - war-longing vessels
+  - personified containers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-youth-as-radiant-woman-who-has-belonged-to-men-only-once
+  motif_id: personified_youth_as_radiant_woman_who_has_belonged_to_men_only_once
+  label: personified Youth as radiant woman who has belonged to men only once
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a highly specific allegorical personification of Youth and may
+    belong to sacred love, otherworld, or impermanence depending on the passage.
+  cautions: Do not map solely from the feminine/radiant imagery; review whether the
+    figure functions as sovereignty, otherworld woman, lost youth, or literary allegory.
+  suggested_aliases:
+  - personified Youth
+  - radiant woman as Youth
+  - allegorical Youth figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch involve personification. Human reviewers should distinguish
+  mythic agency from poetic or rhetorical personification before adding broad query
+  mappings.
+- A possible new group animated_nature may be useful if personified nature and animated
+  materials recur across sources; personified affliction may also be useful but needs
+  more evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft suggestions only; personification-heavy batch requires source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0062
+  input_sha256: 5773ee7d22d1cd71e61f16a1fe376998ec0a6756169471acebc678f54967564c
+

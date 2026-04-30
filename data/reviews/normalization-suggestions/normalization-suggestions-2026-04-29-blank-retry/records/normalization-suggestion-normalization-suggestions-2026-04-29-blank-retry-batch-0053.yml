@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0053
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.metal-headed-magical-antagonist
+  motif_id: metal_headed_magical_antagonist
+  label: metal-headed magical antagonist
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies an antagonist by a magical bodily trait, but the
+    narrative function is unclear.
+  cautions: Could fit sacred combat, shapeshifter, conditional invulnerability, or
+    be an over-specific episode detail depending on source evidence.
+  suggested_aliases:
+  - metal-headed antagonist
+  - magical metal-headed foe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.metempsychosis-and-descent-of-divinity-into-creatures
+  motif_id: metempsychosis_and_descent_of_divinity_into_creatures
+  label: metempsychosis and descent of divinity into creatures
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines soul transmigration with divine indwelling or descent,
+    requiring doctrinal context.
+  cautions: Culturally and theologically sensitive; could relate to death_and_transformation,
+    shapeshifter, mystical_quest, or divine_intervention, but should not be normalized
+    without passage evidence.
+  suggested_aliases:
+  - metempsychosis
+  - divinity descending into creatures
+  - soul transmigration into creatures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mineral-growth-and-ripening-underground
+  motif_id: mineral_growth_and_ripening_underground
+  label: mineral growth and ripening underground
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Underground ripening may be symbolic transformation, alchemical cosmology,
+    or a teaching image.
+  cautions: Could fit mystical_quest, sacred_knowledge, cosmic_origin, or be a metaphorical
+    passage detail; source context is needed.
+  suggested_aliases:
+  - underground mineral ripening
+  - mineral growth underground
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miracle-signs-tested-against-deeper-evidence
+  motif_id: miracle_signs_tested_against_deeper_evidence
+  label: miracle signs tested against deeper evidence
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on discerning true spiritual knowledge beyond outward
+    signs.
+  cautions: If the passage emphasizes divine manifestation itself, theophany may be
+    secondary; if it is only commentary, consider exclusion.
+  suggested_aliases:
+  - testing miracle signs
+  - discernment beyond miracles
+  - miracle signs and deeper evidence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-creation-of-armies-by-a-cow
+  motif_id: miraculous_creation_of_armies_by_a_cow
+  label: Miraculous creation of armies by a cow
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred or supernatural animal generating armies functions as miraculous
+    provision or divine intervention in conflict.
+  cautions: Could also relate to sacred_combat or abundance_giving_cow; preserve the
+    cow-specific sacred context as evidence detail.
+  suggested_aliases:
+  - cow creates armies
+  - miraculous army-producing cow
+  - sacred cow produces warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-healing-comparison
+  motif_id: miraculous_healing_comparison
+  label: miraculous healing comparison
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording suggests a comparison or interpretive note rather than a
+    motif event.
+  cautions: If a passage actually narrates miraculous healing, remap under divine_intervention
+    or a future healing group; the comparison label itself should not drive motif
+    queries.
+  suggested_aliases:
+  - comparison of miraculous healing
+  - miraculous healing as comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-or-unusual-cure-through-indirect-medicine
+  motif_id: miraculous_or_unusual_cure_through_indirect_medicine
+  label: Miraculous or unusual cure through indirect medicine
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A miraculous cure through unusual means fits supernatural intervention
+    in human affliction.
+  cautions: If the cure depends on wisdom, trickery, or medical instruction rather
+    than sacred agency, sacred_knowledge or storytelling_as_power may be better.
+  suggested_aliases:
+  - indirect miraculous cure
+  - unusual medicine cure
+  - miraculous healing through indirect medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misdirected-weapon-harms-an-unintended-victim
+  motif_id: misdirected_weapon_harms_an_unintended_victim
+  label: misdirected weapon harms an unintended victim
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes an accidental harm sequence, but its mythic function
+    is not clear.
+  cautions: Could be fate, divine judgment, sacred combat, tragic recognition, or
+    a plot detail; avoid mapping without context.
+  suggested_aliases:
+  - unintended victim of weapon
+  - misdirected weapon accident
+  - weapon strikes wrong target
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misheard-natural-sound-as-cosmic-disaster
+  motif_id: misheard_natural_sound_as_cosmic_disaster
+  label: misheard natural sound as cosmic disaster
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on altered or mistaken perception interpreting ordinary
+    sound as cosmic catastrophe.
+  cautions: If the passage is a comic exemplum or moral teaching about delusion, sacred_knowledge
+    may be a secondary fit; do not map to catastrophe renewal unless actual cosmic
+    destruction occurs.
+  suggested_aliases:
+  - natural sound mistaken for cosmic disaster
+  - misperceived sound as apocalypse
+  - auditory misperception of catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misreading-benevolent-intent-as-hostile-intent
+  motif_id: misreading_benevolent_intent_as_hostile_intent
+  label: misreading benevolent intent as hostile intent
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an interpersonal misunderstanding rather than a clearly
+    established mythic motif.
+  cautions: Could be tragic error, divine judgment, wisdom teaching, or passage-specific
+    plot mechanics; source evidence is needed before grouping.
+  suggested_aliases:
+  - benevolent intent mistaken for hostility
+  - misread hostile intent
+  - misinterpreted kindness as threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Provisional placements only; several single-occurrence labels are too contextual
+  to normalize confidently without passage evidence.
+- No transmission or borrowing claims are implied by these suggestions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Human review recommended especially for doctrinal, metaphorical, and over-specific
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0053
+  input_sha256: 282687a054e654782884752f44631a30ee78b2a3a242507a690691d4a8988356
+

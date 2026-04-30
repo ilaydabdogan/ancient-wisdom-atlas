@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0032
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.false-or-denied-intercession
+  motif_id: false_or_denied_intercession
+  label: false or denied intercession
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: uncertain
+  confidence: low
+  rationale: Denied intercession may concern mercy, supplication, and sacred relational
+    order, which are already represented under covenant.
+  cautions: Could instead be afterlife judgment, narrative polemic, or a doctrinal/theological
+    detail; source context is needed.
+  suggested_aliases:
+  - denied intercession
+  - failed intercession
+  - intercession refused
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-reassurance-in-the-face-of-worsening-illness
+  motif_id: false_reassurance_in_the_face_of_worsening_illness
+  label: false reassurance in the face of worsening illness
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an episode-specific narrative or dramatic detail rather
+    than a reusable mythic motif.
+  cautions: If the passage frames deception around healing, prophecy, or divine judgment,
+    it could be reconsidered under divine_judgment or dream_and_vision.
+  suggested_aliases:
+  - deceptive reassurance during illness
+  - false comfort in illness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-report-of-a-hero-s-flight
+  motif_id: false_report_of_a_hero_s_flight
+  label: False report of a hero's flight
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: low
+  rationale: A false report of cowardly flight affects heroic-warrior honor and battle
+    reputation, fitting the warrior honor field if recurrent.
+  cautions: May be only a plot device or false-rumor episode; could also relate to
+    storytelling_as_power or divine_judgment if exposure/vindication is central.
+  suggested_aliases:
+  - false report of cowardice
+  - false rumor of heroic flight
+  - hero accused of flight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-tears-and-praised-wrongdoing
+  motif_id: false_tears_and_praised_wrongdoing
+  label: false tears and praised wrongdoing
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests moral inversion and hypocrisy, which may fit judgment
+    or moral reckoning if the wrongdoing is exposed or punished.
+  cautions: Without evidence of sacred evaluation or consequence, this may be a rhetorical
+    or episode-specific characterization.
+  suggested_aliases:
+  - hypocritical mourning
+  - false tears for wrongdoing
+  - praised wrongdoing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-textual-alteration-exposed-before-public-assembly
+  motif_id: false_textual_alteration_exposed_before_public_assembly
+  label: False textual alteration exposed before public assembly
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Forgery or alteration of authoritative text and its exposure concerns
+    protection and verification of sacred knowledge.
+  cautions: If the focus is manuscript transmission or editorial history rather than
+    narrative action, exclude as _meta_textual.
+  suggested_aliases:
+  - false textual alteration exposed
+  - forged text exposed
+  - public exposure of textual falsification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-voice-separates-protector-from-protected-figure
+  motif_id: false_voice_separates_protector_from_protected_figure
+  label: false voice separates protector from protected figure
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceptive voice used to separate guardian and vulnerable figure is
+    a boundary-breaking deception pattern.
+  cautions: Could also support miraculous_child if the protected figure is a threatened
+    child, or sacred_combat if the deception is a war stratagem.
+  suggested_aliases:
+  - deceptive voice separates guardian and ward
+  - false cry lures protector away
+  - voice deception separates protector from protected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fantasy-of-wealth-from-a-small-possession
+  motif_id: fantasy_of_wealth_from_a_small_possession
+  label: fantasy of wealth from a small possession
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: If framed as greed, delusion, or reversal, it may fit existing greed/temperance
+    patterns under divine_judgment.
+  cautions: Could be a comic folktale detail or daydream sequence with no sacred or
+    moral function; source evidence is needed.
+  suggested_aliases:
+  - imagined wealth from small possession
+  - greedy fantasy of wealth
+  - small possession imagined as fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-accusation-leading-to-death-by-frightened-horses
+  motif_id: fatal_accusation_leading_to_death_by_frightened_horses
+  label: fatal accusation leading to death by frightened horses
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The existing divine_judgment group includes false accusation and moral
+    consequence patterns; this is a specific fatal variant.
+  cautions: Horse-fright death should remain evidence detail; if no accusation/vindication
+    or moral consequence is central, it may be too specific for pattern queries.
+  suggested_aliases:
+  - fatal false accusation
+  - accusation leading to death
+  - death by frightened horses after accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-ambush-at-a-sacred-wedding-setting
+  motif_id: fatal_ambush_at_a_sacred_wedding_setting
+  label: fatal ambush at a sacred wedding setting
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: A fatal ambush may belong to combat/violence motifs, while the wedding
+    setting may mark ritual violation.
+  cautions: Could instead belong under sacred_marriage or sacred_love if the wedding
+    function is central; as phrased it is a highly contextual episode label.
+  suggested_aliases:
+  - ambush at wedding
+  - wedding ambush
+  - ritual-setting ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-binding-of-unequal-companions
+  motif_id: fatal_binding_of_unequal_companions
+  label: Fatal binding of unequal companions
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: A dangerous bond between unequal companions may involve violated reciprocity
+    or obligation, but the function is unclear.
+  cautions: Could be fate, punishment, oath/covenant, friendship, or merely plot mechanics;
+    needs passage evidence before mapping.
+  suggested_aliases:
+  - fatal unequal companionship
+  - fatal bond between unequal companions
+  - unequal companions bound to death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  local evidence notes and avoid promoting them without recurrence.
+- Where deception is present, distinguish trickster-like boundary violation from moral
+  judgment, false accusation, or textual/meta commentary.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft suggestions only; ambiguous single-occurrence items require source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0032
+  input_sha256: 5085076a1dbc7b171a45584b27ce4a3d45a376f56da7fa02937ffb1b48e66fd2
+

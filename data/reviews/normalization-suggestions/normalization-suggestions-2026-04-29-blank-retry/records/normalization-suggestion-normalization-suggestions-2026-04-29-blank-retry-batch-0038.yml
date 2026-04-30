@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0038
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.giant-suitor-rejected-by-beautiful-maiden
+  motif_id: giant_suitor_rejected_by_beautiful_maiden
+  label: Giant suitor rejected by beautiful maiden
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve courtship or bride-choice conflict, which loosely
+    relates to sacred_love children, but the giant-suitor detail may be antagonist-specific.
+  cautions: Single occurrence; could instead be a monster/giant encounter, marriage
+    contest, or local episode detail. Source context needed before indexing.
+  suggested_aliases:
+  - rejected_giant_suitor
+  - monstrous_suitor_rejected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giants-hostile-to-christian-sound
+  motif_id: giants_hostile_to_christian_sound
+  label: Giants hostile to Christian sound
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif centers on sound having sacred force against hostile beings,
+    which is adjacent to sound power and threshold danger.
+  cautions: Could be Christianization polemic, local legend, or anti-giant folklore
+    rather than a general motif. Avoid mapping to transmission or conversion claims
+    without evidence.
+  suggested_aliases:
+  - sacred_sound_repels_giants
+  - giants_hostile_to_sacred_sound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giants-hurl-stones-at-fleeing-humans
+  motif_id: giants_hurl_stones_at_fleeing_humans
+  label: Giants hurl stones at fleeing humans
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This reads as a specific pursuit episode involving giants rather than
+    a clear existing symbolic or narrative group.
+  cautions: May belong to a future monster/giant persecution group if similar items
+    recur; otherwise preserve as passage evidence only.
+  suggested_aliases:
+  - stone_throwing_giants
+  - giant_pursuit_by_stone_throwing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goat-form-of-dionysus-as-tree-god-attribute
+  motif_id: goat_form_of_dionysus_as_tree_god_attribute
+  label: Goat-form of Dionysus as tree-god attribute
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A deity's goat form fits divine animal-form transformation, with possible
+    tree/sacred vegetation associations.
+  cautions: The phrase 'as tree-god attribute' may be comparative scholarly classification
+    rather than a narrative motif; could also relate to sacred_tree_axis or seasonal
+    fertility evidence.
+  suggested_aliases:
+  - divine_goat_form
+  - goat_form_tree_deity_attribute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grove-festival-at-sacred-lake
+  motif_id: grove_festival_at_sacred_lake
+  label: grove festival at sacred lake
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A festival in a sacred landscape is primarily a ritual-cycle event, with
+    grove and lake as local sacred setting.
+  cautions: If the passage emphasizes lake-water transformation or grove/tree cosmology,
+    secondary sacred_waters or axis_mundi mapping may be appropriate.
+  suggested_aliases:
+  - sacred_lake_festival
+  - grove_and_lake_festival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-language-for-divine-embodiment
+  motif_id: guarded_language_for_divine_embodiment
+  label: guarded language for divine embodiment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes cautious theological or interpretive wording rather
+    than a narrative motif.
+  cautions: Preserve as doctrinal/commentary provenance if needed; do not use as pattern
+    evidence for incarnation or embodiment without passage-level support.
+  suggested_aliases:
+  - cautious_language_for_divine_embodiment
+  - theological_guarded_language
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-woman-in-a-protected-enclosure
+  motif_id: guarded_woman_in_a_protected_enclosure
+  label: Guarded woman in a protected enclosure
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The guarded woman may function within bride-choice, beloved-protection,
+    or captivity romance patterns already near sacred_love.
+  cautions: Could also be patriarchal seclusion, threatened beloved, recognition/identity,
+    or episode-specific detail. Human review should avoid overgeneralizing gendered
+    social context.
+  suggested_aliases:
+  - protected_enclosed_woman
+  - guarded_beloved_in_enclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardians-appointed-for-vulnerable-beloved
+  motif_id: guardians_appointed_for_vulnerable_beloved
+  label: guardians appointed for vulnerable beloved
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns protection of a beloved figure within a love or romance
+    plot, fitting sacred_love's guarded/captivity cluster.
+  cautions: If guardians primarily mark threshold control or enclosure rather than
+    love, threshold_guardian or sacred_law may be secondary candidates.
+  suggested_aliases:
+  - beloved_protected_by_guardians
+  - guardians_for_vulnerable_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.haunted-or-sterile-tomb-of-a-saintly-figure
+  motif_id: haunted_or_sterile_tomb_of_a_saintly_figure
+  label: haunted or sterile tomb of a saintly figure
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: The existing sacred_treasures group includes saintly tomb and shrine
+    devotion, but this label emphasizes haunting or sterility rather than relic power.
+  cautions: Could fit restless_dead_haunting_vengeance, saintly shrine/relic devotion,
+    or a negative miracle motif depending on evidence. Sensitive saint-veneration
+    context needs review.
+  suggested_aliases:
+  - haunted_saintly_tomb
+  - sterile_saintly_tomb
+  - ambivalent_saintly_tomb
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hermitage-recognized-by-fire-and-smoke
+  motif_id: hermitage_recognized_by_fire_and_smoke
+  label: hermitage recognized by fire and smoke
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Fire and smoke mark a sacred ascetic dwelling, aligning with sacred fire
+    as ritual presence and sign.
+  cautions: If this is merely a practical locator detail rather than sacred sign,
+    it may be too specific for pattern queries.
+  suggested_aliases:
+  - fire_and_smoke_mark_sacred_dwelling
+  - ascetic_hermitage_marked_by_smoke
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several single-occurrence giant/guardian labels may be episode details; source context
+  should decide whether they become queryable motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for blank retry batch 0038.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0038
+  input_sha256: f48b9a9a534592a4f3cd41594bebb3b0beea222f011cff86f64d6d01184c05b5
+

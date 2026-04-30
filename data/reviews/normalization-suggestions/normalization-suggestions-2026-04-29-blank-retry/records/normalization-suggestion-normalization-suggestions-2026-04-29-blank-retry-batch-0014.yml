@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0014
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.condemned-person-parading-as-hero
+  motif_id: condemned_person_parading_as_hero
+  label: Condemned person parading as hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe mock-heroic humiliation, scapegoat ritual, substitute
+    kingship, or a passage-specific episode.
+  cautions: Single occurrence; source context is needed before mapping to sacrifice,
+    royal_legitimacy, divine_judgment, or exclusion.
+  suggested_aliases:
+  - mock_heroic_condemned_person
+  - condemned_substitute_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - royal_legitimacy
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-or-liminal-death
+  motif_id: conditional_or_liminal_death
+  label: conditional or liminal death
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A death state that is conditional or liminal fits the broader death/transformation
+    complex.
+  cautions: If the condition involves an external soul, hidden weakness, sleep, or
+    taboo exception, a more specific secondary group may be needed.
+  suggested_aliases:
+  - liminal_death
+  - conditional_death
+  - deathlike_liminal_state
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-over-access-to-water
+  motif_id: conflict_over_access_to_water
+  label: conflict over access to water
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on water as a contested vital boundary or resource,
+    closest to the sacred_waters field.
+  cautions: May be ordinary conflict or local episode rather than sacred water symbolism;
+    do not map to flood unless catastrophe and renewal are present.
+  suggested_aliases:
+  - water_access_conflict
+  - contested_water_source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflicting-wishes-in-one-family
+  motif_id: conflicting_wishes_in_one_family
+  label: Conflicting wishes in one family
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a generic family plot detail rather than a stable
+    mythic motif.
+  cautions: If the wishes are vows, curses, divine gifts, or fate-bound speech acts,
+    remap after reviewing passage evidence.
+  suggested_aliases:
+  - family_conflicting_wishes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.consolation-in-enemy-s-equal-ruin
+  motif_id: consolation_in_enemy_s_equal_ruin
+  label: Consolation in enemy's equal ruin
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Equal ruin of enemies can function as retributive moral reckoning or
+    tragic justice.
+  cautions: May be a rhetorical or emotional detail rather than divine judgment; consider
+    lament_and_mourning if grief is central.
+  suggested_aliases:
+  - enemy_equal_ruin_as_consolation
+  - shared_ruin_of_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.constructed-clay-helper-with-inadequate-heart
+  motif_id: constructed_clay_helper_with_inadequate_heart
+  label: constructed clay helper with inadequate heart
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: A made clay helper with defective inner capacity belongs with artificial
+    or animated crafted beings already under sacred_craft.
+  cautions: If the heart functions as an external life-token, external_soul may be
+    relevant; preserve the inadequate-heart detail as evidence.
+  suggested_aliases:
+  - clay_helper_with_defective_heart
+  - artificial_helper_inadequate_heart
+  - constructed_clay_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - external_soul
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-between-rustic-and-refined-music
+  motif_id: contest_between_rustic_and_refined_music
+  label: contest between rustic and refined music
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: narrower_than
+  confidence: medium
+  rationale: A musical contest fits the broader group for music as culturally potent
+    sound, even if not overtly magical.
+  cautions: If the passage is purely aesthetic satire or literary criticism, exclude
+    as contextual detail; if judgment/punishment follows, divine_judgment may be secondary.
+  suggested_aliases:
+  - musical_contest_rustic_refined
+  - rustic_refined_music_competition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-of-argument-as-game-strategy-defeat
+  motif_id: contest_of_argument_as_game_strategy_defeat
+  label: contest of argument as game-strategy defeat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve wisdom debate, trickster strategy, or a game episode,
+    but function is unclear.
+  cautions: Single occurrence and highly abstract; avoid creating a contest group
+    without more recurring debate/game motifs.
+  suggested_aliases:
+  - argument_contest_strategy_defeat
+  - debate_as_game_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - trickster
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-resolved-by-shared-victory
+  motif_id: contest_resolved_by_shared_victory
+  label: Contest resolved by shared victory
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a generic resolution structure rather than a symbolic
+    or narrative motif in the taxonomy.
+  cautions: If the contest establishes kingship, marriage, divine judgment, or sacred
+    order, remap to the relevant functional group after evidence review.
+  suggested_aliases:
+  - shared_victory_resolution
+  - joint_victory_in_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_love
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-placement-of-ritual-green-figure-at-the-well
+  motif_id: contested_placement_of_ritual_green_figure_at_the_well
+  label: contested placement of ritual green figure at the well
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual placement, vegetation imagery, and well symbolism,
+    but the main function is unclear.
+  cautions: Comparative and over-specific wording may reflect scholarly classification;
+    could fit sacred_waters, sacred_time, sacrifice, or exclusion depending on source
+    evidence.
+  suggested_aliases:
+  - ritual_green_figure_at_well
+  - green_figure_well_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - sacred_time
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several single-occurrence contest or family-conflict labels appear too generic or
+  episode-specific for broad pattern queries without passage evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Human review recommended for ambiguous single-occurrence labels and comparative
+    ritual wording.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0014
+  input_sha256: c36631854197bdfd0ec3700897e123fc942664427fbf260c5a5d88dfe3b63bab
+

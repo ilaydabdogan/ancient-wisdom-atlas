@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0005
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.attack-on-a-personified-wind-or-whirlwind
+  motif_id: attack_on_a_personified_wind_or_whirlwind
+  label: Attack on a personified wind or whirlwind
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A personified storm or wind could be sacred combat, divine intervention,
+    or a weather-spirit episode depending on source context.
+  cautions: Single occurrence and broad comparative label; avoid creating a weather-deity
+    group without more recurring evidence.
+  suggested_aliases:
+  - combat_with_personified_wind
+  - attack_on_whirlwind_spirit
+  - wind_spirit_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.attempted-economic-exclusion-of-a-sacred-community
+  motif_id: attempted_economic_exclusion_of_a_sacred_community
+  label: attempted economic exclusion of a sacred community
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern persecution, covenantal community identity, social
+    law, or a historical episode rather than a portable motif.
+  cautions: Potentially context-specific Islamic historical material; verify narrative
+    function before mapping to sacred_law or covenant.
+  suggested_aliases:
+  - economic_boycott_of_sacred_community
+  - exclusion_of_believing_community
+  - persecution_by_economic_sanction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.attendant-warns-or-praises-before-battle
+  motif_id: attendant_warns_or_praises_before_battle
+  label: attendant warns or praises before battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: A battle attendant giving warning or praise is a martial scene role within
+    heroic or ritual combat.
+  cautions: Could be an episode-specific narrative detail if the warning lacks sacred,
+    prophetic, or combat-ritual function.
+  suggested_aliases:
+  - battle_attendant_warning
+  - pre_battle_praise_by_attendant
+  - martial_attendant_counsel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.auspicious-and-sacred-numbers
+  motif_id: auspicious_and_sacred_numbers
+  label: Auspicious and sacred numbers
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sacred Number and Auspicious Enumeration
+  relationship: narrower_than
+  confidence: medium
+  rationale: Sacred numbers recur as symbolic ordering devices but are not cleanly
+    covered by sacred_time, sacred_knowledge, or sacred_law.
+  cautions: May be too broad unless recurring across sources; review whether this
+    is symbolic motif or scholastic enumeration artifact.
+  suggested_aliases:
+  - sacred_numbers
+  - auspicious_numbers
+  - holy_enumeration
+  - ritual_number_symbolism
+  suggested_new_group:
+    id: sacred_number
+    label: Sacred Number and Auspicious Enumeration
+    description: Numbers, counts, enumerated sets, or numerical patterns carry sacred,
+      auspicious, cosmological, ritual, or doctrinal significance.
+    parent_group_ids:
+    - sacred_knowledge
+    related_group_ids:
+    - sacred_time
+    - cosmic_origin
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover time cycles, law, and
+      wisdom, but not number symbolism as a distinct cross-cutting ordering motif.
+- suggestion_id: normalization.suggestion.authoritative-compilation-after-disorder
+  motif_id: authoritative_compilation_after_disorder
+  label: authoritative compilation after disorder
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could describe restoration of sacred order through textual compilation,
+    but may be a textual-historical artifact rather than motif.
+  cautions: If this refers to canon formation or editorial history, exclude under
+    _meta_textual; if narrated as sacred repair, covenant or sacred_knowledge may
+    apply.
+  suggested_aliases:
+  - canon_compilation_after_disorder
+  - authoritative_collection_after_crisis
+  - sacred_text_compilation_restores_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.axe-bearing-adversary-of-the-warrior-caste
+  motif_id: axe_bearing_adversary_of_the_warrior_caste
+  label: axe-bearing adversary of the warrior caste
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: An axe-bearing opponent of a warrior class fits sacred warrior conflict
+    and caste-order combat imagery.
+  cautions: May be an over-specific label for Parashurama or a culturally specific
+    figure; preserve weapon and caste detail in evidence notes.
+  suggested_aliases:
+  - axe_bearing_warrior_adversary
+  - warrior_caste_opponent_with_axe
+  - brahmin_warrior_adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.baited-food-leads-to-capture
+  motif_id: baited_food_leads_to_capture
+  label: baited food leads to capture
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Food used as bait to trap someone functions as deception or stratagem,
+    fitting the trickster/deceptive reversal complex.
+  cautions: If the passage is ordinary hunting detail rather than deception with narrative
+    force, it may be too specific for pattern queries.
+  suggested_aliases:
+  - food_bait_capture
+  - capture_by_baited_food
+  - deceptive_food_trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.barter-as-exchange
+  motif_id: barter_as_exchange
+  label: barter as exchange
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Barter is an exchange form and may fit reciprocity if the episode has
+    sacred, social, or obligation-bearing force.
+  cautions: If merely an economic transaction or incidental plot detail, exclude from
+    motif queries; source context is needed.
+  suggested_aliases:
+  - barter_exchange
+  - reciprocal_barter
+  - transactional_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beautification-by-bath-before-presentation
+  motif_id: beautification_by_bath_before_presentation
+  label: beautification by bath before presentation
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Bathing before presentation could signal purification, bridal preparation,
+    status transformation, or a courtly plot detail.
+  cautions: Do not map to sacred_waters without evidence of sacred purification or
+    transformation; may be an over-specific scene detail.
+  suggested_aliases:
+  - ritual_bath_before_presentation
+  - beautifying_bath
+  - purifying_bath_before_display
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beautiful-hybrid-warrior-beloved
+  motif_id: beautiful_hybrid_warrior_beloved
+  label: beautiful hybrid warrior beloved
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on a beloved figure whose beauty and martial/hybrid
+    nature drive a love-related role.
+  cautions: Could also fit shapeshifter or divine_warrior if hybridity or combat is
+    the main function rather than beloved status.
+  suggested_aliases:
+  - hybrid_warrior_beloved
+  - beautiful_warrior_beloved
+  - beloved_hybrid_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional; several single-occurrence labels may be passage details
+  rather than durable motifs.
+- Avoid treating contextual Islamic or Hindu labels as broad comparative motifs without
+  source review.
+- Where labels combine role, object, and scene, suggested placement follows the apparent
+  narrative function rather than every symbolic element.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Batch contains low-frequency labels with several context-dependent or potentially
+    meta-textual items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0005
+  input_sha256: be84174c23e1a1bb7b744821b52c5a432d0ca0d3a35757b1e4ef0a72bdda89a5
+

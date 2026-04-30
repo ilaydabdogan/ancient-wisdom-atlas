@@ -4,7 +4,7 @@
 
 ## Summary
 
-- Generated on: 2026-04-29
+- Generated on: 2026-04-30
 - Canonical texts checked: 58
 - Texts with extraction records: 58
 - Texts without extraction records: 0

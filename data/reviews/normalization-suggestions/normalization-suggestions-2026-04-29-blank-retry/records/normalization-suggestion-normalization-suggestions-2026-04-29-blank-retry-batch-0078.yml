@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0078
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.seeking-aid-from-an-alternate-ritual-authority
+  motif_id: seeking_aid_from_an_alternate_ritual_authority
+  label: Seeking aid from an alternate ritual authority
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests ritual help-seeking and authority negotiation, but
+    the ritual function is unclear.
+  cautions: May be a passage-specific social or priestly detail rather than a reusable
+    motif; source context needed.
+  suggested_aliases:
+  - alternate ritual authority
+  - ritual aid from rival authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seized-prize-not-retained
+  motif_id: seized_prize_not_retained
+  label: seized prize not retained
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too generic to determine whether the prize is sacred,
+    martial, erotic, royal, or narrative loot.
+  cautions: Could fit sacred_treasures, sacred_combat, divine_judgment, or simple
+    plot mechanics; review passage evidence before indexing.
+  suggested_aliases:
+  - lost prize after seizure
+  - captured prize lost
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.selective-breeding-for-civic-improvement
+  motif_id: selective_breeding_for_civic_improvement
+  label: Selective breeding for civic improvement
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns regulation of social order, but may be philosophical
+    or political commentary rather than mythic motif.
+  cautions: Culturally sensitive and likely context-dependent; do not normalize without
+    checking whether it is a narrative motif or doctrinal passage.
+  suggested_aliases:
+  - regulated reproduction for civic order
+  - civic eugenic breeding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.semi-divine-animal-helpers-or-peoples
+  motif_id: semi_divine_animal_helpers_or_peoples
+  label: semi-divine animal helpers or peoples
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Semi-divine animal helpers function as supernatural agents aiding or
+    guiding human or divine action.
+  cautions: If emphasis is on animal-shaped races or peoples rather than help, divine_race
+    or shapeshifter may be better secondary placement.
+  suggested_aliases:
+  - semi-divine animal helpers
+  - divine animal allies
+  - animal helper peoples
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separation-causing-refusal-of-food-and-care
+  motif_id: separation_causing_refusal_of_food_and_care
+  label: separation causing refusal of food and care
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusal of food and care after separation expresses grief or attachment
+    through bodily decline.
+  cautions: If the passage frames refusal as ascetic discipline or renunciation rather
+    than grief, mystical_quest or sacred_exchange may fit better.
+  suggested_aliases:
+  - grief refusal of food
+  - separation-induced wasting
+  - mourning through self-neglect
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sequential-intercessors-test-the-captor-s-resolve
+  motif_id: sequential_intercessors_test_the_captor_s_resolve
+  label: sequential intercessors test the captor's resolve
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: low
+  rationale: Intercession before a captor may concern mercy, supplication, and negotiated
+    release, already partly represented under covenant.
+  cautions: Could be over-specific episode structure; may also fit sacred_love, sacred_exchange,
+    or storytelling_as_power depending on who intercedes and why.
+  suggested_aliases:
+  - repeated intercession before captor
+  - successive pleas to captor
+  - intercessors test captor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.serial-deadly-bridegroom
+  motif_id: serial_deadly_bridegroom
+  label: serial deadly bridegroom
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: A repeated deadly marriage pattern belongs with dangerous love, marriage
+    choice, and bridegroom peril motifs.
+  cautions: If the bridegroom is a monster, demon, or threshold figure, threshold_guardian
+    or divine_judgment may be relevant; preserve the serial-killing specificity as
+    evidence.
+  suggested_aliases:
+  - deadly bridegroom
+  - fatal bridegroom sequence
+  - serial fatal marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.servitude-accompanied-by-protection
+  motif_id: servitude_accompanied_by_protection
+  label: servitude accompanied by protection
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: 'The label suggests reciprocal obligation: service is exchanged for protection.'
+  cautions: May be social dependency, patronage, punishment, or divine guardianship;
+    source context needed before grouping.
+  suggested_aliases:
+  - service exchanged for protection
+  - protective servitude
+  - servitude under protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-sisters-group
+  motif_id: seven_sisters_group
+  label: seven-sisters group
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a culturally specific figure-group rather than a clearly
+    described motif function.
+  cautions: Culturally sensitive; do not reduce to sacred_twins, celestial motif,
+    or sibling pair without source evidence and appropriate review.
+  suggested_aliases:
+  - Seven Sisters
+  - seven sisters ancestral group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-training-across-gendered-difference
+  motif_id: shared_training_across_gendered_difference
+  label: shared training across gendered difference
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: low
+  rationale: Shared training can function as initiation or status formation, but the
+    gendered contrast is context-dependent.
+  cautions: May be educational, social, philosophical, or passage-specific rather
+    than mythic; avoid flattening gender dynamics without evidence.
+  suggested_aliases:
+  - cross-gender shared training
+  - shared initiation across gender difference
+  - gendered training partnership
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional and avoid transmission claims.
+- Several one-occurrence labels are likely contextual or culturally sensitive and
+  should receive source-level human review before taxonomy changes.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Batch includes multiple low-confidence, single-occurrence motifs; prioritize
+    passage evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0078
+  input_sha256: 4b3863ee6d891e4e30881a53184fda3ef12e8a789fdfb282cafbbbf1f7a057fc
+

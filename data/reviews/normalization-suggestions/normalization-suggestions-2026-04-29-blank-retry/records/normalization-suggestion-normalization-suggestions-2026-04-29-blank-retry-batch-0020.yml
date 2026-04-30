@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0020
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.delayed-readiness-of-the-bride
+  motif_id: delayed_readiness_of_the_bride
+  label: Delayed readiness of the bride
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: Bride-readiness appears to be a marriage-sequence detail, fitting existing
+    bride-choice and marriage motifs under sacred_love if narratively meaningful.
+  cautions: Single occurrence and possibly an episode-specific wedding detail; exclude
+    or retain only as evidence if no sacred, ordeal, or choice function is present.
+  suggested_aliases:
+  - bride readiness delayed
+  - delayed bridal readiness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demand-for-concealed-communal-arrangements
+  motif_id: demand_for_concealed_communal_arrangements
+  label: demand for concealed communal arrangements
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too abstract to identify whether it concerns ritual secrecy,
+    political plotting, household arrangements, or communal law.
+  cautions: Needs passage evidence; may be an over-generated contextual detail rather
+    than a reusable motif.
+  suggested_aliases:
+  - concealed communal arrangements
+  - secret communal arrangements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demon-inhabited-mountain
+  motif_id: demon_inhabited_mountain
+  label: demon-inhabited mountain
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_mountain
+  suggested_group_label: Cosmic Mountain
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A mountain inhabited by demons is a charged sacred or liminal mountain
+    setting, related to cosmic_mountain and axis_mundi imagery.
+  cautions: If the focus is a dangerous threshold being rather than the mountain itself,
+    threshold_guardian may be a better secondary mapping; avoid assuming axis function
+    without evidence.
+  suggested_aliases:
+  - demon mountain
+  - mountain inhabited by demons
+  - spirit-inhabited mountain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.denial-of-divine-offspring-and-rival-gods
+  motif_id: denial_of_divine_offspring_and_rival_gods
+  label: Denial of divine offspring and rival gods
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be theological polemic, doctrine of divine unity, or sacred
+    law rather than a narrative motif.
+  cautions: Culturally and doctrinally sensitive; do not flatten into divine_parent_child
+    or sacred_birth because the label explicitly negates divine offspring.
+  suggested_aliases:
+  - denial of divine sonship
+  - rejection of rival gods
+  - divine unity against offspring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.denial-or-avoidance-of-the-crucifixion
+  motif_id: denial_or_avoidance_of_the_crucifixion
+  label: Denial or avoidance of the Crucifixion
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label depends on specific theological interpretation of a tradition-specific
+    passion/crucifixion claim.
+  cautions: Culturally sensitive and source-dependent; do not map automatically to
+    sacrifice, resurrection, or death_and_transformation without passage evidence
+    about narrative function.
+  suggested_aliases:
+  - crucifixion denied
+  - crucifixion avoided
+  - substitution or non-crucifixion tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dependent-blind-parents-lose-their-only-guide
+  motif_id: dependent_blind_parents_lose_their_only_guide
+  label: dependent blind parents lose their only guide
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The motif centers on tragic loss and the grief caused by loss of a supporting
+    child or guide.
+  cautions: Could instead index under sacred_law if the passage emphasizes filial
+    duty or moral consequence; label is highly episode-specific.
+  suggested_aliases:
+  - blind parents lose guide
+  - loss of filial guide
+  - dependent parents bereaved of guide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deprivation-and-restoration-of-a-shared-sense-object
+  motif_id: deprivation_and_restoration_of_a_shared_sense_object
+  label: deprivation and restoration of a shared sense-object
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is abstract and does not reveal whether the object is a sacred
+    treasure, bodily sense, communal perception, or philosophical concept.
+  cautions: Needs passage context; may be too technical or commentary-like for pattern
+    queries.
+  suggested_aliases:
+  - loss and restoration of shared perception
+  - restored sense-object
+  - communal sense object deprived and restored
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descent-and-ascent-between-sea-depth-and-divine-height
+  motif_id: descent_and_ascent_between_sea_depth_and_divine_height
+  label: descent and ascent between sea-depth and divine height
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly describes vertical movement through sea-depth and
+    divine height, fitting descent/ascent transformation patterns.
+  cautions: Index ascent or sacred_waters as secondary if the passage emphasizes upward
+    divine revelation or water-boundary transformation more than descent.
+  suggested_aliases:
+  - sea-depth descent and divine ascent
+  - descent to sea depths and ascent to divine height
+  - vertical sea-to-heaven journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descent-from-an-animal-or-monkey-god-marked-by-bodily-sign
+  motif_id: descent_from_an_animal_or_monkey_god_marked_by_bodily_sign
+  label: descent from an animal or monkey-god marked by bodily sign
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine or animal-god ancestry marked by a bodily sign fits extraordinary
+    lineage and sacred birth/child identity.
+  cautions: Could also relate to recognition_tokens_hidden_identity if the bodily
+    sign proves lineage, or culture_hero if the descendant founds a people; verify
+    function in passage.
+  suggested_aliases:
+  - animal-god descent marked by bodily sign
+  - monkey-god ancestry sign
+  - divine animal ancestry with bodily mark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.desecration-of-sacred-book-as-defiant-self-identification
+  motif_id: desecration_of_sacred_book_as_defiant_self_identification
+  label: desecration of sacred book as defiant self-identification
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: Desecrating a sacred book as identity-defiance concerns transgression
+    against sacred law and communal order.
+  cautions: Culturally sensitive and possibly passage-specific; if framed as judgment
+    for sacrilege, divine_judgment may be a better mapping.
+  suggested_aliases:
+  - sacred book desecration
+  - scripture desecration as defiance
+  - sacrilege as self-identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All placements are provisional; several single-occurrence labels appear highly contextual
+  or doctrinal and need source evidence before final indexing.
+- For culturally sensitive Islamic theological labels, avoid treating doctrinal negation
+  as equivalent to the motif being negated.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Draft suggestions generated for blank retry batch; human review recommended
+    for ambiguous, doctrinal, and over-specific items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0020
+  input_sha256: 0fe7847473507ba387ff8237404357551934f00faa7fb3c3f0b99142740c919e
+

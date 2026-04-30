@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0022
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.disguised-figure-extinguishing-ritual-fire
+  motif_id: disguised_figure_extinguishing_ritual_fire
+  label: disguised figure extinguishing ritual fire
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: uncertain
+  confidence: low
+  rationale: Ritual fire is central, but the disguised actor and extinguishing action
+    may indicate deception, taboo violation, ritual closure, or episode-specific plot
+    detail.
+  cautions: Single occurrence and composite wording; could fit sacred_fire, trickster,
+    sacrifice, or be too specific without passage evidence.
+  suggested_aliases:
+  - ritual fire extinguished
+  - extinguishing sacred fire
+  - disguised violation of ritual fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disregarding-calls-of-heroes-or-hosts
+  motif_id: disregarding_calls_of_heroes_or_hosts
+  label: Disregarding calls of heroes or hosts
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: uncertain
+  confidence: low
+  rationale: In a Sufi context, ignoring calls may mark detachment or inward discipline,
+    but the label alone does not show a stable motif function.
+  cautions: Could be renunciation, failed hospitality, refusal of summons, or passage-specific
+    behavior; needs source context.
+  suggested_aliases:
+  - ignoring summons
+  - refusal of calls
+  - disregarded summons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distinct-heroic-age-of-demi-gods
+  motif_id: distinct_heroic_age_of_demi_gods
+  label: distinct heroic age of demi-gods
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: child
+  confidence: high
+  rationale: A separate heroic age of demigods belongs to the world-ages schema of
+    successive human or cosmic eras.
+  cautions: If the passage only identifies a genealogy or class of heroes rather than
+    an age sequence, review for royal_legitimacy or divine_race instead.
+  suggested_aliases:
+  - heroic age
+  - age of demigods
+  - heroic race of demigods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-act-of-humanity-contrasted-with-divine-cruelty
+  motif_id: divine_act_of_humanity_contrasted_with_divine_cruelty
+  label: divine act of humanity contrasted with divine cruelty
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns moral evaluation of divine behavior, but not clearly
+    a narrative judgment motif.
+  cautions: May be literary commentary or ethical contrast rather than a recurring
+    mythic motif; avoid indexing without passage evidence.
+  suggested_aliases:
+  - divine mercy contrasted with cruelty
+  - humane deity versus cruel deity
+  - moral contrast among gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-and-heroic-feminine-exemplars-contrasted-with-human-social-order
+  motif_id: divine_and_heroic_feminine_exemplars_contrasted_with_human_social_order
+  label: divine and heroic feminine exemplars contrasted with human social order
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: uncertain
+  confidence: low
+  rationale: The feminine exemplar theme may relate to sacred feminine figures, but
+    the label reads as interpretive social comparison.
+  cautions: Could be commentary artifact, gender-role analysis, heroic exemplum, or
+    sacred law/social order theme; source evidence needed.
+  suggested_aliases:
+  - feminine divine exemplars
+  - heroic feminine exemplars
+  - female exemplars contrasted with social order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-assembly-with-music
+  motif_id: divine_assembly_with_music
+  label: divine assembly with music
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Music in a divine gathering fits the sacred or supernatural power-of-music
+    field, though the label may be scene-setting rather than functional enchantment.
+  cautions: If music is only decorative background in a divine council, it may be
+    too incidental for pattern queries.
+  suggested_aliases:
+  - music in divine assembly
+  - gods assembled with music
+  - divine gathering with song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-banquet-with-selective-recognition
+  motif_id: divine_banquet_with_selective_recognition
+  label: Divine banquet with selective recognition
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: uncertain
+  confidence: low
+  rationale: Selective recognition is the clearest recurring function, but banquet
+    context may signal divine assembly, hospitality, or hidden identity.
+  cautions: Needs evidence for whether recognition, hospitality testing, or divine
+    concealment is central; likely over-specific as phrased.
+  suggested_aliases:
+  - selective recognition at divine banquet
+  - recognition at divine feast
+  - hidden identity at divine banquet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-bird-vehicle
+  motif_id: divine_bird_vehicle
+  label: divine bird vehicle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine mount or vehicle functions as a sacred power-bearing conveyance
+    associated with a deity.
+  cautions: Existing groups do not have a dedicated divine-animal-mount category;
+    if many mount/vahana labels recur, a new subgroup may be warranted.
+  suggested_aliases:
+  - divine bird mount
+  - bird vahana
+  - sacred bird vehicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-compulsion-in-erotic-union
+  motif_id: divine_compulsion_in_erotic_union
+  label: divine compulsion in erotic union
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_marriage
+  suggested_group_label: Sacred Marriage
+  relationship: uncertain
+  confidence: low
+  rationale: Erotic union involving divine force may overlap sacred marriage or sacred
+    love, but compulsion raises agency and source-specific concerns.
+  cautions: Culturally and ethically sensitive; do not normalize as sacred marriage
+    unless the passage frames the union as cosmic, royal, or fertility-ordering.
+  suggested_aliases:
+  - compelled erotic union by divine power
+  - divinely compelled sexual union
+  - erotic union under divine compulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-concealment-of-recognition
+  motif_id: divine_concealment_of_recognition
+  label: divine concealment of recognition
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on recognition being withheld or obscured, a variant
+    of hidden identity and recognition scenes.
+  cautions: If divine agency is more important than recognition mechanics, divine_intervention
+    may be a secondary placement.
+  suggested_aliases:
+  - divinely delayed recognition
+  - concealed recognition by a god
+  - divine obstruction of recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All placements are provisional; several one-off labels read as interpretive or over-specific
+  and should be checked against passage evidence.
+- No transmission or borrowing claims are implied by these normalization suggestions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Batch includes multiple single-occurrence Greek/Roman/Sufi labels where source
+    context is needed before final mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0022
+  input_sha256: 0c04640233e33ad25a73249b249a69291a07e20e6304ae95386dd32a93606232
+

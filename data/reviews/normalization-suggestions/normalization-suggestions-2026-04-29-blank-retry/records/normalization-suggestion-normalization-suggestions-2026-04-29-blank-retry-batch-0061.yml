@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0061
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.parodic-reuse-of-a-threat
+  motif_id: parodic_reuse_of_a_threat
+  label: parodic reuse of a threat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a rhetorical or comic reuse of prior speech rather
+    than a stable mythic motif.
+  cautions: Single occurrence; may be a passage-specific literary device. Could fit
+    storytelling_as_power only if threat-repetition drives narrative power or survival.
+  suggested_aliases:
+  - comic repetition of a threat
+  - mocking reuse of prior threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.partial-blindness-and-vulnerability
+  motif_id: partial_blindness_and_vulnerability
+  label: partial blindness and vulnerability
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: A limited impairment creating vulnerability matches the broader hidden-weakness
+    or exposed-limitation pattern.
+  cautions: If the passage only notes ordinary disability without an exploitative
+    weakness or combat consequence, treat as evidence detail instead.
+  suggested_aliases:
+  - impaired sight as vulnerability
+  - limited blindness exposes weakness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.partial-trophy-and-disputed-proof
+  motif_id: partial_trophy_and_disputed_proof
+  label: Partial trophy and disputed proof
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A combat trophy used as contested evidence aligns with warrior proof
+    and body-part trophy motifs already under divine_warrior.
+  cautions: Could alternatively fit recognition_tokens_hidden_identity if the trophy
+    primarily proves identity rather than martial achievement.
+  suggested_aliases:
+  - disputed combat trophy
+  - body-part proof contested
+  - partial trophy as proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passing-of-the-heroic-age-before-a-christian-present
+  motif_id: passing_of_the_heroic_age_before_a_christian_present
+  label: passing of the heroic age before a Christian present
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe periodization or Christian redactional framing
+    rather than a narrative motif.
+  cautions: If the passage frames sacred history as declining ages, world_ages_cosmic_decline
+    may fit; if it is editorial framing, exclude from motif queries.
+  suggested_aliases:
+  - end of heroic age before Christian era
+  - heroic age recedes before Christian present
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.past-appointing-future-conduct
+  motif_id: past_appointing_future_conduct
+  label: past appointing future conduct
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label suggests wisdom about how prior states or origins shape future
+    spiritual action.
+  cautions: Ambiguous abstract wording; may belong under fate_figures_cosmic_weaving,
+    sacred_law, or mystical_quest depending on passage evidence.
+  suggested_aliases:
+  - past determining future conduct
+  - prior state guiding future action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pastoral-abundance-through-honeyed-waters-and-flowing-milk
+  motif_id: pastoral_abundance_through_honeyed_waters_and_flowing_milk
+  label: Pastoral abundance through honeyed waters and flowing milk
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Miraculous or sacred abundance of milk, honey, and waters fits the existing
+    provision and abundance cluster under divine_intervention.
+  cautions: If the abundance is specifically a golden-age landscape rather than divine
+    provision, world_ages_cosmic_decline or sacred_time may be better secondary contexts.
+  suggested_aliases:
+  - milk and honey abundance
+  - honeyed waters and flowing milk
+  - pastoral miraculous abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.path-obstructed-by-corrupt-opponents
+  motif_id: path_obstructed_by_corrupt_opponents
+  label: path obstructed by corrupt opponents
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: low
+  rationale: Opponents blocking a path may function as an ordeal or threshold test
+    in a transformative journey.
+  cautions: Could be a historical polemic, legal conflict, or passage-specific obstacle;
+    map only if obstruction advances a sacred quest, call, or transformation.
+  suggested_aliases:
+  - corrupt opponents obstruct the path
+  - blocked path by unjust adversaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-lasting-until-dawn
+  motif_id: peace_lasting_until_dawn
+  label: Peace lasting until dawn
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A bounded sacred interval of peace until dawn fits sacred time and ritually
+    marked temporal protection.
+  cautions: If tied specifically to revelation, angels, or Laylat al-Qadr, divine_intervention
+    or theophany may be relevant secondary mappings.
+  suggested_aliases:
+  - night peace until dawn
+  - sacred peace until daybreak
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.person-drunk-in-a-draught
+  motif_id: person_drunk_in_a_draught
+  label: person drunk in a draught
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is unclear and may refer to intoxication, enchantment, ingestion,
+    or an idiomatic passage artifact.
+  cautions: If the drink causes magical sleep or compulsion, storytelling_as_power
+    may fit; if ingestion transforms or revives, death_and_transformation may fit.
+  suggested_aliases:
+  - intoxication from a draught
+  - enchanted drink draught
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personification-of-natural-forces-in-epic-figures
+  motif_id: personification_of_natural_forces_in_epic_figures
+  label: Personification of natural forces in epic figures
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be an interpretive scholarly claim about epic characters rather
+    than a narrative motif.
+  cautions: If the source explicitly presents figures as cosmic oppositions or elemental
+    divine agents, duality or divine_intervention may fit; otherwise exclude as commentary.
+  suggested_aliases:
+  - epic figures as natural forces
+  - natural-force personification in heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and abstract; source context
+  should determine whether they are motifs or commentary artifacts.
+- Avoid treating literary framing, periodization, or scholarly interpretation as motif
+  evidence unless the passage itself narrativizes the pattern.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-assisted
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for ambiguous single-occurrence
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0061
+  input_sha256: 96cbe33d2e32124c13af3a154ffabff6d7fa4b5ad2476bc75da6d464d017099a
+

@@ -1,0 +1,328 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0009
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.captor-from-across-the-waves
+  motif_id: captor_from_across_the_waves
+  label: Captor from across the waves
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests abduction or threat from overseas, but the narrative
+    function is unclear from wording alone.
+  cautions: Could involve otherworld abduction, enemy raiding, sea-boundary crossing,
+    or a passage-specific antagonist detail.
+  suggested_aliases:
+  - overseas captor
+  - captor across the sea
+  - abductor from across the waves
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_waters
+    - sacred_combat
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.caretaker-harmed-by-those-he-cares-for
+  motif_id: caretaker_harmed_by_those_he_cares_for
+  label: caretaker harmed by those he cares for
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a relational reversal, but not enough to determine
+    whether it is betrayal, sacrifice, judgment, or tragic episode detail.
+  cautions: May be over-specific unless the caretaker-care recipient reversal recurs
+    across sources; source context needed.
+  suggested_aliases:
+  - benefactor harmed by dependents
+  - guardian harmed by wards
+  - caretaker betrayed by cared-for
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - divine_judgment
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.carrier-mistaken-for-sacred-recipient
+  motif_id: carrier_mistaken_for_sacred_recipient
+  label: Carrier mistaken for sacred recipient
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Mistaken sacred status may concern ritual misrecognition, sacred exchange,
+    or identity proof, but the label lacks function.
+  cautions: Could be a local ritual anecdote or commentary artifact; verify whether
+    the misrecognition drives a recurring motif pattern.
+  suggested_aliases:
+  - messenger mistaken for recipient
+  - carrier misrecognized as sacred addressee
+  - ritual carrier mistaken for sacred recipient
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - recognition_tokens_hidden_identity
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.carrion-bird-denies-revival-and-redirects-corpse-to-waters
+  motif_id: carrion_bird_denies_revival_and_redirects_corpse_to_waters
+  label: Carrion bird denies revival and redirects corpse to waters
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action concerns a denied or diverted revival of a corpse, fitting
+    death-return and transformation patterns.
+  cautions: The carrion bird and water redirection may be episode-specific; if waters
+    are the main threshold, sacred_waters may be a secondary relation.
+  suggested_aliases:
+  - denied revival of corpse
+  - corpse redirected to waters
+  - bird prevents resurrection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - resurrection
+    - restless_dead_haunting_vengeance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-maiden-weaving-on-the-rainbow
+  motif_id: celestial_maiden_weaving_on_the_rainbow
+  label: celestial maiden weaving on the rainbow
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A celestial female weaving in the sky aligns with the existing cosmic-weaving
+    cluster, though fate may not be explicit.
+  cautions: If the passage emphasizes atmospheric beauty or a sky spirit rather than
+    destiny or cosmic order, dream_and_vision or a celestial-being grouping may fit
+    better.
+  suggested_aliases:
+  - rainbow weaving maiden
+  - sky maiden weaving
+  - celestial weaver on rainbow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - sacred_craft
+    - duality
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-maidens-as-spinners-and-weavers
+  motif_id: celestial_maidens_as_spinners_and_weavers
+  label: celestial maidens as spinners and weavers
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: role_variant
+  confidence: medium
+  rationale: Female celestial spinners and weavers closely match the established motif
+    group for fate figures and cosmic weaving.
+  cautions: Confirm whether their weaving governs fate or cosmic order; otherwise
+    this may be a broader sky-maiden or craft image.
+  suggested_aliases:
+  - celestial spinners
+  - sky maidens weaving
+  - heavenly women as weavers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - dream_and_vision
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-or-atmospheric-female-beings
+  motif_id: celestial_or_atmospheric_female_beings
+  label: celestial or atmospheric female beings
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: broader_label
+  confidence: low
+  rationale: This is a broad being-type label rather than a clear narrative function
+    or symbolic action.
+  cautions: Could refer to apsaras, sky goddesses, cloud spirits, attendants, or atmospheric
+    personifications; avoid mapping without passage evidence.
+  suggested_aliases:
+  - sky female beings
+  - atmospheric maidens
+  - celestial women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - dream_and_vision
+    - otherworld
+    - mother_goddess
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-origin-of-the-seven-sisters
+  motif_id: celestial_origin_of_the_seven_sisters
+  label: celestial origin of the Seven Sisters
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label points to a culturally specific star-origin narrative and should
+    be reviewed with source context.
+  cautions: Culturally sensitive Indigenous Australian material; do not reduce to
+    generic cosmic origin or sacred twins without evidence of function and permissions/context.
+  suggested_aliases:
+  - Seven Sisters star origin
+  - origin of the Seven Sisters constellation
+  - celestial Seven Sisters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_twins
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-praise-and-ranked-angels
+  motif_id: celestial_praise_and_ranked_angels
+  label: celestial praise and ranked angels
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Ranked angels fit the existing divine-intervention grouping, which already
+    includes angelic messenger and guardian functions.
+  cautions: If the focus is liturgical praise or heavenly hierarchy rather than action
+    in human affairs, this may need a separate devotional/celestial-order review.
+  suggested_aliases:
+  - angelic hierarchy and praise
+  - ranked angels praising God
+  - celestial liturgy of angels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - sacred_song
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-praise-of-wedding-participants
+  motif_id: ceremonial_praise_of_wedding_participants
+  label: Ceremonial praise of wedding participants
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Wedding praise is a ritualized marriage/love performance and fits the
+    broad sacred_love cluster better than narrative transformation motifs.
+  cautions: May be a song-performance or ceremony detail rather than a mythic motif;
+    if the emphasis is verbal power, storytelling_as_power or sacred_song may be secondary.
+  suggested_aliases:
+  - wedding praise ceremony
+  - praise of bride and groom
+  - ritual praise at wedding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - sacred_song
+    - sacred_marriage
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional placements based only on motif labels and supplied
+  taxonomy context.
+- Several single-occurrence labels may be passage-specific and should be checked against
+  source evidence before indexing broadly.
+- No transmission, borrowing, or common-origin claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Batch includes ambiguous, culturally specific, and single-occurrence labels
+    requiring human validation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0009
+  input_sha256: f665c82336d2459a88ba11dd93a915332413c0761b7cbee1164a5ab0cee8f1d8
+

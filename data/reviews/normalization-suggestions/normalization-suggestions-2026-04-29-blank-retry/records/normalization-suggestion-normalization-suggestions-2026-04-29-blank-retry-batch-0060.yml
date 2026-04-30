@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0060
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.outsider-expelled-from-feast-space
+  motif_id: outsider_expelled_from_feast_space
+  label: outsider expelled from feast-space
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve hospitality, social exclusion, ritual boundary, or a passage-specific
+    feast scene.
+  cautions: Single occurrence; do not map to hospitality_test or sacred_law without
+    evidence that the expulsion has sacred or moral function.
+  suggested_aliases:
+  - feast-space exclusion
+  - outsider expelled from feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - sacred_law
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outward-care-paired-with-withheld-sustenance
+  motif_id: outward_care_paired_with_withheld_sustenance
+  label: outward care paired with withheld sustenance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes ambiguous deceptive or failed care, but its mythic
+    function is unclear.
+  cautions: May be an ethical observation, cruelty motif, betrayal scene, or passage
+    artifact; source context needed before placement.
+  suggested_aliases:
+  - withheld sustenance despite care
+  - false care with deprivation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overbold-pursuit-followed-by-sudden-flight
+  motif_id: overbold_pursuit_followed_by_sudden_flight
+  label: Overbold pursuit followed by sudden flight
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Overbold action followed by reversal fits the hubris-to-humbling pattern.
+  cautions: If the passage is only tactical pursuit and retreat without moral overreach,
+    treat as a combat detail instead.
+  suggested_aliases:
+  - reckless pursuit reversed into flight
+  - overconfident pursuit and reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pagan-hero-and-christian-saint-dialogue
+  motif_id: pagan_hero_and_christian_saint_dialogue
+  label: pagan hero and Christian saint dialogue
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may mark conversion-era dialogue, wisdom transmission, or textual
+    reception between religious frames.
+  cautions: Culturally and historically contextual; avoid treating as transmission
+    evidence or a generic sacred-knowledge motif without passage review.
+  suggested_aliases:
+  - hero-saint dialogue
+  - pagan warrior and Christian saint encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - storytelling_as_power
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-dangerous-beings-localized-as-natural-winds
+  motif_id: paired_dangerous_beings_localized_as_natural_winds
+  label: paired dangerous beings localized as natural winds
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A pair of dangerous beings mapped onto natural winds weakly fits paired
+    cosmic forces.
+  cautions: Could instead be an etiological nature explanation or localized personification;
+    source evidence needed before firm mapping.
+  suggested_aliases:
+  - paired wind beings
+  - dangerous beings as winds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-distant-royals-with-parallel-refusal-of-marriage
+  motif_id: paired_distant_royals_with_parallel_refusal_of_marriage
+  label: paired distant royals with parallel refusal of marriage
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: low
+  rationale: Refusal of marriage by paired royal figures belongs most closely to the
+    marriage-choice and love-quest cluster.
+  cautions: Highly specific and may be a plot setup rather than a sacred-love motif;
+    review whether refusal drives quest, sovereignty, or identity themes.
+  suggested_aliases:
+  - parallel royal marriage refusal
+  - paired royals refuse marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - duality
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.palinode-for-a-wronged-helen
+  motif_id: palinode_for_a_wronged_helen
+  label: palinode for a wronged Helen
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: A palinode for Helen is a literary-textual corrective tied to a named
+    figure and genre.
+  cautions: Preserve as reception or textual evidence; only remap if the passage foregrounds
+    vindication, false accusation, or restored honor as the motif.
+  suggested_aliases:
+  - Helen palinode
+  - corrective song for wronged Helen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parasitic-drone-class-feeding-on-civic-wealth
+  motif_id: parasitic_drone_class_feeding_on_civic_wealth
+  label: Parasitic drone class feeding on civic wealth
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns a social-order critique of an exploitative civic class.
+  cautions: May be philosophical or political commentary rather than mythic narrative;
+    exclude if it is only an abstract civic metaphor.
+  suggested_aliases:
+  - parasitic civic class
+  - drones consuming civic wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parasitic-drones-as-civic-plague
+  motif_id: parasitic_drones_as_civic_plague
+  label: parasitic drones as civic plague
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A civic plague metaphor for exploitative drones fits disorder within
+    sacred/social law.
+  cautions: If the passage treats plague as divine punishment, divine_judgment may
+    be a secondary mapping; if only political metaphor, consider exclusion.
+  suggested_aliases:
+  - civic plague of drones
+  - parasitic drones as social disease
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parental-partiality-toward-offspring
+  motif_id: parental_partiality_toward_offspring
+  label: parental partiality toward offspring
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Parental favoritism could drive sibling conflict, succession, divine
+    parent-child dynamics, or ordinary plot conflict.
+  cautions: Single broad social label; source context needed before mapping to sacred_twins,
+    sibling_pair, royal_legitimacy, or divine_parent_child.
+  suggested_aliases:
+  - parental favoritism
+  - favored offspring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_twins
+    - miraculous_child
+    - royal_legitimacy
+    - divine_parent_child
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements only; several labels appear single-occurrence
+  and context-dependent.
+- Avoid transmission or historical-contact claims when reviewing the Celtic Christian/pagan
+  dialogue item.
+- Items framed as philosophical, political, or literary commentary may need exclusion
+  if no narrative motif is present.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Batch contains many low-confidence, single-occurrence labels requiring source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0060
+  input_sha256: 264a741a7f51121e4772b2b60b562fb0d5d64ec8e8ae9b40900e3625c955bae3
+

@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0030
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.failed-recognition-in-a-place-of-revelry
+  motif_id: failed_recognition_in_a_place_of_revelry
+  label: failed recognition in a place of revelry
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is failed recognition or identity non-disclosure, which
+    fits the recognition/hidden-identity complex.
+  cautions: The revelry setting may be only scene detail; verify whether recognition,
+    identity proof, or misrecognition drives the episode.
+  suggested_aliases:
+  - failed_recognition
+  - misrecognition_in_revelry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-repentance-before-seasonal-pleasure
+  motif_id: failed_repentance_before_seasonal_pleasure
+  label: failed repentance before seasonal pleasure
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could concern moral failure, seasonal temptation, mystical
+    discipline, or a passage-specific ethical teaching.
+  cautions: Do not map solely from repentance language; source context is needed to
+    decide among divine_judgment, sacred_time, mystical_quest, or exclusion as a didactic
+    detail.
+  suggested_aliases:
+  - failed_repentance
+  - seasonal_pleasure_as_temptation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-trial-ingredients-before-successful-brewing
+  motif_id: failed_trial_ingredients_before_successful_brewing
+  label: failed trial ingredients before successful brewing
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence of failed materials before a successful crafted or brewed
+    product fits sacred making and trial-and-error production.
+  cautions: If brewing is ordinary plot detail rather than mythic creation, magical
+    craft, or ritual production, this may be too specific for motif queries.
+  suggested_aliases:
+  - failed_ingredients_before_successful_making
+  - trial_materials_before_successful_brewing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-wife-contrasted-with-women-of-luxury
+  motif_id: faithful_wife_contrasted_with_women_of_luxury
+  label: faithful wife contrasted with women of luxury
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label reads as an ethical contrast about marital fidelity and social
+    virtue, closest to sacred law or social order.
+  cautions: May be a culturally specific normative or didactic passage rather than
+    a reusable mythic motif; review for gendered moral framing before indexing broadly.
+  suggested_aliases:
+  - faithful_wife_as_ethical_exemplar
+  - marital_fidelity_contrasted_with_luxury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-wives-attain-heaven-and-glory
+  motif_id: faithful_wives_attain_heaven_and_glory
+  label: Faithful wives attain heaven and glory
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Heavenly reward for fidelity is a moral-reckoning pattern linking conduct
+    to postmortem or divine reward.
+  cautions: Review whether the passage is a doctrinal/social norm rather than narrative
+    motif; sacred_law may be a secondary mapping if the focus is prescribed conduct.
+  suggested_aliases:
+  - heavenly_reward_for_fidelity
+  - faithful_spouses_attain_heaven
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-from-court-through-stratagem
+  motif_id: fall_from_court_through_stratagem
+  label: Fall from court through stratagem
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: A fall from court caused by stratagem centers on deception and manipulation
+    of social boundaries.
+  cautions: Could instead be political downfall, divine judgment, or a didactic anecdote;
+    confirm that trickery rather than moral punishment is the motif engine.
+  suggested_aliases:
+  - court_downfall_by_deception
+  - loss_of_status_through_stratagem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-from-lesser-bondage-into-harsher-bondage
+  motif_id: fall_from_lesser_bondage_into_harsher_bondage
+  label: fall from lesser bondage into harsher bondage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes worsening captivity or constraint, but the narrative
+    function is unclear from wording alone.
+  cautions: May fit pride/downfall, divine_judgment, initiation ordeal, or simply
+    episode-specific suffering; source evidence is needed.
+  suggested_aliases:
+  - worsening_bondage
+  - escape_into_harsher_captivity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-from-the-sky-into-water
+  motif_id: fall_from_the_sky_into_water
+  label: fall from the sky into water
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label combines vertical fall with water as receiving boundary or
+    transformative medium.
+  cautions: Do not infer flood, descent, or rebirth without evidence; it may be an
+    episode-specific physical event or metamorphosis detail.
+  suggested_aliases:
+  - sky_fall_into_water
+  - falling_into_sacred_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-charioteer-after-divine-disruption
+  motif_id: fallen_charioteer_after_divine_disruption
+  label: fallen charioteer after divine disruption
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A charioteer falls because a divine force disrupts events, making supernatural
+    intervention the key function.
+  cautions: Could map to divine_judgment if the fall is punishment, or sacred_combat
+    if it occurs in battle; preserve chariot detail as evidence.
+  suggested_aliases:
+  - divine_disruption_causes_fall
+  - charioteer_felled_by_divine_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-heroic-brothers-under-enemy-triumph-claim
+  motif_id: fallen_heroic_brothers_under_enemy_triumph_claim
+  label: fallen heroic brothers under enemy triumph claim
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Fallen heroic brothers and enemy triumph claims belong to heroic combat
+    and martial honor scenes.
+  cautions: Likely too episode-specific for a canonical motif; if grief or funeral
+    response dominates, lament_and_mourning or heroic_funeral_rites may be better.
+  suggested_aliases:
+  - fallen_brothers_in_battle
+  - enemy_claims_triumph_over_fallen_heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several one-occurrence labels are highly contextual
+  and should be checked against passage evidence before broad indexing.
+- Avoid inferring transmission or shared origin from these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Batch contains multiple single-occurrence, context-dependent labels; human
+    review recommended before taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0030
+  input_sha256: '08363476408ad686599842527d31bda09dbf551abaa43f855d026f2b762ee190'
+

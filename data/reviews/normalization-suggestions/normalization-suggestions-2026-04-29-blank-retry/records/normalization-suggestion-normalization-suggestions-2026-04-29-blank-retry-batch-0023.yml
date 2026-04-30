@@ -1,0 +1,336 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0023
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-consort-of-a-chief-god
+  motif_id: divine_consort_of_a_chief_god
+  label: Divine consort of a chief god
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_marriage
+  suggested_group_label: Sacred Marriage
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine consort of a chief god can function within divine partnership,
+    sovereignty, and fertility imagery covered by sacred marriage.
+  cautions: If the passage only identifies a deity's spouse without narrative or ritual
+    function, it may be too person-specific for motif queries.
+  suggested_aliases:
+  - divine consort
+  - chief god's consort
+  - divine spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-contest-aid-used-to-overcome-a-woman
+  motif_id: divine_contest_aid_used_to_overcome_a_woman
+  label: Divine contest aid used to overcome a woman
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve contest, coercion, divine aid, bride-winning,
+    or gendered violence, and the function is unclear without passage evidence.
+  cautions: Culturally sensitive and potentially episode-specific; avoid normalizing
+    as sacred love or contest motif without reviewing the source context.
+  suggested_aliases:
+  - divine aid in contest
+  - contest aid used to overcome opponent
+  - divinely aided bride contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-dancing-figure
+  motif_id: divine_dancing_figure
+  label: Divine dancing figure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A dancing divine figure may be theophany, ritual performance, sacred
+    music, or merely an iconographic attribute.
+  cautions: Single occurrence and broad wording; source evidence is needed to determine
+    whether the dance has narrative or ritual power.
+  suggested_aliases:
+  - divine dancer
+  - dancing deity
+  - sacred dance figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-eye-as-symbolic-attribute
+  motif_id: divine_eye_as_symbolic_attribute
+  label: divine eye as symbolic attribute
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The divine eye may signal vision, surveillance, judgment, or revelation,
+    but the label does not specify its function.
+  cautions: May be an iconographic or comparative attribute rather than a narrative
+    motif; review before mapping to theophany, wisdom, or divine judgment.
+  suggested_aliases:
+  - divine eye
+  - all-seeing eye
+  - sacred eye attribute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-human-union-in-a-saviour-figure
+  motif_id: divine_human_union_in_a_saviour_figure
+  label: divine-human union in a saviour figure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Divine Incarnation and Indwelling
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on divine and human natures joined in a saving figure,
+    which is not well captured by sacred birth, theophany, or mystical union alone.
+  cautions: Review for doctrinal specificity and avoid treating theological comparison
+    as evidence of transmission.
+  suggested_aliases:
+  - divine-human saviour
+  - incarnate saviour figure
+  - god-human mediator
+  suggested_new_group:
+    id: divine_incarnation_indwelling
+    label: Divine Incarnation and Indwelling
+    description: A divine presence, nature, or power is embodied in, united with,
+      or indwells a human or savior figure, making the person a mediator of sacred
+      reality, salvation, punishment, or revelation.
+    parent_group_ids:
+    - theophany
+    - miraculous_child
+    - mystical_quest
+    related_group_ids:
+    - divine_intervention
+    - annihilation_union
+    - sacred_birth
+    reason_existing_groups_insufficient: Existing groups cover sacred birth, divine
+      manifestation, or mystical dissolution, but not the durable embodiment or union
+      of divine and human in one figure.
+- suggestion_id: normalization.suggestion.divine-human-union-in-one-person
+  motif_id: divine_human_union_in_one_person
+  label: divine-human union in one person
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Divine Incarnation and Indwelling
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes a divine-human union within a single person, matching
+    an incarnation or indwelling complex rather than general mystical union.
+  cautions: The Islamic context may be theologically sensitive; verify whether the
+    passage asserts incarnation, mystical union, metaphor, or polemical comparison.
+  suggested_aliases:
+  - divine-human union
+  - god-human union in one person
+  - personal divine indwelling
+  suggested_new_group:
+    id: divine_incarnation_indwelling
+    label: Divine Incarnation and Indwelling
+    description: A divine presence, nature, or power is embodied in, united with,
+      or indwells a human or savior figure, making the person a mediator of sacred
+      reality, salvation, punishment, or revelation.
+    parent_group_ids:
+    - theophany
+    - miraculous_child
+    - mystical_quest
+    related_group_ids:
+    - divine_intervention
+    - annihilation_union
+    - sacred_birth
+    reason_existing_groups_insufficient: Existing groups cover sacred birth, divine
+      manifestation, or mystical dissolution, but not the durable embodiment or union
+      of divine and human in one figure.
+- suggestion_id: normalization.suggestion.divine-incarnation-or-indwelling-in-a-human-figure
+  motif_id: divine_incarnation_or_indwelling_in_a_human_figure
+  label: Divine incarnation or indwelling in a human figure
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Divine Incarnation and Indwelling
+  relationship: narrower_than
+  confidence: medium
+  rationale: This directly names incarnation or indwelling of the divine in a human
+    figure, a recurring category not cleanly represented by existing groups.
+  cautions: In Sufi material this may be metaphorical, ecstatic, or contested; review
+    before treating as literal incarnation.
+  suggested_aliases:
+  - divine indwelling
+  - divine incarnation in a human
+  - embodied divine presence
+  suggested_new_group:
+    id: divine_incarnation_indwelling
+    label: Divine Incarnation and Indwelling
+    description: A divine presence, nature, or power is embodied in, united with,
+      or indwells a human or savior figure, making the person a mediator of sacred
+      reality, salvation, punishment, or revelation.
+    parent_group_ids:
+    - theophany
+    - miraculous_child
+    - mystical_quest
+    related_group_ids:
+    - divine_intervention
+    - annihilation_union
+    - sacred_birth
+    reason_existing_groups_insufficient: Existing groups cover sacred birth, divine
+      manifestation, or mystical dissolution, but not the durable embodiment or union
+      of divine and human in one figure.
+- suggestion_id: normalization.suggestion.divine-incarnation-punishing-the-eater-from-within-the-body
+  motif_id: divine_incarnation_punishing_the_eater_from_within_the_body
+  label: divine incarnation punishing the eater from within the body
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines incarnation, ingestion, and internal punishment, which
+    could fit divine judgment, rebirth through ingestion, or incarnation depending
+    on context.
+  cautions: Highly specific and possibly a comparative artifact; review source evidence
+    before creating or mapping a pattern query facet.
+  suggested_aliases:
+  - internal divine punishment
+  - ingested divine presence punishes eater
+  - divine presence within the body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-independence-from-the-world
+  motif_id: divine_independence_from_the_world
+  label: Divine independence from the world
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a theological attribute of divine transcendence rather
+    than a narrative motif.
+  cautions: May be doctrinal commentary; if no narrative function is present, exclude
+    from pattern queries or preserve only as a concept note.
+  suggested_aliases:
+  - divine transcendence
+  - divine self-sufficiency
+  - God's independence from creation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-indwelling-or-incarnation-in-a-human-figure
+  motif_id: divine_indwelling_or_incarnation_in_a_human_figure
+  label: Divine indwelling or incarnation in a human figure
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Divine Incarnation and Indwelling
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a close variant of divine incarnation or indwelling in a human
+    figure and needs a group distinct from general theophany or mystical quest.
+  cautions: Review whether the source means literal incarnation, saintly presence,
+    ecstatic union, or metaphorical divine qualities.
+  suggested_aliases:
+  - divine indwelling in a human
+  - incarnation in a human figure
+  - human figure as divine dwelling
+  suggested_new_group:
+    id: divine_incarnation_indwelling
+    label: Divine Incarnation and Indwelling
+    description: A divine presence, nature, or power is embodied in, united with,
+      or indwells a human or savior figure, making the person a mediator of sacred
+      reality, salvation, punishment, or revelation.
+    parent_group_ids:
+    - theophany
+    - miraculous_child
+    - mystical_quest
+    related_group_ids:
+    - divine_intervention
+    - annihilation_union
+    - sacred_birth
+    reason_existing_groups_insufficient: Existing groups cover sacred birth, divine
+      manifestation, or mystical dissolution, but not the durable embodiment or union
+      of divine and human in one figure.
+batch_notes:
+- Several labels in this batch concern incarnation or indwelling and likely warrant
+  a shared candidate group, but theological context should be reviewed carefully before
+  taxonomy promotion.
+- Single-occurrence labels that read as attributes, iconography, or doctrinal concepts
+  should not be promoted without passage evidence of narrative or ritual function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review required for culturally
+    sensitive incarnation, Sufi, and gendered contest labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0023
+  input_sha256: f7d0d9b6333b676cd583c9cd288c27639f06c7b101ac9fc17342ac0cd1352618
+

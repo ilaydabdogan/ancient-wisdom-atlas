@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0063
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.piety-interrupted-by-violence
+  motif_id: piety_interrupted_by_violence
+  label: Piety interrupted by violence
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe martyrdom, persecution, tragic interruption,
+    or a passage-specific contrast between devotion and violence.
+  cautions: Single occurrence and context-dependent; do not map to sacrifice or divine_judgment
+    unless the passage frames the violence as sacred offering, trial, or reckoning.
+  suggested_aliases:
+  - devotion_interrupted_by_violence
+  - violence_interrupts_piety
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - divine_judgment
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pirate-capture-followed-by-enslavement
+  motif_id: pirate_capture_followed_by_enslavement
+  label: Pirate capture followed by enslavement
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a specific plot event rather than a durable sacred or symbolic
+    motif in the current taxonomy.
+  cautions: If the capture initiates a transformative quest, hidden identity arc,
+    or providential rescue, it may need contextual mapping under hero_journey or divine_intervention.
+  suggested_aliases:
+  - capture_and_enslavement_by_pirates
+  - pirate_abduction_into_slavery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plea-for-reconciliation-after-betrayal
+  motif_id: plea_for_reconciliation_after_betrayal
+  label: plea for reconciliation after betrayal
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on repair or reconciliation after a broken bond, matching
+    the betrayal/violated trust complex.
+  cautions: If the plea is primarily ritual supplication, mercy, or covenant restoration,
+    secondary review against covenant may be useful.
+  suggested_aliases:
+  - reconciliation_after_betrayal
+  - betrayal_followed_by_plea_for_repair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plurality-of-souls
+  motif_id: plurality_of_souls
+  label: plurality of souls
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a broad comparative soul-anthropology concept, not clearly a
+    narrative motif from the label alone.
+  cautions: May be a scholarly classification artifact; if source passages describe
+    separable, lost, external, or multiple soul functions, map to the relevant soul
+    group instead.
+  suggested_aliases:
+  - multiple_souls
+  - many_soul_belief
+  - soul_plurality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - external_soul
+    - soul_loss_restoration
+    - afterlife_passage
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poet-rewarded-through-royal-patronage
+  motif_id: poet_rewarded_through_royal_patronage
+  label: Poet rewarded through royal patronage
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve storytelling power, royal legitimacy, sacred exchange,
+    or merely a historical-literary patronage note.
+  cautions: Single occurrence; exclude if it is biographical or literary context rather
+    than a narrative motif.
+  suggested_aliases:
+  - royal_patronage_rewards_poet
+  - poetic_reward_by_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - royal_legitimacy
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poetic-voice-of-david
+  motif_id: poetic_voice_of_david
+  label: Poetic voice of David
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to sacred song, prophetic voice, authorial persona,
+    or an intertextual allusion to David.
+  cautions: Likely depends on passage evidence; exclude if it is only attribution
+    or literary style rather than sacred song as power or wisdom.
+  suggested_aliases:
+  - davidic_poetic_voice
+  - voice_of_davidic_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - enchanting_music
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poor-lodging-before-significant-sleep
+  motif_id: poor_lodging_before_significant_sleep
+  label: Poor lodging before significant sleep
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The lodging detail appears incidental unless the sleep produces a vision,
+    otherworld contact, or transformation.
+  cautions: If sleep is prophetic or enchanted, map the passage to dream_and_vision;
+    if lodging tests hospitality, review under hospitality_test_stranger_guest.
+  suggested_aliases:
+  - humble_lodging_before_significant_sleep
+  - poor_accommodation_before_sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - hospitality_test_stranger_guest
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.possession-by-fixed-ideas
+  motif_id: possession_by_fixed_ideas
+  label: possession by fixed ideas
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is abstract and could be philosophical commentary, psychological
+    allegory, madness, or spirit possession.
+  cautions: Do not map to spirit affliction or wisdom without evidence of supernatural
+    agency or transformative knowledge.
+  suggested_aliases:
+  - obsession_by_fixed_ideas
+  - fixed_idea_possession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_judgment
+    - soul_loss_restoration
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-profits-from-engineered-starvation
+  motif_id: predator_profits_from_engineered_starvation
+  label: Predator profits from engineered starvation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A predator manipulating conditions to exploit prey fits the existing
+    predator-deception fable cluster under trickster.
+  cautions: If the passage emphasizes famine, social injustice, or divine punishment
+    rather than deception, review against divine_judgment or exclude as plot-specific.
+  suggested_aliases:
+  - predator_engineers_starvation
+  - predatory_deception_through_starvation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predatory-fiends-devour-holy-persons
+  motif_id: predatory_fiends_devour_holy_persons
+  label: predatory fiends devour holy persons
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Demonic predation on holy persons may be sacred combat, martyrdom, chaos,
+    or a passage-specific threat scene.
+  cautions: Culturally sensitive demon/fiend terminology and single occurrence require
+    source review; do not force into sacrifice unless the devouring is framed as offering
+    or transformative death.
+  suggested_aliases:
+  - demons_devour_holy_persons
+  - predatory_beings_attack_ascetics
+  - fiends_consume_saints
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - chaos
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review and do not imply transmission,
+  borrowing, or common origin.
+- Several single-occurrence labels appear over-specific or context-dependent; passage
+  evidence should determine whether they are motifs or narrative details.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch contains multiple low-confidence contextual labels requiring source
+    review before taxonomy updates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0063
+  input_sha256: 5c51cbbfbae4e0a54e325883495d26f688bba3319a87fcb6d174c415b61a01f8
+

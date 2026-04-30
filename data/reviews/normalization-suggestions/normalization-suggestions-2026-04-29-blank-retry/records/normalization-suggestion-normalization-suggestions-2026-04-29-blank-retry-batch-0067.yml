@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0067
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.pursuit-by-winged-monstrous-kin-after-a-slaying
+  motif_id: pursuit_by_winged_monstrous_kin_after_a_slaying
+  label: Pursuit by winged monstrous kin after a slaying
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A retaliatory pursuit by monstrous kin after a slaying fits heroic combat
+    aftermath better than descent or judgment.
+  cautions: Single occurrence and episode-specific; if the pursuers guard a threshold
+    or embody vengeance, threshold_guardian or restless_dead_haunting_vengeance may
+    be secondary.
+  suggested_aliases:
+  - monstrous kin pursue slayer
+  - retaliatory pursuit after monster slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pursuit-vow-requiring-immediate-bloodshed
+  motif_id: pursuit_vow_requiring_immediate_bloodshed
+  label: pursuit vow requiring immediate bloodshed
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A vow compelling immediate bloodshed during pursuit is a ritualized combat
+    obligation.
+  cautions: Could also be sacred_law or covenant if the vow itself is the focus rather
+    than martial action; source context needed.
+  suggested_aliases:
+  - bloodshed vow in pursuit
+  - combat vow requiring bloodshed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quenched-war-fire
+  motif_id: quenched_war_fire
+  label: quenched war fire
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label uses fire as an image for warfare being extinguished, which
+    aligns weakly with sacred fire symbolism.
+  cautions: May be metaphorical phrasing or commentary rather than a narrative motif;
+    exclude if no literal or sacred fire function is present.
+  suggested_aliases:
+  - war fire extinguished
+  - extinguishing the fire of war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.radiant-and-multicolored-hero-body
+  motif_id: radiant_and_multicolored_hero_body
+  label: radiant and multicolored hero body
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Radiance and color may mark heroic transformation, divine manifestation,
+    battle frenzy, or visual description.
+  cautions: Too little context to choose between divine_warrior, shapeshifter, theophany,
+    or sacred_fire; may be an over-specific descriptive detail.
+  suggested_aliases:
+  - radiant hero body
+  - multicolored heroic body
+  - luminous warrior body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.radiant-young-commander-arriving-from-the-east
+  motif_id: radiant_young_commander_arriving_from_the_east
+  label: Radiant young commander arriving from the east
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: low
+  rationale: A radiant commander figure fits the warrior/leader role if the passage
+    emphasizes sacred combat or martial leadership.
+  cautions: The eastward arrival and radiance may instead be solar, royal, or theophanic
+    imagery; single occurrence is likely too specific for a motif.
+  suggested_aliases:
+  - radiant young war leader
+  - eastern radiant commander
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-as-divine-weeping
+  motif_id: rain_as_divine_weeping
+  label: Rain as divine weeping
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Rain interpreted as divine tears centers grief projected into the natural
+    world.
+  cautions: If the emphasis is weather agency or divine intervention rather than mourning,
+    divine_intervention may be a secondary mapping.
+  suggested_aliases:
+  - divine tears as rain
+  - rain from divine mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-procuring-idol
+  motif_id: rain_procuring_idol
+  label: rain-procuring idol
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines rainmaking, ritual object, and idol language, each
+    pointing to different existing groups.
+  cautions: Culturally sensitive and context-dependent; could be divine_intervention,
+    sacred_exchange, sacred_treasures, or excluded if polemical commentary about idolatry.
+  suggested_aliases:
+  - rainmaking idol
+  - idol used to procure rain
+  - rain-procuring cult object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rapid-healing-of-an-immortal-wound
+  motif_id: rapid_healing_of_an_immortal_wound
+  label: rapid healing of an immortal wound
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural healing of a wound marks bodily restoration and death-resistant
+    transformation.
+  cautions: If the wound proves divine status rather than transformation, divine_intervention
+    or sacred_treasures may be relevant; preserve immortal-wound specificity as evidence.
+  suggested_aliases:
+  - immortal wound heals rapidly
+  - supernatural wound healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rare-noble-nature-endangered-by-corrupting-environment
+  motif_id: rare_noble_nature_endangered_by_corrupting_environment
+  label: rare noble nature endangered by corrupting environment
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as an ethical or philosophical theme rather than a clear
+    narrative motif.
+  cautions: May fit sacred_law, wisdom, royal_legitimacy, or pride_and_downfall depending
+    on evidence; exclude if it is commentary rather than passage motif.
+  suggested_aliases:
+  - noble nature threatened by corruption
+  - virtue endangered by environment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-loss-of-offspring-as-revenge
+  motif_id: reciprocal_loss_of_offspring_as_revenge
+  label: reciprocal loss of offspring as revenge
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Revenge through equivalent loss of children functions as retributive
+    moral reckoning.
+  cautions: If the focus is familial vengeance or tragic mourning rather than sacred
+    justice, lament_and_mourning or sacred_combat may be secondary.
+  suggested_aliases:
+  - offspring loss as reciprocal revenge
+  - child loss as retribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All placements are provisional; several labels are single-occurrence and may be
+  over-specific evidence notes rather than durable motif labels.
+- Avoid inferring transmission or common origin from these normalization suggestions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Batch includes context-dependent martial, weather, and ethical labels requiring
+    source review before taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0067
+  input_sha256: ed9c207a7b6e5897e99012c1ce4890e1de8a1416f5237524b14a2d092d7ff710
+

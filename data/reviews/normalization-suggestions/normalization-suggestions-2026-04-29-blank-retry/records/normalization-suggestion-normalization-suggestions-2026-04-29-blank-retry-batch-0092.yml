@@ -1,0 +1,322 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0092
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wives-revenge-against-an-abusive-husband
+  motif_id: wives_revenge_against_an_abusive_husband
+  label: wives' revenge against an abusive husband
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates domestic violence and revenge, but no existing group
+    cleanly captures this without source context.
+  cautions: Culturally sensitive and single occurrence; may be a narrative justice
+    motif, social-law motif, or over-specific episode detail.
+  suggested_aliases:
+  - abused_wives_take_revenge
+  - revenge_against_abusive_husband
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.woman-as-healer-of-wounded-warriors
+  motif_id: woman_as_healer_of_wounded_warriors
+  label: Woman as healer of wounded warriors
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Healing and Restoration
+  relationship: role_variant
+  confidence: medium
+  rationale: Female healer of injured warriors is a recurring role/function not well
+    represented by current combat or intervention groups.
+  cautions: May be an episode-specific character role unless related healing motifs
+    recur; review whether healing is supernatural, medical, or protective.
+  suggested_aliases:
+  - female_healer_of_wounded_warriors
+  - healer_of_wounded_warriors
+  suggested_new_group:
+    id: healing_restoration
+    label: Healing and Restoration
+    description: Healing, protection, or restoration of wounded, ill, spiritually
+      afflicted, or battle-injured figures through skilled, ritual, divine, or supernatural
+      aid.
+    parent_group_ids:
+    - divine_intervention
+    - death_and_transformation
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing groups include combat, death transformation,
+      and divine intervention, but lack a durable facet for healing as the central
+      narrative function.
+- suggestion_id: normalization.suggestion.woman-protects-and-heals-wounded-warriors
+  motif_id: woman_protects_and_heals_wounded_warriors
+  label: woman protects and heals wounded warriors
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Healing and Restoration
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protection and healing of wounded warriors centers on restorative aid
+    rather than combat itself.
+  cautions: If the passage emphasizes divine or otherworldly agency, divine_intervention
+    may be a secondary mapping; if it emphasizes battle honor, divine_warrior may
+    be relevant.
+  suggested_aliases:
+  - female_protector_and_healer_of_wounded_warriors
+  - protection_and_healing_of_wounded_warriors
+  suggested_new_group:
+    id: healing_restoration
+    label: Healing and Restoration
+    description: Healing, protection, or restoration of wounded, ill, spiritually
+      afflicted, or battle-injured figures through skilled, ritual, divine, or supernatural
+      aid.
+    parent_group_ids:
+    - divine_intervention
+    - death_and_transformation
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing groups can cover divine aid or battle
+      context, but not healing/restorative action as the primary motif.
+- suggestion_id: normalization.suggestion.woman-received-as-war-prize
+  motif_id: woman_received_as_war_prize
+  label: woman received as war prize
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be a war-captive episode, gendered violence motif, or social-context
+    detail rather than a symbolic motif.
+  cautions: Culturally and ethically sensitive; avoid normalizing as generic sacred
+    combat without source review. Could be too specific for pattern queries.
+  suggested_aliases:
+  - woman_as_war_prize
+  - female_captive_as_war_prize
+  - captive_woman_awarded_as_spoil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_law
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.women-marvel-at-the-beautiful-warrior-after-a-fearsome-manifestation
+  motif_id: women_marvel_at_the_beautiful_warrior_after_a_fearsome_manifestation
+  label: women marvel at the beautiful warrior after a fearsome manifestation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: low
+  rationale: The warrior's fearsome manifestation and admired beauty fit heroic/sacred
+    warrior presentation, but the wording is very episode-specific.
+  cautions: May be better preserved as evidence detail; if manifestation is supernatural
+    transformation, shapeshifter or theophany could be secondary.
+  suggested_aliases:
+  - beautiful_warrior_after_fearsome_manifestation
+  - fearsome_warrior_manifestation_admired
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wound-reading-identifies-attackers
+  motif_id: wound_reading_identifies_attackers
+  label: wound-reading identifies attackers
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: low
+  rationale: Interpreting wounds to identify attackers is a diagnostic knowledge practice,
+    though not necessarily sacred without context.
+  cautions: Could be forensic episode detail rather than mythic motif; if tied to
+    combat proof, divine_warrior or sacred_combat may be secondary.
+  suggested_aliases:
+  - wounds_reveal_attackers
+  - diagnosis_of_attackers_from_wounds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-or-bleeding-tree
+  motif_id: wounded_or_bleeding_tree
+  label: Wounded or bleeding tree
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A wounded or bleeding tree may signal a sacred or animate tree, fitting
+    the broad sacred-tree/axis field.
+  cautions: Do not assume axis mundi function unless the tree connects realms or marks
+    a sacred center; could instead involve transformation, taboo, or tree spirit evidence.
+  suggested_aliases:
+  - bleeding_tree
+  - wounded_sacred_tree
+  - animate_tree_bleeds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-warrior-requires-skilled-healer
+  motif_id: wounded_warrior_requires_skilled_healer
+  label: Wounded warrior requires skilled healer
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Healing and Restoration
+  relationship: functional_variant
+  confidence: medium
+  rationale: The central function is specialized healing of a wounded warrior, not
+    the combat itself.
+  cautions: Could remain an episode detail if the healer role is not symbolically
+    or narratively important; review whether healing is miraculous, ritual, or technical.
+  suggested_aliases:
+  - skilled_healer_required_for_wounded_warrior
+  - wounded_warrior_healed_by_specialist
+  suggested_new_group:
+    id: healing_restoration
+    label: Healing and Restoration
+    description: Healing, protection, or restoration of wounded, ill, spiritually
+      afflicted, or battle-injured figures through skilled, ritual, divine, or supernatural
+      aid.
+    parent_group_ids:
+    - divine_intervention
+    - death_and_transformation
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Current groups handle battle, divine aid,
+      and death transformation, but not healing as a repeated narrative function.
+- suggestion_id: normalization.suggestion.wrathful-sage-s-curse-threatened-after-injury
+  motif_id: wrathful_sage_s_curse_threatened_after_injury
+  label: Wrathful sage’s curse threatened after injury
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: A sage threatening a curse after injury functions as moral or sacred
+    sanction against wrongdoing.
+  cautions: If the passage emphasizes ascetic power rather than judgment, sacred_knowledge
+    or divine_intervention may be secondary; review culturally specific role of the
+    sage.
+  suggested_aliases:
+  - sage_curse_after_injury
+  - wrathful_ascetic_threatens_curse
+  - curse_as_sacred_sanction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wronged-husband-traps-adulterous-lovers-in-an-invisible-net
+  motif_id: wronged_husband_traps_adulterous_lovers_in_an_invisible_net
+  label: wronged husband traps adulterous lovers in an invisible net
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: over_specific_label
+  confidence: low
+  rationale: The scene exposes and punishes sexual wrongdoing, fitting moral reckoning
+    at a broad level.
+  cautions: Highly episode-specific and may be better as evidence detail; if the emphasis
+    is craft or binding device, sacred_craft or sacred_treasures may be secondary.
+  suggested_aliases:
+  - adulterous_lovers_trapped_in_net
+  - invisible_net_exposes_adultery
+  - wronged_spouse_exposes_lovers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, gendered, or violence-related
+  and should receive human review before broad indexing.
+- A recurring healing/restoration cluster appears across Celtic Irish and Greek wounded-warrior
+  labels; a new group candidate is suggested only provisionally.
+- Avoid treating war-captive or domestic-violence labels as generic combat motifs
+  without source-context review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for batch-0092; no taxonomy changes
+    applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0092
+  input_sha256: c543ce112e3e2fee258d3bd159cbf03e9ff410d9b17d9eb1714972eae501d3c8
+

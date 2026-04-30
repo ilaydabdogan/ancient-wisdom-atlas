@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-blank-retry.batch-0021
+gap_audit_path: tmp/normalization-blank-retry-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.desire-restrained-by-a-counterforce
+  motif_id: desire_restrained_by_a_counterforce
+  label: desire restrained by a counterforce
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Abstract ethical or psychological label; could involve self-control,
+    divine restraint, fate, love, or narrative conflict depending on evidence.
+  cautions: Single occurrence and too context-dependent to map safely from label alone.
+  suggested_aliases:
+  - restrained desire
+  - desire checked by opposing force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - divine_judgment
+    - duality
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destined-defeat-of-sorceresses-by-former-pupil
+  motif_id: destined_defeat_of_sorceresses_by_former_pupil
+  label: destined defeat of sorceresses by former pupil
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a foretold conflict and defeat of magical opponents
+    by a trained former pupil.
+  cautions: Could fit death_by_fate if destiny is primary, or initiation if the pupil-master
+    relationship is the focus; preserve sorceress detail as local evidence.
+  suggested_aliases:
+  - fated defeat of magical teachers
+  - former pupil defeats sorceresses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - initiation
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-unaware-dependents
+  motif_id: destruction_of_unaware_dependents
+  label: destruction of unaware dependents
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too abstract to distinguish moral consequence, catastrophe,
+    sacrifice, or passage-specific harm.
+  cautions: May be a contextual plot outcome rather than a reusable motif; source
+    evidence needed before grouping.
+  suggested_aliases:
+  - unaware dependents destroyed
+  - innocent dependents harmed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - death_and_transformation
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-one-horned-stag-monster
+  motif_id: destructive_one_horned_stag_monster
+  label: destructive one-horned stag monster
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: A specific monster description lacks a clear existing monster/animal-adversary
+    group in the supplied taxonomy.
+  cautions: Could fit sacred_combat if slain in ritualized combat, chaos if cosmically
+    disruptive, or threshold_guardian if guarding a boundary; do not map from creature
+    form alone.
+  suggested_aliases:
+  - one-horned stag monster
+  - destructive horned animal monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - chaos
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-overuse-of-strength-and-magic-in-assigned-labor
+  motif_id: destructive_overuse_of_strength_and_magic_in_assigned_labor
+  label: destructive overuse of strength and magic in assigned labor
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: Assigned labor performed with excessive strength or magic concerns supernatural
+    work, making, or task performance gone wrong.
+  cautions: If the passage emphasizes hubris or punishment, pride_and_downfall or
+    divine_judgment may be better secondary mappings; label is fairly episode-specific.
+  suggested_aliases:
+  - magical labor overreaches destructively
+  - destructive supernatural work
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - pride_and_downfall
+    - divine_judgment
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devotional-preservation-of-a-holy-person-s-bodily-traces
+  motif_id: devotional_preservation_of_a_holy_person_s_bodily_traces
+  label: devotional preservation of a holy person's bodily traces
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: high
+  rationale: The group already includes saintly shrine, relic devotion, and heroic
+    relics; bodily traces function as devotional relics or power objects.
+  cautions: Review cultural and source specificity carefully; if the emphasis is pilgrimage
+    site rather than trace-object, shrine/relic children may be the nearer evidence
+    labels.
+  suggested_aliases:
+  - holy bodily traces as relics
+  - devotional preservation of relic traces
+  - saintly bodily traces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - heroic_funeral_rites
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.different-beings-cross-the-same-obstacle-by-their-own-nature
+  motif_id: different_beings_cross_the_same_obstacle_by_their_own_nature
+  label: Different beings cross the same obstacle by their own nature
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads like a fable or comparative moral about innate nature rather
+    than a clear mythic motif group.
+  cautions: Could involve threshold crossing, animal fable logic, or philosophical
+    exemplum; avoid forcing into initiation without transformation evidence.
+  suggested_aliases:
+  - each being crosses by its nature
+  - natural capacities overcome obstacles differently
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - threshold_guardian
+    - duality
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.different-natures-make-the-same-human-gesture-beneficial-to-one-and-dangerous-to-another
+  motif_id: different_natures_make_the_same_human_gesture_beneficial_to_one_and_dangerous_to_another
+  label: different natures make the same human gesture beneficial to one and dangerous
+    to another
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an abstract fable-like lesson about differing natures and
+    consequences, not a stable existing motif group.
+  cautions: May be commentary or moral teaching; source context needed to decide between
+    wisdom, divine judgment, or exclusion as over-specific exemplum.
+  suggested_aliases:
+  - same gesture helps one and harms another
+  - different natures different effects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_judgment
+    - duality
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.different-reception-of-similar-behavior
+  motif_id: different_reception_of_similar_behavior
+  label: different reception of similar behavior
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording is a generalized comparative observation rather than a narrative
+    image, role, or ritual pattern.
+  cautions: If a passage gives a specific recurring scene of unequal judgment or social
+    double standard, remap under divine_judgment or sacred_law; as written it is too
+    abstract for motif queries.
+  suggested_aliases:
+  - similar behavior received differently
+  - unequal reception of like actions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.differentiated-heroic-courage
+  motif_id: differentiated_heroic_courage
+  label: differentiated heroic courage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: blank_suggested_group_retry
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The label concerns heroic martial virtue and distinctions among forms
+    of courage, fitting the heroic-warrior domain.
+  cautions: May be an ethical commentary rather than a narrative motif; if framed
+    as teaching, sacred_knowledge or sacred_law may be secondary.
+  suggested_aliases:
+  - heroic courage distinguished
+  - differing forms of warrior courage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several one-off Greek labels read as fable, ethical,
+  or comparative abstractions and need passage evidence before durable mapping.
+- No transmission or borrowing claims are implied by any placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Batch contains multiple single-occurrence, abstract labels; human review
+    should verify whether they are true motifs or commentary artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-blank-retry
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-blank-retry-batch-0021
+  input_sha256: 34f1b471b2327dddbf7d6ff4c1bd01c1730dd8bb54e6c61d47e435ed5471f5e8
+
