@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0689
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.overgrown-city-produces-war
+  motif_id: overgrown_city_produces_war
+  label: Overgrown city produces war
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is unclear: it may mean population growth, urban disorder,
+    luxury/decay, or a textual image causing conflict.'
+  cautions: Single occurrence and semantically opaque; needs passage context before
+    mapping to royal_legitimacy, divine_judgment, pride_and_downfall, or sacred_combat.
+  suggested_aliases:
+  - urban growth leading to war
+  - overgrown city as cause of conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overwhelming-beast-halts-flowing-water-by-drinking
+  motif_id: overwhelming_beast_halts_flowing_water_by_drinking
+  label: Overwhelming beast halts flowing water by drinking
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A monstrous beast altering water flow may indicate chaos, heroic ordeal,
+    sacred waters, or an episode-specific marvel.
+  cautions: Do not map to flood_and_renewal unless world/order destruction and renewal
+    are present; source context needed for beast's narrative role.
+  suggested_aliases:
+  - beast drinks river dry
+  - monstrous animal halts water flow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paradise-as-healing-of-social-enmity
+  motif_id: paradise_as_healing_of_social_enmity
+  label: paradise as healing of social enmity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a postmortem paradise condition where social hostility
+    is healed, fitting afterlife destination and transformation.
+  cautions: If the passage emphasizes ethical reconciliation in life rather than paradise,
+    sacred_law or covenant may be better secondary mappings.
+  suggested_aliases:
+  - paradise heals enmity
+  - afterlife reconciliation
+  - removal of rancor in paradise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.partial-petrification-or-marble-transformation-of-a-ruler
+  motif_id: partial_petrification_or_marble_transformation_of_a_ruler
+  label: partial petrification or marble transformation of a ruler
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Petrification is a bodily metamorphosis; the ruler status is local role
+    detail unless sovereignty is central.
+  cautions: Could also involve divine_judgment or pride_and_downfall if petrification
+    is punishment for transgression; preserve ruler specificity as evidence.
+  suggested_aliases:
+  - petrified ruler
+  - marble transformation of ruler
+  - partial stone transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.past-deed-causing-present-incapacity
+  motif_id: past_deed_causing_present_incapacity
+  label: past deed causing present incapacity
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prior action producing present incapacity fits moral consequence and
+    karmic reckoning under the judgment complex.
+  cautions: In Buddhist context this may be karmic causality rather than judgment
+    by a deity; consider a future karma/moral causation group if many examples recur.
+  suggested_aliases:
+  - karmic consequence as incapacity
+  - past action causing present disability
+  - moral consequence following action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pathos-and-honor-in-combat-between-champions
+  motif_id: pathos_and_honor_in_combat_between_champions
+  label: Pathos and honor in combat between champions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Champion combat governed by honor and tragic pathos fits the sacred or
+    ritually charged combat complex.
+  cautions: May be a literary tone rather than motif if no ritual, social-order, or
+    heroic-code function is present.
+  suggested_aliases:
+  - honorable combat between champions
+  - tragic champion combat
+  - pathos in single combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patron-fortune-of-a-city
+  motif_id: patron_fortune_of_a_city
+  label: patron fortune of a city
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A city's patron fortune resembles a civic tutelary power guiding or protecting
+    a community.
+  cautions: Could be personified Tyche/Fortuna, civic cult, or abstract prosperity;
+    review whether actual divine agency is present.
+  suggested_aliases:
+  - civic fortune
+  - city patron fortune
+  - tutelary fortune of a city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-maintained-by-elder-authority-and-internalized-restraint
+  motif_id: peace_maintained_by_elder_authority_and_internalized_restraint
+  label: Peace maintained by elder authority and internalized restraint
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns social order maintained through authority, restraint,
+    and internalized norms.
+  cautions: May be ethical or political commentary rather than mythic motif; if tied
+    to kingship or council authority, royal_legitimacy may be a secondary fit.
+  suggested_aliases:
+  - elder authority maintains peace
+  - internalized restraint preserves order
+  - peace through elder counsel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peacemaking-between-brethren-after-internal-conflict
+  motif_id: peacemaking_between_brethren_after_internal_conflict
+  label: Peacemaking between brethren after internal conflict
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reconciliation among brethren after conflict repairs a binding social
+    or sacred relationship.
+  cautions: If the focus is family rivalry rather than covenantal repair, sacred_twins/sibling_pair
+    or sacred_law may be relevant; source context needed.
+  suggested_aliases:
+  - reconciliation between brethren
+  - fraternal peacemaking
+  - restored brotherly bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecuted-prophet-opposed-by-ruler
+  motif_id: persecuted_prophet_opposed_by_ruler
+  label: Persecuted prophet opposed by ruler
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: This fits the existing prophet-call/opposition pattern under divine intervention,
+    with ruler opposition as the antagonist role.
+  cautions: May also support divine_judgment if the ruler is punished, or royal_legitimacy
+    if authority conflict is central.
+  suggested_aliases:
+  - prophet opposed by ruler
+  - persecuted prophet
+  - prophetic mission under royal opposition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for broad Pattern Explorer grouping, not
+  direct edits to taxonomy/motifs.yml.
+- Several single-occurrence labels are contextual or literary and should be checked
+  against passage evidence before canonical promotion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Human review recommended especially for opaque labels and culturally specific
+    Buddhist/Islamic moral-causality or paradise concepts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0689
+  input_sha256: 6bb443823a1f5374273ac7a6dcf8624f4bb539e93745282930e6829f09e6ffa3
+

@@ -1,0 +1,312 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0794
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.victorious-bird-army-companion
+  motif_id: victorious_bird_army_companion
+  label: victorious bird army companion
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A bird army aiding victory may be supernatural guidance or intervention,
+    but the label alone does not show whether the birds are divine, enchanted, ordinary
+    allies, or battle imagery.
+  cautions: Single occurrence; could also fit divine_warrior, sacred_combat, animal
+    helper, or local episode detail. Source context needed before indexing broadly.
+  suggested_aliases:
+  - bird army companion
+  - animal army helper
+  - supernatural bird allies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-leader-likened-to-a-freed-horse
+  motif_id: war_leader_likened_to_a_freed_horse
+  label: war leader likened to a freed horse
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a poetic simile comparing a war leader to an animal rather
+    than a recurring narrative motif.
+  cautions: If the passage assigns actual horse-bound fate, transformation, or divine
+    horse symbolism, review under sacred_combat, divine_warrior, or a future horse
+    symbolism group; otherwise preserve only as evidence detail.
+  suggested_aliases:
+  - warrior horse simile
+  - leader compared to freed horse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-over-a-valued-animal-or-herd
+  motif_id: war_over_a_valued_animal_or_herd
+  label: war over a valued animal or herd
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A conflict centered on a valued animal or herd aligns with cattle-raid
+    and wealth-contest patterns already grouped under sacred_combat.
+  cautions: Do not reduce all animal-related conflict to animal symbolism; the main
+    function appears to be war over wealth/status. If the animal is itself supernatural,
+    a secondary animal or sacred_treasures review may be needed.
+  suggested_aliases:
+  - war over herd
+  - conflict over valued animal
+  - cattle raid conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-and-war-horse-bound-in-shared-fate
+  motif_id: warrior_and_war_horse_bound_in_shared_fate
+  label: warrior and war-horse bound in shared fate
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: low
+  rationale: The label emphasizes shared fate, which may belong with destiny-bound
+    death rather than general animal transformation.
+  cautions: Could instead be heroic-warrior memorialization, sacred_combat, or poetic
+    companionship if no supernatural fate is present. Needs source evidence.
+  suggested_aliases:
+  - shared fate of warrior and horse
+  - war-horse fate bond
+  - hero and horse bound by destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-compared-to-natural-force-or-dangerous-animal
+  motif_id: warrior_compared_to_natural_force_or_dangerous_animal
+  label: Warrior compared to natural force or dangerous animal
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be figurative battle description rather than a narrative
+    motif involving an animal, transformation, or sacred combat structure.
+  cautions: If the comparison is part of a stable heroic epithet or ritualized warrior-animal
+    identity, review under divine_warrior or sacred_combat; otherwise keep as literary
+    evidence only.
+  suggested_aliases:
+  - warrior animal simile
+  - warrior compared to storm or beast
+  - dangerous-animal warrior imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-s-funeral-pyre-with-weapons-horse-and-companions
+  motif_id: warrior_s_funeral_pyre_with_weapons_horse_and_companions
+  label: Warrior's funeral pyre with weapons, horse, and companions
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif is primarily a heroic funeral rite involving grave goods, animals,
+    and companions, matching the existing heroic_funeral_rites group.
+  cautions: Animal sacrifice or afterlife provisioning may be secondary, but the central
+    placement should not be under animal transformation.
+  suggested_aliases:
+  - warrior funeral pyre with horse
+  - heroic pyre with weapons and companions
+  - funeral rites for warrior with horse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warriors-arising-from-dragon-s-teeth-or-earth
+  motif_id: warriors_arising_from_dragon_s_teeth_or_earth
+  label: Warriors arising from dragon's teeth or earth
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Warriors generated from dragon teeth or earth are an extraordinary birth/generation
+    pattern, but current groups do not cleanly cover autochthonous or monstrous-seed
+    warriors.
+  cautions: Could fit cosmic_origin, serpent_guardian, divine_warrior, or a distinct
+    autochthonous generation motif depending on passage emphasis. Human review recommended
+    before creating a new group.
+  suggested_aliases:
+  - earth-born warriors
+  - dragon-teeth warriors
+  - autochthonous armed men
+  suggested_new_group:
+    id: autochthonous_generation
+    label: Autochthonous and Earth-Born Generation
+    description: Figures, peoples, or warriors arise directly from earth, planted
+      teeth, stones, blood, or other nonordinary generative substances, often establishing
+      lineage, conflict, or sacred origin.
+    parent_group_ids:
+    - cosmic_origin
+    - miraculous_child
+    related_group_ids:
+    - serpent_guardian
+    - divine_warrior
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing birth and origin groups cover sacred
+      children and cosmic creation, but not recurring generation of peoples or warriors
+      from earth or planted substances.
+- suggestion_id: normalization.suggestion.warriors-carried-away-by-a-strange-horse
+  motif_id: warriors_carried_away_by_a_strange_horse
+  label: warriors carried away by a strange horse
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: low
+  rationale: A strange horse carrying warriors away may signal otherworld abduction
+    or enchanted transport, but the label lacks destination and function.
+  cautions: Could be a magical animal mount, threshold lure, death fate, or passage-specific
+    plot detail. Needs evidence about whether the horse is supernatural and where
+    the warriors are taken.
+  suggested_aliases:
+  - strange horse abduction
+  - enchanted horse carries warriors away
+  - supernatural horse transport
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weak-seeming-animal-frightens-predator-by-sound
+  motif_id: weak_seeming_animal_frightens_predator_by_sound
+  label: weak-seeming animal frightens predator by sound
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weaker animal surviving by frightening a predator through sound fits
+    animal trickery and reversal of expected power.
+  cautions: May be fable logic rather than mythic motif; if the animal does not deceive
+    or strategize, this may be only an episode detail.
+  suggested_aliases:
+  - weak animal frightens predator
+  - small animal scares stronger animal
+  - animal trickery by sound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-resistant-animal-adversary
+  motif_id: weapon_resistant_animal_adversary
+  label: weapon-resistant animal adversary
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: low
+  rationale: An animal adversary resistant to weapons may function as a monster or
+    guardian ordeal, but the label does not identify a threshold or sacred combat
+    role.
+  cautions: Could instead belong under sacred_combat, divine_warrior, shapeshifter,
+    or a future monstrous adversary group. Verify whether it is supernatural, invulnerable,
+    or merely hard to kill.
+  suggested_aliases:
+  - invulnerable animal adversary
+  - weapon-proof beast
+  - animal foe resistant to weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch were routed to the animal bucket but function primarily
+  as battle, funeral, fate, or poetic-comparison labels rather than animal-transformation
+  motifs.
+- Labels with single occurrences and simile-like wording should usually remain evidence
+  details unless source review shows recurring mythic structure.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional machine suggestions; source passages should be checked especially
+    for horse, bird, and dragon-teeth items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0794
+  input_sha256: fe4a6c28b785189c297e0cb9af879a6a03ee0fc7f284b0708ba6ca9a9fe78196
+

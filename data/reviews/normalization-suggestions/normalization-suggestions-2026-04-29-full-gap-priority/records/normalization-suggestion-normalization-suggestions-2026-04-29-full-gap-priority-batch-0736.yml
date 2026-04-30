@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0736
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.orphaned-wanderer-s-lament
+  motif_id: orphaned_wanderer_s_lament
+  label: Orphaned wanderer’s lament
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core label is lament over orphaned wandering, fitting grief and loss
+    more than journey structure alone.
+  cautions: Single occurrence; if the passage emphasizes exile or quest transformation,
+    hero_journey may be a secondary fit.
+  suggested_aliases:
+  - orphan lament
+  - wanderer lament
+  - exile lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paradisal-encampment-detains-travelers
+  motif_id: paradisal_encampment_detains_travelers
+  label: Paradisal encampment detains travelers
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A paradisal place that detains travelers resembles an alluring otherworld
+    sojourn or enchanted delay.
+  cautions: Needs source context; if the encampment is a moral test or divine intervention
+    rather than an otherworld, placement may change.
+  suggested_aliases:
+  - enchanted detention of travelers
+  - paradisal sojourn
+  - otherworldly delay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parental-blessing-before-departure
+  motif_id: parental_blessing_before_departure
+  label: parental blessing before departure
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: narrower_than
+  confidence: medium
+  rationale: The blessing marks a departure scene within a journey or quest arc.
+  cautions: May be too episode-specific unless it recurs; if the blessing confers
+    sacred authority, royal_legitimacy or divine_intervention may be relevant.
+  suggested_aliases:
+  - blessing before departure
+  - departure blessing
+  - parental sanction for journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.partnership-of-unequal-animals-in-a-hunt
+  motif_id: partnership_of_unequal_animals_in_a_hunt
+  label: partnership of unequal animals in a hunt
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests an animal-fable or hunting episode, but no current
+    group cleanly covers unequal animal partnership.
+  cautions: Could be a passage-specific narrative detail, animal trickster strategy,
+    or etiological fable; source evidence is needed before grouping.
+  suggested_aliases:
+  - unequal animal hunting partnership
+  - animal partners in hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passage-through-dark-caverns-to-emergence
+  motif_id: passage_through_dark_caverns_to_emergence
+  label: Passage through dark caverns to emergence
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: Movement through dark caverns followed by emergence fits cave-as-descent
+    and transformative passage imagery.
+  cautions: Do not infer resurrection unless death or renewal is explicit; may also
+    support initiation if the passage is an ordeal.
+  suggested_aliases:
+  - cavern passage to emergence
+  - dark cave descent
+  - passage through caverns
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patronage-request-encoded-in-poetic-indirection
+  motif_id: patronage_request_encoded_in_poetic_indirection
+  label: patronage request encoded in poetic indirection
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a rhetorical or literary-pragmatic feature of a poem rather
+    than a mythic motif.
+  cautions: If the poem itself makes indirect speech a sacred teaching device, storytelling_as_power
+    or sacred_knowledge could be reconsidered.
+  suggested_aliases:
+  - indirect patronage request
+  - poetic patronage appeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peaceful-foreign-arrival-by-sea
+  motif_id: peaceful_foreign_arrival_by_sea
+  label: Peaceful foreign arrival by sea
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Arrival by sea may be a migration, otherworld arrival, culture-hero episode,
+    or simple plot setting.
+  cautions: Avoid mapping to flood, otherworld, or divine race without evidence that
+    the arrivals are sacred, enchanted, or socially founding.
+  suggested_aliases:
+  - foreign arrival by sea
+  - peaceful seaborne arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - divine_race
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.penitential-purification-after-misdirected-worship
+  motif_id: penitential_purification_after_misdirected_worship
+  label: penitential purification after misdirected worship
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on correction and purification after religious error,
+    fitting moral reckoning and repair.
+  cautions: Could also map to sacrifice, sacred_exchange, or mystical_quest if the
+    passage emphasizes renunciation or inner purification rather than judgment.
+  suggested_aliases:
+  - purification after false worship
+  - penitential purification
+  - repentance after misdirected worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perilous-passage-passable-only-by-woman-s-help
+  motif_id: perilous_passage_passable_only_by_woman_s_help
+  label: Perilous passage passable only by woman's help
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns a dangerous threshold that requires a particular helper
+    or mediator to cross.
+  cautions: If the woman is primarily a beloved, sovereignty figure, or otherworld
+    guide, sacred_love, royal_legitimacy, or otherworld may be relevant secondary
+    mappings.
+  suggested_aliases:
+  - woman-assisted perilous passage
+  - female helper at threshold
+  - passage requiring woman's aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecuted-innocent-princess-exiled-by-stepmother
+  motif_id: persecuted_innocent_princess_exiled_by_stepmother
+  label: persecuted innocent princess exiled by stepmother
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: narrower_than
+  confidence: medium
+  rationale: Exile of an innocent royal figure can initiate a departure-and-trial
+    journey arc.
+  cautions: Highly folktale-specific; if the passage focuses on family persecution,
+    gendered kinship conflict, or royal succession, a new folktale/family conflict
+    group may eventually be needed.
+  suggested_aliases:
+  - exiled innocent princess
+  - stepmother persecution and exile
+  - persecuted royal exile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All placements are provisional; several single-occurrence journey labels may be
+  episode details rather than durable motifs.
+- Do not infer historical contact or shared origin from these normalization suggestions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Batch 0736 drafted with preference for existing normalization groups; ambiguous
+    travel and animal-fable labels flagged for review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0736
+  input_sha256: 04f64e81898a97df8e3b040940807fadf55a39c8b038250c9aec6f8a361887a5
+

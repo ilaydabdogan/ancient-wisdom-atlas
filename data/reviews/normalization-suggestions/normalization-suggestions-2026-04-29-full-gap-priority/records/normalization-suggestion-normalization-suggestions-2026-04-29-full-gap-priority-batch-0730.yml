@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0730
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.journey-prohibition-with-threatened-misfortune
+  motif_id: journey_prohibition_with_threatened_misfortune
+  label: Journey prohibition with threatened misfortune
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: A journey prohibition may function as a threshold taboo or quest constraint,
+    but the label does not show transformation, departure, or return.
+  cautions: Single occurrence; could instead be sacred law, taboo, omen, or passage-specific
+    plot detail depending on source evidence.
+  suggested_aliases:
+  - journey taboo
+  - travel prohibition with threatened misfortune
+  - quest prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.journey-through-fertile-wild-landscape
+  motif_id: journey_through_fertile_wild_landscape
+  label: journey through fertile wild landscape
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a travel setting rather than a clear mythic function,
+    though it may belong to a quest or exile sequence.
+  cautions: Do not map solely from landscape imagery; if the fertile wild landscape
+    is sacred or otherworldly, otherworld or nature-focused grouping may be better.
+  suggested_aliases:
+  - fertile wilderness journey
+  - journey through wild landscape
+  - forest journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.journey-toward-mountain-cairn
+  motif_id: journey_toward_mountain_cairn
+  label: journey toward mountain cairn
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A journey toward a mountain cairn likely centers on a charged mountain
+    or boundary marker, fitting sacred center or mountain-as-threshold imagery.
+  cautions: If the cairn is merely a waypoint or burial marker, preserve as evidence
+    detail or review under heroic funeral rites rather than axis_mundi.
+  suggested_aliases:
+  - journey to mountain cairn
+  - cairn as sacred destination
+  - mountain cairn approach
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.just-stewardship-and-equitable-judgment
+  motif_id: just_stewardship_and_equitable_judgment
+  label: just stewardship and equitable judgment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns righteous governance and fair judgment, aligning with
+    sacred law and social order more than journey structure.
+  cautions: Could also map to royal_legitimacy if the actor is a ruler, or divine_judgment
+    if judgment is explicitly divine.
+  suggested_aliases:
+  - equitable judgment
+  - just stewardship
+  - righteous governance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-and-fosterage-restraining-battlefield-violence
+  motif_id: kinship_and_fosterage_restraining_battlefield_violence
+  label: Kinship and fosterage restraining battlefield violence
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif occurs in a battlefield context and describes social bonds
+    limiting combat behavior.
+  cautions: Kinship/fosterage obligations are not well represented in current groups;
+    if many recur, consider a social-kinship obligation group.
+  suggested_aliases:
+  - fosterage restrains combat
+  - kinship restrains battlefield violence
+  - social bonds limit combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-between-humans-and-nature
+  motif_id: kinship_between_humans_and_nature
+  label: kinship between humans and nature
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a broad relational cosmology not cleanly covered by existing
+    journey, nature, or ancestor groups.
+  cautions: Culturally sensitive; source context is needed to avoid flattening Indigenous
+    Australian kinship, Country, ancestral, and ecological relations into a generic
+    motif.
+  suggested_aliases:
+  - human-nature kinship
+  - kinship with Country
+  - ecological kinship
+  suggested_new_group:
+    id: human_nature_kinship
+    label: Human-Nature Kinship and Relational Ecology
+    description: Humans, animals, plants, landforms, or places are related through
+      kinship, ancestry, obligation, or reciprocal care within a sacred or cosmological
+      order.
+    parent_group_ids:
+    - sacred_law
+    - ancestor_rites
+    related_group_ids:
+    - cosmic_origin
+    - otherworld
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover sacred law, exchange,
+      ancestry, and nature imagery, but none clearly preserve kinship-based relations
+      between humans and the natural world.
+- suggestion_id: normalization.suggestion.kinship-boundaries-regulating-marriage
+  motif_id: kinship_boundaries_regulating_marriage
+  label: kinship boundaries regulating marriage
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Marriage regulation by kinship boundaries is a social-order and sacred-law
+    pattern.
+  cautions: If the passage emphasizes alliance, sacred marriage, or household ethics
+    rather than law, a secondary mapping may be needed.
+  suggested_aliases:
+  - marriage kinship boundaries
+  - kinship marriage regulation
+  - marriage law by kinship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-loyalty-opposed-to-heroic-honour
+  motif_id: kinship_loyalty_opposed_to_heroic_honour
+  label: kinship loyalty opposed to heroic honour
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif frames conflict between kinship loyalty and warrior honor,
+    fitting heroic combat ethics.
+  cautions: Could belong to a future kinship-obligation group if these social-duty
+    conflicts recur across traditions.
+  suggested_aliases:
+  - kinship versus heroic honor
+  - family loyalty against warrior honor
+  - kinship duty conflicts with combat honor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-obligation-constraining-punishment
+  motif_id: kinship_obligation_constraining_punishment
+  label: kinship obligation constraining punishment
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kinship obligations limiting punishment belong with social order, legal
+    constraint, and ethical obligation.
+  cautions: If punishment is divine or fated, divine_judgment may be a better primary
+    group; if purely narrative, may be over-specific.
+  suggested_aliases:
+  - kinship limits punishment
+  - family obligation constrains justice
+  - kinship duty moderates punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-replaces-estrangement-among-guardians
+  motif_id: kinship_replaces_estrangement_among_guardians
+  label: Kinship replaces estrangement among guardians
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: The mention of guardians suggests a threshold-guardian context, but the
+    core action is social reconciliation through kinship.
+  cautions: Likely contextual and episode-specific; verify whether the guardians are
+    liminal figures, family members, or merely plot actors before mapping.
+  suggested_aliases:
+  - kinship reconciles guardians
+  - estranged guardians become kin
+  - guardian reconciliation through kinship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are social-kinship obligations rather than journey
+  motifs; sacred_law and sacred_combat are provisional best fits.
+- Consider whether recurring kinship-obligation labels warrant a future canonical
+  group, especially for fosterage, marriage boundaries, and kinship constraints on
+  violence or punishment.
+- Treat single-occurrence journey-setting labels cautiously; many may be evidence
+  details rather than queryable motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages needed for low-confidence
+    journey and kinship items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0730
+  input_sha256: fe2149c7f67096477878de86353b6bc81d19bba5f860b7ce92273293cd73a4fa
+

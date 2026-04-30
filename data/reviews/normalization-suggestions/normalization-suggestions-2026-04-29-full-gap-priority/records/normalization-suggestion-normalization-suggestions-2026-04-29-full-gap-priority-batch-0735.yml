@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0735
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.nighttime-departure-followed-by-suspicious-spouse
+  motif_id: nighttime_departure_followed_by_suspicious_spouse
+  label: nighttime departure followed by suspicious spouse
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: The departure element fits journey structure, but the suspicious spouse
+    makes this look like a specific plot episode rather than a broad motif.
+  cautions: Needs source context; may be domestic intrigue, pursuit, disguise, or
+    passage-specific narrative detail.
+  suggested_aliases:
+  - secret nighttime departure
+  - spouse suspects nocturnal departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nocturnal-celestial-chariot-passage
+  motif_id: nocturnal_celestial_chariot_passage
+  label: nocturnal celestial chariot passage
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: ascent
+  suggested_group_label: Ascent and Heavenly Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A celestial chariot passage suggests heavenly or cosmic transit, especially
+    if it moves through the sky or divine realm.
+  cautions: If it is merely a vehicle detail or astronomical image, preserve as evidence
+    rather than treating as an ascent journey.
+  suggested_aliases:
+  - celestial chariot journey
+  - night sky chariot passage
+  - heavenly chariot transit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oath-and-friendship-invoked-to-avert-combat
+  motif_id: oath_and_friendship_invoked_to_avert_combat
+  label: oath and friendship invoked to avert combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Oaths and friendship bonds function as binding obligations used to regulate
+    conflict and restore social order.
+  cautions: Could also belong with sacred_combat if the passage emphasizes ritual
+    warfare more than binding obligation.
+  suggested_aliases:
+  - friendship oath averts combat
+  - oath invoked against battle
+  - bond of friendship restrains violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obstacle-crossing-by-improvised-materials
+  motif_id: obstacle_crossing_by_improvised_materials
+  label: Obstacle crossing by improvised materials
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: Crossing an obstacle can be a journey ordeal, but improvised materials
+    may be a practical episode detail.
+  cautions: Do not map to initiation unless the crossing changes status or opens access
+    to a charged realm.
+  suggested_aliases:
+  - improvised obstacle crossing
+  - makeshift passage over obstacle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obstructed-sacred-journey-and-deferred-temple-entry
+  motif_id: obstructed_sacred_journey_and_deferred_temple_entry
+  label: obstructed sacred journey and deferred temple entry
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A blocked sacred journey and delayed entry into a holy site fit a journey
+    ordeal with deferred completion.
+  cautions: May also involve covenant, sacred law, or pilgrimage-specific ritual history;
+    human review should verify whether it is narrative motif or historical event label.
+  suggested_aliases:
+  - deferred temple entry
+  - blocked pilgrimage journey
+  - obstructed sacred travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.olympian-fellowship-of-arts-and-refinement
+  motif_id: olympian_fellowship_of_arts_and_refinement
+  label: Olympian fellowship of arts and refinement
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: Arts and refinement may belong with sacred knowledge or divine culture,
+    but the label does not show a journey function.
+  cautions: Possibly a descriptive tag for a divine social scene rather than a reusable
+    motif; consider culture_hero only if arts are bestowed on humans.
+  suggested_aliases:
+  - divine fellowship of the arts
+  - Olympian arts and refinement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-arrival-bringing-woe-to-a-watcher
+  motif_id: ominous_arrival_bringing_woe_to_a_watcher
+  label: ominous arrival bringing woe to a watcher
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: An ominous arrival perceived by a watcher functions as a sign or forewarning
+    of disaster.
+  cautions: If the key feature is actual hostile arrival rather than omen-perception,
+    sacred_combat or divine_judgment may be more appropriate.
+  suggested_aliases:
+  - ominous arrival omen
+  - watcher sees woe approaching
+  - foreboding arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-hunger-prophecy-recalled-during-journey
+  motif_id: ominous_hunger_prophecy_recalled_during_journey
+  label: ominous hunger prophecy recalled during journey
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A recalled prophecy that interprets events during travel fits omen or
+    prophetic knowledge guiding a journey.
+  cautions: May be too episode-specific; if the hunger marks settlement destiny or
+    founding, culture_hero or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - hunger prophecy during journey
+  - prophecy recalled on journey
+  - ominous journey prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-eyed-wanderers-with-separate-marvelous-histories
+  motif_id: one_eyed_wanderers_with_separate_marvelous_histories
+  label: one-eyed wanderers with separate marvelous histories
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: over_specific_label
+  confidence: low
+  rationale: Multiple wanderers recounting marvelous histories may fit frame-story
+    or narrative transmission patterns, but one-eyed identity may be a local episode
+    detail.
+  cautions: Could involve punishment, transformation, disability marker, or travel
+    tale structure; source evidence is needed before mapping.
+  suggested_aliases:
+  - one-eyed wanderers tell histories
+  - marvelous histories of wanderers
+  - marked wanderers with separate tales
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oracle-directed-healing-quest
+  motif_id: oracle_directed_healing_quest
+  label: oracle-directed healing quest
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A quest initiated or directed by an oracle fits a journey undertaken
+    under sacred guidance toward healing.
+  cautions: Also relates to sacred_knowledge or divine_intervention if oracle instruction
+    is more central than the journey itself.
+  suggested_aliases:
+  - oracular healing quest
+  - oracle-guided quest for healing
+  - divinely directed healing journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence journey labels; several appear over-specific
+  and should be checked against passage evidence before permanent indexing.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional suggestions generated for taxonomy review; human reviewer should
+    verify context for over-specific journey episodes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0735
+  input_sha256: 0ee8c6004352989924b029756f80b48144113bb25ba2552adbfb7ebc3914391b
+

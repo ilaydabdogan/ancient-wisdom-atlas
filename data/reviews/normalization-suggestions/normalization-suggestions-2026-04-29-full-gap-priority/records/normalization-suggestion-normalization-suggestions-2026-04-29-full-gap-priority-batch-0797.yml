@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0797
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.angelic-mediation-of-revelation
+  motif_id: angelic_mediation_of_revelation
+  label: angelic mediation of revelation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: high
+  rationale: The label describes revelation transmitted through an angelic intermediary,
+    fitting sacred knowledge acquisition and transmission.
+  cautions: May also index under theophany or divine_intervention if the passage emphasizes
+    the angelic appearance or agency more than the revealed content.
+  suggested_aliases:
+  - angelic revelation
+  - angelic messenger of revelation
+  - revelation mediated by angel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-vision-authorizing-a-mission
+  motif_id: angelic_vision_authorizing_a_mission
+  label: angelic vision authorizing a mission
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An angelic vision that commissions a mission is direct sacred guidance
+    in human affairs.
+  cautions: Could also map to dream_and_vision, theophany, or initiation/divine_call
+    depending on whether the passage stresses vision, manifestation, or commissioning
+    ordeal.
+  suggested_aliases:
+  - angelic commissioning vision
+  - vision authorizing mission
+  - angelic mission call
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-associated-with-prophecy
+  motif_id: animal_associated_with_prophecy
+  label: animal associated with prophecy
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A prophetic animal functions as an omen or sign conveying foreknowledge.
+  cautions: If the animal actively speaks or guides, sacred_knowledge or divine_intervention
+    may be better; if it is merely an attribute of a deity, it may be too contextual.
+  suggested_aliases:
+  - prophetic animal
+  - animal omen
+  - animal as prophetic sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-counselor-directs-vengeance
+  motif_id: animal_counselor_directs_vengeance
+  label: Animal counselor directs vengeance
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: An animal counselor may function as supernatural guidance, but the vengeance
+    function also points toward conflict or judgment motifs.
+  cautions: Source context is needed to know whether the animal is a helper, tutelary
+    spirit, trickster, prophetic speaker, or ordinary folktale adviser; vengeance
+    may be too episode-specific.
+  suggested_aliases:
+  - animal adviser of vengeance
+  - animal counselor
+  - vengeance-directed by animal helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-flight-by-holding-a-stick-lost-through-speech
+  motif_id: animal_flight_by_holding_a_stick_lost_through_speech
+  label: Animal flight by holding a stick, lost through speech
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a highly specific fable episode about failed restraint in
+    speech rather than a broad atlas motif.
+  cautions: If retained, it may be evidence for ethical speech teaching under sacred_knowledge,
+    but should not be promoted without recurrence.
+  suggested_aliases:
+  - loss of flight through speech
+  - speech breaks animal flight
+  - fable of restraint in speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-host-as-possible-memory-of-human-tribe
+  motif_id: animal_host_as_possible_memory_of_human_tribe
+  label: Animal host as possible memory of human tribe
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'possible memory' signals scholarly interpretation about ethnographic
+    or historical origin, not a narrative motif.
+  cautions: Do not use this as evidence of transmission or historicized identity;
+    if a passage describes an actual animal host, review separately under animals,
+    divine_intervention, or sacred_combat.
+  suggested_aliases:
+  - animal host as tribal memory
+  - possible memory of human tribe
+  - historicized animal host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-morally-transformed-by-human-speech
+  motif_id: animal_morally_transformed_by_human_speech
+  label: animal morally transformed by human speech
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transformative moral instruction through speech fits wisdom teaching
+    and sacred knowledge transmission.
+  cautions: Could warrant a future animal-helper or moral-fable group if many such
+    labels recur; do not map to shapeshifter unless bodily form changes.
+  suggested_aliases:
+  - moral transformation by speech
+  - animal converted by teaching
+  - human speech reforms animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-name-origin-and-ant-like-people
+  motif_id: animal_name_origin_and_ant_like_people
+  label: animal-name origin and ant-like people
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to combine etiology of a name with a people imagined as
+    animal-like, which is not cleanly covered by current groups.
+  cautions: May be an ethnonym etiology, transformation story, culture-origin myth,
+    or commentary artifact; source evidence is needed before grouping.
+  suggested_aliases:
+  - animal-name etiology
+  - ant-like people
+  - ethnonym from animal association
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-name-origin-from-figures-disappearance-or-memory
+  motif_id: animal_name_origin_from_figures_disappearance_or_memory
+  label: animal-name origin from figures' disappearance or memory
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a naming or memory etiology tied to disappearance,
+    but the narrative function is unclear.
+  cautions: Culturally sensitive Indigenous Australian source context should be reviewed;
+    could involve ancestor memory, transformation, totemic naming, or place/name etiology.
+  suggested_aliases:
+  - animal-name origin from disappearance
+  - animal-name memorial etiology
+  - name origin through remembered figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-named-totem-clans
+  motif_id: animal_named_totem_clans
+  label: Animal-named totem clans
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Totemic Ancestors and Clan Identity
+  relationship: narrower_than
+  confidence: medium
+  rationale: Animal-named totem clans concern social identity organized through animal
+    affiliation, not well captured by existing animal, sacred law, or ancestor groups.
+  cautions: Comparative and culturally sensitive; avoid flattening distinct totemic
+    systems. Human review should decide whether this is motif evidence or ethnographic
+    classification.
+  suggested_aliases:
+  - animal totem clans
+  - totemic clan names
+  - animal-named clans
+  suggested_new_group:
+    id: totemic_ancestors_clan_identity
+    label: Totemic Ancestors and Clan Identity
+    description: Animal, plant, spirit, or ancestral affiliations that name, organize,
+      protect, or define clans, lineages, or social groups through totemic identity.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - ancestor_rites
+    - shapeshifter
+    - sacred_treasures
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover ancestor rites, transformation,
+      sacred objects, and law, but not durable clan identity structured by totemic
+      affiliation.
+batch_notes:
+- Several items in this batch are animal-and-speech or animal-and-prophecy labels;
+  source review should distinguish fable ethics, omen systems, supernatural animal
+  helpers, and ethnographic/totemic classification.
+- No transmission or historical-origin claim is implied by any suggested placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; culturally sensitive totemic and Indigenous
+    naming labels require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0797
+  input_sha256: fa2958895ab81000bceb48987b4ceed63d39ac46afcb1edaa53a97820dd3b92a
+

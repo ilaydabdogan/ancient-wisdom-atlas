@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0750
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.totemic-kinship-with-animal-species
+  motif_id: totemic_kinship_with_animal_species
+  label: totemic kinship with animal species
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Totemic animal kinship is not well covered by existing animal, ancestor,
+    or shapeshifter groups without losing social-ritual meaning.
+  cautions: Comparative and culturally sensitive label; needs source evidence before
+    creating an animal-ancestor or totemic-kinship group.
+  suggested_aliases:
+  - animal kinship
+  - totemic animal ancestor
+  - human-animal clan relation
+  suggested_new_group:
+    id: animal_ancestor_totemism
+    label: Animal Ancestor and Totemic Kinship
+    description: Kinship, ancestry, clan identity, taboo, or reciprocal relation understood
+      through an animal species or totemic being.
+    parent_group_ids:
+    - sacred_law
+    - shapeshifter
+    related_group_ids:
+    - ancestor_rites
+    - culture_hero
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups cover transformation, spirit
+      agency, and animal taboos, but not durable kinship or clan identity with an
+      animal species.
+- suggestion_id: normalization.suggestion.traveling-fable-tradition
+  motif_id: traveling_fable_tradition
+  label: Traveling fable tradition
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes transmission or genre history rather than a narrative
+    motif within a passage.
+  cautions: Do not use as evidence of borrowing or contact in motif queries; preserve
+    as provenance or scholarly note if needed.
+  suggested_aliases:
+  - traveling fable motif tradition
+  - fable transmission tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-used-as-emergency-crossing-from-flood
+  motif_id: tree_used_as_emergency_crossing_from_flood
+  label: tree used as emergency crossing from flood
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: The tree functions as an emergency means of passage across floodwaters,
+    fitting water as dangerous boundary and transformative crossing.
+  cautions: If the flood destroys an old order and enables renewal, also review under
+    flood_and_renewal; if the tree is cosmological, axis_mundi may be secondary.
+  suggested_aliases:
+  - tree bridge over flood
+  - emergency flood crossing
+  - tree as water crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triadic-arrival-of-richly-armed-messengers
+  motif_id: triadic_arrival_of_richly_armed_messengers
+  label: triadic arrival of richly armed messengers
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines number symbolism, arrival, weapons, and messenger
+    role, but the narrative function is unclear.
+  cautions: May be an episode-specific detail, a sovereignty embassy, a threshold
+    encounter, or a combat signal; source context needed before mapping.
+  suggested_aliases:
+  - three armed messengers arrive
+  - armed messengers in triad
+  - triadic embassy arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triadic-capitol-worship
+  motif_id: triadic_capitol_worship
+  label: Triadic Capitol worship
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to refer to cultic worship of a triad rather than a
+    journey motif, but its symbolic function is unclear.
+  cautions: Could be a local Roman cult detail, place-specific artifact, or divine
+    triad pattern; avoid mapping without passage evidence.
+  suggested_aliases:
+  - Capitoline triad worship
+  - triadic worship
+  - worship of divine triad
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triple-form-crossroads-goddess
+  motif_id: triple_form_crossroads_goddess
+  label: triple-form crossroads goddess
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: A crossroads goddess in triple form functions as a liminal divine figure
+    associated with thresholds and passage.
+  cautions: If the passage emphasizes divine feminine power over boundary function,
+    mother_goddess may be a secondary mapping; if it is only an epithet, review as
+    place/cult detail.
+  suggested_aliases:
+  - triform crossroads goddess
+  - triple goddess at crossroads
+  - liminal crossroads goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unheeded-request-leads-to-punishment
+  motif_id: unheeded_request_leads_to_punishment
+  label: unheeded request leads to punishment
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Punishment following a refused or ignored request fits a moral consequence
+    and judgment pattern when sacred authority is involved.
+  cautions: If no divine or moral authority is present, this may be a generic plot
+    consequence rather than a motif.
+  suggested_aliases:
+  - ignored plea punished
+  - refused request punished
+  - punishment for unheeded appeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uninvited-arrival-at-a-feast
+  motif_id: uninvited_arrival_at_a_feast
+  label: uninvited arrival at a feast
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An uninvited arrival may signal hospitality violation, divine test, conflict
+    trigger, or narrative intrusion depending on context.
+  cautions: Do not map to sacred_exchange unless hospitality obligation is explicit;
+    may be too episode-specific without recurring function.
+  suggested_aliases:
+  - unbidden feast guest
+  - uninvited banquet arrival
+  - intruder at feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-cosmic-worship
+  motif_id: universal_cosmic_worship
+  label: Universal cosmic worship
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Universal worship by the cosmos frames creation as ordered toward sacred
+    praise and cosmic relation to the divine.
+  cautions: If the passage centers on liturgy or divine sovereignty rather than creation
+    order, sacred_exchange or supreme_ruler may be secondary candidates.
+  suggested_aliases:
+  - cosmic praise
+  - all creation worships
+  - universal worship by cosmos
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-worship-of-the-creator
+  motif_id: universal_worship_of_the_creator
+  label: Universal worship of the creator
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label expresses the created order oriented toward worship of the
+    Creator, fitting cosmic creation theology.
+  cautions: May also relate to supreme_ruler if divine sovereignty is central; avoid
+    treating broad worship language as a journey motif.
+  suggested_aliases:
+  - all beings worship the creator
+  - creation worships creator
+  - universal praise of creator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch appear misbucketed under journey_quest_homecoming; suggested
+  placements prioritize motif function rather than bucket label.
+- Single-occurrence and cult/place-specific labels should remain provisional until
+  source passages confirm recurring symbolic or narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft machine suggestions; human review needed especially for totemic kinship,
+    triadic cult labels, and feast-arrival context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0750
+  input_sha256: b491068242f7bfea26f8af988374efceb278375e9bc7122c47a6ab203cc49702
+

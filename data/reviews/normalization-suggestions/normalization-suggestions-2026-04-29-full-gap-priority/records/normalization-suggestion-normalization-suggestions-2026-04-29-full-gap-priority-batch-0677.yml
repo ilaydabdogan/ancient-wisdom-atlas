@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0677
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hierarchy-of-makers
+  motif_id: hierarchy_of_makers
+  label: hierarchy of makers
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could refer to divine/cosmic creators, artisan hierarchy, philosophical
+    causation, or social ranking of makers; label alone is too ambiguous.
+  cautions: Single occurrence; source context needed before mapping to cosmic_origin,
+    sacred_craft, royal_legitimacy, or sacred_law.
+  suggested_aliases:
+  - ranked makers
+  - ordered hierarchy of creators
+  - hierarchy of craftsmen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.homeland-as-parent-subjected-by-ruler
+  motif_id: homeland_as_parent_subjected_by_ruler
+  label: homeland as parent subjected by ruler
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as political metaphor or tragic rhetoric rather than
+    a clear recurring mythic motif.
+  cautions: Could relate to royal_legitimacy, mother_goddess/land-as-mother symbolism,
+    or civic lament depending on passage evidence; may be too contextual.
+  suggested_aliases:
+  - homeland as parent
+  - fatherland or motherland subjected by ruler
+  - ruler dominating parent-land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-and-reputation-compel-combat
+  motif_id: honor_and_reputation_compel_combat
+  label: honor and reputation compel combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Combat compelled by honor and reputation fits the heroic-warrior code
+    within sacred or ritually charged warfare.
+  cautions: If the passage is only social psychology with no ritual, heroic, or sacred
+    frame, it may be better retained as an evidence detail.
+  suggested_aliases:
+  - reputation compels combat
+  - honor-bound combat
+  - combat to preserve honor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-at-feast-requiring-valor-in-battle
+  motif_id: honor_at_feast_requiring_valor_in_battle
+  label: honor at feast requiring valor in battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Feast honor tied to battlefield valor expresses warrior status and social
+    ranking through combat achievement.
+  cautions: Could also belong under royal_legitimacy or sacred_exchange if the feast
+    is primarily a rank-distribution or hospitality scene; source context should confirm
+    combat function.
+  suggested_aliases:
+  - feast honor for battle valor
+  - warrior honor at feast
+  - valor required for feast status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-bound-response-to-insult
+  motif_id: honor_bound_response_to_insult
+  label: Honor-bound response to insult
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may be warrior duty, social honor, pride/downfall, or ethical
+    obligation depending on narrative outcome.
+  cautions: Do not map automatically to sacred_combat unless the insult compels combat;
+    could be a moral/legal response, hubris sequence, or passage-specific characterization.
+  suggested_aliases:
+  - insult requiring response
+  - honor response to insult
+  - duty to answer insult
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-token-bestowed-on-a-bride-or-maiden
+  motif_id: honor_token_bestowed_on_a_bride_or_maiden
+  label: honor token bestowed on a bride or maiden
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: A bestowed token may function as a power object conferring honor, status,
+    protection, or relational recognition.
+  cautions: 'Low confidence: if the token is merely courtly gift detail, exclude or
+    keep as evidence; if marriage alliance is central, sacred_love or sacred_marriage
+    may be more relevant.'
+  suggested_aliases:
+  - honor token for bride
+  - maiden's honor token
+  - status token bestowed on bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honorable-face-to-face-combat-contrasted-with-distant-or-stealthy-killing
+  motif_id: honorable_face_to_face_combat_contrasted_with_distant_or_stealthy_killing
+  label: Honorable face-to-face combat contrasted with distant or stealthy killing
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label distinguishes legitimate warrior combat from dishonorable killing,
+    fitting the combat-code dimension of sacred or heroic warfare.
+  cautions: May be an ethical-literary contrast rather than a mythic motif; preserve
+    specificity as evidence rather than creating a canonical child unless it recurs.
+  suggested_aliases:
+  - honorable face-to-face combat
+  - dishonorable stealth killing
+  - combat code contrasts open and stealth killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honorable-guardian-of-another-s-wife-or-companion
+  motif_id: honorable_guardian_of_another_s_wife_or_companion
+  label: honorable guardian of another's wife or companion
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns custodial honor, marriage/companionship, and social
+    trust, which no existing group captures cleanly.
+  cautions: Could fit sacred_law, sacred_love, royal_legitimacy, or courtly ethics
+    depending on whether the emphasis is legal duty, fidelity, alliance, or heroic
+    honor.
+  suggested_aliases:
+  - guardian of another's wife
+  - honorable custody of companion
+  - trusted guardian of spouse or companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honored-bear-placed-in-a-tree-cradle-on-a-mountain
+  motif_id: honored_bear_placed_in_a_tree_cradle_on_a_mountain
+  label: honored bear placed in a tree-cradle on a mountain
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal honor, tree cradle, and mountain placement;
+    its ritual or cosmological function is unclear.
+  cautions: Could relate to axis_mundi, cosmic_mountain, animal ancestor/bear rites,
+    or funerary elevation; likely over-specific and culturally sensitive, so review
+    source evidence before grouping.
+  suggested_aliases:
+  - bear honored in tree cradle
+  - bear placed on mountain tree cradle
+  - ritual honoring of bear on tree and mountain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honored-guest-purified-clothed-and-feasted
+  motif_id: honored_guest_purified_clothed_and_feasted
+  label: honored guest purified, clothed, and feasted
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Purifying, clothing, and feasting an honored guest fits hospitality and
+    reciprocal obligation as a sacred social exchange.
+  cautions: If the scene primarily marks initiation, restoration of identity, or royal
+    recognition, secondary mapping to initiation or royal_legitimacy may be appropriate.
+  suggested_aliases:
+  - guest purified clothed and feasted
+  - ritual hospitality to honored guest
+  - honored guest reception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are honor-code or hospitality motifs from single occurrences;
+  preserve as evidence details unless recurrence supports a dedicated heroic honor/social
+  obligation group.
+- No transmission or borrowing claims are implied by these normalization suggestions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: atlas-ai
+  reviewed_at: ''
+  notes: Provisional placements only; ambiguous political metaphor and culturally
+    specific bear-rite labels require source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0677
+  input_sha256: 27f2e5e0c3ebd1a770b5db5386fd3bc30eb37aa925b864fc6e50b4eab48a0bda
+

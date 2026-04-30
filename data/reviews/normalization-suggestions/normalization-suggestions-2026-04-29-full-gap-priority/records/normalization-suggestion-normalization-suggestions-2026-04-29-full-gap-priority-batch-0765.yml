@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0765
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.captured-animal-laments-relational-misunderstanding-rather-than-bodily-pain
+  motif_id: captured_animal_laments_relational_misunderstanding_rather_than_bodily_pain
+  label: Captured animal laments relational misunderstanding rather than bodily pain
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to be a specific animal speech or moral-exemplum episode
+    rather than a clear normalized motif.
+  cautions: Single occurrence; source context is needed to distinguish animal fable,
+    ethical teaching, compassion motif, or passage-specific narrative detail.
+  suggested_aliases:
+  - animal lament over relational misunderstanding
+  - captured animal speaks moral complaint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captured-animal-offers-to-betray-its-own-kind
+  motif_id: captured_animal_offers_to_betray_its_own_kind
+  label: captured animal offers to betray its own kind
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A captured animal using betrayal or negotiation to survive fits the existing
+    animal trickster/survival-strategy cluster.
+  cautions: May be only a fable episode or character detail; preserve betrayal-of-kind
+    specificity as evidence rather than canonicalizing it.
+  suggested_aliases:
+  - animal betrays its own kind to escape
+  - captured animal bargaining for survival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captured-animal-treated-as-criminal-culprit
+  motif_id: captured_animal_treated_as_criminal_culprit
+  label: captured animal treated as criminal culprit
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns legal treatment of an animal, but the symbolic function
+    is unclear from the wording alone.
+  cautions: Could belong under sacred_law, divine_judgment, trickster, or a local
+    comic/legal episode; verify whether the animal is morally culpable, enchanted,
+    or merely treated as property.
+  suggested_aliases:
+  - animal tried as culprit
+  - captured animal criminalized
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catasterism-of-an-animal-helper
+  motif_id: catasterism_of_an_animal_helper
+  label: catasterism of an animal helper
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Transformation of an animal helper into a star is a postmortem or cosmic
+    transformation pattern.
+  cautions: If the passage emphasizes origin of a constellation more than death/transformation,
+    a future catasterism or astral-transformation group may be warranted.
+  suggested_aliases:
+  - animal helper transformed into star
+  - animal catasterism
+  - constellation origin from animal helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-refuge-with-bird-sign
+  motif_id: cave_refuge_with_bird_sign
+  label: cave refuge with bird sign
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif combines refuge and an animal sign that likely marks protective
+    divine guidance or concealment.
+  cautions: Could also map to descent/cave as liminal refuge if the cave is transformative,
+    or to sacred_knowledge if the bird functions as omen rather than protection.
+  suggested_aliases:
+  - bird sign protects cave refuge
+  - animal sign of divine protection
+  - cave concealment by bird omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - descent
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collective-heroic-hunt-against-a-monstrous-beast
+  motif_id: collective_heroic_hunt_against_a_monstrous_beast
+  label: collective heroic hunt against a monstrous beast
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A heroic group hunt against a monster is a combat ordeal and collective
+    violence pattern.
+  cautions: If the beast is a chaos monster defeated by a god or culture founder,
+    divine_warrior or culture_hero may be better secondary mappings.
+  suggested_aliases:
+  - heroic monster hunt
+  - communal hunt of monstrous beast
+  - collective beast-slaying ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-of-giant-bird-and-monstrous-water-creature
+  motif_id: combat_of_giant_bird_and_monstrous_water_creature
+  label: Combat of giant bird and monstrous water-creature
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A battle between monstrous beings fits sacred or mythic combat more than
+    ordinary animal transformation.
+  cautions: If the water creature embodies primordial chaos, also relate to chaos
+    or divine_warrior; do not infer flood renewal without world-destruction evidence.
+  suggested_aliases:
+  - giant bird battles water monster
+  - mythic combat between bird and water creature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - chaos
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.compassionate-rescue-of-a-tormented-animal
+  motif_id: compassionate_rescue_of_a_tormented_animal
+  label: compassionate rescue of a tormented animal
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Animal rescue expresses an ethical pattern, but no existing group cleanly
+    covers compassionate rescue of animals.
+  cautions: Could be Buddhist/Japanese moral exemplum, karmic merit, animal helper
+    origin, or passage-specific detail; avoid collapsing into trickster or shapeshifter
+    without evidence.
+  suggested_aliases:
+  - rescue of suffering animal
+  - compassion toward tormented animal
+  - animal rescued through compassion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.complex-origin-shaped-by-multiple-forces
+  motif_id: complex_origin_shaped_by_multiple_forces
+  label: complex origin shaped by multiple forces
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and does not identify a clear narrative image or
+    function.
+  cautions: May be a philosophical commentary artifact rather than an animal/transformation
+    motif; source context is required before mapping to cosmic_origin, mystical_quest,
+    or sacred_knowledge.
+  suggested_aliases:
+  - origin shaped by multiple forces
+  - multi-causal origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - mystical_quest
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-warriors-inside-a-fated-horse
+  motif_id: concealed_warriors_inside_a_fated_horse
+  label: concealed warriors inside a fated horse
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Concealed warriors in a horse-shaped stratagem belong to warfare and
+    heroic deception rather than animal transformation.
+  cautions: Likely episode-specific; if the emphasis is deception at a boundary or
+    trickery, trickster may be a secondary mapping. Do not treat the horse as an animal
+    motif unless animate agency is present.
+  suggested_aliases:
+  - warriors hidden in horse
+  - horse stratagem concealing warriors
+  - fated horse war deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are animal-related only superficially; their likely
+  functions include ethical exemplum, divine protection, combat, and episode-specific
+  stratagem.
+- Single-occurrence and highly contextual labels should generally remain evidence
+  details unless source review shows recurrence across traditions or works.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for narrative
+    function before taxonomy updates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0765
+  input_sha256: bbc19ddfbfdbe87950f9dbf6b5846ff5dec008b5d349d49c5bc8196f8e6d5098
+

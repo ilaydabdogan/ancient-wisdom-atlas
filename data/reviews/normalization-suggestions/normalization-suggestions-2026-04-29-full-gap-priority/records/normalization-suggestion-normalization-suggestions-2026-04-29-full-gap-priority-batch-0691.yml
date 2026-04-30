@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0691
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.predators-attacking-the-prize-animal-of-a-herd
+  motif_id: predators_attacking_the_prize_animal_of_a_herd
+  label: predators attacking the prize animal of a herd
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too contextual to place securely; it may be an omen, loss
+    of wealth/status, heroic cattle episode, or animal-attack detail.
+  cautions: Single occurrence; do not map to sacred_combat or royal_legitimacy unless
+    the passage shows political or ritual function.
+  suggested_aliases:
+  - prize animal attacked by predators
+  - herd leader animal attacked
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - royal_legitimacy
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pride-corrected-by-humiliation-or-punishment
+  motif_id: pride_corrected_by_humiliation_or_punishment
+  label: Pride corrected by humiliation or punishment
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif directly matches hubris followed by humbling or punitive correction.
+  cautions: If the passage emphasizes formal divine sentencing rather than pride itself,
+    divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - hubris corrected by humiliation
+  - pride punished
+  - humbling of the proud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.primordial-age-of-justice-without-law-or-punishment
+  motif_id: primordial_age_of_justice_without_law_or_punishment
+  label: primordial age of justice without law or punishment
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label concerns ideal social order and justice, framed by the absence
+    of formal law or punishment.
+  cautions: Could also belong under sacred_time or cosmic_origin if this is a Golden
+    Age or cosmogonic age sequence; source context should decide secondary mappings.
+  suggested_aliases:
+  - golden age justice without law
+  - primordial justice without punishment
+  - lawless age of justice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - cosmic_origin
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.principles-transformed-into-law
+  motif_id: principles_transformed_into_law
+  label: principles transformed into law
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes ethical or cosmic principles becoming formal legal
+    order.
+  cautions: May be philosophical commentary rather than a narrative motif; review
+    whether a mythic or sacred-law process is actually present.
+  suggested_aliases:
+  - ethical principles become law
+  - cosmic principles codified as law
+  - principles codified into law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - wisdom
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.private-vengeance-followed-by-public-judgment
+  motif_id: private_vengeance_followed_by_public_judgment
+  label: private vengeance followed by public judgment
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence moves from retaliatory action to formal reckoning and judgment,
+    fitting moral/legal evaluation.
+  cautions: If judgment is purely civic and not sacred or moralized, sacred_law or
+    a future justice-adjudication group may fit better.
+  suggested_aliases:
+  - vengeance judged publicly
+  - private revenge brought to judgment
+  - retaliation followed by adjudication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibition-of-usury-in-religious-law
+  motif_id: prohibition_of_usury_in_religious_law
+  label: Prohibition of usury in religious law
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A religious legal prohibition belongs with sacred law, ethical commands,
+    and social order.
+  cautions: This may be a legal teaching rather than a narrative motif; preserve doctrinal
+    specificity as evidence detail.
+  suggested_aliases:
+  - usury prohibition
+  - religious ban on usury
+  - sacred law against interest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.projectile-precision-against-a-ruler-s-companions
+  motif_id: projectile_precision_against_a_ruler_s_companions
+  label: Projectile precision against a ruler's companions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate heroic skill, intimidation of royal retinue,
+    combat ordeal, or episode-specific violence.
+  cautions: Single occurrence and highly contextual; avoid mapping to sacred_combat
+    or divine_warrior without evidence of ritualized or order-establishing combat.
+  suggested_aliases:
+  - precise projectile attack on ruler's companions
+  - missile skill against royal retinue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-abrogation-of-earlier-law
+  motif_id: prophetic_abrogation_of_earlier_law
+  label: prophetic abrogation of earlier law
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns prophetic authority revising or superseding sacred
+    legal norms.
+  cautions: Culturally and doctrinally sensitive; review with source evidence and
+    avoid flattening into generic legal change.
+  suggested_aliases:
+  - prophetic supersession of law
+  - abrogation of prior sacred law
+  - revelatory revision of law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - covenant
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-or-speaking-severed-head
+  motif_id: prophetic_or_speaking_severed_head
+  label: prophetic or speaking severed head
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A severed head that speaks or prophesies functions as a bearer of supernatural
+    knowledge after death.
+  cautions: Could also map to death_and_transformation if the emphasis is postmortem
+    animation, or sacred_treasures if the head is treated as an object of power.
+  suggested_aliases:
+  - speaking severed head
+  - oracular severed head
+  - prophetic head
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - dream_and_vision
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-signs-rejected-by-a-ruler
+  motif_id: prophetic_signs_rejected_by_a_ruler
+  label: prophetic signs rejected by a ruler
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejection of prophetic signs by a ruler commonly sets up moral reckoning
+    or punishment for failed recognition.
+  cautions: If the passage emphasizes revelation itself rather than the ruler's culpable
+    rejection, dream_and_vision or sacred_knowledge may be better primary mappings.
+  suggested_aliases:
+  - ruler rejects prophetic signs
+  - rejected prophetic warning
+  - royal rejection of omens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - sacred_knowledge
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional placements for review; several single-occurrence
+  labels may be episode-specific rather than durable motifs.
+- For law-related Islamic labels, preserve doctrinal specificity and review source
+  context before broad pattern-query use.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Batch reviewed for best-fit normalization groups; ambiguous combat and animal-attack
+    labels flagged for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0691
+  input_sha256: e824d883209d8a5948964085bf5ef6729c79903bdf3a103d47d312081da829ab
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0772
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fatal-triangle-expressed-through-animal-simile
+  motif_id: fatal_triangle_expressed_through_animal_simile
+  label: fatal triangle expressed through animal simile
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a literary simile for a relationship pattern rather
+    than an animal motif or narrative function.
+  cautions: If the passage contains a recurring fatal love-rivalry structure, preserve
+    that separately; the animal simile alone should not drive motif indexing.
+  suggested_aliases:
+  - animal simile for fatal triangle
+  - fatal rivalry animal imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-or-lot-governing-human-and-animal-outcomes
+  motif_id: fate_or_lot_governing_human_and_animal_outcomes
+  label: fate or lot governing human and animal outcomes
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: medium
+  rationale: The core concept is fate or allotted outcome, not animal transformation;
+    existing fate group is the closest broad placement.
+  cautions: If the passage is not about death or mortal destiny, divine_judgment,
+    sacred_law, or wisdom may be better after evidence review.
+  suggested_aliases:
+  - fate governing outcomes
+  - lot determining human and animal destinies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-animal-attack-during-guarded-outing
+  motif_id: feared_animal_attack_during_guarded_outing
+  label: feared animal attack during guarded outing
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This sounds like a contextual danger episode rather than a stable motif,
+    but source context may reveal an ordeal, omen, or guarded-child pattern.
+  cautions: Could be passage-specific plot detail; avoid mapping to miraculous_child,
+    initiation, or threshold_guardian without evidence of destiny, trial, or liminal
+    passage.
+  suggested_aliases:
+  - animal attack feared during guarded excursion
+  - guarded outing threatened by animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fearful-human-confronted-by-dangerous-animal
+  motif_id: fearful_human_confronted_by_dangerous_animal
+  label: fearful human confronted by dangerous animal
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A dangerous animal encounter is too broad without narrative function
+    such as guardian, ordeal, divine sign, or transformation.
+  cautions: May be an episode detail rather than a queryable motif; review whether
+    the animal is a threshold guardian, divine agent, monster, or ordinary threat.
+  suggested_aliases:
+  - dangerous animal confrontation
+  - human afraid before dangerous animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ferocious-warrior-described-through-animal-and-natural-force-imagery
+  motif_id: ferocious_warrior_described_through_animal_and_natural_force_imagery
+  label: ferocious warrior described through animal and natural-force imagery
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The imagery characterizes warrior ferocity in a combat context, fitting
+    sacred/heroic warrior symbolism more than animal transformation.
+  cautions: If purely poetic description with no mythic combat function, treat as
+    evidence detail or exclude from pattern queries.
+  suggested_aliases:
+  - animal imagery for ferocious warrior
+  - warrior as animal and natural force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fertility-divinity-protecting-animals-and-crops
+  motif_id: fertility_divinity_protecting_animals_and_crops
+  label: Fertility divinity protecting animals and crops
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: role_variant
+  confidence: medium
+  rationale: A fertility divinity protecting animals and crops belongs with divine
+    fertility, nourishment, and protection themes.
+  cautions: If the deity is not feminine or maternal, a future fertility/abundance
+    group may be better; current placement is a best-fit group, not a gender claim.
+  suggested_aliases:
+  - fertility deity protects flocks and crops
+  - agricultural fertility divinity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fertility-power-localized-in-an-animal-body-part
+  motif_id: fertility_power_localized_in_an_animal_body_part
+  label: Fertility power localized in an animal body part
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines fertility, animal body symbolism, and localized power
+    without a clear existing group fit.
+  cautions: Could be ritual object, sacred exchange, sacrifice, sympathetic magic,
+    or an over-specific comparative note; source evidence is needed.
+  suggested_aliases:
+  - animal body part containing fertility power
+  - fertility potency in animal part
+  suggested_new_group:
+    id: fertility_power
+    label: Fertility Power and Generative Potency
+    description: Sacred or magical fertility localized in beings, objects, body parts,
+      plants, animals, rites, or divine agents, producing agricultural, animal, human,
+      or cosmic abundance.
+    parent_group_ids:
+    - mother_goddess
+    - sacred_exchange
+    related_group_ids:
+    - sacrifice
+    - sacred_treasures
+    - sacred_time
+    reason_existing_groups_insufficient: Existing groups cover mother goddess, sacrifice,
+      and seasonal cycles, but not fertility potency as a transferable or localized
+      power independent of divine motherhood or calendrical renewal.
+- suggestion_id: normalization.suggestion.fierce-animal-guardian-of-an-enclosed-settlement
+  motif_id: fierce_animal_guardian_of_an_enclosed_settlement
+  label: fierce animal guardian of an enclosed settlement
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: high
+  rationale: A fierce animal guarding an enclosed settlement performs a boundary-guardian
+    role.
+  cautions: If the animal is primarily a civic tutelary spirit or emblem rather than
+    an encountered guardian, divine_intervention or sacred_treasures may be secondary.
+  suggested_aliases:
+  - animal guardian of settlement boundary
+  - fierce boundary animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-breathing-animals-yoked-by-protected-hero
+  motif_id: fire_breathing_animals_yoked_by_protected_hero
+  label: fire-breathing animals yoked by protected hero
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Yoking dangerous fire-breathing animals by a protected hero is an ordeal
+    demonstrating heroic qualification.
+  cautions: Could also relate to sacred_fire, divine_intervention, or hero_journey
+    depending on whether fire, protection, or quest sequence is emphasized.
+  suggested_aliases:
+  - hero yokes fire-breathing beasts
+  - dangerous animal-yoking ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fixed-animal-emblem-used-instead-of-human-character
+  motif_id: fixed_animal_emblem_used_instead_of_human_character
+  label: fixed animal emblem used instead of human character
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording suggests an iconographic or classificatory substitution rather
+    than a narrative animal motif.
+  cautions: If a source narrative treats the animal emblem as a power object, totemic
+    identity, or divine sign, remap to sacred_treasures or another functional group.
+  suggested_aliases:
+  - animal emblem replacing human figure
+  - fixed animal symbol for character
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use animal imagery as simile, emblem, or episode detail
+  rather than animal transformation; do not map them to shapeshifter or trickster
+  without functional evidence.
+- The taxonomy currently lacks a durable fertility-power group; one provisional candidate
+  is suggested only for the localized fertility potency label.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements generated from labels only; source passages should
+    be checked for narrative function before final mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0772
+  input_sha256: 25adbfa03ef771fded3a4ef302923853e8a511ab8c40fea5274d9cb7857b6806
+

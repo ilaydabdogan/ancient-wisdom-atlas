@@ -1,0 +1,312 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0832
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.totemic-animal-or-insect-linked-to-social-divisions
+  motif_id: totemic_animal_or_insect_linked_to_social_divisions
+  label: totemic animal or insect linked to social divisions
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests totemic social classification, but no existing group
+    cleanly covers animal clans, social divisions, or totemic ancestry.
+  cautions: Could be an ethnographic classification note rather than a narrative motif;
+    source context is needed before creating a totemism or social-order group.
+  suggested_aliases:
+  - totemic animal linked to social divisions
+  - totemic insect linked to social divisions
+  - animal totem as social marker
+  suggested_new_group:
+    id: totemic_social_identity
+    label: Totemic Social Identity
+    description: Animals, plants, insects, or other beings function as ancestral,
+      clan, lineage, or social-division markers that organize identity, taboo, marriage,
+      or ritual obligation.
+    parent_group_ids:
+    - sacred_law
+    - sacred_twins
+    related_group_ids:
+    - shapeshifter
+    - culture_hero
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups cover animal transformation,
+      law, and ancestry only indirectly; the key function here is social identity
+      organized through a totemic being.
+- suggestion_id: normalization.suggestion.triadic-praise-name-of-a-warrior
+  motif_id: triadic_praise_name_of_a_warrior
+  label: Triadic praise-name of a warrior
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a warrior-identity and heroic-praise formula, best preserved
+    under the warrior/sacred combat field rather than wisdom generally.
+  cautions: May be a poetic or formulaic diction artifact rather than a recurring
+    motif; preserve as evidence detail unless similar praise-name patterns recur.
+  suggested_aliases:
+  - warrior praise-name
+  - triadic warrior epithet
+  - heroic praise formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.true-and-false-dreams-distinguished-by-gates
+  motif_id: true_and_false_dreams_distinguished_by_gates
+  label: true and false dreams distinguished by gates
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif directly concerns the classification and reliability of dreams,
+    matching the dream_and_vision group.
+  cautions: Gate imagery may also touch threshold symbolism, but the primary function
+    is dream truth-testing.
+  suggested_aliases:
+  - gates of true and false dreams
+  - dream gates distinguish truth from falsehood
+  - reliable and deceptive dreams
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.true-authority-defined-by-care-or-provision
+  motif_id: true_authority_defined_by_care_or_provision
+  label: true authority defined by care or provision
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Authority validated by care or provision fits sacred kingship and legitimate
+    rule through ethical function.
+  cautions: Could also be an ethical teaching rather than a kingship motif if no ruler,
+    household head, or public authority is involved.
+  suggested_aliases:
+  - authority through provision
+  - true ruler as caregiver
+  - legitimate authority by care
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.true-magical-event-mistaken-for-dream-or-madness
+  motif_id: true_magical_event_mistaken_for_dream_or_madness
+  label: true magical event mistaken for dream or madness
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif concerns ambiguous perception where a real supernatural event
+    is interpreted as dream or madness.
+  cautions: If the passage emphasizes magical intervention more than perception, divine_intervention
+    may be a secondary mapping.
+  suggested_aliases:
+  - magical event mistaken for dream
+  - supernatural event mistaken for madness
+  - dream or madness misrecognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.truth-act
+  motif_id: truth_act
+  label: Truth-act
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Truth-Act and Performative Truth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A truth-act is a distinctive performative use of truthful speech to bring
+    about protection, healing, or supernatural effect.
+  cautions: May overlap with sacred speech, vow, ethical truth, or miracle motifs;
+    human review should determine whether recurrence warrants a new group.
+  suggested_aliases:
+  - act of truth
+  - truth power
+  - performative truth statement
+  - saccakiriyā
+  suggested_new_group:
+    id: performative_truth_speech
+    label: Truth-Act and Performative Truth
+    description: A truthful declaration, vow, or statement of moral fact is believed
+      to produce real-world sacred, protective, healing, judicial, or miraculous effects.
+    parent_group_ids:
+    - sacred_knowledge
+    - covenant
+    related_group_ids:
+    - divine_intervention
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: Wisdom and covenant cover truth and vows
+      broadly, but not the specific narrative function of truth-speech operating as
+      efficacious sacred power.
+- suggestion_id: normalization.suggestion.truth-bound-promise-as-moral-constraint
+  motif_id: truth_bound_promise_as_moral_constraint
+  label: truth-bound promise as moral constraint
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: high
+  rationale: A promise bound by truth functions as a sacred vow or binding moral obligation.
+  cautions: If the passage emphasizes ethical instruction rather than binding vow,
+    sacred_law or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - truth-bound vow
+  - promise constrained by truth
+  - binding truthful promise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.truth-overcomes-falsehood
+  motif_id: truth_overcomes_falsehood
+  label: truth overcomes falsehood
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Truth triumphing over falsehood expresses moral reckoning and the restoration
+    of sacred order.
+  cautions: Could be a broad ethical maxim or doctrinal statement rather than a narrative
+    motif; review passage evidence for enacted conflict or judgment.
+  suggested_aliases:
+  - truth triumphs over falsehood
+  - falsehood defeated by truth
+  - vindication of truth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.truth-telling-animal-witness-deceived-by-staged-illusion
+  motif_id: truth_telling_animal_witness_deceived_by_staged_illusion
+  label: Truth-telling animal witness deceived by staged illusion
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A staged deception overcoming a truthful animal witness fits trickster/deception
+    narrative logic more than general wisdom.
+  cautions: Highly episode-specific; could be fable, legal testimony motif, or animal-helper
+    motif. Avoid promoting without recurrence.
+  suggested_aliases:
+  - deceived animal witness
+  - truthful witness fooled by illusion
+  - staged illusion deceives witness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.truth-telling-messenger-punished
+  motif_id: truth_telling_messenger_punished
+  label: truth-telling messenger punished
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Punishment of a truthful messenger centers on unjust or morally charged
+    response to truth-bearing speech.
+  cautions: If no sacred or moral reckoning is present, this may be a literary episode
+    or political messenger trope rather than a mythic motif.
+  suggested_aliases:
+  - punished truth-teller
+  - truthful messenger punished
+  - bearer of bad truth punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern truth as speech, vow, witness, or moral force;
+  consider whether a durable sacred-speech or performative-truth group is needed after
+  reviewing recurrence across traditions.
+- Single-occurrence and formulaic labels should be preserved as evidence details unless
+  source review confirms broader motif value.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for totemic identity
+    and performative truth-speech candidates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0832
+  input_sha256: 1ad4bdfa992c5470fb7a7e5785e326a1f5603d837cfeaffb9e88868cd45d3bfa
+

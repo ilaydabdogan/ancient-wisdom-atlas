@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0811
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.internal-division-destroys-strength
+  motif_id: internal_division_destroys_strength
+  label: Internal division destroys strength
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label reads as a wisdom teaching or political-ethical maxim about
+    cohesion and strength.
+  cautions: Single occurrence and abstract wording; if this is merely a proverbial
+    comment rather than a narrative motif, preserve as evidence detail.
+  suggested_aliases:
+  - division weakens strength
+  - discord destroys collective power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intimate-memory-as-authentication-sign
+  motif_id: intimate_memory_as_authentication_sign
+  label: intimate memory as authentication sign
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Private remembered knowledge functions as proof of identity or truth,
+    fitting knowledge used for recognition and validation.
+  cautions: Could also belong with love/family recognition depending on passage context;
+    not necessarily sacred knowledge unless the memory has revelatory or identity-confirming
+    force.
+  suggested_aliases:
+  - private memory as recognition token
+  - secret memory authenticates identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ironic-or-contrary-name
+  motif_id: ironic_or_contrary_name
+  label: ironic or contrary name
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns naming irony, but its narrative function is unclear
+    from the wording alone.
+  cautions: May be a literary or philological observation rather than a motif; review
+    whether the name drives recognition, fate, prophecy, or commentary.
+  suggested_aliases:
+  - contrary name
+  - ironic naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.landscape-etiology-through-name-and-plant-association
+  motif_id: landscape_etiology_through_name_and_plant_association
+  label: Landscape etiology through name and plant association
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be an etiological explanation linking place, name, and
+    plant, but no existing group cleanly captures landscape etiology.
+  cautions: Single occurrence and may be an antiquarian or commentary artifact; if
+    the plant is sacred or cosmological, axis_mundi or sacred_law may be secondary,
+    but context is needed.
+  suggested_aliases:
+  - place-name etiology through plant association
+  - landscape naming etiology
+  suggested_new_group:
+    id: etiology_place_names
+    label: Etiology of Places and Names
+    description: Mythic explanations for the origin, naming, or distinctive features
+      of places, plants, landmarks, customs, or local identities.
+    parent_group_ids:
+    - sacred_knowledge
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing groups cover sacred centers, law,
+      and wisdom, but not the recurring explanatory function of etiological naming
+      and local landscape features.
+- suggestion_id: normalization.suggestion.landscape-itinerary-as-memory-of-trial-and-alliance
+  motif_id: landscape_itinerary_as_memory_of_trial_and_alliance
+  label: landscape itinerary as memory of trial and alliance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A journey route preserving memories of trials and alliances fits the
+    departure-trial-return complex.
+  cautions: Could be a textual itinerary or pilgrimage-memory detail rather than a
+    reusable motif; if the emphasis is sacred geography, a future place-etiology group
+    may be relevant.
+  suggested_aliases:
+  - journey itinerary as memory of ordeal
+  - landscape route remembers trials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.late-peace-counsel-refused-before-final-destruction
+  motif_id: late_peace_counsel_refused_before_final_destruction
+  label: late peace counsel refused before final destruction
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejected wise counsel before destruction functions as moral reckoning
+    and consequence after refusal of warning.
+  cautions: May also fit sacred_combat or pride_and_downfall if the passage emphasizes
+    war or hubris; avoid assuming divine causation without evidence.
+  suggested_aliases:
+  - refused peace counsel before destruction
+  - ignored warning before catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.leader-s-consoling-speech-after-communal-catastrophe
+  motif_id: leader_s_consoling_speech_after_communal_catastrophe
+  label: leader’s consoling speech after communal catastrophe
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: A consoling speech after communal disaster belongs with mourning, grief
+    response, and social repair after loss.
+  cautions: If the speech primarily re-legitimizes authority or law, royal_legitimacy
+    or sacred_law may be secondary; could be too episode-specific.
+  suggested_aliases:
+  - consolation after catastrophe
+  - leader consoles community after disaster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.liberating-song-opens-bonds
+  motif_id: liberating_song_opens_bonds
+  label: liberating song opens bonds
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Song or utterance has effective power to release bonds, fitting speech/narrative
+    as active sacred or magical power.
+  cautions: Could also map to sacred_song under mystical_quest if devotional, or divine_intervention
+    if a deity causes the release; source context needed.
+  suggested_aliases:
+  - song releases bonds
+  - powerful song liberates captives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.limited-vision-before-unveiled-future
+  motif_id: limited_vision_before_unveiled_future
+  label: limited vision before unveiled future
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on restricted perception followed by revelation of
+    future knowledge.
+  cautions: If the passage is prophecy rather than visionary experience, sacred_knowledge
+    may be a better parent; label is abstract and may be interpretive.
+  suggested_aliases:
+  - future unveiled after limited sight
+  - partial vision before prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.literal-wording-of-an-agreement-exploited-in-battle
+  motif_id: literal_wording_of_an_agreement_exploited_in_battle
+  label: literal wording of an agreement exploited in battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The decisive feature is manipulation of a binding agreement’s wording,
+    fitting vow, contract, and sacred bond logic.
+  cautions: Battle context may require secondary mapping to sacred_combat; if the
+    exploitation is trickery rather than covenant obligation, trickster may also fit.
+  suggested_aliases:
+  - literal agreement exploited
+  - wording of pact used in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; several single-occurrence labels
+  may be passage-specific or interpretive rather than durable motifs.
+- Etiological place/name labels may warrant a future normalization group if similar
+  unmapped motifs recur across traditions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Human review recommended for naming/etiology items and for speech motifs
+    where sacred, literary, or political function depends on passage context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0811
+  input_sha256: f3fbd9425badf4c236cb5caa10a899cfb8a185ee52d0f6aad139a95f52a07420
+

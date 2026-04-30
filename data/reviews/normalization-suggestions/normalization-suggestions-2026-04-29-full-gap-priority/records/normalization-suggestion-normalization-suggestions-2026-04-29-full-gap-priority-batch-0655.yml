@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0655
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.violation-of-parents-as-sign-of-tyranny
+  motif_id: violation_of_parents_as_sign_of_tyranny
+  label: violation of parents as sign of tyranny
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif uses violation of kinship duty as a sign of illegitimate or
+    tyrannical rule, fitting sacred kingship and political order.
+  cautions: Could also fit sacred_law or divine_judgment if the passage emphasizes
+    filial violation as moral law rather than political tyranny.
+  suggested_aliases:
+  - filial violation as sign of tyranny
+  - kinship violation marks illegitimate rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violent-suitor-kills-rival-or-beloved-figure
+  motif_id: violent_suitor_kills_rival_or_beloved_figure
+  label: Violent suitor kills rival or beloved figure
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The violence arises from erotic rivalry around a beloved figure, aligning
+    most closely with love as dangerous or destructive.
+  cautions: Single, plot-specific label; if the passage centers on homicide, vengeance,
+    or heroic combat rather than love, sacred_combat or divine_judgment may be better,
+    or it may be an evidence detail only.
+  suggested_aliases:
+  - destructive erotic rivalry
+  - violent suitor rivalry
+  - beloved-centered homicide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.virgin-huntress-rejecting-marriage
+  motif_id: virgin_huntress_rejecting_marriage
+  label: virgin huntress rejecting marriage
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a divine or heroic chastity role, gendered autonomy,
+    or a specific deity-type rather than an existing broad group.
+  cautions: No current group cleanly covers chastity, virginity, or marriage refusal;
+    avoid forcing into sacred_love because the motif is defined by rejection of marriage,
+    not longing or union.
+  suggested_aliases:
+  - chaste huntress rejects marriage
+  - marriage refusal by virgin huntress
+  - virgin warrior-huntress
+  suggested_new_group:
+    id: chastity_and_marriage_refusal
+    label: Chastity and Marriage Refusal
+    description: Figures whose sacred, heroic, or social identity is marked by virginity,
+      celibacy, refusal of marriage, or resistance to expected sexual and marital
+      roles.
+    parent_group_ids:
+    - sacred_law
+    - sacred_love
+    related_group_ids:
+    - mother_goddess
+    - hero_journey
+    - initiation
+    reason_existing_groups_insufficient: Existing love and sacred marriage groups
+      emphasize union, longing, fertility, or reciprocity, while this motif centers
+      on refusal, chastity, and gendered autonomy.
+- suggestion_id: normalization.suggestion.virtuous-generosity-shakes-the-earth
+  motif_id: virtuous_generosity_shakes_the_earth
+  label: Virtuous generosity shakes the earth
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Extraordinary giving produces a cosmic response, fitting sacred exchange
+    and offering as a world-affecting virtue.
+  cautions: If the earth-shaking is primarily an omen confirming spiritual destiny,
+    dream_and_vision or divine_intervention may be relevant secondary mappings.
+  suggested_aliases:
+  - generosity causes cosmic sign
+  - earth responds to virtuous giving
+  - cosmic confirmation of generosity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.virtuous-persecuted-stepdaughter
+  motif_id: virtuous_persecuted_stepdaughter
+  label: Virtuous persecuted stepdaughter
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a family-persecution narrative type not clearly represented
+    by current groups.
+  cautions: May be a folktale type, ethical exemplum, family conflict motif, or over-specific
+    plot role; source evidence is needed before adding a new family adversity group.
+  suggested_aliases:
+  - persecuted stepchild
+  - virtuous persecuted daughter
+  - wronged stepdaughter
+  suggested_new_group:
+    id: persecuted_family_member
+    label: Persecuted Family Member
+    description: A virtuous or vulnerable family member is mistreated, displaced,
+      tested, or oppressed within the household before vindication, transformation,
+      or social repair.
+    parent_group_ids:
+    - sacred_law
+    - divine_judgment
+    related_group_ids:
+    - miraculous_child
+    - hero_journey
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing groups cover sacred birth, law,
+      and judgment but do not directly cover recurring household persecution or stepfamily
+      conflict patterns.
+- suggestion_id: normalization.suggestion.vocation-opposed-by-parent
+  motif_id: vocation_opposed_by_parent
+  label: vocation opposed by parent
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Parental opposition to a calling can function as resistance to departure
+    or vocation within a hero or spiritual journey.
+  cautions: If the vocation is explicitly sacred or revelatory, divine_call or initiation
+    may be the better underlying motif; if merely biographical, it may be too contextual.
+  suggested_aliases:
+  - parent opposes calling
+  - family opposition to vocation
+  - blocked vocation by parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vulnerable-abandoned-children
+  motif_id: vulnerable_abandoned_children
+  label: vulnerable abandoned children
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: narrower_than
+  confidence: medium
+  rationale: Abandoned or threatened children are already part of the miraculous-child
+    complex when vulnerability marks destiny or protected infancy.
+  cautions: If no sacred destiny, rescue, or transformative role is present, this
+    may be a generic pathos or family-violence detail rather than a motif.
+  suggested_aliases:
+  - abandoned children
+  - exposed children
+  - threatened vulnerable children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-band-of-lovers-and-beloveds
+  motif_id: war_band_of_lovers_and_beloveds
+  label: War-band of lovers and beloveds
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes a combat group organized by erotic or beloved bonds,
+    making warfare the primary narrative function.
+  cautions: Could also index secondarily under sacred_love if the passage emphasizes
+    love as the source of courage or cohesion rather than military organization.
+  suggested_aliases:
+  - lovers' war-band
+  - beloveds in martial brotherhood
+  - erotic bond as warrior cohesion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-for-a-woman-or-beloved
+  motif_id: war_for_a_woman_or_beloved
+  label: war for a woman or beloved
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A beloved figure serves as the catalyst for warfare, aligning with sacred
+    or heroic combat patterns.
+  cautions: If the central structure is abduction or loss of the beloved leading to
+    a quest, stolen_beloved or hero_journey may be more precise; avoid reducing the
+    woman/beloved to an object if agency is present in the passage.
+  suggested_aliases:
+  - beloved as cause of war
+  - war over a woman
+  - erotic rivalry causes war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-before-fated-single-combat-with-a-beloved-foster-brother
+  motif_id: warning_before_fated_single_combat_with_a_beloved_foster_brother
+  label: warning before fated single combat with a beloved foster-brother
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The key reusable pattern is forewarned but fated combat leading toward
+    unavoidable death or tragedy.
+  cautions: Highly episode-specific and also overlaps sacred_combat, sibling/foster-brother
+    bonds, and lament; preserve foster-brother detail as evidence rather than canonical
+    wording.
+  suggested_aliases:
+  - warning before fated combat
+  - fated single combat between beloved companions
+  - forewarned duel with foster-brother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence family or erotic-conflict motifs.
+  Prefer provisional group placement and preserve relational details as evidence notes.
+- Current groups have limited coverage for chastity/marriage refusal and household
+  persecution; these may warrant future taxonomy review if more examples recur.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0655
+  input_sha256: 0f96a624906cf19f21f0606c18db6c68e4684a4cdc4701ea03e02b7377024fe4
+

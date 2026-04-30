@@ -1,0 +1,321 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0855
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.refusal-to-endanger-helpers-during-pursuit
+  motif_id: refusal_to_endanger_helpers_during_pursuit
+  label: refusal to endanger helpers during pursuit
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may express heroic ethics during flight, but the narrative
+    function is unclear from wording alone.
+  cautions: Single occurrence and context-dependent; could be pursuit episode detail,
+    ethical restraint, or helper-protection motif rather than boundary/space motif.
+  suggested_aliases:
+  - hero refuses to endanger helpers
+  - protective refusal during pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-suitor-at-the-forest-boundary
+  motif_id: rejected_suitor_at_the_forest_boundary
+  label: rejected suitor at the forest boundary
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines courtship rejection with a liminal forest setting, but the core
+    motif is not clear without source evidence.
+  cautions: May belong to sacred_love, threshold_guardian, otherworld, or be an over-specific
+    episode label; do not map solely because of the boundary word.
+  suggested_aliases:
+  - rejected suitor at liminal forest
+  - courtship refusal at forest edge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - threshold_guardian
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-boundary-against-idolatrous-compromise
+  motif_id: religious_boundary_against_idolatrous_compromise
+  label: religious boundary against idolatrous compromise
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes maintaining a sacred religious boundary against prohibited
+    worship, fitting covenantal fidelity and sacred obligation.
+  cautions: Could also be sacred_law or divine_judgment depending on whether the passage
+    emphasizes law, punishment, or communal identity; review culturally sensitive
+    wording around idolatry.
+  suggested_aliases:
+  - boundary against idolatrous compromise
+  - refusal of idolatrous compromise
+  - religious fidelity boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - forbidden_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-diffusion-through-neighboring-contact-and-migration
+  motif_id: religious_diffusion_through_neighboring_contact_and_migration
+  label: religious diffusion through neighboring contact and migration
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label is a historical or scholarly explanation of transmission, not
+    a symbolic or narrative motif.
+  cautions: Keep transmission claims out of motif normalization; preserve only as
+    provenance or historical-contact note if evidence supports it elsewhere.
+  suggested_aliases:
+  - religious diffusion by contact
+  - religious diffusion through migration
+  - neighboring contact and migration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-or-boasting-prince-requiring-a-charioteer
+  motif_id: reluctant_or_boasting_prince_requiring_a_charioteer
+  label: reluctant or boasting prince requiring a charioteer
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This appears to be a specific heroic-warrior episode involving status,
+    boasting, reluctance, and a charioteer role.
+  cautions: May fit divine_warrior, sacred_combat, royal_legitimacy, or pride_and_downfall
+    depending on context; likely too episode-specific for canonical grouping without
+    recurrence.
+  suggested_aliases:
+  - boasting prince needs charioteer
+  - reluctant prince and charioteer
+  - prince requiring charioteer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_combat
+    - royal_legitimacy
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repentance-followed-by-restored-household-welfare
+  motif_id: repentance_followed_by_restored_household_welfare
+  label: repentance followed by restored household welfare
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repentance followed by restored welfare suggests moral repair after transgression
+    or misfortune, fitting judgment and restoration.
+  cautions: If no divine or sacred moral agency is present, this may be an ethical
+    household tale detail better handled under sacred_law or excluded as contextual.
+  suggested_aliases:
+  - repentance restores household welfare
+  - moral repentance and household restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescued-exposed-infant-adopted-by-royal-household
+  motif_id: rescued_exposed_infant_adopted_by_royal_household
+  label: rescued exposed infant adopted by royal household
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: narrower_than
+  confidence: high
+  rationale: A threatened or exposed infant rescued and adopted into royalty is a
+    clear protected-child and destiny pattern.
+  cautions: Could also support royal_legitimacy if the adoption legitimizes later
+    rule; preserve exposure and adoption details as evidence.
+  suggested_aliases:
+  - exposed infant rescued
+  - royal adoption of exposed infant
+  - threatened infant adopted by royalty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_birth
+    - divine_parent_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-marked-by-swimming-and-feast
+  motif_id: restoration_marked_by_swimming_and_feast
+  label: restoration marked by swimming and feast
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: Restoration may imply renewal, while swimming and feast may be local
+    episode markers rather than the core motif.
+  cautions: Could fit sacred_waters, sacred_exchange, death_and_transformation, or
+    communal restoration depending on passage; likely too specific without recurrence.
+  suggested_aliases:
+  - restoration with swimming and feast
+  - feast marking restoration
+  - swimming as restoration marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - sacred_exchange
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restorative-enchanted-cup
+  motif_id: restorative_enchanted_cup
+  label: Restorative enchanted cup
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: An enchanted cup that restores is a power-bearing vessel or container
+    with transformative/healing function.
+  cautions: If the cup primarily confers authority or treasure status, sacred_treasures
+    may be secondary; if restoration is resurrection-like, note death_and_transformation.
+  suggested_aliases:
+  - healing enchanted cup
+  - restorative cup
+  - enchanted cup of restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - death_and_transformation
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restored-household-harmony-after-confession-and-forgiveness
+  motif_id: restored_household_harmony_after_confession_and_forgiveness
+  label: restored household harmony after confession and forgiveness
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Confession and forgiveness restoring household order fits ethical repair
+    and social harmony under sacred law/social order.
+  cautions: If the passage frames restoration as divine punishment and repentance,
+    divine_judgment may be preferable; if purely domestic realism, may be too contextual
+    for motif queries.
+  suggested_aliases:
+  - confession and forgiveness restore household harmony
+  - household harmony restored by forgiveness
+  - domestic reconciliation after confession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - covenant
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All placements are provisional; several labels in this batch are single-occurrence,
+  episode-specific, or depend on whether sacred agency is explicit in the source passage.
+- Do not treat the diffusion/contact label as a motif or as evidence for transmission
+  in pattern queries.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes several low-confidence contextual labels requiring source
+    review before indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0855
+  input_sha256: 80d3946d845bea421f657ffd2b92d5e38eff579c286cc25deff757b46401d233
+

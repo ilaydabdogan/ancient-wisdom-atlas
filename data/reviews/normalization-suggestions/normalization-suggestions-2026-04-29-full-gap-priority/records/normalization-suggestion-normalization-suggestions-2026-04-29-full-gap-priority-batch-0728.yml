@@ -1,0 +1,338 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0728
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.household-worship-under-threat
+  motif_id: household_worship_under_threat
+  label: household worship under threat
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe threatened domestic piety, persecution, or a passage-specific
+    setting rather than a stable journey motif.
+  cautions: Needs source context to distinguish sacred law, divine judgment, exile/persecution,
+    or a local narrative detail.
+  suggested_aliases:
+  - threatened household worship
+  - domestic worship under threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - divine_judgment
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-animal-foster-kinship
+  motif_id: human_animal_foster_kinship
+  label: Human-animal foster kinship
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Human-Animal Kinship and Aid
+  relationship: functional_variant
+  confidence: medium
+  rationale: Human-animal foster relation is not just shapeshifting or animal trickery;
+    it centers interspecies care and kinship.
+  cautions: Single occurrence; could be folded into miraculous_child if the fostered
+    figure is an extraordinary child, or divine_intervention if the animal acts as
+    sacred agent.
+  suggested_aliases:
+  - animal fosterage
+  - interspecies foster kinship
+  - human-animal adoptive bond
+  suggested_new_group:
+    id: human_animal_kinship
+    label: Human-Animal Kinship and Aid
+    description: Protective, foster, healing, companion, or kin-like bonds between
+      humans and animals that enable survival, transformation, or moral recognition
+      without requiring shapeshifting.
+    parent_group_ids:
+    - shapeshifter
+    - divine_intervention
+    related_group_ids:
+    - miraculous_child
+    - sacred_exchange
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover transformation, animal
+      trickery, or divine intervention, but not recurring human-animal care and kinship
+      as its own narrative function.
+- suggestion_id: normalization.suggestion.human-animal-friendship-formed-through-healing
+  motif_id: human_animal_friendship_formed_through_healing
+  label: Human-animal friendship formed through healing
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Human-Animal Kinship and Aid
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bond formed through healing fits an interspecies aid/reciprocity pattern
+    more than shapeshifting or sacred treasures.
+  cautions: If the animal is a divine messenger or healer, divine_intervention may
+    be a secondary placement; if the healing exchange is ritualized, sacred_exchange
+    may apply.
+  suggested_aliases:
+  - healing-based animal friendship
+  - animal friendship through healing
+  - interspecies healing bond
+  suggested_new_group:
+    id: human_animal_kinship
+    label: Human-Animal Kinship and Aid
+    description: Protective, foster, healing, companion, or kin-like bonds between
+      humans and animals that enable survival, transformation, or moral recognition
+      without requiring shapeshifting.
+    parent_group_ids:
+    - shapeshifter
+    - divine_intervention
+    related_group_ids:
+    - sacred_exchange
+    - miraculous_child
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover transformation, animal
+      trickery, or divine intervention, but not recurring human-animal care and kinship
+      as its own narrative function.
+- suggestion_id: normalization.suggestion.human-stewardship-or-succession-as-a-divine-test
+  motif_id: human_stewardship_or_succession_as_a_divine_test
+  label: Human stewardship or succession as a divine test
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers a divine test of human moral responsibility or succession,
+    fitting judgment/testing by sacred authority.
+  cautions: Could also relate to covenant or royal_legitimacy depending on whether
+    the passage emphasizes obligation, vicegerency, or political succession.
+  suggested_aliases:
+  - divine test of stewardship
+  - succession as divine trial
+  - human vicegerency as test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humble-sacred-recitation-and-angelic-worship
+  motif_id: humble_sacred_recitation_and_angelic_worship
+  label: humble sacred recitation and angelic worship
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred recitation transmits revealed knowledge and worshipful orientation;
+    angelic worship may be supporting imagery.
+  cautions: Composite label; if the passage focuses on worship practice rather than
+    revelation or recitation, sacred_exchange or divine_intervention may be better.
+  suggested_aliases:
+  - sacred recitation
+  - revelatory recitation
+  - angelic worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - sacred_exchange
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humbling-riding-dress-before-ordeal-like-travel
+  motif_id: humbling_riding_dress_before_ordeal_like_travel
+  label: humbling riding dress before ordeal-like travel
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is an overly specific costume-and-travel setup rather than
+    a reusable motif on its own.
+  cautions: If source evidence shows ritual humiliation or disguised status before
+    a quest, preserve as evidence under initiation or hero_journey rather than excluding
+    entirely.
+  suggested_aliases:
+  - humbling dress before travel
+  - ordeal travel costume
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - hero_journey
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hungry-traveller-received-by-a-hospitable-host
+  motif_id: hungry_traveller_received_by_a_hospitable_host
+  label: hungry traveller received by a hospitable host
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hospitality to a hungry traveler is a reciprocity and obligation pattern,
+    often testing or repairing sacred-social relations.
+  cautions: If the traveler is a disguised deity or the hospitality becomes a moral
+    test, divine_intervention or divine_judgment may be secondary mappings.
+  suggested_aliases:
+  - hospitality to hungry traveler
+  - traveler received by host
+  - hospitality obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - hero_journey
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hymnic-request-for-divine-favor
+  motif_id: hymnic_request_for_divine_favor
+  label: hymnic request for divine favor
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A hymn requesting favor is an offering of praise or speech that seeks
+    reciprocal divine aid.
+  cautions: May be too generic if it only describes genre/formula; if so, treat as
+    liturgical evidence rather than a standalone motif.
+  suggested_aliases:
+  - hymn for divine favor
+  - prayer for divine favor
+  - praise requesting aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_song
+    - divine_intervention
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-heroic-journey-route
+  motif_id: impossible_heroic_journey_route
+  label: impossible heroic journey route
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: An impossible route is a journey ordeal within departure, trial, and
+    transformation patterns.
+  cautions: If the route enters an otherworld, sea, cave, or underworld, more specific
+    secondary groups may apply.
+  suggested_aliases:
+  - impossible journey route
+  - heroic impossible route
+  - impassable quest path
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - descent
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-sea-crossing-challenged-by-heroic-army
+  motif_id: impossible_sea_crossing_challenged_by_heroic_army
+  label: impossible sea crossing challenged by heroic army
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers an impossible water crossing as a transformative boundary
+    or ordeal.
+  cautions: If the army’s feat is primarily martial or divine-warrior action, sacred_combat
+    or divine_intervention may be relevant; do not map to flood unless world destruction/renewal
+    is present.
+  suggested_aliases:
+  - impossible sea crossing
+  - heroic sea crossing
+  - army crossing impassable waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - divine_warrior
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and composite; suggested placements
+  should remain provisional until source passages confirm narrative function.
+- Human-animal care motifs may justify a durable group if additional fosterage, healing,
+  guide, or companion labels recur across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0728
+  input_sha256: 616868c9d1ee54f34ae5d14936f586b6af6db3d34eb188223954e55a7fcc78a8
+

@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0780
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.magical-animal-lure
+  motif_id: magical_animal_lure
+  label: magical animal lure
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve an animal as helper, decoy, enchantment, threshold danger,
+    or episode-specific plot device; existing groups do not determine function from
+    the label alone.
+  cautions: Single occurrence; avoid mapping to trickster, threshold_guardian, or
+    shapeshifter without passage evidence about deception, passage, or transformation.
+  suggested_aliases:
+  - animal lure
+  - magical animal decoy
+  - enchanted animal lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-animal-producing-sustenance-and-treasure
+  motif_id: magical_animal_producing_sustenance_and_treasure
+  label: magical animal producing sustenance and treasure
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The animal functions as a source of supernatural abundance and treasure,
+    close to power objects that confer protection, sustenance, or sacred ability.
+  cautions: If the passage emphasizes animal personhood, sovereignty, or otherworld
+    gift exchange, otherworld or sacred_exchange may be relevant secondary mappings.
+    Single occurrence may be too granular for canonical status.
+  suggested_aliases:
+  - abundance-producing animal
+  - treasure-producing animal
+  - magical animal of plenty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-bull-with-fertility-sheltering-protective-and-musical-powers
+  motif_id: magical_bull_with_fertility_sheltering_protective_and_musical_powers
+  label: Magical bull with fertility, sheltering, protective, and musical powers
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: Composite label combines animal identity with multiple powers; no single
+    existing group captures the dominant function without source context.
+  cautions: May fit sacred_treasures if treated as a power-bearing being, mother_goddess/fertility
+    symbolism if fertility dominates, divine_intervention if protective aid dominates,
+    or sacred_love/sacred_song if music is central. Preserve as evidence detail unless
+    recurring.
+  suggested_aliases:
+  - magical bull
+  - fertility bull
+  - protective magical bull
+  - music-making magical bull
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-creation-of-animal-helpers-from-small-objects
+  motif_id: magical_creation_of_animal_helpers_from_small_objects
+  label: magical creation of animal helpers from small objects
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Created animal helpers function as supernatural aid or guidance in human
+    affairs.
+  cautions: If the emphasis is transformation of objects into animals, shapeshifter
+    may be a secondary fit; if the small objects are sacred artifacts, sacred_treasures
+    may also apply.
+  suggested_aliases:
+  - animal helpers created from objects
+  - magical animal helpers
+  - object-to-animal helper creation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-disguise-made-from-ordinary-material
+  motif_id: magical_disguise_made_from_ordinary_material
+  label: magical disguise made from ordinary material
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical disguise changes visible form or social identity, aligning
+    with transformation and unstable appearance.
+  cautions: If the disguise is mainly deceptive boundary-crossing rather than bodily
+    transformation, trickster may be a secondary mapping. Ordinary material detail
+    should remain granular evidence.
+  suggested_aliases:
+  - magical disguise
+  - disguise from ordinary material
+  - enchanted disguise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maintained-disguise-in-male-role
+  motif_id: maintained_disguise_in_male_role
+  label: Maintained disguise in male role
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif concerns sustained alteration of visible gender/social role,
+    which the shapeshifter group explicitly allows as change of gender, status, or
+    visible form.
+  cautions: May be culturally and gender-sensitive; review whether it is disguise,
+    cross-gender role performance, social survival, or deception before final indexing.
+    Could also relate to trickster if rule-breaking or deception is central.
+  suggested_aliases:
+  - gender-role disguise
+  - disguise in male role
+  - sustained male-role disguise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.many-tricks-overcome-by-one-effective-trick
+  motif_id: many_tricks_overcome_by_one_effective_trick
+  label: Many tricks overcome by one effective trick
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: The label centers on trickery and counter-trickery, matching the trickster
+    group's deception and boundary-crossing logic.
+  cautions: Could be a fable or rhetorical episode rather than a mythic motif; keep
+    as granular evidence unless the trick contest pattern recurs.
+  suggested_aliases:
+  - counter-trick overcomes many tricks
+  - trick contest
+  - one trick defeats many tricks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marital-bond-survives-transformation
+  motif_id: marital_bond_survives_transformation
+  label: marital bond survives transformation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is enduring love or marital fidelity across altered
+    bodily state, fitting love that transcends death or transformation.
+  cautions: If the passage emphasizes metamorphosis itself rather than the bond, shapeshifter
+    or death_and_transformation may be better secondary mappings.
+  suggested_aliases:
+  - love survives transformation
+  - marriage survives metamorphosis
+  - enduring marital bond after transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marital-fidelity-tested-by-disguise
+  motif_id: marital_fidelity_tested_by_disguise
+  label: marital fidelity tested by disguise
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The narrative function is a test of fidelity within a love or marriage
+    bond; disguise is the mechanism rather than the core motif.
+  cautions: Could map secondarily to shapeshifter or trickster if the disguise and
+    deception are central. Single occurrence may be episode-specific.
+  suggested_aliases:
+  - fidelity tested by disguise
+  - disguised spouse fidelity test
+  - marriage fidelity test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marked-animal-guide-to-hidden-food
+  motif_id: marked_animal_guide_to_hidden_food
+  label: marked animal guide to hidden food
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An animal guide to hidden food may be supernatural guidance, subsistence
+    knowledge, totemic relation, or local etiological detail; the existing groups
+    do not capture the cultural function from the label alone.
+  cautions: Culturally sensitive Indigenous context; review source evidence before
+    generalizing. Could fit divine_intervention, sacred_knowledge, culture_hero, or
+    a future animal-helper/subsistence group depending on agency and ritual meaning.
+  suggested_aliases:
+  - animal guide to hidden food
+  - marked animal food guide
+  - animal reveals hidden sustenance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal-helper or disguise motifs;
+  most should remain granular evidence unless cross-source recurrence supports a new
+  animal-helper or magical-animal abundance group.
+- For animal motifs, distinguish animal as agent/helper, animal as transformed body,
+  animal as sacred treasure/power source, and animal as culturally specific totemic
+  or subsistence relation.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; source context is especially needed for culturally
+    specific animal guidance and composite magical-animal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0780
+  input_sha256: 5b8ceae4c2254f24af9ef403fc2ee2b530d4f3b62abafd11d301838640244599
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0829
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.secret-instruction-followed-by-public-claim-of-revelation
+  motif_id: secret_instruction_followed_by_public_claim_of_revelation
+  label: Secret instruction followed by public claim of revelation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves hidden instruction and claimed revelation, but could
+    be polemical, historiographic, or source-specific rather than a motif.
+  cautions: Needs source evidence to distinguish sacred revelation, public proclamation,
+    critique of revelation claims, or commentary artifact.
+  suggested_aliases:
+  - secret instruction
+  - public claim of revelation
+  - hidden teaching and revelation claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-maternal-recognition-of-an-unacknowledged-son
+  motif_id: secret_maternal_recognition_of_an_unacknowledged_son
+  label: secret maternal recognition of an unacknowledged son
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Maternal recognition may belong to family revelation, hidden lineage,
+    or royal legitimacy, but the taxonomy lacks a clear recognition/kinship group.
+  cautions: Single occurrence and highly contextual; review whether the motif is about
+    hidden birth, maternal grief, succession, or episode-specific recognition.
+  suggested_aliases:
+  - hidden son recognized by mother
+  - maternal recognition of concealed kinship
+  - unacknowledged son recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-speech-against-an-all-hearing-enemy
+  motif_id: secret_speech_against_an_all_hearing_enemy
+  label: secret speech against an all-hearing enemy
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns guarded speech and knowledge under surveillance by
+    a supernatural or extraordinary hearer.
+  cautions: Could instead be a trickster/deception or conflict motif if the passage
+    emphasizes strategy against an enemy rather than sacred speech.
+  suggested_aliases:
+  - guarded speech against all-hearing foe
+  - secret counsel under supernatural surveillance
+  - concealed speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-acting-blood-demanding-sword
+  motif_id: self_acting_blood_demanding_sword
+  label: self-acting blood-demanding sword
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: An autonomous sword demanding blood is a power object with agency and
+    violent obligation.
+  cautions: May also fit sacred_combat or sacrifice if the blood demand is ritually
+    framed; preserve the sword-specific evidence detail.
+  suggested_aliases:
+  - blood-demanding sword
+  - self-acting sword
+  - sentient weapon demanding blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separated-lovers-and-eponymous-place-name
+  motif_id: separated_lovers_and_eponymous_place_name
+  label: separated lovers and eponymous place-name
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core recurring pattern is separated lovers; the place-name etiology
+    is likely a local explanatory detail.
+  cautions: If the passage mainly explains a toponym rather than develops love-longing,
+    treat as etiological/place artifact or exclude from broad motif queries.
+  suggested_aliases:
+  - separated lovers
+  - lovers linked to place-name
+  - eponymous place of separated lovers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.severed-head-trophy-place-name-etiology
+  motif_id: severed_head_trophy_place_name_etiology
+  label: severed-head trophy place-name etiology
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a specific toponymic etiology tied to an
+    episode rather than a reusable motif group.
+  cautions: If severed heads recur as trophies with ritual or prophetic agency, consider
+    sacred_combat or a future head/corpse-power group; do not index the place-name
+    detail broadly.
+  suggested_aliases:
+  - severed head trophy
+  - place-name from severed head
+  - trophy-head toponym etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-ancestry-explaining-language-affinity
+  motif_id: shared_ancestry_explaining_language_affinity
+  label: shared ancestry explaining language affinity
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: uncertain
+  confidence: low
+  rationale: Ancestry explaining language affinity may be an origin or ethnographic
+    etiology, but existing groups only partially cover founding ancestry.
+  cautions: Could be commentary, genealogy, ethnogenesis, or linguistic explanation
+    rather than a symbolic motif; avoid transmission claims.
+  suggested_aliases:
+  - shared ancestry explains language
+  - genealogical explanation of language affinity
+  - ethnogenesis through common ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shift-from-poetic-revelation-to-legal-and-martial-authority
+  motif_id: shift_from_poetic_revelation_to_legal_and_martial_authority
+  label: Shift from poetic revelation to legal and martial authority
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as an interpretive historical or literary transition
+    rather than a discrete narrative motif.
+  cautions: May belong in commentary/provenance, or require separate mappings to sacred_knowledge,
+    covenant/sacred_law, and divine_warrior if passage evidence supports them.
+  suggested_aliases:
+  - poetic revelation to legal authority
+  - revelation becomes law and warfare
+  - shift in authority mode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slaying-as-place-name-origin
+  motif_id: slaying_as_place_name_origin
+  label: slaying as place-name origin
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A slaying used to explain a place-name is likely a local etiological
+    detail rather than a durable motif category.
+  cautions: If the slaying has ritual, heroic, or cosmic function, map that underlying
+    function separately; do not index the toponymic explanation as a broad motif.
+  suggested_aliases:
+  - place-name from slaying
+  - slaying toponym etiology
+  - death as toponym origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-victim-perceives-attacker-as-in-a-dream
+  motif_id: sleeping_victim_perceives_attacker_as_in_a_dream
+  label: Sleeping victim perceives attacker as in a dream
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on dreamlike altered perception during a real attack.
+  cautions: May be an episode-specific narrative effect unless the dream/reality confusion
+    has prophetic, revelatory, or liminal significance.
+  suggested_aliases:
+  - dreamlike perception of attack
+  - sleeping victim dream-perception
+  - attack perceived as dream
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be local etiologies or interpretive summaries
+  rather than stable motifs; underlying narrative functions should be checked against
+  source passages.
+- Do not infer historical transmission from shared ancestry or language-affinity labels;
+  this task only proposes taxonomy placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence and context-heavy labels require
+    source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0829
+  input_sha256: 8969b15cc26fc5cefae4ea638310a426250f77b1ebda38ec31215be8b0a79e72
+

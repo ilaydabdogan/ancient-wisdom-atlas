@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0785
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.otherworld-music-and-singing-birds-visit-a-sidhe-hill
+  motif_id: otherworld_music_and_singing_birds_visit_a_sidhe_hill
+  label: otherworld music and singing birds visit a Sidhe hill
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: high
+  rationale: A Sidhe hill, otherworld music, and enchanted birds fit the established
+    otherworld/enchanted realm group.
+  cautions: Bird imagery may also be relevant to animal enchantment, but the primary
+    function is otherworldly visitation or atmosphere.
+  suggested_aliases:
+  - enchanted birds at Sidhe hill
+  - otherworld music
+  - singing birds in the otherworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-champions-likened-to-yoked-animals
+  motif_id: paired_champions_likened_to_yoked_animals
+  label: paired champions likened to yoked animals
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a poetic simile comparing warriors to animals rather
+    than a recurring narrative motif.
+  cautions: If the passage gives the paired champions a structural twin/sibling or
+    sacred-combat role, review under sacred_twins or sacred_combat instead.
+  suggested_aliases:
+  - yoked animal simile for paired champions
+  - champions compared to yoked animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-encounter-between-human-and-animal-figures
+  motif_id: paired_encounter_between_human_and_animal_figures
+  label: paired encounter between human and animal figures
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to distinguish animal helper, adversary, omen,
+    transformation, or simile.
+  cautions: Source context is needed before mapping to shapeshifter, threshold_guardian,
+    divine_intervention, or an animal-encounter group.
+  suggested_aliases:
+  - human-animal encounter pair
+  - paired human and animal figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.past-life-animal-counterpart-explains-present-attachment
+  motif_id: past_life_animal_counterpart_explains_present_attachment
+  label: Past-life animal counterpart explains present attachment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A past-life animal identity explaining present attachment depends on
+    rebirth and continuity across lives.
+  cautions: If the key point is moral causality or karmic teaching, sacred_knowledge
+    or divine_judgment may be useful secondary review contexts.
+  suggested_aliases:
+  - past-life animal counterpart
+  - animal rebirth explains attachment
+  - former animal life explains present bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-origin-explanation-through-metamorphosis
+  motif_id: place_origin_explanation_through_metamorphosis
+  label: Place-origin explanation through metamorphosis
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on metamorphosis as an etiological explanation for
+    a place or landscape feature.
+  cautions: Indigenous Australian place-origin traditions can be culturally sensitive;
+    verify whether transformation, ancestral action, sacred geography, or place-specific
+    provenance is the primary function.
+  suggested_aliases:
+  - etiological metamorphosis of place
+  - place formed through transformation
+  - metamorphosis explains place origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poetic-explanation-for-animal-origin
+  motif_id: poetic_explanation_for_animal_origin
+  label: Poetic explanation for animal origin
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An animal-origin explanation may be etiological myth, metamorphosis,
+    literary ornament, or commentary depending on evidence.
+  cautions: If it is only a poetic aside, exclude from motif queries; if transformation
+    creates the animal, map to shapeshifter.
+  suggested_aliases:
+  - animal origin explanation
+  - etiology of animal origin
+  - poetic animal etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.political-degeneration-expressed-through-animal-and-monster-imagery
+  motif_id: political_degeneration_expressed_through_animal_and_monster_imagery
+  label: political degeneration expressed through animal and monster imagery
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label uses animal/monster imagery to express civic or political decline
+    and downfall.
+  cautions: May be a literary-political metaphor rather than a narrative motif; if
+    no mythic action is present, consider exclusion as interpretive commentary.
+  suggested_aliases:
+  - animal imagery of political degeneration
+  - monster imagery of civic decline
+  - political decline as bestialization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.precious-stones-obtained-through-animal-intermediaries
+  motif_id: precious_stones_obtained_through_animal_intermediaries
+  label: precious stones obtained through animal intermediaries
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The precious stones are valuable power objects or treasures obtained
+    through nonhuman intermediaries.
+  cautions: If the animals are guides, helpers, or trickster agents, secondary review
+    under divine_intervention or trickster may be needed.
+  suggested_aliases:
+  - gems obtained through animals
+  - animal intermediaries procure precious stones
+  - animal-aided treasure acquisition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-pursuit-of-vulnerable-animal
+  motif_id: predator_pursuit_of_vulnerable_animal
+  label: predator pursuit of vulnerable animal
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe a fable action, simile, omen, hunt, or literal
+    animal episode without enough function to place.
+  cautions: Do not map to trickster or sacrifice unless the passage includes deception,
+    ritual offering, moral exemplum, or transformative outcome.
+  suggested_aliases:
+  - predator pursues prey animal
+  - vulnerable animal pursued by predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predatory-bird-simile-for-a-warrior-attack
+  motif_id: predatory_bird_simile_for_a_warrior_attack
+  label: predatory bird simile for a warrior attack
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is explicitly a simile for a warrior attack, not a standalone mythic
+    motif.
+  cautions: If a tradition gives the warrior an actual bird form, omen, or divine
+    bird association, review separately under shapeshifter, divine_warrior, or divine_intervention.
+  suggested_aliases:
+  - warrior attack compared to predatory bird
+  - raptor simile for warrior assault
+  - bird-of-prey warrior simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are Greek animal similes or broad animal-encounter labels;
+  these should not be promoted without evidence of narrative function beyond poetic
+  comparison.
+- Etiological animal/place-origin labels need source review to distinguish metamorphosis
+  motifs from literary explanation or local place-provenance notes.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source context especially needed for broad animal
+    encounter, poetic etiology, and culturally specific place-origin items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0785
+  input_sha256: 0c17fca17845ec25cab26a972f4280fb78f57e97814913d42f24675c06587851
+

@@ -1,0 +1,321 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0771
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.etiological-explanation-for-animal-absence-or-traits
+  motif_id: etiological_explanation_for_animal_absence_or_traits
+  label: Etiological explanation for animal absence or traits
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Traits
+  relationship: child
+  confidence: medium
+  rationale: The label describes origin-explanations for animal traits or absence,
+    a recurring folktale/myth function not well covered by trickster, shapeshifter,
+    or sacred law.
+  cautions: Single Ainu occurrence; confirm the passage is a narrative etiology rather
+    than a commentary label before creating a durable group.
+  suggested_aliases:
+  - animal trait etiology
+  - origin of animal features
+  - explanation of animal absence
+  suggested_new_group:
+    id: animal_etiology
+    label: Animal Etiology and Traits
+    description: Narratives explaining why animals have particular features, behaviors,
+      absences, habitats, or relations with humans and other animals.
+    parent_group_ids:
+    - trickster
+    related_group_ids:
+    - shapeshifter
+    - culture_hero
+    - sacred_law
+    reason_existing_groups_insufficient: Existing animal-adjacent groups focus on
+      trickster action, transformation, guardianship, or sacred law, not the explanatory
+      function of animal-origin tales.
+- suggestion_id: normalization.suggestion.etiological-explanation-for-animal-relations-and-behavior
+  motif_id: etiological_explanation_for_animal_relations_and_behavior
+  label: Etiological explanation for animal relations and behavior
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Traits
+  relationship: child
+  confidence: medium
+  rationale: The motif explains animal behavior and relations, fitting a proposed
+    animal-etiology grouping rather than simple transformation or trickster boundary
+    crossing.
+  cautions: Needs source review to distinguish mythic etiology from ethnographic observation
+    or generated summary wording.
+  suggested_aliases:
+  - animal behavior etiology
+  - origin of animal relations
+  - explanation of animal behavior
+  suggested_new_group:
+    id: animal_etiology
+    label: Animal Etiology and Traits
+    description: Narratives explaining why animals have particular features, behaviors,
+      absences, habitats, or relations with humans and other animals.
+    parent_group_ids:
+    - trickster
+    related_group_ids:
+    - shapeshifter
+    - culture_hero
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups do not preserve the etiological
+      function of animal-behavior explanations without collapsing them into trickster
+      or transformation.
+- suggestion_id: normalization.suggestion.etiological-explanations-of-animal-features-and-behavior
+  motif_id: etiological_explanations_of_animal_features_and_behavior
+  label: Etiological explanations of animal features and behavior
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Traits
+  relationship: child
+  confidence: medium
+  rationale: This is a close variant of animal-trait and animal-behavior etiology
+    and should be reviewed with those labels as one candidate group.
+  cautions: Likely near-duplicate of other generated labels in this batch; consolidate
+    aliases rather than proliferating children.
+  suggested_aliases:
+  - animal features and behavior etiology
+  - animal trait explanation
+  - origin of animal behavior
+  suggested_new_group:
+    id: animal_etiology
+    label: Animal Etiology and Traits
+    description: Narratives explaining why animals have particular features, behaviors,
+      absences, habitats, or relations with humans and other animals.
+    parent_group_ids:
+    - trickster
+    related_group_ids:
+    - shapeshifter
+    - culture_hero
+    - sacred_law
+    reason_existing_groups_insufficient: Trickster or shapeshifter may be involved
+      in some episodes, but the shared motif here is explanatory animal etiology.
+- suggestion_id: normalization.suggestion.etiological-place-naming-from-heroic-animal-movement
+  motif_id: etiological_place_naming_from_heroic_animal_movement
+  label: etiological place-naming from heroic animal movement
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines place-name etiology, heroic movement, and animal agency;
+    the dominant function cannot be determined from the label alone.
+  cautions: Could fit a future place-name/landscape etiology group, hero_journey,
+    culture_hero, or animal_etiology depending on whether the animal creates, marks,
+    or merely explains the place-name.
+  suggested_aliases:
+  - place-name etiology by animal movement
+  - animal movement names place
+  - heroic animal place etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exceptional-animal-creates-status-imbalance
+  motif_id: exceptional_animal_creates_status_imbalance
+  label: exceptional animal creates status imbalance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An extraordinary animal affecting status may concern royal legitimacy,
+    sacred treasures, cattle wealth, or heroic rivalry, but the label lacks enough
+    function.
+  cautions: Do not map to trickster or shapeshifter unless the animal crosses boundaries
+    or changes form; may be an episode-specific social conflict detail.
+  suggested_aliases:
+  - status imbalance caused by exceptional animal
+  - extraordinary animal disrupts hierarchy
+  - prestige animal causes rivalry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.external-life-in-object-animal-or-stone
+  motif_id: external_life_in_object_animal_or_stone
+  label: external life in object, animal, or stone
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: alias
+  confidence: high
+  rationale: The label directly matches the external-soul complex where life is stored
+    outside the body in an object, animal, or stone.
+  cautions: Comparative labels may be typological rather than passage-specific; verify
+    narrative evidence before using in source-level pattern claims.
+  suggested_aliases:
+  - external life object
+  - life hidden in object animal or stone
+  - external soul in object or animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.externalized-life-hidden-in-animals
+  motif_id: externalized_life_hidden_in_animals
+  label: Externalized life hidden in animals
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: Life hidden in animals is a standard subtype of separable or external
+    life controlled outside the body.
+  cautions: May secondarily involve animal symbolism or shapeshifting, but the primary
+    function is life-dependency on an external receptacle.
+  suggested_aliases:
+  - external soul hidden in animals
+  - life hidden in animal receptacle
+  - externalized life in animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-royal-glory-and-animal-occupied-ruins
+  motif_id: fallen_royal_glory_and_animal_occupied_ruins
+  label: Fallen royal glory and animal-occupied ruins
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Ruins occupied by animals symbolize the collapse of worldly royal glory,
+    aligning with downfall and impermanence rather than an animal motif proper.
+  cautions: If the passage is mainly lament for transience or mystical renunciation,
+    lament_and_mourning or mystical_quest may be secondary; animal occupation may
+    be imagery only.
+  suggested_aliases:
+  - animals in fallen royal ruins
+  - ruins as sign of fallen kingship
+  - royal glory reduced to animal habitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-accusation-followed-by-attempted-exposure-to-beasts
+  motif_id: false_accusation_followed_by_attempted_exposure_to_beasts
+  label: false accusation followed by attempted exposure to beasts
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may be an ordeal of innocence, unjust punishment, martyrdom,
+    or exposure to animals; no existing group cleanly captures the full sequence.
+  cautions: Do not classify as animal motif solely because beasts appear; review whether
+    the narrative function is divine vindication, legal judgment, heroic ordeal, or
+    episode-specific persecution.
+  suggested_aliases:
+  - false accusation and beast exposure
+  - innocent exposed to beasts
+  - attempted punishment by wild beasts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-hunt-against-a-fated-beast
+  motif_id: fatal_hunt_against_a_fated_beast
+  label: fatal hunt against a fated beast
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The decisive element is a doomed or fated encounter ending in death,
+    with the beast functioning as the vehicle of destiny.
+  cautions: If the hunt is primarily a heroic ordeal, sacred combat, or animal-taboo
+    violation, secondary or alternative placement may be needed after source review.
+  suggested_aliases:
+  - fated beast hunt
+  - fatal encounter with destined animal
+  - doomed hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Ainu labels appear to be near-duplicate animal-etiology formulations; human
+  reviewers should consider consolidating them under one candidate group rather than
+  adding separate children.
+- Animal presence alone should not drive placement; several labels use animals as
+  vehicles for status, fate, punishment, or moral imagery.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; source passages needed for ambiguous single-occurrence
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0771
+  input_sha256: 91097fbfd1b4a95e1c19993c4a3e510eef28e6d21e3209185e297616e53d5025
+

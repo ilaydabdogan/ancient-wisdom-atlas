@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0775
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-controls-wild-animals-through-gaze-and-threat
+  motif_id: hero_controls_wild_animals_through_gaze_and_threat
+  label: hero controls wild animals through gaze and threat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests heroic mastery over animals, but current groups do
+    not clearly distinguish animal-command motifs from combat, magical power, or sovereignty.
+  cautions: Single occurrence and context-dependent; could be heroic prowess, supernatural
+    command, royal charisma, or episode detail.
+  suggested_aliases:
+  - animal mastery by gaze
+  - hero commands wild animals
+  - wild animals subdued by threat
+  suggested_new_group:
+    id: animal_helpers_and_mastery
+    label: Animal Helpers and Animal Mastery
+    description: Animals assist, serve, obey, threaten, or are subdued by human, heroic,
+      or divine figures; includes recruited animal companions and magical control
+      of animals.
+    parent_group_ids:
+    - divine_intervention
+    - hero_journey
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover transformation, trickster
+      animals, and combat but not recurring animal service, recruitment, or command
+      as a narrative function.
+- suggestion_id: normalization.suggestion.hero-defeats-successive-pursuit-animals-and-leaders
+  motif_id: hero_defeats_successive_pursuit_animals_and_leaders
+  label: hero defeats successive pursuit animals and leaders
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core function is a heroic combat sequence against pursuers, with
+    animals as part of the opposition.
+  cautions: Highly episode-specific; preserve animal-pursuit detail as evidence rather
+    than promoting as canonical motif.
+  suggested_aliases:
+  - successive pursuers defeated
+  - hero defeats animal pursuers
+  - serial pursuit combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-obtains-wondrous-birds-for-women
+  motif_id: hero_obtains_wondrous_birds_for_women
+  label: hero obtains wondrous birds for women
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be quest prize, otherworld animal, courtship service, or magical-animal
+    episode; label alone does not show primary function.
+  cautions: Single occurrence and gendered context may be passage-specific; avoid
+    collapsing into sacred_love or animal-helper without evidence.
+  suggested_aliases:
+  - wondrous birds obtained
+  - quest for magical birds
+  - hero wins birds as prize
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-protects-otherworldly-community-from-recurring-bird-threat
+  motif_id: hero_protects_otherworldly_community_from_recurring_bird_threat
+  label: hero protects otherworldly community from recurring bird threat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: The otherworldly community is central, with the bird threat functioning
+    as an ordeal or protective service within that realm.
+  cautions: If the passage emphasizes combat rather than enchanted realm, secondary
+    mapping to sacred_combat may be appropriate.
+  suggested_aliases:
+  - otherworld community protected from birds
+  - recurring bird threat in otherworld
+  - hero defends enchanted community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-recruits-animal-companions-through-food-reward-and-command
+  motif_id: hero_recruits_animal_companions_through_food_reward_and_command
+  label: Hero recruits animal companions through food reward and command
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Helpers and Animal Mastery
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal companions recruited through feeding and command are a clear helper-recruitment
+    pattern not well covered by transformation or trickster groups.
+  cautions: Single occurrence in this batch; confirm recurrence across sources before
+    adding a durable group.
+  suggested_aliases:
+  - animal companions recruited by food
+  - hero gains animal helpers
+  - feeding animals to win service
+  suggested_new_group:
+    id: animal_helpers_and_mastery
+    label: Animal Helpers and Animal Mastery
+    description: Animals assist, serve, obey, threaten, or are subdued by human, heroic,
+      or divine figures; includes recruited animal companions and magical control
+      of animals.
+    parent_group_ids:
+    - divine_intervention
+    - hero_journey
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover animal transformation
+      and trickster behavior, but not animal-helper recruitment or command as a recurring
+      narrative function.
+- suggestion_id: normalization.suggestion.hero-revealed-after-disguise
+  motif_id: hero_revealed_after_disguise
+  label: hero revealed after disguise
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Disguise and later revelation function like a visible-form instability
+    motif, though not necessarily full transformation.
+  cautions: If disguise is purely social concealment rather than bodily change, a
+    future disguise/hidden identity group may fit better.
+  suggested_aliases:
+  - hidden hero revealed
+  - disguised hero recognized
+  - revelation after disguise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-animal-slays-a-communal-predator
+  motif_id: heroic_animal_slays_a_communal_predator
+  label: Heroic animal slays a communal predator
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: The animal occupies the heroic defender role by killing a threat to the
+    community.
+  cautions: Could support an animal-hero or animal-helper group if similar fable/Jataka-type
+    labels recur; current placement emphasizes combat function.
+  suggested_aliases:
+  - animal hero kills predator
+  - animal defender of community
+  - communal predator slain by animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-combat-animalized-through-bull-and-hunt-imagery
+  motif_id: heroic_combat_animalized_through_bull_and_hunt_imagery
+  label: heroic combat animalized through bull and hunt imagery
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as imagery or literary characterization of combat rather
+    than a distinct narrative motif.
+  cautions: If source evidence describes actual animal transformation or ritual hunt-combat,
+    remap to shapeshifter or sacred_combat.
+  suggested_aliases:
+  - animalized combat imagery
+  - bull and hunt imagery in heroic combat
+  - heroic combat compared to animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-disguise-to-escape-recognition
+  motif_id: heroic_disguise_to_escape_recognition
+  label: Heroic disguise to escape recognition
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Disguise used to evade recognition is a boundary-crossing and deception
+    function, even when performed by a hero rather than a trickster.
+  cautions: Could also relate to shapeshifter if bodily form changes; preserve whether
+    the disguise is social, magical, or physical.
+  suggested_aliases:
+  - disguise to avoid recognition
+  - hero conceals identity
+  - identity concealment by disguise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-figures-hidden-in-disguise-at-public-assembly
+  motif_id: heroic_figures_hidden_in_disguise_at_public_assembly
+  label: heroic figures hidden in disguise at public assembly
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hidden identity at an assembly uses disguise to cross a social boundary
+    and evade public recognition.
+  cautions: The public assembly setting may be episode-specific; if the emphasis is
+    political order, royal_legitimacy may be a secondary mapping.
+  suggested_aliases:
+  - disguised heroes at assembly
+  - hidden identity in public assembly
+  - heroes concealed at court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items expose a recurring gap around animal helpers, animal command, and
+  animal heroes; consider taxonomy review only after checking recurrence beyond single-occurrence
+  labels.
+- Disguise labels are provisionally placed under trickster or shapeshifter depending
+  on function, but a distinct hidden-identity/disguise group may eventually be useful.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional batch suggestions for animal, disguise, and heroic-combat labels;
+    no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0775
+  input_sha256: 9976e7e177019ff0d707232951d03d2dda73e42933f947d4e6f9f50f17464cc1
+

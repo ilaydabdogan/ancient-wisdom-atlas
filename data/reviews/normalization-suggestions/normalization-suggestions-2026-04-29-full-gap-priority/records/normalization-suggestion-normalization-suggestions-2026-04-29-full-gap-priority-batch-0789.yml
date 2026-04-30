@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0789
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rival-animal-champions-in-destructive-combat
+  motif_id: rival_animal_champions_in_destructive_combat
+  label: rival animal champions in destructive combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Animal combat may be symbolic, heroic, omen-like, or episode-specific;
+    no existing animal-combat group clearly fits from the label alone.
+  cautions: Single occurrence; review whether animals are champions by proxy for human
+    factions, transformed warriors, omens, or merely a narrative detail.
+  suggested_aliases:
+  - animal champions in combat
+  - destructive animal combat
+  - rival animal combatants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.river-current-carries-an-animal-away
+  motif_id: river_current_carries_an_animal_away
+  label: river current carries an animal away
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a specific episode action rather than a durable motif,
+    unless the animal's removal has ritual or transformative function.
+  cautions: If source evidence shows the river as a boundary, ordeal, divine agent,
+    or death passage, reconsider under sacred_waters or descent.
+  suggested_aliases:
+  - animal swept away by river
+  - river carries animal away
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saint-commands-animal-voices
+  motif_id: saint_commands_animal_voices
+  label: Saint commands animal voices
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A saint exercising power over animal voices suggests sacred agency intervening
+    in the natural or social order.
+  cautions: Could also belong under sacred_knowledge if the animal voices communicate
+    revelation, or under a future saintly-miracle group if many such labels recur.
+  suggested_aliases:
+  - saint commands animals
+  - holy figure controls animal voices
+  - saintly command over animal speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saintly-transformation-of-harmful-substance
+  motif_id: saintly_transformation_of_harmful_substance
+  label: Saintly transformation of harmful substance
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A saint transforming a harmful substance fits miraculous sacred intervention
+    that averts danger or heals harm.
+  cautions: If the emphasis is purification or offering, sacred_exchange or sacrifice
+    may be relevant; if it is alchemical/metamorphic symbolism, shapeshifter is not
+    necessarily appropriate.
+  suggested_aliases:
+  - holy transformation of harmful substance
+  - saintly neutralization of harm
+  - miraculous transformation of poison or harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sanctity-of-domestic-animals
+  motif_id: sanctity_of_domestic_animals
+  label: sanctity of domestic animals
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad and comparative; sanctity may imply taboo, sacrifice,
+    pastoral wealth, animal protection, or local cult practice.
+  cautions: Comparative label may be a scholarly abstraction. Review source evidence
+    before mapping to sacred_law, sacrifice, or sacred_exchange.
+  suggested_aliases:
+  - sacred domestic animals
+  - holy livestock
+  - domestic animal sanctity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacrifice
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.search-for-stolen-or-lost-animal-reveals-greater-danger
+  motif_id: search_for_stolen_or_lost_animal_reveals_greater_danger
+  label: Search for stolen or lost animal reveals greater danger
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: A search prompted by loss that exposes a larger danger can function as
+    a quest or departure into ordeal.
+  cautions: Single occurrence and highly plot-specific; if the animal theft is the
+    core motif, sacred_theft or trickster may be more appropriate.
+  suggested_aliases:
+  - quest for lost animal reveals danger
+  - search for stolen animal uncovers threat
+  - lost animal quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_theft
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.selective-royal-mercy-toward-extraordinary-animals
+  motif_id: selective_royal_mercy_toward_extraordinary_animals
+  label: selective royal mercy toward extraordinary animals
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: Royal mercy toward exceptional beings can display ethical kingship and
+    legitimate rule through compassion or discernment.
+  cautions: If the passage emphasizes karmic compassion or animal sanctity more than
+    kingship, sacred_law or divine_judgment may be better secondary mappings.
+  suggested_aliases:
+  - king spares extraordinary animal
+  - royal mercy to sacred animal
+  - compassionate ruler spares animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.serpent-imagery-on-warrior-equipment
+  motif_id: serpent_imagery_on_warrior_equipment
+  label: serpent imagery on warrior equipment
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Serpent-marked war gear is a symbolic attribute of a warrior or combat
+    context rather than an active serpent motif.
+  cautions: May be an iconographic detail too specific for broad queries; if the serpent
+    itself guards, teaches, or threatens, serpent_guardian would be more appropriate.
+  suggested_aliases:
+  - serpent-marked armor
+  - serpent device on warrior gear
+  - snake imagery on weapons or armor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - serpent_guardian
+    - sacred_combat
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.serpent-infested-wilderness-path
+  motif_id: serpent_infested_wilderness_path
+  label: serpent-infested wilderness path
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A serpent-filled path functions as a perilous threshold or ordeal blocking
+    passage through wilderness.
+  cautions: Do not map to serpent_guardian unless serpents guard a sacred object,
+    knowledge, or boundary intentionally; could also be a journey ordeal under hero_journey.
+  suggested_aliases:
+  - serpents block the wilderness path
+  - snake-infested ordeal path
+  - perilous serpent path
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - serpent_guardian
+    - hero_journey
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.serpent-like-critic-of-dogmatism
+  motif_id: serpent_like_critic_of_dogmatism
+  label: serpent-like critic of dogmatism
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines serpent imagery with critique of rigid belief; it
+    may be wisdom teaching, trickster speech, or metaphorical commentary.
+  cautions: Avoid mapping to serpent_guardian solely from serpent-like imagery. Source
+    context is needed to decide whether this is a character, metaphor, or interpretive
+    artifact.
+  suggested_aliases:
+  - serpentine critic of dogma
+  - serpent-like wisdom critic
+  - critic of dogmatism as serpent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - trickster
+    - serpent_guardian
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal episodes; preserve evidence
+  details but avoid creating new animal-specific groups without recurrence.
+- Serpent imagery should not automatically map to serpent_guardian unless the serpent
+  has an active guardian, threshold, wisdom, danger, or hidden-power function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional suggestions only; source passages needed for low-confidence animal
+    and serpent metaphor labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0789
+  input_sha256: 710271d15aa649459b83b2ec93a5af44a13b7f3d751cb97da6d1f9175bf048ac
+

@@ -1,0 +1,349 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0819
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.partial-knowledge-of-fate-concealed-from-a-hero
+  motif_id: partial_knowledge_of_fate_concealed_from_a_hero
+  label: partial knowledge of fate concealed from a hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Concealed or partial fate-knowledge functions as prophetic disclosure
+    withheld from a hero.
+  cautions: Could also fit death_by_fate or sacred_knowledge if passage emphasizes
+    destiny or secrecy rather than vision/oracle.
+  suggested_aliases:
+  - partial knowledge of fate
+  - concealed fate prophecy
+  - withheld prophetic knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.penitence-after-revelation
+  motif_id: penitence_after_revelation
+  label: penitence after revelation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Revelation produces moral recognition and repentance, aligning with sacred
+    reckoning and repair.
+  cautions: If the passage emphasizes the revelatory encounter itself, theophany or
+    sacred_knowledge may be secondary mappings.
+  suggested_aliases:
+  - repentance after revelation
+  - penitence following divine disclosure
+  - moral turning after revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecuted-truth-prevails-over-worldly-powers
+  motif_id: persecuted_truth_prevails_over_worldly_powers
+  label: Persecuted truth prevails over worldly powers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The vindication of truth over worldly power is a moral-reckoning pattern.
+  cautions: May be a theological theme or passage-specific moral rather than a recurrent
+    narrative motif; review evidence for divine agency or narrative conflict.
+  suggested_aliases:
+  - vindicated persecuted truth
+  - truth over worldly power
+  - sacred truth vindicated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pierced-memorial-stone-explaining-a-place-name
+  motif_id: pierced_memorial_stone_explaining_a_place_name
+  label: Pierced memorial stone explaining a place-name
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: Combines memorial object, injury/piercing detail, and place-name aetiology
+    without a clear existing group.
+  cautions: Likely an over-specific etiological or local-toponymic detail; may merit
+    exclusion if only explaining a place-name.
+  suggested_aliases:
+  - memorial stone aetiology
+  - pierced stone place-name explanation
+  - toponymic memorial stone
+  suggested_new_group:
+    id: place_name_aetiology
+    label: Place-Name Aetiology and Geographic Explanation
+    description: Narratives that explain the origin of a place-name, landmark, water
+      feature, or local geography through a mythic, heroic, bodily, ritual, or memorial
+      event.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - sacred_combat
+    - hero_journey
+    - sacred_treasures
+    - sacred_waters
+    reason_existing_groups_insufficient: Several unmapped labels center on etiological
+      naming itself rather than the combat, object, water, or heroic event that supplies
+      the explanation.
+- suggestion_id: normalization.suggestion.place-name-aetiology-during-cattle-driving
+  motif_id: place_name_aetiology_during_cattle_driving
+  label: place-name aetiology during cattle-driving
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label mainly records a toponymic explanation during a cattle-driving
+    episode.
+  cautions: Could be a local narrative artifact; if the cattle-driving is structurally
+    important, sacred_combat may be a secondary context.
+  suggested_aliases:
+  - cattle-driving place-name aetiology
+  - toponym from cattle driving
+  - place-name from cattle episode
+  suggested_new_group:
+    id: place_name_aetiology
+    label: Place-Name Aetiology and Geographic Explanation
+    description: Narratives that explain the origin of a place-name, landmark, water
+      feature, or local geography through a mythic, heroic, bodily, ritual, or memorial
+      event.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - sacred_combat
+    - hero_journey
+    - sacred_waters
+    reason_existing_groups_insufficient: Existing groups capture cattle raid or combat
+      contexts but not the recurring etiological function of explaining names and
+      places.
+- suggestion_id: normalization.suggestion.place-name-and-geographic-explanation
+  motif_id: place_name_and_geographic_explanation
+  label: place-name and geographic explanation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Aetiology and Geographic Explanation
+  relationship: broader_label
+  confidence: medium
+  rationale: This is a broad label for etiological explanation of names and geography,
+    recurring across several batch items.
+  cautions: Do not conflate all etiologies with mythic motifs; exclude purely antiquarian
+    or editorial place-name notes.
+  suggested_aliases:
+  - toponymic aetiology
+  - geographic aetiology
+  - place-name explanation
+  - landmark origin explanation
+  suggested_new_group:
+    id: place_name_aetiology
+    label: Place-Name Aetiology and Geographic Explanation
+    description: Narratives that explain the origin of a place-name, landmark, water
+      feature, or local geography through a mythic, heroic, bodily, ritual, or memorial
+      event.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - sacred_combat
+    - hero_journey
+    - sacred_waters
+    - sacred_treasures
+    reason_existing_groups_insufficient: The current groups can classify the event
+      that causes a place-name, but not the distinct narrative function of explaining
+      geography or toponyms.
+- suggestion_id: normalization.suggestion.place-name-and-water-feature-created-by-bodily-fluid
+  motif_id: place_name_and_water_feature_created_by_bodily_fluid
+  label: place-name and water feature created by bodily fluid
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This combines toponymy, water-feature origin, and bodily-fluid transformation
+    in a highly specific label.
+  cautions: Could relate to sacred_waters or body-as-landscape motifs, but source
+    context is needed before indexing beyond aetiology.
+  suggested_aliases:
+  - water-feature place-name aetiology
+  - bodily-fluid water origin
+  - toponymic water creation
+  suggested_new_group:
+    id: place_name_aetiology
+    label: Place-Name Aetiology and Geographic Explanation
+    description: Narratives that explain the origin of a place-name, landmark, water
+      feature, or local geography through a mythic, heroic, bodily, ritual, or memorial
+      event.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - sacred_waters
+    - death_and_transformation
+    - primordial_sacrifice
+    reason_existing_groups_insufficient: Sacred_waters captures water symbolism, but
+      not the etiological naming/geographic explanation function.
+- suggestion_id: normalization.suggestion.place-name-arising-from-combat-event
+  motif_id: place_name_arising_from_combat_event
+  label: place-name arising from combat event
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: functional_variant
+  confidence: low
+  rationale: A combat event explains a place-name; the aetiological function is clearer
+    than the combat function from the label alone.
+  cautions: If the combat is ritually or cosmically central, sacred_combat may be
+    a secondary mapping; otherwise this may be local toponymic detail.
+  suggested_aliases:
+  - combat place-name aetiology
+  - toponym from battle
+  - place-name from combat
+  suggested_new_group:
+    id: place_name_aetiology
+    label: Place-Name Aetiology and Geographic Explanation
+    description: Narratives that explain the origin of a place-name, landmark, water
+      feature, or local geography through a mythic, heroic, bodily, ritual, or memorial
+      event.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - hero_journey
+    reason_existing_groups_insufficient: Sacred_combat can hold the battle, but not
+      the recurring explanatory place-name function.
+- suggestion_id: normalization.suggestion.place-name-created-by-heroic-deed
+  motif_id: place_name_created_by_heroic_deed
+  label: place-name created by heroic deed
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif describes a heroic act functioning as a place-name origin story.
+  cautions: Could be indexed to hero_journey only if the deed is part of a transformative
+    heroic arc; otherwise treat as toponymic aetiology.
+  suggested_aliases:
+  - heroic deed place-name aetiology
+  - toponym from heroic act
+  - heroic place-name origin
+  suggested_new_group:
+    id: place_name_aetiology
+    label: Place-Name Aetiology and Geographic Explanation
+    description: Narratives that explain the origin of a place-name, landmark, water
+      feature, or local geography through a mythic, heroic, bodily, ritual, or memorial
+      event.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - hero_journey
+    - sacred_combat
+    - culture_hero
+    reason_existing_groups_insufficient: Hero_journey captures heroic action but not
+      the distinct etiological naming outcome.
+- suggestion_id: normalization.suggestion.place-name-derived-from-heroic-monster-episode
+  motif_id: place_name_derived_from_heroic_monster_episode
+  label: Place-name derived from heroic monster episode
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: A specific monster episode is used to explain a place-name, but no monster-combat
+    group is supplied.
+  cautions: May relate to divine_warrior or sacred_combat if the monster combat establishes
+    order; otherwise likely toponymic detail.
+  suggested_aliases:
+  - monster episode place-name aetiology
+  - toponym from monster combat
+  - heroic monster place-name origin
+  suggested_new_group:
+    id: place_name_aetiology
+    label: Place-Name Aetiology and Geographic Explanation
+    description: Narratives that explain the origin of a place-name, landmark, water
+      feature, or local geography through a mythic, heroic, bodily, ritual, or memorial
+      event.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - hero_journey
+    - sacred_combat
+    - divine_warrior
+    reason_existing_groups_insufficient: Existing combat and heroic groups do not
+      preserve the explanatory toponymic function shared by this cluster.
+batch_notes:
+- This batch contains a cluster of single-occurrence place-name/geographic aetiology
+  labels. A provisional place_name_aetiology group may be useful, but human review
+  should decide whether these are query-worthy motifs or local antiquarian/textual
+  details.
+- Avoid treating toponymic explanations as evidence of transmission or common origin;
+  suggested placement only captures narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Several suggestions propose the same new group candidate for review rather
+    than direct taxonomy edits.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0819
+  input_sha256: e4fe2626ced896c3dcb4a3561abef14ab7c2c669d72fc48a8291d00e92793015
+

@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0713
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.calf-idol-fashioned-and-worshipped-in-leader-s-absence
+  motif_id: calf_idol_fashioned_and_worshipped_in_leader_s_absence
+  label: calf idol fashioned and worshipped in leader's absence
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The calf-idol episode centers on idolatrous breach and sacred-order violation
+    that invites moral reckoning.
+  cautions: Could also be indexed under covenant or forbidden_knowledge/idol if the
+    passage emphasizes broken sacred bond or false worship object rather than punishment.
+  suggested_aliases:
+  - idol fashioned in leader's absence
+  - idolatry during leader absence
+  - calf idol worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-woman-passed-through-conquest-and-remarriage
+  motif_id: captive_woman_passed_through_conquest_and_remarriage
+  label: captive woman passed through conquest and remarriage
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes gendered captivity, conquest, and remarriage, but
+    its motif function is unclear from the wording alone.
+  cautions: Potentially culturally sensitive and may be an episode-specific social
+    consequence of war rather than a reusable motif. Review source context before
+    mapping to sacred_combat, sacred_marriage, sacred_law, or exclusion.
+  suggested_aliases:
+  - captive woman after conquest
+  - remarriage after captivity
+  - woman transferred through conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-women-distributed-among-victors-after-conquest
+  motif_id: captive_women_distributed_among_victors_after_conquest
+  label: captive women distributed among victors after conquest
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a conquest aftermath involving captives, but the symbolic or
+    narrative function is not evident from the label.
+  cautions: Culturally sensitive and may be a war-episode detail or social practice
+    note. Do not normalize as journey/homecoming without evidence of narrative transformation
+    or return.
+  suggested_aliases:
+  - women captives distributed after conquest
+  - distribution of captive women
+  - war captives allotted to victors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-martial-arrivals-and-identifications
+  motif_id: catalogue_of_martial_arrivals_and_identifications
+  label: catalogue of martial arrivals and identifications
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording points to a catalogue or enumerative passage structure rather
+    than a symbolic motif.
+  cautions: If individual arrivals have ritual, heroic, or otherworld functions, those
+    should be indexed separately; the catalogue form itself should not drive motif
+    queries.
+  suggested_aliases:
+  - martial arrival catalogue
+  - warrior identification catalogue
+  - catalogue of arriving warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-raid-as-crisis-of-kingship-and-martial-honor
+  motif_id: cattle_raid_as_crisis_of_kingship_and_martial_honor
+  label: cattle raid as crisis of kingship and martial honor
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cattle raid functioning as a crisis of rulership and warrior honor
+    fits the existing sacred_combat complex, which already includes cattle_raid_catalyst.
+  cautions: Secondary relevance to royal_legitimacy or divine_warrior may apply if
+    the passage centers kingship sanction or heroic duty more than raid conflict.
+  suggested_aliases:
+  - cattle raid crisis
+  - cattle raid and martial honor
+  - cattle raid testing kingship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-or-grotto-worship-with-libations
+  motif_id: cave_or_grotto_worship_with_libations
+  label: cave or grotto worship with libations
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Libation worship is an offering practice that creates or maintains sacred
+    relationship.
+  cautions: If the cave itself functions as an underworld threshold or sacred center,
+    descent or axis_mundi may be secondary mappings; avoid mapping to cave/descent
+    solely because a cave is mentioned.
+  suggested_aliases:
+  - grotto libations
+  - cave worship with offerings
+  - libations in sacred cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-refuge-during-wandering
+  motif_id: cave_refuge_during_wandering
+  label: Cave refuge during wandering
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cave serving as refuge during wandering fits journey ordeal and protected
+    concealment within a departure/trial arc.
+  cautions: If the cave is a supernatural sleep, underworld threshold, or divine preservation
+    enclosure, descent, initiation, or ark_vessel may be better; source evidence is
+    needed.
+  suggested_aliases:
+  - cave refuge in wandering
+  - hidden cave shelter
+  - refuge cave during exile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-used-for-concealment-of-travel-goods
+  motif_id: cave_used_for_concealment_of_travel_goods
+  label: cave used for concealment of travel goods
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a practical travel-detail about storing goods, not
+    a reusable symbolic or narrative motif.
+  cautions: If the goods are sacred treasures or the cave functions as a liminal threshold,
+    index those elements separately; otherwise preserve as evidence detail only.
+  suggested_aliases:
+  - goods hidden in cave
+  - travel goods concealed in cave
+  - cave storage during journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-bodies-worshipped-as-rain-and-weather-powers
+  motif_id: celestial_bodies_worshipped_as_rain_and_weather_powers
+  label: celestial bodies worshipped as rain and weather powers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines astral worship and weather/rain power, neither of
+    which is cleanly covered by the current groups.
+  cautions: May be a polemical, theological, or ethnographic classification rather
+    than a narrative motif. Could relate to sacred_exchange, divine_intervention,
+    or a future astral/weather cult group if recurrent.
+  suggested_aliases:
+  - astral rain powers
+  - celestial weather deities
+  - worship of celestial bodies for rain
+  suggested_new_group:
+    id: astral_weather_powers
+    label: Astral and Weather Powers
+    description: Celestial bodies, rain powers, storm beings, or weather-controlling
+      sacred forces worshipped, invoked, or ritually addressed as agents of fertility,
+      danger, or divine action.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    related_group_ids:
+    - cosmic_origin
+    - sacred_waters
+    - sacred_time
+    reason_existing_groups_insufficient: Existing groups cover divine intervention
+      and ritual exchange broadly, but not recurring astral-weather beings or worship
+      directed to celestial/weather powers as a distinct motif field.
+- suggestion_id: normalization.suggestion.celestial-worship-under-a-supreme-deity
+  motif_id: celestial_worship_under_a_supreme_deity
+  label: celestial worship under a supreme deity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This describes a religious hierarchy of astral worship under a supreme
+    deity, but its narrative motif function is unclear.
+  cautions: May be theological classification or polemical description rather than
+    a motif. If recurrent, it may belong with supreme_ruler/cosmic sovereignty or
+    a new astral worship group, but human review should verify evidence.
+  suggested_aliases:
+  - astral worship under high god
+  - celestial cult under supreme deity
+  - worship of heavenly bodies beneath supreme god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are episode-specific conquest or travel details; human
+  reviewers should separate reusable motif functions from passage artifacts.
+- Do not infer journey/homecoming placement from the audit bucket alone; most suggested
+  placements use ritual, combat, judgment, or meta-textual groups instead.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch 0713.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0713
+  input_sha256: 0d2b90ac6a45169e755cf8b8a667386d9a621f385ad399b65642d6a88fc3eeed
+

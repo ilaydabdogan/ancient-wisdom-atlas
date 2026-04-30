@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0816
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.named-battle-episode-explained-by-weapon-type
+  motif_id: named_battle_episode_explained_by_weapon_type
+  label: named battle episode explained by weapon type
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to explain a named episode or etymological/classificatory
+    detail rather than a reusable motif.
+  cautions: If the passage centers on ritualized combat or a weapon with supernatural
+    agency, review under sacred_combat or sacred_treasures instead.
+  suggested_aliases:
+  - battle episode explained by weapon type
+  - weapon-type explanation for named battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-fairy-mound-or-sid-as-significant-locale
+  motif_id: named_fairy_mound_or_sid_as_significant_locale
+  label: named fairy mound or sid as significant locale
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A sid or fairy mound is a liminal otherworld locale in Irish tradition.
+  cautions: The named-place specificity may be gazetteer evidence rather than a motif;
+    exclude if no otherworld function is present.
+  suggested_aliases:
+  - fairy mound as significant locale
+  - sid as otherworld locale
+  - named sid mound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-figure-in-a-special-place
+  motif_id: named_figure_in_a_special_place
+  label: named figure in a special place
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is too generic and appears to record a named person/place detail
+    rather than a symbolic or narrative pattern.
+  cautions: If the special place is a sacred center, otherworld, or threshold with
+    narrative function, remap from passage evidence.
+  suggested_aliases:
+  - named person in significant place
+  - figure associated with special locale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-heroic-weapons
+  motif_id: named_heroic_weapons
+  label: named heroic weapons
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: Named heroic weapons are power objects that confer status, combat capacity,
+    or heroic identity.
+  cautions: If the item is merely a catalog of names, it may be a passage artifact;
+    if combat function dominates, sacred_combat may be secondary.
+  suggested_aliases:
+  - named hero weapons
+  - heroic power weapons
+  - named weapons of heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-mythic-figures-in-fable-headings
+  motif_id: named_mythic_figures_in_fable_headings
+  label: Named mythic figures in fable headings
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes paratextual headings and named figures, not a narrative
+    motif.
+  cautions: Do not index as mythic pattern unless the fable body contains a recurring
+    motif such as trickster, sacred speech, or moral judgment.
+  suggested_aliases:
+  - mythic names in fable headings
+  - fable heading named figures
+  - paratextual mythic figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-mythic-geography-of-rivers-and-mountains
+  motif_id: named_mythic_geography_of_rivers_and_mountains
+  label: Named mythic geography of rivers and mountains
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: Rivers and mountains may be sacred waters, axis sites, or merely named
+    geography; the function is unclear.
+  cautions: Avoid mapping all water to flood or all mountains to axis_mundi without
+    evidence of transformation, passage, revelation, or sacred center function.
+  suggested_aliases:
+  - mythic rivers and mountains
+  - named sacred geography
+  - named mythic landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-supernatural-or-exceptional-weapons-in-heroic-combat
+  motif_id: named_supernatural_or_exceptional_weapons_in_heroic_combat
+  label: Named supernatural or exceptional weapons in heroic combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: Supernatural named weapons function as power objects in heroic action.
+  cautions: May also support sacred_combat or divine_warrior if the weapon’s role
+    is chiefly battle-ordering rather than object power.
+  suggested_aliases:
+  - supernatural heroic weapons
+  - exceptional weapons in heroic combat
+  - named power weapons in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-supernatural-singers-with-river-parentage
+  motif_id: named_supernatural_singers_with_river_parentage
+  label: Named supernatural singers with river parentage
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines named beings, song, supernatural status, and river
+    genealogy without a clear function.
+  cautions: Could be threshold_guardian if singers lure or block passage, sacred_waters
+    if river descent matters, or meta/place-person detail if only genealogical.
+  suggested_aliases:
+  - supernatural singers of river parentage
+  - river-born supernatural singers
+  - named river-parented singers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-weapon-restored-to-hero-before-battle
+  motif_id: named_weapon_restored_to_hero_before_battle
+  label: named weapon restored to hero before battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The restored named weapon is a power object whose return enables heroic
+    combat.
+  cautions: If the restoration sequence is primarily pre-battle arming or honor recovery,
+    sacred_combat or royal_legitimacy may be secondary; single occurrence may be episode-specific.
+  suggested_aliases:
+  - hero's weapon restored before battle
+  - restored named weapon
+  - weapon return before combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.national-songs-preserved-in-memory-before-writing
+  motif_id: national_songs_preserved_in_memory_before_writing
+  label: national songs preserved in memory before writing
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: narrower_than
+  confidence: medium
+  rationale: Oral preservation of songs fits narrative transmission and cultural memory
+    as power.
+  cautions: If this is only a scholarly note about pre-literate transmission, exclude
+    under _meta_textual rather than treating it as a motif.
+  suggested_aliases:
+  - oral preservation of national songs
+  - songs preserved in memory before writing
+  - preliterate song memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are named-person, named-place, or paratextual artifacts;
+  preserve them as evidence or provenance when useful but avoid broad motif queries
+  without narrative function.
+- For weapon labels, sacred_treasures is the best broad group when object power is
+  central; sacred_combat may be a secondary review consideration when the battle sequence
+  is central.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placements only; source passage evidence should decide between
+    motif indexing and exclusion for the highly named/contextual items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0816
+  input_sha256: 6dc802404fb42a3a76767d544b15f255f28f898f75759211ece6404215fe7628
+

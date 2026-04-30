@@ -1,0 +1,324 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0768
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.decoy-hunting-with-animal-parts
+  motif_id: decoy_hunting_with_animal_parts
+  label: Decoy hunting with animal parts
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a hunting technique involving animal parts, but its
+    mythic or symbolic function is unclear from wording alone.
+  cautions: May be an ethnographic practice detail rather than a reusable mythic motif;
+    review cultural context carefully before indexing under animal disguise or trickster
+    patterns.
+  suggested_aliases:
+  - animal-part hunting decoy
+  - hunting disguise using animal remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-rebel-escapes-in-disguise-from-a-fallen-fortress
+  motif_id: defeated_rebel_escapes_in_disguise_from_a_fallen_fortress
+  label: defeated rebel escapes in disguise from a fallen fortress
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a highly specific episode or historical-narrative detail
+    rather than a broad motif.
+  cautions: If multiple sources use disguise escape as a recurring narrative function,
+    it could be reviewed under trickster or hero_journey; the rebel and fortress details
+    should remain evidence notes.
+  suggested_aliases:
+  - escape in disguise after defeat
+  - disguised flight from fallen fortress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-in-disguise-performs-miraculous-construction
+  motif_id: deity_in_disguise_performs_miraculous_construction
+  label: deity in disguise performs miraculous construction
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: The central function is miraculous or divine construction, with disguise
+    as a secondary role feature.
+  cautions: If the passage emphasizes revelation of hidden divine identity more than
+    construction, theophany or divine_intervention may be useful secondary mappings.
+  suggested_aliases:
+  - divine builder in disguise
+  - miraculous construction by disguised deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - theophany
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.desecrated-giant-bird-nest-brings-avian-vengeance
+  motif_id: desecrated_giant_bird_nest_brings_avian_vengeance
+  label: desecrated giant bird nest brings avian vengeance
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Desecration followed by vengeance fits transgression and punitive reckoning,
+    even when carried by animal agents.
+  cautions: If the birds are ordinary animals defending offspring, this may be a naturalistic
+    episode; if they are monstrous or sacred birds, a future animal-vengeance group
+    may be warranted.
+  suggested_aliases:
+  - avian vengeance after nest desecration
+  - bird vengeance for violated nest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-by-birds-bearing-stones
+  motif_id: destruction_by_birds_bearing_stones
+  label: destruction by birds bearing stones
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The label describes destruction mediated through birds as agents of supernatural
+    intervention.
+  cautions: Often overlaps with divine judgment when the destruction punishes an army
+    or transgressors; avoid reducing the motif to generic animal symbolism.
+  suggested_aliases:
+  - birds carrying stones as divine agents
+  - avian stone-borne destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-beast-captured-alive-after-pursuit
+  motif_id: destructive_beast_captured_alive_after_pursuit
+  label: destructive beast captured alive after pursuit
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This could be a heroic labor, monster capture, hunting episode, or local
+    narrative detail; current groups do not cleanly cover destructive beasts as such.
+  cautions: If the beast is subdued through a hero's ordeal, initiation or hero_journey
+    may fit; if the capture restores order, divine_warrior or sacred_combat may be
+    relevant.
+  suggested_aliases:
+  - capture of destructive beast
+  - beast pursued and captured alive
+  suggested_new_group:
+    id: monster_subjugation
+    label: Monster Subjugation and Beast Capture
+    description: A destructive animal, monster, or uncanny beast is pursued, subdued,
+      captured, driven off, or controlled to restore order or prove heroic power.
+    parent_group_ids:
+    - divine_warrior
+    - hero_journey
+    related_group_ids:
+    - sacred_combat
+    - threshold_guardian
+    - shapeshifter
+    reason_existing_groups_insufficient: Existing groups cover sacred combat and divine
+      warriors, but not recurring animal or monster capture episodes where the key
+      function is subduing a destructive beast rather than warfare, transformation,
+      or judgment.
+- suggestion_id: normalization.suggestion.destructive-bull-attacks-handlers-and-camp
+  motif_id: destructive_bull_attacks_handlers_and_camp
+  label: destructive bull attacks handlers and camp
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: A destructive bull episode may be important in context, but this label
+    is specific and not clearly matched to an existing broad group.
+  cautions: Could relate to sacred_combat, monster_subjugation, cattle-raid narratives,
+    or animal sovereignty symbolism depending on the passage; avoid mapping solely
+    because the animal is uncanny or violent.
+  suggested_aliases:
+  - destructive bull rampage
+  - bull attacks camp
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-enchanted-birds-with-fire
+  motif_id: destructive_enchanted_birds_with_fire
+  label: destructive enchanted birds with fire
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The recurring image is supernatural fire carried or embodied by enchanted
+    birds, fitting sacred or dangerous fire more than ordinary animal transformation.
+  cautions: If the episode is primarily an attack by otherworld animals, otherworld
+    or divine_intervention may be better; use world_destroying_fire only if a world/order
+    is consumed or renewed.
+  suggested_aliases:
+  - fire-bearing enchanted birds
+  - supernatural birds with destructive fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - divine_intervention
+    - world_destroying_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-rage-diverted-into-landscape-transformation
+  motif_id: destructive_rage_diverted_into_landscape_transformation
+  label: Destructive rage diverted into landscape transformation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif turns dangerous force into altered landscape, a transformation
+    pattern rather than simple violence.
+  cautions: If the landscape is formed from a body, primordial_sacrifice may be relevant;
+    if rage is ritually cooled or controlled as heroic frenzy, initiation or sacred_combat
+    may be better.
+  suggested_aliases:
+  - rage transformed into landscape
+  - destructive fury reshapes land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - primordial_sacrifice
+    - sacred_combat
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-supernatural-or-uncanny-horse
+  motif_id: destructive_supernatural_or_uncanny_horse
+  label: Destructive supernatural or uncanny horse
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An uncanny destructive horse may be an otherworld being, transformed
+    figure, omen, mount, or monster depending on context.
+  cautions: Do not map automatically to shapeshifter unless actual transformation
+    is present; if it functions as a perilous otherworld animal, otherworld or monster_subjugation
+    may fit better.
+  suggested_aliases:
+  - uncanny destructive horse
+  - supernatural horse as danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - shapeshifter
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal-violence episodes; source
+  evidence is needed before promoting a durable animal-monster group.
+- Where birds or beasts act as agents of punishment, distinguish animal symbolism
+  from divine judgment or divine intervention.
+- Disguise labels should be mapped by narrative function, not by disguise alone.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; batch contains over-specific animal and heroic-episode
+    labels that require passage-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0768
+  input_sha256: 4e1a9f4efb03b635b7a5c5af5c037fd7797ff801bcf7008d3f97f28834145d98
+

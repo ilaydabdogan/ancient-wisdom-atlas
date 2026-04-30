@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0755
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-bodhisattva-bears-an-unmatched-burden
+  motif_id: animal_bodhisattva_bears_an_unmatched_burden
+  label: Animal Bodhisattva bears an unmatched burden
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bodhisattva willingly bearing a burden fits self-surrender or compassionate
+    offering more than animal transformation itself.
+  cautions: May instead belong under ethical discipline or divine/heroic compassion
+    if the passage emphasizes moral exemplarity rather than sacrificial burden-bearing.
+  suggested_aliases:
+  - bodhisattva_bears_burden
+  - compassionate_burden_bearing
+  - animal_self_sacrifice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-centered-fable-encounter-headings
+  motif_id: animal_centered_fable_encounter_headings
+  label: Animal-centered fable encounter headings
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes headings or textual organization, not a narrative
+    motif.
+  cautions: If individual fable episodes contain animal speech, trickery, or moral
+    testing, map those episode motifs separately.
+  suggested_aliases:
+  - animal_fable_headings
+  - fable_encounter_headings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-centered-fable-title-pattern
+  motif_id: animal_centered_fable_title_pattern
+  label: Animal-centered fable title pattern
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label concerns title formulae rather than symbolic or narrative content.
+  cautions: Do not use title-pattern evidence as a motif unless the underlying fable
+    action is independently indexed.
+  suggested_aliases:
+  - animal_fable_title_pattern
+  - fable_title_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-centered-moral-tales
+  motif_id: animal_centered_moral_tales
+  label: animal-centered moral tales
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: broader_label
+  confidence: low
+  rationale: This is a broad genre-like label for moral instruction through animal
+    narrative, closest to storytelling as wisdom transmission.
+  cautions: May be too broad for motif queries; specific animal actions should be
+    indexed under trickster, sacrifice, wisdom, or sacred law as appropriate.
+  suggested_aliases:
+  - animal_moral_tales
+  - animal_fables
+  - didactic_animal_tales
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-champion-defending-an-abducted-woman
+  motif_id: animal_champion_defending_an_abducted_woman
+  label: animal champion defending an abducted woman
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The animal functions as a martial defender or champion in a rescue/conflict
+    episode.
+  cautions: Could also relate to stolen_beloved or divine_intervention if the abduction/rescue
+    frame is primary; source context should determine secondary mapping.
+  suggested_aliases:
+  - animal_defender_of_abducted_woman
+  - animal_champion_rescue
+  - animal_warrior_defender
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-charm-for-protection
+  motif_id: animal_charm_for_protection
+  label: animal charm for protection
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A protective charm made from or associated with an animal functions as
+    a power object or apotropaic token.
+  cautions: If the emphasis is ritual protection rather than the object, sacred_law/apotropaic
+    protection may be the better parent; preserve the animal specificity as evidence
+    detail.
+  suggested_aliases:
+  - protective_animal_charm
+  - animal_amulet
+  - animal_apotropaic_charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-chooses-a-side-in-battle
+  motif_id: animal_chooses_a_side_in_battle
+  label: animal chooses a side in battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: The animal’s factional choice functions within a ritually or mythically
+    charged battle context.
+  cautions: Could be omen, divine intervention, or shapeshifted warrior depending
+    on the source; avoid assuming animal agency is symbolic without evidence.
+  suggested_aliases:
+  - animal_takes_side_in_battle
+  - animal_battle_ally
+  - animal_partisan_in_war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-companions-steal-and-divide-goods
+  motif_id: animal_companions_steal_and_divide_goods
+  label: Animal companions steal and divide goods
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: Stealing and redistributing goods by animal companions fits trickster
+    theft and boundary-crossing behavior.
+  cautions: If the theft establishes culture or redistributes sacred goods, culture_hero
+    or sacred_theft may be relevant secondary mappings.
+  suggested_aliases:
+  - animal_companion_theft
+  - animal_thieves_divide_goods
+  - animal_companions_redistribute_stolen_goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-counterpart-killed-human-dies-simultaneously
+  motif_id: animal_counterpart_killed_human_dies_simultaneously
+  label: animal counterpart killed, human dies simultaneously
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: A human’s life ending when an animal counterpart is killed matches life
+    or soul bound to an external animal receptacle.
+  cautions: Comparative label should be checked against source evidence; could be
+    totemic double, external soul, or synchronized fate rather than detachable soul
+    in a strict sense.
+  suggested_aliases:
+  - animal_life_counterpart
+  - life_bound_to_animal_counterpart
+  - death_by_killing_animal_double
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-court-investigation-identifies-the-holder-of-a-lost-object
+  motif_id: animal_court_investigation_identifies_the_holder_of_a_lost_object
+  label: Animal court investigation identifies the holder of a lost object
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal society, legal investigation, and lost-object
+    recovery without a clear existing motif function.
+  cautions: May be a fable episode, a trickster/legal-wisdom tale, or an over-specific
+    plot detail; source context is needed before grouping.
+  suggested_aliases:
+  - animal_court_investigation
+  - animal_trial_finds_lost_object
+  - animal_judgment_over_lost_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Animal-centered fable labels often describe genre, headings, or titles rather than
+  motifs; exclude or review textual artifacts separately from episode-level motifs.
+- Several items may warrant future animal-fable or animal-helper grouping if many
+  recur, but this batch mostly fits existing broad groups or needs source review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; verify passage evidence especially for single-occurrence
+    and comparative labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0755
+  input_sha256: dc91b285a7e15f658b48afda4c6dc555e5402aa7da429a183c2c0d6128f56224
+

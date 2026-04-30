@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0799
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.binding-parental-word-causes-shared-marriage
+  motif_id: binding_parental_word_causes_shared_marriage
+  label: Binding parental word causes shared marriage
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A parental utterance functions as binding social or ritual obligation
+    that determines marriage order.
+  cautions: Could also belong under sacred_marriage or covenant if the source emphasizes
+    sacred union or vow rather than family authority.
+  suggested_aliases:
+  - binding parental word
+  - parental speech as obligation
+  - spoken obligation determines marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bird-arising-from-city-flames-as-name-explanation
+  motif_id: bird_arising_from_city_flames_as_name_explanation
+  label: Bird arising from city flames as name explanation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label primarily explains an etymology or name through a highly specific
+    local episode.
+  cautions: If the passage emphasizes a phoenix-like rebirth from flames, map secondarily
+    to death_and_transformation or sacred_fire; otherwise preserve as etiological
+    evidence only.
+  suggested_aliases:
+  - bird from flames explains name
+  - name etiology by fiery bird
+  - avian fire etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-by-a-named-river-with-name-derived-from-place
+  motif_id: birth_by_a_named_river_with_name_derived_from_place
+  label: birth by a named river with name derived from place
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: high
+  rationale: This reads as a place/name etiology attached to a specific birth location
+    rather than a reusable motif.
+  cautions: Map to miraculous_child only if the birth is extraordinary, divinely marked,
+    or destiny-signaling in the passage evidence.
+  suggested_aliases:
+  - birth at named river
+  - place-derived birth name
+  - river birth etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-of-named-hero
+  motif_id: birth_of_named_hero
+  label: birth of named hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A named hero's ordinary birth is too generic and person-specific to serve
+    as a motif.
+  cautions: If the birth includes prophecy, divine parentage, threatened infancy,
+    or unusual signs, map to miraculous_child instead.
+  suggested_aliases:
+  - hero birth notice
+  - birth of hero
+  - named hero birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blocked-ford-and-place-name-origin
+  motif_id: blocked_ford_and_place_name_origin
+  label: blocked ford and place-name origin
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The ford may be a liminal threshold, but the label centers on a place-name
+    origin rather than passage ordeal.
+  cautions: If the blocked ford produces a threshold encounter or ordeal, threshold_guardian
+    may fit; if only dindshenchas-style place etiology, exclude from pattern queries.
+  suggested_aliases:
+  - blocked ford etiology
+  - ford place-name origin
+  - obstructed crossing names place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-permanently-colors-a-place-and-explains-its-name
+  motif_id: blood_permanently_colors_a_place_and_explains_its_name
+  label: blood permanently colors a place and explains its name
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: It combines blood symbolism, landscape marking, and name etiology, and
+    source context is needed to identify the main function.
+  cautions: Could fit primordial_sacrifice, sacred_law/blood_as_life, death_and_transformation,
+    or be only a local place-name etiology. Review Indigenous context carefully before
+    broad indexing.
+  suggested_aliases:
+  - blood colors landscape
+  - blood-marked place name
+  - place name explained by blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.book-as-necessary-vessel-for-preserving-a-complex-vision
+  motif_id: book_as_necessary_vessel_for_preserving_a_complex_vision
+  label: book as necessary vessel for preserving a complex vision
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: high
+  rationale: A book preserves and transmits visionary knowledge, aligning with sacred
+    knowledge and revelation preservation.
+  cautions: If the emphasis is on the physical book as a power object, sacred_vessel
+    or sacred_treasures may be useful secondary groups.
+  suggested_aliases:
+  - book preserves vision
+  - textual vessel for vision
+  - vision preserved in book
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.book-of-fate-with-inscribed-or-obliterated-names
+  motif_id: book_of_fate_with_inscribed_or_obliterated_names
+  label: Book of Fate with inscribed or obliterated names
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Inscribed or erased names in a fate book indicate destiny and possibly
+    mortal allotment controlled beyond human agency.
+  cautions: If the book is primarily revelatory scripture or mystical record rather
+    than death-destiny, sacred_knowledge may be a better primary mapping.
+  suggested_aliases:
+  - book of fate
+  - inscribed names of destiny
+  - obliterated names in fate book
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.call-to-a-named-figure
+  motif_id: call_to_a_named_figure
+  label: call to a named figure
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: high
+  rationale: A call to a named person is too generic and episode-specific without
+    evidence of divine vocation or transformative summons.
+  cautions: Map to divine_call or hero_journey only if the call initiates departure,
+    vocation, quest, or sacred duty.
+  suggested_aliases:
+  - summons to named figure
+  - named figure called
+  - call episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.capture-of-a-named-human-figure
+  motif_id: capture_of_a_named_human_figure
+  label: Capture of a named human figure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: high
+  rationale: The label records a person-specific plot event rather than a stable symbolic
+    or narrative motif.
+  cautions: If capture triggers a quest, descent, ordeal, or rescue pattern, map the
+    broader pattern rather than the named capture detail.
+  suggested_aliases:
+  - capture of named figure
+  - named person captured
+  - human capture episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are etiological place-name or person-specific episode
+  labels; preserve them as evidence notes unless source review shows a recurring motif
+  function.
+- Avoid treating all speech/call labels as divine_call; require evidence that the
+  summons transforms status, initiates a quest, or conveys sacred vocation.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for Indigenous
+    Australian landscape/name etiology and Celtic place-name material.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0799
+  input_sha256: 432cf53a5aa9ca744e785c64962dcebd191588178465dd31cb9a10930822cbdf
+

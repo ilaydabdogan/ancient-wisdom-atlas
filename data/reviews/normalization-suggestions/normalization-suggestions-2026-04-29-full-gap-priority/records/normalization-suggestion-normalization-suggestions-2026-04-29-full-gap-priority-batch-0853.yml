@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0853
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.predatory-helper-becomes-household-threat
+  motif_id: predatory_helper_becomes_household_threat
+  label: Predatory helper becomes household threat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a helper crossing from aid into domestic danger, but
+    the function could be betrayal, boundary violation, predation, or household disorder.
+  cautions: Single Greek occurrence and very contextual; source evidence is needed
+    before mapping to trickster, threshold, sacred law, or conflict motifs.
+  suggested_aliases:
+  - helper becomes threat
+  - dangerous household helper
+  - predatory helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predatory-suitors-consume-the-absent-lord-s-household
+  motif_id: predatory_suitors_consume_the_absent_lord_s_household
+  label: predatory suitors consume the absent lord’s household
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Suitors consuming an absent lord's household threatens legitimate household
+    rule, succession, and social order pending the ruler's return.
+  cautions: Highly episode-specific; if indexed for narrative return rather than social
+    order, hero_journey may be a secondary context, but avoid creating a canonical
+    motif from one passage.
+  suggested_aliases:
+  - usurping suitors consume household
+  - household consumed by illegitimate suitors
+  - absent lord's household threatened
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predestination-and-vessels-of-fate
+  motif_id: predestination_and_vessels_of_fate
+  label: Predestination and vessels of fate
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on predestination and fate, with vessels likely serving
+    as imagery for predetermined allotment or destiny.
+  cautions: If the vessel itself is a transformative sacred object, sacred_vessel
+    may be a secondary mapping; Sufi theological context needs review.
+  suggested_aliases:
+  - vessels of fate
+  - predestined vessels
+  - fate as vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.private-gathering-of-first-disciples
+  motif_id: private_gathering_of_first_disciples
+  label: private gathering of first disciples
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A first-disciple gathering may mark sacred teaching, initiation, community
+    foundation, or a historical episode rather than a motif.
+  cautions: Potentially person/event-specific and religiously sensitive; verify whether
+    the passage encodes a recurring initiation or revelation pattern before indexing.
+  suggested_aliases:
+  - first disciples gathered privately
+  - private disciple circle
+  - initial community gathering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibited-image-bearing-game-pieces
+  motif_id: prohibited_image_bearing_game_pieces
+  label: prohibited image-bearing game pieces
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a prohibition regulating objects with images, fitting
+    sacred law, taboo, and social-religious order.
+  cautions: Object-specific and legal-context dependent; do not collapse into idol
+    unless the passage explicitly treats the pieces as idolatrous or ritually dangerous
+    images.
+  suggested_aliases:
+  - image-bearing objects prohibited
+  - prohibited game pieces
+  - image taboo on game pieces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.proper-function-and-boundary-maintenance
+  motif_id: proper_function_and_boundary_maintenance
+  label: Proper function and boundary maintenance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is abstract and could refer to ethical order, household boundaries,
+    ritual purity, or philosophical classification.
+  cautions: Likely generated thematic abstraction rather than a stable narrative motif;
+    source context needed before mapping to sacred_law, threshold_guardian, or divine_judgment.
+  suggested_aliases:
+  - boundary maintenance
+  - proper function
+  - maintenance of order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prosperity-from-marvelous-household-objects
+  motif_id: prosperity_from_marvelous_household_objects
+  label: prosperity from marvelous household objects
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marvelous household objects that bring prosperity function as power objects
+    conferring benefit on their owners.
+  cautions: If the object is chiefly a container, sacred_vessel may be secondary;
+    if prosperity follows reciprocal obligation, sacred_exchange may be relevant.
+  suggested_aliases:
+  - marvelous household prosperity objects
+  - prosperity-giving household objects
+  - magical household objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protected-cave-refuge-of-an-ally
+  motif_id: protected_cave_refuge_of_an_ally
+  label: protected cave refuge of an ally
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The normalization already treats cave as a liminal descent/refuge space
+    when it marks hidden protection, threshold, or nonordinary contact.
+  cautions: Confidence is low because this may be only a tactical shelter for an ally;
+    if no descent, ordeal, or sacred protection is present, treat as passage detail.
+  suggested_aliases:
+  - cave refuge
+  - protected cave shelter
+  - ally sheltered in cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protected-threshold-and-household-privacy
+  motif_id: protected_threshold_and_household_privacy
+  label: Protected threshold and household privacy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns regulated household boundaries and privacy norms,
+    fitting sacred law and social order more than a literal threshold guardian.
+  cautions: If a supernatural guardian or liminal confrontation is present, threshold_guardian
+    may be secondary; otherwise keep as legal-ethical boundary practice.
+  suggested_aliases:
+  - household threshold privacy
+  - protected household boundary
+  - privacy at the threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-boundary-after-exorcism
+  motif_id: protective_boundary_after_exorcism
+  label: protective boundary after exorcism
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Existing normalization folds exorcism, spirit-expulsion, and boundary-sealing
+    labels into the ritual expulsion complex under sacrifice.
+  cautions: May also relate to sacred_law as apotropaic protection; preserve whether
+    the source emphasizes expulsion rite, boundary sealing, or purity rule.
+  suggested_aliases:
+  - boundary sealing after exorcism
+  - post-exorcism protective boundary
+  - closing boundary after spirit expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and highly contextual; preserve
+  passage evidence and avoid promoting episode-specific labels to canonical motifs.
+- For boundary and household labels, distinguish legal-ethical privacy, supernatural
+  threshold guardianship, and ritual protection before final mapping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-suggestion-model
+  reviewed_at: ''
+  notes: Draft suggestions only; human taxonomy review recommended for ambiguous household-boundary
+    and culturally specific legal/religious labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0853
+  input_sha256: c12212a819c9bb18a178ae91287ef3f7fb39371e0dd838a759e8e1d48fd21548
+

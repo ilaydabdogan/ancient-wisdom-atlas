@@ -1,0 +1,378 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0820
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.place-name-etiology-from-a-mythic-fall-or-turning
+  motif_id: place_name_etiology_from_a_mythic_fall_or_turning
+  label: Place-name etiology from a mythic fall or turning
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Etiology and Toponymic Memory
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes an etiological explanation for a named place, a recurring
+    narrative function not covered by existing groups.
+  cautions: Single occurrence; verify that the passage explains a place-name rather
+    than merely preserving a location note.
+  suggested_aliases:
+  - toponymic etiology
+  - place-name explanation
+  - place-name from mythic event
+  suggested_new_group:
+    id: place_name_etiology
+    label: Place-Name Etiology and Toponymic Memory
+    description: Narratives that explain the origin, meaning, or memory of a place-name
+      through a mythic event, deed, death, utterance, body part, or transformation
+      associated with that location.
+    parent_group_ids:
+    - storytelling_as_power
+    - sacred_knowledge
+    related_group_ids:
+    - world_center
+    - sacred_combat
+    - death_and_transformation
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing groups cover sacred places, heroic
+      events, combat, death, and memory, but not the distinct narrative function of
+      explaining toponyms.
+- suggestion_id: normalization.suggestion.place-name-etiology-from-actions-of-the-host
+  motif_id: place_name_etiology_from_actions_of_the_host
+  label: Place-name etiology from actions of the host
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Etiology and Toponymic Memory
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core pattern is place-name explanation through remembered actions,
+    fitting a proposed toponymic etiology group.
+  cautions: The phrase 'host' may refer to an army, retinue, or supernatural host;
+    source context should determine secondary mapping.
+  suggested_aliases:
+  - toponymic etiology from host action
+  - place-name from collective action
+  suggested_new_group:
+    id: place_name_etiology
+    label: Place-Name Etiology and Toponymic Memory
+    description: Narratives that explain the origin, meaning, or memory of a place-name
+      through a mythic event, deed, death, utterance, body part, or transformation
+      associated with that location.
+    parent_group_ids:
+    - storytelling_as_power
+    - sacred_knowledge
+    related_group_ids:
+    - world_center
+    - sacred_combat
+    - death_and_transformation
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing groups cover the possible events
+      being remembered, but not the naming-explanation function itself.
+- suggestion_id: normalization.suggestion.place-name-etiology-from-an-animal-s-body
+  motif_id: place_name_etiology_from_an_animal_s_body
+  label: place-name etiology from an animal's body
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Etiology and Toponymic Memory
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a toponymic etiology where an animal body explains a place-name.
+  cautions: May also involve animal transformation, sacrifice, or body-as-landscape
+    imagery; do not infer those without passage evidence.
+  suggested_aliases:
+  - place-name from animal body
+  - toponym from animal remains
+  suggested_new_group:
+    id: place_name_etiology
+    label: Place-Name Etiology and Toponymic Memory
+    description: Narratives that explain the origin, meaning, or memory of a place-name
+      through a mythic event, deed, death, utterance, body part, or transformation
+      associated with that location.
+    parent_group_ids:
+    - storytelling_as_power
+    - sacred_knowledge
+    related_group_ids:
+    - world_center
+    - sacred_combat
+    - death_and_transformation
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing animal, death, and transformation
+      groups do not capture the place-naming explanatory function.
+- suggestion_id: normalization.suggestion.place-name-etiology-from-heroic-event
+  motif_id: place_name_etiology_from_heroic_event
+  label: Place-name etiology from heroic event
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Etiology and Toponymic Memory
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on explaining a place-name by linking it to a heroic
+    event.
+  cautions: If the heroic event itself is analytically central, add secondary mapping
+    to hero_journey, sacred_combat, or divine_warrior as evidence supports.
+  suggested_aliases:
+  - heroic place-name etiology
+  - place-name from heroic deed
+  suggested_new_group:
+    id: place_name_etiology
+    label: Place-Name Etiology and Toponymic Memory
+    description: Narratives that explain the origin, meaning, or memory of a place-name
+      through a mythic event, deed, death, utterance, body part, or transformation
+      associated with that location.
+    parent_group_ids:
+    - storytelling_as_power
+    - sacred_knowledge
+    related_group_ids:
+    - world_center
+    - sacred_combat
+    - death_and_transformation
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Heroic groups cover the deed, but not the
+      etiological naming function.
+- suggestion_id: normalization.suggestion.place-name-etiology-from-scattered-body-parts-and-actions
+  motif_id: place_name_etiology_from_scattered_body_parts_and_actions
+  label: Place-name etiology from scattered body parts and actions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Etiology and Toponymic Memory
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif explains place-names through remembered bodily remains and
+    actions, a toponymic etiology pattern.
+  cautions: Could overlap with primordial sacrifice or death transformation only if
+    the body parts cosmologically form or transform the landscape.
+  suggested_aliases:
+  - place-name from scattered body parts
+  - toponymic memory of dismemberment
+  suggested_new_group:
+    id: place_name_etiology
+    label: Place-Name Etiology and Toponymic Memory
+    description: Narratives that explain the origin, meaning, or memory of a place-name
+      through a mythic event, deed, death, utterance, body part, or transformation
+      associated with that location.
+    parent_group_ids:
+    - storytelling_as_power
+    - sacred_knowledge
+    related_group_ids:
+    - world_center
+    - sacred_combat
+    - death_and_transformation
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Body and death groups do not adequately represent
+      the narrative explanation of local place-names.
+- suggestion_id: normalization.suggestion.place-name-etiology-from-violent-events
+  motif_id: place_name_etiology_from_violent_events
+  label: Place-name etiology from violent events
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Etiology and Toponymic Memory
+  relationship: narrower_than
+  confidence: medium
+  rationale: The primary function is to explain a place-name through remembered violence.
+  cautions: Secondary mapping to sacred_combat, divine_warrior, or lament_and_mourning
+    depends on the type and significance of the violence.
+  suggested_aliases:
+  - place-name from violent event
+  - toponymic memory of violence
+  suggested_new_group:
+    id: place_name_etiology
+    label: Place-Name Etiology and Toponymic Memory
+    description: Narratives that explain the origin, meaning, or memory of a place-name
+      through a mythic event, deed, death, utterance, body part, or transformation
+      associated with that location.
+    parent_group_ids:
+    - storytelling_as_power
+    - sacred_knowledge
+    related_group_ids:
+    - world_center
+    - sacred_combat
+    - death_and_transformation
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Combat and violence groups cover the event
+      type, but not naming etiology.
+- suggestion_id: normalization.suggestion.place-name-explained-by-a-violent-landmark-deed
+  motif_id: place_name_explained_by_a_violent_landmark_deed
+  label: Place-name explained by a violent landmark deed
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Etiology and Toponymic Memory
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is an etiological place-name explanation tied to a memorable violent
+    deed.
+  cautions: The deed may be heroic, criminal, sacrificial, or martial; source context
+    is needed for secondary classification.
+  suggested_aliases:
+  - place-name from violent deed
+  - landmark deed toponym
+  suggested_new_group:
+    id: place_name_etiology
+    label: Place-Name Etiology and Toponymic Memory
+    description: Narratives that explain the origin, meaning, or memory of a place-name
+      through a mythic event, deed, death, utterance, body part, or transformation
+      associated with that location.
+    parent_group_ids:
+    - storytelling_as_power
+    - sacred_knowledge
+    related_group_ids:
+    - world_center
+    - sacred_combat
+    - death_and_transformation
+    - lament_and_mourning
+    reason_existing_groups_insufficient: No existing group captures place-name explanation
+      as a narrative function.
+- suggestion_id: normalization.suggestion.place-name-explained-by-remembered-event-or-saying
+  motif_id: place_name_explained_by_remembered_event_or_saying
+  label: place-name explained by remembered event or saying
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Etiology and Toponymic Memory
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly states a place-name explanation through memory of
+    an event or utterance.
+  cautions: If this is only an editorial gloss on a place-name, exclude as commentary;
+    if embedded in narrative, keep under toponymic etiology.
+  suggested_aliases:
+  - place-name from remembered saying
+  - place-name from remembered event
+  - toponymic memory
+  suggested_new_group:
+    id: place_name_etiology
+    label: Place-Name Etiology and Toponymic Memory
+    description: Narratives that explain the origin, meaning, or memory of a place-name
+      through a mythic event, deed, death, utterance, body part, or transformation
+      associated with that location.
+    parent_group_ids:
+    - storytelling_as_power
+    - sacred_knowledge
+    related_group_ids:
+    - world_center
+    - sacred_combat
+    - death_and_transformation
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Storytelling and sacred knowledge are too
+      broad; the recurring toponymic explanation function deserves a review candidate.
+- suggestion_id: normalization.suggestion.place-name-explained-by-violent-event
+  motif_id: place_name_explained_by_violent_event
+  label: place-name explained by violent event
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Etiology and Toponymic Memory
+  relationship: narrower_than
+  confidence: medium
+  rationale: This duplicates the toponymic-etiology pattern with violence as the remembered
+    cause.
+  cautions: Likely merge with other violent-event place-name variants during normalization;
+    preserve exact wording as evidence detail.
+  suggested_aliases:
+  - place-name from violent event
+  - toponymic memory of violence
+  suggested_new_group:
+    id: place_name_etiology
+    label: Place-Name Etiology and Toponymic Memory
+    description: Narratives that explain the origin, meaning, or memory of a place-name
+      through a mythic event, deed, death, utterance, body part, or transformation
+      associated with that location.
+    parent_group_ids:
+    - storytelling_as_power
+    - sacred_knowledge
+    related_group_ids:
+    - world_center
+    - sacred_combat
+    - death_and_transformation
+    - lament_and_mourning
+    reason_existing_groups_insufficient: No existing group represents etiological
+      naming, while violence-focused groups would lose the naming function.
+- suggestion_id: normalization.suggestion.place-name-from-battle-slaughter
+  motif_id: place_name_from_battle_slaughter
+  label: Place-name from battle slaughter
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Etiology and Toponymic Memory
+  relationship: narrower_than
+  confidence: medium
+  rationale: The place-name is explained by battle slaughter, making it a specific
+    toponymic etiology.
+  cautions: Could receive secondary mapping to sacred_combat or lament_and_mourning
+    if the battle or commemoration is narratively central.
+  suggested_aliases:
+  - battle-slaughter toponym
+  - place-name from battlefield slaughter
+  - place-name from battle
+  suggested_new_group:
+    id: place_name_etiology
+    label: Place-Name Etiology and Toponymic Memory
+    description: Narratives that explain the origin, meaning, or memory of a place-name
+      through a mythic event, deed, death, utterance, body part, or transformation
+      associated with that location.
+    parent_group_ids:
+    - storytelling_as_power
+    - sacred_knowledge
+    related_group_ids:
+    - world_center
+    - sacred_combat
+    - death_and_transformation
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Sacred combat covers the battle, but not
+      the etiological naming outcome.
+batch_notes:
+- This batch forms a coherent cluster of toponymic etiology labels. Human reviewers
+  should decide whether to add a normalization group such as place_name_etiology or
+  to exclude purely editorial place-name glosses from pattern queries.
+- Do not treat these placements as evidence of transmission between Greek and Celtic/Irish
+  traditions; the suggested group is functional only.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: 'Provisional recommendation: create a review-level normalization group for
+    place-name etiology, with secondary mappings assigned only after passage evidence
+    is checked.'
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0820
+  input_sha256: 10e319887580c5fcad9278091220d9f048f0229800b38485c1a836a1ad3c3e06
+

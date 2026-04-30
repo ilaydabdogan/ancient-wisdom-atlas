@@ -1,0 +1,323 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0821
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.place-name-origin-from-a-narrative-event
+  motif_id: place_name_origin_from_a_narrative_event
+  label: Place-name origin from a narrative event
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Origin and Toponymic Memory
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes an etiological naming pattern where narrative events
+    explain or preserve place identity.
+  cautions: Single occurrence; may be too generated or passage-specific unless more
+    toponymic etiologies recur.
+  suggested_aliases:
+  - toponymic etiology
+  - place-name etiology
+  - narrative origin of place-name
+  suggested_new_group:
+    id: toponymic_memory
+    label: Place-Name Origin and Toponymic Memory
+    description: Stories that explain, preserve, or authorize a place-name through
+      a remembered event, person, action, suffering, or mythic occurrence.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - sacred_knowledge
+    - hero_journey
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing groups cover sacred narrative and
+      memory broadly, but not the recurring etiological function of naming places
+      through story.
+- suggestion_id: normalization.suggestion.place-name-origin-from-abducted-companion
+  motif_id: place_name_origin_from_abducted_companion
+  label: place-name origin from abducted companion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Origin and Toponymic Memory
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a specific toponymic etiology tied to abduction or loss of a
+    companion.
+  cautions: Could also relate to stolen_beloved or otherworld abduction if the passage
+    emphasizes the abduction rather than the naming result.
+  suggested_aliases:
+  - toponym from abducted companion
+  - place-name from lost companion
+  suggested_new_group:
+    id: toponymic_memory
+    label: Place-Name Origin and Toponymic Memory
+    description: Stories that explain, preserve, or authorize a place-name through
+      a remembered event, person, action, suffering, or mythic occurrence.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - stolen_beloved
+    - otherworld
+    - lament_and_mourning
+    reason_existing_groups_insufficient: The naming function is not captured by abduction
+      or loss motifs alone.
+- suggestion_id: normalization.suggestion.place-name-origin-from-heroic-or-royal-action
+  motif_id: place_name_origin_from_heroic_or_royal_action
+  label: place-name origin from heroic or royal action
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Origin and Toponymic Memory
+  relationship: narrower_than
+  confidence: medium
+  rationale: A heroic or royal deed is used to explain and memorialize a place-name.
+  cautions: May need secondary indexing to hero_journey or royal_legitimacy if the
+    deed itself is central.
+  suggested_aliases:
+  - toponym from heroic deed
+  - toponym from royal deed
+  - place-name from royal action
+  suggested_new_group:
+    id: toponymic_memory
+    label: Place-Name Origin and Toponymic Memory
+    description: Stories that explain, preserve, or authorize a place-name through
+      a remembered event, person, action, suffering, or mythic occurrence.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - hero_journey
+    - royal_legitimacy
+    - culture_hero
+    reason_existing_groups_insufficient: Heroic and royal groups do not specifically
+      cover etiological naming and place-memory.
+- suggestion_id: normalization.suggestion.place-name-origin-through-army-action
+  motif_id: place_name_origin_through_army_action
+  label: place-name origin through army action
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Origin and Toponymic Memory
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif explains a place-name through collective military action or
+    campaign memory.
+  cautions: Could be episode-specific; sacred_combat may be a secondary mapping if
+    warfare is narratively important.
+  suggested_aliases:
+  - toponym from army action
+  - battlefield place-name etiology
+  - place-name from military event
+  suggested_new_group:
+    id: toponymic_memory
+    label: Place-Name Origin and Toponymic Memory
+    description: Stories that explain, preserve, or authorize a place-name through
+      a remembered event, person, action, suffering, or mythic occurrence.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Combat groups cover warfare but not the etiological
+      naming of places from remembered events.
+- suggestion_id: normalization.suggestion.place-name-preserving-memory-of-a-legendary-event-or-person
+  motif_id: place_name_preserving_memory_of_a_legendary_event_or_person
+  label: place-name preserving memory of a legendary event or person
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Place-Name Origin and Toponymic Memory
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly treats place-names as vehicles of legendary memory.
+  cautions: Review whether the item is a narrative motif or a scholarly place-name
+    note in the source.
+  suggested_aliases:
+  - toponymic memory
+  - legendary place-name memory
+  - place-name as memorial
+  suggested_new_group:
+    id: toponymic_memory
+    label: Place-Name Origin and Toponymic Memory
+    description: Stories that explain, preserve, or authorize a place-name through
+      a remembered event, person, action, suffering, or mythic occurrence.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - sacred_knowledge
+    - lament_and_mourning
+    - hero_journey
+    reason_existing_groups_insufficient: The function of place-name as narrative memory
+      is distinct from general storytelling, heroic action, or lament.
+- suggestion_id: normalization.suggestion.place-of-past-suffering-revives-painful-memory
+  motif_id: place_of_past_suffering_revives_painful_memory
+  label: place of past suffering revives painful memory
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: A place triggering painful recollection fits grief, loss, and tragic
+    recognition.
+  cautions: If the place itself is the main sacred or etiological focus, toponymic_memory
+    or another place-memory group could be relevant.
+  suggested_aliases:
+  - place-memory of suffering
+  - landscape of grief
+  - memory revived by place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poetic-song-as-peacemaking-force
+  motif_id: poetic_song_as_peacemaking_force
+  label: Poetic song as peacemaking force
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: high
+  rationale: Poetic utterance functions as an efficacious power that resolves conflict
+    or restores social order.
+  cautions: Could also map to sacred_knowledge if the emphasis is inspired wisdom
+    rather than narrative performance.
+  suggested_aliases:
+  - song as peacemaking
+  - poetry pacifies conflict
+  - sacred song restores peace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pre-existence-before-names
+  motif_id: pre_existence_before_names
+  label: pre-existence before names
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase may describe a mystical metaphysics of pre-formal being before
+    naming and differentiation.
+  cautions: Ambiguous without passage evidence; could belong to annihilation_union,
+    cosmic_origin, sacred_knowledge, or be a doctrinal abstraction rather than motif.
+  suggested_aliases:
+  - being before names
+  - preverbal existence
+  - pre-differentiated being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-and-songbird-encounter
+  motif_id: predator_and_songbird_encounter
+  label: predator and songbird encounter
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too generic to determine whether the function is fable wisdom,
+    perilous song, animal trickery, or predation.
+  cautions: Do not map to sacred song or threshold guardian unless the songbird’s
+    song has a sacred, prophetic, or lethal function in the passage.
+  suggested_aliases:
+  - predator-songbird encounter
+  - animal encounter with songbird
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-exploits-division-among-prey
+  motif_id: predator_exploits_division_among_prey
+  label: predator exploits division among prey
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: This reads as a moral or practical wisdom motif about division making
+    a group vulnerable.
+  cautions: Could warrant a future fable/animal-wisdom group if many similar animal
+    exempla recur; avoid treating predator as trickster without evidence of deception
+    or boundary crossing.
+  suggested_aliases:
+  - division among prey invites predation
+  - disunity exploited by predator
+  - moral exemplum of disunity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are toponymic etiologies. A dedicated review group for
+  place-name origin and topographic memory may be useful if similar labels recur across
+  Celtic and other traditions.
+- Animal fable-like labels may need a future animal-wisdom or fable-exemplum group,
+  but the present labels are too sparse for confident promotion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for whether
+    labels are narrative motifs, etiological notes, or scholarly artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0821
+  input_sha256: ba92e99689e45d74c02210ee9dfe781a42835ec6f3534c4233c9d990d4835a76
+

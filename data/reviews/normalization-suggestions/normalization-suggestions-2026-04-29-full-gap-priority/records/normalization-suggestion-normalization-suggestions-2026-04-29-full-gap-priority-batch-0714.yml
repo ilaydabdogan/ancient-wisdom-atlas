@@ -1,0 +1,323 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0714
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ceremonial-arrival-of-the-bridegroom-with-retinue
+  motif_id: ceremonial_arrival_of_the_bridegroom_with_retinue
+  label: ceremonial arrival of the bridegroom with retinue
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a wedding-procession detail, sacred marriage variant, or passage-specific
+    ceremonial description.
+  cautions: Single occurrence; do not map to hero_journey merely because it involves
+    arrival.
+  suggested_aliases:
+  - bridal procession
+  - bridegroom procession
+  - wedding arrival with retinue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_marriage
+    - sacred_love
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.challenge-contests-at-arrival-among-another-people
+  motif_id: challenge_contests_at_arrival_among_another_people
+  label: challenge contests at arrival among another people
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Arrival followed by challenge contests functions as a threshold ordeal
+    testing status among outsiders.
+  cautions: If the contests are primarily warfare or sovereignty contests, sacred_combat
+    or royal_legitimacy may be better secondary mappings.
+  suggested_aliases:
+  - arrival challenge contests
+  - threshold contests among strangers
+  - contest on arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.claim-to-divide-the-earth-rejected-by-divine-ownership
+  motif_id: claim_to_divide_the_earth_rejected_by_divine_ownership
+  label: claim to divide the earth rejected by divine ownership
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A human claim over the earth is corrected by divine ownership and sacred
+    authority.
+  cautions: May be a legal-theological teaching rather than a narrative motif; review
+    passage context before final mapping.
+  suggested_aliases:
+  - divine ownership rejects human division of earth
+  - earth belongs to God
+  - human territorial claim rebuked
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-kinship-with-sacred-object
+  motif_id: clan_kinship_with_sacred_object
+  label: clan kinship with sacred object
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe totemic kinship, object cult, clan identity, or
+    comparative commentary.
+  cautions: Tradition is comparative and the wording may be an analytic artifact;
+    source evidence is needed before mapping.
+  suggested_aliases:
+  - kinship with sacred object
+  - clan-object kinship
+  - totemic object kinship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_law
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.close-friendship-carried-across-births
+  motif_id: close_friendship_carried_across_births
+  label: close friendship carried across births
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Karmic Continuity Across Births
+  relationship: narrower_than
+  confidence: medium
+  rationale: Friendship persisting through rebirth depends on reincarnation and karmic
+    continuity not cleanly covered by current groups.
+  cautions: Could be folded under sacred_love if affective devotion is central, but
+    the rebirth-continuity function is distinct.
+  suggested_aliases:
+  - friendship across rebirths
+  - bond carried across births
+  - karmic friendship
+  suggested_new_group:
+    id: karmic_continuity
+    label: Karmic Continuity Across Births
+    description: Relationships, vows, traits, debts, merits, or recognitions persist
+      across multiple births or lives and shape later encounters or destinies.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - sacred_love
+    - sacred_law
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing death_and_transformation covers
+      renewal broadly but does not distinguish rebirth-continuity of relationships
+      or karmic bonds.
+- suggestion_id: normalization.suggestion.colossal-ship-of-giants
+  motif_id: colossal_ship_of_giants
+  label: colossal ship of giants
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A giant ship may be a mythic vessel, eschatological object, or episode-specific
+    object detail.
+  cautions: Do not map to ark_vessel unless it preserves life through catastrophe;
+    Norse context may involve apocalyptic combat rather than renewal.
+  suggested_aliases:
+  - giants' ship
+  - colossal mythic ship
+  - giant vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    - flood_and_renewal
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coming-or-arrival-of-named-peoples-or-beings
+  motif_id: coming_or_arrival_of_named_peoples_or_beings
+  label: coming or arrival of named peoples or beings
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_race
+  suggested_group_label: Divine Race and Arrival of the Gods
+  relationship: broader_label
+  confidence: medium
+  rationale: The group already covers arrival of divine or semi-divine peoples who
+    settle, conquer, or bring order.
+  cautions: If the named peoples are ordinary migrants rather than divine or mythic
+    beings, this may be a historical/ethnographic origin note needing review.
+  suggested_aliases:
+  - arrival of named peoples
+  - coming of mythic peoples
+  - arrival of beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-boundary-through-prohibited-friendship
+  motif_id: communal_boundary_through_prohibited_friendship
+  label: communal boundary through prohibited friendship
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Prohibited friendship marks social-religious boundaries through sacred
+    law and communal order.
+  cautions: May be a legal or exegetical command rather than a mythic motif; handle
+    culturally sensitive boundary language carefully.
+  suggested_aliases:
+  - prohibited friendship as communal boundary
+  - forbidden alliance marks community
+  - social boundary through friendship prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-family-and-assigned-kinship
+  motif_id: communal_family_and_assigned_kinship
+  label: Communal family and assigned kinship
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like social organization or philosophical/political
+    prescription rather than a clear narrative motif.
+  cautions: Could belong to sacred_law or royal_legitimacy if it establishes sacred
+    social order, but may be passage commentary.
+  suggested_aliases:
+  - assigned kinship
+  - communal family
+  - constructed communal kinship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-kinship-among-guardians
+  motif_id: communal_kinship_among_guardians
+  label: Communal kinship among guardians
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be political-social organization among guardian figures, not
+    a recurring mythic motif.
+  cautions: Do not confuse social guardians with threshold_guardian unless they guard
+    a liminal passage or sacred boundary.
+  suggested_aliases:
+  - kinship among guardians
+  - guardian class communal kinship
+  - communal guardian family
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be social, legal, or episode-specific rather
+  than journey motifs despite the review bucket.
+- Single-occurrence items should remain provisional; avoid promoting culturally or
+  textually specific phrasing without source review.
+- A rebirth-continuity group may be useful if additional Buddhist, Jain, Hindu, or
+  related reincarnation motifs recur.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed for context-sensitive
+    and single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0714
+  input_sha256: 0e029e9e390916eb5a3b0b736a67a9626ecbf1b28af0f55fdf8d9993ae4e23e8
+

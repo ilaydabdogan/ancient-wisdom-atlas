@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0719
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.distinguished-captive-placed-aboard-ships-as-surpassing-prize
+  motif_id: distinguished_captive_placed_aboard_ships_as_surpassing_prize
+  label: distinguished captive placed aboard ships as surpassing prize
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an episode-specific detail about a captive as booty
+    rather than a durable journey motif.
+  cautions: If the passage centers on captive-taking, war prize exchange, or abduction
+    as a quest trigger, review under sacred_combat or stolen_beloved instead.
+  suggested_aliases:
+  - captive as war prize
+  - distinguished captive as prize aboard ships
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-and-elemental-aid-requested-for-sea-voyage
+  motif_id: divine_and_elemental_aid_requested_for_sea_voyage
+  label: Divine and elemental aid requested for sea voyage
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on requesting sacred or elemental help for safe travel,
+    fitting divine guidance in human affairs.
+  cautions: Sea-voyage specificity should remain evidence detail; if the water crossing
+    itself is transformative, add sacred_waters as secondary review context.
+  suggested_aliases:
+  - divine aid for sea voyage
+  - elemental aid for sea journey
+  - supernatural aid requested for voyage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-assistance-for-journey-by-weather
+  motif_id: divine_assistance_for_journey_by_weather
+  label: divine assistance for journey by weather
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Weather is the medium through which sacred power aids or redirects a
+    journey.
+  cautions: Do not create a weather motif from a single travel-aid label unless weather-control
+    variants recur across sources.
+  suggested_aliases:
+  - weather as divine travel aid
+  - divinely sent favorable weather
+  - supernatural weather assistance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-care-for-orphan-wanderer-and-needy-person
+  motif_id: divine_care_for_orphan_wanderer_and_needy_person
+  label: divine care for orphan, wanderer, and needy person
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Care for vulnerable persons is an ethical-social obligation grounded
+    in sacred order, close to social_care.
+  cautions: If the passage emphasizes direct divine rescue rather than ethical command,
+    divine_intervention may be a secondary placement.
+  suggested_aliases:
+  - divine care for the orphan
+  - protection of wanderer and needy
+  - sacred care for vulnerable persons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-chariot-journey-to-a-sacred-place
+  motif_id: divine_chariot_journey_to_a_sacred_place
+  label: divine chariot journey to a sacred place
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divinely conveyed journey to a charged sacred destination fits the
+    broader journey/departure pattern.
+  cautions: If the sacred place is a cosmic center, axis_mundi may be more important;
+    if the chariot is the focus, sacred_treasures or sacred_craft may be secondary.
+  suggested_aliases:
+  - sacred chariot journey
+  - divine vehicle journey to sanctuary
+  - journey by divine chariot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-concealment-during-armed-departure
+  motif_id: divine_concealment_during_armed_departure
+  label: divine concealment during armed departure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity conceals or protects a figure at departure, functioning as direct
+    supernatural aid.
+  cautions: Armed departure may also belong to sacred_combat or hero_journey depending
+    on whether the combat mission or the divine concealment is primary.
+  suggested_aliases:
+  - divine concealment at departure
+  - supernatural concealment during armed journey
+  - divine protection in departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-conflict-over-a-people-s-sea-journey
+  motif_id: divine_conflict_over_a_people_s_sea_journey
+  label: divine conflict over a people's sea journey
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Competing divine actions shape a communal sea journey, fitting divine
+    intervention in human affairs.
+  cautions: If the conflict establishes cosmic order, divine_warrior or divine_judgment
+    may be relevant; if the voyage is founding-exile, hero_journey or royal_legitimacy
+    may be secondary.
+  suggested_aliases:
+  - divine dispute over sea voyage
+  - gods contest a people's journey
+  - divine opposition during communal voyage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-craftsmanship-and-radiant-vehicle
+  motif_id: divine_craftsmanship_and_radiant_vehicle
+  label: Divine craftsmanship and radiant vehicle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: The label emphasizes divinely made craft and a radiant vehicle, matching
+    sacred construction and crafted power objects.
+  cautions: If the vehicle confers authority or mobility more than craftsmanship,
+    sacred_treasures may be a secondary placement.
+  suggested_aliases:
+  - divinely crafted radiant vehicle
+  - divine vehicle craftsmanship
+  - radiant vehicle of divine making
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-deliverance-from-danger-followed-by-renewed-false-worship
+  motif_id: divine_deliverance_from_danger_followed_by_renewed_false_worship
+  label: divine deliverance from danger followed by renewed false worship
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Deliverance followed by renewed false worship fits broken sacred obligation
+    after divine aid.
+  cautions: Could also map to divine_judgment if punishment or moral reckoning is
+    central; review wording around 'false worship' for source-sensitive framing.
+  suggested_aliases:
+  - deliverance followed by apostasy
+  - rescue followed by renewed false worship
+  - broken devotion after divine rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-during-sea-voyage
+  motif_id: divine_intervention_during_sea_voyage
+  label: divine intervention during sea voyage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: alias
+  confidence: high
+  rationale: This is a direct instance of supernatural action affecting human travel.
+  cautions: Sea-voyage detail should not force sacred_waters unless water functions
+    as boundary, purifier, or transformative medium.
+  suggested_aliases:
+  - divine aid during sea voyage
+  - supernatural intervention at sea
+  - god intervenes in voyage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are voyage-specific variants of divine_intervention
+  rather than independent journey motifs.
+- Avoid treating sea travel as flood, descent, or sacred water unless the passage
+  evidence shows destruction-renewal, underworld passage, purification, or boundary
+  transformation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review should check source context for
+    episode-specific Greek and Roman voyage labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0719
+  input_sha256: 262a5ad1588a478d035b30f85885ebe9b244b1f5b36d1b6f816f9931e863d125
+

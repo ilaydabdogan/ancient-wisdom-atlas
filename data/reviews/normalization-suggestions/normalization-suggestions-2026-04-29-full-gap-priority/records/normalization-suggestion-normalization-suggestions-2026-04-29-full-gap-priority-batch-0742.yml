@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0742
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.risky-inside-passage-wins-advantage
+  motif_id: risky_inside_passage_wins_advantage
+  label: risky inside passage wins advantage
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: A risky passage that wins advantage may be a journey ordeal or tactical
+    episode, but the label lacks enough ritual or transformative function.
+  cautions: Could be a passage-specific military/navigation detail rather than a durable
+    motif; verify source context before indexing.
+  suggested_aliases:
+  - perilous passage gains advantage
+  - dangerous route wins advantage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-boundary-around-pilgrimage
+  motif_id: ritual_boundary_around_pilgrimage
+  label: ritual boundary around pilgrimage
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual boundary around pilgrimage is a sacred regulation of movement,
+    purity, and access.
+  cautions: Could also support initiation, pilgrimage, or sacred center analysis if
+    the passage emphasizes transformation or destination rather than rule.
+  suggested_aliases:
+  - pilgrimage boundary rite
+  - sacred boundary around pilgrimage
+  - ritual limits of pilgrimage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-derision-or-defective-worship-at-a-holy-house
+  motif_id: ritual_derision_or_defective_worship_at_a_holy_house
+  label: Ritual derision or defective worship at a holy house
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Defective worship at a holy house may imply violation of sacred order
+    and possible judgment.
+  cautions: Culturally sensitive and context-dependent; may be polemical commentary,
+    ritual law, or historical critique rather than a motif.
+  suggested_aliases:
+  - defective worship at sacred house
+  - ritual mockery at holy house
+  - improper worship at sanctuary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-passage-of-cattle-through-fire
+  motif_id: ritual_passage_of_cattle_through_fire
+  label: ritual passage of cattle through fire
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on ritual movement through fire as purification or
+    protection for cattle.
+  cautions: If the rite is primarily expulsion of disease or misfortune, sacred_law
+    or sacrifice may be relevant secondary groups.
+  suggested_aliases:
+  - cattle passed through sacred fire
+  - fire purification of cattle
+  - livestock fire-passage rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-pilgrimage-to-a-sacred-destination
+  motif_id: ritual_pilgrimage_to_a_sacred_destination
+  label: ritual pilgrimage to a sacred destination
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Pilgrimage and Sacred Journey
+  relationship: child
+  confidence: medium
+  rationale: Pilgrimage is a recurring ritual journey to a sacred destination, not
+    fully captured by generic hero journey or mystical quest.
+  cautions: Single occurrence in this batch; confirm recurrence across sources before
+    adding a canonical group.
+  suggested_aliases:
+  - sacred pilgrimage
+  - ritual journey to holy place
+  - pilgrimage to sacred destination
+  suggested_new_group:
+    id: pilgrimage_sacred_journey
+    label: Pilgrimage and Sacred Journey
+    description: Ritualized travel to a holy site, shrine, sanctuary, or sacred center,
+      often involving prescribed movement, boundaries, purification, rites, or return
+      with altered status.
+    parent_group_ids:
+    - hero_journey
+    - sacred_law
+    - axis_mundi
+    related_group_ids:
+    - world_center
+    - initiation
+    - mystical_quest
+    - sacred_exchange
+    reason_existing_groups_insufficient: Hero_journey covers narrative departure and
+      return, while sacred_law covers ritual rules; neither cleanly captures pilgrimage
+      as a formal ritual journey to a sacred destination.
+- suggestion_id: normalization.suggestion.ritual-preparation-before-journey
+  motif_id: ritual_preparation_before_journey
+  label: ritual preparation before journey
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Preparation before a charged journey fits the departure phase of a journey
+    pattern, with ritual coloring.
+  cautions: If the preparation is an offering, vow, or purity rite, sacrifice, sacred_exchange,
+    or sacred_law may be better primary mappings.
+  suggested_aliases:
+  - pre-journey ritual preparation
+  - ritual preparation for departure
+  - journey departure rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-request-for-augury-before-a-perilous-journey
+  motif_id: ritual_request_for_augury_before_a_perilous_journey
+  label: ritual request for augury before a perilous journey
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Augury is a divinatory request for signs before danger, aligning with
+    vision, omen, and revealed guidance.
+  cautions: Could also map to divine_intervention if the emphasis is divine guidance,
+    or hero_journey if the omen only frames departure.
+  suggested_aliases:
+  - augury before perilous journey
+  - divination before travel
+  - omen request before journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-equal-combat-with-weapon-choice-by-arrival-at-the-ford
+  motif_id: ritualized_equal_combat_with_weapon_choice_by_arrival_at_the_ford
+  label: ritualized equal combat with weapon choice by arrival at the ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: high
+  rationale: A formalized ford combat with weapon choice fits ritualized warfare and
+    single combat at liminal crossings.
+  cautions: The ford detail may also support threshold_guardian or uncanny_ford_encounter,
+    but the main function is combat protocol.
+  suggested_aliases:
+  - ritual combat at the ford
+  - equal combat at ford crossing
+  - weapon-choice duel at ford
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-predator-interrupts-tribute-journey
+  motif_id: rival_predator_interrupts_tribute_journey
+  label: rival predator interrupts tribute journey
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: A predator interrupting a journey may function as a perilous threshold
+    encounter or ordeal.
+  cautions: Highly contextual; could be animal fable, tribute/social exchange episode,
+    allegory, or passage artifact rather than a motif.
+  suggested_aliases:
+  - predator interrupts tribute journey
+  - animal threat on tribute journey
+  - rival beast blocks offering journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.river-crossing-aided-by-powerful-helper
+  motif_id: river_crossing_aided_by_powerful_helper
+  label: river crossing aided by powerful helper
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: high
+  rationale: Aided river crossing fits water as boundary and transformative passage,
+    especially where a helper enables safe crossing.
+  cautions: If the helper is the focus, divine_intervention may be a secondary mapping;
+    do not treat as flood unless catastrophic renewal is present.
+  suggested_aliases:
+  - aided river crossing
+  - helper enables water crossing
+  - powerful helper at river passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch concern pilgrimage or ritualized journey. A dedicated
+  pilgrimage_sacred_journey group may be useful if similar labels recur across traditions.
+- Do not infer transmission or common origin from the proposed placements; these are
+  semantic normalization suggestions only.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0742
+  input_sha256: 22116596e8abf6f31f5e808d4611bad8b1cbae464cb16888453533751f70b539
+

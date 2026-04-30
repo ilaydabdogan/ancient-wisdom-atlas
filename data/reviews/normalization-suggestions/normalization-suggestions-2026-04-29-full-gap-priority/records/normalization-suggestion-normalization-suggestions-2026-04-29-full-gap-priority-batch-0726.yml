@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0726
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.helpful-bee-requested-to-bring-sweetness
+  motif_id: helpful_bee_requested_to_bring_sweetness
+  label: Helpful bee requested to bring sweetness
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A helpful animal messenger or helper is implied, but no current group
+    cleanly covers benevolent animal aid or sweetness-gathering without source context.
+  cautions: Single occurrence and culturally specific wording; could be healing, magical
+    assistance, animal helper, or passage detail rather than journey motif.
+  suggested_aliases:
+  - helpful bee
+  - bee brings sweetness
+  - animal helper brings sweetness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.helpful-sea-maidens-guiding-favored-ships
+  motif_id: helpful_sea_maidens_guiding_favored_ships
+  label: Helpful sea maidens guiding favored ships
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural sea maidens guide ships, matching divine or spirit guidance
+    in human travel.
+  cautions: If the sea maidens primarily mark an enchanted marine realm, otherworld
+    may be a secondary mapping; avoid treating as threshold guardians unless passage
+    involves blocked passage or ordeal.
+  suggested_aliases:
+  - supernatural sea guidance
+  - sea maidens guide ships
+  - spirit-guided voyage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hermit-hospitality-to-royal-forest-travelers
+  motif_id: hermit_hospitality_to_royal_forest_travelers
+  label: Hermit hospitality to royal forest travelers
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hospitality to travelers, especially by a hermit, functions as reciprocal
+    sacred or ethical exchange during a journey.
+  cautions: Could also be a contextual travel episode or royal-exile detail; map to
+    hero_journey only if the hospitality advances a transformative quest.
+  suggested_aliases:
+  - hermit hospitality
+  - hospitality to travelers
+  - forest hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-avenges-a-slain-traveler-by-killing-giants
+  motif_id: hero_avenges_a_slain_traveler_by_killing_giants
+  label: Hero avenges a slain traveler by killing giants
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero kills giant adversaries to avenge wrongful death, fitting sacred
+    or heroic combat restoring order.
+  cautions: The label is episode-specific; if the emphasis is vengeance ethics rather
+    than combat, divine_judgment or sacred_combat may be better.
+  suggested_aliases:
+  - heroic vengeance against giants
+  - avenging slain traveler
+  - giant-slaying revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-cuts-passage-through-mountain
+  motif_id: hero_cuts_passage_through_mountain
+  label: hero cuts passage through mountain
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: Creating a passage through a mountain is a heroic construction or landscape-altering
+    act enabling movement.
+  cautions: Could belong with cosmic_mountain/axis_mundi if the mountain is sacred
+    center, or culture_hero if the act opens a route for humanity; source context
+    needed.
+  suggested_aliases:
+  - mountain passage cut by hero
+  - hero opens mountain route
+  - landscape-altering passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-questioned-about-wanderings
+  motif_id: hero_questioned_about_wanderings
+  label: hero questioned about wanderings
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Questioning a hero about wanderings is a narrative return or travel-account
+    frame within the hero journey complex.
+  cautions: Likely a scene function rather than a durable motif; exclude if it merely
+    records dialogue setup without transformation, return, or wisdom transmission.
+  suggested_aliases:
+  - hero recounts wanderings
+  - questioning about travels
+  - travel narrative frame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-rescues-royal-pair-from-perilous-crossing
+  motif_id: hero_rescues_royal_pair_from_perilous_crossing
+  label: Hero rescues royal pair from perilous crossing
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A perilous crossing with rescue centers on dangerous passage through
+    a boundary medium, likely water or liminal travel.
+  cautions: If the crossing is not water, threshold_guardian or hero_journey may fit
+    better; royal status may be incidental unless legitimacy is at stake.
+  suggested_aliases:
+  - rescue at perilous crossing
+  - heroic crossing rescue
+  - royal pair rescued in passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-arrival-in-a-splendid-chariot
+  motif_id: heroic_arrival_in_a_splendid_chariot
+  label: heroic arrival in a splendid chariot
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may mark heroic status, royal display, or a travel scene, but
+    the motif function is unclear from wording alone.
+  cautions: Likely over-specific unless chariot arrival recurs as recognition, theophany,
+    kingship, or combat-entry pattern.
+  suggested_aliases:
+  - splendid chariot arrival
+  - hero arrives in chariot
+  - heroic vehicle display
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - royal_legitimacy
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-conquest-of-inner-afflictions
+  motif_id: heroic_conquest_of_inner_afflictions
+  label: heroic conquest of inner afflictions
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: Conquering inner afflictions is an interior spiritual ordeal on the path
+    toward purification or realization.
+  cautions: Could also map to annihilation_union if ego-dissolution is explicit; avoid
+    treating as martial combat despite heroic wording.
+  suggested_aliases:
+  - inner afflictions conquered
+  - spiritual combat with the self
+  - interior heroic conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-fellowship-bound-by-joy-and-courtesy
+  motif_id: heroic_fellowship_bound_by_joy_and_courtesy
+  label: heroic fellowship bound by joy and courtesy
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes social ethos among heroes but does not clearly match
+    an existing journey, covenant, or royal-order motif.
+  cautions: May be a literary characterization or courtly value rather than a recurring
+    mythic pattern; source context needed before grouping.
+  suggested_aliases:
+  - heroic fellowship
+  - courteous heroic band
+  - joyful warrior fellowship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_combat
+    - covenant
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  as evidence details unless recurrence or clear narrative function is confirmed.
+- Journey-bucket labels often mix travel setting with other functions such as hospitality,
+  divine guidance, sacred combat, or interior mystical ordeal.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for provisional taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0726
+  input_sha256: 40f45bb95b07e652bf7e16d974fe16de50d0ee0e0274fdbaf90f8d762638f35d
+

@@ -1,0 +1,329 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0759
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-model-for-human-guardian
+  motif_id: animal_model_for_human_guardian
+  label: animal model for human guardian
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to an animal exemplar for a guardian role, but the
+    narrative function is unclear from wording alone.
+  cautions: Could be a fable moral, simile, role model, threshold-guardian analogy,
+    or commentary artifact; needs passage evidence.
+  suggested_aliases:
+  - animal exemplar for guardian
+  - animal guardian model
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-mourning-for-human-master-or-companions
+  motif_id: animal_mourning_for_human_master_or_companions
+  label: animal mourning for human master or companions
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is mourning and grief for a human figure, with the
+    animal role as local expression.
+  cautions: If the passage emphasizes animal loyalty more than lament, a future animal-helper
+    group may be preferable; single occurrence is granular.
+  suggested_aliases:
+  - animal lament for master
+  - animal grief for companion
+  - loyal animal mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-nature-corrupted-by-training-instruments
+  motif_id: animal_nature_corrupted_by_training_instruments
+  label: animal nature corrupted by training instruments
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: The label appears to express a Daoist critique of artificial discipline
+    disrupting natural order, which best fits normative social/cosmic order among
+    existing groups.
+  cautions: May be philosophical commentary rather than a motif; consider exclusion
+    if it is an abstract argument rather than narrative imagery.
+  suggested_aliases:
+  - training corrupts animal nature
+  - artifice corrupts natural animal state
+  - coercive training against nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-omen-interpreted-as-war-and-peace
+  motif_id: animal_omen_interpreted_as_war_and_peace
+  label: animal omen interpreted as war and peace
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal sign interpreted as a political or military omen functions
+    as revelation or divinatory perception.
+  cautions: If embedded in formal augury or state ritual, sacred_law or divine_intervention
+    may be secondary; preserve the animal-omen detail.
+  suggested_aliases:
+  - animal omen
+  - animal portent of war and peace
+  - interpreted animal sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-or-bird-ally-defends-a-threatened-woman
+  motif_id: animal_or_bird_ally_defends_a_threatened_woman
+  label: animal or bird ally defends a threatened woman
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Ally and Helper
+  relationship: child
+  confidence: medium
+  rationale: The motif centers on an animal helper's protective intervention, a recurring
+    folktale/mythic role not cleanly covered by trickster or shapeshifter.
+  cautions: Could map to divine_intervention if the animal is divinely sent, or divine_warrior
+    if the emphasis is combat; source context needed.
+  suggested_aliases:
+  - animal ally defends woman
+  - bird ally protects threatened woman
+  - protective animal helper
+  suggested_new_group:
+    id: animal_ally_helper
+    label: Animal Ally and Helper
+    description: Animals, birds, or woodland beings aid, protect, guide, warn, rescue,
+      or fight alongside human or heroic figures without primarily functioning as
+      tricksters or shapeshifters.
+    parent_group_ids:
+    - divine_intervention
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - hero_journey
+    - divine_warrior
+    reason_existing_groups_insufficient: Existing animal-adjacent groups emphasize
+      tricksters, shapeshifting, serpents, or divine intervention; they do not clearly
+      cover loyal animal helpers and protective allies as a narrative role.
+- suggestion_id: normalization.suggestion.animal-or-bird-witness-as-messenger
+  motif_id: animal_or_bird_witness_as_messenger
+  label: animal or bird witness as messenger
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Ally and Helper
+  relationship: role_variant
+  confidence: medium
+  rationale: An animal or bird serving as witness and messenger is an animal-helper
+    communication role.
+  cautions: If the bird is a divine omen rather than an agent carrying testimony,
+    dream_and_vision or divine_intervention may be better.
+  suggested_aliases:
+  - animal messenger
+  - bird messenger
+  - animal witness messenger
+  suggested_new_group:
+    id: animal_ally_helper
+    label: Animal Ally and Helper
+    description: Animals, birds, or woodland beings aid, protect, guide, warn, rescue,
+      or fight alongside human or heroic figures without primarily functioning as
+      tricksters or shapeshifters.
+    parent_group_ids:
+    - divine_intervention
+    related_group_ids:
+    - sacred_knowledge
+    - dream_and_vision
+    - hero_journey
+    reason_existing_groups_insufficient: Existing groups lack a stable place for animals
+      acting as helpers, witnesses, or messengers when they are not shapeshifters,
+      tricksters, or merely omens.
+- suggestion_id: normalization.suggestion.animal-or-woodland-allies-in-heroic-war
+  motif_id: animal_or_woodland_allies_in_heroic_war
+  label: animal or woodland allies in heroic war
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Ally and Helper
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes nonhuman allies aiding a hero in war, extending the
+    animal-helper role into combat.
+  cautions: Could also be indexed secondarily under sacred_combat or divine_warrior
+    when the battle establishes sacred order.
+  suggested_aliases:
+  - animal allies in war
+  - woodland allies in heroic battle
+  - nonhuman allies in heroic war
+  suggested_new_group:
+    id: animal_ally_helper
+    label: Animal Ally and Helper
+    description: Animals, birds, or woodland beings aid, protect, guide, warn, rescue,
+      or fight alongside human or heroic figures without primarily functioning as
+      tricksters or shapeshifters.
+    parent_group_ids:
+    - divine_intervention
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - hero_journey
+    - otherworld
+    reason_existing_groups_insufficient: Sacred combat covers war itself, while existing
+      animal groups cover trickster or transformation; this motif's key function is
+      allied animal or woodland assistance.
+- suggestion_id: normalization.suggestion.animal-pair-encounter-title
+  motif_id: animal_pair_encounter_title
+  label: animal pair encounter title
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The word 'title' suggests a heading or catalog label rather than a narrative
+    motif.
+  cautions: If the source passage itself contains an animal-pair encounter, re-label
+    from passage evidence rather than using the title artifact.
+  suggested_aliases:
+  - animal pair encounter heading
+  - animal encounter title
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-pair-in-conflict-or-encounter
+  motif_id: animal_pair_in_conflict_or_encounter
+  label: Animal pair in conflict or encounter
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to determine whether the pair is a fable device,
+    omen, combat, duality, or animal-helper episode.
+  cautions: Single occurrence and generic wording; do not map to sacred_twins or duality
+    unless the paired animals carry structural opposition or complementarity.
+  suggested_aliases:
+  - animal pair conflict
+  - paired animal encounter
+  - two animals in encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    - trickster
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-pair-or-animal-group-fable-heading
+  motif_id: animal_pair_or_animal_group_fable_heading
+  label: Animal-pair or animal-group fable heading
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label explicitly describes a fable heading, not a symbolic or narrative
+    motif extracted from the passage.
+  cautions: The underlying fable may contain usable motifs, but this generated heading
+    should not be used for pattern queries.
+  suggested_aliases:
+  - animal fable heading
+  - animal group fable title
+  - animal-pair fable heading
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are animal-helper or animal-messenger roles that are
+  not well represented by existing trickster/shapeshifter groups; consider reviewing
+  a durable Animal Ally and Helper group if similar labels recur.
+- Labels containing 'title' or 'heading' are likely metadata artifacts and should
+  be excluded unless re-derived from passage evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional suggestions only; animal-helper new group candidate requires
+    human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0759
+  input_sha256: 3bccd5dca374648ac085d153e1b61860a21f7ea8f520e513dab65e085182a331
+

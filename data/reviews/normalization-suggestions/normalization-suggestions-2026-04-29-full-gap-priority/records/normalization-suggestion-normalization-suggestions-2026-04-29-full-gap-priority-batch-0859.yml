@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0859
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.threshold-guarded-by-monstrous-and-avenging-figures
+  motif_id: threshold_guarded_by_monstrous_and_avenging_figures
+  label: threshold guarded by monstrous and avenging figures
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: narrower_than
+  confidence: high
+  rationale: The label explicitly describes guarded thresholds by dangerous figures,
+    matching the threshold_guardian group.
+  cautions: Single occurrence; preserve whether the figures are guardians, punishers,
+    Furies, or episode-specific monsters.
+  suggested_aliases:
+  - monstrous threshold guardians
+  - avenging threshold guardians
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threshold-guardian-admits-strangers-into-hidden-splendor
+  motif_id: threshold_guardian_admits_strangers_into_hidden_splendor
+  label: threshold guardian admits strangers into hidden splendor
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A guardian controlling entry into a hidden realm fits the threshold_guardian
+    function.
+  cautions: If hidden splendor is the main motif, otherworld or sacred_treasures may
+    be relevant secondary mappings.
+  suggested_aliases:
+  - guardian admits strangers to hidden realm
+  - threshold admission to hidden splendor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threshold-guardian-defeated-by-magic-through-one-weak-point
+  motif_id: threshold_guardian_defeated_by_magic_through_one_weak_point
+  label: threshold guardian defeated by magic through one weak point
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is overcoming a boundary guardian to gain passage.
+  cautions: The weak-point detail may overlap with external_soul or heroic combat
+    if the passage centers on invulnerability rather than threshold passage.
+  suggested_aliases:
+  - defeated threshold guardian
+  - guardian overcome through weak point
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threshold-guardian-who-seizes-shadows
+  motif_id: threshold_guardian_who_seizes_shadows
+  label: threshold guardian who seizes shadows
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A shadow-seizing being functions as a perilous guardian or blocker at
+    a liminal boundary.
+  cautions: Because shadow capture can imply soul loss or external soul, consider
+    soul_loss_restoration or external_soul if the seized shadow controls life or vitality.
+  suggested_aliases:
+  - shadow-seizing threshold guardian
+  - guardian seizes shadows
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threshold-guards-overcome-in-silence
+  motif_id: threshold_guards_overcome_in_silence
+  label: threshold guards overcome in silence
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: The label describes guards at a threshold being overcome, a clear passage-through-guardian
+    motif.
+  cautions: Silence may be an initiation rule or taboo; preserve it as an evidence
+    detail rather than a separate canonical motif.
+  suggested_aliases:
+  - silent overcoming of threshold guards
+  - threshold guards overcome
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.token-ring-as-celestial-sign
+  motif_id: token_ring_as_celestial_sign
+  label: Token ring as celestial sign
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A ring functioning as a sign or token fits sacred or power objects that
+    confer recognition, authority, or divine meaning.
+  cautions: If the ring primarily confirms destiny through an omen, dream_and_vision
+    may be a secondary mapping; if merely an episode-specific prop, avoid over-indexing.
+  suggested_aliases:
+  - ring as celestial sign
+  - celestial token ring
+  - recognition ring as omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tokens-dropped-during-forced-removal
+  motif_id: tokens_dropped_during_forced_removal
+  label: tokens dropped during forced removal
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate recognition tokens, trail-marking, abduction
+    evidence, or a passage-specific plot detail.
+  cautions: Needs source context; may be too specific for pattern queries unless token-dropping
+    recurs as a recognizable narrative function.
+  suggested_aliases:
+  - dropped tokens as trace
+  - tokens left during abduction
+  - tokens dropped as evidence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transfer-of-misfortune-beyond-the-village-boundary
+  motif_id: transfer_of_misfortune_beyond_the_village_boundary
+  label: transfer of misfortune beyond the village boundary
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: This fits the existing ritual expulsion/scapegoat complex under sacrifice,
+    where harm is transferred and expelled beyond communal boundaries.
+  cautions: Could also relate to sacred_law or apotropaic protection; preserve boundary-transfer
+    details for ritual review.
+  suggested_aliases:
+  - ritual transfer of misfortune
+  - expulsion of misfortune beyond boundary
+  - boundary transfer of harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-cave
+  motif_id: treasure_cave
+  label: treasure cave
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: A treasure cave centers on hidden valuables or power objects, best held
+    under sacred_treasures unless the cave itself is the transformative space.
+  cautions: If the cave functions as a descent, initiation, or otherworld threshold,
+    descent or otherworld may be better secondary groups.
+  suggested_aliases:
+  - cave of treasure
+  - hidden treasure cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-hidden-in-a-cave
+  motif_id: treasure_hidden_in_a_cave
+  label: Treasure hidden in a cave
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: Hidden treasure is a power-object or sacred-object pattern, with the
+    cave functioning as concealment or liminal storage.
+  cautions: If access to the cave is an ordeal or underworld entry, also consider
+    descent or initiation; if only a location detail, it may be over-specific.
+  suggested_aliases:
+  - hidden cave treasure
+  - treasure concealed in cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most threshold-guard labels can be provisionally folded under threshold_guardian
+  while preserving local details such as silence, shadow seizure, or hidden-splendor
+  admission.
+- Treasure-cave labels are likely granular evidence under sacred_treasures, but source
+  context may shift emphasis to descent, cave as liminal space, or otherworld access.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0859
+  input_sha256: e7cfdcbfdf580005b0b4e67cfe9905d54df703782287346796a2fbc69f4020f9
+

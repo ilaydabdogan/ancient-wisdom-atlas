@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0666
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.conversion-through-public-sign-and-idol-breaking
+  motif_id: conversion_through_public_sign_and_idol_breaking
+  label: conversion through public sign and idol-breaking
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Public sign suggests divine intervention producing religious conversion,
+    while idol-breaking may mark rejection of a prior cult order.
+  cautions: Single occurrence and culturally charged conversion context; could also
+    be sacred_law, divine_judgment, or a passage-specific missionizing episode.
+  suggested_aliases:
+  - public sign conversion
+  - idol-breaking conversion
+  - conversion by miracle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-bounds-oath-formula
+  motif_id: cosmic_bounds_oath_formula
+  label: cosmic-bounds oath formula
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An oath formula invokes cosmic bounds to bind speech or obligation, fitting
+    sacred covenant and vow logic.
+  cautions: If merely a poetic formula or stock phrase, preserve as textual evidence
+    rather than a motif.
+  suggested_aliases:
+  - cosmic oath formula
+  - oath by cosmic bounds
+  - boundary oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-oath-by-celestial-and-terrestrial-signs
+  motif_id: cosmic_oath_by_celestial_and_terrestrial_signs
+  label: cosmic oath by celestial and terrestrial signs
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Oaths by heaven-and-earth signs use cosmic witnesses to authorize sacred
+    speech and obligation.
+  cautions: May overlap with sacred_knowledge or divine_judgment if the signs function
+    mainly as revelation or warning.
+  suggested_aliases:
+  - oath by cosmic signs
+  - celestial-terrestrial oath
+  - cosmic witness oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-order-governed-by-personified-necessity-and-fates
+  motif_id: cosmic_order_governed_by_personified_necessity_and_fates
+  label: cosmic order governed by personified Necessity and Fates
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: medium
+  rationale: Personified Necessity and Fates place events under destiny beyond human
+    control, matching the fate/destiny complex.
+  cautions: This label is broader than death-by-fate; if the passage concerns cosmology
+    rather than mortality, duality or divine_judgment may be secondary.
+  suggested_aliases:
+  - cosmic necessity
+  - rule of the Fates
+  - personified fate governing order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-order-through-music
+  motif_id: cosmic_order_through_music
+  label: Cosmic order through music
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cosmic Harmony and Ordering Sound
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Music as a principle of cosmic order is not well captured by existing
+    wisdom, law, or storytelling groups without losing its ordering function.
+  cautions: Could be philosophical metaphor rather than narrative motif; verify recurrence
+    before promotion.
+  suggested_aliases:
+  - music of cosmic order
+  - cosmic harmony
+  - ordering music
+  - music of the spheres
+  suggested_new_group:
+    id: cosmic_harmony
+    label: Cosmic Harmony and Ordering Sound
+    description: Sound, music, chant, or harmony establishes, reveals, or maintains
+      cosmic order and proportional relation among beings or worlds.
+    parent_group_ids:
+    - cosmic_origin
+    - duality
+    related_group_ids:
+    - sacred_knowledge
+    - storytelling_as_power
+    reason_existing_groups_insufficient: Existing groups cover sacred speech, knowledge,
+      and narrative power, but not music or harmony as an ontological ordering principle.
+- suggestion_id: normalization.suggestion.cosmic-ordering-of-fate
+  motif_id: cosmic_ordering_of_fate
+  label: cosmic ordering of fate
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: low
+  rationale: The label centers on fate as a cosmic ordering force, closest to the
+    existing fate/destiny group.
+  cautions: Broader than death and may be theological or mystical doctrine; could
+    also belong under divine_judgment, sacred_knowledge, or mystical_quest depending
+    on passage evidence.
+  suggested_aliases:
+  - cosmic fate
+  - ordering by destiny
+  - divine decree as cosmic order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-transformation-at-the-day-of-judgment
+  motif_id: cosmic_transformation_at_the_day_of_judgment
+  label: Cosmic transformation at the day of judgment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif explicitly centers on eschatological judgment transforming
+    the cosmos under divine authority.
+  cautions: If the emphasis is world-ending catastrophe and renewal rather than reckoning,
+    flood_and_renewal or death_and_transformation may be useful secondary mappings.
+  suggested_aliases:
+  - day of judgment cosmic transformation
+  - eschatological cosmic change
+  - cosmic renewal at judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.counter-sally-from-a-besieged-city
+  motif_id: counter_sally_from_a_besieged_city
+  label: counter-sally from a besieged city
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a tactical battle detail rather than a reusable mythic
+    or symbolic motif.
+  cautions: If the episode has ritual warfare, divine warrior, or sacred combat significance,
+    map the broader passage rather than this military maneuver label.
+  suggested_aliases:
+  - besieged city counterattack
+  - sally from siege
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.court-culprit-seized-for-punishment
+  motif_id: court_culprit_seized_for_punishment
+  label: court culprit seized for punishment
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Seizing a culprit for punishment fits judgment and moral/legal reckoning
+    at a courtly level.
+  cautions: May be only a plot or legal-procedural detail without sacred judgment;
+    review whether divine or cosmic order is involved.
+  suggested_aliases:
+  - culprit seized for punishment
+  - court punishment seizure
+  - royal court judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-order-altered-by-mistaken-messenger
+  motif_id: creation_order_altered_by_mistaken_messenger
+  label: Creation order altered by mistaken messenger
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mistaken messenger altering the created order is an etiological creation-structure
+    motif involving failed or changed creation.
+  cautions: Could also involve trickster or divine_intervention if the messenger’s
+    error is central; source evidence should determine whether it is creation myth
+    or narrative accident.
+  suggested_aliases:
+  - mistaken messenger changes creation
+  - creation altered by messenger error
+  - failed creation message
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern cosmic order, fate, oath, and judgment; avoid
+  treating these as evidence of transmission across traditions.
+- Oath labels likely belong under covenant when they bind obligation, but may be textual
+  formulae if not narratively functional.
+- Single-occurrence military or court-procedure labels should be reviewed for exclusion
+  unless the passage gives them sacred, ritual, or mythic function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for broad cosmic-order
+    and culturally specific conversion labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0666
+  input_sha256: 8c8402c7eff38cf35f4b09168d952f3862445c6c8b073b24aa211cbf6a009594
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0870
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.life-ending-grief
+  motif_id: life_ending_grief
+  label: life-ending grief
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: Grief leading to death is already represented by prolonged mourning causing
+    physical collapse/death under lament and mourning.
+  cautions: Single occurrence; verify whether the passage treats grief as a motif
+    rather than a death-detail.
+  suggested_aliases:
+  - fatal grief
+  - grief causing death
+  - death from mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.literary-labor-as-useful-discipline-of-youth
+  motif_id: literary_labor_as_useful_discipline_of_youth
+  label: literary labor as useful discipline of youth
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as literary or educational commentary rather than a mythic
+    narrative motif.
+  cautions: If the source depicts sacred instruction or initiation through writing,
+    reconsider under sacred_knowledge or initiation.
+  suggested_aliases:
+  - literary discipline of youth
+  - writing as youth discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelous-branch-that-removes-grief-and-induces-sleep
+  motif_id: marvelous_branch_that_removes_grief_and_induces_sleep
+  label: marvelous branch that removes grief and induces sleep
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A marvelous branch with healing or sleep-inducing power functions as
+    a supernatural power object.
+  cautions: Could also relate to otherworld or sacred tree/axis if the branch marks
+    an enchanted realm or cosmic tree; preserve object specificity as evidence detail.
+  suggested_aliases:
+  - healing branch
+  - sleep-inducing branch
+  - grief-removing branch
+  - marvelous branch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.milk-guarded-against-loss-to-mana-strangers-and-wild-places
+  motif_id: milk_guarded_against_loss_to_mana_strangers_and_wild_places
+  label: milk guarded against loss to Mana, strangers, and wild places
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Guarding milk from harmful or liminal forces resembles ritual protection,
+    taboo, and apotropaic practice already folded under sacred_law.
+  cautions: Culturally specific terms and local spirit concepts need review; may be
+    an ethnographic detail rather than a reusable motif.
+  suggested_aliases:
+  - milk protection taboo
+  - guarding milk from loss
+  - milk protected from strangers and wild places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moralized-conflict-of-virtue-and-vice
+  motif_id: moralized_conflict_of_virtue_and_vice
+  label: Moralized conflict of virtue and vice
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Virtue and vice framed as opposed forces fits the duality group’s moral
+    and cosmic opposition pattern.
+  cautions: If the passage centers ethical instruction rather than opposed cosmic
+    forces, sacred_knowledge or sacred_law may be better.
+  suggested_aliases:
+  - virtue versus vice
+  - moral dualism
+  - ethical opposition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.music-used-to-lure-dangerous-beings
+  motif_id: music_used_to_lure_dangerous_beings
+  label: music used to lure dangerous beings
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The taxonomy already places perilous lure and dangerous singers near
+    threshold-guardian encounters; this is the inverse use of music to draw dangerous
+    beings.
+  cautions: If music is primarily magical technology or artistic power, sacred_knowledge
+    or storytelling_as_power may be relevant; source context needed.
+  suggested_aliases:
+  - luring dangerous beings with music
+  - music as supernatural lure
+  - enchanted music lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-as-a-time-of-danger
+  motif_id: night_as_a_time_of_danger
+  label: night as a time of danger
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Night danger is a broad setting or warning motif that could involve spirits,
+    moral peril, travel danger, or ritual protection.
+  cautions: May be too generic for pattern queries unless tied to a specific recurring
+    function such as apotropaic law, threshold danger, or demonic activity.
+  suggested_aliases:
+  - dangerous night
+  - nighttime peril
+  - night as perilous time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.novel-metal-or-technology-treated-as-dangerous-or-unlucky
+  motif_id: novel_metal_or_technology_treated_as_dangerous_or_unlucky
+  label: Novel metal or technology treated as dangerous or unlucky
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could express taboo, sacred craft, cultural anxiety, or comparative
+    commentary rather than a clear existing motif.
+  cautions: Comparative single occurrence and abstract wording make it risky to map
+    without source evidence; consider exclusion if it is only scholarly generalization.
+  suggested_aliases:
+  - dangerous new technology
+  - unlucky metal
+  - taboo novel metal
+  - technology taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.omens-announce-danger
+  motif_id: omens_announce_danger
+  label: omens announce danger
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: Omens are signs that disclose hidden or future danger, fitting the dream/vision
+    and sacred sign complex.
+  cautions: If the danger is specifically divine punishment, divine_judgment may be
+    a secondary mapping.
+  suggested_aliases:
+  - danger omens
+  - ominous signs
+  - portents of danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-natural-stillness-before-danger
+  motif_id: ominous_natural_stillness_before_danger
+  label: ominous natural stillness before danger
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Natural stillness functioning as a portent of danger fits omens and altered
+    perception as warning signs.
+  cautions: Highly specific atmospheric detail; preserve as evidence rather than promoting
+    to canonical motif unless it recurs.
+  suggested_aliases:
+  - ominous stillness
+  - stillness as omen
+  - natural silence before danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and should remain provisional until passage
+  evidence confirms recurring motif function.
+- For omen and danger labels, distinguish symbolic warning from narrative atmosphere
+  or generic setting.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0870
+  input_sha256: a8eba7ef1015d6826fab96af4c6ab7d6ecd9f6f4779ed431515800cfe2a5a006
+

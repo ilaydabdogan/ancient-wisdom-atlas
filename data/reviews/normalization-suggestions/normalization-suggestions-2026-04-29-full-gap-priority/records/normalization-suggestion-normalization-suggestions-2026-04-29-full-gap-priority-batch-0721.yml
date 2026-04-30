@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0721
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.estate-distribution-by-fixed-kinship-proportions
+  motif_id: estate_distribution_by_fixed_kinship_proportions
+  label: Estate distribution by fixed kinship proportions
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fixed inheritance shares are sacred legal-social ordering rather than
+    journey motif.
+  cautions: Could be a legal passage detail rather than a reusable narrative motif;
+    confirm sacred-law framing in source.
+  suggested_aliases:
+  - inheritance_by_fixed_kinship_shares
+  - kinship_based_estate_distribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethical-justice-over-kinship-and-status
+  motif_id: ethical_justice_over_kinship_and_status
+  label: Ethical justice over kinship and status
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on moral reckoning and justice overriding social preference.
+  cautions: If phrased as an ethical command rather than judgment scene, sacred_law
+    or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - justice_over_kinship
+  - justice_over_status
+  - impartial_ethical_judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-place-names-from-a-mythic-journey
+  motif_id: etiological_place_names_from_a_mythic_journey
+  label: Etiological place-names from a mythic journey
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: narrower_than
+  confidence: medium
+  rationale: Place-name origins are tied here to stages of a mythic journey route.
+  cautions: Etiological naming may deserve a separate group if many non-journey examples
+    recur; avoid treating every place-name note as a motif.
+  suggested_aliases:
+  - place_name_etymology_from_journey
+  - journey_etymology_of_places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exclusive-monotheistic-worship
+  motif_id: exclusive_monotheistic_worship
+  label: exclusive monotheistic worship
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: narrower_than
+  confidence: medium
+  rationale: Exclusive worship functions as a binding divine-human allegiance and
+    sacred obligation.
+  cautions: Could also be sacred_law when expressed as commandment, or divine_judgment
+    when polemical judgment is central.
+  suggested_aliases:
+  - exclusive_worship
+  - monotheistic_allegiance
+  - exclusive_divine_allegiance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exclusive-worship-against-powerless-idols
+  motif_id: exclusive_worship_against_powerless_idols
+  label: Exclusive worship against powerless idols
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: uncertain
+  confidence: medium
+  rationale: Exclusive worship fits covenantal allegiance, but the anti-idol polemic
+    overlaps the reviewed idol alias.
+  cautions: The existing idol alias is marked needs_human_review; verify whether this
+    is motif, doctrine, polemic, or passage argument before indexing.
+  suggested_aliases:
+  - rejection_of_powerless_idols
+  - exclusive_worship_against_idols
+  - idol_powerlessness_polemic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exclusive-worship-and-rejection-of-divine-association
+  motif_id: exclusive_worship_and_rejection_of_divine_association
+  label: Exclusive worship and rejection of divine association
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes exclusive divine allegiance as a sacred bond and
+    obligation.
+  cautions: May be doctrinal/legal rather than narrative; preserve Islamic specificity
+    around rejection of association in evidence notes.
+  suggested_aliases:
+  - rejection_of_divine_association
+  - exclusive_divine_allegiance
+  - anti_association_worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exile-of-deceptive-poetic-imitation
+  motif_id: exile_of_deceptive_poetic_imitation
+  label: exile of deceptive poetic imitation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns the social or sacred power of poetic speech, but wording
+    may be philosophical commentary.
+  cautions: Likely depends on source context; could be textual/philosophical artifact,
+    ethical censorship motif, or exile motif.
+  suggested_aliases:
+  - banishment_of_deceptive_poetry
+  - poetic_imitation_as_deception
+  - exile_of_false_storytelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exile-survival-through-improvised-animal-derived-clothing
+  motif_id: exile_survival_through_improvised_animal_derived_clothing
+  label: exile survival through improvised animal-derived clothing
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: Survival in exile can be an ordeal within a departure or wandering sequence.
+  cautions: Highly episode-specific; animal-derived clothing should remain evidence
+    detail unless clothing disguise or animal transformation is central.
+  suggested_aliases:
+  - exile_survival_by_improvised_clothing
+  - animal_skin_clothing_in_exile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exiled-deity-received-by-a-host-king
+  motif_id: exiled_deity_received_by_a_host_king
+  label: Exiled deity received by a host king
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A host king receiving an exiled deity centers on hospitality and reciprocal
+    divine-human relations.
+  cautions: Could also support divine_intervention or royal_legitimacy if the deity
+    rewards, legitimizes, or transforms the host’s rule.
+  suggested_aliases:
+  - hospitality_to_exiled_deity
+  - host_king_receives_deity
+  - divine_exile_and_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exiled-ruler-seeks-alliance
+  motif_id: exiled_ruler_seeks_alliance
+  label: exiled ruler seeks alliance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: An exiled ruler seeking alliance concerns restoration or maintenance
+    of legitimate rule.
+  cautions: If the passage emphasizes wandering and ordeal over kingship, hero_journey
+    may be a secondary placement.
+  suggested_aliases:
+  - ruler_in_exile_seeks_allies
+  - exiled_king_alliance
+  - alliance_for_restored_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items were assigned to the journey bucket but better fit sacred law, covenant,
+  hospitality, or kingship groups.
+- Single-occurrence doctrinal and legal labels should be reviewed for whether they
+  are durable motifs or passage-specific summaries.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for anti-idol,
+    doctrinal, and philosophical-poetic labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0721
+  input_sha256: 80a366671825f04df312d0ab8d9da94a41f35c9f1a32050c8a92ab11a2b71c44
+

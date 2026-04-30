@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0770
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.disguised-imitation-followed-by-condemnation
+  motif_id: disguised_imitation_followed_by_condemnation
+  label: disguised imitation followed by condemnation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Disguise and imitation used before exposure or condemnation fits boundary-crossing
+    deception and trickster-like role logic.
+  cautions: Single occurrence; if condemnation is the main moral action rather than
+    the disguise, divine_judgment may be a secondary fit.
+  suggested_aliases:
+  - disguised imitation
+  - deceptive imitation exposed
+  - imitation condemned
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disguised-noble-suitor-gains-access-to-princess
+  motif_id: disguised_noble_suitor_gains_access_to_princess
+  label: disguised noble suitor gains access to princess
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is disguise used to cross a guarded social boundary and
+    gain access.
+  cautions: Could also belong to sacred_love or royal_legitimacy if the episode centers
+    on marriage, succession, or legitimate rank rather than deception.
+  suggested_aliases:
+  - disguised suitor
+  - disguised noble gains access
+  - suitor crosses guarded boundary by disguise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.domestic-animal-facing-slaughter
+  motif_id: domestic_animal_facing_slaughter
+  label: domestic animal facing slaughter
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate sacrifice, animal fable, food practice, or a passage-specific
+    scene.
+  cautions: Do not map to sacrifice unless the slaughter is ritually offered or set
+    apart; otherwise this may be too generic for motif queries.
+  suggested_aliases:
+  - animal facing slaughter
+  - domestic animal threatened with death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.earthquakes-caused-by-a-subterranean-animal
+  motif_id: earthquakes_caused_by_a_subterranean_animal
+  label: earthquakes caused by a subterranean animal
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Earthquake Animal and Subterranean World-Shaker
+  relationship: child
+  confidence: medium
+  rationale: A subterranean animal causing earthquakes is an etiological earth-disruption
+    motif not well captured by existing animal, chaos, or axis groups.
+  cautions: May be culturally specific; review source evidence before creating a durable
+    cross-tradition group. Could relate to chaos if framed as cosmic disorder.
+  suggested_aliases:
+  - earthquake animal
+  - subterranean animal causes earthquakes
+  - world-shaking animal
+  suggested_new_group:
+    id: earthquake_animal
+    label: Earthquake Animal and Subterranean World-Shaker
+    description: A subterranean or hidden animal whose movement, restraint, anger,
+      or body causes earthquakes or earth tremors, often explaining seismic disturbance
+      through living agency beneath the world.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - chaos
+    - otherworld
+    - sacred_waters
+    reason_existing_groups_insufficient: Existing groups cover sacred animals only
+      indirectly through trickster, serpent, shapeshifter, or chaos; none preserve
+      the etiological function of an animal causing earthquakes from below.
+- suggestion_id: normalization.suggestion.enchanted-birds-lure-or-provoke-the-hero
+  motif_id: enchanted_birds_lure_or_provoke_the_hero
+  label: Enchanted birds lure or provoke the hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Enchanted birds lure or provoke the hero into a charged threshold, ordeal,
+    or otherworld encounter.
+  cautions: If the birds are guides rather than obstacles or lures, divine_intervention
+    or otherworld may be better. Single occurrence may be episode-specific.
+  suggested_aliases:
+  - enchanted bird lure
+  - birds provoke the hero
+  - animal lure at threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-flying-horse-as-transport
+  motif_id: enchanted_flying_horse_as_transport
+  label: enchanted flying horse as transport
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The current group already includes magical_animal_mount; an enchanted
+    flying horse functions as magical animal transport across ordinary limits.
+  cautions: If the horse primarily enables ascent to heaven, consider ascent as secondary.
+    If it is a power object or engineered device, sacred_treasures or sacred_craft
+    may fit better.
+  suggested_aliases:
+  - magical animal mount
+  - flying horse transport
+  - enchanted horse mount
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-disguised-deity-at-a-water-source
+  motif_id: encounter_with_disguised_deity_at_a_water_source
+  label: encounter with disguised deity at a water source
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A deity appearing in disguise is a form of divine manifestation, with
+    the water source marking a charged encounter site.
+  cautions: If the disguise and test of hospitality are central, divine_intervention
+    or sacred_exchange may also apply. Do not reduce the water source to flood or
+    sacred waters without passage function.
+  suggested_aliases:
+  - disguised deity encounter
+  - deity in disguise at water source
+  - hidden theophany
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enduring-or-conjugal-affection-represented-by-birds
+  motif_id: enduring_or_conjugal_affection_represented_by_birds
+  label: enduring or conjugal affection represented by birds
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif uses birds as symbolic representatives of lasting conjugal
+    affection, aligning more with love symbolism than animal transformation.
+  cautions: If it is merely a poetic simile or emblem in a single passage, it may
+    be over-specific and should remain an evidence note.
+  suggested_aliases:
+  - conjugal affection represented by birds
+  - birds as enduring love symbol
+  - avian symbol of fidelity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enigmatic-nightly-duty-involving-animals
+  motif_id: enigmatic_nightly_duty_involving_animals
+  label: enigmatic nightly duty involving animals
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too vague to determine whether the animals mark ordeal,
+    taboo, service, enchantment, or comic task.
+  cautions: Needs passage evidence. Could be initiation, sacred_law, otherworld, trickster,
+    or an over-specific narrative detail.
+  suggested_aliases:
+  - nightly animal duty
+  - enigmatic animal task
+  - nightly duty with animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.essential-likeness-between-humans-and-animals
+  motif_id: essential_likeness_between_humans_and_animals
+  label: Essential likeness between humans and animals
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: broader_label
+  confidence: low
+  rationale: The label concerns a structural comparison or collapse of distinction
+    between humans and animals, fitting the broader duality/complementarity field
+    better than shapeshifting.
+  cautions: This may be doctrinal teaching, ethical psychology, or commentary rather
+    than a narrative motif. If tied to rebirth across species, death_and_transformation
+    or a future rebirth/samsara group may be needed.
+  suggested_aliases:
+  - human-animal likeness
+  - kinship between humans and animals
+  - essential sameness of humans and animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  local detail in evidence notes even when mapping to broad groups.
+- Animal-centered labels do not automatically belong under shapeshifter or trickster;
+  placement here follows narrative function where discernible.
+- Consider future review for an animal etiologies or animal-helper group if many similar
+  unmapped labels recur.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review recommended for vague or culturally
+    specific animal-spirit labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0770
+  input_sha256: adf3a5e3c69a1a01bfe995bb27883bb8dfa5061577851fc58d9ebd31abcb5b82
+

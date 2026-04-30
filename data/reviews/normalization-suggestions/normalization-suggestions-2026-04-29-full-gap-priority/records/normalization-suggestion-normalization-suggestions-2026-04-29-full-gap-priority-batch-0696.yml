@@ -1,0 +1,312 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0696
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.repelling-unwanted-company-through-debt-obligations
+  motif_id: repelling_unwanted_company_through_debt_obligations
+  label: Repelling unwanted company through debt obligations
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a social or legal tactic, but its motif function is
+    unclear from wording alone.
+  cautions: May be an episode-specific trick, etiquette detail, legal satire, or commentary
+    artifact; source context is needed before mapping to covenant, sacred_law, or
+    trickster.
+  suggested_aliases:
+  - debt obligation used to repel unwanted company
+  - legal obligation as social deterrent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliatory-punishment-mirroring-the-captive-s-former-cruelty
+  motif_id: retaliatory_punishment_mirroring_the_captive_s_former_cruelty
+  label: retaliatory punishment mirroring the captive's former cruelty
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mirrored punishment for prior cruelty fits moral reckoning and retributive
+    justice.
+  cautions: If the passage is purely human revenge or court punishment without sacred
+    moral framing, sacred_law or an evidence-only note may be better.
+  suggested_aliases:
+  - mirrored punishment
+  - retaliatory justice mirroring cruelty
+  - measure-for-measure punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retributive-punishment-of-an-unrepentant-wrongdoer
+  motif_id: retributive_punishment_of_an_unrepentant_wrongdoer
+  label: retributive punishment of an unrepentant wrongdoer
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Punishment of an unrepentant wrongdoer is a standard moral-reckoning
+    pattern.
+  cautions: Confirm whether punishment is framed by sacred/cosmic judgment rather
+    than ordinary social revenge or plot resolution.
+  suggested_aliases:
+  - punishment of unrepentant wrongdoer
+  - retributive moral punishment
+  - unrepentant wrongdoer punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revealed-law-superseding-or-clarifying-earlier-scripture
+  motif_id: revealed_law_superseding_or_clarifying_earlier_scripture
+  label: revealed law superseding or clarifying earlier scripture
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on divine law and scriptural clarification as sacred
+    social order.
+  cautions: Also relates to sacred_knowledge and covenant; review theological sensitivity
+    and avoid treating doctrinal claims as transmission evidence.
+  suggested_aliases:
+  - revealed law clarifies scripture
+  - scriptural law supersession
+  - divine law clarifying earlier revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-oath-after-kin-slaughter
+  motif_id: revenge_oath_after_kin_slaughter
+  label: revenge oath after kin slaughter
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: An oath of vengeance after kin-killing fits heroic conflict and ritualized
+    warfare obligations.
+  cautions: Could also map to covenant if oath-binding is central, or lament_and_mourning
+    if grief drives the episode.
+  suggested_aliases:
+  - oath of vengeance for slain kin
+  - kin-slaughter revenge oath
+  - blood-feud vow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - lament_and_mourning
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reversal-of-punishment-onto-persecutor
+  motif_id: reversal_of_punishment_onto_persecutor
+  label: reversal of punishment onto persecutor
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A punishment intended for a victim turning back on the persecutor expresses
+    moral reversal and judgment.
+  cautions: If achieved by trickery rather than sacred justice, trickster may be a
+    secondary fit; source framing is important.
+  suggested_aliases:
+  - punishment reversed onto persecutor
+  - persecutor suffers intended punishment
+  - moral reversal of punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reverse-purgation-of-the-state
+  motif_id: reverse_purgation_of_the_state
+  label: reverse purgation of the state
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is abstract and may refer to political, ritual, or interpretive
+    theory rather than a motif.
+  cautions: Could involve scapegoat, civic purification, tyranny, satire, or scholarly
+    commentary; needs source evidence before placement.
+  suggested_aliases:
+  - inverted civic purgation
+  - reverse state purification
+  - state purgation reversed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-rulers-contest-a-prized-guardian-animal
+  motif_id: rival_rulers_contest_a_prized_guardian_animal
+  label: Rival rulers contest a prized guardian animal
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A contest between rulers over a prized animal resembles status conflict
+    and cattle-raid/wealth contest patterns already under sacred combat.
+  cautions: If the animal's guardian role is central, divine_intervention or sacred_treasures
+    may be secondary; avoid reducing local animal symbolism to generic warfare.
+  suggested_aliases:
+  - rulers contest guardian animal
+  - contest over prized animal
+  - rival kings dispute sacred animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_treasures
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rivers-personified-as-social-and-grieving-beings
+  motif_id: rivers_personified_as_social_and_grieving_beings
+  label: Rivers personified as social and grieving beings
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Personified rivers belong to the sacred-water symbolic field, with grief
+    as the specific local function.
+  cautions: Could also relate to lament_and_mourning if grief is the primary motif;
+    current bucket may be misleading.
+  suggested_aliases:
+  - personified grieving rivers
+  - rivers as social beings
+  - river personification in mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-proclamation-resolves-hidden-disorder
+  motif_id: royal_proclamation_resolves_hidden_disorder
+  label: royal proclamation resolves hidden disorder
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ruler's proclamation restoring order fits sacred kingship and legitimate
+    rule as social repair.
+  cautions: If the proclamation functions mainly as law or moral instruction, sacred_law
+    or wisdom may be secondary.
+  suggested_aliases:
+  - royal decree restores order
+  - kingly proclamation resolves disorder
+  - ruler's announcement reveals hidden disorder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no transmission or origin claims
+  are implied.
+- Several labels in this batch are single-occurrence and may be episode-specific;
+  verify narrative or ritual function before adding durable aliases.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Automated normalization suggestions only; human review needed for ambiguous
+    legal-social and purification labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0696
+  input_sha256: 392e7aedfd08acfa27ddd673d274ed324637255b5cba4f117326e29b2a0e0c3c
+

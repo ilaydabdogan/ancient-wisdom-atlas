@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0844
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.funeral-procession-marked-by-reversed-arms-and-mourning-display
+  motif_id: funeral_procession_marked_by_reversed_arms_and_mourning_display
+  label: Funeral procession marked by reversed arms and mourning display
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A funeral procession with reversed arms and mourning display is a mortuary
+    honor and memorial rite, especially if attached to elite or heroic dead.
+  cautions: If the passage only describes a Roman historical custom without mythic
+    or symbolic function, it may be better preserved as contextual evidence rather
+    than a query motif.
+  suggested_aliases:
+  - reversed_arms_funeral_procession
+  - mourning_procession_with_reversed_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.garden-and-fruit-affinity-as-basis-for-union
+  motif_id: garden_and_fruit_affinity_as_basis_for_union
+  label: garden and fruit affinity as basis for union
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label appears to use garden and fruit imagery as the symbolic ground
+    for erotic or marital union.
+  cautions: 'Source context is needed: it may be an over-specific literary image,
+    a fertility/sacred marriage motif, or merely a local etiological detail.'
+  suggested_aliases:
+  - garden_fruit_union
+  - fruit_affinity_as_love_symbol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.geographically-marked-hounds
+  motif_id: geographically_marked_hounds
+  label: geographically marked hounds
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly specific descriptive detail about animals
+    tied to place rather than a recurring symbolic or narrative motif.
+  cautions: If the hounds function as guardians, omens, or sacred animals in the passage,
+    remap to threshold_guardian, dream_and_vision, or a future animal-helper group
+    after review.
+  suggested_aliases:
+  - place_marked_hounds
+  - locally_identified_hounds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.greedy-imitation-brings-worthless-result
+  motif_id: greedy_imitation_brings_worthless_result
+  label: greedy imitation brings worthless result
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Greedy imitation punished by a worthless outcome fits moral humbling
+    after improper desire or overreaching.
+  cautions: This may be a folktale/fable moral rather than a sacred motif; if no sacred
+    or mythic reckoning is present, consider excluding from broad pattern queries.
+  suggested_aliases:
+  - greedy_imitation_punished
+  - imitative_greed_brings_loss
+  - worthless_reward_for_greed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-threshold-at-a-ford
+  motif_id: guarded_threshold_at_a_ford
+  label: guarded threshold at a ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: A guarded ford is a liminal crossing where passage is blocked, tested,
+    or contested by a boundary figure or condition.
+  cautions: If the emphasis is single combat at the ford rather than guarded passage,
+    sacred_combat may be a secondary mapping.
+  suggested_aliases:
+  - ford_threshold_guardian
+  - guarded_ford_crossing
+  - liminal_ford_guard
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heaven-like-jeweled-palace
+  motif_id: heaven_like_jeweled_palace
+  label: heaven-like jeweled palace
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A jeweled palace described as heaven-like marks an enchanted or divine
+    realm adjacent to ordinary space.
+  cautions: If the palace is specifically a revelation site, ascent destination, or
+    cosmic center, consider theophany, ascent, or axis_mundi as secondary mappings.
+  suggested_aliases:
+  - jeweled_heavenly_palace
+  - celestial_jeweled_palace
+  - heavenly_palace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heavenly-garment-transmitted-across-patriarchs
+  motif_id: heavenly_garment_transmitted_across_patriarchs
+  label: heavenly garment transmitted across patriarchs
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A heavenly garment passed through patriarchs functions as a sacred object
+    transmitting blessing, authority, lineage, or identity.
+  cautions: If the lineage transfer is the main function, royal_legitimacy or covenant
+    may be important secondary mappings; avoid making transmission history claims
+    from placement alone.
+  suggested_aliases:
+  - heavenly_garment_of_lineage
+  - patriarchal_sacred_garment
+  - transmitted_celestial_garment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-precious-vessel-in-a-poor-household
+  motif_id: hidden_precious_vessel_in_a_poor_household
+  label: hidden precious vessel in a poor household
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A hidden precious vessel centers on a container holding concealed value
+    or transformative potential.
+  cautions: In Buddhist parable context this may symbolize hidden Buddha-nature or
+    unrecognized wisdom; sacred_knowledge may be a secondary mapping if the teaching
+    function dominates.
+  suggested_aliases:
+  - hidden_treasure_vessel
+  - precious_vessel_in_poor_house
+  - concealed_vessel_of_value
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-subterranean-trap-door-route
+  motif_id: hidden_subterranean_trap_door_route
+  label: Hidden subterranean trap-door route
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: uncertain
+  confidence: low
+  rationale: A hidden subterranean route may function as a descent path, secret passage,
+    or access point to nonordinary powers.
+  cautions: Indigenous Australian context needs careful source review; it may be a
+    sacred geography detail, local place narrative, initiation route, or passage artifact
+    rather than a general underworld motif.
+  suggested_aliases:
+  - secret_subterranean_route
+  - trapdoor_descent_path
+  - hidden_under-earth_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-suffering-revealed-by-bodily-scars
+  motif_id: hidden_suffering_revealed_by_bodily_scars
+  label: hidden suffering revealed by bodily scars
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: Scars revealing concealed suffering function as tragic recognition and
+    disclosure of hidden grief or ordeal.
+  cautions: If scars primarily identify a hero or prove survival, initiation or heroic
+    recognition may be better; if they are only plot evidence, preserve as narrative
+    detail.
+  suggested_aliases:
+  - scars_reveal_hidden_suffering
+  - bodily_scars_as_tragic_disclosure
+  - concealed_pain_revealed_by_scars
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no taxonomy edits are implied.
+- Several single-occurrence labels are highly contextual and should be checked against
+  passage evidence before promotion into pattern queries.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes over-specific object/place labels and culturally contextual
+    items requiring source validation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0844
+  input_sha256: 2658802ae0bf54139fc7b0bdc355dd01e00bd09eb66dc98da3ca4861eb396f22
+

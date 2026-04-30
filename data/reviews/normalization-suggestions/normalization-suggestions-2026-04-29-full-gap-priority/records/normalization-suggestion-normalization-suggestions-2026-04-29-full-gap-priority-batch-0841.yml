@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0841
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deity-embodied-in-boundary-marker
+  motif_id: deity_embodied_in_boundary_marker
+  label: deity embodied in boundary marker
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A deity embodied in a marker is a localized manifestation of divine presence
+    in a boundary object.
+  cautions: Could alternatively fit world_center, threshold_guardian, or sacred_treasures
+    depending on whether the marker guards, centers, or merely represents a deity.
+  suggested_aliases:
+  - deity in boundary marker
+  - divine presence in boundary marker
+  - boundary marker as divine embodiment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.difficult-gathering-of-unruly-creatures-to-free-a-leader
+  motif_id: difficult_gathering_of_unruly_creatures_to_free_a_leader
+  label: Difficult gathering of unruly creatures to free a leader
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines creature gathering, disorder, and rescue of a leader,
+    but the main function is unclear from wording alone.
+  cautions: May be a highly episode-specific narrative detail; could fit hero_journey,
+    trickster, divine_warrior, or sacred_combat only with source evidence.
+  suggested_aliases:
+  - gathering unruly creatures
+  - creatures gathered to free a leader
+  - rescue by assembled creatures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distant-sympathy-between-relatives-during-danger
+  motif_id: distant_sympathy_between_relatives_during_danger
+  label: distant sympathy between relatives during danger
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sympathetic Bond and Distant Kinship Awareness
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes a remote affective or bodily connection between kin,
+    not well covered by existing journey, vision, or family groups.
+  cautions: Verify whether the passage shows supernatural sympathy rather than ordinary
+    concern, omen, or comparative folklore note.
+  suggested_aliases:
+  - distant sympathy between kin
+  - remote kinship sympathy
+  - sympathetic danger awareness
+  - telepathic bond between relatives
+  suggested_new_group:
+    id: sympathetic_bond
+    label: Sympathetic Bond and Distant Kinship Awareness
+    description: A remote emotional, bodily, dreamlike, or supernatural connection
+      allows relatives, lovers, companions, or linked persons to sense one another's
+      danger, suffering, death, or crisis across distance.
+    parent_group_ids:
+    - dream_and_vision
+    - sacred_love
+    related_group_ids:
+    - sacred_twins
+    - soul_loss_restoration
+    - divine_intervention
+    reason_existing_groups_insufficient: Existing groups cover visions, love, siblings,
+      and soul loss, but none directly captures remote sympathetic linkage as the
+      central pattern.
+- suggestion_id: normalization.suggestion.door-to-door-may-procession-with-gifts
+  motif_id: door_to_door_may_procession_with_gifts
+  label: door-to-door May procession with gifts
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: A May procession with gifts is a calendrical ritual practice tied to
+    seasonal sacred time and reciprocal exchange.
+  cautions: If the passage emphasizes gifting obligations over the calendar, sacred_exchange
+    may be a useful secondary mapping.
+  suggested_aliases:
+  - May procession with gifts
+  - seasonal door-to-door procession
+  - Maytime gift procession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.education-as-indelible-coloring
+  motif_id: education_as_indelible_coloring
+  label: education as indelible coloring
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The image treats education as knowledge that permanently transforms or
+    marks the learner.
+  cautions: May be a philosophical metaphor rather than a mythic motif; exclude if
+    it is only an authorial simile without narrative function.
+  suggested_aliases:
+  - education as permanent coloring
+  - learning as indelible dye
+  - instruction as lasting mark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.emotional-contagion-through-represented-suffering
+  motif_id: emotional_contagion_through_represented_suffering
+  label: emotional contagion through represented suffering
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Represented suffering transmitting emotion highlights narrative or artistic
+    representation as an active power over audiences.
+  cautions: Could be literary theory or commentary rather than a symbolic motif; exclude
+    if not embedded as a recurring narrative function.
+  suggested_aliases:
+  - represented suffering evokes shared emotion
+  - emotional contagion through representation
+  - pathos transmitted by art
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-music-that-brings-sleep-and-relief
+  motif_id: enchanted_music_that_brings_sleep_and_relief
+  label: Enchanted music that brings sleep and relief
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Enchanted music induces sleep or altered perception and relieves distress,
+    fitting altered-state motifs.
+  cautions: If the song functions chiefly as sacred expression or healing intervention,
+    sacred_song or divine_intervention may be secondary; avoid merging with perilous
+    lure unless danger is present.
+  suggested_aliases:
+  - sleep-bringing enchanted music
+  - magic music brings relief
+  - enchanted music induces sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-threshold-capture
+  motif_id: enchanted_threshold_capture
+  label: enchanted threshold capture
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Capture at an enchanted threshold centers on perilous boundary crossing
+    and blocked passage between states or realms.
+  cautions: If no guardian or boundary agency is present, otherworld or initiation
+    may better capture the function.
+  suggested_aliases:
+  - capture at enchanted threshold
+  - threshold capture
+  - enchanted boundary entrapment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-threshold-at-palace-well
+  motif_id: encounter_threshold_at_palace_well
+  label: encounter threshold at palace well
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A well functioning as an encounter threshold fits water as a boundary
+    and point of passage or contact.
+  cautions: If the well is mainly a palace setting without sacred or otherworldly
+    passage, this may be too contextual; otherworld or threshold_guardian may apply
+    if beings or realms are involved.
+  suggested_aliases:
+  - well as encounter threshold
+  - palace well threshold
+  - threshold encounter at well
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.entrapment-at-threshold
+  motif_id: entrapment_at_threshold
+  label: Entrapment at threshold
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Entrapment at a boundary is a perilous threshold-crossing pattern, even
+    when the guardian is implicit.
+  cautions: Confirm that the threshold has symbolic or otherworldly function rather
+    than being a simple plot location.
+  suggested_aliases:
+  - threshold entrapment
+  - captured at the threshold
+  - boundary entrapment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several labels in this batch are single-occurrence and may be episode-specific or
+  commentary artifacts; source passages should be checked before final indexing.
+- Threshold-related items were placed under threshold_guardian when the main function
+  appears to be perilous or blocked passage, even if no explicit guardian is named.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-model
+  reviewed_at: ''
+  notes: Batch includes one proposed new group for remote sympathetic bonds; human
+    review should decide whether recurrence justifies adding it.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0841
+  input_sha256: 10bdffc71380883eb82e011a9bfb85ff5c6a2cb6218fffe7bb13e40cb62b8904
+

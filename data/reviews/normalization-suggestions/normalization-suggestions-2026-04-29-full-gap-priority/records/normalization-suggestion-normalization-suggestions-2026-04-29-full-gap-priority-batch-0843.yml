@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0843
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.expulsion-of-a-sin-bearing-figure-from-a-community
+  motif_id: expulsion_of_a_sin_bearing_figure_from_a_community
+  label: expulsion of a sin-bearing figure from a community
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: A sin-bearing figure expelled from the community closely matches scapegoat,
+    ritual transfer, and ritual expulsion patterns already under sacrifice.
+  cautions: Preserve whether the expelled figure is human, animal, effigy, or symbolic;
+    may also involve sacred_law if framed as purity regulation.
+  suggested_aliases:
+  - scapegoat expulsion
+  - sin-bearing expulsion
+  - ritual expulsion of communal sin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fabulous-races-marked-by-extreme-bodily-features
+  motif_id: fabulous_races_marked_by_extreme_bodily_features
+  label: fabulous races marked by extreme bodily features
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe mythic peoples, monstrous races, cosmographic
+    ethnography, or passage-specific cataloguing rather than a clear current motif
+    group.
+  cautions: Could become an otherworld/monstrous-races group if recurrent, but one
+    occurrence and broad bodily-description wording need source review.
+  suggested_aliases:
+  - fabulous races
+  - monstrous races
+  - marvelous peoples with extreme bodies
+  suggested_new_group:
+    id: fabulous_races
+    label: Fabulous Races and Marvelous Peoples
+    description: Mythic, otherworldly, or cosmographic peoples marked by extraordinary
+      bodily forms, abilities, locations, or customs.
+    parent_group_ids:
+    - otherworld
+    related_group_ids:
+    - shapeshifter
+    - divine_race
+    reason_existing_groups_insufficient: Existing groups cover divine races and individual
+      shapeshifting, but not catalogues of non-divine marvelous peoples defined by
+      stable bodily features.
+- suggestion_id: normalization.suggestion.false-cure-that-worsens-suffering
+  motif_id: false_cure_that_worsens_suffering
+  label: false cure that worsens suffering
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This could be deception, failed healing, karmic consequence, comic reversal,
+    or a passage-specific plot device; no current group cleanly fits.
+  cautions: May duplicate false_medicine_that_worsens_suffering; verify whether the
+    cure is magical, fraudulent, ritual, or merely narrative irony.
+  suggested_aliases:
+  - harmful false cure
+  - failed cure worsening suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-medicine-that-worsens-suffering
+  motif_id: false_medicine_that_worsens_suffering
+  label: false medicine that worsens suffering
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Likely the same motif as false_cure_that_worsens_suffering, but its function
+    is unclear without source evidence.
+  cautions: Review for deduplication with false_cure_that_worsens_suffering; could
+    be healing magic, deception, punishment, or comic tale detail.
+  suggested_aliases:
+  - false cure that worsens suffering
+  - harmful false medicine
+  - failed medicine motif
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.farewell-lament-of-the-royal-household
+  motif_id: farewell_lament_of_the_royal_household
+  label: farewell lament of the royal household
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: A royal household farewell lament is a specific instance of communal
+    or familial lamentation around separation, loss, or impending tragedy.
+  cautions: If the emphasis is royal succession or exile rather than grief, secondary
+    links to royal_legitimacy or hero_journey may be useful.
+  suggested_aliases:
+  - royal farewell lament
+  - household lament at departure
+  - lament of the royal household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-gift-or-garment-sent-in-jealousy
+  motif_id: fatal_gift_or_garment_sent_in_jealousy
+  label: fatal gift or garment sent in jealousy
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A garment or gift that kills functions as a dangerous power object, though
+    the jealousy motive is narrative-specific.
+  cautions: Could also fit divine_judgment, sacred_love, or death_by_fate depending
+    on whether the fatal object is cursed, poisoned, divinely sent, or tragic-romantic.
+  suggested_aliases:
+  - fatal garment
+  - poisoned gift
+  - jealous fatal gift
+  - death-dealing garment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-ring-as-proof-and-catalyst
+  motif_id: fatal_ring_as_proof_and_catalyst
+  label: Fatal ring as proof and catalyst
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ring serving as proof and triggering fatal action is a power object
+    or token with narrative agency.
+  cautions: If the ring binds fate, oath, or cursed inheritance, death_by_fate, covenant,
+    or sacred_law may be secondary; avoid overgeneralizing from one episode.
+  suggested_aliases:
+  - fatal ring token
+  - ring as proof
+  - ring as catalyst
+  - deadly recognition ring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fated-craft-that-brings-communal-disaster
+  motif_id: fated_craft_that_brings_communal_disaster
+  label: fated craft that brings communal disaster
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a made object or construction whose craft has disaster-bearing
+    force, fitting sacred or fated craft better than general judgment.
+  cautions: If the disaster is primarily destiny or curse rather than making/construction,
+    death_by_fate or divine_judgment may be better; source evidence needed.
+  suggested_aliases:
+  - disastrous fated craft
+  - crafted object bringing communal disaster
+  - ill-fated construction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feast-as-threshold-of-danger
+  motif_id: feast_as_threshold_of_danger
+  label: feast as threshold of danger
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The feast functions as a liminal threshold where danger is encountered,
+    even if no guardian figure is explicit.
+  cautions: If the feast is mainly hospitality exchange, taboo violation, or royal
+    contest, sacred_exchange, sacred_law, or sacred_combat may be better secondary
+    mappings.
+  suggested_aliases:
+  - dangerous feast threshold
+  - feast as liminal danger
+  - perilous feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-governed-hidden-household
+  motif_id: female_governed_hidden_household
+  label: Female-governed hidden household
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate an enchanted hidden household, gendered social
+    inversion, or a specific narrative setting rather than a stable motif.
+  cautions: Potentially culturally and contextually sensitive; review whether the
+    household is otherworldly, magical, political, or merely plot setting before mapping.
+  suggested_aliases:
+  - hidden female household
+  - female-ruled hidden house
+  - women-governed concealed household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and over-specific; preserve episode
+  details as evidence notes unless recurrence supports promotion.
+- false_cure_that_worsens_suffering and false_medicine_that_worsens_suffering appear
+  likely duplicates and should be reviewed together.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; source context needed for ambiguous object/threshold
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0843
+  input_sha256: 437195f9b952bc1f6be42b0283c42f24526130d33ae6c4d2d7962dc658c804ea
+

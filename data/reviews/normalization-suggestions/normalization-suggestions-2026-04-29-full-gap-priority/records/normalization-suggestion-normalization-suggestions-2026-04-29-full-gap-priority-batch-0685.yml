@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0685
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mocking-masking-or-inversion-of-the-last-harvest-worker
+  motif_id: mocking_masking_or_inversion_of_the_last_harvest_worker
+  label: mocking, masking, or inversion of the last harvest worker
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The last-harvest-worker element points to harvest ritual and seasonal
+    cycle practices rather than kingship or law.
+  cautions: Masking and inversion could also reflect carnival/social reversal; source
+    context should confirm this is a harvest rite, not a general power-inversion motif.
+  suggested_aliases:
+  - last harvest worker inversion
+  - masked last harvest worker
+  - harvest-worker mockery rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-food-snatchers-afflict-a-king-until-heroes-pursue-them
+  motif_id: monstrous_food_snatchers_afflict_a_king_until_heroes_pursue_them
+  label: Monstrous food-snatchers afflict a king until heroes pursue them
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines monster affliction, royal disorder, food theft, and
+    heroic pursuit; no single existing group clearly carries the full function.
+  cautions: May fit threshold_guardian, divine_warrior, trickster/theft, royal_legitimacy,
+    or a passage-specific episode depending on evidence; likely too composite for
+    direct mapping.
+  suggested_aliases:
+  - monstrous food snatchers
+  - king afflicted by food-stealing monsters
+  - heroes pursue food thieves
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moral-inversion-of-successful-injustice
+  motif_id: moral_inversion_of_successful_injustice
+  label: moral inversion of successful injustice
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns moral order reversing or evaluating apparent injustice,
+    aligning with reckoning and consequence.
+  cautions: If this is a philosophical or authorial reflection rather than a narrative
+    event, it may be too abstract for pattern queries.
+  suggested_aliases:
+  - reversal of successful injustice
+  - injustice morally inverted
+  - moral reckoning against unjust success
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moral-reciprocity-of-good-and-ill
+  motif_id: moral_reciprocity_of_good_and_ill
+  label: moral reciprocity of good and ill
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Good and ill returning reciprocally is an ethical-order motif, close
+    to sacred law and moral consequence.
+  cautions: In Sufi context it may instead be mystical teaching under sacred_knowledge
+    or sacred_exchange if framed as reciprocal spiritual relation.
+  suggested_aliases:
+  - reciprocity of good and evil
+  - ethical reciprocity
+  - good and ill returned
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.motif-families-covenant
+  motif_id: motif_families_covenant
+  label: broken covenant of single combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: narrower_than
+  confidence: high
+  rationale: A broken covenant or agreement governing single combat is directly a
+    covenant violation, with combat context secondary.
+  cautions: May also be indexed under sacred_combat if the source emphasizes ritualized
+    combat rules more than the broken bond.
+  suggested_aliases:
+  - broken single-combat covenant
+  - violated combat pact
+  - breach of single-combat agreement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.music-as-foundation-of-law-and-order
+  motif_id: music_as_foundation_of_law_and_order
+  label: music as foundation of law and order
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Music ordering society could be sacred knowledge, cosmic harmony, law,
+    or cultural foundation; existing groups do not cleanly capture music as ordering
+    principle.
+  cautions: Could be philosophical commentary rather than narrative motif. If recurrent,
+    it may merit a child under sacred_knowledge or sacred_law for musical/cosmic order.
+  suggested_aliases:
+  - musical foundation of order
+  - music establishes law
+  - harmony as social order
+  suggested_new_group:
+    id: music_and_cosmic_order
+    label: Music and Cosmic Order
+    description: Music, harmony, song, or measured sound establishes, reveals, or
+      sustains cosmic, legal, social, or moral order.
+    parent_group_ids:
+    - sacred_knowledge
+    - sacred_law
+    related_group_ids:
+    - storytelling_as_power
+    - duality
+    reason_existing_groups_insufficient: Existing groups cover sacred song and narrative
+      power, but not music specifically as a structural foundation of law, cosmos,
+      or social order.
+- suggestion_id: normalization.suggestion.mutiny-against-rightful-or-nominal-authority
+  motif_id: mutiny_against_rightful_or_nominal_authority
+  label: mutiny against rightful or nominal authority
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mutiny against an authority figure tests legitimacy, obedience, and the
+    stability of rightful rule.
+  cautions: If the episode is ordinary military conflict without sacred or political
+    legitimation, it may be a contextual plot detail rather than a motif.
+  suggested_aliases:
+  - rebellion against rightful authority
+  - mutiny against legitimate ruler
+  - challenge to nominal authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-exemplum-of-drunken-transgression-and-punishment
+  motif_id: mythic_exemplum_of_drunken_transgression_and_punishment
+  label: mythic exemplum of drunken transgression and punishment
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Transgression followed by punishment is a clear moral-reckoning pattern;
+    drunkenness is the local offense.
+  cautions: If presented only as didactic commentary or exemplum without sacred agency,
+    preserve the drunkenness detail but avoid overclaiming divine judgment.
+  suggested_aliases:
+  - drunken transgression punished
+  - punishment for drunken transgression
+  - mythic drunkenness exemplum
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-order-over-human-intervention
+  motif_id: natural_order_over_human_intervention
+  label: natural order over human intervention
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The Daoist contrast between natural order and human intervention fits
+    the taxonomy's duality/complementarity and non-action field.
+  cautions: Could be better under sacred_knowledge if framed as wisdom teaching, or
+    sacred_law if framed as political order; avoid flattening Daoist non-action into
+    moral law.
+  suggested_aliases:
+  - natural order exceeds intervention
+  - spontaneous order over human control
+  - non-intervention aligned with natural order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-attack-with-incendiary-destruction-of-a-city
+  motif_id: night_attack_with_incendiary_destruction_of_a_city
+  label: night attack with incendiary destruction of a city
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A night attack destroying a city by fire is a warfare episode; sacred_combat
+    is the closest broad group.
+  cautions: Highly episode-specific. If the fire destroys or renews an entire cosmic
+    order, flood_and_renewal/world_destroying_fire may be relevant; otherwise keep
+    as combat evidence detail.
+  suggested_aliases:
+  - incendiary night attack
+  - city destroyed by fire in night attack
+  - night raid burning a city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and abstract or composite; suggested
+  placements should be treated as provisional indexing aids, not taxonomy edits.
+- For power/order labels, distinguish sacred or mythic legitimation from ordinary
+  plot-level political conflict before final mapping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for batch-0685; human review needed
+    for ambiguous/composite items and possible music-and-order candidate.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0685
+  input_sha256: c60a85a2ec81c7ace6c9f28d2917445dc609533d47f4d8ffd001f61965407244
+

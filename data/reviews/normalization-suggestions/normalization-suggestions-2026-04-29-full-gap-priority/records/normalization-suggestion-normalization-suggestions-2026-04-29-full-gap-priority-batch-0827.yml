@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0827
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rejected-tangible-revelation
+  motif_id: rejected_tangible_revelation
+  label: Rejected tangible revelation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns contested revelation, which belongs near sacred knowledge,
+    but 'tangible revelation' is unclear without passage evidence.
+  cautions: Could be a polemical detail, miracle-demand motif, or over-specific exegetical
+    label; verify what is rejected and by whom.
+  suggested_aliases:
+  - rejected revelation
+  - rejection of material sign
+  - denied tangible sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-prophetic-revelation-as-sorcery
+  motif_id: rejection_of_prophetic_revelation_as_sorcery
+  label: rejection of prophetic revelation as sorcery
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on contested prophetic knowledge and its misclassification
+    as illicit magic.
+  cautions: May deserve a future subgroup for rejection of revelation if many similar
+    labels recur; do not treat as evidence about magic traditions without source review.
+  suggested_aliases:
+  - prophetic revelation rejected as sorcery
+  - revelation called sorcery
+  - accusation of sorcery against prophet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-revelation-as-magic-or-human-speech
+  motif_id: rejection_of_revelation_as_magic_or_human_speech
+  label: rejection of revelation as magic or human speech
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is a variant of contested sacred knowledge in which divine speech
+    is denied or reduced to human/magical speech.
+  cautions: Keep distinct from actual magical practice; the function is rejection
+    or misrecognition of revelation.
+  suggested_aliases:
+  - revelation rejected as magic
+  - revelation dismissed as human speech
+  - denial of divine speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religion-established-by-the-sword
+  motif_id: religion_established_by_the_sword
+  label: Religion established by the sword
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The label links religious order with coercive or martial establishment,
+    closest to sacred combat or sacred law depending on context.
+  cautions: Potentially polemical or historically charged wording; source evidence
+    is needed to avoid encoding commentary as motif.
+  suggested_aliases:
+  - religious order established by force
+  - sacred order by the sword
+  - martial establishment of religion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-instruction-before-an-irreversible-final-day
+  motif_id: religious_instruction_before_an_irreversible_final_day
+  label: religious instruction before an irreversible final day
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Instruction before a final irreversible day functions as warning before
+    judgment and moral reckoning.
+  cautions: If emphasis is on teaching rather than eschatological reckoning, sacred_knowledge
+    may be an important secondary placement.
+  suggested_aliases:
+  - warning before final judgment
+  - instruction before the last day
+  - eschatological admonition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-kin-slaying-under-counsel
+  motif_id: reluctant_kin_slaying_under_counsel
+  label: reluctant kin-slaying under counsel
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reluctant killing of kin under counsel fits sacred combat where warrior
+    duty is clarified through instruction.
+  cautions: Could also map to sacred_knowledge or sacred_law if the passage emphasizes
+    teaching on duty rather than combat action.
+  suggested_aliases:
+  - reluctant kin-slaying
+  - warrior counsel before kin-slaying
+  - kin-slaying under sacred instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-or-monstrous-peoples-at-the-edge-of-knowledge
+  motif_id: remote_or_monstrous_peoples_at_the_edge_of_knowledge
+  label: remote or monstrous peoples at the edge of knowledge
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: Remote monstrous peoples may mark a boundary of known world or otherworldly
+    geography, but the function is not clear from the label.
+  cautions: Ethnographic or geographic stereotyping may be present; could be a passage
+    artifact or map-of-world motif rather than revelation/wisdom.
+  suggested_aliases:
+  - monstrous peoples at world edge
+  - remote peoples beyond knowledge
+  - edge-of-world peoples
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revelation-confirming-earlier-revelation
+  motif_id: revelation_confirming_earlier_revelation
+  label: Revelation confirming earlier revelation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif describes transmission and validation of sacred knowledge through
+    later revelation confirming earlier revelation.
+  cautions: Do not infer historical contact or textual dependence from taxonomy placement
+    alone.
+  suggested_aliases:
+  - confirming revelation
+  - scripture confirms earlier scripture
+  - later revelation validates prior revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revelation-exposes-concealed-hearts
+  motif_id: revelation_exposes_concealed_hearts
+  label: Revelation exposes concealed hearts
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Revelation reveals hidden inward states, functioning as moral disclosure
+    and judgment.
+  cautions: If the emphasis is insight rather than reckoning, sacred_knowledge or
+    dream_and_vision may be secondary.
+  suggested_aliases:
+  - revelation discloses hearts
+  - divine speech reveals inner motives
+  - hidden hearts exposed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revelation-in-a-cave-or-mountain-retreat
+  motif_id: revelation_in_a_cave_or_mountain_retreat
+  label: revelation in a cave or mountain retreat
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cave or mountain retreat as setting for revelation fits divine manifestation,
+    with axis/descent associations depending on the site.
+  cautions: Do not collapse to cosmic_mountain or cave/descent unless the passage
+    makes the place cosmologically or initiatically significant.
+  suggested_aliases:
+  - retreat revelation
+  - mountain revelation
+  - cave revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Islamic revelation-rejection labels may form a recurring review cluster
+  around contested or denied revelation, but current groups can provisionally hold
+  them under sacred_knowledge or divine_judgment.
+- Single-occurrence, polemical, or culturally sensitive labels should be checked against
+  passage evidence before promotion to aliases or new groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for ambiguous and potentially
+    polemical labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0827
+  input_sha256: e2bee635937dd80ff1fef6d43ee92ac04b125f8e5dc31095d99913d83f62f854
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0654
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unhealable-wound-of-love
+  motif_id: unhealable_wound_of_love
+  label: unhealable wound of love
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Love as an incurable wound fits the existing sacred_love cluster, especially
+    its child motif of love as affliction cured only by the beloved.
+  cautions: Could be literary erotic imagery rather than sacred or mythic love; verify
+    whether the passage frames the wound as transformative, devotional, or fated.
+  suggested_aliases:
+  - love wound
+  - incurable wound of love
+  - love as affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unkind-stepmother-threatens-father-child-bond
+  motif_id: unkind_stepmother_threatens_father_child_bond
+  label: unkind stepmother threatens father-child bond
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a family-conflict role pattern not clearly covered
+    by the current sacred birth, child, or kinship groups.
+  cautions: May be a folktale family-role motif, a passage-specific plot detail, or
+    part of a threatened-child pattern; source context is needed before creating a
+    family-conflict group.
+  suggested_aliases:
+  - hostile stepmother
+  - stepmother threatens child bond
+  - disrupted father-child bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unknown-fate-of-absent-husband
+  motif_id: unknown_fate_of_absent_husband
+  label: unknown fate of absent husband
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: low
+  rationale: An absent spouse of uncertain fate can generate mourning, suspense, and
+    recognition around loss.
+  cautions: If the passage centers on homecoming, fidelity, or quest rather than grief,
+    hero_journey or sacred_love may be better; single occurrence may be too contextual.
+  suggested_aliases:
+  - absent husband of unknown fate
+  - uncertain fate of spouse
+  - missing husband
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unrecognized-child-slain-by-father
+  motif_id: unrecognized_child_slain_by_father
+  label: unrecognized child slain by father
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: A father killing an unrecognized child is a tragic kin-recognition pattern
+    likely to produce grief and irreversible loss.
+  cautions: Could also index under sacred_combat if the killing occurs in heroic combat,
+    or divine_judgment if framed as moral consequence.
+  suggested_aliases:
+  - father slays unrecognized son
+  - tragic kin recognition after killing
+  - unrecognized child killed by parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.usefulness-judged-by-personal-appetite
+  motif_id: usefulness_judged_by_personal_appetite
+  label: usefulness judged by personal appetite
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an abstract interpretive moral or commentary note
+    rather than a stable narrative motif.
+  cautions: If source evidence shows a recurring fable structure of appetite-based
+    judgment, it may need review under storytelling_as_power or animal-fable patterns.
+  suggested_aliases:
+  - appetite-based judgment
+  - self-interested usefulness
+  - utility judged by appetite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-attack-for-an-injured-or-slain-son
+  motif_id: vengeance_attack_for_an_injured_or_slain_son
+  label: vengeance attack for an injured or slain son
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A revenge attack for a harmed son functions as kin-motivated combat and
+    is close to existing vengeance and raid-trigger motifs.
+  cautions: If the focus is parental grief rather than combat, lament_and_mourning
+    may be a secondary placement.
+  suggested_aliases:
+  - vengeance for injured son
+  - revenge attack for slain son
+  - kin vengeance for son
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-for-a-slain-son-or-youth
+  motif_id: vengeance_for_a_slain_son_or_youth
+  label: Vengeance for a slain son or youth
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Vengeance for a slain young kin figure fits the revenge-combat cluster
+    already present under sacred combat and divine warrior contexts.
+  cautions: May instead belong with divine_judgment if vengeance is a cosmic or divine
+    punishment, or lament_and_mourning if grief is primary.
+  suggested_aliases:
+  - vengeance for slain youth
+  - revenge for slain son
+  - avenging a murdered youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-for-absent-beloved
+  motif_id: vengeance_for_absent_beloved
+  label: vengeance for absent beloved
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The motive of vengeance is driven by a beloved’s absence, aligning with
+    love as a force that initiates action or ordeal.
+  cautions: If the episode centers on combat or retributive justice, sacred_combat
+    or divine_judgment may be better; label alone does not show sacred love.
+  suggested_aliases:
+  - revenge for absent beloved
+  - beloved's absence avenged
+  - love-motivated vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vessel-imagined-as-a-former-living-lover
+  motif_id: vessel_imagined_as_a_former_living_lover
+  label: vessel imagined as a former living lover
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sacred object imagery, transformation, and beloved
+    symbolism in a way that depends heavily on poetic context.
+  cautions: Could map to sacred_love, sacred_vessel, death_and_transformation, or
+    be a metaphorical artifact; Sufi symbolic language should be reviewed carefully
+    before normalization.
+  suggested_aliases:
+  - vessel as former lover
+  - beloved transformed into vessel
+  - living lover imagined as vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vindication-of-an-accused-or-doubted-wife-by-bodily-proof
+  motif_id: vindication_of_an_accused_or_doubted_wife_by_bodily_proof
+  label: vindication of an accused or doubted wife by bodily proof
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a gendered accusation-and-vindication motif not clearly represented
+    by the existing sacred law, judgment, or family groups.
+  cautions: Could involve ordeal, chastity proof, bodily sign, legitimacy, or patriarchal
+    legal framing; needs source-sensitive review before grouping.
+  suggested_aliases:
+  - accused wife vindicated
+  - wife vindicated by bodily proof
+  - chastity or fidelity vindication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence family, love, or kinship-conflict
+  motifs that may be passage-specific rather than stable cross-tradition motifs.
+- Vengeance labels should be reviewed for whether the primary function is love/kinship
+  motivation, heroic combat, or divine/moral judgment.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; source context is especially needed for gendered
+    accusation, stepmother conflict, and Sufi vessel-beloved imagery.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0654
+  input_sha256: aa0f3cc3c7e8ae114d7cc41b76dd0f5e64a8827063709b8dc44717f0ebda4496
+

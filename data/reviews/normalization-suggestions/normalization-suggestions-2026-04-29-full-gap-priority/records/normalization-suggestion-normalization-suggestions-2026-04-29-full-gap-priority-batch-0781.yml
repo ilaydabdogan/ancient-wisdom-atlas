@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0781
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.marked-animal-released-from-ordinary-human-use
+  motif_id: marked_animal_released_from_ordinary_human_use
+  label: Marked animal released from ordinary human use
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A marked animal set apart from ordinary human use reads as ritual prohibition
+    or sacred dedication rather than animal transformation.
+  cautions: If the passage centers on offering or vow fulfillment, sacrifice or sacred_exchange
+    may be better secondary placements.
+  suggested_aliases:
+  - sacredly marked animal
+  - animal set apart from ordinary use
+  - ritually released animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marked-boundary-respected-by-animals
+  motif_id: marked_boundary_respected_by_animals
+  label: marked boundary respected by animals
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A marked boundary that animals obey suggests apotropaic or ritually efficacious
+    boundary order, already handled under sacred_law protection/taboo variants.
+  cautions: Could belong with threshold_guardian if a guardian figure enforces the
+    boundary; could be passage-specific if no ritual or sacred law function is present.
+  suggested_aliases:
+  - ritually marked boundary obeyed by animals
+  - sacred boundary respected by animals
+  - animal-respected taboo boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvellous-plant-or-grass-causes-transformation
+  motif_id: marvellous_plant_or_grass_causes_transformation
+  label: marvellous plant or grass causes transformation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: The core function is transformation caused by a marvelous plant or grass,
+    fitting the broader transformation group.
+  cautions: If the plant itself is the main sacred object or healing agent, sacred_treasures
+    or sacred_law may be relevant as secondary context.
+  suggested_aliases:
+  - transforming plant
+  - marvelous herb causes transformation
+  - grass-induced metamorphosis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelous-aerial-or-royal-vehicle-with-animal-imagery
+  motif_id: marvelous_aerial_or_royal_vehicle_with_animal_imagery
+  label: marvelous aerial or royal vehicle with animal imagery
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A marvelous royal or aerial vehicle functions as a supernatural power
+    object conferring mobility, status, or authority.
+  cautions: Animal imagery may be ornamental; if the vehicle primarily legitimizes
+    kingship, royal_legitimacy may be a secondary mapping. If only a descriptive detail,
+    consider excluding from pattern queries.
+  suggested_aliases:
+  - marvelous aerial vehicle
+  - supernatural royal vehicle
+  - animal-imagery flying vehicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelous-animal-lure
+  motif_id: marvelous_animal_lure
+  label: marvelous animal lure
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could mean an enchanted animal that lures someone, bait used
+    to lure animals, or a wonder-animal that initiates pursuit.
+  cautions: 'Placement depends on narrative function: threshold_guardian for perilous
+    lure, trickster for deception, or hero_journey for quest catalyst.'
+  suggested_aliases:
+  - enchanted animal lure
+  - wonder-animal as lure
+  - animal lure motif
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelous-chariot-apparition-with-distorted-animal-and-red-figures
+  motif_id: marvelous_chariot_apparition_with_distorted_animal_and_red_figures
+  label: marvelous chariot apparition with distorted animal and red figures
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core pattern is an apparition or vision with ominous marvelous imagery
+    rather than animal transformation itself.
+  cautions: Highly episode-specific; if the chariot apparition is a divine manifestation,
+    theophany may be better. Preserve color and animal details as evidence notes.
+  suggested_aliases:
+  - marvelous chariot apparition
+  - visionary chariot with distorted animals
+  - ominous chariot vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelous-horses-of-supernatural-lineage
+  motif_id: marvelous_horses_of_supernatural_lineage
+  label: marvelous horses of supernatural lineage
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Supernatural horses could function as divine animals, royal signs, heroic
+    mounts, or passage aids, none clearly dominant from the label alone.
+  cautions: Could map to sacred_treasures if treated as power-bearing mounts, royal_legitimacy
+    if tied to kingship, or divine_intervention if sent by gods.
+  suggested_aliases:
+  - supernatural horses
+  - divine-lineage horses
+  - marvelous heroic horses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelous-island-fauna-and-giant-bird-predation
+  motif_id: marvelous_island_fauna_and_giant_bird_predation
+  label: marvelous island fauna and giant bird predation
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marvelous island fauna and giant bird danger fit an enchanted or nonordinary
+    realm encountered in travel.
+  cautions: If the focus is heroic ordeal or monster attack rather than enchanted
+    place, hero_journey or threshold_guardian may be better secondary placements.
+    The label is composite and specific.
+  suggested_aliases:
+  - marvelous island fauna
+  - giant bird predation on enchanted island
+  - wonder-island animal peril
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelous-singing-tree-and-bird
+  motif_id: marvelous_singing_tree_and_bird
+  label: marvelous singing tree and bird
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A marvelous singing tree and bird suggests enchanted otherworldly marvels
+    rather than a single axis-tree or animal motif.
+  cautions: If the tree functions as a cosmic connector, axis_mundi may be relevant;
+    if the bird or song transmits wisdom, sacred_knowledge or storytelling_as_power
+    may be secondary.
+  suggested_aliases:
+  - singing tree and bird
+  - marvelous speaking or singing nature
+  - enchanted tree and bird
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.master-s-threat-to-racing-animals
+  motif_id: master_s_threat_to_racing_animals
+  label: master's threat to racing animals
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a narrow episode detail about animal handling rather
+    than a durable symbolic or narrative motif.
+  cautions: If the threat triggers divine punishment, oath failure, or heroic catastrophe,
+    review under divine_judgment or hero_journey instead.
+  suggested_aliases:
+  - threat to racing animals
+  - master threatens horses
+  - animal racing threat episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several animal-bucket labels are actually ritual boundary, enchanted-place, or power-object
+  motifs; avoid creating a broad animal group from these singletons without more recurrence.
+- Where animal imagery is ornamental or episode-specific, preserve it as evidence
+  detail rather than making it a canonical motif.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements based on labels only; source passages should be checked
+    for function before taxonomy updates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0781
+  input_sha256: 9588245232e616fa59632eb6b9c01e5fafa32b07e97f20d1963e66dad540bbcf
+

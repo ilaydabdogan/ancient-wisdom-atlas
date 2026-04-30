@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-full-gap-priority.batch-0679
+gap_audit_path: tmp/normalization-gap-audit-priority-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ideal-constitution-compared-with-later-legal-order
+  motif_id: ideal_constitution_compared_with_later_legal_order
+  label: ideal constitution compared with later legal order
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as philosophical or comparative commentary about political
+    forms rather than a recurring narrative motif.
+  cautions: If the passage personifies a sacred lawgiver or divinely founded constitution,
+    sacred_law or royal_legitimacy may be relevant instead.
+  suggested_aliases:
+  - ideal constitution versus later law
+  - comparison of constitutions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ideal-heavenly-city
+  motif_id: ideal_heavenly_city
+  label: Ideal heavenly city
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An ideal heavenly city can function as a sacred organizing center or
+    cosmic model of ordered society.
+  cautions: If the city is mainly utopian political theory rather than sacred/cosmic
+    space, review for exclusion or sacred_law instead.
+  suggested_aliases:
+  - heavenly city
+  - ideal celestial city
+  - cosmic city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idealized-foreign-simplicity
+  motif_id: idealized_foreign_simplicity
+  label: idealized foreign simplicity
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes ethnographic or literary idealization of outsiders,
+    not a clear mythic motif.
+  cautions: Could be useful as cultural ideology metadata, but should not drive motif
+    pattern queries without narrative evidence.
+  suggested_aliases:
+  - noble simplicity of foreigners
+  - idealized outsiders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imagined-social-dominance-through-marriage-and-display
+  motif_id: imagined_social_dominance_through_marriage_and_display
+  label: imagined social dominance through marriage and display
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: Marriage and display may express status legitimation, but the wording
+    sounds psychological and episode-specific.
+  cautions: Could belong to sacred_marriage, royal_legitimacy, pride_and_downfall,
+    or be excluded as a plot-specific social fantasy depending on source context.
+  suggested_aliases:
+  - status through marriage display
+  - social ascent through marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imitative-rain-making-by-water-contact
+  motif_id: imitative_rain_making_by_water_contact
+  label: imitative rain-making by water contact
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rain-making by ritual imitation fits ritual interaction with sacred or
+    natural powers and parallels existing rainmaking-coercion labels under sacred_exchange.
+  cautions: May need a future weather-ritual group if many rainmaking motifs recur;
+    review comparative wording and source specificity.
+  suggested_aliases:
+  - sympathetic rainmaking by water
+  - imitative water-contact rain rite
+  - rainmaking by water contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immobilization-and-sinking-into-earth-water-substance
+  motif_id: immobilization_and_sinking_into_earth_water_substance
+  label: immobilization and sinking into earth-water substance
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe punishment, magical binding, descent, drowning,
+    or transformation, and the function is unclear.
+  cautions: Do not map to flood, descent, or divine judgment without evidence for
+    catastrophe, otherworld passage, or sacred punishment.
+  suggested_aliases:
+  - sinking into mire
+  - magical immobilization and sinking
+  - engulfment by earth-water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impenetrable-enchanted-or-royal-city
+  motif_id: impenetrable_enchanted_or_royal_city
+  label: impenetrable enchanted or royal city
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: An enchanted inaccessible city fits the hidden or enchanted realm pattern,
+    especially if entry is extraordinary.
+  cautions: If the focus is political sovereignty or sacred kingship rather than enchantment,
+    royal_legitimacy or world_center may be better secondary mappings.
+  suggested_aliases:
+  - inaccessible enchanted city
+  - impregnable royal city
+  - hidden enchanted city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-or-endlessly-repeated-punishment
+  motif_id: impossible_or_endlessly_repeated_punishment
+  label: Impossible or endlessly repeated punishment
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Endless or impossible punishment is a punitive consequence imposed by
+    sacred or infernal order.
+  cautions: If the passage emphasizes afterlife topography, afterlife_passage may
+    also be relevant; preserve specific punishment details as evidence.
+  suggested_aliases:
+  - eternal punishment
+  - repeated infernal punishment
+  - impossible task as punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impostor-punished-by-authority
+  motif_id: impostor_punished_by_authority
+  label: Impostor punished by authority
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Punishment of an impostor restores moral or social order through authoritative
+    judgment.
+  cautions: If the authority is purely secular and the episode is local plot resolution,
+    this may be too generic for motif queries; trickster/deceiver context may matter.
+  suggested_aliases:
+  - false claimant punished
+  - deceiver punished by authority
+  - imposture exposed and punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infernal-tree-of-punishment
+  motif_id: infernal_tree_of_punishment
+  label: Infernal tree of punishment
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The key function is infernal punishment as judgment, with tree imagery
+    as the vehicle.
+  cautions: Do not collapse into sacred_tree_axis unless the tree connects cosmic
+    levels or functions as an axis; afterlife_passage may be secondary if tied to
+    a mapped hell journey.
+  suggested_aliases:
+  - punishment tree in hell
+  - infernal punitive tree
+  - tree as afterlife punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; several single-occurrence political
+  or philosophical labels may be commentary artifacts rather than motif-query terms.
+- Rainmaking and enchanted-city labels may indicate gaps for weather ritual or fortified/hidden
+  city motifs if additional recurring examples appear.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Human review recommended for low-context, single-occurrence labels and for
+    distinguishing sacred-political motifs from philosophical or textual commentary.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-full-gap-priority-batch-0679
+  input_sha256: f805edcc49e26f1d1ff265fa12bd1d5c88bf321095dd82ebff07d9b0651e5b53
+
