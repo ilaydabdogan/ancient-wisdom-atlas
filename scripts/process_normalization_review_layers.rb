@@ -162,7 +162,7 @@ def child_keyword_overlap?(motif_id, group, keyword_indexes)
   overlap.length >= 2
 end
 
-def best_group_for_text(text, groups, keyword_indexes, preferred = [])
+def best_group_for_text(text, groups, keyword_indexes, preferred = [], min_score = 2)
   preferred.each do |group_id|
     return [group_id, "preferred_parent_or_suggested_group"] if groups.key?(group_id.to_s)
   end
@@ -175,7 +175,7 @@ def best_group_for_text(text, groups, keyword_indexes, preferred = [])
     [group_id, score]
   end.max_by { |(_group_id, score)| score }
 
-  return [nil, "no_keyword_fit"] unless best && best[1].to_i >= 2
+  return [nil, "no_keyword_fit"] unless best && best[1].to_i >= min_score
 
   [best[0], "keyword_fit_score_#{best[1]}"]
 end
@@ -553,6 +553,12 @@ when "layer4"
   source_rows = rows.select do |row|
     ["suggested group is not present in main taxonomy", "model requested human review"].include?(row["reason"].to_s)
   end
+  source_ids = source_rows.map { |row| row.fetch("motif_id").to_s }.to_set
+  normalization.fetch("raw_motif_group_index", {}).delete_if do |motif_id, value|
+    source_ids.include?(motif_id.to_s) &&
+      value.is_a?(Hash) &&
+      value["review_status"].to_s == "provisional_human_review_best_fit"
+  end
 
   source_rows.each do |row|
     preferred = []
@@ -565,7 +571,8 @@ when "layer4"
       [row["motif_id"], row["label"], row["suggested_group_label"], row["rationale"], row["cautions"]].join(" "),
       groups,
       keyword_indexes,
-      preferred
+      preferred,
+      10
     )
 
     if group_id
