@@ -8,7 +8,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Indexed motif IDs: 9072
 - Indexed motif occurrences: 31658
-- Canonical motif groups: 62
+- Canonical motif groups: 65
 - Mapped motif IDs counted: 7870
 - Unmapped motif IDs excluded: 1202
 
@@ -77,7 +77,10 @@ This report counts only motif IDs that already map to a canonical normalization 
 | 59 | `jealous_stepmother_persecuted_child` Jealous Stepmother and Persecuted Child | 3 | 8 | 8 | japanese (4), ainu (2), celtic_irish (2) |
 | 60 | `restless_dead_haunting_vengeance` Restless Dead, Haunting, and Vengeance | 3 | 3 | 3 | celtic_irish (1), greek_roman (1), roman (1) |
 | 61 | `divine_race` Divine Race and Arrival of the Gods | 1 | 3 | 3 | celtic_irish (3) |
-| 62 | `_meta_textual` Textual and Scholarly Artifacts [meta] | 13 | 88 | 88 | greek (35), celtic_irish (14), buddhist (7), roman (6), sufi (4) |
+| 62 | `curse_blessing_speech` Curse, Blessing, and Performative Sacred Speech | 0 | 0 | 0 |  |
+| 63 | `prophecy_divination` Prophecy and Systematic Divination | 0 | 0 | 0 |  |
+| 64 | `sacred_substance` Sacred Substance and Divine Intoxication | 0 | 0 | 0 |  |
+| 65 | `_meta_textual` Textual and Scholarly Artifacts [meta] | 13 | 88 | 88 | greek (35), celtic_irish (14), buddhist (7), roman (6), sufi (4) |
 
 ## Death, Rebirth, and Transformation
 

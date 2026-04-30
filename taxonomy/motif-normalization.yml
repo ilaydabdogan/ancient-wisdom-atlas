@@ -487,6 +487,7 @@ canonical_motif_groups:
   - cosmic_mountain
   - sacred_mountain
   - world_center
+  - sacred_geography_pilgrimage
   aliases: []
   related:
   - ascent
@@ -552,6 +553,7 @@ canonical_motif_groups:
   - initiation
   - flood_and_renewal
   - restless_dead_haunting_vengeance
+  - sacred_substance
 - id: ascent
   label: Ascent and Heavenly Journey
   description: 'The upward journey toward the divine # climbing the mountain, ascending
@@ -611,6 +613,8 @@ canonical_motif_groups:
   - sacrifice
   - theophany
   - trickster
+  - sacred_substance
+  - prophecy_divination
 - id: initiation
   label: Initiation and Transformative Ordeal
   description: 'The passage from one state of being to another through ordeal, instruction,
@@ -645,6 +649,7 @@ canonical_motif_groups:
   - initiation
   - descent
   - death_and_transformation
+  - sacred_substance
 - id: hero_journey
   label: The Hero's Journey
   description: 'The narrative arc of departure, trial, transformation, and return.
@@ -657,6 +662,7 @@ canonical_motif_groups:
   - return
   - divine_call
   - caravan_lost_in_deadly_desert_through_failed_navigation
+  - exile_wandering
   aliases: []
   related:
   - initiation
@@ -698,6 +704,7 @@ canonical_motif_groups:
   - sacred_exchange
   - death_and_transformation
   - primordial_sacrifice
+  - sacred_substance
 - id: covenant
   label: Covenant and Sacred Bond
   description: 'A binding agreement between the human and the divine, or between sacred
@@ -727,6 +734,7 @@ canonical_motif_groups:
   - sacred_exchange
   - divine_judgment
   - ethical_command
+  - curse_blessing_speech
 - id: sacred_exchange
   label: Sacred Exchange and Reciprocity
   description: 'The principle of reciprocal giving between humans and the divine,
@@ -742,6 +750,7 @@ canonical_motif_groups:
   - covenant
   - betrayal_violated_trust
   - hospitality_test_stranger_guest
+  - sacred_substance
 - id: divine_judgment
   label: Divine Judgment and Moral Reckoning
   description: 'The weighing, testing, or evaluation of souls, deeds, or peoples by
@@ -775,6 +784,8 @@ canonical_motif_groups:
   - covenant
   - world_ages_cosmic_decline
   - jealous_stepmother_persecuted_child
+  - prophecy_divination
+  - curse_blessing_speech
 - id: flood_and_renewal
   label: Flood, Fire, and Cosmic Renewal
   description: 'The destruction of the world or the old order by water, fire, or catastrophe,
@@ -964,6 +975,7 @@ canonical_motif_groups:
   - covenant
   - divine_judgment
   - axis_mundi
+  - prophecy_divination
 - id: duality
   label: Duality and Cosmic Opposition
   description: 'The fundamental pairing of opposites # light/dark, order/chaos, life/death,
@@ -1063,6 +1075,7 @@ canonical_motif_groups:
   - inexhaustible_food_supply
   - inexhaustible_material_supply
   - abundance_giving_cow
+  - animal_helpers
   aliases:
   - miraculous_provision
   - inexhaustible_provision
@@ -1154,6 +1167,7 @@ canonical_motif_groups:
   - royal_legitimacy
   - betrayal_violated_trust
   - hospitality_test_stranger_guest
+  - curse_blessing_speech
 - id: storytelling_as_power
   label: Storytelling and Narrative as Sacred Power
   description: 'The act of telling stories as a means of survival, transmission of
@@ -1177,6 +1191,7 @@ canonical_motif_groups:
   - initiation
   - enchanting_music
   - recognition_tokens_hidden_identity
+  - curse_blessing_speech
 - id: sacred_waters
   label: Sacred Waters and Passage Through Water
   description: 'Water as boundary, purifier, destroyer, and medium of transformation.
@@ -1311,6 +1326,7 @@ canonical_motif_groups:
   - sacred_knowledge
   - theophany
   - descent
+  - prophecy_divination
 - id: death_by_fate
   label: Death Attributed to Fate or Destiny
   description: 'Death understood as fated, destined, or determined by forces beyond
@@ -1771,6 +1787,45 @@ canonical_motif_groups:
   review_status: human_accepted
   accepted_on: '2026-04-29'
   accepted_from: docs/normalization-review-layer-3-new-groups.md
+- id: sacred_substance
+  label: Sacred Substance and Divine Intoxication
+  description: Sacred food, drink, plants, potions, and consciousness-altering substances
+    used in ritual, myth, or mystical practice. Includes soma, the mead of poetry,
+    wine, kykeon, manna, ambrosia, sacred honey, divine nectar, ritual feasting, and
+    forbidden fruit as substance.
+  children: []
+  aliases: []
+  related:
+  - sacred_knowledge
+  - sacrifice
+  - sacred_exchange
+  - mystical_quest
+  - death_and_transformation
+- id: prophecy_divination
+  label: Prophecy and Systematic Divination
+  description: Oracles, seers, omens, augury, divination methods, lot-casting, soothsaying,
+    and systematic access to hidden or future knowledge. Distinct from dream_and_vision
+    because prophecy involves established methods and roles rather than spontaneous
+    altered perception.
+  children: []
+  aliases: []
+  related:
+  - sacred_knowledge
+  - dream_and_vision
+  - divine_judgment
+  - royal_legitimacy
+- id: curse_blessing_speech
+  label: Curse, Blessing, and Performative Sacred Speech
+  description: Curses, blessings, oaths, vows, geasa, taboo pronouncements, adjurations,
+    and spoken words that bind or transform through their utterance. Distinct from
+    storytelling_as_power because the power is in the single speech act, not the narrative.
+  children: []
+  aliases: []
+  related:
+  - storytelling_as_power
+  - sacred_law
+  - covenant
+  - divine_judgment
 raw_motif_group_index:
   _meta_textual:
     group_id: _meta_textual
@@ -150471,4 +150526,21 @@ remaining_unmapped_final_pass:
     pass_2_keyword_mapped: 77
     pass_2_episode_artifact_excluded: 486
     processed_total: 940
+targeted_new_family_remap:
+  updated_on: '2026-04-30'
+  status: taxonomy_families_added_batch_prepared
+  new_canonical_families:
+  - sacred_substance
+  - prophecy_divination
+  - curse_blessing_speech
+  new_child_clusters:
+    hero_journey:
+    - exile_wandering
+    divine_intervention:
+    - animal_helpers
+    axis_mundi:
+    - sacred_geography_pilgrimage
+  notes: Created target families for sacred substance, prophecy/divination, and curse/blessing
+    speech. Added child clusters under existing parent families before preparing targeted
+    remap batch.
 

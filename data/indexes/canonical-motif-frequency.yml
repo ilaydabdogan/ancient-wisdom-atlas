@@ -6,7 +6,7 @@ method: Counts distinct traditions for indexed motif IDs that map to canonical_m
   through raw_motif_group_index, group children/aliases, or normalization aliases.
 indexed_motif_count: 9072
 indexed_occurrence_count: 31658
-canonical_motif_group_count: 62
+canonical_motif_group_count: 65
 mapped_motif_count: 7870
 unmapped_motif_count: 1202
 canonical_motifs:
@@ -21,6 +21,7 @@ canonical_motifs:
   - initiation
   - flood_and_renewal
   - restless_dead_haunting_vengeance
+  - sacred_substance
   is_meta_group: false
   traditions:
     ainu: 5
@@ -1876,6 +1877,8 @@ canonical_motifs:
   - sacrifice
   - theophany
   - trickster
+  - sacred_substance
+  - prophecy_divination
   is_meta_group: false
   traditions:
     ainu: 17
@@ -3765,6 +3768,8 @@ canonical_motifs:
   - covenant
   - world_ages_cosmic_decline
   - jealous_stepmother_persecuted_child
+  - prophecy_divination
+  - curse_blessing_speech
   is_meta_group: false
   traditions:
     ainu: 14
@@ -6959,6 +6964,7 @@ canonical_motifs:
   - covenant
   - betrayal_violated_trust
   - hospitality_test_stranger_guest
+  - sacred_substance
   is_meta_group: false
   traditions:
     ainu: 13
@@ -11114,6 +11120,7 @@ canonical_motifs:
   - sacred_exchange
   - death_and_transformation
   - primordial_sacrifice
+  - sacred_substance
   is_meta_group: false
   traditions:
     ainu: 1
@@ -11992,6 +11999,7 @@ canonical_motifs:
   - covenant
   - divine_judgment
   - axis_mundi
+  - prophecy_divination
   is_meta_group: false
   traditions:
     buddhist: 39
@@ -15056,6 +15064,7 @@ canonical_motifs:
   - royal_legitimacy
   - betrayal_violated_trust
   - hospitality_test_stranger_guest
+  - curse_blessing_speech
   is_meta_group: false
   traditions:
     ainu: 1
@@ -24100,6 +24109,7 @@ canonical_motifs:
   - initiation
   - descent
   - death_and_transformation
+  - sacred_substance
   is_meta_group: false
   traditions:
     ainu: 5
@@ -30534,6 +30544,7 @@ canonical_motifs:
   - sacred_exchange
   - divine_judgment
   - ethical_command
+  - curse_blessing_speech
   is_meta_group: false
   traditions:
     buddhist: 3
@@ -40620,6 +40631,7 @@ canonical_motifs:
   - sacred_knowledge
   - theophany
   - descent
+  - prophecy_divination
   is_meta_group: false
   traditions:
     ainu: 4
@@ -44202,6 +44214,7 @@ canonical_motifs:
   - initiation
   - enchanting_music
   - recognition_tokens_hidden_identity
+  - curse_blessing_speech
   is_meta_group: false
   traditions:
     ainu: 1
@@ -57022,6 +57035,57 @@ canonical_motifs:
   tradition_count: 1
   occurrence_count: 3
   mapped_motif_count: 3
+- canonical_motif_id: curse_blessing_speech
+  label: Curse, Blessing, and Performative Sacred Speech
+  description: Curses, blessings, oaths, vows, geasa, taboo pronouncements, adjurations,
+    and spoken words that bind or transform through their utterance. Distinct from
+    storytelling_as_power because the power is in the single speech act, not the narrative.
+  related:
+  - storytelling_as_power
+  - sacred_law
+  - covenant
+  - divine_judgment
+  is_meta_group: false
+  traditions: {}
+  mapped_motifs: []
+  tradition_count: 0
+  occurrence_count: 0
+  mapped_motif_count: 0
+- canonical_motif_id: prophecy_divination
+  label: Prophecy and Systematic Divination
+  description: Oracles, seers, omens, augury, divination methods, lot-casting, soothsaying,
+    and systematic access to hidden or future knowledge. Distinct from dream_and_vision
+    because prophecy involves established methods and roles rather than spontaneous
+    altered perception.
+  related:
+  - sacred_knowledge
+  - dream_and_vision
+  - divine_judgment
+  - royal_legitimacy
+  is_meta_group: false
+  traditions: {}
+  mapped_motifs: []
+  tradition_count: 0
+  occurrence_count: 0
+  mapped_motif_count: 0
+- canonical_motif_id: sacred_substance
+  label: Sacred Substance and Divine Intoxication
+  description: Sacred food, drink, plants, potions, and consciousness-altering substances
+    used in ritual, myth, or mystical practice. Includes soma, the mead of poetry,
+    wine, kykeon, manna, ambrosia, sacred honey, divine nectar, ritual feasting, and
+    forbidden fruit as substance.
+  related:
+  - sacred_knowledge
+  - sacrifice
+  - sacred_exchange
+  - mystical_quest
+  - death_and_transformation
+  is_meta_group: false
+  traditions: {}
+  mapped_motifs: []
+  tradition_count: 0
+  occurrence_count: 0
+  mapped_motif_count: 0
 - canonical_motif_id: _meta_textual
   label: Textual and Scholarly Artifacts
   description: 'Not a symbolic motif. These are observations about the text itself
