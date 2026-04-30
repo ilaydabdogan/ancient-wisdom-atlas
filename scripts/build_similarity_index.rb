@@ -25,6 +25,16 @@ def load_yaml(path)
   YAML.safe_load(File.read(path), permitted_classes: [Date, Time], aliases: false) || {}
 end
 
+def public_site_extraction?(path, record)
+  relative_path = relative(path)
+  source_path = record["source_text_path"].to_s
+  return false if relative_path.start_with?("extractions/generated/experiential-batch/")
+  return false if source_path.start_with?("texts/experiential/")
+  return false if record["record_id"].to_s.start_with?("batch.experiential.")
+
+  true
+end
+
 def front_matter(path)
   return {} unless path && File.file?(path)
 
@@ -68,6 +78,8 @@ groups = {}
 
 Dir.glob(EXTRACTION_GLOB).sort.each do |path|
   record = load_yaml(path)
+  next unless public_site_extraction?(path, record)
+
   source_path = record["source_text_path"]
   source_meta = front_matter(File.join(ROOT, source_path.to_s))
   tradition = tradition_from(record, source_meta)
