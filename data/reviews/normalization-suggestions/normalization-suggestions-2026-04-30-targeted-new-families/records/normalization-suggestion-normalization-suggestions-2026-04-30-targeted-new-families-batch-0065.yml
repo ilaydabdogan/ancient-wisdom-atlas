@@ -1,0 +1,232 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0065
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.guardian-monster-bypassed-by-enchanted-food
+  motif_id: guardian_monster_bypassed_by_enchanted_food
+  label: guardian monster bypassed by enchanted food
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on bypassing an underworld gatekeeper; the enchanted
+    food is the means, not the primary symbolic family.
+  cautions: Could be cross-referenced to sacred_substance if tracking drugged ritual
+    foods, but no remap is recommended.
+  suggested_aliases:
+  - guardian bypassed by drugged food
+  - gatekeeper monster subdued by enchanted cake
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.habituation-to-an-unpleasant-condition
+  motif_id: habituation_to_an_unpleasant_condition
+  label: habituation to an unpleasant condition
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: The keyword match is incidental; the fable concerns acclimation to a
+    bad smell, not performative sacred speech.
+  cautions: Already human-reviewed as excluded; maintain exclusion.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hair-as-seat-of-power-or-vulnerability
+  motif_id: hair_as_seat_of_power_or_vulnerability
+  label: Hair as seat of power or vulnerability
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The motif concerns hair as a repository of power, life, or vulnerability;
+    taboo is contextual rather than a speech act.
+  cautions: Some examples involve taboos, but the family should remain external_soul
+    unless a specific uttered ban or vow is central.
+  suggested_aliases:
+  - hair as life-token
+  - hair as seat of strength
+  - hair as vulnerability token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hall-seating-insult-leading-to-mobilization
+  motif_id: hall_seating_insult_leading_to_mobilization
+  label: hall seating insult leading to mobilization
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The feast setting is incidental; the motif is an insult in a martial
+    hall that mobilizes conflict.
+  cautions: Do not remap to sacred_substance because no sacred food, drink, or intoxicating
+    substance is central.
+  suggested_aliases:
+  - seating insult mobilizes warriors
+  - hall insult triggers conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.head-taking-vow-as-battle-trophy
+  motif_id: head_taking_vow_as_battle_trophy
+  label: head-taking vow as battle trophy
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: role_variant
+  confidence: medium
+  rationale: The sworn vow is a discrete binding utterance that compels the warrior’s
+    action, even though its content is martial.
+  cautions: Also related to sacred_combat; review whether the vow or the trophy-taking
+    is the dominant indexing need.
+  suggested_aliases:
+  - battle vow to take a head
+  - sworn head-taking before return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-by-costly-magical-ointment
+  motif_id: healing_by_costly_magical_ointment
+  label: healing by costly magical ointment
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The magical balsam or ointment is the central transformative healing
+    substance in the episode.
+  cautions: The matched keyword 'drink' is incidental, but the ointment itself fits
+    sacred_substance as a magical healing substance.
+  suggested_aliases:
+  - healing by magical balsam
+  - restoration by enchanted ointment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-magic-applied-to-battle-wounds
+  motif_id: healing_magic_applied_to_battle_wounds
+  label: healing magic applied to battle wounds
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Philtres, charms, and magic potions or healing substances are central
+    to the restorative action.
+  cautions: Also involves spells and martial context; remap is recommended only insofar
+    as the indexed motif centers the healing substances rather than battle or divine
+    aid.
+  suggested_aliases:
+  - battle wounds healed by magic potions
+  - healing substances exchanged across the ford
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-or-restoring-cup-in-an-enemy-stronghold
+  motif_id: healing_or_restoring_cup_in_an_enemy_stronghold
+  label: Healing or restoring cup in an enemy stronghold
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on the enchanted cup as a restoring container or vessel,
+    not on the drink as a sacred substance itself.
+  cautions: Related to sacred_substance through drinking from the cup, but the established
+    sacred_vessel family is the better fit.
+  suggested_aliases:
+  - restoring cup in enemy stronghold
+  - enchanted cup restores strength and appearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Keyword matches for food, drink, feast, spoken, taboo, and vow often reflect episode
+  details rather than the motif’s primary family.
+- Healing ointments, philtres, and potions are plausible sacred_substance remaps when
+  the substance itself performs the transformation.
+- Vows should be remapped to curse_blessing_speech only where the spoken binding utterance
+  is central, not merely incidental to combat.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: model_api
+  reviewed_at: ''
+  notes: Provisional targeted remap suggestions for batch-0065.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0065
+  input_sha256: 1fc8cdab0806af2b6c7df8ec9961cbcab465a398ad02169d17900670138d4e11
+

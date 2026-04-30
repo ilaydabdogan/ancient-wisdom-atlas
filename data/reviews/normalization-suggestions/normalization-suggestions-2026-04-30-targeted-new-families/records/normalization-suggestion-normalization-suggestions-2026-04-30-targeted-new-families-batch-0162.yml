@@ -1,0 +1,217 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0162
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wine-or-vine-as-ruby-like-outpouring
+  motif_id: wine_or_vine_as_ruby_like_outpouring
+  label: Wine or vine as ruby-like outpouring
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Wine/vine imagery is the motif itself and in Sufi context plausibly functions
+    as sacred or mystical substance rather than an incidental keyword.
+  cautions: Single poetic occurrence; could also remain under sacred_love if the ruby/vine
+    image is primarily erotic-mystical metaphor.
+  suggested_aliases:
+  - ruby from the vine
+  - wine as ruby outpouring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wine-vessel-as-joy-interrupted
+  motif_id: wine_vessel_as_joy_interrupted
+  label: Wine vessel as joy interrupted
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: The record is already an episode-specific artifact; the spilled wine
+    is tied to one broken-pitcher scene rather than a reusable sacred-substance motif.
+  cautions: Preserve as provenance if needed, but exclude from motif pattern queries.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withheld-food-leads-to-hostile-weather-magic
+  motif_id: withheld_food_leads_to_hostile_weather_magic
+  label: withheld food leads to hostile weather magic
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The decisive action is a chanted invocation calling hail, wind, rain,
+    and lightning against offenders, a performative hostile utterance.
+  cautions: Food-sharing reciprocity remains important; remap only if the taxonomy
+    wants the storm-invoking chant centered over the violated exchange.
+  suggested_aliases:
+  - chant invoking hostile weather
+  - spoken storm invocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withheld-honor-after-service-causes-departure
+  motif_id: withheld_honor_after_service_causes_departure
+  label: Withheld honor after service causes departure
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: No remap recommended; the first drink is an honor token in a service-and-departure
+    episode, not a sacred substance motif.
+  cautions: Keyword match is incidental to hospitality/status protocol.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withheld-sustenance-as-captivity-ordeal
+  motif_id: withheld_sustenance_as_captivity_ordeal
+  label: Withheld sustenance as captivity ordeal
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: high
+  rationale: No remap recommended; food and drink are ordinary sustenance withheld
+    during captivity, making the motif an ordeal rather than sacred substance.
+  cautions: Literal keyword match only.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.woman-besieged-like-trapped-animal
+  motif_id: woman_besieged_like_trapped_animal
+  label: woman besieged like trapped animal
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: Already excluded as episode-specific; inability to eat or drink is incidental
+    to Penelope's anxious simile, not a sacred-substance motif.
+  cautions: Do not use in targeted family pattern queries.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wonder-animal-as-drink-provider
+  motif_id: wonder_animal_as_drink_provider
+  label: Wonder-animal as drink-provider
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers a supernatural animal producing whatever drink is requested,
+    making wondrous drink provision central rather than incidental.
+  cautions: Could alternatively relate to sacred_exchange or miraculous provision
+    because the focus may be the animal/provider more than the drink itself.
+  suggested_aliases:
+  - supernatural drink provision
+  - animal produces requested drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wondrous-object-forged-from-extraordinary-ingredients
+  motif_id: wondrous_object_forged_from_extraordinary_ingredients
+  label: Wondrous object forged from extraordinary ingredients
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: narrower_than
+  confidence: high
+  rationale: No remap recommended; milk is one extraordinary crafting ingredient for
+    the Sampo, while the motif centers forging a wondrous object.
+  cautions: The sacred-substance keyword is incidental to a sacred-craft motif.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and limited to whether these keyword-selected motifs
+  should remap into sacred_substance, prophecy_divination, or curse_blessing_speech.
+- No motifs in this batch warrant remap to prophecy_divination.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: 'Applied targeted-family distinctions: literal food/drink mentions were retained
+    in current groups or excluded unless the substance or performative utterance was
+    central.'
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0162
+  input_sha256: 22ae8cd4386e9905997f0b2d4502369e872479bae5b3140f6a3bc50a1888f836
+

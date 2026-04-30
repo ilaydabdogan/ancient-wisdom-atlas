@@ -1,0 +1,225 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0123
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.purification-or-removal-by-water
+  motif_id: purification_or_removal_by_water
+  label: Purification or removal by water
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif centers on water carrying away impurity or disease; the food
+    reference is incidental to the expelled smallpox spirit's voyage.
+  cautions: Do not remap to sacred_substance unless the ritual substance itself is
+    the motif focus.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purifying-sacred-river
+  motif_id: purifying_sacred_river
+  label: Purifying sacred river
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif is about Gaṅgā as holy purifying water; 'bless' describes the
+    river's effect, not a discrete blessing speech act.
+  cautions: Keyword match to blessing is contextual rather than taxonomic.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pursuit-vow-requiring-immediate-bloodshed
+  motif_id: pursuit_vow_requiring_immediate_bloodshed
+  label: pursuit vow requiring immediate bloodshed
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif is explicitly driven by a binding vow that requires immediate
+    bloodshed, fitting performative sacred speech.
+  cautions: It remains related to sacred_combat because the vow's content is martial.
+  suggested_aliases:
+  - bloodshed vow
+  - martial vow requiring a kill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.queen-or-woman-mediator-pacifies-male-anger
+  motif_id: queen_or_woman_mediator_pacifies_male_anger
+  label: queen or woman mediator pacifies male anger
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on Tara's mediating role and pacification through presence
+    and gentle speech; wine is incidental characterization.
+  cautions: Current placement is provisional, but sacred_substance is not recommended
+    from this evidence alone.
+  suggested_aliases:
+  - female mediator pacifies anger
+  - queen mediates wrath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-for-a-ritual-feast-vessel
+  motif_id: quest_for_a_ritual_feast_vessel
+  label: Quest for a ritual feast vessel
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: The quest focuses on obtaining the huge kettle as the required ritual
+    container; ale and feast explain its use but are not the motif center.
+  cautions: Related to sacred_substance through brewing, but remap would obscure the
+    vessel-focused structure.
+  suggested_aliases:
+  - quest for brewing kettle
+  - ritual ale vessel quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-magic
+  motif_id: rain_magic
+  label: rain-magic
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns rain-making practice; the honey reference belongs
+    to a nearby hunting example and does not indicate sacred substance.
+  cautions: Current group is only a provisional best fit; consider a future weather-magic
+    family if taxonomy expands.
+  suggested_aliases:
+  - rain magic
+  - rain-making magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-making-by-imitating-rain-or-storm
+  motif_id: rain_making_by_imitating_rain_or_storm
+  label: Rain-making by imitating rain or storm
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif is sympathetic rain-making by imitation of storm and rainfall;
+    the drink keyword is incidental and absent from the motif basis.
+  cautions: May warrant separate weather or sympathetic-magic grouping later, but
+    not one of the three target families.
+  suggested_aliases:
+  - sympathetic rain-making
+  - imitative rain magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rebirth-through-ingestion
+  motif_id: rebirth_through_ingestion
+  label: rebirth through ingestion
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: child
+  confidence: high
+  rationale: The motif centers on an ingestion-to-rebirth sequence; milk is the medium,
+    but the taxonomic focus is rebirth and transformation.
+  cautions: Keep related to sacred_substance where ingestion itself is ritually or
+    chemically central, but no remap is recommended here.
+  suggested_aliases:
+  - ingestion-to-rebirth
+  - swallowed and born again
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Keyword hits for food, drink, wine, honey, milk, bless, and vow were reviewed against
+  motif focus rather than passage-level incidental wording.
+- Only the martial vow motif is recommended for remap into one of the three target
+  families.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional suggestions for targeted new-family remap batch 0123.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0123
+  input_sha256: 775780b05798007e4e298221b27cfe6d9b0e409d1fc12de475b51665ded33ab2
+

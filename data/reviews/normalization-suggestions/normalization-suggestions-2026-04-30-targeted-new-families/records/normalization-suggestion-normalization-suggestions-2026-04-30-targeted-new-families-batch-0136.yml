@@ -1,0 +1,213 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0136
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-calendar-abstinence-governed-by-lunar-and-dawn-markers
+  motif_id: sacred_calendar_abstinence_governed_by_lunar_and_dawn_markers
+  label: Sacred calendar abstinence governed by lunar and dawn markers
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif centers calendrical regulation of fasting by moon and dawn
+    markers, not the sacred character of food or drink itself.
+  cautions: Matched keyword 'drink' is incidental to abstinence practice.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-cave-with-mortal-and-divine-entrances
+  motif_id: sacred_cave_with_mortal_and_divine_entrances
+  label: Sacred cave with mortal and divine entrances
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif concerns a sacred cave as a differentiated passage for mortals
+    and gods, fitting axis/threshold geography rather than sacred substance.
+  cautions: Wine-jars are part of the cave inventory, not the motif focus.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-city-characterized-by-gardens-water-mosques-and-communal-piety
+  motif_id: sacred_city_characterized_by_gardens_water_mosques_and_communal_piety
+  label: sacred city characterized by gardens, water, mosques, and communal piety
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an episode-specific descriptive cluster of an actual city, already
+    excluded, not a reusable sacred-substance motif.
+  cautions: Food appears only in a civic-piety description and should not drive remap.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-field-under-taboo
+  motif_id: sacred_field_under_taboo
+  label: sacred field under taboo
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif is a ritual/legal prohibition on ploughing sacred land, not
+    a performative curse, blessing, vow, or oath.
+  cautions: Keyword 'taboo' indicates prohibition but no discrete speech act is evident.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-guarded-by-ritual-restriction
+  motif_id: sacred_fire_guarded_by_ritual_restriction
+  label: sacred fire guarded by ritual restriction
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif centers protection of sacred fire through priestly restriction,
+    not food, drink, or intoxicating substances.
+  cautions: Food is merely one item among many Flamen Dialis restrictions.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-food-taboo-whose-violation-brings-disease-or-death
+  motif_id: sacred_food_taboo_whose_violation_brings_disease_or_death
+  label: sacred food taboo whose violation brings disease or death
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif primarily concerns dietary taboo and consequences of violating
+    sacred law, rather than the food as a ritual intoxicant or transformative sacrament.
+  cautions: It is related to sacred_substance because the prohibited item is food/animal/plant,
+    but the structuring motif is taboo law.
+  suggested_aliases:
+  - dietary taboo causing disease or death
+  - food prohibition with supernatural penalty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fountain-created-by-hoof-strike
+  motif_id: sacred_fountain_created_by_hoof_strike
+  label: Sacred fountain created by hoof-strike
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: child
+  confidence: high
+  rationale: The motif is the miraculous origin of a sacred spring, fitting sacred
+    waters more than sacred substance.
+  cautions: The Muses drinking inspiration from the spring is adjacent to sacred_substance,
+    but the motif label and basis emphasize the fountain’s creation.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-house-as-focus-of-provision-and-protection
+  motif_id: sacred_house_as_focus_of_provision_and_protection
+  label: Sacred house as focus of provision and protection
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers divine provision and protection associated with the
+    sacred house, not ritual food or drink as sacred substance.
+  cautions: Food is the object of provision, but not itself a sacred or transformative
+    substance motif.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- No motifs in this batch require remap to sacred_substance, prophecy_divination,
+  or curse_blessing_speech based on the supplied evidence.
+- Keyword hits are mostly incidental terms within broader motifs of sacred time, law,
+  fire, waters, sacred geography, or divine provision.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional targeted remap review; all non-excluded motifs should remain
+    in their current groups.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0136
+  input_sha256: 7cef0377282c28e42213f9e52118ef46b1d5bf0804ec2dcc679e5a3f1c8dcf12
+

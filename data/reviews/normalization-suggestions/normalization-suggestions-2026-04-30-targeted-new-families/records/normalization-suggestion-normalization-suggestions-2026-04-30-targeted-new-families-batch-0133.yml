@@ -1,0 +1,214 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0133
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-restriction-of-priestly-office
+  motif_id: ritual_restriction_of_priestly_office
+  label: ritual restriction of priestly office
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif concerns priestly restrictions and ritual taboos governing
+    office, not sacred food or drink as such.
+  cautions: The word food is incidental within a broad restriction list.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-specialist-inaugurates-harvest
+  motif_id: ritual_specialist_inaugurates_harvest
+  label: ritual specialist inaugurates harvest
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif centers on first-harvest authorization within a ritual cycle,
+    not on milk, honey, or sacred substance itself.
+  cautions: Food-related harvest materials are part of the rite but not the motif's
+    primary focus.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-speech-taboo-delaying-response-to-crisis
+  motif_id: ritual_speech_taboo_delaying_response_to_crisis
+  label: Ritual speech taboo delaying response to crisis
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif is specifically a geis-based speech taboo that binds who may
+    speak, fitting performative sacred speech.
+  cautions: Also overlaps sacred_law because the taboo structures social order.
+  suggested_aliases:
+  - geis-delayed speech response
+  - speech taboo before king and druids
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-taboo-around-liminal-persons
+  motif_id: ritual_taboo_around_liminal_persons
+  label: ritual taboo around liminal persons
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif concerns general ritual taboos governing liminal persons, not
+    a discrete uttered curse, blessing, vow, or geis.
+  cautions: Keyword taboo alone is insufficient for remap to curse_blessing_speech.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-healing-with-water-herbs-milk-washing-and-wound-extraction
+  motif_id: ritualized_healing_with_water_herbs_milk_washing_and_wound_extraction
+  label: ritualized healing with water, herbs, milk, washing, and wound extraction
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The healing rite centers on prepared herbs, water, drinks, and milk as
+    transformative medicinal substances.
+  cautions: This is therapeutic rather than intoxicating; human review should decide
+    whether sacred_substance should include ritual healing materia medica.
+  suggested_aliases:
+  - ritual healing substances
+  - herbal and milk healing cure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-hospitality-in-a-many-doored-hostelry
+  motif_id: ritualized_hospitality_in_a_many_doored_hostelry
+  label: Ritualized hospitality in a many-doored hostelry
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif centers on structured hospitality and traveller portions; food
+    is part of reciprocal hosting rather than a sacred substance focus.
+  cautions: Food keyword is incidental to hospitality obligations.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-plunder-or-mock-combat-for-food
+  motif_id: ritualized_plunder_or_mock_combat_for_food
+  label: ritualized plunder or mock combat for food
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif is a ritualized redistribution or seizure of prepared food,
+    not focused on the sacred properties of the food itself.
+  cautions: Could also relate to sacred_combat due to mock martial form; no remap
+    to sacred_substance recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-public-declaration-of-war-by-spear-casting
+  motif_id: ritualized_public_declaration_of_war_by_spear_casting
+  label: Ritualized public declaration of war by spear-casting
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: high
+  rationale: Casting refers to throwing a spear in a war-declaration rite, not lot-casting
+    or divination.
+  cautions: Keyword match is a literal false positive for prophecy_divination.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most sacred_substance hits in this batch are incidental food or harvest references;
+  only the ritualized healing motif plausibly centers transformative substances.
+- Taboo hits should be separated between general ritual law and performative speech/geis
+  cases.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: model
+  reviewed_at: ''
+  notes: Provisional targeted remap suggestions for batch 0133.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0133
+  input_sha256: 2785b24242104555458eaf4e160c04cf1722f4ac1b7e02e7a6cbeb46c8728489
+

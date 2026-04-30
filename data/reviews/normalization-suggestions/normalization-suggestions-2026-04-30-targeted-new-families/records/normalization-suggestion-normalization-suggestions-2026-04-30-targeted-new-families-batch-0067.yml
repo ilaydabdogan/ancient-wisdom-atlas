@@ -1,0 +1,219 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0067
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-cult-games-and-victory-crowns
+  motif_id: hero_cult_games_and_victory_crowns
+  label: Hero cult games and victory crowns
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif centers on commemorative hero-cult games and victory crowns
+    after a hero's death; the oracle is incidental background.
+  cautions: Do not remap solely because the passage mentions an oracle.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-defeats-aerial-enchantress-through-a-small-aperture
+  motif_id: hero_defeats_aerial_enchantress_through_a_small_aperture
+  label: hero defeats aerial enchantress through a small aperture
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: medium
+  rationale: The keyword hit is literal spear-casting; the motif concerns defeating
+    a supernatural aerial attacker at a liminal encounter, not divination.
+  cautions: Current placement remains somewhat provisional; consider sacred combat
+    or threshold-guardian review, but not prophecy_divination.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-isolated-against-an-army-at-a-ford
+  motif_id: hero_isolated_against_an_army_at_a_ford
+  label: hero isolated against an army at a ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on single combat at a ford and army confrontation;
+    food, drink, and wine are incidental keyword noise.
+  cautions: No sacred-substance remap recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-received-in-a-decayed-noble-dwelling
+  motif_id: hero_received_in_a_decayed_noble_dwelling
+  label: hero received in a decayed noble dwelling
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an episode-specific setting/reception detail already excluded
+    from pattern queries; the drink keyword is incidental.
+  cautions: Preserve exclusion unless a broader hospitality or decayed-house motif
+    is deliberately modeled elsewhere.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-recruits-animal-companions-through-food-reward-and-command
+  motif_id: hero_recruits_animal_companions_through_food_reward_and_command
+  label: Hero recruits animal companions through food reward and command
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Food functions as a reward in recruiting animal helpers; it is not a
+    ritual, intoxicating, divine, or transformative substance.
+  cautions: Current trickster placement may be heuristic; animal_helpers/divine_intervention
+    could be reviewed, but sacred_substance is not appropriate.
+  suggested_aliases:
+  - animal companions recruited with food reward
+  - food reward recruits animal helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-rejects-omen-in-favor-of-martial-duty
+  motif_id: hero_rejects_omen_in_favor_of_martial_duty
+  label: hero rejects omen in favor of martial duty
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The motif explicitly concerns bird omens as an accepted divinatory sign-system,
+    even though the hero rejects them in favor of martial duty.
+  cautions: Related to sacred_combat because the omen is debated in battle context,
+    but the motif's distinctive element is divinatory omen interpretation.
+  suggested_aliases:
+  - rejection of omens before battle
+  - martial duty over bird omens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-shares-food-with-a-captive-or-threatened-woman
+  motif_id: hero_shares_food_with_a_captive_or_threatened_woman
+  label: Hero shares food with a captive or threatened woman
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns sharing food as hospitality or reciprocal aid, not
+    a sacred, ritual, intoxicating, or transformative substance.
+  cautions: No sacred_substance remap recommended; current placement is provisional
+    but more appropriate than target families.
+  suggested_aliases:
+  - food shared with captive woman
+  - sharing provisions with threatened helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-withdraws-to-liminal-sea-cave-and-dies-under-watch
+  motif_id: hero_withdraws_to_liminal_sea_cave_and_dies_under_watch
+  label: Hero withdraws to liminal sea cave and dies under watch
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif centers on withdrawal to a liminal cave and death under watch;
+    absence of food and drink marks deprivation, not sacred substance.
+  cautions: No sacred_substance remap recommended.
+  suggested_aliases:
+  - hero dies in sea cave under watch
+  - death by withdrawal in liminal cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most target hits in this batch are incidental keyword matches rather than true members
+  of the three new families.
+- Only the battle-omen motif is recommended for remap into a target new family.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_model
+  reviewed_at: ''
+  notes: Provisional targeted remap suggestions generated for batch 0067.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0067
+  input_sha256: ebba4e9b114cadc2b2f4d18f51b9d51ebc0509669b9567caf73b340d696174b3
+

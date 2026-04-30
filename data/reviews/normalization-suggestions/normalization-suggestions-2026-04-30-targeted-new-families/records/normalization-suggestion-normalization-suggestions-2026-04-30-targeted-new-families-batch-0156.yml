@@ -1,0 +1,226 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0156
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.vengeance-vow-after-kin-loss
+  motif_id: vengeance_vow_after_kin_loss
+  label: vengeance vow after kin loss
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on a vow of vengeance, a discrete binding speech act
+    that drives subsequent combat.
+  cautions: Also overlaps sacred_combat because the vow is embedded in battle retaliation.
+  suggested_aliases:
+  - vow of vengeance after kin loss
+  - revenge oath after slain kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vessel-that-provides-nourishment-and-releases-destructive-water
+  motif_id: vessel_that_provides_nourishment_and_releases_destructive_water
+  label: vessel that provides nourishment and releases destructive water
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: No remap recommended; the power is centered on the bowl as a magical
+    container, not on a sacred substance itself.
+  cautions: Food, drink, and milk are produced by the vessel but are secondary to
+    its container function.
+  suggested_aliases:
+  - nourishment-giving flood vessel
+  - bowl producing food drink and flood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victor-laments-the-slain-friend
+  motif_id: victor_laments_the_slain_friend
+  label: victor laments the slain friend
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: child
+  confidence: high
+  rationale: No remap recommended; the motif is a victor's grief for a slain friend,
+    while 'blood-drink' is poetic battle language.
+  cautions: Keyword hit is incidental and should not imply sacred_substance.
+  suggested_aliases:
+  - victor mourns slain friend
+  - lament for slain companion after combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violation-of-customary-food-division-triggers-supernatural-speech-and-vengeance
+  motif_id: violation_of_customary_food_division_triggers_supernatural_speech_and_vengeance
+  label: violation of customary food division triggers supernatural speech and vengeance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: This remains an episode-specific artifact already excluded; the food
+    keyword reflects a local custom violation, not sacred_substance.
+  cautions: The speaking head and vengeance threat may be narratively notable, but
+    the extracted label is too passage-specific for motif queries.
+  suggested_aliases:
+  - improper food share to speaking head
+  - customary food division violation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violation-of-hospitality-toward-a-poor-stranger
+  motif_id: violation_of_hospitality_toward_a_poor_stranger
+  label: Violation of hospitality toward a poor stranger
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: No remap recommended; the motif concerns violation of hospitality and
+    social-sacred obligation, not the food itself.
+  cautions: Could also relate to hospitality_test_stranger_guest, but not to sacred_substance.
+  suggested_aliases:
+  - refusal of hospitality to poor stranger
+  - denial of food to beggar guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violent-event-explains-a-place-name
+  motif_id: violent_event_explains_a_place_name
+  label: violent event explains a place-name
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: The keyword 'casting' refers to spear-throwing, not lot-casting or divination;
+    this remains an excluded place-name etiology artifact.
+  cautions: Do not include in prophecy_divination searches.
+  suggested_aliases:
+  - violent place-name etiology
+  - place-name from spear-casting mishap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.virgin-maiden-guarding-purity
+  motif_id: virgin_maiden_guarding_purity
+  label: virgin maiden guarding purity
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: No remap recommended; the motif centers on guarded purity and worthy/unworthy
+    association, not sacred milk or food.
+  cautions: Current placement is provisional; possible overlap with miraculous_child
+    or sacred_birth depends on wider Mariatta context.
+  suggested_aliases:
+  - maiden guarding sacred virtue
+  - virgin purity guarded from unworthy contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vow-and-counter-vow-over-a-king-s-capture
+  motif_id: vow_and_counter_vow_over_a_king_s_capture
+  label: Vow and counter-vow over a king's capture
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: role_variant
+  confidence: high
+  rationale: The motif centers on paired solemn pledges that bind opposing actors'
+    conduct in battle.
+  cautions: The milk keyword is incidental; the motif also retains contextual overlap
+    with covenant and sacred_combat.
+  suggested_aliases:
+  - vow and counter-vow in battle
+  - opposed pledges over royal capture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Targeted keyword hits were mostly incidental for sacred_substance in this batch.
+- Vow-centered motifs were remapped only where the vow itself is the operative motif,
+  not merely a battle detail.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_model
+  reviewed_at: ''
+  notes: Provisional remap suggestions for targeted new-family audit batch 0156.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0156
+  input_sha256: 011baee0029f015f1b46625bab1c1ae1dc80d4cffefc1427b157f088bae0e39f
+

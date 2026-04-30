@@ -1,0 +1,220 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0042
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-favor-brings-wealth-to-mortals
+  motif_id: divine_favor_brings_wealth_to_mortals
+  label: divine favor brings wealth to mortals
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on divine favor producing wealth through Plutus, not
+    on a discrete blessing formula as a performative utterance.
+  cautions: Keyword hit is from ordinary wording of divine favor as blessing; no remap
+    recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-figure-concealed-in-a-mortal-looking-captive
+  motif_id: divine_figure_concealed_in_a_mortal_looking_captive
+  label: divine figure concealed in a mortal-looking captive
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: role_variant
+  confidence: high
+  rationale: The motif concerns a god concealed in mortal appearance; wine is incidental
+    descriptive context around Bacchus.
+  cautions: Do not remap to sacred_substance unless the substance itself drives the
+    motif.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-foreknowledge-used-to-defend-forbidden-or-disputed-drinking
+  motif_id: divine_foreknowledge_used_to_defend_forbidden_or_disputed_drinking
+  label: divine foreknowledge used to defend forbidden or disputed drinking
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif explicitly centers disputed wine-drinking as a mystical/theological
+    act, making the sacred substance central rather than incidental.
+  cautions: It also involves divine foreknowledge; preserve that nuance in aliases
+    or notes if remapped.
+  suggested_aliases:
+  - foreknown wine drinking
+  - forbidden wine defended by divine knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-gift-of-abundance
+  motif_id: divine_gift_of_abundance
+  label: Divine gift of abundance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif is a divine bestowal of abundance; prophecy and drink appear
+    only among glossed possible meanings of al-Cawthar.
+  cautions: If indexed specifically as the paradisal river/pond for the blessed, a
+    narrower sacred_substance child might be considered later; no remap for this broad
+    label.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-helper-provides-protective-antidote-before-magical-trial
+  motif_id: divine_helper_provides_protective_antidote_before_magical_trial
+  label: divine helper provides protective antidote before magical trial
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: high
+  rationale: The protective herb Moly and drugged wine are central magical substances
+    that determine success in the trial.
+  cautions: Also involves divine intervention by Hermes; remap is justified because
+    the substance itself is the operative motif mechanism.
+  suggested_aliases:
+  - protective herb against enchanted drink
+  - Moly antidote to Circe's drugged wine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-hospitality-and-inexhaustible-abundance
+  motif_id: divine_hospitality_and_inexhaustible_abundance
+  label: Divine hospitality and inexhaustible abundance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on divine hospitality and miraculous abundance, with
+    food and drink as the contents of the hospitality rather than a specific sacred
+    substance practice.
+  cautions: Could relate to sacred_substance in queries for ritual feasting, but current
+    broader hospitality/exchange placement remains preferable.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-in-battle
+  motif_id: divine_intervention_in_battle
+  label: divine intervention in battle
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif concerns divine and angelic action in battle; the word 'cast'
+    refers to casting dread, not lot-casting or divination.
+  cautions: Keyword hit is literal/incidental and should not drive remap to prophecy_divination.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-intervention-in-heroic-conflict
+  motif_id: divine_intervention_in_heroic_conflict
+  label: Divine intervention in heroic conflict
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif is a broad list of gods intervening in heroic conflict; wine
+    and casting are incidental caption/word matches, not substance ritual or divination.
+  cautions: Evidence appears to be illustration captions rather than a focused narrative
+    motif; no targeted-family remap recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional and based on supplied sample evidence only.
+- Literal keyword matches such as 'bless' as general favor and 'cast dread' were not
+  treated as target-family evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_model
+  reviewed_at: ''
+  notes: Reviewed targeted candidates for sacred_substance, prophecy_divination, and
+    curse_blessing_speech remap suitability.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0042
+  input_sha256: acd1e42207a367851bd2f512a01b7fccb0feae84966efae98eb3da7d1699c959
+

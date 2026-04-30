@@ -1,0 +1,221 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0097
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mother-s-consoling-counsel-through-food-clothing-and-family-joy
+  motif_id: mother_s_consoling_counsel_through_food_clothing_and_family_joy
+  label: mother’s consoling counsel through food, clothing, and family joy
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: Episode-specific consoling advice; food is incidental nourishment, not
+    a sacred or ritual substance motif.
+  cautions: Preserve only as passage-level detail if needed; no remap to sacred_substance
+    recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-son-grief-at-separation
+  motif_id: mother_son_grief_at_separation
+  label: mother-son grief at separation
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: Core motif is maternal grief at separation; roots, fruit, honey, and
+    hermit food describe exile austerity only incidentally.
+  cautions: No remap to sacred_substance recommended unless a separate motif centers
+    ritual food or transformative substance.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mountain
+  motif_id: mountain
+  label: Underworld descent through mountain cave
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns a mountain/cave barrier and passage between realms;
+    the keyword food is not central to the recorded occurrence.
+  cautions: The broad motif_id has many indexed occurrences; review any submotif splitting
+    separately, but no target-family remap is indicated here.
+  suggested_aliases:
+  - barrier landscape with hidden passage
+  - mountain cave passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mountain-setting-associated-with-bacchic-festival
+  motif_id: mountain_setting_associated_with_bacchic_festival
+  label: mountain setting associated with Bacchic festival
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an explanatory/geographical note about Ismarus and a Bacchic
+    feast, not a reusable sacred-substance motif.
+  cautions: Bacchic ritual intoxication would fit sacred_substance if centered on
+    wine or ecstasy, but this label only records setting and commentary.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-after-destruction-of-homeland
+  motif_id: mourning_after_destruction_of_homeland
+  label: mourning after destruction of homeland
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif is Manto’s grief over destroyed homeland; the oracle is narrative
+    background, not the motif focus.
+  cautions: A separate oracle-command motif could map to prophecy_divination, but
+    this mourning motif should remain in lament_and_mourning.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-beloved-refuses-joy-and-sustenance
+  motif_id: mourning_beloved_refuses_joy_and_sustenance
+  label: mourning beloved refuses joy and sustenance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: Refusal of food, sleep, joy, and memories of mead express grief; the
+    substance itself is not sacred or transformative.
+  cautions: Do not conflate feast/drink imagery in lament poetry with sacred_substance
+    unless ritual intoxication is central.
+  suggested_aliases:
+  - mourning refusal of sustenance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-fast-before-renewed-combat
+  motif_id: mourning_fast_before_renewed_combat
+  label: mourning fast before renewed combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: Achilles’ abstention from food is a grief-fast before combat; the motif
+    centers mourning, not a sacred substance.
+  cautions: Could be related to ritualized mourning practices, but target-family remap
+    is not recommended.
+  suggested_aliases:
+  - grief fast before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-messenger-brings-news-of-royal-death
+  motif_id: mourning_messenger_brings_news_of_royal_death
+  label: mourning messenger brings news of royal death
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif is the delivery of death news and resulting mourning; the matched
+    vow keyword is incidental to nearby narrative context.
+  cautions: No discrete oath, vow, curse, or blessing is central in this motif record.
+  suggested_aliases:
+  - messenger announces royal death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Keyword hits in this batch are mostly incidental references to food, oracle, feast,
+  or vow within motifs whose established focus is mourning, landscape passage, or
+  excluded episode commentary.
+- No motif in this batch should be remapped to sacred_substance, prophecy_divination,
+  or curse_blessing_speech on the supplied evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Provisional targeted remap suggestions only; human taxonomy review recommended
+    before applying changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0097
+  input_sha256: 72e6ec4dc4a9a87360c01051cd7b9f2adf7ccd6bd365e5e31f2d3b5492f75c55
+

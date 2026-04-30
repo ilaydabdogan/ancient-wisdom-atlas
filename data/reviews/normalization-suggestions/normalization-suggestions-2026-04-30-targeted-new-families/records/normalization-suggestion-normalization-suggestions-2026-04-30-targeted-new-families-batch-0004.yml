@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0004
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-tree-axis
+  motif_id: sacred_tree_axis
+  label: Sacred Tree Or Axis Mundi
+  occurrences: 38
+  traditions:
+  - buddhist
+  - celtic_irish
+  - comparative
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - japanese
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: child
+  confidence: high
+  rationale: The motif centers sacred trees as cosmic centers or enlightenment sites;
+    substance, omen, and vow terms are contextual, not the defining pattern.
+  cautions: Some occurrences may separately warrant sacred_substance or prophecy_divination
+    tagging at passage level, but not a motif-family remap.
+  suggested_aliases:
+  - Bodhi tree as enlightenment site
+  - sacred tree as world axis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.duality
+  motif_id: duality
+  label: Duality
+  occurrences: 36
+  traditions:
+  - celtic_irish
+  - comparative
+  - daoist
+  - greek
+  - greek_roman
+  - islamic
+  - japanese
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: alias
+  confidence: high
+  rationale: The motif concerns paired oppositions and paradoxes; food, wine, taboo,
+    or divination words appear incidentally in examples.
+  cautions: Keyword hits reflect broad evidence passages rather than a sacred substance,
+    divination system, or performative speech motif.
+  suggested_aliases:
+  - identity of contraries
+  - virtue and danger intermingled
+  - paired opposites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ascent
+  motif_id: ascent
+  label: Ascent
+  occurrences: 31
+  traditions:
+  - buddhist
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamicate_folklore
+  - japanese
+  - roman
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: ascent
+  suggested_group_label: Ascent and Heavenly Journey
+  relationship: alias
+  confidence: high
+  rationale: The recurring pattern is upward movement, aerial travel, or heavenly
+    transcendence; alms, elixir, vows, and foretelling are secondary context.
+  cautions: Altered nourishment or elixir cases may deserve additional passage tagging,
+    but the normalized motif should remain ascent.
+  suggested_aliases:
+  - heavenly ascent
+  - miraculous aerial travel
+  - ascent beyond ordinary perspective
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.serpent
+  motif_id: serpent
+  label: Serpent
+  occurrences: 29
+  traditions:
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - islamic
+  - norse
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: serpent_guardian
+  suggested_group_label: Serpent and Serpent Guardian
+  relationship: alias
+  confidence: high
+  rationale: The motif is the serpent as sign, guardian, worshiped being, or dangerous
+    sacred animal; omen and offering language does not make the motif primarily divination
+    or substance.
+  cautions: Specific serpent-portent passages overlap prophecy_divination, but the
+    broader motif remains serpent-focused.
+  suggested_aliases:
+  - serpent sign
+  - serpent guardian
+  - serpent portent
+  - snake worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-knowledge
+  motif_id: forbidden_knowledge
+  label: Forbidden Knowledge
+  occurrences: 28
+  traditions:
+  - ainu
+  - celtic_irish
+  - celtic_welsh
+  - greek
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: child
+  confidence: high
+  rationale: The core pattern is prohibited seeing, questioning, or revelation and
+    its consequences; speech, taboo, food, and prophecy terms are contextual triggers.
+  cautions: If individual records emphasize taboo pronouncements rather than forbidden
+    knowledge, they may need narrower local review.
+  suggested_aliases:
+  - forbidden sight
+  - dangerous revelation
+  - prohibited knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-theft
+  motif_id: sacred_theft
+  label: Sacred Theft
+  occurrences: 25
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - greek
+  - greek_roman
+  - hindu
+  - norse
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: child
+  confidence: medium
+  rationale: The motif centers theft or deceptive acquisition of sacred charms, power
+    objects, animals, or knowledge; substance and oath keywords occur in stolen-object
+    contexts.
+  cautions: Some stolen inexhaustible food/drink objects may overlap sacred_substance
+    or sacred_treasures, but theft remains the organizing motif.
+  suggested_aliases:
+  - theft of sacred object
+  - stolen sacred charm
+  - deceptive acquisition of sacred power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water
+  motif_id: water
+  label: perilous sea passage through monstrous waters
+  occurrences: 24
+  traditions:
+  - buddhist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - islamicate_folklore
+  - norse
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: alias
+  confidence: high
+  rationale: The motif concerns dangerous waters, water passages, and safe navigation
+    of water boundaries; food, soma, prophecy, and oath terms are incidental to passages.
+  cautions: The generic motif_id 'water' is broad; consider preserving the more specific
+    label to avoid false keyword matches.
+  suggested_aliases:
+  - perilous water passage
+  - dangerous water source
+  - monstrous waters
+  - hidden water passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-descent
+  motif_id: hero_descent
+  label: Descent Into The Underworld
+  occurrences: 17
+  traditions:
+  - comparative
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - islamicate_folklore
+  - norse
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: child
+  confidence: high
+  rationale: The motif is a hero's underworld descent and threshold crossing; sibyls,
+    omens, offerings, and sacred plants function as aids within the descent pattern.
+  cautions: Aeneas/Sibyl episodes overlap prophecy_divination, and Golden Bough evidence
+    overlaps sacred_treasures or sacred_substance, but not enough to remap the motif.
+  suggested_aliases:
+  - underworld descent
+  - heroic descent to the underworld
+  - chthonic threshold journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- No motif in this batch should be remapped wholesale to sacred_substance, prophecy_divination,
+  or curse_blessing_speech; hits are largely contextual keyword matches or passage-level
+  overlaps.
+- Several motifs have legitimate cross-family relationships at occurrence level, especially
+  serpent portent, sacred tree fruit, and Aeneas/Sibyl descent evidence, but their
+  normalized family placement should remain unchanged.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Provisional automated suggestions for targeted new-family remap batch 0004.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0004
+  input_sha256: 3ef838f09991398980a3c1fa39e70c928c0de040dfa63f32a1e9ff5cf690bbe1
+

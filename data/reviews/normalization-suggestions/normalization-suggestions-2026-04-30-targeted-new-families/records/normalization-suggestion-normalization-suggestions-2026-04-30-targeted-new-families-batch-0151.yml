@@ -1,0 +1,223 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0151
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.threefold-taking-of-valued-animals
+  motif_id: threefold_taking_of_valued_animals
+  label: threefold taking of valued animals
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns the taking of prized animals in a heroic/raid context,
+    not sacred food or drink.
+  cautions: Keyword match appears incidental from nearby text rather than the motif
+    itself.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.toleration-bounded-by-civic-order
+  motif_id: toleration_bounded_by_civic_order
+  label: toleration bounded by civic order
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif is about civic-religious regulation of belief and public order;
+    no remap to performative sacred speech is recommended.
+  cautions: The word 'pronounce' is incidental to legal/social speech, not a curse,
+    blessing, oath, vow, or taboo pronouncement.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tongue-removed-from-slain-animal
+  motif_id: tongue_removed_from_slain_animal
+  label: Tongue removed from slain animal
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Although the evidence includes sacred eating of tongues, the motif label
+    is an episode-specific extraction about removing an animal tongue and is already
+    policy-excluded.
+  cautions: If retained as a queryable motif, a narrower ritual-food variant might
+    relate to sacred_substance, but this record should remain excluded.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.totemic-animal-taboo-connected-with-descent-or-obligation
+  motif_id: totemic_animal_taboo_connected_with_descent_or_obligation
+  label: totemic animal taboo connected with descent or obligation
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif is a clan-based dietary/ritual prohibition grounded in descent
+    and obligation, fitting sacred law rather than performative speech.
+  cautions: The taboo is not presented as a discrete utterance, geis, oath, curse,
+    or blessing.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transfer-of-curse-sin-evil-omen-or-disease-to-a-substitute
+  motif_id: transfer_of_curse_sin_evil_omen_or_disease_to_a_substitute
+  label: transfer of curse, sin, evil, omen, or disease to a substitute
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The central pattern is scapegoat-like ritual transfer of affliction to
+    a substitute, not divination or the speech act of cursing itself.
+  cautions: Some instances include prayers or curses, but the normalized motif centers
+    substitution/expulsion; relatedness to curse_blessing_speech may be noted if speech
+    is foregrounded in submotifs.
+  suggested_aliases:
+  - scapegoat transfer of evil
+  - ritual transfer of affliction to substitute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transfer-of-sorrow-to-burden-bearing-animals
+  motif_id: transfer_of_sorrow_to_burden_bearing_animals
+  label: transfer of sorrow to burden-bearing animals
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns displacement of grief or burden onto animals; the
+    mead reference is part of a broader wedding blessing scene and not the motif's
+    focus.
+  cautions: Could overlap with lament or ritual transfer themes, but not sacred_substance
+    unless the substance itself becomes central.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transformative-waters
+  motif_id: transformative_waters
+  label: transformative waters
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The motif is specifically about waters, springs, rivers, and lakes that
+    transform bodies or minds; no remap to sacred_substance is recommended.
+  cautions: Some waters are drunk and affect wine-desire or consciousness, but the
+    governing symbolism is sacred/transformative water rather than a ritual potion
+    or intoxicant.
+  suggested_aliases:
+  - waters that transform drinkers
+  - metamorphic springs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transgression-and-status-specific-killing-taboo
+  motif_id: transgression_and_status_specific_killing_taboo
+  label: Transgression and status-specific killing taboo
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif is about caste/status-specific prohibitions and consequences
+    for killing, fitting sacred law rather than performative speech.
+  cautions: The taboo is a rule or prohibition, not a spoken curse, vow, oath, blessing,
+    or geis.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Targeted keyword hits in this batch are mostly incidental; no motif clearly requires
+  remap into the three new target families.
+- All suggestions are provisional and should be reviewed against full occurrence context.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: model:openai
+  reviewed_at: ''
+  notes: Reviewed for targeted remap into sacred_substance, prophecy_divination, and
+    curse_blessing_speech; recommended retaining current groups or exclusion.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0151
+  input_sha256: 5873657cbbff04409bbbf188590699665fae418918db873060efc3f9f7fd84dd
+

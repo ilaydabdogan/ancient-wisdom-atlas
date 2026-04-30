@@ -1,0 +1,215 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0057
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.feast-abundance-measured-by-many-oxen
+  motif_id: feast_abundance_measured_by_many_oxen
+  label: feast abundance measured by many oxen
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a manuscript/gloss note about quantities of oxen, not a reusable
+    sacred-substance motif.
+  cautions: Keyword hit is incidental to a feast-related textual variant.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feast-and-rest-before-renewed-battle
+  motif_id: feast_and_rest_before_renewed_battle
+  label: Feast and rest before renewed battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: No remap recommended; food and wine restore troops before battle, but
+    the motif centers martial preparation.
+  cautions: Feast/drink terms are literal and supportive, not sacred-substance focused.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feast-as-threshold-of-danger
+  motif_id: feast_as_threshold_of_danger
+  label: feast as threshold of danger
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: No remap recommended; the feast functions as a dangerous threshold before
+    supernatural conflict, not as a sacred substance.
+  cautions: Feast keyword does not by itself indicate ritual food or intoxication.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feast-drink-prompting-communal-song
+  motif_id: feast_drink_prompting_communal_song
+  label: Feast drink prompting communal song
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The beer itself is wondrous, speaks through ritual singers, and demands
+    praise, making the drink central rather than incidental.
+  cautions: Also overlaps with storytelling_as_power because communal song is the
+    response to the drink.
+  suggested_aliases:
+  - wondrous beer prompting song
+  - sacred drink requiring praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feast-following-ritual-fast
+  motif_id: feast_following_ritual_fast
+  label: feast following ritual fast
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: No remap recommended; the motif concerns calendrical ritual sequence
+    after Ramadan, not a sacred food or drink itself.
+  cautions: Feast is a ritual-time marker rather than a substance-centered motif.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feast-leading-to-supernatural-hunting-challenge
+  motif_id: feast_leading_to_supernatural_hunting_challenge
+  label: feast leading to supernatural hunting challenge
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: No remap recommended; the feast is a narrative setup for a supernatural
+    hunting challenge and heroic trial.
+  cautions: Golden cups and feasting are scene details, not the motif's substance
+    focus.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feasting-before-death
+  motif_id: feasting_before_death
+  label: feasting before death
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: No remap recommended; the motif uses feasting as mortal urgency before
+    death rather than centering a sacred or transformative substance.
+  cautions: Could also be reviewed against death_and_transformation or mystical_quest,
+    but not sacred_substance on current evidence.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feeding-and-dismissing-the-souls-of-the-dead
+  motif_id: feeding_and_dismissing_the_souls_of_the_dead
+  label: Feeding and dismissing the souls of the dead
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: No remap recommended; the motif centers ritual care and dismissal of
+    dead souls, with food as the medium of ancestor rites.
+  cautions: Food is ritually important but subordinate to ancestor-dead relations
+    rather than a sacred substance family motif.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most matches in this batch were triggered by literal feast/food/drink keywords;
+  only the Kalevala beer motif appears substance-centered enough for provisional sacred_substance
+  remap.
+- All suggestions are provisional and should be checked against broader occurrence
+  evidence before taxonomy changes.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Targeted review completed for sacred_substance, prophecy_divination, and
+    curse_blessing_speech candidates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0057
+  input_sha256: c0fea47ad1d5c0c5ca4873de639b0e4268b0b12aed5ab2fd09becd150b0070a5
+

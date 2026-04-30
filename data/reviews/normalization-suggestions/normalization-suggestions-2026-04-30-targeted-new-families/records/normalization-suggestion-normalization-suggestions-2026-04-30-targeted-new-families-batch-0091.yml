@@ -1,0 +1,221 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0091
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.master-s-threat-to-racing-animals
+  motif_id: master_s_threat_to_racing_animals
+  label: master's threat to racing animals
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: Episode-specific threat to horses; the food keyword is incidental and
+    not a sacred substance motif.
+  cautions: Preserve only if episode-level indexing is needed; not useful for cross-tradition
+    pattern queries.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.material-s-prior-divine-and-natural-states
+  motif_id: material_s_prior_divine_and_natural_states
+  label: material's prior divine and natural states
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: medium
+  rationale: The motif concerns the mythic origin and prior states of iron as material
+    for craft; milk is metaphorical/incidental rather than a ritual substance focus.
+  cautions: Could also relate to cosmic origin or sacred knowledge in origin-of-iron
+    contexts; no remap to sacred_substance recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-lament-for-absent-endangered-son
+  motif_id: maternal_lament_for_absent_endangered_son
+  label: maternal lament for absent endangered son
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif is Penelope's grief and anxious lament; inability to eat or
+    drink is symptomatic, not a sacred substance pattern.
+  cautions: No remap to sacred_substance recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-separation-and-collective-nursing
+  motif_id: maternal_separation_and_collective_nursing
+  label: Maternal separation and collective nursing
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers child-rearing and separation of mothers from children;
+    milk is literal nursing, not sacred or intoxicating substance.
+  cautions: This Republic passage is social-philosophical rather than mythic; current
+    placement may still warrant broader review, but not into target families.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediation-between-gods-and-humans
+  motif_id: mediation_between_gods_and_humans
+  label: mediation between gods and humans
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: broader_label
+  confidence: medium
+  rationale: The passage explicitly treats divination as an established mediating
+    art between gods and humans, fitting systematic access to divine knowledge.
+  cautions: The label is broad and could overlap divine_intervention; remap is based
+    on the occurrence's explicit divination context.
+  suggested_aliases:
+  - divination as mediation between gods and humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memorial-feast-used-as-a-trap
+  motif_id: memorial_feast_used_as_a_trap
+  label: Memorial feast used as a trap
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: functional_variant
+  confidence: high
+  rationale: The feast is a memorial/ancestor rite setting used for deception; the
+    food/feast keyword does not make the substance itself sacredly central.
+  cautions: Also has trickster or betrayal overtones, but no remap to sacred_substance
+    recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.menstrual-seclusion-and-avoidance-taboo
+  motif_id: menstrual_seclusion_and_avoidance_taboo
+  label: menstrual seclusion and avoidance taboo
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: This is a ritual purity and avoidance rule; taboo here is a social-sacred
+    prohibition, not a discrete performative utterance.
+  cautions: No remap to curse_blessing_speech unless evidence centers a pronounced
+    taboo formula or binding speech act.
+  suggested_aliases:
+  - menstrual avoidance taboo
+  - puberty seclusion taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mercy-exception-under-necessity
+  motif_id: mercy_exception_under_necessity
+  label: mercy exception under necessity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif concerns a dietary law exception under necessity and divine
+    mercy; food is the regulated object, not a sacred substance motif in itself.
+  cautions: Related to dietary holiness and legal mercy; no remap to sacred_substance
+    recommended.
+  suggested_aliases:
+  - necessity exception to forbidden food
+  - dietary law exception under necessity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Keyword hits for food, milk, drink, feast, and taboo were mostly incidental or legal/ritual
+  context rather than target-family membership.
+- Only mediation_between_gods_and_humans is provisionally recommended for remap to
+  a target new family, because the occurrence explicitly centers divination as a systematic
+  mediating art.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_model
+  reviewed_at: ''
+  notes: All suggestions are provisional and should be checked against full occurrence
+    context before taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0091
+  input_sha256: b9f6d123ffe066828dda1eb47256715fa7af75ee49fb181d4b5a91b2805b6ab6
+

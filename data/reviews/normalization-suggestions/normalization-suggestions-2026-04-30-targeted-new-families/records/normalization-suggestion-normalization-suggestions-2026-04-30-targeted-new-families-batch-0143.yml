@@ -1,0 +1,218 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0143
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.slaughter-of-sleeping-enemies
+  motif_id: slaughter_of_sleeping_enemies
+  label: slaughter of sleeping enemies
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on killing vulnerable sleeping enemies in a combat
+    raid; wine is incidental scene-setting.
+  cautions: Do not remap to sacred_substance unless the intoxicating substance itself
+    is the ritual or mythic focus.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slayer-overcome-by-stronger-slayer
+  motif_id: slayer_overcome_by_stronger_slayer
+  label: slayer overcome by stronger slayer
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: high
+  rationale: The pattern is violent reversal in which a killer is slain by a stronger
+    opponent; food and drink are hospitality preliminaries, not sacred substances.
+  cautions: The harvest setting may relate to ritual killing, but the selected family
+    remains combat/ritual violence rather than sacred_substance.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleep-induced-by-sacred-plant-bearing-deity
+  motif_id: sleep_induced_by_sacred_plant_bearing_deity
+  label: Sleep induced by sacred plant-bearing deity
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: child
+  confidence: high
+  rationale: The motif centers on poppy seeds as a divine plant substance that induces
+    altered consciousness or sleep.
+  cautions: Could also relate to divine_intervention because a deity administers the
+    effect, but the plant’s sleep-producing power is central.
+  suggested_aliases:
+  - divine poppy-induced sleep
+  - sacred plant inducing sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-drunk-killed-without-awareness
+  motif_id: sleeping_drunk_killed_without_awareness
+  label: Sleeping drunk killed without awareness
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: This is an episode-specific killing detail; wine explains vulnerability
+    but is not a sacred or ritual substance motif.
+  cautions: Already human-reviewed as excluded; no remap recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-women-after-royal-revelry
+  motif_id: sleeping_women_after_royal_revelry
+  label: sleeping women after royal revelry
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes incidental tableau imagery after revelry, not a reusable
+    sacred_substance motif.
+  cautions: Already human-reviewed as excluded; wine is only an incidental keyword
+    hit.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slighted-woman-s-curse-and-revenge
+  motif_id: slighted_woman_s_curse_and_revenge
+  label: slighted woman’s curse and revenge
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: child
+  confidence: medium
+  rationale: The motif centers on a slighted woman uttering a curse that seeks to
+    destroy the hero’s vessel, a discrete performative speech act.
+  cautions: The current exclusion reflects episode specificity; reviewers should decide
+    whether the curse pattern is reusable enough to restore to pattern queries.
+  suggested_aliases:
+  - curse by slighted woman
+  - rejected woman curses voyage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-aperture-defeats-protective-enclosure
+  motif_id: small_aperture_defeats_protective_enclosure
+  label: small aperture defeats protective enclosure
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif is about a protective enclosure defeated by a small overlooked
+    opening; the seer’s prediction is narrative setup, not the motif focus.
+  cautions: Do not remap to prophecy_divination unless cataloging the foretelling
+    itself rather than the loophole in protection.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.social-behavior-of-a-species-explained-by-punishment
+  motif_id: social_behavior_of_a_species_explained_by_punishment
+  label: social behavior of a species explained by punishment
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: medium
+  rationale: The motif explains species behavior as the consequence of punishment;
+    food is merely incidental foraging context.
+  cautions: Current grouping is provisional and may need broader etiological-animal
+    review, but it does not belong in sacred_substance.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Keyword hits for wine, food, drink, and seer are mostly incidental in this batch.
+- Only the poppy-induced sleep motif clearly remaps to sacred_substance; the curse
+  motif is a plausible curse_blessing_speech candidate but should be checked against
+  prior exclusion policy.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Provisional targeted remap suggestions for batch 0143.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0143
+  input_sha256: 94d33f9ccc26db1de298575426cdf0b07035dd2a4daf8d869e696bbf35ea4a5c
+

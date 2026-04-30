@@ -1,0 +1,231 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0122
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.public-heroic-vow-before-future-deed
+  motif_id: public_heroic_vow_before_future_deed
+  label: public heroic vow before future deed
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif centers on a public vow that binds the speaker to a future
+    heroic deed, fitting performative sacred speech.
+  cautions: Also overlaps with sacred combat because the vowed act is martial.
+  suggested_aliases:
+  - heroic vow
+  - public vow before deed
+  - boast-vow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-humiliation-of-a-royal-woman-leading-to-vengeance-vow
+  motif_id: public_humiliation_of_a_royal_woman_leading_to_vengeance_vow
+  label: public humiliation of a royal woman leading to vengeance vow
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'No remap recommended: the motif is primarily a humiliation-triggered
+    vengeance and combat catalyst; the vow is a narrative mechanism rather than the
+    whole motif family.'
+  cautions: Could be cross-referenced to curse_blessing_speech if tracking vengeance
+    vows specifically.
+  suggested_aliases:
+  - humiliation leading to vengeance vow
+  - vengeance vow after public insult
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-lament-demanding-single-combat
+  motif_id: public_lament_demanding_single_combat
+  label: public lament demanding single combat
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: 'No remap recommended: the motif centers on public lament and pressure
+    for single combat, not a discrete curse as performative speech.'
+  cautions: Keyword 'curse' is incidental within a broader lament and martial demand.
+  suggested_aliases:
+  - lament calling for single combat
+  - public grief demanding duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-works-as-communal-piety
+  motif_id: public_works_as_communal_piety
+  label: public works as communal piety
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: high
+  rationale: 'No remap recommended: the motif concerns pious communal works, gifts,
+    and ethical conduct; ''drink intoxicants'' appears only as a prohibited act in
+    a moral list.'
+  cautions: The substance keyword is incidental and does not center sacred substance
+    use.
+  suggested_aliases:
+  - communal piety through public works
+  - pious road and pond building
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punishment-assigned-by-drawn-notes
+  motif_id: punishment_assigned_by_drawn_notes
+  label: punishment assigned by drawn notes
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an episode-specific punishment mechanism; 'lot' is literal chance
+    allocation, not divination or access to hidden knowledge.
+  cautions: Keep excluded unless broader evidence shows ritual lot-casting as divination.
+  suggested_aliases:
+  - punishment by drawn notes
+  - penalty assigned by lot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punishment-of-negligent-caregivers-by-released-water
+  motif_id: punishment_of_negligent_caregivers_by_released_water
+  label: punishment of negligent caregivers by released water
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: over_specific_label
+  confidence: high
+  rationale: 'No remap recommended: the motif centers on punishment for neglect; drinking
+    water is part of the episode but not a sacred substance motif.'
+  cautions: May also relate to sacred_waters, but not to the targeted sacred_substance
+    family.
+  suggested_aliases:
+  - negligent caregivers drowned by released water
+  - punishment by released stream
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pure-sustenance-contrasted-with-carrion-possession
+  motif_id: pure_sustenance_contrasted_with_carrion_possession
+  label: pure sustenance contrasted with carrion possession
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The food imagery is allegorical and episode-specific, not a recurring
+    sacred substance, ritual food, potion, or intoxicant motif.
+  cautions: Could be reconsidered only if similar pure-food ascetic sustenance imagery
+    recurs across indexed traditions.
+  suggested_aliases:
+  - pure food contrasted with carrion
+  - phoenix sustenance and owl carrion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purification-by-casting-out-moral-or-ritual-burdens
+  motif_id: purification_by_casting_out_moral_or_ritual_burdens
+  label: purification by casting out moral or ritual burdens
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: 'No remap recommended: ''casting out'' means expelling ritual or moral
+    burdens, not lot-casting or divination.'
+  cautions: Keyword match is a false positive for prophecy_divination.
+  suggested_aliases:
+  - casting out ritual burdens
+  - purification by expulsion of impurities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Targeted keyword matches include several false positives where 'drink,' 'food,'
+  'curse,' 'lot,' or 'casting' are incidental or literal rather than family-defining.
+- Only the public heroic vow motif clearly belongs in curse_blessing_speech among
+  the three targeted families.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional remap suggestions based on supplied motif records and target-family
+    distinctions.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0122
+  input_sha256: fc6b7d3e150b7e743483d523dc205f1bea51cb9a02b57f24f31a936152c899b7
+

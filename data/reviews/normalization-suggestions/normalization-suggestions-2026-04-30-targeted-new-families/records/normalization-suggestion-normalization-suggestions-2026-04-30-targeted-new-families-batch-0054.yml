@@ -1,0 +1,214 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0054
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.false-books-create-doctrinal-division
+  motif_id: false_books_create_doctrinal_division
+  label: false books create doctrinal division
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: The motif concerns forged books and doctrinal division; food or honey
+    keywords are incidental to the passage context, not the motif.
+  cautions: Already excluded as an episode/meta artifact; preserve only if needed
+    for provenance.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-gods-as-lifeless-powerless-objects
+  motif_id: false_gods_as_lifeless_powerless_objects
+  label: false gods as lifeless powerless objects
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif is polemic against idolatry and false worship; “invoke” is
+    incidental and not a performative curse, oath, or blessing.
+  cautions: No remap to curse_blessing_speech recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-healer-exposed-by-a-practical-test
+  motif_id: false_healer_exposed_by_a_practical_test
+  label: False healer exposed by a practical test
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers exposure of fraud through a test; the drink is merely
+    the staged test medium, not a sacred substance.
+  cautions: Current placement is provisional low confidence, but no target-family
+    remap is recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-oath-versus-required-obedience
+  motif_id: false_oath_versus_required_obedience
+  label: False oath versus required obedience
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif specifically concerns solemn swearing and false oath as a binding
+    sacred speech act contrasted with obedience.
+  cautions: Related to covenantal obedience, but the operative motif is the oath utterance.
+  suggested_aliases:
+  - false swearing versus obedience
+  - solemn oath rejected in favor of obedience
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-omen-exposed
+  motif_id: false_omen_exposed
+  label: False omen exposed
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif directly concerns interpretation and debunking of an omen,
+    a divinatory sign system.
+  cautions: Although currently under dream_and_vision, this is not a spontaneous vision
+    but an omen-reading episode.
+  suggested_aliases:
+  - bad omen dismissed
+  - meaningless omen exposed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-piety-exposed-by-temptation
+  motif_id: false_piety_exposed_by_temptation
+  label: False piety exposed by temptation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers hypocrisy exposed by temptation; food is an ordinary
+    lure, not a ritual or sacred substance.
+  cautions: No remap to sacred_substance recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-sanctuary-versus-pious-foundation
+  motif_id: false_sanctuary_versus_pious_foundation
+  label: False sanctuary versus pious foundation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif contrasts illegitimate and pious sacred foundations; the false
+    swearing is supporting evidence, not the core motif.
+  cautions: Could be related to curse_blessing_speech, but remap is not recommended
+    because sanctuary legitimacy is primary.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-self-exaltation-of-a-small-creature
+  motif_id: false_self_exaltation_of_a_small_creature
+  label: False self-exaltation of a small creature
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif is about inflated self-importance and pride; “intoxicated without
+    wine” is metaphorical, not a sacred substance motif.
+  cautions: No remap to sacred_substance recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Keyword hits in this batch are mostly incidental or metaphorical; only the false
+  oath and false omen motifs warrant remap into target new families.
+- All suggestions are provisional and intended for taxonomy review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Targeted remap suggestions generated from supplied motif records only.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0054
+  input_sha256: ade97e3d6c59258ee82469589f152f8ba97d84066cc510a664219c2e62c2cbee
+

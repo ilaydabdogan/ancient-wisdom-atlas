@@ -1,0 +1,221 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0129
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.restorative-enchanted-cup
+  motif_id: restorative_enchanted_cup
+  label: Restorative enchanted cup
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers the enchanted cup as a restorative container; the drink
+    is present but the labeled object is the vessel.
+  cautions: Could be cross-referenced to sacred_substance if future occurrences emphasize
+    the potion or liquid rather than the cup.
+  suggested_aliases:
+  - healing enchanted cup
+  - restorative Sidhe cup
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliatory-hospitality
+  motif_id: retaliatory_hospitality
+  label: retaliatory hospitality
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: high
+  rationale: 'No remap recommended: the food is incidental to a reciprocal hospitality/retribution
+    scene, not a sacred substance motif.'
+  cautions: Keyword match comes from literal food served at dinner.
+  suggested_aliases:
+  - retaliatory dinner hospitality
+  - reciprocal inhospitable feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliatory-killing-of-a-thief-s-family
+  motif_id: retaliatory_killing_of_a_thief_s_family
+  label: Retaliatory killing of a thief's family
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: Already excluded; the food reference is an episode-specific theft trigger,
+    not a sacred substance pattern.
+  cautions: Retain exclusion unless broader comparative evidence emerges.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliatory-violence-after-a-slain-kinsman
+  motif_id: retaliatory_violence_after_a_slain_kinsman
+  label: Retaliatory violence after a slain kinsman
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: 'No remap recommended: the motif is retaliatory combat after a slain
+    kinsman; wine only heightens the banquet violence.'
+  cautions: Wine is contextual intoxication, not the motif's central sacred substance.
+  suggested_aliases:
+  - kin-slaying retaliation
+  - vengeance after slain brother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reunion-in-sheltered-fire-lit-refuge
+  motif_id: reunion_in_sheltered_fire_lit_refuge
+  label: reunion in sheltered fire-lit refuge
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: Already excluded as episode-specific; food is incidental scene setting
+    in a refuge reunion.
+  cautions: Does not belong to sacred_substance despite the food keyword.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-banquet-of-slain-kin
+  motif_id: revenge_banquet_of_slain_kin
+  label: revenge banquet of slain kin
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: 'No remap recommended: the motif is vengeance for slain kin enacted through
+    a horrific banquet, not ritual sacred food or divination.'
+  cautions: The feast and blood-drink imagery may be relevant as secondary evidence,
+    but the core pattern is revenge violence.
+  suggested_aliases:
+  - vengeful cannibal banquet
+  - revenge feast of slain children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-captivity-for-slain-kin
+  motif_id: revenge_captivity_for_slain_kin
+  label: Revenge captivity for slain kin
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: 'No remap recommended: the motif concerns vengeance captivity over slain
+    kin; deprivation of food and drink is incidental imprisonment detail.'
+  cautions: Does not center sacred food, drink, or intoxication.
+  suggested_aliases:
+  - vengeance imprisonment for slain kin
+  - captivity as kin revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-for-neglected-kinship-duties
+  motif_id: revenge_for_neglected_kinship_duties
+  label: revenge for neglected kinship duties
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: Already excluded as episode-specific; food-sharing motivates kinship
+    revenge, and the vow hit is not a discrete binding speech motif.
+  cautions: Keyword matches are incidental to the episode rather than evidence for
+    the target families.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Target-family keyword hits in this batch are mostly incidental food, feast, drink,
+  wine, casting, or vow terms rather than evidence for the three new canonical families.
+- Only restorative_enchanted_cup has a plausible secondary relationship to sacred_substance,
+  but its label and function remain better normalized under sacred_vessel.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant_api
+  reviewed_at: ''
+  notes: Provisional remap suggestions generated from supplied motif records; human
+    taxonomy review recommended.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0129
+  input_sha256: 75328e2471feaef188495da70cd04bea663949ea119895167415fa0ab9f3c0cf
+

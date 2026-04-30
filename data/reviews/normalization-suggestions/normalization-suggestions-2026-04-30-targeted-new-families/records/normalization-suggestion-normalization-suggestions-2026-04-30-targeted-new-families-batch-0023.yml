@@ -1,0 +1,230 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0023
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cave-or-grotto-worship-with-libations
+  motif_id: cave_or_grotto_worship_with_libations
+  label: cave or grotto worship with libations
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers worship through libation offerings at caves or grottoes,
+    not the sacred qualities of milk, honey, or oil themselves.
+  cautions: Could be related to sacred_substance when a tradition emphasizes the substance's
+    transformative or sacramental power, but this occurrence is mainly offering/reciprocity.
+  suggested_aliases:
+  - cave worship with libations
+  - grotto worship with milk and honey offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-or-hidden-refuge-for-the-fearful
+  motif_id: cave_or_hidden_refuge_for_the_fearful
+  label: cave or hidden refuge for the fearful
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: No remap recommended; the motif concerns a cave or hidden refuge, while
+    the keyword 'swear' is incidental to the surrounding passage.
+  cautions: Current placement as sacred_vessel/container is imperfect but better than
+    curse_blessing_speech for this motif record.
+  suggested_aliases:
+  - hidden refuge in cave
+  - cave refuge for the fearful
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-refuge-during-flight-and-danger
+  motif_id: cave_refuge_during_flight_and_danger
+  label: cave refuge during flight and danger
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: low
+  rationale: No remap to sacred_substance is recommended; the motif is about refuge
+    in a cave during flight, and 'food' is incidental.
+  cautions: Current flood_and_renewal placement is low-confidence and may need broader
+    taxonomy review, but the targeted sacred_substance family does not fit.
+  suggested_aliases:
+  - cave shelter during flight
+  - refuge in cave during danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-placement-of-a-slain-giant-s-eyes
+  motif_id: celestial_placement_of_a_slain_giant_s_eyes
+  label: celestial placement of a slain giant's eyes
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: primordial_sacrifice
+  suggested_group_label: Primordial Sacrifice and Dismemberment
+  relationship: narrower_than
+  confidence: high
+  rationale: No remap recommended; the motif is body-part catasterism after a giant's
+    death, not the vow as performative sacred speech.
+  cautions: The vow is part of the episode but not the motif's symbolic focus.
+  suggested_aliases:
+  - slain giant's eyes made into stars
+  - catasterism of giant's eyes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-portent-before-battle
+  motif_id: celestial_portent_before_battle
+  label: celestial portent before battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: narrower_than
+  confidence: medium
+  rationale: A visible celestial portent is interpreted by armies as an omen of peace
+    or war, fitting systematic omen-reading and foreknowledge.
+  cautions: The event is also a divine manifestation/vision; retain relation to dream_and_vision
+    or theophany if supported.
+  suggested_aliases:
+  - celestial omen before battle
+  - battle portent in the sky
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-ruler-and-zodiacal-order
+  motif_id: celestial_ruler_and_zodiacal_order
+  label: Celestial ruler and zodiacal order
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: symbolic_variant
+  confidence: high
+  rationale: No remap recommended; the motif concerns solar/celestial kingship and
+    zodiacal order, while wine is incidental poetic imagery.
+  cautions: Wine may be important elsewhere in Sufi motifs, but not as the core of
+    this motif label and basis.
+  suggested_aliases:
+  - solar king among zodiacal signs
+  - celestial king and zodiac
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chain-of-transferred-blame
+  motif_id: chain_of_transferred_blame
+  label: chain of transferred blame
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: No remap recommended; the motif centers evasion and transfer of culpability,
+    not feast or sacred substance.
+  cautions: The keyword hit appears to come from broader story context rather than
+    the motif evidence shown.
+  suggested_aliases:
+  - transferred blame chain
+  - passing blame for apparent death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.challenge-imposed-by-taboo-or-geis
+  motif_id: challenge_imposed_by_taboo_or_geis
+  label: challenge imposed by taboo or geis
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: high
+  rationale: A written/declared geis binds champions to issue a challenge before leaving,
+    matching taboo pronouncements and binding sacred speech.
+  cautions: Also overlaps sacred_law because the geis functions as a social-ritual
+    obligation.
+  suggested_aliases:
+  - binding geis challenge
+  - taboo-imposed single combat challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Keyword matches were often incidental; only celestial_portent_before_battle and
+  challenge_imposed_by_taboo_or_geis are recommended for target-family remap.
+- Several current placements may merit non-target taxonomy review, especially cave_refuge_during_flight_and_danger,
+  but no new group is proposed here.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: model
+  reviewed_at: ''
+  notes: Provisional targeted remap suggestions for batch-0023.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0023
+  input_sha256: eb6362a8f20570eb97667283eab83047e41b51018e9cd836a7163b9e22961edb
+

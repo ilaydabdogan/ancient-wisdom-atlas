@@ -1,0 +1,219 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0092
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.messenger-rebukes-a-people-for-sexual-transgression
+  motif_id: messenger_rebukes_a_people_for_sexual_transgression
+  label: Messenger rebukes a people for sexual transgression
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: high
+  rationale: Keyword hit is the personal name Lot, not lot-casting or divination;
+    the motif is moral rebuke before judgment.
+  cautions: Do not treat occurrences of the prophet Lot as divinatory lots.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.messenger-wind-bird-and-song-carrying-tidings-from-the-beloved
+  motif_id: messenger_wind_bird_and_song_carrying_tidings_from_the_beloved
+  label: Messenger wind, bird, and song carrying tidings from the beloved
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Wine and elixir language is incidental Sufi love imagery; the motif centers
+    messengers carrying tidings from the beloved.
+  cautions: Related intoxicating imagery may be indexed separately when the substance
+    itself is central.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.milk-drinking-creates-kinship
+  motif_id: milk_drinking_creates_kinship
+  label: milk-drinking creates kinship
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This remains an episode-specific comparative note already excluded; milk
+    is literal kinship-making, not a broader sacred-substance motif here.
+  cautions: Could be revisited only if recurring ritual milk-kinship evidence is added
+    across indexed traditions.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.milk-guarded-against-loss-to-mana-strangers-and-wild-places
+  motif_id: milk_guarded_against_loss_to_mana_strangers_and_wild_places
+  label: milk guarded against loss to Mana, strangers, and wild places
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns ritual restriction and proper household control of
+    milk rather than the milk as an intoxicating or transformative sacred substance.
+  cautions: Milk has underworld associations in the passage, but the normalized pattern
+    is taboo/protection around loss and use.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.milky-way-origin-from-divine-milk
+  motif_id: milky_way_origin_from_divine_milk
+  label: Milky Way origin from divine milk
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif explains the cosmic origin of the Milky Way; milk is the etiological
+    material, not a ritual or mystical substance category.
+  cautions: Footnote evidence is mythographic and etiological rather than a full narrative
+    occurrence.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miracle-working-holy-person
+  motif_id: miracle_working_holy_person
+  label: miracle-working holy person
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: The passage catalogs saintly miracle powers; food production, prediction,
+    and word-power are examples within a broader holy-person miracle motif.
+  cautions: Individual sub-miracles may belong to target families, but this aggregate
+    motif should not be remapped on keyword hits alone.
+  suggested_aliases:
+  - saintly miracle worker
+  - holy person performs miracles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-abundance-by-transforming-touch
+  motif_id: miraculous_abundance_by_transforming_touch
+  label: miraculous abundance by transforming touch
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is miraculous production by touch; wine, corn, and oil
+    are products of abundance rather than sacred substances as such.
+  cautions: Could be related to sacred_substance if evidence emphasized ritual wine/oil/corn
+    rather than miraculous provisioning.
+  suggested_aliases:
+  - miraculous production by touch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-abundance-of-sacred-fruit
+  motif_id: miraculous_abundance_of_sacred_fruit
+  label: miraculous abundance of sacred fruit
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers sacred fruit, grapes, and abundant wine, including
+    a speaking bunch used to bless the Lord; the substance itself is central.
+  cautions: Evidence is from a footnote tradition rather than the main Qur'anic passage;
+    abundance and divine intervention remain related.
+  suggested_aliases:
+  - sacred fruit abundance
+  - miraculous wine-bearing vine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Keyword hits were often literal or incidental; remapping was recommended only where
+  the motif itself centers a target-family pattern.
+- The name Lot produced a false positive for lot-casting and should be filtered in
+  future prophecy_divination searches.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: model_api
+  reviewed_at: ''
+  notes: Provisional targeted remap suggestions for batch 0092.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0092
+  input_sha256: 33734185995a49be9dd3245f562edfdfbd6132922240b50cf4843a6f77b310f4
+

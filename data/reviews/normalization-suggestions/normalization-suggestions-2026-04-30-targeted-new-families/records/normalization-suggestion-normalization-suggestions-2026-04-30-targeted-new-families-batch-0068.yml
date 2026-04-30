@@ -1,0 +1,216 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0068
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroic-animal-slays-a-communal-predator
+  motif_id: heroic_animal_slays_a_communal_predator
+  label: Heroic animal slays a communal predator
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: high
+  rationale: The motif centers on a heroic animal defeating a predator; the drinking-place
+    keyword is incidental setting.
+  cautions: No remap to sacred_substance recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-deliverance-from-food-snatching-persecutors
+  motif_id: heroic_deliverance_from_food_snatching_persecutors
+  label: heroic deliverance from food-snatching persecutors
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif is deliverance from attacking Harpies, not the sacred status
+    or transformative use of food itself.
+  cautions: Food is the object stolen, but not a sacred substance motif; current placement
+    remains provisional.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-honours-for-the-living-warrior
+  motif_id: heroic_honours_for_the_living_warrior
+  label: heroic honours for the living warrior
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: The motif concerns warrior honors and social reward; the feast is part
+    of honor distribution, not sacred substance use.
+  cautions: No remap to sacred_substance recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-infiltration-and-inspection-of-a-ruler-s-private-chamber
+  motif_id: heroic_infiltration_and_inspection_of_a_ruler_s_private_chamber
+  label: heroic infiltration and inspection of a ruler’s private chamber
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif centers on infiltration and viewing a ruler in a private chamber;
+    wine is incidental intoxication in the scene, not the motif's organizing pattern.
+  cautions: Current mapping to heroic_funeral_rites appears mismatched, but none of
+    the three target families is appropriate; needs broader taxonomy review.
+  suggested_aliases:
+  - heroic infiltration of a ruler's private chamber
+  - inspection of sleeping ruler in private chamber
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-obstacle-at-a-threshold-ford
+  motif_id: heroic_obstacle_at_a_threshold_ford
+  label: Heroic obstacle at a threshold ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: The geis marks the blocking condition, but the motif is primarily a threshold
+    obstacle at a ford.
+  cautions: Do not remap solely because a geis is mentioned; a separate geis motif
+    would fit curse_blessing_speech only if the binding utterance is central.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-past-deprivation-in-religious-present
+  motif_id: heroic_past_deprivation_in_religious_present
+  label: heroic-past deprivation in religious present
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: The motif is episode-specific contrast and deprivation language; food
+    is a literal lack, not sacred substance.
+  cautions: Existing exclusion should be retained.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-single-combat-between-matched-rivals
+  motif_id: heroic_single_combat_between_matched_rivals
+  label: heroic single combat between matched rivals
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif is the climactic duel between matched rivals; the vowed strike
+    is supporting context rather than the core motif.
+  cautions: A distinct vow motif could map to curse_blessing_speech, but this combat
+    motif should not be remapped.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-single-combat-chosen-by-lot
+  motif_id: heroic_single_combat_chosen_by_lot
+  label: Heroic single combat chosen by lot
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Lot-casting selects the combatant, but the motif is organized around
+    heroic single combat rather than divination or hidden knowledge.
+  cautions: If the lot is treated as an omen-seeking method in other evidence, reconsider;
+    here it functions as selection procedure.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Keyword hits for food, drink, wine, feast, geis, vow, and lot are mostly incidental
+  or contextual in this batch.
+- Only discrete performative utterances should move to curse_blessing_speech; only
+  systematic omen/oracle methods should move to prophecy_divination; only substance-centered
+  ritual/mythic motifs should move to sacred_substance.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: One motif has an apparently mismatched current group but does not fit the
+    three target families; flagged for broader review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0068
+  input_sha256: d2e593c2cf08739d0002bee09d2e9cdf4def9ae3945c3baf81174a7dfb355989
+

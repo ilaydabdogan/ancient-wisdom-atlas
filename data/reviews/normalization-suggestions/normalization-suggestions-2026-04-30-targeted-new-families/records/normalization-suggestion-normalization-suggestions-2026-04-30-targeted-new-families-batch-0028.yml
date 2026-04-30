@@ -1,0 +1,227 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0028
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.confession-extracted-by-nurse-confidante
+  motif_id: confession_extracted_by_nurse_confidante
+  label: confession extracted by nurse-confidante
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: The motif is an over-specific narrative interaction; the keyword hit
+    is incidental and not a discrete oath, curse, blessing, or binding speech act.
+  cautions: Already human-reviewed as excluded; no remap recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-of-duty-toward-teacher-and-vengeance-against-enemy
+  motif_id: conflict_of_duty_toward_teacher_and_vengeance_against_enemy
+  label: Conflict of duty toward teacher and vengeance against enemy
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on competing duties toward teacher and enemy; the vow
+    is contextual rather than the motif's primary performative speech act.
+  cautions: Could be related to martial vows, but current sacred-law placement better
+    captures the duty conflict.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-over-access-to-water
+  motif_id: conflict_over_access_to_water
+  label: conflict over access to water
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns contested access to a spring; the drink keyword is
+    literal and does not make the water a sacred substance or intoxicant.
+  cautions: In this fable context the water may be ordinary rather than sacred, but
+    sacred_substance is not appropriate.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conjured-banquet-before-feasting
+  motif_id: conjured_banquet_before_feasting
+  label: Conjured banquet before feasting
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on supernaturally produced beer, honey-drink, food,
+    and banquet substances before eating and drinking.
+  cautions: It also involves magical singing and hospitality/exchange, but the indexed
+    motif foregrounds conjured feast substances.
+  suggested_aliases:
+  - magically conjured feast
+  - conjured food and drink
+  - supernatural banquet substances
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.consecrated-food-by-divine-name
+  motif_id: consecrated_food_by_divine_name
+  label: consecrated food by divine name
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif is primarily a dietary/legal command about permitted food named
+    over God, not a mythic intoxicant or transformative sacred substance.
+  cautions: Related to sacred_substance because food is ritually marked, but the rule/prohibition
+    structure remains dominant.
+  suggested_aliases:
+  - food consecrated by divine name
+  - permitted food named over God
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contact-taboo-through-touched-objects
+  motif_id: contact_taboo_through_touched_objects
+  label: contact taboo through touched objects
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif concerns ritual restrictions and pollution/contagion through
+    touched objects; taboo here is a law-like prohibition, not a spoken curse or blessing.
+  cautions: Food vessels are examples of contagion rules, not sacred substances in
+    themselves.
+  suggested_aliases:
+  - contagious taboo through objects
+  - ritual contact prohibition
+  - tabooed touched objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-of-renown-for-the-right-to-divide-a-feast-animal
+  motif_id: contest_of_renown_for_the_right_to_divide_a_feast_animal
+  label: contest of renown for the right to divide a feast animal
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: high
+  rationale: The feast animal provides the setting and prize, but the motif centers
+    on warrior renown, status contest, and ritualized martial rivalry.
+  cautions: May remain related to feasting practices, but not centered on sacred food
+    or intoxicating substance.
+  suggested_aliases:
+  - champion's portion contest
+  - feast-animal division by renown
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-of-song-between-mortals-and-goddesses
+  motif_id: contest_of_song_between_mortals_and_goddesses
+  label: Contest of song between mortals and goddesses
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif is a poetic/song contest with divine opponents and judges;
+    the swearing by rivers is incidental, not the operative motif.
+  cautions: Could also relate to enchanting_music, but no remap to curse_blessing_speech
+    is recommended.
+  suggested_aliases:
+  - song contest with goddesses
+  - mortal-divine singing contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Keyword matches in this batch often come from incidental terms such as oath, vow,
+  drink, feast, food, taboo, and swear; only the conjured banquet motif is recommended
+  for remap to a target new family.
+- All suggestions are provisional and intended for taxonomy review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Reviewed targeted hits for sacred_substance, prophecy_divination, and curse_blessing_speech;
+    most should remain in existing groups or excluded.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0028
+  input_sha256: 9ff0dcf8eb43a6d7ba249d5cc858e4239511f0df6f5d82a48ce452b508bbecb2
+

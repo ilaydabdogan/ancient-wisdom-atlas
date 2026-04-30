@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0003
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.resurrection
+  motif_id: resurrection
+  label: Resurrection
+  occurrences: 62
+  traditions:
+  - celtic_irish
+  - comparative
+  - finnish_karelian
+  - hindu
+  - islamic
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: child
+  confidence: high
+  rationale: The motif centers on return from death or renewed life, even when food,
+    prophecy, or speech appears in particular passages.
+  cautions: Some subcases, such as regenerating feast animals or potion-assisted rebirth,
+    may also warrant secondary tagging as sacred_substance at occurrence level.
+  suggested_aliases:
+  - return_from_death
+  - revival_after_death
+  - dying_and_returning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-parent-child
+  motif_id: divine_parent_child
+  label: Divine Parent And Holy Child
+  occurrences: 52
+  traditions:
+  - celtic_irish
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: child
+  confidence: high
+  rationale: The motif is defined by divine parentage and a holy or extraordinary
+    child, not by the incidental presence of offerings, omens, or vows.
+  cautions: Occurrences involving foretold children may overlap prophecy_divination,
+    but the motif family should remain miraculous_child unless the divinatory role
+    or method is central.
+  suggested_aliases:
+  - divine_parent_and_child
+  - holy_child_of_divine_parent
+  - divine_parentage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-birth
+  motif_id: sacred_birth
+  label: Sacred Birth
+  occurrences: 43
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - comparative
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - japanese
+  - roman
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: child
+  confidence: high
+  rationale: The core pattern is extraordinary conception, birth, incarnation, or
+    divine signs around a child; food, omens, or blessings are supporting details.
+  cautions: Individual birth-announcement or dream-interpretation records can be cross-indexed
+    with prophecy_divination, but the motif itself is not a divination method.
+  suggested_aliases:
+  - miraculous_birth
+  - sacred_conception
+  - holy_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-marriage
+  motif_id: sacred_marriage
+  label: Sacred Marriage
+  occurrences: 43
+  traditions:
+  - ainu
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - finnish_karelian
+  - greek
+  - hindu
+  - japanese
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: child
+  confidence: high
+  rationale: The motif concerns divine, otherworldly, or ritually significant union
+    and marriage rather than sacred food or performative vows as the main pattern.
+  cautions: Wedding feasts and marriage pledges may trigger target keywords but are
+    usually scene furniture, not the organizing motif.
+  suggested_aliases:
+  - divine_marriage
+  - hieros_gamos
+  - otherworld_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.annihilation-union
+  motif_id: annihilation_union
+  label: Annihilation And Union
+  occurrences: 42
+  traditions:
+  - daoist
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: child
+  confidence: medium
+  rationale: The motif primarily describes mystical self-loss and union with the divine;
+    intoxication language often functions metaphorically within that contemplative
+    pattern.
+  cautions: Some Sufi occurrences explicitly foreground spiritual wine or intoxication
+    and may deserve occurrence-level sacred_substance tagging, but a full remap would
+    overstate the substance element.
+  suggested_aliases:
+  - fana
+  - self_annihilation
+  - mystical_union
+  - annihilation_in_the_divine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stolen-beloved
+  motif_id: stolen_beloved
+  label: Stolen Or Lost Beloved
+  occurrences: 42
+  traditions:
+  - celtic_irish
+  - celtic_welsh
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamicate_folklore
+  - norse
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: child
+  confidence: high
+  rationale: The motif centers on abduction, loss, recovery, or pursuit of a beloved,
+    not on divination, sacred substances, or binding speech acts.
+  cautions: Some episodes include geasa, vows, feasts, or prophetic warnings, but
+    these are usually narrative catalysts rather than the motif's family identity.
+  suggested_aliases:
+  - lost_beloved
+  - abducted_beloved
+  - beloved_carried_away
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-child
+  motif_id: miraculous_child
+  label: Miraculous Child
+  occurrences: 40
+  traditions:
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - japanese
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: alias
+  confidence: high
+  rationale: This is already the canonical family for extraordinary children, sacred
+    birth, divine parentage, and destined infancy; target-family hits are secondary
+    details.
+  cautions: Seer recognition and prophecy around a child should be cross-indexed at
+    occurrence level when formal divination is central.
+  suggested_aliases:
+  - holy_child
+  - wonder_child
+  - destined_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.culture-hero
+  motif_id: culture_hero
+  label: Culture Hero
+  occurrences: 38
+  traditions:
+  - ainu
+  - celtic_irish
+  - celtic_welsh
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - indigenous_australian
+  - japanese
+  - mesopotamian
+  - norse
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: alias
+  confidence: high
+  rationale: The motif concerns founders, deliverers, civilizing figures, and bringers
+    of technologies or rites; feasts, taboos, and oracles are incidental in the sampled
+    evidence.
+  cautions: If a specific culture hero is primarily a seer or donor of a sacred intoxicant,
+    that occurrence may need secondary tagging, but the family should not be remapped.
+  suggested_aliases:
+  - civilizing_hero
+  - founder_hero
+  - bringer_of_culture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- No motifs in this batch require full remap to sacred_substance, prophecy_divination,
+  or curse_blessing_speech based on the supplied records.
+- Several motifs include strong occurrence-level overlaps with the target families,
+  especially sacred_substance in feast, wine, milk, potion, and intoxication scenes,
+  but their canonical family identity remains elsewhere.
+- All suggestions are provisional and intended for taxonomy review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_ai_assistant
+  reviewed_at: ''
+  notes: Target keyword hits appear mostly incidental or secondary for this batch;
+    recommended retaining current groups with cautions for occurrence-level cross-tagging.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0003
+  input_sha256: 7617f5bd27dd3f2458b8cb60cc76ce17235a44a66a3d138a03516ab90feceda3
+

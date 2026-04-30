@@ -1,0 +1,231 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0074
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.human-animal-foster-kinship
+  motif_id: human_animal_foster_kinship
+  label: Human-animal foster kinship
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: The drink/food hit is incidental to feeding a fostered bull; the motif
+    is kinship episode detail, not sacred substance.
+  cautions: Could be normalized elsewhere only if human-animal kinship becomes a queried
+    family.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-being-treated-as-living-deity
+  motif_id: human_being_treated_as_living_deity
+  label: human being treated as living deity
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: No remap recommended; the motif centers on human/divine kingship or living
+    deity status, while oracle language is secondary evidence.
+  cautions: Some examples include oracle-giving, but the motif label and basis are
+    broader than divination.
+  suggested_aliases:
+  - living deity
+  - human treated as god
+  - divine human ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-embodiment-of-a-god-as-oracle
+  motif_id: human_embodiment_of_a_god_as_oracle
+  label: human embodiment of a god as oracle
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif explicitly involves an embodied divine medium being consulted
+    as an oracle, an established divinatory role.
+  cautions: Also overlaps theophany because the oracle is an incarnate god, but the
+    consultative oracle function is central.
+  suggested_aliases:
+  - incarnate god as oracle
+  - human medium of a god
+  - embodied divine oracle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-life-figured-as-plant-or-vine-material
+  motif_id: human_life_figured_as_plant_or_vine_material
+  label: Human life figured as plant or vine material
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: No remap recommended; the motif concerns life, death, and bodily transformation
+    figured through plant/vine imagery, not the sacred substance itself.
+  cautions: Wine and grape imagery are present, but appear as funerary-revival symbolism
+    rather than a distinct ritual intoxicant motif.
+  suggested_aliases:
+  - life as plant material
+  - body as vine material
+  - human existence as uprooted plant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-nature-reasserting-itself-after-attempted-renunciation
+  motif_id: human_nature_reasserting_itself_after_attempted_renunciation
+  label: human nature reasserting itself after attempted renunciation
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: uncertain
+  confidence: medium
+  rationale: No remap recommended; the motif is about renunciation and human nature
+    within the mystical path, while intoxication is contextual language.
+  cautions: If indexed separately as spiritual intoxication/ecstasy, that narrower
+    motif could belong under sacred_substance or dream_and_vision depending evidence.
+  suggested_aliases:
+  - human nature returns after renunciation
+  - failed renunciation of human nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-victims-devoured-by-a-monstrous-being
+  motif_id: human_victims_devoured_by_a_monstrous_being
+  label: Human victims devoured by a monstrous being
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: The milk keyword is incidental scene detail in the Cyclops episode; the
+    motif is episode-specific devouring by a monster.
+  cautions: May fit a future monster-cannibalism or ogre-devouring family, but not
+    the three target families.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humiliation-concealed-by-boastful-explanation
+  motif_id: humiliation_concealed_by_boastful_explanation
+  label: humiliation concealed by boastful explanation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: No remap recommended; the wine reference is a comic excuse concealing
+    humiliation, not a sacred or ritual intoxicant motif.
+  cautions: Literal drunkenness alone is insufficient for sacred_substance without
+    ritual, mythic, or transformative substance focus.
+  suggested_aliases:
+  - boast conceals humiliation
+  - comic excuse after humiliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hungry-traveller-received-by-a-hospitable-host
+  motif_id: hungry_traveller_received_by_a_hospitable_host
+  label: hungry traveller received by a hospitable host
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: high
+  rationale: No remap recommended; food is part of hospitality and reciprocal care,
+    not a sacred substance centered as ritual or transformative material.
+  cautions: Could also relate to hospitality_test_stranger_guest if the evidence frames
+    the guest as a test.
+  suggested_aliases:
+  - hospitable feeding of hungry traveller
+  - famished traveller received by host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Keyword hits for food, drink, milk, wine, and intoxication are often incidental;
+  only substance-centered ritual or transformative motifs should map to sacred_substance.
+- 'Only one motif in this batch is recommended for a target-family remap: human_embodiment_of_a_god_as_oracle
+  to prophecy_divination.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_model
+  reviewed_at: ''
+  notes: Provisional targeted remap suggestions; human taxonomy review recommended
+    before applying changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0074
+  input_sha256: 283e09ac4d8f8412dc9b0b220b97fd2a0659391e5a13eede86cbb38c6e666418
+

@@ -1,0 +1,219 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0135
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.royal-proclamation-resolves-hidden-disorder
+  motif_id: royal_proclamation_resolves_hidden_disorder
+  label: royal proclamation resolves hidden disorder
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: high
+  rationale: No remap recommended; the motif centers royal proclamation as effective
+    governance, while food is incidental to the elephant's behavior.
+  cautions: Single occurrence; keyword match is incidental rather than a sacred-substance
+    pattern.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-protection-and-feeding-of-animals-after-moral-instruction
+  motif_id: royal_protection_and_feeding_of_animals_after_moral_instruction
+  label: royal protection and feeding of animals after moral instruction
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: No remap recommended; the motif concerns moral instruction and royal
+    protection of living creatures, not sacred food as a ritual substance.
+  cautions: Food provision is part of animal welfare after ethical instruction, not
+    divine intoxication or sacred substance use.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-seclusion-overturned-by-grief
+  motif_id: royal_seclusion_overturned_by_grief
+  label: royal seclusion overturned by grief
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: No remap recommended; 'casting aside' is a literal action in mourning,
+    not lot-casting or divination.
+  cautions: Keyword match is a false positive for prophecy_divination.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-healed-by-faithful-attendants-and-honors-them-through-poetic-commemoration
+  motif_id: ruler_healed_by_faithful_attendants_and_honors_them_through_poetic_commemoration
+  label: Ruler healed by faithful attendants and honors them through poetic commemoration
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: medium
+  rationale: No remap recommended; wine appears only in allusive commentary, while
+    the motif centers healing, attendants, and poetic commemoration.
+  cautions: Current placement remains somewhat provisional; not enough evidence that
+    sacred wine or intoxication is the motif's core.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-animal-treated-as-a-child-or-precious-being
+  motif_id: sacred_animal_treated_as_a_child_or_precious_being
+  label: sacred animal treated as a child or precious being
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: Maintain exclusion; the motif is episode-specific and the meal keyword
+    refers to scattered meal, not a reusable sacred-substance family pattern.
+  cautions: Could inform a specific turtle rite description, but should not drive
+    cross-tradition motif queries.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-bathing-in-natural-waters
+  motif_id: sacred_bathing_in_natural_waters
+  label: sacred bathing in natural waters
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: high
+  rationale: No remap recommended; the motif concerns sacred bathing in water, and
+    the honey keyword is not central to the described motif.
+  cautions: Sacred water ritual should remain distinct from sacred food, drink, plant,
+    or intoxicating substance motifs.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-book-as-miracle-or-divine-oracle
+  motif_id: sacred_book_as_miracle_or_divine_oracle
+  label: sacred book as miracle or divine oracle
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: No remap recommended; 'divine oracle' describes scriptural revelation
+    or apologetic framing, not an established divination method or oracle practice.
+  cautions: The wording overlaps prophecy_divination, but the motif is about sacred
+    text and revelation rather than systematic foretelling.
+  suggested_aliases:
+  - sacred scripture as divine oracle
+  - sacred book as standing miracle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-boundary-between-lawful-and-forbidden-food
+  motif_id: sacred_boundary_between_lawful_and_forbidden_food
+  label: sacred boundary between lawful and forbidden food
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: No remap recommended; the motif centers divine dietary law and lawful/forbidden
+    boundaries, not sacred substance as transformative ritual food or drink.
+  cautions: Food is central, but as legal classification rather than mythic, intoxicating,
+    or sacramental substance.
+  suggested_aliases:
+  - lawful and forbidden food boundary
+  - dietary holiness boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Keyword hits in this batch are mostly incidental literal matches rather than true
+  candidates for the three target families.
+- No motif in this batch clearly requires remapping to sacred_substance, prophecy_divination,
+  or curse_blessing_speech.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional automated suggestions; human taxonomy review recommended for
+    final acceptance.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0135
+  input_sha256: 839e63987245e1cbba1ea7fc301307496d99acbe561cec3c5fa4dc2e4c727e86
+

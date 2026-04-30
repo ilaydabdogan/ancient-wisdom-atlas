@@ -1,0 +1,217 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0150
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.temporary-separation-of-first-reaper
+  motif_id: temporary_separation_of_first_reaper
+  label: temporary separation of first reaper
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: Motif centers an episode-specific ritual separation of the first reaper;
+    milk and honey are incidental feast details.
+  cautions: Could be reviewed under harvest rites if that family is later added, but
+    not sacred_substance as labeled.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temptation-through-royal-wealth-and-power
+  motif_id: temptation_through_royal_wealth_and_power
+  label: Temptation through royal wealth and power
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: narrower_than
+  confidence: high
+  rationale: No remap recommended; the motif concerns coercive temptation through
+    power, luxury, and sovereignty, with food only one incidental inducement.
+  cautions: May overlap with abduction or coercive seduction patterns, but not sacred_substance.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.the-invalid-deprived-of-sustenance-by-visitors
+  motif_id: the_invalid_deprived_of_sustenance_by_visitors
+  label: the invalid deprived of sustenance by visitors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: Episode-specific fable detail about loss of ordinary fodder; food is
+    literal sustenance, not a sacred or transformative substance.
+  cautions: Could be subsumed by a general fable ethics motif, but should not enter
+    sacred_substance queries.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.theft-from-a-guarded-or-tended-store
+  motif_id: theft_from_a_guarded_or_tended_store
+  label: theft from a guarded or tended store
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: No remap recommended; the pattern is theft from a tended store, while
+    honey is merely the stolen commodity in this example.
+  cautions: If expanded to sacred honey theft from gods, individual instances may
+    need separate tagging.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.thoughtless-friends-harm-the-helpless
+  motif_id: thoughtless_friends_harm_the_helpless
+  label: thoughtless friends harm the helpless
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: No remap recommended; the motif concerns moral harm through thoughtless
+    friends, not sacred food or ritual substance.
+  cautions: Current divine_judgment placement is broad; a fable ethics grouping might
+    eventually fit better.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threatened-child-spared-for-royal-purposes
+  motif_id: threatened_child_spared_for_royal_purposes
+  label: threatened child spared for royal purposes
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: high
+  rationale: No remap recommended; prophecy motivates the scene, but the motif itself
+    is the spared threatened child destined for royal use.
+  cautions: The broader Deirdre episode may include a separate prophecy_divination
+    motif for the dire foretelling.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-virgin-goddesses-exempt-from-erotic-compulsion
+  motif_id: three_virgin_goddesses_exempt_from_erotic_compulsion
+  label: Three virgin goddesses exempt from erotic compulsion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The motif primarily catalogs a specific divine exemption from Aphrodite's
+    power; Hestia's oath is supporting evidence rather than the central motif.
+  cautions: A separate motif for Hestia's sworn perpetual maidenhood would belong
+    under curse_blessing_speech as an oath/vow.
+  suggested_aliases:
+  - divine virgins exempt from Aphrodite
+  - goddesses beyond erotic compulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-colored-substance-generates-natural-kinds
+  motif_id: threefold_colored_substance_generates_natural_kinds
+  label: Threefold colored substance generates natural kinds
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: No remap recommended; the motif concerns cosmogonic generation of natural
+    kinds, with milk functioning as primordial creative substance rather than ritual
+    intoxicant or sacred food use.
+  cautions: Related to sacred_substance only secondarily through substance symbolism.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Keyword matches for food, milk, honey, prophecy, and oath were mostly incidental
+  to motifs whose labels and bases belong elsewhere.
+- No motif in this batch should be remapped wholesale to the three target families
+  without splitting or creating a more specific underlying motif.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: model
+  reviewed_at: ''
+  notes: Provisional targeted remap suggestions; human reviewer should confirm exclusions
+    and any future splitting of oath or prophecy submotifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0150
+  input_sha256: b225df6ea4fea16a4d6179e1bd974291074f3f6cc22e58d72ab853fe77c7ab24
+

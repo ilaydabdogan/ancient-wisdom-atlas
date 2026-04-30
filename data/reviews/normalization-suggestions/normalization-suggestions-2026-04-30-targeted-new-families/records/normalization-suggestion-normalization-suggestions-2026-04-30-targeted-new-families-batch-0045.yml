@@ -1,0 +1,220 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0045
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-provision-through-rain-and-vegetation
+  motif_id: divine_provision_through_rain_and_vegetation
+  label: Divine provision through rain and vegetation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers divine provision through rain and vegetation, not a
+    ritually used sacred food or intoxicating substance.
+  cautions: Matched keyword 'food' is incidental to provision language; no remap to
+    sacred_substance recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-provision-through-water-vegetation-animals-and-transport
+  motif_id: divine_provision_through_water_vegetation_animals_and_transport
+  label: Divine provision through water, vegetation, animals, and transport
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif concerns broad divine provisioning of water, plants, animals,
+    and transport rather than sacred substance as ritual or mystical medium.
+  cautions: Food and milk are part of ordinary providential abundance; no remap to
+    sacred_substance recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-provision-withheld-or-granted
+  motif_id: divine_provision_withheld_or_granted
+  label: Divine provision withheld or granted
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif frames provision as something God grants or withholds in moral
+    warning and judgment, not as a sacred substance motif.
+  cautions: Food/provision keyword is incidental; current divine_judgment placement
+    is more appropriate than sacred_substance.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-rejuvenation-or-enhancement-of-an-elder
+  motif_id: divine_rejuvenation_or_enhancement_of_an_elder
+  label: Divine rejuvenation or enhancement of an elder
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif is divine bodily rejuvenation/enhancement of Laertes; wine
+    appears only in the surrounding meal preparation.
+  cautions: Matched keyword 'wine' is incidental and not the agent of transformation;
+    no remap to sacred_substance recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-rescue-in-peril-at-sea-followed-by-ingratitude
+  motif_id: divine_rescue_in_peril_at_sea_followed_by_ingratitude
+  label: Divine rescue in peril at sea followed by ingratitude
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers divine rescue during sea peril and subsequent human
+    ingratitude, not a binding curse, blessing, oath, or taboo utterance.
+  cautions: Invocation of God is prayerful appeal rather than the motif's performative
+    speech-act focus; no remap to curse_blessing_speech recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sign-and-naming-omen
+  motif_id: divine_sign_and_naming_omen
+  label: divine sign and naming omen
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: narrower_than
+  confidence: medium
+  rationale: Zeus sends an eagle interpreted as a meaningful divine sign/omen that
+    grounds naming, fitting omen-based access to hidden significance.
+  cautions: This is a single omen rather than an elaborate divinatory system; reviewer
+    may consider whether dream_and_vision remains preferable for generic divine signs.
+  suggested_aliases:
+  - eagle naming omen
+  - divine animal omen in naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sign-animal-with-taboo-against-harm
+  motif_id: divine_sign_animal_with_taboo_against_harm
+  label: divine sign animal with taboo against harm
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif includes a divine command/taboo pronouncement not to harm the
+    she-camel, with punishment attached to violating the uttered prohibition.
+  cautions: It also fits sacred_law as a tabooed divine sign; remap depends on whether
+    the speech-act prohibition is treated as primary.
+  suggested_aliases:
+  - taboo against harming divine sign animal
+  - spoken prohibition attached to divine animal sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-song-transforms-nature-into-provisions-and-wealth
+  motif_id: divine_song_transforms_nature_into_provisions_and_wealth
+  label: Divine song transforms nature into provisions and wealth
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: high
+  rationale: The core motif is song or uttered creative power transforming nature
+    into abundance; honey and beer are outputs, not sacred substances in ritual use.
+  cautions: Could also relate to enchanting_music, but target-family remap to sacred_substance
+    is not recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Keyword matches for food, milk, wine, honey, invoke, and taboo often reflect incidental
+  wording rather than membership in the three target families.
+- All suggestions are provisional and should be checked against broader occurrence
+  evidence if additional passages are indexed.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_model
+  reviewed_at: ''
+  notes: Targeted remap review completed for batch 0045; two motifs are plausible
+    target-family remaps, while the rest should remain in current groups.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0045
+  input_sha256: f988cccb744e351ab7c3f40fa30c52bca83101b022370fd6c65672dd5de36068
+

@@ -1,0 +1,237 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0087
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.magic-potion-leading-to-unwanted-marriage
+  motif_id: magic_potion_leading_to_unwanted_marriage
+  label: magic potion leading to unwanted marriage
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on a magic potion whose ingestion alters will and enables
+    an unwanted marriage, so the substance itself drives the transformation.
+  cautions: Also remains related to sacred_love because the effect concerns marriage
+    and coerced affection.
+  suggested_aliases:
+  - will-altering marriage potion
+  - coercive love potion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-weapon-mastery
+  motif_id: magic_weapon_mastery
+  label: magic weapon mastery
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: No remap recommended; the motif is about mastery of a magic spear, and
+    the feast keyword is incidental in a cross-reference title.
+  cautions: Evidence is a note-like cross-reference rather than a full narrative occurrence.
+  suggested_aliases:
+  - mastery of a magic spear
+  - magic spear mastery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-animal-producing-sustenance-and-treasure
+  motif_id: magical_animal_producing_sustenance_and_treasure
+  label: magical animal producing sustenance and treasure
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: No remap to sacred_substance recommended; the food is miraculous provision
+    produced by an animal helper, not a sacred food, drink, potion, or intoxicating
+    substance as the motif focus.
+  cautions: Current placement under sacred_treasures is plausible for treasure production,
+    but the taxonomy also has divine_intervention children for abundance-giving animals
+    and inexhaustible provision.
+  suggested_aliases:
+  - animal source of sustenance and treasure
+  - abundance-producing magical hound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-army-summoned-by-instrument
+  motif_id: magical_army_summoned_by_instrument
+  label: magical army summoned by instrument
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: No remap recommended; the motif centers on a drum or instrument summoning
+    an army, while the milk-bowl is a separate indexed wonder in the same summary.
+  cautions: Could alternatively be reviewed under sacred_treasures or enchanting_music
+    if the instrument itself is treated as a power object or sound-command device.
+  suggested_aliases:
+  - army-summoning drum
+  - instrument summons magical army
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-being-animated-by-blood-and-word
+  motif_id: magical_being_animated_by_blood_and_word
+  label: magical being animated by blood and word
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: Keep excluded; this is an episode-specific extraction about Para animated
+    by blood and a magic word, and the milk keyword refers to the being's abundance
+    effect rather than a sacred substance motif.
+  cautions: If retained later, it would need review for artificial animation or sacred
+    speech, but current human policy exclusion should stand.
+  suggested_aliases:
+  - Para animated by blood and magic word
+  - blood-and-word animation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-cooking-vessel-requiring-no-fuel
+  motif_id: magical_cooking_vessel_requiring_no_fuel
+  label: magical cooking vessel requiring no fuel
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: No remap recommended; the motif focuses on a magical cooking pot as a
+    vessel, while food is the product rather than a sacred substance in itself.
+  cautions: Related to miraculous provision, but not to ritual intoxicants or transformative
+    foods.
+  suggested_aliases:
+  - self-cooking pot
+  - fuel-less magical cooking vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-creation-of-animal-helpers-from-small-objects
+  motif_id: magical_creation_of_animal_helpers_from_small_objects
+  label: magical creation of animal helpers from small objects
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: No remap recommended; the motif concerns magical creation of animal helpers,
+    while honey or brewing materials are incidental quest objects in the passage.
+  cautions: The beer-making context may relate to sacred_substance elsewhere, but
+    not in this motif label or basis.
+  suggested_aliases:
+  - animal helpers created from small objects
+  - magically produced animal messengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-curse-of-barrenness-and-failed-ripening
+  motif_id: magical_curse_of_barrenness_and_failed_ripening
+  label: magical curse of barrenness and failed ripening
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif is a discrete spoken curse whose utterance causes forest barrenness
+    and failed grain ripening, matching performative sacred speech.
+  cautions: Also relates to sacred_time or seasonal fertility because the curse affects
+    growth and harvest cycles.
+  suggested_aliases:
+  - curse causing barrenness
+  - spoken curse of failed ripening
+  - Kullervo's forest and grain curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Targeted keyword hits for feast, food, milk, and honey often reflected incidental
+  context or miraculous provision rather than sacred_substance itself.
+- One current sacred_treasures placement appears less precise than divine_intervention
+  for an abundance-producing animal, but this is not a remap into the three target
+  families and should receive normal taxonomy review if changed.
+- All suggestions are provisional for human taxonomy review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_model
+  reviewed_at: ''
+  notes: Reviewed targeted candidates for remap into sacred_substance, prophecy_divination,
+    and curse_blessing_speech.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0087
+  input_sha256: 829965254569049ef8f6aeba2de809f96a156621bb8d0eebb2ca910e2e1faf2e
+

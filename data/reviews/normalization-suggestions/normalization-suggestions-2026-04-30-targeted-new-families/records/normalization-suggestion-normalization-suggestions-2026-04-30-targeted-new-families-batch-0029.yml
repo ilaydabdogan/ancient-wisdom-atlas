@@ -1,0 +1,220 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0029
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.contest-weapon-proves-the-rightful-man
+  motif_id: contest_weapon_proves_the_rightful_man
+  label: Contest weapon proves the rightful man
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif is a legitimacy test using Odysseus' bow; the wine keyword
+    is incidental and not substance-centered.
+  cautions: No remap to sacred_substance recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-division-of-a-feast-animal-by-martial-precedence
+  motif_id: contested_division_of_a_feast_animal_by_martial_precedence
+  label: Contested division of a feast animal by martial precedence
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: The feast animal is a vehicle for ranking warriors by martial precedence,
+    not a sacred substance motif.
+  cautions: Feast keyword alone should not trigger sacred_substance remap.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-installation-and-prophecy-of-order-s-increase
+  motif_id: contested_installation_and_prophecy_of_order_s_increase
+  label: contested installation and prophecy of order’s increase
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers a saintly authoritative prediction of opponents' decline
+    and the order's future increase, a formal foretelling tied to sacred authority.
+  cautions: Also involves institutional legitimacy; review whether prophecy or installation
+    is primary in broader indexing.
+  suggested_aliases:
+  - prophecy of order's increase
+  - saintly prediction of institutional growth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-sacred-wine-imagery
+  motif_id: contested_sacred_wine_imagery
+  label: contested sacred wine imagery
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif explicitly concerns wine as disputed literal or mystical sacred-intoxicating
+    imagery in Sufi interpretation.
+  cautions: Evidence is partly scholarly interpretation of Khayyam; preserve uncertainty
+    about literal versus mystical reading.
+  suggested_aliases:
+  - mystical wine imagery
+  - disputed Sufi wine symbolism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contrast-between-town-abundance-and-country-simplicity
+  motif_id: contrast_between_town_abundance_and_country_simplicity
+  label: contrast between town abundance and country simplicity
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an episode-specific fable contrast of lifestyles; honey/food
+    abundance is incidental and not sacred substance.
+  cautions: Keep excluded from motif pattern queries as previously reviewed.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corruption-through-sweet-pleasure
+  motif_id: corruption_through_sweet_pleasure
+  label: corruption through sweet pleasure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: beauty_and_paradox
+  suggested_group_label: Beauty Paired with Pain and Paradox
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Honey is metaphorical for corrupting pleasure; the motif concerns sweetness
+    paired with moral harm, not ritual or sacred substance.
+  cautions: No remap to sacred_substance recommended unless additional occurrences
+    center an actual sacred intoxicant or food.
+  suggested_aliases:
+  - sweet pleasure as corruption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-abundance-gathered-to-one-place
+  motif_id: cosmic_abundance_gathered_to_one_place
+  label: cosmic abundance gathered to one place
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: broader_label
+  confidence: medium
+  rationale: The scene prominently summons divine foods, Soma's food, liquors, wines,
+    waters, and meats as sacred abundance within a hermitage miracle.
+  cautions: Also overlaps divine_intervention and abundance/provision; remap is warranted
+    only if substance-abundance is the indexed focus.
+  suggested_aliases:
+  - summoned sacred abundance
+  - divine food and drink gathered
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-bounds-oath-formula
+  motif_id: cosmic_bounds_oath_formula
+  label: cosmic-bounds oath formula
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif centers a bounded oath/promise formula whose utterance establishes
+    an obligation, fitting performative sacred speech.
+  cautions: Related to covenant, but the discrete oath formula is primary here.
+  suggested_aliases:
+  - cosmic oath formula
+  - bounded promise formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Keyword hits for feast, wine, honey, and food were reviewed for whether the substance
+  itself is ritually or mystically central rather than incidental.
+- Existing non-target placements are retained where the motif primarily concerns legitimacy,
+  combat precedence, moral allegory, or episode-specific contrast.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional targeted remap suggestions for batch-0029.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0029
+  input_sha256: 326f5a1c44cfe29afd87dbe5d0f97b70da9ded8b584c2de4b6b46858f6c0633d
+

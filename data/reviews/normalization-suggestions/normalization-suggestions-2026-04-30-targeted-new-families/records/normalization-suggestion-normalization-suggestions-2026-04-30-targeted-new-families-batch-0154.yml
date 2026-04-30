@@ -1,0 +1,220 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-30-targeted-new-families.batch-0154
+gap_audit_path: data/indexes/targeted-new-family-remap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motif-normalization.yml
+suggestions:
+- suggestion_id: normalization.suggestion.uninvited-arrival-at-a-feast
+  motif_id: uninvited_arrival_at_a_feast
+  label: uninvited arrival at a feast
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: Episode-specific note about arriving uninvited at a banquet; the feast
+    keyword is incidental and not a sacred substance motif.
+  cautions: Already policy-excluded; no remap recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uninvited-guest-at-hostile-feast
+  motif_id: uninvited_guest_at_hostile_feast
+  label: uninvited guest at hostile feast
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif concerns an unbidden guest and hostile or withheld hospitality;
+    feast is the setting, not a sacred substance.
+  cautions: No remap to sacred_substance recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unique-or-privileged-weapon-of-the-hero
+  motif_id: unique_or_privileged_weapon_of_the_hero
+  label: unique or privileged weapon of the hero
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on a special heroic weapon; prophecy appears only in
+    the surrounding passage.
+  cautions: Do not remap to prophecy_divination unless the motif is specifically the
+    prophetic act or seer role.
+  suggested_aliases:
+  - privileged heroic weapon
+  - unique hero weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-cup-of-destiny-or-death
+  motif_id: universal_cup_of_destiny_or_death
+  label: Universal cup of destiny or death
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The image centers on the universal cup as a vessel of destiny or death;
+    drinking is symbolic but the substance itself is not emphasized.
+  cautions: Could be related to sacred_substance in Sufi wine imagery, but the supplied
+    evidence supports vessel/destiny more than sacred intoxicant.
+  suggested_aliases:
+  - cup of destiny
+  - cup of death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-mutability-of-forms
+  motif_id: universal_mutability_of_forms
+  label: universal mutability of forms
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: broader_label
+  confidence: high
+  rationale: The motif is a broad doctrine of changing forms and transformations;
+    the word lot is incidental and not divinatory lot-casting.
+  cautions: No remap to prophecy_divination recommended.
+  suggested_aliases:
+  - mutability of forms
+  - universal transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unrecognized-deity-seized-by-mortals
+  motif_id: unrecognized_deity_seized_by_mortals
+  label: unrecognized deity seized by mortals
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif concerns mortals seizing an unrecognized god and the revelation
+    of divine nature; wine is only associated with Dionysus, not the motif focus.
+  cautions: No remap to sacred_substance recommended from this evidence.
+  suggested_aliases:
+  - unrecognized god seized by mortals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unwilled-coming-into-and-going-out-of-existence
+  motif_id: unwilled_coming_into_and_going_out_of_existence
+  label: Unwilled coming into and going out of existence
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: Abstract existential statement about involuntary existence and departure;
+    wine keyword is incidental in the broader text selection.
+  cautions: Already policy-excluded; no remap recommended.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unwitting-cannibal-feast-of-kin
+  motif_id: unwitting_cannibal_feast_of_kin
+  label: unwitting cannibal feast of kin
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: targeted_new_family_remap
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: medium
+  rationale: The motif centers on revenge, moral horror, and recognition through a
+    cannibal meal; feast is not a sacred ritual substance in itself.
+  cautions: Current divine_judgment placement is provisional; could also be reviewed
+    under betrayal or violent revenge patterns, but not sacred_substance.
+  suggested_aliases:
+  - cannibal banquet of kin
+  - unwitting kin-eating feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Keyword matches for feast, drink, wine, prophecy, and lot are mostly contextual
+  in this batch; none of the supplied motifs should be remapped to the three target
+  families on current evidence.
+- All suggestions are provisional and intended for taxonomy review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_model
+  reviewed_at: ''
+  notes: Reviewed targeted new-family candidates; recommended retaining current groups
+    or exclusions.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-30-targeted-new-families
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-30-targeted-new-families-batch-0154
+  input_sha256: '089253da2cdfbe0c2d099354ebe8c5fffb45b2d5e9951f3499f841064d119283'
+
