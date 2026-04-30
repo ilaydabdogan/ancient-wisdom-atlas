@@ -1,5 +1,5 @@
 ---
-generated_on: '2026-04-29'
+generated_on: '2026-04-30'
 source: data/indexes/motif-occurrences.yml
 normalization_source: taxonomy/motif-normalization.yml
 method: Counts distinct traditions for indexed motif IDs that map to canonical_motif_groups
@@ -7,8 +7,8 @@ method: Counts distinct traditions for indexed motif IDs that map to canonical_m
 indexed_motif_count: 9072
 indexed_occurrence_count: 31658
 canonical_motif_group_count: 62
-mapped_motif_count: 5569
-unmapped_motif_count: 3503
+mapped_motif_count: 5570
+unmapped_motif_count: 3502
 canonical_motifs:
 - canonical_motif_id: death_and_transformation
   label: Death, Rebirth, and Transformation
@@ -8985,7 +8985,7 @@ canonical_motifs:
     celtic_welsh: 5
     comparative: 3
     daoist: 8
-    finnish_karelian: 18
+    finnish_karelian: 20
     greek: 39
     greek_roman: 11
     hindu: 38
@@ -8998,7 +8998,7 @@ canonical_motifs:
     norse: 28
     persian: 4
     roman: 29
-    sufi: 11
+    sufi: 13
   mapped_motifs:
   - motif_id: chaos
     label: Chaos
@@ -9024,6 +9024,14 @@ canonical_motifs:
       persian: 4
       roman: 17
       sufi: 4
+  - motif_id: cosmic_egg
+    label: Cosmic Egg
+    relationship: child
+    occurrence_count: 4
+    tradition_count: 2
+    traditions:
+      finnish_karelian: 2
+      sufi: 2
   - motif_id: creation_by_divine_speech
     label: Creation by divine speech
     relationship: functional_variant
@@ -9823,8 +9831,8 @@ canonical_motifs:
     traditions:
       greek: 1
   tradition_count: 19
-  occurrence_count: 299
-  mapped_motif_count: 115
+  occurrence_count: 303
+  mapped_motif_count: 116
 - canonical_motif_id: descent
   label: Descent and Underworld Journey
   description: The journey downward into the underworld, the land of the dead, or

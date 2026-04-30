@@ -1,0 +1,456 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-never-included.batch-0002
+gap_audit_path: tmp/normalization-never-included-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.return
+  motif_id: return
+  label: Return
+  occurrences: 684
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: child
+  confidence: high
+  rationale: Return is an existing taxonomy motif and already appears as a child of
+    the hero_journey group.
+  cautions: Preserve whether the return is from ordeal, exile, death, otherworld,
+    or contemplative quest; not every return implies resurrection.
+  suggested_aliases:
+  - return_from_ordeal
+  - return_with_knowledge
+  - homecoming_after_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.initiation
+  motif_id: initiation
+  label: Initiation
+  occurrences: 667
+  traditions:
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - confucian
+  - daoist
+  - egyptian
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - jewish_christian
+  - maya_quiche
+  - mesopotamian
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: alias
+  confidence: high
+  rationale: Initiation is both an existing taxonomy motif and an existing canonical
+    group id.
+  cautions: Use more specific children when evidence shows descent, mystical quest,
+    threshold guardian, or ordeal type.
+  suggested_aliases:
+  - transformative_ordeal
+  - rite_of_passage
+  - threshold_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.resurrection
+  motif_id: resurrection
+  label: Resurrection
+  occurrences: 556
+  traditions:
+  - ainu
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - egyptian
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: child
+  confidence: high
+  rationale: Resurrection is an existing taxonomy motif and already appears under
+    death_and_transformation.
+  cautions: Do not merge with descent or dying-and-returning unless the passage shows
+    journey, disappearance, or cyclical return.
+  suggested_aliases:
+  - raising_from_death
+  - restoration_to_life
+  - dead_figure_restored
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-beloved
+  motif_id: divine_beloved
+  label: Divine Beloved
+  occurrences: 542
+  traditions:
+  - ainu
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - japanese
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: child
+  confidence: high
+  rationale: Divine_beloved is an existing taxonomy motif and a listed child of mystical_quest
+    in normalization.
+  cautions: If the passage centers on erotic or marital social order rather than mystical
+    longing, sacred_love or sacred_marriage may be more relevant as secondary context.
+  suggested_aliases:
+  - sacred_beloved
+  - divine_lover
+  - beloved_as_divine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-parent-child
+  motif_id: divine_parent_child
+  label: Divine Parent And Holy Child
+  occurrences: 485
+  traditions:
+  - ainu
+  - celtic_irish
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - japanese
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: child
+  confidence: high
+  rationale: Divine_parent_child is an existing taxonomy motif and already a child
+    of the miraculous_child group.
+  cautions: If the parent figure rather than the child is central, mother_goddess,
+    royal_legitimacy, or sacred_birth may need secondary indexing.
+  suggested_aliases:
+  - holy_child_and_divine_parent
+  - divine_child_protected_by_parent
+  - sacred_parent_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ascent
+  motif_id: ascent
+  label: Ascent
+  occurrences: 478
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - egyptian
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - jewish_christian
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: ascent
+  suggested_group_label: Ascent and Heavenly Journey
+  relationship: alias
+  confidence: high
+  rationale: Ascent is both an existing taxonomy motif and an existing canonical group
+    id.
+  cautions: Distinguish literal upward travel, heavenly journey, mountain ascent,
+    social elevation, and visionary ascent in evidence notes.
+  suggested_aliases:
+  - heavenly_ascent
+  - upward_journey
+  - ascent_to_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.duality
+  motif_id: duality
+  label: Duality
+  occurrences: 448
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - japanese
+  - mesopotamian
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: alias
+  confidence: high
+  rationale: Duality is both an existing taxonomy motif and an existing canonical
+    group id.
+  cautions: Do not treat every pair as cosmic duality; verify opposition, complementarity,
+    doubled identity, or balanced forces.
+  suggested_aliases:
+  - cosmic_duality
+  - paired_opposition
+  - complementary_opposites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.afterlife-journey-map
+  motif_id: afterlife_journey_map
+  label: Afterlife Journey Map
+  occurrences: 437
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - comparative
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: child
+  confidence: high
+  rationale: Afterlife_journey_map is an existing taxonomy motif already mapped as
+    the core child of afterlife_passage.
+  cautions: Use descent only as a broader relation when the passage maps postmortem
+    navigation rather than a living hero's underworld journey.
+  suggested_aliases:
+  - afterlife_journey
+  - postmortem_route
+  - soul_journey_map
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trickster-boundary
+  motif_id: trickster_boundary
+  label: Trickster At The Boundary
+  occurrences: 421
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - maya_quiche
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: child
+  confidence: high
+  rationale: Trickster_boundary is an existing taxonomy motif and listed child of
+    the trickster group.
+  cautions: Separate trickster boundary-crossing from ordinary deception, culture-hero
+    founding, or shapeshifting unless the passage supports those functions.
+  suggested_aliases:
+  - boundary_crossing_trickster
+  - liminal_trickster
+  - trickster_boundary_crosser
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stolen-beloved
+  motif_id: stolen_beloved
+  label: Stolen Or Lost Beloved
+  occurrences: 371
+  traditions:
+  - ainu
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamicate_folklore
+  - japanese
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on loss or abduction of a beloved and often motivates
+    quest, descent, or love beyond separation; sacred_love best preserves the relational
+    focus.
+  cautions: If the evidence centers on underworld descent or recovery quest rather
+    than love/longing, descent or hero_journey should be primary instead.
+  suggested_aliases:
+  - lost_beloved
+  - abducted_beloved
+  - beloved_recovery_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several high-occurrence unmapped items are already taxonomy motif families and/or
+  existing canonical group ids; they likely need explicit raw_motif_group_index entries
+  rather than new taxonomy concepts.
+- For taxonomy motif families that share a name with group ids, relationship 'alias'
+  here means the motif id can map directly to the same canonical group for Pattern
+  Explorer purposes.
+- No transmission, borrowing, or common-origin inference is implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated from supplied taxonomy and
+    normalization context only.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-never-included
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-never-included-batch-0002
+  input_sha256: 39ab615a329cf6a0ae67dc5024abc78bfac577467592e5c452d0a6c3babe443a
+

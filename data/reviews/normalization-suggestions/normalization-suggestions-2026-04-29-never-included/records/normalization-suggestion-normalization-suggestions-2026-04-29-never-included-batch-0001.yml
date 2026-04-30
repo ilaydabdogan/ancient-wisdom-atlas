@@ -1,0 +1,481 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-never-included.batch-0001
+gap_audit_path: tmp/normalization-never-included-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wisdom
+  motif_id: wisdom
+  label: Wisdom
+  occurrences: 3821
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - confucian
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - jewish_christian
+  - mesopotamian
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: child
+  confidence: high
+  rationale: The canonical motif wisdom is already listed as a child of the sacred_knowledge
+    group and fits its description directly.
+  cautions: Preserve distinctions among practical wisdom, forbidden knowledge, revelation,
+    and mystical insight when passage evidence supports narrower labels.
+  suggested_aliases:
+  - sacred wisdom
+  - transformative knowledge
+  - divine wisdom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-judgment
+  motif_id: divine_judgment
+  label: Divine Judgment
+  occurrences: 2198
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - egyptian
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - jewish_christian
+  - maya_quiche
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: alias
+  confidence: high
+  rationale: The motif id matches the existing canonical normalization group for divine
+    judgment and moral reckoning.
+  cautions: Do not conflate all misfortune with divine judgment unless the passage
+    indicates sacred evaluation, punishment, purification, or moral reckoning.
+  suggested_aliases:
+  - moral reckoning
+  - sacred judgment
+  - divine punishment
+  - cosmic judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-exchange
+  motif_id: sacred_exchange
+  label: Sacred Exchange
+  occurrences: 1262
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - confucian
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - jewish_christian
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: alias
+  confidence: high
+  rationale: The motif id matches the existing group centered on reciprocal giving,
+    offering, obligation, and sacred relationship.
+  cautions: Separate exchange and reciprocity from sacrifice when the key action is
+    not surrender or offering of a valued thing.
+  suggested_aliases:
+  - sacred reciprocity
+  - ritual reciprocity
+  - divine-human exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacrifice
+  motif_id: sacrifice
+  label: Sacrifice
+  occurrences: 1011
+  traditions:
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - jewish_christian
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: alias
+  confidence: high
+  rationale: The motif id matches the existing canonical group for sacrifice, offering,
+    expulsion, atonement, and surrender.
+  cautions: Use narrower children such as scapegoat, atonement_rite, annual_purification,
+    or ritual_expulsion when the ritual form is explicit.
+  suggested_aliases:
+  - offering
+  - ritual offering
+  - sacred surrender
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mystical-quest
+  motif_id: mystical_quest
+  label: Mystical Quest
+  occurrences: 968
+  traditions:
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: alias
+  confidence: high
+  rationale: The motif id matches the existing group for contemplative or interior
+    journeys toward union, knowledge, or liberation.
+  cautions: Do not map ordinary travel or heroic quest here unless the passage emphasizes
+    interior transformation or direct sacred knowledge.
+  suggested_aliases:
+  - interior journey
+  - spiritual quest
+  - contemplative quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.departure
+  motif_id: departure
+  label: Departure
+  occurrences: 962
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - jewish_christian
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: child
+  confidence: high
+  rationale: Departure is already listed as a child of hero_journey and functions
+    as the leaving phase of a transformative narrative arc.
+  cautions: Departure alone may be too broad; confirm that leaving home or status
+    begins a charged ordeal, quest, exile, or transformation rather than ordinary
+    movement.
+  suggested_aliases:
+  - leaving home
+  - quest departure
+  - departure from ordinary world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-legitimacy
+  motif_id: royal_legitimacy
+  label: Royal Legitimacy
+  occurrences: 937
+  traditions:
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - confucian
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - jewish_christian
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: alias
+  confidence: high
+  rationale: The motif id matches the existing group for sacred kingship, succession,
+    rule, divine sanction, and legitimate authority.
+  cautions: Distinguish royal legitimacy from general sovereignty, military victory,
+    or ethical rule unless legitimacy of rule is the narrative function.
+  suggested_aliases:
+  - sacred kingship
+  - divine kingship
+  - legitimate rule
+  - royal sanction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shapeshifter
+  motif_id: shapeshifter
+  label: Shapeshifter
+  occurrences: 799
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - egyptian
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: alias
+  confidence: high
+  rationale: The motif id matches the existing group for figures who change body,
+    species, visible form, or status.
+  cautions: If transformation occurs specifically through death, soul externalization,
+    or divine punishment, consider secondary placement under death_and_transformation,
+    external_soul, or divine_judgment.
+  suggested_aliases:
+  - shape-shifter
+  - metamorphic figure
+  - form changer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seasonal-cycle
+  motif_id: seasonal_cycle
+  label: Seasonal Cycle
+  occurrences: 765
+  traditions:
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - japanese
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: child
+  confidence: high
+  rationale: Seasonal_cycle is already listed as a child of sacred_time and fits ritual
+    or agricultural recurrence across sacred time.
+  cautions: Do not collapse all return or renewal motifs into seasonal_cycle unless
+    the passage marks agricultural, calendrical, celestial, or ritual recurrence.
+  suggested_aliases:
+  - ritual cycle
+  - seasonal recurrence
+  - cyclical renewal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-rebirth
+  motif_id: death_rebirth
+  label: Death And Rebirth
+  occurrences: 732
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - egyptian
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - jewish_christian
+  - maya_quiche
+  - mesopotamian
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: alias
+  confidence: high
+  rationale: The existing group explicitly covers death followed by return, renewal,
+    rebirth, or transformation and already aliases death_rebirth.
+  cautions: Distinguish general renewal after dissolution from narrower resurrection,
+    descent, dying-and-returning figures, and postmortem transformation.
+  suggested_aliases:
+  - death and rebirth
+  - death-renewal
+  - rebirth after death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- These high-occurrence items appear to be canonical taxonomy motif families or direct
+  canonical normalization groups omitted from the current gap run rather than genuinely
+  novel unmapped motifs.
+- Suggested placements use existing canonical_motif_groups only; no new groups are
+  needed for this batch.
+- Several motif ids exactly match existing group ids or existing group children, suggesting
+  the normalization index may need a pass that includes canonical motif-family ids
+  as direct group mappings.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for never-included high-level canonical
+    motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-never-included
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-never-included-batch-0001
+  input_sha256: 7ffbd5868c17ab2944e1b1485259df140b48f14c3630e14112ac7adf6f2884c6
+

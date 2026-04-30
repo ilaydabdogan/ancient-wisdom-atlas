@@ -1,6 +1,6 @@
 ---
 normalization_version: '1'
-updated_on: '2026-04-29'
+updated_on: '2026-04-30'
 status: draft
 canonical_taxonomy_path: taxonomy/motifs.yml
 purpose: 'Review-time normalization guidance for mapping candidate motif labels to
@@ -90871,18 +90871,32 @@ raw_motif_group_index:
     - mythic landscape marker
     match_rule: redirected_suggested_group:world_center
     previous_review_status: provisional_low_confidence_existing_group
+  cosmic_egg:
+    group_id: cosmic_origin
+    relationship: child
+    confidence: high
+    review_status: model_auto_accepted_medium_or_high_confidence
+    source: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-never-included/suggestions.jsonl
+    accepted_on: '2026-04-30'
+    notes: 'Cosmic Egg is a canonical creation motif for emergence of world or deity
+      from an egg-like enclosure. Caution: Existing group children list uses world_egg;
+      preserve cosmic_egg as canonical taxonomy id or alias as appropriate.'
+    suggested_aliases:
+    - world egg
+    - cosmic shell
+    - primordial egg
 normalization_suggestion_acceptance:
-  updated_on: '2026-04-29'
-  latest_run_id: normalization-suggestions-2026-04-29-full-gap-priority
+  updated_on: '2026-04-30'
+  latest_run_id: normalization-suggestions-2026-04-29-never-included
   policy: Auto-accept medium-or-high-confidence map_to_existing_group suggestions
     whose target group already exists. Stage all new-group, exclusion, low-confidence,
     and human-review suggestions separately.
-  latest_suggestions_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/suggestions.jsonl
-  latest_review_data_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-full-gap-priority/auto-acceptance.yml
+  latest_suggestions_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-never-included/suggestions.jsonl
+  latest_review_data_path: data/reviews/normalization-suggestions/normalization-suggestions-2026-04-29-never-included/auto-acceptance.yml
   latest_report_path: docs/motif-normalization-auto-accept-review.md
-  latest_suggestion_count: 6560
-  latest_auto_accepted_count: 4208
-  latest_review_needed_count: 2352
+  latest_suggestion_count: 141
+  latest_auto_accepted_count: 1
+  latest_review_needed_count: 140
 excluded_from_pattern_queries:
   absent_younger_rival_who_would_have_won:
     label: absent younger rival who would have won

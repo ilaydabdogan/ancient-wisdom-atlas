@@ -1,6 +1,6 @@
 # Canonical Motif Frequency By Tradition
 
-Generated on 2026-04-29 from `data/indexes/motif-occurrences.yml` and `taxonomy/motif-normalization.yml`.
+Generated on 2026-04-30 from `data/indexes/motif-occurrences.yml` and `taxonomy/motif-normalization.yml`.
 
 This report counts only motif IDs that already map to a canonical normalization group. It is meant to show which normalized patterns are appearing across many traditions, not to make transmission claims.
 
@@ -9,8 +9,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 - Indexed motif IDs: 9072
 - Indexed motif occurrences: 31658
 - Canonical motif groups: 62
-- Mapped motif IDs counted: 5569
-- Unmapped motif IDs excluded: 3503
+- Mapped motif IDs counted: 5570
+- Unmapped motif IDs excluded: 3502
 
 ## Ranked Canonical Motifs
 
@@ -28,7 +28,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | 10 | `axis_mundi` World Axis and Sacred Center | 19 | 531 | 70 | comparative (83), hindu (75), islamic (70), greek (51), roman (47) |
 | 11 | `serpent_guardian` Serpent and Serpent Guardian | 19 | 341 | 1 | roman (80), hindu (49), greek (37), greek_roman (30), norse (28) |
 | 12 | `flood_and_renewal` Flood, Fire, and Cosmic Renewal | 19 | 305 | 22 | islamic (103), roman (53), hindu (30), greek (22), norse (20) |
-| 13 | `cosmic_origin` Cosmic Origin and Creation | 19 | 299 | 115 | islamic (78), greek (39), hindu (38), roman (29), norse (28) |
+| 13 | `cosmic_origin` Cosmic Origin and Creation | 19 | 303 | 116 | islamic (78), greek (39), hindu (38), roman (29), norse (28) |
 | 14 | `descent` Descent and Underworld Journey | 19 | 197 | 34 | roman (38), greek (30), hindu (19), finnish_karelian (17), greek_roman (13) |
 | 15 | `miraculous_child` Miraculous Child and Sacred Birth | 18 | 1086 | 67 | greek (235), roman (196), hindu (147), islamic (118), greek_roman (95) |
 | 16 | `sacred_love` Sacred Love and Longing | 18 | 867 | 230 | hindu (212), roman (124), greek (115), celtic_irish (103), sufi (51) |
@@ -1366,12 +1366,13 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `cosmic_origin`
 - Distinct traditions: 19
-- Occurrences: 299
-- Mapped motif IDs: 115
+- Occurrences: 303
+- Mapped motif IDs: 116
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
 | `chaos` | child | 18 | 184 |
+| `cosmic_egg` | child | 2 | 4 |
 | `creation_by_divine_speech` | functional_variant | 1 | 2 |
 | `angelic_prostration_before_a_newly_created_human` | functional_variant | 1 | 1 |
 | `autochthonous_identity_as_children_of_the_soil` | functional_variant | 1 | 1 |

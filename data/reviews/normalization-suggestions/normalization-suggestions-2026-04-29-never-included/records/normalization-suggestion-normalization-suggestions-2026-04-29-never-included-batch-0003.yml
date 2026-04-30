@@ -1,0 +1,457 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-never-included.batch-0003
+gap_audit_path: tmp/normalization-never-included-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.annihilation-union
+  motif_id: annihilation_union
+  label: Annihilation And Union
+  occurrences: 358
+  traditions:
+  - buddhist
+  - celtic_irish
+  - comparative
+  - daoist
+  - greek
+  - hindu
+  - islamic
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: child
+  confidence: high
+  rationale: The current group already lists annihilation_union as a child and its
+    meaning fits ego-dissolution within mystical transformation.
+  cautions: May also support death_and_transformation where the passage emphasizes
+    death/rebirth rather than contemplative union.
+  suggested_aliases:
+  - ego dissolution
+  - mystical annihilation
+  - union with sacred reality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.serpent
+  motif_id: serpent
+  label: Serpent
+  occurrences: 341
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - jewish_christian
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: serpent_guardian
+  suggested_group_label: Serpent and Serpent Guardian
+  relationship: broader_label
+  confidence: high
+  rationale: The canonical group explicitly aliases serpent and covers serpent as
+    guardian, danger, wisdom, and threshold figure.
+  cautions: Preserve local function; not every serpent is a guardian, chaos monster,
+    healer, or wisdom figure.
+  suggested_aliases:
+  - snake
+  - dragon
+  - naga
+  - serpent being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.covenant
+  motif_id: covenant
+  label: Covenant
+  occurrences: 327
+  traditions:
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - jewish_christian
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: alias
+  confidence: high
+  rationale: The motif is a canonical taxonomy family and the normalization already
+    has a matching canonical group.
+  cautions: Use narrower children for broken covenant, law, vow, or sacred bond when
+    passage evidence supports them.
+  suggested_aliases:
+  - sacred bond
+  - binding promise
+  - sacred agreement
+  - vow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-birth
+  motif_id: sacred_birth
+  label: Sacred Birth
+  occurrences: 309
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: child
+  confidence: high
+  rationale: The existing group explicitly includes sacred_birth as a child and covers
+    extraordinary birth signs and destiny.
+  cautions: If the passage centers on adult legitimacy, royal_legitimacy may be a
+    better secondary group.
+  suggested_aliases:
+  - holy birth
+  - auspicious birth
+  - divine birth
+  - prophetic birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-marriage
+  motif_id: sacred_marriage
+  label: Sacred Marriage
+  occurrences: 268
+  traditions:
+  - ainu
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: Sacred marriage is already related to divine_beloved and sacred_love,
+    and the group description explicitly includes sacred marriage.
+  cautions: If the union primarily establishes sovereignty, fertility, or cosmic order,
+    royal_legitimacy, seasonal_cycle, or sacred_exchange may be important secondary
+    mappings.
+  suggested_aliases:
+  - hieros gamos
+  - divine marriage
+  - cosmic marriage
+  - ritual marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.culture-hero
+  motif_id: culture_hero
+  label: Culture Hero
+  occurrences: 266
+  traditions:
+  - ainu
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - mesopotamian
+  - norse
+  - persian
+  - roman
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: alias
+  confidence: high
+  rationale: The motif exactly matches the existing canonical group for founders who
+    bring culture, law, tools, fire, or knowledge.
+  cautions: Do not merge with trickster unless the passage emphasizes boundary-breaking
+    or transgressive theft.
+  suggested_aliases:
+  - founder hero
+  - civilizing hero
+  - bringer of culture
+  - culture founder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-child
+  motif_id: miraculous_child
+  label: Miraculous Child
+  occurrences: 228
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: alias
+  confidence: high
+  rationale: The generated motif exactly matches the existing group label and taxonomy
+    family.
+  cautions: Distinguish threatened infancy, speaking infant, divine parentage, and
+    heroic childhood signs where evidence allows.
+  suggested_aliases:
+  - holy child
+  - divine child
+  - extraordinary child
+  - destined child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-tree-axis
+  motif_id: sacred_tree_axis
+  label: Sacred Tree Or Axis Mundi
+  occurrences: 189
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - jewish_christian
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: child
+  confidence: high
+  rationale: The existing axis_mundi group explicitly contains sacred_tree_axis and
+    covers vertical cosmic connection by tree, mountain, pillar, temple, or ladder.
+  cautions: If the tree is only a plant, transformed corpse, or local marker without
+    cosmic-center function, use a more specific group or evidence note.
+  suggested_aliases:
+  - world tree
+  - cosmic tree
+  - sacred tree
+  - axis mundi
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chaos
+  motif_id: chaos
+  label: Chaos
+  occurrences: 184
+  traditions:
+  - ainu
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - jewish_christian
+  - maya_quiche
+  - norse
+  - persian
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: child
+  confidence: high
+  rationale: The cosmic_origin group already lists chaos as a child and covers void,
+    darkness, primordial water, and disorder before order.
+  cautions: If chaos appears as moral disorder, monster combat, or divine punishment
+    rather than pre-cosmic condition, consider divine_judgment, divine_warrior, or
+    duality as secondary groups.
+  suggested_aliases:
+  - primordial chaos
+  - pre-cosmic disorder
+  - void
+  - formless darkness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-theft
+  motif_id: sacred_theft
+  label: Sacred Theft
+  occurrences: 160
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: child
+  confidence: medium
+  rationale: The sacred_knowledge group includes sacred_theft and covers acquisition
+    of hidden, forbidden, or divine powers.
+  cautions: If the actor's boundary-breaking role is central, trickster is an important
+    secondary group; if the stolen object founds culture, culture_hero may also apply.
+  suggested_aliases:
+  - theft of divine power
+  - stolen sacred knowledge
+  - stolen fire
+  - theft from gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several high-frequency unmapped motifs are already present as canonical taxonomy
+  families or as children/aliases in existing canonical_motif_groups; likely an indexing
+  inclusion gap rather than a taxonomy gap.
+- Suggested placements avoid transmission claims and should be reviewed against passage-level
+  evidence for local function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated from supplied taxonomy and
+    current normalization groups.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-never-included
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-never-included-batch-0003
+  input_sha256: cbd6a1d7c4f36a47e2f65e615334c3b77287b9c635404063e5fed6c192484e09
+

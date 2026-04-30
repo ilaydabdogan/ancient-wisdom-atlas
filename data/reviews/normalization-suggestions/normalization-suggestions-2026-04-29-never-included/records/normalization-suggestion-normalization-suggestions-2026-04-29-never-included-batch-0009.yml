@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-never-included.batch-0009
+gap_audit_path: tmp/normalization-never-included-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fate-lament
+  motif_id: fate_lament
+  label: fate lament
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The group already includes fate_lament as a child and the label centers
+    on grief framed by destiny.
+  cautions: May also relate to death_by_fate if the passage emphasizes destiny more
+    than lament.
+  suggested_aliases:
+  - lament over fate
+  - fatal lament
+  - lament for destined death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fidelity-in-ornamental-captivity
+  motif_id: fidelity_in_ornamental_captivity
+  label: fidelity in ornamental captivity
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: The group already lists this child; fidelity under captivity is a love-and-loyalty
+    ordeal.
+  cautions: Single occurrence and culturally specific phrasing; if captivity or political
+    coercion is central, it may need contextual review.
+  suggested_aliases:
+  - faithful beloved in captivity
+  - fidelity under captivity
+  - captive beloved remains faithful
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gentle-remonstrance-within-hierarchy
+  motif_id: gentle_remonstrance_within_hierarchy
+  label: gentle remonstrance within hierarchy
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already includes this child and the motif concerns corrective
+    counsel within ordered authority.
+  cautions: Could fit sacred_law or ethical_command if the passage emphasizes moral
+    instruction rather than governance legitimacy.
+  suggested_aliases:
+  - remonstrance within hierarchy
+  - loyal remonstrance
+  - ethical counsel to ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-sign
+  motif_id: healing_sign
+  label: healing sign
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already includes healing_sign; a sign can function as a sacred
+    object or token conferring protection or healing.
+  cautions: If the sign is mainly a miracle, omen, or divine intervention rather than
+    an object/token, divine_intervention or theophany may be more appropriate.
+  suggested_aliases:
+  - healing token
+  - sign of healing
+  - miraculous healing sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-childhood-signs
+  motif_id: heroic_childhood_signs
+  label: heroic childhood signs
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: narrower_than
+  confidence: medium
+  rationale: The group already includes heroic_childhood_signs, marking early signs
+    of a future transformed heroic status.
+  cautions: Could also belong under miraculous_child when signs concern sacred birth,
+    threatened infancy, or divine destiny rather than later initiation.
+  suggested_aliases:
+  - childhood signs of heroism
+  - heroic infancy signs
+  - early signs of heroic destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holiness-code
+  motif_id: holiness_code
+  label: holiness code
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Existing alias maps holiness_code to covenant with judgment and wisdom
+    parents; the group also lists holiness_code as a child.
+  cautions: Could be better indexed under covenant or sacred_law where the emphasis
+    is legal-purity order rather than judgment.
+  suggested_aliases:
+  - holiness law
+  - purity code
+  - sacred holiness code
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.household-reversal
+  motif_id: household_reversal
+  label: household reversal
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: The group already lists household_reversal, likely as part of conflict
+    or raid-driven social inversion.
+  cautions: Label is too broad without passage evidence; may instead be domestic trickery,
+    social inversion, divine judgment, or an episode artifact.
+  suggested_aliases:
+  - domestic reversal
+  - reversal within the household
+  - household order inverted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idol
+  motif_id: idol
+  label: idol
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: never_included_in_normalization
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: The group lists idol as a sacred object, but the existing alias flags
+    idol for human review because it may concern forbidden worship or covenant violation.
+  cautions: Do not map from object label alone; review whether the passage treats
+    an idol as power object, false worship, forbidden knowledge, or polemical artifact.
+  suggested_aliases:
+  - cult image
+  - sacred image
+  - forbidden idol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.instrument-of-divine-action
+  motif_id: instrument_of_divine_action
+  label: instrument of divine action
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: The group already includes this child and directly covers sacred powers
+    acting through agents or instruments.
+  cautions: If the instrument is a specific weapon or object conferring authority,
+    sacred_treasures may be a secondary mapping.
+  suggested_aliases:
+  - agent of divine action
+  - divine instrument
+  - vehicle of divine will
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jubilee
+  motif_id: jubilee
+  label: jubilee
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: The group already includes jubilee as a sacred calendrical cycle of release
+    and renewal.
+  cautions: Existing alias maps jubilee to seasonal_cycle with covenant and sacred_exchange
+    parents; preserve legal-release aspects in notes.
+  suggested_aliases:
+  - jubilee cycle
+  - sacred year of release
+  - ritual release cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several requested motifs already appear as children in canonical_motif_groups but
+  were apparently not present in the raw normalization index; suggestions therefore
+  favor mapping to those existing groups.
+- For single-occurrence labels, preserve local evidence notes and avoid promoting
+  new taxonomy motifs without recurrence review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for idol
+    and household_reversal.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-never-included
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-never-included-batch-0009
+  input_sha256: 8b54c005d3f5e71c0f218165de787014c3b224565c820ded484f66267cd482df
+

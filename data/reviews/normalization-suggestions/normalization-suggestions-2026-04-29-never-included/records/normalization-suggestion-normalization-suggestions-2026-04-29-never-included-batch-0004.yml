@@ -1,0 +1,443 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-suggestions-2026-04-29-never-included.batch-0004
+gap_audit_path: tmp/normalization-never-included-audit-2026-04-29.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.forbidden-knowledge
+  motif_id: forbidden_knowledge
+  label: Forbidden Knowledge
+  occurrences: 155
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: child
+  confidence: high
+  rationale: Forbidden knowledge is already a taxonomy motif and appears as a child
+    of sacred_knowledge in the normalization groups.
+  cautions: Preserve whether the passage involves prohibition, theft, revelation,
+    eating, opening, or overhearing; do not collapse all wisdom motifs into transgression.
+  suggested_aliases:
+  - hidden knowledge
+  - prohibited knowledge
+  - dangerous knowledge
+  - forbidden wisdom
+  - secret doctrine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-descent
+  motif_id: hero_descent
+  label: Descent Into The Underworld
+  occurrences: 154
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - egyptian
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - jewish_christian
+  - maya_quiche
+  - norse
+  - roman
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: child
+  confidence: high
+  rationale: Hero descent is a core taxonomy motif and is already listed as a child
+    of the descent group.
+  cautions: Distinguish literal underworld journeys from cave, dream, sea, exile,
+    or inward descent; use afterlife_passage when the route of the dead is mapped.
+  suggested_aliases:
+  - underworld descent
+  - descent into death
+  - journey below
+  - katabasis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sibling-pair
+  motif_id: sibling_pair
+  label: Sibling Pair
+  occurrences: 147
+  traditions:
+  - ainu
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - maya_quiche
+  - norse
+  - roman
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: child
+  confidence: high
+  rationale: Sibling Pair is a taxonomy motif and is already included under the sacred_twins
+    group for twin and sibling-pair structures.
+  cautions: Do not assume twins where the evidence only says siblings; preserve rivalry,
+    complementarity, rescue, or foundation roles separately.
+  suggested_aliases:
+  - divine siblings
+  - paired siblings
+  - sibling duo
+  - brother-sister pair
+  - brother pair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-center
+  motif_id: world_center
+  label: World Center
+  occurrences: 135
+  traditions:
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - jewish_christian
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: child
+  confidence: high
+  rationale: World Center is a taxonomy motif and appears under the axis_mundi group,
+    which covers sacred centers and vertical connectors.
+  cautions: Distinguish center as temple, city, altar, tree, mountain, body, or ritual
+    site; not every important place is a cosmic center.
+  suggested_aliases:
+  - sacred center
+  - center of the world
+  - cosmic center
+  - navel of the world
+  - world navel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water
+  motif_id: water
+  label: perilous sea passage through monstrous waters
+  occurrences: 99
+  traditions:
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on dangerous water-crossing as a transformative or
+    perilous passage, matching sacred_waters more than flood renewal.
+  cautions: If the focus is sea monsters or threshold beings, threshold_guardian may
+    be secondary; do not map to flood_and_renewal unless world-destruction and renewal
+    are present.
+  suggested_aliases:
+  - perilous water passage
+  - monstrous waters
+  - sea crossing ordeal
+  - passage through dangerous waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ark-vessel
+  motif_id: ark_vessel
+  label: Ark Or Preserving Vessel
+  occurrences: 93
+  traditions:
+  - ainu
+  - celtic_irish
+  - celtic_welsh
+  - comparative
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - islamicate_folklore
+  - japanese
+  - jewish_christian
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: child
+  confidence: high
+  rationale: Ark Or Preserving Vessel is a taxonomy motif and is already listed as
+    a child of flood_and_renewal in the normalization groups.
+  cautions: When the vessel holds wisdom, spirits, relics, or forbidden contents rather
+    than preserving life through catastrophe, sacred_vessel may be the better group.
+  suggested_aliases:
+  - preserving vessel
+  - survival vessel
+  - ark
+  - catastrophe vessel
+  - life-preserving container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.flood-and-renewal
+  motif_id: flood_and_renewal
+  label: Flood And Renewal
+  occurrences: 93
+  traditions:
+  - buddhist
+  - celtic_irish
+  - daoist
+  - greek
+  - greek_roman
+  - hindu
+  - indigenous_australian
+  - islamic
+  - jewish_christian
+  - maya_quiche
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: alias
+  confidence: high
+  rationale: The motif id directly matches an existing canonical motif group id and
+    taxonomy family for flood catastrophe and renewal.
+  cautions: Use only when destruction of an old order and renewal are present; ordinary
+    sacred water, sea crossing, or rain should not be forced here.
+  suggested_aliases:
+  - deluge and renewal
+  - world flood
+  - flood catastrophe
+  - post-flood renewal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-goddess
+  motif_id: mother_goddess
+  label: Mother Goddess
+  occurrences: 80
+  traditions:
+  - celtic_irish
+  - comparative
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - japanese
+  - norse
+  - roman
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: alias
+  confidence: high
+  rationale: The motif id directly matches an existing canonical group for divine
+    feminine, fertility, maternity, and protective mother figures.
+  cautions: Avoid using this for any female deity unless maternal, fertility, sovereignty,
+    nourishment, birth, or cosmic feminine functions are present.
+  suggested_aliases:
+  - divine mother
+  - sacred mother
+  - earth mother
+  - mother deity
+  - cosmic mother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-destroying-fire
+  motif_id: world_destroying_fire
+  label: World-Destroying Fire
+  occurrences: 78
+  traditions:
+  - buddhist
+  - celtic_irish
+  - celtic_welsh
+  - daoist
+  - finnish_karelian
+  - greek
+  - greek_roman
+  - hindu
+  - islamic
+  - japanese
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: child
+  confidence: high
+  rationale: The existing flood_and_renewal group explicitly covers destruction by
+    fire as a catastrophic renewal counterpart to flood.
+  cautions: If fire is sacrificial, revelatory, hearth-centered, or purifying without
+    world-scale catastrophe, use sacred_fire or sacrifice instead.
+  suggested_aliases:
+  - cosmic conflagration
+  - world fire
+  - apocalyptic fire
+  - fire catastrophe
+  - destructive renewal by fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dying-and-returning
+  motif_id: dying_and_returning
+  label: Death And Return
+  occurrences: 70
+  traditions:
+  - celtic_irish
+  - comparative
+  - greek
+  - norse
+  - roman
+  - sufi
+  review_bucket_id: never_included_in_normalization
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: child
+  confidence: high
+  rationale: Dying-and-returning is one of the core death-return patterns covered
+    by the death_and_transformation group and listed as an alias there.
+  cautions: Distinguish from resurrection, descent, seasonal absence, or symbolic
+    ego dissolution when the passage evidence makes those functions primary.
+  suggested_aliases:
+  - dying and rising
+  - death and return
+  - return from death
+  - disappearance and return
+  - death followed by renewal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several unmapped items are already taxonomy motif families or canonical group children;
+  these appear to be indexing gaps rather than new taxonomy needs.
+- For broad elemental labels such as water and fire, placement should follow narrative
+  function rather than symbolic similarity alone.
+- No transmission, borrowing, or common-origin claim is implied by these normalization
+  suggestions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_suggestion
+  reviewed_at: ''
+  notes: Provisional placement suggestions generated from supplied taxonomy and normalization
+    groups; human review recommended before updating normalization files.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-04-30'
+batch:
+  run_id: normalization-suggestions-2026-04-29-never-included
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-suggestions-2026-04-29-never-included-batch-0004
+  input_sha256: 9d1f76e06b00b73ef05a3d9c03c591e6cba8bbd52ba02f64e282412542da7d45
+
