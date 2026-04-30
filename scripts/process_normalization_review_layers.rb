@@ -276,6 +276,8 @@ def new_group_key(row)
 end
 
 def near_duplicate_group?(left, right)
+  return true if left["id"].to_s == right["id"].to_s
+
   left_tokens = tokens([left["id"], left["label"]].join(" ")).to_set
   right_tokens = tokens([right["id"], right["label"]].join(" ")).to_set
   return false if left_tokens.empty? || right_tokens.empty?

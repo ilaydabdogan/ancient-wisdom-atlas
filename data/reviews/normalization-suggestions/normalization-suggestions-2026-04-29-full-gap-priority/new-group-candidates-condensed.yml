@@ -1,0 +1,639 @@
+---
+generated_on: '2026-04-29'
+run_id: normalization-suggestions-2026-04-29-full-gap-priority
+summary:
+  source_new_group_rows: 100
+  consolidated_candidates: 58
+  genuine_new_group_candidates: 8
+  folded_single_tradition_candidates: 50
+  folded_source_motifs_mapped: 78
+  mapping_counts_after_layer:
+    motif_count: 9072
+    mapped: 5119
+    unmapped: 3953
+genuine_new_group_candidates:
+- id: marriage_choice_bride_winning
+  label: Marriage Choice and Bride-Winning
+  traditions:
+  - buddhist
+  - celtic_irish
+  - hindu
+  source_motif_ids:
+  - bride_choice_assembly
+  - bride_s_own_answer_required
+  - bride_winning_martial_contest
+  suggested_parent_group_ids:
+  - sacred_love
+  - sacred_law
+  suggested_related_group_ids:
+  - hero_journey
+  - sacred_combat
+  - royal_legitimacy
+  recommended_action: keep_as_genuine_new_group_candidate
+- id: deceptive_war_stratagem
+  label: Deceptive War Stratagem
+  traditions:
+  - greek_roman
+  - roman
+  source_motif_ids:
+  - deceptive_gift_containing_hidden_warriors
+  - deceptive_promise_of_treasure_used_to_lure_an_enemy
+  suggested_parent_group_ids:
+  - sacred_combat
+  suggested_related_group_ids:
+  - trickster
+  - sacred_treasures
+  recommended_action: keep_as_genuine_new_group_candidate
+- id: world_ages_cosmic_decline
+  label: World Ages and Cosmic Decline
+  traditions:
+  - greek
+  - hindu
+  source_motif_ids:
+  - four_age_decline_of_the_world_period
+  - four_ages_of_the_world
+  suggested_parent_group_ids:
+  - sacred_time
+  - cosmic_origin
+  suggested_related_group_ids:
+  - divine_judgment
+  - flood_and_renewal
+  - duality
+  recommended_action: keep_as_genuine_new_group_candidate
+- id: jealous_stepmother_persecuted_child
+  label: Jealous Stepmother and Persecuted Child
+  traditions:
+  - ainu
+  - celtic_irish
+  - japanese
+  source_motif_ids:
+  - jealous_stepmother_demands_child_s_heart
+  - jealous_stepmother_endangers_children
+  - jealous_stepmother_falsely_accuses_innocent_stepchild
+  - jealous_wife_or_stepmother_harms_children
+  suggested_parent_group_ids:
+  - miraculous_child
+  suggested_related_group_ids:
+  - sacred_love
+  - divine_judgment
+  recommended_action: keep_as_genuine_new_group_candidate
+- id: celestial_guides_witnesses
+  label: Celestial Guides and Witnesses
+  traditions:
+  - hindu
+  - sufi
+  source_motif_ids:
+  - moon_as_guide_and_comforter
+  - moon_as_witness_to_future_absence
+  suggested_parent_group_ids:
+  - dream_and_vision
+  - divine_intervention
+  suggested_related_group_ids:
+  - cosmic_witness
+  - sacred_knowledge
+  - hero_journey
+  - sacred_love
+  recommended_action: keep_as_genuine_new_group_candidate
+- id: enchanting_music
+  label: Enchanting Music and Orphic Power
+  traditions:
+  - greek_roman
+  - roman
+  source_motif_ids:
+  - music_that_charms_nature
+  - music_that_charms_nature_and_restrains_violence
+  suggested_parent_group_ids:
+  - storytelling_as_power
+  - sacred_knowledge
+  suggested_related_group_ids:
+  - sacred_song
+  - sacred_love
+  - culture_hero
+  - threshold_guardian
+  - sacred_combat
+  recommended_action: keep_as_genuine_new_group_candidate
+- id: recognition_tokens
+  label: Recognition Tokens and Identity Proofs
+  traditions:
+  - greek
+  - hindu
+  - islamicate_folklore
+  - roman
+  source_motif_ids:
+  - recognition_by_personal_tokens
+  - recognition_prevents_kin_slaying_by_poison
+  - recognition_token_exchanged_while_one_beloved_sleeps
+  - recognition_tokens_from_the_abducted_beloved
+  suggested_parent_group_ids:
+  - sacred_treasures
+  suggested_related_group_ids:
+  - royal_legitimacy
+  - sacred_love
+  - miraculous_child
+  - divine_judgment
+  - storytelling_as_power
+  - stolen_beloved
+  - hero_journey
+  recommended_action: keep_as_genuine_new_group_candidate
+- id: solar_power
+  label: Solar Power and Life-Giving Light
+  traditions:
+  - comparative
+  - greek
+  - norse
+  source_motif_ids:
+  - sun_as_source_of_illumination_and_growth
+  - sun_confined_and_released_from_a_tower
+  - sunlight_petrifies_beings_of_darkness_or_fog
+  suggested_parent_group_ids:
+  - sacred_fire
+  suggested_related_group_ids:
+  - cosmic_origin
+  - sacred_time
+  - sacred_knowledge
+  - duality
+  - axis_mundi
+  - death_and_transformation
+  - divine_judgment
+  - shapeshifter
+  recommended_action: keep_as_genuine_new_group_candidate
+folded_single_tradition_candidates:
+- id: animal_supernatural_helpers
+  label: Animal and Supernatural Helpers
+  traditions:
+  - hindu
+  source_motif_ids:
+  - alliance_with_animal_or_semi_divine_helpers
+  fold_target_group_id: hero_journey
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: apocalyptic_barrier
+  label: Apocalyptic Barrier and Restrained Chaos
+  traditions:
+  - islamic
+  source_motif_ids:
+  - apocalyptic_barrier_restraining_gog_and_magog
+  fold_target_group_id: divine_judgment
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: martyrdom_witness
+  label: Martyrdom and Witness Under Persecution
+  traditions:
+  - islamic
+  source_motif_ids:
+  - believers_threatened_by_tyrant_accept_martyrdom
+  fold_target_group_id: sacrifice
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: earthquake_etiology
+  label: Earthquake Etiology and Subterranean Being
+  traditions:
+  - hindu
+  source_motif_ids:
+  - buried_giant_whose_movement_shakes_the_earth
+  fold_target_group_id: cosmic_origin
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: monster_lair_devouring_threat
+  label: Monster Lair and Devouring Threat
+  traditions:
+  - japanese
+  source_motif_ids:
+  - cannibal_monster_s_hidden_lair
+  fold_target_group_id: threshold_guardian
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: solar_capture
+  label: Solar Capture and Celestial Control
+  traditions:
+  - comparative
+  source_motif_ids:
+  - catching_entangling_or_detaining_the_sun
+  fold_target_group_id: cosmic_origin
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: celestial_transformation
+  label: Celestial Transformation and Star Placement
+  traditions:
+  - indigenous_australian
+  source_motif_ids:
+  - celestial_placement_of_people_and_objects
+  fold_target_group_id: death_and_transformation
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: ritual_coercion
+  label: Ritual Coercion of Supernatural Agents
+  traditions:
+  - comparative
+  source_motif_ids:
+  - coercion_of_supernatural_agents_by_magic
+  fold_target_group_id: sacred_exchange
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: bride_contest
+  label: Bride Contest and Suitor Trial
+  traditions:
+  - roman
+  source_motif_ids:
+  - contest_of_suitors_for_a_bride
+  fold_target_group_id: sacred_love
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: cosmic_praise
+  label: Cosmic Praise and Universal Worship
+  traditions:
+  - islamic
+  source_motif_ids:
+  - cosmic_praise_of_god
+  - universal_cosmic_praise
+  - universal_creaturely_praise
+  fold_target_group_id: theophany
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: funerary_rites
+  label: Funerary Rites and Mortuary Ritual
+  traditions:
+  - hindu
+  source_motif_ids:
+  - cremation_rite_with_circumambulation
+  fold_target_group_id: death_and_transformation
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: solar_celestial_cycle
+  label: Solar and Celestial Cycle
+  traditions:
+  - greek_roman
+  source_motif_ids:
+  - dawn_deity_heralds_the_sun
+  fold_target_group_id: sacred_time
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: divine_incarnation
+  label: Divine Incarnation and Embodiment
+  traditions:
+  - comparative
+  source_motif_ids:
+  - deity_incarnate_in_a_human_medium_or_avatar
+  - deity_incarnate_in_the_intoxicated_votary
+  - man_god_through_divine_incarnation
+  fold_target_group_id: theophany
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: personified_winds
+  label: Personified Winds and Directional Powers
+  traditions:
+  - roman
+  source_motif_ids:
+  - directional_winds_as_personified_regional_powers
+  fold_target_group_id: cosmic_origin
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: spirit_possession
+  label: Spirit Possession and Divine Indwelling
+  traditions:
+  - comparative
+  source_motif_ids:
+  - divine_possession_of_humans
+  fold_target_group_id: divine_intervention
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: sacred_animals
+  label: Sacred Animals and Divine Embodiment
+  traditions:
+  - comparative
+  source_motif_ids:
+  - divine_presence_distributed_through_an_animal_species
+  fold_target_group_id: divine_intervention
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: eclipse_monster
+  label: Eclipse Monster and Devouring Celestial Bodies
+  traditions:
+  - comparative
+  source_motif_ids:
+  - eclipse_monster_catching_heavenly_bodies
+  fold_target_group_id: cosmic_origin
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: false_accusation_and_rejected_desire
+  label: False Accusation and Rejected Desire
+  traditions:
+  - greek_roman
+  source_motif_ids:
+  - false_accusation_after_rejected_desire
+  fold_target_group_id: sacred_love
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: fatal_self_love_reflection
+  label: Fatal Self-Love and Reflection
+  traditions:
+  - roman
+  source_motif_ids:
+  - fatal_self_love_through_pursuit_of_one_s_own_image
+  - fatal_self_love_through_reflected_image
+  fold_target_group_id: sacred_love
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: first_pair_spouse_origin
+  label: First Pair and Human Spouse Origin
+  traditions:
+  - islamic
+  source_motif_ids:
+  - first_pair_and_origin_of_spouse
+  fold_target_group_id: cosmic_origin
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: forbidden_kinship_desire
+  label: Forbidden Kinship Desire and Incest Taboo
+  traditions:
+  - roman
+  source_motif_ids:
+  - forbidden_desire_for_a_parent
+  - forbidden_incestuous_desire_resisted_in_monologue
+  - forbidden_sibling_desire_confessed_in_writing
+  fold_target_group_id: sacred_love
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: former_birth_karmic_continuity
+  label: Former Birth and Karmic Continuity
+  traditions:
+  - buddhist
+  source_motif_ids:
+  - former_birth_identification_of_present_figures
+  - former_birth_moral_parallel
+  - former_birth_repetition_of_present_behavior
+  - former_birth_reveals_present_identities
+  fold_target_group_id: death_and_transformation
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: karmic_recurrence
+  label: Karmic Recurrence Across Lives
+  traditions:
+  - buddhist
+  source_motif_ids:
+  - former_life_antagonist_repeats_hostility
+  fold_target_group_id: death_and_transformation
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: giants_and_devourers
+  label: Giants, Ogres, and Devouring Beings
+  traditions:
+  - hindu
+  source_motif_ids:
+  - giant_s_dangerous_appetite_restrained_by_enchanted_sleep
+  fold_target_group_id: threshold_guardian
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: ritual_healing
+  label: Ritual Healing and Restorative Medicine
+  traditions:
+  - celtic_welsh
+  source_motif_ids:
+  - healing_by_costly_magical_ointment
+  fold_target_group_id: divine_intervention
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: maiden_rescue
+  label: Maiden Rescue from Monster
+  traditions:
+  - roman
+  source_motif_ids:
+  - hero_rescues_bound_maiden_from_monster
+  - hero_rescues_rock_bound_maiden
+  fold_target_group_id: hero_journey
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: sympathetic_magic
+  label: Sympathetic Magic and Ritual Correspondence
+  traditions:
+  - comparative
+  source_motif_ids:
+  - imitative_sympathetic_magic
+  - sympathetic_magic_by_resemblance
+  - sympathetic_magic_through_dramatic_representation
+  - sympathetic_magic_to_secure_game_supply
+  fold_target_group_id: sacred_law
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: transformative_ingestion
+  label: Transformative Ingestion
+  traditions:
+  - comparative
+  source_motif_ids:
+  - ingestion_transfers_qualities_of_the_consumed_being
+  fold_target_group_id: death_and_transformation
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: layered_cosmos
+  label: Layered Cosmos and Multiple Heavens
+  traditions:
+  - islamic
+  source_motif_ids:
+  - layered_cosmos_of_seven_heavens_and_earths
+  fold_target_group_id: cosmic_origin
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: marriage_lament_affinal_transition
+  label: Marriage Lament and Affinal Transition
+  traditions:
+  - finnish_karelian
+  source_motif_ids:
+  - marriage_as_bondage_under_affinal_household
+  - marriage_as_entry_into_a_stranger_household
+  - marriage_figured_as_entrapment
+  fold_target_group_id: sacred_love
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: miracle_contest_supernatural_proof
+  label: Miracle Contest and Supernatural Proof
+  traditions:
+  - islamic
+  source_motif_ids:
+  - miracle_contest_against_magicians
+  - miraculous_contest_between_prophet_and_magicians
+  fold_target_group_id: divine_intervention
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: monster_combat
+  label: Monster Combat and Heroic Overcoming
+  traditions:
+  - hindu
+  source_motif_ids:
+  - monster_swallowed_or_entered_and_defeated_from_within
+  - monstrous_forest_man_eater_confronting_heroes
+  - regenerating_monstrous_body_in_combat
+  fold_target_group_id: divine_warrior
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: origin_of_death
+  label: Origin of Death
+  traditions:
+  - indigenous_australian
+  source_motif_ids:
+  - origin_of_death
+  fold_target_group_id: death_and_transformation
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: past_life_identity
+  label: Past-Life Identity and Karmic Continuity
+  traditions:
+  - buddhist
+  source_motif_ids:
+  - past_life_identification_in_j_taka_frame
+  - past_life_identification_of_adversary_and_protagonist
+  - past_life_identification_of_present_figures
+  - past_life_identity_disclosure_in_a_j_taka_frame
+  - past_life_identity_linkage
+  - past_life_identity_revealed_at_the_j_taka_conclusion
+  - past_life_recurrence_of_a_present_fault
+  - past_life_tale_parallels_present_life_disposition
+  fold_target_group_id: death_and_transformation
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: courtship_contest_bride_choice
+  label: Courtship Contest and Bride Choice
+  traditions:
+  - finnish_karelian
+  source_motif_ids:
+  - peaceful_rival_wooing_with_bride_s_choice
+  fold_target_group_id: sacred_love
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: place_name_etiology
+  label: Place-Name Etiology and Memorial Landscape
+  traditions:
+  - celtic_irish
+  source_motif_ids:
+  - place_name_origin_from_death_or_animal_sign
+  fold_target_group_id: lament_and_mourning
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: predator_deception_fable_reversal
+  label: Predator Deception and Fable Reversal
+  traditions:
+  - greek
+  source_motif_ids:
+  - predator_sets_a_verbal_condition_for_mercy
+  fold_target_group_id: trickster
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: primordial_peace_golden_age
+  label: Primordial Peace and Golden Age
+  traditions:
+  - roman
+  source_motif_ids:
+  - primordial_peace_without_seafaring_fortification_or_weapons
+  fold_target_group_id: cosmic_origin
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: rainmaking_weather_rites
+  label: Rainmaking and Weather Rites
+  traditions:
+  - comparative
+  source_motif_ids:
+  - rain_making_specialist_or_rite
+  fold_target_group_id: sacred_exchange
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: ritual_inversion
+  label: Ritual Inversion and Status Reversal
+  traditions:
+  - comparative
+  source_motif_ids:
+  - ritual_inversion_of_masters_and_servants
+  - ritual_reversal_of_social_hierarchy
+  fold_target_group_id: sacred_law
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: soul_location_body_anthropology
+  label: Soul Location and Body-Soul Anthropology
+  traditions:
+  - comparative
+  source_motif_ids:
+  - sacred_organ_as_seat_of_soul_or_virtue
+  fold_target_group_id: death_and_transformation
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: adversary_tempter
+  label: Adversary and Tempter
+  traditions:
+  - islamic
+  source_motif_ids:
+  - satan_as_declared_foe_and_misleader
+  fold_target_group_id: divine_judgment
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: fatal_message_death_warrant
+  label: Fatal Message and Death Warrant
+  traditions:
+  - greek
+  source_motif_ids:
+  - sealed_message_carrying_the_bearer_s_death_warrant
+  fold_target_group_id: divine_judgment
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: unattainable_reflection_desire
+  label: Unattainable Self-Love and Reflection
+  traditions:
+  - roman
+  source_motif_ids:
+  - self_love_directed_toward_an_unattainable_reflection
+  fold_target_group_id: sacred_love
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: solar_chariot
+  label: Solar Chariot and Celestial Vehicle
+  traditions:
+  - hindu
+  source_motif_ids:
+  - seven_steed_solar_chariot
+  fold_target_group_id: sacred_time
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: monstrous_perception
+  label: Monstrous Perception and Shared Senses
+  traditions:
+  - roman
+  source_motif_ids:
+  - single_eye_shared_among_sisters
+  fold_target_group_id: threshold_guardian
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: solar_deity_cosmic_order
+  label: Solar Deity and Cosmic Order
+  traditions:
+  - hindu
+  source_motif_ids:
+  - solar_deity_as_cosmic_sustainer
+  - solar_deity_s_three_step_course
+  fold_target_group_id: sacred_fire
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: warrior_frenzy
+  label: Warrior Frenzy and Supernatural Battle Fury
+  traditions:
+  - celtic_irish
+  source_motif_ids:
+  - warrior_fury_manifesting_as_supernatural_heat
+  fold_target_group_id: divine_warrior
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: divine_ecstasy
+  label: Divine Ecstasy and Sacred Revelry
+  traditions:
+  - greek_roman
+  source_motif_ids:
+  - wild_revelry_in_a_god_s_retinue
+  fold_target_group_id: divine_intervention
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+- id: bound_wind_weather_container
+  label: Bound Wind and Weather Containers
+  traditions:
+  - comparative
+  source_motif_ids:
+  - wind_enclosed_and_released_from_knots_or_containers
+  fold_target_group_id: sacred_vessel
+  fold_basis: preferred_parent_or_suggested_group
+  recommended_action: fold_into_existing_group
+
