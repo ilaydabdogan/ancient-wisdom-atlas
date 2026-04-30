@@ -9,8 +9,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 - Indexed motif IDs: 9072
 - Indexed motif occurrences: 31658
 - Canonical motif groups: 62
-- Mapped motif IDs counted: 5562
-- Unmapped motif IDs excluded: 3510
+- Mapped motif IDs counted: 5569
+- Unmapped motif IDs excluded: 3503
 
 ## Ranked Canonical Motifs
 
@@ -18,26 +18,26 @@ This report counts only motif IDs that already map to a canonical normalization 
 | ---: | --- | ---: | ---: | ---: | --- |
 | 1 | `death_and_transformation` Death, Rebirth, and Transformation | 22 | 1480 | 125 | islamic (419), comparative (256), sufi (252), roman (124), greek (70) |
 | 2 | `initiation` Initiation and Transformative Ordeal | 22 | 755 | 69 | sufi (146), greek (114), hindu (78), celtic_irish (65), comparative (64) |
-| 3 | `sacred_knowledge` Sacred Knowledge and Wisdom | 21 | 4286 | 153 | sufi (947), greek (947), islamic (616), daoist (372), buddhist (349) |
+| 3 | `sacred_knowledge` Sacred Knowledge and Wisdom | 21 | 4287 | 154 | sufi (947), greek (947), islamic (616), daoist (372), buddhist (349) |
 | 4 | `divine_judgment` Divine Judgment and Moral Reckoning | 21 | 2484 | 287 | islamic (1326), greek (319), sufi (221), roman (221), hindu (122) |
 | 5 | `sacred_exchange` Sacred Exchange and Reciprocity | 20 | 1396 | 135 | greek (242), islamic (183), hindu (174), comparative (140), celtic_irish (110) |
 | 6 | `ascent` Ascent and Heavenly Journey | 20 | 483 | 6 | sufi (96), greek (95), islamic (67), hindu (59), roman (54) |
-| 7 | `hero_journey` The Hero's Journey | 19 | 1731 | 87 | greek (319), hindu (303), celtic_irish (184), sufi (140), islamic (132) |
+| 7 | `hero_journey` The Hero's Journey | 19 | 1732 | 88 | greek (319), hindu (303), celtic_irish (185), sufi (140), islamic (132) |
 | 8 | `sacrifice` Sacrifice and Offering | 19 | 1107 | 96 | comparative (391), hindu (175), greek (132), roman (108), islamic (83) |
 | 9 | `royal_legitimacy` Royal Legitimacy and Sacred Kingship | 19 | 1046 | 110 | hindu (326), greek (140), comparative (97), roman (80), celtic_irish (73) |
-| 10 | `axis_mundi` World Axis and Sacred Center | 19 | 529 | 68 | comparative (83), hindu (75), islamic (70), greek (50), roman (47) |
+| 10 | `axis_mundi` World Axis and Sacred Center | 19 | 531 | 70 | comparative (83), hindu (75), islamic (70), greek (51), roman (47) |
 | 11 | `serpent_guardian` Serpent and Serpent Guardian | 19 | 341 | 1 | roman (80), hindu (49), greek (37), greek_roman (30), norse (28) |
-| 12 | `flood_and_renewal` Flood, Fire, and Cosmic Renewal | 19 | 304 | 21 | islamic (103), roman (53), hindu (30), greek (22), norse (20) |
+| 12 | `flood_and_renewal` Flood, Fire, and Cosmic Renewal | 19 | 305 | 22 | islamic (103), roman (53), hindu (30), greek (22), norse (20) |
 | 13 | `cosmic_origin` Cosmic Origin and Creation | 19 | 299 | 115 | islamic (78), greek (39), hindu (38), roman (29), norse (28) |
 | 14 | `descent` Descent and Underworld Journey | 19 | 197 | 34 | roman (38), greek (30), hindu (19), finnish_karelian (17), greek_roman (13) |
 | 15 | `miraculous_child` Miraculous Child and Sacred Birth | 18 | 1086 | 67 | greek (235), roman (196), hindu (147), islamic (118), greek_roman (95) |
-| 16 | `sacred_love` Sacred Love and Longing | 18 | 865 | 228 | hindu (212), roman (123), greek (115), celtic_irish (103), sufi (51) |
+| 16 | `sacred_love` Sacred Love and Longing | 18 | 867 | 230 | hindu (212), roman (124), greek (115), celtic_irish (103), sufi (51) |
 | 17 | `shapeshifter` Shapeshifter and Transformation | 18 | 844 | 46 | roman (354), greek (85), hindu (81), celtic_irish (81), norse (43) |
 | 18 | `trickster` Trickster and Boundary Crosser | 18 | 486 | 66 | greek (127), buddhist (47), celtic_irish (43), roman (38), islamicate_folklore (34) |
 | 19 | `sacred_law` Sacred Law and Social Order | 18 | 340 | 337 | islamic (122), comparative (80), greek (46), hindu (30), roman (11) |
 | 20 | `sacred_waters` Sacred Waters and Passage Through Water | 18 | 226 | 126 | roman (35), greek (29), islamic (29), hindu (28), celtic_irish (20) |
 | 21 | `sacred_twins` Sacred Twins and Sibling Pairs | 18 | 198 | 11 | hindu (71), greek (32), roman (28), greek_roman (14), islamic (11) |
-| 22 | `mystical_quest` Mystical Quest and Interior Journey | 17 | 1998 | 130 | sufi (1172), celtic_irish (121), greek (118), roman (102), hindu (96) |
+| 22 | `mystical_quest` Mystical Quest and Interior Journey | 17 | 1999 | 131 | sufi (1173), celtic_irish (121), greek (118), roman (102), hindu (96) |
 | 23 | `sacred_time` Sacred Time and Ritual Cycle | 17 | 837 | 73 | comparative (509), sufi (66), norse (53), islamic (46), greek (43) |
 | 24 | `duality` Duality and Cosmic Opposition | 17 | 474 | 27 | greek (170), sufi (104), islamic (72), daoist (56), norse (14) |
 | 25 | `covenant` Covenant and Sacred Bond | 17 | 389 | 63 | islamic (221), greek (33), hindu (31), celtic_irish (26), roman (23) |
@@ -65,8 +65,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 | 47 | `supreme_ruler` Supreme Ruler and Cosmic Sovereignty | 6 | 20 | 20 | islamic (10), hindu (5), sufi (2), finnish_karelian (1), greek (1) |
 | 48 | `recognition_tokens_hidden_identity` Recognition Tokens and Identity Proofs | 6 | 15 | 14 | greek (4), islamicate_folklore (4), hindu (3), celtic_irish (2), celtic_welsh (1) |
 | 49 | `beauty_and_paradox` Beauty Paired with Pain and Paradox | 6 | 12 | 11 | sufi (5), celtic_irish (2), islamic (2), greek (1), greek_roman (1) |
-| 50 | `enchanting_music` Enchanting Music and Sound Power | 5 | 20 | 20 | celtic_irish (8), norse (4), finnish_karelian (3), greek_roman (3), roman (2) |
-| 51 | `conditional_invulnerability_hidden_weakness` Conditional Invulnerability and Hidden Weakness | 5 | 19 | 19 | hindu (9), roman (5), celtic_irish (2), greek_roman (2), comparative (1) |
+| 50 | `conditional_invulnerability_hidden_weakness` Conditional Invulnerability and Hidden Weakness | 5 | 19 | 19 | hindu (9), roman (5), celtic_irish (2), greek_roman (2), comparative (1) |
+| 51 | `enchanting_music` Enchanting Music and Sound Power | 5 | 19 | 19 | celtic_irish (8), norse (4), finnish_karelian (3), greek_roman (2), roman (2) |
 | 52 | `soul_loss_restoration` Soul Loss and Restoration | 5 | 16 | 16 | comparative (12), daoist (1), greek (1), islamic (1), sufi (1) |
 | 53 | `immortality_without_renewal` Immortality Without Renewal | 5 | 12 | 12 | roman (4), greek_roman (3), norse (3), greek (1), persian (1) |
 | 54 | `world_ages_cosmic_decline` World Ages and Cosmic Decline | 5 | 7 | 7 | roman (3), greek (1), greek_roman (1), hindu (1), norse (1) |
@@ -297,8 +297,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_knowledge`
 - Distinct traditions: 21
-- Occurrences: 4286
-- Mapped motif IDs: 153
+- Occurrences: 4287
+- Mapped motif IDs: 154
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -443,6 +443,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `spiritual_incapacity_figured_as_deadness_deafness_and_blindness` | symbolic_variant | 1 | 1 |
 | `supernatural_beings_converted_by_sacred_recitation` | functional_variant | 1 | 1 |
 | `supernatural_conversion_through_sacred_recitation` | functional_variant | 1 | 1 |
+| `supernatural_music_commanding_nature` | functional_variant | 1 | 1 |
 | `testing_inherited_tradition` | functional_variant | 1 | 1 |
 | `tripartite_ordering_of_the_soul_and_lives` | uncertain | 1 | 1 |
 | `tripartite_soul_or_three_inner_principles` | uncertain | 1 | 1 |
@@ -918,8 +919,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `hero_journey`
 - Distinct traditions: 19
-- Occurrences: 1731
-- Mapped motif IDs: 87
+- Occurrences: 1732
+- Mapped motif IDs: 88
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -938,6 +939,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `body_as_bridge_over_an_impassable_river` | functional_variant | 1 | 1 |
 | `burden_of_heavy_heroic_tasks` | functional_variant | 1 | 1 |
 | `captive_or_subdued_hero_urged_to_rise` | functional_variant | 1 | 1 |
+| `captives_in_a_distant_foreign_place` | uncertain | 1 | 1 |
 | `caravan_lost_in_deadly_desert_through_failed_navigation` | ordeal_variant | 1 | 1 |
 | `celestial_reassurance_in_leaving_home` | functional_variant | 1 | 1 |
 | `choice_between_unequal_perils` | functional_variant | 1 | 1 |
@@ -1241,8 +1243,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `axis_mundi`
 - Distinct traditions: 19
-- Occurrences: 529
-- Mapped motif IDs: 68
+- Occurrences: 531
+- Mapped motif IDs: 70
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -1263,6 +1265,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `directional_divine_elephants` | symbolic_variant | 1 | 1 |
 | `divine_foundation_of_a_sacrificial_center` | functional_variant | 1 | 1 |
 | `ensouled_trees_and_vegetation_spirits` | symbolic_variant | 1 | 1 |
+| `giant_leader_perceived_as_a_moving_mountain` | symbolic_variant | 1 | 1 |
 | `guarded_supernatural_tree_and_forbidden_berries` | symbolic_variant | 1 | 1 |
 | `hero_s_withdrawal_to_a_sacred_mountain_residence` | narrower_than | 1 | 1 |
 | `hero_temporarily_bears_the_heavens` | role_variant | 1 | 1 |
@@ -1295,6 +1298,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `sacred_oak_as_divine_tree` | symbolic_variant | 1 | 1 |
 | `sacred_or_animate_tree_and_plant_embodiment` | uncertain | 1 | 1 |
 | `sacred_or_divine_tree_as_personal_emblem` | symbolic_variant | 1 | 1 |
+| `sacred_or_myth_marked_landscape` | uncertain | 1 | 1 |
 | `sacred_orientation_in_prayer` | ritual_variant | 1 | 1 |
 | `sacred_orientation_toward_a_holy_center` | ritual_variant | 1 | 1 |
 | `sacred_tree_as_place_of_recovery` | functional_variant | 1 | 1 |
@@ -1330,8 +1334,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `flood_and_renewal`
 - Distinct traditions: 19
-- Occurrences: 304
-- Mapped motif IDs: 21
+- Occurrences: 305
+- Mapped motif IDs: 22
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -1341,6 +1345,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `survivor_pair` | child | 9 | 23 |
 | `apocalyptic_warning_horn` | functional_variant | 1 | 1 |
 | `burning_city_destruction` | narrower_than | 1 | 1 |
+| `cave_refuge_during_flight_and_danger` | functional_variant | 1 | 1 |
 | `cosmic_dissolution_of_mountains` | functional_variant | 1 | 1 |
 | `delivered_righteous_remnant` | functional_variant | 1 | 1 |
 | `destruction_followed_by_replacement_generations` | functional_variant | 1 | 1 |
@@ -1607,8 +1612,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `sacred_love`
 - Distinct traditions: 18
-- Occurrences: 865
-- Mapped motif IDs: 228
+- Occurrences: 867
+- Mapped motif IDs: 230
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -1659,6 +1664,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `danger_of_union_with_a_deathless_goddess` | symbolic_variant | 1 | 1 |
 | `dead_beloved_s_grave_affected_by_the_living_beloved_s_emotions` | symbolic_variant | 1 | 1 |
 | `deadly_marriage_race` | functional_variant | 1 | 1 |
+| `death_of_obstructing_father_after_daughter_s_transfer` | functional_variant | 1 | 1 |
 | `death_with_the_beloved` | functional_variant | 1 | 1 |
 | `deceptive_doubles_of_the_beloved` | functional_variant | 1 | 1 |
 | `deceptive_love_charm_becomes_fatal_poison` | functional_variant | 1 | 1 |
@@ -1772,6 +1778,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `marriage_as_bondage_under_affinal_household` | narrower_than | 1 | 1 |
 | `marriage_as_entry_into_a_stranger_household` | narrower_than | 1 | 1 |
 | `marriage_figured_as_entrapment` | narrower_than | 1 | 1 |
+| `marriage_rite_crisis_at_the_threshold_of_the_ceremony` | uncertain | 1 | 1 |
 | `married_woman_s_desire_for_an_outside_hero_triggers_conflict` | functional_variant | 1 | 1 |
 | `messenger_bird_or_wind_to_the_distant_beloved` | functional_variant | 1 | 1 |
 | `messenger_from_absent_beloved_reassures_captive` | functional_variant | 1 | 1 |
@@ -2481,8 +2488,8 @@ This report counts only motif IDs that already map to a canonical normalization 
 
 - Canonical motif ID: `mystical_quest`
 - Distinct traditions: 17
-- Occurrences: 1998
-- Mapped motif IDs: 130
+- Occurrences: 1999
+- Mapped motif IDs: 131
 
 | Mapped Motif ID | Relationship | Traditions | Occurrences |
 | --- | --- | ---: | ---: |
@@ -2519,6 +2526,7 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `creation_as_divine_self_reflection_or_manifestation` | uncertain | 1 | 1 |
 | `critique_of_vicarious_holiness` | functional_variant | 1 | 1 |
 | `death_as_drinking_and_silent_rest` | symbolic_variant | 1 | 1 |
+| `death_as_passing_into_the_hand_of_wind` | symbolic_variant | 1 | 1 |
 | `desire_to_remake_the_world` | functional_variant | 1 | 1 |
 | `destructive_passion_as_downward_path` | symbolic_variant | 1 | 1 |
 | `disciples_as_helpless_children_or_flock_without_guide` | role_variant | 1 | 1 |
@@ -6028,36 +6036,6 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `withered_rose_as_image_of_lost_beauty` | symbolic_variant | 1 | 1 |
 | `wounds_figured_as_flowers` | symbolic_variant | 1 | 1 |
 
-## Enchanting Music and Sound Power
-
-- Canonical motif ID: `enchanting_music`
-- Distinct traditions: 5
-- Occurrences: 20
-- Mapped motif IDs: 20
-
-| Mapped Motif ID | Relationship | Traditions | Occurrences |
-| --- | --- | ---: | ---: |
-| `enchanted_music_compels_procession` | child_motif | 1 | 1 |
-| `enchanted_music_summons_animals_birds_forest_beings_and_sky_daughters` | child_motif | 1 | 1 |
-| `enchanted_music_that_causes_sleep` | child_motif | 1 | 1 |
-| `enchanting_music_that_attracts_living_beings` | child_motif | 1 | 1 |
-| `enchanting_supernatural_music` | child_motif | 1 | 1 |
-| `irresistible_fairy_music_causing_compulsory_dance_or_fatal_performance` | child_motif | 1 | 1 |
-| `lethal_supernatural_music` | child_motif | 1 | 1 |
-| `magical_music_causing_universal_emotion_or_sleep` | child_motif | 1 | 1 |
-| `magical_music_controlling_emotion_and_sleep` | child_motif | 1 | 1 |
-| `magical_music_subdues_opponents` | child_motif | 1 | 1 |
-| `music_compelling_or_softening_supernatural_powers` | child_motif | 1 | 1 |
-| `music_that_charms_nature` | child_motif | 1 | 1 |
-| `music_that_charms_nature_and_restrains_violence` | child_motif | 1 | 1 |
-| `music_that_compels_emotion_and_sleep` | child_motif | 1 | 1 |
-| `music_that_induces_sleep_or_weakens_vigilance` | child_motif | 1 | 1 |
-| `perilous_enchanting_music` | child_motif | 1 | 1 |
-| `powerful_music_causing_beings_to_fall_or_perish` | child_motif | 1 | 1 |
-| `sacred_music_draws_celestial_bodies_downward` | child_motif | 1 | 1 |
-| `siren_song_draws_river_travelers_to_death` | child_motif | 1 | 1 |
-| `supernatural_music_commanding_nature` | child_motif | 1 | 1 |
-
 ## Conditional Invulnerability and Hidden Weakness
 
 - Canonical motif ID: `conditional_invulnerability_hidden_weakness`
@@ -6086,6 +6064,35 @@ This report counts only motif IDs that already map to a canonical normalization 
 | `monster_reveals_or_discloses_its_own_vulnerability` | child | 1 | 1 |
 | `monster_self_destruction_after_fulfilled_solution_condition` | functional_variant | 1 | 1 |
 | `monster_slaying_through_indirect_sight` | child | 1 | 1 |
+
+## Enchanting Music and Sound Power
+
+- Canonical motif ID: `enchanting_music`
+- Distinct traditions: 5
+- Occurrences: 19
+- Mapped motif IDs: 19
+
+| Mapped Motif ID | Relationship | Traditions | Occurrences |
+| --- | --- | ---: | ---: |
+| `enchanted_music_compels_procession` | child_motif | 1 | 1 |
+| `enchanted_music_summons_animals_birds_forest_beings_and_sky_daughters` | child_motif | 1 | 1 |
+| `enchanted_music_that_causes_sleep` | child_motif | 1 | 1 |
+| `enchanting_music_that_attracts_living_beings` | child_motif | 1 | 1 |
+| `enchanting_supernatural_music` | child_motif | 1 | 1 |
+| `irresistible_fairy_music_causing_compulsory_dance_or_fatal_performance` | child_motif | 1 | 1 |
+| `lethal_supernatural_music` | child_motif | 1 | 1 |
+| `magical_music_causing_universal_emotion_or_sleep` | child_motif | 1 | 1 |
+| `magical_music_controlling_emotion_and_sleep` | child_motif | 1 | 1 |
+| `magical_music_subdues_opponents` | child_motif | 1 | 1 |
+| `music_compelling_or_softening_supernatural_powers` | child_motif | 1 | 1 |
+| `music_that_charms_nature` | child_motif | 1 | 1 |
+| `music_that_charms_nature_and_restrains_violence` | child_motif | 1 | 1 |
+| `music_that_compels_emotion_and_sleep` | child_motif | 1 | 1 |
+| `music_that_induces_sleep_or_weakens_vigilance` | child_motif | 1 | 1 |
+| `perilous_enchanting_music` | child_motif | 1 | 1 |
+| `powerful_music_causing_beings_to_fall_or_perish` | child_motif | 1 | 1 |
+| `sacred_music_draws_celestial_bodies_downward` | child_motif | 1 | 1 |
+| `siren_song_draws_river_travelers_to_death` | child_motif | 1 | 1 |
 
 ## Soul Loss and Restoration
 

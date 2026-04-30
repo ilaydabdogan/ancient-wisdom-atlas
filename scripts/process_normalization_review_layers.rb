@@ -14,6 +14,7 @@ REVIEW_PATH = File.join(ROOT, "data", "reviews", "normalization-suggestions", RU
 TAXONOMY_PATH = File.join(ROOT, "taxonomy", "motif-normalization.yml")
 MOTIF_INDEX_PATH = File.join(ROOT, "data", "indexes", "motif-occurrences.yml")
 STATE_PATH = File.join(ROOT, "data", "reviews", "normalization-suggestions", RUN_ID, "layer-processing.yml")
+LAYER3_REVIEW_PATH = File.join(ROOT, "data", "reviews", "normalization-suggestions", RUN_ID, "new-group-candidates-condensed.yml")
 
 STOPWORDS = %w[
   a an and are as at be by for from in into is its of on or the their through to under with without
@@ -85,6 +86,38 @@ end
 
 def group_indexes(groups)
   groups.transform_values { |group| group_keyword_index(group) }
+end
+
+def suggested_group_redirects(groups)
+  redirects = {
+    "annihilation_union" => "mystical_quest",
+    "ark_vessel" => "flood_and_renewal",
+    "cosmic_mountain" => "axis_mundi",
+    "journey_quest_homecoming" => "hero_journey",
+    "sacred_marriage" => "sacred_love",
+    "world_center" => "axis_mundi"
+  }
+
+  if File.file?(LAYER3_REVIEW_PATH)
+    review = load_yaml(LAYER3_REVIEW_PATH)
+    Array(review["genuine_new_group_candidates"]).each do |candidate|
+      candidate_id = candidate["id"].to_s
+      case candidate["recommended_action"].to_s
+      when "accepted_into_main_taxonomy"
+        redirects[candidate_id] = candidate["accepted_group_id"].to_s unless candidate["accepted_group_id"].to_s.empty?
+      when "fold_into_existing_group"
+        redirects[candidate_id] = candidate["fold_target_group_id"].to_s unless candidate["fold_target_group_id"].to_s.empty?
+      end
+    end
+
+    Array(review["folded_single_tradition_candidates"]).each do |candidate|
+      candidate_id = candidate["id"].to_s
+      target = candidate["fold_target_group_id"].to_s
+      redirects[candidate_id] = target unless candidate_id.empty? || target.empty?
+    end
+  end
+
+  redirects.select { |_source, target| groups.key?(target.to_s) }
 end
 
 def existing_group_for_motif(motif_id, normalization, groups)
@@ -244,7 +277,7 @@ def write_layer2_report(summary, accepted, held)
   lines << ""
   lines << "Generated on #{TODAY}."
   lines << ""
-  lines << "Rule: accept low-confidence rows when the suggested group exists in the main taxonomy. Accepted rows are marked provisional so they can be revised later without blocking coverage."
+  lines << "Rule: accept low-confidence rows when the suggested group exists in the main taxonomy, or when the suggested group has a documented redirect into an accepted/folded taxonomy family. Accepted rows are marked provisional so they can be revised later without blocking coverage."
   lines << ""
   lines << "## Summary"
   lines << ""
@@ -437,14 +470,16 @@ when "layer1"
 when "layer2"
   accepted = []
   held = []
+  redirects = suggested_group_redirects(groups)
   rows.select { |row| row["reason"].to_s == "low confidence" }.each do |row|
     motif_id = row.fetch("motif_id").to_s
-    group_id = row["suggested_group_id"].to_s
+    suggested_group_id = row["suggested_group_id"].to_s
+    group_id = groups.key?(suggested_group_id) ? suggested_group_id : redirects[suggested_group_id]
     unless groups.key?(group_id)
       held << row.merge("held_reason" => "no existing suggested group")
       next
     end
-    match_rule = "existing_suggested_group"
+    match_rule = suggested_group_id == group_id ? "existing_suggested_group" : "redirected_suggested_group:#{suggested_group_id}"
     raw_mapping(
       normalization,
       row,

@@ -2,14 +2,14 @@
 
 Generated on 2026-04-29.
 
-Rule: accept low-confidence rows when the suggested group exists in the main taxonomy. Accepted rows are marked provisional so they can be revised later without blocking coverage.
+Rule: accept low-confidence rows when the suggested group exists in the main taxonomy, or when the suggested group has a documented redirect into an accepted/folded taxonomy family. Accepted rows are marked provisional so they can be revised later without blocking coverage.
 
 ## Summary
 
 - low confidence reviewed: 1667
-- provisionally mapped: 738
-- held unmapped: 929
-- mapping counts after layer: {"motif_count"=>9072, "mapped"=>5882, "unmapped"=>3190}
+- provisionally mapped: 745
+- held unmapped: 922
+- mapping counts after layer: {"motif_count"=>9072, "mapped"=>5911, "unmapped"=>3161}
 
 ## Provisionally Accepted Low-Confidence Items
 
@@ -86,10 +86,12 @@ Rule: accept low-confidence rows when the suggested group exists in the main tax
 | `captive_herd_enclosed_for_royal_hunting` | captive herd enclosed for royal hunting | `royal_legitimacy` | existing_suggested_group | 1 | buddhist |
 | `captive_royal_woman_preserves_dignity_before_death` | Captive royal woman preserves dignity before death | `royal_legitimacy` | existing_suggested_group | 1 | roman |
 | `captive_treated_with_guarded_luxury` | captive treated with guarded luxury | `sacred_love` | existing_suggested_group | 1 | hindu |
+| `captives_in_a_distant_foreign_place` | captives in a distant foreign place | `hero_journey` | redirected_suggested_group:journey_quest_homecoming | 1 | celtic_irish |
 | `captivity_and_refuge_as_image_of_status_change` | Captivity and refuge as image of status change | `initiation` | existing_suggested_group | 1 | greek |
 | `captivity_contrasted_with_freedom_in_trees_and_forest` | Captivity contrasted with freedom in trees and forest | `mystical_quest` | existing_suggested_group | 1 | sufi |
 | `capture_caused_by_revealing_voice` | capture caused by revealing voice | `sacred_knowledge` | existing_suggested_group | 1 | greek |
 | `cattle_as_wealth_and_social_measure` | cattle as wealth and social measure | `sacred_combat` | existing_suggested_group | 1 | celtic_irish |
+| `cave_refuge_during_flight_and_danger` | cave refuge during flight and danger | `flood_and_renewal` | redirected_suggested_group:ark_vessel | 1 | celtic_irish |
 | `caves_consecrated_to_a_pastoral_god` | caves consecrated to a pastoral god | `axis_mundi` | existing_suggested_group | 1 | greek_roman |
 | `celestial_musician` | celestial musician | `sacred_knowledge` | existing_suggested_group | 1 | sufi |
 | `central_temple_cult_image_surrounded_by_other_divine_images` | Central temple cult image surrounded by other divine images | `axis_mundi` | existing_suggested_group | 1 | greek_roman |
@@ -154,6 +156,7 @@ Rule: accept low-confidence rows when the suggested group exists in the main tax
 | `deadly_spiked_battle_vehicle` | deadly spiked battle vehicle | `sacred_combat` | existing_suggested_group | 1 | celtic_irish |
 | `death_as_drinking_and_silent_rest` | Death as drinking and silent rest | `mystical_quest` | existing_suggested_group | 1 | sufi |
 | `death_as_final_sleep_watched_by_nature` | death as final sleep watched by nature | `lament_and_mourning` | existing_suggested_group | 1 | sufi |
+| `death_as_passing_into_the_hand_of_wind` | Death as passing into the hand of Wind | `mystical_quest` | redirected_suggested_group:annihilation_union | 1 | sufi |
 | `death_by_one_s_own_hunting_dogs` | death by one's own hunting dogs | `divine_judgment` | existing_suggested_group | 1 | roman |
 | `death_by_pyre_as_omen_to_departing_enemy` | death by pyre as omen to departing enemy | `dream_and_vision` | existing_suggested_group | 1 | roman |
 | `death_dealing_eye` | death-dealing eye | `divine_warrior` | existing_suggested_group | 1 | celtic_irish |
@@ -161,6 +164,7 @@ Rule: accept low-confidence rows when the suggested group exists in the main tax
 | `death_messenger_with_life_tree_fruit` | Death messenger with life-tree fruit | `death_and_transformation` | existing_suggested_group | 1 | sufi |
 | `death_of_a_king_in_a_sacked_guest_house` | death of a king in a sacked guest-house | `royal_legitimacy` | existing_suggested_group | 1 | celtic_irish |
 | `death_of_fostered_princely_companions_after_a_summons_and_journey` | death of fostered princely companions after a summons and journey | `hero_journey` | existing_suggested_group | 1 | celtic_irish |
+| `death_of_obstructing_father_after_daughter_s_transfer` | death of obstructing father after daughter's transfer | `sacred_love` | redirected_suggested_group:sacred_marriage | 1 | celtic_welsh |
 | `death_of_the_father_at_the_journey_s_goal` | death of the father at the journey's goal | `hero_journey` | existing_suggested_group | 1 | roman |
 | `death_through_envy_after_surpassing_warriors` | Death through envy after surpassing warriors | `pride_and_downfall` | existing_suggested_group | 1 | celtic_irish |
 | `deceptive_entertainment_diverting_from_sacred_teaching` | deceptive entertainment diverting from sacred teaching | `sacred_knowledge` | existing_suggested_group | 1 | islamic |
@@ -272,6 +276,7 @@ Rule: accept low-confidence rows when the suggested group exists in the main tax
 | `future_reward_surpassing_present_life` | future reward surpassing present life | `afterlife_passage` | existing_suggested_group | 1 | islamic |
 | `game_continued_while_battle_rages` | game continued while battle rages | `sacred_combat` | existing_suggested_group | 1 | celtic_welsh |
 | `giant_hunger_and_cannibal_war_threat` | giant hunger and cannibal war threat | `divine_warrior` | existing_suggested_group | 1 | hindu |
+| `giant_leader_perceived_as_a_moving_mountain` | Giant leader perceived as a moving mountain | `axis_mundi` | redirected_suggested_group:cosmic_mountain | 1 | celtic_welsh |
 | `giant_like_fall_into_watery_depths` | giant-like fall into watery depths | `sacred_waters` | existing_suggested_group | 1 | roman |
 | `goddess_engulfed_in_a_chasm` | goddess engulfed in a chasm | `descent` | existing_suggested_group | 1 | comparative |
 | `gold_adorned_warrior_killed_and_despoiled` | gold-adorned warrior killed and despoiled | `divine_warrior` | existing_suggested_group | 1 | greek |
@@ -377,6 +382,7 @@ Rule: accept low-confidence rows when the suggested group exists in the main tax
 | `many_colored_heroic_form` | many-colored heroic form | `shapeshifter` | existing_suggested_group | 1 | celtic_irish |
 | `marriage_like_settlement_through_dowry_after_raid` | Marriage-like settlement through dowry after raid | `sacred_combat` | existing_suggested_group | 1 | celtic_irish |
 | `marriage_refusing_royal_child_punished_or_pressured_by_parent` | marriage-refusing royal child punished or pressured by parent | `royal_legitimacy` | existing_suggested_group | 1 | islamicate_folklore |
+| `marriage_rite_crisis_at_the_threshold_of_the_ceremony` | marriage rite crisis at the threshold of the ceremony | `sacred_love` | redirected_suggested_group:sacred_marriage | 1 | roman |
 | `martial_defense_of_bride_and_sacred_object` | martial defense of bride and sacred object | `sacred_combat` | existing_suggested_group | 1 | hindu |
 | `marvelous_voice_producing_abundance_and_delight` | marvelous voice producing abundance and delight | `storytelling_as_power` | existing_suggested_group | 1 | celtic_irish |
 | `mass_death_overwhelms_funerary_order` | mass death overwhelms funerary order | `heroic_funeral_rites` | existing_suggested_group | 1 | roman |
@@ -579,6 +585,7 @@ Rule: accept low-confidence rows when the suggested group exists in the main tax
 | `sacred_or_calendrical_number_of_cult_images` | sacred or calendrical number of cult images | `sacred_time` | existing_suggested_group | 1 | islamic |
 | `sacred_or_cosmic_number_governing_generation` | sacred or cosmic number governing generation | `cosmic_origin` | existing_suggested_group | 1 | greek |
 | `sacred_or_epic_itinerary_through_named_landscape` | sacred or epic itinerary through named landscape | `hero_journey` | existing_suggested_group | 1 | celtic_irish |
+| `sacred_or_myth_marked_landscape` | sacred or myth-marked landscape | `axis_mundi` | redirected_suggested_group:world_center | 1 | greek |
 | `sacred_space_violence_and_dying_curse` | sacred-space violence and dying curse | `divine_judgment` | existing_suggested_group | 1 | roman |
 | `sacred_tree_associated_with_graves_of_the_dead` | sacred tree associated with graves of the dead | `ancestor_rites` | existing_suggested_group | 1 | indigenous_australian |
 | `sacred_tree_or_root_obstructing_a_weapon` | sacred tree or root obstructing a weapon | `axis_mundi` | existing_suggested_group | 1 | roman |
@@ -838,12 +845,10 @@ Rule: accept low-confidence rows when the suggested group exists in the main tax
 | `cancellation_of_a_soul_to_avert_accumulated_anguish` | cancellation of a soul to avert accumulated anguish |  | 1 | sufi | no existing suggested group |
 | `cannibal_monster_terrorizes_a_city` | cannibal monster terrorizes a city |  | 1 | japanese | no existing suggested group |
 | `captive_maiden_taken_from_sanctuary_and_failed_rescue` | Captive maiden taken from sanctuary and failed rescue |  | 1 | roman | no existing suggested group |
-| `captives_in_a_distant_foreign_place` | captives in a distant foreign place | `journey_quest_homecoming` | 1 | celtic_irish | no existing suggested group |
 | `captor_from_across_the_waves` | Captor from across the waves |  | 1 | celtic_irish | no existing suggested group |
 | `caretaker_harmed_by_those_he_cares_for` | caretaker harmed by those he cares for |  | 1 | greek | no existing suggested group |
 | `carrier_mistaken_for_sacred_recipient` | Carrier mistaken for sacred recipient |  | 1 | greek | no existing suggested group |
 | `carrion_bird_denies_revival_and_redirects_corpse_to_waters` | Carrion bird denies revival and redirects corpse to waters |  | 1 | finnish_karelian | no existing suggested group |
-| `cave_refuge_during_flight_and_danger` | cave refuge during flight and danger | `ark_vessel` | 1 | celtic_irish | no existing suggested group |
 | `celestial_maiden_weaving_on_the_rainbow` | celestial maiden weaving on the rainbow |  | 1 | finnish_karelian | no existing suggested group |
 | `celestial_maidens_as_spinners_and_weavers` | celestial maidens as spinners and weavers |  | 1 | finnish_karelian | no existing suggested group |
 | `celestial_or_atmospheric_female_beings` | celestial or atmospheric female beings |  | 1 | hindu | no existing suggested group |
@@ -924,11 +929,9 @@ Rule: accept low-confidence rows when the suggested group exists in the main tax
 | `dangerous_sleeper_with_involuntary_heroic_violence` | dangerous sleeper with involuntary heroic violence |  | 1 | celtic_irish | no existing suggested group |
 | `dangerous_suitor_disarmed_by_marriage_condition` | dangerous suitor disarmed by marriage condition |  | 1 | greek | no existing suggested group |
 | `dangerous_water_route_rejected_or_debated` | dangerous water route rejected or debated |  | 1 | finnish_karelian | no existing suggested group |
-| `death_as_passing_into_the_hand_of_wind` | Death as passing into the hand of Wind | `annihilation_union` | 1 | sufi | no existing suggested group |
 | `death_creates_a_place_name_and_tale_name` | death creates a place-name and tale-name |  | 1 | celtic_irish | no existing suggested group |
 | `death_event_explains_a_place_name` | death event explains a place-name |  | 1 | celtic_irish | no existing suggested group |
 | `death_god_as_wild_hunt_rider_or_leader` | death god as Wild Hunt rider or leader |  | 1 | norse | no existing suggested group |
-| `death_of_obstructing_father_after_daughter_s_transfer` | death of obstructing father after daughter's transfer | `sacred_marriage` | 1 | celtic_welsh | no existing suggested group |
 | `death_of_the_king_discovered_at_dawn` | death of the king discovered at dawn |  | 1 | hindu | no existing suggested group |
 | `death_silences_the_senses` | Death silences the senses |  | 1 | sufi | no existing suggested group |
 | `death_through_jealousy_after_westward_journey` | Death through jealousy after westward journey |  | 1 | celtic_irish | no existing suggested group |
@@ -1131,7 +1134,6 @@ Rule: accept low-confidence rows when the suggested group exists in the main tax
 | `funeral_tug_of_war_over_a_sacred_or_ritual_body` | funeral tug-of-war over a sacred or ritual body |  | 1 | comparative | no existing suggested group |
 | `genealogical_descent_of_hero` | genealogical descent of hero |  | 1 | celtic_irish | no existing suggested group |
 | `generous_warrior_patron_rewards_poets_and_learned_people` | Generous warrior patron rewards poets and learned people |  | 1 | celtic_irish | no existing suggested group |
-| `giant_leader_perceived_as_a_moving_mountain` | Giant leader perceived as a moving mountain | `cosmic_mountain` | 1 | celtic_welsh | no existing suggested group |
 | `giant_or_monster_demands_a_daughter_as_ransom_for_captive_sons` | Giant or monster demands a daughter as ransom for captive sons |  | 1 | celtic_welsh | no existing suggested group |
 | `giant_suitor_rejected_by_beautiful_maiden` | Giant suitor rejected by beautiful maiden |  | 1 | norse | no existing suggested group |
 | `giants_hostile_to_christian_sound` | Giants hostile to Christian sound |  | 1 | norse | no existing suggested group |
@@ -1278,7 +1280,6 @@ Rule: accept low-confidence rows when the suggested group exists in the main tax
 | `marriage_obtained_through_frightening_display_of_power` | marriage obtained through frightening display of power |  | 1 | indigenous_australian | no existing suggested group |
 | `marriage_proposal_by_envoys` | Marriage proposal by envoys |  | 1 | celtic_irish | no existing suggested group |
 | `marriage_restrained_by_inherited_danger` | Marriage restrained by inherited danger |  | 1 | greek | no existing suggested group |
-| `marriage_rite_crisis_at_the_threshold_of_the_ceremony` | marriage rite crisis at the threshold of the ceremony | `sacred_marriage` | 1 | roman | no existing suggested group |
 | `marvelous_hounds_and_numbered_hunt` | Marvelous hounds and numbered hunt |  | 1 | celtic_irish | no existing suggested group |
 | `marvelous_or_fiery_bodily_attribute` | marvelous or fiery bodily attribute |  | 1 | celtic_irish | no existing suggested group |
 | `mediating_envoy_between_cultural_worlds` | Mediating envoy between cultural worlds |  | 1 | sufi | no existing suggested group |
@@ -1515,7 +1516,6 @@ Rule: accept low-confidence rows when the suggested group exists in the main tax
 | `sacred_natural_object` | sacred natural object |  | 1 | daoist | no existing suggested group |
 | `sacred_natural_resting_place_with_tree_water_and_local_divine_presence` | Sacred natural resting-place with tree, water, and local divine presence |  | 1 | greek | no existing suggested group |
 | `sacred_natural_waters_and_trees` | sacred natural waters and trees |  | 1 | finnish_karelian | no existing suggested group |
-| `sacred_or_myth_marked_landscape` | sacred or myth-marked landscape | `world_center` | 1 | greek | no existing suggested group |
 | `sacred_sound_making_instrument_used_in_religious_rites` | sacred sound-making instrument used in religious rites |  | 1 | comparative | no existing suggested group |
 | `sacred_tradition_survives_attempted_destruction` | sacred tradition survives attempted destruction |  | 1 | islamic | no existing suggested group |
 | `sacred_triad_of_refuge` | sacred triad of refuge |  | 1 | buddhist | no existing suggested group |

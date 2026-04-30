@@ -7,23 +7,23 @@ This report lists motif IDs that are present in the motif occurrence index but n
 ## Summary
 
 - Indexed motif IDs: 9072
-- Already mapped: 5905
-- Unmapped: 3167
+- Already mapped: 5912
+- Unmapped: 3160
 
 | Review Bucket | Unmapped Motifs |
 | --- | ---: |
-| Death, Descent, Afterlife, And Ancestors | 93 |
+| Death, Descent, Afterlife, And Ancestors | 91 |
 | Journey, Quest, Exile, And Homecoming | 437 |
-| Divine Presence, Ritual, Sacrifice, And Purity | 164 |
+| Divine Presence, Ritual, Sacrifice, And Purity | 162 |
 | Wisdom, Speech, Dream, Vision, And Revelation | 396 |
 | Power, Kingship, Law, Judgment, And Social Order | 471 |
 | Love, Family, Gender, Birth, And The Body | 158 |
 | Animals, Trickster, Disguise, And Transformation | 430 |
-| Nature, Elements, Celestial Order, And Cosmos | 101 |
+| Nature, Elements, Celestial Order, And Cosmos | 99 |
 | Conflict, Violence, Heroic Ordeal, And Victory | 125 |
 | Objects, Places, Boundaries, And Thresholds | 249 |
 | Ethics, Psychology, Discipline, And Inner Life | 173 |
-| Needs Human Sorting | 370 |
+| Needs Human Sorting | 369 |
 
 ## Death, Descent, Afterlife, And Ancestors
 
@@ -50,11 +50,9 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `corpse_devouring_animal_below_a_murder_precipice` | corpse-devouring animal below a murder precipice | 1 | roman |
 | `corpse_passed_among_successive_households` | corpse passed among successive households | 1 | islamicate_folklore |
 | `death_as_a_leveling_condition` | death as a leveling condition | 1 | sufi |
-| `death_as_passing_into_the_hand_of_wind` | Death as passing into the hand of Wind | 1 | sufi |
 | `death_creates_a_place_name_and_tale_name` | death creates a place-name and tale-name | 1 | celtic_irish |
 | `death_event_explains_a_place_name` | death event explains a place-name | 1 | celtic_irish |
 | `death_god_as_wild_hunt_rider_or_leader` | death god as Wild Hunt rider or leader | 1 | norse |
-| `death_of_obstructing_father_after_daughter_s_transfer` | death of obstructing father after daughter's transfer | 1 | celtic_welsh |
 | `death_of_the_king_discovered_at_dawn` | death of the king discovered at dawn | 1 | hindu |
 | `death_silences_the_senses` | Death silences the senses | 1 | sufi |
 | `death_through_jealousy_after_westward_journey` | Death through jealousy after westward journey | 1 | celtic_irish |
@@ -663,7 +661,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `maiden_compared_to_goddess_among_attendants` | maiden compared to goddess among attendants | 1 | greek |
 | `man_god_attuned_to_nature` | man-god attuned to nature | 1 | comparative |
 | `marriage_restrained_by_inherited_danger` | Marriage restrained by inherited danger | 1 | greek |
-| `marriage_rite_crisis_at_the_threshold_of_the_ceremony` | marriage rite crisis at the threshold of the ceremony | 1 | roman |
 | `mixed_parentage_marked_by_inherited_trait` | mixed parentage marked by inherited trait | 1 | buddhist |
 | `monumental_cult_image_of_the_solar_god` | monumental cult image of the solar god | 1 | greek_roman |
 | `mysterious_ritual_punishment_followed_by_compassion` | mysterious ritual punishment followed by compassion | 1 | islamicate_folklore |
@@ -708,7 +705,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `sacred_natural_object` | sacred natural object | 1 | daoist |
 | `sacred_natural_resting_place_with_tree_water_and_local_divine_presence` | Sacred natural resting-place with tree, water, and local divine presence | 1 | greek |
 | `sacred_natural_waters_and_trees` | sacred natural waters and trees | 1 | finnish_karelian |
-| `sacred_or_myth_marked_landscape` | sacred or myth-marked landscape | 1 | greek |
 | `sacred_place_explained_by_divine_event_and_naming` | sacred place explained by divine event and naming | 1 | hindu |
 | `sacred_sound_making_instrument_used_in_religious_rites` | sacred sound-making instrument used in religious rites | 1 | comparative |
 | `sacred_space_obstructed_and_restored_to_divine_remembrance` | Sacred space obstructed and restored to divine remembrance | 1 | islamic |
@@ -2215,7 +2211,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | --- | --- | ---: | --- |
 | `attachment_to_homeland_over_otherworldly_reward` | attachment to homeland over otherworldly reward | 1 | celtic_irish |
 | `blood_forming_a_river` | Blood forming a river | 1 | norse |
-| `cave_refuge_during_flight_and_danger` | cave refuge during flight and danger | 1 | celtic_irish |
 | `cold_invoked_to_heal_fire_wounds` | Cold invoked to heal fire wounds | 1 | finnish_karelian |
 | `collective_liberation_from_constraining_necessity` | Collective liberation from constraining necessity | 1 | greek |
 | `conflict_over_access_to_water` | conflict over access to water | 1 | greek |
@@ -2245,7 +2240,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `flourishing_work_as_tree` | flourishing work as tree | 1 | greek |
 | `fortified_island_under_threat_from_across_the_sea` | fortified island under threat from across the sea | 1 | hindu |
 | `fortune_revealed_as_bodily_loss_and_constrained_service` | Fortune revealed as bodily loss and constrained service | 1 | daoist |
-| `giant_leader_perceived_as_a_moving_mountain` | Giant leader perceived as a moving mountain | 1 | celtic_welsh |
 | `hermitage_recognized_by_fire_and_smoke` | hermitage recognized by fire and smoke | 1 | hindu |
 | `heroic_geography_of_fords_rivers_and_mountains` | heroic geography of fords, rivers, and mountains | 1 | celtic_irish |
 | `hidden_refuge_sealed_by_a_stone` | hidden refuge sealed by a stone | 1 | indigenous_australian |
@@ -2907,7 +2901,6 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `boastful_recounting_of_past_victories_to_silence_challengers` | boastful recounting of past victories to silence challengers | 1 | celtic_irish |
 | `boasting_when_detection_is_impossible` | Boasting when detection is impossible | 1 | greek |
 | `captive_spouse_acquired_by_force` | Captive spouse acquired by force | 1 | greek |
-| `captives_in_a_distant_foreign_place` | captives in a distant foreign place | 1 | celtic_irish |
 | `captor_from_across_the_waves` | Captor from across the waves | 1 | celtic_irish |
 | `caretaker_harmed_by_those_he_cares_for` | caretaker harmed by those he cares for | 1 | greek |
 | `celestial_or_atmospheric_female_beings` | celestial or atmospheric female beings | 1 | hindu |
