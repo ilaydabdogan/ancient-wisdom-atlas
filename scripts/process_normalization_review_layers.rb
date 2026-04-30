@@ -244,7 +244,7 @@ def write_layer2_report(summary, accepted, held)
   lines << ""
   lines << "Generated on #{TODAY}."
   lines << ""
-  lines << "Rule: accept low-confidence existing-group suggestions only when the group name appears in the motif ID or the motif ID shares at least two keywords with the suggested group's existing children. Accepted rows are marked provisional."
+  lines << "Rule: accept low-confidence rows when the suggested group exists in the main taxonomy. Accepted rows are marked provisional so they can be revised later without blocking coverage."
   lines << ""
   lines << "## Summary"
   lines << ""
@@ -444,28 +444,17 @@ when "layer2"
       held << row.merge("held_reason" => "no existing suggested group")
       next
     end
-    group = groups.fetch(group_id)
-    match_rule =
-      if group_name_substring?(motif_id, group)
-        "group_name_substring"
-      elsif child_keyword_overlap?(motif_id, group, keyword_indexes)
-        "two_child_keyword_overlap"
-      end
-
-    if match_rule
-      raw_mapping(
-        normalization,
-        row,
-        group_id,
-        "provisional_low_confidence_keyword_match",
-        "mapped_provisionally",
-        provisional: true,
-        extra: { "match_rule" => match_rule }
-      )
-      accepted << row.merge("accepted_group_id" => group_id, "match_rule" => match_rule)
-    else
-      held << row.merge("held_reason" => "no substring or two-keyword child overlap")
-    end
+    match_rule = "existing_suggested_group"
+    raw_mapping(
+      normalization,
+      row,
+      group_id,
+      "provisional_low_confidence_existing_group",
+      "mapped_provisionally",
+      provisional: true,
+      extra: { "match_rule" => match_rule }
+    )
+    accepted << row.merge("accepted_group_id" => group_id, "match_rule" => match_rule)
   end
 
   summary = {
